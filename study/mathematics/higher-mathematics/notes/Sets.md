@@ -4,6 +4,11 @@
 A set is a collection of **elements**(or **points**) that are definite and separate objects.
 ### Set.property
 #### Set.property.bound
+Assume $S$ to be a set of real numbers.
+
+$\bold{Upper bound}$ : A real number $b$ such that $x \leq b$ for all $x \in S$ is called an \bold{upper bound} of $S$.
+
+$\bold{Lower bound}$ : A real number $a$ such that $x \geq a$ for all $x \in S$ is called a $\bold{lower bound}$ of $S$.
 #### Set.property.interval
 ### Set.relations
 - $a$  is an element of a set   $S$  -->  $a \in S$  Otherwise  $a \notin S$

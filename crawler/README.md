@@ -5,6 +5,8 @@ A web crawler to extract the information on studying in Germany
 ## Learn crawler
 ## Learn fiddler
 
+# Questions
+## Will teh 'AppContainer' isolation technology the windows system uses 
 
 # REFERENCE:
 [Introduction to Webcrawling (with Javascript and Node.js)](https://medium.com/createdd-notes/introduction-to-webcrawling-with-javascript-and-node-js-f5a3798ee8ac)

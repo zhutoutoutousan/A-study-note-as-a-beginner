@@ -1,5 +1,8 @@
 # proj-tr-theoretical-research
 
+## Project plan:
+    This
+
 ## Project setup
 ```
 npm install

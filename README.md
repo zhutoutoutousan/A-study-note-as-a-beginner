@@ -8,6 +8,12 @@
 npm install
 ```
 
+## Usage
+Click [this](./study/router.md) to view the study note router.
+
+Study notes are stored in the *study* folder, not much to browse yet~~~
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve

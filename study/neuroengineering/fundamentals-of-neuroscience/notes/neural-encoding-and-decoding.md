@@ -1,6 +1,9 @@
 # Neuron
 ## Neuron.types
 ## Neuron.prototype.apperance
+
+![Diagrams of three neurons](../assets/neuron-appearance.PNG)
+- A: A cortical pyramidal cell. These are the primary excitatory neurons of the cerebral cortex.
 ## Neuron.prototype.property
 ### Neuron.prototype.property.structure
 #### Soma(Cell body)

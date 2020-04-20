@@ -14,6 +14,7 @@ Descriptive models summarize large amounts of experimental data compactly yet ac
 ## Mechanistic models
 [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
 # N 
+## Nerve fibers
 ## Neuron
 ### Neuron.types
 ### Neuron.prototype.property

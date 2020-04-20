@@ -1,7 +1,7 @@
-# proj-tr-theoretical-research
+# A study note as a beginner
 
 ## Project plan:
-    This
+    This is mostly a study note by reading books(pdf included), also some side projects.
 
 ## Project setup
 ```
@@ -22,6 +22,26 @@ npm run build
 ```
 npm run lint
 ```
+## TODO:
+### A crawler
+Create a crawler that automatically get information on studying master in Germany/Other countries
+
+REFERENCE:
+[SaisTP5](https://github.com/BugAngel/SaisTP5)
+[DAAD](https://www.daad.de/en/)
+
+### node script markdown router
+Create a node script that automatically generate a routing
+
+### Front-end
+- Electron-vue front-end
+
+### Deployment
+- AWS EC
+
+### STUDY
+- Good good study, day day down!
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

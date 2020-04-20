@@ -1,8 +1,21 @@
 # Introduction
-A web crawler to extract the information on studying in Germany
+A web crawler that extracts the information on studying in Germany
 
 # Todo
 ## Learn crawler
+
+### Tutorials
+
+### DAAD website targets
+
+#### Keywords:
+```html
+<a href="duh1.com">International programmes</a>
+<a href="duh2.com">All degree programmes in Germany</a>
+<a href="duh3.com">Language and short courses</a>
+```
+
+
 ## Learn fiddler
 
 # Questions

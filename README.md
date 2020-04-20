@@ -31,7 +31,7 @@ Study notes are stored in the *study* folder, not much to browse yet~~~
 
 ## TODO:
 ### A crawler
-Create a crawler that automatically gets information on studying master in Germany/Other countries
+Create a crawler that automatically gets information on studying in Germany/Other countries
 
 REFERENCE:
 [SaisTP5](https://github.com/BugAngel/SaisTP5)

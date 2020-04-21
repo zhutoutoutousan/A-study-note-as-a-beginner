@@ -23,11 +23,24 @@ new Vue({
             console.log('fucked');
         }
     }
-    // 'variable is not present
+    // 'variable' is not present
 })
 ```
 ## Solutions
+One of the method that can solved this is to add
+```javascript
+new  Vue({
+    //...
+    computed: {
+        count() {
+            return shit;
+        }
+    }
+})
 
+```
 
+## Questions
+- Can you illustrate the dataflow structure of the DOM(id), vue instance, methods, computed, data, store etc.? 
 
 ## Reference

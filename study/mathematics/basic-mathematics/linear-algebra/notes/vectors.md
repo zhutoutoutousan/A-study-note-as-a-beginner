@@ -18,10 +18,16 @@ A vector is an ordered finite list of numbers.
 - complex vector
 - Zero vector: A *zero vector* is a vector with all elements equal to zero.
 - Unit vector: A (standard) *unit vector* is a vector with all the elements equal to zero, except one element which is equal to one. Here, $e_i$ denotes the $i$th unit vector, and not the $i$th element of a vector $e$. Thus we can describe the $i$th unit $n$-vector $e_i$ as:
+
 $$
-        (e_i)_j = \left\{
-                        \begin{tabular}{}
+        (e_i)_j = \begin{cases}
+                        1 & j = i \\
+                        0 & j\neq i
+                  \end{cases}
 $$
+
+for $i,j = 1,...,n.$. 
+
 ### Vector.relations
 - equal: Vector $a=b$, if they have the same size, and each of the corresponding entries is the same.
 ### Vector.methods

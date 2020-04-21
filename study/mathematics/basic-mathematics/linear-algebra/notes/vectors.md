@@ -13,6 +13,7 @@ A vector is an ordered finite list of numbers.
 
 ### Vector.property
 - Size(dimension or length): The number of elements it contains.
+- Sparsity: A vector is said to be *sparse* if many of its entries are zero; its *
 ### Vector.instance
 - real vector
 - complex vector

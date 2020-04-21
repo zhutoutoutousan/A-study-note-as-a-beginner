@@ -11,7 +11,7 @@ export default Vue.extend({
         // Do something
     },
     methods: {
-        toggleRipple(){
+        crossActivate(id){
             // Do something
         }
     }

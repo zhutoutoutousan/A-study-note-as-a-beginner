@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html in html</title>
+</head>
+<body>
+    
+    Reference: https://stackoverflow.com/questions/2820453/display-html-snippets-in-html
+
+    There's no way short of escaping some characters:
+    & as &amp;
+    tag as &lt;
+    >
+
+    <pre>
+        <code>
+            &lt;div class="class">&lt;/div>
+            &lt;script>document.write('shit')&lt;/script>
+        </code>
+    </pre>
+
+</body>
+</html>

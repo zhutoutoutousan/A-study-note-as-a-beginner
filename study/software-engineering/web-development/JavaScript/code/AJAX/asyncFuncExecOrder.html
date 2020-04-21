@@ -1,0 +1,43 @@
+<!-- REFERENCE: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Async functions and execution order</title>
+</head>
+<body>
+<div class="out"></div>
+</body>
+<script>
+function resolveAfter2Seconds() {
+  console.log("starting slow promise")
+  return new Promise(resolve => {
+    setTimeout(function() {
+      resolve("slow")
+      console.log("slow promise is done")
+    }, 2000)
+  })
+}
+
+function resolveAfter1Second() {
+  console.log("starting fast promise")
+  return new Promise(resolve => {
+    setTimeout(function() {
+      resolve("fast")
+      console.log("fast promise is done")
+    }, 1000)
+  })
+}
+
+async function sequentialStart(){
+    console.log('==SEQUENTIAL START==')
+
+    // 1. Execution gets here almost instantly
+    const slow = await resolveAfter2Seconds()
+    console.log(slow) // 
+}
+
+</script>
+</html>

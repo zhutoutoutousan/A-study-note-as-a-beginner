@@ -42,6 +42,9 @@ Create a node script that automatically generate a routing markdown that shows t
 
 For more click [this](./util/README.md)
 
+### A node automatic content generator
+Can you sort of make a node script that scans all of the markdown file to search for the sections(Just a few html divs with the id, transformed to kebab case, all uppercase letter turned to the lower one.), then just generate an **Overview** section at the start of the markdown file?
+
 ### Front-end
 - Electron-vue front-end
 

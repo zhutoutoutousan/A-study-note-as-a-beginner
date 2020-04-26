@@ -6,5 +6,15 @@ html, body {
 }
 
 body {
-    font: normal 100 100%/1.5
+    font: normal 100 100%/1.5 helvetica, arial, sans-serif;
+    perspective: 500px;
+}
+
+.tree {
+    position: relative;
+
+    * {
+        box-sizing: border-box;
+        
+    }
 }

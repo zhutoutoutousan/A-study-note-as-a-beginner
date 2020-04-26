@@ -3,8 +3,9 @@
 # Resource
 ## Navigate through DOM
 ### Want TODO
-#### Navigate through 
+#### Navigate through DOM tree
+- 
 #### Cheerio
 #### jQuery
-##### ```children()```
+##### [```children()```](../Library/jQuery)
 ###### ASD

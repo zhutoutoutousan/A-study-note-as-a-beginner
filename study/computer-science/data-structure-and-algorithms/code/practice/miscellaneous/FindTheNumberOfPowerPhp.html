@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Find the number of power </title>
+</head>
+<body>
+
+    <h1>ISSUE: php code commented out</h1>
+
+    <?php
+    // PHP Program to calculate
+    // no. f digits in a^b
+
+    // function to calculate number
+    // of digits in a^b
+    function no_of_digit($a, $b){
+        return  ((int)($b * log10($a)) + 1);
+    }
+
+    //  Driver Code
+    $a = 2; $b = 100;
+    echo("no. of digits = " .no_of_digit($a, $b));
+
+    // By Ajit
+    ?>
+</body>
+</html>

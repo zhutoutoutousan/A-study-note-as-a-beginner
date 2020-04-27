@@ -31,7 +31,9 @@ Let's say there is a
 
 # Reference
 [Programming your Data: Hashmap and Tree](https://www.youtube.com/watch?v=1NWQpuDTMCM)
+
 [Data Structures: Hash Tables -Hackerrank](https://www.youtube.com/watch?v=shs0KM3wKv8)
+
 [Hash table](https://en.wikipedia.org/wiki/Hash_table)
 
 # Todo:

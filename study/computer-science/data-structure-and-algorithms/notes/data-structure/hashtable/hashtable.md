@@ -36,6 +36,8 @@ Let's say there is a
 
 [Hash table](https://en.wikipedia.org/wiki/Hash_table)
 
+[Introduction to Algorithms](.../pdf/../../../../../pdf/Introduction_to_Algorithms_Third_Edition.pdf)
+
 # Todo:
 - Study wikipedia about hashtable
 - Finish the YouTube video

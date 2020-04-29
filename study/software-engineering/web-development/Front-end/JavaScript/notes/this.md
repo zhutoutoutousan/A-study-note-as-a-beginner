@@ -23,3 +23,5 @@ b(); // window
 
 ### Reference
 [Understanding "this" in javascript with arrow functions](https://www.codementor.io/@dariogarciamoya/understanding-this-in-javascript-with-arrow-functions-gcpjwfyuc)
+
+[嗨，你真的懂this吗？](https://juejin.im/post/5c96d0c751882511c832ff7b)

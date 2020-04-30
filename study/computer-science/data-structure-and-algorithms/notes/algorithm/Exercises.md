@@ -18,3 +18,8 @@ Q: Come up with a real-world problem in which only the best solution will do.  T
 ### Convex hull
 
 ## Algorithms as a technology
+### 1.2-1
+Q: Give an example of an application that requires algorithmic content at the applica-tion level, and discuss the function of the algorithms involved.
+### 1.2-2
+Q: Suppose we are comparing implementations of insertion sort and merge sort on the same machine.  For inputs of size $n$, insertion sort runs in $8n^2$ steps, while mergesort runs in $64nlgn$ steps.  For which values of $n$ does insertion sort beat mergesort?
+A: Consider the equation $8n^2 \

@@ -13,6 +13,6 @@ app.listen(port, () => console.log(`The app listening at localhost:${port}`))
 [Duh](https://expressjs.com/en/starter/hello-world.html)
 
 # Quickstart APP
-
+Check [this](https://expressjs.com/en/starter/generator.html) out
 ## Reference
 [Express application generator](https://expressjs.com/en/starter/generator.html)

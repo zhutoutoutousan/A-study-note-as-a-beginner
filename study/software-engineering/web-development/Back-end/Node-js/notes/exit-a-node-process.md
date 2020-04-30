@@ -14,5 +14,8 @@ When Node.js runs this line, the process is immediately forced to terminate.
 This means that any callback that's pending, any network request still being sent, any filesystem access, or processes writing to ```stdout``` or ```stderr``` -all is going to be ungracefully terminated right away.
 
 See more on [Node.js API](https://nodejs.org/api/process.html#process_exit_codes)
+
+# ```SIGTERM```
+
 # Reference
 [Node.js tutorial](https://nodejs.dev/how-to-exit-from-a-nodejs-program)

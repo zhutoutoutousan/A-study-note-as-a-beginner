@@ -27,6 +27,8 @@
 - Mindmap
 ### Architecture
 - Vanilla Js, CSS, HTML
+### Catch-up
+- Responsiveness
 ## Proj WW
 ### Overview
 - Mindmap and flashcard

@@ -14,10 +14,14 @@ let a = '134';
 console.log(parseInt(a),10) // 134   10-->base number
 ```
 ## Verify if a string has a pattern \[pattern\]
+### ```String.prototype.includes()```
 ```javascript
-
+console.log('Fuck this shit'.includes('shit'));  // true
+console.log('Fuck this shit'.includes('shitty'));  // false
 ```
-
+For more see [String.prototype.includes\(\)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
+### Reference
+[How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 
 ## Reverse a string
 ### Reference

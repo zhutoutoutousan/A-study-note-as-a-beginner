@@ -1,5 +1,17 @@
+# Dendrites
+
 # Neuron
 ## Neuron.types
+### Neuron.types.function.sensory
+### Neuron.types.function.motor
+### Neuron.types.function.interneuron
+### Neuron.types.location.cortical
+### Neuron.types.location.spinal
+### Neuron.types.neurotransmitter.glutamatergic
+### Neuron.types.neurotransmitter.cholinergic
+### Neuron.types.shape.pyramidal
+### Neuron.types.shape.granule
+### Neuron.types.shape.mitral
 ## Neuron.prototype.apperance
 
 ![Diagrams of three neurons](../assets/neuron-appearance.PNG)

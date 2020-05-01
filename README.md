@@ -35,12 +35,22 @@ Create a crawler that automatically gets information on studying in Germany/Othe
 
 REFERENCE:
 [SaisTP5](https://github.com/BugAngel/SaisTP5)
+
 [DAAD](https://www.daad.de/en/)
 
 ### A node script markdown router
 Create a node script that automatically generate a routing markdown that shows the whole 
 
 For more click [this](./util/README.md)
+
+Router directory traverse reference:
+
+[Stack Overflow: Get all directories within directory nodejs](https://stackoverflow.com/questions/18112204/get-all-directories-within-directory-nodejs/24594123https://stackoverflow.com/questions/18112204/get-all-directories-within-directory-nodejs/24594123)
+
+[Stack Overflow: Loop through files in a folder Node.js](https://stackoverflow.com/questions/32511789/looping-through-files-in-a-folder-node-js)
+
+### A node automatic content generator
+Can you sort of make a node script that scans all of the markdown file to search for the sections(Just a few html divs with the id, transformed to kebab case, all uppercase letter turned to the lower one.), then just generate an **Overview** section at the start of the markdown file?
 
 ### Front-end
 - Electron-vue front-end

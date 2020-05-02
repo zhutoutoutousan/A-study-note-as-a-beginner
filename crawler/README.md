@@ -7,7 +7,10 @@ set DEBUG=crawler:* & npm start
 ```
 
 # Todo
-## Learn crawler
+## Learn Express
+- Jade
+## Where should I insert the crawler code in express generator application?
+## 
 
 ### Tutorials
 

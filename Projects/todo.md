@@ -36,5 +36,5 @@
 - MVC: Vue
 # Resources
 
-# Skills
+# Interview questions
 

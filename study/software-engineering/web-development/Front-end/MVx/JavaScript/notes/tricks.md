@@ -46,6 +46,8 @@ const test = (num, callback) => createArray(num, callback)
 
 test(50, constant);
 ```
+### What's the 
+
 
 ### ``` new Array(n)``` and ```Array.prototype.map```
 For more check out [JavaScript “new Array(n)” and “Array.prototype.map” weirdness](https://stackoverflow.com/questions/5501581/javascript-new-arrayn-and-array-prototype-map-weirdness)

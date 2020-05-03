@@ -34,6 +34,7 @@ const insertSort = (arr) => {
         } 
         arr[i+1] = key;
     }
+    return arr;
 }
 
 
@@ -43,8 +44,9 @@ const test = (func, num, scale) => {
     console.log(sample)
     console.log(func)
     let results = func(sample)
+    console.log(results);
     for(let i = 0; i < results.length - 1; i++){
-        if([i] > results[i+1]){
+        if(results[i] > results[i+1]){
             console.log('fail');
             return;
         }

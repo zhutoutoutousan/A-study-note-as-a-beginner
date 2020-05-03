@@ -1,5 +1,6 @@
 # Definition
 **Input:** A sequence of $n$ numbers $\langle a_1, a_2, ..., a_n \rangle$.
+
 **Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such taht ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
 
 ## Insertion sort
@@ -37,30 +38,37 @@ const insertSort = (arr) => {
     return arr;
 }
 
+// higher order function
+// https://stackoverflow.com/questions/50245957/sorting-array-with-javascript-reduce-function
+const ReduceSort = arr => arr.reduce((sorted, el) => {
+    let index = 0;
+    while(index < arr.length && el < arr[index]) index++;
+    sorted.splice(index, 0, el);
+    return sorted;
+},[])
+
+const jsSort = arr => arr.sort((a,b) => a-b);
 
 const test = (func, num, scale) => {
     const sample = new Array(num).fill(0).map(x => 
         x + Math.floor(Math.random() * scale));    
     console.log(sample)
     console.log(func)
+    console.time(`${func.name}`)
     let results = func(sample)
+    console.timeEnd(`${func.name}`)
     console.log(results);
     for(let i = 0; i < results.length - 1; i++){
         if(results[i] > results[i+1]){
-            console.log('fail');
+            console.log(`fail in ${func.name}`);
             return;
         }
     }
-    console.log('succeed');
+
+    console.log(`succeed in ${func.name}`);
 }
 
-test(insertSort, 100, 50);
-
-// higher order function
-const insertSortH = (arr) => {
-
-}
+test(insertSort, 100000, 500); // 4684ms
+test(jsSort,100000,500); // 41.25ms
+test(ReduceSort,100000,500)  // Failed 2300ms
 ```
-
-## Terminology
-- **keys**: The number that we wish to sort

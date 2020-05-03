@@ -33,4 +33,19 @@ For more see [String.prototype.includes\(\)](https://developer.mozilla.org/zh-CN
 ```javascript
 let num = 3;
 const array = [...new Array(num)].map( _ => []); // array: [[],[],[]]
+// Won't work with Array.prototype.map
 ```
+### Create an array with generator
+- Tip: use ```Array.prototype.fill()```
+```javascript
+const constant = _ => 5; 
+
+const createArray = (num, callback) => Array.apply(null, Array(num).map(callback))
+
+const test = (num, callback) => createArray(num, callback)
+
+test(50, constant);
+```
+
+### ``` new Array(n)``` and ```Array.prototype.map```
+For more check out [JavaScript “new Array(n)” and “Array.prototype.map” weirdness](https://stackoverflow.com/questions/5501581/javascript-new-arrayn-and-array-prototype-map-weirdness)

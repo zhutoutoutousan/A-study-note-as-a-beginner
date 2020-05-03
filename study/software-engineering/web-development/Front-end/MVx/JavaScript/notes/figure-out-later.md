@@ -4,3 +4,7 @@
 ```javascript 
 blabla.loadTemplate(bla)
 ```
+
+```javascript
+window.runnerWindow.proxyConsole.log(Shit)
+```

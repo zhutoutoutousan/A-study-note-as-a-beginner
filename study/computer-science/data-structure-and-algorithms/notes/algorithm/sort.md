@@ -23,10 +23,40 @@ for j = 2 to A.length
 ```
 #### JavaScript
 ```javascript
+// for loop
 const insertSort = (arr) => {
     for(let j = 1; j < arr.length; j++){
-        
+        let i = j - 1;
+        let key = arr[j];
+        while(i >= 0 && arr[i] > key){
+            arr[i+1] = arr[i];
+            i--;
+        } 
+        arr[i+1] = key;
     }
+}
+
+
+const test = (func, num, scale) => {
+    const sample = new Array(num).fill(0).map(x => 
+        x + Math.floor(Math.random() * scale));    
+    console.log(sample)
+    console.log(func)
+    let results = func(sample)
+    for(let i = 0; i < results.length - 1; i++){
+        if([i] > results[i+1]){
+            console.log('fail');
+            return;
+        }
+    }
+    console.log('succeed');
+}
+
+test(insertSort, 100, 50);
+
+// higher order function
+const insertSortH = (arr) => {
+
 }
 ```
 

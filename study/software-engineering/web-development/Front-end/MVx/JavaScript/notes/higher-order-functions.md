@@ -12,20 +12,13 @@ let new_array = arr.map(function callback( currentValue[, index[, array]]){
 ## ```Array.prototype.filter()```
 ### Syntax
 ```javascript
-/**
- * 
- * 
- * 
- * @param {function} callback Function is a predicate, to test each element of the array. Return true to keel the element, false otherwise.  
- * 
- * 
- */
 let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ```
 ## ```Array.prototype.reduce```
 
 ## ``` Array.prototype.fill()```
 
+## ``` Array.prototype.splice()```
 
 
 # Function

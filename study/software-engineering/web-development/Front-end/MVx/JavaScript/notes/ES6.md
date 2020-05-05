@@ -28,3 +28,6 @@ In these code, I've discovered that:
  const sample = new Array(num).fill(0).map(x =>{ x + Math.floor(Math.random() * scale)})
 //  returns undefined
 ```
+
+# Destructure assignment
+[Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)

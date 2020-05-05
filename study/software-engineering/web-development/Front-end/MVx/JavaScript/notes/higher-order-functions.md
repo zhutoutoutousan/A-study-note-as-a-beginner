@@ -1,15 +1,32 @@
 # Array
-# ```Array.prototype.map()```
-## Syntax
+## ```Array.prototype.map()```
+### Syntax
 ``` javascript
 let new_array = arr.map(function callback( currentValue[, index[, array]]){
     // return element for new_array
 }[, thisArg])
 ```
-## Resources
+### Resources
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
+## ```Array.prototype.filter()```
+### Syntax
+```javascript
+/**
+ * 
+ * 
+ * 
+ * @param {function} callback Function is a predicate, to test each element of the array. Return true to keel the element, false otherwise.  
+ * 
+ * 
+ */
+let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
+```
+## ```Array.prototype.reduce```
+
 ## ``` Array.prototype.fill()```
+
+
 
 # Function
 ## ```Function.prototype.apply()```

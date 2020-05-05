@@ -34,3 +34,8 @@ myMap.get(key)
  ```
 ### Reference
 [Map - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+
+## Date
+
+### Reference
+[Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)

@@ -1,36 +1,51 @@
-# A study note as a beginner
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Project plan:](#project-plan)
+- [Project setup](#project-setup)
+  - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+  - [Compiles and minifies for production](#compiles-and-minifies-for-production)
+  - [Lints and fixes files](#lints-and-fixes-files)
+- [Usage](#usage)
+- [TODO:](#todo)
+  - [A crawler](#a-crawler)
+    - [A node script markdown router](#a-node-script-markdown-router)
+  - [A node automatic content generator](#a-node-automatic-content-generator)
+  - [Front-end](#front-end)
+  - [Deployment](#deployment)
+  - [STUDY](#study)
+  - [Customize configuration](#customize-configuration)
 
-## Project plan:
+# Project plan:
     This is mostly a study note by reading books(pdf included), also some side projects.
 
-## Project setup
+# Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+## Lints and fixes files
 ```
 npm run lint
 ```
 
-## Usage
+# Usage
 Click [this](./study/router.md) to view the study note router.
 
 Study notes are stored in the *study* folder, not much to browse yet~~~
 
 
-## TODO:
-### A crawler
+# TODO:
+## A crawler
 Create a crawler that automatically gets information on studying in Germany/Other countries
 
 REFERENCE:
@@ -49,18 +64,18 @@ Router directory traverse reference:
 
 [Stack Overflow: Loop through files in a folder Node.js](https://stackoverflow.com/questions/32511789/looping-through-files-in-a-folder-node-js)
 
-### A node automatic content generator
+## A node automatic content generator
 Can you sort of make a node script that scans all of the markdown file to search for the sections(Just a few html divs with the id, transformed to kebab case, all uppercase letter turned to the lower one.), then just generate an **Overview** section at the start of the markdown file?
 
-### Front-end
+## Front-end
 - Electron-vue front-end
 
-### Deployment
+## Deployment
 - AWS EC
 
-### STUDY
+## STUDY
 - Good good study, day day down!
 
 
-### Customize configuration
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

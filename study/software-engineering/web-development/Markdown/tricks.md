@@ -1,10 +1,18 @@
 # Contents
-## [Navigation](#navigation)
-[How do I refer to an on-page link?](#how-do-i-refer-to-a-on-page-link)
-
-## [Figures](#figures)
-[How to insert centered caption in a page?](#how-to-insert-centered-caption-in-a-page)
-
+- [Contents](#contents)
+- [Navigation](#navigation)
+  - [How do I refer to an on-page link?](#how-do-i-refer-to-an-on-page-link)
+    - [Router](#router)
+  - [How do I automatically generate a table of contents?](#how-do-i-automatically-generate-a-table-of-contents)
+    - [Lorem 1](#lorem-1)
+      - [Lorem 1.1](#lorem-11)
+    - [Lorem 2](#lorem-2)
+      - [Lorem 2.1](#lorem-21)
+      - [Lorem 2.2](#lorem-22)
+    - [Lorem 3](#lorem-3)
+- [Figures](#figures)
+    - [How to insert centered caption in a page?](#how-to-insert-centered-caption-in-a-page)
+- [Head back](#head-back)
 # Navigation
 ## How do I refer to an on-page link?
 ### Router
@@ -13,6 +21,12 @@
 [Lorem 1.1](#lorem-1.1) --> \[Lorem 1.1\]\(#lorem-1.1\)
 
 Just like that
+
+## How do I automatically generate a table of contents?
+1. Use VScode
+2. Install **markdown all in one**
+3. Ctrl+Shift+P, autocomplete create a table of contents
+
 ### Lorem 1
 #### Lorem 1.1
 Occaecat ea consectetur qui velit enim occaecat tempor velit laboris anim eiusmod ea. Enim in tempor ex ullamco do sit amet ea aliqua exercitation. Ut do velit labore id nisi officia. Elit non quis aute non. Eiusmod sunt minim tempor laboris laborum sint occaecat tempor veniam cupidatat nisi. Elit commodo do magna sunt aliquip et ullamco sunt ad esse irure irure.

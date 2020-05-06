@@ -1,3 +1,10 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [A router generator for the study folder](#a-router-generator-for-the-study-folder)
+  - [Points to think about](#points-to-think-about)
+  - [Usage](#usage)
+- [REFERENCE](#reference)
+
 # A router generator for the study folder
 
 ## Points to think about

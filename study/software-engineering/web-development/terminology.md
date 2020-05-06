@@ -1,3 +1,14 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [C](#c)
+  - [Cluster](#cluster)
+- [R](#r)
+  - [Replica set](#replica-set)
+  - [Routing](#routing)
+- [S](#s)
+  - [Service](#service)
+- [U](#u)
+  - [URI](#uri)
 # C
 ## Cluster
 A group of servers that stores your data

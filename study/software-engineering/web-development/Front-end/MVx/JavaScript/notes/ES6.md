@@ -1,3 +1,8 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Arrow function](#arrow-function)
+  - [Defined or undefined?](#defined-or-undefined)
+- [Destructure assignment](#destructure-assignment)
 # Arrow function
 ## Defined or undefined?
 ```javascript

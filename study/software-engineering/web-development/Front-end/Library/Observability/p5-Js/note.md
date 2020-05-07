@@ -10,7 +10,7 @@
     - [Ellipse](#ellipse)
 
 # Study progress
-- [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
+- [ ] Getting started --> [link](https://p5js.org/get-started/#sketch)
 - [ ] Using screen reader --> [link](https://p5js.org/learn/p5-screen-reader.html)
 - [ ] Keep exploring
   - [ ] Just a nested item 

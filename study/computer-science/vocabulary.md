@@ -2,16 +2,22 @@
 - [Contents](#contents)
 - [A](#a)
   - [Algorithm](#algorithm)
+  - [Assertion](#assertion)
 - [D](#d)
   - [Data structures](#data-structures)
 - [E](#e)
   - [Efficiency](#efficiency)
 - [F](#f)
   - [Formal verification](#formal-verification)
+- [S](#s)
+  - [State space](#state-space)
 # A
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
 - An algorithm is said to be **correct** if, for every input instance, it halts with the correct output.
+
+## Assertion
+[Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
 
 # D
 ## Data structures
@@ -24,3 +30,7 @@
 # F
 ## Formal verification
 In the context of hardware and software systems, **formal verification** is the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
+
+# S
+## State space
+[State space - wiki](https://en.wikipedia.org/wiki/State_space)

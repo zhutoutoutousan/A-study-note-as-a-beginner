@@ -1,3 +1,23 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Object](#object)
+  - [Array](#array)
+  - [Map](#map)
+    - [What is ```Map```?](#what-is-map)
+    - [Map essentials](#map-essentials)
+    - [Basic operations](#basic-operations)
+      - [has](#has)
+      - [get](#get)
+      - [set](#set)
+    - [Reference](#reference)
+  - [Date](#date)
+    - [What is a JavaScript date?](#what-is-a-javascript-date)
+    - [What is UTC?](#what-is-utc)
+    - [Headsups](#headsups)
+    - [Usage](#usage)
+      - [Create a ```Date()``` object](#create-a-date-object)
+        - [Syntax](#syntax)
+    - [Reference](#reference-1)
 # Object
 ## Array
 

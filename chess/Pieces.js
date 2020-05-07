@@ -1,3 +1,5 @@
 class Piece {
-    constructor(x, y)
+    constructor(x, y, isWhite, letter, pic) {
+        this.matrixPosition = createVector(x, y);
+    }
 }

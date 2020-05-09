@@ -6,12 +6,25 @@
     - [Setup function](#setup-function)
     - [Draw function](#draw-function)
 - [Basic operations](#basic-operations)
-  - [Shapes](#shapes)
-    - [Ellipse](#ellipse)
 - [Deep dive](#deep-dive)
   - [Source code study](#source-code-study)
   - [Functional improvements](#functional-improvements)
-- [Application](#application)
+- [Utils](#utils)
+  - [Shapes](#shapes)
+    - [```fill()```](#fill)
+    - [Rectangle](#rectangle)
+      - [```rect()```](#rect)
+      - [```rectMode()```](#rectmode)
+  - [Canvas](#canvas)
+    - [```createCanvas()```](#createcanvas)
+    - [```background()```](#background)
+  - [Timer](#timer)
+    - [```millis()```](#millis)
+  - [Settings](#settings)
+    - [```noStroke()```](#nostroke)
+    - [```noFill()```](#nofill)
+  - [Animations](#animations)
+    - [```translate()```](#translate)
 
 # Study progress
 - [ ] Getting started --> [link](https://p5js.org/get-started/#sketch)
@@ -30,8 +43,6 @@ The ```setup()``` function runs once, and is typically used for initialization, 
 ### Draw function
 The ```draw()``` function runs over and over again, and is used to perform a certain action repeatedly and for animation.
 # Basic operations
-## Shapes
-### Ellipse
 ```javascript
 function setup() {
     createCanvas(500, 500)
@@ -46,4 +57,24 @@ function draw() {
 ## Source code study
 ## Functional improvements
 
-# Application
+# Utils
+## Shapes
+### ```fill()```
+### Rectangle
+#### ```rect()```
+#### ```rectMode()```
+
+## Canvas
+### ```createCanvas()```
+### ```background()```
+
+## Timer
+### ```millis()```
+
+## Settings
+### ```noStroke()```
+- No outlines
+### ```noFill()```
+
+## Animations
+### ```translate()```

@@ -8,12 +8,20 @@
 - [Basic operations](#basic-operations)
   - [Shapes](#shapes)
     - [Ellipse](#ellipse)
+- [Deep dive](#deep-dive)
+  - [Source code study](#source-code-study)
+  - [Functional improvements](#functional-improvements)
+- [Application](#application)
 
 # Study progress
 - [ ] Getting started --> [link](https://p5js.org/get-started/#sketch)
 - [ ] Using screen reader --> [link](https://p5js.org/learn/p5-screen-reader.html)
 - [ ] Keep exploring
-  - [ ] Just a nested item 
+  - [ ] ```createVector()```
+  - [ ] Read the Processing transition tutorial to learn how to convert from Processing to p5.js, and the main differences between them.  -->[link](https://github.com/processing/p5.js/wiki/Processing-transition)
+  - [ ] View the reference for full documentation. -->[link](https://p5js.org/reference/)
+  - [ ] Check out the learn page and examples page for more. --> [Check out the learn page and examples page for more.]()
+  - [ ] If you wish to use p5 with a screenreader, check out the p5 with a screenreader tutorial. --> [Using p5 with a screen reader](https://p5js.org/learn/p5-screen-reader.html)
 
 # How it works
 ## Basics
@@ -33,3 +41,9 @@ function draw() {
     ellipse(50, 50, 80, 80)
 }
 ```
+
+# Deep dive
+## Source code study
+## Functional improvements
+
+# Application

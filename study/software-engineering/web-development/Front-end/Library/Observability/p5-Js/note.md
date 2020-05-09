@@ -7,9 +7,13 @@
     - [Draw function](#draw-function)
 - [Basic operations](#basic-operations)
 - [Deep dive](#deep-dive)
+  - [History](#history)
+    - [Processing](#processing)
   - [Source code study](#source-code-study)
   - [Functional improvements](#functional-improvements)
-- [Utils](#utils)
+- [Tools](#tools)
+  - [VScode](#vscode)
+- [Functions](#functions)
   - [Shapes](#shapes)
     - [```fill()```](#fill)
     - [Rectangle](#rectangle)
@@ -27,7 +31,9 @@
     - [```translate()```](#translate)
 
 # Study progress
-- [ ] Getting started --> [link](https://p5js.org/get-started/#sketch)
+- [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
+- [ ] p5.js tutorial - The coding train --> [link](https://www.youtube.com/watch?v=8j0UDiN7my4)
+  - [ ] 1.1
 - [ ] Using screen reader --> [link](https://p5js.org/learn/p5-screen-reader.html)
 - [ ] Keep exploring
   - [ ] ```createVector()```
@@ -54,10 +60,16 @@ function draw() {
 ```
 
 # Deep dive
+## History
+### Processing
 ## Source code study
 ## Functional improvements
 
-# Utils
+# Tools
+## VScode
+- live-p5
+
+# Functions
 ## Shapes
 ### ```fill()```
 ### Rectangle

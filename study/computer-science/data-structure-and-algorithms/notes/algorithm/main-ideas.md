@@ -1,4 +1,21 @@
-# How to tell if an algorithm is correct?
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Algorithm correctness verification](#algorithm-correctness-verification)
+  - [Loop invariant](#loop-invariant)
+    - [Why loop invariant?](#why-loop-invariant)
+    - [What loop invariants looks like](#what-loop-invariants-looks-like)
+    - [Why loop invariant?](#why-loop-invariant-1)
+    - [Cases](#cases)
+      - [Insertion sort](#insertion-sort)
+- [Algorithm analysis](#algorithm-analysis)
+  - [Basic concepts](#basic-concepts)
+    - [Random-access machine](#random-access-machine)
+      - [Property](#property)
+  - [Analysis methods](#analysis-methods)
+    - [Example](#example)
+      - [Insertion sort](#insertion-sort-1)
+
+# Algorithm correctness verification
 ## Loop invariant
 ### Why loop invariant?
 Check out [wiki](https://en.wikipedia.org/wiki/Loop_invariant)
@@ -24,7 +41,7 @@ Already seen that it holds 1st time through: i == 1, tmp == A\[1\]
 
 [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic)
 
-### How loop invariant?
+### Why loop invariant?
 A loop invariant is a set of data---though the position may be altered---the integrity of which remains unchanged.
 
 We use loop invariants to help understanding why an algorithm is correct. We must show three things about a loop invariant:
@@ -60,10 +77,36 @@ for j = 2 to A.length
 Proof check out *Introduction to algorithms* Page 19
 
 # Algorithm analysis
-## Random-access machine
-### Property
+## Basic concepts
+### Random-access machine
+#### Property
 - In the RAM model, instructions are executed one after another, with no concurrent operations.
 - The RAM model contains instructions commonly found in real computers: arithmetic(such as add, subtract, multiply, divide, remainder, floor, ceiling), data movement(load, store, copy), and control(conditional and unconditional branch, subroutine call and return).Each such instruction takes a constant amount of time.
 - Ignoring memory hiearchy
 
 For more, check out [this](https://en.wikipedia.org/wiki/Random-access_machine)
+
+## Analysis methods
+### Example
+#### Insertion sort
+Let $t_j$ denote the number of times the **while** loop test in *line 5* is executed for that value of *j* for each $j = 2,3,...,n$, where $n = A.length$. When a **for** or **while** loop exits in the usual way(i.e. due to the test in the loop header), the test is executed one time more than the loop body. Assuming comments takes no time.
+| INSERTION-SORT(A) | cost | times |
+| ----------------- |:----:| -----:|
+| 1 ```for j = 2 to A.length``` | $c_1$ | n |
+| 2 &nbsp; &nbsp; ```key = A[j]``` | $c_2$ | n - 1 |
+| 3 &nbsp; &nbsp; ```//Insert A[j] into the sorted sequence $A[1..j-1]$.``` | 0 | n - 1 | 
+| 4 &nbsp; &nbsp; ```i = j - 1``` | $c_4$ | n - 1 |
+| 5 &nbsp; &nbsp; ```while i > 0 and A[i] > key```| $c_5$ | $\sum_{j=2}^n t_j$ | 
+| 6 &nbsp; &nbsp; &nbsp; ```A[i+1] = A[i]``` | $c_6$ | $\sum_{j=2}^n (t_j-1)$ |
+| 7 &nbsp; &nbsp; &nbsp;  ``` i = i - 1``` | $c_7$ | $\sum_{j=2}^n (t_j - 1)$ |
+| 8 &nbsp; &nbsp; ```A[i+1] = key``` | $c_8$ | n -1 |
+
+The running time of the algorithm is the sum of running times for each statement executed; a statement takes $c_i$ steps to execute and executes $n$ times will contribute $c_in$ to the total running time.*(Not applicable for a resource such as memory, A statement that references *m* words of memory and is executed *n* times does not necessarily reference *mn* distinct words of memory.)*
+
+To compute $T(n)$, the running time of INSERTION-SORT on an input of *n* values, by summing the products of the *cost* and *times* columns, we obtain:
+
+$$
+T(n) = c_1n + c_2(n-1) + c_4(n-1) + c_5\sum_{j=2}^n t_j + c_6\sum_{j=2}^n(t_j-1) + c_7\sum_{j=2}^n (t_j-1) + c_8(n-1).
+$$
+
+Now for the best case, which is the case that the array is already sorted. For each $j = 2,3,...,n$, we then find that $A[i] \leq key$ in line 5 when *i*

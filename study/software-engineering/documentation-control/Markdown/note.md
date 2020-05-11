@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Text](#text)
+  - [Empty space](#empty-space)
 - [Style](#style)
 - [Header](#header)
 - [This is an \<h1> tag](#this-is-an-h1-tag)
@@ -26,14 +28,20 @@
     - [Lorem 3](#lorem-3)
 - [Figures](#figures)
     - [How to insert centered caption in a page?](#how-to-insert-centered-caption-in-a-page)
+- [Table](#table)
+
+# Text
+## Empty space
+```markdown
+&nbsp;
+```
+
 
 # Style
 bold: double asteroids: **bold** double underscores: __bold__
 
 italic: asteroid: *italic*  underscore: _italic_
 link: [http://google.com]
-
-
 
 
 # Header
@@ -150,3 +158,5 @@ Veniam cupidatat exercitation laboris ipsum veniam laborum occaecat aute. Duis e
 
 For more checkout [Using an image caption in Markdown Jekyll](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll)
 
+# Table
+[Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)

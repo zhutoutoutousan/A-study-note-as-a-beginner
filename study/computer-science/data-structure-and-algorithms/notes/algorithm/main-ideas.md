@@ -109,4 +109,12 @@ $$
 T(n) = c_1n + c_2(n-1) + c_4(n-1) + c_5\sum_{j=2}^n t_j + c_6\sum_{j=2}^n(t_j-1) + c_7\sum_{j=2}^n (t_j-1) + c_8(n-1).
 $$
 
-Now for the best case, which is the case that the array is already sorted. For each $j = 2,3,...,n$, we then find that $A[i] \leq key$ in line 5 when *i*
+Now for the **best case analysis**, which is the case that the array is already sorted. For each $j = 2,3,...,n$, we then find that $A[i] \leq key$ in line 5 when *i* has its initial value of *j - 1*. Thus $t_j = 1$ for $j = 2,3,...,n$, and the best-case running time is:
+
+$$
+T(n) = c_1n + c_2(n-1) + c_4(n-1) + c_5(n-1) + c_8(n-1) \\= (c_1+c_2+c_4+c_5+c_8)n - (c_2+c_4+c_5+c_8)
+$$
+
+We can express this running time as $an+b$ for *constants* $a$ and $b$ that depend on the statement costs $c_i$; itis thus a **linear function** of n.
+
+For the **worst case analysis**, the array will be in reverse sorted order(i.e. in decreasing order). Now we must compare each element ```A[j]``` with each element in the entire sorted subarray ```A[1..j-1]```, and so $t_j = j$ for $j=2,3,...,n$. P27

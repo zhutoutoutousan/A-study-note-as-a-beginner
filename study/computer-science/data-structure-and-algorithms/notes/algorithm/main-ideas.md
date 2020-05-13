@@ -1,5 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Formal problem description](#formal-problem-description)
+- [Algorithm description](#algorithm-description)
+  - [Pseudocode](#pseudocode)
 - [Algorithm correctness verification](#algorithm-correctness-verification)
   - [Loop invariant](#loop-invariant)
     - [Why loop invariant?](#why-loop-invariant)
@@ -17,6 +20,12 @@
       - [Insertion sort](#insertion-sort-1)
         - [Time consumption](#time-consumption)
         - [Order of growth](#order-of-growth)
+- [Algorithm design](#algorithm-design)
+
+# Formal problem description
+
+# Algorithm description
+## Pseudocode
 
 # Algorithm correctness verification
 ## Loop invariant
@@ -152,3 +161,5 @@ What is ignored:
 - The leading term's constant coefficient of the running time formula obtained by the analysis demonstrated above.
 
 This sort has the worst-case running time of $\Theta(n^2)$ 
+
+# Algorithm design

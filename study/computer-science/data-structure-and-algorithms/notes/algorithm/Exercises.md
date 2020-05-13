@@ -16,10 +16,12 @@
   - [Getting started](#getting-started)
     - [2.1-1 Illustrate how INSERTION-SORT works](#21-1-illustrate-how-insertion-sort-works)
     - [2.1-2 Reverse INSERTION-SORT](#21-2-reverse-insertion-sort)
-    - [2.1-3](#21-3)
+    - [2.1-3 Work on the searching algorithm](#21-3-work-on-the-searching-algorithm)
+    - [2.1-4 Adding two binary integers.](#21-4-adding-two-binary-integers)
     - [2.2-1 The basic concept of Big $\Theta$ notation](#22-1-the-basic-concept-of-big-math-xmlns%22httpwwww3org1998mathmathml%22semanticsmrowmi-mathvariant%22normal%22%ce%98mimrowannotation-encoding%22applicationx-tex%22thetaannotationsemanticsmath%ce%98-notation)
     - [2.2-2 Analyse an algorithm yourself](#22-2-analyse-an-algorithm-yourself)
-    - [2.2-3](#22-3)
+    - [2.2-3 **Search algorithm** analysis](#22-3-search-algorithm-analysis)
+    - [2.2-4 Good best-case running time](#22-4-good-best-case-running-time)
 # The Role of Algorithms in Computing
 ## Algorithms
 ### 1.1-1
@@ -65,11 +67,16 @@ Q: Rewrite the INSERTION-SORT procedure to sort into non-increasing instead of n
 
 A:
 
-### 2.1-3 
+### 2.1-3 Work on the searching algorithm
 Q: Consider the **searching algorithm**:
 **Input**: A sequence of $n$ numbers $A=\langle a_1,a_2,...,a_n\rangle$ and a value $\nu$.
 **Ouput**: An index $i$ such that $\nu = A[i]$ or the special value $NIL$ if $\nu$ does not appear in $A$.  
 Write pseudocode for **linear search**, which scans through the sequence, looking for $\nu$. Using a loop invariant, prove that your algorithm is correct. Make sure that your loop invariant fulfills the three necessary properties.
+
+A:
+
+### 2.1-4 Adding two binary integers.
+Q: Consider the problem of adding two $n$-bit binary integers, stored in two $n$-element arrays $A$ and $B$. The sum of the two integers should be stored in binary form in an $(n+1)$-element array $C$. State the problem formally and write pseudocode for adding the two integers.
 
 A:
 
@@ -83,5 +90,8 @@ Q: Consider sorting $n$ numbers stored in array ```A``` by first finding the sma
 
 A:
 
-### 2.2-3
-Q: Consider linear search again(see [Exercise 2.1-3]())
+### 2.2-3 **Search algorithm** analysis
+Q: Consider linear search again(see [Exercise 2.1-3](#21-3-work-on-the-searching-algorithm)). How many elements of the input sequence need to be checked on the average, assuming that the element being searched for is equally likely to be any element in the array? How about in the worst case? What are the average-case and worst-case running times of linear search in $\Theta$-notation? Justify your answers.
+
+### 2.2-4 Good best-case running time
+How can we modify almost any algorithm to have a good best-case running time?

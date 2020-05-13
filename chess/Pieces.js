@@ -33,10 +33,49 @@ class Piece {
             
         }
     }
+
+    withinBounds(x, y) {
+        if (x >= 0 && y >= 0 && x < 8 && y < 8){
+            return true;
+        }
+        return false
+    }
+
+    attackingAllies(x, y, board){
+        let attacking = board.getPieceAt(x, y);
+        if(attacking != null) {
+            if(attacking.white == this.white){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    canMove(x, y, board) {
+        if(!this,withinBounds(x, y)){
+            return false;
+        }
+        return true;
+    }
+
 }
 
 class Pawn extends Piece {
     constructor(x, y, isWhite) {
-        super(x, y, isWhite)
+        super(x, y, isWhite);
+        this.letter = "p";
+        this.firstTurn = true;
+        this.value = 1;
+        if (isWhite) {
+            this.pic = images[5];
+        }
+        else {
+            this.pic = images[11];
+        }   
     }
+
+    canMove(x, y, board) {
+        
+    }
+
 }

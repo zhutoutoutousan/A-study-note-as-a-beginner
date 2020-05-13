@@ -22,11 +22,15 @@ class Piece {
                 text(this.letter, this.pixelPosition.x, this.pixelPosition.y);
                 image(this.pic, this.pixelPosition.x, this.pixelPosition.y, tileSize, tileSize);
             }
-        }
+        }+
     }
 
     generateNewBoards(currentBoard) {
         let boards = []; // all boards created from moving this piece
         let moves = this.generateMoves(currentBoard); 
+        for(let i = 0; i < moves.length; i++) {
+            boards[i] = currentBoard.clone();
+            
+        }
     }
 }

@@ -1,3 +1,6 @@
+let tileSize = 100;
+
+
 function setup() {
     createCanvas(800,800);
     htmlStuff();

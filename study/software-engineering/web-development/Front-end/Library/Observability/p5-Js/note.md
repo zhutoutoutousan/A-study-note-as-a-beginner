@@ -25,8 +25,16 @@
   - [Timer](#timer)
     - [```millis()```](#millis)
   - [Settings](#settings)
-    - [```noStroke()```](#nostroke)
+    - [Strokes](#strokes)
     - [```noFill()```](#nofill)
+  - [Image](#image)
+    - [Post an image](#post-an-image)
+    - [```imageMode()```](#imagemode)
+  - [Interactions](#interactions)
+    - [Reactions](#reactions)
+      - [```redraw()```](#redraw)
+    - [Mouse](#mouse)
+      - [```mousePressed()```](#mousepressed)
   - [Animations](#animations)
     - [```translate()```](#translate)
 
@@ -84,9 +92,39 @@ function draw() {
 ### ```millis()```
 
 ## Settings
-### ```noStroke()```
+### Strokes
+- ```noStroke()``` --> No stroke
+- ```strokeWeight([number])``` --> Control stroke width
+- ```stroke([color])``` --> Set strokes 
 - No outlines
 ### ```noFill()```
+
+## Image
+### Post an image
+```javascript
+// The default mode is imageMode(CORNER), which interprets the second and 
+// the third parameters of image() as the upper-left corner of the image.
+// If two additional parameters are specified, they are used to set the 
+// image's width and height.
+let img;
+let xoffset, yoffset, xsize, ysize;
+function preload() {
+  img = loadImage('assets/picture.jpg');
+}
+function setup() {
+  imageMode(CORNER);
+  image(img, xoffset, yoffset, xsize, ysize);
+}
+```
+### ```imageMode()```
+- ```imageMode(CORNERS)``` interprets the second and third parameters of ```image()``` as the location of one corner, and the fourth and fifth parameters as the opposite corner.
+- ```imageMode(CENTER)``` interprets the second and third parameters of ```image()``` as the image's center point. If two additional parameters are specified, they are used to set the image's width and height.
+
+## Interactions
+### Reactions
+#### ```redraw()```
+### Mouse
+#### ```mousePressed()```
 
 ## Animations
 ### ```translate()```

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Text](#text)
+  - [Start a new line](#start-a-new-line)
   - [Empty space](#empty-space)
 - [Style](#style)
 - [Header](#header)
@@ -31,6 +32,16 @@
 - [Table](#table)
 
 # Text
+## Start a new line
+To start a new line, add two more empty space to the upper text.
+```markdown
+I want to start a new line(two empty spaces)
+
+This is a new line
+```
+Will compile to:  
+I want to start a new line  
+This is a new line.
 ## Empty space
 ```markdown
 &nbsp;

@@ -3,10 +3,11 @@
 - [Algorithm correctness verification](#algorithm-correctness-verification)
   - [Loop invariant](#loop-invariant)
     - [Why loop invariant?](#why-loop-invariant)
-    - [What loop invariants looks like](#what-loop-invariants-looks-like)
+    - [What loop invariants look like](#what-loop-invariants-look-like)
     - [Why loop invariant?](#why-loop-invariant-1)
     - [Cases](#cases)
       - [Insertion sort](#insertion-sort)
+    - [Under the hood: Why loop variant can prove the correctness of an algorithm?](#under-the-hood-why-loop-variant-can-prove-the-correctness-of-an-algorithm)
 - [Algorithm analysis](#algorithm-analysis)
   - [Basic concepts](#basic-concepts)
     - [Random-access machine](#random-access-machine)
@@ -14,6 +15,8 @@
   - [Analysis methods](#analysis-methods)
     - [Example](#example)
       - [Insertion sort](#insertion-sort-1)
+        - [Time consumption](#time-consumption)
+        - [Order of growth](#order-of-growth)
 
 # Algorithm correctness verification
 ## Loop invariant
@@ -21,7 +24,7 @@
 Check out [wiki](https://en.wikipedia.org/wiki/Loop_invariant)
 
 
-### What loop invariants looks like
+### What loop invariants look like
 ```
 avg(A[1...n]){
     tmp = 0
@@ -76,6 +79,9 @@ for j = 2 to A.length
 ```
 Proof check out *Introduction to algorithms* Page 19
 
+### Under the hood: Why loop variant can prove the correctness of an algorithm?
+[CS 170 Tutorial #1 Invariants and Proofs of Correctness](http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial1.pdf)
+
 # Algorithm analysis
 ## Basic concepts
 ### Random-access machine
@@ -89,6 +95,7 @@ For more, check out [this](https://en.wikipedia.org/wiki/Random-access_machine)
 ## Analysis methods
 ### Example
 #### Insertion sort
+##### Time consumption
 Let $t_j$ denote the number of times the **while** loop test in *line 5* is executed for that value of *j* for each $j = 2,3,...,n$, where $n = A.length$. When a **for** or **while** loop exits in the usual way(i.e. due to the test in the loop header), the test is executed one time more than the loop body. Assuming comments takes no time.
 | INSERTION-SORT(A) | cost | times |
 | ----------------- |:----:| -----:|
@@ -117,4 +124,31 @@ $$
 
 We can express this running time as $an+b$ for *constants* $a$ and $b$ that depend on the statement costs $c_i$; itis thus a **linear function** of n.
 
-For the **worst case analysis**, the array will be in reverse sorted order(i.e. in decreasing order). Now we must compare each element ```A[j]``` with each element in the entire sorted subarray ```A[1..j-1]```, and so $t_j = j$ for $j=2,3,...,n$. P27
+For the **worst case analysis**, the array will be in reverse sorted order(i.e. in decreasing order). Now we must compare each element ```A[j]``` with each element in the entire sorted subarray ```A[1..j-1]```, and so $t_j = j$ for $j=2,3,...,n$. According to the summation formulae, we know that: 
+
+$$
+\sum_{j=2}^n j = \frac{n(n+1)}{2} - 1
+$$
+
+and
+
+$$
+\sum_{j=2}^n (j-1) = \frac{n(n-1)}{2}
+$$
+
+Then in the worse case, the running time of INSERTION-SORT is:
+
+$$
+T(n) = c_1n+c_2(n-1)+c_4(n-1)+c_5((\frac{n(n+1)}{2})-1) \\
++c_6(\frac{n(n-1)}{2})+c_7(\frac{n(n-1)}{2})+c_8(n-1) \\
+=(\frac{c_5}{2}+\frac{c_6}{2}+\frac{c_7}{2})n^2+(c_1+c_2+c_4+\frac{c_5}{2}-\frac{c_6}{2}-\frac{c_7}{2}+c_8)n-(c_2+c_4+c_5+c_8)
+$$
+
+This worst-case running time as $an^2+bn+c$ for constants $a,b$ and $c$ that again depend on the statement consts $c_i$; it is thus a **quadratic function** of $n$.
+
+##### Order of growth
+What is ignored:
+- The actual cost of each statement.(Using a constant to replace)
+- The leading term's constant coefficient of the running time formula obtained by the analysis demonstrated above.
+
+This sort has the worst-case running time of $\Theta(n^2)$ 

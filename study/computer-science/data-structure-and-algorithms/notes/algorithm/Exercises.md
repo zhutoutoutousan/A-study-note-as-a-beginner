@@ -1,3 +1,25 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [The Role of Algorithms in Computing](#the-role-of-algorithms-in-computing)
+  - [Algorithms](#algorithms)
+    - [1.1-1](#11-1)
+    - [1.1-2](#11-2)
+    - [1.1-3](#11-3)
+    - [1.1-4](#11-4)
+    - [1.1-5](#11-5)
+    - [Convex hull](#convex-hull)
+  - [Algorithms as a technology](#algorithms-as-a-technology)
+    - [1.2-1](#12-1)
+    - [1.2-2](#12-2)
+    - [1.2-3](#12-3)
+    - [1.2-Problems 1-1 Comparison of running times](#12-problems-1-1-comparison-of-running-times)
+  - [Getting started](#getting-started)
+    - [2.1-1 Illustrate how INSERTION-SORT works](#21-1-illustrate-how-insertion-sort-works)
+    - [2.1-2 Reverse INSERTION-SORT](#21-2-reverse-insertion-sort)
+    - [2.1-3](#21-3)
+    - [2.2-1 The basic concept of Big $\Theta$ notation](#22-1-the-basic-concept-of-big-math-xmlns%22httpwwww3org1998mathmathml%22semanticsmrowmi-mathvariant%22normal%22%ce%98mimrowannotation-encoding%22applicationx-tex%22thetaannotationsemanticsmath%ce%98-notation)
+    - [2.2-2 Analyse an algorithm yourself](#22-2-analyse-an-algorithm-yourself)
+    - [2.2-3](#22-3)
 # The Role of Algorithms in Computing
 ## Algorithms
 ### 1.1-1
@@ -9,12 +31,12 @@ Q: Other than speed, what other measures of efficiency might one use in a real-w
 
 A:
 ### 1.1-3
-Q: Select a data structure that you have seen previously, and discuss its strengths andlimitations.
+Q: Select a data structure that you have seen previously, and discuss its strengths and limitations.
 
-### 1.1-4
-Q: How are the shortest-path and traveling-salesman  problems given above similar?How are they different?
+### 1.1-4 
+Q: How are the shortest-path and traveling-salesman problems given above similar? How are they different?
 ### 1.1-5
-Q: Come up with a real-world problem in which only the best solution will do.  Thencome  up  with  one  in  which  a solution  that  is  “approximately”  the  best  is  goodenough.
+Q: Come up with a real-world problem in which only the best solution will do.  Then come  up  with  one  in  which  a solution  that  is  “approximately”  the  best  is  good enough.
 ### Convex hull
 
 ## Algorithms as a technology
@@ -31,3 +53,35 @@ For numericall solution, please first solve the [Dynamically show intersections 
 Q: What is the smallest value of $n$ such that an algorithm whose running time is $100n^2$ runs faster than an algorithm whose running time is $2^n$ on the same machine?
 ### 1.2-Problems 1-1 Comparison of running times
 For each function $f(n)$ and  time $t$in the  following  table,  determine the largest size $n$ of a problem that can be solved in time $t$, assuming that the algorithm to solve the problem takes $f(n)$ microseconds.
+
+## Getting started
+
+### 2.1-1 Illustrate how INSERTION-SORT works
+Q: Using the figure below as a model, illustrate the operation of INSERTION-SORT on the array $A=\langle 31,41,59,26,41,58\rangle$
+
+A:
+### 2.1-2 Reverse INSERTION-SORT
+Q: Rewrite the INSERTION-SORT procedure to sort into non-increasing instead of non-decreasing order.
+
+A:
+
+### 2.1-3 
+Q: Consider the **searching algorithm**:
+**Input**: A sequence of $n$ numbers $A=\langle a_1,a_2,...,a_n\rangle$ and a value $\nu$.
+**Ouput**: An index $i$ such that $\nu = A[i]$ or the special value $NIL$ if $\nu$ does not appear in $A$.  
+Write pseudocode for **linear search**, which scans through the sequence, looking for $\nu$. Using a loop invariant, prove that your algorithm is correct. Make sure that your loop invariant fulfills the three necessary properties.
+
+A:
+
+### 2.2-1 The basic concept of Big $\Theta$ notation
+Q: Express the function $n^3/1000-100n^2-100n+3$ in terms of $\Theta$-notation.
+
+A: $\Theta(n^3)$
+
+### 2.2-2 Analyse an algorithm yourself
+Q: Consider sorting $n$ numbers stored in array ```A``` by first finding the smallest element of ```A``` and exchanging it with the element in ```A[1]```. Then find the second smallest element of ```A```. Write pseudocode for this algorithm, which is known as **selection sort**. What loop invariant does this algorithm maintain?  Why does it need to run for only the first $n-1$ elements, rather than for all $n$ elements? Give the best-case and worst-case running times of selection sort in $\Theta$-notation.
+
+A:
+
+### 2.2-3
+Q: Consider linear search again(see [Exercise 2.1-3]())

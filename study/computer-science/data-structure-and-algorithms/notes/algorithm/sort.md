@@ -1,7 +1,7 @@
 # Definition
 **Input:** A sequence of $n$ numbers $\langle a_1, a_2, ..., a_n \rangle$.
 
-**Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such taht ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
+**Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such thatt ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
 
 ## Insertion sort
 ### Ideas

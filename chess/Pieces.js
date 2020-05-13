@@ -75,7 +75,18 @@ class Pawn extends Piece {
     }
 
     canMove(x, y, board) {
-        
+        if(!this.withinBounds(x, y)) {
+            return false;
+        }
+        if(this.attackingAllies(x, y, board)){
+            return false;
+        }
+
+        // If it is attacking the opponent
+        let attacking = board.isPieceAt(x, y);
+        if(attacking) {
+            if ()
+        }
     }
 
 }

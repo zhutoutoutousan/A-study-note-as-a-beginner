@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Topic oriented](#topic-oriented)
+  - [A](#a)
+    - [Abstraction](#abstraction)
   - [C](#c)
     - [Closure](#closure)
     - [Cluster](#cluster)
@@ -25,6 +27,10 @@
   - [T](#t-1)
 - [Translation CH-EN](#translation-ch-en)
 # Topic oriented
+## A
+### Abstraction
+- (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
+
 ## C
 ### Closure
 ### Cluster

@@ -7,7 +7,8 @@
   - [Syntax](#syntax)
   - [Constructor](#constructor)
     - [Syntax](#syntax-1)
-    - [```super()``` in constructors](#super-in-constructors)
+    - [Default](#default)
+    - [```super()```](#super)
     - [Resources](#resources)
   - [Getter](#getter)
   - [Setter](#setter)
@@ -53,9 +54,49 @@ class ThisIsAClass {
 constructor([arguments]) {...}
 ```
 
-### ```super()``` in constructors
+
+### Default
+For base classes: 
+```javascript
+constructor() {}
+```
+For derived classes:
+```javascript
+constructor(...args) {
+  super(...args);
+}
+```
+
+### ```super()```
 - Usage: when used in a constructor, the ```super``` keyword appeards alone and must be used before the ```this``` keyword is used. The ```super``` keyword can also be used to call functions on a parent object.
-- 
+- Must: In ES6, derived classes have to call ```super()``` if they have a constructor.
+- For now, just take it as that it takes the place of 
+```javascript
+this.a = a
+this.b = b
+this.blablabla = blablabla
+
+// Example 
+class foo {
+  constructor(a, b, c){
+    this.a = a
+    this.b = b
+    this.c = c
+  }
+  d(){
+    console.log(this.a)
+  }
+}
+class bar extends foo{
+  constructor(a,b,c,d){
+    super(a,b,c)
+    this.d = d
+  }
+  e(){
+    console.log(`${this.b} and ${this.d}`);
+  }
+}
+```
 ### Resources
 [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
 ## Getter

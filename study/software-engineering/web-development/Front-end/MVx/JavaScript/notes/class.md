@@ -54,6 +54,8 @@ constructor([arguments]) {...}
 ```
 
 ### ```super()``` in constructors
+- Usage: when used in a constructor, the ```super``` keyword appeards alone and must be used before the ```this``` keyword is used. The ```super``` keyword can also be used to call functions on a parent object.
+- 
 ### Resources
 [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
 ## Getter
@@ -61,6 +63,7 @@ constructor([arguments]) {...}
 ## Methods
 ### Prototype methods
 ### Static methods
+The **static keyword defines a static method for a class. Static methods aren't called on instances of the class. Instead, they're called on the class itself.
 ## Data
 
 # How to define a class

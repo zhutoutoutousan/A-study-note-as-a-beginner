@@ -14,6 +14,8 @@
 - [Tools](#tools)
   - [VScode](#vscode)
 - [Functions](#functions)
+  - [Globals](#globals)
+    - [```width```](#width)
   - [Shapes](#shapes)
     - [```fill()```](#fill)
     - [Rectangle](#rectangle)
@@ -37,6 +39,10 @@
       - [```mousePressed()```](#mousepressed)
   - [Animations](#animations)
     - [```translate()```](#translate)
+  - [DOM operation](#dom-operation)
+    - [```createDiv()```](#creatediv)
+    - [```createButton()```](#createbutton)
+    - [Events](#events)
 
 # Study progress
 - [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
@@ -78,6 +84,10 @@ function draw() {
 - live-p5
 
 # Functions
+
+## Globals
+### ```width```
+
 ## Shapes
 ### ```fill()```
 ### Rectangle
@@ -128,3 +138,8 @@ function setup() {
 
 ## Animations
 ### ```translate()```
+
+## DOM operation
+### ```createDiv()```
+### ```createButton()```
+### Events

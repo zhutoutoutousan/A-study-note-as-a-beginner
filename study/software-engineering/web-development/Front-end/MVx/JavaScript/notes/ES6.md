@@ -1,8 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Class](#class)
 - [Arrow function](#arrow-function)
   - [Defined or undefined?](#defined-or-undefined)
 - [Destructure assignment](#destructure-assignment)
+
+# Class
+See [class.md](./class.md)
 # Arrow function
 ## Defined or undefined?
 ```javascript
@@ -23,7 +27,7 @@ const test = (func, num, scale) => {
 
 test(insertSort, 100, 50);
 ```
-In these code, I've discovered that:
+
 ```javascript
  const sample = new Array(num).fill(0).map(x => x + Math.floor(Math.random() * scale))
 //  returns normal
@@ -32,6 +36,8 @@ In these code, I've discovered that:
 ```javascript
  const sample = new Array(num).fill(0).map(x =>{ x + Math.floor(Math.random() * scale)})
 //  returns undefined
+ const correction = new Array(num).fill(0).map(x =>{ return x + Math.floor(Math.random() * scale)})
+//  Normal
 ```
 
 # Destructure assignment

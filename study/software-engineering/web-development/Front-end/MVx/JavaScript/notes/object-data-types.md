@@ -1,6 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Object](#object)
+  - [General topics](#general-topics)
+    - [Property](#property)
+      - [Writable or non-writable?](#writable-or-non-writable)
   - [Array](#array)
   - [Map](#map)
     - [What is ```Map```?](#what-is-map)
@@ -19,6 +22,11 @@
         - [Syntax](#syntax)
     - [Reference](#reference-1)
 # Object
+
+## General topics
+### Property
+#### Writable or non-writable?
+
 ## Array
 
 ## Map

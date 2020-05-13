@@ -34,3 +34,9 @@ class Piece {
         }
     }
 }
+
+class Pawn extends Piece {
+    constructor(x, y, isWhite) {
+        super
+    }
+}

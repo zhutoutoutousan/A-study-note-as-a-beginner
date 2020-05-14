@@ -21,6 +21,10 @@
         - [Time consumption](#time-consumption)
         - [Order of growth](#order-of-growth)
 - [Algorithm design](#algorithm-design)
+  - [Design approaches](#design-approaches)
+    - [Incremental approach](#incremental-approach)
+    - [Divide and conquer](#divide-and-conquer)
+      - [Recursion level](#recursion-level)
 
 # Formal problem description
 
@@ -163,3 +167,12 @@ What is ignored:
 This sort has the worst-case running time of $\Theta(n^2)$ 
 
 # Algorithm design
+## Design approaches
+### Incremental approach
+For example, insertion sort.
+### Divide and conquer
+Most **recursive** algorithms follow a **divide-and-conquer** approach.
+#### Recursion level
+- **Divide**: the problem into a number of subproblems that are smaller instances of the same problem.
+- **Conquer**: the subproblems by solving them recursively. If the subproblem sizes are small enough, however, just solve the subproblems in a straightforward manner.
+- **Combine**: the solutions to the subproblems into the solution for the original problem.

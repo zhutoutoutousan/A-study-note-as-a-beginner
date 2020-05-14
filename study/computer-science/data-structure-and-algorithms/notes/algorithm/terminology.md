@@ -1,3 +1,21 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [A](#a)
+  - [Algorithm](#algorithm)
+- [D](#d)
+  - [Data structures](#data-structures)
+- [E](#e)
+  - [Efficiency](#efficiency)
+- [N](#n)
+  - [NP-complete problems](#np-complete-problems)
+- [P](#p)
+  - [Parallelism](#parallelism)
+  - [Probabilistic analysis](#probabilistic-analysis)
+- [R](#r)
+  - [Randomized algorithm](#randomized-algorithm)
+  - [Recursive](#recursive)
+- [W](#w)
+  - [Worst-case running time](#worst-case-running-time)
 # A
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
@@ -20,7 +38,8 @@
 
 # R
 ## Randomized algorithm
-
+## Recursive
+Many useful algorithms are **recursive** in structure: to solve a given problrm, they call themselves recursively one or more times to deal with closely related sub-problems.
 # W
 ## Worst-case running time
 

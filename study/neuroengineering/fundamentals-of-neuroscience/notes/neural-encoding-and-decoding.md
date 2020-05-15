@@ -1,3 +1,26 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Dendrites](#dendrites)
+- [Neuron](#neuron)
+  - [Neuron.types](#neurontypes)
+    - [Neuron.types.function.sensory](#neurontypesfunctionsensory)
+    - [Neuron.types.function.motor](#neurontypesfunctionmotor)
+    - [Neuron.types.function.interneuron](#neurontypesfunctioninterneuron)
+    - [Neuron.types.location.cortical](#neurontypeslocationcortical)
+    - [Neuron.types.location.spinal](#neurontypeslocationspinal)
+    - [Neuron.types.neurotransmitter.glutamatergic](#neurontypesneurotransmitterglutamatergic)
+    - [Neuron.types.neurotransmitter.cholinergic](#neurontypesneurotransmittercholinergic)
+    - [Neuron.types.shape.pyramidal](#neurontypesshapepyramidal)
+    - [Neuron.types.shape.granule](#neurontypesshapegranule)
+    - [Neuron.types.shape.mitral](#neurontypesshapemitral)
+  - [Neuron.prototype.apperance](#neuronprototypeapperance)
+  - [Neuron.prototype.property](#neuronprototypeproperty)
+    - [Neuron.prototype.property.structure](#neuronprototypepropertystructure)
+      - [Soma(Cell body)](#somacell-body)
+      - [Nucleus](#nucleus)
+      - [](#)
+    - [Neuron.prototype.property.function](#neuronprototypepropertyfunction)
+  - [Neuron.prototype.significance](#neuronprototypesignificance)
 # Dendrites
 
 # Neuron

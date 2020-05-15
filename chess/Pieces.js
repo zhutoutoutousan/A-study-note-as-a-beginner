@@ -58,6 +58,28 @@ class Piece {
         return true;
     }
 
+    moveThroughPieces(x, y, board) {
+        let stepDirectionX = x - this.matrixPosition.x;
+        stepDirectionX = stepDirectionX > 0 ? 1
+                         : stepDirectionX < 0 ? -1
+                         : undefined;
+        let stepDirectionY = y - this.matrixPosition.y;
+        stepDirectionY = stepDirectionY > 0 ? 1
+                         : stepDirectionY < 0 ? -1
+                         : undefined;
+        let tempPos = createVector(this.matrixPosition.x, this.matrixPosition.y);
+        tempPos.x += stepDirectionX;
+        tempPos.y += stepDirectionY;
+        while (tempPos.x != x || tempPos.y != y){
+            if(board.getPieceAt(tempPos.x, tempPos.y) != null) {
+                return true;
+            }
+            tempPos.x += stepDirectionX;
+            tempPos.y += stepDirectionY;
+        }
+        return false;
+    }
+
 }
 
 class Pawn extends Piece {
@@ -85,8 +107,42 @@ class Pawn extends Piece {
         // If it is attacking the opponent
         let attacking = board.isPieceAt(x, y);
         if(attacking) {
-            if ()
+            if (abs(x - this.matrixPosition.x) == abs(y - this.matrixPosition.y)
+                && (
+                    (this.white && (y - this.matrixPosition.y) == -1)
+                    || (!this.white && (y - this.matrixPosition.y) == 1)
+                    )
+                ){
+                    this.firstTurn = false;
+                    return true;
+                }
+            return false;
         }
+        if(x != this.matrixPosition.x) {
+            return false;
+        }
+        if ((this.white && y - this.matrixPosition.y == -1)
+             || (!this.white && y- this.matrixPosition.y == 1)){
+                 this.firstTurn = false;
+                 return true;
+             }
+        if (this.firstTurn && ((this.white && y - this.matrixPosition.y == -2)
+            || (!this.white && y - this.matrixPosition.y == 2))){
+            if (this.moveThroughPieces(x, y, board)) {
+                return false;
+            }
+
+            this.firstTurn = false;
+            return true;
+        }
+        return false;
     }
 
+    generateMoves(board) {
+        let moves = [];
+
+        for(let i = -1; i < 2; i += 2){
+
+        }
+    }
 }

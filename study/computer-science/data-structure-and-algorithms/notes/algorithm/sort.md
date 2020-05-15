@@ -153,19 +153,20 @@ merge(A, p, q, r)
 
 ### JavaScript 
 ```javascript
-const mergeSort = (arr, p, r) => {
-    if(p < r){
-        q =  (p + r) / 2;
-        mergeSort(arr, p, q);
-        mergeSort(arr, q + 1, r);
-        merge(arr, p ,q, r);
+const mergeSort = (arr, leftEnd, rightEnd) => {
+    if(leftEnd < rightEnd){
+        middle =  (leftEnd + rightEnd) / 2;
+        mergeSort(arr, leftEnd, middle);
+        mergeSort(arr, middle + 1, rightEnd);
+        merge(arr, leftEnd,middle, rightEnd);
     }
     return arr;
 }
 
-const merge = (arr, p, q, r) => {
-    let n_1 = q - p + 1;
-    let n_2 = r - q;
+const merge = (arr, leftEnd, middle, rightEnd) => {
+    let n_1 = middle - leftEnd + 1;
+    let n_2 = rightEnd - middle;
+    let inf = 9999;
     let L = new Array(n_1 + 1);
     let R
 }

@@ -138,11 +138,19 @@ class Pawn extends Piece {
         return false;
     }
 
+
     generateMoves(board) {
         let moves = [];
 
         for(let i = -1; i < 2; i += 2){
 
         }
+    }
+    clone() {
+        let clone = new 
+    }
+
+    IsEnPassant(x, y, board){
+
     }
 }

@@ -11,3 +11,12 @@ function setup() {
     }
     
 }
+
+
+function mousePressed() {
+    let x = floor(mouseX / tileSize);
+    let y = floor(mouseY / tileSize);
+    if(!test.isDone()) {
+        
+    }
+}

@@ -242,4 +242,47 @@ class Bishop extends Piece {
                !(abs(x - this.matrixPosition.x) == abs(y - this.matrixPosition.y)) ? false :
                this.moveThroughPieces(x, y, board) ? false : true;
     }
+
+
+    /*
+
+              WHITE'S PERSPECTIVE
+
+             A  B  C  D  E  F  G  H
+        8-0  
+        7-1                       *
+        6-2  *                 *
+        5-3     *           *
+        4-4        *     *
+        3-5           B
+        2-6        *     *
+        1-7     *           *
+
+        Let's say the coordinate of the bishop is (x, y). In the example above, x = 4, y = 5,
+        assuming that we're using the y coordinates during programming. Then the bishop's movement
+        has two patterns: Rising and falling.
+
+        For the rising pattern, we count 
+
+
+
+    */
+    generateMoves(board) {
+        let moves = [];
+        for (let i = 0; i < 8; i++) {
+            let x = i;
+            let y = this.matrixPosition.y - (this.matrixPosition.x - i);
+            if(
+                x != this.matrixPosition.x &&
+                this.withinBounds(x, y) &&
+                !this.attackingAllies(x, y, board) &&
+                !this.moveThroughPieces(x, y, board)
+            ){
+                moves.push(createVector(x, y));
+            }
+        }
+
+
+
+    }
 }

@@ -210,9 +210,9 @@ class King extends Piece {
         let container = new Array(8);
         for (let i = -1; i < 2; i++) {
             for (let j = -1; j < 2; j++) {
-                if (this.withinBounds(c_x+x, c_y+y) &&
-                    (i != 0 || j != 0) &&
-                    !this.attackingAllies(c_x+x, c_y+y, board)
+                if ( (i != 0 || j != 0) &&
+                     this.withinBounds(c_x+x, c_y+y) &&
+                     !this.attackingAllies(c_x+x, c_y+y, board)
                 ){
                     moves.push(createVector(x, y))
                 }
@@ -221,4 +221,25 @@ class King extends Piece {
         return moves;
     }
 
+    clone() {
+        let clone = new King(this.matrixPosition.x, this.matrixPosition.y, this.white);
+        clone.taken = this.taken;
+        return clone;
+    }
+}
+
+class Bishop extends Piece {
+    constructor(x, y, isWhite){
+        super(x, y, isWhite);
+        this.letter = 'B';
+        this.pic = isWhite ? images[2] : images[8];
+        this.value = 3;
+    }
+
+    canMove(x, y, board) {
+        return !this.withinBounds ? false :
+               this.attackingAllies(x, y, board) ? false :
+               !(abs(x - this.matrixPosition.x) == abs(y - this.matrixPosition.y)) ? false :
+               this.moveThroughPieces(x, y, board) ? false : true;
+    }
 }

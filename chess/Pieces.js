@@ -88,12 +88,7 @@ class Pawn extends Piece {
         this.letter = "p";
         this.firstTurn = true;
         this.value = 1;
-        if (isWhite) {
-            this.pic = images[5];
-        }
-        else {
-            this.pic = images[11];
-        }   
+        this.pic = isWhite ? images[5] : images[11]
     }
 
     canMove(x, y, board) {
@@ -194,12 +189,7 @@ class King extends Piece {
     constructor(x, y, isWhite) {
         super(x, y, isWhite);
         this.letter = 'K';
-        if (isWhite) {
-            this.pic = images[0];
-        }
-        else{
-            this.pic = images[6];
-        }
+        this.pic = isWhite ? images[0] : images[6];
         this.value = 99;
     }
 
@@ -214,8 +204,21 @@ class King extends Piece {
     }
 
     generateMoves(board) {
+        let c_x = this.matrixPosition.x;
+        let c_y = this.matrixPosition.y;
         let moves = [];
-        
+        let container = new Array(8);
+        for (let i = -1; i < 2; i++) {
+            for (let j = -1; j < 2; j++) {
+                if (this.withinBounds(c_x+x, c_y+y) &&
+                    (i != 0 || j != 0) &&
+                    !this.attackingAllies(c_x+x, c_y+y, board)
+                ){
+                    moves.push(createVector(x, y))
+                }
+            }
+        }
+        return moves;
     }
 
 }

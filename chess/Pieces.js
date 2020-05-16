@@ -142,15 +142,80 @@ class Pawn extends Piece {
     generateMoves(board) {
         let moves = [];
 
+        // Attacking
         for(let i = -1; i < 2; i += 2){
-
+            let x = this.matrixPosition.x + i;
+            let y = this.white ? this.matrixPosition.y - 1 : this.matrixPosition + 1;
+            let attacking = board.getPieceAt(x, y);
+            if (attacking && (!this.attackingAllies(x, y, board))) {
+                moves.push(createVector(x, y));
+            }
         }
+
+        // Regular move
+        let x = this.matrixPosition.x;
+        let y = this.white ? this.matrixPosition.y - 1 : this.matrixPosition + 1;
+        if(!board.isPieceAt(x, y) && this.withinBounds(x, y)) {
+            moves.push(createVector(x, y));
+        }
+        
+        // First move
+        let y = this.white ? y - 1 : y + 1;
+        if (this.firstTurn && 
+            this.withinBounds(x, y) &&
+            !this.moveThroughPieces(x, y, board)
+            ) {
+                moves.push(createVector(x,y));
+        }
+        print("pawn", moves);
+        return moves;
     }
     clone() {
-        let clone = new 
+        let clone = new Pawn(this.matrixPosition.x, this.matrixPosition.y, this.white);
+        clone.taken = this.taken;
+        clone.firstTurn = this.firstTurn;
+        return clone;
     }
 
-    IsEnPassant(x, y, board){
-
+    move(x, y, board) {
+        let attacking = board.getPieceAt(x, y);
+        attacking.taken = !attacking ? true : false;
+        this.matrixPosition = createVector(x, y);
+        this.pixelPosition = createVector(x * tileSize + tileSize / 2, y * tileSize + tileSize / 2);
+        this.firstTurn = false;
     }
+
+    // IsEnPassant(x, y, board){
+    // 
+    // }
+}
+
+class King extends Piece {
+    constructor(x, y, isWhite) {
+        super(x, y, isWhite);
+        this.letter = 'K';
+        if (isWhite) {
+            this.pic = images[0];
+        }
+        else{
+            this.pic = images[6];
+        }
+        this.value = 99;
+    }
+
+    canMove(x, y, board) {
+        if(this.attackingAllies(x, y, board) || !this.withinBounds(x, y)) {
+            return false;
+        }
+        if (abs(x - this.matrixPosition.x) <= 1 && abs(y - this.matrixPosition.y) <= 1){
+            return true;
+        }
+        return false;
+    }
+
+    generateMoves(board) {
+        let moves = [];
+        
+    }
+
 }

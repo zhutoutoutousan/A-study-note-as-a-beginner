@@ -1,13 +1,14 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Definition](#definition)
+- [What is common among sorting](#what-is-common-among-sorting)
+  - [JavaScript](#javascript)
 - [Insertion sort](#insertion-sort)
   - [Basics](#basics)
   - [Realization](#realization)
     - [Pseudocode](#pseudocode)
-    - [JavaScript](#javascript)
+    - [JavaScript](#javascript-1)
   - [Real-life applications](#real-life-applications)
-    - [Leetcode](#leetcode)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
     - [Machine learning](#machine-learning)
@@ -15,7 +16,7 @@
   - [Basics](#basics-1)
   - [Realization](#realization-1)
     - [Pseudocode](#pseudocode-1)
-    - [JavaScript](#javascript-1)
+    - [JavaScript](#javascript-2)
     - [Java](#java)
     - [C++](#c)
 - [Quick sort](#quick-sort)
@@ -23,6 +24,19 @@
 **Input:** A sequence of $n$ numbers $\langle a_1, a_2, ..., a_n \rangle$.
 
 **Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such thatt ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
+
+# What is common among sorting
+## JavaScript
+```javascript
+class Sort {
+    constructor(originalCallbacks) {
+        this.callback = Sort.initSortingCallbacks(originalCallbacks);
+        this.comparator = new Comparator(this.callbacks.compareCallback);
+    }
+}
+
+```
+
 
 # Insertion sort
 ## Basics
@@ -94,7 +108,6 @@ test(ReduceSort,100000,500)  // Failed 2300ms
 ```
 
 ## Real-life applications
-### Leetcode
 ### Front-end development
 ### Back-end development
 ### Machine learning
@@ -153,23 +166,8 @@ merge(A, p, q, r)
 
 ### JavaScript 
 ```javascript
-const mergeSort = (arr, leftEnd, rightEnd) => {
-    if(leftEnd < rightEnd){
-        middle =  (leftEnd + rightEnd) / 2;
-        mergeSort(arr, leftEnd, middle);
-        mergeSort(arr, middle + 1, rightEnd);
-        merge(arr, leftEnd,middle, rightEnd);
-    }
-    return arr;
-}
+class 
 
-const merge = (arr, leftEnd, middle, rightEnd) => {
-    let n_1 = middle - leftEnd + 1;
-    let n_2 = rightEnd - middle;
-    let inf = 9999;
-    let L = new Array(n_1 + 1);
-    let R
-}
 ```
 
 ### Java

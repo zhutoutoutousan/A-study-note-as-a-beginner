@@ -21,6 +21,8 @@
 ### HTML
 #### Playgrounds
 [Codepen](https://codepen.io/)
+- Can use **console**, **assets**
+
 
 ### CSS
 #### Playgrounds

@@ -1,13 +1,11 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Definition](#definition)
-- [What is common among sorting](#what-is-common-among-sorting)
-  - [JavaScript](#javascript)
 - [Insertion sort](#insertion-sort)
   - [Basics](#basics)
   - [Realization](#realization)
     - [Pseudocode](#pseudocode)
-    - [JavaScript](#javascript-1)
+    - [JavaScript](#javascript)
   - [Real-life applications](#real-life-applications)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
@@ -16,7 +14,7 @@
   - [Basics](#basics-1)
   - [Realization](#realization-1)
     - [Pseudocode](#pseudocode-1)
-    - [JavaScript](#javascript-2)
+    - [JavaScript](#javascript-1)
     - [Java](#java)
     - [C++](#c)
 - [Quick sort](#quick-sort)
@@ -25,17 +23,6 @@
 
 **Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such thatt ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
 
-# What is common among sorting
-## JavaScript
-```javascript
-class Sort {
-    constructor(originalCallbacks) {
-        this.callback = Sort.initSortingCallbacks(originalCallbacks);
-        this.comparator = new Comparator(this.callbacks.compareCallback);
-    }
-}
-
-```
 
 
 # Insertion sort
@@ -166,7 +153,9 @@ merge(A, p, q, r)
 
 ### JavaScript 
 ```javascript
-class 
+class MergeSort {
+    constructor()
+}
 
 ```
 

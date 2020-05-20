@@ -8,7 +8,9 @@
   - [Endocannabinoid](#endocannabinoid)
   - [Oxytocin](#oxytocin)
   - [Endorphin](#endorphin)
-- [Resources](#resources)
+  - [Resources](#resources)
+- [Wholistic view](#wholistic-view)
+  - [Resources](#resources-1)
 # Biological view
 ## Dopamine
 ### Reward pathway
@@ -32,5 +34,10 @@ Related with *warmth* and *bonding*
 ## Endorphin
 Related with *pleasure* and *satisfaction*
 
-# Resources
+## Resources
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)
+
+# Wholistic view
+
+## Resources
+[Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)

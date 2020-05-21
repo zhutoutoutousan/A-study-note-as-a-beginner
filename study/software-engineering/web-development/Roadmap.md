@@ -10,8 +10,8 @@
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
     - [Resources](#resources-1)
+    - [Learning materials](#learning-materials)
   - [Back-end](#back-end)
-    - [Resources](#resources-2)
 
 # Roadmap
 ## Full-stack
@@ -30,5 +30,9 @@
 ### JavaScript
 ### Resources
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)
+[我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)
+### Learning materials
+- Udemy
+- [Front-end master](https://frontendmasters.com/)
 ## Back-end
-### Resources
+

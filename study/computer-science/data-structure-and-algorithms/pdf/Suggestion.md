@@ -1,3 +1,8 @@
+# Reading progress
+## Introduction to algorithms
+- [ ] Algorithms--> Getting started -->
+- [ ] Data structure 
+
 # Suggestions
 - Read 'Data structure' and 'Algorithm' 
 - Then read sequentially

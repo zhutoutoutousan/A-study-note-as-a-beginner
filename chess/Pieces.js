@@ -22,7 +22,7 @@ class Piece {
                 text(this.letter, this.pixelPosition.x, this.pixelPosition.y);
                 image(this.pic, this.pixelPosition.x, this.pixelPosition.y, tileSize, tileSize);
             }
-        }+
+        }
     }
 
     generateNewBoards(currentBoard) {
@@ -155,7 +155,7 @@ class Pawn extends Piece {
         }
         
         // First move
-        let y = this.white ? y - 1 : y + 1;
+        y = this.white ? y - 1 : y + 1;
         if (this.firstTurn && 
             this.withinBounds(x, y) &&
             !this.moveThroughPieces(x, y, board)

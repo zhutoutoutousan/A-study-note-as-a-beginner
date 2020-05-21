@@ -10,6 +10,7 @@
   - [Endorphin](#endorphin)
   - [Resources](#resources)
 - [Wholistic view](#wholistic-view)
+  - [Habits](#habits)
   - [Resources](#resources-1)
 # Biological view
 ## Dopamine
@@ -38,6 +39,9 @@ Related with *pleasure* and *satisfaction*
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)
 
 # Wholistic view
+## Habits 
+
 
 ## Resources
-[Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)
+[Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)  
+[The power of habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)

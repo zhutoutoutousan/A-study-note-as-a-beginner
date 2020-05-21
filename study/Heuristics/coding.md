@@ -31,6 +31,8 @@ originall.metadata.title = blablabla
 
 Is it so? Is this line of thinking wrong?
 
+## Immutable elements
+
 # Resource
 [THE NATURE OF CODE - DANIEL SHIFFMAN](https://natureofcode.com/book/introduction/)
 

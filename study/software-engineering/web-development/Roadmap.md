@@ -22,7 +22,7 @@
 #### Playgrounds
 [Codepen](https://codepen.io/)
 - Can use **console**, **assets**
-
+- [How to enable autocomplete](https://blog.codepen.io/documentation/autocomplete/)
 
 ### CSS
 #### Playgrounds

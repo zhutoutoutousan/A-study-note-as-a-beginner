@@ -4,4 +4,4 @@
 
 # Keyboard shortcuts
 ## History navigation
-- Reopen recently closed tab: Ctrl + Shift + Tff
+- Reopen recently closed tab: Ctrl + Shift + T

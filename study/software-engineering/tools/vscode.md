@@ -10,6 +10,10 @@
 - [Shorthands and keyboard shortcuts](#shorthands-and-keyboard-shortcuts)
 - [Resources](#resources-1)
 # Navigation
+## Navigate through the application
+- Toggle Explorer: Ctrl+Shift+E !Doesn't seem to work XD
+## Navigate through code
+- I want to scroll down/up using just the keyboard: Ctrl+Up/Down
 ## Exclude commented code from searches
 ### Use regExp
 ```regexp

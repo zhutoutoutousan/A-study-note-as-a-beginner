@@ -249,12 +249,12 @@ class Bishop extends Piece {
               WHITE'S PERSPECTIVE
 
              A  B  C  D  E  F  G  H
-        8-0  
-        7-1                       *
-        6-2  *                 *
-        5-3     *           *
-        4-4        *     *
-        3-5           B
+        8-0           |  
+        7-1           |           *
+        6-2  *        |        *
+        5-3     *     |     *
+        4-4        *  |  *
+        3-5  -  -  -  B
         2-6        *     *
         1-7     *           *
 
@@ -262,7 +262,8 @@ class Bishop extends Piece {
         assuming that we're using the y coordinates during programming. Then the bishop's movement
         has two patterns: Rising and falling.
 
-        For the rising pattern, we count 
+        From the illustration we know that for a certain position X, the corresponding position for 
+        Y of Bishop at (A,B) is 'B - A + X'
 
 
 
@@ -282,7 +283,40 @@ class Bishop extends Piece {
             }
         }
 
-
-
+        for (let i = 0; i < 8; i++) {
+            let x = this.matrixPosition.x + (this.matrixPosition.y - i);
+            let y = i;
+            if(
+                x != this.matrixPosition.x &&
+                this.withinBounds(x, y) &&
+                !this.attackingAllies(x, y, board) &&
+                !this.moveThroughPieces(x, y, board)
+            ){
+                moves.push(createVector(x, y));
+            }
+        }
     }
+    clone() {
+        let clone = new Bishop(this.matrixPosition.x, this.matrixPosition.y, this.white);
+        clone.taken = this.taken;
+        return clone;
+    }
+}
+
+class Rook extends Piece {
+    constructor(x, y, isWhite) {
+        super(x, y, isWhite);
+        this.letter = "R";
+        if (isWhite) {
+            this.pic = images[4];
+        }
+        else{
+            this.pic = images[10];
+        }
+        this.value = 5;
+    }
+    canMove(x, y, board) {
+        
+    }
+
 }

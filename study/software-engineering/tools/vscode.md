@@ -22,7 +22,8 @@
 - Terminal can't execute some commands but the system terminal can
 ## Navigate through the application
 - Toggle Explorer: Ctrl+Shift+E !Doesn't seem to work XD
-- Open another 
+- Open another window: Ctrl+Shift+N
+- Hide/Display side bar: Ctrl+B
 ## Navigate through code
 - I want to scroll down/up using just the keyboard: Ctrl+Up/Down
 - I want to search backwards: Ctrl+F, Shift+Enter

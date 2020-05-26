@@ -333,7 +333,13 @@ class Rook extends Piece {
     generateMoves(board) {
         let moves = [];
 
-        
+        let x = i;
+        let y = this.matrixPosition.y;
+        if(
+            x != this.matrixPosition.x &&
+            !this.attackingAllies(x, y, board)
+        )
+
 
     }
 }

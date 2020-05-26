@@ -33,6 +33,10 @@ Is it so? Is this line of thinking wrong?
 
 ## Immutable elements
 
+# Mind palace
+## Minding Class-Object model 
+
+
 # Resource
 [THE NATURE OF CODE - DANIEL SHIFFMAN](https://natureofcode.com/book/introduction/)
 

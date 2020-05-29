@@ -1,0 +1,38 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Primitive data types](#primitive-data-types)
+  - [Undefined](#undefined)
+  - [Boolean](#boolean)
+  - [Symbol](#symbol)
+    - [Reference](#reference)
+  - [BigInts](#bigints)
+  - [Null](#null)
+  - [Number](#number)
+  - [String](#string)
+    - [Template literals](#template-literals)
+      - [Reference](#reference-1)
+- [Object](#object)
+- [Function](#function)
+# Primitive data types
+## Undefined
+Used for unintentionally missing values
+## Boolean
+
+## Symbol
+Used for hiding implementation details
+### Reference
+[Symbol -MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+## BigInts
+## Null
+Used for intentionally missing values
+## Number
+## String
+### Template literals
+#### Reference
+[Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+# Object
+Check out [Object](./object.md)
+# Function
+Check out [Function](./function.md)
+
+

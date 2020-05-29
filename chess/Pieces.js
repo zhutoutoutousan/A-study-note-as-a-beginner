@@ -316,7 +316,30 @@ class Rook extends Piece {
         this.value = 5;
     }
     canMove(x, y, board) {
-        
+        if (
+            this.withinBounds(x, y) &&
+            !this.attackingAllies(x, y, board) &&
+            (
+                x == this.matrixPosition.x ||
+                y == this.matrixPosition.y &&
+                !this.moveThroughPieces(x, y, board)
+            )
+        ){
+            return true;
+        }            
+        return false;
     }
 
+    generateMoves(board) {
+        let moves = [];
+
+        let x = i;
+        let y = this.matrixPosition.y;
+        if(
+            x != this.matrixPosition.x &&
+            !this.attackingAllies(x, y, board)
+        )
+
+
+    }
 }

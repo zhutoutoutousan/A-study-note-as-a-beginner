@@ -1,2 +1,3 @@
 # Ways to learn
-- DeHelper
+- DrHelper
+- Lingodeer

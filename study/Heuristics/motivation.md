@@ -9,6 +9,8 @@
   - [Oxytocin](#oxytocin)
   - [Endorphin](#endorphin)
   - [Resources](#resources)
+- [Psychological view](#psychological-view)
+  - [Flow](#flow)
 - [Wholistic view](#wholistic-view)
   - [Habits](#habits)
   - [Resources](#resources-1)
@@ -37,6 +39,9 @@ Related with *pleasure* and *satisfaction*
 
 ## Resources
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)
+
+# Psychological view
+## Flow
 
 # Wholistic view
 ## Habits 

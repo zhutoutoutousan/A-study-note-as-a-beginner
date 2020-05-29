@@ -127,5 +127,5 @@ The **static keyword defines a static method for a class. Static methods aren't 
 # Tricks
 
 # Resource
-[Class - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+[Class - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)  
 [ES6 In Depth: Subclassing](https://hacks.mozilla.org/2015/08/es6-in-depth-subclassing/)

@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Primitive data types](#primitive-data-types)
+  - [Properties](#properties)
+    - [Immutability](#immutability)
   - [Undefined](#undefined)
   - [Boolean](#boolean)
   - [Symbol](#symbol)
@@ -14,6 +16,14 @@
 - [Object](#object)
 - [Function](#function)
 # Primitive data types
+## Properties
+### Immutability
+Primitive values are immutable
+```javascript
+let reaction = 'yikes';
+reaction[0] = 'l';
+console.log(reaction);  // yikes
+```
 ## Undefined
 Used for unintentionally missing values
 ## Boolean

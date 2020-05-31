@@ -10,6 +10,7 @@
   - [History](#history)
     - [Processing](#processing)
   - [Source code study](#source-code-study)
+    - [Core](#core)
   - [Functional improvements](#functional-improvements)
 - [Tools](#tools)
   - [VScode](#vscode)
@@ -77,6 +78,8 @@ function draw() {
 ## History
 ### Processing
 ## Source code study
+### Core
+The main ```p5``` class can be found in *./src/core/main.js*
 ## Functional improvements
 
 # Tools

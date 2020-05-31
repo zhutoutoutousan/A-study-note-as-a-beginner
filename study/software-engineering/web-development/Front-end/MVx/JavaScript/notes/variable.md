@@ -1,7 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Mental modal](#mental-modal)
 - [Difference between value](#difference-between-value)
-- [Const, let, var](#const-let-var)
+- [const, let, var](#const-let-var)
   - [Scope](#scope)
     - [var scope](#var-scope)
     - [let scope](#let-scope)
@@ -12,8 +13,12 @@
   - [Memory usage](#memory-usage)
   - [Reference](#reference)
 
+# Mental modal
+A wire that start from the ```name``` and points to the ```value```.
 # Difference between value
-# Const, let, var
+- Variables are not values
+- Variables point to values
+# const, let, var
 ## Scope
 The *scope* of a variable refers to where said variable can be accessed from & the newer ES6 declared variables have different scope than var provides.
 ### var scope

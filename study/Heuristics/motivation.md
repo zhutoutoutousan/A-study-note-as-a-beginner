@@ -10,9 +10,19 @@
   - [Endorphin](#endorphin)
   - [Resources](#resources)
 - [Psychological view](#psychological-view)
-  - [Flow](#flow)
+  - [Optimal psychological state when studying](#optimal-psychological-state-when-studying)
+    - [Flow](#flow)
+  - [Personality](#personality)
+    - [Syndromes](#syndromes)
+      - [Napoleon syndrome](#napoleon-syndrome)
+    - [Personality type](#personality-type)
+      - [Pedantic personality](#pedantic-personality)
+      - [Narcissistic personality](#narcissistic-personality)
+      - [Psychotic personality](#psychotic-personality)
+    - [The big five model](#the-big-five-model)
 - [Wholistic view](#wholistic-view)
   - [Habits](#habits)
+  - [Soul](#soul)
   - [Resources](#resources-1)
 # Biological view
 ## Dopamine
@@ -41,11 +51,21 @@ Related with *pleasure* and *satisfaction*
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)
 
 # Psychological view
-## Flow
+## Optimal psychological state when studying
+### Flow
+## Personality
+### Syndromes
+#### Napoleon syndrome
+### Personality type
+#### Pedantic personality 
+#### Narcissistic personality
+#### Psychotic personality
+### The big five model
+
 
 # Wholistic view
 ## Habits 
-
+## Soul
 
 ## Resources
 [Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)  

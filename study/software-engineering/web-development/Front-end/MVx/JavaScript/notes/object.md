@@ -4,7 +4,9 @@
   - [Everything is an object?](#everything-is-an-object)
   - [Property](#property)
     - [Writable or non-writable?](#writable-or-non-writable)
-- [Array](#array)
+- [```Object```](#object)
+  - [```Object.defineProperty```](#objectdefineproperty)
+- [```Array```](#array)
 - [window](#window)
 - [document](#document)
 - [Map](#map)
@@ -26,11 +28,14 @@
 
 # General topics
 ## Everything is an object?
-
+No, check Dan abramov's Just JavaScript course for more.
 ## Property
 ### Writable or non-writable?
 
-# Array
+# ```Object```
+## ```Object.defineProperty```
+
+# ```Array```
 
 # window
 

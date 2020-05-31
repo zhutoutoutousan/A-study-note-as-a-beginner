@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Mental modal](#mental-modal)
+- [Nuances](#nuances)
+  - [Passing by variable or value?](#passing-by-variable-or-value)
 - [Difference between value](#difference-between-value)
 - [const, let, var](#const-let-var)
   - [Scope](#scope)
@@ -15,6 +17,18 @@
 
 # Mental modal
 A wire that start from the ```name``` and points to the ```value```.
+# Nuances
+## Passing by variable or value?
+```javascript
+function double(x) {
+  x = x * 2;
+}
+
+let money = 10;
+double(money); // passing by value, not variable
+console.log(money); // 10
+```
+
 # Difference between value
 - Variables are not values
 - Variables point to values

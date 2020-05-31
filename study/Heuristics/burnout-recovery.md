@@ -12,6 +12,7 @@
   - [Brain fog](#brain-fog)
   - [Stomach](#stomach)
     - [Peptic ulcer](#peptic-ulcer)
+- [Circadian rhythm](#circadian-rhythm)
 - [Books](#books)
 - [Resource](#resource)
 # Measures
@@ -27,8 +28,11 @@
 Testosterone--> DHT --> Sebum 
 ### Diet
 ## Brain fog
+- Meditation might help
 ## Stomach
 ### Peptic ulcer
+
+# Circadian rhythm
 
 # Books
 - L'étranger

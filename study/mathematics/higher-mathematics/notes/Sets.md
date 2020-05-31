@@ -1,3 +1,21 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Basic definitions](#basic-definitions)
+  - [Set](#set)
+    - [Set.definition](#setdefinition)
+    - [Set.property](#setproperty)
+      - [Set.property.bound](#setpropertybound)
+      - [Set.property.interval](#setpropertyinterval)
+    - [Set.relations](#setrelations)
+    - [Set.instance](#setinstance)
+      - [Number Sets](#number-sets)
+      - [Miscellaneous](#miscellaneous)
+    - [Set.geometry](#setgeometry)
+      - [$A \setminus B$ display](#eqmathsemanticsmrowmiamimomomibmimrowannotation-encodingapplicationx-texa-setminus-bannotationsemanticsmathabeq-display)
+      - [Complementary set](#complementary-set)
+- [Cardinality](#cardinality)
+- [Solved problems](#solved-problems)
+- [Current problems](#current-problems)
 # Basic definitions
 ## Set
 ### Set.definition
@@ -35,7 +53,13 @@ $\bold{Lower bound}$ : A real number $a$ such that $x \geq a$ for all $x \in S$ 
 ![The difference of two sets $A$ and $B$](../assets/setminus.PNG)
 #### Complementary set
 ![The complementary set or complement of $B$ in $A$](../assets/complementary.PNG)
+# Cardinality
+The **cardinality** of a set is a measure of the "number of elements of the set".  
+For example, the set $A= \{2,4,6\}$ contains 3 elements, and therefore $A$ has a cardinality of 3.  
+For more, check out [wikipaedia](https://en.wikipedia.org/wiki/Cardinality)
+
 # Solved problems
 
 
 # Current problems
+

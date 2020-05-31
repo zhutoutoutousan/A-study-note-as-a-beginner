@@ -1,9 +1,22 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Difference between value](#difference-between-value)
+- [Const, let, var](#const-let-var)
+  - [Scope](#scope)
+    - [var scope](#var-scope)
+    - [let scope](#let-scope)
+    - [const scope](#const-scope)
+  - [for loop](#for-loop)
+    - [```const``` in for...in loops](#const-in-forin-loops)
+  - [Async JavaScript](#async-javascript)
+  - [Memory usage](#memory-usage)
+  - [Reference](#reference)
 
-# Variable
-## Const, let, var
-### Scope
+# Difference between value
+# Const, let, var
+## Scope
 The *scope* of a variable refers to where said variable can be accessed from & the newer ES6 declared variables have different scope than var provides.
-#### var scope
+### var scope
 Var has *function scope*, which means that variable declared with var are accessible anywhere within the function they were declared in.
 ```javascript
 const a = _ => {console.log(i); var i = 5;}
@@ -14,7 +27,7 @@ console.log(j) // undefined
 for (var j = 0; j < 2; j++) {console.log(j)} // 0 1
 console.log(j);  // 2
 ```
-#### let scope
+### let scope
 ```let``` variable has *block scope*,meaning, just as it sounds, that they can only be accessed from inside of a block \{\} they were declared in.
 ```javascript
 const a = _ => {console.log(i); let i = 5;}
@@ -25,7 +38,7 @@ console.log(j) // Uncaught ReferenceError: i is not defined
 for (let j = 0; j < 2; j++) {console.log(j)} // 0 1
 console.log(j);  // Uncaught ReferenceError: i is not defined
 ```
-#### const scope
+### const scope
 ```javascript
 const a = _ => {console.log(i); const i = 5;}
 a();  // Uncaught ReferenceError: Cannot access 'i' before initialization
@@ -41,8 +54,8 @@ console.log(k);  // Uncaught ReferenceError: k is not defined
 
 ```
 
-### for loop
-#### ```const``` in for...in loops
+## for loop
+### ```const``` in for...in loops
 **Const** is special, because variables defined with it are constants that can't be reassigned or redeclared. It is the safest option of all 3 declaration statements for this reason. It is recommended to use ```const``` to declare variables unless there is a specific reason to use the more lenient ```let``` or ```var```.
 
 Let's look at the example
@@ -65,11 +78,11 @@ for (const i in arr0) {console.log(arr[i])}
 // 1 2 3 4
 // Upon deeper inspection of these types of for loops, it seems that they create a new block scope with each iteration. That would mean that each new index is actually a new variable within a new scope & our constant is never reassigned.
 ```
-### Async JavaScript
+## Async JavaScript
 
-### Memory usage
+## Memory usage
 
-### Reference
+## Reference
 [var vs let vs const in JavaScript](https://tylermcginnis.com/var-let-const/)
 
 [ES6 Variable Declaration & For Loops — Why ‘const’ works in a ‘for…in’ loop but not in a normal ‘for’ loop](https://medium.com/@mautayro/es6-variable-declaration-for-loops-why-const-works-in-a-for-in-loop-but-not-in-a-normal-a200cc5467c2)

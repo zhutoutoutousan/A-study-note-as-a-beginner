@@ -26,10 +26,12 @@ copy.metadata.title = blablabla
 ```
 Actually yields:
 ```javascript
-originall.metadata.title = blablabla
+original.metadata.title = blablabla
 ```
 
 Is it so? Is this line of thinking wrong?
+
+## Values
 
 ## Immutable elements
 

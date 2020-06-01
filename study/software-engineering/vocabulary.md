@@ -76,5 +76,6 @@ The term **Web service(WS)** is either:
 # 中英对照词汇 CH-EN
 ## 前端开发
 -  注入 - Injection
+-  轮播图 - carousel
 ## 计算机科学
 ## 嵌入式系统

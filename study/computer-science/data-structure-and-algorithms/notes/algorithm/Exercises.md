@@ -18,7 +18,7 @@
     - [2.1-2 Reverse INSERTION-SORT](#21-2-reverse-insertion-sort)
     - [2.1-3 Work on the searching algorithm](#21-3-work-on-the-searching-algorithm)
     - [2.1-4 Adding two binary integers.](#21-4-adding-two-binary-integers)
-    - [2.2-1 The basic concept of Big $\Theta$ notation](#22-1-the-basic-concept-of-big-math-xmlns%22httpwwww3org1998mathmathml%22semanticsmrowmi-mathvariant%22normal%22%ce%98mimrowannotation-encoding%22applicationx-tex%22thetaannotationsemanticsmath%ce%98-notation)
+    - [2.2-1 The basic concept of Big $\Theta$ notation](#22-1-the-basic-concept-of-big-eqmathsemanticsmrowmi-mathvariantnormalθmimrowannotation-encodingapplicationx-texthetaannotationsemanticsmathθeq-notation)
     - [2.2-2 Analyse an algorithm yourself](#22-2-analyse-an-algorithm-yourself)
     - [2.2-3 **Search algorithm** analysis](#22-3-search-algorithm-analysis)
     - [2.2-4 Good best-case running time](#22-4-good-best-case-running-time)
@@ -52,7 +52,16 @@ Consider the inequality $8n^2 = 64nlgn$, which can be deduced to $n = 8lgn$. Con
 
 For numericall solution, please first solve the [Dynamically show intersections of two functions inside manipulate](../../../../mathematics/tools/mathematica/notes/basic-operations.md)
 ### 1.2-3
-Q: What is the smallest value of $n$ such that an algorithm whose running time is $100n^2$ runs faster than an algorithm whose running time is $2^n$ on the same machine?
+Q: What is the smallest value of $n$ such that an algorithm whose running time is $100n^2$ runs faster than an algorithm whose running time is $2^n$ on the same machine?  
+A: Consider the inequality equation $100n^2<2^n$, we get $\frac{2^n}{n^2} > 100$, let $f(x) = \frac{2^x}{x^2}$, then 
+
+$$
+\lim_{\Delta x \rightarrow 0^+} f(x + \Delta x) - f(x) = \lim_{\Delta x \rightarrow 0^+} \frac{2^{x+\Delta x}}{x^2+2\Delta x x + {\Delta x}^2}-\frac{2^{x}}{x^2}= \lim_{\Delta x \rightarrow 0^+}\frac{x^2 2^{x+\Delta x}-2^x(x^2(x^2+2\Delta x x + {\Delta x}^2))}{x^2(x^2+2\Delta x x + {\Delta x}^2)}=\\\lim_{\Delta x \rightarrow 0^+}\frac{2^x x^2(2^x-(x+\Delta x)^2)}{x^2(x^2+2\Delta x x + {\Delta x}^2)} = \frac{2^x(2^x-x^2)}{x^2}
+$$
+
+Apparently, the function value increases since $x = 5$. When $n=5$, $f(n) = 1.28$. When $n=10$, $f(n) = 1024/10 = 102.4>100$
+
+
 ### 1.2-Problems 1-1 Comparison of running times
 For each function $f(n)$ and  time $t$in the  following  table,  determine the largest size $n$ of a problem that can be solved in time $t$, assuming that the algorithm to solve the problem takes $f(n)$ microseconds.
 

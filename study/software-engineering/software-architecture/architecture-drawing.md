@@ -1,7 +1,12 @@
 # Table of contents
 - [Table of contents](#table-of-contents)
+- [Are diagrams necessary for agile development?](#are-diagrams-necessary-for-agile-development)
 - [Diagrams](#diagrams)
+  - [Freestyle](#freestyle)
+  - [Timeline](#timeline)
+  - [State machine](#state-machine)
   - [UML Class diagram](#uml-class-diagram)
+    - [Second thoughts](#second-thoughts)
     - [UML Class Notation](#uml-class-notation)
       - [Perspectives](#perspectives)
       - [Class diagram Anatomy](#class-diagram-anatomy)
@@ -29,13 +34,18 @@
     - [JavaScript](#javascript-1)
       - [Resources](#resources)
   - [ER diagram](#er-diagram)
+  - [Eiffel programming language](#eiffel-programming-language)
 - [Tools](#tools)
   - [Draw.io](#drawio)
     - [Keyboard shortcuts](#keyboard-shortcuts)
     - [Customized Templates](#customized-templates)
     - [UML diagram](#uml-diagram)
   - [Excalidraw](#excalidraw)
+# Are diagrams necessary for agile development?
 # Diagrams
+## Freestyle
+## Timeline
+## State machine
 ## UML Class diagram
 The UML class diagram is a graphical notation used to construct and visualize object oriented systems. A class diagram in the Unified Modeling Language(UML) is a type of static structure diagram that describes the structure of a system by showing the system's:
 - classes
@@ -43,6 +53,9 @@ The UML class diagram is a graphical notation used to construct and visualize ob
 - operations(or methods)
 - and the relationship among objects
 
+### Second thoughts
+[UML 还有用吗？](https://www.zhihu.com/question/23569835)  
+[Quora - On software architecture](https://www.quora.com/How-can-we-design-and-model-software-if-we-want-to-use-functional-programming-languages-and-there-are-no-classes-and-OOP-concepts-involved-Do-we-have-something-like-UML-for-functional-languages)
 ### UML Class Notation
 
 | ![UML-class](./assets/UML-class.PNG) |
@@ -92,6 +105,8 @@ Third partition: Methods(class operations)
 
 ## ER diagram
 For database
+## Eiffel programming language
+
 # Tools
 ## Draw.io
 ### Keyboard shortcuts

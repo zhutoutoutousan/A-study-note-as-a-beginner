@@ -1,5 +1,5 @@
 # CSS Grid layout
-
+## What's the difference between ```flexbox``` and CSS grids?
 
 # Resource
 [CSS Grid Layout Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)

@@ -20,6 +20,12 @@
       - [Narcissistic personality](#narcissistic-personality)
       - [Psychotic personality](#psychotic-personality)
     - [The big five model](#the-big-five-model)
+      - [Orderliness](#orderliness)
+      - [Conscientiousness](#conscientiousness)
+      - [Neuroticism](#neuroticism)
+      - [Openness](#openness)
+      - [](#)
+- [Philosophical view](#philosophical-view)
 - [Wholistic view](#wholistic-view)
   - [Habits](#habits)
   - [Soul](#soul)
@@ -61,7 +67,13 @@ Related with *pleasure* and *satisfaction*
 #### Narcissistic personality
 #### Psychotic personality
 ### The big five model
+#### Orderliness
+#### Conscientiousness
+#### Neuroticism
+#### Openness
+#### 
 
+# Philosophical view
 
 # Wholistic view
 ## Habits 

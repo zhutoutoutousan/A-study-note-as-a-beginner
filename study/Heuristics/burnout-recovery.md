@@ -33,7 +33,7 @@ Testosterone--> DHT --> Sebum
 ### Peptic ulcer
 
 # Circadian rhythm
-
+- Fixing circadian rhythm disruption sometimes precedes other factors
 # Books
 - L'étranger
 

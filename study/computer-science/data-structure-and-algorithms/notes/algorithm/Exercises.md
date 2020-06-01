@@ -2,7 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [The Role of Algorithms in Computing](#the-role-of-algorithms-in-computing)
   - [Algorithms](#algorithms)
-    - [1.1-1](#11-1)
+    - [1.1-1 Real-world examples of the applications of algorithms](#11-1-real-world-examples-of-the-applications-of-algorithms)
     - [1.1-2](#11-2)
     - [1.1-3](#11-3)
     - [1.1-4](#11-4)
@@ -24,7 +24,7 @@
     - [2.2-4 Good best-case running time](#22-4-good-best-case-running-time)
 # The Role of Algorithms in Computing
 ## Algorithms
-### 1.1-1
+### 1.1-1 Real-world examples of the applications of algorithms
 Q: Give a real-world example that requires sorting or a real-world example that requires computing a convex hull.
 
 A:

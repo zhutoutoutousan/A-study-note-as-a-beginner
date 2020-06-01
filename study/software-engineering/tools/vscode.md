@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Visual](#visual)
 - [Navigation](#navigation)
   - [File system](#file-system)
   - [Terminal](#terminal)
@@ -13,11 +14,21 @@
   - [Resources](#resources-1)
 - [Tools](#tools)
   - [Command palette](#command-palette)
-- [Shorthands and keyboard shortcuts](#shorthands-and-keyboard-shortcuts)
+  - [Extensions](#extensions)
+    - [JavaScript](#javascript)
+    - [Template engine](#template-engine)
+    - [Front-end frameworks](#front-end-frameworks)
+    - [npm](#npm)
+    - [Markdown](#markdown)
+- [Wanna expand your vscode skills later?](#wanna-expand-your-vscode-skills-later)
 - [Resources](#resources-2)
+
+# Visual
+- Split screen using Ctrl+| to 2 screens and 3 screens by my choice: ?
 # Navigation
 ## File system
 - Open a folder: Ctrl+K Ctrl+O
+- Search files by name: Ctrl+P
 ## Terminal
 - Terminal can't execute some commands but the system terminal can
 ## Navigate through the application
@@ -52,8 +63,15 @@ Q: What about /* */?
 [Code navigation](https://code.visualstudio.com/docs/editor/editingevolved)
 # Tools
 ## Command palette
+## Extensions
+### JavaScript
+### Template engine
+### Front-end frameworks
+### npm
+### Markdown
 
-# Shorthands and keyboard shortcuts
+# Wanna expand your vscode skills later?
+[10 Tricks Every Developer Should Know in Visual Studio Code](https://dzone.com/articles/10-tricks-every-developer-should-know-in-visual-st)
 
 # Resources
 [Visual Code Studio](https://code.visualstudio.com/docs/)

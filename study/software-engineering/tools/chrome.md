@@ -3,5 +3,11 @@
 - 
 
 # Keyboard shortcuts
+## Visual navigation
+- Scroll to top/bottom:    
+  - Windows: Home/End
 ## History navigation
 - Reopen recently closed tab: Ctrl + Shift + T
+
+# Wanna expand your skills later?
+[21 Chrome shortcuts you need to know](https://www.cnet.com/how-to/21-chrome-shortcuts-you-need-to-know/)

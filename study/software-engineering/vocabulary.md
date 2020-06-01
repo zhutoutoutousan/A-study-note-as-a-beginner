@@ -26,7 +26,10 @@
   - [C](#c-1)
   - [S](#s-1)
   - [T](#t-1)
-- [Translation CH-EN](#translation-ch-en)
+- [中英对照词汇 CH-EN](#中英对照词汇-ch-en)
+  - [前端开发](#前端开发)
+  - [计算机科学](#计算机科学)
+  - [嵌入式系统](#嵌入式系统)
 # Topic oriented
 ## A
 ### Abstraction
@@ -68,5 +71,10 @@ The term **Web service(WS)** is either:
 - Scope - 作用域
 ## T
 - TDZ - 暂时死区
+- Template engine - 模板引擎
 
-# Translation CH-EN
+# 中英对照词汇 CH-EN
+## 前端开发
+-  注入 - Injection
+## 计算机科学
+## 嵌入式系统

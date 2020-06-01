@@ -11,6 +11,7 @@
     - [Procedure](#procedure-2)
     - [How it works](#how-it-works-1)
   - [Device manager - Scan for hardware changes](#device-manager---scan-for-hardware-changes)
+    - [Confirmed repercussions](#confirmed-repercussions)
     - [Potential repercussions](#potential-repercussions)
   - [Resource](#resource)
   - [Reference](#reference)
@@ -36,6 +37,11 @@ Skipped
 ### How it works
 
 ## Device manager - Scan for hardware changes
+### Confirmed repercussions
+- If you disable ```Null```, when you use Git, it will show the error:
+```
+Git error fatal:open/dev/null or DUP failed:no such file or directory
+```
 
 ### Potential repercussions
 [What is Ndu?](https://www.file.net/process/ndu.sys.html)

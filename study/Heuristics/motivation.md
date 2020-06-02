@@ -15,6 +15,8 @@
   - [Personality](#personality)
     - [Syndromes](#syndromes)
       - [Napoleon syndrome](#napoleon-syndrome)
+      - [Imposter syndrome](#imposter-syndrome)
+      - [Dunning Kruger effect](#dunning-kruger-effect)
     - [Personality type](#personality-type)
       - [Pedantic personality](#pedantic-personality)
       - [Narcissistic personality](#narcissistic-personality)
@@ -25,7 +27,12 @@
       - [Neuroticism](#neuroticism)
       - [Openness](#openness)
       - [Agreeableness](#agreeableness)
-      - [](#)
+  - [Mental Integrity: Dealing with conflicts](#mental-integrity-dealing-with-conflicts)
+    - [Social economic difference](#social-economic-difference)
+    - [Verbal abuse](#verbal-abuse)
+      - [The Straw man fallacy](#the-straw-man-fallacy)
+        - [Basics](#basics)
+        - [How to retaliate?](#how-to-retaliate)
 - [Philosophical view](#philosophical-view)
 - [Wholistic view](#wholistic-view)
   - [Habits](#habits)
@@ -63,6 +70,8 @@ Related with *pleasure* and *satisfaction*
 ## Personality
 ### Syndromes
 #### Napoleon syndrome
+#### Imposter syndrome
+#### Dunning Kruger effect
 ### Personality type
 #### Pedantic personality 
 #### Narcissistic personality
@@ -73,7 +82,38 @@ Related with *pleasure* and *satisfaction*
 #### Neuroticism
 #### Openness
 #### Agreeableness
-#### 
+
+## Mental Integrity: Dealing with conflicts
+### Social economic difference
+### Verbal abuse
+#### The Straw man fallacy
+##### Basics
+An opponent's position is misrepresented to make it easier to critique, which creates the straw man fallacy.
+```
+A:
+
+PREMISE1: Advertisements for beer encourage underage drinking
+PREMISE2: Underage drinking often has negative consequences
+CONCLUSION: Therefore, advertisements for beer should be banned from TV
+
+B:
+
+STRAWMAN: Yeah, but people will never give up drinking beer.
+
+
+NOTE: A never claimed it would be a good idea to give up drinking beer. 
+```
+
+```
+A:
+
+STRAWMAN: The theory of evolution says that humans are no different from apes
+PREMISE2: Humans are different from apes because humans are obviously smarter
+CONCLUSION: Therefore, the theory of evolution is false
+
+NOTE: The theory of evolution never claimed that humans are no different from apes. 
+```
+##### How to retaliate?
 
 # Philosophical view
 

@@ -19,6 +19,7 @@
     - [Architecture](#architecture-3)
 - [Resources](#resources-3)
 - [Interview questions](#interview-questions)
+
 # Projects
 ## Proj TR
 ### Overview

@@ -1,5 +1,5 @@
 # Navigate through dysfunctional upbringing environments
-Q1: What's the difference among the opinions of your parents and the ones of some randomly selected people of about the same age?
+Q1: What's the difference among the opinions of your parents and the ones of some randomly selected people of about the same age?  
 A: 
 # Decision making
 ## Generic topics

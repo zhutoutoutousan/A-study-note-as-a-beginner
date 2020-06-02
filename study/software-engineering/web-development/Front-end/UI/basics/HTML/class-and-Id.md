@@ -1,3 +1,4 @@
 # Class
 # Id
-# Syntax
+# Tricks
+## Double dash ```--```

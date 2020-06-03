@@ -9,13 +9,17 @@
     - [Mental model](#mental-model-1)
     - [Behaviour check-up](#behaviour-check-up-1)
   - [Box display](#box-display)
-    - [None](#none)
-    - [Contents](#contents)
+    - [block](#block)
+    - [inline](#inline)
+    - [flex](#flex)
+    - [none](#none)
+    - [contents](#contents)
   - [Box position](#box-position)
     - [Absolute](#absolute)
     - [Relative](#relative)
     - [Sticky](#sticky)
     - [Resource](#resource)
+  - [Box border](#box-border)
 - [Cascade and inheritance](#cascade-and-inheritance)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
@@ -35,7 +39,7 @@
 Think of this as a solid, arrogant, sturdy SOABox, which **stands out once present(Break onto a new line)**, and eat up all the spaces which contains it. However, you can **control its temper by whistling to its ear(The width and height properties are respected)**. But **when it loses its temper, its outer fatty layer can not be penetrated.**        
 
 !: Relations with position property(relative VS absolute)
-  - Do ```relative``` components and ```absolute``` components share different space?
+  - Do ```relative``` components and ```absolute``` components share different space? Maybe the idea of ```position: absolute``` precedes the idea of ```display: block```?
 ### Behaviour check-up
 - The box will break onto a new line
 - The box will extend in the line director to fill the space available in its container. In most cases this means the box will become as wide as the container, filling up 100% of the space available
@@ -44,11 +48,16 @@ Think of this as a solid, arrogant, sturdy SOABox, which **stands out once prese
 ## Inline boxes
 ### Mental model
 ### Behaviour check-up
-- 
+- The box will not break onto a new line
+- The ```width``` and ```height``` properties will not apply
+- Vertical padding, margins, and borders will apply but will not cause other inline boxes
 ## Box display
-### None
+### block
+### inline
+### flex
+### none
 Attention: The box still takes up space sometimes, adjust opacity for temporary relief. It's better to use [this method](https://gomakethings.com/hidden-content-for-better-a11y/#hiding-the-link).
-### Contents
+### contents
 
 ## Box position
 ### Absolute
@@ -57,6 +66,8 @@ Attention: The box still takes up space sometimes, adjust opacity for temporary 
 
 ### Resource
 [css-tricks position](https://css-tricks.com/almanac/properties/p/position/)
+
+## Box border
 
 # Cascade and inheritance
 Apparent

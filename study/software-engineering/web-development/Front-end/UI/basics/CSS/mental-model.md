@@ -14,10 +14,11 @@
     - [Absolute](#absolute)
     - [Relative](#relative)
     - [Sticky](#sticky)
+    - [Resource](#resource)
 - [Tree inheritance](#tree-inheritance)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
-- [Resource](#resource)
+- [Resource](#resource-1)
 # What CSS does
 | ![What CSS does](./assets/what-css-does.PNG) |
 |:--:|
@@ -51,6 +52,9 @@ Attention: The box still takes up space sometimes, adjust opacity for temporary 
 ### Absolute
 ### Relative
 ### Sticky
+
+### Resource
+[css-tricks position](https://css-tricks.com/almanac/properties/p/position/)
 
 # Tree inheritance
 

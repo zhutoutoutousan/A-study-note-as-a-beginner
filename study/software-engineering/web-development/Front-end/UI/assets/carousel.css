@@ -1,6 +1,6 @@
 .carousel {
     position: relative;
-    height: 1200px;
+    height: 100%;
     width: 80%;
     margin: 0 auto;
 }
@@ -18,4 +18,10 @@
     padding: 0;
     margin: 0;
     list-style: none;
+}
+
+.reference {
+    display: block;
+    position: absolute;
+    bottom: 10%
 }

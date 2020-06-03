@@ -9,17 +9,21 @@
     - [Mental model](#mental-model-1)
     - [Behaviour check-up](#behaviour-check-up-1)
   - [Box display](#box-display)
-    - [block](#block)
-    - [inline](#inline)
-    - [flex](#flex)
-    - [none](#none)
-    - [contents](#contents)
+    - [Inside](#inside)
+      - [block](#block)
+      - [inline](#inline)
+      - [none](#none)
+      - [contents](#contents)
+    - [Outside](#outside)
+      - [flex](#flex)
+      - [grid](#grid)
+    - [Internal](#internal)
+    - [Box](#box)
   - [Box position](#box-position)
     - [Absolute](#absolute)
     - [Relative](#relative)
     - [Sticky](#sticky)
     - [Resource](#resource)
-  - [Box border](#box-border)
 - [Cascade and inheritance](#cascade-and-inheritance)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
@@ -52,13 +56,18 @@ Think of this as a solid, arrogant, sturdy SOABox, which **stands out once prese
 - The ```width``` and ```height``` properties will not apply
 - Vertical padding, margins, and borders will apply but will not cause other inline boxes
 ## Box display
-### block
-### inline
-### flex
-### none
-Attention: The box still takes up space sometimes, adjust opacity for temporary relief. It's better to use [this method](https://gomakethings.com/hidden-content-for-better-a11y/#hiding-the-link).
-### contents
+### Inside
+#### block
+#### inline
 
+#### none
+Attention: The box still takes up space sometimes, adjust opacity for temporary relief. It's better to use [this method](https://gomakethings.com/hidden-content-for-better-a11y/#hiding-the-link).
+#### contents
+### Outside
+#### flex
+#### grid
+### Internal
+### Box
 ## Box position
 ### Absolute
 ### Relative
@@ -66,8 +75,8 @@ Attention: The box still takes up space sometimes, adjust opacity for temporary 
 
 ### Resource
 [css-tricks position](https://css-tricks.com/almanac/properties/p/position/)
+For more on box, check out
 
-## Box border
 
 # Cascade and inheritance
 Apparent

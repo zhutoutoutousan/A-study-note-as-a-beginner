@@ -10,6 +10,10 @@
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
   - [Code style](#code-style)
+    - [Syntax](#syntax)
+      - [```__xxx__```](#xxx)
+      - [```xxx__yyy```](#xxx__yyy)
+      - [Dash](#dash)
   - [Trade-off scenario](#trade-off-scenario)
 - [Resource](#resource)
 # Correct Mental model
@@ -57,6 +61,18 @@ Is it so? Is this line of thinking wrong?
 ### Typo
 - Mistaken underscore?
 ## Code style
+### Syntax
+#### ```__xxx__```
+Python:
+
+
+JavaScript:
+
+CSS:
+#### ```xxx__yyy```
+#### Dash 
+CSS: 
+
 ## Trade-off scenario
 
 

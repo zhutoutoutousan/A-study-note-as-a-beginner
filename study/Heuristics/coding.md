@@ -1,3 +1,17 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Correct Mental model](#correct-mental-model)
+  - [Start from a bug](#start-from-a-bug)
+  - [Values](#values)
+  - [Immutable elements](#immutable-elements)
+- [Mind palace](#mind-palace)
+  - [Minding Class-Object model](#minding-class-object-model)
+- [Coding practice](#coding-practice)
+  - [Troubleshooting](#troubleshooting)
+    - [Typo](#typo)
+  - [Code style](#code-style)
+  - [Trade-off scenario](#trade-off-scenario)
+- [Resource](#resource)
 # Correct Mental model
 ## Start from a bug
 ```javascript
@@ -37,6 +51,13 @@ Is it so? Is this line of thinking wrong?
 
 # Mind palace
 ## Minding Class-Object model 
+
+# Coding practice
+## Troubleshooting
+### Typo
+- Mistaken underscore?
+## Code style
+## Trade-off scenario
 
 
 # Resource

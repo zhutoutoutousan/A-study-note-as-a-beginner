@@ -26,6 +26,7 @@
 .reference {
     display: block;
     position: relative;
+    transform: translateY(+200%);
 }
 
 .carousel__slide {
@@ -39,5 +40,33 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    height: 200px;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.carousel__button--left {
+    left: -40px;
+}
+
+.carousel__button--right {
+    right: -40px;
+}
+
+.carousel__button img {
+    width: 10px;
+}
+
+.carousel__nav {
+    /* background: pink; */
+    display: flex;
+    justify-content: center;
+}
+
+.carousel__indicator {
+    border: 0;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    background: black;
 }

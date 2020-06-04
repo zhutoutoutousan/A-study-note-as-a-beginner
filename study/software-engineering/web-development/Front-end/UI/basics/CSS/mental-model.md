@@ -9,6 +9,7 @@
     - [Mental model](#mental-model-1)
     - [Behaviour check-up](#behaviour-check-up-1)
   - [Box display](#box-display)
+    - [Mental model for *Inside* and *Outside*](#mental-model-for-inside-and-outside)
     - [Inside](#inside)
       - [block](#block)
       - [inline](#inline)
@@ -25,7 +26,7 @@
     - [Sticky](#sticky)
     - [Resource](#resource)
 - [Cascade and inheritance](#cascade-and-inheritance)
-  - [Positioning with](#positioning-with)
+  - [Positioning, parents](#positioning-parents)
 - [Initialization](#initialization)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
@@ -59,6 +60,7 @@ Think of this as a solid, arrogant, sturdy SOABox, which **stands out once prese
 - The ```width``` and ```height``` properties will not apply
 - Vertical padding, margins, and borders will apply but will not cause other inline boxes
 ## Box display
+### Mental model for *Inside* and *Outside*
 ### Inside
 #### block
 #### inline
@@ -84,7 +86,7 @@ For more on box, check out
 [MDN - position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 # Cascade and inheritance
-## Positioning with 
+## Positioning, parents
 
 # Initialization
 Think about every initial value as you can in CSS when you don't initialize in the rules. What difference will it make?

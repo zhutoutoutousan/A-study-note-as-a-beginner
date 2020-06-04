@@ -38,6 +38,14 @@
   - [Habits](#habits)
   - [Soul](#soul)
   - [Resources](#resources-1)
+- [Manipulation](#manipulation)
+  - [Game theory](#game-theory)
+  - [Pick-up Artist(PUA)](#pick-up-artistpua)
+    - [Generic strategy](#generic-strategy)
+      - [Conceal information pathway](#conceal-information-pathway)
+      - [Gaslighting](#gaslighting)
+      - [Fallacy attack](#fallacy-attack)
+    - [Generic anti-strategy](#generic-anti-strategy)
 # Biological view
 ## Dopamine
 ### Reward pathway
@@ -120,7 +128,15 @@ NOTE: The theory of evolution never claimed that humans are no different from ap
 # Wholistic view
 ## Habits 
 ## Soul
-
 ## Resources
 [Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)  
 [The power of habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+
+# Manipulation
+## Game theory
+## Pick-up Artist(PUA)
+### Generic strategy
+#### Conceal information pathway
+#### Gaslighting
+#### Fallacy attack
+### Generic anti-strategy

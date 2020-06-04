@@ -25,8 +25,11 @@
     - [Sticky](#sticky)
     - [Resource](#resource)
 - [Cascade and inheritance](#cascade-and-inheritance)
+  - [Positioning with](#positioning-with)
+- [Initialization](#initialization)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
+  - [Clock-wise](#clock-wise)
 - [Resource](#resource-1)
 # What CSS does
 | ![What CSS does](./assets/what-css-does.PNG) |
@@ -70,18 +73,29 @@ Attention: The box still takes up space sometimes, adjust opacity for temporary 
 ### Box
 ## Box position
 ### Absolute
+Imagine the component is pinned on the exact position on the page.
 ### Relative
+Imagine the additional ```potision``` propoerty is superimposed on the base of the parent node.
 ### Sticky
-
+Imagine the component is sticked to its initial position on the screen whenever you scroll the page
 ### Resource
 [css-tricks position](https://css-tricks.com/almanac/properties/p/position/)
 For more on box, check out
-
+[MDN - position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 # Cascade and inheritance
-Apparent
+## Positioning with 
+
+# Initialization
+Think about every initial value as you can in CSS when you don't initialize in the rules. What difference will it make?
+- Padding: 0px 0px 0px 0px
+
+
 # Animation
 # Mental model code connection
+## Clock-wise
+
+
 
 # Resource
 [MDN - The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)

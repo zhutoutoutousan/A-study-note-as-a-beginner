@@ -46,6 +46,7 @@
       - [Gaslighting](#gaslighting)
       - [Fallacy attack](#fallacy-attack)
     - [Generic anti-strategy](#generic-anti-strategy)
+      - [Mobility](#mobility)
 # Biological view
 ## Dopamine
 ### Reward pathway
@@ -140,3 +141,4 @@ NOTE: The theory of evolution never claimed that humans are no different from ap
 #### Gaslighting
 #### Fallacy attack
 ### Generic anti-strategy
+#### Mobility

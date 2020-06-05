@@ -6,3 +6,5 @@ git commit -am "message"
 git push
 
 ```
+
+# Git bot

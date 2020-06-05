@@ -17,5 +17,17 @@ const prevButton = document.querySelector('.carousel__button--left');
 const dotsNavs = document.querySelector('.carousel__nav');
 const dots = Array.from(dotsNavs.children);
 
-const slideSize = slides[0].getBoundingClientRect();
+const slideWidth = slides[0].getBoundingClientRect().width;
 
+
+// arrange the slides next to one another
+// Vorsicht: The space in the 'px' matters
+// slides[0].style.left = slideWidth * 0 + 'px';
+// slides[1].style.left = slideWidth * 1 + 'px';
+// slides[2].style.left = slideWidth * 2 + 'px';
+
+const setSlidePosition = (slide, index) => {
+    slide.style.left = slideWidth * index + 'px';
+}
+
+slides.forEach(setSlidePosition);

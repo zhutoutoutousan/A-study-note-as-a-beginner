@@ -18,6 +18,7 @@
     - [Python](#python)
       - [Underscore](#underscore)
   - [Trade-off scenario](#trade-off-scenario)
+- [Ethics](#ethics)
 - [Resource](#resource)
 # Correct Mental model
 ## Start from a bug
@@ -78,6 +79,9 @@ For more check:
 
 ## Trade-off scenario
 
+
+# Ethics
+[Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)
 
 # Resource
 [THE NATURE OF CODE - DANIEL SHIFFMAN](https://natureofcode.com/book/introduction/)

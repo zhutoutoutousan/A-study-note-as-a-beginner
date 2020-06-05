@@ -1,3 +1,21 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Number](#number)
+  - [Convert a number to string](#convert-a-number-to-string)
+  - [Absolute value](#absolute-value)
+- [String](#string)
+  - [Convert a string to number](#convert-a-string-to-number)
+  - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
+    - [```String.prototype.includes()```](#stringprototypeincludes)
+    - [Reference](#reference)
+  - [Reverse a string](#reverse-a-string)
+    - [Reference](#reference-1)
+- [Array](#array)
+  - [Create array](#create-array)
+    - [Create an array of empty arrays](#create-an-array-of-empty-arrays)
+    - [Create an array with generator](#create-an-array-with-generator)
+    - [What's the](#whats-the)
+    - [``` new Array(n)``` and ```Array.prototype.map```](#new-arrayn-and-arrayprototypemap)
 # Number
 ## Convert a number to string
 

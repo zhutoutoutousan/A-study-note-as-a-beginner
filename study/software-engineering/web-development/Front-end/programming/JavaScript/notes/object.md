@@ -7,6 +7,14 @@
 - [```Object```](#object)
   - [```Object.defineProperty```](#objectdefineproperty)
 - [```Array```](#array)
+  - [Methods](#methods)
+    - [```Array.from()```](#arrayfrom)
+      - [Mental model](#mental-model)
+      - [Behaviour check](#behaviour-check)
+    - [```Array.of()```](#arrayof)
+      - [Mental model](#mental-model-1)
+      - [Behaviour check](#behaviour-check-1)
+      - [Resources](#resources)
 - [window](#window)
 - [document](#document)
 - [Map](#map)
@@ -28,7 +36,7 @@
 
 # General topics
 ## Everything is an object?
-No, check Dan abramov's Just JavaScript course for more.
+No, check Dan abramov's Just JavaScript course for more. (Wrapper object)
 ## Property
 ### Writable or non-writable?
 
@@ -36,6 +44,16 @@ No, check Dan abramov's Just JavaScript course for more.
 ## ```Object.defineProperty```
 
 # ```Array```
+## Methods
+### ```Array.from()```
+#### Mental model
+#### Behaviour check
+### ```Array.of()```
+#### Mental model
+#### Behaviour check
+ 
+#### Resources
+For more see [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/of)
 
 # window
 

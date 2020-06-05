@@ -10,10 +10,13 @@
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
   - [Code style](#code-style)
-    - [Syntax](#syntax)
-      - [```__xxx__```](#xxx)
-      - [```xxx__yyy```](#xxx__yyy)
-      - [Dash](#dash)
+    - [CSS](#css)
+      - [BEM](#bem)
+        - [Double underscore](#double-underscore)
+        - [Double dash](#double-dash)
+        - [Examples](#examples)
+    - [Python](#python)
+      - [Underscore](#underscore)
   - [Trade-off scenario](#trade-off-scenario)
 - [Resource](#resource)
 # Correct Mental model
@@ -61,17 +64,17 @@ Is it so? Is this line of thinking wrong?
 ### Typo
 - Mistaken underscore?
 ## Code style
-### Syntax
-#### ```__xxx__```
-Python:
-
-
-JavaScript:
-
-CSS:
-#### ```xxx__yyy```
-#### Dash 
-CSS: 
+### CSS
+#### BEM
+##### Double underscore
+Double underscore denotes it's in the block.
+##### Double dash
+Double dash denotes modifications to the block
+##### Examples
+For more check:
+- [Why I use the BEM naming convention for my CSS](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+### Python
+#### Underscore
 
 ## Trade-off scenario
 

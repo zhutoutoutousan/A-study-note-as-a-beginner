@@ -6,7 +6,8 @@
 
 const track = document.querySelector('.carousel__track');
 const slides = Array.from(track.children)
-
+const nextButton = document.querySelector('.carousel__button');
+const prevButton = document.querySelector('.crousel__button--left');
 
 
 // When I click Left, move slides to the left

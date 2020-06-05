@@ -9,7 +9,7 @@
 - [Coding practice](#coding-practice)
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
-  - [Code style](#code-style)
+  - [Code style & Naming convention](#code-style--naming-convention)
     - [CSS](#css)
       - [BEM](#bem)
         - [Double underscore](#double-underscore)
@@ -63,7 +63,7 @@ Is it so? Is this line of thinking wrong?
 ## Troubleshooting
 ### Typo
 - Mistaken underscore?
-## Code style
+## Code style & Naming convention
 ### CSS
 #### BEM
 ##### Double underscore

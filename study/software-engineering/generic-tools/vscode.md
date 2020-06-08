@@ -6,9 +6,10 @@
   - [Terminal](#terminal)
   - [Navigate through the application](#navigate-through-the-application)
   - [Navigate through code](#navigate-through-code)
-  - [Exclude commented code from searches](#exclude-commented-code-from-searches)
-    - [Use regExp](#use-regexp)
-    - [Reference](#reference)
+  - [Searching](#searching)
+    - [Exclude commented code from searches](#exclude-commented-code-from-searches)
+      - [Use regExp](#use-regexp)
+      - [Reference](#reference)
   - [Editing](#editing)
     - [Resources](#resources)
   - [Resources](#resources-1)
@@ -41,14 +42,15 @@
 ## Navigate through code
 - I want to scroll down/up using just the keyboard: Ctrl+Up/Down
 - I want to search backwards: Ctrl+F, Shift+Enter
-## Exclude commented code from searches
-### Use regExp
+## Searching
+### Exclude commented code from searches
+#### Use regExp
 ```regexp
 ^(?![ \t]*//).*your_search_term
 ^~(:b*//).*your_search_term
 ```
 Q: What about /* */?
-### Reference
+#### Reference
 [Exclude comments when searching in Visual Studio](https://stackoverflow.com/questions/11314366/exclude-comments-when-searching-in-visual-studio)
 
 [Exclude Commented Code from Searches](https://developercommunity.visualstudio.com/idea/354547/exclude-commented-code-from-searches.html)

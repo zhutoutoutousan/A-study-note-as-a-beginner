@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Visual](#visual)
 - [Navigation](#navigation)
+  - [Visual](#visual)
   - [File system](#file-system)
   - [Terminal](#terminal)
   - [Navigate through the application](#navigate-through-the-application)
@@ -29,12 +29,20 @@
 - [Wanna expand your vscode skills later?](#wanna-expand-your-vscode-skills-later)
 - [Resources](#resources-2)
 
-# Visual
-- Split screen using Ctrl+| to 2 screens and 3 screens by my choice: ?
+
 # Navigation
+## Visual
+- Split screen using Ctrl+| to 2 screens and 3 screens by my choice: ?
+- Remove split
+  - Empty it
+- Switch between splits: Ctrl+1, Ctrl+2...
+- Move a tab to another split: Ctrl+Alt+Rightarrow/Leftarrow.
+  - Check out [this](https://stackoverflow.com/questions/44018175/visual-studio-code-hotkey-to-move-a-tab-from-one-of-two-split-editors-to-anothe)
 ## File system
 - Open a folder: Ctrl+K Ctrl+O
 - Search files by name: Ctrl+P
+- When searching files using *Ctrl+P*, open a file in another tab in the same split:
+  - Check out [this](https://stackoverflow.com/questions/38713405/open-files-always-in-a-new-tab)
 ## Terminal
 - Terminal can't execute some commands but the system terminal can
 ## Navigate through the application

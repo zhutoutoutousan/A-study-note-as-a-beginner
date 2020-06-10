@@ -110,7 +110,7 @@ B:
 STRAWMAN: Yeah, but people will never give up drinking beer.
 
 
-NOTE: A never claimed it would be a good idea to give up drinking beer. 
+NOTE: 'A' never claimed it would be a good idea to give up drinking beer. 
 ```
 
 ```

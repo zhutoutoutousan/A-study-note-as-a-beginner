@@ -18,3 +18,4 @@ a[href="https://fuckyouverymuch.com"]{ }
 
 # Resource
 [MDN - Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+[Before and After pseudo elements explained - part one: how they work](https://www.youtube.com/watch?v=zGiirUiWslI)

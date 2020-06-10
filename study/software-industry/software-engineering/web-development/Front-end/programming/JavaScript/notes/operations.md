@@ -16,10 +16,6 @@
     - [Create an array with generator](#create-an-array-with-generator)
     - [``` new Array(n)``` and ```Array.prototype.map```](#new-arrayn-and-arrayprototypemap)
 - [DOM](#dom)
-  - [Generic methods](#generic-methods)
-    - [```document.querySelector()```](#documentqueryselector)
-  - [Get multiple elements](#get-multiple-elements)
-    - [Array.from](#arrayfrom)
 # Number
 ## Convert a number to string
 
@@ -74,7 +70,4 @@ test(50, constant);
 For more check out [JavaScript “new Array(n)” and “Array.prototype.map” weirdness](https://stackoverflow.com/questions/5501581/javascript-new-arrayn-and-array-prototype-map-weirdness)
 
 # DOM
-## Generic methods
-### ```document.querySelector()```
-## Get multiple elements
-### Array.from
+See Web API 

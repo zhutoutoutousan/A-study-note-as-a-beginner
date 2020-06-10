@@ -5,7 +5,7 @@
 ## JavaScript
 ## Resource
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 1)](https://www.youtube.com/watch?v=VYsVOamdB0g)   -- OK  
-[How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)](https://www.youtube.com/watch?v=gBzsE0oieio&t=15s) --19:26/1:04:40
+[How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)](https://www.youtube.com/watch?v=gBzsE0oieio&t=15s) --29:40/1:04:40
 # Vue
 ## vue-router
 ## Vuex

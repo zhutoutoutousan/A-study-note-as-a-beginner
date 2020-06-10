@@ -34,6 +34,10 @@ slides.forEach(setSlidePosition);
 
 nextButton.addEventListener('click', e => {
     const currentSlide = track.querySelector('.current-slide');
-    console.log(currentSlide);
+    const nextSlide = currentSlide.nextElementSibling;
+    const amountToMove = nextSlide.style.left; 
     // move the slide
+    track.style.transform = `translateX(-${amountToMove})`;
+    currentSlide.classList.remove('current-slide');
+    nextSlide.classList.add('current-slide');
 })

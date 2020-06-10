@@ -18,9 +18,12 @@
 }
 
 .carousel__track {
+    position: relative;
+    height: 100%;
     padding: 0;
     margin: 0;
     list-style: none;
+    transition: transform 250ms ease-in;
 }
 
 .reference {

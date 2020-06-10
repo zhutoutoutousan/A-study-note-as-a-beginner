@@ -40,6 +40,7 @@
   - Check out [this](https://stackoverflow.com/questions/44018175/visual-studio-code-hotkey-to-move-a-tab-from-one-of-two-split-editors-to-anothe)
 - Open this tab in a new window: Ctrl+K O
 - Open a new window with the same workspace: Ctrl+Shift+P dupl-->Workspaces: Duplicate Workspace in New Window
+- Move to certain number of line in code: Ctrl+G
 ## File system
 - Open a folder: Ctrl+K Ctrl+O
 - Search files by name: Ctrl+P

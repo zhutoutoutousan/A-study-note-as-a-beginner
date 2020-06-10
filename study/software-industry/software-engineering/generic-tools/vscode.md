@@ -21,6 +21,8 @@
     - [Front-end frameworks](#front-end-frameworks)
     - [npm](#npm)
     - [Markdown](#markdown)
+- [Language](#language)
+  - [Markdown](#markdown-1)
 - [Troubleshooting](#troubleshooting)
   - [ENV](#env)
     - [running scripts is disabled on this system](#running-scripts-is-disabled-on-this-system)
@@ -36,9 +38,9 @@
 ## Terminal
 - Terminal can't execute some commands but the system terminal can
 ## Navigate through the application
-- Toggle Explorer: Ctrl+Shift+E !Doesn't seem to work XD
+- Toggle Explorer: Ctrl+Shift+E !Doesn't seem to work XD(In markdown file, Ctrl+N create an empty file, Ctrl+Shift+E toggle, Ctrl+W Exit)
 - Open another window: Ctrl+Shift+N
-- Hide/Display side bar: Ctrl+B
+- Hide/Display side bar: Ctrl+B(In markdown file, Ctrl+N create an empty file, Ctrl+B toggle, Ctrl+W Exit)
 ## Navigate through code
 - I want to scroll down/up using just the keyboard: Ctrl+Up/Down
 - I want to search backwards: Ctrl+F, Shift+Enter
@@ -74,6 +76,10 @@ Q: What about /* */?
 ### Front-end frameworks
 ### npm
 ### Markdown
+
+# Language
+## Markdown
+- Bold: Ctrl+B
 
 # Troubleshooting
 ## ENV

@@ -35,6 +35,10 @@
 - [Nutrition](#nutrition)
   - [Macronutrient](#macronutrient)
   - [Micronutrient](#micronutrient)
+- [Interesting topics](#interesting-topics)
+  - [Mind-body connection](#mind-body-connection)
+    - [Stomach ulcer](#stomach-ulcer-1)
+    - [Resource](#resource-1)
 - [Tools](#tools)
 - [Resources](#resources)
 
@@ -82,6 +86,12 @@ Testosterone--> DHT --> Sebum
 # Nutrition
 ## Macronutrient
 ## Micronutrient
+
+# Interesting topics
+## Mind-body connection
+### Stomach ulcer
+### Resource
+[Emotions Cause Physical Pain](https://www.youtube.com/watch?v=s3z80yeroOo)
 
 # Tools
 [myfitnesspal](https://www.myfitnesspal.com/)

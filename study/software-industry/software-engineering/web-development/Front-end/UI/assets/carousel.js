@@ -31,3 +31,9 @@ const setSlidePosition = (slide, index) => {
 }
 
 slides.forEach(setSlidePosition);
+
+nextButton.addEventListener('click', e => {
+    const currentSlide = track.querySelector('.current-slide');
+    console.log(currentSlide);
+    // move the slide
+})

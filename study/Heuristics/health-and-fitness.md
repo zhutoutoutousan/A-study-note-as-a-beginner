@@ -52,6 +52,11 @@
 ##### Shoulder impingement
 Remedy:
 - [Absolute Best Shoulder Impingement Exercises (Self-Treatments)](https://www.youtube.com/watch?v=fpqMU88DfyE)
+
+Symptom:
+- Labrum tear
+- Rotator cuff tendon tear/inflammation
+- Bicep tendon tear/inflammation
 #### Knee
 # Physical disease
 ## Digestive disease

@@ -38,6 +38,7 @@
 - Switch between splits: Ctrl+1, Ctrl+2...
 - Move a tab to another split: Ctrl+Alt+Rightarrow/Leftarrow.
   - Check out [this](https://stackoverflow.com/questions/44018175/visual-studio-code-hotkey-to-move-a-tab-from-one-of-two-split-editors-to-anothe)
+- Open this tab in a new window: Ctrl+K O
 ## File system
 - Open a folder: Ctrl+K Ctrl+O
 - Search files by name: Ctrl+P
@@ -46,9 +47,13 @@
 ## Terminal
 - Terminal can't execute some commands but the system terminal can
 ## Navigate through the application
-- Toggle Explorer: Ctrl+Shift+E !Doesn't seem to work XD(In markdown file, Ctrl+N create an empty file, Ctrl+Shift+E toggle, Ctrl+W Exit)
+- Toggle Explorer: Ctrl+Shift+E 
+  - In markdown file, Ctrl+N create an empty file, Ctrl+Shift+E toggle, Ctrl+W Exit
+  - Also can move focus on it, enter the combination again to backtrack the point of focus
 - Open another window: Ctrl+Shift+N
 - Hide/Display side bar: Ctrl+B(In markdown file, Ctrl+N create an empty file, Ctrl+B toggle, Ctrl+W Exit)
+- Toggle debug: Ctrl+Shift+D
+- Toggle Extensions: Ctrl+Shift+X
 ## Navigate through code
 - I want to scroll down/up using just the keyboard: Ctrl+Up/Down
 - I want to search backwards: Ctrl+F, Shift+Enter

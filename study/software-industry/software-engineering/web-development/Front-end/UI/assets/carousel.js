@@ -17,17 +17,46 @@ const moveToSlide = (track, currentSlide, targetSlide) => {
     targetSlide.classList.add('current-slide');
 }
 
+const UpdateButtonVisibility = (slides, prevButton, nextButton, targetIndex) => {
+    if (targetIndex === 0) {
+        prevButton.classList.add('is-hidden');
+        nextButton.classList.remove('is-hidden');
+    }
+    else if(targetIndex === slides.length - 1) {
+        prevButton.classList.remove('is-hidden');
+        nextButton.classList.add('is-hidden');
+    }
+    else{
+        prevButton.classList.remove('is-hidden');
+        nextButton.classList.remove('is-hidden');        
+    }
+}
+
+const UpdateDots = (currentDot, targetDot) => {
+    currentDot.classList.remove('current-slide');
+    targetDot.classList.add('current-slide');
+}
+
 nextButton.addEventListener('click', e => {
     const currentSlide = track.querySelector('.current-slide');
+    const currentDot = dotsNavs.querySelector('.current-slide');
+    const nextDot = currentDot.nextElementSibling;
     const nextSlide = currentSlide.nextElementSibling;
+    const nextIndex = slides.findIndex(slide => slide === nextSlide);
     moveToSlide(track, currentSlide, nextSlide);
+    UpdateDots(currentDot, nextDot);
+    UpdateButtonVisibility(slides, prevButton, nextButton, nextIndex);
 })
 
 prevButton.addEventListener('click', e => {
     const currentSlide = track.querySelector('.current-slide');
+    const currentDot =  dotsNavs.querySelector('.current-slide');
+    const prevDot = currentDot.previousElementSibling;
     const prevSlide = currentSlide.previousElementSibling;
-
+    const prevIndex = slides.findIndex(slide => slide === prevSlide);
     moveToSlide(track, currentSlide, prevSlide);
+    UpdateDots(currentDot, prevDot)
+    UpdateButtonVisibility(slides, prevButton, nextButton, prevIndex);
 })
 
 dotsNavs.addEventListener('click', e => {
@@ -37,5 +66,10 @@ dotsNavs.addEventListener('click', e => {
 
     const currentSlide = track.querySelector('.current-slide');
     const currentDot = dotsNavs.querySelector('.current-slide');
-    const targetIndex = dots.findIndex
+    const targetIndex = dots.findIndex(dot => dot === targetDot);
+    const targetSlide = slides[targetIndex];
+
+    moveToSlide(track, currentSlide, targetSlide);
+    UpdateDots(currentDot, targetDot);
+    UpdateButtonVisibility(slides, prevButton, nextButton, targetIndex);
 })

@@ -30,6 +30,7 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 #### Mental model
 ### ``` Array.prototype.findIndex()```
 
+
 #### Mental model
 
 ## Function

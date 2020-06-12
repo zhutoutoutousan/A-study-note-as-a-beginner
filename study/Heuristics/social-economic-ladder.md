@@ -3,6 +3,9 @@ Q1: What's the difference among the opinions of your parents and the ones of som
 A: 
 # Decision making
 ## Generic topics
+### Job seeking
+- The difference between large companies and small companies for beginners
+  - [Big Company or Small Company? - TurningScience](https://turningscience.com/big-company-or-small-company/#:~:text=If%20you%20work%20in%20a,is%20primarily%20focused%20on%20surviving.)
 ### Sunk cost fallacy
 ### Survivorship bias
 # APS

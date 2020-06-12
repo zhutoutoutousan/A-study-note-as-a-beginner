@@ -15,6 +15,7 @@
     background: lightgreen;
     height: 100%;
     position: relative;
+    overflow: hidden;
 }
 
 .carousel__track {

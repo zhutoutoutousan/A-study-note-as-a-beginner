@@ -2,7 +2,7 @@
 # People skill
 # Working environment
 ## Ergonomics
-### Comment injury
+### Common injury
 #### Shoulder impingement
 ### Useful tools
 ### Scenarios

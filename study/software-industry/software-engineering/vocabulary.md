@@ -23,6 +23,7 @@
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
 - [Translation EN-CH](#translation-en-ch)
+  - [A](#a-1)
   - [C](#c-1)
   - [S](#s-1)
   - [T](#t-1)
@@ -65,6 +66,8 @@ The term **Web service(WS)** is either:
 ### URI
 
 # Translation EN-CH
+## A
+- Accordion - 折叠面板
 ## C
 - Closure - 闭包
 ## S

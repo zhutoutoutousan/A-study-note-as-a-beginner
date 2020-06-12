@@ -70,11 +70,13 @@
 .carousel__indicator {
     border: 0;
     border-radius: 50%;
-    height: 20px;
-    width: 20px;
+    height: 18px;
+    width: 18px;
+    margin: 12px;
     background: black;
 }
 
 .carousel__indicator.current-slide {
-    background: rgba(0,0,0,.75);
+    background: rgba(71, 59, 82, 0.55);
+    color: rgba(71, 59, 82, 0.55);
 }

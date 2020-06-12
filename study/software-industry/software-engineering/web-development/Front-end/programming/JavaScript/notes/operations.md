@@ -11,6 +11,10 @@
   - [Reverse a string](#reverse-a-string)
     - [Reference](#reference-1)
 - [Array](#array)
+  - [Copy an array](#copy-an-array)
+    - [Shallow copy](#shallow-copy)
+    - [Deep copy](#deep-copy)
+      - [```Array.from```](#arrayfrom)
   - [Create array](#create-array)
     - [Create an array of empty arrays](#create-an-array-of-empty-arrays)
     - [Create an array with generator](#create-an-array-with-generator)
@@ -46,6 +50,10 @@ For more see [String.prototype.includes\(\)](https://developer.mozilla.org/zh-CN
 [Three Ways to Reverse a String in JavaScript](https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/)
 
 # Array
+## Copy an array
+### Shallow copy
+### Deep copy
+#### ```Array.from```
 ## Create array
 ### Create an array of empty arrays
 ```javascript

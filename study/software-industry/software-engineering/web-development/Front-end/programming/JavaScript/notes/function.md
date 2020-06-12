@@ -25,8 +25,11 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 
 #### Mental model
 ### ``` Array.prototype.splice()```
-
+#### Mental model
 ### ``` Array.prototype.forEach()```
+#### Mental model
+### ``` Array.prototype.findIndex()```
+
 #### Mental model
 
 ## Function

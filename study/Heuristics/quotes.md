@@ -5,3 +5,9 @@
 # Programming paradigm
 - OO makes code understandable by encapsulating moving parts.
   FP makes code understandable by minimizing moving parts.  --- Michael Feathers(Twitter)
+
+# Future
+- Any application that can be written in JavaScript, will eventually be written in JavaScript.  --- Jeff Atwood, Author, Entrepreneur, Cofounder of StackOverflow
+
+# World
+- If anything can go wrong, it will. --- Murphy's law

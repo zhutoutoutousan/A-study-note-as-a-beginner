@@ -6,3 +6,5 @@
   -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 1/503
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
+- Getting MEAN with Mongo, Express, Angular, and Node 0/?
+  - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)

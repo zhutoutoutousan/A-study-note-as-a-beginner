@@ -24,7 +24,10 @@
 - [TreeWalker](#treewalker)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
-  - [Attribute](#attribute)
+  - [Style](#style)
+    - [Basics](#basics)
+    - [```Element.scrollHeight```](#elementscrollheight)
+  - [Node navigation](#node-navigation)
     - [```Element.closest()```](#elementclosest)
 - [Event](#event)
   - [What is event?](#what-is-event)
@@ -72,8 +75,13 @@
 # TreeWalker
 # DOMTimeStamp
 # Element
-## Attribute
+## Style
+### Basics
+- Naming tradition: CSS(pascal case) --> JavaScript(Camel case)
+### ```Element.scrollHeight```
+## Node navigation
 ### ```Element.closest()``` 
+
 # Event
 ## What is event?
 ```javascript

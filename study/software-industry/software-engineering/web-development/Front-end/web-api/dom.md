@@ -4,7 +4,11 @@
   - [Prerequisites](#prerequisites)
 - [Mental model](#mental-model)
 - [Document](#document)
-  - [```document.querySelector()```](#documentqueryselector)
+  - [Selection](#selection)
+    - [```document.querySelector()```](#documentqueryselector)
+    - [```document.querySelectorAll()```](#documentqueryselectorall)
+    - [```document.getElementsByClassName()```](#documentgetelementsbyclassname)
+    - [```document.getElementById()```](#documentgetelementbyid)
 - [Window](#window)
 - [Node](#node)
   - [ChildNode](#childnode)
@@ -37,7 +41,7 @@
 - [Operations](#operations)
   - [Navigation](#navigation)
     - [Node tree](#node-tree)
-  - [Selection](#selection)
+  - [Selection](#selection-1)
     - [Get multiple elements](#get-multiple-elements)
       - [```Array.from```](#arrayfrom)
 - [Resource](#resource-1)
@@ -46,7 +50,11 @@
 - JavaScript - Array
 # Mental model
 # Document
-## ```document.querySelector()```
+## Selection
+### ```document.querySelector()```
+### ```document.querySelectorAll()```
+### ```document.getElementsByClassName()```
+### ```document.getElementById()```
 # Window
 # Node
 ## ChildNode

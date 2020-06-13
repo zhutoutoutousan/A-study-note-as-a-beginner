@@ -4,7 +4,7 @@
     margin: 50px auto;
 }
 
-button.accordion {
+button.accordian {
     width: 100%;
     background-color: whitesmoke;
     border: none;
@@ -16,6 +16,14 @@ button.accordion {
     transition: background-color 0.2s linear;
 }
 
-button.accordion:hover {
+button.accordian:hover {
      background-color: #ddc;
+}
+
+.accordian-content {
+    padding: 0 20px;
+    border-left: 1px solid whitesmoke;
+    border-right: 1px solid whitesmoke; 
+    max-height: 0;
+    overflow: hidden;
 }

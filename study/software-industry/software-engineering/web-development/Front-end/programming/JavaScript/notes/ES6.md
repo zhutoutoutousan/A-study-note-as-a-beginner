@@ -2,13 +2,67 @@
 - [Table of Contents](#table-of-contents)
 - [Class](#class)
 - [Arrow function](#arrow-function)
-  - [Defined or undefined?](#defined-or-undefined)
+  - [Basic properties and heads-ups](#basic-properties-and-heads-ups)
+  - [Case study](#case-study)
+    - [Defined or undefined?](#defined-or-undefined)
+  - [Resource](#resource)
 - [Destructure assignment](#destructure-assignment)
 
 # Class
 See [class.md](./class.md)
 # Arrow function
-## Defined or undefined?
+An **arrow function expression** is a syntactically compact alternative to a regular function expression.
+## Basic properties and heads-ups
+- An **arrow function expression** hasn't its own bindings to the ```this```, ```arguments```, ```super```, or ```new.target``` keywords.
+- Arrow function expressions are ill suited as methods, and they cannot be used as constructors. --> Why?
+- ```this``` and arrow functions in classes:
+```javascript
+class JackAss {
+    constructor(jack, ass){
+        this.jack = jack;
+        this.ass = ass;
+    }
+
+    // arrow function is not allowed
+    // const shit = (jack, ass) => {
+    //     console.log(this.jack);
+    //     console.log(this.ass);
+    //     console.log("shit");
+    // };
+
+    speak() {
+        // console.log(jack);   Error: jack is not defined
+        console.log(this.jack);
+        // console.log(ass);    Error: ass is not defined
+        console.log(this.ass);
+        console.log("speaks");
+    }
+
+    // deceive(lie) {
+    //     // unexpected token ')'
+    //     () => {console.log(`${this.jack} ${this.ass} claimed that ${lie}`);}();
+    // }
+}
+
+
+
+// Test
+let x = new JackAss("shit", "eat")
+x.speak()
+// shit
+// eat
+// speaks
+```
+- ```this``` in arrow functions
+```javascript
+let arrow = (dumb, ball, dungeon) => {
+    console.log(`I am playing ${dumb} + ${ball} + and ${dungeon} for 3 years non-stop, and here's my JavaScript skills`)
+    console.log(`${this} will be shown as [object, Object]?`);  // [object Window] ...
+    console.log(this);  // Window object
+}
+```
+## Case study
+### Defined or undefined?
 ```javascript
 const test = (func, num, scale) => {
     const sample = new Array(num).fill(0).map(x => 
@@ -39,6 +93,8 @@ test(insertSort, 100, 50);
  const correction = new Array(num).fill(0).map(x =>{ return x + Math.floor(Math.random() * scale)})
 //  Normal
 ```
+## Resource
+- [Arrow function expressions - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 
 # Destructure assignment
 [Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)

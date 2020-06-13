@@ -4,8 +4,13 @@
   - [Digestive system](#digestive-system)
   - [Circulation system](#circulation-system)
   - [Muscle system](#muscle-system)
-    - [Injury](#injury)
+    - [Muscle anatomy](#muscle-anatomy)
       - [Shoulder](#shoulder)
+      - [Abdominal muscle](#abdominal-muscle)
+      - [](#)
+    - [Injury](#injury)
+      - [Shoulder](#shoulder-1)
+        - [SLAP](#slap)
         - [Shoulder impingement](#shoulder-impingement)
       - [Knee](#knee)
 - [Physical disease](#physical-disease)
@@ -47,8 +52,25 @@
 - Total emptying of the stomach takes 4-5 hours
 ## Circulation system
 ## Muscle system
+### Muscle anatomy
+#### Shoulder
+
+
+Tendon:
+
+Labrum
+#### Abdominal muscle
+#### 
 ### Injury
 #### Shoulder
+##### SLAP
+Superior
+
+Labral tear
+
+Anterior labral tear
+
+Posterior labral tear
 ##### Shoulder impingement
 Remedy:
 - [Absolute Best Shoulder Impingement Exercises (Self-Treatments)](https://www.youtube.com/watch?v=fpqMU88DfyE)

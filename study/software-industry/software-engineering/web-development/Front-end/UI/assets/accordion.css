@@ -10,4 +10,12 @@ button.accordion {
     border: none;
     outline: none;
     text-align: left;
+    padding: 15px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.2s linear;
+}
+
+button.accordion:hover {
+     background-color: #ddc;
 }

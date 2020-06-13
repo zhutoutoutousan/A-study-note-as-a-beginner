@@ -13,6 +13,7 @@ a[title]{}
 a[href="https://fuckyouverymuch.com"]{ }
 ```
 # Pseudo-classes and pseudo-elements
+## ```:hover```
 # Combinators
 ## ```>```
 

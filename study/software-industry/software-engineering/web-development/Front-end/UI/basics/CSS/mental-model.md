@@ -2,6 +2,9 @@
 - [Table of Contents](#table-of-contents)
 - [What CSS does](#what-css-does)
 - [CSS box model](#css-box-model)
+- [Spatial intelligence](#spatial-intelligence)
+  - [Performance](#performance)
+  - [Training](#training)
   - [Block boxes](#block-boxes)
     - [Mental model](#mental-model)
     - [Behaviour check-up](#behaviour-check-up)
@@ -40,6 +43,11 @@
 | ![Box model](./assets/box-model.PNG) |
 |:--:|
 | *Box model* |
+
+# Spatial intelligence
+## Performance
+## Training
+- When you are doing the coding in css, imagine every time what would it look like precisely on the page with variable page settings. Including pixels.
 
 
 ## Block boxes

@@ -1,0 +1,13 @@
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+button.accordion {
+    width: 100%;
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+    text-align: left;
+}

@@ -26,4 +26,5 @@ button.accordian:hover {
     border-right: 1px solid whitesmoke; 
     max-height: 0;
     overflow: hidden;
+    transition: max-height 0.2s ease-in-out;
 }

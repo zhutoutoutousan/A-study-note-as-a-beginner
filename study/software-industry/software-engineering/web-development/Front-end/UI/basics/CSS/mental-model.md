@@ -1,10 +1,10 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [What CSS does](#what-css-does)
-- [CSS box model](#css-box-model)
 - [Spatial intelligence](#spatial-intelligence)
   - [Performance](#performance)
   - [Training](#training)
+- [CSS box model](#css-box-model)
   - [Block boxes](#block-boxes)
     - [Mental model](#mental-model)
     - [Behaviour check-up](#behaviour-check-up)
@@ -39,15 +39,18 @@
 | ![What CSS does](./assets/what-css-does.PNG) |
 |:--:|
 | *What CSS does* |
-# CSS box model
-| ![Box model](./assets/box-model.PNG) |
-|:--:|
-| *Box model* |
 
 # Spatial intelligence
 ## Performance
 ## Training
 - When you are doing the coding in css, imagine every time what would it look like precisely on the page with variable page settings. Including pixels.
+
+# CSS box model
+| ![Box model](./assets/box-model.PNG) |
+|:--:|
+| *Box model* |
+
+
 
 
 ## Block boxes

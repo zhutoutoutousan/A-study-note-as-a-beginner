@@ -5,15 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Expanding search bar</title>
-    <link rel="stylesheet" href="https://use.typekit.net/qhm8wqj.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+N1B+0ev/YKQ=" crossorigin="anonymous"/>
     <link rel="stylesheet" href="expanding-search-bar.css">
+    <script src="https://kit.fontawesome.com/b784dd004a.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <div class="content">
         <div class="search-bar">
-            <input type="text"  />
-            <button><i class="fas fa-search"></i></button>
+            <input 
+            type="text" 
+            class="search-bar__input" placeholder="enter your search" aria-label="search" />
+            <button>
+                <i 
+                class="fab fa-accessible-icon" class="search-bar__submit" aria-label="submit search">
+                </i>
+            </button>
         </div>
     </div>
 </body>

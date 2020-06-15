@@ -1,3 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-primary: #ee6352;
+  --clr-body: #333;
+  --clr-bg: #ddd;
+}
+
 body {
   font-family: basic-sans, sans-serif;
   min-height: 100vh;
@@ -14,6 +26,7 @@ body {
   background: white;
   width: 70vw;
   padding: 3em;
+  box-shadow: 0 0 3em rgba(0, 0, 0, 0.15);
 }
 
 /*# sourceMappingURL=expanding-search-bar.css.map */

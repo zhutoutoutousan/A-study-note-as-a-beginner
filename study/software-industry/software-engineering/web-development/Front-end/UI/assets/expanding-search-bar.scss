@@ -1,3 +1,15 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --clr-primary: #ee6352;
+    --clr-body: #333;
+    --clr-bg: #ddd;
+}
+
 body {
     font-family: basic-sans, sans-serif;
     min-height: 100vh;

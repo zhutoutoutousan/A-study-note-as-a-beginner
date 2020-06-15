@@ -14,6 +14,23 @@ a[href="https://fuckyouverymuch.com"]{ }
 ```
 # Pseudo-classes and pseudo-elements
 ## ```:hover```
+## ```::before```
+## ```::after```
+## ```:root``` and ```var()```
+Usage:
+```css
+:root {
+    --clr-primary: #ee6352;
+    --clr-body: #333;
+    /* etc */
+}
+
+body {
+    /* etc */
+    color: var(--clr-body);
+}
+
+```
 # Combinators
 ## ```>```
 

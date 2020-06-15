@@ -1,0 +1,19 @@
+body {
+  font-family: basic-sans, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.125em;
+  line-height: 1.6;
+  color: var(--clr-body);
+  background: var(--clr-bg);
+}
+
+.content {
+  background: white;
+  width: 70vw;
+  padding: 3em;
+}
+
+/*# sourceMappingURL=expanding-search-bar.css.map */

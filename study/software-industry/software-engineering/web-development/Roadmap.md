@@ -16,7 +16,8 @@
 # Roadmap
 ## Full-stack
 ### Resources
-[Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+- [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+
 ## Front-end
 ### HTML
 #### Playgrounds

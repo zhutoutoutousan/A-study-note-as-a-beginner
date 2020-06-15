@@ -29,4 +29,9 @@ body {
   box-shadow: 0 0 3em rgba(0, 0, 0, 0.15);
 }
 
+.search-bar {
+  border: 2px solid var(--clr-primary);
+  display: flex;
+}
+
 /*# sourceMappingURL=expanding-search-bar.css.map */

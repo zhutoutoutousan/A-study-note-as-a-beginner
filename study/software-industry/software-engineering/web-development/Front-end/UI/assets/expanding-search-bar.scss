@@ -28,3 +28,13 @@ body {
     padding: 3em;
     box-shadow: 0 0 3em rgba(0, 0, 0, 0.15);
 }
+
+.search-bar {
+    border: 2px solid var(--clr-primary);
+    display: flex;
+    
+    &__input {
+        flex-grow: 1;
+        font-size: 1.5rem;
+    }
+}

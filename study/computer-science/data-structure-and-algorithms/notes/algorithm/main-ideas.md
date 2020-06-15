@@ -92,6 +92,8 @@ for j = 2 to A.length
 ```
 Proof check out *Introduction to algorithms* Page 19
 
+Mental model:
+- Very similar to the way you sort poker decks
 ### Under the hood: Why loop variant can prove the correctness of an algorithm?
 [CS 170 Tutorial #1 Invariants and Proofs of Correctness](http://www-inst.cs.berkeley.edu/~cs170/fa14/tutorials/tutorial1.pdf)
 
@@ -159,6 +161,7 @@ $$
 
 This worst-case running time as $an^2+bn+c$ for constants $a,b$ and $c$ that again depend on the statement consts $c_i$; it is thus a **quadratic function** of $n$.
 
+  *The rigorous analysis serves more as a reference* 
 ##### Order of growth
 What is ignored:
 - The actual cost of each statement.(Using a constant to replace)

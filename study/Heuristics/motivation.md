@@ -10,6 +10,9 @@
   - [Endorphin](#endorphin)
   - [Resources](#resources)
 - [Psychological view](#psychological-view)
+  - [WiLlPoWEr](#willpower)
+    - [The truth behind those people with GrEAt wILlPoWEr](#the-truth-behind-those-people-with-great-willpower)
+    - [Resource](#resource)
   - [Optimal psychological state when studying](#optimal-psychological-state-when-studying)
     - [Flow](#flow)
   - [Personality](#personality)
@@ -74,6 +77,13 @@ Related with *pleasure* and *satisfaction*
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)
 
 # Psychological view
+## WiLlPoWEr
+### The truth behind those people with GrEAt wILlPoWEr
+- [What’s So Great About Self-Control? Examining the Importance of Effortful Self-Control and Temptation in Predicting Real-Life Depletion and Goal Attainment](https://journals.sagepub.com/doi/abs/10.1177/1948550616679237)
+
+### Resource
+- [Willpower is for Losers](https://www.youtube.com/watch?v=k2Wcu6aGyz8)
+- [Ego depletion theory](https://en.wikipedia.org/wiki/Ego_depletion#:~:text=Ego%20depletion%20refers%20to%20the,rather%20than%20the%20colloquial%20sense)
 ## Optimal psychological state when studying
 ### Flow
 ## Personality

@@ -1,4 +1,13 @@
 # Navigate through dysfunctional upbringing environments
+## Dysfunctional families
+### Signs
+### Factors
+#### Historical environment
+#### Ideology
+#### Education
+#### Social economic state
+## Counter measures
+## Practice on critical thinking
 Q1: What's the difference among the opinions of your parents and the ones of some randomly selected people of about the same age?  
 A: 
 # Decision making

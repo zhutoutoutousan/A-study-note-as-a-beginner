@@ -23,8 +23,12 @@ button.accordian::after {
     float: right;
 }
 
-button.accordian:hover {
+button.accordian:hover, button.accordian.is-open {
      background-color: #ddc;
+}
+
+button.accordian.is-open::after {
+    content: "\f106";
 }
 
 .accordian-content {

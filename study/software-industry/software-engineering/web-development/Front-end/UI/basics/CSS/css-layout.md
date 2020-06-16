@@ -30,6 +30,9 @@
 - [Responsive design](#responsive-design)
   - [Media queries](#media-queries)
 - [Multiple browser support](#multiple-browser-support)
+- [Responsive page](#responsive-page)
+  - [Js Methods](#js-methods)
+  - [```getBoundingClientRect()```](#getboundingclientrect)
 - [Resource](#resource)
 # Introduction
 # Normal flow
@@ -89,7 +92,7 @@ The ```flex-basis``` CSS property sets the initial main size of a flex item. It 
 ```
 
 Training: 
-- 
+- Go to 
 #### ```flex-grow: <number> ```
 #### ```flex-shrink: <number>```
 #### ```flex: <integer>```
@@ -104,8 +107,14 @@ Training:
 ## Media queries
 # Multiple browser support
 
+# Responsive page
+## Js Methods
+## ```getBoundingClientRect()```
+
 # Resource
 - [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc) 7:34/19:58
   - [Codepenn](https://codepen.io/zhutoutoutousan/pen/gOPwOOa) 
 - [Flexbox - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [CSS Grid Layout Crash Course - Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [Grid CSS Responsive Website Layout - "Mobile First" Design](https://www.youtube.com/watch?v=M3qBpPw77qo)

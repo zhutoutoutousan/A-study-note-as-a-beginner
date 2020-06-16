@@ -44,7 +44,7 @@
 ## Performance
 ## Training
 - When you are doing the coding in css, imagine every time what would it look like precisely on the page with variable page settings. Including pixels.
-
+- Whenever you are learning a new piece of code in HTML and CSS, try to look at the code and use your mental model to build one, then use any playground like *Codepenn* to construct it to verify the model.
 # CSS box model
 | ![Box model](./assets/box-model.PNG) |
 |:--:|

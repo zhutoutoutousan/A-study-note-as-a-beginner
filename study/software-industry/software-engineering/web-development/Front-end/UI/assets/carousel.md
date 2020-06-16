@@ -218,11 +218,14 @@ dotsNavs.addEventListener('click', e => {
   - Functional programming
   - Objected-oriented programming
 - Function
-  - Create multiple carousels for different uses
-  - [Seamless transition](https://www.jianshu.com/p/d3c650a5c994)
+  - Timed transition
+  - With the options
+  - Build a site to contain the carousel
+  - Manual mode/Timed transition mode
 ## Resource
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 1)](https://www.youtube.com/watch?v=VYsVOamdB0g)   -- OK  
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)](https://www.youtube.com/watch?v=gBzsE0oieio&t=15s) -- OK
+[Advance image slider in header with animation effect, JavaScript tutorial](https://www.youtube.com/watch?v=gBAgeONzRN8) 0:00/15:24
 
 
 # Vue

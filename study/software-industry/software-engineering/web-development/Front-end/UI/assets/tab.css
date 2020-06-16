@@ -1,0 +1,9 @@
+.tabs {
+    border: 1px solid #ccccc;
+    display: flex;
+}
+
+.tabs__sidebar {
+    width: 125px;
+    flex-shrink: 0;
+}

@@ -5,8 +5,16 @@
   - [Border](#border)
   - [Margin](#margin)
     - [Naming traditions](#naming-traditions)
-  - [Height](#height)
-    - [```height```](#height-1)
+  - [Shape](#shape-1)
+    - [```box-sizing```](#box-sizing)
+      - [```content-box```](#content-box)
+        - [Mental model](#mental-model-1)
+        - [Behaviour check](#behaviour-check)
+      - [```border-box```](#border-box)
+        - [Mental model](#mental-model-2)
+        - [Behaviour check](#behaviour-check-1)
+      - [Resource](#resource)
+    - [```height```](#height)
     - [```max-height```](#max-height)
     - [```min-height```](#min-height)
 - [Styling](#styling)
@@ -49,7 +57,16 @@ margin: unset;
 ```
 
 
-## Height
+## Shape
+### ```box-sizing```
+#### ```content-box```
+##### Mental model
+##### Behaviour check
+#### ```border-box```
+##### Mental model
+##### Behaviour check
+#### Resource
+Check [this](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) for more info.
 ### ```height```
 ### ```max-height```
 - ```max-height``` overrides ```height```, and ```min-height``` overrides ```max-height```.

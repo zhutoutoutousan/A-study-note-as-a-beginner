@@ -65,6 +65,31 @@ A flexbox is a CSS3 layout mode that provides an easy and clean way to arrange i
 The **flex** CSS property sets how a flex *item* will grow or shrink to fit the space available in its flex container. It is a *shorthand* for ```flex-grow```, ```flex-shrink```, and ```flex-basis```.
 #### ```flex-basis: <length>```
 The ```flex-basis``` CSS property sets the initial main size of a flex item. It sets the size of the content box unless otherwise set with ```box-sizing```.
+```css
+.someClass {
+  /* Specify <'width'> */
+  flex-basis: 10em;
+  flex-basis: 3px;
+  flex-basis: auto;
+
+  /* Intrinsic sizing keywords */
+  flex-basis: fill;
+  flex-basis: max-content;
+  flex-basis: min-content;
+  flex-basis: fit-content;
+
+  /* Automatically size based on the flex item's content */
+  flex-basis: content;
+
+  /* Global values */
+  flex-basis: inherit;
+  flex-basis: initial;
+  flex-basis: unset;
+}
+```
+
+Training: 
+- 
 #### ```flex-grow: <number> ```
 #### ```flex-shrink: <number>```
 #### ```flex: <integer>```

@@ -10,9 +10,11 @@
       - [```content-box```](#content-box)
         - [Mental model](#mental-model-1)
         - [Behaviour check](#behaviour-check)
+        - [Calculation](#calculation)
       - [```border-box```](#border-box)
         - [Mental model](#mental-model-2)
         - [Behaviour check](#behaviour-check-1)
+        - [Calculation](#calculation-1)
       - [Resource](#resource)
     - [```height```](#height)
     - [```max-height```](#max-height)
@@ -61,10 +63,14 @@ margin: unset;
 ### ```box-sizing```
 #### ```content-box```
 ##### Mental model
+- As a child of a parent, content-box is willful, given the height and width restraints, its border usually overcedes the line drawn by its parent. Every child is born willful and can be tamed by assigning ```rules```.
 ##### Behaviour check
+##### Calculation
 #### ```border-box```
 ##### Mental model
+- As a child of a parent, border-box is not willful, given the height and width restraints, its shrinks its sides so that its border doesn't excede the line drawn by its parent.
 ##### Behaviour check
+##### Calculation
 #### Resource
 Check [this](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing) for more info.
 ### ```height```

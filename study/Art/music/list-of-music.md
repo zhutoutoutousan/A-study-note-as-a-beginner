@@ -1,0 +1,2 @@
+- Eugène Ysaye - Sonata for 2 violins a-moll. 1. Poco lento, maestoso - Allegro fermo.
+- Mendelssohn Violin Concerto in E minor, Op. 64

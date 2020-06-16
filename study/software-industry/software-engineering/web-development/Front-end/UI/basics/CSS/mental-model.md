@@ -5,6 +5,7 @@
   - [Performance](#performance)
   - [Training](#training)
 - [CSS box model](#css-box-model)
+  - [Micellaneous collections of box model behaviours](#micellaneous-collections-of-box-model-behaviours)
   - [Block boxes](#block-boxes)
     - [Mental model](#mental-model)
     - [Behaviour check-up](#behaviour-check-up)
@@ -51,7 +52,8 @@
 | *Box model* |
 
 
-
+## Micellaneous collections of box model behaviours
+- By default in the CSS box model, the width and height you assign to an element is applied only to the element's content box. If the element has any border or padding, this is then added to the width and height to arrive at the size of the box that's rendered on the screen. This means that when you set width and height, you have to adjust the value you give to allow for any border or padding that may be added. For example, if you have four boxes with ```width: 25%;```, if any has left or right padding or a left or right border, they will not by default fit on one line within the constraints of the parent container. ---[MDN - box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 
 ## Block boxes
 ### Mental model

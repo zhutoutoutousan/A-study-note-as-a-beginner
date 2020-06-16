@@ -16,6 +16,13 @@ button.accordian {
     transition: background-color 0.2s linear;
 }
 
+button.accordian::after {
+    content: '\f107';
+    font-family: "fontawesome";
+    font-size: 14px;
+    float: right;
+}
+
 button.accordian:hover {
      background-color: #ddc;
 }
@@ -28,3 +35,4 @@ button.accordian:hover {
     overflow: hidden;
     transition: max-height 0.2s ease-in-out;
 }
+

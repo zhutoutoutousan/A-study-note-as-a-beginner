@@ -222,6 +222,9 @@ dotsNavs.addEventListener('click', e => {
   - With the options
   - Build a site to contain the carousel
   - Manual mode/Timed transition mode
+- Dexterity
+  - Review and build a mental model for fast development
+  - Find a fastest way to get a carousel up and running(Introduce frameworks and libraries)
 ## Resource
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 1)](https://www.youtube.com/watch?v=VYsVOamdB0g)   -- OK  
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)](https://www.youtube.com/watch?v=gBzsE0oieio&t=15s) -- OK
@@ -231,7 +234,7 @@ dotsNavs.addEventListener('click', e => {
 # Vue
 ## vue-router
 ## Vuex
-## 
+## element-ui
 
 
 # React

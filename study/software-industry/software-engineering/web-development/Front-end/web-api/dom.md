@@ -9,6 +9,8 @@
     - [```document.querySelectorAll()```](#documentqueryselectorall)
     - [```document.getElementsByClassName()```](#documentgetelementsbyclassname)
     - [```document.getElementById()```](#documentgetelementbyid)
+  - [Modify](#modify)
+    - [```document.createElement()```](#documentcreateelement)
 - [Window](#window)
 - [Node](#node)
   - [ChildNode](#childnode)
@@ -24,11 +26,16 @@
 - [TreeWalker](#treewalker)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
+  - [HTML](#html)
+    - [```Element.innerHTML```](#elementinnerhtml)
+    - [```Element.outerHTML```](#elementouterhtml)
   - [Style](#style)
     - [Basics](#basics)
     - [```Element.scrollHeight```](#elementscrollheight)
   - [Node navigation](#node-navigation)
     - [```Element.closest()```](#elementclosest)
+    - [```Element.classList```](#elementclasslist)
+      - [```Element.classList.toggle([className])```](#elementclasslisttoggleclassname)
 - [Event](#event)
   - [What is event?](#what-is-event)
   - [Four phases of an event](#four-phases-of-an-event)
@@ -58,6 +65,12 @@
 ### ```document.querySelectorAll()```
 ### ```document.getElementsByClassName()```
 ### ```document.getElementById()```
+## Modify
+### ```document.createElement()```
+```javascript
+const div = document.createElement('div');
+div.className = 'foo';
+```
 # Window
 # Node
 ## ChildNode
@@ -69,19 +82,27 @@
 ### ```NonDocumentTypeChildNode.nextElementSibling```
 #### Usage
 - carousel slide
+- accordian
 ### ```NonDocumentTypeChildNode.previousElementSibling```
 #### Usage
 - carousel slide
+- accordian
 # TreeWalker
 # DOMTimeStamp
 # Element
+## HTML
+### ```Element.innerHTML```
+### ```Element.outerHTML```
 ## Style
 ### Basics
 - Naming tradition: CSS(pascal case) --> JavaScript(Camel case)
 ### ```Element.scrollHeight```
 ## Node navigation
 ### ```Element.closest()``` 
+### ```Element.classList```
+#### ```Element.classList.toggle([className])```
 
+For more see [Element.classList - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 # Event
 ## What is event?
 ```javascript

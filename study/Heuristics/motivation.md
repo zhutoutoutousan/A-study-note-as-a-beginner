@@ -31,6 +31,7 @@
       - [Openness](#openness)
       - [Agreeableness](#agreeableness)
   - [Mental Integrity: Dealing with conflicts](#mental-integrity-dealing-with-conflicts)
+    - [Cognitive dissonance](#cognitive-dissonance)
     - [Social economic difference](#social-economic-difference)
     - [Verbal abuse](#verbal-abuse)
       - [The Straw man fallacy](#the-straw-man-fallacy)
@@ -103,6 +104,8 @@ Related with *pleasure* and *satisfaction*
 #### Agreeableness
 
 ## Mental Integrity: Dealing with conflicts
+### Cognitive dissonance
+[wiki](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 ### Social economic difference
 ### Verbal abuse
 #### The Straw man fallacy

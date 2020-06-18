@@ -30,8 +30,30 @@ body {
 }
 
 .search-bar {
+  --size: 60px;
   border: 2px solid var(--clr-primary);
   display: flex;
+  border-radius: 50px;
+}
+.search-bar__input {
+  flex-grow: 1;
+  font-size: 1.5rem;
+  padding: 0 0.5em;
+  border: 0;
+  background: transparent;
+}
+.search-bar__input:focus {
+  outline: 0;
+}
+.search-bar__submit {
+  font-size: 1.5rem;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+  border-radius: 50%;
+  background: pink;
+  width: var(--size);
+  height: var(--size);
 }
 
 /*# sourceMappingURL=expanding-search-bar.css.map */

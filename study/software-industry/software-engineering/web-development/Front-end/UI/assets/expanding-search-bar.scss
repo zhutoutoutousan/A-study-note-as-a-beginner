@@ -30,11 +30,32 @@ body {
 }
 
 .search-bar {
+    --size: 60px;
     border: 2px solid var(--clr-primary);
     display: flex;
-    
+    border-radius: 50px;
+    height: var(--size);
+
     &__input {
         flex-grow: 1;
         font-size: 1.5rem;
+        padding: 0 0.5em;
+        border: 0;
+        background: transparent;
+
+        &:focus {
+            outline: 0;
+        }
+    }
+
+    &__submit {
+        font-size: 1.5rem;
+        cursor: pointer;
+        border: 0;
+        background: transparent;
+        border-radius: 50%;
+        background: pink;
+        width: calc(var(--size) - 10px);
+        height: var(--size);
     }
 }

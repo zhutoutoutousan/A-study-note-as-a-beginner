@@ -34,6 +34,8 @@ body {
   border: 2px solid var(--clr-primary);
   display: flex;
   border-radius: 50px;
+  height: var(--size);
+  padding: 3px;
 }
 .search-bar__input {
   flex-grow: 1;
@@ -52,8 +54,8 @@ body {
   background: transparent;
   border-radius: 50%;
   background: pink;
-  width: var(--size);
-  height: var(--size);
+  width: calc(var(--size) - 10px);
+  height: calc(var(--size) - 10px);
 }
 
 /*# sourceMappingURL=expanding-search-bar.css.map */

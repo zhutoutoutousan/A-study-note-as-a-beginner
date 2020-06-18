@@ -35,6 +35,7 @@ body {
     display: flex;
     border-radius: 50px;
     height: var(--size);
+    padding: 3px;
 
     &__input {
         flex-grow: 1;
@@ -56,6 +57,7 @@ body {
         border-radius: 50%;
         background: pink;
         width: calc(var(--size) - 10px);
-        height: var(--size);
+        height: calc(var(--size) - 10px);
+        
     }
 }

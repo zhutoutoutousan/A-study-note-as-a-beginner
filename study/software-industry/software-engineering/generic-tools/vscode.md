@@ -38,6 +38,7 @@
 - Switch between splits: Ctrl+1, Ctrl+2...
 - Move a tab to another split: Ctrl+Alt+Rightarrow/Leftarrow.
   - Check out [this](https://stackoverflow.com/questions/44018175/visual-studio-code-hotkey-to-move-a-tab-from-one-of-two-split-editors-to-anothe)
+  - Doesn't work with Ubuntu
 - Open this tab in a new window: Ctrl+K O
 - Open a new window with the same workspace: Ctrl+Shift+P dupl-->Workspaces: Duplicate Workspace in New Window
 - Move to certain number of line in code: Ctrl+G

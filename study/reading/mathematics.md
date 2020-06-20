@@ -1,3 +1,3 @@
-- Advanced engineering mathematics - Erwin kreyszig 0/1283
+- Advanced engineering mathematics - Erwin kreyszig 
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
   - [link2](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)

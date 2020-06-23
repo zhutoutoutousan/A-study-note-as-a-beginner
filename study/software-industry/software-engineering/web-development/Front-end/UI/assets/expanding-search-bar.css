@@ -35,14 +35,21 @@ body {
   display: flex;
   border-radius: 50px;
   height: var(--size);
+  width: var(--size);
   padding: 3px;
+  position: relative;
 }
 .search-bar__input {
   flex-grow: 1;
   font-size: 1.5rem;
   padding: 0 0.5em;
   border: 0;
-  background: transparent;
+  background: rgba(173, 216, 230, 0.5);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  line-height: var(--size);
 }
 .search-bar__input:focus {
   outline: 0;

@@ -4,7 +4,7 @@
 - [Shape](#shape)
   - [Border](#border)
   - [Margin](#margin)
-    - [Naming traditions](#naming-traditions)
+    - [Syntax](#syntax)
   - [Shape](#shape-1)
     - [```box-sizing```](#box-sizing)
       - [```content-box```](#content-box)
@@ -23,8 +23,17 @@
   - [Outline](#outline)
     - [Difference between ```outline``` and ```border```](#difference-between-outline-and-border)
   - [```box-shadow```](#box-shadow)
-    - [Syntax](#syntax)
+    - [Syntax](#syntax-1)
 - [Position](#position)
+  - [Absolute](#absolute)
+  - [Relative](#relative)
+  - [Sticky](#sticky)
+  - [Flex](#flex)
+  - [Nested situations](#nested-situations)
+    - [Absolute in Relative](#absolute-in-relative)
+    - [Relative in Absolute](#relative-in-absolute)
+- [display](#display)
+  - [```justify-content```](#justify-content)
 # Mental model
 Check out [Mental model](./mental-model.md)
 
@@ -33,7 +42,7 @@ Check out [Mental model](./mental-model.md)
 ## Border
 
 ## Margin
-### Naming traditions
+### Syntax
 ```css
 /* Apply to all four sides */
 .someclass{
@@ -121,3 +130,13 @@ See [Outlines Vs Borders](https://www.tutorialrepublic.com/css-tutorial/css-outl
 ```
 
 # Position
+## Absolute
+## Relative
+## Sticky
+## Flex
+## Nested situations
+### Absolute in Relative
+### Relative in Absolute
+
+# display
+## ```justify-content```

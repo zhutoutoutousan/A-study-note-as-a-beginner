@@ -31,9 +31,17 @@ body {
 }
 
 ```
+## ```:focus```
+[MDN :focus](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus)
+### ```:focus-within```
+Includes the childs of the node as trigger conditions
+[MDN :focus-within](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
+
 # Combinators
 ## ```>```
-
+## ```=```
+## ```+```
+## ```[attribute="value"]```
 # Resource
 [MDN - Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 [Before and After pseudo elements explained - part one: how they work](https://www.youtube.com/watch?v=zGiirUiWslI)

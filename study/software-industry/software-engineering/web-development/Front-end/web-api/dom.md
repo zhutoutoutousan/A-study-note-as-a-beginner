@@ -4,6 +4,10 @@
   - [Prerequisites](#prerequisites)
 - [Mental model](#mental-model)
 - [Document](#document)
+  - [Document Tree](#document-tree)
+    - [Shadow DOM](#shadow-dom)
+    - [Shadow Tree](#shadow-tree)
+    - [TreeWalker](#treewalker)
   - [Selection](#selection)
     - [```document.querySelector()```](#documentqueryselector)
     - [```document.querySelectorAll()```](#documentqueryselectorall)
@@ -23,7 +27,6 @@
       - [Usage](#usage)
     - [```NonDocumentTypeChildNode.previousElementSibling```](#nondocumenttypechildnodepreviouselementsibling)
       - [Usage](#usage-1)
-- [TreeWalker](#treewalker)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
   - [HTML](#html)
@@ -60,6 +63,11 @@
 - JavaScript - Array
 # Mental model
 # Document
+## Document Tree
+### Shadow DOM
+[MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+### Shadow Tree
+### TreeWalker
 ## Selection
 ### ```document.querySelector()```
 ### ```document.querySelectorAll()```
@@ -87,7 +95,7 @@ div.className = 'foo';
 #### Usage
 - carousel slide
 - accordian
-# TreeWalker
+
 # DOMTimeStamp
 # Element
 ## HTML

@@ -61,6 +61,31 @@ A flexbox is a CSS3 layout mode that provides an easy and clean way to arrange i
 #### ```flex-direction: row | column```
 #### ```flex-warp: warp | nowrap | wrapreverse```
 #### ```justify-content: flex-start | flex-end | center```
+**Mental model**
+
+**center**
+
+**start**
+
+**end**
+
+**space-around**
+
+**flex-start**
+
+**flex-end**
+
+**left**
+
+**right**
+
+**space-between**
+
+**space-around**
+
+
+For more check out [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+
 #### ```align-self: flex-start | flex-end | center```
 #### ```align-items: flex-start | flex-end | center```
 #### ```align-content: flex-start | flex-end | center```

@@ -3,6 +3,7 @@
 - [!DOCTYPE html](#doctype-html)
 - [html](#html)
 - [xhtml](#xhtml)
+- [HTML5](#html5)
 - [Link](#link)
   - [script](#script)
   - [link](#link-1)
@@ -28,12 +29,15 @@
     - [h](#h)
     - [p](#p)
     - [span](#span)
+    - [label](#label)
 - [Interactions](#interactions)
   - [input](#input)
     - [Attributes](#attributes)
       - [placeholder](#placeholder)
       - [aria-label](#aria-label)
   - [button](#button)
+  - [select](#select)
+  - [option](#option)
 - [List](#list)
   - [ul](#ul)
   - [ol](#ol)
@@ -56,6 +60,7 @@
 # !DOCTYPE html
 # html
 # xhtml
+# HTML5
 # Link
 ## script
 ## link
@@ -81,6 +86,7 @@
 ### h
 ### p
 ### span
+### label
 # Interactions
 ## input
 ### Attributes
@@ -90,6 +96,8 @@ Importance for accessibilitiy purposes:
 1. lorem
 2. ipsum
 ## button
+## select
+## option
 # List
 ## ul
 ## ol

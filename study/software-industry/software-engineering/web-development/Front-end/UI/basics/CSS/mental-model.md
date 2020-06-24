@@ -6,6 +6,7 @@
   - [Training](#training)
 - [CSS box model](#css-box-model)
   - [Micellaneous collections of box model behaviours](#micellaneous-collections-of-box-model-behaviours)
+  - [Containing block](#containing-block)
   - [Block boxes](#block-boxes)
     - [Mental model](#mental-model)
     - [Behaviour check-up](#behaviour-check-up)
@@ -54,7 +55,10 @@
 
 ## Micellaneous collections of box model behaviours
 - By default in the CSS box model, the width and height you assign to an element is applied only to the element's content box. If the element has any border or padding, this is then added to the width and height to arrive at the size of the box that's rendered on the screen. This means that when you set width and height, you have to adjust the value you give to allow for any border or padding that may be added. For example, if you have four boxes with ```width: 25%;```, if any has left or right padding or a left or right border, they will not by default fit on one line within the constraints of the parent container. ---[MDN - box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+- When a user agent(such as your browser) lays out a document, it generates a box for every element. Each box is divided into four areas: Content area, Padding area, Border area, Margin area. It isn't necessarily true that the containing block of an element is always the content area of its parent. For more, check out [MDN - Layout and the containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block)
 
+## Containing block
+[MDN - Layout and the containing block](https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block)
 ## Block boxes
 ### Mental model
 Think of this as a solid, arrogant, sturdy SOABox, which **stands out once present(Break onto a new line)**, and eat up all the spaces which contains it. However, you can **control its temper by whistling to its ear(The width and height properties are respected)**. But **when it loses its temper, its outer fatty layer can not be penetrated.**        

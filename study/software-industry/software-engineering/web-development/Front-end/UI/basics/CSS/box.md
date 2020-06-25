@@ -24,6 +24,9 @@
     - [Difference between ```outline``` and ```border```](#difference-between-outline-and-border)
   - [```box-shadow```](#box-shadow)
     - [Syntax](#syntax-1)
+  - [```background```](#background)
+  - [```background: url(<path>) | repeat | location```](#background-urlpath--repeat--location)
+    - [```background-size```](#background-size)
 - [Position](#position)
   - [Absolute](#absolute)
   - [Relative](#relative)
@@ -129,11 +132,17 @@ See [Outlines Vs Borders](https://www.tutorialrepublic.com/css-tutorial/css-outl
 }
 ```
 
+## ```background```
+## ```background: url(<path>) | repeat | location```
+### ```background-size```
+
+
 # Position
 ## Absolute
 ## Relative
 ## Sticky
 ## Flex
+[CSS layout](./css-layout.md)
 ## Nested situations
 ### Absolute in Relative
 ### Relative in Absolute

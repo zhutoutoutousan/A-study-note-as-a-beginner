@@ -22,6 +22,8 @@
       - [```flex-shrink: <number>```](#flex-shrink-number)
       - [```flex: <integer>```](#flex-integer)
       - [```order:<integer>```](#orderinteger)
+    - [Topics](#topics)
+    - [The difference between ```justify-content``` and ```align-item```](#the-difference-between-justify-content-and-align-item)
     - [Examples](#examples)
 - [Grids](#grids)
 - [Floats](#floats)
@@ -31,6 +33,8 @@
   - [Media queries](#media-queries)
 - [Multiple browser support](#multiple-browser-support)
 - [Responsive page](#responsive-page)
+  - [CSS rules](#css-rules)
+    - [```@media screen and (maxwidth: <number>px)```](#media-screen-and-maxwidth-numberpx)
   - [Js Methods](#js-methods)
   - [```getBoundingClientRect()```](#getboundingclientrect)
 - [Resource](#resource)
@@ -123,6 +127,9 @@ Training:
 #### ```flex: <integer>```
 #### ```order:<integer>```
 
+### Topics
+### The difference between ```justify-content``` and ```align-item```
+
 ### Examples
 # Grids
 # Floats
@@ -133,6 +140,8 @@ Training:
 # Multiple browser support
 
 # Responsive page
+## CSS rules
+### ```@media screen and (maxwidth: <number>px)```
 ## Js Methods
 ## ```getBoundingClientRect()```
 

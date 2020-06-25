@@ -48,6 +48,8 @@
       - [closest](#closest)
   - [Event Listener](#event-listener)
     - [Syntax](#syntax)
+    - [Troubleshoot](#troubleshoot)
+      - [```Uncaught TypeError: Cannot read property 'addEventListener' of null```](#uncaught-typeerror-cannot-read-property-addeventlistener-of-null)
   - [Event Loop](#event-loop)
     - [Resource](#resource)
   - [Event Target](#event-target)
@@ -135,6 +137,10 @@ const someEvent = event => {
 let someElement = document.querySelector('.someClass');
 someElement.addEventListener(someEvent);
 ```
+### Troubleshoot
+#### ```Uncaught TypeError: Cannot read property 'addEventListener' of null```
+- Check if the script file is included before the page is loaded.
+  - [Stack overflow](https://stackoverflow.com/questions/57191982/how-to-fix-typeerror-cannot-read-property-addeventlistener-of-null)
 ## Event Loop
 ### Resource 
 [What is Event loop? - Jsconf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

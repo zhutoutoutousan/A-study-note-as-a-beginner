@@ -39,6 +39,7 @@
 - Visualizing algorithms and data structures
 ### Resources
 [Clément Mihailescu](https://github.com/clementmihailescu)
+[Pathfinding Visualizer Tutorial (software engineering project)](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 ### Architecture
 - MVC: React
 

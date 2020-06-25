@@ -243,7 +243,7 @@ dotsNavs.addEventListener('click', e => {
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 1)](https://www.youtube.com/watch?v=VYsVOamdB0g)   -- OK  
 [How to code a carousel with HTML, CSS and JavaScript - from scratch (part 2)](https://www.youtube.com/watch?v=gBzsE0oieio&t=15s) -- OK
 [Advance image slider in header with animation effect, JavaScript tutorial](https://www.youtube.com/watch?v=gBAgeONzRN8) 0:00/15:24
-
+[How To Make an Infinite AutoPlay Image Slider Using JavaScript](https://www.youtube.com/watch?v=DqkH_PV5cto&t=24s)
 
 # Vue
 ## vue-router

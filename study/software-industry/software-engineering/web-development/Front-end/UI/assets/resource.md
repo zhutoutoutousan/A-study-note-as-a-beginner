@@ -10,6 +10,7 @@
 ### How to use
 ## Font awesome
 ### How to use
+#### Import all icons
 #### Unicode
 ```html
 <script src="https://kit.fontawesome.com/blablabla.js" crossorigin="anonymous"></script>

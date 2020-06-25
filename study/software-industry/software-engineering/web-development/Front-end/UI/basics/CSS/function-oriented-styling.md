@@ -5,8 +5,7 @@
   - [Maneuver](#maneuver)
     - [Inheritance](#inheritance)
     - [Methods](#methods)
-      - [Transform](#transform)
-      - [Position + \[direction\]](#position--direction)
+      - [```Transform```](#transform)
     - [Different types of transformations](#different-types-of-transformations)
       - [Translate](#translate)
     - [Reference](#reference)
@@ -22,8 +21,8 @@
 ### Inheritance
 
 ### Methods
-#### Transform
-#### Position + \[direction\]
+#### ```Transform```
+
 
 ### Different types of transformations
 #### Translate

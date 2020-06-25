@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+    font-family: sans-serif;
+}
+
+.hero-image {
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    background: url()
+}

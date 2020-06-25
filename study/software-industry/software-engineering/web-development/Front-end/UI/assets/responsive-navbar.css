@@ -53,6 +53,7 @@ nav {
     height: 3px;
     margin: 5px;
     background-color: var(--clr-txt);
+    transition: all 0.3s ease;
 }
 
 @media screen and (max-width: 768px) {

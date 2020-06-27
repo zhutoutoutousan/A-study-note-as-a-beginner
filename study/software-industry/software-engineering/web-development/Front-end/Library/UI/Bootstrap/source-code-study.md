@@ -54,6 +54,10 @@ A bunch of packed JavaScript files
 #### src
 #### tests
 #### Other js files
+- eslint related files
+- git related files
+- webpack related files
+  - babel-ES6
 ### nuget
 ### scss
 ### site

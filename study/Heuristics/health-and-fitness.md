@@ -139,7 +139,7 @@ Remedy
 
 
 # Resource
-[职业倦怠：如何面对？](https://time.geekbang.org/column/article/44270)
+[职业倦怠：如何面对？](https://time.geekbang.org/column/article/44270)  
 [Stomach Ulcer (Peptic Acid Disease) Medication – Pharmacology | Lecturio](https://www.youtube.com/watch?v=r8YPNXB_iu8)
 #### Duodenum ulcer
 ### Colon

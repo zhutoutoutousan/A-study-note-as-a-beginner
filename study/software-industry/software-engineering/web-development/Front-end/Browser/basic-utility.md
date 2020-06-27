@@ -32,7 +32,7 @@ const
 /**
  * 
  * 
- */
+ **/
 let storedClassElements = document.getElementByClassName('selected');
 let storedTagElements = document.getElementByTagName('selected');
 ```

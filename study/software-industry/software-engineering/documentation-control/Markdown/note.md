@@ -1,4 +1,5 @@
- of Contents
+ # Table of Contents
+- [Table of Contents](#table-of-contents)
 - [Text](#text)
   - [Start a new line](#start-a-new-line)
   - [Empty space](#empty-space)

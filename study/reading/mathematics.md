@@ -6,3 +6,7 @@
 # Logic
 - Introduction to Mathematical Logic 0/447
   - [link1](https://www.karlin.mff.cuni.cz/~krajicek/mendelson.pdf)
+
+# Probability theory
+- Probability Theory: The Logic of Science
+  - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)

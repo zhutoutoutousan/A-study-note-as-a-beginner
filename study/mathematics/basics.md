@@ -1,27 +1,8 @@
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [Basic definitions](#basic-definitions)
-  - [Set](#set)
-    - [Set.definition](#setdefinition)
-    - [Set.property](#setproperty)
-      - [Set.property.bound](#setpropertybound)
-      - [Set.property.interval](#setpropertyinterval)
-    - [Set.relations](#setrelations)
-    - [Set.instance](#setinstance)
-      - [Number Sets](#number-sets)
-      - [Miscellaneous](#miscellaneous)
-    - [Set.geometry](#setgeometry)
-      - [$A \setminus B$ display](#eqmathsemanticsmrowmiamimomomibmimrowannotation-encodingapplicationx-texa-setminus-bannotationsemanticsmathabeq-display)
-      - [Complementary set](#complementary-set)
-- [Cardinality](#cardinality)
-- [Solved problems](#solved-problems)
-- [Current problems](#current-problems)
-# Basic definitions
-## Set
-### Set.definition
+# Set
+## Set.definition
 A set is a collection of **elements**(or **points**) that are definite and separate objects.
-### Set.property
-#### Set.property.bound
+## Set.property
+### Set.property.bound
 Assume $S$ to be a set of real numbers.
 
 $\bold{Upper bound}$ : A real number $b$ such that $x \leq b$ for all $x \in S$ is called an $\bold{upper bound}$ of $S$.
@@ -30,8 +11,8 @@ $\bold{Lower bound}$ : A real number $a$ such that $x \geq a$ for all $x \in S$ 
 
 
 
-#### Set.property.interval
-### Set.relations
+### Set.property.interval
+## Set.relations
 - $a$  is an element of a set   $S$  -->  $a \in S$  Otherwise  $a \notin S$
 - **Subset**:  $X \subseteq Y$ --> Every element in $X$ is also an element in $Y$
 - **Equal**: $X = Y$
@@ -42,24 +23,31 @@ $\bold{Lower bound}$ : A real number $a$ such that $x \geq a$ for all $x \in S$ 
 - **Difference**: $A \setminus B$ --> For two sets $A$ and $B$, difference: $\{x: x \in A, x \notin B \}$
 - **Universal set**: If $A$ contains all the sets under discussion, we say that A is the **universal set**.
 - **Complementary set**(**complement** of \[set\]): If $A$ contains all the sets under discussion, then $A \setminus B$ is called the **complementary set** or **complement** of $A$.
-### Set.instance
-#### Number Sets
-#### Miscellaneous
+## Set.instance
+### Number Sets
+### Miscellaneous
 - $X=\{x_1,x_2,x_3,...,x_n\}$  --> $X$  is a set with  $n$  elements:  $x_1,x_2,...x_n$
 - A **finite**(**ifinite**) **set**: A set that contains a finite(infinite) number of elements.
 - Empty Set:  $\emptyset$  
-### Set.geometry
-#### $A \setminus B$ display
+## Set.geometry
+### $A \setminus B$ display
 ![The difference of two sets $A$ and $B$](../assets/setminus.PNG)
-#### Complementary set
+### Complementary set
 ![The complementary set or complement of $B$ in $A$](../assets/complementary.PNG)
-# Cardinality
+## Cardinality
 The **cardinality** of a set is a measure of the "number of elements of the set".  
 For example, the set $A= \{2,4,6\}$ contains 3 elements, and therefore $A$ has a cardinality of 3.  
 For more, check out [wikipaedia](https://en.wikipedia.org/wiki/Cardinality)
 
-# Solved problems
+## Solved problems
 
 
-# Current problems
+## Current problems
+
+# Number
+
+# Functions
+
+# Geometry
+
 

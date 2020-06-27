@@ -16,8 +16,8 @@
   - [Customize configuration](#customize-configuration)
 
 # Project plan:
-    This is mostly a study note by reading books(pdf included), also some side projects.
-
+- This is mostly a study note by reading books(pdf included), also some side projects.
+- Trim down size
 # Project setup
 ```
 npm install

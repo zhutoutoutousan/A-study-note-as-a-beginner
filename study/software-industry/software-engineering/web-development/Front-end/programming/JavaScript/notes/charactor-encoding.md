@@ -1,3 +1,8 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Unicode](#unicode)
+  - [Some examples](#some-examples)
+- [Reference](#reference)
 # Unicode
 ## Some examples
 ```javascript

@@ -1,5 +1,4 @@
-# Table of Contents
-- [Table of Contents](#table-of-contents)
+ of Contents
 - [Text](#text)
   - [Start a new line](#start-a-new-line)
   - [Empty space](#empty-space)
@@ -170,4 +169,14 @@ Veniam cupidatat exercitation laboris ipsum veniam laborum occaecat aute. Duis e
 For more checkout [Using an image caption in Markdown Jekyll](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll)
 
 # Table
+| INSERTION-SORT(A) | cost | times |
+| ----------------- |:----:| -----:|
+| 1 ```for j = 2 to A.length``` | $c_1$ | n |
+| 2 &nbsp; &nbsp; ```key = A[j]``` | $c_2$ | n - 1 |
+| 3 &nbsp; &nbsp; ```//Insert A[j] into the sorted sequence $A[1..j-1]$.``` | 0 | n - 1 | 
+| 4 &nbsp; &nbsp; ```i = j - 1``` | $c_4$ | n - 1 |
+| 5 &nbsp; &nbsp; ```while i > 0 and A[i] > key```| $c_5$ | $\sum_{j=2}^n t_j$ | 
+| 6 &nbsp; &nbsp; &nbsp; ```A[i+1] = A[i]``` | $c_6$ | $\sum_{j=2}^n (t_j-1)$ |
+| 7 &nbsp; &nbsp; &nbsp;  ``` i = i - 1``` | $c_7$ | $\sum_{j=2}^n (t_j - 1)$ |
+| 8 &nbsp; &nbsp; ```A[i+1] = key``` | $c_8$ | n -1 |
 [Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)

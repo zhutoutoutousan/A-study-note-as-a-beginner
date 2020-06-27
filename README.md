@@ -39,7 +39,7 @@ npm run lint
 ```
 
 # Usage
-Click [this](./study/router.md) to view the study note router.
+Click [this](./study/router.md) to view the study note router.(Yet to finish)
 
 - If you want to take a browse at the markdown notes, just include this project in your Visual Studio Code and explore the ```study``` folder.
 

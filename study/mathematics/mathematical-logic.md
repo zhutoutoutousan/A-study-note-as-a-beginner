@@ -10,6 +10,7 @@
 # Before starting 
 ## Why should I learn Mathematical logic?
 ## How do I learn Mathematical logic well?
+- Impeccable definitions have little value at the beginning of the study of a subject
 ## What's the difference between the mathematicians' logic and the logicians' logic?
 | Mathematician | Logician |
 | ----------------- |:----:|
@@ -21,4 +22,5 @@
 
 # Basic concepts
 ## *Mathematical logic*
+- If the work uses mathematical techniques or if it is primarily devoted to the study of mathematical reasoning, then it may be called *mathematical logic*.
 ## *Mathematical proof*

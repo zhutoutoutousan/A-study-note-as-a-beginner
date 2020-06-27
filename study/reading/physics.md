@@ -1,2 +1,4 @@
 - Electromagnetic Field Theory Bo Thide
   - [Link1](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/EMFT_Book.pdf)
+- Electromagnetic field theory: a problem solving approach
+  - [link1](https://ocw.mit.edu/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/textbook-contents/MITRES_6_002S08_Part1.pdf)

@@ -11,4 +11,6 @@
     color: #333333;
     font-family: sans-serif;
     text-align: center;
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
 }

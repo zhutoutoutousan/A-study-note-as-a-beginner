@@ -82,8 +82,8 @@ margin: unset;
 #### Calculation
 ### Resource
 - [MDN - box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
-- [box-sizing: border-box explained](https://www.youtube.com/watch?v=WlGQdgy-M6w)
-  - ASD
+- [box-sizing: border-box explained](https://www.youtube.com/watch?v=WlGQdgy-M6w) 0:14/5:21
+  - [codepenn](https://codepen.io/zhutoutoutousan/pen/yLeoKJZ)
 ## ```height```
 ## ```max-height```
 - ```max-height``` overrides ```height```, and ```min-height``` overrides ```max-height```.

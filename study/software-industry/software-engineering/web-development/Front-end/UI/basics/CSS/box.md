@@ -31,6 +31,7 @@
   - [Relative](#relative)
   - [Sticky](#sticky)
   - [Flex](#flex)
+  - [Fixed](#fixed)
   - [Nested situations](#nested-situations)
     - [Absolute in Relative](#absolute-in-relative)
     - [Relative in Absolute](#relative-in-absolute)
@@ -142,6 +143,7 @@ See [Outlines Vs Borders](https://www.tutorialrepublic.com/css-tutorial/css-outl
 ## Sticky
 ## Flex
 [CSS layout](./css-layout.md)
+## Fixed
 ## Nested situations
 ### Absolute in Relative
 ### Relative in Absolute

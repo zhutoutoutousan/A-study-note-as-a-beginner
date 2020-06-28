@@ -2,17 +2,25 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Normal flow](#normal-flow)
+  - [Resource](#resource)
+- [Positioning](#positioning)
+  - [```left | right | top | bottom```](#left--right--top--bottom)
+  - [```clear```](#clear)
+  - [```position```](#position)
+  - [```z-index```](#z-index)
+  - [```float```](#float)
+  - [Resource](#resource-1)
 - [Flexbox](#flexbox)
   - [What is flexbox?](#what-is-flexbox)
   - [Flexible box model](#flexible-box-model)
     - [Basic concept](#basic-concept)
     - [Anatomy](#anatomy)
     - [Mental model](#mental-model)
-    - [Properties](#properties)
-      - [```display: flex | inline-flex```](#display-flex--inline-flex)
-      - [```flex-direction: row | column```](#flex-direction-row--column)
-      - [```flex-warp: warp | nowrap | wrapreverse```](#flex-warp-warp--nowrap--wrapreverse)
-      - [```justify-content: flex-start | flex-end | center```](#justify-content-flex-start--flex-end--center)
+  - [Properties](#properties)
+    - [```display: flex | inline-flex```](#display-flex--inline-flex)
+    - [```flex-direction: row | column```](#flex-direction-row--column)
+    - [```flex-warp: warp | nowrap | wrapreverse```](#flex-warp-warp--nowrap--wrapreverse)
+    - [```justify-content: flex-start | flex-end | center```](#justify-content-flex-start--flex-end--center)
       - [```align-self: flex-start | flex-end | center```](#align-self-flex-start--flex-end--center)
       - [```align-items: flex-start | flex-end | center```](#align-items-flex-start--flex-end--center)
       - [```align-content: flex-start | flex-end | center```](#align-content-flex-start--flex-end--center)
@@ -22,12 +30,11 @@
       - [```flex-shrink: <number>```](#flex-shrink-number)
       - [```flex: <integer>```](#flex-integer)
       - [```order:<integer>```](#orderinteger)
-    - [Topics](#topics)
+  - [Topics](#topics)
     - [The difference between ```justify-content``` and ```align-item```](#the-difference-between-justify-content-and-align-item)
     - [Examples](#examples)
 - [Grids](#grids)
 - [Floats](#floats)
-- [Positioning](#positioning)
 - [Multiple-column layout](#multiple-column-layout)
 - [Responsive design](#responsive-design)
   - [Media queries](#media-queries)
@@ -37,9 +44,21 @@
     - [```@media screen and (maxwidth: <number>px)```](#media-screen-and-maxwidth-numberpx)
   - [Js Methods](#js-methods)
   - [```getBoundingClientRect()```](#getboundingclientrect)
-- [Resource](#resource)
+- [Resource](#resource-2)
 # Introduction
 # Normal flow
+- Individual element boxes are laid out by taking the element's content, then adding any padding, border and margin around them.(Similar to the box model)
+## Resource
+- [Normal Flow - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+# Positioning
+## ```left | right | top | bottom```
+## ```clear```
+## ```position```
+## ```z-index```
+## ```float```
+
+## Resource
+For more check out [CSS Positioned Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning)
 # Flexbox
 ## What is flexbox?
 A flexbox is a CSS3 layout mode that provides an easy and clean way to arrange items within a container.
@@ -60,11 +79,11 @@ A flexbox is a CSS3 layout mode that provides an easy and clean way to arrange i
 
 ### Mental model
 
-### Properties
-#### ```display: flex | inline-flex```
-#### ```flex-direction: row | column```
-#### ```flex-warp: warp | nowrap | wrapreverse```
-#### ```justify-content: flex-start | flex-end | center```
+## Properties
+### ```display: flex | inline-flex```
+### ```flex-direction: row | column```
+### ```flex-warp: warp | nowrap | wrapreverse```
+### ```justify-content: flex-start | flex-end | center```
 **Mental model**
 
 **center**
@@ -127,13 +146,12 @@ Training:
 #### ```flex: <integer>```
 #### ```order:<integer>```
 
-### Topics
+## Topics
 ### The difference between ```justify-content``` and ```align-item```
 
 ### Examples
 # Grids
 # Floats
-# Positioning
 # Multiple-column layout
 # Responsive design
 ## Media queries

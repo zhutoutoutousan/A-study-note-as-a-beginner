@@ -18,6 +18,7 @@
 - [```<number>```](#number)
 - [```<color>```](#color)
 - [```<image>```](#image)
+  - [```url(<path>)```](#urlpath)
 - [```<position>```](#position)
 - [```<function>```](#function)
 # Mental model
@@ -59,7 +60,7 @@ For more see
 # ```<color>```
 
 # ```<image>```
-
+## ```url(<path>)```
 # ```<position>```
 
 # ```<function>```

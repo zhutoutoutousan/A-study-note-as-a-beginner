@@ -1,13 +1,45 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Market demands](#market-demands)
+- [People skill](#people-skill)
+- [Working environment](#working-environment)
+- [Career roadmap](#career-roadmap)
+  - [Software engineering](#software-engineering)
+    - [Backend/Infrastructure engineer](#backendinfrastructure-engineer)
+    - [Frontend engineer](#frontend-engineer)
+    - [UX engineer](#ux-engineer)
+    - [Customer Solutions Engineer / Developer Advocate](#customer-solutions-engineer--developer-advocate)
+    - [Machine Learning Engineer / Data Scientist](#machine-learning-engineer--data-scientist)
+    - [Site Reliability Engineer / Production Engineer](#site-reliability-engineer--production-engineer)
+    - [Engineering Manager](#engineering-manager)
+    - [Product Manager](#product-manager)
+    - [Technical Program Manager](#technical-program-manager)
+    - [Venture Capital](#venture-capital)
+    - [Business Owner](#business-owner)
+    - [More](#more)
+- [Mobility](#mobility)
+  - [Skillset vs Income](#skillset-vs-income)
+    - [Language skills](#language-skills)
+  - [Age group and different paradigms of life](#age-group-and-different-paradigms-of-life)
 # Market demands
 # People skill
 # Working environment
-## Ergonomics
-### Common injury
-#### Shoulder impingement
-### Useful tools
-### Scenarios
-#### Lying on the bed
-- Projector to the ceiling + bluetooth keyboard and mouse
+
+# Career roadmap
+## Software engineering
+### Backend/Infrastructure engineer
+### Frontend engineer
+### UX engineer
+### Customer Solutions Engineer / Developer Advocate
+### Machine Learning Engineer / Data Scientist
+### Site Reliability Engineer / Production Engineer
+### Engineering Manager
+### Product Manager
+### Technical Program Manager
+### Venture Capital
+### Business Owner
+### More
+
 # Mobility
 ## Skillset vs Income
 ### Language skills

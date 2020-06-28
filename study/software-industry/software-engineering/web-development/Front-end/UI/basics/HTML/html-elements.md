@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [tip](#tip)
 - [Main root](#main-root)
   - [html](#html)
 - [Document metadata](#document-metadata)
@@ -58,6 +59,8 @@
   - [script](#script-1)
 - [Obsolete and deprecated elements](#obsolete-and-deprecated-elements)
 - [Resource](#resource)
+# tip
+- mark ```block-level element```, ```inline-element``` as type mark
 
 # Main root
 ## html

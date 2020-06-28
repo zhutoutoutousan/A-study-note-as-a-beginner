@@ -48,7 +48,7 @@
 # Introduction
 # Normal flow
 - Individual element boxes are laid out by taking the element's content, then adding any padding, border and margin around them.(Similar to the box model)
-- 
+- By default, a **block-level element**'s content is 100% of he width of its parent element, and as tall as its content. 
 ## Resource
 - [Normal Flow - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 # Positioning

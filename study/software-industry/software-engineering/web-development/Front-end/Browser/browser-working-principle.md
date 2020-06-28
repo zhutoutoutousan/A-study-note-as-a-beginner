@@ -12,4 +12,5 @@
 
 
 # Resource
-[Working principle of a browser](https://developpaper.com/working-principle-of-browser/)
+- [Working principle of a browser](https://developpaper.com/working-principle-of-browser/)
+- 

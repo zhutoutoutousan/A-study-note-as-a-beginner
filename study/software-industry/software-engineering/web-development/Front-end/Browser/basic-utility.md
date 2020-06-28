@@ -46,7 +46,7 @@ Sample code:
     <h1>
 ```
 ## Resources
-[How to traverse the DOM in JavaScript](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)
+[How to traverse the DOM in JavaScript](https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e)  
 [JavaScript Tutorial For Beginners #33 - Traversing the DOM - The Net Ninja](https://www.youtube.com/watch?v=SowaJlX1uKA)
 
 # Browser optimization

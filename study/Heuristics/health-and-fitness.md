@@ -48,6 +48,9 @@
     - [Small intestine](#small-intestine)
 - [Nutrition](#nutrition)
   - [Macronutrient](#macronutrient)
+    - [Protein](#protein)
+      - [Whey protein](#whey-protein)
+      - [Casein protein](#casein-protein)
   - [Micronutrient](#micronutrient)
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
@@ -146,6 +149,9 @@ Remedy
 ### Small intestine
 # Nutrition
 ## Macronutrient
+### Protein
+#### Whey protein
+#### Casein protein
 ## Micronutrient
 
 # Workout

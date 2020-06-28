@@ -48,6 +48,7 @@
 # Introduction
 # Normal flow
 - Individual element boxes are laid out by taking the element's content, then adding any padding, border and margin around them.(Similar to the box model)
+- 
 ## Resource
 - [Normal Flow - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 # Positioning

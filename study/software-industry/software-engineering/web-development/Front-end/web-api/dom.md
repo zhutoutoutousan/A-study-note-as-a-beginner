@@ -15,21 +15,34 @@
     - [```document.getElementById()```](#documentgetelementbyid)
   - [Modify](#modify)
     - [```document.createElement()```](#documentcreateelement)
-- [Window](#window)
 - [Node](#node)
+  - [Document type node](#document-type-node)
+  - [Non-document type node](#non-document-type-node)
   - [Mental model](#mental-model-1)
   - [Modification(CRUD)](#modificationcrud)
+    - [Logic](#logic)
+      - [```Node.compareDocumentPosition(otherNode)``` - >Relations](#nodecomparedocumentpositionothernode---relations)
+      - [```Node.hasChildNodes()](#predivdivpre)
+    - [Create](#create)
+      - [```element.appendChild(aChild)``` - Append()](#elementappendchildachild---append)
+    - [Remove](#remove)
+    - [Move](#move)
+    - [Delete](#delete)
+    - [Update](#update)
+    - [Clone](#clone)
+      - [```Node.cloneNode([deep])``` - deepClone()](#nodeclonenodedeep---deepclone)
   - [Selection](#selection-1)
     - [ChildNode](#childnode)
     - [ParentNode](#parentnode)
     - [NodeFilter](#nodefilter)
-  - [NodeIterator](#nodeiterator)
-  - [NodeList](#nodelist)
-  - [NonDocumentTypeChildNode](#nondocumenttypechildnode)
-    - [```NonDocumentTypeChildNode.nextElementSibling```](#nondocumenttypechildnodenextelementsibling)
+    - [NodeIterator](#nodeiterator)
+    - [```NonDocumentTypeChildNode.nextElementSibling``` - >SelectNext](#nondocumenttypechildnodenextelementsibling---selectnext)
+    - [```NonDocumentTypeChildNode.previousElementSibling``` - >SelectPrev](#nondocumenttypechildnodepreviouselementsibling---selectprev)
       - [Usage](#usage)
-    - [```NonDocumentTypeChildNode.previousElementSibling```](#nondocumenttypechildnodepreviouselementsibling)
+  - [Query](#query)
+    - [NodeList](#nodelist)
       - [Usage](#usage-1)
+- [Window](#window)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
   - [HTML](#html)
@@ -68,6 +81,8 @@
 - JavaScript - Array
 # Mental model
 # Document
+Tip:
+- Consider merging the *Document* section and the *Node* section for their operations kind of intertwine one another.
 ## Document Tree
 ### Shadow DOM
 [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
@@ -84,27 +99,44 @@
 const div = document.createElement('div');
 div.className = 'foo';
 ```
-# Window
 # Node
+## Document type node 
+## Non-document type node
 ## Mental model
 Exercise
 - Implementation proficiency: Think of as many operations as you can concerning DOM tree operations and consider how to implement them into actual code.
+- Visual aids: Try to visualize the exercise process mentioned above
 ## Modification(CRUD)
+### Logic
+#### ```Node.compareDocumentPosition(otherNode)``` - >Relations
+#### ```Node.hasChildNodes()
+### Create
+#### ```element.appendChild(aChild)``` - Append()
+### Remove
+### Move
+### Delete
+### Update
+### Clone
+#### ```Node.cloneNode([deep])``` - deepClone()
+
 ## Selection
 ### ChildNode
 ### ParentNode
 ### NodeFilter
-## NodeIterator
-## NodeList
-## NonDocumentTypeChildNode
-### ```NonDocumentTypeChildNode.nextElementSibling```
+### NodeIterator
+### ```NonDocumentTypeChildNode.nextElementSibling``` - >SelectNext
+### ```NonDocumentTypeChildNode.previousElementSibling``` - >SelectPrev
 #### Usage
 - carousel slide
 - accordian
-### ```NonDocumentTypeChildNode.previousElementSibling```
+## Query
+### NodeList
 #### Usage
 - carousel slide
 - accordian
+
+
+# Window
 
 # DOMTimeStamp
 # Element

@@ -17,9 +17,12 @@
     - [```document.createElement()```](#documentcreateelement)
 - [Window](#window)
 - [Node](#node)
-  - [ChildNode](#childnode)
-  - [ParentNode](#parentnode)
-  - [NodeFilter](#nodefilter)
+  - [Mental model](#mental-model-1)
+  - [Modification(CRUD)](#modificationcrud)
+  - [Selection](#selection-1)
+    - [ChildNode](#childnode)
+    - [ParentNode](#parentnode)
+    - [NodeFilter](#nodefilter)
   - [NodeIterator](#nodeiterator)
   - [NodeList](#nodelist)
   - [NonDocumentTypeChildNode](#nondocumenttypechildnode)
@@ -56,7 +59,7 @@
 - [Operations](#operations)
   - [Navigation](#navigation)
     - [Node tree](#node-tree)
-  - [Selection](#selection-1)
+  - [Selection](#selection-2)
     - [Get multiple elements](#get-multiple-elements)
       - [```Array.from```](#arrayfrom)
 - [Resource](#resource-1)
@@ -83,9 +86,14 @@ div.className = 'foo';
 ```
 # Window
 # Node
-## ChildNode
-## ParentNode
-## NodeFilter
+## Mental model
+Exercise
+- Implementation proficiency: Think of as many operations as you can concerning DOM tree operations and consider how to implement them into actual code.
+## Modification(CRUD)
+## Selection
+### ChildNode
+### ParentNode
+### NodeFilter
 ## NodeIterator
 ## NodeList
 ## NonDocumentTypeChildNode

@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Spirit](#spirit)
 - [Project plan:](#project-plan)
 - [Project setup](#project-setup)
   - [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
@@ -14,6 +15,8 @@
   - [Deployment](#deployment)
   - [STUDY](#study)
   - [Customize configuration](#customize-configuration)
+# Spirit
+Once a beginner, always a beginner.
 
 # Project plan:
 - This is mostly a study note by reading books(pdf included), also some side projects.

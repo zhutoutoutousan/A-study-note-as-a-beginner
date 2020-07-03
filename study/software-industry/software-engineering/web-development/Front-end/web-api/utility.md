@@ -8,12 +8,13 @@
     - [Shadow DOM](#shadow-dom)
     - [Shadow Tree](#shadow-tree)
     - [TreeWalker](#treewalker)
-  - [Selection](#selection)
+  - [Events](#events)
+  - [Page properties](#page-properties)
+  - [```Node```-related methods](#node-related-methods)
     - [```document.querySelector()```](#documentqueryselector)
     - [```document.querySelectorAll()```](#documentqueryselectorall)
     - [```document.getElementsByClassName()```](#documentgetelementsbyclassname)
     - [```document.getElementById()```](#documentgetelementbyid)
-  - [Modify](#modify)
     - [```document.createElement()```](#documentcreateelement)
 - [Node](#node)
   - [Document type node](#document-type-node)
@@ -30,12 +31,11 @@
     - [Remove](#remove)
       - [```Node.removeChild(child)``` - Remove()](#noderemovechildchild---remove)
     - [Move](#move)
-    - [Delete](#delete)
     - [Update](#update)
       - [```Node.replaceChild(newCh, oldCh)``` - replace(n, o)](#nodereplacechildnewch-oldch---replacen-o)
     - [Clone](#clone)
       - [```Node.cloneNode([deep])``` - deepClone()](#nodeclonenodedeep---deepclone)
-  - [Selection](#selection-1)
+  - [Selection](#selection)
     - [```Node.ChildNode```](#nodechildnode)
     - [```Node.ParentNode```](#nodeparentnode)
     - [NodeFilter](#nodefilter)
@@ -47,6 +47,7 @@
     - [NodeList](#nodelist)
       - [Usage](#usage-1)
 - [Window](#window)
+  - [Difference between ```window``` and ```document```](#difference-between-window-and-document)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
   - [HTML](#html)
@@ -76,7 +77,7 @@
 - [Operations](#operations)
   - [Navigation](#navigation)
     - [Node tree](#node-tree)
-  - [Selection](#selection-2)
+  - [Selection](#selection-1)
     - [Get multiple elements](#get-multiple-elements)
       - [```Array.from```](#arrayfrom)
 - [Resource](#resource-1)
@@ -92,12 +93,13 @@ Tip:
 [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 ### Shadow Tree
 ### TreeWalker
-## Selection
+## Events
+## Page properties
+## ```Node```-related methods
 ### ```document.querySelector()```
 ### ```document.querySelectorAll()```
 ### ```document.getElementsByClassName()```
 ### ```document.getElementById()```
-## Modify
 ### ```document.createElement()```
 ```javascript
 const div = document.createElement('div');
@@ -121,7 +123,6 @@ Exercise
 ### Remove
 #### ```Node.removeChild(child)``` - Remove()
 ### Move
-### Delete
 ### Update
 #### ```Node.replaceChild(newCh, oldCh)``` - replace(n, o)
 ### Clone
@@ -145,6 +146,7 @@ Exercise
 
 
 # Window
+## Difference between ```window``` and ```document```
 
 # DOMTimeStamp
 # Element

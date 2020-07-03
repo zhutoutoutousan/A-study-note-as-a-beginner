@@ -37,11 +37,13 @@
     - [Why do I even bother?](#why-do-i-even-bother)
   - [Burnout](#burnout)
     - [Measures](#measures)
+      - [Food](#food)
       - [Workout](#workout)
         - [Resistance exercise](#resistance-exercise)
         - [Cardiovascular exercise](#cardiovascular-exercise)
         - [Muscle stretch](#muscle-stretch)
       - [Sauna](#sauna)
+      - [Promiscuity-related methods](#promiscuity-related-methods)
 - [Resource](#resource)
       - [Duodenum ulcer](#duodenum-ulcer)
     - [Colon](#colon)
@@ -54,13 +56,24 @@
   - [Micronutrient](#micronutrient)
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
-  - [Workout plan](#workout-plan)
+  - [Workout](#workout-2)
+    - [Cutting](#cutting)
   - [Nutrition](#nutrition-1)
+  - [Tools and equipments](#tools-and-equipments)
+    - [Workout](#workout-3)
+      - [Shoulder](#shoulder-2)
+      - [Chest](#chest)
+      - [Back](#back)
+      - [Arm](#arm)
+      - [Leg](#leg)
+      - [Stability](#stability)
+      - [Mobility](#mobility)
+      - [Flexibility](#flexibility)
+    - [Nutrition](#nutrition-2)
 - [Interesting topics](#interesting-topics)
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
     - [Resource](#resource-1)
-- [Tools](#tools)
 - [Resources](#resources)
 
 # Basics physical system of a normal human
@@ -132,13 +145,19 @@ Remedy
 ### Why do I even bother?
 ## Burnout
 ### Measures
+#### Food
+- Caffeine
+  - May increase stomach acid
+    - May cause stomach discomfort
+  - Block fatigue receptors
+- (Red bull?)
 #### Workout
 ##### Resistance exercise
 ##### Cardiovascular exercise
 ##### Muscle stretch
 #### Sauna
 [Cardiovascular and Other Health Benefits of Sauna Bathing: A Review of the Evidence - J.A.Laukkanen](https://www.mayoclinicproceedings.org/article/S0025-6196(18)30275-1/fulltext)
-
+#### Promiscuity-related methods
 
 
 # Resource
@@ -156,17 +175,30 @@ Remedy
 
 # Workout
 ## Basic science
-## Workout plan
-## Nutrition
+## Workout 
+### Cutting
 
+See: 
+- [健身减肥不掉肌肉的8大技巧](https://zhuanlan.zhihu.com/p/23827848)
+## Nutrition
+## Tools and equipments
+### Workout
+#### Shoulder
+#### Chest
+#### Back
+#### Arm
+#### Leg
+#### Stability
+- BOSU ball
+- Physio ball
+#### Mobility
+#### Flexibility
+### Nutrition
+- [myfitnesspal](https://www.myfitnesspal.com/)
 # Interesting topics
 ## Mind-body connection
 ### Stomach ulcer
 ### Resource
 [Emotions Cause Physical Pain](https://www.youtube.com/watch?v=s3z80yeroOo)
-
-# Tools
-[myfitnesspal](https://www.myfitnesspal.com/)
-
 # Resources
 

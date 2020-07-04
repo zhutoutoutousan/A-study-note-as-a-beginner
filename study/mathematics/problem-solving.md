@@ -1,8 +1,20 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [ODE](#ode)
+  - [Solve ODE equations](#solve-ode-equations)
+    - [P1](#p1)
 - [Summation](#summation)
   - [Convergence](#convergence)
-    - [P1](#p1)
+    - [P1](#p1-1)
+
+# ODE
+## Solve ODE equations
+### P1
+Q: $y^{'}+2\sin{2\pi x} = 0$  
+A: $$y^{'} = -2\sin{2\pi x}$$
+
+$$ y = \frac{\cos(2\pi x)}{\pi} + C $$
+
 # Summation
 ## Convergence
 ### P1

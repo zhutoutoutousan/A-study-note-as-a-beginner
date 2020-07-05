@@ -16,6 +16,8 @@
     - [```document.getElementsByClassName()```](#documentgetelementsbyclassname)
     - [```document.getElementById()```](#documentgetelementbyid)
     - [```document.createElement()```](#documentcreateelement)
+  - [Tree](#tree)
+    - [```document.body```](#documentbody)
 - [Node](#node)
   - [Document type node](#document-type-node)
   - [Non-document type node](#non-document-type-node)
@@ -50,9 +52,11 @@
   - [Difference between ```window``` and ```document```](#difference-between-window-and-document)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
-  - [HTML](#html)
+  - [Contents](#contents)
     - [```Element.innerHTML```](#elementinnerhtml)
     - [```Element.outerHTML```](#elementouterhtml)
+    - [```Element.innerText```](#elementinnertext)
+    - [```Element.outerText```](#elementoutertext)
   - [Style](#style)
     - [Basics](#basics)
     - [```Element.scrollHeight```](#elementscrollheight)
@@ -101,6 +105,8 @@ Tip:
 ### ```document.getElementsByClassName()```
 ### ```document.getElementById()```
 ### ```document.createElement()```
+## Tree
+### ```document.body```
 ```javascript
 const div = document.createElement('div');
 div.className = 'foo';
@@ -150,9 +156,11 @@ Exercise
 
 # DOMTimeStamp
 # Element
-## HTML
+## Contents
 ### ```Element.innerHTML```
 ### ```Element.outerHTML```
+### ```Element.innerText```
+### ```Element.outerText```
 ## Style
 ### Basics
 - Naming tradition: CSS(pascal case) --> JavaScript(Camel case)

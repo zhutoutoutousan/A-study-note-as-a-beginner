@@ -6,12 +6,6 @@
     - [Setup function](#setup-function)
     - [Draw function](#draw-function)
 - [Basic operations](#basic-operations)
-- [Deep dive](#deep-dive)
-  - [History](#history)
-    - [Processing](#processing)
-  - [Source code study](#source-code-study)
-    - [Core](#core)
-  - [Functional improvements](#functional-improvements)
 - [Tools](#tools)
   - [VScode](#vscode)
 - [Functions](#functions)
@@ -44,6 +38,12 @@
     - [```createDiv()```](#creatediv)
     - [```createButton()```](#createbutton)
     - [Events](#events)
+- [Deep dive](#deep-dive)
+  - [History](#history)
+    - [Processing](#processing)
+  - [Source code study](#source-code-study)
+    - [Core](#core)
+  - [Functional improvements](#functional-improvements)
 
 # Study progress
 - [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
@@ -73,14 +73,6 @@ function draw() {
     ellipse(50, 50, 80, 80)
 }
 ```
-
-# Deep dive
-## History
-### Processing
-## Source code study
-### Core
-The main ```p5``` class can be found in *./src/core/main.js*
-## Functional improvements
 
 # Tools
 ## VScode
@@ -146,3 +138,11 @@ function setup() {
 ### ```createDiv()```
 ### ```createButton()```
 ### Events
+
+# Deep dive
+## History
+### Processing
+## Source code study
+### Core
+The main ```p5``` class can be found in *./src/core/main.js*
+## Functional improvements

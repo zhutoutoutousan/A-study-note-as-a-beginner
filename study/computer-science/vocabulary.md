@@ -7,8 +7,11 @@
   - [Data structures](#data-structures)
 - [E](#e)
   - [Efficiency](#efficiency)
+  - [End systems](#end-systems)
 - [F](#f)
   - [Formal verification](#formal-verification)
+- [H](#h)
+  - [Host](#host)
 - [S](#s)
   - [State space](#state-space)
 # A
@@ -26,10 +29,14 @@
 # E
 ## Efficiency
 - \(Mathematica problem\): Let's say there are two algorithms for sorting, the first is **insertion sort**, which takes time roughly equal to $c_1 n^2$ to sort $n$ items, where $c_1$ is a constant that does not depend on $n$. The second, **merge sort**, takes time roughly equal to $c_2 n lgn$, where $lgn$ stands for ${log}_2 n$ and $c_2$ is another constant that also does not depend on $n$. For all $c_1$ and $c_2$, plot their time complexity curves with resepect to $n$.
+## End systems
 
 # F
 ## Formal verification
 In the context of hardware and software systems, **formal verification** is the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
+
+# H
+## Host
 
 # S
 ## State space

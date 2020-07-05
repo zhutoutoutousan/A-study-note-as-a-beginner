@@ -30,3 +30,7 @@
   - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
 - Principles of Programming Languages
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
+
+# Computer networking
+- Computer Networking Principles Bona Venture
+  - [Link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)

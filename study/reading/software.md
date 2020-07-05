@@ -32,5 +32,14 @@
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
 
 # Computer networking
+- [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
+
+- Computer networking: A Top-Down Approach
+  - [6-th edition](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf)
+  - [7-th edition](https://leonawang.com/books/Computer%20Networking%20A%20Top-Down%20Approach%207th%20edition.pdf)
+
 - Computer Networking Principles Bona Venture
   - [Link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+
+- CompTIA Network+ Example guide Fourth Edition
+  - [Link1](http://eflnet.ir/Admin/Upload/Document/CompTIA_Network-plus-2009.pdf)

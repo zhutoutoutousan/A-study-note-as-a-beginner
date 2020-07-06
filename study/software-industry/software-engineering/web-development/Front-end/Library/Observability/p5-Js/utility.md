@@ -38,12 +38,6 @@
     - [```createDiv()```](#creatediv)
     - [```createButton()```](#createbutton)
     - [Events](#events)
-- [Deep dive](#deep-dive)
-  - [History](#history)
-    - [Processing](#processing)
-  - [Source code study](#source-code-study)
-    - [Core](#core)
-  - [Functional improvements](#functional-improvements)
 
 # Study progress
 - [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
@@ -87,6 +81,21 @@ function draw() {
 ### ```fill()```
 ### Rectangle
 #### ```rect()```
+```javascript
+// Grayscale integer value
+fill(51);
+rect(20, 20, 60, 60);
+
+// R, G & B integer values
+fill(255, 204, 0);
+rect(20, 20, 60, 60);
+
+// H, S & B integer values
+colorMode(HSB);
+fill(255, 204, 100);
+```
+
+
 #### ```rectMode()```
 
 ## Canvas
@@ -139,10 +148,3 @@ function setup() {
 ### ```createButton()```
 ### Events
 
-# Deep dive
-## History
-### Processing
-## Source code study
-### Core
-The main ```p5``` class can be found in *./src/core/main.js*
-## Functional improvements

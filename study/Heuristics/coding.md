@@ -20,6 +20,9 @@
   - [Trade-off scenario](#trade-off-scenario)
 - [Ethics](#ethics)
 - [Resource](#resource)
+  - [Blog](#blog)
+  - [Course](#course)
+  - [Open source projects](#open-source-projects)
 # Correct Mental model
 ## Start from a bug
 ```javascript
@@ -84,6 +87,9 @@ For more check:
 [Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)
 
 # Resource
+## Blog
 [THE NATURE OF CODE - DANIEL SHIFFMAN](https://natureofcode.com/book/introduction/)
-
+## Course
 [Dan Abramov - Just JavaScript](https://justjavascript.com/)
+## Open source projects
+- [C&C](https://github.com/electronicarts/CnC_Remastered_Collection)

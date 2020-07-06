@@ -49,8 +49,12 @@
       - [Conceal information pathway](#conceal-information-pathway)
       - [Gaslighting](#gaslighting)
       - [Fallacy attack](#fallacy-attack)
+      - [Strawmanning](#strawmanning)
+      - [Partial lie](#partial-lie)
     - [Generic anti-strategy](#generic-anti-strategy)
       - [Mobility](#mobility)
+      - [Resilience](#resilience)
+      - [Resourcefulness](#resourcefulness)
 # Biological view
 ## Dopamine
 ### Reward pathway
@@ -91,6 +95,12 @@ Related with *pleasure* and *satisfaction*
 ### Syndromes
 #### Napoleon syndrome
 #### Imposter syndrome
+Counter measure
+- Identify and actively acknowledge your strengths. Everybody has strengths, and being intentionally aware of them can help counterbalance self-doubts.
+- Don’t give power to one or two negative comments. Realize that negative comments often come from a vocal minority amidst a silent majority of positive thoughts.
+- Identify your weaknesses, and make it a point to improve on them. This is the simplest way to boost your confidence.
+- Don’t compare yourself to people outside your level. Too many junior software engineers compare themselves to Jeff Dean; too many budding entrepreneurs compare themselves to Elon Musk. These comparisons are mostly meaningless.
+- Trust the process. A common example of impostor syndrome is the Google Software Engineer who thinks they somehow tricked the hiring committee into hiring them. If you passed the Google interviews, trust that the Google interview process, which has been refined, polished, and fine-tuned over the last 20 years, didn’t make a mistake.
 #### Dunning Kruger effect
 ### Personality type
 #### Pedantic personality 
@@ -153,5 +163,9 @@ NOTE: The theory of evolution never claimed that humans are no different from ap
 #### Conceal information pathway
 #### Gaslighting
 #### Fallacy attack
+#### Strawmanning
+#### Partial lie
 ### Generic anti-strategy
 #### Mobility
+#### Resilience
+#### Resourcefulness

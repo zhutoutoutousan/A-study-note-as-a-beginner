@@ -13,6 +13,8 @@
     - [Number](#number)
     - [String](#string)
       - [Template literals](#template-literals)
+      - [Conversion](#conversion)
+        - [String2VariableName](#string2variablename)
         - [Reference](#reference-1)
   - [Object](#object)
   - [Function](#function)
@@ -41,6 +43,9 @@ Used for intentionally missing values
 ### Number
 ### String
 #### Template literals
+#### Conversion
+##### String2VariableName
+- [Convert string to variable name in JavaScript](https://stackoverflow.com/questions/5613834/convert-string-to-variable-name-in-javascript)
 ##### Reference
 [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 ## Object

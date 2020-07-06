@@ -1,0 +1,1 @@
+- [Code documentation for JavaScript with JSDoc: an introduction](https://www.valentinog.com/blog/jsdoc/)

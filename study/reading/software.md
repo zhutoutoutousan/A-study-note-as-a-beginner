@@ -1,4 +1,5 @@
 # Programming language proficiency
+Dude, is it really a good idea to learn a programming language through piles of books? 
 ## JavaScript
 ## Java
 - Learning Java by Niemeyer Patrick and Leuck Danial: 31/1010

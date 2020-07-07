@@ -32,7 +32,7 @@
 [Object-Playground](http://www.objectplayground.com/)
 ### Resources
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)
-[我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)
+[我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
 [Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
 ### Learning materials
 - Udemy

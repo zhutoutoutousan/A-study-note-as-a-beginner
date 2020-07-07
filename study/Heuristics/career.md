@@ -3,6 +3,8 @@
 - [Market demands](#market-demands)
 - [People skill](#people-skill)
 - [Working environment](#working-environment)
+- [Work-life balance?](#work-life-balance)
+  - [The Four Burners Theory](#the-four-burners-theory)
 - [Career roadmap](#career-roadmap)
   - [Software engineering](#software-engineering)
     - [Backend/Infrastructure engineer](#backendinfrastructure-engineer)
@@ -24,6 +26,10 @@
 # Market demands
 # People skill
 # Working environment
+
+# Work-life balance?
+## The Four Burners Theory
+- [The Problem With A Balanced Life - The Four Burners Theory](https://www.youtube.com/watch?v=sJoR4Hjs3VE)
 
 # Career roadmap
 ## Software engineering

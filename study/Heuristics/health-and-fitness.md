@@ -54,11 +54,12 @@
       - [Whey protein](#whey-protein)
       - [Casein protein](#casein-protein)
   - [Micronutrient](#micronutrient)
+- [Cooking](#cooking)
+  - [Courses](#courses)
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
   - [Workout](#workout-2)
     - [Cutting](#cutting)
-  - [Nutrition](#nutrition-1)
   - [Tools and equipments](#tools-and-equipments)
     - [Workout](#workout-3)
       - [Shoulder](#shoulder-2)
@@ -69,7 +70,7 @@
       - [Stability](#stability)
       - [Mobility](#mobility)
       - [Flexibility](#flexibility)
-    - [Nutrition](#nutrition-2)
+    - [Nutrition](#nutrition-1)
 - [Interesting topics](#interesting-topics)
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
@@ -173,6 +174,25 @@ Remedy
 #### Casein protein
 ## Micronutrient
 
+# Cooking
+## Courses
+- Chicken breast + onion + chicken heart with broccoli + scrambled eggs
+- Curry chicken breast
+  - [Recipe 1](https://www.youtube.com/watch?v=jwyge5daKUQ)
+    - Ingredients
+      - Chicken breast
+    - Procedures
+- Chicken parmigiana
+- Chicken tikka masala
+- Butter chicken
+- Tandoori chicken
+- Chicken salad
+- Lemon chicken
+- Kung Pao chicken
+- Huli-huli chicken
+- Chicken paprikash
+- Chicken and mushroom pie
+- Cacciatore
 # Workout
 ## Basic science
 ## Workout 
@@ -180,7 +200,6 @@ Remedy
 
 See: 
 - [健身减肥不掉肌肉的8大技巧](https://zhuanlan.zhihu.com/p/23827848)
-## Nutrition
 ## Tools and equipments
 ### Workout
 #### Shoulder

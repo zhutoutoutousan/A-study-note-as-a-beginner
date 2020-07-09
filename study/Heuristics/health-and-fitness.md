@@ -71,6 +71,8 @@
       - [Mobility](#mobility)
       - [Flexibility](#flexibility)
     - [Nutrition](#nutrition-1)
+- [Bodybuilding](#bodybuilding)
+- [Weightlifting](#weightlifting)
 - [Interesting topics](#interesting-topics)
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
@@ -214,6 +216,9 @@ See:
 #### Flexibility
 ### Nutrition
 - [myfitnesspal](https://www.myfitnesspal.com/)
+
+# Bodybuilding
+# Weightlifting
 # Interesting topics
 ## Mind-body connection
 ### Stomach ulcer

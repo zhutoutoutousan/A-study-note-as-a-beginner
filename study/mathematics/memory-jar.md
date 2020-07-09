@@ -23,4 +23,13 @@
 - ${(\sinh{x})}^{'}={\cosh{x}}$
 - ${(\cosh{x})}^{'}={\sinh{x}}$
 - $\log_a{x}=\frac{\log_a{e}}{x}$
-- 
+
+
+# Number-Reality connection
+
+## Area
+- The average coverage area of an automobile: $4m^2$ 
+- The coverage of Shanghai: 6340 ${km}^2$
+
+## Space
+- The radius of the Earth: 6371 km

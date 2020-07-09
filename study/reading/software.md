@@ -17,7 +17,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 - Functional programming in JavaScript 24/274
 
 # Computer system
-- Computer Systems: A Programmer's Perspective: 37/1078
+- Computer Systems: A Programmer's Perspective: 40/1078
   -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
   -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
   -  Prerequisites

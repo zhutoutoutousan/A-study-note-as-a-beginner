@@ -20,6 +20,7 @@
   - [Trade-off scenario](#trade-off-scenario)
 - [Ethics](#ethics)
 - [Resource](#resource)
+  - [Conference](#conference)
   - [Blog](#blog)
   - [Course](#course)
   - [Open source projects](#open-source-projects)
@@ -87,6 +88,8 @@ For more check:
 [Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)
 
 # Resource
+## Conference
+[The Art of Code Comments - Sarah Drasner | JSConf Hawaii 2020](https://www.youtube.com/watch?v=yhF7OmuIILc)
 ## Blog
 [THE NATURE OF CODE - DANIEL SHIFFMAN](https://natureofcode.com/book/introduction/)
 ## Course

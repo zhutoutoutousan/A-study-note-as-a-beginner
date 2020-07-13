@@ -185,9 +185,13 @@ Remedy
       - Chicken breast
     - Procedures
 - Chicken parmigiana
+  - [Recipe 1](https://www.youtube.com/watch?v=oUK6GRI-6uk)
 - Chicken tikka masala
 - Butter chicken
 - Tandoori chicken
+  - [Recipe 1](https://www.youtube.com/watch?v=-CKvt1KNU74)
+    - Ingredient
+      - 
 - Chicken salad
 - Lemon chicken
 - Kung Pao chicken

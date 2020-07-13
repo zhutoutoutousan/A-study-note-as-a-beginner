@@ -7,3 +7,19 @@ to run application programs.
 A generic program(like *hello* program) begins life  as a *source program*
 ## Code composition
 ## Compilation system
+### Compilation phases
+- *Preprocessing phase*
+```c
+/*
+     
+   cpp  -------   
+--------| 
+        -------
+
+*/
+#include <stdio.h>
+
+```
+- *Compilation phase*
+- *Assembly phase*
+- *Linking phase*

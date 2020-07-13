@@ -11,6 +11,12 @@ For more see
 ```bash
 sudo apt install /path/xxx.deb
 ```
+### Troubleshoot
+- “E: Unable to locate package”
+## Upgrade system
+```
+sudo apt-get upgrade
+```
 # File system skills
 ## Move
 ## Copy

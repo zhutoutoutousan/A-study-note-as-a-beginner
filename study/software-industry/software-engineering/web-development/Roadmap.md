@@ -12,6 +12,7 @@
     - [Reference](#reference)
   - [Back-end](#back-end)
 - [Main study resource track](#main-study-resource-track)
+  - [Vue mastery](#vue-mastery)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
   - [Egghead($40/month)](#egghead40month)
@@ -54,13 +55,25 @@
 ### JavaScript
 [Object-Playground](http://www.objectplayground.com/)
 ### Reference
-[From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)
+[From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  
 [我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
 [Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
 ## Back-end
 
 # Main study resource track
+## Vue mastery
 ## Udemy（$10/course)
+- Vue JS Essentials with Vuex and Vue Router
+  - [Link](https://www.udemy.com/course/vue-js-course/learn/lecture/10219482?start=30#overview)
+  - Progress: Section 1 8/25 --> 10.5hrs
+- Advanced React and Redux
+  - [Link](https://www.udemy.com/course/react-redux-tutorial/learn/lecture/4669608?start=0#overview)
+- Webpack 2: The Complete Developer's Guide
+- Build Web Apps with Vue JS 2 & Firebase
+- Nuxt.js - Vue.js on Steroids
+- Learn and Understand NodeJS
+- Modern React with Redux[2020 Update]
+- JavaScript: Understanding the Weirds Parts
 ## Frontend Masters($39/month)
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)

@@ -3,12 +3,8 @@
   - [Link 1](https://upload.wikimedia.org/wikipedia/commons/f/f8/Circuit_Theory.pdf)
 - Electrical Circuit Theory and Technology
   - [Link 1](http://160592857366.free.fr/joe/ebooks/Electronics%20and%20Electrical%20Engineering%20Collection/BIRD,%20J.%20(2001).%20Electrical%20Circuit%20Theory%20and%20Technology%20(2nd%20ed.)/Electrical_Circuit_Theory_and_Technology_2E.pdf)
-- Analog Circuit Design - P.D Hiscocks
-  - [Link 1](https://www.sphere.bc.ca/download/analog-circuit-design-hiscocks.pdf)
 - Foundations of Analog and Digital Electronic Circuits
   - [Link 1](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf)
-- The art and science of analog circuit design
-  - [Link 1](https://doc.xdevs.com/doc/_Books/Jim_Williams_The_Art_and_Science_of_Analog_Circuit_Design.pdf)
 
 # Control system
 - Control systems engineering - N.S.Nise
@@ -24,8 +20,12 @@
 # Telecommunication
 - Understanding Telecommunications Networks
   - [Link 1](https://www.mobt3ath.com/uplode/book/book-55336.pdf)
-
 # Electronics
+- Analog Circuit Design - P.D Hiscocks
+  - [Link 1](https://www.sphere.bc.ca/download/analog-circuit-design-hiscocks.pdf)
+- The art and science of analog circuit design
+  - [Link 1](https://doc.xdevs.com/doc/_Books/Jim_Williams_The_Art_and_Science_of_Analog_Circuit_Design.pdf)
+
 # Tools
 - LabVIEW
 - Matlab

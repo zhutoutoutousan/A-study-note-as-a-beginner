@@ -95,7 +95,7 @@
   - [Rapid physiological state manipulation](#rapid-physiological-state-manipulation)
     - [Cognitive enhancement](#cognitive-enhancement)
     - [Physical enhancement](#physical-enhancement)
-    - [Side effect](#side-effect)
+    - [Side effects](#side-effects)
   - [Disease](#disease)
     - [Malfunction recovery](#malfunction-recovery)
 - [Resources](#resources)
@@ -294,7 +294,7 @@ See:
 - TRT
 - CrM
 
-### Side effect 
+### Side effects
 
 ## Disease
 ### Malfunction recovery

@@ -13,9 +13,12 @@ a[title]{}
 a[href="https://fuckyouverymuch.com"]{ }
 ```
 # Pseudo-classes and pseudo-elements
+## Pseudo-classes
+## Pseudo-elements
 ## ```:hover```
 ## ```::before```
 ## ```::after```
+In CSS, ```::after``` creates a *pseudo-element*
 ## ```:root``` and ```var()```
 Usage:
 ```css

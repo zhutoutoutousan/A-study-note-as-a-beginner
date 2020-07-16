@@ -58,6 +58,17 @@
       - [Casein protein](#casein-protein)
   - [Micronutrient](#micronutrient)
 - [Cooking](#cooking)
+  - [Heuristics](#heuristics)
+    - [Aesthetics](#aesthetics)
+    - [Processing raw materials](#processing-raw-materials)
+      - [Food defrosting](#food-defrosting)
+    - [Equipment](#equipment)
+      - [Oven](#oven)
+      - [Stove](#stove)
+      - [Pan](#pan)
+    - [Seasoning](#seasoning)
+    - [Knife work](#knife-work)
+    - [Flavor combos](#flavor-combos)
   - [Courses](#courses)
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
@@ -183,6 +194,17 @@ Remedy
 ## Micronutrient
 
 # Cooking
+## Heuristics
+### Aesthetics
+### Processing raw materials
+#### Food defrosting
+### Equipment
+#### Oven
+#### Stove
+#### Pan
+### Seasoning
+### Knife work
+### Flavor combos
 ## Courses
 - Chicken breast + onion + chicken heart with broccoli + scrambled eggs
 - Curry chicken breast
@@ -204,11 +226,18 @@ Remedy
 - Huli-huli chicken
 - Chicken paprikash
 - Chicken and mushroom pie
+- Chicken Club Sandwiches
+  - [Recipe 1](https://www.youtube.com/watch?v=SJlfjyyN80w)
 - Chicken Parmesan
   - [Recipe 1](https://www.youtube.com/watch?v=7D4uMKxLDT0)
 - Cacciatore
 - Chicken Fettuccine Alfredo
   - [Recipe 1](https://www.youtube.com/watch?v=LPPcNPdq_j4)
+- Bacon wrapped chicken
+  - [Recipe 1](https://www.youtube.com/watch?v=LmZNzj6iQCg)
+- Chicken Masala-Wrapped Soft-boiled eggs
+- Egg wrappeed chicken
+- Potato mash
 - Oatmeal
   - [Recipe set 1](https://www.youtube.com/watch?v=dvWVaN3a6ao)
 # Workout

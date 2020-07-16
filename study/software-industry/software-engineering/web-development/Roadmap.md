@@ -14,7 +14,7 @@
 - [Main study resource track](#main-study-resource-track)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
-  - [Egghead](#egghead)
+  - [Egghead($40/month)](#egghead40month)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
   - [Wes Bos](#wes-bos)
   - [YouTube](#youtube)
@@ -78,7 +78,7 @@
 - Advanced Asynchronous JavaScript
 - Advanced Vue.js Features from the Ground Up
 
-## Egghead
+## Egghead($40/month)
 - RxJS Beyond the Basics: Creating Observables from scratch
 - RxJS Subjects and Multicasting Operators
 - Save time avoiding common mistakes using RxJS

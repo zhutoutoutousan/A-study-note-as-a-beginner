@@ -26,6 +26,8 @@
   - [Github](#github)
     - [Jason Miller](#jason-miller)
   - [JavaScript Weekly](#javascript-weekly)
+  - [极客时间](#极客时间)
+  - [kaikeba](#kaikeba)
 - [P.O.I](#poi)
   - [Kyle Simpson](#kyle-simpson)
   - [Eric Elliott](#eric-elliott)
@@ -114,6 +116,10 @@
 [github](https://github.com/developit?tab=repositories)
 
 ## JavaScript Weekly
+
+## 极客时间
+
+## kaikeba
 
 # P.O.I
 ## Kyle Simpson

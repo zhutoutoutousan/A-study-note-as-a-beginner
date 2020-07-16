@@ -12,6 +12,11 @@
     - [Resources](#resources-1)
     - [Learning materials](#learning-materials)
   - [Back-end](#back-end)
+- [Main study resource track](#main-study-resource-track)
+  - [Udemy（$10/course)](#udemy10course)
+  - [Frontend Masters($39/month)](#frontend-masters39month)
+  - [Egghead](#egghead)
+  - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
 
 # Roadmap
 ## Full-stack
@@ -39,3 +44,31 @@
 - [Front-end master](https://frontendmasters.com/)
 ## Back-end
 
+# Main study resource track
+## Udemy（$10/course)
+## Frontend Masters($39/month)
+- The Good Parts of JavaScript and the Web
+  - [Link 1](https://frontendmasters.com/courses/)
+- Deep JavaScript Foundations
+- Rethinking Asynchronous JavaScript
+- Functional-Light JavaScript, v2
+- ES6: The Right Parts 
+- Organizing JavaScript Functionality
+- Coercion in JavaScript
+- Webpack 4 Fundamentals
+- Web Performance with Webpack
+- Webpack Plugins System
+- Hardcore Functional Programming in JavaScript
+- Asynchronous Programming in JavaScript (with Rx.js Observables)
+- Advanced Asynchronous JavaScript
+- Advanced Vue.js Features from the Ground Up
+
+## Egghead
+- RxJS Beyond the Basics: Creating Observables from scratch
+- RxJS Subjects and Multicasting Operators
+- Save time avoiding common mistakes using RxJS
+- Use Higher Order Observables in RxJS Effectively
+- Automate Daily Development Tasks with Bash
+- Quickly Transform Data with Transducers
+
+## Lynda(Free for Linkedin Premium users)

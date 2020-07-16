@@ -1,0 +1,2 @@
+- Astronomy - openstax
+  - [Link 1](https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Astronomy-LR.pdf)

@@ -44,6 +44,9 @@
         - [Muscle stretch](#muscle-stretch)
       - [Sauna](#sauna)
       - [Promiscuity-related methods](#promiscuity-related-methods)
+- [Martial art](#martial-art)
+  - [Boxing](#boxing)
+  - [Muay Thai](#muay-thai)
 - [Resource](#resource)
       - [Duodenum ulcer](#duodenum-ulcer)
     - [Colon](#colon)
@@ -162,6 +165,9 @@ Remedy
 [Cardiovascular and Other Health Benefits of Sauna Bathing: A Review of the Evidence - J.A.Laukkanen](https://www.mayoclinicproceedings.org/article/S0025-6196(18)30275-1/fulltext)
 #### Promiscuity-related methods
 
+# Martial art
+## Boxing
+## Muay Thai
 
 # Resource
 [职业倦怠：如何面对？](https://time.geekbang.org/column/article/44270)  
@@ -191,14 +197,20 @@ Remedy
 - Tandoori chicken
   - [Recipe 1](https://www.youtube.com/watch?v=-CKvt1KNU74)
     - Ingredient
-      - 
+      - Tumeric
 - Chicken salad
 - Lemon chicken
 - Kung Pao chicken
 - Huli-huli chicken
 - Chicken paprikash
 - Chicken and mushroom pie
+- Chicken Parmesan
+  - [Recipe 1](https://www.youtube.com/watch?v=7D4uMKxLDT0)
 - Cacciatore
+- Chicken Fettuccine Alfredo
+  - [Recipe 1](https://www.youtube.com/watch?v=LPPcNPdq_j4)
+- Oatmeal
+  - [Recipe set 1](https://www.youtube.com/watch?v=dvWVaN3a6ao)
 # Workout
 ## Basic science
 ## Workout 

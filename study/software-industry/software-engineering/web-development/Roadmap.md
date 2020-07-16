@@ -9,14 +9,32 @@
     - [CSS](#css)
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
-    - [Resources](#resources-1)
-    - [Learning materials](#learning-materials)
+    - [Reference](#reference)
   - [Back-end](#back-end)
 - [Main study resource track](#main-study-resource-track)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
   - [Egghead](#egghead)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
+  - [Wes Bos](#wes-bos)
+  - [YouTube](#youtube)
+    - [Codingtrain](#codingtrain)
+    - [Fun Fun Function](#fun-fun-function)
+    - [Traversy Media](#traversy-media)
+    - [Coding Tech](#coding-tech)
+  - [Github](#github)
+    - [Jason Miller](#jason-miller)
+  - [JavaScript Weekly](#javascript-weekly)
+- [P.O.I](#poi)
+  - [Kyle Simpson](#kyle-simpson)
+  - [Eric Elliott](#eric-elliott)
+  - [Andree Staltz](#andree-staltz)
+  - [Sarah Drasner](#sarah-drasner)
+  - [Wes Bos](#wes-bos-1)
+  - [Mathias Bynens](#mathias-bynens)
+  - [Brian Lonsdorf](#brian-lonsdorf)
+  - [Jason Miller](#jason-miller-1)
+  - [Bartosz Milewski](#bartosz-milewski)
 
 # Roadmap
 ## Full-stack
@@ -35,13 +53,10 @@
 [Codepen](https://codepen.io/)
 ### JavaScript
 [Object-Playground](http://www.objectplayground.com/)
-### Resources
+### Reference
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)
 [我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
 [Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
-### Learning materials
-- Udemy
-- [Front-end master](https://frontendmasters.com/)
 ## Back-end
 
 # Main study resource track
@@ -72,3 +87,28 @@
 - Quickly Transform Data with Transducers
 
 ## Lynda(Free for Linkedin Premium users)
+
+## Wes Bos
+
+## YouTube
+### Codingtrain
+### Fun Fun Function
+### Traversy Media
+### Coding Tech
+
+## Github
+### Jason Miller
+[github](https://github.com/developit?tab=repositories)
+
+## JavaScript Weekly
+
+# P.O.I
+## Kyle Simpson
+## Eric Elliott
+## Andree Staltz
+## Sarah Drasner
+## Wes Bos
+## Mathias Bynens
+## Brian Lonsdorf
+## Jason Miller
+## Bartosz Milewski

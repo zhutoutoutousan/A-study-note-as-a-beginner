@@ -91,6 +91,13 @@
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
     - [Resource](#resource-1)
+- [Emergent contingency procedures](#emergent-contingency-procedures)
+  - [Rapid physiological state manipulation](#rapid-physiological-state-manipulation)
+    - [Cognitive enhancement](#cognitive-enhancement)
+    - [Physical enhancement](#physical-enhancement)
+    - [Side effect](#side-effect)
+  - [Disease](#disease)
+    - [Malfunction recovery](#malfunction-recovery)
 - [Resources](#resources)
 
 # Basics physical system of a normal human
@@ -269,5 +276,30 @@ See:
 ### Stomach ulcer
 ### Resource
 [Emotions Cause Physical Pain](https://www.youtube.com/watch?v=s3z80yeroOo)
+
+# Emergent contingency procedures
+## Rapid physiological state manipulation
+### Cognitive enhancement
+- Nicotine
+- Caffeine
+- Amphetamine
+- Ritalin
+- Adderall
+- CrM
+- Armodafinil
+- Modafinil
+### Physical enhancement
+- Whey protein
+- BCAA
+- TRT
+- CrM
+
+### Side effect 
+
+## Disease
+### Malfunction recovery
+- Stomach discomfort
+- General infection
+- Strep throat
 # Resources
 

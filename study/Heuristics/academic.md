@@ -40,6 +40,7 @@
 ## The science behind learning
 ### Basic rules
 - Like weightlifting and bodybuilding, learning something difficult takes time
+  - But how to get an accurate measure towards certain contents?
 - Metaphors provide powerful techniques for learning
 ### Focused modes
 - Used when dealing with old patterns

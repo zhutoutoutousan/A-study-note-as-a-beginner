@@ -28,9 +28,11 @@
     - [Trivia](#trivia)
 - [I](#i)
   - [Interpretive models](#interpretive-models)
+  - [IPS](#ips)
 - [M](#m)
   - [Myelin](#myelin)
   - [Mechanistic models](#mechanistic-models)
+  - [MPF](#mpf)
 - [N](#n)
   - [Neurotransmission](#neurotransmission)
     - [Neurotransmission.pathways.neurotransmitter](#neurotransmissionpathwaysneurotransmitter)
@@ -45,6 +47,7 @@
     - [Neuron.prototype.significance](#neuronprototypesignificance)
   - [Nucleus](#nucleus)
 - [P](#p)
+  - [PCC](#pcc)
   - [PNS](#pns)
 - [S](#s)
   - [Secretion](#secretion)
@@ -96,6 +99,7 @@ Supporters of neurons
 # I
 ## Interpretive models
 [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
+## IPS
 # M
 ## Myelin
 Myelin is a fatty wrap that goes around some axons.
@@ -104,6 +108,7 @@ Myelin is a fatty wrap that goes around some axons.
 | **Figure 1** Myelin|
 ## Mechanistic models
 [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
+## MPF
 # N 
 ## Neurotransmission
 ### Neurotransmission.pathways.neurotransmitter
@@ -118,8 +123,10 @@ Myelin is a fatty wrap that goes around some axons.
 ### Neuron.prototype.significance
 ## Nucleus
 # P
+## PCC
 ## PNS
 Peripheral nervous system
+
 # S
 ## Secretion
 [Secretion - wikipedia](https://en.wikipedia.org/wiki/Secretion)

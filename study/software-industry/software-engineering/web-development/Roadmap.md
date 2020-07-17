@@ -23,6 +23,7 @@
     - [Fun Fun Function](#fun-fun-function)
     - [Traversy Media](#traversy-media)
     - [Coding Tech](#coding-tech)
+    - [Jsconf](#jsconf)
   - [Github](#github)
     - [Jason Miller](#jason-miller)
   - [JavaScript Weekly](#javascript-weekly)
@@ -110,7 +111,7 @@
 ### Fun Fun Function
 ### Traversy Media
 ### Coding Tech
-
+### Jsconf
 ## Github
 ### Jason Miller
 [github](https://github.com/developit?tab=repositories)

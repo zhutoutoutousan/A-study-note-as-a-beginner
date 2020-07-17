@@ -1,6 +1,14 @@
 # General physics
-
-
+- University physics with modern physics Young and Freedman
+  - [Link1](http://dl.booktolearn.com/ebooks2/science/physics/9780321696861_university_physics_with_modern_physics_c2cc.pdf)
+  - Progress(Cramming for APS test)
+    - Process 1: p - p
+- Fundamentals of Physics - Hallliday & Resnick - Jearl Walker
+  - [Link1](https://salmanisaleh.files.wordpress.com/2019/02/fundamentals-of-physics-textbook.pdf)
+- Physics for Scientists and Engineers - Serway Jewett
+  - [Link1](https://sciold.ui.ac.ir/~sjalali/book/physics_serway.pdf) - 6th edition
+  - [Link2](https://jsnegroup.net/data/GENERALPHYSICS(2)-Book_9thedition-Bookphy1019th-civilianteam.pdf) - 9th edition
+# Electrodynamics
 - Electromagnetic Field Theory Bo Thide
   - [Link1](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/EMFT_Book.pdf)
   - Progress(Ground-up): 17/203

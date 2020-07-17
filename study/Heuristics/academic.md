@@ -3,10 +3,12 @@
 - [Roadmap](#roadmap)
 - [Study style(Academic)](#study-styleacademic)
   - [The science behind learning](#the-science-behind-learning)
+    - [Basic rules](#basic-rules)
     - [Focused modes](#focused-modes)
     - [Diffuse modes](#diffuse-modes)
     - [Forgetting curve](#forgetting-curve)
     - [Reference](#reference)
+    - [P.O.I](#poi)
   - [Quotes](#quotes)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
@@ -36,6 +38,9 @@
   - Progress: 2vs/10.5hrs
 # Study style(Academic)
 ## The science behind learning
+### Basic rules
+- Like weightlifting and bodybuilding, learning something difficult takes time
+- Metaphors provide powerful techniques for learning
 ### Focused modes
 - Used when dealing with old patterns
 ### Diffuse modes
@@ -49,6 +54,9 @@ Four key time stamps to review what I've learned:
 - 1 month
 ### Reference
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)
+### P.O.I
+- Salvador Dali
+- Thomas Edison
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 

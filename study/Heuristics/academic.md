@@ -31,6 +31,8 @@
 - [Academia landscape](#academia-landscape)
   - [Relations with the industry](#relations-with-the-industry)
   - [Academic politics](#academic-politics)
+- [Academia career](#academia-career)
+  - [Heads-ups](#heads-ups)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -107,3 +109,7 @@ Four key time stamps to review what I've learned:
 # Academia landscape
 ## Relations with the industry
 ## Academic politics
+
+# Academia career
+## Heads-ups
+- [The Blooming of Creative Scientists: Early, Late and Otherwise](https://journals.sagepub.com/doi/abs/10.1177/001698628102500204?journalCode=gcqb)

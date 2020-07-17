@@ -5,7 +5,8 @@
     - Full interactive brain model
     - And more
 
-# Recent news
+# Keep up with the modern industrial and technological progress
+## Entities
 - Neuralink
 - CTRLlab
-# Technological cornerstones
+## Related technical difficulties

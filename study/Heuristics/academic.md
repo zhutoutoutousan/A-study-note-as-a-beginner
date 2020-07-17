@@ -7,7 +7,7 @@
     - [Focused modes](#focused-modes)
     - [Diffuse modes](#diffuse-modes)
     - [Forgetting curve](#forgetting-curve)
-    - [Reference](#reference)
+    - [Resource](#resource)
     - [P.O.I](#poi)
   - [Quotes](#quotes)
 - [Standardized Tests](#standardized-tests)
@@ -24,7 +24,7 @@
     - [EE(Under 15 days)](#eeunder-15-days)
       - [Basic spirit](#basic-spirit)
       - [Courses](#courses)
-    - [Resource](#resource)
+    - [Resource](#resource-1)
 - [Skillsets](#skillsets)
   - [Academic reading](#academic-reading)
   - [Academic writing](#academic-writing)
@@ -53,8 +53,9 @@ Four key time stamps to review what I've learned:
 - 24 hrs
 - 1 week
 - 1 month
-### Reference
+### Resource
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)
+- [BrainFacts.org](https://www.brainfacts.org/)
 ### P.O.I
 - Salvador Dali
 - Thomas Edison

@@ -1,4 +1,5 @@
 # Electrostatics
+## Mental model
 ## Coulomb's law
 
 

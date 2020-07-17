@@ -1,5 +1,7 @@
 # Basics
-- Circuit theory - Wikibooks
+- For basic mathematics, check [mathematic section](./mathematics.md)
+- For basic physics, check [physics section](./physics.md)
+- Circuit theory - Wikibooks 14/153
   - [Link 1](https://upload.wikimedia.org/wikipedia/commons/f/f8/Circuit_Theory.pdf)
 - Electrical Circuit Theory and Technology
   - [Link 1](http://160592857366.free.fr/joe/ebooks/Electronics%20and%20Electrical%20Engineering%20Collection/BIRD,%20J.%20(2001).%20Electrical%20Circuit%20Theory%20and%20Technology%20(2nd%20ed.)/Electrical_Circuit_Theory_and_Technology_2E.pdf)

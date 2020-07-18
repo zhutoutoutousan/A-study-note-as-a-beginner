@@ -7,3 +7,5 @@
   - There are a million billion synapses in the brain
     - Comparing to?
 - The insular cortex is usually related with pain.
+- The working memory is centered out of the prefrontal cortex
+- The working memory can store only about four chunks of information

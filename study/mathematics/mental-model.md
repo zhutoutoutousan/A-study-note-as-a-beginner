@@ -26,7 +26,7 @@
 - ${(\cosh{x})}^{'}={\sinh{x}}$
 - $\log_a{x}=\frac{\log_a{e}}{x}$
 
-
+### Integration
 
 
 ## Number-Reality connection

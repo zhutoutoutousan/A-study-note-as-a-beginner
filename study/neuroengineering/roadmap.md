@@ -10,3 +10,7 @@
 - Neuralink
 - CTRLlab
 ## Related technical difficulties
+
+
+# Resource
+[The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)

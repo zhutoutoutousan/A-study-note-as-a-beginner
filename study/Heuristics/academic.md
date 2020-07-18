@@ -8,10 +8,11 @@
     - [Diffuse modes](#diffuse-modes)
     - [Memory](#memory)
       - [Long term memory](#long-term-memory)
+        - [Spaced repetition](#spaced-repetition)
+        - [Forgetting curve](#forgetting-curve)
       - [Working memory](#working-memory)
     - [Procrastination](#procrastination)
       - [Pomodoro](#pomodoro)
-    - [Forgetting curve](#forgetting-curve)
     - [Resource](#resource)
     - [P.O.I](#poi)
   - [Quotes](#quotes)
@@ -55,6 +56,7 @@
 - Metaphors provide powerful techniques for learning
 - The more abstract the idea is, the more important it is to practice in order to bring those ideas into reality for you
 - Cramming does not only hurt the integrity of your knowledge structure, but also brings negative emotions towards the target subject if done wrong. However, in some extreme scenarios it serves as the only option. Only use this technique when you have a very good reason.
+- For EE, it would be a good practice to learn by starting a project.
 ### Focused modes
 - Used when dealing with old patterns
 ### Diffuse modes
@@ -62,25 +64,35 @@
 - The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any one area. In spite of its abstract nature, the neural thought patterns you are creating are real and concrete
 ### Memory
 #### Long term memory
-#### Working memory
-### Procrastination
-#### Pomodoro
-- Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
-- When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)
-- When you are doing coding, especially those front-end code, the best practice that works for this entity would be: working long hours, taking long breaks - until enlightened otherwise
-### Forgetting curve
+- It takes some time and repetitions to extract the information or thought patterns from the immense ocean of long term memory.
+##### Spaced repetition
+##### Forgetting curve
 Four key time stamps to review what I've learned:
 - 10 min
 - 24 hrs
 - 1 week
 - 1 month
+#### Working memory
+- The working memory is centered out of the prefrontal cortex
+- The working memory can store only about four chunks of information
+- The short-term memory can be taken as an inefficient mental blackboard that is constantly fading away. Repetitions required for information to stay.
+### Procrastination
+#### Pomodoro
+- Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
+- When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)
+- When you are doing coding, especially those front-end code, the best practice that works for this entity would be: working long hours, taking long breaks - until enlightened otherwise
+
 ### Resource
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)
 - [BrainFacts.org](https://www.brainfacts.org/)
 - [When Math Hurts: Math Anxiety Predicts Pain Network Activation in Anticipation of Doing Math](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048076)
 ### P.O.I
 - Salvador Dali
+  - Surrealist artist
+  - Diffuse mode
 - Thomas Edison
+- Terrence Sejnowski
+  - Neuroscience and study techniques
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 

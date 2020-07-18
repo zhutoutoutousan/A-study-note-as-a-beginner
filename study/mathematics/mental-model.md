@@ -1,16 +1,18 @@
 # Table of Contents
 
-# Geology
+# Front-line memory
+
+## Geology
 - The surface area of a sphere: $S=4\pi r^2$
 
-# Systems of Units
-## Unit-real-life comparison
-## Unit conversion
+## Systems of Units
+### Unit-real-life comparison
+### Unit conversion
 - 1 inch(in.) = 2.54 cm
 - 1 mi
 
-# Calculus
-## Differentiation
+## Calculus
+### Differentiation
 - $(\frac{u}{v})^{'}=\frac{u^{'}v-uv^{'}}{v^2}$
   - Entry of usage:
     - Usage 1:
@@ -25,11 +27,13 @@
 - $\log_a{x}=\frac{\log_a{e}}{x}$
 
 
-# Number-Reality connection
 
-## Area
+
+## Number-Reality connection
+
+### Area
 - The average coverage area of an automobile: $4m^2$ 
 - The coverage of Shanghai: 6340 ${km}^2$
 
-## Space
+### Space
 - The radius of the Earth: 6371 km

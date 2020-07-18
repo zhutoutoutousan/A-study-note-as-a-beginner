@@ -6,6 +6,9 @@
     - [Basic rules](#basic-rules)
     - [Focused modes](#focused-modes)
     - [Diffuse modes](#diffuse-modes)
+    - [Memory](#memory)
+      - [Long term memory](#long-term-memory)
+      - [Working memory](#working-memory)
     - [Procrastination](#procrastination)
       - [Pomodoro](#pomodoro)
     - [Forgetting curve](#forgetting-curve)
@@ -51,11 +54,15 @@
   - But how to get an accurate measure towards certain contents?
 - Metaphors provide powerful techniques for learning
 - The more abstract the idea is, the more important it is to practice in order to bring those ideas into reality for you
+- Cramming does not only hurt the integrity of your knowledge structure, but also brings negative emotions towards the target subject if done wrong. However, in some extreme scenarios it serves as the only option. Only use this technique when you have a very good reason.
 ### Focused modes
 - Used when dealing with old patterns
 ### Diffuse modes
 - Used when creating new patterns or neural pathways(to understand something new)
 - The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any one area. In spite of its abstract nature, the neural thought patterns you are creating are real and concrete
+### Memory
+#### Long term memory
+#### Working memory
 ### Procrastination
 #### Pomodoro
 - Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.

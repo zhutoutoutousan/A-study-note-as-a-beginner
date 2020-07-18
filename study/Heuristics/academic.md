@@ -6,6 +6,8 @@
     - [Basic rules](#basic-rules)
     - [Focused modes](#focused-modes)
     - [Diffuse modes](#diffuse-modes)
+    - [Procrastination](#procrastination)
+      - [Pomodoro](#pomodoro)
     - [Forgetting curve](#forgetting-curve)
     - [Resource](#resource)
     - [P.O.I](#poi)
@@ -38,17 +40,27 @@
 - [Open Source Society University](https://github.com/ossu)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
   - Progress: 2vs/10.5hrs
+- [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+- [The map of physics](https://www.youtube.com/watch?v=ZihywtixUYo)
+- [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
+- [The map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 # Study style(Academic)
 ## The science behind learning
 ### Basic rules
 - Like weightlifting and bodybuilding, learning something difficult takes time
   - But how to get an accurate measure towards certain contents?
 - Metaphors provide powerful techniques for learning
+- The more abstract the idea is, the more important it is to practice in order to bring those ideas into reality for you
 ### Focused modes
 - Used when dealing with old patterns
 ### Diffuse modes
 - Used when creating new patterns or neural pathways(to understand something new)
-- The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any one area.
+- The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any one area. In spite of its abstract nature, the neural thought patterns you are creating are real and concrete
+### Procrastination
+#### Pomodoro
+- Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
+- When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)
+- When you are doing coding, especially those front-end code, the best practice that works for this entity would be: working long hours, taking long breaks - until enlightened otherwise
 ### Forgetting curve
 Four key time stamps to review what I've learned:
 - 10 min
@@ -58,6 +70,7 @@ Four key time stamps to review what I've learned:
 ### Resource
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)
 - [BrainFacts.org](https://www.brainfacts.org/)
+- [When Math Hurts: Math Anxiety Predicts Pain Network Activation in Anticipation of Doing Math](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048076)
 ### P.O.I
 - Salvador Dali
 - Thomas Edison

@@ -68,8 +68,8 @@ Router directory traverse reference:
 [Stack Overflow: Loop through files in a folder Node.js](https://stackoverflow.com/questions/32511789/looping-through-files-in-a-folder-node-js)
 
 ## A node automatic content generator
-Can you sort of make a node script that scans all of the markdown file to search for the sections(Just a few html divs with the id, transformed to kebab case, all uppercase letter turned to the lower one.), then just generate an **Overview** section at the start of the markdown file?
-
+- Can you sort of make a node script that scans all of the markdown file to search for the sections(Just a few html divs with the id, transformed to kebab case, all uppercase letter turned to the lower one.), then just generate an **Overview** section at the start of the markdown file?
+- Some script that generates the mindmap of the *Study* folder
 ## Front-end
 - Electron-vue front-end
 
@@ -78,7 +78,6 @@ Can you sort of make a node script that scans all of the markdown file to search
 
 ## STUDY
 - Good good study, day day down!
-
 
 ## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

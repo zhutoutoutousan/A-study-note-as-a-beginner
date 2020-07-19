@@ -12,6 +12,7 @@
 - Outflowing water: $h^{'}=-k\sqrt{h}$  --- AEM-P29
 - Pendulum: $L\theta^{''}+g\sin{\theta}=0$  --- AEM-P29
 
+## Reoccuring thought patterns
 
 # Resource entry
 - AEM: [Advanced Engineering Mathematics](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)

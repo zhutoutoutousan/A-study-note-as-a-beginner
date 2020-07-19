@@ -15,6 +15,9 @@
       - [Pomodoro](#pomodoro)
     - [Resource](#resource)
     - [P.O.I](#poi)
+  - [Subject-oriented implementation: Time to put the theory to test](#subject-oriented-implementation-time-to-put-the-theory-to-test)
+    - [Engineering](#engineering)
+      - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
   - [Quotes](#quotes)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
@@ -43,7 +46,7 @@
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
-  - Progress: 2vs/10.5hrs
+  - Progress: Only interviews remaining
 - [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 - [The map of physics](https://www.youtube.com/watch?v=ZihywtixUYo)
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
@@ -93,6 +96,15 @@ Four key time stamps to review what I've learned:
 - Thomas Edison
 - Terrence Sejnowski
   - Neuroscience and study techniques
+
+## Subject-oriented implementation: Time to put the theory to test
+### Engineering
+#### The importance of the conceptual structure and terminologies
+- Learning the conceptual structure and terminology of the different areas of engineering mathematics is very important for three reasons:
+  - It may allow you to *identify a new problem and put it into the right group of problems*. The area of engineering mathematics are growing but most often retain their conceptual structure.
+  - You may *absorb new information more rapidly* by being able to fit it into the conceptual structure.
+  - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics.
+
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 

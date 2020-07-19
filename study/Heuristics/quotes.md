@@ -18,3 +18,6 @@
 
 # Health
 - Sleep that knits up the raveled sleeve of care, the death of each day's life, sore labor's bath, balm of hurt minds, great nature's second course, chief nourisher in life's feast. --- William Shakespeare *No fear Act2 Scene2*
+
+# Engineering
+- Engineering mathematics relies on relatively few basic concepts and involves powerful unifying principles. --- [Advanced engineering mathematics - P13](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)

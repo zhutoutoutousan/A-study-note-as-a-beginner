@@ -3,12 +3,19 @@
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
   - [link2](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
   - Progress(Thourough approach: Stage 1): 0/1283
-    - Process 1
-    - Process 2
-    - Anchor 2
-  - Progress(Cramming for APS tests): 0/1283
-    - Skimming process(7/18/2020)
-    - Process 1: p - p
+    - ODES and Laplace transform(1-255): 0/255
+    - Linear algebra, Vector Calculus: 256/256-473
+    - Fourier Analysis: 
+    - PDE
+    - Complex Analysis
+    - Probability and Statistics
+  - Progress(Cramming for APS tests):
+    - ODES and Laplace transform(1-255): 29/255
+    - Linear algebra, Vector Calculus: 256/256-473
+    - Fourier Analysis: 473/473-604
+    - Complex Analysis
+    - Probability and Statistics
+
 
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)

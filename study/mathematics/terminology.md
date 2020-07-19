@@ -23,6 +23,7 @@
 - Matrices are very popular for expressing scientific and mathematical ideas.
 
 ### Matrix
+- Matrices are denoted by capital boldface letters $\bold{A},\bold{B}, \bold{C},...$, or by writing the general entry in brackets; thus $\bold{A} = [a_{jk}]$, and so on. A matrix with *m* rows and *n* columns can be denoted by $\bold{m}\bold{\times}\bold{n}$ **matrix**. The size of the matrix is $m\times n$. You can also say 'some matrices are of sizes $a\times b, c\times d...$'.  
 - A **matrix** is a rectangular array of numbers or functions enclosed in brackets. The numbers(or functions) are called **entries** or, less commonly, *elements* of the matrix.
 - Some descriptors like **rows** and **columns**, **indices**
 - Some particular matrices like **square matrices**, **vectors**(Matrices having just a single row or column), **row vector**, **column vector**.
@@ -64,11 +65,30 @@ $$
 - Linear algebra is a fairly extensive subject that covers vectors and matrices, determinants, systems of linear equations, vector spaces and linear transformations, eigenvalue problems, and other topics.
 - It can be applied to engineering, physics, geometry, computer science, economics, and other areas. It also helps us have a deeper understanding of mathematics itself.
 ### Linear system
+- Some concepts like **unknowns** e.g. $x_1,x_2$ in the following examples. Some **coefficient matrix**, called $\bold{A}$ by listing the coefficients of the **unknowns** in the position in which they appear in the linear equations. As shown in $\tilde{A}$ equation, by augmenting $\bold{A}$ with the right sides of the linear system and call it the augmented matrix of the system.
+
+
+$$
+\bold{A} = \begin{bmatrix}
+4 & 6 & 9\\
+6 & 0 & -2\\
+5 & -8 & 1
+\end{bmatrix},
+
+\tilde{A} = \begin{bmatrix}
+4 & 6 & 9 & 6\\
+6 & 0 & -2 & 20\\
+5 & -8 & 1 & 10
+\end{bmatrix}
+$$
+
 - Some examples of linear systems
   - $$
-    \begin{bmatrix}
-
-    \end{bmatrix}
+    \begin{matrix}
+      4x_1 + 6x_2 + 9x_3 = 6 \\
+      6x_1  - 2x_3 = 20 \\
+      5x_1 - 8x_2 + x_3 = 10
+    \end{matrix}
     $$
 
 ## V

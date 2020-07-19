@@ -1,6 +1,9 @@
 # Table of Contents
 
 # Front-line memory
+## Conceptual structure and terminologies
+Get familiar with the conceptual structure and terminologies
+- [Terminology](./terminology.md)
 
 ## Geology
 - The surface area of a sphere: $S=4\pi r^2$

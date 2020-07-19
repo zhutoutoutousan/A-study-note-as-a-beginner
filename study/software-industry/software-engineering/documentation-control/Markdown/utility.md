@@ -30,6 +30,9 @@
 - [Figures](#figures)
     - [How to insert centered caption in a page?](#how-to-insert-centered-caption-in-a-page)
 - [Table](#table)
+- [Applications of vanilla HTML and CSS in markdown notes](#applications-of-vanilla-html-and-css-in-markdown-notes)
+  - [Accordian](#accordian)
+  - [Animation](#animation)
 
 # Text
 ## Start a new line
@@ -181,3 +184,28 @@ For more checkout [Using an image caption in Markdown Jekyll](https://stackoverf
 | 7 &nbsp; &nbsp; &nbsp;  ``` i = i - 1``` | $c_7$ | $\sum_{j=2}^n (t_j - 1)$ |
 | 8 &nbsp; &nbsp; ```A[i+1] = key``` | $c_8$ | n -1 |
 [Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+
+# Applications of vanilla HTML and CSS in markdown notes
+## Accordian
+```markdown
+<details>
+  <summary>
+  Click me to expand
+  </summary>
+</details>
+```
+Example:
+<details>
+  <summary>
+  Click me to expand
+  </summary>
+  <p>This is the hidden text</p>
+  - asd
+  - asd
+</details>
+
+The user plug-in of Vscode might not parse the ```markdown``` code in the HTML. But the github might work.  
+
+
+
+## Animation

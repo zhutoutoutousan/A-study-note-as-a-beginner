@@ -5,6 +5,7 @@
   - Progress(Thourough approach: Stage 1): 0/1283
     - ODES and Laplace transform(1-255): 0/255
     - Linear algebra, Vector Calculus: 256/256-473
+      - Numeric linear algebra(sec 20.1-20.5) can be studied immediately after the study of this
     - Fourier Analysis: 
     - PDE
     - Complex Analysis

@@ -9,5 +9,5 @@
 - Find related solutions(Could just contain a portal---A single section for books related with lists, only reference it in each problems--- for the sake of brevity)
 
 # Resource
-[The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
-
+- [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+- [Terry Tao - Blog](https://terrytao.wordpress.com/)

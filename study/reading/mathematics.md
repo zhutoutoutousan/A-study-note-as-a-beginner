@@ -17,7 +17,6 @@
     - Complex Analysis
     - Probability and Statistics
 
-
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)
 
@@ -25,6 +24,7 @@
 - Linear Algebra Done Right
 - Linear Algebra Done Wrong
   - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+  - *Rigorous* proof, formal definitions
 
 # Logic
 - Introduction to Mathematical Logic 0/447

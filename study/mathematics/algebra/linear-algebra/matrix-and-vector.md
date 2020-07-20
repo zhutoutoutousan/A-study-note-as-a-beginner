@@ -12,11 +12,13 @@
       - [Scalar multiplication](#scalar-multiplication)
       - [Matrix Multiplication](#matrix-multiplication)
   - [Transformation](#transformation)
+    - [Linear transformation](#linear-transformation)
+    - [Nonlinear transformation](#nonlinear-transformation)
 - [Properties of its operations](#properties-of-its-operations)
-  - [Commutative](#commutative)
-  - [Associative](#associative)
-  - [Distributive](#distributive)
-  - [Identity](#identity)
+  - [Commutative law](#commutative-law)
+  - [Associative law](#associative-law)
+  - [Distributive law](#distributive-law)
+  - [Identity law](#identity-law)
 - [Deep-dive](#deep-dive)
   - [Theorems](#theorems)
 - [Application](#application)
@@ -43,32 +45,40 @@
 
 #### Matrix Multiplication
 - Plz do some practices for a better grasp.
+- It's more efficient to do the practice with priority to visualization over pedantic syntax.
 - Video explanations are better
   - [矩阵乘法作为组合变换的形式以理解 | 线性代数的本质，第4章](https://www.youtube.com/watch?v=XkY2DOUCWMU) - 10min
-  - A written, illustrative explanation: AME - P263
+  - A written, illustrative explanation: **AME - P263**(Also good for increasing familiarity with the syntax)
 - The **product** $\bold{C} = \bold{AB}$(in this order) of an $m\times n$ matrix $\bold{A}=[a_{jk}]$ times an $r\times p$ matrix $\bold{B}=[b_{jk}]$ is defined if and only if $r=n$ and is then the $m\times p$ matrix $\bold{C}=[c_{jk}]$ with entries(check out the equation below).
 
 $$
-c_{jk} = \sum_{l=1}^n a_{jl}b_{lk} + a_{j2}b_{2k} + ... a_{jn}b_{nk} \\
-j = 1,...,m;k=1,...,p.
+c_{jk} = \sum_{l=1}^n a_{jl}b_{lk} + a_{j2}b_{2k} + ... a_{jn}b_{nk}
 $$
+
+$$
+j = 1,...,m;k=1,...,p
+$$
+
 ## Transformation
+### Linear transformation
+### Nonlinear transformation
+
 
 # Properties of its operations
 For the detailed syntax, just type it in the search engine
-## Commutative
+## Commutative law
 - Scalar multiplication
 - Addition
 - **NOT** Matrix Multiplication
-## Associative
+## Associative law
 - Scalar multiplication
 - Addition
 - Matrix Multiplication
-## Distributive
+## Distributive law
 - Scalar multiplication
 - Addition
 - Matrix Multiplication
-## Identity
+## Identity law
 - Scalar multiplication
 - Addition
 - Matrix Multiplication

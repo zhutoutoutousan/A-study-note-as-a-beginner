@@ -33,6 +33,8 @@
 - [Applications of vanilla HTML and CSS in markdown notes](#applications-of-vanilla-html-and-css-in-markdown-notes)
   - [Accordian](#accordian)
   - [Animation](#animation)
+    - [Embedded gif animation](#embedded-gif-animation)
+- [Reference](#reference)
 
 # Text
 ## Start a new line
@@ -209,3 +211,6 @@ The user plug-in of Vscode might not parse the ```markdown``` code in the HTML. 
 
 
 ## Animation
+### Embedded gif animation
+
+# Reference

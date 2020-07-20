@@ -59,15 +59,19 @@ For the detailed syntax, just type it in the search engine
 ## Commutative
 - Scalar multiplication
 - Addition
+- **NOT** Matrix Multiplication
 ## Associative
 - Scalar multiplication
 - Addition
+- Matrix Multiplication
 ## Distributive
 - Scalar multiplication
 - Addition
+- Matrix Multiplication
 ## Identity
 - Scalar multiplication
 - Addition
+- Matrix Multiplication
 
 # Deep-dive
 ## Theorems

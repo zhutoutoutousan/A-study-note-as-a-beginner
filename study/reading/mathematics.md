@@ -1,10 +1,10 @@
 # General mathematics
 - Advanced engineering mathematics - Erwin kreyszig  
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
-  - [link2](http://webpages.iust.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+  - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
   - Progress(Thourough approach: Stage 1): 0/1283
     - ODES and Laplace transform(1-255): 0/255
-    - Linear algebra, Vector Calculus: 257/256-473
+    - Linear algebra, Vector Calculus: 259/256-473
       - Numeric linear algebra(sec 20.1-20.5) can be studied immediately after the study of this
     - Fourier Analysis: 
     - PDE

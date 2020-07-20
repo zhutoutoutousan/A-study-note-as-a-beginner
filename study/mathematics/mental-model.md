@@ -17,7 +17,7 @@
 Hold your horses, take your time.
 # Front-line memory
 ## Conceptual structure and terminologies
-Get familiar with the conceptual structure and terminologies
+Maintain a functional dexterity of the conceptual structure and terminologies
 - [Terminology](./terminology.md)
 
 ## Geology

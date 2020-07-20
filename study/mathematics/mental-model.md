@@ -3,6 +3,7 @@
 - [Conceptual structure](#conceptual-structure)
 - [Front-line memory](#front-line-memory)
   - [Conceptual structure and terminologies](#conceptual-structure-and-terminologies)
+  - [Visual intelligence training](#visual-intelligence-training)
   - [Geology](#geology)
   - [Systems of Units](#systems-of-units)
     - [Unit-real-life comparison](#unit-real-life-comparison)
@@ -15,7 +16,7 @@
   - [Number-Reality connection](#number-reality-connection)
     - [Area](#area)
     - [Space](#space)
-  - [Second-line memory](#second-line-memory)
+- [Second-line memory](#second-line-memory)
 # Conceptual structure
 Hold your horses, take your time.
 # Front-line memory
@@ -23,6 +24,8 @@ Hold your horses, take your time.
 Maintain a functional dexterity of the conceptual structure and terminologies
 - [Terminology](./terminology.md)
 
+## Visual intelligence training
+- 3BLUE1BROWN series
 ## Geology
 - The surface area of a sphere: $S=4\pi r^2$
 
@@ -61,4 +64,4 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 ### Space
 - The radius of the Earth: 6371 km
 
-## Second-line memory
+# Second-line memory

@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Portal for resuming](#portal-for-resuming)
 - [Basics](#basics)
 - [Underlying rules and axioms](#underlying-rules-and-axioms)
 - [Properties of itself](#properties-of-itself)
@@ -11,6 +12,8 @@
     - [Multiplication](#multiplication)
       - [Scalar multiplication](#scalar-multiplication)
       - [Matrix Multiplication](#matrix-multiplication)
+  - [Mutation](#mutation)
+    - [Transposition](#transposition)
   - [Transformation](#transformation)
     - [Linear transformation](#linear-transformation)
     - [Nonlinear transformation](#nonlinear-transformation)
@@ -23,6 +26,9 @@
   - [Theorems](#theorems)
 - [Application](#application)
 - [Book entry](#book-entry)
+
+# Portal for resuming
+Search for '!!!continue' to start where you left off
 # Basics
 - For basics, please review the [terminology](../../terminology.md) section.
 
@@ -58,6 +64,11 @@ $$
 $$
 j = 1,...,m;k=1,...,p
 $$
+
+## Mutation
+### Transposition
+- We obtain the transpose of a matrix by writing its rows as columns(or equivalently its columns as rows). If $\bold{A}$ is the given matrix, then we denote its transpose by $\bold{A}^T$
+- The transpose of an $m \times n$ matrix $\bold{A} = [a_{jk}]$ is the $n\times m$ matrix !!!continue --- AME P267
 
 ## Transformation
 ### Linear transformation

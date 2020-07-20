@@ -94,7 +94,9 @@ $$
 
 ## V
 ### Vector
-
+- A **vector** is a matrix with only one row or column. Its **entries** are called the **components** of the vector.
+- A **vector** is denoted by **lowercase** boldface letters **a**, **b**,... or by its general component in brackets, **a** = [$a_j$], and so on.
+- For more, check [**Matrix**](#matrice) section.
 # EN-GE-CH
 
 # Book entery

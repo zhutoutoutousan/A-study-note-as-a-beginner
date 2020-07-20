@@ -20,6 +20,7 @@
 - [Deep-dive](#deep-dive)
   - [Theorems](#theorems)
 - [Application](#application)
+- [Book entry](#book-entry)
 # Basics
 - For basics, please review the [terminology](../../terminology.md) section.
 
@@ -44,6 +45,7 @@
 - Plz do some practices for a better grasp.
 - Video explanations are better
   - [矩阵乘法作为组合变换的形式以理解 | 线性代数的本质，第4章](https://www.youtube.com/watch?v=XkY2DOUCWMU) - 10min
+  - A written, illustrative explanation: AME - P263
 - The **product** $\bold{C} = \bold{AB}$(in this order) of an $m\times n$ matrix $\bold{A}=[a_{jk}]$ times an $r\times p$ matrix $\bold{B}=[b_{jk}]$ is defined if and only if $r=n$ and is then the $m\times p$ matrix $\bold{C}=[c_{jk}]$ with entries(check out the equation below).
 
 $$
@@ -71,3 +73,6 @@ For the detailed syntax, just type it in the search engine
 ## Theorems
 
 # Application
+
+# Book entry
+1. [AME](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)

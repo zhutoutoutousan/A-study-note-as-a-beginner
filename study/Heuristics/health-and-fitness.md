@@ -34,7 +34,6 @@
 - [Mental disorder](#mental-disorder)
 - [Other anomalies](#other-anomalies)
   - [Circadium rhythm distruption](#circadium-rhythm-distruption)
-    - [Why do I even bother?](#why-do-i-even-bother)
   - [Burnout](#burnout)
     - [Measures](#measures)
       - [Food](#food)
@@ -166,7 +165,7 @@ Remedy
 
 # Other anomalies
 ## Circadium rhythm distruption
-### Why do I even bother?
+- The hours overslept should be used to postpone the next timestamp to sleep to reduce the odds of getting insomnia.
 ## Burnout
 ### Measures
 #### Food

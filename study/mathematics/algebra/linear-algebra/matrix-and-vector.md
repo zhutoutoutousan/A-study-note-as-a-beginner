@@ -3,11 +3,6 @@
 - [Basics](#basics)
 - [Underlying rules and axioms](#underlying-rules-and-axioms)
 - [Properties of itself](#properties-of-itself)
-- [Properties of its operations](#properties-of-its-operations)
-  - [Commutative](#commutative)
-  - [Associative](#associative)
-  - [Distributive](#distributive)
-  - [Identity](#identity)
 - [Operations](#operations)
   - [Logical operations](#logical-operations)
     - [Equality](#equality)
@@ -15,7 +10,13 @@
     - [Addition](#addition)
     - [Multiplication](#multiplication)
       - [Scalar multiplication](#scalar-multiplication)
+      - [Matrix Multiplication](#matrix-multiplication)
   - [Transformation](#transformation)
+- [Properties of its operations](#properties-of-its-operations)
+  - [Commutative](#commutative)
+  - [Associative](#associative)
+  - [Distributive](#distributive)
+  - [Identity](#identity)
 - [Deep-dive](#deep-dive)
   - [Theorems](#theorems)
 - [Application](#application)
@@ -26,17 +27,7 @@
 
 # Properties of itself
 
-# Properties of its operations
-For the detailed syntax, just type it in the search engine
-## Commutative
-- Scalar multiplication
-- Addition
-## Associative
-- Scalar multiplication
-- Addition
-## Distributive
 
-## Identity
 # Operations
 ## Logical operations
 ### Equality
@@ -48,8 +39,25 @@ For the detailed syntax, just type it in the search engine
 ### Multiplication
 #### Scalar multiplication
 - The **product** of any $m\times n$ matrix $\bold{A}=[a_{jk}]$ and any **scalar** *c*(number *c*) is written $c\bold{A}$
+
+#### Matrix Multiplication
+
 ## Transformation
 
+# Properties of its operations
+For the detailed syntax, just type it in the search engine
+## Commutative
+- Scalar multiplication
+- Addition
+## Associative
+- Scalar multiplication
+- Addition
+## Distributive
+- Scalar multiplication
+- Addition
+## Identity
+- Scalar multiplication
+- Addition
 
 # Deep-dive
 ## Theorems

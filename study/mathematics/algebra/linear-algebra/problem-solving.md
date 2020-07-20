@@ -33,7 +33,7 @@
 ## EE
 ### Basic network and nodal incidence matrix
 - Entry 1: AME - p262 - problem 20
-  - Might not need to do the project, just strengthen the neuro pathway along the way.
+  - Might not need to do the project, just strengthen the neuropathway along the way.
 
 # Book entry
 1. [AME](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)

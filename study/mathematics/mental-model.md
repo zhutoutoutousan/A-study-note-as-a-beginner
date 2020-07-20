@@ -4,7 +4,11 @@
 - [Front-line memory](#front-line-memory)
   - [Conceptual structure and terminologies](#conceptual-structure-and-terminologies)
   - [Visual intelligence training](#visual-intelligence-training)
+    - [Training](#training)
+    - [Resource](#resource)
   - [Geology](#geology)
+    - [Trignometry](#trignometry)
+    - [Real-world recognition](#real-world-recognition)
   - [Systems of Units](#systems-of-units)
     - [Unit-real-life comparison](#unit-real-life-comparison)
     - [Unit conversion](#unit-conversion)
@@ -22,11 +26,17 @@ Hold your horses, take your time.
 # Front-line memory
 ## Conceptual structure and terminologies
 Maintain a functional dexterity of the conceptual structure and terminologies
+- Hold your horses, take your time.
 - [Terminology](./terminology.md)
 
 ## Visual intelligence training
+### Training
+### Resource
 - 3BLUE1BROWN series
 ## Geology
+### Trignometry
+- This is important for a better performance in EE
+### Real-world recognition
 - The surface area of a sphere: $S=4\pi r^2$
 
 ## Systems of Units
@@ -65,3 +75,5 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - The radius of the Earth: 6371 km
 
 # Second-line memory
+- WTH do I need a second-line memory anyway?
+  - For not overloading your brain

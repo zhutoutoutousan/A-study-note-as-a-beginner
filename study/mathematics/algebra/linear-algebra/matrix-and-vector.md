@@ -43,7 +43,7 @@
 #### Matrix Multiplication
 - Plz do some practices for a better grasp.
 - Video explanations are better
-  - [矩阵乘法作为组合变换的形式以理解 | 线性代数的本质，第4章](https://www.youtube.com/watch?v=XkY2DOUCWMU)
+  - [矩阵乘法作为组合变换的形式以理解 | 线性代数的本质，第4章](https://www.youtube.com/watch?v=XkY2DOUCWMU) - 10min
 - The **product** $\bold{C} = \bold{AB}$(in this order) of an $m\times n$ matrix $\bold{A}=[a_{jk}]$ times an $r\times p$ matrix $\bold{B}=[b_{jk}]$ is defined if and only if $r=n$ and is then the $m\times p$ matrix $\bold{C}=[c_{jk}]$ with entries(check out the equation below).
 
 $$

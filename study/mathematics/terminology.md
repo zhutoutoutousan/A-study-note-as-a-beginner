@@ -26,8 +26,8 @@
 ### Matrix
 - Matrices are denoted by capital boldface letters $\bold{A},\bold{B}, \bold{C},...$, or by writing the general entry in brackets; thus $\bold{A} = [a_{jk}]$, and so on. A matrix with *m* rows and *n* columns can be denoted by $\bold{m}\bold{\times}\bold{n}$ **matrix**. The size of the matrix is $m\times n$. You can also say 'some matrices are of sizes $a\times b, c\times d...$'.
 - A **matrix** is a rectangular array of numbers or functions enclosed in brackets. The numbers(or functions) are called **entries** or, less commonly, *elements* of the matrix.
-- Some descriptors like **rows** and **columns**, **indices**
-- Some particular matrices like **square matrices**, **vectors**(Matrices having just a single row or column), **row vector**, **column vector**. 
+- Some descriptors like **rows** and **columns**, **indices**, **main diagonal**.
+- Some particular matrices like **square matrices**, **vectors**(Matrices having just a single row or column), **row vector**, **column vector**, **zero vector**. 
 - Some examples of matrixes
 
 $$

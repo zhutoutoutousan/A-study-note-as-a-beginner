@@ -13,6 +13,7 @@
   - [Number-Reality connection](#number-reality-connection)
     - [Area](#area)
     - [Space](#space)
+  - [Second-line memory](#second-line-memory)
 # Conceptual structure
 Hold your horses, take your time.
 # Front-line memory
@@ -55,3 +56,5 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 
 ### Space
 - The radius of the Earth: 6371 km
+
+## Second-line memory

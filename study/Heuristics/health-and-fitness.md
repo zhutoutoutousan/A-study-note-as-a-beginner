@@ -31,6 +31,8 @@
       - [Diarrhea](#diarrhea)
     - [Skin](#skin)
       - [Acne](#acne)
+    - [Colon](#colon)
+      - [Ulcerative Colitis](#ulcerative-colitis)
 - [Mental disorder](#mental-disorder)
 - [Other anomalies](#other-anomalies)
   - [Circadium rhythm distruption](#circadium-rhythm-distruption)
@@ -48,7 +50,7 @@
   - [Muay Thai](#muay-thai)
 - [Resource](#resource)
       - [Duodenum ulcer](#duodenum-ulcer)
-    - [Colon](#colon)
+    - [Colon](#colon-1)
     - [Small intestine](#small-intestine)
 - [Nutrition](#nutrition)
   - [Macronutrient](#macronutrient)
@@ -161,6 +163,9 @@ Testosterone--> DHT --> Sebum
 
 Remedy
 - Clean the face using specialized lotion from time to time.
+### Colon
+#### Ulcerative Colitis
+- [What is Ulcerative Colitis?](https://www.youtube.com/watch?v=JMApMBY0CfQ)
 # Mental disorder
 
 # Other anomalies

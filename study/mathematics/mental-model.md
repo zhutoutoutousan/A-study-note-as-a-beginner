@@ -10,6 +10,8 @@
   - [Calculus](#calculus)
     - [Differentiation](#differentiation)
     - [Integration](#integration)
+  - [Linear algebra](#linear-algebra)
+    - [Matrix multiplication](#matrix-multiplication)
   - [Number-Reality connection](#number-reality-connection)
     - [Area](#area)
     - [Space](#space)
@@ -47,7 +49,9 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 
 ### Integration
 
-
+## Linear algebra
+### Matrix multiplication
+- Some regular strengthening advised.
 ## Number-Reality connection
 
 ### Area

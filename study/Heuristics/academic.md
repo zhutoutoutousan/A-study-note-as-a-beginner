@@ -47,6 +47,7 @@
 - [Open Source Society University](https://github.com/ossu)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
   - Progress: Only interviews remaining
+- [Intelligence and Religious and Political Differences Among Members of the U.S. Academic Elite](http://www.religjournal.com/pdf/ijrr10001.pdf)
 - [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 - [The map of physics](https://www.youtube.com/watch?v=ZihywtixUYo)
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)

@@ -21,6 +21,11 @@
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)
 
+# Linear algebra
+- Linear Algebra Done Right
+- Linear Algebra Done Wrong
+  - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+
 # Logic
 - Introduction to Mathematical Logic 0/447
   - [link1](https://www.karlin.mff.cuni.cz/~krajicek/mendelson.pdf)

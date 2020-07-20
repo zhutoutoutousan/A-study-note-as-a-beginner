@@ -15,3 +15,10 @@
   - Progress(Cramming for APS test): 18/203
 - Electromagnetic field theory: a problem solving approach
   - [link1](https://ocw.mit.edu/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/textbook-contents/MITRES_6_002S08_Part1.pdf)
+
+
+# Interest-oriented reading
+## Quantum entanglement
+- [Quantum entanglement - R.Horodecki](https://arxiv.org/pdf/quant-ph/0702225.pdf)
+  - Prerequisites:
+    - Too much!!!

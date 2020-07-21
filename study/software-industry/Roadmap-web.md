@@ -40,6 +40,7 @@
   - [Jason Miller](#jason-miller-1)
   - [Bartosz Milewski](#bartosz-milewski)
 - [Resource for resources](#resource-for-resources)
+- [Project oriented study](#project-oriented-study)
 
 # Roadmap
 ## Full-stack
@@ -136,3 +137,7 @@
 
 # Resource for resources
 [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList/blob/master/README.md)
+
+# Project oriented study
+- [Building an Enigma Machine](https://www.youtube.com/watch?v=2D2bJWHvqJo)
+  - May be good for building some cirucit simulation software

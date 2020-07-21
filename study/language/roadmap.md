@@ -1,14 +1,44 @@
 # Why TH should you learn [insert language]
 ## English
+- Duh
 ## French
+- Sunken cost fallacy, I already reached B1, why not study a bit more?
 ## German
+- I want to study in Germany...in a year or two
+- I love Arthur Schopenhauer
+- I love Friedrich Nitzsche
+- I wanna be a good engineer, that place might just give me a whoosh
 ## Russian
+- I love some russian songs back in the 1940s
+- I once loved Владимир Тостои
+- I am interested the **incident** that happend in the 1990s
 ## Spanish
+- No, no interest at all, except for some big boobs
 ## Italian
+- Most of the opera repertoire I've been practicing are in Italian, of course, it is important
 ## Japanese
+- I just want to know what are they talking about in Japanese pornos.
 ## Korean
+- I just want to know what are they singing in Kpop MVs.
+## Arabic
+- It looks sexy
+## Greek
+- It looks smart
+
+
 # P.O.I
 - Steve Kaufmann
 
-# Tools
+
+# Entry(Apps)
 - Lingodeer
+
+# Dictionaries
+## German
+- 德语助手
+
+## French
+- 法语助手
+
+# Strategy
+- No grammar included in this section

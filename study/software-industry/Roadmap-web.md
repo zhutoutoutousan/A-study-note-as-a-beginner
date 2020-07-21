@@ -39,6 +39,7 @@
   - [Brian Lonsdorf](#brian-lonsdorf)
   - [Jason Miller](#jason-miller-1)
   - [Bartosz Milewski](#bartosz-milewski)
+  - [KieSun](#kiesun)
 - [Resource for resources](#resource-for-resources)
 - [Project oriented study](#project-oriented-study)
 
@@ -95,6 +96,7 @@
 - Asynchronous Programming in JavaScript (with Rx.js Observables)
 - Advanced Asynchronous JavaScript
 - Advanced Vue.js Features from the Ground Up
+  - More resources on Vue source code interpretation
 
 ## Egghead($40/month)
 - RxJS Beyond the Basics: Creating Observables from scratch
@@ -134,9 +136,18 @@
 ## Brian Lonsdorf
 ## Jason Miller
 ## Bartosz Milewski
-
+## KieSun
+- [github](https://github.com/KieSun)
+  - [Educational sites](https://yuchengkai.cn/home/)
+    - React原理解析
+    - 15万字面试资料
+  - Rich educational materials on Front-end
+  - There is distinct evidence that he had unusual achievements in front-end
+  - IOS background before starting Front-end 
 # Resource for resources
 [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList/blob/master/README.md)
+[CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/)
+[frontend-study-resource](https://github.com/sankincn/frontend-study-resource)
 
 # Project oriented study
 - [Building an Enigma Machine](https://www.youtube.com/watch?v=2D2bJWHvqJo)

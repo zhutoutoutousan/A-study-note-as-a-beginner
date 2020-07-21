@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Study style](#study-style)
 - [Roadmap](#roadmap)
   - [Full-stack](#full-stack)
     - [Resources](#resources)
@@ -42,6 +43,10 @@
   - [KieSun](#kiesun)
 - [Resource for resources](#resource-for-resources)
 - [Project oriented study](#project-oriented-study)
+
+# Study style
+- First give a plan to a project I want to develop
+- Track the progress, and resort to the resources around.
 
 # Roadmap
 ## Full-stack

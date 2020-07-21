@@ -1,7 +1,11 @@
 # Roman
-- L'etranger(In French): 1/97  Para 2 Line 1
+- L'etranger(In French)
   - [link1](https://www.anthropomada.com/bibliotheque/CAMUS-Letranger.pdf)
   - It's better to first know about what the book is about prior to devling into the world of French.
+  - Fast reading session 10/97
+    - No looking up in the dictionary, just the plot.
+  - Word for word: 1/97
+    - Should probably not do that
 
 
 # Language

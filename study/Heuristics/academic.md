@@ -18,6 +18,8 @@
   - [Subject-oriented implementation: Time to put the theory to test](#subject-oriented-implementation-time-to-put-the-theory-to-test)
     - [Engineering](#engineering)
       - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
+    - [Software engineering](#software-engineering)
+      - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
   - [Quotes](#quotes)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
@@ -32,7 +34,12 @@
   - [APS(Academische Pruefungstelle)](#apsacademische-pruefungstelle)
     - [EE(Under 15 days)](#eeunder-15-days)
       - [Basic spirit](#basic-spirit)
-      - [Courses](#courses)
+      - [Professional English](#professional-english)
+    - [Problems memorization](#problems-memorization)
+      - [10 min](#10-min)
+      - [24 hrs](#24-hrs)
+      - [1 week](#1-week)
+      - [1 month](#1-month)
     - [Resource](#resource-1)
 - [Skillsets](#skillsets)
   - [Academic reading](#academic-reading)
@@ -106,6 +113,10 @@ Four key time stamps to review what I've learned:
   - You may *absorb new information more rapidly* by being able to fit it into the conceptual structure.
   - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics.
 
+### Software engineering
+#### The implementation of the forgetting curve to the knowledge structure categorization
+- Check ```leetcode``` section and you'll know
+
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 
@@ -129,20 +140,41 @@ Four key time stamps to review what I've learned:
 #### Basic spirit
 - Get ready to fail~ 
 - [再次面谈（补考）](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren/wiederhol2)
-#### Courses
-- Electric Control Equipment and PLC
-- Computer Control Techniques
-- Microcontroller system design
-- Electromagnetics
-- Electric machinery
-- LabVIEW
-- Probability theory 
-- Mathematical modeling
-- Control theory
-- C language
-- Electric drive system
-- Advanced mathematics
-- College physics
+- First, the books in my native language
+  - 基础课(习题)
+    - 同济大学高等数学第七版上下册
+    - 电路分析（邹关原）
+    - 概率论
+  - 专业课(注重课程结构)
+    - 电力电子
+    - 微机原理
+    - 单片机
+    - 数字电路
+    - 模拟电路
+    - 电机学
+    - 供配电
+- Second, plan out what you have to say and train those basic problems
+
+#### Professional English
+This section will be merged by other sections like Mathematics and EE after APS test.
+
+### Problems memorization
+This section will be merged by other sections like Mathematics and EE after APS test.
+#### 10 min
+1. Problem 1: Are you a stupid retard?  
+   A: Yes!
+
+2. The structure of a subject [insert course name]
+- blablabla
+  - blablabla
+
+The whole professional English section
+#### 24 hrs
+
+#### 1 week
+
+#### 1 month
+Not applicable
 ### Resource
 - [【APS】电气工程10天复习过一审！刺激](https://zhuanlan.zhihu.com/p/92786726)
 - [1](https://www.sohu.com/a/134763034_485288)

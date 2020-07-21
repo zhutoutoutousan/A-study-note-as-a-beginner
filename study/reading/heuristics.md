@@ -7,3 +7,6 @@
 
 # Academic
 - A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+
+# Life
+- A Guide to the Good Life: The Ancient Art of Stoic Joy

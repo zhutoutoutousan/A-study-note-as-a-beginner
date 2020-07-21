@@ -39,6 +39,7 @@
   - [Brian Lonsdorf](#brian-lonsdorf)
   - [Jason Miller](#jason-miller-1)
   - [Bartosz Milewski](#bartosz-milewski)
+- [Resource for resources](#resource-for-resources)
 
 # Roadmap
 ## Full-stack
@@ -132,3 +133,6 @@
 ## Brian Lonsdorf
 ## Jason Miller
 ## Bartosz Milewski
+
+# Resource for resources
+[Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList/blob/master/README.md)

@@ -40,8 +40,18 @@
 - Steve Kaufmann
 
 
-# Entry(Apps)
+# Tools and methods
 - Lingodeer
+  - Very good to get a general grasp of 90% grammar and vocabularies along A1-B1
+  - Engaging
+- Video games in the target language
+  - First you might need to be a video gamer
+  - Very good for those who doesn't have opportunites to stay abroad
+  - You need to have a video game(preferablly plot-heavy) in which you are familiar with the lines.
+  - You need to be a language enthusiast(At least you need the motivation)
+    - And you need a good reason for it, pretending is garbage
+  - Set the game settings to borderless for faster switching between the game and 
+  - Just switch the language in the game to your target language
 
 # Dictionaries
 ## German

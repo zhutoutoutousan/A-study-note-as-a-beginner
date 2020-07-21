@@ -1,4 +1,9 @@
+# Duration
 April --> October
+
+# Heads-ups
+- Dude, you are not gonna make it if you read books cover to cover
+- Be more precise about what you want to know, what you want to crystalize in the system of yours
 
 # Chess game
 
@@ -9,7 +14,4 @@ April --> October
 - Blog-page
 
 
-# Leetcode
-
-
-# Stages
+# Tech-stack proficiency <--> Project progress

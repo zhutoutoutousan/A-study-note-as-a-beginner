@@ -50,15 +50,22 @@
   - You need to have a video game(preferablly plot-heavy) in which you are familiar with the lines.
   - You need to be a language enthusiast(At least you need the motivation)
     - And you need a good reason for it, pretending is garbage
-  - Set the game settings to borderless for faster switching between the game and 
+  - Set the game settings to borderless for faster switching between the game and dictionaries
   - Just switch the language in the game to your target language
-
+  - Personal choices
+    - L.A Noire
+      - English voices, [target Language] subtitles
+    - Mafia 2
 # Dictionaries
 ## German
 - 德语助手
 
 ## French
 - 法语助手
+
+## Italian
+- Search engine: Le coniugazione di verbo [insert verb]
+
 
 # Strategy
 - No grammar included in this section

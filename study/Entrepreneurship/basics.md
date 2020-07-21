@@ -1,4 +1,5 @@
-# Money
+# Business models
+
 # Company
 ## Scale
 # Blockchain

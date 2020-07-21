@@ -3,6 +3,10 @@
 - Duh
 ## French
 - Sunken cost fallacy, I already reached B1, why not study a bit more?
+- I've started gaining interest in the book *L'etranger*
+  - An important sociology terminology: **anomie** has come to my attention
+  - I want to know what **anomie** in action in the real life
+  - It seems this entity gaining interest in this book is suffering from the **anomie** mentioned above.
 ## German
 - I want to study in Germany...in a year or two
 - I love Arthur Schopenhauer
@@ -17,9 +21,9 @@
 ## Italian
 - Most of the opera repertoire I've been practicing are in Italian, of course, it is important
 ## Japanese
-- I just want to know what are they talking about in Japanese pornos.
+- I just want to know what they are talking about in Japanese pornos.
 ## Korean
-- I just want to know what are they singing in Kpop MVs.
+- I just want to know what they are singing in Kpop MVs.
 ## Arabic
 - It looks sexy
 ## Greek

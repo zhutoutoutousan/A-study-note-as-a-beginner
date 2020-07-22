@@ -12,6 +12,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Process 1(Ground-up): p0-55/1313
   - Process 2
     - Goal: Have a medium-sized familiarity with the graph search algorithms and graph-related data structures
+    - Benefit:
+      - The groundwork for ```chess-game``` and ```algorithm-visualizer```
+      - Long-term benefit for being a front-end developer
     - Progress 1: 229/229-357
     - Progress 2: 587/587-684
 - Introduction to Algorithms: Solutions and Instructor's Manual

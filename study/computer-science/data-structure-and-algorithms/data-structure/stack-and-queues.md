@@ -16,7 +16,12 @@
 
 ## Training resource
 - [Data Structures: Stacks and Queues](https://www.youtube.com/watch?v=wjI1WNcIntg)
-- [trekhleb](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack)
+  - Relatively fast
+  - Java Implementation
+- [trekhleb - stack](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack)
+  - Reading
+  - JavaScript code
+  - Short introduction
 
 # Formal expression
 - Please don't do this until you are sure you want to write some papers about some topics.

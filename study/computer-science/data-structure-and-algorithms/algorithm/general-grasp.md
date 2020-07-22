@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Basic terminologies to review](#basic-terminologies-to-review)
 - [Formal problem description](#formal-problem-description)
 - [Algorithm description](#algorithm-description)
   - [Pseudocode](#pseudocode)
@@ -25,6 +26,9 @@
     - [Incremental approach](#incremental-approach)
     - [Divide and conquer](#divide-and-conquer)
       - [Recursion level](#recursion-level)
+- [Mathematics and algorithm](#mathematics-and-algorithm)
+
+# Basic terminologies to review
 
 # Formal problem description
 
@@ -180,3 +184,5 @@ Most **recursive** algorithms follow a **divide-and-conquer** approach.
 - **Conquer**: the subproblems by solving them recursively. If the subproblem sizes are small enough, however, just solve the subproblems in a straightforward manner.
 - **Combine**: the solutions to the subproblems into the solution for the original problem.
 
+# Mathematics and algorithm
+- Algorithm is another way to **query** or perform **modifying operations** on sets.

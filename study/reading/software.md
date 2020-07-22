@@ -9,8 +9,11 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
   - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-  - Anchor1: P0-P55
-  - Anchor2: Search Tree study for chess AI
+  - Process 1(Ground-up): p0-55/1313
+  - Process 2
+    - Goal: Have a medium-sized familiarity with the graph search algorithms and graph-related data structures
+    - Progress 1: 229/229-357
+    - Progress 2: 587/587-684
 - Introduction to Algorithms: Solutions and Instructor's Manual
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
 # Programming language principle & paradigm

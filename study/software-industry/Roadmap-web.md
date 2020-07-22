@@ -101,6 +101,9 @@
 - Hardcore Functional Programming in JavaScript
 - Asynchronous Programming in JavaScript (with Rx.js Observables)
 - Advanced Asynchronous JavaScript
+- Intro to Vue.js
+  - Suggested as the first vue course
+  - [github](https://github.com/sdras/intro-to-vue)
 - Advanced Vue.js Features from the Ground Up
   - More resources on Vue source code interpretation
 

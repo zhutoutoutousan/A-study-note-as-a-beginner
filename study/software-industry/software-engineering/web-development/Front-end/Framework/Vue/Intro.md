@@ -15,3 +15,4 @@
 - Conditional rendering, and services, similar to Angular
 - Inspired by Polymer for simplicity and performance, offering a similar developement style as HTML, styles and Js composed in tandem
 - JSX is available
+- Slightly better performance than React?

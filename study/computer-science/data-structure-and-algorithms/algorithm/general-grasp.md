@@ -26,7 +26,7 @@
     - [Incremental approach](#incremental-approach)
     - [Divide and conquer](#divide-and-conquer)
       - [Recursion level](#recursion-level)
-- [Mathematics and algorithm](#mathematics-and-algorithm)
+- [Mathematics and algorithms](#mathematics-and-algorithms)
 
 # Basic terminologies to review
 
@@ -184,5 +184,5 @@ Most **recursive** algorithms follow a **divide-and-conquer** approach.
 - **Conquer**: the subproblems by solving them recursively. If the subproblem sizes are small enough, however, just solve the subproblems in a straightforward manner.
 - **Combine**: the solutions to the subproblems into the solution for the original problem.
 
-# Mathematics and algorithm
+# Mathematics and algorithms
 - Algorithm is another way to **query** or perform **modifying operations** on sets.

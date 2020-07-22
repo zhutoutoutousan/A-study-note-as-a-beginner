@@ -16,9 +16,19 @@
   - [Host](#host)
 - [M](#m)
   - [Modifying operations](#modifying-operations)
+- [N](#n)
+  - [NP-complete problems](#np-complete-problems)
+- [P](#p)
+  - [Parallelism](#parallelism)
+  - [Probabilistic analysis](#probabilistic-analysis)
+- [R](#r)
+  - [Randomized algorithm](#randomized-algorithm)
+  - [Recursive](#recursive)
 - [S](#s)
   - [Satellite data](#satellite-data)
   - [State space](#state-space)
+- [W](#w)
+  - [Worst-case running time](#worst-case-running-time)
 # A
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
@@ -53,10 +63,26 @@ In the context of hardware and software systems, **formal verification** is the 
 
 # M
 ## Modifying operations
-- Operations
+- Operations on a dynamic set can be grouped into two categories: **queries**, which simply return information about the set, an 
+
+# N
+## NP-complete problems
+
+# P
+## Parallelism
+## Probabilistic analysis
+
+# R
+## Randomized algorithm
+## Recursive
+Many useful algorithms are **recursive** in structure: to solve a given problrm, they call themselves recursively one or more times to deal with closely related sub-problems.
 
 # S
 ## Satellite data
 - In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation. It may also have attributes that are manipulated by the set operations; these attributes may contain data or pointers to other objects in the set.
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)
+
+
+# W
+## Worst-case running time

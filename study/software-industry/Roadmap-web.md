@@ -72,6 +72,7 @@
 ## Back-end
 
 # Main study resource track
+- It seems that following one main path along the way then using other resource as reference is more efficient than dilly-dallying around.
 ## Vue mastery
 ## Udemy（$10/course)
 - Vue JS Essentials with Vuex and Vue Router

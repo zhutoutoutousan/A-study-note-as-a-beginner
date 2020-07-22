@@ -32,7 +32,7 @@
 - [Optional tests](#optional-tests)
   - [TestDaf](#testdaf)
   - [APS(Academische Pruefungstelle)](#apsacademische-pruefungstelle)
-    - [EE(Under 15 days)](#eeunder-15-days)
+    - [EE(Under 10 days)](#eeunder-10-days)
       - [Basic spirit](#basic-spirit)
       - [Professional English](#professional-english)
     - [Problems memorization](#problems-memorization)
@@ -136,7 +136,7 @@ Four key time stamps to review what I've learned:
 # Optional tests
 ## TestDaf
 ## APS(Academische Pruefungstelle)
-### EE(Under 15 days)
+### EE(Under 10 days)
 #### Basic spirit
 - Get ready to fail~ 
 - [再次面谈（补考）](https://www.aps.org.cn/zh/verfahren-und-services-deutschland/chinaverfahren/wiederhol2)

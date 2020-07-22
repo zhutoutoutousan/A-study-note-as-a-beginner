@@ -21,11 +21,14 @@
 - [P](#p)
   - [Parallelism](#parallelism)
   - [Probabilistic analysis](#probabilistic-analysis)
+- [Q](#q)
+  - [Queue](#queue)
 - [R](#r)
   - [Randomized algorithm](#randomized-algorithm)
   - [Recursive](#recursive)
 - [S](#s)
   - [Satellite data](#satellite-data)
+  - [Stack](#stack)
   - [State space](#state-space)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
@@ -64,13 +67,29 @@ In the context of hardware and software systems, **formal verification** is the 
 # M
 ## Modifying operations
 - Operations on a dynamic set can be grouped into two categories: **queries**, which simply return information about the set, an 
+- Typical modifying operations
+  - $SEARCH(S,k)$: A query that, given a set $S$ and a key value $k$, returns a pointer $x$ to an element in $S$ such that $x.key=k$, or $NIL$ if no such element belongs to $S$.
+  - $INSERT(S,x)$: A modifying operation that augments the set $S$ with the element pointed to by $x$. We usually assume that any attributes in element $x$ needed by the set implementation have already been initialized.
+  - $DELETE(S,x)$: A modifying operation that, given a pointer $x$ to an element in the set $S$, removes $x$ from $S$.
+    - This operation takes a pointer to an element $x$, not a key value.
+  - $MINIMUM(S)$: A query on a totally ordered set $S$ that returns a pointer to the element of $S$ with the smallest key.
+  - $MAXIMMUM(S)$: A query on a totally ordered set $S$ that returns a pointer to the element of $S$ with the largest key.
+  - $SUCCESSOR(S,x)$: A query that, given an element $x$ whose key is from a totally ordered set $S$, returns a pointer to the next larger element in $S$, or $NIL$ if $x$ is the maximum element.
+  - $PREDECESSOR(S,x)$: A query that, given an element $x$ whose key is from a totally ordered set $S$, returns a pointer to the next smaller element in $S$, or $NIL$ if $x$ is the minimum element.
 
+- Non-typical modifying operations
+  - (Exp)Operation 1: Jump off a cliff
+    - [link1](www.google.com)
 # N
 ## NP-complete problems
 
 # P
 ## Parallelism
 ## Probabilistic analysis
+
+# Q
+## Queue
+- (Data structure)See the **queue** section.
 
 # R
 ## Randomized algorithm
@@ -80,6 +99,8 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 # S
 ## Satellite data
 - In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation. It may also have attributes that are manipulated by the set operations; these attributes may contain data or pointers to other objects in the set.
+## Stack
+- (Data structure)See the **stack** section
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)
 

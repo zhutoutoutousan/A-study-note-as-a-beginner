@@ -58,6 +58,8 @@
       - [Whey protein](#whey-protein)
       - [Casein protein](#casein-protein)
   - [Micronutrient](#micronutrient)
+  - [Bulking](#bulking)
+  - [Cutting](#cutting)
 - [Cooking](#cooking)
   - [Heuristics](#heuristics)
     - [Aesthetics](#aesthetics)
@@ -74,7 +76,7 @@
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
   - [Workout](#workout-2)
-    - [Cutting](#cutting)
+    - [Cutting](#cutting-1)
   - [Tools and equipments](#tools-and-equipments)
     - [Workout](#workout-3)
       - [Shoulder](#shoulder-2)
@@ -190,7 +192,7 @@ Remedy
 # Martial art
 ## Boxing
 ## Muay Thai
-
+V
 # Resource
 [职业倦怠：如何面对？](https://time.geekbang.org/column/article/44270)  
 [Stomach Ulcer (Peptic Acid Disease) Medication – Pharmacology | Lecturio](https://www.youtube.com/watch?v=r8YPNXB_iu8)
@@ -203,6 +205,9 @@ Remedy
 #### Whey protein
 #### Casein protein
 ## Micronutrient
+## Bulking
+## Cutting
+- The appropriate magnitude of caloric defict is positively related with the current body fat level.
 
 # Cooking
 ## Heuristics

@@ -43,7 +43,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 ### Unit-real-life comparison
 ### Unit conversion
 - 1 inch(in.) = 2.54 cm
-- 1 mi
+- 1 mil = ? mm
 
 ## Calculus
 ### Differentiation
@@ -61,7 +61,19 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - $\log_a{x}=\frac{\log_a{e}}{x}$
 
 ### Integration
-
+- $\int kdx = kx+C$(k is constant)
+- $\int x^{\mu}dx = \frac{x^{\mu+1}}{\mu +1}+C$($\mu \neq -1$)
+- $\int \frac{dx}{x}= \ln{|x|}+C$
+- $\int \frac{dx}{1+x^2}=\arctan{x}+C$
+- $\int \frac{dx}{\sqrt{1-x^2}}=\arcsin{x}+C$
+- $\int \cos{x}dx = \sin{x} + C$
+- $\int \sin{x}dx = -\cos{x} + C$
+- $\int \frac{dx}{\cos^2{x}}= \int \sec^2{x}dx = \tan{x}+C$
+- $\int \frac{dx}{\sin^2{x}}= \int \csc^2{x}dx = -\cot{x}+C$
+- $\int \sec{x}\tan{x}dx = \sec{x}+C$
+- $\int \csc{x}\cot{x}dx = -\csc{x}+C$
+- $\int e^x dx = e^x + C$
+- $\int a^x dx = \frac{a^x}{\ln{a}}+C$
 ## Linear algebra
 ### Matrix multiplication
 - Some regular strengthening advised.

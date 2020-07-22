@@ -2,7 +2,11 @@
 - [Table of Contents](#table-of-contents)
 - [Alphabetical](#alphabetical)
   - [D](#d)
+    - [Differentiation](#differentiation)
+    - [Differential calculus](#differential-calculus)
     - [Differential equation](#differential-equation)
+  - [I](#i)
+    - [Integral calculus](#integral-calculus)
   - [M](#m)
     - [Matrice](#matrice)
     - [Matrix](#matrix)
@@ -14,10 +18,16 @@
   - [V](#v)
     - [Vector](#vector)
 - [EN-GE-CH](#en-ge-ch)
-- [Book entery](#book-entery)
+  - [M](#m-1)
+    - [Mapping - ? - 映射](#mapping------映射)
+- [Book entry](#book-entry)
 # Alphabetical
 ## D
+### Differentiation
+### Differential calculus
 ### Differential equation
+## I
+### Integral calculus
 ## M
 ### Matrice
 - **Matrices** are rectangular arrays of numbers or functions, and **vectors** are the main tools of linear algebra. It is important for it let us express large amount of data and functions in an organized and concise form.
@@ -100,6 +110,13 @@ $$
 - A **vector** is a matrix with only one row or column. Its **entries** are called the **components** of the vector.
 - A **vector** is denoted by **lowercase** boldface letters **a**, **b**,... or by its general component in brackets, **a** = [$a_j$], and so on.
 - For more, check [**Matrix**](#matrice) section.
-# EN-GE-CH
 
-# Book entery
+
+# EN-GE-CH
+## M
+### Mapping - ? - 映射
+
+
+
+# Book entry
+

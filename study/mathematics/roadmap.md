@@ -8,6 +8,11 @@
 - Go to the involved section and enter problem-solving markdown file
 - Find related solutions(Could just contain a portal---A single section for books related with lists, only reference it in each problems--- for the sake of brevity)
 
+# A general grasp of **What you can do** after learning [insert subject] in the oceans of Mathematics
+## Calculus
+- Find the relationship between **speed**, **travel distance**, **acceleration** and more 
+
+
 # Better resource and channels
 - 3BLUE1BROWN
   - Linear algebra visualization series

@@ -5,6 +5,8 @@
   - [Assertion](#assertion)
 - [D](#d)
   - [Data structures](#data-structures)
+  - [Dictionary](#dictionary)
+  - [Dynamic](#dynamic)
 - [E](#e)
   - [Efficiency](#efficiency)
   - [End systems](#end-systems)
@@ -13,6 +15,7 @@
 - [H](#h)
   - [Host](#host)
 - [S](#s)
+  - [Satellite data](#satellite-data)
   - [State space](#state-space)
 # A
 ## Algorithm
@@ -25,6 +28,12 @@
 # D
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
+
+## Dictionary
+- Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
+
+## Dynamic
+- Sets are as fundamental to computer science as they are to mathematics. Whereas mathematical sets are unchanging, the sets manipulated by algorithms can grow, shrink, or otherwise change over time. We call such sets **dynamic**.
 
 # E
 ## Efficiency
@@ -39,5 +48,7 @@ In the context of hardware and software systems, **formal verification** is the 
 ## Host
 
 # S
+## Satellite data
+- In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation.
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)

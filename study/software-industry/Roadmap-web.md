@@ -103,7 +103,9 @@
 - Advanced Asynchronous JavaScript
 - Intro to Vue.js
   - Suggested as the first vue course
+  - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
   - [github](https://github.com/sdras/intro-to-vue)
+  - Progress track: Vue instance/ 5hrs
 - Advanced Vue.js Features from the Ground Up
   - More resources on Vue source code interpretation
 

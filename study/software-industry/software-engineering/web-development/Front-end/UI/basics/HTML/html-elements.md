@@ -25,6 +25,7 @@
     - [ul](#ul)
     - [ol](#ol)
     - [li](#li)
+    - [```<textarea>```](#textarea)
 - [Inline text semantics](#inline-text-semantics)
   - [a](#a)
 - [Link](#link)
@@ -58,6 +59,7 @@
   - [canvas](#canvas)
   - [script](#script-1)
 - [Obsolete and deprecated elements](#obsolete-and-deprecated-elements)
+- [**Which element for which scenario?**](#which-element-for-which-scenario)
 - [Resource](#resource)
 # tip
 - mark ```block-level element```, ```inline-element``` as type mark
@@ -86,7 +88,8 @@
 ### ul
 ### ol
 ### li
-
+### ```<textarea>```
+- A multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text, for example a comment on a review or feedback them.
 # Inline text semantics
 ## a
 # Link
@@ -131,6 +134,10 @@ Importance for accessibilitiy purposes:
 ## script
 
 # Obsolete and deprecated elements
+
+
+# **Which element for which scenario?**
+
 
 # Resource
 [HTML elements - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

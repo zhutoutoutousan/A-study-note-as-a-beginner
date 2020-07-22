@@ -1,3 +1,6 @@
+# Table of Contents
+
+
 # What makes a good framework?
 - Declarative
 - Legible

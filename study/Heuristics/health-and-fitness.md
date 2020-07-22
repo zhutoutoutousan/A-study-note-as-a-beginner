@@ -208,6 +208,8 @@ V
 ## Bulking
 ## Cutting
 - The appropriate magnitude of caloric defict is positively related with the current body fat level.
+- According to some researches, 2.4g/kg of protein intake is enough to keep muscle mass with resistance training with 40% of caloric deficit
+  - [How To Prevent Muscle Loss When Dieting (Science Explained)](https://www.youtube.com/watch?v=EOh2R-89qqg&t=234s)
 
 # Cooking
 ## Heuristics

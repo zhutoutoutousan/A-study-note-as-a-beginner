@@ -25,7 +25,6 @@
     - [Incremental approach](#incremental-approach)
     - [Divide and conquer](#divide-and-conquer)
       - [Recursion level](#recursion-level)
-- [Study aids(Forgetting curve)](#study-aidsforgetting-curve)
 
 # Formal problem description
 
@@ -76,7 +75,7 @@ The third property is perhaps the most important one. Typically, we use the loop
 
 **Output:** A permutation(reordering) $\langle {a_1}', {a_2}', ..., {a_n}' \rangle$ of the input sequence such taht ${a_1}' \leq {a_2}' \leq ... \leq {a_n}'$
 
-| ![How insertion sort works](../../assets/insertion-sort.PNG) |
+| ![How insertion sort works](../assets/insertion-sort.PNG) |
 | :--: |
 | **Figure 1** Insertion sort|
 
@@ -181,5 +180,3 @@ Most **recursive** algorithms follow a **divide-and-conquer** approach.
 - **Conquer**: the subproblems by solving them recursively. If the subproblem sizes are small enough, however, just solve the subproblems in a straightforward manner.
 - **Combine**: the solutions to the subproblems into the solution for the original problem.
 
-# Study aids(Forgetting curve)
-- Last reviewed: 6/15/2020

@@ -14,6 +14,8 @@
   - [Formal verification](#formal-verification)
 - [H](#h)
   - [Host](#host)
+- [M](#m)
+  - [Modifying operations](#modifying-operations)
 - [S](#s)
   - [Satellite data](#satellite-data)
   - [State space](#state-space)
@@ -44,11 +46,17 @@
 ## Formal verification
 In the context of hardware and software systems, **formal verification** is the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
 
+
+
 # H
 ## Host
 
+# M
+## Modifying operations
+- Operations
+
 # S
 ## Satellite data
-- In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation.
+- In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation. It may also have attributes that are manipulated by the set operations; these attributes may contain data or pointers to other objects in the set.
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)

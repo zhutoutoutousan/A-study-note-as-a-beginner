@@ -1,0 +1,2 @@
+- [为什么说在5G技术上，美国早已失去与中国竞赛的资格？](https://www.youtube.com/watch?v=rehoLlCL47c)
+  - The history of wiMAX(The failure of american technology)

@@ -7,6 +7,7 @@
     - [Training](#training)
     - [Resource](#resource)
   - [Geology](#geology)
+    - [General](#general)
     - [Trignometry](#trignometry)
     - [Real-world recognition](#real-world-recognition)
   - [Systems of Units](#systems-of-units)
@@ -21,6 +22,7 @@
     - [Area](#area)
     - [Space](#space)
 - [Second-line memory](#second-line-memory)
+- [Book Entry](#book-entry)
 # Conceptual structure
 Hold your horses, take your time.
 # Front-line memory
@@ -34,8 +36,15 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 ### Resource
 - 3BLUE1BROWN series
 ## Geology
+### General
+- General equation of a circle with the radius $R$: $x^2+y^2 = R^2$
+- Degrees vs radians:
+  - A full circle is 360 degrees and $2\pi$ radians.
+  - 1 radian = 360/2 $\pi$ degrees $\approx$ 57.3 degrees
+  - 1 degree = $2\pi /360$ radians $\approx$ 0.01745 radians
+  - Examples discussing radians: **CM** p23
 ### Trignometry
-- This is important for a better performance in EE
+- $\cos^2{x}+\sin^2{x}=1$
 ### Real-world recognition
 - The surface area of a sphere: $S=4\pi r^2$
 
@@ -89,3 +98,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 # Second-line memory
 - WTH do I need a second-line memory anyway?
   - For not overloading your brain
+
+
+# Book Entry
+- CM:[Calculus - MIT](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)

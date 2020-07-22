@@ -3,6 +3,8 @@
 - Calculus - G. Strang
   - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
   - Can be helpful to APS
+  - Process 1(Study for APS): 35/671
+  - This book introduces calculus with some interesting examples
 
 - Advanced engineering mathematics - Erwin kreyszig  
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
@@ -33,6 +35,8 @@
 - 高等数学 同济大学
   - [Link1 - 上册](https://www.academia.edu/35115212/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6_%E7%AC%AC7%E7%89%88_%E4%B8%8A%E5%86%8C_%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
     - Need to download :(
+    - !!!(private)Search for 7__.pdf.pdf locally
+    - process 1(Study for APS): p204/442
 
 
 # Linear algebra

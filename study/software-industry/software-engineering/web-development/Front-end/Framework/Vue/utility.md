@@ -1,6 +1,12 @@
 # Table of Contents
 # Vanilla JS vs Vue
 
+# Using Vue
+## CDN
+```html
+<!-- development version, includes helpful console warnings -->
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+```
 
 # Vue instance
 ## Simplest example
@@ -23,7 +29,7 @@ new Vue({
 ### Data
 
 # Vue directive
-- This section is better categorized by the type of utility
+- This section is better categorized by the types of utility
 ## ```v-text```
 ## ```v-html```
 ## ```v-show```

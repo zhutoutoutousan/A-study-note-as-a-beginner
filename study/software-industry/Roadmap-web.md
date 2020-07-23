@@ -43,6 +43,8 @@
   - [KieSun](#kiesun)
 - [Resource for resources](#resource-for-resources)
 - [Project oriented study](#project-oriented-study)
+- [Topic-oriented study resource track](#topic-oriented-study-resource-track)
+  - [HTML](#html-1)
 
 # Study style
 - First give a plan to a project I want to develop
@@ -164,3 +166,8 @@
 # Project oriented study
 - [Building an Enigma Machine](https://www.youtube.com/watch?v=2D2bJWHvqJo)
   - May be good for building some cirucit simulation software
+
+
+# Topic-oriented study resource track
+## HTML
+- [Learn HTML Forms In 25 Minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE)

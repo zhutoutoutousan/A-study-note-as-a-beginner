@@ -45,6 +45,7 @@
 - [Project oriented study](#project-oriented-study)
 - [Topic-oriented study resource track](#topic-oriented-study-resource-track)
   - [HTML](#html-1)
+  - [JavaScript](#javascript-1)
 
 # Study style
 - First give a plan to a project I want to develop
@@ -171,3 +172,6 @@
 # Topic-oriented study resource track
 ## HTML
 - [Learn HTML Forms In 25 Minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
+- [HTML - The Label Element](https://www.youtube.com/watch?v=HS4bvh_59hU)
+
+## JavaScript

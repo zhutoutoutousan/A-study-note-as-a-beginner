@@ -102,10 +102,25 @@
 # Forms
 ## ```<label>```
 - It's a form, a caption for an item in a user interface
+- Usage
+  - User info input(passwords, usernames etc.)
 - [RTFM - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 - [HTML - The Label Element](https://www.youtube.com/watch?v=HS4bvh_59hU)
 ### ```label.for```
 
+```javascript
+/*
+             id
+             |
+            \|/
+label.for ------> formElement
+             |
+             |
+            \|/
+  1. Click on the label will automatically focus on the connected formElement
+
+*/
+```
 ## input
 ### Attributes
 #### placeholder

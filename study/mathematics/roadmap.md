@@ -1,6 +1,7 @@
 # What do you want to achieve using mathematics?
 - Don't fail APS test without a fight!!! xD
 - Must come in handy when it comes to neuroengineering, EE and AI
+- Seriously, I found myself slightly interested in Mathematics itself.
 # What else can you do once you reach [insert level] level of [insert field] in mathematics?
 
 # Problem solving procedures

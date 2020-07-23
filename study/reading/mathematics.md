@@ -54,6 +54,11 @@
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
 
 
+# Set theory
+- A book of Set Theory - C.C.Pinter
+  - [Link1](http://matematicas.uis.edu.co/adrialba/sites/default/files/SetTheoryDover-%20Charles%20C%20Pinter.pdf)
+- An introduction to Set Theory - Prof. W.A.R.Weiss
+  - [Link1](https://www.math.toronto.edu/weiss/set_theory.pdf)
 # Category theory
 - Category Theory for Scientists
   - [Link1](http://math.mit.edu/~dspivak/CT4S.pdf)

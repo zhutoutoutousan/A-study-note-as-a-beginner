@@ -53,6 +53,17 @@
 - Probability Theory: The Logic of Science
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
 
+
+# Category theory
+- Category Theory for Scientists
+  - [Link1](http://math.mit.edu/~dspivak/CT4S.pdf)
+- Category Theory - Prof. Dr. B. Pareigis
+  - [Link1](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf)
+- A gentle Introduction to Category Theory - the calculational approach - M.M.Fokkinga
+  - [Link1](https://maartenfokkinga.github.io/utwente/mmf92b.pdf)
+- Basic Category Theory - T.Leinster
+  - [Link1](https://arxiv.org/pdf/1612.09375.pdf)
+
 # Minor resources
 
 # Paper and personal research

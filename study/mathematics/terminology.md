@@ -8,6 +8,7 @@
   - [I](#i)
     - [Integral calculus](#integral-calculus)
   - [M](#m)
+    - [Map](#map)
     - [Matrice](#matrice)
     - [Matrix](#matrix)
     - [Modeling](#modeling)
@@ -29,6 +30,14 @@
 ## I
 ### Integral calculus
 ## M
+### Map
+- **定义**: 设$X,Y$是两个非空集合，如果存在一个法则$f$，使得对$X$中每个元素$x$，按法则$f$，在$Y$中有唯一确定的元素$y$与之对应，那么称$f$为从$X$到$Y$的**映射**，记作: $f:X\rightarrow Y$，其中$y$称为元素$x$（在映射$f$下）的**像**，并记作$f(x)$，即：$y=f(x)$,而元素$x$称为元素$y$（在映射$y$下）的一个**原像**；集合$X$称为映射$f$的定义域，记作$D_f$，即$D_f=X$; X中的所有元素的像所组成的集合称为映射$f$的值域，记作$R_f$或$f(X)$，即: $R_f=f(X)=\{f(x)|x\in X\}$
+  - 构成一个映射必须具备以下三要素
+    - 集合$X$,即定义域$D_f=X$
+    - 集合$Y$,即值域的范围:$R_f\subset Y$
+    - 对应法则$f$,使对每个$x\in X$，有唯一确定的$y=f(x)$与之对应
+  - 对每个$x\in X$,元素$x$的像y是唯一的；而对每个$y\in R_f$,元素$y$的原像不一定是唯一的；映射$f$的值域$R_f$是$Y$的一个子集，即$R_f\subset Y$,不一定$R_f=Y$
+  - Dude, isn't this a bit pedantic? And a bit of mouthful?
 ### Matrice
 - **Matrices** are rectangular arrays of numbers or functions, and **vectors** are the main tools of linear algebra. It is important for it let us express large amount of data and functions in an organized and concise form.
 - Matrices are single objects, denoted by single letters and calculated directly

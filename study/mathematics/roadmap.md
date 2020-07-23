@@ -13,7 +13,7 @@
 - Find the relationship between **speed**, **travel distance**, **acceleration** and more 
 ## Category theory
 - I just got intimidated by the pedantic concept of **map**, I want to know what the fuss is about(Is it of any use seriously?). --- When I really got all the time and the world.
-
+- P.O.I: [Samuel Eilenberg](https://en.wikipedia.org/wiki/Samuel_Eilenberg)
 # Better resource and channels
 - 3BLUE1BROWN
   - Linear algebra visualization series

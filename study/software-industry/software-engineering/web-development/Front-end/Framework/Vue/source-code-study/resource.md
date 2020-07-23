@@ -1,0 +1,1 @@
+- It is rather ineffective to read the code on your own, gather what other people perceive the code to your aids.

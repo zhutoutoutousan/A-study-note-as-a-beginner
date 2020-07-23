@@ -32,6 +32,7 @@ new Vue({
 ## ```v-else-if```
 ## ```v-for```
 - Similar to ```for in```
+- Loops through a set of values
 ## ```v-on```
 ## ```v-bind```
 ## ```v-model```
@@ -39,6 +40,8 @@ new Vue({
 ## ```v-pre```
 ## ```v-cloak```
 ## ```v-once```
+## Custom directive
+## Resource
 # Vue devTools
 ## --- 
 ### ```<Root>```
@@ -46,6 +49,3 @@ new Vue({
 - Where you can 
 
 
-# Vue tutorial documents
-
-# Vue API

@@ -92,6 +92,7 @@ Four key time stamps to review what I've learned:
 - Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
 - When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)
 - When you are doing coding, especially those front-end code, the best practice that works for this entity would be: working long hours, taking long breaks - until enlightened otherwise
+- Pomodoro methods may be suitable for intense study(The average intensity of the study process induced by the very study methods and paces surpasses the minimum threshold the actual extent of which is yet to be measured)
 
 ### Resource
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)

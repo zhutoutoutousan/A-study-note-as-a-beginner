@@ -68,6 +68,7 @@ new Vue({
 ## Reactive elements
 ## Replace repetitive elements
 ### ```v-for```+ data + ```:id```+```:value```
+- Replace the repetitive usage of html elements using the same dataset
 ```html
 <div id="app">
     <span v-for="option in options">
@@ -79,8 +80,48 @@ new Vue({
             {{ option.value }} 
             </label>
     </span>
+    <br>
+    <span>Checked names: {{ checkedNames }}</span>
 </div>
 ```
+```javascript
+/*
+div#app ------------------>   span v-for[option]--label
+  /|\          HTML                 /|\             |   
+   | el                              |      v-model | 
+   |                                 |              | 
+   |                                 |   user-input | 
+   |       -----------               |              | 
+   |                              |--|--|           |
+   |            Vue     |---------|  |  |-----------|    
+   |                    |            |              
+  el                    |            |              
+   &                    |            |              
+  data---           |---|            |              
+        |          \|/             |-|----->{{ checkedNames}}
+        |----- checkedNames--------| |
+        |                            |
+        |_____ options[Objects*4]----|
+
+
+TODO: Finish this graph later
+- :id?
+- :value?
+*/
+new Vue({
+    el: '#app',
+    data: {
+        checkedNames: [],
+        options: [
+            { value: 'John' },
+            { value: 'Paul' },
+            { value: 'George' },
+            { value: 'Ringo' }
+        ]
+    }
+})
+```
+
 ## All directives
 ### ```v-text```
 ### ```v-html```
@@ -101,7 +142,7 @@ Creates a relationship between the data in the instance/component and a form inp
 
 <!-- 
 
-    User-input -> form-input -
+    User-input -> form-input --
                               |
                               |
                              \|/

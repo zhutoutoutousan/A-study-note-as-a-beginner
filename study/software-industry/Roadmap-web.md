@@ -109,7 +109,7 @@
   - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
   - [github](https://github.com/sdras/intro-to-vue)
   - Recommended speed: 2x(Could be slower)
-  - Progress track: Vue directive 21min/ 5hrs
+  - Progress track: Vue directive 21min + 7min28s/ 5hrs
 - Advanced Vue.js Features from the Ground Up
   - More resources on Vue source code interpretation
 

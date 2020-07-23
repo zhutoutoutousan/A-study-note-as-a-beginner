@@ -15,6 +15,7 @@
 
 # Overview
 A **category** *C* consist of 
+- A class
 
 # Grp - groups
 

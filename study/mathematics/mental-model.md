@@ -3,6 +3,11 @@
 - [Conceptual structure](#conceptual-structure)
 - [Front-line memory](#front-line-memory)
   - [Conceptual structure and terminologies](#conceptual-structure-and-terminologies)
+  - [Functioal 'working memory'-'neural pathway' connection](#functioal-working-memory-neural-pathway-connection)
+    - [First, how does your working memory work?](#first-how-does-your-working-memory-work)
+    - [Second, how does the working memory and neural pathwayS collaborate with one another?](#second-how-does-the-working-memory-and-neural-pathways-collaborate-with-one-another)
+    - [Third, know yourself, what about your working memory capacity? Any way to get a picture of?](#third-know-yourself-what-about-your-working-memory-capacity-any-way-to-get-a-picture-of)
+    - [Fourth, what sorf of neural pattern(mathematic) should you consider valuable to train regularly?](#fourth-what-sorf-of-neural-patternmathematic-should-you-consider-valuable-to-train-regularly)
   - [Visual intelligence training](#visual-intelligence-training)
     - [Training](#training)
     - [Resource](#resource)
@@ -30,6 +35,17 @@ Hold your horses, take your time.
 Maintain a functional dexterity of the conceptual structure and terminologies
 - Hold your horses, take your time.
 - [Terminology](./terminology.md)
+
+## Functioal 'working memory'-'neural pathway' connection
+### First, how does your working memory work?
+- Read some articles and researches
+### Second, how does the working memory and neural pathwayS collaborate with one another?
+### Third, know yourself, what about your working memory capacity? Any way to get a picture of?
+### Fourth, what sorf of neural pattern(mathematic) should you consider valuable to train regularly?
+- Your short-term plan? 
+  - Career, survival and other mundane stuffs
+- Your long-term plan?
+  - Mathematics in Neuroengineering?
 
 ## Visual intelligence training
 ### Training

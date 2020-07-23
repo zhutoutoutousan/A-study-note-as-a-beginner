@@ -24,6 +24,10 @@
     - [```v-on```](#v-on)
     - [```v-bind```](#v-bind)
     - [```v-model```](#v-model)
+      - [Basics](#basics)
+      - [```v-model.trim```](#v-modeltrim)
+      - [```v-model.number```](#v-modelnumber)
+      - [```v-model.lazy```](#v-modellazy)
     - [```v-pre```](#v-pre)
     - [```v-cloak```](#v-cloak)
     - [```v-once```](#v-once)
@@ -97,8 +101,8 @@ div#app ------------------>   span v-for[option]--label
    |                    |            |              
   el                    |            |              
    &                    |            |              
-  data---           |---|            |              
-        |          \|/             |-|----->{{ checkedNames}}
+  data---           |---|          |-|-|              
+        |          \|/             | | |-->{{ checkedNames}}
         |----- checkedNames--------| |
         |                            |
         |_____ options[Objects*4]----|
@@ -126,7 +130,9 @@ new Vue({
 ### ```v-text```
 ### ```v-html```
 ### ```v-show```
+- Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components
 ### ```v-if```
+- Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components
 ### ```v-else```
 ### ```v-else-if```
 ### ```v-for```
@@ -135,6 +141,7 @@ new Vue({
 ### ```v-on```
 ### ```v-bind```
 ### ```v-model```
+#### Basics
 Creates a relationship between the data in the instance/component and a form input, so you can dynamically update values
 
 ```html
@@ -169,8 +176,12 @@ new Vue({
 
 // Click to update changes
 ```
-
-
+#### ```v-model.trim```
+- Strip any leading or trailing whitespace from the bound string
+#### ```v-model.number```
+- changes strings to number inputs
+#### ```v-model.lazy```
+- won't populate the content automatically, will wait to bind until an event happens(It listens to change events instead of input)
 ### ```v-pre```
 ### ```v-cloak```
 ### ```v-once```

@@ -27,12 +27,12 @@
       - [Stomach ulcer](#stomach-ulcer)
         - [Medications](#medications)
     - [Intestine](#intestine)
-      - [Constipation](#constipation)
-      - [Diarrhea](#diarrhea)
+      - [IBS(Irritable Bowel Syndrome)](#ibsirritable-bowel-syndrome)
+      - [Ulcerative colitis](#ulcerative-colitis)
     - [Skin](#skin)
       - [Acne](#acne)
     - [Colon](#colon)
-      - [Ulcerative Colitis](#ulcerative-colitis)
+      - [Ulcerative Colitis](#ulcerative-colitis-1)
 - [Mental disorder](#mental-disorder)
 - [Other anomalies](#other-anomalies)
   - [Circadium rhythm distruption](#circadium-rhythm-distruption)
@@ -157,8 +157,27 @@ Posterior labral tear:
 #### Stomach ulcer
 ##### Medications
 ### Intestine
-#### Constipation
-#### Diarrhea
+#### IBS(Irritable Bowel Syndrome)
+Symptoms:
+- Constipation or diarrhea
+- Bowel sound
+- Abdominal discomfort
+- Bloating
+- Gas 
+- Cramping  
+Cause:
+- Unclear
+- Maybe related to stress
+
+Management:
+- Take more fiber
+
+Medications
+
+Resource
+- [Basic knowledge](https://www.youtube.com/watch?v=eKLqFnAmK6c)
+#### Ulcerative colitis
+This is getting serious
 ### Skin
 #### Acne
 Testosterone--> DHT --> Sebum

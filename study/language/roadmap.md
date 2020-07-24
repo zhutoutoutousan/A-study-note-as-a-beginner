@@ -40,6 +40,21 @@
 - Steve Kaufmann
 
 
+# Online resource
+## Study sites
+- [Lingolia – Simply better at languages](https://www.lingolia.com/en/)
+
+## Dictionaries
+### French
+- [https://www.collinsdictionary.com/](https://www.collinsdictionary.com/)
+### Russian
+### Japanese
+### Greek
+## Best sites to learn grammar anywhere
+- [Understanding Italian verb tenses](https://www.collinsdictionary.com/word-lovers-blog/language-learning/learning-italian/understanding-italian-verb-tenses,470,HCB.html)
+- [Les temps: Indicative Tenses in French Grammar](https://francais.lingolia.com/en/grammar/tenses)
+
+
 # Tools and methods
 - Lingodeer
   - Very good to get a general grasp of 90% grammar and vocabularies along A1-B1

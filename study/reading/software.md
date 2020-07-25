@@ -58,7 +58,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Prerequisites
     - Some C, C++ or Python
   - Process 1: Just skimming the introduction and gain a structural renognition of the subject 
-
+  - [A set of books hosting on a server]()
 - CompTIA Network+ Example guide Fourth Edition
   - [Link1](http://eflnet.ir/Admin/Upload/Document/CompTIA_Network-plus-2009.pdf)
 

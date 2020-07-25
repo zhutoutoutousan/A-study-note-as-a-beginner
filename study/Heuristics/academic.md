@@ -44,6 +44,7 @@
 - [Skillsets](#skillsets)
   - [Academic reading](#academic-reading)
   - [Academic writing](#academic-writing)
+    - [Common phrases](#common-phrases)
 - [Academia landscape](#academia-landscape)
   - [Relations with the industry](#relations-with-the-industry)
   - [Academic politics](#academic-politics)
@@ -184,7 +185,8 @@ Not applicable
 # Skillsets
 ## Academic reading
 ## Academic writing
-
+### Common phrases
+- Be analogous to 
 # Academia landscape
 ## Relations with the industry
 ## Academic politics

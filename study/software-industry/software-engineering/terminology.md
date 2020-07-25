@@ -6,19 +6,28 @@
   - [C](#c)
     - [Closure](#closure)
     - [Cluster](#cluster)
+    - [Communication links](#communication-links)
   - [I](#i)
+    - [IEEE 802](#ieee-802)
+    - [Internet Engineering Task Force(IETF)](#internet-engineering-task-forceietf)
     - [Inheritance](#inheritance)
+    - [Internet Service Providers(ISPs)](#internet-service-providersisps)
+    - [Internet standards](#internet-standards)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented programming](#object-oriented-programming)
+  - [P](#p)
+    - [Packet switch](#packet-switch)
   - [R](#r)
     - [Replica set](#replica-set)
+    - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
   - [S](#s)
     - [Scope](#scope)
     - [Service](#service)
   - [T](#t)
     - [TDZ](#tdz)
+    - [Transmission rate](#transmission-rate)
   - [U](#u)
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
@@ -40,14 +49,24 @@
 ### Closure
 ### Cluster
 A group of servers that stores your data
+### Communication links
 ## I
+### IEEE 802
+### Internet Engineering Task Force(IETF)
 ### Inheritance
+### Internet Service Providers(ISPs)
+- E.g. local cable or telephone companies, corporate ISPs, university ISPs. Some ISPs can provide WiFi access in airports, hotels, coffee shops, and other public places, and cellular data ISPs, providing mobile access to our smartphones and other public places.
+- Each ISP is in itself a network of packet switched and communication links.
+### Internet standards
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming
+## P
+### Packet switch
 ## R
 ### Replica set
 A cluster where each server stores the same data
+### Requests for comments(RFCs)
 ### Routing
 **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on). [\[express.js\]](https://expressjs.com/en/starter/basic-routing.html)
 ## S
@@ -59,7 +78,7 @@ The term **Web service(WS)** is either:
 
 ## T
 ### TDZ
-
+### Transmission rate
 ## U 
 ### Unified Modeling Language(UML)
 

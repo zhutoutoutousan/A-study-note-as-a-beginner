@@ -3,6 +3,7 @@
 - I am lazy
 - Pictures takes much more memory space than code
 - It's geeky, it's cool
+## How to draw it in an elegant way in general?
 ## JavaScript
 
 ## 

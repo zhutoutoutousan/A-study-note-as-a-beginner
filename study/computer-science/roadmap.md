@@ -1,6 +1,13 @@
-# Online resource
+# Overall education
 - [OSSU](https://github.com/ossu/computer-science)
 
+# Computer networking
+## Online course progress track
+### Youtube channels
+Complete course:
+- [Computer Networking Complete Course - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws)
+#### PowerCert Animated Videos
+- [Differences between hub, switch and a hub](https://www.youtube.com/watch?v=1z0ULvg_pW8)
 # Online streaming
 - CS50
   - [CS50 2019 - Lecture 0 - Computational Thinking, Scratch](https://www.youtube.com/watch?v=jjqgP9dpD1k) 18:03/1:02:25

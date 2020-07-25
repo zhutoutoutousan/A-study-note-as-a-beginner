@@ -3,6 +3,8 @@
 - [A](#a)
   - [Algorithm](#algorithm)
   - [Assertion](#assertion)
+- [B](#b)
+  - [Bandwidth](#bandwidth)
 - [D](#d)
   - [Data structures](#data-structures)
   - [Dictionary](#dictionary)
@@ -14,7 +16,11 @@
   - [Formal verification](#formal-verification)
 - [H](#h)
   - [Host](#host)
+  - [Hub](#hub)
+- [I](#i)
+  - [Internet Protocol(IP)](#internet-protocolip)
 - [M](#m)
+  - [MAC address](#mac-address)
   - [Modifying operations](#modifying-operations)
 - [N](#n)
   - [NP-complete problems](#np-complete-problems)
@@ -26,10 +32,15 @@
 - [R](#r)
   - [Randomized algorithm](#randomized-algorithm)
   - [Recursive](#recursive)
+    - [Router](#router)
 - [S](#s)
   - [Satellite data](#satellite-data)
   - [Stack](#stack)
   - [State space](#state-space)
+  - [Switch](#switch)
+    - [Computer networking](#computer-networking)
+- [T](#t)
+  - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
 # A
@@ -39,6 +50,9 @@
 
 ## Assertion
 [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
+
+# B
+## Bandwidth
 
 # D
 ## Data structures
@@ -63,8 +77,16 @@ In the context of hardware and software systems, **formal verification** is the 
 
 # H
 ## Host
-
+## Hub
+- A hub doesn't filter data or has any intelligence as to where the data should be sent.
+- The only thing the hub knows is when the device is connected to one of its ports, when a data packet arrives at one of the ports, it is copied to all of the other ports.
+- [集线器，交换机和路由器解释 - 有什么区别？](https://www.youtube.com/watch?v=1z0ULvg_pW8)
+# I
+## Internet Protocol(IP)
+- The TCP and IP are two of the most important protocols in the Internet
+- The IP protocol specifies the format of the packets that are sent and received among routers and end systems
 # M
+## MAC address
 ## Modifying operations
 - Operations on a dynamic set can be grouped into two categories: **queries**, which simply return information about the set, an 
 - Typical modifying operations
@@ -95,6 +117,8 @@ In the context of hardware and software systems, **formal verification** is the 
 ## Randomized algorithm
 ## Recursive
 Many useful algorithms are **recursive** in structure: to solve a given problrm, they call themselves recursively one or more times to deal with closely related sub-problems.
+### Router
+
 
 # S
 ## Satellite data
@@ -103,7 +127,12 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 - (Data structure)See the **stack** section
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)
+## Switch
+### Computer networking
 
+
+# T
+## Transmission Control Protocol(TCP)
 
 # W
 ## Worst-case running time

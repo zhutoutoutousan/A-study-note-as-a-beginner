@@ -8,7 +8,8 @@
 - [D](#d)
   - [Data structures](#data-structures)
   - [Dictionary](#dictionary)
-  - [Dynamic](#dynamic)
+  - [Distributed application](#distributed-application)
+  - [Dynamic sets](#dynamic-sets)
 - [E](#e)
   - [Efficiency](#efficiency)
   - [End systems](#end-systems)
@@ -23,6 +24,7 @@
   - [MAC address](#mac-address)
   - [Modifying operations](#modifying-operations)
 - [N](#n)
+  - [Network core](#network-core)
   - [NP-complete problems](#np-complete-problems)
 - [P](#p)
   - [Parallelism](#parallelism)
@@ -35,6 +37,8 @@
     - [Router](#router)
 - [S](#s)
   - [Satellite data](#satellite-data)
+  - [Socket](#socket)
+  - [Socket interface](#socket-interface)
   - [Stack](#stack)
   - [State space](#state-space)
   - [Switch](#switch)
@@ -61,7 +65,9 @@
 ## Dictionary
 - Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
 
-## Dynamic
+## Distributed application
+- Applications that involve multiple end systems that exchange data with one another
+## Dynamic sets
 - Sets are as fundamental to computer science as they are to mathematics. Whereas mathematical sets are unchanging, the sets manipulated by algorithms can grow, shrink, or otherwise change over time. We call such sets **dynamic**.
 
 # E
@@ -103,6 +109,7 @@ In the context of hardware and software systems, **formal verification** is the 
   - (Exp)Operation 1: Jump off a cliff
     - [link1](www.google.com)
 # N
+## Network core
 ## NP-complete problems
 
 # P
@@ -123,6 +130,8 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 # S
 ## Satellite data
 - In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation. It may also have attributes that are manipulated by the set operations; these attributes may contain data or pointers to other objects in the set.
+## Socket
+## Socket interface
 ## Stack
 - (Data structure)See the **stack** section
 ## State space

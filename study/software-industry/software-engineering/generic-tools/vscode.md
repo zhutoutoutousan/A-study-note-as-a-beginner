@@ -26,6 +26,7 @@
 - [Troubleshooting](#troubleshooting)
   - [ENV](#env)
     - [running scripts is disabled on this system](#running-scripts-is-disabled-on-this-system)
+- [Manuals](#manuals)
 - [Wanna expand your vscode skills later?](#wanna-expand-your-vscode-skills-later)
 - [Resources](#resources-2)
 
@@ -110,6 +111,10 @@ At line:1 char:1
     + FullyQualifiedErrorId : UnauthorizedAccess
 ```
 Normal in windows 10 CLI
+
+
+# Manuals
+[Visual Studio Code - Keyboard shortcut for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 # Wanna expand your vscode skills later?
 [10 Tricks Every Developer Should Know in Visual Studio Code](https://dzone.com/articles/10-tricks-every-developer-should-know-in-visual-st)

@@ -55,6 +55,13 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Process 1:
     - Progress: 38/856
     - Get familiar with the ideas
+  - Resource provided in the book
+    - [Pearson - CS resource](https://media.pearsoncmg.com/bc/abp/cs-resources/)
+    - [](http://gaia.cs.umass.edu/kurose_ross/interactive,)
+  - Prerequisites
+    - Some C, C++ or Python
+  - Process 1: Just skimming the introduction and gain a structural renognition of the subject 
+  - [A set of books hosting on a server]()
 - CompTIA Network+ Example guide Fourth Edition
   - [Link1](http://eflnet.ir/Admin/Upload/Document/CompTIA_Network-plus-2009.pdf)
 

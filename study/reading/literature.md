@@ -3,7 +3,7 @@
   - [link1](https://www.anthropomada.com/bibliotheque/CAMUS-Letranger.pdf)
   - It's better to first know about what the book is about prior to devling into the world of French.
   - Fast reading session 10/97
-    - No looking up in the dictionary, just the plot.
+    - Just skimming forward, learn the plot, look up words in the dictionary as I please
   - Word for word: 1/97
     - Should probably not do that
 

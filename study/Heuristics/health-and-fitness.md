@@ -45,6 +45,7 @@
         - [Muscle stretch](#muscle-stretch)
       - [Sauna](#sauna)
       - [Promiscuity-related methods](#promiscuity-related-methods)
+  - [Somatization disorder](#somatization-disorder)
 - [Martial art](#martial-art)
   - [Boxing](#boxing)
   - [Muay Thai](#muay-thai)
@@ -210,6 +211,8 @@ Remedy
 #### Sauna
 [Cardiovascular and Other Health Benefits of Sauna Bathing: A Review of the Evidence - J.A.Laukkanen](https://www.mayoclinicproceedings.org/article/S0025-6196(18)30275-1/fulltext)
 #### Promiscuity-related methods
+
+## Somatization disorder
 
 # Martial art
 ## Boxing

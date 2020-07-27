@@ -7,10 +7,27 @@
   - [Document Tree](#document-tree)
     - [Shadow DOM](#shadow-dom)
     - [Shadow Tree](#shadow-tree)
-    - [TreeWalker](#treewalker)
-      - [List of operations](#list-of-operations)
-        - [Create a treewalker](#create-a-treewalker)
-      - [Usage](#usage)
+  - [TreeWalker](#treewalker)
+    - [Methods](#methods)
+      - [Init](#init)
+        - [```Document.createTreeWalker```](#documentcreatetreewalker)
+        - [```TreeWalker.filter```](#treewalkerfilter)
+        - [```TreeWalker.whatToShow```](#treewalkerwhattoshow)
+      - [Navigation](#navigation)
+        - [```TreeWalker.currentNode```](#treewalkercurrentnode)
+        - [```TreeWalker.firstChild()```](#treewalkerfirstchild)
+        - [```TreeWalker.lastChild()```](#treewalkerlastchild)
+        - [```TreeWalker.nextNode()```](#treewalkernextnode)
+        - [```TreeWalker.nextSibling()```](#treewalkernextsibling)
+        - [```TreeWalker.parentNode()```](#treewalkerparentnode)
+        - [```TreeWalker.previousNode()```](#treewalkerpreviousnode)
+        - [```TreeWalker.previousSibling()```](#treewalkerprevioussibling)
+    - [List of operations](#list-of-operations)
+      - [Create a treewalker](#create-a-treewalker)
+      - [Selection](#selection)
+        - [Select elements of the same class](#select-elements-of-the-same-class)
+        - [Select all the 'a' tags in the body](#select-all-the-a-tags-in-the-body)
+      - [CRUD](#crud)
   - [Events](#events)
   - [Page properties](#page-properties)
   - [```Node```-related methods](#node-related-methods)
@@ -22,7 +39,7 @@
   - [Tree](#tree)
     - [```document.body```](#documentbody)
   - [With other APIs](#with-other-apis)
-    - [```document.createTreeWalker()```](#documentcreatetreewalker)
+    - [```document.createTreeWalker()```](#documentcreatetreewalker-1)
     - [```document.createNodeIterator()```](#documentcreatenodeiterator)
 - [Node](#node)
   - [Document type node](#document-type-node)
@@ -43,7 +60,7 @@
       - [```Node.replaceChild(newCh, oldCh)``` - replace(n, o)](#nodereplacechildnewch-oldch---replacen-o)
     - [Clone](#clone)
       - [```Node.cloneNode([deep])``` - deepClone()](#nodeclonenodedeep---deepclone)
-  - [Selection](#selection)
+  - [Selection](#selection-1)
     - [```Node.ChildNode```](#nodechildnode)
     - [```Node.ParentNode```](#nodeparentnode)
     - [NodeFilter](#nodefilter)
@@ -51,10 +68,10 @@
     - [NodeIterator](#nodeiterator)
     - [```NonDocumentTypeChildNode.nextElementSibling``` - >SelectNext](#nondocumenttypechildnodenextelementsibling---selectnext)
     - [```NonDocumentTypeChildNode.previousElementSibling``` - >SelectPrev](#nondocumenttypechildnodepreviouselementsibling---selectprev)
-      - [Usage](#usage-1)
+      - [Usage](#usage)
   - [Query](#query)
     - [NodeList](#nodelist)
-      - [Usage](#usage-2)
+      - [Usage](#usage-1)
 - [Window](#window)
   - [Difference between ```window``` and ```document```](#difference-between-window-and-document)
 - [DOMTimeStamp](#domtimestamp)
@@ -86,9 +103,9 @@
     - [Resource](#resource)
   - [Event Target](#event-target)
 - [Operations](#operations)
-  - [Navigation](#navigation)
+  - [Navigation](#navigation-1)
     - [Node tree](#node-tree)
-  - [Selection](#selection-1)
+  - [Selection](#selection-2)
     - [Get multiple elements](#get-multiple-elements)
       - [```Array.from```](#arrayfrom)
 - [Resource](#resource-1)
@@ -103,9 +120,23 @@ Tip:
 ### Shadow DOM
 [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 ### Shadow Tree
-### TreeWalker
-#### List of operations
-##### Create a treewalker
+## TreeWalker
+### Methods
+#### Init
+##### ```Document.createTreeWalker```
+##### ```TreeWalker.filter```
+##### ```TreeWalker.whatToShow```
+#### Navigation
+##### ```TreeWalker.currentNode```
+##### ```TreeWalker.firstChild()```
+##### ```TreeWalker.lastChild()```
+##### ```TreeWalker.nextNode()```
+##### ```TreeWalker.nextSibling()```
+##### ```TreeWalker.parentNode()```
+##### ```TreeWalker.previousNode()```
+##### ```TreeWalker.previousSibling()```
+### List of operations
+#### Create a treewalker
 ```javascript
 
 /*
@@ -116,15 +147,42 @@ document.createTreeWalker(root, whatToShow[, filter[, entityReferenceExpansion]]
   - RTFM for more
   - https://developer.mozilla.org/en-US/docs/Web/API/Document/createTreeWalker
 - filter --> NodeFilter
-*/
-let treewalker = document.createTreeWalker(
+- entityReferenceExpansion --> Obsolete, just set to false
+Explore it in the chrome console.
 
+*/
+let treeWalker = document.createTreeWalker(
+  document.body,
+  NodeFilter.SHOW_ELEMENT,
+  { acceptNode: function(node) { return NodeFilter.FILTER_ACCEPT; } },
+  false
 )
+
+// Push all of the page elements into an array
+let nodeList = [];
+let currentNode = treeWalker.currentNode;
+
+while(currentNode) {
+  nodeList.push(currentNode);
+  currentNode = treeWalker.nextNode();
+}
+```
+#### Selection
+##### Select elements of the same class
+```javascript
+// Other codes the same 
+const classNameYouWant = "classNameYouWant";
+while(currentNode) {
+  if(currentNode.class === classNameYouWant) {
+    nodeList.push(currentNode);
+  }
+  currentNode = treeWalker.nextNode();
+}
 ```
 
-#### Usage
+##### Select all the 'a' tags in the body
+#### CRUD
 
-Create a treewalker that traverse 
 
 ## Events
 ## Page properties

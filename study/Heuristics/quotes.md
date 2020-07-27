@@ -1,3 +1,6 @@
+# Engineering
+- Understanding(an analog design) is like understanding a language. It doesn't take long to look at a schematic and know what it is all about if you know the language.  --- Bob Dobkin, VP, Engineering, Maxim Integrated Circuits, Designer of the LM118 Op Amp
+
 # Computer
 - Reading about nature is fine, but if a person walks in the woods and listens carefully, they can learn more than what is in books. --- George Washington Carver
 

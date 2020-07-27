@@ -1,0 +1,1 @@
+Ternary expression combined with ```++```,```--```, ```+=``` etc.

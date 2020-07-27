@@ -21,7 +21,12 @@
     - [```v-else```](#v-else)
     - [```v-else-if```](#v-else-if)
     - [```v-for```](#v-for)
-    - [```v-on```](#v-on)
+    - [```v-on``` or ```@```](#v-on-or-)
+      - [```@mousemove.stop```](#mousemovestop)
+      - [```@mousemove.prevent```](#mousemoveprevent)
+      - [```@submit.prevent```](#submitprevent)
+      - [```@click.once```](#clickonce)
+      - [```@click.native```](#clicknative)
     - [```v-bind``` or ```:```](#v-bind-or-)
     - [```v-model```](#v-model)
       - [Basics](#basics)
@@ -139,7 +144,11 @@ new Vue({
 
 ## All directives
 ### ```v-text```
+- Similar to ```{{}}```
 ### ```v-html```
+- Great for strings that have html elements that need to be rendered.
+- Don't use it for user-generated content(security issue)
+- ```[data name] : `[html code]` ``` --> ```data``` object --> ```Element with v-html``` --> render html in ``` `[html code]` ```
 ### ```v-show```
 - Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components
 - ```v-show``` will render ```false``` state to ```display: none```
@@ -178,7 +187,23 @@ new Vue({
 ### ```v-for```
 - Similar to ```for in```
 - Loops through a set of values(e.g. item in items, num in 5)
-### ```v-on```
+### ```v-on``` or ```@```
+- Extremely useful so there's a shortcut
+- Great for binding to events like click and mouseenter.
+- Able to pass in a parameter for the event like ```(e)```
+- Can use ternaries directly
+- ```@[event]="[" --> [expression] == true ? [execusion```
+
+#### ```@mousemove.stop```
+- Comparable to ```e.stopPropogation()```
+#### ```@mousemove.prevent```
+- Like ```e.preventDefault()```
+#### ```@submit.prevent```
+- No longer reload the page on submission
+#### ```@click.once```
+- This click event will be triggered once.(Not element being rendered once)
+#### ```@click.native```
+- Listen to native events in the DOM
 ### ```v-bind``` or ```:```
 - ```:[attribute] = [Js expression]``` or ```v-bind:[attribute]=[Js expression]``` use JavaScript expression to dynamically bind to the element attribute like ```class```, ```style``` etc.
 - One of the most useful directives so there's a shortcut.

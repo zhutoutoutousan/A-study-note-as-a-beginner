@@ -22,13 +22,13 @@
     - [```v-else-if```](#v-else-if)
     - [```v-for```](#v-for)
     - [```v-on```](#v-on)
-    - [```v-bind```](#v-bind)
+    - [```v-bind``` or ```:```](#v-bind-or-)
     - [```v-model```](#v-model)
       - [Basics](#basics)
       - [```v-model.trim```](#v-modeltrim)
       - [```v-model.number```](#v-modelnumber)
       - [```v-model.lazy```](#v-modellazy)
-    - [```v-pre```](#v-pre)
+    - [```v-pre``` --> Documentation](#v-pre----documentation)
     - [```v-cloak```](#v-cloak)
     - [```v-once```](#v-once)
     - [Custom directive](#custom-directive)
@@ -64,7 +64,18 @@ new Vue({
 ## Objects
 ### el
 ### Data
+```javascript
+new Vue({
+  // ...,
+  data() {
+    return {
+      key: 'value',
+      func1: (input) => input * 2,
+    }
+  }
+})
 
+```
 # Vue directive
 - This section is better categorized by the types of utility
 - Different utilities may require different combos of directives.
@@ -131,15 +142,88 @@ new Vue({
 ### ```v-html```
 ### ```v-show```
 - Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components
+- ```v-show``` will render ```false``` state to ```display: none```
+- Good for some components that the users use a lot for it's faster
 ### ```v-if```
-- Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components
+- Is a conditional that will display information depending on meeting a requirement. This can be anything - buttons, forms, divs or components, or some ```variables``` in the ```data``` object 
+- ```v-if``` will render ```false``` state to empty html comment(full rendering in the ```true``` state)
+- Useful when using full component/template that only shows in specific circumstances(saving load time)
 ### ```v-else```
+- Conditional rendering
+```html
+<!-- 
+  new Vue({
+    el: "app",
+    data: {
+      suck: false
+    }
+  })
+
+ -->
+<div id="app">
+  <h3>Do you suck dicks?</h3>
+  <input type="radio" id="yes" value="yes" v-model="suck">
+  <label for="yes">yes</label>
+  <br>
+  <input type="radio" id="no" value="no" v-model="suck">
+  <label for="no">no</label> 
+  <br>
+  <div v-if="suck">
+    <p v-if="suck === 'yes'" class="thumbs">&#128077;</p>
+    <p v-else> Go ahead!!! :P</p>
+  </div>
+</div>
+```
 ### ```v-else-if```
 ### ```v-for```
 - Similar to ```for in```
 - Loops through a set of values(e.g. item in items, num in 5)
 ### ```v-on```
-### ```v-bind```
+### ```v-bind``` or ```:```
+- ```:[attribute] = [Js expression]``` or ```v-bind:[attribute]=[Js expression]``` use JavaScript expression to dynamically bind to the element attribute like ```class```, ```style``` etc.
+- One of the most useful directives so there's a shortcut.
+- Used for:
+  - class/style binding
+  - creating dynamic props
+```html
+<div id="app">
+  <h3>Who is your favorite Japanses porn star?</h3>
+  <textarea v-model="pornstar"></textarea>
+  <br>
+  <button :class="pornstar ? activeClass : ''">Let us know!</button>
+</div>
+
+```
+```css
+body {
+  font-family: 'Bitter', serif;
+}
+
+#app {
+  text-align: center;
+  padding: 70px;
+  max-width: 360px;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+button.active {
+  background: orangered;
+}
+```
+
+
+```javascript
+new Vue({
+  el: "#app",
+  data() {
+    return {
+      pornstar: '',
+      activeClass: 'active'
+    }
+  }
+})
+```
 ### ```v-model```
 #### Basics
 Creates a relationship between the data in the instance/component and a form input, so you can dynamically update values
@@ -182,9 +266,11 @@ new Vue({
 - changes strings to number inputs
 #### ```v-model.lazy```
 - won't populate the content automatically, will wait to bind until an event happens(It listens to change events instead of input)
-### ```v-pre```
+### ```v-pre``` --> Documentation
+- ```v-pre``` will print out the inner text exactly how it is, including code(good for documentation)
 ### ```v-cloak```
 ### ```v-once```
+- Not quite as useful, ```v-once``` will not update once it's been rendered.
 ### Custom directive
 ### Resource
 

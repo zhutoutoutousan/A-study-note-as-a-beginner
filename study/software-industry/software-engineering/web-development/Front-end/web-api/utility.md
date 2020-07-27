@@ -150,6 +150,7 @@ document.createTreeWalker(root, whatToShow[, filter[, entityReferenceExpansion]]
 - entityReferenceExpansion --> Obsolete, just set to false
 Explore it in the chrome console.
 
+After initialization, further operations can be done with the Node API.
 */
 let treeWalker = document.createTreeWalker(
   document.body,

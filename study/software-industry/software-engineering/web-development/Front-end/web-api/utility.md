@@ -8,6 +8,9 @@
     - [Shadow DOM](#shadow-dom)
     - [Shadow Tree](#shadow-tree)
     - [TreeWalker](#treewalker)
+      - [List of operations](#list-of-operations)
+        - [Create a treewalker](#create-a-treewalker)
+      - [Usage](#usage)
   - [Events](#events)
   - [Page properties](#page-properties)
   - [```Node```-related methods](#node-related-methods)
@@ -18,6 +21,9 @@
     - [```document.createElement()```](#documentcreateelement)
   - [Tree](#tree)
     - [```document.body```](#documentbody)
+  - [With other APIs](#with-other-apis)
+    - [```document.createTreeWalker()```](#documentcreatetreewalker)
+    - [```document.createNodeIterator()```](#documentcreatenodeiterator)
 - [Node](#node)
   - [Document type node](#document-type-node)
   - [Non-document type node](#non-document-type-node)
@@ -41,13 +47,14 @@
     - [```Node.ChildNode```](#nodechildnode)
     - [```Node.ParentNode```](#nodeparentnode)
     - [NodeFilter](#nodefilter)
+      - [```Node.filter.acceptNode()```](#nodefilteracceptnode)
     - [NodeIterator](#nodeiterator)
     - [```NonDocumentTypeChildNode.nextElementSibling``` - >SelectNext](#nondocumenttypechildnodenextelementsibling---selectnext)
     - [```NonDocumentTypeChildNode.previousElementSibling``` - >SelectPrev](#nondocumenttypechildnodepreviouselementsibling---selectprev)
-      - [Usage](#usage)
+      - [Usage](#usage-1)
   - [Query](#query)
     - [NodeList](#nodelist)
-      - [Usage](#usage-1)
+      - [Usage](#usage-2)
 - [Window](#window)
   - [Difference between ```window``` and ```document```](#difference-between-window-and-document)
 - [DOMTimeStamp](#domtimestamp)
@@ -97,6 +104,28 @@ Tip:
 [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 ### Shadow Tree
 ### TreeWalker
+#### List of operations
+##### Create a treewalker
+```javascript
+
+/*
+document.createTreeWalker(root, whatToShow[, filter[, entityReferenceExpansion]])
+- root: A root Node of this TreeWalker traversal, e.g. document.body
+- whatToShow: 
+  - unsigned long
+  - RTFM for more
+  - https://developer.mozilla.org/en-US/docs/Web/API/Document/createTreeWalker
+- filter --> NodeFilter
+*/
+let treewalker = document.createTreeWalker(
+
+)
+```
+
+#### Usage
+
+Create a treewalker that traverse 
+
 ## Events
 ## Page properties
 ## ```Node```-related methods
@@ -111,6 +140,9 @@ Tip:
 const div = document.createElement('div');
 div.className = 'foo';
 ```
+## With other APIs
+### ```document.createTreeWalker()```
+### ```document.createNodeIterator()```
 # Node
 ## Document type node 
 ## Non-document type node
@@ -138,6 +170,7 @@ Exercise
 ### ```Node.ChildNode```
 ### ```Node.ParentNode```
 ### NodeFilter
+#### ```Node.filter.acceptNode()```
 ### NodeIterator
 ### ```NonDocumentTypeChildNode.nextElementSibling``` - >SelectNext
 ### ```NonDocumentTypeChildNode.previousElementSibling``` - >SelectPrev

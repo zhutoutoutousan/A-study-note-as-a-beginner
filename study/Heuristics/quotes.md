@@ -16,6 +16,7 @@
 
 # World
 - If anything can go wrong, it will. --- Murphy's law
+  - The only difference is whether you live to see it or not.
 
 # Health
 - Sleep that knits up the raveled sleeve of care, the death of each day's life, sore labor's bath, balm of hurt minds, great nature's second course, chief nourisher in life's feast. --- William Shakespeare *No fear Act2 Scene2*

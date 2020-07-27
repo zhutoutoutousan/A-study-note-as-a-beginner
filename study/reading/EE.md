@@ -25,7 +25,7 @@
 # Electronics
 - Analog Circuit Design - P.D Hiscocks
   - [Link 1](https://www.sphere.bc.ca/download/analog-circuit-design-hiscocks.pdf)
-  - Progress 1(For APS):
+  - Progress 1(For APS): 53/1194
 - The art and science of analog circuit design
   - [Link 1](https://doc.xdevs.com/doc/_Books/Jim_Williams_The_Art_and_Science_of_Analog_Circuit_Design.pdf)
 - 模拟电子技术基础(第四版)_华成英

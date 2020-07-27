@@ -99,6 +99,9 @@
     - [Cognitive enhancement](#cognitive-enhancement)
     - [Physical enhancement](#physical-enhancement)
     - [Side effects](#side-effects)
+  - [Work through underperforming pysiological or psychological states](#work-through-underperforming-pysiological-or-psychological-states)
+    - [Spirit](#spirit)
+    - [Arsenal](#arsenal)
   - [Disease](#disease)
     - [Malfunction recovery](#malfunction-recovery)
 - [Resources](#resources)
@@ -323,8 +326,19 @@ See:
 - BCAA
 - TRT
 - CrM
-
+- Anabolic Steroid
+  - Not applicable until reaching genetic limitations
 ### Side effects
+
+## Work through underperforming pysiological or psychological states
+### Spirit
+- Beyond willpower probably lies the motivation and drives
+- Find easy entries for stimulations like:
+  - Music
+  - Binaural beats
+- Stimulations first and see where it goes
+- The feeling of underperformance, rug, slug might be deceiving
+### Arsenal
 
 ## Disease
 ### Malfunction recovery

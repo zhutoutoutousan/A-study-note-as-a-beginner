@@ -57,7 +57,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Get familiar with the ideas
   - Resource provided in the book
     - [Pearson - CS resource](https://media.pearsoncmg.com/bc/abp/cs-resources/)
-    - [](http://gaia.cs.umass.edu/kurose_ross/interactive,)
+    - [Fuck](http://gaia.cs.umass.edu/kurose_ross/interactive,)
   - Prerequisites
     - Some C, C++ or Python
   - Process 1: Just skimming the introduction and gain a structural renognition of the subject 

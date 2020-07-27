@@ -12,7 +12,11 @@ Complete course:
 - CS50
   - [CS50 2019 - Lecture 0 - Computational Thinking, Scratch](https://www.youtube.com/watch?v=jjqgP9dpD1k) 18:03/1:02:25
     - At 1.5 speed
-# Progress track record
+
+- Algorithms Course - Graph Theory Tutorial from a Google Engineer
+  - [Link1](https://www.youtube.com/watch?v=09_LlHjoEiY&t=1001s)
+  - Progress 1(With note-taking): 0:00
+  - Progress 2(Anywhere): 17:20/7hrs
 
 # Building your roadmap
 [The map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)

@@ -16,9 +16,12 @@
 - I just got intimidated by the pedantic concept of **map**, I want to know what the fuss is about(Is it of any use seriously?). --- When I really got all the time and the world.
 - P.O.I: [Samuel Eilenberg](https://en.wikipedia.org/wiki/Samuel_Eilenberg)
 # Better resource and channels
+## Visual intelligence
 - 3BLUE1BROWN
   - Linear algebra visualization series
 
+## Competitive mathematics
+- Michael Penn
 
 # Resource
 - [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)

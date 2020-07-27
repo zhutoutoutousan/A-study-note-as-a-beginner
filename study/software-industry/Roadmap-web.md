@@ -112,6 +112,9 @@
   - Progress track: Vue directive 21min + 7min28s/ 5hrs
 - Advanced Vue.js Features from the Ground Up
   - More resources on Vue source code interpretation
+- TypeScript 3 Fundamentals, v2
+  - [Link](https://frontendmasters.com/courses/typescript-v2/)
+  - Progress: /4hrs
 
 ## Egghead($40/month)
 - RxJS Beyond the Basics: Creating Observables from scratch

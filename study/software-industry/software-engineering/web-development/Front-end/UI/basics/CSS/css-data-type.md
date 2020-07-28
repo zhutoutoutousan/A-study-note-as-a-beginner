@@ -15,12 +15,15 @@
   - [rem](#rem)
     - [Comparison between ```em``` and ```rem```](#comparison-between-em-and-rem)
   - [Reference](#reference)
+- [```<length-percentage>```](#length-percentage)
 - [```<number>```](#number)
 - [```<color>```](#color)
 - [```<image>```](#image)
   - [```url(<path>)```](#urlpath)
 - [```<position>```](#position)
 - [```<function>```](#function)
+- [```<angle>```](#angle)
+- [```<percentage>```](#percentage)
 # Mental model
 One of the goals is to instantly translate all the length units to how much space does it take on the screen.
 # Prerequisites
@@ -33,27 +36,26 @@ One of the goals is to instantly translate all the length units to how much spac
 ## Relative length units
 ### Viewport-percentage lengths
 #### vh
-Equal to 1% of the height of the viewport's initial containing block
+- Equal to 1% of the height of the viewport's initial containing block
 #### vm
 ## em
-Font size of the parent, in the case of typographical properties like ```font-size```, and font size of the element itself, in the case of other properties like ```width```.
+- Font size of the parent, in the case of typographical properties like ```font-size```, and font size of the element itself, in the case of other properties like ```width```.
 ## rem
 ### Comparison between ```em``` and ```rem```
 ```html
 <div class="col col--em">
     <h1>em</h1>
-    <p>All the font sizes in this column ar eset using ems.</p>
+    <p>All the font sizes in this column are  set using ems.</p>
 </div>
 ```
-
-
-
 
 For more see 
 - [CSS em and rem explained](https://www.youtube.com/watch?v=_-aDOAMmDHI)
 
 ## Reference
 [Css values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+
+# ```<length-percentage>```
 
 # ```<number>```
 
@@ -65,3 +67,6 @@ For more see
 
 # ```<function>```
 
+# ```<angle>```
+
+# ```<percentage>```

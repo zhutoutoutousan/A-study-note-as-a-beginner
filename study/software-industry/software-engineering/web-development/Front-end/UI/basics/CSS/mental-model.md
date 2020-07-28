@@ -35,6 +35,7 @@
 - [Initialization](#initialization)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
+  - [Rendering process](#rendering-process)
   - [Clock-wise](#clock-wise)
 - [Resource](#resource-1)
 # What CSS does
@@ -112,6 +113,8 @@ Think about every initial value as you can in CSS when you don't initialize in t
 
 # Animation
 # Mental model code connection
+## Rendering process
+- What appears later in the ```CSS``` code overwrites the former. The same to ```@media```
 ## Clock-wise
 
 

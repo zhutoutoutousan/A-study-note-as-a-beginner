@@ -61,6 +61,26 @@ Maintain a functional dexterity of the conceptual structure and terminologies
   - Examples discussing radians: **CM** p23
 ### Trignometry
 - $\cos^2{x}+\sin^2{x}=1$
+- Basic triangle model
+  - $\cos{\theta} = \frac{x}{r} = \frac{near\,side}{hypotenuse}$
+  - $\sin{\theta} = \frac{y}{r} = \frac{opposite\,side}{hypotenuse}$
+  - $\tan{\theta} = \frac{y}{x} = \frac{opposite\,side}{near\,side}$
+  - $\sec{\theta} = \frac{r}{x} = \frac{1}{\cos{\theta}}$
+  - $\csc{\theta} = \frac{r}{y} = \frac{1}{\sin{\theta}}$
+  - $\cot{\theta} = \frac{x}{y} = \frac{1}{\tan{\theta}}$
+```javascript
+/*
+        /|
+       / |
+    r /  | y
+     /   |
+    /_th_|      th: \theta
+      x
+*/
+```
+- Trigonometry <--> circle: CM-P36
+  - [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
+  - [Trigonometry - Easy to understand 3D animation](https://www.youtube.com/watch?v=ovLbCvq7FNA)
 ### Real-world recognition
 - The surface area of a sphere: $S=4\pi r^2$
 
@@ -83,7 +103,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - ${(\cot{x})}^{'}={-\csc^2{x}}$
 - ${(\sinh{x})}^{'}={\cosh{x}}$
 - ${(\cosh{x})}^{'}={\sinh{x}}$
-- $\log_a{x}=\frac{\log_a{e}}{x}$
+- ${(\log_a{x})}^{'}=\frac{\log_a{e}}{x}$
 
 ### Integration
 - $\int kdx = kx+C$(k is constant)
@@ -117,4 +137,4 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 
 
 # Book Entry
-- CM:[Calculus - MIT](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+- CM: [Calculus - MIT](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)

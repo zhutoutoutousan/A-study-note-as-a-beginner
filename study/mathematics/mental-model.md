@@ -51,6 +51,8 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 ### Training
 ### Resource
 - 3BLUE1BROWN series
+- Physics Videos by Eugene Khutoryansky
+
 ## Geology
 ### General
 - General equation of a circle with the radius $R$: $x^2+y^2 = R^2$
@@ -64,10 +66,10 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - Basic triangle model
   - $\cos{\theta} = \frac{x}{r} = \frac{near\,side}{hypotenuse}$
   - $\sin{\theta} = \frac{y}{r} = \frac{opposite\,side}{hypotenuse}$
-  - $\tan{\theta} = \frac{y}{x} = \frac{opposite\,side}{near\,side}$
+  - $\tan{\theta} = \frac{y}{x} = \frac{opposite\,side}{near\,side}=\frac{\sin{\theta}}{\cos{\theta}}$
   - $\sec{\theta} = \frac{r}{x} = \frac{1}{\cos{\theta}}$
   - $\csc{\theta} = \frac{r}{y} = \frac{1}{\sin{\theta}}$
-  - $\cot{\theta} = \frac{x}{y} = \frac{1}{\tan{\theta}}$
+  - $\cot{\theta} = \frac{x}{y} = \frac{1}{\tan{\theta}}=\frac{\cos{\theta}}{\sin{\theta}}$
 ```javascript
 /*
         /|
@@ -78,9 +80,24 @@ Maintain a functional dexterity of the conceptual structure and terminologies
       x
 */
 ```
-- Trigonometry <--> circle: CM-P36
+- Trigonometry visualization
   - [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
   - [Trigonometry - Easy to understand 3D animation](https://www.youtube.com/watch?v=ovLbCvq7FNA)
+    - 14:00 3-D display
+- The law of Cosines: $A^2+B^2=C^2-2AB\cos{\Psi}$ <-- All triangles: $A-\angle \Psi-B$
+- The law of Sines: $\frac{\sin{\theta_A}}{A}=\frac{\sin{\theta_B}}{B}=\frac{\sin{\theta_C}}{C}$ <-- All triangles, $\angle \theta_A  <-- opposite side --> A$
+- Advanced proficiencies
+  - [List of trigonometric identities](https://en.wikipedia.org/wiki/List_of_trigonometric_identities)
+  - Periodcity Identities
+    - Just imagine using 
+  - Common trigonometry values
+  - Sum & difference identities
+  - Double angle identities
+  - Triple angle identities
+  - Half angle identities
+  - Product identities
+  - Sum to Product identities
+  - Inverse Trigonometry 
 ### Real-world recognition
 - The surface area of a sphere: $S=4\pi r^2$
 

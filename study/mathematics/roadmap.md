@@ -19,7 +19,9 @@
 ## Visual intelligence
 - 3BLUE1BROWN
   - Linear algebra visualization series
-
+## Subjects
+### Trigonometry
+- [List of trigonometric identities](https://en.wikipedia.org/wiki/List_of_trigonometric_identities#Linear_combinations)
 ## Competitive mathematics
 - Michael Penn
 

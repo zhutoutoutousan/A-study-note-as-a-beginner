@@ -83,6 +83,7 @@ Set the width value, then set ```margin-horizontal``` to ```auto```
 #### Element width and height fixed?
 Use of negative margins equal to half of that width and height, then position it at 50%/50% will center it with great cross browser support.
 - Nope it doesn't work * 1
+- Maybe the ```body``` and ```html``` need to set: ```height: 100%```
 ```css
 :root {
 --set-width: 300px;

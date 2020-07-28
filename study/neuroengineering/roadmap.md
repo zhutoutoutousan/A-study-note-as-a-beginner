@@ -12,5 +12,9 @@
 ## Related technical difficulties
 
 
+# Peripheral resource
+## Human behavioral biology
+[1. Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+
 # Resource
 [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)

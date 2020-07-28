@@ -1,11 +1,27 @@
 # Table of Contents
-\- [Table of Contents](#table-of-contents)
 - [Table of Contents](#table-of-contents)
 - [Postitioning](#postitioning)
   - [Centering](#centering)
+    - [Tutorials](#tutorials)
     - [Horizontal](#horizontal)
+      - [```inline``` or ```inline-*``` elements(text or links)](#inline-or-inline--elementstext-or-links)
+      - [Block level element](#block-level-element)
+      - [Multiple block level elements](#multiple-block-level-elements)
     - [Vertical](#vertical)
+      - [```inline``` or ```inline-*``` elements](#inline-or-inline--elements)
+        - [single line](#single-line)
+        - [multiple line](#multiple-line)
+      - [block-level elements](#block-level-elements)
+        - [Known height or height unknown?](#known-height-or-height-unknown)
+        - [Mind if Elements stretches the height of the container?](#mind-if-elements-stretches-the-height-of-the-container)
+        - [Use of flexbox](#use-of-flexbox)
     - [Horizontal and vertical](#horizontal-and-vertical)
+      - [Element width and height fixed?](#element-width-and-height-fixed)
+      - [Element width and height known?](#element-width-and-height-known)
+      - [Use of flexbox](#use-of-flexbox-1)
+      - [Use of grid](#use-of-grid)
+    - [Combos to use](#combos-to-use)
+    - [Related CSS rules](#related-css-rules)
 - [Animation](#animation)
   - [Maneuver](#maneuver)
     - [Inheritance](#inheritance)
@@ -26,14 +42,45 @@
 
 # Postitioning
 ## Centering
+### Tutorials
 - Centering is hard
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [【基础】这15种CSS居中的方式，你都用过哪几种？](https://segmentfault.com/a/1190000013966650)
 - [Centering with CSS](https://www.youtube.com/watch?v=hIG-fZ2042k)
 - [5 ways to vertically center with CSS](https://www.youtube.com/watch?v=qJVVZYTYA9U)
 ### Horizontal
+#### ```inline``` or ```inline-*``` elements(text or links)
+Use ```text-align```. Works for ```inline```,```inline-block```,```inline-table```,```inline-flex```, etc.
+```css
+.center-children {
+  text-align: center;
+}
+```
+#### Block level element
+Set the width value, then set ```margin-horizontal``` to ```auto```
+```css
+.center-me {
+  width: var(--set-value);
+  margin: 0 auto;
+}
+```
+#### Multiple block level elements
 ### Vertical
+#### ```inline``` or ```inline-*``` elements
+##### single line
+##### multiple line
+#### block-level elements
+##### Known height or height unknown?
+##### Mind if Elements stretches the height of the container?
+##### Use of flexbox
 ### Horizontal and vertical
+#### Element width and height fixed?
+#### Element width and height known?
+#### Use of flexbox
+#### Use of grid
+
+### Combos to use
+### Related CSS rules
 
 # Animation
 ## Maneuver

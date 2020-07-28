@@ -123,10 +123,6 @@ div#app ------------------>   span v-for[option]--label
         |                            |
         |_____ options[Objects*4]----|
 
-
-TODO: Finish this graph later
-- :id?
-- :value?
 */
 new Vue({
     el: '#app',
@@ -144,7 +140,7 @@ new Vue({
 
 ## All directives
 ### ```v-text```
-- Similar to ```{{}}```
+- Similar to ```{{  }}```
 ### ```v-html```
 - Great for strings that have html elements that need to be rendered.
 - Don't use it for user-generated content(security issue)

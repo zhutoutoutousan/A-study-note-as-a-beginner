@@ -10,6 +10,7 @@
     - [CSS](#css)
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
+    - [Code style](#code-style)
     - [Reference](#reference)
   - [Back-end](#back-end)
 - [Main study resource track](#main-study-resource-track)
@@ -25,6 +26,7 @@
     - [Traversy Media](#traversy-media)
     - [Coding Tech](#coding-tech)
     - [Jsconf](#jsconf)
+    - [Code inspire](#code-inspire)
   - [Github](#github)
     - [Jason Miller](#jason-miller)
   - [JavaScript Weekly](#javascript-weekly)
@@ -68,6 +70,9 @@
 [Codepen](https://codepen.io/)
 ### JavaScript
 [Object-Playground](http://www.objectplayground.com/)
+### Code style
+- Uncle Bob
+
 ### Reference
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  
 [我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
@@ -134,6 +139,8 @@
 ### Traversy Media
 ### Coding Tech
 ### Jsconf
+### Code inspire
+- [Let's Build a Multi-Purpose Laravel + Vue Application](https://www.youtube.com/watch?v=wM4L_yDGqpo&list=PLB4AdipoHpxaHDLIaMdtro1eXnQtl_UvE)
 ## Github
 ### Jason Miller
 [github](https://github.com/developit?tab=repositories)

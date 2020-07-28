@@ -18,6 +18,11 @@
     - [Linear algebra](#linear-algebra)
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
+  - [S](#s)
+    - [Skew-Symmetric Matrice](#skew-symmetric-matrice)
+    - [Symmetric Matrice](#symmetric-matrice)
+  - [T](#t)
+    - [Transposition](#transposition)
   - [V](#v)
     - [Vector](#vector)
 - [EN-GE-CH](#en-ge-ch)
@@ -119,6 +124,27 @@ $$
 
 ### Linear transformation
 
+## S
+### Skew-Symmetric Matrice
+### Symmetric Matrice
+
+## T
+### Transposition
+- The transpose of an $m\times n$ matrix $\bold{A} = [a_{jk}]$ is the $n\times m$ matrix ${\bold{A}}^\top$(read *A tranpose*) that has the first *row* of $\bold{A}$ as its first column, the second *row* of $\bold{A}$ as its second *column*, and so on. Thus the transpose of $\bold{A} = [a_{jk}]$ is ${\bold{A}}^\top=[a_{kj}]$.
+
+$$
+{\bold{A}}^\top = [a_{kj}] = \begin{bmatrix}
+a_{11} & a_{21} & ... & a_{m1}\\
+a_{12} & a_{22} & ... & a_{m2}\\
+. & . & ... & a_{m1}\\
+a_{1n} & a_{2n} & ... & a_{mn}
+\end{bmatrix}
+$$
+
+- ${({\bold{A}}^\top)}^\top = \bold{A}$
+- ${(\bold{A}+\bold{B})}^\top={\bold{A}}^\top + {\bold{B}}^\top$
+- ${(c\bold{A})}^\top = c{\bold{A}}^\top$
+- ${(\bold{A}\bold{B})}^\top={\bold{B}}^\top {\bold{A}}^\top$
 ## V
 ### Vector
 - A **vector** is a matrix with only one row or column. Its **entries** are called the **components** of the vector.

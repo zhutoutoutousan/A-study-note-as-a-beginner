@@ -4,6 +4,7 @@
   - [C](#c)
     - [Congruence](#congruence)
   - [D](#d)
+    - [Diagonal Matrix](#diagonal-matrix)
     - [Differentiation](#differentiation)
     - [Differential calculus](#differential-calculus)
     - [Differential equation](#differential-equation)
@@ -11,7 +12,6 @@
     - [Integral calculus](#integral-calculus)
   - [M](#m)
     - [Map](#map)
-    - [Matrice](#matrice)
     - [Matrix](#matrix)
     - [Modeling](#modeling)
   - [L](#l)
@@ -19,10 +19,11 @@
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
   - [S](#s)
-    - [Skew-Symmetric Matrice](#skew-symmetric-matrice)
-    - [Symmetric Matrice](#symmetric-matrice)
+    - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
+    - [Symmetric Matrix](#symmetric-matrix)
   - [T](#t)
     - [Transposition](#transposition)
+    - [Triangular Matrix](#triangular-matrix)
   - [V](#v)
     - [Vector](#vector)
 - [EN-GE-CH](#en-ge-ch)
@@ -34,6 +35,7 @@
 ### Congruence
 - 相似三角形
 ## D
+### Diagonal Matrix
 ### Differentiation
 ### Differential calculus
 ### Differential equation
@@ -48,12 +50,12 @@
     - 对应法则$f$,使对每个$x\in X$，有唯一确定的$y=f(x)$与之对应
   - 对每个$x\in X$,元素$x$的像y是唯一的；而对每个$y\in R_f$,元素$y$的原像不一定是唯一的；映射$f$的值域$R_f$是$Y$的一个子集，即$R_f\subset Y$,不一定$R_f=Y$
   - Dude, isn't this a bit pedantic? And a bit of mouthful?
-### Matrice
+
+### Matrix
 - **Matrices** are rectangular arrays of numbers or functions, and **vectors** are the main tools of linear algebra. It is important for it let us express large amount of data and functions in an organized and concise form.
 - Matrices are single objects, denoted by single letters and calculated directly
 - Matrices are very popular for expressing scientific and mathematical ideas.
 
-### Matrix
 - Matrices are denoted by capital boldface letters $\bold{A},\bold{B}, \bold{C},...$, or by writing the general entry in brackets; thus $\bold{A} = [a_{jk}]$, and so on. A matrix with *m* rows and *n* columns can be denoted by $\bold{m}\bold{\times}\bold{n}$ **matrix**. The size of the matrix is $m\times n$. You can also say 'some matrices are of sizes $a\times b, c\times d...$'.
 - A **matrix** is a rectangular array of numbers or functions enclosed in brackets. The numbers(or functions) are called **entries** or, less commonly, *elements* of the matrix.
 - Some descriptors like **rows** and **columns**, **indices**, **main diagonal**.
@@ -125,12 +127,38 @@ $$
 ### Linear transformation
 
 ## S
-### Skew-Symmetric Matrice
-### Symmetric Matrice
+### Skew-Symmetric Matrix
+- **Skew-symmetric** matrices are square matrices whose transpose equals **minus** the matrix.
+- Let's say $\bold{A}$ is a skew-symmetric Matrice.
+- ${\bold{A}}^\top= -\bold{A}$(thus $a_{kj}=-a_{jk}$, hence $a_{jj}=0$)
+- Example
+
+$$
+\begin{bmatrix}
+0 & 1 & -3\\
+-1 & 0 & -2\\
+3 & 2 & 0
+\end{bmatrix}
+$$
+
+### Symmetric Matrix
+- **Symmetric** matrices are square matrices whose transpose equals the matrix itself.
+- Let's say $\bold{A}$ is a symmetric Matrice.
+- ${\bold{A}}^\top= \bold{A}$(thus $a_{kj}=a_{jk}$)
+- Example
+
+$$
+\begin{bmatrix}
+20 & 120 & 200\\
+120 & 10 & 150\\
+200 & 150 & 30
+\end{bmatrix}
+$$
 
 ## T
 ### Transposition
 - The transpose of an $m\times n$ matrix $\bold{A} = [a_{jk}]$ is the $n\times m$ matrix ${\bold{A}}^\top$(read *A tranpose*) that has the first *row* of $\bold{A}$ as its first column, the second *row* of $\bold{A}$ as its second *column*, and so on. Thus the transpose of $\bold{A} = [a_{jk}]$ is ${\bold{A}}^\top=[a_{kj}]$.
+- Example
 
 $$
 {\bold{A}}^\top = [a_{kj}] = \begin{bmatrix}
@@ -145,6 +173,8 @@ $$
 - ${(\bold{A}+\bold{B})}^\top={\bold{A}}^\top + {\bold{B}}^\top$
 - ${(c\bold{A})}^\top = c{\bold{A}}^\top$
 - ${(\bold{A}\bold{B})}^\top={\bold{B}}^\top {\bold{A}}^\top$
+### Triangular Matrix
+
 ## V
 ### Vector
 - A **vector** is a matrix with only one row or column. Its **entries** are called the **components** of the vector.

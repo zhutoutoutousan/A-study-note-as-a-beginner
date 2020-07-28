@@ -30,12 +30,17 @@
     - [Relative](#relative)
     - [Sticky](#sticky)
     - [Resource](#resource)
-- [Cascade and inheritance](#cascade-and-inheritance)
-  - [Positioning, parents](#positioning-parents)
-- [Initialization](#initialization)
+- [CSS itself](#css-itself)
+- [Function-oriented styling](#function-oriented-styling)
+- [CSS Initialization](#css-initialization)
+  - [body, html](#body-html)
+  - [div](#div)
+  - [img](#img)
+  - [span](#span)
+  - [h](#h)
 - [Animation](#animation)
 - [Mental model code connection](#mental-model-code-connection)
-  - [Rendering process](#rendering-process)
+- [CSS Rendering process](#css-rendering-process)
   - [Clock-wise](#clock-wise)
 - [Resource](#resource-1)
 # What CSS does
@@ -103,17 +108,28 @@ Imagine the component is sticked to its initial position on the screen whenever 
 For more on box, check out
 [MDN - position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
-# Cascade and inheritance
-## Positioning, parents
+# CSS itself
 
-# Initialization
+# Function-oriented styling
+- Centering
+  -  Tricks-dense, any understandings?
+
+# CSS Initialization
 Think about every initial value as you can in CSS when you don't initialize in the rules. What difference will it make?
 - Padding: 0px 0px 0px 0px
+## body, html
+- ```height``` of ```body``` is minimum if not initialized to 100%
+```css
 
+```
+## div
+## img
+## span
+## h
 
 # Animation
 # Mental model code connection
-## Rendering process
+# CSS Rendering process
 - What appears later in the ```CSS``` code overwrites the former. The same to ```@media```
 ## Clock-wise
 

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Postitioning](#postitioning)
+  - [Individualistic positioning](#individualistic-positioning)
   - [Centering](#centering)
     - [Related projects](#related-projects)
     - [Tutorials](#tutorials)
@@ -38,10 +39,12 @@
 - [Shape](#shape)
   - [Circle](#circle)
     - [```border-radius```](#border-radius)
-- [Mobile version](#mobile-version)
+- [Cross-platform support](#cross-platform-support)
   - [Media query](#media-query)
 
 # Postitioning
+## Individualistic positioning
+- [Absolutely positioned element going off screen when filled](https://stackoverflow.com/questions/12850531/absolutely-positioned-element-going-off-screen-when-filled)
 ## Centering
 ### Related projects
 - Hero image
@@ -144,5 +147,6 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 ### ```border-radius```
 
 
-# Mobile version
+# Cross-platform support
 ## Media query
+- For basics, check [CSS-@](./css-at-rules.md)

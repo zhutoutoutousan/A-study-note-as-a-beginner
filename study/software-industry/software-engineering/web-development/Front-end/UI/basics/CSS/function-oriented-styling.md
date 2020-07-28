@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Postitioning](#postitioning)
   - [Centering](#centering)
+    - [Related projects](#related-projects)
     - [Tutorials](#tutorials)
     - [Horizontal](#horizontal)
       - [```inline``` or ```inline-*``` elements(text or links)](#inline-or-inline--elementstext-or-links)
@@ -42,6 +43,8 @@
 
 # Postitioning
 ## Centering
+### Related projects
+- Hero image
 ### Tutorials
 - Centering is hard
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
@@ -75,6 +78,36 @@ Set the width value, then set ```margin-horizontal``` to ```auto```
 ##### Use of flexbox
 ### Horizontal and vertical
 #### Element width and height fixed?
+Use of negative margins equal to half of that width and height, then position it at 50%/50% will center it with great cross browser support.
+- Nope it doesn't work * 1
+```css
+:root {
+--set-width: 300px;
+--set-height: 100px;
+--set-padding: 20px;
+}
+
+.parent {
+  position: relative;
+}
+
+.child {
+  width: var(--set-width);
+  height: var(--set-height);
+  padding: var(--set-padding);
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  /* Set margin accordingly, clockwise */
+  margin: cal(-1 * (var(--set-height) + 2 * var(--set-padding)))
+          0
+          0
+          cal(-1 * (var(--set-width) + 2 * var(--set-padding)));
+}
+
+```
 #### Element width and height known?
 #### Use of flexbox
 #### Use of grid

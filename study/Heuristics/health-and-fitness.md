@@ -51,6 +51,7 @@
     - [Upper-right abdominal](#upper-right-abdominal)
       - [Diaphram injury](#diaphram-injury)
       - [Musculoskeletal problems](#musculoskeletal-problems)
+      - [Gallbladder problems](#gallbladder-problems)
       - [Resource](#resource)
     - [Upper-left abdominal](#upper-left-abdominal)
 - [Martial art](#martial-art)
@@ -226,7 +227,7 @@ Remedy
 ### Upper-right abdominal
 #### Diaphram injury
 #### Musculoskeletal problems
-
+#### Gallbladder problems
 #### Resource
 [What can cause pain in the diaphragm area?](https://www.medicalnewstoday.com/articles/321956#causes)
 

@@ -46,10 +46,17 @@
       - [Sauna](#sauna)
       - [Promiscuity-related methods](#promiscuity-related-methods)
   - [Somatization disorder](#somatization-disorder)
+- [Symptom --> Disease](#symptom----disease)
+  - [Tightness](#tightness)
+    - [Upper-right abdominal](#upper-right-abdominal)
+      - [Diaphram injury](#diaphram-injury)
+      - [Musculoskeletal problems](#musculoskeletal-problems)
+      - [Resource](#resource)
+    - [Upper-left abdominal](#upper-left-abdominal)
 - [Martial art](#martial-art)
   - [Boxing](#boxing)
   - [Muay Thai](#muay-thai)
-- [Resource](#resource)
+- [Resource](#resource-1)
       - [Duodenum ulcer](#duodenum-ulcer)
     - [Colon](#colon-1)
     - [Small intestine](#small-intestine)
@@ -94,7 +101,7 @@
 - [Interesting topics](#interesting-topics)
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
-    - [Resource](#resource-1)
+    - [Resource](#resource-2)
 - [Emergent contingency procedures](#emergent-contingency-procedures)
   - [Rapid physiological state manipulation](#rapid-physiological-state-manipulation)
     - [Cognitive enhancement](#cognitive-enhancement)
@@ -213,6 +220,17 @@ Remedy
 #### Promiscuity-related methods
 
 ## Somatization disorder
+
+# Symptom --> Disease
+## Tightness
+### Upper-right abdominal
+#### Diaphram injury
+#### Musculoskeletal problems
+
+#### Resource
+[What can cause pain in the diaphragm area?](https://www.medicalnewstoday.com/articles/321956#causes)
+
+### Upper-left abdominal
 
 # Martial art
 ## Boxing

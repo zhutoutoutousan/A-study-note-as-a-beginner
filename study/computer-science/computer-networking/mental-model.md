@@ -1,9 +1,17 @@
 # Visual intelligence
+## Basic visual symbols
+- CNTD - p29-30
+## Network
+### General network
 - CNTD - p29-30
   - A glimpse into the overall network system
   - Some typical graphicing illustrative icon of some network elements
   - Illustrative analogies of how Packet-switched networks work
-
+- Access networks
+  - CNTD P39
+### Household network
+- DSL internet access
+  - CNTD p40
 # Use of analogies
 ## Packet-switched network
 - Containers processing in the docks
@@ -19,6 +27,13 @@
 - College Class --> Question-and-answer protocol
   - CNTD: P34
 
+# Common sense
+## Network
+### Household network
+The residential telephone line carries both data and traditional telephone signals simultaneously, which are encoded at different frequencies:
+- A high-speed downstream channel, in the 50 kHz to 1 MHz band
+- A medium-speed upstream channel, in the 4 kHz to 50 kHz band
+- An ordinary two-way telephone channel, in the 0 to 4kHz
 
 
 # Book entry

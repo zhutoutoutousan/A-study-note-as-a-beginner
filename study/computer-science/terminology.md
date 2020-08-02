@@ -5,21 +5,33 @@
   - [Assertion](#assertion)
 - [B](#b)
   - [Bandwidth](#bandwidth)
+  - [Base station](#base-station)
+- [C](#c)
+  - [Cell phone tower](#cell-phone-tower)
+  - [CMTS](#cmts)
+  - [CO](#co)
 - [D](#d)
   - [Data structures](#data-structures)
+  - [Dial-up](#dial-up)
   - [Dictionary](#dictionary)
   - [Distributed application](#distributed-application)
+  - [DSL](#dsl)
+  - [DSLAM](#dslam)
+  - [DSL modem](#dsl-modem)
   - [Dynamic sets](#dynamic-sets)
 - [E](#e)
   - [Efficiency](#efficiency)
   - [End systems](#end-systems)
 - [F](#f)
   - [Formal verification](#formal-verification)
+  - [Frequency-division multiplexing](#frequency-division-multiplexing)
+  - [FTTH](#ftth)
 - [H](#h)
   - [Host](#host)
   - [Hub](#hub)
 - [I](#i)
   - [Internet Protocol(IP)](#internet-protocolip)
+  - [IoT](#iot)
 - [M](#m)
   - [MAC address](#mac-address)
   - [Modifying operations](#modifying-operations)
@@ -29,6 +41,7 @@
 - [P](#p)
   - [Parallelism](#parallelism)
   - [Probabilistic analysis](#probabilistic-analysis)
+  - [Protocol](#protocol)
 - [Q](#q)
   - [Queue](#queue)
 - [R](#r)
@@ -41,9 +54,11 @@
   - [Socket interface](#socket-interface)
   - [Stack](#stack)
   - [State space](#state-space)
+  - [Splitter](#splitter)
   - [Switch](#switch)
     - [Computer networking](#computer-networking)
 - [T](#t)
+  - [Telco](#telco)
   - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
@@ -57,16 +72,29 @@
 
 # B
 ## Bandwidth
-
+## Base station
+# C
+## Cell phone tower
+## CMTS
+## CO
+- (networking)Central office
 # D
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
-
+## Dial-up
 ## Dictionary
-- Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
+- (COmputer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
+- (Python)
 
 ## Distributed application
 - Applications that involve multiple end systems that exchange data with one another
+
+## DSL
+- Digital subscriber line
+- Today, the two most prevalent types of broadband residential access are **digital subscriber line(DSL)** and cable.
+
+## DSLAM
+## DSL modem
 ## Dynamic sets
 - Sets are as fundamental to computer science as they are to mathematics. Whereas mathematical sets are unchanging, the sets manipulated by algorithms can grow, shrink, or otherwise change over time. We call such sets **dynamic**.
 
@@ -74,12 +102,13 @@
 ## Efficiency
 - \(Mathematica problem\): Let's say there are two algorithms for sorting, the first is **insertion sort**, which takes time roughly equal to $c_1 n^2$ to sort $n$ items, where $c_1$ is a constant that does not depend on $n$. The second, **merge sort**, takes time roughly equal to $c_2 n lgn$, where $lgn$ stands for ${log}_2 n$ and $c_2$ is another constant that also does not depend on $n$. For all $c_1$ and $c_2$, plot their time complexity curves with resepect to $n$.
 ## End systems
-
+- For example, the phone we use
+- End systems are also referred to as *hosts* because they host(i.e. run) application programs such as a Web browser program, a Web server program, an e-mail client program, or an e-mail server program.
 # F
 ## Formal verification
 In the context of hardware and software systems, **formal verification** is the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
-
-
+## Frequency-division multiplexing
+## FTTH
 
 # H
 ## Host
@@ -91,6 +120,8 @@ In the context of hardware and software systems, **formal verification** is the 
 ## Internet Protocol(IP)
 - The TCP and IP are two of the most important protocols in the Internet
 - The IP protocol specifies the format of the packets that are sent and received among routers and end systems
+## IoT
+- Internet of Things
 # M
 ## MAC address
 ## Modifying operations
@@ -115,6 +146,9 @@ In the context of hardware and software systems, **formal verification** is the 
 # P
 ## Parallelism
 ## Probabilistic analysis
+## Protocol 
+- A **protocol** defines the format and the order of messages exchanged between two or more communicating entities, as well as the action taken on the transmission and/or receipt of a message or other event
+
 
 # Q
 ## Queue
@@ -136,11 +170,14 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 - (Data structure)See the **stack** section
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)
+## Splitter
 ## Switch
 ### Computer networking
 
 
 # T
+## Telco
+- Telephone company
 ## Transmission Control Protocol(TCP)
 
 # W

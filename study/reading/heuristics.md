@@ -11,3 +11,6 @@
 
 # Life
 - A Guide to the Good Life: The Ancient Art of Stoic Joy
+
+# Strange thinking
+- Is there a negative frequency?

@@ -2,6 +2,7 @@
 - [Contents](#contents)
 - [A](#a)
   - [Algorithm](#algorithm)
+  - [AON](#aon)
   - [Assertion](#assertion)
 - [B](#b)
   - [Bandwidth](#bandwidth)
@@ -22,11 +23,13 @@
 - [E](#e)
   - [Efficiency](#efficiency)
   - [End systems](#end-systems)
+  - [Ethernet](#ethernet)
 - [F](#f)
   - [Formal verification](#formal-verification)
   - [Frequency-division multiplexing](#frequency-division-multiplexing)
   - [FTTH](#ftth)
 - [H](#h)
+  - [HFC network](#hfc-network)
   - [Host](#host)
   - [Hub](#hub)
 - [I](#i)
@@ -40,6 +43,7 @@
   - [NP-complete problems](#np-complete-problems)
 - [P](#p)
   - [Parallelism](#parallelism)
+  - [PON](#pon)
   - [Probabilistic analysis](#probabilistic-analysis)
   - [Protocol](#protocol)
 - [Q](#q)
@@ -60,12 +64,20 @@
 - [T](#t)
   - [Telco](#telco)
   - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
+- [U](#u)
+  - [UAE](#uae)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
+- [Book entry](#book-entry)
 # A
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
 - An algorithm is said to be **correct** if, for every input instance, it halts with the correct output.
+
+## AON
+- Active Optical Networks
+- Household network --> Splitting service --> AON
+- AON is essentially switched Ethernet
 
 ## Assertion
 [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
@@ -76,6 +88,8 @@
 # C
 ## Cell phone tower
 ## CMTS
+- Cable Modem Termination System
+- The CMTS serves a similar function as the DSL network's DSLAM--- turning the analog signal sent from the cable modems in many downstream homes back into digital format.
 ## CO
 - (networking)Central office
 # D
@@ -104,13 +118,15 @@
 ## End systems
 - For example, the phone we use
 - End systems are also referred to as *hosts* because they host(i.e. run) application programs such as a Web browser program, a Web server program, an e-mail client program, or an e-mail server program.
+## Ethernet
 # F
 ## Formal verification
 In the context of hardware and software systems, **formal verification** is the act of proving or disproving the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics. 
 ## Frequency-division multiplexing
 ## FTTH
-
+- Fiber To The Home
 # H
+## HFC network
 ## Host
 ## Hub
 - A hub doesn't filter data or has any intelligence as to where the data should be sent.
@@ -145,6 +161,9 @@ In the context of hardware and software systems, **formal verification** is the 
 
 # P
 ## Parallelism
+## PON
+- Passive Optical Networks
+- Household network --> Splitting service --> PON
 ## Probabilistic analysis
 ## Protocol 
 - A **protocol** defines the format and the order of messages exchanged between two or more communicating entities, as well as the action taken on the transmission and/or receipt of a message or other event
@@ -180,5 +199,13 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 - Telephone company
 ## Transmission Control Protocol(TCP)
 
+# U
+## UAE
+
 # W
 ## Worst-case running time
+
+
+
+# Book entry
+- CDTM: [Computer networking - Top-down approach](https://leonawang.com/books/Computer%20Networking%20A%20Top-Down%20Approach%207th%20edition.pdf)

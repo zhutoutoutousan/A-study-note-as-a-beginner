@@ -12,6 +12,10 @@
 ### Household network
 - DSL internet access
   - CNTD p40
+
+## Splitting service
+- AON
+- PON
 # Use of analogies
 ## Packet-switched network
 - Containers processing in the docks

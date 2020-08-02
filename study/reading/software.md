@@ -57,7 +57,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [6-th edition](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf)
   - [7-th edition](https://leonawang.com/books/Computer%20Networking%20A%20Top-Down%20Approach%207th%20edition.pdf)
   - Process 1:
-    - Progress: 38/856
+    - Progress: 42/856
     - Get familiar with the ideas
   - Resource provided in the book
     - [Pearson - CS resource](https://media.pearsoncmg.com/bc/abp/cs-resources/)

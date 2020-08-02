@@ -25,6 +25,7 @@
       - [1 week](#1-week-2)
       - [1 month](#1-month-2)
 - [Top Interview Questions(Performance track)](#top-interview-questionsperformance-track)
+  - [HTH are you going to stack up a 400 questions in a month?](#hth-are-you-going-to-stack-up-a-400-questions-in-a-month)
   - [Sort by forgetting Curve](#sort-by-forgetting-curve-1)
     - [Stage 1](#stage-1-1)
       - [10 min](#10-min-3)
@@ -93,6 +94,16 @@ Four key time stamps to review what I've learned:
 #### 1 month
 
 # Top Interview Questions(Performance track)
+## HTH are you going to stack up a 400 questions in a month?
+- Using the pure 'nature' of your intelligence could be considered as 'Ego solving', remember Steve Kaufmann said: Language is all input.
+- Use the method introduced below
+- Go straight to the solution(formal description)
+  - Implement it using JavaScript
+  - Check the best version
+  - Use this version as the source of reviewing process
+- For every question, coding for once is enough
+- No guarantee that it would work 
+- Minimize the cramming damage to the integrity of knowledge base
 ## Sort by forgetting Curve
 Four key time stamps to review what I've learned:
 - 10 min
@@ -102,8 +113,9 @@ Four key time stamps to review what I've learned:
 
 ### Stage 1
 #### 10 min
-- [Add two numbers](https://leetcode.com/problems/add-two-numbers/) - Too difficult for my thick skull - Learned at timestamp: xx:xx:xx
-- And so on
+- [Add two numbers](https://leetcode.com/problems/add-two-numbers/) - Easy
+- [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/solution/)
+  - Dynamic programming, brute force, 
 
 #### 24 hrs
 

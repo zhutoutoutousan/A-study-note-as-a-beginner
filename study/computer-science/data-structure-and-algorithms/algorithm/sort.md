@@ -28,7 +28,7 @@
 
 # Insertion sort
 ## Basics
-| ![How insertion sort works](../../assets/insertion-sort.PNG) |
+| ![How insertion sort works](../assets/insertion-sort.PNG) |
 | :--: |
 |* **Figure 1** How insertion works*|
 ## Realization

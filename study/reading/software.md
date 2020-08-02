@@ -10,6 +10,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
   - Process 1(Ground-up): p0-55/1313
+    - Sub-process 1: Linear algebra(recap)
+      - AEM
   - Process 2
     - Goal: Have a medium-sized familiarity with the graph search algorithms and graph-related data structures
     - Benefit:
@@ -67,3 +69,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 
 - Computer Networking Principles Bona Venture(Maybe obsolete)
   - [Link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/Computer-Networking-Principles-Bonaventure-1-30-31-OTC1.pdf)
+
+# Compiler working principle and design
+- Compilers Principle, Techniques, & Tools --- A.V.Aho
+  - [Link1](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)

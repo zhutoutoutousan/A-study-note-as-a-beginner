@@ -19,6 +19,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - Long-term benefit for being a front-end developer
     - Progress 1: 229/229-357
     - Progress 2: 587/587-684
+  - Process 3: P380-
+    - Goal: Just have a quick look at dynamic programming
 - Introduction to Algorithms: Solutions and Instructor's Manual
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
 # Programming language principle & paradigm

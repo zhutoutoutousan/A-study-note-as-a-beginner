@@ -82,6 +82,8 @@
     - [Knife work](#knife-work)
     - [Flavor combos](#flavor-combos)
   - [Courses](#courses)
+    - [Anabolic breakfast-delicated series](#anabolic-breakfast-delicated-series)
+    - [Anabolic chicken series](#anabolic-chicken-series)
 - [Workout](#workout-1)
   - [Basic science](#basic-science)
   - [Workout](#workout-2)
@@ -268,6 +270,8 @@ V
 ### Knife work
 ### Flavor combos
 ## Courses
+### Anabolic breakfast-delicated series
+### Anabolic chicken series
 - Chicken breast + onion + chicken heart with broccoli + scrambled eggs
 - Curry chicken breast
   - [Recipe 1](https://www.youtube.com/watch?v=jwyge5daKUQ)

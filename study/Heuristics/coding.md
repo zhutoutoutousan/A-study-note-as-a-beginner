@@ -7,6 +7,7 @@
 - [Mind palace](#mind-palace)
   - [Minding Class-Object model](#minding-class-object-model)
 - [Coding practice](#coding-practice)
+  - [The BIG PICTURE](#the-big-picture)
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
   - [Code style & Naming convention](#code-style--naming-convention)
@@ -65,6 +66,8 @@ Is it so? Is this line of thinking wrong?
 ## Minding Class-Object model 
 
 # Coding practice
+## The BIG PICTURE
+[国内低代码平台从业者交流](https://github.com/taowen/awesome-lowcode)
 ## Troubleshooting
 ### Typo
 - Mistaken underscore?

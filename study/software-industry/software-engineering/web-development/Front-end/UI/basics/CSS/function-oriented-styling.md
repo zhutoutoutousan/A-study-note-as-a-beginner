@@ -166,10 +166,12 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 ```
 ### ```background-image```
 #### ```radial-gradient()```
+- You can improve your grasp of ```radial-gradient()``` by paying attention when coming across this either in the tutorial or during the developing process
 - Color transition:
   - Circular -->
   - ```<color> percentage, ...```
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient)
+- [Fun ways to animate CSS gradients](https://www.youtube.com/watch?v=f3mwKLXpOLk)
 #### ```linear-gradient()```
 - Color transition:
 - Top-down

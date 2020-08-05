@@ -192,8 +192,8 @@
 ## JavaScript
 
 # Interview ready?
-[一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
-
+- [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
+- [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)
 # Deep dive - Into the abyss
 ## Chromium
 - [Chromium source code](https://source.chromium.org/)

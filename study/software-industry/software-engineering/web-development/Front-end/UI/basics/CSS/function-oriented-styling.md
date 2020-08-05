@@ -39,6 +39,8 @@
 - [Shape](#shape)
   - [Circle](#circle)
     - [```border-radius```](#border-radius)
+- [Decoration](#decoration)
+  - [Background](#background)
 - [Cross-platform support](#cross-platform-support)
   - [Media query](#media-query)
 
@@ -146,6 +148,9 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 # Shape
 ## Circle
 ### ```border-radius```
+
+# Decoration
+## Background
 
 
 # Cross-platform support

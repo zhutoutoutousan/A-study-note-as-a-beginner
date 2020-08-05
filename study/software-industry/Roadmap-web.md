@@ -174,7 +174,9 @@
   - IOS background before starting Front-end 
 # Resource for resources
 [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList/blob/master/README.md)
+
 [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/)
+
 [frontend-study-resource](https://github.com/sankincn/frontend-study-resource)
 
 # Project oriented study

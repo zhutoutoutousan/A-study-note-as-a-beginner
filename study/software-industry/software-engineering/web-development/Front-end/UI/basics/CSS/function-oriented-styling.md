@@ -172,6 +172,8 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
   - ```<color> percentage, ...```
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient)
 - [Fun ways to animate CSS gradients](https://www.youtube.com/watch?v=f3mwKLXpOLk)
+  - Use of ```var()```
+  - 
 #### ```linear-gradient()```
 - Color transition:
 - Top-down

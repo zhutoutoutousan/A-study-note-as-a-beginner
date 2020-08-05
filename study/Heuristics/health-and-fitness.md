@@ -118,6 +118,8 @@
   - [Disease](#disease)
     - [Malfunction recovery](#malfunction-recovery)
 - [Resources](#resources)
+  - [Shredded Sports Science](#shredded-sports-science)
+    - [How do muscle grow](#how-do-muscle-grow)
 
 # Basics physical system of a normal human
 ## Digestive system
@@ -384,4 +386,6 @@ See:
 - General infection
 - Strep throat
 # Resources
-
+## Shredded Sports Science
+### How do muscle grow
+- [How Do Muscles Grow ? #1 HYPERTROPHY](https://www.youtube.com/watch?v=Ag9F6YJaGIU)

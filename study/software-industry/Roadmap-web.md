@@ -48,6 +48,9 @@
 - [Topic-oriented study resource track](#topic-oriented-study-resource-track)
   - [HTML](#html-1)
   - [JavaScript](#javascript-1)
+- [Interview ready?](#interview-ready)
+- [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
+  - [Chromium](#chromium)
 
 # Study style
 - First give a plan to a project I want to develop
@@ -185,3 +188,10 @@
 - [HTML - The Label Element](https://www.youtube.com/watch?v=HS4bvh_59hU)
 
 ## JavaScript
+
+# Interview ready?
+[一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
+
+# Deep dive - Into the abyss
+## Chromium
+- [Chromium source code](https://source.chromium.org/)

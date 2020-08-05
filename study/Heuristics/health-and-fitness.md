@@ -74,6 +74,7 @@
     - [Aesthetics](#aesthetics)
     - [Processing raw materials](#processing-raw-materials)
       - [Food defrosting](#food-defrosting)
+      - [Knifework](#knifework)
     - [Equipment](#equipment)
       - [Oven](#oven)
       - [Stove](#stove)
@@ -82,6 +83,7 @@
     - [Knife work](#knife-work)
     - [Flavor combos](#flavor-combos)
   - [Courses](#courses)
+    - [Anabolic liquid-and-fiber-rich diet](#anabolic-liquid-and-fiber-rich-diet)
     - [Anabolic breakfast-delicated series](#anabolic-breakfast-delicated-series)
     - [Anabolic chicken series](#anabolic-chicken-series)
 - [Workout](#workout-1)
@@ -262,6 +264,8 @@ V
 ### Aesthetics
 ### Processing raw materials
 #### Food defrosting
+#### Knifework
+- [How to Chop Parsley Like a Real Chef - Mincing Parsley](https://www.youtube.com/watch?v=SNGtS8I1iaI)
 ### Equipment
 #### Oven
 #### Stove
@@ -270,6 +274,14 @@ V
 ### Knife work
 ### Flavor combos
 ## Courses
+### Anabolic liquid-and-fiber-rich diet
+- If you just got some complains from your appendix, well, it's high time that you choose this kind of diet.
+  - Recommended ingredients:
+    - Apples, Tomato, Oranges, Cucumber
+    - Papaya, Spinach, Sapodilla
+    - Carrots, Beetroot
+- [3 EASY HIGH PROTEIN PORRIDGE RECIPES *yummmm*](https://www.youtube.com/watch?v=F61OTERN6UQ)
+- [How to Make Buttermilk at Home](https://www.youtube.com/watch?v=qKU4nynlIgo)
 ### Anabolic breakfast-delicated series
 ### Anabolic chicken series
 - Chicken breast + onion + chicken heart with broccoli + scrambled eggs

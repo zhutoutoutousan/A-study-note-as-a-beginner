@@ -41,9 +41,11 @@
     - [```border-radius```](#border-radius)
 - [Decoration](#decoration)
   - [Background](#background)
-    - [```background: url(<image-path>) ```](#background-urlimage-path-)
+    - [```background```](#background-1)
+      - [```url(<image-path>)```](#urlimage-path)
     - [```background-image```](#background-image)
       - [```radial-gradient()```](#radial-gradient)
+      - [```linear-gradient()```](#linear-gradient)
 - [Cross-platform support](#cross-platform-support)
   - [Media query](#media-query)
 
@@ -154,7 +156,8 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 
 # Decoration
 ## Background
-### ```background: url(<image-path>) ```
+### ```background```
+#### ```url(<image-path>)```
 ```css
 .some-class {
     background: url(img/hero-image.jpg) no-repeat center;
@@ -163,6 +166,13 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 ```
 ### ```background-image```
 #### ```radial-gradient()```
+- Color transition:
+  - Circular -->
+  - ```<color> percentage, ...```
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient)
+#### ```linear-gradient()```
+- Color transition:
+- Top-down
 # Cross-platform support
 ## Media query
 - For basics, check [CSS-@](./css-at-rules.md)

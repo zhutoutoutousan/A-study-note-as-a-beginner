@@ -39,3 +39,32 @@ h1 {
         clear: both;
     }
 }
+
+.viewer {
+    color: #c97874;
+    float: left;
+    line-height: 3em;
+    text-align: right;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 7.5em;
+    height: 3em;
+}
+
+
+
+button {
+    border: 0;
+    background: rgba(42, 50, 113, .28);
+    color: #6cacc5;
+    cursor: pointer;
+    float: left;
+    font: inherit;
+    margin: 0.25em;
+    width: 2em;
+    height: 2em;
+}
+
+.reset {
+    display: none;
+}

@@ -1,3 +1,15 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Programming language proficiency](#programming-language-proficiency)
+  - [JavaScript](#javascript)
+  - [Java](#java)
+- [Data structure and algorithms](#data-structure-and-algorithms)
+- [Programming language principle & paradigm](#programming-language-principle--paradigm)
+- [Computer system](#computer-system)
+- [Computer security](#computer-security)
+- [Full-stack development](#full-stack-development)
+- [Computer networking](#computer-networking)
+- [Compiler working principle and design](#compiler-working-principle-and-design)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## JavaScript

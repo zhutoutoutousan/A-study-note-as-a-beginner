@@ -18,8 +18,9 @@
     - [Tech stack](#tech-stack-3)
   - [Portfolio of Front-end elements](#portfolio-of-front-end-elements)
   - [Resource](#resource)
-- [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-  - [Functionality](#functionality-2)
+- [DeepSTUDYcity](#deepstudycity)
+  - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
+    - [Functionality](#functionality-2)
 - [Problem solving proficiency](#problem-solving-proficiency)
   - [Leetcode](#leetcode)
 - [Interview questions](#interview-questions)
@@ -66,8 +67,11 @@ April --> October
 ## Resource
 - [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
   - 3:30
-# Application --> Mindmap + Flashcard
-## Functionality
+
+# DeepSTUDYcity
+
+## Application --> Mindmap + Flashcard
+### Functionality
 - AI
   - Graph algorithm
 - Multiplayer

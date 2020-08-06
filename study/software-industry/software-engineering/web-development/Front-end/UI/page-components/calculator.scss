@@ -1,8 +1,41 @@
+:root {
+    --theme-color: #6cacc5;
+}
+
 html {
     background: #100a1c;
     background-image:
     radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
     radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
     background-attachment: fixed;
-    color: #6cacc5;
+    color: var(--theme-color);
+}
+
+body {
+    color: var(--theme-color);
+    font: 300 18px/1.6 "Source Sans Pro", sans-serif;
+    margin: 0;
+    padding: 5em 0 2em;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 300;
+    margin: 0;
+}
+
+.calculator {
+    font-size: 28px;
+    margin: 0 auto;
+    width: 10em;
+
+    &::before,
+    &::after {
+        content: " ";
+        display: table;
+    }
+
+    &::after {
+        clear: both;
+    }
 }

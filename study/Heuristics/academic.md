@@ -199,5 +199,5 @@ Not applicable
 
 # Tools
 ## TiddyWiki
-- This stuff seems much more disorganized than this one first thought xD 
+- This stuff seems much more disorganized than this one first thought xD Once disorganized, be disorganized forever kind of stuff. Maybe the difficiency of the tool is overpowered 
 - [An example of a heavy user](https://onetwo.ren/)

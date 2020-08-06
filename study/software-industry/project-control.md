@@ -6,26 +6,39 @@
 - [Timeline-project control](#timeline-project-control)
 - [Personal website](#personal-website)
   - [Front-page](#front-page)
-    - [UI](#ui)
+    - [Design](#design)
+      - [UI](#ui)
+      - [Functionality](#functionality)
   - [Blog-page](#blog-page)
+    - [Design](#design-1)
+      - [UI](#ui-1)
+      - [Functionality](#functionality-1)
     - [Tech-stack](#tech-stack)
-    - [Tech stack](#tech-stack-1)
-  - [Portfolio of Front-end elements](#portfolio-of-front-end-elements)
   - [Resource](#resource)
 - [Chess game](#chess-game)
-  - [Functionality](#functionality)
-  - [Tech-stack](#tech-stack-2)
+  - [Design](#design-2)
+  - [Functionality](#functionality-2)
+  - [Tech-stack](#tech-stack-1)
   - [Reference materials](#reference-materials)
+- [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
+  - [Design](#design-3)
+    - [UI](#ui-2)
+  - [Functionality](#functionality-3)
+  - [Tech-stack](#tech-stack-2)
+  - [Reference materials](#reference-materials-1)
 - [Problem solving proficiency](#problem-solving-proficiency)
-  - [Leetcode](#leetcode)
+  - [Algorithm familiarity](#algorithm-familiarity)
+  - [Data Structure familiarity](#data-structure-familiarity)
+  - [Leetcode training](#leetcode-training)
 - [Interview questions](#interview-questions)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
-  - [Functionality](#functionality-1)
+  - [Design](#design-4)
+    - [Functionality](#functionality-4)
   - [Tech-stack](#tech-stack-3)
-  - [Reference materials](#reference-materials-1)
+  - [Reference materials](#reference-materials-2)
 - [DeepSTUDYcity](#deepstudycity)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-    - [Functionality](#functionality-2)
+    - [Functionality](#functionality-5)
 
 # Priority-project control
 ## In two months
@@ -49,16 +62,19 @@ xxxxxxx...August-----------------------September--------------------------->|
 # Personal website
 
 ## Front-page
-### UI
+### Design
+#### UI
 - Just like the first example in the **resource** section
+#### Functionality
+
 ## Blog-page
+### Design
+#### UI
+#### Functionality
+
 ### Tech-stack
 - [ ] VuePress
 - [ ] Vue-admin-bar
-### Tech stack
-- Vuepress
-## Portfolio of Front-end elements
-
 
 ## Resource
 - [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
@@ -66,27 +82,45 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 
 # Chess game
+## Design
 ## Functionality
-- AI
-  - Graph algorithm
-- Multiplayer
-  - Networking
+- [x] Chessboard
+- [ ] AI
+  - [ ] Graph algorithm
+- [ ] Multiplayer
+  - [ ] Networking
 ## Tech-stack
-- Vanilla-JS
+- ES6
 - p5.js
+
 ## Reference materials
-- Multiplayer
+- Code bullet --> Chess AI
 
-
+# Pathfinding algorithm visualizer
+## Design
+### UI
+## Functionality
+## Tech-stack
+- React
+## Reference materials
+- Clement mihailescu --> Original Vanilla-Js project
+  - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
 # Problem solving proficiency
-## Leetcode
+## Algorithm familiarity
+## Data Structure familiarity
+## Leetcode training
+- Leetcode most interviewed questions
+
 
 # Interview questions
+- Resource preparation
+
 
 
 
 # Web crawler of German Websites
-## Functionality
+## Design
+### Functionality
 ## Tech-stack
 - React
 ## Reference materials

@@ -50,6 +50,8 @@
   - [HTML](#html-1)
   - [JavaScript](#javascript-1)
   - [CSS](#css-1)
+    - [Codepenn series](#codepenn-series)
+      - [Water ripple background](#water-ripple-background)
   - [UI&UX](#uiux)
   - [Project management](#project-management)
 - [Interview ready?](#interview-ready)
@@ -199,7 +201,10 @@
 ## JavaScript
 
 ## CSS
-
+### Codepenn series
+#### Water ripple background
+- [CSS water ripples with blend modes](https://codepen.io/giana/pen/YdwYZG)
+  - Good for learning ```scss```
 ## UI&UX
 - [UI Design For Coders](https://www.youtube.com/watch?v=0JCUH5daCCE)
   - Progress: 6:05/50:00

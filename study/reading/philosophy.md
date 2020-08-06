@@ -1,0 +1,1 @@
+[Richard Dawkins - the selfish gene](https://alraziuni.edu.ye/uploads/pdf/book1/Laboratories/The%20Selfish%20Gene%20-%20R.%20Dawkins%20(1976)%20WW.pdf)

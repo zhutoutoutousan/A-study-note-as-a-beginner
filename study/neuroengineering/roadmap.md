@@ -16,5 +16,8 @@
 ## Human behavioral biology
 - [1. Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 
+# P.O.I
+[Lin Yi Dong](https://onetwo.ren/about/)
+
 # Resource
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)

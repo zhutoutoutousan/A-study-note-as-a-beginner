@@ -50,6 +50,8 @@
   - [Academic politics](#academic-politics)
 - [Academia career](#academia-career)
   - [Heads-ups](#heads-ups)
+- [Tools](#tools)
+  - [TiddyWiki](#tiddywiki)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -194,3 +196,8 @@ Not applicable
 # Academia career
 ## Heads-ups
 - [The Blooming of Creative Scientists: Early, Late and Otherwise](https://journals.sagepub.com/doi/abs/10.1177/001698628102500204?journalCode=gcqb)
+
+# Tools
+## TiddyWiki
+- This stuff seems much more disorganized than this one first thought xD 
+- [An example of a heavy user](https://onetwo.ren/)

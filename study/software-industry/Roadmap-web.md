@@ -42,12 +42,15 @@
   - [Brian Lonsdorf](#brian-lonsdorf)
   - [Jason Miller](#jason-miller-1)
   - [Bartosz Milewski](#bartosz-milewski)
+  - [Joshua Fluke](#joshua-fluke)
   - [KieSun](#kiesun)
 - [Resource for resources](#resource-for-resources)
 - [Project oriented study](#project-oriented-study)
 - [Topic-oriented study resource track](#topic-oriented-study-resource-track)
   - [HTML](#html-1)
   - [JavaScript](#javascript-1)
+  - [CSS](#css-1)
+  - [UI&UX](#uiux)
 - [Interview ready?](#interview-ready)
 - [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
   - [Chromium](#chromium)
@@ -164,6 +167,9 @@
 ## Brian Lonsdorf
 ## Jason Miller
 ## Bartosz Milewski
+## Joshua Fluke
+- Grindreel founder, helping people land a job as a developer
+- High quality videos on YouTube
 ## KieSun
 - [github](https://github.com/KieSun)
   - [Educational sites](https://yuchengkai.cn/home/)
@@ -191,9 +197,15 @@
 
 ## JavaScript
 
+## CSS
+
+## UI&UX
+- [UI Design For Coders](https://www.youtube.com/watch?v=0JCUH5daCCE)
+  - Progress: 6:05/50:00
 # Interview ready?
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
 - [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)
+  - Progress:
 # Deep dive - Into the abyss
 ## Chromium
 - [Chromium source code](https://source.chromium.org/)

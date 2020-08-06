@@ -14,14 +14,14 @@
   - [Front-page](#front-page)
     - [UI](#ui)
   - [Blog-page](#blog-page)
-    - [Tech stack](#tech-stack-2)
+    - [Tech-stack](#tech-stack-2)
+    - [Tech stack](#tech-stack-3)
   - [Portfolio of Front-end elements](#portfolio-of-front-end-elements)
   - [Resource](#resource)
 - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
   - [Functionality](#functionality-2)
 - [Problem solving proficiency](#problem-solving-proficiency)
   - [Leetcode](#leetcode)
-- [Tech-stack proficiency <--> Project progress](#tech-stack-proficiency----project-progress)
 - [Interview questions](#interview-questions)
 
 # Duration
@@ -50,10 +50,14 @@ April --> October
 ## Reference materials
 
 # Personal website
+
 ## Front-page
 ### UI
 - Just like the first example in the **resource** section
 ## Blog-page
+### Tech-stack
+- [ ] VuePress
+- [ ] Vue-admin-bar
 ### Tech stack
 - Vuepress
 ## Portfolio of Front-end elements
@@ -71,7 +75,5 @@ April --> October
 
 # Problem solving proficiency
 ## Leetcode
-
-# Tech-stack proficiency <--> Project progress
 
 # Interview questions

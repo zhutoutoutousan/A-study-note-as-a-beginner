@@ -1,7 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Duration](#duration)
-- [Heads-ups](#heads-ups)
+- [Priority-project control](#priority-project-control)
+  - [In two months](#in-two-months)
+  - [In two years](#in-two-years)
+- [Timeline-project control](#timeline-project-control)
 - [Chess game](#chess-game)
   - [Functionality](#functionality)
   - [Tech-stack](#tech-stack)
@@ -25,12 +27,20 @@
   - [Leetcode](#leetcode)
 - [Interview questions](#interview-questions)
 
-# Duration
-April --> October
+# Priority-project control
+## In two months
+1. Personal front page
+   1. Calculator(In a tab)
+2. Personal blog page 
+3. Chess game
+4. Algorithm visualizer in Vue
 
-# Heads-ups
-- Dude, you are not gonna make it if you read books cover to cover
-- Be more precise about what you want to know, what you want to crystalize in the system of yours
+## In two years
+1. DeepSTUDYcity
+# Timeline-project control
+April -...--------------------------------------------------------------> October  
+xxxxxxx...August---------------------------------------------------------->|
+
 
 # Chess game
 ## Functionality

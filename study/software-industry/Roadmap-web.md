@@ -51,6 +51,7 @@
   - [JavaScript](#javascript-1)
   - [CSS](#css-1)
   - [UI&UX](#uiux)
+  - [Project management](#project-management)
 - [Interview ready?](#interview-ready)
 - [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
   - [Chromium](#chromium)
@@ -202,6 +203,10 @@
 ## UI&UX
 - [UI Design For Coders](https://www.youtube.com/watch?v=0JCUH5daCCE)
   - Progress: 6:05/50:00
+
+## Project management
+- [Jr. Developers | Stuck In Tutorial Hel](https://www.youtube.com/watch?v=-GB9qKbmGko)
+  - Sometimes you just need to figure out the APP that is similar to what you want.
 # Interview ready?
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
 - [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)

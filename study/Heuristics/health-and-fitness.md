@@ -49,6 +49,10 @@
 - [Symptom --> Disease](#symptom----disease)
   - [Tightness](#tightness)
     - [Upper-right abdominal](#upper-right-abdominal)
+      - [Diaphram pull/tear](#diaphram-pulltear)
+      - [Hepatitis](#hepatitis)
+        - [Viral hepatitis](#viral-hepatitis)
+        - [Bacterial hepatitis](#bacterial-hepatitis)
       - [Diaphram injury](#diaphram-injury)
       - [Musculoskeletal problems](#musculoskeletal-problems)
       - [Gallbladder problems](#gallbladder-problems)
@@ -231,6 +235,15 @@ Remedy
 # Symptom --> Disease
 ## Tightness
 ### Upper-right abdominal
+#### Diaphram pull/tear
+#### Hepatitis
+##### Viral hepatitis
+##### Bacterial hepatitis
+- Klebsiella pneumoniae infection
+  - Introduction
+    - [Klebsiella pneumoniae - causes, symptoms, diagnosis, treatment, pathology](https://www.youtube.com/watch?v=H4Xy6tHDlOI)
+  - Treatment
+    - 奥消锉
 #### Diaphram injury
 #### Musculoskeletal problems
 #### Gallbladder problems

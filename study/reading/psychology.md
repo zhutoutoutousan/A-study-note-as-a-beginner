@@ -13,11 +13,13 @@
 - Carl Jung
   - On the Nature of the Psyche
     - Printed version
-    - Process 1(Reading for pleasure)
+    - Process 1(Reading for pleasure) 
     - Process 2(Serious reading)
   - YouTube videos
   - Memories, Dreams, Reflections
     - [Link1](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
+  - Archetypes and the Collective Unconscious
+    - [Link1](https://www.are.na/block/1493356)
 - Carl Rogers
 - Sigmund Freud
 # Society

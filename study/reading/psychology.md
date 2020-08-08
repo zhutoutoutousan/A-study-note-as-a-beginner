@@ -11,6 +11,9 @@
 # Society
 - The Social Animal - E.Aronson
   - [Link1](https://khanahmadli.files.wordpress.com/2019/01/the-social-animal.pdf)
+  - **Related reading**
+    - The engineering of consent
+      - [Link1](http://www.fraw.org.uk/data/politics/bernays_1947.pdf)
   - Goal: Help reaching a deeper level of understandings of human behavior on social medias
     - Seems very good way to have a systemic view of why people behave in a certain way on social media
     - It claims that it attempts to paint a clear picture of the current state of our social-psychological knowledge and how such knowledge might be applied to alleviate some problems plaguing us in the world today.

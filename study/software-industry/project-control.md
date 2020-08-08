@@ -74,6 +74,9 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 ### Tech-stack
 - [ ] VuePress
+  - [ ] Get familiar with [Vuepress doc](https://vuepress.vuejs.org/guide/markdown.html#links)
+  - [ ] Play around with Vuepress
+    - [ ] [VuePress Tutorial - Learn how to use VuePress for a Documentation Site (Beginner)](https://www.youtube.com/watch?v=5Kqyhu_eIcw) 0:00/24:03
 - [ ] Vue-admin-bar
 
 ## Resource

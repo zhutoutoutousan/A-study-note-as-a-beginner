@@ -1,5 +1,14 @@
 
 # P.O.I
+
+- Jean Martin Charcot
+  - A teacher of *Sigmund Freud*
+  - Studied the deliberate manipulation of opinion
+  - Related with the "engineering of consent"
+  - Believed that only hysterical patients could be fully hypnotized. But challenged by H.Bernheim and A. Liébault
+  - More P.O.I
+    - Hyppolyte Bernheim
+    - A. A. Liébault
 - Jordan B. Peterson
 - Carl Jung
   - On the Nature of the Psyche

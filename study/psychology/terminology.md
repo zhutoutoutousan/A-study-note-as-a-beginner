@@ -3,6 +3,12 @@
 ### Apposite
 ### Assent
 
+## C
+### Corollary
+- NOUN: a proposition that follows from (and is often appended to) one already proved.
+- ADJ.: forming a proposition that follows from one already proved
+- [wiki](https://en.wikipedia.org/wiki/Corollary)
+
 ## E
 ### Epoch
 - --> Epic

@@ -1,18 +1,21 @@
 
 # P.O.I
+- Jordan B. Peterson
 - Carl Jung
   - On the Nature of the Psyche
     - Printed version
+    - Process 1(Reading for pleasure)
+    - Process 2(Serious reading)
   - YouTube videos
   - Memories, Dreams, Reflections
     - [Link1](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
 - Carl Rogers
-
+- Sigmund Freud
 # Society
 - The Social Animal - E.Aronson
   - [Link1](https://khanahmadli.files.wordpress.com/2019/01/the-social-animal.pdf)
   - **Related reading**
-    - The engineering of consent
+    - The engineering of consent 0/8
       - [Link1](http://www.fraw.org.uk/data/politics/bernays_1947.pdf)
   - Goal: Help reaching a deeper level of understandings of human behavior on social medias
     - Seems very good way to have a systemic view of why people behave in a certain way on social media

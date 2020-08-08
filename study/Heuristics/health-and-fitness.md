@@ -87,6 +87,7 @@
     - [Knife work](#knife-work)
     - [Flavor combos](#flavor-combos)
   - [Courses](#courses)
+    - [Healthy Carbonhydrate Series](#healthy-carbonhydrate-series)
     - [Anabolic liquid-and-fiber-rich diet](#anabolic-liquid-and-fiber-rich-diet)
     - [Anabolic breakfast-delicated series](#anabolic-breakfast-delicated-series)
     - [Anabolic chicken series](#anabolic-chicken-series)
@@ -243,7 +244,7 @@ Remedy
   - Introduction
     - [Klebsiella pneumoniae - causes, symptoms, diagnosis, treatment, pathology](https://www.youtube.com/watch?v=H4Xy6tHDlOI)
   - Treatment
-    - 奥消锉
+    - 奥硝
 #### Diaphram injury
 #### Musculoskeletal problems
 #### Gallbladder problems
@@ -289,6 +290,10 @@ V
 ### Knife work
 ### Flavor combos
 ## Courses
+### Healthy Carbonhydrate Series
+- Sandwich
+  - Canned tuna
+    - [Can This Chef Make Canned Tuna Fancy? • Tasty](https://www.youtube.com/watch?v=3Fw9iIYBROM) 
 ### Anabolic liquid-and-fiber-rich diet
 - If you just got some complains from your appendix, well, it's high time that you choose this kind of diet.
   - Recommended ingredients:

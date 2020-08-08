@@ -6,9 +6,11 @@
     - And more
 
 # Keep up with the modern industrial and technological progress
+## Technology
+### tVNS
 ## Entities
 - Neuralink
-- CTRLlab
+- CTR
 ## Related technical difficulties
 
 
@@ -20,4 +22,11 @@
 [Lin Yi Dong](https://onetwo.ren/about/)
 
 # Resource
+
+
+## Basics
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
+
+## Updates
+- [Standford Neuroengineering](https://neuroscience.stanford.edu/research/neuroengineering)
+- [Frontiersin](https://www.frontiersin.org/)

@@ -5,6 +5,7 @@
     - Printed version
   - YouTube videos
   - Memories, Dreams, Reflections
+    - [Link1](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
 - Carl Rogers
 
 # Society
@@ -21,4 +22,6 @@
 
 
 # Intelligence
-- 
+- Die Intelligenz der Kinder und Jugendlichen und die Methoden ihrer Untersuchung
+  - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
+  - It is said to be the academic source of research into human intelligence

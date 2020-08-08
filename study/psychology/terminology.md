@@ -1,3 +1,33 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Alphabetical](#alphabetical)
+  - [A](#a)
+    - [Apposite](#apposite)
+    - [Assent](#assent)
+  - [C](#c)
+    - [Corollary](#corollary)
+    - [Culture](#culture)
+  - [E](#e)
+    - [Epoch](#epoch)
+  - [F](#f)
+    - [Fallacy](#fallacy)
+    - [Falsism](#falsism)
+  - [G](#g)
+    - [Group pressure](#group-pressure)
+  - [P](#p)
+    - [Pertinent](#pertinent)
+  - [R](#r)
+    - [Readily](#readily)
+    - [Reiteration](#reiteration)
+    - [Rigidity](#rigidity)
+  - [S](#s)
+    - [Social force](#social-force)
+    - [Social-psychology(ical)](#social-psychologyical)
+    - [Social science](#social-science)
+    - [Somnambulist](#somnambulist)
+  - [T](#t)
+    - [Tribalism](#tribalism)
+    - [Truism](#truism)
 # Alphabetical
 ## A
 ### Apposite
@@ -8,7 +38,7 @@
 - NOUN: a proposition that follows from (and is often appended to) one already proved.
 - ADJ.: forming a proposition that follows from one already proved
 - [wiki](https://en.wikipedia.org/wiki/Corollary)
-
+### Culture
 ## E
 ### Epoch
 - --> Epic
@@ -27,10 +57,16 @@
 
 ## R
 ### Readily
+### Reiteration
+- the action of repeating something, typically for emphasis or clarity.
+### Rigidity
+- In psychology, rigidity or mental rigidity refers to an obstinate inability to yield or a refusal to appreciate another person's viewpoint or emotions characterized by a lack of empathy.
 ## S
 ### Social force
 ### Social-psychology(ical)
 ### Social science
+### Somnambulist
+- somnambulist (plural somnambulists) A person who walks about in his or her sleep; a sleepwalker.
 ## T
 ### Tribalism
 ### Truism

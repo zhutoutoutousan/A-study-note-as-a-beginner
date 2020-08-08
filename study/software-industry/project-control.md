@@ -60,7 +60,6 @@ xxxxxxx...August-----------------------September--------------------------->|
 ```
               
 # Personal website
-
 ## Front-page
 ### Design
 #### UI

@@ -44,8 +44,10 @@
     - [Resource](#resource-1)
 - [Skillsets](#skillsets)
   - [Academic reading](#academic-reading)
+    - [Original research reports](#original-research-reports)
   - [Academic writing](#academic-writing)
     - [Common phrases](#common-phrases)
+    - [Quotes on good practices](#quotes-on-good-practices)
 - [Academia landscape](#academia-landscape)
   - [Relations with the industry](#relations-with-the-industry)
   - [Academic politics](#academic-politics)
@@ -53,6 +55,7 @@
   - [Heads-ups](#heads-ups)
 - [Tools](#tools)
   - [TiddyWiki](#tiddywiki)
+- [Book reference entry](#book-reference-entry)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -190,9 +193,17 @@ Not applicable
 - [最新审核进度 | 附电气工程及其自动化专业APS复习资料](https://zhuanlan.zhihu.com/p/91614666)
 # Skillsets
 ## Academic reading
+### Original research reports
+- **Anatomy**: Each of the original research reports contains four principle sections:
+  1. First there is an *introduction*, in which the author states the idea, where it came from, and why it's important, and distills the idea down to a hypothesis or series of hypotheses.
+  2. This is followed by a *procedure* section, in which the author tests the hypothesis by translating the idea into a concrete set of operations. The procedure section of a good piece of research is often the most interesting part because it requires a great deal of ingenuity for the investigator to achieve precision without sacrificing realism or impact.
+  3. In the *results* section the investigator states as clearly and succinctly as possible what the findings were. The investigator uses various statistical procedures to ascertain the extent to which the data are reliable.
+  4. The *discussion* section, in which the researcher evaluates and interprets the data presented in the preceding section and tries to make sense of them in the context of previous research. The creative researcher can also use this section to speculate about hte implications of the data and to point the way toward future research.
+- Reading strategy
 ## Academic writing
 ### Common phrases
 - Be analogous to 
+### Quotes on good practices
 # Academia landscape
 ## Relations with the industry
 ## Academic politics
@@ -205,3 +216,6 @@ Not applicable
 ## TiddyWiki
 - This stuff seems much more disorganized than this one first thought xD Once disorganized, be disorganized forever kind of stuff. Maybe the difficiency of the tool is overpowered by the overrated grandiose image of the user
 - [An example of a heavy user](https://onetwo.ren/)
+
+
+# Book reference entry

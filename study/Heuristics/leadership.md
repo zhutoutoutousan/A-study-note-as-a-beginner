@@ -11,7 +11,7 @@
 ## Balance between persona and the real self
 ### Jung's shadow
 
-# Relationship
+# Public Relationship
 
 # Skillset
 

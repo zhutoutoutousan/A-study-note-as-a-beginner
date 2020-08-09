@@ -108,7 +108,7 @@
       - [Flexibility](#flexibility)
     - [Nutrition](#nutrition-1)
 - [Bodybuilding](#bodybuilding)
-- [Weightlifting](#weightlifting)
+- [Powerlifting](#powerlifting)
 - [Interesting topics](#interesting-topics)
   - [Mind-body connection](#mind-body-connection)
     - [Stomach ulcer](#stomach-ulcer-1)
@@ -365,7 +365,7 @@ See:
 - [myfitnesspal](https://www.myfitnesspal.com/)
 
 # Bodybuilding
-# Weightlifting
+# Powerlifting
 # Interesting topics
 ## Mind-body connection
 ### Stomach ulcer

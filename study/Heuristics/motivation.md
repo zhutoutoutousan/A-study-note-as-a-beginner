@@ -8,6 +8,8 @@
   - [Endocannabinoid](#endocannabinoid)
   - [Oxytocin](#oxytocin)
   - [Endorphin](#endorphin)
+  - [Testosterone](#testosterone)
+  - [Estogen](#estogen)
   - [Resources](#resources)
 - [Psychological view](#psychological-view)
   - [WiLlPoWEr](#willpower)
@@ -77,6 +79,10 @@ Related with *warmth* and *bonding*
 
 ## Endorphin
 Related with *pleasure* and *satisfaction*
+
+## Testosterone
+
+## Estogen
 
 ## Resources
 1 - [Dopamine: Driving Your Brain into the Future | Daniel Z. Lieberman | TEDxWilmingtonWomen](https://www.youtube.com/watch?v=sj6R1Tcjsl8)

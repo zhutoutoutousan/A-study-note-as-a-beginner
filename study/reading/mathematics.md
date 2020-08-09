@@ -17,12 +17,6 @@
     - PDE
     - Complex Analysis
     - Probability and Statistics
-  - Progress(Cramming for APS tests):
-    - ODES and Laplace transform(1-255): 29/255
-    - Linear algebra, Vector Calculus: 256/256-473
-    - Fourier Analysis: 473/473-604
-    - Complex Analysis
-    - Probability and Statistics
 
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)
@@ -36,7 +30,7 @@
   - [Link1 - 上册](https://www.academia.edu/35115212/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6_%E7%AC%AC7%E7%89%88_%E4%B8%8A%E5%86%8C_%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
     - Need to download :(
     - !!!(private)Search for 7__.pdf.pdf locally
-    - process 1(Study for APS): p204/442
+
 
 
 # Linear algebra

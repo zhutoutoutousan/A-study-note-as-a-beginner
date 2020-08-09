@@ -19,7 +19,7 @@ Complete course:
   - Progress 2(Anywhere): 17:20/7hrs
 
 
-# Compiler principle
+# Compiler design
 ## Online resource
 [Parser and Lexer — How to Create a Compiler part 1/5 — Converting text into an Abstract Syntax Tree](https://www.youtube.com/watch?v=eF9qWbuQLuw)
 # Building your roadmap

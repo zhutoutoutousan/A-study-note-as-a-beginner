@@ -1,0 +1,1 @@
+Given infinite worlds of infinite possibilities, how to stop an event $P_1$ from ever happening?

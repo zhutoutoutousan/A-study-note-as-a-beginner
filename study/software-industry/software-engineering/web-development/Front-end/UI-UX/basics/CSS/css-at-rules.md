@@ -12,7 +12,7 @@
 # ```@import```
 
 # ```@media () {}```
-- It has 
+
 ## ```@media (min-width: <length>){}```
 - Mobile first
 ## ```@media (max-width: <length>){}```
@@ -20,4 +20,5 @@
 ## ```@media(orientation: landscape){}```
 ## ```@media(orientation: portrait){}```
 # ```@keyframes```
-[MDN - @keyframe](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
+- Crutial animation rule
+- [MDN - @keyframe](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)

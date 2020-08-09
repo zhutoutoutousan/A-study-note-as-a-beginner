@@ -20,7 +20,9 @@
 - [```<color>```](#color)
 - [```<image>```](#image)
   - [```url(<path>)```](#urlpath)
+  - [```<color>```](#color-1)
 - [```<position>```](#position)
+  - [```left/right/top/bottom```](#leftrighttopbottom)
 - [```<function>```](#function)
 - [```<angle>```](#angle)
 - [```<percentage>```](#percentage)
@@ -45,7 +47,7 @@ One of the goals is to instantly translate all the length units to how much spac
 ```html
 <div class="col col--em">
     <h1>em</h1>
-    <p>All the font sizes in this column are  set using ems.</p>
+    <p>All the font sizes in this column are set using ems.</p>
 </div>
 ```
 
@@ -63,7 +65,9 @@ For more see
 
 # ```<image>```
 ## ```url(<path>)```
+## ```<color>```
 # ```<position>```
+## ```left/right/top/bottom```
 
 # ```<function>```
 

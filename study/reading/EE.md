@@ -46,4 +46,3 @@
 ## SMPS
 - Switch node power supply handbook
   - [Link 1](https://doc.xdevs.com/docs/_Books/Switchmode%20Power%20Supply%20Handbook.pdf)
-# Extensive reading

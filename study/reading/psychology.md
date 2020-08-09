@@ -46,4 +46,4 @@
 # Intelligence
 - Die Intelligenz der Kinder und Jugendlichen und die Methoden ihrer Untersuchung
   - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
-  - It is said to be the academic source of research into human intelligence
+  - It is said to be the academic source of the first formal research into the human IQ

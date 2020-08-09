@@ -14,3 +14,4 @@
 
 # Strange thinking
 - Is there a negative frequency?
+  - [wiki](https://en.wikipedia.org/wiki/Negative_frequency)

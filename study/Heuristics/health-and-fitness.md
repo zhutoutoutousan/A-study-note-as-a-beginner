@@ -33,6 +33,7 @@
       - [Acne](#acne)
     - [Colon](#colon)
       - [Ulcerative Colitis](#ulcerative-colitis-1)
+      - [Appendicitis](#appendicitis)
 - [Mental disorder](#mental-disorder)
 - [Other anomalies](#other-anomalies)
   - [Circadium rhythm distruption](#circadium-rhythm-distruption)
@@ -210,6 +211,9 @@ Remedy
 ### Colon
 #### Ulcerative Colitis
 - [What is Ulcerative Colitis?](https://www.youtube.com/watch?v=JMApMBY0CfQ)
+#### Appendicitis
+- High fiber diet would help alleviate the symptom
+
 # Mental disorder
 
 # Other anomalies

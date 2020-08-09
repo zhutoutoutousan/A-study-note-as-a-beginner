@@ -20,8 +20,8 @@
       - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
     - [Software engineering](#software-engineering)
       - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
-  - [Quotes](#quotes)
     - [Psychology](#psychology)
+  - [Quotes](#quotes)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
     - [IELTS](#ielts)
@@ -33,6 +33,7 @@
 - [Optional tests](#optional-tests)
   - [TestDaf](#testdaf)
   - [APS(Academische Pruefungstelle)](#apsacademische-pruefungstelle)
+    - [(Spoiler alert)](#spoiler-alert)
     - [EE(Under 10 days)](#eeunder-10-days)
       - [Basic spirit](#basic-spirit)
       - [Professional English](#professional-english)
@@ -119,22 +120,26 @@ Four key time stamps to review what I've learned:
 - Learning the conceptual structure and terminology of the different areas of engineering mathematics is very important for three reasons:
   - It may allow you to *identify a new problem and put it into the right group of problems*. The area of engineering mathematics are growing but most often retain their conceptual structure.
   - You may *absorb new information more rapidly* by being able to fit it into the conceptual structure.
-  - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics.
+  - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics or else.
 
 ### Software engineering
 #### The implementation of the forgetting curve to the knowledge structure categorization
 - Check ```leetcode``` section and you'll know
 
-## Quotes
-- Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 
 ### Psychology
 - First question is, how do you build an efficient strategy of reading, study and observation given a certain goal.
 
+
+## Quotes
+- Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
+
 # Standardized Tests
 ## Language
 ### IELTS
+- Steve Kaumann: Training for the test brings few merit when it comes to acquiring a language.
 ### TOEFL
+- Steve Kaumann: Training for the test brings few merit when it comes to acquiring a language.
 ### CEFR
 - German
 - French
@@ -147,6 +152,8 @@ Four key time stamps to review what I've learned:
 # Optional tests
 ## TestDaf
 ## APS(Academische Pruefungstelle)
+### (Spoiler alert)
+- The difficulty of the test is greatly exaggerated. :-)
 ### EE(Under 10 days)
 #### Basic spirit
 - Get ready to fail~ 

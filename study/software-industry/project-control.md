@@ -96,7 +96,22 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 
 # Front-end portfolio
+Consider merging
 
+- Accordian
+- Autocomplete
+- Vue calculator
+  - [x] HTML layout
+  - [x] Layout style
+  - [ ] CSS animation
+  - [ ] Logic
+- Carousel
+- Drop-down-menu
+- Expanding-search-bar
+- Icon bar
+- Pagination
+- Responsive navbar
+- toast-notification
 
 # Chess game
 ## Design

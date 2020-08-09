@@ -26,6 +26,11 @@
       - [Mucosis injury](#mucosis-injury)
       - [Stomach ulcer](#stomach-ulcer)
         - [Medications](#medications)
+    - [Liver](#liver)
+    - [Gallbladder](#gallbladder)
+      - [Cholelithiasis](#cholelithiasis)
+      - [Acute cholecystitis](#acute-cholecystitis)
+      - [Chronic cholecystitis](#chronic-cholecystitis)
     - [Intestine](#intestine)
       - [IBS(Irritable Bowel Syndrome)](#ibsirritable-bowel-syndrome)
       - [Ulcerative colitis](#ulcerative-colitis)
@@ -180,6 +185,11 @@ Posterior labral tear:
 #### Mucosis injury
 #### Stomach ulcer
 ##### Medications
+### Liver
+### Gallbladder
+#### Cholelithiasis
+#### Acute cholecystitis
+#### Chronic cholecystitis
 ### Intestine
 #### IBS(Irritable Bowel Syndrome)
 Symptoms:

@@ -32,6 +32,9 @@
   - [JavaScript Weekly](#javascript-weekly)
   - [极客时间](#极客时间)
   - [kaikeba](#kaikeba)
+- [FILL IN THE GAP: Boost progress using APPs](#fill-in-the-gap-boost-progress-using-apps)
+  - [AlgoPrep](#algoprep)
+  - [Brilliant](#brilliant)
 - [P.O.I](#poi)
   - [Kyle Simpson](#kyle-simpson)
   - [Eric Elliott](#eric-elliott)
@@ -146,6 +149,7 @@
 ### Codingtrain
 ### Fun Fun Function
 ### Traversy Media
+- Has tendency to transform into a platform
 ### Coding Tech
 ### Jsconf
 ### Code inspire
@@ -159,6 +163,14 @@
 ## 极客时间
 
 ## kaikeba
+
+# FILL IN THE GAP: Boost progress using APPs
+## AlgoPrep
+- Good for learning data structure and algorithms
+## Brilliant
+- Just play around it, like learning a few new languages
+
+
 
 # P.O.I
 ## Kyle Simpson

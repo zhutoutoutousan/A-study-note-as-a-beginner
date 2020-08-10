@@ -25,7 +25,15 @@
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
   - [Design](#design-3)
     - [UI](#ui-2)
+      - [Navbar](#navbar)
   - [Functionality](#functionality-3)
+    - [Algorithm study](#algorithm-study)
+      - [](#)
+    - [Sorting algorithm map](#sorting-algorithm-map)
+      - [Heap sort](#heap-sort)
+      - [Merge sort](#merge-sort)
+      - [](#-1)
+    - [Pathfinding algorithm map](#pathfinding-algorithm-map)
   - [Tech-stack](#tech-stack-2)
   - [Reference materials](#reference-materials-1)
 - [Problem solving proficiency](#problem-solving-proficiency)
@@ -64,7 +72,7 @@ xxxxxxx...August-----------------------September--------------------------->|
                       /|\
                        |  U R here
 ```
-              
+- First stage mark: **FST**
 # Personal website
 ## Front-page
 ### Design
@@ -127,11 +135,20 @@ Consider merging
 
 ## Reference materials
 - Code bullet --> Chess AI
-
+  - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
 # Pathfinding algorithm visualizer
 ## Design
 ### UI
+- Use **React** to do 
+#### Navbar
 ## Functionality
+### Algorithm study
+#### 
+### Sorting algorithm map
+#### Heap sort
+#### Merge sort
+#### 
+### Pathfinding algorithm map
 ## Tech-stack
 - React
 ## Reference materials

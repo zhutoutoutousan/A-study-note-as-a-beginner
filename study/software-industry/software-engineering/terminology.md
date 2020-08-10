@@ -20,6 +20,9 @@
   - [P](#p)
     - [Packet switch](#packet-switch)
   - [R](#r)
+    - [React element](#react-element)
+    - [React.js](#reactjs)
+    - [React component class/type](#react-component-classtype)
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
@@ -69,6 +72,22 @@ A group of servers that stores your data
 ## P
 ### Packet switch
 ## R
+### React element
+- ```render``` returns a **React element**
+### React.js
+- React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+- It lets you compose UIs from small and isolated pieces of code called "Components"
+### React component class/type
+```javascript
+class ThisIsAComponentClass extends React.Component {
+  render() {
+    return (
+      // JSX
+    );
+  }
+}
+
+```
 ### Replica set
 A cluster where each server stores the same data
 ### Requests for comments(RFCs)

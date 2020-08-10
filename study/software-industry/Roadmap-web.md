@@ -19,6 +19,8 @@
   - [Frontend Masters($39/month)](#frontend-masters39month)
     - [Intro to Web Dev](#intro-to-web-dev)
     - [Vue.js Path](#vuejs-path)
+    - [React.js Path](#reactjs-path)
+    - [JavaScript/TypeScript](#javascripttypescript)
     - [Uncatagorizeed](#uncatagorizeed)
   - [Egghead($40/month)](#egghead40month)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
@@ -111,11 +113,33 @@
 - JavaScript: Understanding the Weirds Parts
 ## Frontend Masters($39/month)
 ### Intro to Web Dev
-
+- Complete Intro to Web Development, v2
+  - [Link1](https://frontendmasters.com/courses/web-development-v2/)
 ### Vue.js Path
-### Uncatagorizeed
+- Vue.js Path
+  - Intro to Vue.js
+    - Suggested as the first vue course
+    - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
+    - [github](https://github.com/sdras/intro-to-vue)
+    - Recommended speed: 2x(Could be slower)
+    - Progress track: Vue directive 21min + 7min28s/ 5hrs
+  - Advanced Vue.js Features from the Ground Up
+    - More resources on Vue source code interpretation
+
+### React.js Path
+- React.js Path
+  - [Entry](https://frontendmasters.com/learn/react/)
+  - Complete Intro to React, v5
+    - [Link](https://frontendmasters.com/courses/complete-react-v5/)
+    - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
+    - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
+### JavaScript/TypeScript
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)
+- TypeScript 3 Fundamentals, v2
+  - [Link](https://frontendmasters.com/courses/typescript-v2/)
+  - Progress: /4hrs
+### Uncatagorizeed
 - Deep JavaScript Foundations
 - Rethinking Asynchronous JavaScript
 - Functional-Light JavaScript, v2
@@ -128,24 +152,8 @@
 - Hardcore Functional Programming in JavaScript
 - Asynchronous Programming in JavaScript (with Rx.js Observables)
 - Advanced Asynchronous JavaScript
-- Vue.js Path
-  - Intro to Vue.js
-    - Suggested as the first vue course
-    - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
-    - [github](https://github.com/sdras/intro-to-vue)
-    - Recommended speed: 2x(Could be slower)
-    - Progress track: Vue directive 21min + 7min28s/ 5hrs
-  - Advanced Vue.js Features from the Ground Up
-    - More resources on Vue source code interpretation
-- React.js Path
-  - [Entry](https://frontendmasters.com/learn/react/)
-  - Complete Intro to React, v5
-    - [Link](https://frontendmasters.com/courses/complete-react-v5/)
-    - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
-    - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
-- TypeScript 3 Fundamentals, v2
-  - [Link](https://frontendmasters.com/courses/typescript-v2/)
-  - Progress: /4hrs
+
+
 
 ## Egghead($40/month)
 - RxJS Beyond the Basics: Creating Observables from scratch

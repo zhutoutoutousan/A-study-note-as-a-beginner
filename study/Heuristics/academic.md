@@ -44,10 +44,13 @@
       - [1 month](#1-month)
     - [Resource](#resource-1)
 - [Skillsets](#skillsets)
+  - [Academic information searching](#academic-information-searching)
+    - [Automation tools](#automation-tools)
   - [Academic reading](#academic-reading)
     - [Original research reports](#original-research-reports)
   - [Academic writing](#academic-writing)
-    - [Common phrases](#common-phrases)
+    - [Conlude](#conlude)
+    - [Analogize](#analogize)
     - [Quotes on good practices](#quotes-on-good-practices)
 - [Academia landscape](#academia-landscape)
   - [Relations with the industry](#relations-with-the-industry)
@@ -199,6 +202,9 @@ Not applicable
 - [APS审核经验+审核资料汇总——计算机科学与技术专业上海德语审核](https://www.cnblogs.com/Java-Starter/p/10385600.html#autoid-3-1-1)
 - [最新审核进度 | 附电气工程及其自动化专业APS复习资料](https://zhuanlan.zhihu.com/p/91614666)
 # Skillsets
+## Academic information searching
+### Automation tools
+- :d
 ## Academic reading
 ### Original research reports
 - **Anatomy**: Each of the original research reports contains four principle sections:
@@ -208,8 +214,9 @@ Not applicable
   4. The *discussion* section, in which the researcher evaluates and interprets the data presented in the preceding section and tries to make sense of them in the context of previous research. The creative researcher can also use this section to speculate about hte implications of the data and to point the way toward future research.
 - Reading strategy
 ## Academic writing
-### Common phrases
-- Be analogous to 
+### Conlude
+### Analogize
+- It seems that scientific readings are full with analogies, so obtaining a high level of oral and written dexterities of communication using analogy is important
 ### Quotes on good practices
 # Academia landscape
 ## Relations with the industry
@@ -221,7 +228,7 @@ Not applicable
 
 # Tools
 ## TiddyWiki
-- This stuff seems much more disorganized than this one first thought xD Once disorganized, be disorganized forever kind of stuff. Maybe the difficiency of the tool is overpowered by the overrated grandiose image of the user
+- This stuff seems much more disorganized than this one first thought xD Once disorganized, be disorganized forever kind of stuff. Maybe the difficiency of the tool is overpowered by the overrated grandiose image of the user. BUT great for people high in traits of narscissism to bluff by looking mysterious. And very good to stand out among all the social media actors. AS LONG AS you sell other stuff that the crowd considers useful/applicable --> Book Entry: *The social animal* [dog face]
 - [An example of a heavy user](https://onetwo.ren/)
 
 

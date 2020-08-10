@@ -155,6 +155,7 @@ Four key time stamps to review what I've learned:
 # Optional tests
 ## TestDaf
 ## APS(Academische Pruefungstelle)
+CONSIDER DEPRECATED AND ARCHIVED OR DELETED
 ### (Spoiler alert)
 - The difficulty of the test is greatly exaggerated. :-)
 ### EE(Under 10 days)
@@ -230,6 +231,7 @@ Not applicable
 ## TiddyWiki
 - This stuff seems much more disorganized than this one first thought xD Once disorganized, be disorganized forever kind of stuff. Maybe the difficiency of the tool is overpowered by the overrated grandiose image of the user. BUT great for people high in traits of narscissism to bluff by looking mysterious. And very good to stand out among all the social media actors. AS LONG AS you sell other stuff that the crowd considers useful/applicable --> Book Entry: *The social animal* [dog face]
 - [An example of a heavy user](https://onetwo.ren/)
+  - P.S: The popular/infamous **Meme** created by Richard Dawkins is considered too shallow compared to Jung psychology and archetypes by Jordan B. Peterson, maybe it is interesting to look into.
 
 
 # Book reference entry

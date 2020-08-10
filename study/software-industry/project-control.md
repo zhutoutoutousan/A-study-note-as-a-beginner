@@ -175,7 +175,9 @@ Consider merging
 #### Breadth-first Search
 #### Depth-first Search
 ## Tech-stack
-- React
+- [ ] React
+  - [ ] React tutorial
+    - [ ] tic-tac-tok game
 ## Reference materials
 - Clement mihailescu --> Original Vanilla-Js project
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)

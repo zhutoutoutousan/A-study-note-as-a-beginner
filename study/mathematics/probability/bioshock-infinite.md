@@ -1,1 +1,3 @@
 Given infinite worlds of infinite possibilities, how to stop an event $P_1$ from ever happening?
+- "Constant and variables", let's suppose that an event that you are to physically leave the Earth and across the Milky Way to the Andromeda in 10 minutes as Event $P_1$. Then let's suppose another event $P_2$ where you are to stand up and take a leak in 10 minutes. And it is safe to say that the possibility of $P_1$ is 0 due to the gravity and the shortage of time even given infinite worlds of infinite possibilities, which serves as an instant of the concept **constant**. But for $P_2$, the possibility serves as an **variable**.
+- How to clarify the boundry of **insignificance** and **significance**?

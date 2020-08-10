@@ -10,17 +10,18 @@
     - [Design](#design)
       - [UI](#ui)
       - [Functionality](#functionality)
+    - [Tech-stack](#tech-stack)
   - [Blog-page](#blog-page)
     - [Design](#design-1)
       - [UI](#ui-1)
       - [Functionality](#functionality-1)
-    - [Tech-stack](#tech-stack)
+    - [Tech-stack](#tech-stack-1)
   - [Resource](#resource)
 - [Front-end portfolio](#front-end-portfolio)
 - [Chess game](#chess-game)
   - [Design](#design-2)
   - [Functionality](#functionality-2)
-  - [Tech-stack](#tech-stack-1)
+  - [Tech-stack](#tech-stack-2)
   - [Reference materials](#reference-materials)
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
   - [Design](#design-3)
@@ -28,13 +29,17 @@
       - [Navbar](#navbar)
   - [Functionality](#functionality-3)
     - [Algorithm study](#algorithm-study)
-      - [](#)
     - [Sorting algorithm map](#sorting-algorithm-map)
       - [Heap sort](#heap-sort)
       - [Merge sort](#merge-sort)
-      - [](#-1)
+      - [Quick sort](#quick-sort)
     - [Pathfinding algorithm map](#pathfinding-algorithm-map)
-  - [Tech-stack](#tech-stack-2)
+      - [Dijkstra's algorithm](#dijkstras-algorithm)
+      - [A* Search](#a-search)
+      - [Greddy Best-first Search](#greddy-best-first-search)
+      - [Breadth-first Search](#breadth-first-search)
+      - [Depth-first Search](#depth-first-search)
+  - [Tech-stack](#tech-stack-3)
   - [Reference materials](#reference-materials-1)
 - [Problem solving proficiency](#problem-solving-proficiency)
   - [Algorithm familiarity](#algorithm-familiarity)
@@ -44,7 +49,7 @@
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
   - [Design](#design-4)
     - [Functionality](#functionality-4)
-  - [Tech-stack](#tech-stack-3)
+  - [Tech-stack](#tech-stack-4)
   - [Reference materials](#reference-materials-2)
 - [DeepSTUDYcity](#deepstudycity)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
@@ -73,12 +78,18 @@ xxxxxxx...August-----------------------September--------------------------->|
                        |  U R here
 ```
 - First stage mark: **FST**
+
+
+
 # Personal website
 ## Front-page
 ### Design
 #### UI
 - Just like the first example in the **resource** section
 #### Functionality
+### Tech-stack
+- [ ] Vue
+  - [ ] Series of courses on your note: **Roadmap-web**
 
 ## Blog-page
 ### Design
@@ -136,24 +147,45 @@ Consider merging
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
+
+
+
+
+
+
+
+
 # Pathfinding algorithm visualizer
 ## Design
 ### UI
-- Use **React** to do 
 #### Navbar
+- [ ] Study the html code in the repo, play around with demos
+  - [ ] How about putting it into your own portfolio?
 ## Functionality
 ### Algorithm study
-#### 
+- Check **Roadmap-web** for guidance
 ### Sorting algorithm map
 #### Heap sort
 #### Merge sort
-#### 
+#### Quick sort
 ### Pathfinding algorithm map
+#### Dijkstra's algorithm
+#### A* Search
+#### Greddy Best-first Search
+#### Breadth-first Search
+#### Depth-first Search
 ## Tech-stack
 - React
 ## Reference materials
 - Clement mihailescu --> Original Vanilla-Js project
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
+
+
+
+
+
+
+
 # Problem solving proficiency
 ## Algorithm familiarity
 ## Data Structure familiarity
@@ -161,8 +193,26 @@ Consider merging
 - Leetcode most interviewed questions
 
 
+
+
+
+
+
 # Interview questions
 - Resource preparation
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -121,14 +121,20 @@
 - Hardcore Functional Programming in JavaScript
 - Asynchronous Programming in JavaScript (with Rx.js Observables)
 - Advanced Asynchronous JavaScript
-- Intro to Vue.js
-  - Suggested as the first vue course
-  - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
-  - [github](https://github.com/sdras/intro-to-vue)
-  - Recommended speed: 2x(Could be slower)
-  - Progress track: Vue directive 21min + 7min28s/ 5hrs
-- Advanced Vue.js Features from the Ground Up
-  - More resources on Vue source code interpretation
+- Vue.js Path
+  - Intro to Vue.js
+    - Suggested as the first vue course
+    - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
+    - [github](https://github.com/sdras/intro-to-vue)
+    - Recommended speed: 2x(Could be slower)
+    - Progress track: Vue directive 21min + 7min28s/ 5hrs
+  - Advanced Vue.js Features from the Ground Up
+    - More resources on Vue source code interpretation
+- React.js Path
+  - [Entry](https://frontendmasters.com/learn/react/)
+  - Complete Intro to React, v5
+    - [Link](https://frontendmasters.com/courses/complete-react-v5/)
+    - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
 - TypeScript 3 Fundamentals, v2
   - [Link](https://frontendmasters.com/courses/typescript-v2/)
   - Progress: /4hrs

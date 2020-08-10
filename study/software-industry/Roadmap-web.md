@@ -17,6 +17,9 @@
   - [Vue mastery](#vue-mastery)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
+    - [Intro to Web Dev](#intro-to-web-dev)
+    - [Vue.js Path](#vuejs-path)
+    - [Uncatagorizeed](#uncatagorizeed)
   - [Egghead($40/month)](#egghead40month)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
   - [Wes Bos](#wes-bos)
@@ -107,6 +110,10 @@
 - Modern React with Redux[2020 Update]
 - JavaScript: Understanding the Weirds Parts
 ## Frontend Masters($39/month)
+### Intro to Web Dev
+
+### Vue.js Path
+### Uncatagorizeed
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)
 - Deep JavaScript Foundations
@@ -135,6 +142,7 @@
   - Complete Intro to React, v5
     - [Link](https://frontendmasters.com/courses/complete-react-v5/)
     - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
+    - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
 - TypeScript 3 Fundamentals, v2
   - [Link](https://frontendmasters.com/courses/typescript-v2/)
   - Progress: /4hrs

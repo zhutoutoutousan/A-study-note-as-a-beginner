@@ -1,6 +1,11 @@
 # Why TH should this one learn [insert language]
+## Chinese
+- Get more money
+## Ancient Chinese
+- Get more money
 ## English
 - Duh
+- Get more money
 ## German
 - I want to study in Germany...in a year or two
 - I love Arthur Schopenhauer
@@ -8,7 +13,7 @@
 - I wanna be a good engineer, that place might just give me a whoosh
 ## French
 - Sunken cost fallacy, I already reached B1, why not study a bit more?
-- I've started gaining interest in the book *L'etranger*
+- I've started gaining interest in the book *L'étranger*
   - An important sociology terminology: **anomie** has come to my attention
   - I want to know what **anomie** in action in the real life
   - It seems this entity gaining interest in this book is suffering from the **anomie** mentioned above. 
@@ -40,6 +45,8 @@
 
 
 # How is this one going to learn these languages
+## Chinese
+## Ancient Chinese
 ## English
 - Go with the flow
 ## German
@@ -108,6 +115,8 @@
     - L.A Noire
       - English voices, [target Language] subtitles
     - Mafia 2
+
+
 # Dictionaries
 ## German
 - 德语助手

@@ -11,7 +11,7 @@
 
 # Life
 - A Guide to the Good Life: The Ancient Art of Stoic Joy
-
+- Solving Mathematical Problems: A Personal Perspective
 # Strange thinking
 - Is there a negative frequency?
   - [wiki](https://en.wikipedia.org/wiki/Negative_frequency)

@@ -2,8 +2,16 @@
 
 ## Computer network topology
 
-## Common Data Structure and Algorithms
+## Common Data Structure
 ### Visualization
-#### Sort
-#### Pathfinding
+#### Sorting algorithm
+#### Pathfinding algorithm
+
 ### Pseudo-code --> Other languages
+### Visualization
+#### Sorting algorithm
+#### Pathfinding algorithm
+
+
+## Common algorithms
+

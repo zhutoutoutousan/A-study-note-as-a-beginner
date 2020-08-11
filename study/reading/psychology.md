@@ -41,9 +41,15 @@
 - A history of modern psychology - D.P.Schultz: 71/436
   - [Link1](https://www.uv.mx/rmipe/files/2017/05/A-history-of-modern-psychology.pdf)
   - For this book, you can just read the part in which you are interested
+  - Process 1: Carl Jung
+  - Process 2: Carl Roger
 
 
 # Intelligence
 - Die Intelligenz der Kinder und Jugendlichen und die Methoden ihrer Untersuchung
   - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
   - It is said to be the academic source of the first formal research into the human IQ
+  - Process 1(Just familiarize yourself with the big picture)
+    - Progress: 14/367
+      - [ ] Learn the vocabularies of the *Inhaltsverzeichnis*
+  - Process 2(Interest in *Die Verschiedenheiten der Intelligenz* - *Die Entwicklung der Intelligenz*)

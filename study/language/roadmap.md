@@ -1,4 +1,4 @@
-# Why TH should you learn [insert language]
+# Why TH should this one learn [insert language]
 ## English
 - Duh
 ## French
@@ -18,12 +18,42 @@
 - I once loved Владимир Тостои
 - I am interested the **incident** that happend in the 1990  
 - I enjoy killing my time on lingodeer learning this language when commuting
-## Spanish
+## Spanish & Portuguese
 - No, no interest at all, except for some big boob  
 - I enjoy killing my time on lingodeer learning this language when commuting
+- I want to understand what the soldiers are talking about in the video game *Max Payne 3*
 ## Italian
 - Most of the opera repertoires I've been practicing are in Italian, of course, it is important
 - I enjoy killing my time on lingodeer learning this language when commuting
+## Japanese
+- I just want to know what they are talking about in Japanese pornos  
+- I enjoy killing my time on lingodeer learning this language when commuting
+## Korean
+- I just want to know what they are singing in Kpop MVs  
+- I enjoy killing my time on lingodeer learning this language when commuting
+## Arabic
+- It looks sexy
+## Greek
+- It looks smart
+
+# How is this one going to learn these languages
+## English
+- Go with the flow
+## French
+- Video games
+- Romans
+- Lingodeer
+## German
+- Reading
+- YouTube
+- Video games
+## Russian
+- Get familiar with the typewriting first
+- Lingodeer(After finishing French and Italian)
+## Spanish & Portuguese
+- Lingodeer(After finishing Russian)
+## Italian
+
 ## Japanese
 - I just want to know what they are talking about in Japanese pornos  
 - I enjoy killing my time on lingodeer learning this language when commuting

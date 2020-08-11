@@ -43,7 +43,7 @@
 # Online resource
 ## Study sites
 - [Lingolia – Simply better at languages](https://www.lingolia.com/en/)
-
+- [FluentU](https://www.fluentu.com/)
 ## Dictionaries
 ### French
 - [https://www.collinsdictionary.com/](https://www.collinsdictionary.com/)

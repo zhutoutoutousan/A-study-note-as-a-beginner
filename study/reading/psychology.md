@@ -19,8 +19,11 @@
     - [Link2](https://epdf.pub/erinnerungen-trume-gedanken-c-g-jung.html)
   - Die Archetypen und das kolletive Unbewußte
     - [Link1 - English version](https://www.are.na/block/1493356)
-    - [Link2 - Requires download](https://download-pdfs.com/v6/preview/?pid=6&offer_id=355&ref_id=714171d25c49e8c18a3fae88e37dkY1i_d20b5a63_c28f910b&sub1=d20b5a63&keyword=Die%20Archetypen%20und%20das%20kollektive%20Unbewusste)
     - [Paperback 33USD](https://www.amazon.com/Die-Archetypen-das-kollektive-Unbewusste/dp/3843601275)
+    - Suggested staying with the English version, the original German version online available without scams is pretty rare.
+    - Paperback version can be obtained later
+    - Process 1(Normal reading)
+      - Progress(English version - link1): 21/566
 - Carl Rogers
 - Sigmund Freud
 - Gustave Le Bon

@@ -1,6 +1,4 @@
-
 # P.O.I
-
 - Jean Martin Charcot
   - A teacher of *Sigmund Freud*
   - Studied the deliberate manipulation of opinion
@@ -10,18 +8,28 @@
     - Hyppolyte Bernheim
     - A. A. Liébault
 - Jordan B. Peterson
-- Carl Jung
+- Carl G. Jung
   - On the Nature of the Psyche
     - Printed version
     - Process 1(Reading for pleasure) 
     - Process 2(Serious reading)
   - YouTube videos
-  - Memories, Dreams, Reflections
-    - [Link1](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
-  - Archetypes and the Collective Unconscious
-    - [Link1](https://www.are.na/block/1493356)
+  - Erinnerungen, Träume, Gedanken
+    - [Link1 - English version](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
+    - [Link2](https://epdf.pub/erinnerungen-trume-gedanken-c-g-jung.html)
+  - Die Archetypen und das kolletive Unbewußte
+    - [Link1 - English version](https://www.are.na/block/1493356)
+    - [Link2 - Requires download](https://download-pdfs.com/v6/preview/?pid=6&offer_id=355&ref_id=714171d25c49e8c18a3fae88e37dkY1i_d20b5a63_c28f910b&sub1=d20b5a63&keyword=Die%20Archetypen%20und%20das%20kollektive%20Unbewusste)
+    - [Paperback 33USD](https://www.amazon.com/Die-Archetypen-das-kollektive-Unbewusste/dp/3843601275)
 - Carl Rogers
 - Sigmund Freud
+- Gustave Le Bon
+  - Psychologie des foules
+    - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
+
+# Jungian Psychology
+- The Handbook of Jungian Psychology
+  - [link1](https://dondeg.files.wordpress.com/2015/08/hjp.pdf)
 # Society
 - The Social Animal - E.Aronson
   - [Link1](https://khanahmadli.files.wordpress.com/2019/01/the-social-animal.pdf)

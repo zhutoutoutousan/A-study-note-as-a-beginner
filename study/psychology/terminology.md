@@ -2,8 +2,10 @@
 - [Table of Contents](#table-of-contents)
 - [Alphabetical](#alphabetical)
   - [A](#a)
+    - [Aion](#aion)
     - [Altruism](#altruism)
     - [Apposite](#apposite)
+    - [Archetype](#archetype)
     - [Ascribe](#ascribe)
     - [Assent](#assent)
   - [C](#c)
@@ -50,11 +52,13 @@
     - [watery](#watery)
 # Alphabetical
 ## A
+### Aion
 ### Altruism
 - the belief in or practice of disinterested and selfless concern for the well-being of others.
 - [wiki](https://en.wikipedia.org/wiki/Altruism)
 
 ### Apposite
+### Archetype
 ### Ascribe
 ### Assent
 

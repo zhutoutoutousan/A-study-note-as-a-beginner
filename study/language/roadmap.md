@@ -1,6 +1,11 @@
 # Why TH should this one learn [insert language]
 ## English
 - Duh
+## German
+- I want to study in Germany...in a year or two
+- I love Arthur Schopenhauer
+- I love Friedrich Nitzsche
+- I wanna be a good engineer, that place might just give me a whoosh
 ## French
 - Sunken cost fallacy, I already reached B1, why not study a bit more?
 - I've started gaining interest in the book *L'etranger*
@@ -8,11 +13,7 @@
   - I want to know what **anomie** in action in the real life
   - It seems this entity gaining interest in this book is suffering from the **anomie** mentioned above. 
 - I enjoy killing my time on lingodeer learning this language when commuting
-## German
-- I want to study in Germany...in a year or two
-- I love Arthur Schopenhauer
-- I love Friedrich Nitzsche
-- I wanna be a good engineer, that place might just give me a whoosh
+
 ## Russian
 - I love some russian songs back in the 1940s
 - I once loved Владимир Тостои
@@ -36,34 +37,40 @@
 ## Greek
 - It looks smart
 
+
+
 # How is this one going to learn these languages
 ## English
 - Go with the flow
-## French
-- Video games
-- Romans
-- Lingodeer
 ## German
 - Reading
 - YouTube
 - Video games
+## French
+- Video games
+- Romans
+- Lingodeer
+- Get stimulations by looking up conjugaison of verbs in the search engine
+## Italian
+- Lingodeer
+- Get stimulations by looking up *coniugazione* of verbs in the search engine
+
 ## Russian
 - Get familiar with the typewriting first
 - Lingodeer(After finishing French and Italian)
 ## Spanish & Portuguese
 - Lingodeer(After finishing Russian)
-## Italian
-
 ## Japanese
-- I just want to know what they are talking about in Japanese pornos  
-- I enjoy killing my time on lingodeer learning this language when commuting
+- Lingodeer(After finishing Spanish & Portuguese)
+  - Typewriting practice
 ## Korean
-- I just want to know what they are singing in Kpop MVs  
-- I enjoy killing my time on lingodeer learning this language when commuting
+- Lingodeer(After finishing Japanese)
 ## Arabic
-- It looks sexy
+- Requires serious learning if started, note taking required
 ## Greek
-- It looks smart
+- Requires serious learning if started, note taking required
+## Latin
+- Requires serious learning if started, note taking required
 
 
 # P.O.I

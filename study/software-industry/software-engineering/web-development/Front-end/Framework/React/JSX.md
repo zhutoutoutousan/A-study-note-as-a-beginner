@@ -1,3 +1,6 @@
+# Basics
+- JSX ia an expression
+# Rendering process
 - The ```<div />``` syntax is transformed at build time to ```React.createElement('div')```
 
 ```javascript
@@ -24,3 +27,9 @@ return React.createElement('div', {className: 'shopping-list'},
 );
 
 ```
+
+# Curly brace
+Put any valid JavaScript Expression in side
+
+
+# Injection attack prevention

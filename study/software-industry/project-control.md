@@ -74,8 +74,8 @@
 ```
 April -...--------------------------------------------------------------> October  
 xxxxxxx...August-----------------------September--------------------------->|  
-                      /|\
-                       |  U R here
+                        /|\
+                         |  U R here
 ```
 - First stage mark: **FST**
 
@@ -166,18 +166,29 @@ Consider merging
 - Check **Roadmap-web** for guidance
 ### Sorting algorithm map
 #### Heap sort
+- APP
 #### Merge sort
+- APP
 #### Quick sort
+- APP
 ### Pathfinding algorithm map
 #### Dijkstra's algorithm
+- APP
 #### A* Search
+- APP
 #### Greddy Best-first Search
+- APP
 #### Breadth-first Search
+- APP
 #### Depth-first Search
+- APP
 ## Tech-stack
 - [ ] React
   - [ ] React tutorial
     - [ ] tic-tac-tok game
+      - [ ] [Official walkthrough](https://reactjs.org/tutorial/tutorial.html)
+    - [ ] Concepts
+      - [ ] [Official guide](https://reactjs.org/docs/hello-world.html)
 ## Reference materials
 - Clement mihailescu --> Original Vanilla-Js project
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)

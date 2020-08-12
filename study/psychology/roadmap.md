@@ -10,3 +10,6 @@
   - Reported that he had succeeded in modifying the esthetic preferences of the merit of a literary passage could be raised or lowered by ascribing the passage to different authors. *Apparently the sheer weight of numbers of authority sufficed to change opinions, even when no arguments for the opinions themselves were provided*
 - Solomen E. Asch
   - Solomon Eliot Asch was a Polish-American gestalt psychologist and pioneer in social psychology. He created seminal pieces of work in impression formation, prestige suggestion, conformity, and many other topics.
+
+# Learn from films
+- [The Shining: Why We Go Insane (The Myth of the Madman)](https://www.youtube.com/watch?v=GZmZMCuGa0A)

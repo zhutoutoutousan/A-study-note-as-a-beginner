@@ -16,7 +16,9 @@
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
   - [E](#e)
+    - [Engorge](#engorge)
     - [Epoch](#epoch)
+    - [Exemplary](#exemplary)
   - [F](#f)
     - [Fallacy](#fallacy)
     - [Falsism](#falsism)
@@ -24,6 +26,7 @@
     - [Group pressure](#group-pressure)
   - [H](#h)
   - [I](#i)
+    - [Inexorable](#inexorable)
     - [Incredulous](#incredulous)
   - [O](#o)
     - [Ordeal](#ordeal)
@@ -75,9 +78,12 @@
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.
 ### Dissenter
 ## E
+### Engorge
+- cause to swell with blood, water, or another fluid.
 ### Epoch
 - --> Epic
-
+### Exemplary
+- (adj)serving as a desirable model; representing the best of its kind.
 ## F
 ### Fallacy
 ### Falsism
@@ -89,6 +95,8 @@
 ### Group pressure
 ## H
 ## I
+### Inexorable
+- (adj)impossible to stop or prevent.
 ### Incredulous
 - (of a person or their manner) unwilling or unable to believe something.
 

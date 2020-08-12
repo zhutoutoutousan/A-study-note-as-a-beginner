@@ -4,3 +4,9 @@
 
 ## Scenarios
 ### Use inline React
+
+
+# Troubleshoot
+
+## Uncaught SyntaxError: Unexpected token '<'
+- [ReactJS: “Uncaught SyntaxError: Unexpected token <” - Stackoverflow](https://stackoverflow.com/questions/28100644/reactjs-uncaught-syntaxerror-unexpected-token)

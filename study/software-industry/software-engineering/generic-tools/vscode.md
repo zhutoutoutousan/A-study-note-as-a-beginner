@@ -22,6 +22,7 @@
     - [npm](#npm)
     - [Markdown](#markdown)
 - [Language](#language)
+  - [JavaScript](#javascript-1)
   - [Markdown](#markdown-1)
 - [Troubleshooting](#troubleshooting)
   - [ENV](#env)
@@ -95,6 +96,8 @@ Q: What about /* */?
 ### Markdown
 
 # Language
+## JavaScript
+- Repeat a code pattern for N times
 ## Markdown
 - Bold: Ctrl+B
 

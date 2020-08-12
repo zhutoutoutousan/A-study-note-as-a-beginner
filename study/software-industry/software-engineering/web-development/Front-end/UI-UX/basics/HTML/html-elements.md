@@ -60,6 +60,9 @@
 - [Scripting](#scripting)
   - [canvas](#canvas)
   - [script](#script-1)
+    - [script type](#script-type)
+      - [text/javascript](#textjavascript)
+      - [text/babel](#textbabel)
 - [Obsolete and deprecated elements](#obsolete-and-deprecated-elements)
 - [**Which element for which scenario?**](#which-element-for-which-scenario)
 - [Resource](#resource)
@@ -155,7 +158,9 @@ Importance for accessibilitiy purposes:
 # Scripting
 ## canvas
 ## script
-
+### script type
+#### text/javascript
+#### text/babel
 # Obsolete and deprecated elements
 
 

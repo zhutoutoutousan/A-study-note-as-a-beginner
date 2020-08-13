@@ -26,6 +26,7 @@
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
   - [Wes Bos](#wes-bos)
   - [YouTube](#youtube)
+    - [DesignCourse](#designcourse)
     - [Codingtrain](#codingtrain)
     - [Fun Fun Function](#fun-fun-function)
     - [Traversy Media](#traversy-media)
@@ -169,7 +170,11 @@
 ## Wes Bos
 
 ## YouTube
+### DesignCourse
+- UI/UX design
 ### Codingtrain
+- P5.js
+- JavaScript
 ### Fun Fun Function
 ### Traversy Media
 - Has tendency to transform into a platform

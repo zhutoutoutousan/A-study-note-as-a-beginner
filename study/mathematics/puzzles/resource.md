@@ -1,0 +1,2 @@
+- [WIKI entry](https://en.wikipedia.org/wiki/Mathematical_puzzle)
+- [MathisFun](https://www.mathsisfun.com/puzzles/)

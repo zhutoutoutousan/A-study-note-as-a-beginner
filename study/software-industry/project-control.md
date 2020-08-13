@@ -112,7 +112,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Resource
 - [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
   - 3:30
-
+- [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
 
 # Front-end portfolio
 Consider merging

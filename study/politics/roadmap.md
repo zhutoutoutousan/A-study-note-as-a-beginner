@@ -32,4 +32,7 @@
 # P.O.I
 - Jordan B. Peterson
   - Rich YouTube channels
-
+- Paul Dibb
+  - [wiki](https://en.wikipedia.org/wiki/Paul_Dibb)
+  - ANU
+  - Gegen-chinisisch

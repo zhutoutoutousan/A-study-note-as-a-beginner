@@ -34,6 +34,7 @@
     - [Pertinent](#pertinent)
   - [R](#r)
     - [Readily](#readily)
+    - [Reality](#reality)
     - [Reiteration](#reiteration)
     - [Repudiate](#repudiate)
     - [Rigidity](#rigidity)
@@ -107,6 +108,9 @@
 
 ## R
 ### Readily
+### Reality
+- Is there a fixed definition of reality? What people say about don't mistaken your idealism for reality. Who are them? What are their attentions? Some are just wasterals, some are impertinent beserkers, some are sneaky politicians, and some are friends who wants to sincerely provide consultation. To artist, the reality may lie within the emotion within people. To politicians, the reality may stay with the vote and the election results. To businsessmen, the reality may be the numbers on the papers or presentations. To enigineers, the reality may be the systemic view of the world.
+  - Which version of the reality is more of an reeactment of what's truly going on in this world? 
 ### Reiteration
 - the action of repeating something, typically for emphasis or clarity.
 ### Repudiate

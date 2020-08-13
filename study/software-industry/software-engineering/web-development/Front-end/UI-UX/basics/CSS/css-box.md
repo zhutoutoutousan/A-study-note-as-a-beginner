@@ -14,6 +14,7 @@
       - [Mental model](#mental-model-2)
       - [Behaviour check](#behaviour-check-1)
       - [Calculation](#calculation-1)
+    - [```padding-box```](#padding-box)
     - [Resource](#resource)
   - [```height```](#height)
   - [```max-height```](#max-height)
@@ -81,6 +82,7 @@ margin: unset;
 - As a child of a parent, border-box is not willful, given the height and width restraints, its shrinks its sides so that its border doesn't excede the line drawn by its parent.
 #### Behaviour check
 #### Calculation
+### ```padding-box```
 ### Resource
 - [MDN - box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 - [box-sizing: border-box explained](https://www.youtube.com/watch?v=WlGQdgy-M6w) 0:14/5:21

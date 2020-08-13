@@ -23,8 +23,13 @@
   - [```<color>```](#color-1)
 - [```<position>```](#position)
   - [```left/right/top/bottom```](#leftrighttopbottom)
+  - [```float```](#float)
+  - [```position```](#position-1)
+  - [```z-index```](#z-index)
+  - [```clear```](#clear)
 - [```<function>```](#function)
 - [```<angle>```](#angle)
+  - [```deg```](#deg)
 - [```<percentage>```](#percentage)
 # Mental model
 One of the goals is to instantly translate all the length units to how much space does it take on the screen.
@@ -68,9 +73,14 @@ For more see
 ## ```<color>```
 # ```<position>```
 ## ```left/right/top/bottom```
+## ```float```
+## ```position```
+## ```z-index```
+## ```clear```
 
 # ```<function>```
 
 # ```<angle>```
-
+## ```deg```
+- Rotate **anti-clockwise**
 # ```<percentage>```

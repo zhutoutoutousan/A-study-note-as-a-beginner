@@ -50,8 +50,7 @@
     - [Font](#font)
     - [Color](#color)
       - [Color transition](#color-transition)
-        - [```background: -webkit-linear-gradient()```](#background--webkit-linear-gradient)
-        - [```-webkit-background-clip: text```](#-webkit-background-clip-text)
+        - [```background```+ ```background-clip: text``` + ```-webkit-text-fill-color```](#background-background-clip-text---webkit-text-fill-color)
 - [Cross-platform support](#cross-platform-support)
   - [Media query](#media-query)
 - [User](#user)
@@ -192,8 +191,31 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 ### Font
 ### Color
 #### Color transition
-##### ```background: -webkit-linear-gradient()```
-##### ```-webkit-background-clip: text```
+##### ```background```+ ```background-clip: text``` + ```-webkit-text-fill-color```
+```css
+.root {
+  --animation--rotation: 45deg;
+  --start--color: #c97874;
+  --end--color: #463042;
+  --text-color: #8c5059;
+}
+
+/* I have a question here, how do the color of the background 
+   and the color of the text interact with each other?
+*/
+
+.target-text {
+  background: -webkit-linear-gradient(
+                    var(--start--color) 10%, 
+                    var(--animation--rotation), 
+                    var(--end--color) 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: var(--text-color);
+}
+
+```
+- See [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
 # Cross-platform support
 ## Media query
 - For basics, check [CSS-@](./css-at-rules.md)

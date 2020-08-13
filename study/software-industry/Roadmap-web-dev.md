@@ -1,13 +1,15 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Study style](#study-style)
+- [Methodologies](#methodologies)
+  - [CSS](#css)
 - [Roadmap](#roadmap)
   - [Full-stack](#full-stack)
     - [Resources](#resources)
   - [Front-end](#front-end)
     - [HTML](#html)
       - [Playgrounds](#playgrounds)
-    - [CSS](#css)
+    - [CSS](#css-1)
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
     - [Code style](#code-style)
@@ -58,7 +60,7 @@
 - [Topic-oriented study resource track](#topic-oriented-study-resource-track)
   - [HTML](#html-1)
   - [JavaScript](#javascript-1)
-  - [CSS](#css-1)
+  - [CSS](#css-2)
     - [Codepenn series](#codepenn-series)
       - [Water ripple background](#water-ripple-background)
   - [UI&UX](#uiux)
@@ -70,6 +72,11 @@
 # Study style
 - First give a plan to a project I want to develop
 - Track the progress, and resort to the resources around.
+
+
+# Methodologies
+## CSS
+- For a developed project, remove all of its ```CSS``` code, then add it line by line to study how ```CSS``` works
 
 # Roadmap
 ## Full-stack

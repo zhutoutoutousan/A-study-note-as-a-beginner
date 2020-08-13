@@ -46,8 +46,18 @@
     - [```background-image```](#background-image)
       - [```radial-gradient()```](#radial-gradient)
       - [```linear-gradient()```](#linear-gradient)
+  - [Text](#text)
+    - [Font](#font)
+    - [Color](#color)
+      - [Color transition](#color-transition)
+        - [```background: -webkit-linear-gradient()```](#background--webkit-linear-gradient)
+        - [```-webkit-background-clip: text```](#-webkit-background-clip-text)
 - [Cross-platform support](#cross-platform-support)
   - [Media query](#media-query)
+- [User](#user)
+  - [Mouse](#mouse)
+    - [Determine mouse-in position](#determine-mouse-in-position)
+  - [Keyboard](#keyboard)
 
 # Postitioning
 ## Individualistic positioning
@@ -177,6 +187,18 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 #### ```linear-gradient()```
 - Color transition:
 - Top-down
+
+## Text
+### Font
+### Color
+#### Color transition
+##### ```background: -webkit-linear-gradient()```
+##### ```-webkit-background-clip: text```
 # Cross-platform support
 ## Media query
 - For basics, check [CSS-@](./css-at-rules.md)
+
+# User
+## Mouse
+### Determine mouse-in position
+## Keyboard

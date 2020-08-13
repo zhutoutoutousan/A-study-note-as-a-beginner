@@ -3,6 +3,7 @@
 - [Alphabetical](#alphabetical)
   - [C](#c)
     - [Congruence](#congruence)
+    - [Currying](#currying)
   - [D](#d)
     - [Diagonal Matrix](#diagonal-matrix)
     - [Differentiation](#differentiation)
@@ -34,6 +35,10 @@
 ## C
 ### Congruence
 - 相似三角形
+### Currying
+- **Currying** is the technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.
+- Currying a function $f$ that takes three arguments creates three functions: $x=f(a,b,c)$ becomes: $x=g(a)(b)(c)$ or $h=g(a), \,\,\, i=h(b), \,\,\, x=i(c)$
+- [Wiki](https://en.wikipedia.org/wiki/Currying)
 ## D
 ### Diagonal Matrix
 ### Differentiation

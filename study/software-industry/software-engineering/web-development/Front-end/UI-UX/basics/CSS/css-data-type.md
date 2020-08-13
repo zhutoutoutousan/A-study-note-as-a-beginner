@@ -77,7 +77,7 @@ For more see
 ## ```position```
 ## ```z-index```
 ## ```clear```
-
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
 # ```<function>```
 
 # ```<angle>```

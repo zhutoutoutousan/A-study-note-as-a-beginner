@@ -25,6 +25,9 @@
     - [Combos to use](#combos-to-use)
     - [Related CSS rules](#related-css-rules)
 - [Animation](#animation)
+  - [```@keyframe```](#keyframe)
+    - [Usage](#usage)
+    - [Tools](#tools)
   - [Maneuver](#maneuver)
     - [Inheritance](#inheritance)
     - [Methods](#methods)
@@ -33,7 +36,7 @@
       - [Translate](#translate)
     - [Reference](#reference)
   - [Transition](#transition)
-  - [Tools](#tools)
+  - [Tools](#tools-1)
     - [Cubid-bezier tool](#cubid-bezier-tool)
   - [Resource](#resource)
 - [Shape](#shape)
@@ -136,6 +139,12 @@ Use of negative margins equal to half of that width and height, then position it
 ### Related CSS rules
 
 # Animation
+## ```@keyframe```
+### Usage
+### Tools
+- It is recommended to use online tools to simulate the animation when using this.
+- Online Tools
+  - [cssanimate.com](https://cssanimate.com/)
 ## Maneuver
 ### Inheritance
 

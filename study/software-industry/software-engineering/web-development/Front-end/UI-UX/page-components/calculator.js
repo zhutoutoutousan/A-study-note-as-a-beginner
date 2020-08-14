@@ -85,6 +85,14 @@
     }
 
 
+    // When Clear button is pressed, clear everything
+    const clearAll = function() {
+        storedNumber = "";
+        currentNumber = "";
+        viewer.innerText = "0";
+        equals.setAttribute("data-result", resultNumber);
+    }
+
 
     /**
      * Using const i in nums doesn't work, because the nums contains another element 'length'
@@ -97,6 +105,9 @@
             ops[i].onclick = moveNum;
         }
         equals.onclick = displayNum;
+
+        getElementOrNodeList("#clear").onclick = clearAll;
+        getElementOrNodeList("#reset").onclick = () =>{ window.location = window.location; };
     }
 
     mountEvents();

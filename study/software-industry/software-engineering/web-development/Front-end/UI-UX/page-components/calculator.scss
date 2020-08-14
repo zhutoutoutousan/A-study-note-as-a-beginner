@@ -78,3 +78,15 @@ button {
 .reset {
     display: none;
 }
+
+@keyframes broken {
+    0% {
+        transform: translate3d(0,0,0);
+        opacity: 1;
+    }
+
+    5% {
+        transform: rotate(5deg);
+    }
+
+}

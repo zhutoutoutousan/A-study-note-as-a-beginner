@@ -3,6 +3,9 @@
 - [Class](#class)
 - [Arrow function](#arrow-function)
   - [Basic properties and heads-ups](#basic-properties-and-heads-ups)
+    - [Web API](#web-api)
+      - [Event](#event)
+    - [In Classes](#in-classes)
   - [Case study](#case-study)
     - [Defined or undefined?](#defined-or-undefined)
   - [Resource](#resource)
@@ -11,9 +14,24 @@
 # Class
 See [class.md](./class.md)
 # Arrow function
-An **arrow function expression** is a syntactically compact alternative to a regular function expression.
+- An **arrow function expression** is a syntactically compact alternative to a regular function expression.
 ## Basic properties and heads-ups
+### Web API
+#### Event
+- Assigning anonymous function in forms of arrow to ```Element.event``` works
+```javascript
+// ...
+const genericOperation = (genericInput) => {
+    // Generic operations
+}
+const genericElement = document.getElementById("genericElement");
+
+genericElement.onclick = genericOperation;
+// ...
+```
+### In Classes
 - An **arrow function expression** hasn't its own bindings to the ```this```, ```arguments```, ```super```, or ```new.target``` keywords.
+
 - Arrow function expressions are ill suited as methods, and they cannot be used as constructors. --> Why?
 - ```this``` and arrow functions in classes:
 ```javascript

@@ -99,12 +99,12 @@
       - [closest](#closest)
   - [Event Listener](#event-listener)
     - [Syntax](#syntax)
-    - [Troubleshoot](#troubleshoot)
-      - [```Uncaught TypeError: Cannot read property 'addEventListener' of null```](#uncaught-typeerror-cannot-read-property-addeventlistener-of-null)
-      - [```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```](#uncaught-typeerror-cannot-create-property-genericevent-on-element)
   - [Event Loop](#event-loop)
     - [Resource](#resource)
   - [Event Target](#event-target)
+  - [Troubleshoot](#troubleshoot)
+    - [```Uncaught TypeError: Cannot read property 'addEventListener' of null```](#uncaught-typeerror-cannot-read-property-addeventlistener-of-null)
+    - [```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```](#uncaught-typeerror-cannot-create-property-genericevent-on-element)
 - [Operations](#operations)
   - [Navigation](#navigation-1)
     - [Node tree](#node-tree)
@@ -292,16 +292,17 @@ const someEvent = event => {
 let someElement = document.querySelector('.someClass');
 someElement.addEventListener(someEvent);
 ```
-### Troubleshoot
-#### ```Uncaught TypeError: Cannot read property 'addEventListener' of null```
-- Check if the script file is included before the page is loaded.
-  - [Stack overflow](https://stackoverflow.com/questions/57191982/how-to-fix-typeerror-cannot-read-property-addeventlistener-of-null)
-
-#### ```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```
 ## Event Loop
 ### Resource 
 [What is Event loop? - Jsconf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 ## Event Target
+## Troubleshoot
+### ```Uncaught TypeError: Cannot read property 'addEventListener' of null```
+- Check if the script file is included before the page is loaded.
+  - [Stack overflow](https://stackoverflow.com/questions/57191982/how-to-fix-typeerror-cannot-read-property-addeventlistener-of-null)
+
+### ```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```
+- Maybe you used ```for(const i in SomeNodeList)``` when batch assigning events to class elements. Generally ```SomeNodeList``` has an additional ```length``` attribute. Try traverse with respect to its ```SomeNodeList.length```.
 
 # Operations
 ## Navigation

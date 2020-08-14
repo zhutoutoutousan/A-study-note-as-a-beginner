@@ -87,17 +87,14 @@
 
 
     /**
-     * 
+     * Using const i in nums doesn't work, because the nums contains another element 'length'
      */
     const mountEvents = () => {
-        for(const i in nums) {
+        for(let i = 0; i < nums.length; i++) {
             nums[i].onclick = setNum;
-            console.log(i)
-            console.log(nums[i])
         }
-        for(const i in ops) {
+        for(let i = 0; i < ops.length; i++) {
             ops[i].onclick = moveNum;
-            console.log(i)
         }
         equals.onclick = displayNum;
     }

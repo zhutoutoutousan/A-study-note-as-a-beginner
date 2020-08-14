@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Topic oriented](#topic-oriented)
+- [Alphabetical](#alphabetical)
   - [A](#a)
     - [Abstraction](#abstraction)
   - [C](#c)
@@ -10,6 +10,7 @@
     - [Communication links](#communication-links)
   - [I](#i)
     - [IEEE 802](#ieee-802)
+    - [IIFE](#iife)
     - [Internet Engineering Task Force(IETF)](#internet-engineering-task-forceietf)
     - [Inheritance](#inheritance)
     - [Internet Service Providers(ISPs)](#internet-service-providersisps)
@@ -44,7 +45,7 @@
   - [前端开发](#前端开发)
   - [计算机科学](#计算机科学)
   - [嵌入式系统](#嵌入式系统)
-# Topic oriented
+# Alphabetical
 ## A
 ### Abstraction
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
@@ -60,6 +61,9 @@ A group of servers that stores your data
 
 ## I
 ### IEEE 802
+### IIFE
+- IIFE:Immediately Invoked Function Expression
+  - An immediately invoked function expression is a JavaScript programming language idiom which produces a lexical scope using JavaScript's function scoping.
 ### Internet Engineering Task Force(IETF)
 ### Inheritance
 ### Internet Service Providers(ISPs)

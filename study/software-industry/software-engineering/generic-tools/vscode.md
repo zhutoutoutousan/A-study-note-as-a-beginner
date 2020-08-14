@@ -29,6 +29,7 @@
     - [running scripts is disabled on this system](#running-scripts-is-disabled-on-this-system)
 - [Manuals](#manuals)
 - [Wanna expand your vscode skills later?](#wanna-expand-your-vscode-skills-later)
+- [Future improvements?](#future-improvements)
 - [Resources](#resources-2)
 
 
@@ -121,6 +122,11 @@ Normal in windows 10 CLI
 
 # Wanna expand your vscode skills later?
 [10 Tricks Every Developer Should Know in Visual Studio Code](https://dzone.com/articles/10-tricks-every-developer-should-know-in-visual-st)
+
+
+# Future improvements?
+- When I was programming JavaScript with vscode, I'd really like a list of global variables, is there any?
+  - What to input in the search engine?
 
 # Resources
 [Visual Code Studio](https://code.visualstudio.com/docs/)

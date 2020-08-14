@@ -60,14 +60,48 @@
                 resultNumber = storedNumber / currentNumber;
                 break;
             default:
-                resultNum = theNum;
-            
+                resultNumber = theNum;
         }
+
+        // If NaN or Infinity returned
+        if(!isFinite(resultNumber)) {
+            if(isNaN(resultNumber)) {
+                resultNumber = "Good job!";
+            }
+            else {
+                resultNumber = "Congratulations, you've destroyed the world!"
+                getElementOrNodeList("#calculator").classList.add("broken");
+                getElementOrNodeList("#reset").classList.add("show");
+            }
+        }
+
+        // Show the numbers!
+        viewer.innerText = resultNumber;
+        equals.setAttribute("data-result", resultNumber);
+
+        // Set storedNumber and keep the result
+        storedNumber = 0;
+        currentNumber = resultNumber;
     }
 
 
 
+    /**
+     * 
+     */
+    const mountEvents = () => {
+        for(const i in nums) {
+            nums[i].onclick = setNum;
+            console.log(i)
+        }
+        for(const i in ops) {
+            ops[i].onclick = moveNum;
+            console.log(i)
+        }
+        equals.onclick = displayNum;
+    }
 
+    mountEvents();
 
 
 

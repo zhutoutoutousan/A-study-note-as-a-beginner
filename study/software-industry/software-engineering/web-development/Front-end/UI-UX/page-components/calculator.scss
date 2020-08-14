@@ -24,6 +24,16 @@ h1 {
     margin: 0;
 }
 
+.warning {
+    background: -webkit-linear-gradient(45deg, #c97874 10%, #463042 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #8c5059;
+    font-weight: 400;
+    margin: 1.5em auto 5em;
+    max-width: 8em;
+  }
+
 .calculator {
     font-size: 28px;
     margin: 0 auto;

@@ -1,4 +1,6 @@
 # The Scenarios of 'this'
+## In IIFE
+## In a function expression
 ## In an arrow function
 In an arrow function, 'this' refers to the method invoker
 ```javascript

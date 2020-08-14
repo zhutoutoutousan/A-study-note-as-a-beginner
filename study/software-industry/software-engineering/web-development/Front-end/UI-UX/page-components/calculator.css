@@ -17,9 +17,10 @@ body {
   text-align: center;
 }
 
-/* 
-   If you use ```background-clip``` here it wouldn't work, but why?
-*/
+h1 {
+  font-weight: 300;
+  margin: 0;
+}
 
 .warning {
   background: -webkit-linear-gradient(45deg, #c97874 10%, #463042 90%);
@@ -29,11 +30,6 @@ body {
   font-weight: 400;
   margin: 1.5em auto 5em;
   max-width: 8em;
-}
-
-h1 {
-  font-weight: 300;
-  margin: 0;
 }
 
 .calculator {
@@ -74,6 +70,49 @@ button {
 
 .reset {
   display: none;
+}
+
+@keyframes broken {
+  0% {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+  5% {
+    transform: rotate(5deg);
+  }
+  15% {
+    transform: rotate(-5deg);
+  }
+  20% {
+    transform: rotate(5deg);
+  }
+  25% {
+    transform: rotate(-5deg);
+  }
+  50% {
+    transform: rotate(45deg);
+  }
+  70% {
+    transform: translate3d(0, 2000px, 0);
+  }
+  75% {
+    opacity: 0;
+  }
+  100% {
+    transform: translate3d(0, -2000px, 0);
+  }
+}
+@keyframes fadein {
+  0% {
+    top: 20em;
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 /*# sourceMappingURL=calculator.css.map */

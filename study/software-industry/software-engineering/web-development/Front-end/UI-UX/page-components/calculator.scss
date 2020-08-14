@@ -89,4 +89,46 @@ button {
         transform: rotate(5deg);
     }
 
+    15% {
+        transform: rotate(-5deg);
+    }
+
+    20% {
+        transform: rotate(5deg);
+    }
+
+    25% {
+        transform: rotate(-5deg);
+    }
+
+    50% {
+        transform: rotate(45deg);
+    }
+
+    70% {
+        transform: translate3d(0, 2000px,0);
+    }
+
+    75% {
+        opacity: 0;
+    }
+
+    100% {
+        transform: translate3d(0,-2000px,0);
+    }
+}
+
+@keyframes fadein {
+    0% {
+        top: 20em;
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }

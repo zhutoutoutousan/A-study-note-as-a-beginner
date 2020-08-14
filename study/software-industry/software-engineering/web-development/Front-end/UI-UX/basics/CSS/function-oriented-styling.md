@@ -26,18 +26,19 @@
     - [Related CSS rules](#related-css-rules)
 - [Animation](#animation)
   - [```@keyframe```](#keyframe)
-    - [Usage](#usage)
-    - [Tools](#tools)
   - [Maneuver](#maneuver)
     - [Inheritance](#inheritance)
     - [Methods](#methods)
       - [```Transform```](#transform)
     - [Different types of transformations](#different-types-of-transformations)
-      - [Translate](#translate)
+      - [```translate```](#translate)
+      - [```translate3d```](#translate3d)
     - [Reference](#reference)
   - [Transition](#transition)
-  - [Tools](#tools-1)
+  - [Tools](#tools)
     - [Cubid-bezier tool](#cubid-bezier-tool)
+    - [Animation designer](#animation-designer)
+      - [cssanimate](#cssanimate)
   - [Resource](#resource)
 - [Shape](#shape)
   - [Circle](#circle)
@@ -140,11 +141,7 @@ Use of negative margins equal to half of that width and height, then position it
 
 # Animation
 ## ```@keyframe```
-### Usage
-### Tools
-- It is recommended to use online tools to simulate the animation when using this.
-- Online Tools
-  - [cssanimate.com](https://cssanimate.com/)
+
 ## Maneuver
 ### Inheritance
 
@@ -153,7 +150,10 @@ Use of negative margins equal to half of that width and height, then position it
 
 
 ### Different types of transformations
-#### Translate
+#### ```translate```
+#### ```translate3d```
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d)
+  - 3D display
 ### Reference
 [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate)
@@ -164,7 +164,10 @@ Recommended using a whole video to learn this.
 ## Tools
 ### Cubid-bezier tool
 It is inside the chrome DevTools, when you click on the compass icon near CSS animation rules. Very good for designing ```transition``` animation.
-
+### Animation designer
+#### cssanimate
+- [Link1](https://cssanimate.com/)
+- Usage
 ## Resource
 [transition - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 

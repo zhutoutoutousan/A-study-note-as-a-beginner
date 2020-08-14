@@ -10,6 +10,7 @@
 ### Not-yet-categorized
 - CNN
 - Vox
+- CBC
 
 ### Ideology
 #### Left

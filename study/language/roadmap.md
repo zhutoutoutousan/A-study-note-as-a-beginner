@@ -135,3 +135,4 @@
 
 # Type writing
 - [10fastfinger](https://10fastfingers.com/) 
+- [RU - Keyboard layout](https://www.branah.com/russian)

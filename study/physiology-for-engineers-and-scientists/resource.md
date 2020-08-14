@@ -1,2 +1,0 @@
-- [Physiopedia](https://www.physio-pedia.com/)
-- [CHEST journal](https://journal.chestnet.org/)

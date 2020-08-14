@@ -9,9 +9,9 @@
         equals = getElementOrNodeList("#equals"), // Equal Button
         nums = getElementOrNodeList(".num"), // List of Numbers
         ops = getElementOrNodeList(".ops"), // List of Operators
-        theNum = "", // Current Number
-        oldNum = "", // First Number 
-        resultNum,  // Result
+        currentNumber = "", // Current Number
+        storedNumber = "", // First Number 
+        resultNumber,  // Result
         operator;   // ???
 
     // When a number is clicked. Get the current number selected
@@ -19,17 +19,51 @@
     const setNum = function() {
         // If a result was displayed, reset number
         // Otherwise, add digit to previous number (A string)
-        theNum = resultNum ? this.getAttribute("data-num") : theNum + this.getAttribute("data-num");
-        resultNum = resultNum ? "" : resultNum;
-        viewer.innerHTML = theNum;
+        currentNumber = resultNumber ? this.getAttribute("data-num") : currentNumber + this.getAttribute("data-num");
+        resultNumber = resultNumber ? "" : resultNumber;
+        viewer.innerHTML = currentNumber;
     }
 
-    // When Operator is clicked, pass number to oldNum and save operator
+    /** 
+     * When Operator is clicked, pass number to storedNumber and save operator
+     * Invoked by:
+     * 
+     * */ 
     const moveNum = function() {
-        oldNum, theNum = theNum, "";
-        
+        [storedNumber, currentNumber] = [currentNumber, ""];
+        operator = this.getAttribute("data-ops");
+        // Reset result in attr
+        equals.setAttribute("data-result", "");
     }
     
+    /**
+     * @description When: Equals is clicked. Calculate result
+     */
+    const displayNum = function(){
+
+        // Convert string input to numbers
+        storedNumber = parseFloat(storedNumber);
+        currentNumber = parseFloat(currentNumber);
+
+        // Perform operation
+        switch(operator) {
+            case "plus":
+                resultNumber = storedNumber + currentNumber;
+                break;
+            case "minus":
+                resultNumber = storedNumber - currentNumber;
+                break;
+            case "times":
+                resultNumber = storedNumber * currentNumber;
+                break;
+            case "divided by":
+                resultNumber = storedNumber / currentNumber;
+                break;
+            default:
+                resultNum = theNum;
+            
+        }
+    }
 
 
 

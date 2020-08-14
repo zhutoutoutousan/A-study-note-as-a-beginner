@@ -10,5 +10,9 @@
 Font
 Fontweight
 
+# HTML
+- What's the difference between using the ```innerHTML``` attribute and the ```data``` attribute?
+  - More flexibility, the use of  ```innerHTML``` is not considered flexible
+
 # Resource
 [JavaScript Calculator](https://codepen.io/giana/pen/GJMBEv)

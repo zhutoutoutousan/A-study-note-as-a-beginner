@@ -1,2 +1,3 @@
 - Get familiar with Russian typewriting first
-    - [Learn to Type in Russian Like a Native: 6 Handy Practice Sites](https://www.fluentu.com/blog/russian/russian-typing-practice/)
+  - [Learn to Type in Russian Like a Native: 6 Handy Practice Sites](https://www.fluentu.com/blog/russian/russian-typing-practice/)
+  - [Keyboard layout](https://www.branah.com/russian)

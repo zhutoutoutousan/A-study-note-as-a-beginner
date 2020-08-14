@@ -133,5 +133,5 @@
 - No grammar included in this section
 
 
-# Typing issues
-## Switching seamlessly between differnet keyboard layouts
+# Type writing
+- [10fastfinger](https://10fastfingers.com/) 

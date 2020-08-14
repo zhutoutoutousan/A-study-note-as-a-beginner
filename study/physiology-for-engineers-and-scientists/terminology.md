@@ -1,3 +1,17 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Alphabetical](#alphabetical)
+  - [B](#b)
+    - [Bankdrüken](#bankdrüken)
+  - [E](#e)
+    - [EMG](#emg)
+    - [EPOC](#epoc)
+  - [G](#g)
+    - [Gewichtheben](#gewichtheben)
+    - [GPP](#gpp)
+  - [K](#k)
+    - [Kniebeuge](#kniebeuge)
+    - [Kreuzheben](#kreuzheben)
 # Alphabetical
 ## B
 ### Bankdrüken
@@ -8,8 +22,15 @@
 
 
 
+
 ### EPOC
 
+
+## G
+### Gewichtheben
+- (German)Weightlifting
+### GPP
+- GPP: General physical preparedness
 ## K
 ### Kniebeuge
 - (German)Squat

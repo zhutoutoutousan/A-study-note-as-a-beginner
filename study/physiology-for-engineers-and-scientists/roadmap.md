@@ -5,6 +5,22 @@
 - [CHEST journal](https://journal.chestnet.org/)
 
 # Training
+## Integration with engineering/science-dominated lifestyle
 ## Training programming
+### Training in general
 - [Alan thrall - Programme making](youtube.com/watch?v=KBiwskxI0FY)
 - [OmarIsuf - HOW To Program For Strength: Beginners vs Intermediate (Ft. Garrett Blevins)](https://www.youtube.com/watch?v=x3e9_yIO4nc)
+
+### Basic fitness
+#### Stability
+#### Mobility
+#### Endurance
+#### Strength
+Test:
+- [Strength level test](https://strengthlevel.com/)
+#### Power
+
+### Powerlifting
+
+### Bodybuilding
+

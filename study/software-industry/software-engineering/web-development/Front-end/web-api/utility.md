@@ -90,7 +90,9 @@
       - [```Element.classList.toggle([className])```](#elementclasslisttoggleclassname)
 - [Event](#event)
   - [What is event?](#what-is-event)
-  - [Four phases of an event](#four-phases-of-an-event)
+  - [Event capturing and bubbling](#event-capturing-and-bubbling)
+    - [Target phase](#target-phase)
+    - [Event phase](#event-phase)
     - [Bubble phase](#bubble-phase)
   - [Attributes](#attributes)
     - [Target](#target)
@@ -99,6 +101,7 @@
     - [Syntax](#syntax)
     - [Troubleshoot](#troubleshoot)
       - [```Uncaught TypeError: Cannot read property 'addEventListener' of null```](#uncaught-typeerror-cannot-read-property-addeventlistener-of-null)
+      - [```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```](#uncaught-typeerror-cannot-create-property-genericevent-on-element)
   - [Event Loop](#event-loop)
     - [Resource](#resource)
   - [Event Target](#event-target)
@@ -270,7 +273,9 @@ const someEvent = event => {
   console.log(event)
 }
 ```
-## Four phases of an event
+## Event capturing and bubbling
+### Target phase
+### Event phase
 ### Bubble phase
 ## Attributes
 ### Target
@@ -291,6 +296,8 @@ someElement.addEventListener(someEvent);
 #### ```Uncaught TypeError: Cannot read property 'addEventListener' of null```
 - Check if the script file is included before the page is loaded.
   - [Stack overflow](https://stackoverflow.com/questions/57191982/how-to-fix-typeerror-cannot-read-property-addeventlistener-of-null)
+
+#### ```Uncaught TypeError: Cannot create property '[genericEvent]' on [Element]```
 ## Event Loop
 ### Resource 
 [What is Event loop? - Jsconf](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

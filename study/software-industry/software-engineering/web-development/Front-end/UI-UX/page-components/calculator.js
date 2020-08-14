@@ -93,6 +93,7 @@
         for(const i in nums) {
             nums[i].onclick = setNum;
             console.log(i)
+            console.log(nums[i])
         }
         for(const i in ops) {
             ops[i].onclick = moveNum;

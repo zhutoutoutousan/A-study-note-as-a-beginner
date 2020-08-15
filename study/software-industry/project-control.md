@@ -74,8 +74,8 @@
 ```
 April -...--------------------------------------------------------------> October  
 xxxxxxx...August-----------------------September--------------------------->|  
-                         /|\
-                          |  U R here
+                           /|\
+                            |  U R here
 ```
 - First stage mark: **FST**
 
@@ -146,6 +146,7 @@ Consider merging
 ## Tech-stack
 - ES6
 - p5.js
+- Node.js
 
 ## Reference materials
 - Code bullet --> Chess AI

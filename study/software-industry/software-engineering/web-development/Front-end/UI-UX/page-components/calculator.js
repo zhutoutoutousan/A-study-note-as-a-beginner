@@ -69,7 +69,7 @@
                 resultNumber = "Good job!";
             }
             else {
-                resultNumber = "Congratulations, you've destroyed the world!"
+                resultNumber = "#$!%!^$&"
                 getElementOrNodeList("#calculator").classList.add("broken");
                 getElementOrNodeList("#reset").classList.add("show");
             }

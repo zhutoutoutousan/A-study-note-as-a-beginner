@@ -17,6 +17,7 @@ body {
     margin: 0;
     padding: 5em 0 2em;
     text-align: center;
+    overflow: hidden;
 }
 
 h1 {
@@ -78,7 +79,7 @@ button {
 .broken {
     animation: broken 2s;
     transform: translate3d(0, 2000px, 0);
-    opacity: 1;
+    opacity: 0;
 }
 
 .reset {
@@ -110,20 +111,20 @@ button {
 
     50% {
         transform: rotate(45deg);
-        opacity: 1;
+
     }
 
     70% {
         transform: translate3d(0, -200px,0);
-    }
-
-    75% {
         opacity: 1;
     }
-    
+
+
+
     // Why is it not going all the way down?
     100% {
         transform: translateY(2000px);
+        opacity: 0;
     }
 }
 

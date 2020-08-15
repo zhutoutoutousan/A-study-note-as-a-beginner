@@ -21,7 +21,7 @@
 
 ## Russian
 - I love some russian songs back in the 1940s
-- I once loved Владимир Тостои
+- I once loved Тостои
 - I am interested the **incident** that happend in the 1990  
 - I enjoy killing my time on lingodeer learning this language when commuting
 ## Spanish & Portuguese
@@ -31,6 +31,7 @@
 ## Italian
 - Most of the opera repertoires I've been practicing are in Italian, of course, it is important
 - I enjoy killing my time on lingodeer learning this language when commuting
+- I want to read the book *Il principe* 
 ## Japanese
 - I just want to know what they are talking about in Japanese pornos  
 - I enjoy killing my time on lingodeer learning this language when commuting
@@ -41,6 +42,9 @@
 - It looks sexy
 ## Greek
 - It looks smart
+- I am intrigued by the greek philosophy...sort of
+## Latin
+- It seems good to help understand liberal art. I don't know.
 
 
 
@@ -65,6 +69,7 @@
 
 ## Russian
 - Get familiar with the typewriting first
+  - Goal: At least 40 WPM
 - Lingodeer(After finishing French and Italian)
 ## Spanish & Portuguese
 - Lingodeer(After finishing Russian)

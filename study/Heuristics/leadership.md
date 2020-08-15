@@ -1,17 +1,90 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Speech](#speech)
+  - [Training grounds](#training-grounds)
+  - [Structuring](#structuring)
+  - [Vocabulary](#vocabulary)
+    - [EN](#en)
+      - [Refocus](#refocus)
+      - [Redirect](#redirect)
+      - [Intimidate](#intimidate)
+      - [Placate](#placate)
+      - [Debunk](#debunk)
+      - [Lucid](#lucid)
+      - [Unsettle](#unsettle)
+      - [Discredit](#discredit)
+      - [Extrapolate](#extrapolate)
+      - [Confront](#confront)
+    - [GR](#gr)
+    - [FR](#fr)
+    - [CH](#ch)
+- [Persona](#persona)
+  - [Persona fabrication](#persona-fabrication)
+  - [Psychological manipulation](#psychological-manipulation)
+  - [Balance between persona and the real self](#balance-between-persona-and-the-real-self)
+    - [Jung's shadow](#jungs-shadow)
+    - [Intentional and efficient way of manifestations of narscissism traits](#intentional-and-efficient-way-of-manifestations-of-narscissism-traits)
+- [Public Relations](#public-relations)
+- [Social media manipulation](#social-media-manipulation)
+  - [Platforms and their sub-ecosystems](#platforms-and-their-sub-ecosystems)
+  - [Possible traits to follow](#possible-traits-to-follow)
+- [Skillset](#skillset)
+- [Mindset](#mindset)
+
 # Speech
-## Vocabulary for communication
+## Training grounds
+- Toastmaster
+## Structuring
+## Vocabulary
 ### EN
-- Beat around the bush
+#### Refocus
 - See the forest through the trees
+#### Redirect
+- Beat around the bush
+#### Intimidate
+- Tongue-in-cheek
+#### Placate
+#### Debunk
+#### Lucid
+#### Unsettle
+#### Discredit
+#### Extrapolate
+#### Confront
+
+### GR
+
+### FR
+
 ### CH
 - 因噎废食
   - 原意是指因为有人吃饭噎死了，就想让天下人都不吃饭。比喻要做的事情由于出了点小毛病或怕出问题就索性不去干。出自《吕氏春秋·荡兵》。
 - 能攻心则反侧自消，从古知兵非好战。不审势即宽严皆误，后来治蜀要深思。 --- 攻心联  清末光绪二八年赵藩
 # Persona
+## Persona fabrication
+## Psychological manipulation
 ## Balance between persona and the real self
 ### Jung's shadow
+### Intentional and efficient way of manifestations of narscissism traits
 
-# Public Relationship
+# Public Relations
+
+# Social media manipulation
+## Platforms and their sub-ecosystems
+## Possible traits to follow
+- Good physique(steriotypical, visual, hetrosexual)
+  - Abs
+- Sapiosexual innuendo
+- Show of Confidence
+- Show of Savageness(Testosterone, Thug life)
+  - For hetrosexual
+- Show of financial dominance
+- Trace of professional background
+  - For professionals
+- Video editing and sound effects
+  - Binaural
+  - ASMR
+- Collusional drama
+- Other subcultural "Engineering of consent" traits
 
 # Skillset
 

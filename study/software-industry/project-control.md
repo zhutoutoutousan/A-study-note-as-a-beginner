@@ -116,21 +116,24 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 # Front-end portfolio
 Consider merging
-
-- Accordian
-- Autocomplete
-- Vue calculator
-  - [x] HTML layout
-  - [x] Layout style
-  - [ ] CSS animation
-  - [ ] Logic
-- Carousel
-- Drop-down-menu
-- Expanding-search-bar
-- Icon bar
-- Pagination
-- Responsive navbar
-- toast-notification
+- Site
+  - [ ] E-commerce
+    - [freecodecamp - tutorial](https://www.youtube.com/watch?v=023Psne_-_4)
+- Components
+  - [x] Accordian
+  - Autocomplete
+  - Vue calculator
+    - [x] HTML layout
+    - [x] Layout style
+    - [ ] CSS animation
+    - [ ] Logic
+  - [x] Carousel
+  - Drop-down-menu
+  - Expanding-search-bar
+  - Icon bar
+  - Pagination
+  - [x] Responsive navbar
+  - toast-notification
 
 # Chess game
 ## Design
@@ -147,13 +150,6 @@ Consider merging
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
-
-
-
-
-
-
-
 
 # Pathfinding algorithm visualizer
 ## Design

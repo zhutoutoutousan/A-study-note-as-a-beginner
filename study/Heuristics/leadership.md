@@ -3,6 +3,9 @@
 - [Speech](#speech)
   - [Training grounds](#training-grounds)
   - [Structuring](#structuring)
+  - [Voicing](#voicing)
+  - [Text-featured memory](#text-featured-memory)
+  - [Impromptu speech](#impromptu-speech)
   - [Vocabulary](#vocabulary)
     - [EN](#en)
       - [Refocus](#refocus)
@@ -29,12 +32,20 @@
   - [Platforms and their sub-ecosystems](#platforms-and-their-sub-ecosystems)
   - [Possible traits to follow](#possible-traits-to-follow)
 - [Skillset](#skillset)
+  - [Original skill tree construction](#original-skill-tree-construction)
+  - [Dramatic presentation](#dramatic-presentation)
+  - [Leadership manifestation readiness](#leadership-manifestation-readiness)
 - [Mindset](#mindset)
+- [Media teamplay](#media-teamplay)
 
 # Speech
 ## Training grounds
 - Toastmaster
+- Great Speeches
 ## Structuring
+## Voicing
+## Text-featured memory
+## Impromptu speech
 ## Vocabulary
 ### EN
 #### Refocus
@@ -87,5 +98,11 @@
 - Other subcultural "Engineering of consent" traits
 
 # Skillset
+## Original skill tree construction
+## Dramatic presentation
+## Leadership manifestation readiness
+
 
 # Mindset
+
+# Media teamplay

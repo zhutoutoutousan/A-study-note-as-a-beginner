@@ -68,6 +68,11 @@ button {
   height: 2em;
 }
 
+.broken {
+  animation: broken 2s;
+  opacity: 1;
+}
+
 .reset {
   display: none;
 }
@@ -91,15 +96,16 @@ button {
   }
   50% {
     transform: rotate(45deg);
+    opacity: 1;
   }
   70% {
-    transform: translate3d(0, 2000px, 0);
+    transform: translate3d(0, -200px, 0);
   }
   75% {
-    opacity: 0;
+    opacity: 1;
   }
   100% {
-    transform: translate3d(0, -2000px, 0);
+    transform: translate3d(0, 500px, 0);
   }
 }
 @keyframes fadein {

@@ -145,7 +145,7 @@ Use of negative margins equal to half of that width and height, then position it
 
 # Animation
 ## ```@keyframe```
-
+- [css-tricks tutorial](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 ## Maneuver
 ### Inheritance
 

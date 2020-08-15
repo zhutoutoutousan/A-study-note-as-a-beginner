@@ -14,5 +14,10 @@ Fontweight
 - What's the difference between using the ```innerHTML``` attribute and the ```data``` attribute?
   - More flexibility, the use of  ```innerHTML``` is not considered flexible
 
+
+# TODO:
+- ```broken``` animation not working
+  - For $1920px \times 975px$ screen,` the ```broken``` animation is not going all the way down. 
+  - For $1280px \times 616px$ screen, it works`
 # Resource
 [JavaScript Calculator](https://codepen.io/giana/pen/GJMBEv)

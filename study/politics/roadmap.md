@@ -5,12 +5,25 @@
 - [Maps of Meaning 01 (Harvard Lectures)](https://www.youtube.com/watch?v=v3Bu7oCB8_k)
 
 
+# International Organizations
+- WHO
+- UN
+# International Conferences
+
 # Media
 ## US
-### Not-yet-categorized
-- CNN
-- Vox
-- CBC
+### Uncategorized
+- Mainstream
+  - CNN
+  - Vox
+    - Info source:
+      - U.S News
+  - CBC
+- U.S.News
+- Economy
+  - Economist
+- Science and Technologies
+  - Science   
 
 ### Ideology
 #### Left
@@ -23,7 +36,9 @@
 #### Others
 
 ## CH
-
+- 新华日报
+- 搜狐新闻
+- 解放日报
 ## GR
 ### Uncategorized
 - Der Spiegel
@@ -31,6 +46,7 @@
 ## UK
 ### Uncategorized
 - BBC
+- The Guardian
 
 
 

@@ -8,6 +8,8 @@
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
+  - [G](#g)
+    - [Gtk APP](#gtk-app)
   - [I](#i)
     - [IEEE 802](#ieee-802)
     - [IIFE](#iife)
@@ -32,6 +34,7 @@
     - [Service](#service)
   - [T](#t)
     - [TDZ](#tdz)
+    - [Traditional Gtk](#traditional-gtk)
     - [Transmission rate](#transmission-rate)
   - [U](#u)
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
@@ -58,6 +61,8 @@ A group of servers that stores your data
 ### Code bundler
 ### Communication links
 
+## G
+### Gtk APP
 
 ## I
 ### IEEE 802
@@ -106,6 +111,8 @@ The term **Web service(WS)** is either:
 
 ## T
 ### TDZ
+### Traditional Gtk
+- Traditional Gtk App means, it cannot be Firefox, Libreoffice, which only use Gtk as a UI style
 ### Transmission rate
 ## U 
 ### Unified Modeling Language(UML)

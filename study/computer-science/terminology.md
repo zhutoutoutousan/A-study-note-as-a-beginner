@@ -11,6 +11,9 @@
   - [Cell phone tower](#cell-phone-tower)
   - [CMTS](#cmts)
   - [CO](#co)
+    - [Cryptoanalysis](#cryptoanalysis)
+    - [Cryptography](#cryptography)
+    - [Cryptology](#cryptology)
 - [D](#d)
   - [Data structures](#data-structures)
   - [Dial-up](#dial-up)
@@ -92,12 +95,20 @@
 - The CMTS serves a similar function as the DSL network's DSLAM--- turning the analog signal sent from the cable modems in many downstream homes back into digital format.
 ## CO
 - (networking)Central office
+
+### Cryptoanalysis
+- studies the breaking of cryptosystems.
+### Cryptography
+- Cryptography concerns itself with the design of cryptosystems
+### Cryptology
+- *Cryptology*, the study of cryptosystems, can be subdivided into two disciplines.
+
 # D
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
 ## Dial-up
 ## Dictionary
-- (COmputer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
+- (Computer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
 - (Python)
 
 ## Distributed application

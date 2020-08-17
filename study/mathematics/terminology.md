@@ -3,14 +3,18 @@
 - [Alphabetical](#alphabetical)
   - [C](#c)
     - [Congruence](#congruence)
+    - [Continued fractions](#continued-fractions)
     - [Currying](#currying)
   - [D](#d)
     - [Diagonal Matrix](#diagonal-matrix)
     - [Differentiation](#differentiation)
     - [Differential calculus](#differential-calculus)
     - [Differential equation](#differential-equation)
+  - [E](#e)
+    - [Euclid's Algorithm](#euclids-algorithm)
   - [I](#i)
     - [Integral calculus](#integral-calculus)
+    - [Inversion formulas](#inversion-formulas)
   - [M](#m)
     - [Map](#map)
     - [Matrix](#matrix)
@@ -19,10 +23,13 @@
     - [Linear algebra](#linear-algebra)
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
+  - [Q](#q)
+    - [Quadratic residues](#quadratic-residues)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
     - [Symmetric Matrix](#symmetric-matrix)
   - [T](#t)
+    - [The Chinese Remainder Theorem](#the-chinese-remainder-theorem)
     - [Transposition](#transposition)
     - [Triangular Matrix](#triangular-matrix)
   - [V](#v)
@@ -35,6 +42,8 @@
 ## C
 ### Congruence
 - 相似三角形
+
+### Continued fractions
 ### Currying
 - **Currying** is the technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.
 - Currying a function $f$ that takes three arguments creates three functions: $x=f(a,b,c)$ becomes: $x=g(a)(b)(c)$ or $h=g(a), \,\,\, i=h(b), \,\,\, x=i(c)$
@@ -44,8 +53,11 @@
 ### Differentiation
 ### Differential calculus
 ### Differential equation
+## E
+### Euclid's Algorithm
 ## I
 ### Integral calculus
+### Inversion formulas
 ## M
 ### Map
 - **定义**: 设$X,Y$是两个非空集合，如果存在一个法则$f$，使得对$X$中每个元素$x$，按法则$f$，在$Y$中有唯一确定的元素$y$与之对应，那么称$f$为从$X$到$Y$的**映射**，记作: $f:X\rightarrow Y$，其中$y$称为元素$x$（在映射$f$下）的**像**，并记作$f(x)$，即：$y=f(x)$,而元素$x$称为元素$y$（在映射$y$下）的一个**原像**；集合$X$称为映射$f$的定义域，记作$D_f$，即$D_f=X$; X中的所有元素的像所组成的集合称为映射$f$的值域，记作$R_f$或$f(X)$，即: $R_f=f(X)=\{f(x)|x\in X\}$
@@ -131,6 +143,9 @@ $$
 
 ### Linear transformation
 
+## Q
+### Quadratic residues
+
 ## S
 ### Skew-Symmetric Matrix
 - **Skew-symmetric** matrices are square matrices whose transpose equals **minus** the matrix.
@@ -161,6 +176,7 @@ $$
 $$
 
 ## T
+### The Chinese Remainder Theorem
 ### Transposition
 - The transpose of an $m\times n$ matrix $\bold{A} = [a_{jk}]$ is the $n\times m$ matrix ${\bold{A}}^\top$(read *A tranpose*) that has the first *row* of $\bold{A}$ as its first column, the second *row* of $\bold{A}$ as its second *column*, and so on. Thus the transpose of $\bold{A} = [a_{jk}]$ is ${\bold{A}}^\top=[a_{kj}]$.
 - Example

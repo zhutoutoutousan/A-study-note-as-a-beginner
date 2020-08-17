@@ -32,3 +32,7 @@ Complete course:
 ### JavaScript
 ### Go
 - [LeetCode Go](https://github.com/halfrost/LeetCode-Go)
+
+# Cryptology
+## P.O.I
+- C.E.Shannon

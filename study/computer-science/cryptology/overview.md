@@ -1,0 +1,4 @@
+# The point of existance
+- *Confidentiality*: When transmitting data, one does not want an eavesdropper to understand the contents of the transmitted messages. The same is true for stored data that should be protected against unauthorized access, for instance by hackers.
+- *Authentication*: This property is the equivalent of a signature. The receiver of a message wants proof that a message comes from a certain party and not from somebody else(even if the original party later wants to deny it).
+- *Integrity*: This means that the receiver of certain data has evidence that no changes have been made by a third party 

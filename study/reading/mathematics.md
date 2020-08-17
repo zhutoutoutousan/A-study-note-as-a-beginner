@@ -63,6 +63,15 @@
 - Basic Category Theory - T.Leinster
   - [Link1](https://arxiv.org/pdf/1612.09375.pdf)
 
+# Number theory
+- An introduction to the theory of numbers - G.H. Hardy
+  - [Link1 - Triggers download](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
+    - Remarks by notation p9/641
+      - Recommended going back from time to time
+    - First just read, not much grasp of the conceptual structure yet
+    - Process1(Read for pleasure)
+      - Progress: 19/641 
+
 # Minor resources
 
 # Paper and personal research

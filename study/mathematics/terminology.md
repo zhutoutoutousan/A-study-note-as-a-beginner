@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Alphabetical](#alphabetical)
+  - [B](#b)
+    - [Birch Conjecture](#birch-conjecture)
   - [C](#c)
     - [Congruence](#congruence)
     - [Continued fractions](#continued-fractions)
@@ -10,26 +12,42 @@
     - [Differentiation](#differentiation)
     - [Differential calculus](#differential-calculus)
     - [Differential equation](#differential-equation)
+    - [Diophantine Equation](#diophantine-equation)
+    - [Divisible](#divisible)
+    - [Divisor](#divisor)
   - [E](#e)
+    - [Elliptic curve](#elliptic-curve)
     - [Euclid's Algorithm](#euclids-algorithm)
   - [I](#i)
+    - [Integer](#integer)
     - [Integral calculus](#integral-calculus)
     - [Inversion formulas](#inversion-formulas)
+  - [K](#k)
+    - [Kummer's theory](#kummers-theory)
   - [M](#m)
     - [Map](#map)
     - [Matrix](#matrix)
     - [Modeling](#modeling)
+  - [N](#n)
+    - [Non-negative integer](#non-negative-integer)
   - [L](#l)
     - [Linear algebra](#linear-algebra)
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
+  - [P](#p)
+    - [Positive integer](#positive-integer)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
+  - [R](#r)
+    - [Rational integer](#rational-integer)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
+    - [Swinnerton-Dyer Conjecture](#swinnerton-dyer-conjecture)
     - [Symmetric Matrix](#symmetric-matrix)
   - [T](#t)
     - [The Chinese Remainder Theorem](#the-chinese-remainder-theorem)
+    - [The Fermat problem](#the-fermat-problem)
+    - [The zeta function](#the-zeta-function)
     - [Transposition](#transposition)
     - [Triangular Matrix](#triangular-matrix)
   - [V](#v)
@@ -39,6 +57,8 @@
     - [Mapping - ? - 映射](#mapping------映射)
 - [Book entry](#book-entry)
 # Alphabetical
+## B
+### Birch Conjecture
 ## C
 ### Congruence
 - 相似三角形
@@ -53,11 +73,22 @@
 ### Differentiation
 ### Differential calculus
 ### Differential equation
+### Diophantine Equation
+### Divisible
+- An *integer* $a$ is said to be *divisible* by another integer $b$, not $0$, if there is a third integer $c$ such that $a=bc$, if $a$ and $b$ are positive, $c$ is necessarily positive
+### Divisor
+- If an integer $a$ is said to be divisible by another integer $b$, then we can say $a$ is divisible by $b$, or $b$ is a *divisor* of $a$, by $b|a$.
+- Thus $1|a$, $a|a$,and $b|0$ for every $b$ but $0$. 
 ## E
+### Elliptic curve
 ### Euclid's Algorithm
 ## I
+### Integer
+- Comparable to *Rational integer*
 ### Integral calculus
 ### Inversion formulas
+## K
+### Kummer's theory
 ## M
 ### Map
 - **定义**: 设$X,Y$是两个非空集合，如果存在一个法则$f$，使得对$X$中每个元素$x$，按法则$f$，在$Y$中有唯一确定的元素$y$与之对应，那么称$f$为从$X$到$Y$的**映射**，记作: $f:X\rightarrow Y$，其中$y$称为元素$x$（在映射$f$下）的**像**，并记作$f(x)$，即：$y=f(x)$,而元素$x$称为元素$y$（在映射$y$下）的一个**原像**；集合$X$称为映射$f$的定义域，记作$D_f$，即$D_f=X$; X中的所有元素的像所组成的集合称为映射$f$的值域，记作$R_f$或$f(X)$，即: $R_f=f(X)=\{f(x)|x\in X\}$
@@ -110,6 +141,10 @@ $$
 - If we want to solve an engineering problem(usually of a physical nature), we first have to formulate the problem as a mathematical expression in terms of variables, functions, and equations. Such an expression is known as a mathematical model of the given problem. The process of setting up a model, solving it mathematically, and interpreting the result in physical or other terms is called *mathematical modeling* or, briefly, **modeling**.
 - The four stages of using mathematical modeling to solve a real problem?
 
+## N
+### Non-negative integer
+- 0,1,2,3...
+
 ## L
 ### Linear algebra
 - Linear algebra is a fairly extensive subject that covers vectors and matrices, determinants, systems of linear equations, vector spaces and linear transformations, eigenvalue problems, and other topics.
@@ -142,9 +177,16 @@ $$
     $$
 
 ### Linear transformation
+## P
+### Positive integer
+- 1,2,3...
 
 ## Q
 ### Quadratic residues
+
+## R
+### Rational integer
+- ...-3,-2,-1,0,1,2,3...
 
 ## S
 ### Skew-Symmetric Matrix
@@ -160,6 +202,7 @@ $$
 3 & 2 & 0
 \end{bmatrix}
 $$
+### Swinnerton-Dyer Conjecture
 
 ### Symmetric Matrix
 - **Symmetric** matrices are square matrices whose transpose equals the matrix itself.
@@ -177,6 +220,8 @@ $$
 
 ## T
 ### The Chinese Remainder Theorem
+### The Fermat problem
+### The zeta function
 ### Transposition
 - The transpose of an $m\times n$ matrix $\bold{A} = [a_{jk}]$ is the $n\times m$ matrix ${\bold{A}}^\top$(read *A tranpose*) that has the first *row* of $\bold{A}$ as its first column, the second *row* of $\bold{A}$ as its second *column*, and so on. Thus the transpose of $\bold{A} = [a_{jk}]$ is ${\bold{A}}^\top=[a_{kj}]$.
 - Example

@@ -53,12 +53,13 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Why bother reading this book
     - Like duh
 # Computer security
-- FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 1/503
+- FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
   -  Require use of ```mathematica```
   - Process 1(Mathematical background):
     - Progress 1: 343/343-471
-  - Process 2(Reading for pleasure)
+  - Process 2(Reading for pleasure) 14/503
+    - Require at least finishing one book of elementary number theory to proceed or study the appendix
 # Full-stack development
 - Getting MEAN with Mongo, Express, Angular, and Node 0/?
   - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)

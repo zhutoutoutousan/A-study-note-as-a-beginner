@@ -13,5 +13,6 @@
 # Language
 - From Zero to Greek
   - [Link1](http://www.dramata.com/ACL_2008_Zero_to_Greek_workshop.pdf)
+  - Learn Greek typewriting first to unlock fast customized local note taking system
 - Beginner's guide to Arabic
   - [Link1](https://www.learnarabiconline.com/Beginners_Guide_To_Arabic.pdf)

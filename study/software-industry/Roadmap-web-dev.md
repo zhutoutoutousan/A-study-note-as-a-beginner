@@ -8,6 +8,7 @@
     - [Resources](#resources)
   - [Front-end](#front-end)
     - [HTML](#html)
+      - [Template engine](#template-engine)
       - [Playgrounds](#playgrounds)
     - [CSS](#css-1)
       - [Playgrounds](#playgrounds-1)
@@ -85,6 +86,11 @@
 
 ## Front-end
 ### HTML
+#### Template engine
+- pug
+  - [Pug Template Engine - Full Tutorial for Beginners](https://www.youtube.com/watch?v=kt3cEjjkCZA)
+    - Progress: 1:15/1:05:35
+- Build your own
 #### Playgrounds
 [Codepen](https://codepen.io/)
 - Can use **console**, **assets**

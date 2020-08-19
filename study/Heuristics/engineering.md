@@ -9,6 +9,8 @@ Have it ever occured to you what exactly is **Engineering**?
 
 # Experience from beating the deadline
 - When you are approaching the deadline, you will be more aware of the difference between trading off between pure study or development and the goal. So the experience obtained from approaching the deadline could withhold more merit.
+## Physiological changes
+- I feel less sensitive to fatigue and 
 ## Optimizing the time consumption of micro procedures 
 ### Tools proficiency
 

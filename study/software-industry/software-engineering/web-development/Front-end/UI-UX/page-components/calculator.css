@@ -67,6 +67,13 @@ button {
   margin: 0.25em;
   width: 2em;
   height: 2em;
+  transition: all 0.5s;
+}
+button:hover {
+  background: #201e40;
+}
+button:focus {
+  outline: 0;
 }
 
 .broken {

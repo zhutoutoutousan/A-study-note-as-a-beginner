@@ -74,6 +74,17 @@ button {
     margin: 0.25em;
     width: 2em;
     height: 2em;
+    transition: all 0.5s;
+
+    &:hover {
+        background: #201e40;
+    }
+
+    &:focus {
+        outline: 0;
+    }
+
+
 }
 
 .broken {
@@ -85,6 +96,22 @@ button {
 .reset {
     display: none;
 }
+
+@keyframes zoom {
+    0% {
+        transform: scale(.2);
+        opacity: 1;
+    }
+
+    70% {
+        transform: scale(1);
+    }
+
+
+
+}
+
+
 
 @keyframes broken {
     0% {

@@ -19,9 +19,9 @@ Fontweight
 
 # TODO:
 - [x] ```broken``` animation not working
-  - [x]For $1920px \times 975px$ screen,` the ```broken``` animation is not going all the way down. 
-  - [x]For $1280px \times 616px$ screen, it works`
+  - [x] For $1920px \times 975px$ screen,` the ```broken``` animation is not going all the way down. 
+  - [x] For $1280px \times 616px$ screen, it works`
 - Reset button
 - Media query
 # Resource
-[JavaScript Calculator](https://codepen.io/giana/pen/GJMBEv)
+- [JavaScript Calculator](https://codepen.io/giana/pen/GJMBEv)

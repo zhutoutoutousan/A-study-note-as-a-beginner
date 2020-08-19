@@ -211,22 +211,6 @@ Consider merging
 # Interview questions
 - Resource preparation
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Web crawler of German Websites
 ## Design
 ### Functionality

@@ -25,16 +25,15 @@
     - [Combos to use](#combos-to-use)
     - [Related CSS rules](#related-css-rules)
 - [Animation](#animation)
-  - [```@keyframe```](#keyframe)
-  - [Maneuver](#maneuver)
-    - [Inheritance](#inheritance)
-    - [Methods](#methods)
-      - [```Transform```](#transform)
-    - [Different types of transformations](#different-types-of-transformations)
-      - [```translate```](#translate)
-      - [```translate3d```](#translate3d)
+  - [Arsenal](#arsenal)
+    - [Pseudo-selector](#pseudo-selector)
+    - [Animation body](#animation-body)
+    - [Animation methods](#animation-methods)
     - [Reference](#reference)
-  - [Transition](#transition)
+  - [Goal](#goal)
+    - [Maneuver](#maneuver)
+    - [Special effects](#special-effects)
+      - [Zoom out](#zoom-out)
   - [Tools](#tools)
     - [Cubid-bezier tool](#cubid-bezier-tool)
     - [Animation designer](#animation-designer)
@@ -144,26 +143,45 @@ Use of negative margins equal to half of that width and height, then position it
 ### Related CSS rules
 
 # Animation
-## ```@keyframe```
-- [css-tricks tutorial](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
-## Maneuver
-### Inheritance
+## Arsenal
+### Pseudo-selector
+- ```:hover```
+- ```:focus```
+- ```::after```
 
-### Methods
-#### ```Transform```
+### Animation body
+- ```@keyframe```
+  - [css-tricks tutorial](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 
 
-### Different types of transformations
-#### ```translate```
-#### ```translate3d```
+### Animation methods
+- Animation body
+  - ```animation```
+  - ```animation-fill-mode```
+  - ```animation-delay```
+  - ```animation-iteration-count```
+
+- Maneuver
+  - ```transform```
+  - ```translate```
+  -  ```translate3d```
+  - ```transition```
+### Reference
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d)
   - 3D display
-### Reference
-[transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
-[translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate)
+- [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- [translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate)
 
-## Transition
-Recommended using a whole video to learn this.
+
+## Goal
+
+### Maneuver
+
+### Special effects
+#### Zoom out
+
+
+
 
 ## Tools
 ### Cubid-bezier tool

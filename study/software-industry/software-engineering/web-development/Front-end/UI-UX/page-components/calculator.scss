@@ -82,6 +82,13 @@ button {
 
     &:focus {
         outline: 0;
+
+        &::after {
+            animation: zoom 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: both;
+        }
+
     }
 
 
@@ -107,7 +114,9 @@ button {
         transform: scale(1);
     }
 
-
+    100% {
+        opacity: 0;
+    }
 
 }
 

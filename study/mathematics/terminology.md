@@ -18,6 +18,8 @@
   - [E](#e)
     - [Elliptic curve](#elliptic-curve)
     - [Euclid's Algorithm](#euclids-algorithm)
+  - [H](#h)
+    - [Homothetic transformation](#homothetic-transformation)
   - [I](#i)
     - [Integer](#integer)
     - [Integral calculus](#integral-calculus)
@@ -35,6 +37,7 @@
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
   - [P](#p)
+    - [Point reflection](#point-reflection)
     - [Positive integer](#positive-integer)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
@@ -82,6 +85,8 @@
 ## E
 ### Elliptic curve
 ### Euclid's Algorithm
+## H
+### Homothetic transformation
 ## I
 ### Integer
 - Comparable to *Rational integer*
@@ -178,6 +183,7 @@ $$
 
 ### Linear transformation
 ## P
+### Point reflection
 ### Positive integer
 - 1,2,3...
 

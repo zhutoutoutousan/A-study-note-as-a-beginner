@@ -31,6 +31,8 @@
 - [```<angle>```](#angle)
   - [```deg```](#deg)
 - [```<percentage>```](#percentage)
+- [```<transform-function>```](#transform-function)
+  - [```scale()```](#scale)
 # Mental model
 One of the goals is to instantly translate all the length units to how much space does it take on the screen.
 # Prerequisites
@@ -84,3 +86,6 @@ For more see
 ## ```deg```
 - Rotate **anti-clockwise**
 # ```<percentage>```
+
+# ```<transform-function>```
+## ```scale()```

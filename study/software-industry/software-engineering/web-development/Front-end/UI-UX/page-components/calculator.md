@@ -21,7 +21,12 @@ Fontweight
 - [x] ```broken``` animation not working
   - [x] For $1920px \times 975px$ screen,` the ```broken``` animation is not going all the way down. 
   - [x] For $1280px \times 616px$ screen, it works`
-- Reset button
-- Media query
+- [ ] Positioning problem for $1280px \times 616px$ screen
+- [ ] The zoom effect for operations still has positioning issues
+- [ ] Functionalities
+  - [ ] When you click ```=``` multiple times, it doesn't show the right answer
+  - [ ] Disallow . from being entered multiple times
+  - [ ] Limit number input
+- [ ] Code quality
 # Resource
 - [JavaScript Calculator](https://codepen.io/giana/pen/GJMBEv)

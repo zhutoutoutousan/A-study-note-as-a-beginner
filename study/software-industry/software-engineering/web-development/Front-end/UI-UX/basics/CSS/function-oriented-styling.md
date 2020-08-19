@@ -158,6 +158,11 @@ Use of negative margins equal to half of that width and height, then position it
 - Animation body
   - ```animation```
   - ```animation-fill-mode```
+    - Suggest play around for a while
+    - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)  
+    - Firefox firing animations only once?
+
+
   - ```animation-delay```
   - ```animation-iteration-count```
 

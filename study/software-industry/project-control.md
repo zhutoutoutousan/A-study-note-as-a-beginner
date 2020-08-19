@@ -151,7 +151,10 @@ Consider merging
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
-
+- [Online-chess](https://github.com/Aveek-Saha/Online-Chess)
+  - With rooms
+- [Online-chess](https://github.com/kevinAlbs/Chess)
+  - Node.js
 # Pathfinding algorithm visualizer
 ## Design
 ### UI

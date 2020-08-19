@@ -14,7 +14,6 @@
     - [Procrastination](#procrastination)
       - [Pomodoro](#pomodoro)
     - [Resource](#resource)
-    - [P.O.I](#poi)
   - [Subject-oriented implementation: Time to put the theory to test](#subject-oriented-implementation-time-to-put-the-theory-to-test)
     - [Engineering](#engineering)
       - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
@@ -60,6 +59,7 @@
 - [Tools](#tools)
   - [TiddyWiki](#tiddywiki)
 - [Book reference entry](#book-reference-entry)
+- [P.O.I](#poi)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -109,13 +109,7 @@ Four key time stamps to review what I've learned:
 - [The Forgetting Curve](https://www.csustan.edu/sites/default/files/groups/Writing%20Program/forgetting_curve.pdf)
 - [BrainFacts.org](https://www.brainfacts.org/)
 - [When Math Hurts: Math Anxiety Predicts Pain Network Activation in Anticipation of Doing Math](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048076)
-### P.O.I
-- Salvador Dali
-  - Surrealist artist
-  - Diffuse mode
-- Thomas Edison
-- Terrence Sejnowski
-  - Neuroscience and study techniques
+
 
 ## Subject-oriented implementation: Time to put the theory to test
 ### Engineering
@@ -235,3 +229,13 @@ Not applicable
 
 
 # Book reference entry
+
+# P.O.I
+- Salvador Dali
+  - Surrealist artist
+  - Diffuse mode
+- Thomas Edison
+- Terrence Sejnowski
+  - Neuroscience and study techniques
+- Ali Abdall
+  - Has a YouTube channel delicated to share study techniques

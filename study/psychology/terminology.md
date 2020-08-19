@@ -15,6 +15,7 @@
   - [D](#d)
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
+    - [Doublespeak](#doublespeak)
   - [E](#e)
     - [Engorge](#engorge)
     - [Epoch](#epoch)
@@ -78,6 +79,7 @@
 ### Dissent
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.
 ### Dissenter
+### Doublespeak
 ## E
 ### Engorge
 - cause to swell with blood, water, or another fluid.

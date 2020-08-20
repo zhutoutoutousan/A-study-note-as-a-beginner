@@ -36,6 +36,8 @@
     - [Persecution](#persecution)
     - [PLA](#pla)
     - [Proclamation](#proclamation)
+    - [Political correctness](#political-correctness)
+    - [Politiquement correct](#politiquement-correct)
   - [R](#r)
     - [Racism](#racism)
     - [Reform](#reform)
@@ -88,6 +90,9 @@
 - (noun)hostility and ill-treatment, especially because of race or political or religious beliefs
 ### PLA
 ### Proclamation
+### Political correctness
+### Politiquement correct
+- (French) Political correctness
 ## R
 ### Racism
 ### Reform

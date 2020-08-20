@@ -296,6 +296,53 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [link](https://github.com/trekhleb/javascript-algorithms)
   - Do this the hard way, follow along the coding for better muscle memory
   - Learn to manage your time, record the duration of each training session for project development balance
+    - Start time: 
+      - 1/40: 
+```javascript
+class LinkedListNode {
+  constructor(value, next = null) {
+    this.value = value;
+    this.next = next;
+  }
+
+  toString(callback) {
+    return callback ? callback(this.value) : `${this.value}`;
+  }
+}
+
+class LinkedList {
+  /**
+   * @param {Funcion} [comparatorFunction]
+   */
+   constructor(comparatorFunction) {
+     /** @var LinkedListNode */
+     this.head = null;
+
+     /** @var LinkedListNode */
+     this.tail = null;
+
+     this.compare = new Comparator(comparatorFunction;)
+   }
+
+   /**
+    * @param {*} value
+    * @return {LinkedList}
+    */
+    prepend(value) {
+      // Make new node to be a head
+      const newNode = new LinkedListNode(value, this.head);
+      this.head = newNode;
+
+      // If there is no tail yet let's make new node a tail.
+      if(!this.tail) {
+        this.tail = newNode;
+      }
+
+      return this;
+    }
+}
+
+```
 ### 20/40
 - [ ] Every day, do a full sweep of review --- Forgetting curve style
   - [link](https://github.com/trekhleb/javascript-algorithms)

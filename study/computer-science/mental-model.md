@@ -4,9 +4,14 @@
 
 ## Common Data Structure
 ### Visualization
-#### Sorting algorithm
+#### Linked List
 #### Pathfinding algorithm
+### Coding proficiency
+#### Pseudocode
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 
+- Linked List
+#### JavaScript
 ### Pseudo-code --> Other languages
 ### Visualization
 #### Sorting algorithm

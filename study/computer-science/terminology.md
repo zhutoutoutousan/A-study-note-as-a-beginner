@@ -8,6 +8,7 @@
   - [Bandwidth](#bandwidth)
   - [Base station](#base-station)
 - [C](#c)
+  - [Cache locality](#cache-locality)
   - [Cell phone tower](#cell-phone-tower)
   - [CMTS](#cmts)
   - [CO](#co)
@@ -38,6 +39,8 @@
 - [I](#i)
   - [Internet Protocol(IP)](#internet-protocolip)
   - [IoT](#iot)
+- [L](#l)
+  - [Linked List](#linked-list)
 - [M](#m)
   - [MAC address](#mac-address)
   - [Modifying operations](#modifying-operations)
@@ -89,6 +92,7 @@
 ## Bandwidth
 ## Base station
 # C
+## Cache locality
 ## Cell phone tower
 ## CMTS
 - Cable Modem Termination System
@@ -149,6 +153,13 @@ In the context of hardware and software systems, **formal verification** is the 
 - The IP protocol specifies the format of the packets that are sent and received among routers and end systems
 ## IoT
 - Internet of Things
+
+# L
+## Linked List
+- In computer science, a **linked list** is a linear collection of data elements, in which linear order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a group of nodes which together represent a sequence. 
+- Drawback: Access time is linear(and difficult to pipeline). Faster access, such as random access, is not feasible.
+- Arrays have better cache locality as compared to linked lists.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 # M
 ## MAC address
 ## Modifying operations

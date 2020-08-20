@@ -54,6 +54,8 @@
 - [Academia landscape](#academia-landscape)
   - [Relations with the industry](#relations-with-the-industry)
   - [Academic politics](#academic-politics)
+  - [Academic history](#academic-history)
+  - [Resource](#resource-2)
 - [Academia career](#academia-career)
   - [Heads-ups](#heads-ups)
 - [Tools](#tools)
@@ -216,6 +218,9 @@ Not applicable
 # Academia landscape
 ## Relations with the industry
 ## Academic politics
+## Academic history
+## Resource
+[江晓原：被中国人捧上天的西方学术标准，其实也是资本的赚钱工具？](https://www.youtube.com/watch?v=O_6CHE7DmQ0)
 
 # Academia career
 ## Heads-ups

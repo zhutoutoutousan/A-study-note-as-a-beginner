@@ -14,5 +14,7 @@ I think the appearances of bacteria are adorable!
 ### Clostridiales
 #### Clostridiaceae
 ##### Clostridium
-- C. perfringens
-    - Bad
+- C. perfringens 产气荚膜梭菌
+- C. difficile
+- C. tetani
+

@@ -117,12 +117,18 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Front-page
 ### Time control
 #### 10/40
-- Pick a portfolio example
-- Design its style
+- Study the example
+  - [Portfolio](https://github.com/realmartinzane/portfolio)
+  - Code along
+    - 1/40
+- Redesign its style
+  - Accumulate some ideas
 - Get familiar with its elements
 #### 20/40
 - Website Construction
 - Learn server hosting
+  - This guy used ```github.io```
+  - How about you use ```Hikaru```
 - Learn MongoDB
 #### 30/40
 - Website Construction
@@ -168,13 +174,13 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 ## Resource
 - [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
-  - 3:30
+  - 3:30 [Entry](https://github.com/realmartinzane/portfolio)
 - [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
 
 # Front-end portfolio
 ## Time control
 ### 10/40
-- Finish calculator
+- Finish vue calculator
 ### 20/40
 - Keep working 
 ### 30/40
@@ -189,12 +195,15 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Components
   - [x] Accordian
   - Autocomplete
-  - Vanilla JS calculator
+  - [x] Vanilla JS calculator
     - [x] HTML layout
     - [x] Layout style
-    - [ ] CSS animation
-    - [ ] Logic
+    - [x] CSS animation
+    - [x] Logic
+    - [ ] Furthur troubleshoot
   - Vue Calculator
+    - [x] Project setup
+    - [ ] Can proceed Vue.js course without finishing it first
   - [x] Carousel
   - Drop-down-menu
   - Expanding-search-bar
@@ -292,12 +301,17 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Algorithms
 ### 10/40
 - [ ] Study and take notes of all the data structure and algorithms
-- [ ] Every day, do a full sweep of review --- Forgetting curve style
   - [link](https://github.com/trekhleb/javascript-algorithms)
   - Do this the hard way, follow along the coding for better muscle memory
   - Learn to manage your time, record the duration of each training session for project development balance
     - Start time: 
       - 1/40: 
+        - Linked-List
+          - [x] What it is
+          - [ ] Code along
+          - [ ] Pick some exercise
+            - [ ] [Top 20 Linked List Interview Question](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/)
+              - [ ] Progress
 ```javascript
 class LinkedListNode {
   constructor(value, next = null) {
@@ -340,6 +354,84 @@ class LinkedList {
 
       return this;
     }
+
+    /**
+     * @param {*} value
+     * @return {LinkedList}
+     */
+     append(value) {
+       const newNode = new LinkedListNode(value);
+
+      // If there is no head yet let's make new node a head.
+      if(!this.head) {
+        this.head = newNode;
+        this.tail = newNode;
+
+        return this;
+      }
+
+      // Attach new node to the end of linked list
+      this.tail.next = newNode;
+      this.tail = newNode;
+
+      return this;
+     }
+
+     /**
+      * @param {*} value
+      * @return {LinkedListNode}
+      */
+      delete(value) {
+        if(!this.head) {
+          return null;
+        }
+
+        let deletedNode = null;
+
+        // If the head must be deleted then make next node that is different
+        // from the head to be a new head.
+        while (this.head && this.compare.equal(this.head.value, value)) {
+          deletedNode = this.head;
+          this.head = this.head.next;
+        }
+
+        let currentNode = this.head;
+
+        if(currentNode !== null) {
+          // If next node must be deleted then make next node to be a next next one.
+          while(currentNode.next) {
+            if(this.compare.equal(currentNode.next.value, value)) {
+              deletedNode = currentNode.next;
+              currentNode.next = currentNode.next.next;
+            }
+            else {
+              currentNode = currentNode.next;
+            }
+          }
+        }
+
+        // Check if tail must be deleted.
+        if (this.compare.equal(this.tail.value, value)) {
+          this.tail = currentNode;
+        }
+
+        return deletedNode;
+
+      }
+
+      /**
+       * @param {Object} findParams
+       * @param {*} findParams.value
+       * @param {function} [findParams.callback]
+       * @return {LinkedListNode}
+       */
+       find({ value = undefined, callback = undefined }) {
+         if(!this.head) {
+           return null;
+         }
+
+         let currentNode = this.head;
+       }
 }
 
 ```

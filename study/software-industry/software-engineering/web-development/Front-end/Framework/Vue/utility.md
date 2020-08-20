@@ -38,6 +38,7 @@
     - [```v-once```](#v-once)
     - [Custom directive](#custom-directive)
     - [Resource](#resource)
+- [Watcher](#watcher)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
@@ -82,6 +83,9 @@ new Vue({
 
 ```
 # Vue directive
+<details>
+  <summary>Suggested regular review and update</summary>
+
 - This section is better categorized by the types of utility
 - Different utilities may require different combos of directives.
 
@@ -206,9 +210,10 @@ new Vue({
 - Used for:
   - class/style binding
   - creating dynamic props
+- Questions: if I put ```:style= ...``` in the html, could it be come backtick string in the ```data``` object?
 ```html
 <div id="app">
-  <h3>Who is your favorite Japanses porn star?</h3>
+  <h3>Who is your favorite Japanese porn star?</h3>
   <textarea v-model="pornstar"></textarea>
   <br>
   <button :class="pornstar ? activeClass : ''">Let us know!</button>
@@ -294,6 +299,10 @@ new Vue({
 - Not quite as useful, ```v-once``` will not update once it's been rendered.
 ### Custom directive
 ### Resource
+
+</details>
+
+# Watcher
 
 
 # Vue devTools

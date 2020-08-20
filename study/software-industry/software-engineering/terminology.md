@@ -4,6 +4,7 @@
   - [A](#a)
     - [Abstraction](#abstraction)
   - [C](#c)
+    - [Computed](#computed)
     - [Closure](#closure)
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
@@ -17,6 +18,9 @@
     - [Inheritance](#inheritance)
     - [Internet Service Providers(ISPs)](#internet-service-providersisps)
     - [Internet standards](#internet-standards)
+  - [M](#m)
+    - [Methods](#methods)
+    - [MVC](#mvc)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented programming](#object-oriented-programming)
@@ -39,6 +43,10 @@
   - [U](#u)
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
+  - [V](#v)
+    - [Vue](#vue)
+  - [W](#w)
+    - [Watcher](#watcher)
 - [Translation EN-CH](#translation-en-ch)
   - [A](#a-1)
   - [C](#c-1)
@@ -54,7 +62,8 @@
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
 
 ## C
-
+### Computed
+- (Vue.js)
 ### Closure
 ### Cluster
 A group of servers that stores your data
@@ -75,6 +84,11 @@ A group of servers that stores your data
 - E.g. local cable or telephone companies, corporate ISPs, university ISPs. Some ISPs can provide WiFi access in airports, hotels, coffee shops, and other public places, and cellular data ISPs, providing mobile access to our smartphones and other public places.
 - Each ISP is in itself a network of packet switched and communication links.
 ### Internet standards
+## M
+### Methods
+- (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
+- You can use arrow functions within the method, but the method cannot be an arrow function
+### MVC
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming
@@ -118,6 +132,15 @@ The term **Web service(WS)** is either:
 ### Unified Modeling Language(UML)
 
 ### URI
+
+
+## V
+### Vue
+- Vue is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
+
+## W
+### Watcher
+- (Vue.js)
 
 # Translation EN-CH
 ## A

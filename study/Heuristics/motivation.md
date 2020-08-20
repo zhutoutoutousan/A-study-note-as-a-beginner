@@ -40,9 +40,10 @@
         - [Basics](#basics)
         - [How to retaliate?](#how-to-retaliate)
 - [Philosophical view](#philosophical-view)
-- [Wholistic view](#wholistic-view)
+- [Goal-oriented view](#goal-oriented-view)
   - [Habits](#habits)
   - [Soul](#soul)
+  - [P.O.I](#poi)
   - [Resources](#resources-1)
 - [Manipulation](#manipulation)
   - [Game theory](#game-theory)
@@ -155,13 +156,17 @@ NOTE: The theory of evolution never claimed that humans are no different from ap
 
 # Philosophical view
 
-# Wholistic view
+# Goal-oriented view
 ## Habits 
 ## Soul
+## P.O.I
+- Ali Abdaal
+  - Cambridge BA in Medical Science
+  - Likes to share motivation-related strategies
 ## Resources
-[Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)  
-[The power of habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
-
+- [Give it five minutes - Jason Fried](https://signalvnoise.com/posts/3124-give-it-five-minutes?ck_subscriber_id=849508356)  
+- [The power of habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
+- [How to Stop Procrastinating - Ali Abdaal](https://www.youtube.com/watch?v=yBP1VjO9RSE)
 # Manipulation
 ## Game theory
 ## Pick-up Artist(PUA)

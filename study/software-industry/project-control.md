@@ -149,8 +149,9 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Blog-page
 ### Time control
 #### 10/40
-- Complete Vue course(Frontend master)
+- Vue course(Frontend master)
 #### 20/40
+- Vue course(Frontend master)
 - Complete learning Vuepress
 #### 30/40
 - Build the website
@@ -181,8 +182,13 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Time control
 ### 10/40
 - Finish vue calculator
+- Vue.js course 
+- E-commerce tutorial
+  - Follow along(Should finish 40%)
 ### 20/40
-- Keep working 
+- Vue.js course(should finish)
+- E-commerce tutorial
+  - Follow along(Should finish)
 ### 30/40
 - Keep working 
 ### 40/40

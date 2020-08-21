@@ -8,6 +8,10 @@
   - [Impromptu speech](#impromptu-speech)
   - [Persuasion --- silver tongue](#persuasion-----silver-tongue)
     - [EN](#en)
+      - [Advice](#advice)
+      - [Pinpoint](#pinpoint)
+      - [Insist](#insist)
+      - [Indifferent](#indifferent)
       - [Refocus](#refocus)
       - [Redirect](#redirect)
       - [Intimidate](#intimidate)
@@ -49,6 +53,10 @@
 ## Impromptu speech
 ## Persuasion --- silver tongue
 ### EN
+#### Advice
+#### Pinpoint
+#### Insist
+#### Indifferent
 #### Refocus
 - See the forest through the trees
 #### Redirect
@@ -74,6 +82,8 @@
     - Useful for **ALPHA** personality state
     - Useful for people high in **neuroticism** trait
     - Require 80% foundation of positive facts for redirecting the potential retaliations.
+  - Prerequisites
+    - Past performance
   - Arsenal of words and phrases
 
 

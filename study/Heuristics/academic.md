@@ -102,6 +102,7 @@ Four key time stamps to review what I've learned:
 - The working memory can store only about four chunks of information
 - The short-term memory can be taken as an inefficient mental blackboard that is constantly fading away. Repetitions required for information to stay.
 ### Procrastination
+- It seems that the procrastination between each training/study session(less than 15 minutes) can serve as a temporary relax. Just to ease the psychological and physical obstacles for starting from where I left off.
 #### Pomodoro
 - Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
 - When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)

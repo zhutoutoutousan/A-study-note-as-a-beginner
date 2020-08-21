@@ -94,11 +94,18 @@ A group of servers that stores your data
 ### MVC
 - **Model-view-controller** is a *software design pattern* commonly used for developing *user interfaces* that divides the related program logic into three interconnected elements.
 - [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+  - Check the anatomy graph
 - Definitions:
   - **Model**: The central components of the pattern. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application
     - Vue.js:
-    - React.js
+    - React.js:
   - **View**: Any representation of information such as a chart, diagram or table.
+    - Vue.js:
+    - React.js:
+  - **Controller**: Accepts input and converts it to commands for the model or view
+    - Vue.js:
+    - React.js:
+  - **Service**: Between the controller and the model sometimes goes a layer which is called a service. It fetches data from the model and lets the controller use the fetched data.   
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming

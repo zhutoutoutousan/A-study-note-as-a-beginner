@@ -21,12 +21,16 @@
     - [```v-else```](#v-else)
     - [```v-else-if```](#v-else-if)
     - [```v-for```](#v-for)
+      - [Use in Tables](#use-in-tables)
     - [```v-on``` or ```@```](#v-on-or-)
-      - [```@mousemove.stop```](#mousemovestop)
-      - [```@mousemove.prevent```](#mousemoveprevent)
-      - [```@submit.prevent```](#submitprevent)
-      - [```@click.once```](#clickonce)
-      - [```@click.native```](#clicknative)
+      - [Postfixes](#postfixes)
+        - [```.stop```](#stop)
+        - [```.prevent```](#prevent)
+        - [```.once```](#once)
+        - [```.native```](#native)
+        - [```.passive```](#passive)
+        - [```.self```](#self)
+        - [```.capture```](#capture)
     - [```v-bind``` or ```:```](#v-bind-or-)
     - [```v-model```](#v-model)
       - [Basics](#basics)
@@ -191,23 +195,63 @@ new Vue({
 ### ```v-for```
 - Similar to ```for in```
 - Loops through a set of values(e.g. item in items, num in 5)
+#### Use in Tables
+```html
+<table>
+  <thead>
+    <tr>
+     <th v-for="key in columns">
+      {{ key }}
+     </th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr v-for="row in rows">
+      <td v-for="key in columns">
+        {{ row[key] }}
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+```
+
+```javascript
+new Vue({
+  el: "#app",
+  data() {
+    return {
+      columns: ["title", "rating"],
+      rows: [
+        { title: `White Chicks`, rating: 82},
+        { title: `Grey's Anatomy`, rating: 98}
+        // ...
+      ]
+    }
+  }
+})
+
+```
+
 ### ```v-on``` or ```@```
 - Extremely useful so there's a shortcut
 - Great for binding to events like click and mouseenter.
 - Able to pass in a parameter for the event like ```(e)```
 - Can use ternaries directly
 - ```@[event]="[" --> [expression] == true ? [execusion```
-
-#### ```@mousemove.stop```
+#### Postfixes
+##### ```.stop```
 - Comparable to ```e.stopPropogation()```
-#### ```@mousemove.prevent```
-- Like ```e.preventDefault()```
-#### ```@submit.prevent```
+##### ```.prevent```
 - No longer reload the page on submission
-#### ```@click.once```
+- Like ```e.preventDefault()```
+##### ```.once```
 - This click event will be triggered once.(Not element being rendered once)
-#### ```@click.native```
+##### ```.native```
 - Listen to native events in the DOM
+##### ```.passive```
+##### ```.self```
+##### ```.capture```
 ### ```v-bind``` or ```:```
 - ```:[attribute] = [Js expression]``` or ```v-bind:[attribute]=[Js expression]``` use JavaScript expression to dynamically bind to the element attribute like ```class```, ```style``` etc.
 - One of the most useful directives so there's a shortcut.

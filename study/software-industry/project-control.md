@@ -129,6 +129,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Learn server hosting
   - This guy used ```github.io```
   - How about you use ```Hikaru```
+  - Check back-end --> PaaS section for static site hosting(AWS) 
+    - Consider hosting your original lottery game
 - Learn MongoDB
 #### 30/40
 - Website Construction

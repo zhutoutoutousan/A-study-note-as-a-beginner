@@ -38,6 +38,7 @@
     - [```v-once```](#v-once)
     - [Custom directive](#custom-directive)
     - [Resource](#resource)
+- [Methods](#methods)
 - [Watcher](#watcher)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
@@ -299,8 +300,10 @@ new Vue({
 - Not quite as useful, ```v-once``` will not update once it's been rendered.
 ### Custom directive
 ### Resource
-
 </details>
+
+# Methods
+- ```this``` in ```method``` objects refers to the elements in the ```data``` object.
 
 # Watcher
 

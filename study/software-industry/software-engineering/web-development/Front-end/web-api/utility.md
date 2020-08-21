@@ -29,9 +29,13 @@
         - [Select all the 'a' tags in the body](#select-all-the-a-tags-in-the-body)
       - [CRUD](#crud)
   - [Events](#events)
+    - [List of events](#list-of-events)
+      - [Mouse](#mouse)
+      - [Keyboard](#keyboard)
     - [Event Listener](#event-listener)
     - [Keyboard event](#keyboard-event)
-      - [Hotkey: ```eventListener + keyup + code + switch case```](#hotkey-eventlistener--keyup--code--switch-case)
+      - [Hotkey](#hotkey)
+        - [```eventListener + keyup + code + switch case```](#eventlistener--keyup--code--switch-case)
     - [MouseEvent](#mouseevent)
       - [```MouseEvent.clientX```](#mouseeventclientx)
   - [Page properties](#page-properties)
@@ -194,9 +198,15 @@ while(currentNode) {
 
 
 ## Events
+### List of events
+#### Mouse
+#### Keyboard
+- keyup
+- keydown
 ### Event Listener
 ### Keyboard event
-#### Hotkey: ```eventListener + keyup + code + switch case```
+#### Hotkey
+##### ```eventListener + keyup + code + switch case```
 Comments:
 - ```keyCode``` is deprecated, try to use ```code```
   - [KeyboardEvent.code - MDN](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code)

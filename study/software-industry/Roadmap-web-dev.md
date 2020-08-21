@@ -17,6 +17,12 @@
     - [Code style](#code-style)
     - [Reference](#reference)
   - [Back-end](#back-end)
+    - [Programming language](#programming-language)
+    - [Run time](#run-time)
+    - [Client API](#client-api)
+    - [Framework](#framework)
+    - [Database](#database)
+    - [PaaS](#paas)
 - [Main study resource track](#main-study-resource-track)
   - [Vue mastery](#vue-mastery)
   - [Udemy（$10/course)](#udemy10course)
@@ -113,7 +119,22 @@
 [我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
 [Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
 ## Back-end
-
+### Programming language
+- AJAX and Node.js
+- Go
+- Python
+### Run time
+- Node.js
+### Client API
+- Axios
+### Framework
+- Express
+### Database
+- MongoDB
+### PaaS
+- Heroku
+  - [Study entry](https://devcenter.heroku.com/)
+    - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 # Main study resource track
 - It seems that following one main path along the way then using other resource as reference is more efficient than dilly-dallying around.
 ## Vue mastery

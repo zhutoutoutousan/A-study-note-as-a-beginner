@@ -40,6 +40,9 @@
     - [Resource](#resource)
 - [Methods](#methods)
 - [Watcher](#watcher)
+- [Vue-CLI](#vue-cli)
+- [Vue-router](#vue-router)
+- [Vuex](#vuex)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
@@ -306,6 +309,12 @@ new Vue({
 - ```this``` in ```method``` objects refers to the elements in the ```data``` object.
 
 # Watcher
+
+# Vue-CLI
+
+# Vue-router
+
+# Vuex
 
 
 # Vue devTools

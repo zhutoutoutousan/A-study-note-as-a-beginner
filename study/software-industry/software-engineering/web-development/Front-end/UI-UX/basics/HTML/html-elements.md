@@ -109,7 +109,7 @@
 # Forms
 ## Web Form Styling
 - [Styling web forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
-
+  - [ ] Complete the little styling exercise
 ## ```<label>```
 - It's a form, a caption for an item in a user interface
 - Usage

@@ -25,6 +25,7 @@
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented programming](#object-oriented-programming)
   - [P](#p)
+    - [PaaS](#paas)
     - [Packet switch](#packet-switch)
     - [Promise](#promise)
   - [R](#r)
@@ -111,6 +112,12 @@ A group of servers that stores your data
 ### Object-oriented inheritance model
 ### Object-oriented programming
 ## P
+### PaaS
+- PaaS: Platform as a service
+- **Platform as a service(PaaS)** or **application platform as a service(aPaaS)** or platform-based service is a category of *cloud computing services* that provides a *platform* allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+- [Wiki](https://en.wikipedia.org/wiki/Platform_as_a_service)
+- Examples
+  - Heroku
 ### Packet switch
 ### Promise
 - (Web API)A **promise** is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a *promise* to supply the value at some point in the future.

@@ -28,8 +28,11 @@
     - [Group pressure](#group-pressure)
   - [H](#h)
   - [I](#i)
+    - [Idiosyncrasy](#idiosyncrasy)
     - [Inexorable](#inexorable)
     - [Incredulous](#incredulous)
+  - [M](#m)
+    - [Mannerism](#mannerism)
   - [O](#o)
     - [Ordeal](#ordeal)
   - [P](#p)
@@ -100,10 +103,14 @@
 ### Group pressure
 ## H
 ## I
+### Idiosyncrasy
 ### Inexorable
 - (adj)impossible to stop or prevent.
 ### Incredulous
 - (of a person or their manner) unwilling or unable to believe something.
+
+## M
+### Mannerism
 
 ## O 
 ### Ordeal

@@ -98,6 +98,7 @@ A group of servers that stores your data
   - **Model**: The central components of the pattern. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application
     - Vue.js:
     - React.js
+  - **View**: Any representation of information such as a chart, diagram or table.
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming

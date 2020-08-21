@@ -110,7 +110,9 @@
 #### Playgrounds
 [Codepen](https://codepen.io/)
 ### JavaScript
-[Object-Playground](http://www.objectplayground.com/)
+- Tutorials
+  - [JavaScript tutorial](https://github.com/javascript-tutorial)
+- [Object-Playground](http://www.objectplayground.com/)
 ### Code style
 - Uncle Bob
 

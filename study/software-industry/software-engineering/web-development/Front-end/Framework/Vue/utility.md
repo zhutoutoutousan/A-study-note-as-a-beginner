@@ -42,7 +42,11 @@
     - [```v-once```](#v-once)
     - [Custom directive](#custom-directive)
     - [Resource](#resource)
-- [Methods](#methods)
+- [Vue properties](#vue-properties)
+  - [el](#el-1)
+  - [data](#data-1)
+  - [Methods](#methods)
+  - [Computed](#computed)
 - [Watcher](#watcher)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
@@ -196,6 +200,7 @@ new Vue({
 - Similar to ```for in```
 - Loops through a set of values(e.g. item in items, num in 5)
 #### Use in Tables
+- You can dynamically update the table just by updating the ```columns``` and ```rows``` data.
 ```html
 <table>
   <thead>
@@ -349,9 +354,22 @@ new Vue({
 ### Resource
 </details>
 
-# Methods
+# Vue properties
+## el
+## data
+## Methods
 - ```this``` in ```method``` objects refers to the elements in the ```data``` object.
-
+- Runs whenever an update occurs(Compared to ```computed``` property)
+- Not cached
+- Typically invoked from ```v-on```/```@```, but flexible
+- Getter/Setter
+## Computed
+- Computed properties are calculations that will be cached and will only update when a dependency has changed
+- Highly performant but use with understanding 
+- It can appear in the mustache syntax as a return value of the methods as a property in the ```computed``` object.
+- Similar to ```Array.prototype.map```
+- Should be used as a property, in place of data
+- By default getter only, but you can define a setter
 # Watcher
 
 # Vue-CLI

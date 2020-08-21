@@ -6,7 +6,7 @@
   - [Voicing](#voicing)
   - [Text-featured memory](#text-featured-memory)
   - [Impromptu speech](#impromptu-speech)
-  - [Vocabulary](#vocabulary)
+  - [Persuasion --- silver tongue](#persuasion-----silver-tongue)
     - [EN](#en)
       - [Refocus](#refocus)
       - [Redirect](#redirect)
@@ -18,6 +18,7 @@
       - [Discredit](#discredit)
       - [Extrapolate](#extrapolate)
       - [Confront](#confront)
+      - [Appease](#appease)
     - [GR](#gr)
     - [FR](#fr)
     - [CH](#ch)
@@ -46,7 +47,7 @@
 ## Voicing
 ## Text-featured memory
 ## Impromptu speech
-## Vocabulary
+## Persuasion --- silver tongue
 ### EN
 #### Refocus
 - See the forest through the trees
@@ -61,6 +62,20 @@
 #### Discredit
 #### Extrapolate
 #### Confront
+- Point out the fallacies
+  - the logical fallacy
+#### Appease
+- Give credits to the achievements that have been taken for granted
+  - Procedures
+    - Stress the difficulty of the current task 
+    - Give credit to the current situation
+    - Reasonalize the future plan
+  - Usage
+    - Useful for **ALPHA** personality state
+    - Useful for people high in **neuroticism** trait
+    - Require 80% foundation of positive facts for redirecting the potential retaliations.
+  - Arsenal of words and phrases
+
 
 ### GR
 

@@ -29,6 +29,9 @@
         - [Select all the 'a' tags in the body](#select-all-the-a-tags-in-the-body)
       - [CRUD](#crud)
   - [Events](#events)
+    - [Event Listener](#event-listener)
+    - [Keyboard event](#keyboard-event)
+      - [Hotkey: ```eventListener + keyup + code + switch case```](#hotkey-eventlistener--keyup--code--switch-case)
     - [MouseEvent](#mouseevent)
       - [```MouseEvent.clientX```](#mouseeventclientx)
   - [Page properties](#page-properties)
@@ -99,7 +102,7 @@
   - [Attributes](#attributes)
     - [Target](#target)
       - [closest](#closest)
-  - [Event Listener](#event-listener)
+  - [Event Listener](#event-listener-1)
     - [Syntax](#syntax)
   - [Event Loop](#event-loop)
     - [Resource](#resource)
@@ -191,6 +194,45 @@ while(currentNode) {
 
 
 ## Events
+### Event Listener
+### Keyboard event
+#### Hotkey: ```eventListener + keyup + code + switch case```
+Comments:
+- ```keyCode``` is deprecated, try to use ```code```
+  - [KeyboardEvent.code - MDN](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code)
+```javascript
+
+const triggerEvent_1 = (in) => {
+  // DO
+}
+
+const triggerEvent_2 = (in) => {
+  // DO
+}
+
+const triggerEvent_3 = (in) => {
+  // DO
+}
+
+// ...
+
+const assignHotkey = function() {
+    document.addEventListener("keyup", function(event) {
+      switch(event.code) {
+        case '1':
+          triggerEvent_1();
+        break;
+        case '2':
+          triggerEvent_2();
+        break;
+        case '3':
+          triggerEvent_3();
+        break;
+        // ...
+      }
+    })
+}
+```
 ### MouseEvent
 #### ```MouseEvent.clientX```
 ## Page properties

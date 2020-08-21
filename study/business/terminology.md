@@ -5,6 +5,7 @@
     - [Capitalism 资本主义](#capitalism-资本主义)
     - [Communism](#communism)
     - [Community marketing 社区营销](#community-marketing-社区营销)
+    - [Customer Stickness](#customer-stickness)
   - [D](#d)
     - [D2C](#d2c)
     - [Detonation product strategy 爆品策略](#detonation-product-strategy-爆品策略)
@@ -22,6 +23,7 @@
     - [Takeover 收购](#takeover-收购)
   - [P](#p)
     - [Pseudo-psychology](#pseudo-psychology)
+  - [U](#u)
 # Alphabetical
 
 ## C
@@ -30,6 +32,8 @@
 ### Communism 
 ### Community marketing 社区营销
 - *2010年8月，小米第一版手机系统发布并建立社区，起初只有100个社区用户。第二年小米手机发布时，已经拥有50万用户，这为小米手机的成功奠定了基础。当小米1发布时，首先是这50万发烧友用户去抢购手机，同时带动了更多人知道小米手机品牌。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
+
+### Customer Stickness
 ## D
 ### D2C
 ### Detonation product strategy 爆品策略
@@ -63,3 +67,5 @@
   - 目标公司
 ## P
 ### Pseudo-psychology
+
+## U

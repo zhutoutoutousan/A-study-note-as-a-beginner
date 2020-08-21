@@ -18,6 +18,7 @@
     - [Engineering](#engineering)
       - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
     - [Software engineering](#software-engineering)
+      - [Something about procrastination when coding](#something-about-procrastination-when-coding)
       - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
     - [Psychology](#psychology)
   - [Quotes](#quotes)
@@ -124,6 +125,8 @@ Four key time stamps to review what I've learned:
   - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics or else.
 
 ### Software engineering
+#### Something about procrastination when coding
+- What could serve as good practices to transform 'procrastination' to effective recovery without losing 'Coding stickness'?
 #### The implementation of the forgetting curve to the knowledge structure categorization
 - Check ```leetcode``` section and you'll know
 

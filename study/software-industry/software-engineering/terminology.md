@@ -36,6 +36,8 @@
   - [S](#s)
     - [Scope](#scope)
     - [Service](#service)
+    - [Software architecture](#software-architecture)
+    - [Software design pattern](#software-design-pattern)
   - [T](#t)
     - [TDZ](#tdz)
     - [Traditional Gtk](#traditional-gtk)
@@ -43,6 +45,7 @@
   - [U](#u)
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
+    - [User interface(UI)](#user-interfaceui)
   - [V](#v)
     - [Vue](#vue)
   - [W](#w)
@@ -89,6 +92,12 @@ A group of servers that stores your data
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
 - You can use arrow functions within the method, but the method cannot be an arrow function
 ### MVC
+- **Model-view-controller** is a *software design pattern* commonly used for developing *user interfaces* that divides the related program logic into three interconnected elements.
+- [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+- Definitions:
+  - **Model**: The central components of the pattern. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application
+    - Vue.js:
+    - React.js
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming
@@ -123,6 +132,11 @@ The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
 - a server running on a computer device, listening for requests at a particular port over a network, serving web documents(HTML, JSON, XML, images), and creating web application services, which serve in solving specific domain problems over the Web(WWW, Internet, HTTP).  See more at [wikipaedia](https://en.wikipedia.org/wiki/Web_service)
 
+### Software architecture
+- **Software architecture** refers to the fundamental structures of a *software system* and the discipline of creating such structures and systems.
+- [Software architecture - Wiki](https://en.wikipedia.org/wiki/Software_architecture)
+
+### Software design pattern
 ## T
 ### TDZ
 ### Traditional Gtk
@@ -132,7 +146,7 @@ The term **Web service(WS)** is either:
 ### Unified Modeling Language(UML)
 
 ### URI
-
+### User interface(UI)
 
 ## V
 ### Vue

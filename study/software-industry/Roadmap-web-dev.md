@@ -4,6 +4,7 @@
 - [Methodologies](#methodologies)
   - [CSS](#css)
 - [Roadmap](#roadmap)
+  - [Software architecture](#software-architecture)
   - [Full-stack](#full-stack)
     - [Resources](#resources)
   - [Front-end](#front-end)
@@ -80,6 +81,9 @@
 - For a developed project, remove all of its ```CSS``` code, then add it line by line to study how ```CSS``` works
 
 # Roadmap
+## Software architecture
+- [Wiki](https://en.wikipedia.org/wiki/Software_architecture)
+
 ## Full-stack
 ### Resources
 - [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)

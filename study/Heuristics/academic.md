@@ -61,6 +61,7 @@
 - [Tools](#tools)
   - [TiddyWiki](#tiddywiki)
 - [Book reference entry](#book-reference-entry)
+- [Online General Resource Entry(for all disciplines)](#online-general-resource-entryfor-all-disciplines)
 - [P.O.I](#poi)
 
 # Roadmap
@@ -234,6 +235,11 @@ Not applicable
 
 
 # Book reference entry
+
+
+# Online General Resource Entry(for all disciplines)
+- [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
+  - Chinese resource
 
 # P.O.I
 - Salvador Dali

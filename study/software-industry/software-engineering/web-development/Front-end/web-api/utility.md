@@ -29,6 +29,8 @@
         - [Select all the 'a' tags in the body](#select-all-the-a-tags-in-the-body)
       - [CRUD](#crud)
   - [Events](#events)
+    - [MouseEvent](#mouseevent)
+      - [```MouseEvent.clientX```](#mouseeventclientx)
   - [Page properties](#page-properties)
   - [```Node```-related methods](#node-related-methods)
     - [```document.querySelector()```](#documentqueryselector)
@@ -189,6 +191,8 @@ while(currentNode) {
 
 
 ## Events
+### MouseEvent
+#### ```MouseEvent.clientX```
 ## Page properties
 ## ```Node```-related methods
 ### ```document.querySelector()```

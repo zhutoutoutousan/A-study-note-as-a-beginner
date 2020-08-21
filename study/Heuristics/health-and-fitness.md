@@ -318,6 +318,8 @@ V
 - [How to Make Buttermilk at Home](https://www.youtube.com/watch?v=qKU4nynlIgo)
 ### Anabolic breakfast-delicated series
 ### Anabolic chicken series
+- Stuffed Chicken Breast With Spinach And Cream Cheese
+  - [Recipe 1](https://www.youtube.com/watch?v=Bng5ai48Rp8)
 - Chicken breast + onion + chicken heart with broccoli + scrambled eggs
 - Curry chicken breast
   - [Recipe 1](https://www.youtube.com/watch?v=jwyge5daKUQ)

@@ -33,12 +33,16 @@
   - [link](#link-1)
   - [i](#i)
 - [Forms](#forms)
+  - [Web Form Styling](#web-form-styling)
   - [```<label>```](#label)
     - [```label.for```](#labelfor)
   - [input](#input)
     - [Attributes](#attributes)
       - [placeholder](#placeholder)
       - [aria-label](#aria-label)
+      - [required](#required)
+    - [Events](#events)
+      - [submit](#submit)
   - [button](#button)
   - [select](#select)
   - [option](#option)
@@ -103,6 +107,9 @@
 ## i 
 
 # Forms
+## Web Form Styling
+- [Styling web forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Styling_web_forms)
+
 ## ```<label>```
 - It's a form, a caption for an item in a user interface
 - Usage
@@ -125,12 +132,22 @@ label.for ------> formElement
 */
 ```
 ## input
+- Important
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
 ### Attributes
 #### placeholder
 #### aria-label
 Importance for accessibilitiy purposes:  
 1. lorem
 2. ipsum
+
+#### required
+- HTML5
+
+### Events
+#### submit
+
 ## button
 ## select
 ## option

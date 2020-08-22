@@ -3,6 +3,7 @@
 - [Alphabetical](#alphabetical)
   - [A](#a)
     - [Antisemitism](#antisemitism)
+    - [Audience cost](#audience-cost)
     - [Authoritarian](#authoritarian)
   - [B](#b)
     - [Bad debt](#bad-debt)
@@ -31,6 +32,7 @@
   - [G](#g)
     - [Geopolitics](#geopolitics)
   - [I](#i)
+    - [Ideology 意识形态](#ideology-意识形态)
     - [Informationized military](#informationized-military)
     - [Inport](#inport)
   - [J](#j)
@@ -44,6 +46,8 @@
     - [Modern populism](#modern-populism)
     - [Monarchy](#monarchy)
     - [Monopoly](#monopoly)
+  - [N](#n)
+    - [Nudge Theory](#nudge-theory)
   - [O](#o)
     - [Overturn](#overturn)
   - [P](#p)
@@ -70,12 +74,17 @@
   - [U](#u)
     - [Uprootedness](#uprootedness)
     - [Urbanization](#urbanization)
+  - [W](#w)
+    - [Workforce](#workforce)
 # Alphabetical
 ## A
 ### Antisemitism
 - **Antisemitism** is hostility to, prejudice, or discrimination against Jews.
 - A person who holds such positions is called an **antisemite**
 - Antisemitism is generally considered to be a form of racism
+
+### Audience cost
+- An **audience cost** is a term in international relations theory that describes the penalty a leader incurs from his or her constituency if they escalate a foreign policy crisis and are then seen as backing down.
 ### Authoritarian
 ## B
 ### Bad debt
@@ -105,6 +114,7 @@
 ## G
 ### Geopolitics
 ## I
+### Ideology 意识形态
 ### Informationized military
 ### Inport
 ## J
@@ -118,6 +128,8 @@
 ### Modern populism
 ### Monarchy
 ### Monopoly
+## N
+### Nudge Theory
 ## O
 ### Overturn
 ## P
@@ -159,3 +171,6 @@
 ## U
 ### Uprootedness
 ### Urbanization
+
+## W
+### Workforce

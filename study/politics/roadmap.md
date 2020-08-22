@@ -36,9 +36,13 @@
 #### Others
 
 ## CH
+### Main stream
 - 新华日报
 - 搜狐新闻
 - 解放日报
+
+### Indepedent
+- GuanchaNews观察者网
 ## GR
 ### Uncategorized
 - Der Spiegel

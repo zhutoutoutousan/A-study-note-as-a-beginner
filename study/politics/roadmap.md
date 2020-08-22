@@ -43,6 +43,8 @@
 
 ### Indepedent
 - GuanchaNews观察者网
+- Yuan's Multiverse科技袁人
+- Guan观视频
 ## GR
 ### Uncategorized
 - Der Spiegel

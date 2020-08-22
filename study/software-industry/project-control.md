@@ -76,6 +76,7 @@
   - [Algorithm familiarity](#algorithm-familiarity)
   - [Data Structure familiarity](#data-structure-familiarity)
   - [Leetcode training](#leetcode-training)
+  - [CodeWar training](#codewar-training)
 - [Interview questions](#interview-questions)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
   - [Design](#design-2)
@@ -253,6 +254,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 ### 10/40
 - Learn to design the UI
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
+- Go through the React Tutorial
 ### 20/40
 - Study React
 ### 30/40
@@ -497,7 +499,10 @@ class LinkedList {
 ## Data Structure familiarity
 ## Leetcode training
 - Leetcode most interviewed questions
-
+## CodeWar training
+- Very addictive
+- Fun
+- Should do it from time to time
 
 
 

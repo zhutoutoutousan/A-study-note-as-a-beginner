@@ -128,6 +128,8 @@
     - [Arsenal](#arsenal)
   - [Disease](#disease)
     - [Malfunction recovery](#malfunction-recovery)
+- [Ergonomics](#ergonomics)
+  - [Keyboard](#keyboard)
 - [Resources](#resources)
   - [Shredded Sports Science](#shredded-sports-science)
     - [How do muscle grow](#how-do-muscle-grow)
@@ -419,6 +421,10 @@ See:
 - Stomach discomfort
 - General infection
 - Strep throat
+
+# Ergonomics
+## Keyboard
+- HHKB keyboard
 # Resources
 ## Shredded Sports Science
 ### How do muscle grow

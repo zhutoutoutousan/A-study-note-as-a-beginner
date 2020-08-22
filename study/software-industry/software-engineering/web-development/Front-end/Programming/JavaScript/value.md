@@ -11,6 +11,10 @@
     - [BigInts](#bigints)
     - [Null](#null)
     - [Number](#number)
+      - [Number.prototype](#numberprototype)
+        - [Number.prototype.toString()](#numberprototypetostring)
+      - [Troubleshooting](#troubleshooting)
+        - [RangeError: radix must be an integer](#rangeerror-radix-must-be-an-integer)
     - [String](#string)
       - [Template literals](#template-literals)
       - [Conversion](#conversion)
@@ -41,6 +45,11 @@ Used for hiding implementation details
 ### Null
 Used for intentionally missing values
 ### Number
+#### Number.prototype
+##### Number.prototype.toString()
+#### Troubleshooting
+##### RangeError: radix must be an integer
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_radix)
 ### String
 #### Template literals
 #### Conversion

@@ -95,7 +95,7 @@ new Vue({
 
 ```
 # Vue directive
-<details>
+<details open>
   <summary>Suggested regular review and update</summary>
 
 - This section is better categorized by the types of utility

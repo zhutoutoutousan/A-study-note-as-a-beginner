@@ -15,6 +15,7 @@
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
     - [Code style](#code-style)
+    - [Software testing](#software-testing)
     - [Reference](#reference)
   - [Back-end](#back-end)
     - [Programming language](#programming-language)
@@ -115,6 +116,9 @@
 - [Object-Playground](http://www.objectplayground.com/)
 ### Code style
 - Uncle Bob
+
+### Software testing
+- [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho)
 
 ### Reference
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  

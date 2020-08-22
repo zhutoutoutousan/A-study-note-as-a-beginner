@@ -32,6 +32,7 @@
 - [Table](#table)
 - [Applications of vanilla HTML and CSS in markdown notes](#applications-of-vanilla-html-and-css-in-markdown-notes)
   - [Accordian](#accordian)
+    - [Troubleshoot](#troubleshoot)
   - [Animation](#animation)
     - [Embedded gif animation](#embedded-gif-animation)
 - [Hyperlink](#hyperlink)
@@ -209,8 +210,9 @@ Example:
 
 The user plug-in of Vscode might not parse the ```markdown``` code in the HTML. But the github might work.  
 
-
-
+### Troubleshoot
+- [Accordion collapses when saving(Ctrl+S) and doesn't keep up with mouse scrolling #788](https://github.com/yzhang-gh/vscode-markdown/issues/788)
+  - Add ```open``` atttribute and delete it when done editing
 ## Animation
 ### Embedded gif animation
 

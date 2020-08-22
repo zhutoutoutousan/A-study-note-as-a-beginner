@@ -11,11 +11,13 @@
     - [BigInts](#bigints)
     - [Null](#null)
     - [Number](#number)
-      - [Number.prototype](#numberprototype)
-        - [Number.prototype.toString()](#numberprototypetostring)
+      - [```Number.prototype```](#numberprototype)
+        - [```Number.prototype.toString()```](#numberprototypetostring)
       - [Troubleshooting](#troubleshooting)
         - [RangeError: radix must be an integer](#rangeerror-radix-must-be-an-integer)
     - [String](#string)
+      - [```String.prototype```](#stringprototype)
+        - [```String.prototype.substr()``` --- Position + Length](#stringprototypesubstr-----position--length)
       - [Template literals](#template-literals)
       - [Conversion](#conversion)
         - [String2VariableName](#string2variablename)
@@ -45,12 +47,15 @@ Used for hiding implementation details
 ### Null
 Used for intentionally missing values
 ### Number
-#### Number.prototype
-##### Number.prototype.toString()
+#### ```Number.prototype```
+##### ```Number.prototype.toString()```
 #### Troubleshooting
 ##### RangeError: radix must be an integer
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Bad_radix)
 ### String
+#### ```String.prototype```
+##### ```String.prototype.substr()``` --- Position + Length
+- Control string --> Position + Length
 #### Template literals
 #### Conversion
 ##### String2VariableName

@@ -73,10 +73,11 @@
     - [20/40](#2040-5)
     - [30/40](#3040-5)
     - [40/40](#4040-5)
-  - [Algorithm familiarity](#algorithm-familiarity)
-  - [Data Structure familiarity](#data-structure-familiarity)
-  - [Leetcode training](#leetcode-training)
-  - [CodeWar training](#codewar-training)
+  - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
+    - [Leetcode training](#leetcode-training)
+  - [General language proficiency](#general-language-proficiency)
+    - [CodeWar training](#codewar-training)
+    - [Hackerrank training](#hackerrank-training)
 - [Interview questions](#interview-questions)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
   - [Design](#design-2)
@@ -495,15 +496,16 @@ class LinkedList {
 - [ ] Every day, accumulate some interview questions on leetcode.
 ### 30/40
 ### 40/40
-## Algorithm familiarity
-## Data Structure familiarity
-## Leetcode training
+## Algorithm and Data Structure familiarity
+### Leetcode training
 - Leetcode most interviewed questions
-## CodeWar training
+
+## General language proficiency
+### CodeWar training
 - Very addictive
 - Fun
 - Should do it from time to time
-
+### Hackerrank training
 
 
 

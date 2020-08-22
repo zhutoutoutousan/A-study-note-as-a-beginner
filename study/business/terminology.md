@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Alphabetical](#alphabetical)
+  - [B](#b)
+    - [Beauty Pageant](#beauty-pageant)
   - [C](#c)
     - [Capitalism 资本主义](#capitalism-资本主义)
     - [Communism](#communism)
@@ -25,6 +27,11 @@
     - [Pseudo-psychology](#pseudo-psychology)
   - [U](#u)
 # Alphabetical
+## B
+### Beauty Pageant
+- 选美本质上是一种以流水线式的标准产出用于框定大众心中主观审美感知，后通过大众传媒强行输出的“文化工业”
+  - [新之说：被吐槽“越来越丑”，风光不再的“香港小姐”经历了什么？](https://www.youtube.com/watch?v=1v1NZh9uMMU)
+  - 以男性视角来评判和规范 
 
 ## C
 

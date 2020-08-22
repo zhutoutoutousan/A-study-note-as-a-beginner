@@ -343,7 +343,7 @@ class LinkedList {
      /** @var LinkedListNode */
      this.tail = null;
 
-     this.compare = new Comparator(comparatorFunction;)
+     this.compare = new Comparator(comparatorFunction)
    }
 
    /**
@@ -439,6 +439,48 @@ class LinkedList {
          }
 
          let currentNode = this.head;
+
+         while (currentNode) {
+          //  If callback is specified then try to find node by callback.
+          if (callback && callback(currentNode.value)) {
+            return currentNode;
+          }
+
+          // If value is specified then try to compare by value.
+          if ( value !== undefined && this.compare.equal(currentNode.value, value)) {
+            return currentNode;
+          }
+          currentNode = currentNode.next;
+         }
+         return null;
+       }
+
+       /**
+        * @return {LinkedListNode} 
+        */
+       deleteTail() {
+         const deletedTail = this.tail;
+
+         if (this.head === this.tail) {
+          //  There is only one node in linked list.
+          this.head = null;
+          this.tail = null;
+
+          return deletedTail;         
+         }
+
+          // If there are many nodes in linked list...
+
+          // Rewind to the last node and delete "next" link for the node before the last one.
+          let currentNode = this.head;
+          while(currentNode.next) {
+            if(!currentNode.next) {
+              currentNode.next = null;
+            }
+          }
+
+
+         
        }
 }
 

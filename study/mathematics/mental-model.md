@@ -11,6 +11,7 @@
   - [Visual intelligence training](#visual-intelligence-training)
     - [Training](#training)
     - [Resource](#resource)
+  - [Number thoery](#number-thoery)
   - [Geology](#geology)
     - [General](#general)
     - [Trignometry](#trignometry)
@@ -19,6 +20,7 @@
     - [Unit-real-life comparison](#unit-real-life-comparison)
     - [Unit conversion](#unit-conversion)
   - [Calculus](#calculus)
+    - [Limit](#limit)
     - [Differentiation](#differentiation)
     - [Integration](#integration)
   - [Linear algebra](#linear-algebra)
@@ -53,6 +55,10 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - 3BLUE1BROWN series
 - Physics Videos by Eugene Khutoryansky
 
+## Number thoery
+- Logarithms
+  - $\log{xy} = \log{x}+\log{y}$ --- John Napier, 1610
+
 ## Geology
 ### General
 - General equation of a circle with the radius $R$: $x^2+y^2 = R^2$
@@ -61,6 +67,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
   - 1 radian = 360/2 $\pi$ degrees $\approx$ 57.3 degrees
   - 1 degree = $2\pi /360$ radians $\approx$ 0.01745 radians
   - Examples discussing radians: **CM** p23
+- Pythagora's Theorem: $a^2+b^2=c^2$ --- Pythogoras, 530BC
 ### Trignometry
 - $\cos^2{x}+\sin^2{x}=1$
 - Basic triangle model
@@ -108,6 +115,8 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - 1 mil = ? mm
 
 ## Calculus
+### Limit
+- $\frac{df}{dt} = \underset{h\rightarrow 0 }{\lim}$
 ### Differentiation
 - $(\frac{u}{v})^{'}=\frac{u^{'}v-uv^{'}}{v^2}$
   - Entry of usage:

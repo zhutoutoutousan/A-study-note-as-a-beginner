@@ -119,6 +119,7 @@
 
 ### Software testing
 - [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho)
+  - Progress: 5:00/57:18
 
 ### Reference
 [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  

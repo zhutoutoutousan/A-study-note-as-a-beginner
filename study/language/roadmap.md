@@ -141,3 +141,5 @@
 # Type writing
 - [10fastfinger](https://10fastfingers.com/) 
 - [RU - Keyboard layout](https://www.branah.com/russian)
+- [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
+- [How to Type French Accents: Accent Codes and Shortcuts](https://www.thoughtco.com/how-to-type-french-accents-1372770)

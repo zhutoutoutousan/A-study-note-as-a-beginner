@@ -91,6 +91,7 @@
 - Point out the psychological projection or else directly and relate to human nature
   - Procedures
   - Usage
+    - Good for
 
 ### GR
 

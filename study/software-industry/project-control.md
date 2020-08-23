@@ -328,7 +328,39 @@ xxxxxxx...August-----------------------September--------------------------->|
           - [ ] What it is
           - [ ] Code along
             - [ ] Can use chrome DevTool to check the OOP
+```javascript
+// Requires Linked List
 
+
+// Hash table size directly affects on the number of collisions.
+// The bigger the hash table size the less collisions you'll get
+// For demonstrating purposes hash table size is small to show how collisions are being handled.
+const defaultHashTableSize = 32;
+
+class HashTable {
+  /**
+   * @param {number} hashTableSize
+   */
+  constructor(hashTableSize = defaultHashTableSize) {
+    // Create hash table of certain size and fill each bucket with empty linked list.
+    this.bucket = Array(hashTableSize).fill(null),map(() => new LinkedList());
+
+    // Just to keep track of all actual keys in a fast way.
+    this.keys = {};
+  }
+
+  /**
+   * Converts key string to hash number.
+   * 
+   * @param {string} key
+   * @return {number}
+   */
+  hash(key) {
+    // For simplicity reasons we will just use character codes sum of all  characters of the key to calculate the hash.
+  }
+}
+
+```
 ### 20/40
 - [ ] Every day, do a full sweep of review --- Forgetting curve style
   - [link](https://github.com/trekhleb/javascript-algorithms)

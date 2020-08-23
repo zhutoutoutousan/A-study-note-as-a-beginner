@@ -320,6 +320,7 @@ xxxxxxx...August-----------------------September--------------------------->|
         - Linked-List
           - [x] What it is
           - [ ] Code along
+            - [ ] Can use chrome DevTool to check the OOP
           - [ ] Pick some exercise
             - [ ] [Top 20 Linked List Interview Question](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/)
               - [ ] Progress
@@ -337,7 +338,7 @@ class LinkedListNode {
 
 class LinkedList {
   /**
-   * @param {Funcion} [comparatorFunction]
+   * @param {Function} [comparatorFunction]
    */
    constructor(comparatorFunction) {
      /** @var LinkedListNode */
@@ -481,10 +482,48 @@ class LinkedList {
               currentNode.next = null;
             }
           }
-
-
-         
+          this.tail = currentNode;
+          return deletedTail;
        }
+
+       /**
+        * @return {LinkedListNode}
+        */
+        deleteHead() {
+          if (!this.head) {
+            return null;
+          }
+
+          const deletedHead = this.head;
+
+          if(this.head.next) {
+            this.head = this.head.next;
+          }
+          else {
+            this.head = null;
+            this.tail = null;
+          }
+
+          return = deletedHead;
+        }
+
+       /**
+        * @return {LinkedListNode[]}
+        */
+        toArray() {
+          const nodes = [];
+
+          let currentNode = this.head;
+          while (currentNode) {
+            nodes.push(currentNode);
+            currentNode = currentNode.next;
+          }
+          return nodes;
+        }
+
+       /**
+        * @param {function} [callback]
+        */        
 }
 
 ```

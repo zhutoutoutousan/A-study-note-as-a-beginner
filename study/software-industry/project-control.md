@@ -523,7 +523,26 @@ class LinkedList {
 
        /**
         * @param {function} [callback]
+        * @return {string}
         */        
+        toString(callback) {
+          return this.toArray().map((node) => node.toString(callback)).toString();
+        }
+
+       /**
+        * @param {function} [callback]
+        * @return {string}
+        */
+        reverse() {
+          let currentNode = this.head;
+          let previousNode = null;
+          let nextNode = null;
+
+          while (currentNode) {
+            // Store next node.
+            nextNode = currentNode.next;
+          }
+        }
 }
 
 ```

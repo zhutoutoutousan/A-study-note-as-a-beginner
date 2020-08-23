@@ -25,6 +25,8 @@
 ## Competitive mathematics
 - Michael Penn
 
+# Arithmetics
+- [Sequence and Series: An introduction to Mathematical Analysis](http://people.math.harvard.edu/~engelwar/MathS305/Sequences%20and%20Series%20Text%20abridged.pdf)
 
 # The number theory
 ## B.O.I

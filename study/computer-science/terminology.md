@@ -4,6 +4,7 @@
   - [Algorithm](#algorithm)
   - [AON](#aon)
   - [Assertion](#assertion)
+  - [Associative array](#associative-array)
 - [B](#b)
   - [Bandwidth](#bandwidth)
   - [Base station](#base-station)
@@ -17,6 +18,7 @@
     - [Cryptology](#cryptology)
 - [D](#d)
   - [Data structures](#data-structures)
+  - [Data type](#data-type)
   - [Dial-up](#dial-up)
   - [Dictionary](#dictionary)
   - [Distributed application](#distributed-application)
@@ -33,6 +35,7 @@
   - [Frequency-division multiplexing](#frequency-division-multiplexing)
   - [FTTH](#ftth)
 - [H](#h)
+  - [Hash Table/Hash map](#hash-tablehash-map)
   - [HFC network](#hfc-network)
   - [Host](#host)
   - [Hub](#hub)
@@ -87,7 +90,7 @@
 
 ## Assertion
 [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
-
+## Associative array
 # B
 ## Bandwidth
 ## Base station
@@ -110,6 +113,7 @@
 # D
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
+## Data type
 ## Dial-up
 ## Dictionary
 - (Computer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
@@ -141,6 +145,9 @@ In the context of hardware and software systems, **formal verification** is the 
 ## FTTH
 - Fiber To The Home
 # H
+## Hash Table/Hash map
+- In computing, a **hash table**(hash map) is a data structure whic himplements an *associative array* abstract data type, a structure that can map *keys to values*. A hash table uses a *hash function* to compute an index into an array of buckets or slots, from which the desired value can be found.
+- [javascript-algorithms](https://github.com/zhutoutoutousan/javascript-algorithms/tree/master/src/data-structures/hash-table)
 ## HFC network
 ## Host
 ## Hub

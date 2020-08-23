@@ -13,6 +13,7 @@
     - [Corollary](#corollary)
     - [Culture](#culture)
   - [D](#d)
+    - [Defense mechanism](#defense-mechanism)
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
     - [Doublespeak](#doublespeak)
@@ -37,6 +38,7 @@
     - [Ordeal](#ordeal)
   - [P](#p)
     - [Pertinent](#pertinent)
+    - [Psychological projection](#psychological-projection)
   - [R](#r)
     - [Readily](#readily)
     - [Reality](#reality)
@@ -80,6 +82,7 @@
 - [wiki](https://en.wikipedia.org/wiki/Corollary)
 ### Culture
 ## D
+### Defense mechanism
 ### Dissent
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.
 ### Dissenter
@@ -116,7 +119,8 @@
 ### Ordeal
 ## P
 ### Pertinent
-
+### Psychological projection
+- Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.
 ## R
 ### Readily
 ### Reality

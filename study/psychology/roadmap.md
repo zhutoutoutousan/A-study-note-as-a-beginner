@@ -1,3 +1,9 @@
+# Micro-psychology
+
+# Macro-psychology
+
+# Everything in-between
+
 # P.O.I
 - **Jorden B. Peterson**
 - **Carl Jung**

@@ -59,6 +59,7 @@
     - [Popolus](#popolus)
     - [Populism](#populism)
     - [Power](#power)
+    - [Projection](#projection)
   - [R](#r)
     - [Racism](#racism)
     - [Reform](#reform)
@@ -150,6 +151,8 @@
 
 ### Power
 - [How to understand power - Eric Liu Ted-Ed](https://www.youtube.com/watch?v=c_Eutci7ack)
+### Projection
+
 ## R
 ### Racism
 ### Reform

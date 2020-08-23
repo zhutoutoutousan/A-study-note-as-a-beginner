@@ -1,0 +1,4 @@
+# Openness
+# Neuroticism
+# Conscientiousness
+# Agreeableness

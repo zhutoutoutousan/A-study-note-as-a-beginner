@@ -88,7 +88,9 @@
   - Prerequisites
     - Past performance
   - Arsenal of words and phrases
-
+- Point out the psychological projection or else directly and relate to human nature
+  - Procedures
+  - Usage
 
 ### GR
 

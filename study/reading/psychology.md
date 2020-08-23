@@ -64,3 +64,6 @@
     - Progress: 14/367
       - [ ] Learn the vocabularies of the *Inhaltsverzeichnis*
   - Process 2(Interest in *Die Verschiedenheiten der Intelligenz* - *Die Entwicklung der Intelligenz*)
+
+# Micro-psychology
+- [The Defense Mechanism Manual](https://web.williams.edu/Psychology/Faculty/Cramer/Defense%20Mechanisms.pdf)

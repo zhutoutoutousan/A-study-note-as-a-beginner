@@ -37,6 +37,7 @@
   - [O](#o)
     - [Ordeal](#ordeal)
   - [P](#p)
+    - [Pathology](#pathology)
     - [Pertinent](#pertinent)
     - [Psychological projection](#psychological-projection)
   - [R](#r)
@@ -118,6 +119,7 @@
 ## O 
 ### Ordeal
 ## P
+### Pathology
 ### Pertinent
 ### Psychological projection
 - Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.

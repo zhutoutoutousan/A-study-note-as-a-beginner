@@ -26,6 +26,7 @@
     - [PaaS](#paas)
 - [Main study resource track](#main-study-resource-track)
   - [Vue mastery](#vue-mastery)
+  - [Pirple](#pirple)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
     - [Intro to Web Dev](#intro-to-web-dev)
@@ -145,6 +146,9 @@
 # Main study resource track
 - It seems that following one main path along the way then using other resource as reference is more efficient than dilly-dallying around.
 ## Vue mastery
+## Pirple
+- [Node.js Masterclass](https://github.com/trekhleb/nodejs-master-class)
+  - This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
 ## Udemy（$10/course)
 - Vue JS Essentials with Vuex and Vue Router
   - [Link](https://www.udemy.com/course/vue-js-course/learn/lecture/10219482?start=30#overview)

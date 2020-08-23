@@ -541,6 +541,9 @@ class LinkedList {
           while (currentNode) {
             // Store next node.
             nextNode = currentNode.next;
+
+            // Change next node of the current node so  it would link to previous node
+            currentNode.next = previousNode;
           }
         }
 }

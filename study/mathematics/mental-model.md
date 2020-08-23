@@ -1,6 +1,5 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Conceptual structure](#conceptual-structure)
 - [Front-line memory](#front-line-memory)
   - [Conceptual structure and terminologies](#conceptual-structure-and-terminologies)
   - [Functioal 'working memory'-'neural pathway' connection](#functioal-working-memory-neural-pathway-connection)
@@ -11,27 +10,30 @@
   - [Visual intelligence training](#visual-intelligence-training)
     - [Training](#training)
     - [Resource](#resource)
-  - [Number thoery](#number-thoery)
-  - [Geology](#geology)
-    - [General](#general)
-    - [Trignometry](#trignometry)
+  - [Equations and tools](#equations-and-tools)
+    - [Number thoery](#number-thoery)
+    - [Geology](#geology)
+      - [General](#general)
+      - [Trignometry](#trignometry)
     - [Real-world recognition](#real-world-recognition)
-  - [Systems of Units](#systems-of-units)
-    - [Unit-real-life comparison](#unit-real-life-comparison)
-    - [Unit conversion](#unit-conversion)
-  - [Calculus](#calculus)
-    - [Limit](#limit)
-    - [Differentiation](#differentiation)
-    - [Integration](#integration)
-  - [Linear algebra](#linear-algebra)
-    - [Matrix multiplication](#matrix-multiplication)
-  - [Number-Reality connection](#number-reality-connection)
-    - [Area](#area)
-    - [Space](#space)
+    - [Probability and statistics](#probability-and-statistics)
+    - [Systems of Units](#systems-of-units)
+      - [Unit-real-life comparison](#unit-real-life-comparison)
+      - [Unit conversion](#unit-conversion)
+    - [Calculus](#calculus)
+      - [Limit](#limit)
+      - [Differentiation](#differentiation)
+      - [Integration](#integration)
+    - [Real analysis](#real-analysis)
+    - [Complex analysis](#complex-analysis)
+    - [Linear algebra](#linear-algebra)
+      - [Matrix multiplication](#matrix-multiplication)
+    - [Number-Reality connection](#number-reality-connection)
+      - [Area](#area)
+      - [Space](#space)
 - [Second-line memory](#second-line-memory)
 - [Book Entry](#book-entry)
-# Conceptual structure
-Hold your horses, take your time.
+
 # Front-line memory
 ## Conceptual structure and terminologies
 Maintain a functional dexterity of the conceptual structure and terminologies
@@ -55,12 +57,14 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - 3BLUE1BROWN series
 - Physics Videos by Eugene Khutoryansky
 
-## Number thoery
+## Equations and tools
+### Number thoery
 - Logarithms
   - $\log{xy} = \log{x}+\log{y}$ --- John Napier, 1610
 
-## Geology
-### General
+### Geology
+#### General
+- Euler's Formula for Polyhedra: $V-E+F=2$ --- Euler,1751
 - General equation of a circle with the radius $R$: $x^2+y^2 = R^2$
 - Degrees vs radians:
   - A full circle is 360 degrees and $2\pi$ radians.
@@ -68,7 +72,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
   - 1 degree = $2\pi /360$ radians $\approx$ 0.01745 radians
   - Examples discussing radians: **CM** p23
 - Pythagora's Theorem: $a^2+b^2=c^2$ --- Pythogoras, 530BC
-### Trignometry
+#### Trignometry
 - $\cos^2{x}+\sin^2{x}=1$
 - Basic triangle model
   - $\cos{\theta} = \frac{x}{r} = \frac{near\,side}{hypotenuse}$
@@ -108,16 +112,19 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 ### Real-world recognition
 - The surface area of a sphere: $S=4\pi r^2$
 
-## Systems of Units
-### Unit-real-life comparison
-### Unit conversion
+### Probability and statistics
+- Normal distribution: $\Phi (x) = \frac{1}{\sqrt{2\pi \rho}} e^{\frac{(x-\rho)^2}{2\rho^2}}$ --- C.F. Gauss, 1810
+
+### Systems of Units
+#### Unit-real-life comparison
+#### Unit conversion
 - 1 inch(in.) = 2.54 cm
 - 1 mil = ? mm
 
-## Calculus
-### Limit
+### Calculus
+#### Limit
 - $\frac{df}{dt} = \underset{h\rightarrow 0 }{\lim}$
-### Differentiation
+#### Differentiation
 - $(\frac{u}{v})^{'}=\frac{u^{'}v-uv^{'}}{v^2}$
   - Entry of usage:
     - Usage 1:
@@ -131,7 +138,7 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - ${(\cosh{x})}^{'}={\sinh{x}}$
 - ${(\log_a{x})}^{'}=\frac{\log_a{e}}{x}$
 
-### Integration
+#### Integration
 - $\int kdx = kx+C$(k is constant)
 - $\int x^{\mu}dx = \frac{x^{\mu+1}}{\mu +1}+C$($\mu \neq -1$)
 - $\int \frac{dx}{x}= \ln{|x|}+C$
@@ -145,16 +152,22 @@ Maintain a functional dexterity of the conceptual structure and terminologies
 - $\int \csc{x}\cot{x}dx = -\csc{x}+C$
 - $\int e^x dx = e^x + C$
 - $\int a^x dx = \frac{a^x}{\ln{a}}+C$
-## Linear algebra
-### Matrix multiplication
-- Some regular strengthening advised.
-## Number-Reality connection
 
-### Area
+### Real analysis
+-  Fourier Transform: $f(\omega) = \int_{\infty}^{\infty} f(x)e^{-2\pi i x \omega} dx$ --- J. Fourier, 1822
+
+### Complex analysis
+Euler complex: $i^2 = -1$ --- Euler,1750
+### Linear algebra
+#### Matrix multiplication
+- Some regular strengthening advised.
+### Number-Reality connection
+
+#### Area
 - The average coverage area of an automobile: $4m^2$ 
 - The coverage of Shanghai: 6340 ${km}^2$
 
-### Space
+#### Space
 - The radius of the Earth: 6371 km
 
 # Second-line memory

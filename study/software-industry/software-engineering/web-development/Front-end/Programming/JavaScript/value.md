@@ -18,6 +18,8 @@
     - [String](#string)
       - [```String.prototype```](#stringprototype)
         - [```String.prototype.substr()``` --- Position + Length](#stringprototypesubstr-----position--length)
+        - [```String.prototype.indexOf()``` --- Find single substring location](#stringprototypeindexof-----find-single-substring-location)
+        - [```String.prototype.match()``` --- Use RegEx to match](#stringprototypematch-----use-regex-to-match)
       - [Template literals](#template-literals)
       - [Conversion](#conversion)
         - [String2VariableName](#string2variablename)
@@ -56,6 +58,8 @@ Used for intentionally missing values
 #### ```String.prototype```
 ##### ```String.prototype.substr()``` --- Position + Length
 - Control string --> Position + Length
+##### ```String.prototype.indexOf()``` --- Find single substring location
+##### ```String.prototype.match()``` --- Use RegEx to match
 #### Template literals
 #### Conversion
 ##### String2VariableName

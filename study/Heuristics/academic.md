@@ -137,7 +137,7 @@ Four key time stamps to review what I've learned:
 
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
-
+- Education is an admirable thing, but it is well to remember from time to time that nothing worth knowing can be taught.  --- Oscar Wilde, *The Critic as Artist*, 1890
 # Standardized Tests
 ## Language
 ### IELTS

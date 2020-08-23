@@ -29,6 +29,8 @@
 - Gustave Le Bon
   - Psychologie des foules
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
+    - Process 1:(Language-study-oriented)
+      - Progress: 7/125
 
 # Jungian Psychology
 - The Handbook of Jungian Psychology

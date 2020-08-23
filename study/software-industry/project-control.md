@@ -544,7 +544,17 @@ class LinkedList {
 
             // Change next node of the current node so  it would link to previous node
             currentNode.next = previousNode;
+
+            // Move previousNode and currentNode nodes one step forward
+            previousNode = currentNode;
+            currentNode = nextNode;
           }
+
+          // Reset head and tail
+          this.tail = this.head;
+          this.head = previousNode;
+
+          return this;
         }
 }
 

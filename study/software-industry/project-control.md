@@ -320,7 +320,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Do this the hard way, follow along the coding for better muscle memory
   - Learn to manage your time, record the duration of each training session for project development balance
     - Start time: 
-      - 1/40-3/40(Study phase): 
+      - 1/40-4/40(Study phase): 
         - Linked-List
           - [x] What it is
           - [x] Code along
@@ -330,6 +330,7 @@ xxxxxxx...August-----------------------September--------------------------->|
               - [ ] Progress
         - Hashmap
           - [ ] What it is
+            - [ ] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
           - [ ] Code along
             - [ ] Can use chrome DevTool to check the OOP
 ```javascript
@@ -360,7 +361,9 @@ class HashTable {
    * @return {number}
    */
   hash(key) {
-    // For simplicity reasons we will just use character codes sum of all  characters of the key to calculate the hash.
+    // For simplicity reasons we will just use character codes sum of all characters of the key to calculate the hash.
+    // 
+    // But you may also use more sophisticated approaches like polynomial string hash to reduce the number of collisions.
   }
 }
 

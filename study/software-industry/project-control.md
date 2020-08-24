@@ -79,6 +79,10 @@
     - [CodeWar training](#codewar-training)
     - [Hackerrank training](#hackerrank-training)
 - [Interview questions](#interview-questions)
+  - [Basic JavaScript/HTML/CSS](#basic-javascripthtmlcss)
+  - [Vue, React.js inner working principle](#vue-reactjs-inner-working-principle)
+  - [Networking, browser](#networking-browser)
+  - [Development pattern/Teamwork](#development-patternteamwork)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
   - [Design](#design-2)
     - [Functionality](#functionality-3)
@@ -385,7 +389,10 @@ class HashTable {
 
 
 # Interview questions
-- Resource preparation
+## Basic JavaScript/HTML/CSS
+## Vue, React.js inner working principle
+## Networking, browser
+## Development pattern/Teamwork
 
 # Web crawler of German Websites
 ## Design

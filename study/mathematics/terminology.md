@@ -18,6 +18,8 @@
   - [E](#e)
     - [Elliptic curve](#elliptic-curve)
     - [Euclid's Algorithm](#euclids-algorithm)
+  - [G](#g)
+    - [Geometric Sequence](#geometric-sequence)
   - [H](#h)
     - [Homothetic transformation](#homothetic-transformation)
   - [I](#i)
@@ -42,6 +44,7 @@
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
   - [R](#r)
+    - [Radix complement](#radix-complement)
     - [Rational integer](#rational-integer)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
@@ -53,6 +56,7 @@
     - [The zeta function](#the-zeta-function)
     - [Transposition](#transposition)
     - [Triangular Matrix](#triangular-matrix)
+    - [Two's component](#twos-component)
   - [V](#v)
     - [Vector](#vector)
 - [EN-GE-CH](#en-ge-ch)
@@ -85,6 +89,9 @@
 ## E
 ### Elliptic curve
 ### Euclid's Algorithm
+## G
+### Geometric Sequence
+- [Geometric Sequences and Sums](https://www.mathsisfun.com/algebra/sequences-sums-geometric.html)
 ## H
 ### Homothetic transformation
 ## I
@@ -191,6 +198,7 @@ $$
 ### Quadratic residues
 
 ## R
+### Radix complement
 ### Rational integer
 - ...-3,-2,-1,0,1,2,3...
 
@@ -246,7 +254,7 @@ $$
 - ${(c\bold{A})}^\top = c{\bold{A}}^\top$
 - ${(\bold{A}\bold{B})}^\top={\bold{B}}^\top {\bold{A}}^\top$
 ### Triangular Matrix
-
+### Two's component
 ## V
 ### Vector
 - A **vector** is a matrix with only one row or column. Its **entries** are called the **components** of the vector.

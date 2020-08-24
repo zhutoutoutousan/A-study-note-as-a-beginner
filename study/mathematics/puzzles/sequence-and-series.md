@@ -5,6 +5,8 @@
 - [rowSumOddNumbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/javascript)
 - [The sum of n consecutive odd integers](https://www.quora.com/What-is-the-sum-of-n-consecutive-odd-integers/answer/Xavier-Dectot)
 
+Reference: Geometric sequence
+
 $$
 
 b[n]=n^2-n+1
@@ -17,7 +19,7 @@ s[n] =b[n]+b[n]+2+b[n]+4...+b[n]+2(n-1)=\\
 
 a[n] = 2^n\\
 S[n] = 2^n+2^{n-1} + ... + 2^0\\
-
+S[n] = 2^0 + 2
 \\
 
 

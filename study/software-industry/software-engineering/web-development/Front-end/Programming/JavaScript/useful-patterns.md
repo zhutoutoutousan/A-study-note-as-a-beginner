@@ -3,19 +3,27 @@
 - [OOP series](#oop-series)
   - [How to curry](#how-to-curry)
 - [Work with series](#work-with-series)
-  - [Working with strings](#working-with-strings)
-  - [Working with Arrays](#working-with-arrays)
+  - [Work with strings](#work-with-strings)
+  - [Work with Arrays](#work-with-arrays)
+  - [Work with JSON](#work-with-json)
+  - [Work with localStorage](#work-with-localstorage)
+  - [Work with sessionStorage](#work-with-sessionstorage)
 - [Generate series](#generate-series)
   - [Generate string](#generate-string)
     - [Generate Alphabet](#generate-alphabet)
+- [Transform series](#transform-series)
+  - [String to RegExp](#string-to-regexp)
+  - [RegExp to String](#regexp-to-string)
 
 # OOP series
 ## How to curry
 
 # Work with series
-## Working with strings
-## Working with Arrays
-
+## Work with strings
+## Work with Arrays
+## Work with JSON
+## Work with localStorage
+## Work with sessionStorage
 # Generate series
 ## Generate string
 ### Generate Alphabet
@@ -25,3 +33,9 @@
 ```String.fromCharCOde```
 - ```[...Array(26)].reduce(a=>a+String.fromCharCode(i++),'',i=97)```
 
+# Transform series
+## String to RegExp
+- [generating a regular expression from a string](https://stackoverflow.com/questions/16034337/generating-a-regular-expression-from-a-string)
+  - ```String s = Pattern.quote(orig)```
+    - String has all the *metacharacters* escaped
+## RegExp to String

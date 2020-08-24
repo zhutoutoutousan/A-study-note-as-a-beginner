@@ -320,7 +320,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Do this the hard way, follow along the coding for better muscle memory
   - Learn to manage your time, record the duration of each training session for project development balance
     - Start time: 
-      - 1/40-3/40: 
+      - 1/40-3/40(Study phase): 
         - Linked-List
           - [x] What it is
           - [x] Code along
@@ -371,6 +371,15 @@ class HashTable {
   - Do this the hard way, follow along the coding for better muscle memory
   - Learn to manage your time, record the duration of each training session for project development balance
 - [ ] Every day, accumulate some interview questions on leetcode.
+- Recall phase record
+  - 10 minutes
+    - LinkedList
+      - 24 Mo.
+      - Code
+      - Itself
+  - 24 hrs
+  - 1 week
+  - 1 month
 ### 30/40
 ### 40/40
 ## Algorithm and Data Structure familiarity

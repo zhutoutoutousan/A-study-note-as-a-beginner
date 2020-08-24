@@ -30,7 +30,8 @@ Complete course:
 ## Implementation Training
 ### C
 ### JavaScript
-### Go
+- [Trekhleb - javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/src/)
+  - There is a problem within the OOP pattern, if you use a callback function in the class of a data structure as a comparator, all of the original methods are overwritten and lost its meaning.
 - [LeetCode Go](https://github.com/halfrost/LeetCode-Go)
 
 # Cryptology

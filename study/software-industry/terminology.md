@@ -9,6 +9,8 @@
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
+  - [D](#d)
+    - [Devious](#devious)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [I](#i)
@@ -74,6 +76,10 @@
 A group of servers that stores your data
 ### Code bundler
 ### Communication links
+
+## D
+### Devious
+- (adj)showing a skillful use of underhanded tactics to achieve goals
 
 ## G
 ### Gtk APP

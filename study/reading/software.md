@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Programming language proficiency](#programming-language-proficiency)
+  - [C](#c)
+  - [C++](#c-1)
   - [JavaScript](#javascript)
   - [Java](#java)
 - [Data structure and algorithms](#data-structure-and-algorithms)
@@ -12,9 +14,38 @@
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
+## C
+- Motivation
+  - I coded in C before and got a taste first-hand
+  - I want to be a better programmer
+- Learn C the HARD WAY
+  - [link1](https://users.elis.ugent.be/~jrvdnbro/learn_c_the_hard_way.pdf)
+  - Goals
+    - Learn about *rigorous defensive programming*
+  - Interesting points:
+    - *C is broken, It is full of design choirces that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
+      - unrestricted, wild use of pointers 
+      - severely broken NUL terminated strings
+  - Process 1:(Learn when you have some spare time and interest)
+    - Progress: 19/660
+## C++
+- Motivation:
+  - None, just know the entry point when I got the right motivation
+- C++ Primer
+  - [link1 - Requires download](https://faculty.psau.edu.sa/filedownload/doc-8-pdf-95bf5763251f491480a0c1e5b76a16d8-original.pdf)
 ## JavaScript
+- Motivations
+  - Currently no motivations 
+  - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
 ## Java
+- Motivations
 - Learning Java by Niemeyer Patrick and Leuck Danial: 31/1010
+  - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
+    - Pretty slow to load
+  - Process 1:
+    - Goals
+      - Getting to know the basic syntax
+      - Follow along the programming environment setting
 
 # Data structure and algorithms
 - Introduction to Algorithms 3rd Edition: 0-55/1313

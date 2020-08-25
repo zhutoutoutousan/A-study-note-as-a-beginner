@@ -10,6 +10,7 @@
     - [Assent](#assent)
   - [C](#c)
     - [Collusion](#collusion)
+    - [Coprolalia](#coprolalia)
     - [Corollary](#corollary)
     - [Culture](#culture)
   - [D](#d)
@@ -77,12 +78,17 @@
 ## C
 ### Collusion
 - (noun)secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.
+
+### Coprolalia
+- -copro: shit
+- -lalia: speak
 ### Corollary
 - NOUN: a proposition that follows from (and is often appended to) one already proved.
 - ADJ.: forming a proposition that follows from one already proved
 - [wiki](https://en.wikipedia.org/wiki/Corollary)
 ### Culture
 ## D
+
 ### Defense mechanism
 ### Dissent
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.

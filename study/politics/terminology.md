@@ -16,6 +16,7 @@
     - [Cross-cutting](#cross-cutting)
     - [Communism](#communism)
   - [D](#d)
+    - [David strategy](#david-strategy)
     - [Demopraphy](#demopraphy)
     - [Disparage](#disparage)
     - [Dividend](#dividend)
@@ -31,6 +32,7 @@
     - [First Gulf War](#first-gulf-war)
   - [G](#g)
     - [Geopolitics](#geopolitics)
+    - [Goliath strategy](#goliath-strategy)
   - [I](#i)
     - [Ideology 意识形态](#ideology-意识形态)
     - [Informationized military](#informationized-military)
@@ -56,15 +58,18 @@
     - [Proclamation](#proclamation)
     - [Political correctness](#political-correctness)
     - [Politiquement correct](#politiquement-correct)
+    - [Poltroon](#poltroon)
     - [Popolus](#popolus)
     - [Populism](#populism)
     - [Power](#power)
+    - [Potty-mouth](#potty-mouth)
     - [Projection](#projection)
   - [R](#r)
     - [Racism](#racism)
     - [Reform](#reform)
     - [Revolution](#revolution)
   - [S](#s)
+    - [Scatology](#scatology)
     - [State-owned bank](#state-owned-bank)
     - [Superpower](#superpower)
     - [SOE](#soe)
@@ -77,6 +82,9 @@
     - [Urbanization](#urbanization)
   - [W](#w)
     - [Workforce](#workforce)
+  - [Z](#z)
+    - [Zu-an-hua 祖安化](#zu-an-hua-祖安化)
+    - [Zui-qiang-wang-zhe 嘴强王者](#zui-qiang-wang-zhe-嘴强王者)
 # Alphabetical
 ## A
 ### Antisemitism
@@ -98,6 +106,7 @@
 ### Cross-cutting
 ### Communism
 ## D
+### David strategy
 ### Demopraphy
 ### Disparage
 ### Dividend
@@ -114,6 +123,7 @@
 - Took place in 1991
 ## G
 ### Geopolitics
+### Goliath strategy
 ## I
 ### Ideology 意识形态
 ### Informationized military
@@ -141,6 +151,8 @@
 ### Political correctness
 ### Politiquement correct
 - (French) Political correctness
+
+### Poltroon
 ### Popolus
 - (Latin)People
 ### Populism
@@ -151,6 +163,8 @@
 
 ### Power
 - [How to understand power - Eric Liu Ted-Ed](https://www.youtube.com/watch?v=c_Eutci7ack)
+
+### Potty-mouth
 ### Projection
 
 ## R
@@ -158,6 +172,8 @@
 ### Reform
 ### Revolution
 ## S
+### Scatology
+- Used to report the act of saying 'shit' by some high-profile political figures
 ### State-owned bank
 ### Superpower
 - Definition
@@ -177,3 +193,10 @@
 
 ## W
 ### Workforce
+
+## Z
+### Zu-an-hua 祖安化
+- (据说)以对方母亲为圆心，祖宗十八代为半径，生殖器为主武器，意淫为主技能，配以伦理，两性，家畜，宠物，殡葬等领域和行业的特有动词和名词进行语言输出
+  - [洋媒吐气：美国政坛是怎么沦为祖安大区的？ - GuanchaNews](https://www.youtube.com/watch?v=RbpyevOeXv4)
+
+### Zui-qiang-wang-zhe 嘴强王者

@@ -23,6 +23,7 @@
       - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
+    - [Find min/max elements in arrays](#find-minmax-elements-in-arrays)
   - [Work with JSON](#work-with-json)
   - [Work with localStorage](#work-with-localstorage)
   - [Work with sessionStorage](#work-with-sessionstorage)
@@ -87,10 +88,12 @@ console.log(Math.abs(a)) // 134
 console.log('Fuck this shit'.includes('shit'));  // true
 console.log('Fuck this shit'.includes('shitty'));  // false
 ```
-For more see [String.prototype.includes\(\)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
+- [String.prototype.includes\(\)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 
-[How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
+- [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
+### Find min/max elements in arrays
+- [Find the min/max element of an Array in JavaScript](https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript)
 ## Work with JSON
 ## Work with localStorage
 ## Work with sessionStorage

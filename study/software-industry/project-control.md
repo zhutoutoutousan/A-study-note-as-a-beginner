@@ -400,7 +400,7 @@ class HashTable {
     */
     delete(key) {
       const keyHash = this.hash(key);
-      
+      delete this.keys[key];
     }
 }
 

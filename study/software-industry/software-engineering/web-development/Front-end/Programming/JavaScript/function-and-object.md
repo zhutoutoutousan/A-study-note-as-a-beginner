@@ -173,6 +173,7 @@ new Date(year, monthIndex [, day [, hours [, minutes [, seconds [, milliseconds]
 [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 # Function
+- Every function gets ```this``` property automatically
 ## Function.name
 ## Higher order function
 ### ```Array.prototype.map()```

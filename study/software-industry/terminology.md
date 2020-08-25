@@ -11,6 +11,8 @@
     - [Communication links](#communication-links)
   - [D](#d)
     - [Devious](#devious)
+  - [E](#e)
+    - [Execusion context 执行上下文](#execusion-context-执行上下文)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [I](#i)
@@ -83,6 +85,11 @@ A group of servers that stores your data
 ### Devious
 - (adj)showing a skillful use of underhanded tactics to achieve goals
 
+## E
+### Execusion context 执行上下文
+- (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
+  - [What is the 'Execution Context' in JavaScript exactly?](https://stackoverflow.com/questions/9384758/what-is-the-execution-context-in-javascript-exactly#:~:text=Execution%20context%20is%20a%20concept,value%20of%20the%20this%20object.)
+  - [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
 ## G
 ### Gtk APP
 
@@ -199,6 +206,7 @@ The term **Web service(WS)** is either:
 - Template engine - 模板引擎
 
 # 中英对照词汇 CH-EN
+- 不用，直接与英文合并
 ## 前端开发
 -  注入 - Injection
 -  轮播图 - carousel

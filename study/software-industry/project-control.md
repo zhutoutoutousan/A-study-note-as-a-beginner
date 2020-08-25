@@ -364,6 +364,11 @@ class HashTable {
     // For simplicity reasons we will just use character codes sum of all characters of the key to calculate the hash.
     // 
     // But you may also use more sophisticated approaches like polynomial string hash to reduce the number of collisions.
+    // 
+    // hash = charCodeAt(0) * PRIME^(n-1) + charCodeAt(1) * PRIME^(n-2) + ... + charCodeAt(n-1)
+    // 
+    // where charCodeAt(i) is the i-th character code of the key, n is the length of the key and PRIME is just any prime number like 31.
+    const hash = Array.from(key)
   }
 }
 
@@ -376,11 +381,11 @@ class HashTable {
 - [ ] Every day, accumulate some interview questions on leetcode.
 - Recall phase record
   - 10 minutes
+  - 24 hrs
     - LinkedList
-      - 24 Mo.
+      - 25 Mo.
       - Code
       - Itself
-  - 24 hrs
   - 1 week
   - 1 month
 ### 30/40

@@ -23,6 +23,8 @@
   - [M](#m)
     - [Methods](#methods)
     - [MVC](#mvc)
+  - [N](#n)
+    - [Non-Basic-Multilingual-Plane character](#non-basic-multilingual-plane-character)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented programming](#object-oriented-programming)
@@ -114,6 +116,8 @@ A group of servers that stores your data
     - Vue.js:
     - React.js:
   - **Service**: Between the controller and the model sometimes goes a layer which is called a service. It fetches data from the model and lets the controller use the fetched data.   
+## N
+### Non-Basic-Multilingual-Plane character
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented programming

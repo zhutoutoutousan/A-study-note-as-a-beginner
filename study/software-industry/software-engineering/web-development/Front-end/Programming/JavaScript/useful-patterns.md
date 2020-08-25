@@ -2,7 +2,11 @@
 - [Table of Contents](#table-of-contents)
 - [OOP series](#oop-series)
   - [How to curry](#how-to-curry)
+- [Copy series](#copy-series)
+- [Replace series](#replace-series)
+  - [Replace strings](#replace-strings)
 - [Work with series](#work-with-series)
+  - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with strings](#work-with-strings)
   - [Work with Arrays](#work-with-arrays)
   - [Work with JSON](#work-with-json)
@@ -18,7 +22,14 @@
 # OOP series
 ## How to curry
 
+# Copy series
+
+# Replace series
+## Replace strings
+
+
 # Work with series
+## Work with **immutable** objects
 ## Work with strings
 ## Work with Arrays
 ## Work with JSON

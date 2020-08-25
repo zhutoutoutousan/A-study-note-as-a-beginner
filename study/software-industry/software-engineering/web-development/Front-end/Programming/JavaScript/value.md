@@ -20,6 +20,8 @@
         - [```String.prototype.substr()``` --- Position + Length](#stringprototypesubstr-----position--length)
         - [```String.prototype.indexOf()``` --- Find single substring location](#stringprototypeindexof-----find-single-substring-location)
         - [```String.prototype.match()``` --- Use RegEx to match](#stringprototypematch-----use-regex-to-match)
+        - [```String.prototype.repeat()``` --- Use for repating patterns](#stringprototyperepeat-----use-for-repating-patterns)
+        - [```String.prototype.charCodeAt()``` --- Use for finding UTF-16](#stringprototypecharcodeat-----use-for-finding-utf-16)
       - [Template literals](#template-literals)
       - [Conversion](#conversion)
         - [String2VariableName](#string2variablename)
@@ -60,6 +62,12 @@ Used for intentionally missing values
 - Control string --> Position + Length
 ##### ```String.prototype.indexOf()``` --- Find single substring location
 ##### ```String.prototype.match()``` --- Use RegEx to match
+##### ```String.prototype.repeat()``` --- Use for repating patterns
+##### ```String.prototype.charCodeAt()``` --- Use for finding UTF-16
+Can be used as creating Array
+```javascript
+let arr = Array(5).fill(0).map(() => ' '.repeat(5));
+```
 #### Template literals
 #### Conversion
 ##### String2VariableName

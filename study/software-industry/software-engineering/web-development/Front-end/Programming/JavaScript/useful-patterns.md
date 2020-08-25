@@ -101,9 +101,9 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 ## Generate string
 ### Generate Alphabet
 
-[Generating the alphabet in JavaScript](https://codegolf.stackexchange.com/questions/71613/generating-the-alphabet-in-javascript)
+- [Generating the alphabet in JavaScript](https://codegolf.stackexchange.com/questions/71613/generating-the-alphabet-in-javascript)
 
-```String.fromCharCOde```
+```String.fromCharCode```
 - ```[...Array(26)].reduce(a=>a+String.fromCharCode(i++),'',i=97)```
 
 ## Generate arrays

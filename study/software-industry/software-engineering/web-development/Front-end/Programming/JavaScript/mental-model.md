@@ -14,3 +14,9 @@ function duplicateSpreadsheet(original) {
     return copy;
 }
 ```
+
+
+# Visualization resource
+- [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
+- [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+- [JS - inheritance](https://github.com/rus0000/jsinheritance)

@@ -43,30 +43,26 @@
 - [Function](#function)
   - [Function.name](#functionname)
   - [Higher order function](#higher-order-function)
-    - [Array](#array-2)
-      - [```Array.prototype.map()```](#arrayprototypemap)
-        - [Usage](#usage-1)
-        - [Resources](#resources-1)
-      - [```Array.prototype.filter()```](#arrayprototypefilter)
-        - [Mental model](#mental-model-2)
-      - [Syntax](#syntax-1)
-      - [```Array.prototype.reduce```](#arrayprototypereduce)
-      - [Mental model](#mental-model-3)
-      - [``` Array.prototype.fill()```](#-arrayprototypefill)
-        - [Mental model](#mental-model-4)
-      - [``` Array.prototype.splice()```](#-arrayprototypesplice)
-        - [Mental model](#mental-model-5)
-      - [``` Array.prototype.forEach()```](#-arrayprototypeforeach)
-        - [Mental model](#mental-model-6)
-      - [``` Array.prototype.findIndex()```](#-arrayprototypefindindex)
-        - [Mental model](#mental-model-7)
-    - [Function](#function-1)
-      - [```Function.prototype.apply()```](#functionprototypeapply)
-      - [```Function.prototype.bind()```](#functionprototypebind)
-        - [Mental model](#mental-model-8)
-        - [Resource](#resource)
-      - [```Function.prototype.call()```](#functionprototypecall)
-        - [Mental model](#mental-model-9)
+    - [```Array.prototype.map()```](#arrayprototypemap)
+      - [Usage](#usage-1)
+      - [Resources](#resources-1)
+    - [```Array.prototype.filter()```](#arrayprototypefilter)
+      - [Mental model](#mental-model-2)
+    - [Syntax](#syntax-1)
+    - [```Array.prototype.reduce```](#arrayprototypereduce)
+    - [Mental model](#mental-model-3)
+    - [``` Array.prototype.fill()```](#-arrayprototypefill)
+      - [Mental model](#mental-model-4)
+    - [``` Array.prototype.splice()```](#-arrayprototypesplice)
+      - [Mental model](#mental-model-5)
+    - [``` Array.prototype.forEach()```](#-arrayprototypeforeach)
+      - [Mental model](#mental-model-6)
+    - [``` Array.prototype.findIndex()```](#-arrayprototypefindindex)
+    - [```Function.prototype.apply()```](#functionprototypeapply)
+    - [```Function.prototype.bind()```](#functionprototypebind)
+      - [Mental model](#mental-model-7)
+      - [Resource](#resource)
+    - [```Function.prototype.call()```](#functionprototypecall)
   - [Function currying](#function-currying)
     - [Callback function and OOP](#callback-function-and-oop)
     - [Callback function and FP](#callback-function-and-fp)
@@ -179,50 +175,45 @@ new Date(year, monthIndex [, day [, hours [, minutes [, seconds [, milliseconds]
 # Function
 ## Function.name
 ## Higher order function
-### Array
-#### ```Array.prototype.map()```
+### ```Array.prototype.map()```
 - If the callback function has no input arguments, then the return value will replace the array element directly
-##### Usage
+#### Usage
 ``` javascript
 let new_array = arr.map(function callback( currentValue[, index[, array]]){
     // return element for new_array
 }[, thisArg])
 ```
-##### Resources
+#### Resources
 [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
-#### ```Array.prototype.filter()```
+### ```Array.prototype.filter()```
 
-##### Mental model
-#### Syntax
+#### Mental model
+### Syntax
 ```javascript
 let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ```
-#### ```Array.prototype.reduce```
+### ```Array.prototype.reduce```
+
+### Mental model
+### ``` Array.prototype.fill()```
 
 #### Mental model
-#### ``` Array.prototype.fill()```
-
-##### Mental model
-#### ``` Array.prototype.splice()```
-##### Mental model
-#### ``` Array.prototype.forEach()```
-##### Mental model
-#### ``` Array.prototype.findIndex()```
-
-
-##### Mental model
-
-### Function
-#### ```Function.prototype.apply()```
+### ``` Array.prototype.splice()```
+#### Mental model
+### ``` Array.prototype.forEach()```
+#### Mental model
+### ``` Array.prototype.findIndex()```
+### ```Function.prototype.apply()```
 - [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
-#### ```Function.prototype.bind()```
+### ```Function.prototype.bind()```
 
-##### Mental model
-##### Resource
+#### Mental model
+#### Resource
 - [Bind Explained in JavaScript](https://www.youtube.com/watch?v=g2WcckBB_q0)
 
-#### ```Function.prototype.call()```
+### ```Function.prototype.call()```
+- [Javascript: call(), apply() and bind()](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
 ```javascript
 /*
  --------------
@@ -254,7 +245,7 @@ console.log(new Food('cheese', 5).name);
 
 ```
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
-##### Mental model
+
 
 ## Function currying
 ### Callback function and OOP

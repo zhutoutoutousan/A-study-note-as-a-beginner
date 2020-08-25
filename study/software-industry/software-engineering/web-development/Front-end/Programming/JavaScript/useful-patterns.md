@@ -111,12 +111,24 @@ function indexOfMax(arr) {
     return -1;
   }
 
-  var max = arr[0];
-  var maxIndex = 0;
-
+  // var max = arr[0];
+  // var maxIndex = 0;
+  let max = arr[0];
+  let maxIndex = 0;
   // is 'i' still visible here?
-  for (var i = 1; i <)
+  for (let i = 1; i < arr.length; i++) {
+    if (arr[i] > max) {
+      maxIndex = i;
+      max = arr[i];
+    }
+  }
+  
+  return maxIndex;
 }
+
+// One-liner
+// Performs twice as many comparisons as necessary and will throw a ```RangeError``` on large arrays. --> Why?
+const findMaxIndex = arr => arr.indexOf(Math.max(...arr));
 ```
 
 - **Array of strings**

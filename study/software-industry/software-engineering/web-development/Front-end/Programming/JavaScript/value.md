@@ -24,7 +24,6 @@
         - [```String.prototype.charCodeAt()``` --- Use for finding UTF-16](#stringprototypecharcodeat-----use-for-finding-utf-16)
       - [Template literals](#template-literals)
       - [Conversion](#conversion)
-        - [String2VariableName](#string2variablename)
         - [Reference](#reference-1)
   - [Object](#object)
   - [Function](#function)
@@ -70,8 +69,7 @@ let arr = Array(5).fill(0).map(() => ' '.repeat(5));
 ```
 #### Template literals
 #### Conversion
-##### String2VariableName
-- [Convert string to variable name in JavaScript](https://stackoverflow.com/questions/5613834/convert-string-to-variable-name-in-javascript)
+
 ##### Reference
 [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 ## Object

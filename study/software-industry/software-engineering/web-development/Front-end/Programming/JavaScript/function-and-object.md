@@ -71,6 +71,7 @@
 
 
 # Object
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 ## General topics
 ### Everything is an object?
 No, check Dan abramov's Just JavaScript course for more. (Wrapper object)

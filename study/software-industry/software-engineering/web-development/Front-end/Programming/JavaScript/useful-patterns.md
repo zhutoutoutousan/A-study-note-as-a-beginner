@@ -3,6 +3,7 @@
 - [OOP series](#oop-series)
   - [How to curry](#how-to-curry)
 - [Query series](#query-series)
+  - [Getting data type](#getting-data-type)
   - [Testing equality](#testing-equality)
     - [Types of equality](#types-of-equality)
     - [Same value equality: ```Object.is(a, b)```](#same-value-equality-objectisa-b)
@@ -24,6 +25,7 @@
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
     - [Find min/max elements in arrays](#find-minmax-elements-in-arrays)
+    - [Sort the Array](#sort-the-array)
   - [Work with Objects](#work-with-objects)
   - [Work with functions](#work-with-functions)
   - [Work with JSON](#work-with-json)
@@ -45,6 +47,7 @@
 ## How to curry
 
 # Query series
+## Getting data type
 ## Testing equality
 ### Types of equality
 - Strict equality: a === b
@@ -95,7 +98,14 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 - [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
 ### Find min/max elements in arrays
-- [Find the min/max element of an Array in JavaScript](https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript)
+- **General**
+  - [The Fastest Way to Find Minimum and Maximum Values in an Array in JavaScript](https://medium.com/coding-at-dawn/the-fastest-way-to-find-minimum-and-maximum-values-in-an-array-in-javascript-2511115f8621)
+- **Array of strings**
+  - [Find the min/max element of an Array in JavaScript](https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript)
+- **Array of numbers**
+- **Array of objects**
+  - [Finding the max value of an attribute in an array of objects](https://stackoverflow.com/questions/4020796/finding-the-max-value-of-an-attribute-in-an-array-of-objects)
+### Sort the Array
 ## Work with Objects
 ## Work with functions
 ## Work with JSON

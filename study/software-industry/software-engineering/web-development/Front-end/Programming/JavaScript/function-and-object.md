@@ -215,6 +215,7 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 
 ### Function
 #### ```Function.prototype.apply()```
+- [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 #### ```Function.prototype.bind()```
 
 ##### Mental model
@@ -222,6 +223,36 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 - [Bind Explained in JavaScript](https://www.youtube.com/watch?v=g2WcckBB_q0)
 
 #### ```Function.prototype.call()```
+```javascript
+/*
+ --------------
+ |            |
+ |            |
+ |            |
+ |            |
+ |            |
+ |            |
+ |            |
+ |____________|
+
+
+
+
+
+*/
+function Product(name, price) {
+  this.name = name;
+  this.price = price;
+}
+
+function Food(name, price) {
+  Product.call(this, name, price);
+  this.category = 'food';
+}
+
+console.log(new Food('cheese', 5).name);
+
+```
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 ##### Mental model
 

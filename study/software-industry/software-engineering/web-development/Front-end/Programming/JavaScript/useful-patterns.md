@@ -24,6 +24,8 @@
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
     - [Find min/max elements in arrays](#find-minmax-elements-in-arrays)
+  - [Work with Objects](#work-with-objects)
+  - [Work with functions](#work-with-functions)
   - [Work with JSON](#work-with-json)
   - [Work with localStorage](#work-with-localstorage)
   - [Work with sessionStorage](#work-with-sessionstorage)
@@ -94,6 +96,8 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 ## Work with Arrays
 ### Find min/max elements in arrays
 - [Find the min/max element of an Array in JavaScript](https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript)
+## Work with Objects
+## Work with functions
 ## Work with JSON
 ## Work with localStorage
 ## Work with sessionStorage

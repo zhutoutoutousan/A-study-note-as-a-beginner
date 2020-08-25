@@ -159,6 +159,7 @@ Importance for accessibilitiy purposes:
 # Demarcating edits
 
 # Table content
+- It's better if you just show a table at play, but seperate stimulation is good
 ## table
 ## tbody
 ## thead

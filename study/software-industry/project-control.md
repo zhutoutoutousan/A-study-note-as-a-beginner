@@ -401,6 +401,22 @@ class HashTable {
     delete(key) {
       const keyHash = this.hash(key);
       delete this.keys[key];
+      const bucketLinkedList = this.buckets[keyHash];
+      const node = bucketLinkedList.find({ callback: (nodeValue) => nodeValue.key === key});
+
+      if (node) {
+        return bucketLinkedList.delete(node.value);
+      }
+
+      return null;
+    }
+
+    /**
+     * @param {string} key
+     * @return {*}
+     */
+    get(key) {
+      const bucketLinkedList = this.buckets[this.hash(key)];
     }
 }
 

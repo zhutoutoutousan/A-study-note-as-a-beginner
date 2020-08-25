@@ -388,8 +388,20 @@ class HashTable {
       // Insert new node.
       bucketLinkedList.append({ key, value });
      }
+     else {
+      // Update value of existing node.
+      node.value.value = value;
+     }
    }
 
+   /**
+    * @param {string} key
+    * @return {*}
+    */
+    delete(key) {
+      const keyHash = this.hash(key);
+      
+    }
 }
 
 ```
@@ -408,6 +420,7 @@ class HashTable {
       - Itself
   - 1 week
   - 1 month
+    - I think I'm good with 1 week and then roll it back, I can't afford to wait for a month, not for that large capacity this huge knowledge chunk contains
 ### 30/40
 ### 40/40
 ## Algorithm and Data Structure familiarity

@@ -1,16 +1,34 @@
-# RegExp
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [RegExp syntax](#regexp-syntax)
+  - [operators](#operators)
+- [RegExp object](#regexp-object)
+- [Methods](#methods)
+    - [```RegExp.prototype.exec()```](#regexpprototypeexec)
+    - [```RegExp.prototype.test()```](#regexpprototypetest)
+- [Typical RegExp for a particular scenario](#typical-regexp-for-a-particular-scenario)
+  - [E-mail](#e-mail)
+  - [Password](#password)
+- [Resource](#resource)
+- [Reference](#reference)
 
-## RegExp syntax
 
-## Create a RegExp
+# RegExp syntax
+## operators
+
+
+# RegExp object
 ```javascript
 let re = new RegExp(string,rules);
 ```
 
-## Methods
-
+# Methods
 ### ```RegExp.prototype.exec()```
 ### ```RegExp.prototype.test()```
+
+# Typical RegExp for a particular scenario
+## E-mail
+## Password
 
 
 # Resource

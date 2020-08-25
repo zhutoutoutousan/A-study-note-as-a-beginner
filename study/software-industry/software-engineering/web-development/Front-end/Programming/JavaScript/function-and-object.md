@@ -64,6 +64,10 @@
   - [Function currying](#function-currying)
     - [Callback function and OOP](#callback-function-and-oop)
     - [Callback function and FP](#callback-function-and-fp)
+  - [Function closure](#function-closure)
+    - [Function scope](#function-scope)
+    - [Lexical scope](#lexical-scope)
+  - [IIFE](#iife)
 
 
 # Object
@@ -209,3 +213,16 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ## Function currying
 ### Callback function and OOP
 ### Callback function and FP
+
+## Function closure
+### Function scope
+
+```javascript
+const a = (function(){
+    const
+})();
+```
+
+### Lexical scope
+
+## IIFE

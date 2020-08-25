@@ -403,7 +403,7 @@ class HashTable {
   - 10 minutes
   - 24 hrs
     - LinkedList
-      - 25 Mo.
+      - 25 Mo. --> 26 Mo. Mittag
       - Code
       - Itself
   - 1 week

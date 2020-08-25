@@ -7,7 +7,10 @@
     - [Bode plot](#bode-plot)
   - [C](#c)
     - [Circuit Response](#circuit-response)
+    - [Continuous-time signal](#continuous-time-signal)
   - [D](#d)
+    - [Digital signal](#digital-signal)
+    - [Discrete-time signal](#discrete-time-signal)
   - [E](#e)
     - [Electricity](#electricity)
     - [Electronic Charge](#electronic-charge)
@@ -33,6 +36,7 @@
   - [T](#t)
     - [Time domain](#time-domain)
   - [V](#v)
+    - [VLSI](#vlsi)
     - [Voltage](#voltage)
     - [Voltage standards](#voltage-standards)
     - [Voltmeter](#voltmeter)
@@ -52,7 +56,14 @@
 - It is safe to say that a circuit isn't useful if it doesn't have one or the other *circuit response*(usually both).
 - Circuit response is the relationship between the circuit's input to the circuit's output.
 - The circuit response may be a measure of either current or voltage.
+### Continuous-time signal
+- Continuous-time signals are defined along a continuum of times and thus are represented by a continuous independent variable.
+- Often referred to as *analog signals*
 ## D
+### Digital signal
+- Digital signals are those for which both time and amplitude are discrete
+### Discrete-time signal
+- Discrete-time signals are defined at discrete times, and thus, the independent variable has discrete values; i.e., discrete-time signals are represented as sequences of numbers.
 ## E
 ### Electricity
 - Electricity is a convenient way of moving and distributing energy at a central location(the power plant) to the end user, where it powers your lights, refrigerator and computer.
@@ -98,6 +109,7 @@
 - The 'Time domain' is simply another way of saying that out circuits change with time, and that the major variable used to describe the system is time.
 - Another name for 'Time domain' is 'Temporal'
 ## V
+### VLSI
 ### Voltage
 - Voltage is defined in terms of the work required to move a charge between two points at different potential.
 - One volt is the potential difference between two points when the work required to move one coulomb of charge between them is one joule: $W = QV$, where $V$ is the voltage difference between two points, $Q$ is the charge being moved in coulombs, and $W$ is the work in joules.

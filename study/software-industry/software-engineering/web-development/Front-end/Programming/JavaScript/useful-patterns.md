@@ -42,6 +42,7 @@
   - [String to RegExp](#string-to-regexp)
   - [RegExp to String](#regexp-to-string)
   - [String to number](#string-to-number)
+  - [String to Variable Name](#string-to-variable-name)
 
 # OOP series
 ## How to curry
@@ -111,7 +112,10 @@ function indexOfMax(arr) {
   }
 
   var max = arr[0];
-  var
+  var maxIndex = 0;
+
+  // is 'i' still visible here?
+  for (var i = 1; i <)
 }
 ```
 
@@ -169,3 +173,5 @@ For more check out [JavaScript “new Array(n)” and “Array.prototype.map” 
 let a = '134';
 console.log(parseInt(a),10) // 134   10-->base number
 ```
+## String to Variable Name
+- [Convert string to variable name in JavaScript](https://stackoverflow.com/questions/5613834/convert-string-to-variable-name-in-javascript)

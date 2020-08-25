@@ -102,7 +102,7 @@ for (const i in arr0) {console.log(arr[i])}
 ## Memory usage
 
 ## Reference
-[var vs let vs const in JavaScript](https://tylermcginnis.com/var-let-const/)
+- [var vs let vs const in JavaScript](https://tylermcginnis.com/var-let-const/)
 
-[ES6 Variable Declaration & For Loops — Why ‘const’ works in a ‘for…in’ loop but not in a normal ‘for’ loop](https://medium.com/@mautayro/es6-variable-declaration-for-loops-why-const-works-in-a-for-in-loop-but-not-in-a-normal-a200cc5467c2)
+- [ES6 Variable Declaration & For Loops — Why ‘const’ works in a ‘for…in’ loop but not in a normal ‘for’ loop](https://medium.com/@mautayro/es6-variable-declaration-for-loops-why-const-works-in-a-for-in-loop-but-not-in-a-normal-a200cc5467c2)
 

@@ -24,7 +24,7 @@
       - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
-    - [Find min/max elements in arrays](#find-minmax-elements-in-arrays)
+    - [Find min/max elements/indexes in arrays](#find-minmax-elementsindexes-in-arrays)
     - [Sort the Array](#sort-the-array)
   - [Work with Objects](#work-with-objects)
   - [Work with functions](#work-with-functions)
@@ -97,9 +97,24 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 
 - [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
-### Find min/max elements in arrays
+### Find min/max elements/indexes in arrays
 - **General**
   - [The Fastest Way to Find Minimum and Maximum Values in an Array in JavaScript](https://medium.com/coding-at-dawn/the-fastest-way-to-find-minimum-and-maximum-values-in-an-array-in-javascript-2511115f8621)
+  - [Return index of greatest value in an array](https://stackoverflow.com/questions/11301438/return-index-of-greatest-value-in-an-array/11301464)
+
+```javascript
+// For reliability and compatibility
+// What's the difference between 'var' and 'let' concerning compatibility and reliability? 
+function indexOfMax(arr) {
+  if (arr.length === 0) {
+    return -1;
+  }
+
+  var max = arr[0];
+  var
+}
+```
+
 - **Array of strings**
   - [Find the min/max element of an Array in JavaScript](https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript)
 - **Array of numbers**

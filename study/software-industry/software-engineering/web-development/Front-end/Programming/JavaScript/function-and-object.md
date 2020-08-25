@@ -62,6 +62,8 @@
       - [```Function.prototype.call()```](#functionprototypecall)
         - [Mental model](#mental-model-9)
   - [Function currying](#function-currying)
+    - [Callback function and OOP](#callback-function-and-oop)
+    - [Callback function and FP](#callback-function-and-fp)
 
 
 # Object
@@ -78,6 +80,10 @@ No, check Dan abramov's Just JavaScript course for more. (Wrapper object)
 ### Methods
 #### ```Array.from()```
 ##### Mental model
+- The first argument is an array or an interable object
+- Second is like ```Array.prototype.map``` callback
+- third argument is used as ```this``` in the callback function
+  - [ ] If a callback function is an arrow function, will it still work? Do some experiements
 ##### Behaviour check
 #### ```Array.of()```
 ##### Mental model
@@ -201,3 +207,5 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ##### Mental model
 
 ## Function currying
+### Callback function and OOP
+### Callback function and FP

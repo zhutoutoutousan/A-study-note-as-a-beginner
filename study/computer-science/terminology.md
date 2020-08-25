@@ -43,7 +43,9 @@
   - [Internet Protocol(IP)](#internet-protocolip)
   - [IoT](#iot)
 - [L](#l)
+  - [Linear probing](#linear-probing)
   - [Linked List](#linked-list)
+  - [Load factor](#load-factor)
 - [M](#m)
   - [MAC address](#mac-address)
   - [Modifying operations](#modifying-operations)
@@ -163,11 +165,14 @@ In the context of hardware and software systems, **formal verification** is the 
 - Internet of Things
 
 # L
+## Linear probing
 ## Linked List
 - In computer science, a **linked list** is a linear collection of data elements, in which linear order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a group of nodes which together represent a sequence. 
 - Drawback: Access time is linear(and difficult to pipeline). Faster access, such as random access, is not feasible.
 - Arrays have better cache locality as compared to linked lists.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+## Load factor
+- (Hash algorithm) Load factor = $\frac{Total\,\, number\, of\, items\, stored}{Size\,of\,the\,array}$
 # M
 ## MAC address
 ## Modifying operations

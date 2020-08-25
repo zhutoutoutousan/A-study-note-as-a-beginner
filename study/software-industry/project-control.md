@@ -421,6 +421,14 @@ class HashTable {
 
       return node ? node.value.value : undefined;
     }
+
+    /**
+     * @param {string} key
+     * @return {boolean}
+     */
+    has(key) {
+      return Object.hasOwnProperty.call(this.keys, key);
+    }
 }
 
 ```

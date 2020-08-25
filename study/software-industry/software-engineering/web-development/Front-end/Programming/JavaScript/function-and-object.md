@@ -6,9 +6,15 @@
     - [Property](#property)
       - [Writable or non-writable?](#writable-or-non-writable)
   - [```Object```](#object-1)
+    - [```Object.__proto__```](#object__proto__)
     - [```Object.defineProperty```](#objectdefineproperty)
-  - [```Array```](#array)
-    - [Methods](#methods)
+    - [```Object.hasOwnProperty```](#objecthasownproperty)
+    - [```Object.isPrototypeOf```](#objectisprototypeof)
+    - [```Object.propertyIsEnumerable```](#objectpropertyisenumerable)
+    - [```Object.get __proto__```](#objectget-__proto__)
+    - [```Object.set __proto__```](#objectset-__proto__)
+  - [Array](#array)
+    - [```Array```](#array-1)
       - [```Array.from()```](#arrayfrom)
         - [Mental model](#mental-model)
         - [Behaviour check](#behaviour-check)
@@ -37,13 +43,13 @@
 - [Function](#function)
   - [Function.name](#functionname)
   - [Higher order function](#higher-order-function)
-    - [Array](#array-1)
+    - [Array](#array-2)
       - [```Array.prototype.map()```](#arrayprototypemap)
-        - [Syntax](#syntax-1)
+        - [Usage](#usage-1)
         - [Resources](#resources-1)
       - [```Array.prototype.filter()```](#arrayprototypefilter)
         - [Mental model](#mental-model-2)
-      - [Syntax](#syntax-2)
+      - [Syntax](#syntax-1)
       - [```Array.prototype.reduce```](#arrayprototypereduce)
       - [Mental model](#mental-model-3)
       - [``` Array.prototype.fill()```](#-arrayprototypefill)
@@ -68,6 +74,7 @@
     - [Function scope](#function-scope)
     - [Lexical scope](#lexical-scope)
   - [IIFE](#iife)
+- [Non-Object](#non-object)
 
 
 # Object
@@ -79,10 +86,15 @@ No, check Dan abramov's Just JavaScript course for more. (Wrapper object)
 #### Writable or non-writable?
 
 ## ```Object```
+### ```Object.__proto__```
 ### ```Object.defineProperty```
-
-## ```Array```
-### Methods
+### ```Object.hasOwnProperty```
+### ```Object.isPrototypeOf```
+### ```Object.propertyIsEnumerable```
+### ```Object.get __proto__```
+### ```Object.set __proto__```
+## Array
+### ```Array```
 #### ```Array.from()```
 ##### Mental model
 - The first argument is an array or an interable object
@@ -169,7 +181,8 @@ new Date(year, monthIndex [, day [, hours [, minutes [, seconds [, milliseconds]
 ## Higher order function
 ### Array
 #### ```Array.prototype.map()```
-##### Syntax
+- If the callback function has no input arguments, then the return value will replace the array element directly
+##### Usage
 ``` javascript
 let new_array = arr.map(function callback( currentValue[, index[, array]]){
     // return element for new_array
@@ -206,9 +219,10 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 
 ##### Mental model
 ##### Resource
-[Bind Explained in JavaScript](https://www.youtube.com/watch?v=g2WcckBB_q0)
+- [Bind Explained in JavaScript](https://www.youtube.com/watch?v=g2WcckBB_q0)
 
 #### ```Function.prototype.call()```
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 ##### Mental model
 
 ## Function currying
@@ -227,3 +241,5 @@ const a = (function(){
 ### Lexical scope
 
 ## IIFE
+
+# Non-Object

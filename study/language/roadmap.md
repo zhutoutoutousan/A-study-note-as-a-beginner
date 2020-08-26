@@ -142,6 +142,7 @@
 - Technique
   - If you wanna type fast, you might wanna pay some attention on the position of the first keyboard position of the word you are about to input next
 - Training grounds
+  - Don't use too much force when hitting the keyboard
   - [10fastfinger](https://10fastfingers.com/) 
   - [RU - Keyboard layout](https://www.branah.com/russian)
   - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)

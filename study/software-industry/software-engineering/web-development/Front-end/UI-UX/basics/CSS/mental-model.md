@@ -122,6 +122,8 @@ Think about every initial value as you can in CSS when you don't initialize in t
 ```css
 
 ```
+
+- font-weight: Maximized?
 ## div
 ## img
 ## span

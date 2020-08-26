@@ -125,8 +125,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 #### 10/40
 - Study the example
   - [Portfolio](https://github.com/realmartinzane/portfolio)
-  - Code along
-    - 1/40
+  - Progress
+    - Finish Vue.js course
 - Redesign its style
   - Accumulate some ideas
 - Get familiar with its elements

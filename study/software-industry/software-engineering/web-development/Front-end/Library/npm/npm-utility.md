@@ -12,6 +12,7 @@
 ### npm install -D
 - Install as dependency
 ## npm init
+- When inputting ```npm init```, it asks you what the entry point is, what does that mean?
 ### npm init -y
 
 # package.json

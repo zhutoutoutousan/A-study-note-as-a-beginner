@@ -28,6 +28,7 @@
   - [```<textarea>```](#textarea)
 - [Inline text semantics](#inline-text-semantics)
   - [a](#a)
+  - [small](#small)
 - [Link](#link)
   - [script](#script)
   - [link](#link-1)
@@ -101,6 +102,9 @@
 - A multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text, for example a comment on a review or feedback them.
 # Inline text semantics
 ## a
+## small
+- Usage scenarios
+  - [blog](https://codepen.io/zhutoutoutousan/pen/MWypNzW)
 # Link
 ## script
 ## link

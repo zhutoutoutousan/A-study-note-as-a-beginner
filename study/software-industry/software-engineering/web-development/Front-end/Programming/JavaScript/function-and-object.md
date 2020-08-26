@@ -13,6 +13,7 @@
     - [```Object.propertyIsEnumerable```](#objectpropertyisenumerable)
     - [```Object.get __proto__```](#objectget-__proto__)
     - [```Object.set __proto__```](#objectset-__proto__)
+    - [```Object.keys()```](#objectkeys)
   - [Array](#array)
     - [```Array```](#array-1)
       - [```Array.from()```](#arrayfrom)
@@ -89,6 +90,7 @@ No, check Dan abramov's Just JavaScript course for more. (Wrapper object)
 ### ```Object.propertyIsEnumerable```
 ### ```Object.get __proto__```
 ### ```Object.set __proto__```
+### ```Object.keys()```
 ## Array
 ### ```Array```
 #### ```Array.from()```

@@ -4,7 +4,7 @@
 - [Nuances](#nuances)
   - [Passing by variable or value?](#passing-by-variable-or-value)
 - [Difference between value](#difference-between-value)
-- [const, let, var](#const-let-var)
+- [```const```, ```let```, ```var```](#const-let-var)
   - [Scope](#scope)
     - [var scope](#var-scope)
     - [let scope](#let-scope)
@@ -32,7 +32,7 @@ console.log(money); // 10
 # Difference between value
 - Variables are not values
 - Variables point to values
-# const, let, var
+# ```const```, ```let```, ```var```
 ## Scope
 The *scope* of a variable refers to where said variable can be accessed from & the newer ES6 declared variables have different scope than var provides.
 ### var scope

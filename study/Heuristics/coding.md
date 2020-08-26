@@ -22,6 +22,8 @@
 - [Small tricks](#small-tricks)
   - [Find if the parenthesis group is valid](#find-if-the-parenthesis-group-is-valid)
 - [Ethics](#ethics)
+- [Tools](#tools)
+  - [Code comparison](#code-comparison)
 - [Resource](#resource)
   - [Conference](#conference)
   - [Blog](#blog)
@@ -95,6 +97,12 @@ For more check:
 
 # Ethics
 [Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)
+
+
+# Tools
+## Code comparison
+- [codebeautify](https://codebeautify.org/)
+- [CSS-tidy](http://csstidy.sourceforge.net/)
 
 # Resource
 ## Conference

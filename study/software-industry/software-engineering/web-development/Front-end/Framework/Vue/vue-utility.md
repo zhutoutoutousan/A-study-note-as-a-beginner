@@ -21,6 +21,7 @@
     - [```v-else```](#v-else)
     - [```v-else-if```](#v-else-if)
     - [```v-for```](#v-for)
+      - [```v-for in``` followed by methods](#v-for-in-followed-by-methods)
       - [Use in Tables](#use-in-tables)
     - [```v-on``` or ```@```](#v-on-or-)
       - [Postfixes](#postfixes)
@@ -201,6 +202,8 @@ new Vue({
 ### ```v-for```
 - Similar to ```for in```
 - Loops through a set of values(e.g. item in items, num in 5)
+#### ```v-for in``` followed by methods
+- In the **return value of the methods**
 #### Use in Tables
 - You can dynamically update the table just by updating the ```columns``` and ```rows``` data.
 ```html
@@ -365,6 +368,7 @@ new Vue({
 - Not cached
 - Typically invoked from ```v-on```/```@```, but flexible
 - Getter/Setter
+- [RTFM](https://v1.vuejs.org/guide/events.html)
 ## Computed
 - Computed properties are calculations that will be cached and will only update when a dependency has changed
 - Highly performant but use with understanding 

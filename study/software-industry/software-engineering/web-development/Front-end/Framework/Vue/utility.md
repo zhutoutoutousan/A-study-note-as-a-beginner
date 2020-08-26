@@ -387,6 +387,17 @@ new Vue({
 
 # Troubleshoot
 ## Uncaught TypeError: Vue.createApp is not a function
+```javascript
+// This is vue-next syntax, use vue-next instead of older versions
+const App =  {
+  data() {
+    return {
+      dataElement1: '',
+    }
+  }
+}
+Vue.createApp(App).mount('#app')
+```
 # Extensive resource
 - Where you can 
 

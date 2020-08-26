@@ -11,6 +11,7 @@
     - [Communication links](#communication-links)
   - [D](#d)
     - [Devious](#devious)
+    - [Discord](#discord)
   - [E](#e)
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
   - [G](#g)
@@ -55,6 +56,7 @@
     - [URI](#uri)
     - [User interface(UI)](#user-interfaceui)
   - [V](#v)
+    - [VoIP](#voip)
     - [Vue](#vue)
   - [W](#w)
     - [Watcher](#watcher)
@@ -84,7 +86,8 @@ A group of servers that stores your data
 ## D
 ### Devious
 - (adj)showing a skillful use of underhanded tactics to achieve goals
-
+### Discord
+- Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
 ## E
 ### Execusion context 执行上下文
 - (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
@@ -187,6 +190,8 @@ The term **Web service(WS)** is either:
 ### User interface(UI)
 
 ## V
+### VoIP
+- Voice over Internet Protocol, also called IP telephony, is a method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks, such as the Internet.
 ### Vue
 - Vue is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
 

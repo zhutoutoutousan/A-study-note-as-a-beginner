@@ -107,6 +107,7 @@
 [Codepen](https://codepen.io/)
 - Can use **console**, **assets**
 - [How to enable autocomplete](https://blog.codepen.io/documentation/autocomplete/)
+- [Chrome Extensions for CodePen Keyboard Shortcuts](https://blog.codepen.io/2017/04/20/chrome-extensions-codepen-keyboard-shortcuts/)
 
 ### CSS
 #### Playgrounds
@@ -172,7 +173,7 @@
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
-    - Progress track: Working with methods 21min + 7min28s/ 5hrs
+    - Progress track: Watchers 1hr 15:43 + 5min07s/ 5hrs
       - You should take a look at the little project in the video ```Methods``` and work on it
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation

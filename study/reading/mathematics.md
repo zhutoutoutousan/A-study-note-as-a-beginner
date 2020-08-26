@@ -1,3 +1,18 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [General mathematics](#general-mathematics)
+- [Mathematical analysis](#mathematical-analysis)
+  - [General](#general)
+- [Linear algebra](#linear-algebra)
+- [Logic](#logic)
+- [Probability theory](#probability-theory)
+- [Set theory](#set-theory)
+- [Category theory](#category-theory)
+- [Number theory](#number-theory)
+- [Graph theory](#graph-theory)
+- [Math puzzles and problems](#math-puzzles-and-problems)
+- [Minor resources](#minor-resources)
+- [Paper and personal research](#paper-and-personal-research)
 # General mathematics
 
 - Calculus - G. Strang
@@ -77,6 +92,11 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
     - Process1(Read for pleasure)
       - Progress: 19/641 
 
+# Graph theory
+- Introduction to Graph Theory - R.J.Wilson
+  - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+- Graph theory with applications - J.A. Bondy et al.
+  - [link1](https://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
 # Math puzzles and problems
 - [A problem book in real analysis](http://websitem.karatekin.edu.tr/user_files/farukpolat/files/probookmathanal1.pdf)
 

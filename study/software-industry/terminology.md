@@ -37,16 +37,19 @@
     - [Promise](#promise)
   - [R](#r)
     - [React element](#react-element)
+    - [Reactive programming](#reactive-programming)
     - [React.js](#reactjs)
     - [React component class/type](#react-component-classtype)
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
+    - [RxJS](#rxjs)
   - [S](#s)
     - [Scope](#scope)
     - [Service](#service)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
+    - [Stream](#stream)
   - [T](#t)
     - [TDZ](#tdz)
     - [Traditional Gtk](#traditional-gtk)
@@ -56,6 +59,9 @@
     - [URI](#uri)
     - [User interface(UI)](#user-interfaceui)
   - [V](#v)
+    - [Vue instance](#vue-instance)
+    - [Vue.js](#vuejs)
+    - [Virtual DOM](#virtual-dom)
     - [VoIP](#voip)
     - [Vue](#vue)
   - [W](#w)
@@ -146,7 +152,18 @@ A group of servers that stores your data
   - *fulfilled*: meaning that the operation completed
 ## R
 ### React element
-- ```render``` returns a **React element**
+- (React.js)```render``` returns a **React element**
+
+### Reactive programming
+- (Front-end) Reactive programming is programming with asynchronous data streams.
+  - [The introduction to Reactive Programming you've been missing - André Staltz](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+  - [react - Design Principles](https://reactjs.org/docs/design-principles.html)
+  - [Vue.js - Reactivity in Depth](https://vuejs.org/v2/guide/reactivity.html)
+  - [Damian dulisz](https://www.monterail.com/blog/author/damian-dulisz)
+- How to achieve
+  - Angular 1.x: **dirty checking**
+  - Cycle.js/Angular 2: **Reactive streams**, **XStream**, and **Rx.js**
+  - Vue.js, MobX/Reactive.js: **getters/setters**
 ### React.js
 - React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 - It lets you compose UIs from small and isolated pieces of code called "Components"
@@ -166,6 +183,8 @@ A cluster where each server stores the same data
 ### Requests for comments(RFCs)
 ### Routing
 **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on). [\[express.js\]](https://expressjs.com/en/starter/basic-routing.html)
+
+### RxJS
 ## S
 ### Scope
 ### Service
@@ -178,6 +197,8 @@ The term **Web service(WS)** is either:
 - [Software architecture - Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 
 ### Software design pattern
+### Stream
+- (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ## T
 ### TDZ
 ### Traditional Gtk
@@ -190,6 +211,12 @@ The term **Web service(WS)** is either:
 ### User interface(UI)
 
 ## V
+### Vue instance
+- The Vue instance is the middleman between the DOM and the business logic
+### Vue.js
+### Virtual DOM
+- (vue.js)?
+  - Calculations in JavaScript are relatively cheap, but not so when reaching into the DOM
 ### VoIP
 - Voice over Internet Protocol, also called IP telephony, is a method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks, such as the Internet.
 ### Vue
@@ -197,8 +224,9 @@ The term **Web service(WS)** is either:
 
 ## W
 ### Watcher
-- (Vue.js)
-
+- (Vue.js)?
+  - Watch updates the DOM only if it's required-performing calcualtions in JS is really performant but accessing the DOM is not. So we have a Virtual DOM which is like a copy, but parsed in JavaScript
+  - Good for asynchronous updates, and updates/transitions with data changes
 # Translation EN-CH
 ## A
 - Accordion - 折叠面板

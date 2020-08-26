@@ -52,6 +52,7 @@
   - [R](#r)
     - [Radix complement](#radix-complement)
     - [Rational integer](#rational-integer)
+    - [Recursive tree](#recursive-tree)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
     - [Swinnerton-Dyer Conjecture](#swinnerton-dyer-conjecture)
@@ -214,7 +215,7 @@ $$
 ### Radix complement
 ### Rational integer
 - ...-3,-2,-1,0,1,2,3...
-
+### Recursive tree
 ## S
 ### Skew-Symmetric Matrix
 - **Skew-symmetric** matrices are square matrices whose transpose equals **minus** the matrix.

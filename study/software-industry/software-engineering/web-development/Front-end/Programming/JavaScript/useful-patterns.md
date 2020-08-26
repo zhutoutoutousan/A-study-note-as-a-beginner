@@ -44,6 +44,7 @@
   - [RegExp to String](#regexp-to-string)
   - [String to number](#string-to-number)
   - [String to Variable Name](#string-to-variable-name)
+- [Problem solving questions and mathematics](#problem-solving-questions-and-mathematics)
 
 # OOP series
 ## How to curry
@@ -190,3 +191,10 @@ console.log(parseInt(a),10) // 134   10-->base number
 ```
 ## String to Variable Name
 - [Convert string to variable name in JavaScript](https://stackoverflow.com/questions/5613834/convert-string-to-variable-name-in-javascript)
+
+
+# Problem solving questions and mathematics
+- Given an array of integers, find the one that appears an odd number of times.
+  - Is there a correlation between the value(could sum or other operations) and the number of time it appears?
+  - Given the set $a[n]$, each has the map describing the value and its times of appearance: $b[\{value\} x: \{times\} t]$, then the sum of the set can be described as: $\sum x_n \cdot t_n$.
+  - If 

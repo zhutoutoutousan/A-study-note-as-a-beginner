@@ -66,6 +66,7 @@
 - Beat around the bush
 #### Intimidate
 - Tongue-in-cheek
+- Lose your/his man card
 #### Placate
 #### Debunk
 #### Lucid

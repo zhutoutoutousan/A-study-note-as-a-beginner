@@ -15,6 +15,11 @@ function duplicateSpreadsheet(original) {
 }
 ```
 
+# Visual intelligence
+## Visual intelligence capacity
+- When I am coding a program that contains some fairly large classes, I start to lose track of some methods and its specifications, is there any technique or metal exercise that attack this issue?
+  - Maybe start visualizing its output and input?
+
 
 # Visualization resource
 - [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)

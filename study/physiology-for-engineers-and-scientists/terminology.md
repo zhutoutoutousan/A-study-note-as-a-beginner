@@ -3,12 +3,16 @@
 - [Alphabetical](#alphabetical)
   - [B](#b)
     - [Bankdrüken](#bankdrüken)
+  - [C](#c)
+    - [Closed chain environment](#closed-chain-environment)
   - [E](#e)
     - [EMG](#emg)
     - [EPOC](#epoc)
   - [G](#g)
     - [Gewichtheben](#gewichtheben)
     - [GPP](#gpp)
+  - [H](#h)
+    - [Hypertrophy](#hypertrophy)
   - [K](#k)
     - [Kniebeuge](#kniebeuge)
     - [Kreuzheben](#kreuzheben)
@@ -18,6 +22,9 @@
 ## B
 ### Bankdrüken
 - (German)Bench press
+
+## C
+### Closed chain environment
 ## E
 ### EMG
 - EMG: Electromyography
@@ -33,6 +40,9 @@
 - (German)Weightlifting
 ### GPP
 - GPP: General physical preparedness
+
+## H
+### Hypertrophy
 ## K
 ### Kniebeuge
 - (German)Squat

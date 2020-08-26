@@ -195,6 +195,7 @@ console.log(parseInt(a),10) // 134   10-->base number
 
 # Problem solving questions and mathematics
 - Given an array of integers, find the one that appears an odd number of times.
+  - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript)
   - Is there a correlation between the value(could sum or other operations) and the number of time it appears?
   - Given the set $a[n]$, each has the map describing the value and its times of appearance: $b[\{value\} x: \{times\} t]$, then the sum of the set can be described as: $\sum x_n \cdot t_n$.
   - If 

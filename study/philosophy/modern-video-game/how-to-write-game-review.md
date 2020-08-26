@@ -1,0 +1,1 @@
+- [Writing Your First Freelance Video Game Review](https://www.freelancewriting.com/freelancing/writing-a-video-game-review/)

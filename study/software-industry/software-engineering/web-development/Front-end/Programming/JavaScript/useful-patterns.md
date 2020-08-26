@@ -44,6 +44,8 @@
   - [RegExp to String](#regexp-to-string)
   - [String to number](#string-to-number)
   - [String to Variable Name](#string-to-variable-name)
+  - [Array to String](#array-to-string)
+    - [```Array.prototype.join()```](#arrayprototypejoin)
 - [Problem solving questions and mathematics](#problem-solving-questions-and-mathematics)
 
 # OOP series
@@ -192,6 +194,8 @@ console.log(parseInt(a),10) // 134   10-->base number
 ## String to Variable Name
 - [Convert string to variable name in JavaScript](https://stackoverflow.com/questions/5613834/convert-string-to-variable-name-in-javascript)
 
+## Array to String
+### ```Array.prototype.join()```
 
 # Problem solving questions and mathematics
 - Given an array of integers, find the one that appears an odd number of times.

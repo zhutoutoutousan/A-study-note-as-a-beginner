@@ -60,6 +60,7 @@
       - [Mental model](#mental-model-6)
     - [``` Array.prototype.findIndex()```](#-arrayprototypefindindex)
     - [``` Array.prototype.concat()```](#-arrayprototypeconcat)
+    - [``` Array.prototype.join()```](#-arrayprototypejoin)
     - [```Function.prototype.apply()```](#functionprototypeapply)
     - [```Function.prototype.bind()```](#functionprototypebind)
       - [Mental model](#mental-model-7)
@@ -209,6 +210,7 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 #### Mental model
 ### ``` Array.prototype.findIndex()```
 ### ``` Array.prototype.concat()```
+### ``` Array.prototype.join()```
 ### ```Function.prototype.apply()```
 - [Javascript call() & apply() vs bind()?](https://stackoverflow.com/questions/15455009/javascript-call-apply-vs-bind)
 ### ```Function.prototype.bind()```

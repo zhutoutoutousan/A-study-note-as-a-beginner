@@ -12,6 +12,8 @@
   - [K](#k)
     - [Kniebeuge](#kniebeuge)
     - [Kreuzheben](#kreuzheben)
+  - [S](#s)
+    - [Sagital plane](#sagital-plane)
 # Alphabetical
 ## B
 ### Bankdrüken
@@ -36,3 +38,6 @@
 - (German)Squat
 ### Kreuzheben
 - (German)Deadlift
+
+## S
+### Sagital plane

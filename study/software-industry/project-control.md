@@ -494,6 +494,12 @@ class HashTable {
   - Graph algorithm
 - Multiplayer
   - Networking
+- 3D Game
+  - According to the knowledge base you've established, build the 3D world accordingly.
+  - CYPHER(environment, can change theme) + Minecraft(Movement)
+  - Free-roam-mode: Let the AI push you around and explore your own knowledge bank
+  - Customized music playlist
+  - Map system based on the mindmap
 - 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the brain.

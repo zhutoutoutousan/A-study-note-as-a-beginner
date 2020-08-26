@@ -54,6 +54,8 @@
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
+- [Troubleshoot](#troubleshoot)
+  - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
 - [Extensive resource](#extensive-resource)
 # Vanilla JS vs Vue
 
@@ -382,6 +384,9 @@ new Vue({
 # Vue devTools
 ## --- 
 ### ```<Root>```
+
+# Troubleshoot
+## Uncaught TypeError: Vue.createApp is not a function
 # Extensive resource
 - Where you can 
 

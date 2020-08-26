@@ -44,6 +44,7 @@
     - [```border-radius```](#border-radius)
 - [Decoration](#decoration)
   - [Background](#background)
+    - [```color``` vs ```background-color``` vs ```background```](#color-vs-background-color-vs-background)
     - [```background```](#background-1)
       - [```url(<image-path>)```](#urlimage-path)
     - [```background-image```](#background-image)
@@ -169,6 +170,8 @@ Use of negative margins equal to half of that width and height, then position it
 - Maneuver
   - ```transform```
   - ```translate```
+    - ```translateY```
+      - Positive value: move down
   -  ```translate3d```
   - ```transition```
 ### Reference
@@ -204,6 +207,12 @@ It is inside the chrome DevTools, when you click on the compass icon near CSS an
 
 # Decoration
 ## Background
+### ```color``` vs ```background-color``` vs ```background```
+- ```color``` refers to the text color in the element
+- ```background-color``` refers to the background color
+- ```background``` is shorthand to combine many background tags into one line
+  - e.g. ```background : #fffff url("img_tree.png") no-repeat right top; ```
+- [CSS color vs. background-color vs. background?](https://stackoverflow.com/questions/39033070/css-color-vs-background-color-vs-background#:~:text=The%20CSS%20color%20is%20used,color%20of%20a%20html%20element.&text=The%20CSS%20background%2Dcolor%20is,background%20properties%20in%20one%20declaration.)
 ### ```background```
 #### ```url(<image-path>)```
 ```css

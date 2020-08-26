@@ -149,6 +149,7 @@
 ### PLA
 ### Proclamation
 ### Political correctness
+- "谦虚"在中国是否为政治正确？
 ### Politiquement correct
 - (French) Political correctness
 

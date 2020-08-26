@@ -230,6 +230,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Time control
 ### 10/40
 - Read and rewrite the AI
+- P5.js
+  - [Study this repo](https://codepen.io/tuppercode/pen/vxKqwg)
 ### 20/40
 - Learn from reference and build the Hikaru server
 ### 30/40

@@ -12,8 +12,9 @@
     - [Shallow copy](#shallow-copy)
     - [Deep copy](#deep-copy)
       - [```Array.from```](#arrayfrom)
-- [Replace series](#replace-series)
+- [Replace/Remove series](#replaceremove-series)
   - [Replace strings](#replace-strings)
+  - [Remove part of string elements](#remove-part-of-string-elements)
 - [Work with series](#work-with-series)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
@@ -71,8 +72,10 @@ console.log(Object.is(worldWonders, dwarves)); // true  pointing at the same val
 ### Deep copy
 #### ```Array.from```
 
-# Replace series
+# Replace/Remove series
 ## Replace strings
+## Remove part of string elements
+- [Why string.replace() not working for string which contains parentheses?](https://stackoverflow.com/questions/50619137/why-string-replace-not-working-for-string-which-contains-parentheses/50619227)
 
 
 # Work with series

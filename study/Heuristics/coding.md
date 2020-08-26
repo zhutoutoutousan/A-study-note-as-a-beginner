@@ -19,6 +19,8 @@
     - [Python](#python)
       - [Underscore](#underscore)
   - [Trade-off scenario](#trade-off-scenario)
+- [Small tricks](#small-tricks)
+  - [Find if the parenthesis group is valid](#find-if-the-parenthesis-group-is-valid)
 - [Ethics](#ethics)
 - [Resource](#resource)
   - [Conference](#conference)
@@ -86,6 +88,10 @@ For more check:
 
 ## Trade-off scenario
 
+# Small tricks
+## Find if the parenthesis group is valid
+- '()()()()())(()(((()()()()()()()()'
+- Prove: Any parenthesis group that is valid can be solved using one algorithm: Eliminate the '()' recursively, then the string will end up empty.
 
 # Ethics
 [Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)

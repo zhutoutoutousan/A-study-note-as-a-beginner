@@ -48,7 +48,8 @@
   - [data](#data-1)
   - [Methods](#methods)
   - [Computed](#computed)
-- [Watcher](#watcher)
+  - [Created](#created)
+  - [Watcher](#watcher)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
@@ -376,7 +377,11 @@ new Vue({
 - Similar to ```Array.prototype.map```
 - Should be used as a property, in place of data
 - By default getter only, but you can define a setter
-# Watcher
+
+## Created
+- Examples
+  - [vue watcher example](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
+## Watcher
 - Each component has a watcher instance
 - The properties touched by the watcher during the render are registered as dependencies
 - When the setter is triggered, it lets the watcher know, and causes the component to re-render

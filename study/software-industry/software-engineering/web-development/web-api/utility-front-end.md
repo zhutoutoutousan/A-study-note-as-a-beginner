@@ -4,11 +4,16 @@
   - [Prerequisites](#prerequisites)
 - [Mental model](#mental-model)
 - [Document](#document)
+  - [Document Element](#document-element)
+    - [Methods](#methods)
+      - [```document.documentElement.clientHeight```](#documentdocumentelementclientheight)
+      - [```document.documentElement.scrollHeight```](#documentdocumentelementscrollheight)
+    - [List of operations](#list-of-operations)
   - [Document Tree](#document-tree)
     - [Shadow DOM](#shadow-dom)
     - [Shadow Tree](#shadow-tree)
   - [TreeWalker](#treewalker)
-    - [Methods](#methods)
+    - [Methods](#methods-1)
       - [Init](#init)
         - [```Document.createTreeWalker```](#documentcreatetreewalker)
         - [```TreeWalker.filter```](#treewalkerfilter)
@@ -22,7 +27,7 @@
         - [```TreeWalker.parentNode()```](#treewalkerparentnode)
         - [```TreeWalker.previousNode()```](#treewalkerpreviousnode)
         - [```TreeWalker.previousSibling()```](#treewalkerprevioussibling)
-    - [List of operations](#list-of-operations)
+    - [List of operations](#list-of-operations-1)
       - [Create a treewalker](#create-a-treewalker)
       - [Selection](#selection)
         - [Select elements of the same class](#select-elements-of-the-same-class)
@@ -82,6 +87,9 @@
     - [NodeList](#nodelist)
       - [Usage](#usage-1)
 - [Window](#window)
+  - [Properties](#properties)
+    - [```window.scrollX```](#windowscrollx)
+    - [```window.scrollY```](#windowscrolly)
   - [Difference between ```window``` and ```document```](#difference-between-window-and-document)
 - [DOMTimeStamp](#domtimestamp)
 - [Element](#element)
@@ -128,6 +136,18 @@
 # Document
 Tip:
 - Consider merging the *Document* section and the *Node* section for their operations kind of intertwine one another.
+
+## Document Element
+### Methods
+#### ```document.documentElement.clientHeight```
+- Examples
+  - [vue](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
+
+#### ```document.documentElement.scrollHeight```
+- Examples
+  - [vue](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
+
+### List of operations
 ## Document Tree
 ### Shadow DOM
 [MDN - Using Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
@@ -303,6 +323,14 @@ Exercise
 
 
 # Window
+## Properties
+### ```window.scrollX```
+- Examples
+  - [vue](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
+### ```window.scrollY```
+- Examples
+  - [vue](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
+
 ## Difference between ```window``` and ```document```
 
 # DOMTimeStamp

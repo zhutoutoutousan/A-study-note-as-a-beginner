@@ -489,7 +489,6 @@ class HashTable {
 
 
 # 3D/VR personal knowledge base
-
 ## Application --> Mindmap + Flashcard
 ### Functionality
 - AI

@@ -25,6 +25,8 @@
       - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
+    - [Cut an array given certain index](#cut-an-array-given-certain-index)
+      - [```Array.prototype.splice()```](#arrayprototypesplice)
     - [Find min/max elements/indexes in arrays](#find-minmax-elementsindexes-in-arrays)
     - [Sort the Array](#sort-the-array)
   - [Work with Objects](#work-with-objects)
@@ -104,6 +106,19 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 
 - [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
+### Cut an array given certain index
+#### ```Array.prototype.splice()```
+```javascript
+let a = [];
+
+for (let i = 0;  i < 25; i++) {
+a.push(i*Math.sin(i))   // a: [0,1,2,3,...24]
+}
+
+a.splice(5);  // [5,6,7,...,24]
+
+a  // [0,1,2,3,4]
+```
 ### Find min/max elements/indexes in arrays
 - **General**
   - [The Fastest Way to Find Minimum and Maximum Values in an Array in JavaScript](https://medium.com/coding-at-dawn/the-fastest-way-to-find-minimum-and-maximum-values-in-an-array-in-javascript-2511115f8621)

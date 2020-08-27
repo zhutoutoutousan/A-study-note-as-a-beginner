@@ -42,6 +42,7 @@
         - [Syntax](#syntax)
     - [Reference](#reference-1)
 - [Function](#function)
+  - [```this```](#this)
   - [Function.name](#functionname)
   - [Higher order function](#higher-order-function)
     - [```Array.prototype.map()```](#arrayprototypemap)
@@ -51,7 +52,7 @@
       - [Mental model](#mental-model-2)
     - [Syntax](#syntax-1)
     - [```Array.prototype.reduce```](#arrayprototypereduce)
-    - [Mental model](#mental-model-3)
+      - [Mental model](#mental-model-3)
     - [``` Array.prototype.fill()```](#-arrayprototypefill)
       - [Mental model](#mental-model-4)
     - [``` Array.prototype.splice()```](#-arrayprototypesplice)
@@ -181,6 +182,9 @@ new Date(year, monthIndex [, day [, hours [, minutes [, seconds [, milliseconds]
 
 # Function
 - Every function gets ```this``` property automatically
+
+## ```this```
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 ## Function.name
 ## Higher order function
 ### ```Array.prototype.map()```
@@ -202,14 +206,16 @@ let new_array = arr.map(function callback( currentValue[, index[, array]]){
 let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ```
 ### ```Array.prototype.reduce```
-
-### Mental model
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+#### Mental model
 ### ``` Array.prototype.fill()```
 
 #### Mental model
 ### ``` Array.prototype.splice()```
 #### Mental model
 ### ``` Array.prototype.forEach()```
+- ```forEach()``` does not mutate the array on whic hit is called, however, *callback* may do so. 
+  - Is it operating using the ```array``` argument?
 #### Mental model
 ### ``` Array.prototype.findIndex()```
 ### ``` Array.prototype.concat()```
@@ -260,7 +266,20 @@ console.log(new Food('cheese', 5).name);
 ## Methods
 ### User defined Methods
 - [Add method to string class](https://stackoverflow.com/questions/8392035/add-method-to-string-class)
+```javascript
+String.prototype.camelCase=function(str){
+  console.log(str);
+  console.log(this);
+  return str.split(' ').reduce((accumulator, currentValue) => {
+    return accumulator + `${currentValue[0].toUpperCase()}${currentValue.splice(1)}`
+  }, '');
+}
 
+"asa as fa s adfas".camelCase();
+
+// undefined
+// String {"asa as fa s adfas"}
+```
 ## Function currying
 ### Callback function and OOP
 ### Callback function and FP

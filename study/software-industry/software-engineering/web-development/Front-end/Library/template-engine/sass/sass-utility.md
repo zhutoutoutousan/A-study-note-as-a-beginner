@@ -17,3 +17,7 @@ SCSS:
 $clrPrimary: #5968d7
 
 ```
+
+# @-rules
+## ```@extend```
+[doc](https://sass-lang.com/documentation/at-rules/extend)

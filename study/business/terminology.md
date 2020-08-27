@@ -7,7 +7,8 @@
     - [Capitalism 资本主义](#capitalism-资本主义)
     - [Communism](#communism)
     - [Community marketing 社区营销](#community-marketing-社区营销)
-    - [Customer Stickness](#customer-stickness)
+    - [Customer Loyalty](#customer-loyalty)
+    - [Customer Stickness 用户黏性](#customer-stickness-用户黏性)
   - [D](#d)
     - [D2C](#d2c)
     - [Detonation product strategy 爆品策略](#detonation-product-strategy-爆品策略)
@@ -41,7 +42,11 @@
 ### Community marketing 社区营销
 - *2010年8月，小米第一版手机系统发布并建立社区，起初只有100个社区用户。第二年小米手机发布时，已经拥有50万用户，这为小米手机的成功奠定了基础。当小米1发布时，首先是这50万发烧友用户去抢购手机，同时带动了更多人知道小米手机品牌。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 
-### Customer Stickness
+### Customer Loyalty
+- Real customer loyalty occurs where there is deeper relationship based on trust. Here, people are willing to overlook what might seem like a better transactional offer elsewhere because of a genuine emotional bond, and the higher value of trust.
+- [Customer Loyalty vs Customer Stickness](https://www.cxtraining.com.au/customer-loyalty-vs-customer-stickiness/#:~:text=Customer%20Stickiness%20occurs%20where%20customers,Stickiness%20is%20real%20and%20valuable.)
+### Customer Stickness 用户黏性
+- Customer Stickness occurs where customers keep coming back to you in a competitive environment because of a consistently better value transaction - possible due to price, speed benefits, convenience, service or a range of factors. Stickness is real and valuable
 ## D
 ### D2C
 ### Detonation product strategy 爆品策略

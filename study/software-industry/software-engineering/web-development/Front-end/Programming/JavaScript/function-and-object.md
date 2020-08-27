@@ -67,6 +67,8 @@
       - [Mental model](#mental-model-7)
       - [Resource](#resource)
     - [```Function.prototype.call()```](#functionprototypecall)
+  - [Methods](#methods)
+    - [User defined Methods](#user-defined-methods)
   - [Function currying](#function-currying)
     - [Callback function and OOP](#callback-function-and-oop)
     - [Callback function and FP](#callback-function-and-fp)
@@ -255,6 +257,9 @@ console.log(new Food('cheese', 5).name);
 ```
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 
+## Methods
+### User defined Methods
+- [Add method to string class](https://stackoverflow.com/questions/8392035/add-method-to-string-class)
 
 ## Function currying
 ### Callback function and OOP

@@ -13,6 +13,7 @@
   - [C](#c)
     - [Collusion](#collusion)
     - [Cognitive bias](#cognitive-bias)
+    - [Cognitive dissonance](#cognitive-dissonance)
     - [Coprolalia](#coprolalia)
     - [Corollary](#corollary)
     - [Culture](#culture)
@@ -38,11 +39,13 @@
     - [Idiosyncrasy](#idiosyncrasy)
     - [Inexorable](#inexorable)
     - [Incredulous](#incredulous)
+    - [Intrusive thoughts](#intrusive-thoughts)
   - [M](#m)
     - [Mannerism](#mannerism)
   - [O](#o)
     - [Ordeal](#ordeal)
     - [Out-group homogeneity 同质化效应](#out-group-homogeneity-同质化效应)
+    - [Ovsiankina effect](#ovsiankina-effect)
   - [P](#p)
     - [Pathology](#pathology)
     - [Pertinent](#pertinent)
@@ -88,6 +91,9 @@
 ### Collusion
 - (noun)secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.
 ### Cognitive bias
+### Cognitive dissonance
+- In the field of psychology, cognitive dissonance occurs when a person holds contradictory beliefs, ideas, or values, and is typically experienced as psychological stress when they participate in an action that goes against one or more of them.
+- [wiki](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 ### Coprolalia
 - -copro: shit
 - -lalia: speak
@@ -133,6 +139,8 @@
 ### Incredulous
 - (of a person or their manner) unwilling or unable to believe something.
 
+### Intrusive thoughts
+- See *cognitive dissonance*
 ## M
 ### Mannerism
 
@@ -140,6 +148,8 @@
 ### Ordeal
 ### Out-group homogeneity 同质化效应
 - [wiki](https://en.wikipedia.org/wiki/Out-group_homogeneity#:~:text=The%20out%2Dgroup%20homogeneity%20effect,alike%3B%20we%20are%20diverse%22.&text=The%20outgroup%20homogeneity%20effect%20is,as%20%22outgroup%20homogeneity%20bias%22.)
+### Ovsiankina effect
+- The Ovsiankina effect is the tendency to pick up an interrupted action again when it has still not been achieved.
 ## P
 ### Pathology
 ### Pertinent

@@ -26,6 +26,7 @@
   - [T](#t)
     - [Takeover 收购](#takeover-收购)
   - [P](#p)
+    - [Pareto principle](#pareto-principle)
     - [Pseudo-psychology](#pseudo-psychology)
   - [U](#u)
 # Alphabetical
@@ -81,6 +82,9 @@
 - Extra terminologies
   - 目标公司
 ## P
+### Pareto principle
+- The Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity) states that, for many events, roughly 80% of the effects come from 20% of the causes.
+- [wiki](https://en.wikipedia.org/wiki/Pareto_principle)
 ### Pseudo-psychology
 
 ## U

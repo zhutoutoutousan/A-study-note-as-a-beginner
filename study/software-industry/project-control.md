@@ -88,7 +88,7 @@
     - [Functionality](#functionality-3)
   - [Tech-stack](#tech-stack-4)
   - [Reference materials](#reference-materials-2)
-- [DeepSTUDYcity](#deepstudycity)
+- [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
     - [Functionality](#functionality-4)
 
@@ -488,7 +488,7 @@ class HashTable {
 ## Reference materials
 
 
-# DeepSTUDYcity
+# 3D/VR personal knowledge base
 
 ## Application --> Mindmap + Flashcard
 ### Functionality

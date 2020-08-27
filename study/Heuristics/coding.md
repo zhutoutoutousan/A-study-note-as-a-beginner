@@ -21,6 +21,7 @@
   - [Trade-off scenario](#trade-off-scenario)
 - [Small tricks](#small-tricks)
   - [Find if the parenthesis group is valid](#find-if-the-parenthesis-group-is-valid)
+  - [Type emoji](#type-emoji)
 - [Ethics](#ethics)
 - [Tools](#tools)
   - [Code comparison](#code-comparison)
@@ -94,6 +95,9 @@ For more check:
 ## Find if the parenthesis group is valid
 - '()()()()())(()(((()()()()()()()()'
 - Prove: Any parenthesis group that is valid can be solved using one algorithm: Eliminate the '()' recursively, then the string will end up empty.
+
+## Type emoji
+Windows 10: Win  + ;
 
 # Ethics
 [Quora - Copy and paste code](https://www.quora.com/Do-good-programmers-copy-paste-codes)

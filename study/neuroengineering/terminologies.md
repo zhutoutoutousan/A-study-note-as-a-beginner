@@ -11,7 +11,9 @@
   - [CNS](#cns)
   - [Cortical](#cortical)
   - [Collaterals](#collaterals)
+  - [CTRL lab](#ctrl-lab)
 - [D](#d)
+  - [Deep brain stimulation](#deep-brain-stimulation)
   - [Dendrites](#dendrites)
     - [Dendrites.Dendritic-arbor](#dendritesdendritic-arbor)
   - [Descriptive models](#descriptive-models)
@@ -34,6 +36,8 @@
   - [Mechanistic models](#mechanistic-models)
   - [MPF](#mpf)
 - [N](#n)
+  - [N1 sensor](#n1-sensor)
+  - [Neuralink](#neuralink)
   - [Neurotransmission](#neurotransmission)
     - [Neurotransmission.pathways.neurotransmitter](#neurotransmissionpathwaysneurotransmitter)
   - [Nerve fibers](#nerve-fibers)
@@ -52,6 +56,8 @@
 - [S](#s)
   - [Secretion](#secretion)
   - [Spinal cord](#spinal-cord)
+- [U](#u)
+  - [Utah array](#utah-array)
 # A
 ## Action potential(Spike)
 ## Arbor
@@ -66,7 +72,9 @@
 Centeral nervous system
 ## Cortical
 ## Collaterals
+## CTRL lab
 # D
+## Deep brain stimulation
 ## Dendrites
 ### Dendrites.Dendritic-arbor
 ## Descriptive models
@@ -110,6 +118,9 @@ Myelin is a fatty wrap that goes around some axons.
 [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
 ## MPF
 # N 
+## N1 sensor
+- (neuralink)
+## Neuralink
 ## Neurotransmission
 ### Neurotransmission.pathways.neurotransmitter
 ## Nerve fibers
@@ -131,3 +142,6 @@ Peripheral nervous system
 ## Secretion
 [Secretion - wikipedia](https://en.wikipedia.org/wiki/Secretion)
 ## Spinal cord
+
+# U
+## Utah array

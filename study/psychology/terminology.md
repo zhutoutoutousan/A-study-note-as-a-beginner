@@ -8,13 +8,18 @@
     - [Archetype](#archetype)
     - [Ascribe](#ascribe)
     - [Assent](#assent)
+  - [B](#b)
+    - [Bias](#bias)
   - [C](#c)
     - [Collusion](#collusion)
+    - [Cognitive bias](#cognitive-bias)
     - [Coprolalia](#coprolalia)
     - [Corollary](#corollary)
     - [Culture](#culture)
   - [D](#d)
     - [Defense mechanism](#defense-mechanism)
+    - [Disquiet](#disquiet)
+    - [Disquieting](#disquieting)
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
     - [Doublespeak](#doublespeak)
@@ -37,6 +42,7 @@
     - [Mannerism](#mannerism)
   - [O](#o)
     - [Ordeal](#ordeal)
+    - [Out-group homogeneity 同质化效应](#out-group-homogeneity-同质化效应)
   - [P](#p)
     - [Pathology](#pathology)
     - [Pertinent](#pertinent)
@@ -75,10 +81,13 @@
 ### Ascribe
 ### Assent
 
+## B
+### Bias
+
 ## C
 ### Collusion
 - (noun)secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.
-
+### Cognitive bias
 ### Coprolalia
 - -copro: shit
 - -lalia: speak
@@ -90,6 +99,11 @@
 ## D
 
 ### Defense mechanism
+### Disquiet
+- (noun)a feeling of anxiety or worry
+
+### Disquieting
+
 ### Dissent
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.
 ### Dissenter
@@ -124,6 +138,8 @@
 
 ## O 
 ### Ordeal
+### Out-group homogeneity 同质化效应
+- [wiki](https://en.wikipedia.org/wiki/Out-group_homogeneity#:~:text=The%20out%2Dgroup%20homogeneity%20effect,alike%3B%20we%20are%20diverse%22.&text=The%20outgroup%20homogeneity%20effect%20is,as%20%22outgroup%20homogeneity%20bias%22.)
 ## P
 ### Pathology
 ### Pertinent

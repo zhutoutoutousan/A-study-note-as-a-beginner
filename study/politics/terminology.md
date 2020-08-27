@@ -15,20 +15,23 @@
     - [Censorship](#censorship)
     - [Cross-cutting](#cross-cutting)
     - [Communism](#communism)
+    - [Confirmation bias](#confirmation-bias)
   - [D](#d)
     - [David strategy](#david-strategy)
     - [Demopraphy](#demopraphy)
     - [Disparage](#disparage)
     - [Dividend](#dividend)
   - [E](#e)
+    - [Echo chamber](#echo-chamber)
     - [Economic growth](#economic-growth)
     - [Embody](#embody)
     - [Exorbitant](#exorbitant)
     - [Export](#export)
     - [Etymology](#etymology)
     - [Ever-increasing](#ever-increasing)
+    - [Examples of feudalism  封建](#examples-of-feudalism-封建)
   - [F](#f)
-    - [Fascist](#fascist)
+    - [FascistS](#fascists)
     - [First Gulf War](#first-gulf-war)
   - [G](#g)
     - [Geopolitics](#geopolitics)
@@ -58,6 +61,7 @@
     - [Proclamation](#proclamation)
     - [Political correctness](#political-correctness)
     - [Politiquement correct](#politiquement-correct)
+    - [Political polarization](#political-polarization)
     - [Poltroon](#poltroon)
     - [Popolus](#popolus)
     - [Populism](#populism)
@@ -77,6 +81,7 @@
   - [T](#t)
     - [Totalitarian](#totalitarian)
     - [Turmoil](#turmoil)
+    - [Two-party systems](#two-party-systems)
   - [U](#u)
     - [Uprootedness](#uprootedness)
     - [Urbanization](#urbanization)
@@ -104,21 +109,29 @@
 ### Capital input
 ### Censorship
 ### Cross-cutting
+
 ### Communism
+### Confirmation bias
 ## D
 ### David strategy
 ### Demopraphy
 ### Disparage
 ### Dividend
 ## E
+### Echo chamber
+- (media)
 ### Economic growth
 ### Embody
 ### Exorbitant
 ### Export
 ### Etymology
 ### Ever-increasing
+### Examples of feudalism  封建
+- Examples of feudalism are helpful to fully understand feudalism and feudal society.
+- 封建是源自於中國古代天子依爵位高低將領土分封與宗室或功臣作為食邑的制度。 在此制度下，大地主或領主能從土地取得收入，並且在其領地上行使政府職權。 而在馬克思主義的影響下，「封建」常做為封建社會的代稱。
+- 封建，词语源自《诗·商颂·殷武》：“命于下国，封建厥福”，意思是指封邦建国。
 ## F
-### Fascist
+### FascistS
 ### First Gulf War
 - Took place in 1991
 ## G
@@ -142,6 +155,7 @@
 ## N
 ### Nudge Theory
 ## O
+
 ### Overturn
 ## P
 ### Persecution
@@ -152,7 +166,8 @@
 - "谦虚"在中国是否为政治正确？
 ### Politiquement correct
 - (French) Political correctness
-
+### Political polarization
+- [wiki](https://en.wikipedia.org/wiki/Political_polarization)
 ### Poltroon
 ### Popolus
 - (Latin)People
@@ -188,6 +203,8 @@
 ### Totalitarian
 ### Turmoil
 - (noun)a state of great disturbance, confusion, or uncertainty
+
+### Two-party systems
 ## U
 ### Uprootedness
 ### Urbanization

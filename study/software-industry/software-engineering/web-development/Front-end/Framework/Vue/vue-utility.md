@@ -380,6 +380,25 @@ new Vue({
 - Each component has a watcher instance
 - The properties touched by the watcher during the render are registered as dependencies
 - When the setter is triggered, it lets the watcher know, and causes the component to re-render
+
+```javascript
+new Vue({
+  el: '#app',
+  data() {
+    return {
+      counter: 0
+    }
+  },
+  watch: {
+    // The name of the watch method must the same as the data element we want to watch
+    counter() {
+      console.log('The counter has changed!')
+      // When 'counter' in the data object is updated, fire this method
+    }
+  }
+});
+
+```
 # Vue-CLI
 
 # Vue-router

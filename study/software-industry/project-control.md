@@ -206,6 +206,9 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Site
   - [ ] E-commerce
     - [freecodecamp - tutorial](https://www.youtube.com/watch?v=023Psne_-_4)
+      - Dependencies:
+        - Admin: Contentful
+        - Hosting server: Netlify
 - Components
   - [x] Accordian
   - Autocomplete

@@ -15,6 +15,7 @@
   - [Push](#push)
     - [Chest training(Injury prevention)](#chest-traininginjury-prevention)
   - [Pull](#pull)
+    - [Tricep + Bicep | Shoulder Injury + Medium  intensity](#tricep--bicep--shoulder-injury--medium-intensity)
   - [Leg](#leg-1)
   - [*Perfect* workout training(Modified - Strength & hypertrophy)](#perfect-workout-trainingmodified---strength--hypertrophy)
   - [Squat strength training](#squat-strength-training)
@@ -26,6 +27,7 @@
   - [Muscle growth](#muscle-growth)
   - [Workout --> Goal relationship](#workout----goal-relationship)
   - [Recovery](#recovery)
+- [Workout equipment](#workout-equipment)
 
 
 # TODO
@@ -61,7 +63,12 @@
 | 0:00 | Barbell hip thrust | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
 | 0:00 | Barbell  | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
 ## Pull
-
+### Tricep + Bicep | Shoulder Injury + Medium  intensity
+| Timing | Workout | Sets | Load | Muscle group | Description |
+|----| ----------------- |:----:|:-----:|:-----|------|
+| 0:00 | Dumbbell pin press && Barbell bicep curl  | 5 | 20-10 60-8 80-4 90-1 50-10 | Mid chest |   |
+| 0:00 | Barbell hip thrust | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
+| 0:00 | Barbell  | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs |
 ## Leg
 ## *Perfect* workout training(Modified - Strength & hypertrophy)
 - Shoulder injury
@@ -98,3 +105,5 @@
   - Workout specified
   - Injury specified
 
+# Workout equipment
+- If you choose free training, the calories burned  might include the REM?

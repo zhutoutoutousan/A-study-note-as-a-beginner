@@ -42,7 +42,9 @@
 - Half squat
   - Possitive effect how maximum jump height
 ### Strength
-
+- Grip strength
+  - Rack pull
+    - [Doing Rack Pulls Like This! (SAVE A FRIEND) - ATHLEAN-X](https://www.youtube.com/watch?v=agF7TbWjQao)
 ### Mobility
 
 ### Stability
@@ -66,8 +68,8 @@
 ### Tricep + Bicep | Shoulder Injury + Medium  intensity
 | Timing | Workout | Sets | Load | Muscle group | Description |
 |----| ----------------- |:----:|:-----:|:-----|------|
-| 0:00 | Dumbbell pin press && Barbell bicep curl  | 5 | 20-10 60-8 80-4 90-1 50-10 | Mid chest |   |
-| 0:00 | Barbell hip thrust | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
+| 0:00 | Dumbbell pin press && Barbell bicep curl && Farmer's carry  | 5 | 20-10 60-8 80-4 90-1 50-10 | Mid chest | Super set  |
+| 0:00 | Rack pull | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
 | 0:00 | Barbell  | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs |
 ## Leg
 ## *Perfect* workout training(Modified - Strength & hypertrophy)

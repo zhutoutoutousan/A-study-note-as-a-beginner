@@ -67,6 +67,9 @@ constructor(...args) {
 }
 ```
 
+
+
+
 ### ```super()```
 - Usage: when used in a constructor, the ```super``` keyword appeards alone and must be used before the ```this``` keyword is used. The ```super``` keyword can also be used to call functions on a parent object.
 - Must: In ES6, derived classes have to call ```super()``` if they have a constructor.

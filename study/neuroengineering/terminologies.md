@@ -31,6 +31,8 @@
 - [I](#i)
   - [Interpretive models](#interpretive-models)
   - [IPS](#ips)
+- [L](#l)
+  - [Lymphatic vessels](#lymphatic-vessels)
 - [M](#m)
   - [Morse code](#morse-code)
   - [Myelin](#myelin)
@@ -107,8 +109,10 @@ Supporters of neurons
 
 # I
 ## Interpretive models
-[Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
+- [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
 ## IPS
+# L
+## Lymphatic vessels
 # M
 ## Morse code
 - **Morse code** is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called *dots* and *dashes*.

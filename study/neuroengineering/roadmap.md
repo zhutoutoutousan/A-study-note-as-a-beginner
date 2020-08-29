@@ -13,7 +13,8 @@
 - Neuralink
 - CTR
 ### Related technical difficulties
-
+### Events
+- [Elon Musk's ENTIRE live Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4)
 
 ## Peripheral resource
 ### Human behavioral biology

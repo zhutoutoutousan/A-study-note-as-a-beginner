@@ -11,8 +11,10 @@
 - [C](#c)
   - [Cache locality](#cache-locality)
   - [Cell phone tower](#cell-phone-tower)
+  - [Chronology](#chronology)
   - [CMTS](#cmts)
   - [CO](#co)
+  - [Context switch](#context-switch)
     - [Cryptoanalysis](#cryptoanalysis)
     - [Cryptography](#cryptography)
     - [Cryptology](#cryptology)
@@ -99,12 +101,15 @@
 # C
 ## Cache locality
 ## Cell phone tower
+## Chronology
+- Chronology is the science of arranging events in their order of occurence in time.
+- [wiki](https://en.wikipedia.org/wiki/Chronology)
 ## CMTS
 - Cable Modem Termination System
 - The CMTS serves a similar function as the DSL network's DSLAM--- turning the analog signal sent from the cable modems in many downstream homes back into digital format.
 ## CO
 - (networking)Central office
-
+## Context switch
 ### Cryptoanalysis
 - studies the breaking of cryptosystems.
 ### Cryptography

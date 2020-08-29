@@ -24,7 +24,8 @@
     - Have a basic knowledge of game theory
     - Translate it to game developing
   - Process 1
-    - Goal:
+    - Goal: Start reading a bit first
+    - Progress: 9/585
   - B.O.I 
     - *Theory of games and economic behaviour 1944 --- J.V.Neumann, O.Morgenstern*
   - P.O.I:

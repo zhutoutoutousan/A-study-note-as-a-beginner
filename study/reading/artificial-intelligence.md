@@ -20,5 +20,7 @@
   - [link1](http://home.ku.edu.tr/~lkockesen/teaching/econ333/lectnotes/uggame.pdf)
 - Game Theory - G.Bonanno
   - [link1](https://arxiv.org/ftp/arxiv/papers/1512/1512.06808.pdf)
+  - Goal:
+    - Have a basic knowledge of game theory
 - Essentials of game theory
   - [link1](http://physics.ujep.cz/~jskvor/KVM/TeorieHer/shoham.pdf)

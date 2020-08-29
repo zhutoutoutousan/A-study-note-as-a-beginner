@@ -241,15 +241,6 @@ Remedy
 ### Measures
 #### Food
 - Caffeine
-  - May increase stomach acid
-    - May cause stomach discomfort
-  - Block fatigue receptors
-  - Recommended 400mg/day
-    - 12 grams of raw coffee powder
-      - 50mg/1g
-    - Cocacola Zero: 50mg/500ml
-  - Hours of effect: 7hrs
-    - Recommended take your last drop of coffee 8 hours before going to sleep, which should be taken into account when winding back the bio-clock
 - (Red bull?)
 #### Workout
 ##### Resistance exercise
@@ -403,6 +394,19 @@ See:
 ### Cognitive enhancement
 - Nicotine
 - Caffeine
+  - May increase stomach acid
+    - May cause stomach discomfort
+  - Block fatigue receptors
+  - Recommended 400mg/day
+    - 12 grams of raw coffee powder
+      - 50mg/1g
+    - Cocacola Zero: 50mg/500ml
+  - Hours of effect: 7hrs
+    - Recommended take your last drop of coffee 8 hours before going to sleep, which should be taken into account when winding back the bio-clock
+  - Current sustainable practice
+    - Fixed amount every day. Finish consumption 8 hrs before sleep.
+    - Use nicotine when close to sleep.
+    - Don't mix it with hydration.
 - Amphetamine
 - Ritalin
 - Adderall

@@ -22,9 +22,13 @@
   - [L](#l)
     - [Logic 逻辑（商业）](#logic-逻辑商业)
   - [M](#m)
+    - [Monetary](#monetary)
+    - [Monetary value](#monetary-value)
   - [N](#n)
     - [NASDAQ](#nasdaq)
     - [NYSE](#nyse)
+  - [Q](#q)
+    - [Quota](#quota)
   - [S](#s)
     - [Scale-oriented stategy](#scale-oriented-stategy)
   - [T](#t)
@@ -34,6 +38,8 @@
     - [Pareto principle](#pareto-principle)
     - [Pseudo-psychology](#pseudo-psychology)
   - [U](#u)
+  - [V](#v)
+    - [Value](#value)
 # Alphabetical
 ## B
 ### Beauty Pageant
@@ -77,11 +83,17 @@
 - (business) See business logic
 
 ## M
-
+### Monetary
+### Monetary value
+- See *Value*
 ## N
 ### NASDAQ
 ### NYSE
 
+## Q
+### Quota
+- A *quota* is a government-imposed trade restriction that limits the number or **monetary value** of goods that a country can import or export during a particular period
+- [Investopedia](https://www.investopedia.com/terms/q/quota.asp#:~:text=A%20quota%20is%20a%20government,between%20them%20and%20other%20countries.)
 ## S
 ### Scale-oriented stategy
 - 机海战术: *在小米手机诞生以前，手机品牌大部分采用的机海战术——即根据特点市场需求制造多款手机，多渠道销售。而小米1走了与iPhone 同样的道路，即做一个爆款。爆品是小米最简单也是最根本的逻辑，2011年8月，小米只发布了一款手机，这款手机在当时的配置是顶级的，价钱基本是最低的，被大量抢购。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
@@ -105,3 +117,8 @@
 ### Pseudo-psychology
 
 ## U
+
+## V
+### Value
+- Value is the monetary, material, or assessed worth of an asset, good, or service.
+- [Investopaedia](https://www.investopedia.com/terms/v/value.asp#:~:text=Value%20is%20the%20monetary%2C%20material,asset%2C%20good%2C%20or%20service.)

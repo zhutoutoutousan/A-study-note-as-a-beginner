@@ -22,5 +22,23 @@
   - [link1](https://arxiv.org/ftp/arxiv/papers/1512/1512.06808.pdf)
   - Goal:
     - Have a basic knowledge of game theory
+    - Translate it to game developing
+  - Process 1
+    - Goal:
+  - B.O.I 
+    - *Theory of games and economic behaviour 1944 --- J.V.Neumann, O.Morgenstern*
+  - P.O.I:
+    - **John Nash**
+    - **Lloyd Shapley**
+    - **John von Neumann**
+    - Oscar Morgenstern
+    - John Harsanyi
+    - Reinhardt Selten
+    - Robert Aumann
+    - Thomas Schelling
+    - Leonid Hurwicz
+    - Eric Maskin
+    - Roger Myerson
+    - Alvin Roth
 - Essentials of game theory
   - [link1](http://physics.ujep.cz/~jskvor/KVM/TeorieHer/shoham.pdf)

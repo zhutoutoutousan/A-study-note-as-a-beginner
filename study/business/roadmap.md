@@ -5,6 +5,9 @@
 
 
 ## Investing
+### Online resource
+- [Investopedia](https://www.investopedia.com/)
+### P.O.I
 - Li lu
 - Carl Icahn
 - Warren Buffet

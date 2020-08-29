@@ -27,6 +27,7 @@
     - [Methods](#methods)
     - [MVC](#mvc)
   - [N](#n)
+    - [Name space](#name-space)
     - [Non-Basic-Multilingual-Plane character](#non-basic-multilingual-plane-character)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
@@ -133,6 +134,7 @@ A group of servers that stores your data
     - React.js:
   - **Service**: Between the controller and the model sometimes goes a layer which is called a service. It fetches data from the model and lets the controller use the fetched data.   
 ## N
+### Name space
 ### Non-Basic-Multilingual-Plane character
 ## O
 ### Object-oriented inheritance model

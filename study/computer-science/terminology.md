@@ -10,6 +10,7 @@
   - [Base station](#base-station)
 - [C](#c)
   - [Cache locality](#cache-locality)
+  - [Call stack](#call-stack)
   - [Cell phone tower](#cell-phone-tower)
   - [Chronology](#chronology)
   - [CMTS](#cmts)
@@ -73,6 +74,7 @@
   - [Socket interface](#socket-interface)
   - [Stack](#stack)
   - [State space](#state-space)
+  - [Space complexity](#space-complexity)
   - [Splitter](#splitter)
   - [Switch](#switch)
     - [Computer networking](#computer-networking)
@@ -102,6 +104,7 @@
 ## Base station
 # C
 ## Cache locality
+## Call stack
 ## Cell phone tower
 ## Chronology
 - Chronology is the science of arranging events in their order of occurence in time.
@@ -235,6 +238,11 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 - (Data structure)See the **stack** section
 ## State space
 [State space - wiki](https://en.wikipedia.org/wiki/State_space)
+
+## Space complexity
+- aka memory usage
+- Examples
+  - [Algorithms: Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I)
 ## Splitter
 ## Switch
 ### Computer networking

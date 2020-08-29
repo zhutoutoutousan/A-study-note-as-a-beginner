@@ -3,6 +3,9 @@
 - [OOP series](#oop-series)
   - [How to curry](#how-to-curry)
 - [Query series](#query-series)
+  - [See if contains](#see-if-contains)
+    - [Array](#array)
+      - [```Array.prototype.includes()```](#arrayprototypeincludes)
   - [Getting data type](#getting-data-type)
   - [Testing equality](#testing-equality)
     - [Types of equality](#types-of-equality)
@@ -25,6 +28,7 @@
       - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
+    - [Push into multidimensional array](#push-into-multidimensional-array)
     - [Cut an array given certain index](#cut-an-array-given-certain-index)
       - [```Array.prototype.splice()```](#arrayprototypesplice)
     - [Find min/max elements/indexes in arrays](#find-minmax-elementsindexes-in-arrays)
@@ -54,6 +58,9 @@
 ## How to curry
 
 # Query series
+## See if contains
+### Array
+#### ```Array.prototype.includes()```
 ## Getting data type
 ## Testing equality
 ### Types of equality
@@ -106,6 +113,7 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 
 - [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
+### Push into multidimensional array
 ### Cut an array given certain index
 #### ```Array.prototype.splice()```
 ```javascript

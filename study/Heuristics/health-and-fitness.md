@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Suggestion](#suggestion)
 - [Basics physical system of a normal human](#basics-physical-system-of-a-normal-human)
   - [Digestive system](#digestive-system)
   - [Circulation system](#circulation-system)
@@ -39,7 +40,7 @@
     - [Colon](#colon)
       - [Ulcerative Colitis](#ulcerative-colitis-1)
       - [Appendicitis](#appendicitis)
-- [Mental disorder](#mental-disorder)
+- [Mental disorder/readiness](#mental-disorderreadiness)
 - [Other anomalies](#other-anomalies)
   - [Circadium rhythm distruption](#circadium-rhythm-distruption)
   - [Burnout](#burnout)
@@ -134,6 +135,9 @@
   - [Shredded Sports Science](#shredded-sports-science)
     - [How do muscle grow](#how-do-muscle-grow)
 
+# Suggestion
+Consider merging this note to the 'physiology for scientists and engineers'
+
 # Basics physical system of a normal human
 ## Digestive system
 - Total emptying of the stomach takes 4-5 hours
@@ -226,7 +230,9 @@ Remedy
 #### Appendicitis
 - High fiber diet would help alleviate the symptom
 
-# Mental disorder
+# Mental disorder/readiness
+- [增强精力、意志力与大脑机能的三个习惯](https://www.youtube.com/watch?v=iLU2W-gasUQ)
+  - Meditation shuns the negative inner narrator
 
 # Other anomalies
 ## Circadium rhythm distruption
@@ -238,6 +244,12 @@ Remedy
   - May increase stomach acid
     - May cause stomach discomfort
   - Block fatigue receptors
+  - Recommended 400mg/day
+    - 12 grams of raw coffee powder
+      - 50mg/1g
+    - Cocacola Zero: 50mg/500ml
+  - Hours of effect: 7hrs
+    - Recommended take your last drop of coffee 8 hours before going to sleep, which should be taken into account when winding back the bio-clock
 - (Red bull?)
 #### Workout
 ##### Resistance exercise

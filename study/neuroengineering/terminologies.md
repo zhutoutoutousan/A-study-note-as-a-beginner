@@ -6,6 +6,8 @@
   - [Axon](#axon)
     - [Myelinated axon](#myelinated-axon)
     - [Naked axon](#naked-axon)
+- [B](#b)
+  - [BDNF](#bdnf)
 - [C](#c)
   - [Cell assembly](#cell-assembly)
   - [CNS](#cns)
@@ -69,6 +71,8 @@
 - Information is transferred faster at a rate of 2-120m/s, with an average time of 12-750ms.
 ### Naked axon
 - Information is transferred slower at a rate of 0.2-1.0m/s, with an average time of 1.5-7s.
+# B
+## BDNF
 # C
 ## Cell assembly
 ## CNS

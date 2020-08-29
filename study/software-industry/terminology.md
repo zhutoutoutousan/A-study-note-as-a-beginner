@@ -7,6 +7,7 @@
     - [Boostrap](#boostrap)
     - [Bytecode](#bytecode)
   - [C](#c)
+    - [Command line argument](#command-line-argument)
     - [Computed](#computed)
     - [Class](#class)
     - [Closure](#closure)
@@ -47,6 +48,7 @@
     - [Non-Basic-Multilingual-Plane character](#non-basic-multilingual-plane-character)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
+    - [Object-oriented language](#object-oriented-language)
     - [Object-oriented programming](#object-oriented-programming)
   - [P](#p)
     - [PaaS](#paas)
@@ -105,11 +107,13 @@
 ### Bytecode
 - (java)Compiled Java *bytecode* is executed by a Java runtime interpreter.
 ## C
+### Command line argument
 ### Computed
 - (Vue.js)
 ### Class
 - (ES6)
-- (java)As in other object-oriented languages, classes are application components that hold executable code and data. Compiled Java classes are distributed in a universal binary format that contains Java bytecode and other class information.
+- (java)A java class is a group of data items with associated functions that can perform operations on that data. The data items in a calss are called *variables*, or sometimes *fields*; in Java, functions are called *methods*.
+  - As in other object-oriented languages, classes are application components that hold executable code and data. Compiled Java classes are distributed in a universal binary format that contains Java bytecode and other class information.
   - Java class can be maintained discretly and stored in files or archives locally or on a network server.
   - Java classes are located and loaded dynamically at runtime as they are needed by an application.
 ### Closure
@@ -196,6 +200,9 @@ A group of servers that stores your data
 ### Non-Basic-Multilingual-Plane character
 ## O
 ### Object-oriented inheritance model
+### Object-oriented language
+- ?
+  - The primary benefits of an object-oriented language are this association between data and functionality in class units and also the ability of classes to *encapsulate* or hide details, freeing the developer from worrying about low-level details.
 ### Object-oriented programming
 ## P
 ### PaaS

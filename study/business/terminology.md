@@ -31,6 +31,7 @@
     - [Quota](#quota)
   - [S](#s)
     - [Scale-oriented stategy](#scale-oriented-stategy)
+    - [Spearhead](#spearhead)
   - [T](#t)
     - [Takeover 收购](#takeover-收购)
     - [Time management](#time-management)
@@ -98,7 +99,9 @@
 ### Scale-oriented stategy
 - 机海战术: *在小米手机诞生以前，手机品牌大部分采用的机海战术——即根据特点市场需求制造多款手机，多渠道销售。而小米1走了与iPhone 同样的道路，即做一个爆款。爆品是小米最简单也是最根本的逻辑，2011年8月，小米只发布了一款手机，这款手机在当时的配置是顶级的，价钱基本是最低的，被大量抢购。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 
-
+### Spearhead
+- (verb) lead(an attack or movement)
+  - Can be used for business pioneers
 
 ## T
 ### Takeover 收购

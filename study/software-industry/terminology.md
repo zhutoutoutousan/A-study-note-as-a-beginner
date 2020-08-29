@@ -4,6 +4,7 @@
   - [A](#a)
     - [Abstraction](#abstraction)
   - [B](#b)
+    - [Boostrap](#boostrap)
     - [Bytecode](#bytecode)
   - [C](#c)
     - [Computed](#computed)
@@ -16,10 +17,12 @@
     - [Devious](#devious)
     - [Discord](#discord)
   - [E](#e)
+    - [Encapsulation](#encapsulation)
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [I](#i)
+    - [IDE](#ide)
     - [IEEE 802](#ieee-802)
     - [IIFE](#iife)
     - [Internet Engineering Task Force(IETF)](#internet-engineering-task-forceietf)
@@ -32,6 +35,9 @@
     - [Java native methods](#java-native-methods)
     - [Java runtime](#java-runtime)
     - [Java virtual machine](#java-virtual-machine)
+    - [JDK](#jdk)
+    - [JIT](#jit)
+    - [JRE](#jre)
   - [M](#m)
     - [Methods](#methods)
     - [MVC](#mvc)
@@ -56,6 +62,7 @@
     - [Runtime system](#runtime-system)
     - [RxJS](#rxjs)
   - [S](#s)
+    - [Scalability](#scalability)
     - [Scope](#scope)
     - [Service](#service)
     - [Software architecture](#software-architecture)
@@ -65,6 +72,7 @@
     - [TDZ](#tdz)
     - [Traditional Gtk](#traditional-gtk)
     - [Transmission rate](#transmission-rate)
+    - [Transportability](#transportability)
   - [U](#u)
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
@@ -92,6 +100,7 @@
 ### Abstraction
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
 ## B
+### Boostrap
 ### Bytecode
 - (java)Compiled Java *bytecode* is executed by a Java runtime interpreter.
 ## C
@@ -114,6 +123,7 @@ A group of servers that stores your data
 ### Discord
 - Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
 ## E
+### Encapsulation
 ### Execusion context 执行上下文
 - (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
   - [What is the 'Execution Context' in JavaScript exactly?](https://stackoverflow.com/questions/9384758/what-is-the-execution-context-in-javascript-exactly#:~:text=Execution%20context%20is%20a%20concept,value%20of%20the%20this%20object.)
@@ -122,6 +132,8 @@ A group of servers that stores your data
 ### Gtk APP
 
 ## I
+### IDE
+- IDE: Integrated Development Environment
 ### IEEE 802
 ### IIFE
 - IIFE:Immediately Invoked Function Expression
@@ -144,6 +156,13 @@ A group of servers that stores your data
 ### Java virtual machine
 - (java)Whereas ```C``` or ```C++``` source is reduced to native instructions for a particular model of processor, Java source is compiled into a universal format---instructions for a *virtual machine*
 
+### JDK
+- JDK: Java Developement Kit
+### JIT
+- JIT: just-in-time or dynamic compilation
+  - Java has been carefully designed so that software implementations of the runtime system can further optimize their performance by compiling bytecode to native machine code on the fly.
+### JRE
+- JRE: Java Runtime Environment
 ## M
 ### Methods
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
@@ -218,6 +237,7 @@ A cluster where each server stores the same data
 ### Runtime system
 ### RxJS
 ## S
+### Scalability
 ### Scope
 ### Service
 The term **Web service(WS)** is either:
@@ -236,6 +256,7 @@ The term **Web service(WS)** is either:
 ### Traditional Gtk
 - Traditional Gtk App means, it cannot be Firefox, Libreoffice, which only use Gtk as a UI style
 ### Transmission rate
+### Transportability
 ## U 
 ### Unified Modeling Language(UML)
 

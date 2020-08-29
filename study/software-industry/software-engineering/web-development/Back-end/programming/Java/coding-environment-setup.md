@@ -5,3 +5,6 @@
 ## Quick start
 1. Ctrl+Shift+P
 2. ```Java:Getting Started```
+
+# Eclipse setup
+WTH would I do that?

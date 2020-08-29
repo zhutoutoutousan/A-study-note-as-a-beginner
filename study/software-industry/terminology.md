@@ -31,6 +31,7 @@
     - [Internet standards](#internet-standards)
   - [J](#j)
     - [Java](#java)
+    - [Java build tools](#java-build-tools)
     - [Java interperter](#java-interperter)
     - [Java native methods](#java-native-methods)
     - [Java runtime](#java-runtime)
@@ -149,6 +150,9 @@ A group of servers that stores your data
 - Java is both a compiled and an interpreted language. Java source code is turned into simple binary instructions, much like ordinary microprocessor machine code.
   - See virtual machine
 - The fundamental unit of Java code is the *class*
+
+### Java build tools
+- Maven
 ### Java interperter
 ### Java native methods
 - In addition to the platform-specific runtime system, Java has a number of fundamental classes that contain architecture-depenedent methods. These *native methods* serve as the gateway between the Java virtual machine and the real world. They are implemented in a natively compiled language on the host platform and provide low-level access to resources such as the network, the windowing system, and the host filesystem.
@@ -163,6 +167,11 @@ A group of servers that stores your data
   - Java has been carefully designed so that software implementations of the runtime system can further optimize their performance by compiling bytecode to native machine code on the fly.
 ### JRE
 - JRE: Java Runtime Environment
+- Examples
+  - Execution environment
+    - JavaSE
+  - Project specific JRE
+  
 ## M
 ### Methods
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives

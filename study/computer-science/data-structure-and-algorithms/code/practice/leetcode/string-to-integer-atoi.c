@@ -1,4 +1,0 @@
-int myAtoi(char * str){
-
-}
-

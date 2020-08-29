@@ -1,3 +1,0 @@
-Problem 1:   Let's say there is an exponential  $a^n = \upperline(a_1 a_2 a_3 ... a_m)$
-                    	
-		For any input 'a' and 'n', solve for m without calculating the value of $a^n$

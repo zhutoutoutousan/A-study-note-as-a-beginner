@@ -1,6 +1,0 @@
-
-
-bool isPalindrome(int x){
-
-}
-

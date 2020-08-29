@@ -3,8 +3,11 @@
 - [Alphabetical](#alphabetical)
   - [A](#a)
     - [Abstraction](#abstraction)
+  - [B](#b)
+    - [Bytecode](#bytecode)
   - [C](#c)
     - [Computed](#computed)
+    - [Class](#class)
     - [Closure](#closure)
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
@@ -23,6 +26,12 @@
     - [Inheritance](#inheritance)
     - [Internet Service Providers(ISPs)](#internet-service-providersisps)
     - [Internet standards](#internet-standards)
+  - [J](#j)
+    - [Java](#java)
+    - [Java interperter](#java-interperter)
+    - [Java native methods](#java-native-methods)
+    - [Java runtime](#java-runtime)
+    - [Java virtual machine](#java-virtual-machine)
   - [M](#m)
     - [Methods](#methods)
     - [MVC](#mvc)
@@ -44,6 +53,7 @@
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
+    - [Runtime system](#runtime-system)
     - [RxJS](#rxjs)
   - [S](#s)
     - [Scope](#scope)
@@ -65,8 +75,9 @@
     - [Virtual DOM](#virtual-dom)
     - [VoIP](#voip)
     - [Vue](#vue)
+    - [Vue watcher](#vue-watcher)
   - [W](#w)
-    - [Watcher](#watcher)
+    - [Windowing system](#windowing-system)
 - [Translation EN-CH](#translation-en-ch)
   - [A](#a-1)
   - [C](#c-1)
@@ -80,10 +91,17 @@
 ## A
 ### Abstraction
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
-
+## B
+### Bytecode
+- (java)Compiled Java *bytecode* is executed by a Java runtime interpreter.
 ## C
 ### Computed
 - (Vue.js)
+### Class
+- (ES6)
+- (java)As in other object-oriented languages, classes are application components that hold executable code and data. Compiled Java classes are distributed in a universal binary format that contains Java bytecode and other class information.
+  - Java class can be maintained discretly and stored in files or archives locally or on a network server.
+  - Java classes are located and loaded dynamically at runtime as they are needed by an application.
 ### Closure
 ### Cluster
 A group of servers that stores your data
@@ -114,6 +132,18 @@ A group of servers that stores your data
 - E.g. local cable or telephone companies, corporate ISPs, university ISPs. Some ISPs can provide WiFi access in airports, hotels, coffee shops, and other public places, and cellular data ISPs, providing mobile access to our smartphones and other public places.
 - Each ISP is in itself a network of packet switched and communication links.
 ### Internet standards
+## J
+### Java
+- Java is both a compiled and an interpreted language. Java source code is turned into simple binary instructions, much like ordinary microprocessor machine code.
+  - See virtual machine
+- The fundamental unit of Java code is the *class*
+### Java interperter
+### Java native methods
+- In addition to the platform-specific runtime system, Java has a number of fundamental classes that contain architecture-depenedent methods. These *native methods* serve as the gateway between the Java virtual machine and the real world. They are implemented in a natively compiled language on the host platform and provide low-level access to resources such as the network, the windowing system, and the host filesystem.
+### Java runtime
+### Java virtual machine
+- (java)Whereas ```C``` or ```C++``` source is reduced to native instructions for a particular model of processor, Java source is compiled into a universal format---instructions for a *virtual machine*
+
 ## M
 ### Methods
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
@@ -185,7 +215,7 @@ A cluster where each server stores the same data
 ### Requests for comments(RFCs)
 ### Routing
 **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on). [\[express.js\]](https://expressjs.com/en/starter/basic-routing.html)
-
+### Runtime system
 ### RxJS
 ## S
 ### Scope
@@ -223,12 +253,13 @@ The term **Web service(WS)** is either:
 - Voice over Internet Protocol, also called IP telephony, is a method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks, such as the Internet.
 ### Vue
 - Vue is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
-
-## W
-### Watcher
+### Vue watcher
 - (Vue.js)?
   - Watch updates the DOM only if it's required-performing calcualtions in JS is really performant but accessing the DOM is not. So we have a Virtual DOM which is like a copy, but parsed in JavaScript
   - Good for asynchronous updates, and updates/transitions with data changes
+## W
+
+### Windowing system
 # Translation EN-CH
 ## A
 - Accordion - 折叠面板

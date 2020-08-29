@@ -27,6 +27,7 @@
   - [DSL](#dsl)
   - [DSLAM](#dslam)
   - [DSL modem](#dsl-modem)
+  - [Dynamic programming](#dynamic-programming)
   - [Dynamic sets](#dynamic-sets)
 - [E](#e)
   - [Efficiency](#efficiency)
@@ -50,6 +51,7 @@
   - [Load factor](#load-factor)
 - [M](#m)
   - [MAC address](#mac-address)
+  - [Memoization](#memoization)
   - [Modifying operations](#modifying-operations)
 - [N](#n)
   - [Network core](#network-core)
@@ -135,6 +137,7 @@
 
 ## DSLAM
 ## DSL modem
+## Dynamic programming
 ## Dynamic sets
 - Sets are as fundamental to computer science as they are to mathematics. Whereas mathematical sets are unchanging, the sets manipulated by algorithms can grow, shrink, or otherwise change over time. We call such sets **dynamic**.
 
@@ -180,6 +183,9 @@ In the context of hardware and software systems, **formal verification** is the 
 - (Hash algorithm) Load factor = $\frac{Total\,\, number\, of\, items\, stored}{Size\,of\,the\,array}$
 # M
 ## MAC address
+## Memoization
+- In computing, **memoization** or memoisation is an optimization technique  used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again.
+- [wiki](https://en.wikipedia.org/wiki/Memoization#:~:text=In%20computing%2C%20memoization%20or%20memoisation,the%20same%20inputs%20occur%20again.)
 ## Modifying operations
 - Operations on a dynamic set can be grouped into two categories: **queries**, which simply return information about the set, an 
 - Typical modifying operations

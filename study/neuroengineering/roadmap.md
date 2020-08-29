@@ -15,7 +15,7 @@
 ### Related technical difficulties
 ### Events
 - [Elon Musk's ENTIRE live Neuralink demonstration](https://www.youtube.com/watch?v=iOWFXqT5MZ4)
-
+  - LINK V0.9
 ## Peripheral resource
 ### Human behavioral biology
 - [1. Introduction to Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)

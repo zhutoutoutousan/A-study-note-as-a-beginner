@@ -13,6 +13,7 @@
     - [Capitalism](#capitalism)
     - [Capital input](#capital-input)
     - [Censorship](#censorship)
+    - [Conspiracy theory](#conspiracy-theory)
     - [Cross-cutting](#cross-cutting)
     - [Communism](#communism)
     - [Confirmation bias](#confirmation-bias)
@@ -108,6 +109,7 @@
 ### Capitalism
 ### Capital input
 ### Censorship
+### Conspiracy theory
 ### Cross-cutting
 
 ### Communism

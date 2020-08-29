@@ -7,6 +7,7 @@
 - [Mind palace](#mind-palace)
   - [Minding Class-Object model](#minding-class-object-model)
 - [Coding practice](#coding-practice)
+  - [JavaScript](#javascript)
   - [The BIG PICTURE](#the-big-picture)
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
@@ -71,6 +72,18 @@ Is it so? Is this line of thinking wrong?
 ## Minding Class-Object model 
 
 # Coding practice
+## JavaScript
+- For formatting long backtick strings, switching line in JavaScript code doesn't affect the string.
+```javascript
+// Just make a function 
+function humanReadable(seconds) {
+  return `${Math.floor(seconds / 3600) >= 10 ? 
+            Math.floor(seconds / 3600) : '0'+Math.floor(seconds / 3600) }:${Math.floor(seconds % 3600 / 60) >= 10 ?
+            Math.floor(seconds % 3600 / 60) : '0'+ Math.floor(seconds % 3600 / 60) }:${seconds % 3600 % 60 >= 10 ?
+            seconds % 3600 % 60 : '0'+seconds % 3600 % 60}`;
+}
+
+```
 ## The BIG PICTURE
 [国内低代码平台从业者交流](https://github.com/taowen/awesome-lowcode)
 ## Troubleshooting

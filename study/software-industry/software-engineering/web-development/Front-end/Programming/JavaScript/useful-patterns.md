@@ -102,9 +102,12 @@ console.log(Object.is(worldWonders, dwarves)); // true  pointing at the same val
 
 **```splice```**
 ```javascript
-const removeElement = (index) => {
-  
+const removeElementByIndex = (arr, index) => {
+    return arr.splice(index, 1);
 }
+
+let a = [2,3,2,1,2,5]
+console.log(removeElementByIndex(a, 3))
 ```
 
 # Work with series

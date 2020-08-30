@@ -58,6 +58,7 @@
     - [``` Array.prototype.splice()```](#-arrayprototypesplice)
       - [Mental model](#mental-model-5)
     - [``` Array.prototype.forEach()```](#-arrayprototypeforeach)
+      - [```forEach``` parallel execution](#foreach-parallel-execution)
       - [Mental model](#mental-model-6)
     - [``` Array.prototype.findIndex()```](#-arrayprototypefindindex)
     - [``` Array.prototype.concat()```](#-arrayprototypeconcat)
@@ -216,6 +217,43 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ### ``` Array.prototype.forEach()```
 - ```forEach()``` does not mutate the array on whic hit is called, however, *callback* may do so. 
   - Is it operating using the ```array``` argument?
+- ```forEach()``` is executed in parallel manner, consider the code segment below
+
+#### ```forEach``` parallel execution
+```javascript
+// ---------------------------------------------------
+// Desired effect: Output every 1 second.
+const list = [1, 2, 3]
+const square = num => {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      resolve(num * num)
+    }, 1000)
+  })
+}
+
+function test() {
+// forEach is called in parallel manner
+// The Web API call stack got three pushes executively, waiting for 1s then execute the console.log command.
+  list.forEach(async x => {
+    const res = await square(x)
+    console.log(res)
+  })
+}
+test()  
+// ---------------------------------------------------
+
+// Fix: Series
+async function test() {
+  // for loop is executed in serial manner.
+  for (let i = 0; i < list.length; i++ ) {
+    let x = list[i]
+    const res = await square(x)
+    console.log(res)
+  }
+}
+```
+
 #### Mental model
 ### ``` Array.prototype.findIndex()```
 ### ``` Array.prototype.concat()```

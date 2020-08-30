@@ -18,6 +18,10 @@
 - [Replace/Remove series](#replaceremove-series)
   - [Replace strings](#replace-strings)
   - [Remove part of string elements](#remove-part-of-string-elements)
+- [Append series](#append-series)
+- [Remove series](#remove-series)
+  - [Remove Array](#remove-array)
+    - [Array element](#array-element)
 - [Work with series](#work-with-series)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
@@ -89,6 +93,19 @@ console.log(Object.is(worldWonders, dwarves)); // true  pointing at the same val
 ## Remove part of string elements
 - [Why string.replace() not working for string which contains parentheses?](https://stackoverflow.com/questions/50619137/why-string-replace-not-working-for-string-which-contains-parentheses/50619227)
 
+# Append series
+
+# Remove series
+## Remove Array
+### Array element
+- [9 Ways to Remove Elements From A JavaScript Array - Plus How to Safely Clear JavaScript Arrays](https://love2dev.com/blog/javascript-remove-from-array/#:~:text=You%20can%20remove%20elements%20from,way%20to%20remove%20unwanted%20elements.)
+
+**```splice```**
+```javascript
+const removeElement = (index) => {
+  
+}
+```
 
 # Work with series
 ## Work with **immutable** objects

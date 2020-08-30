@@ -44,6 +44,7 @@
     - [Linear system](#linear-system)
     - [Linear transformation](#linear-transformation)
   - [P](#p)
+    - [Permutation](#permutation)
     - [Point reflection](#point-reflection)
     - [Positive energy theorem](#positive-energy-theorem)
     - [Positive integer](#positive-integer)
@@ -202,6 +203,7 @@ $$
 
 ### Linear transformation
 ## P
+### Permutation
 ### Point reflection
 ### Positive energy theorem
 - [wiki](https://en.wikipedia.org/wiki/Positive_energy_theorem)

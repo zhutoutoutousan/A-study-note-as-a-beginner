@@ -3,13 +3,16 @@
 - [Alphabetical](#alphabetical)
   - [A](#a)
     - [Abstraction](#abstraction)
+    - [Accordion 折叠面板](#accordion-折叠面板)
   - [B](#b)
+    - [Block element 块级元素](#block-element-块级元素)
     - [Boostrap](#boostrap)
   - [C](#c)
+    - [Carousel 轮播图](#carousel-轮播图)
     - [Command line argument](#command-line-argument)
     - [Computed](#computed)
     - [Class](#class)
-    - [Closure](#closure)
+    - [Closure 闭包](#closure-闭包)
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
@@ -19,6 +22,9 @@
   - [E](#e)
     - [Encapsulation](#encapsulation)
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
+  - [F](#f)
+    - [```flex-grow``` 增长比例](#flex-grow-增长比例)
+    - [```flex-shrink``` 回缩比例](#flex-shrink-回缩比例)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [I](#i)
@@ -27,6 +33,8 @@
     - [IIFE](#iife)
     - [Internet Engineering Task Force(IETF)](#internet-engineering-task-forceietf)
     - [Inheritance](#inheritance)
+    - [Injection 注入](#injection-注入)
+    - [Inline element 内联元素](#inline-element-内联元素)
     - [Internet Service Providers(ISPs)](#internet-service-providersisps)
     - [Internet standards](#internet-standards)
   - [J](#j)
@@ -46,6 +54,7 @@
     - [JFC](#jfc)
     - [JRE](#jre)
   - [M](#m)
+    - [```main size```](#main-size)
     - [Methods](#methods)
     - [MVC](#mvc)
   - [N](#n)
@@ -71,13 +80,14 @@
     - [RxJS](#rxjs)
   - [S](#s)
     - [Scalability](#scalability)
-    - [Scope](#scope)
+    - [Scope 作用域](#scope-作用域)
     - [Service](#service)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [Stream](#stream)
   - [T](#t)
-    - [TDZ](#tdz)
+    - [TDZ 暂时死区](#tdz-暂时死区)
+    - [Template engine 模板引擎](#template-engine-模板引擎)
     - [Traditional Gtk](#traditional-gtk)
     - [Transmission rate](#transmission-rate)
     - [Transportability](#transportability)
@@ -94,23 +104,18 @@
     - [Vue watcher](#vue-watcher)
   - [W](#w)
     - [Windowing system](#windowing-system)
-- [Translation EN-CH](#translation-en-ch)
-  - [A](#a-1)
-  - [C](#c-1)
-  - [S](#s-1)
-  - [T](#t-1)
-- [中英对照词汇 CH-EN](#中英对照词汇-ch-en)
-  - [前端开发](#前端开发)
-  - [计算机科学](#计算机科学)
-  - [嵌入式系统](#嵌入式系统)
+- [Uncategorized temp](#uncategorized-temp)
 # Alphabetical
 ## A
 ### Abstraction
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
+### Accordion 折叠面板
 ## B
+### Block element 块级元素
 ### Boostrap
 
 ## C
+### Carousel 轮播图
 ### Command line argument
 ### Computed
 - (Vue.js)
@@ -120,7 +125,7 @@
   - As in other object-oriented languages, classes are application components that hold executable code and data. Compiled Java classes are distributed in a universal binary format that contains Java bytecode and other class information.
   - Java class can be maintained discretly and stored in files or archives locally or on a network server.
   - Java classes are located and loaded dynamically at runtime as they are needed by an application.
-### Closure
+### Closure 闭包
 ### Cluster
 A group of servers that stores your data
 ### Code bundler
@@ -137,6 +142,10 @@ A group of servers that stores your data
 - (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
   - [What is the 'Execution Context' in JavaScript exactly?](https://stackoverflow.com/questions/9384758/what-is-the-execution-context-in-javascript-exactly#:~:text=Execution%20context%20is%20a%20concept,value%20of%20the%20this%20object.)
   - [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
+
+## F
+### ```flex-grow``` 增长比例
+### ```flex-shrink``` 回缩比例
 ## G
 ### Gtk APP
 
@@ -149,6 +158,8 @@ A group of servers that stores your data
   - An immediately invoked function expression is a JavaScript programming language idiom which produces a lexical scope using JavaScript's function scoping.
 ### Internet Engineering Task Force(IETF)
 ### Inheritance
+### Injection 注入
+### Inline element 内联元素
 ### Internet Service Providers(ISPs)
 - E.g. local cable or telephone companies, corporate ISPs, university ISPs. Some ISPs can provide WiFi access in airports, hotels, coffee shops, and other public places, and cellular data ISPs, providing mobile access to our smartphones and other public places.
 - Each ISP is in itself a network of packet switched and communication links.
@@ -194,6 +205,8 @@ A group of servers that stores your data
   - Project specific JRE
   
 ## M
+### ```main size```
+- (front-end)     主轴空间
 ### Methods
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
 - You can use arrow functions within the method, but the method cannot be an arrow function
@@ -271,7 +284,7 @@ A cluster where each server stores the same data
 ### RxJS
 ## S
 ### Scalability
-### Scope
+### Scope 作用域
 ### Service
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
@@ -285,7 +298,8 @@ The term **Web service(WS)** is either:
 ### Stream
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ## T
-### TDZ
+### TDZ 暂时死区
+### Template engine 模板引擎
 ### Traditional Gtk
 - Traditional Gtk App means, it cannot be Firefox, Libreoffice, which only use Gtk as a UI style
 ### Transmission rate
@@ -312,25 +326,8 @@ The term **Web service(WS)** is either:
   - Watch updates the DOM only if it's required-performing calcualtions in JS is really performant but accessing the DOM is not. So we have a Virtual DOM which is like a copy, but parsed in JavaScript
   - Good for asynchronous updates, and updates/transitions with data changes
 ## W
-
 ### Windowing system
-# Translation EN-CH
-## A
-- Accordion - 折叠面板
-## C
-- Closure - 闭包
-## S
-- Scope - 作用域
-## T
-- TDZ - 暂时死区
-- Template engine - 模板引擎
 
-# 中英对照词汇 CH-EN
-- 不用，直接与英文合并
-## 前端开发
--  注入 - Injection
--  轮播图 - carousel
--  内联元素 - inline element
--  块级元素 - block element
-## 计算机科学
-## 嵌入式系统
+# Uncategorized temp
+- 子项合计宽度
+- 容器宽度

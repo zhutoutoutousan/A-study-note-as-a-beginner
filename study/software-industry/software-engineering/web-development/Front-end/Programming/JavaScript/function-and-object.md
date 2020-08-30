@@ -222,7 +222,7 @@ let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 #### ```forEach``` parallel execution
 ```javascript
 // ---------------------------------------------------
-// Desired effect: Output every 1 second.
+// Desired effect: Output every 1 second. Don't change the square method.
 const list = [1, 2, 3]
 const square = num => {
   return new Promise((resolve, reject) => {

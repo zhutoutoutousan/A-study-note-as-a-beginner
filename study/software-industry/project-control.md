@@ -204,16 +204,6 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Items 
 
 - Site
-  - [ ] E-commerce
-    - [freecodecamp - tutorial](https://www.youtube.com/watch?v=023Psne_-_4)
-      - Progress: 4:36/4hrs
-      - Dependencies:
-        - Admin: Contentful
-        - Hosting server: Netlify
-      - Changes:
-        - Font: Same style, but using 
-      - Resource
-        - GitHub: john-smilga --> setup-files-js-comfy-house (4:36)
 - Components
   - [x] Accordian
   - Autocomplete

@@ -5,7 +5,6 @@
     - [Abstraction](#abstraction)
   - [B](#b)
     - [Boostrap](#boostrap)
-    - [Bytecode](#bytecode)
   - [C](#c)
     - [Command line argument](#command-line-argument)
     - [Computed](#computed)
@@ -33,15 +32,18 @@
   - [J](#j)
     - [Java](#java)
     - [Java build tools](#java-build-tools)
+    - [Java Bytecode](#java-bytecode)
     - [Java data type](#java-data-type)
+    - [Java inheritance](#java-inheritance)
     - [Java interperter](#java-interperter)
     - [Java method](#java-method)
     - [Java native methods](#java-native-methods)
-    - [Java reference](#java-reference)
+    - [Java object reference](#java-object-reference)
     - [Java runtime](#java-runtime)
     - [Java virtual machine](#java-virtual-machine)
     - [JDK](#jdk)
     - [JIT](#jit)
+    - [JFC](#jfc)
     - [JRE](#jre)
   - [M](#m)
     - [Methods](#methods)
@@ -107,8 +109,7 @@
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
 ## B
 ### Boostrap
-### Bytecode
-- (java)Compiled Java *bytecode* is executed by a Java runtime interpreter.
+
 ## C
 ### Command line argument
 ### Computed
@@ -161,15 +162,18 @@ A group of servers that stores your data
 ### Java build tools
 - Examples
   - Maven
-
+### Java Bytecode
+- (java)Compiled Java *bytecode* is executed by a Java runtime interpreter.
 ### Java data type
 - In Java, every class defines a new *data type* 
+
+### Java inheritance
 ### Java interperter
 ### Java method
 - See ```java``` section
 ### Java native methods
 - In addition to the platform-specific runtime system, Java has a number of fundamental classes that contain architecture-depenedent methods. These *native methods* serve as the gateway between the Java virtual machine and the real world. They are implemented in a natively compiled language on the host platform and provide low-level access to resources such as the network, the windowing system, and the host filesystem.
-### Java reference
+### Java object reference
 - A *reference* is a pointer to or a handle for an object.
 - If you declare a class-type variable without assigning it an object, it doens't point to anything. It's assigned the default value of ```null```, meaning 'no value'. If you try to use a variable with a null value as if it were poingting to a real object, a runtime error, ```NullPointerException```, occurs.
 ### Java runtime
@@ -181,6 +185,7 @@ A group of servers that stores your data
 ### JIT
 - JIT: just-in-time or dynamic compilation
   - Java has been carefully designed so that software implementations of the runtime system can further optimize their performance by compiling bytecode to native machine code on the fly.
+### JFC
 ### JRE
 - JRE: Java Runtime Environment
 - Examples

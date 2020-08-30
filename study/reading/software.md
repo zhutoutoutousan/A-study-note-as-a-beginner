@@ -39,7 +39,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
 ## Java
 - Motivations
-- Learning Java by Niemeyer Patrick and Leuck Danial: 64/1010
+- Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
   - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
     - Pretty slow to load
   - Process 1:

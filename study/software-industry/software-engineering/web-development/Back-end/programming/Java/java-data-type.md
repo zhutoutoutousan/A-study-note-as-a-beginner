@@ -1,4 +1,0 @@
-# Class
-## Method
-### ```main()```
-## Variable

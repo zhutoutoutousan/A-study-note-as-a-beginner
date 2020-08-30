@@ -33,8 +33,11 @@
   - [J](#j)
     - [Java](#java)
     - [Java build tools](#java-build-tools)
+    - [Java data type](#java-data-type)
     - [Java interperter](#java-interperter)
+    - [Java method](#java-method)
     - [Java native methods](#java-native-methods)
+    - [Java reference](#java-reference)
     - [Java runtime](#java-runtime)
     - [Java virtual machine](#java-virtual-machine)
     - [JDK](#jdk)
@@ -156,10 +159,19 @@ A group of servers that stores your data
 - The fundamental unit of Java code is the *class*
 
 ### Java build tools
-- Maven
+- Examples
+  - Maven
+
+### Java data type
+- In Java, every class defines a new *data type* 
 ### Java interperter
+### Java method
+- See ```java``` section
 ### Java native methods
 - In addition to the platform-specific runtime system, Java has a number of fundamental classes that contain architecture-depenedent methods. These *native methods* serve as the gateway between the Java virtual machine and the real world. They are implemented in a natively compiled language on the host platform and provide low-level access to resources such as the network, the windowing system, and the host filesystem.
+### Java reference
+- A *reference* is a pointer to or a handle for an object.
+- If you declare a class-type variable without assigning it an object, it doens't point to anything. It's assigned the default value of ```null```, meaning 'no value'. If you try to use a variable with a null value as if it were poingting to a real object, a runtime error, ```NullPointerException```, occurs.
 ### Java runtime
 ### Java virtual machine
 - (java)Whereas ```C``` or ```C++``` source is reduced to native instructions for a particular model of processor, Java source is compiled into a universal format---instructions for a *virtual machine*

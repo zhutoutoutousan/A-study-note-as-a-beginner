@@ -29,6 +29,7 @@ Complete course:
 # Data Structure and Algorithms
 ## Visualization
 - [Data Structure Visualizations - CS USFCA](https://www.cs.usfca.edu/~galles/visualization/)
+- [Github - algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 - [visualgo](https://visualgo.net/en)
 - [algomation](http://www.algomation.com/)
 ## Implementation Training

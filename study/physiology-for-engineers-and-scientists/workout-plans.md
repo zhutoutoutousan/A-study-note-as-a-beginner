@@ -32,7 +32,7 @@
 
 # TODO
 - Fill in the gaps
-
+  - Dude, seriously, plz fill in the pre-rehersed workout plans for 'I just worked 8 hours and I don't want the workout to reduce my academic/tech performance', 'I don't want to do the compound lift but still want to train these parts, what do you suggest?(It needs to be smark ;p)
 # Arsenal
 ## Leg
 ### Hypertrophy

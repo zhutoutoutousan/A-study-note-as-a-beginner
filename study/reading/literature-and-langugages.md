@@ -16,3 +16,7 @@
   - Learn Greek typewriting first to unlock fast customized local note taking system
 - Beginner's guide to Arabic
   - [Link1](https://www.learnarabiconline.com/Beginners_Guide_To_Arabic.pdf)
+
+# Linguistics
+- Introduction to Linguistics --- Marcus Kracht, UCLA
+    - [link1](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)

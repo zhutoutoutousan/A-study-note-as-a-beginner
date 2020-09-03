@@ -14,6 +14,7 @@
     - [CSS](#css-1)
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
     - [Code style](#code-style)
     - [Software testing](#software-testing)
     - [Reference](#reference)
@@ -116,6 +117,10 @@
 - Tutorials
   - [JavaScript tutorial](https://github.com/javascript-tutorial)
 - [Object-Playground](http://www.objectplayground.com/)
+
+### TypeScript
+- Learn from projects that you are interested in, then look up in the official documents
+  - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
 ### Code style
 - Uncle Bob
 

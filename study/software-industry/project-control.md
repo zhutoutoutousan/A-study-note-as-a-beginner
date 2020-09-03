@@ -91,6 +91,7 @@
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
     - [Functionality](#functionality-4)
+  - [Reference](#reference)
 
 # Priority-project control
 ## In two months
@@ -407,4 +408,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Can explore other people's world if you got the access
 - 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
-  - With BCI interface directly interacting with the brain.
+  - With BCI interface directly interacting with the br
+
+## Reference
+- [xmind-viewer](https://github.com/xmindltd/xmind-viewer)

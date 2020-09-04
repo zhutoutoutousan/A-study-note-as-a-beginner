@@ -4,11 +4,14 @@
   - [A](#a)
     - [Aion](#aion)
     - [Altruism](#altruism)
+    - [âme](#âme)
     - [Apposite](#apposite)
     - [Archetype](#archetype)
     - [Ascribe](#ascribe)
     - [Assent](#assent)
+    - [Ausdruck](#ausdruck)
   - [B](#b)
+    - [Bewußtsein](#bewußtsein)
     - [Bias](#bias)
   - [C](#c)
     - [Collusion](#collusion)
@@ -18,20 +21,26 @@
     - [Corollary](#corollary)
     - [Culture](#culture)
   - [D](#d)
+    - [Décrire](#décrire)
     - [Defense mechanism](#defense-mechanism)
+    - [Denkinhalt](#denkinhalt)
+    - [Denktätigkeit](#denktätigkeit)
     - [Disquiet](#disquiet)
     - [Disquieting](#disquieting)
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
+    - [d.h.](#dh)
     - [Doublespeak](#doublespeak)
   - [E](#e)
     - [Engorge](#engorge)
     - [Epoch](#epoch)
+    - [Erforschung](#erforschung)
     - [Exemplary](#exemplary)
   - [F](#f)
     - [Fallacy](#fallacy)
     - [Falsism](#falsism)
     - [Feign](#feign)
+    - [Foules](#foules)
   - [G](#g)
     - [Group pressure](#group-pressure)
   - [H](#h)
@@ -57,6 +66,7 @@
     - [Repudiate](#repudiate)
     - [Rigidity](#rigidity)
   - [S](#s)
+    - [Sinneswahrnehmung](#sinneswahrnehmung)
     - [Social conformity](#social-conformity)
     - [Social force](#social-force)
     - [Social-psychology(ical)](#social-psychologyical)
@@ -65,11 +75,16 @@
     - [Startle](#startle)
     - [Staunch](#staunch)
   - [T](#t)
+    - [Table des matières](#table-des-matières)
     - [Tentative](#tentative)
     - [Tribalism](#tribalism)
     - [Truism](#truism)
   - [U](#u)
     - [Uneventful](#uneventful)
+  - [V](#v)
+    - [Vorgang](#vorgang)
+    - [Vorliegend](#vorliegend)
+    - [Vorstellung](#vorstellung)
   - [W](#w)
     - [watery](#watery)
 # Alphabetical
@@ -78,13 +93,18 @@
 ### Altruism
 - the belief in or practice of disinterested and selfless concern for the well-being of others.
 - [wiki](https://en.wikipedia.org/wiki/Altruism)
-
+### âme
+- (French) (n.f)灵魂
+  - 首领，中心人物
 ### Apposite
 ### Archetype
 ### Ascribe
 ### Assent
-
+### Ausdruck
+- (German) m. Expression
 ## B
+### Bewußtsein
+- (German) n.  Consciousness 
 ### Bias
 
 ## C
@@ -103,8 +123,15 @@
 - [wiki](https://en.wikipedia.org/wiki/Corollary)
 ### Culture
 ## D
-
+### Décrire
+- (French) Describe
 ### Defense mechanism
+### Denkinhalt
+- (German) \[der\] 
+  - \[哲\]思维内容
+### Denktätigkeit
+- (German) f. 
+  - 思维活动
 ### Disquiet
 - (noun)a feeling of anxiety or worry
 
@@ -113,12 +140,18 @@
 ### Dissent
 - (verb)hold or express opinions that are at variance with those previously, commonly, or officially expressed.
 ### Dissenter
+### d.h.
+- (German) Das heisst
+  - i.e.
 ### Doublespeak
 ## E
 ### Engorge
 - cause to swell with blood, water, or another fluid.
 ### Epoch
 - --> Epic
+
+### Erforschung
+- (German) Research
 ### Exemplary
 - (adj)serving as a desirable model; representing the best of its kind.
 ## F
@@ -129,6 +162,8 @@
 -  An example is "pigs can fly". It is the opposite of a truism. A falsism is similar to, though not the same as, a fallacy.
 ### Feign
 - (verb)pretend to be affected by(a feeling, state, or injury)
+### Foules
+- (french)
 ## G
 ### Group pressure
 ## H
@@ -169,6 +204,8 @@
 ### Rigidity
 - In psychology, rigidity or mental rigidity refers to an obstinate inability to yield or a refusal to appreciate another person's viewpoint or emotions characterized by a lack of empathy.
 ## S
+### Sinneswahrnehmung
+- (German)  \[die\]sensory perception
 ### Social conformity
 ### Social force
 ### Social-psychology(ical)
@@ -179,6 +216,9 @@
 ### Staunch
 - (adj)loyal and committed in attitude.
 ## T
+### Table des matières
+- (french)la ~
+  - Table of contents
 ### Tentative
 - (adj)not certain or fixed; provisional.
   - done without confidence; hesitant.
@@ -190,6 +230,14 @@
 ## U
 ### Uneventful
 - Useful to describe experiements
+
+## V
+### Vorgang
+- (German) m. Process
+### Vorliegend
+- (German)adj. 当前的，手头的
+### Vorstellung
+- (German) \[die\] 表象
 
 ## W
 ### watery

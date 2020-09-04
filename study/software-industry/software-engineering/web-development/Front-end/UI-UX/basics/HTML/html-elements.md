@@ -68,6 +68,7 @@
     - [script type](#script-type)
       - [text/javascript](#textjavascript)
       - [text/babel](#textbabel)
+      - [text/x-template](#textx-template)
 - [Obsolete and deprecated elements](#obsolete-and-deprecated-elements)
 - [**Which element for which scenario?**](#which-element-for-which-scenario)
 - [Resource](#resource)
@@ -183,6 +184,8 @@ Importance for accessibilitiy purposes:
 ### script type
 #### text/javascript
 #### text/babel
+#### text/x-template
+- Vue.js
 # Obsolete and deprecated elements
 
 

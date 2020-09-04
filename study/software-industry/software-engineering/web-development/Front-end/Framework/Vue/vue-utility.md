@@ -55,6 +55,9 @@
     - [Format](#format)
     - [Usage](#usage)
 - [Teamplates and components](#teamplates-and-components)
+  - [Heads-ups](#heads-ups-1)
+  - [Vue templates](#vue-templates)
+  - [Vue components](#vue-components)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
@@ -430,6 +433,7 @@ new Vue({
 - Props pass data down from the parent to the child
 - Always in forms of an array of strings
 - Intended for one way communication
+- To dynamically bind props to data on the parents, use ```v-bind``` or ```:```
 
 ### Heads ups
 - Objects and arrays need their defaults to be returend from a function:
@@ -442,6 +446,14 @@ props: {
     }
   }
 }
+```
+- Casing switch
+```javascript
+props: ['booleanValue'] // camelCasing
+```
+
+```html
+<checkbox :boolean-value="booleanValue"></checkbox>   <!-- kebab-case -->
 ```
 ### Format
 ```javascript
@@ -486,7 +498,13 @@ new Vue({
 
 
 # Teamplates and components
+## Heads-ups
+- { Each component instance has its own isolated scope }
+  - Data must be a function
 
+## Vue templates
+- Vue template use querySelector, i.e. You can use ```template: '#element-id'```
+## Vue components
 # Vue-CLI
 
 # Vue-router

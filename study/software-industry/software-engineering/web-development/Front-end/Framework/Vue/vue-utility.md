@@ -50,6 +50,10 @@
   - [Computed](#computed)
   - [Created](#created)
   - [Watcher](#watcher)
+  - [Props](#props)
+    - [Heads ups](#heads-ups)
+    - [Format](#format)
+    - [Usage](#usage)
 - [Teamplates and components](#teamplates-and-components)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
@@ -421,6 +425,66 @@ new Vue({
 });
 
 ```
+
+## Props
+- Props pass data down from the parent to the child
+- Always in forms of an array of strings
+- Intended for one way communication
+
+### Heads ups
+- Objects and arrays need their defaults to be returend from a function:
+```javascript
+props: {
+  randomProp: {
+    type: Object,
+    default: function() {
+      return { message: 'hello' }
+    }
+  }
+}
+```
+### Format
+```javascript
+props: {
+  text: [String, Number]
+}
+
+props: {
+  text: {
+    type: String,
+    required: true,
+    default: 'asdadjk'
+  }
+}
+```
+### Usage
+
+```html
+<div id="app">
+  <child :text="message"></child>
+  <child :text="otherMessage"></child>
+</div>
+
+```
+
+```javascript
+Vue.component('child', {
+  props: ['text'],
+  template: `<div>{{ text }}</div>`
+});
+
+new Vue({
+  el: "#app",
+  data() {
+    return {
+      message: 'hello u pis of shit',
+      otherMessage: 'hey'
+    }
+  }
+})
+```
+
+
 # Teamplates and components
 
 # Vue-CLI

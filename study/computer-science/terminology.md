@@ -95,7 +95,8 @@
 - **Alpha-beta pruning** is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
 - [wiki](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=12s)
-
+- Q: 
+  - What's its difference between memoization
 ## AON
 - Active Optical Networks
 - Household network --> Splitting service --> AON

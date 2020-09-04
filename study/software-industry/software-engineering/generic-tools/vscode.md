@@ -91,6 +91,7 @@ Q: What about /* */?
 # Tools
 ## Command palette
 ## Extensions
+- Toggle Extension side bar: Ctrl+Shift+X
 ### JavaScript
 ### Template engine
 ### Front-end frameworks

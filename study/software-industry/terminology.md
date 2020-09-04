@@ -17,6 +17,7 @@
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
   - [D](#d)
+    - [Data type](#data-type)
     - [Decoupled backend-frontend 前后端分离](#decoupled-backend-frontend-前后端分离)
     - [Devious](#devious)
     - [Discord](#discord)
@@ -135,6 +136,10 @@ A group of servers that stores your data
 ### Communication links
 
 ## D
+### Data type 
+- (javascript)
+  - CH: 基本类型
+  - Categories: ```null```, ```undefined```, ```boolean```, ```number```, ```string```, ```symbol```
 ### Decoupled backend-frontend 前后端分离
 - [你不得不了解的前后端分离原理！](https://juejin.im/post/6844903655850639368)
 - [前后端分离技术体系](https://www.infoq.cn/article/mNfTT4UBk5PQl3JpNt6M)

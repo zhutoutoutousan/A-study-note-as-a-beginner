@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Suggestions](#suggestions)
 - [Postitioning](#postitioning)
   - [Individualistic positioning](#individualistic-positioning)
   - [Centering](#centering)
@@ -65,6 +66,9 @@
   - [Mouse](#mouse)
     - [Determine mouse-in position](#determine-mouse-in-position)
   - [Keyboard](#keyboard)
+
+# Suggestions
+- For more detailed styling, a link to the subject that is available to 
 
 # Postitioning
 ## Individualistic positioning

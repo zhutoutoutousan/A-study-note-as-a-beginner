@@ -54,10 +54,14 @@
     - [Heads ups](#heads-ups)
     - [Format](#format)
     - [Usage](#usage)
+- [$ Methods](#-methods)
+  - [```$emit```](#emit)
 - [Teamplates and components](#teamplates-and-components)
   - [Heads-ups](#heads-ups-1)
   - [Vue templates](#vue-templates)
   - [Vue components](#vue-components)
+    - [Local component](#local-component)
+    - [Global component](#global-component)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
@@ -66,6 +70,7 @@
   - [---](#hr)
     - [```<Root>```](#root)
 - [Troubleshoot](#troubleshoot)
+  - [[Vue warn]: Avoid mutating a prop directly since...](#vue-warn-avoid-mutating-a-prop-directly-since)
   - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
   - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
 - [Extensive resource](#extensive-resource)
@@ -496,6 +501,8 @@ new Vue({
 })
 ```
 
+# $ Methods
+## ```$emit```
 
 # Teamplates and components
 ## Heads-ups
@@ -505,6 +512,10 @@ new Vue({
 ## Vue templates
 - Vue template use querySelector, i.e. You can use ```template: '#element-id'```
 ## Vue components
+### Local component
+- RTFM
+### Global component
+- RTFM
 # Vue-CLI
 
 # Vue-router
@@ -517,6 +528,42 @@ new Vue({
 ### ```<Root>```
 
 # Troubleshoot
+## [Vue warn]: Avoid mutating a prop directly since...
+- Props data flow are always from parent to child communication(one way)
+```
+WARN: ... since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value. Prop being mutated: "..." found in ....
+```
+
+```javascript
+// Before:
+  // <Root>: "asda"
+  // <Child>: "asda"
+// After:
+  // <Root>: "asda"
+  // <Child>: "asdasdlkjlkajg"
+
+Vue.component('child', {
+  props: ['text'],
+  template: '#child',
+  methods: {
+    talkToMe() {
+      this.text = 'asdasdlkjlkajg'
+    }
+  }
+})
+
+```
+
+```html
+<!-- FIX -->
+
+```
+
+
+```javascript
+// fix
+
+```
 ## Uncaught TypeError: Vue.createApp is not a function
 ```javascript
 // This is vue-next syntax, use vue-next instead of older versions

@@ -50,6 +50,8 @@ Used for hiding implementation details
 ### Null
 Used for intentionally missing values
 ### Number
+- See IEEE 754
+  - [IEEE 754](https://www.geeksforgeeks.org/ieee-standard-754-floating-point-numbers/)
 #### ```Number.prototype```
 ##### ```Number.prototype.toString()```
 #### Troubleshooting

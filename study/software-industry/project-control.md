@@ -228,11 +228,13 @@ xxxxxxx...August-----------------------September--------------------------->|
 # Chess game
 ## Time control
 ### 10/40
-- Read and rewrite the AI
-- P5.js
-  - [Study this repo](https://codepen.io/tuppercode/pen/vxKqwg)
+- [x] Read and rewrite the AI
 ### 20/40
-- Learn from reference and build the Hikaru server
+- Use ```console.log``` to debug
+- Learn Heroku
+- Review Minimax function with alpha-beta pruning
+- Study some P5.js
+  - [Study this repo](https://codepen.io/tuppercode/pen/vxKqwg)
 ### 30/40
 - Build online gaming
 ### 40/40

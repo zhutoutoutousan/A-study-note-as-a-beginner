@@ -178,7 +178,7 @@
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
-    - Progress track: Watchers 1hr 15:43 + 5min07s/ 5hrs
+    - Progress track: Watchers 1hr 50:13 + 2min31s/ 5hrs
       - [CODEPEN now](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
         - [ref](https://codepen.io/sdras/pen/dRqZOy)
       - You should take a look at the little project in the video ```Methods``` and work on it

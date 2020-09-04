@@ -57,6 +57,8 @@
   - [td](#td)
   - [th](#th)
   - [tr](#tr)
+  - [hr](#hr)
+    - [Usage](#usage)
 - [Image and multimedia](#image-and-multimedia)
   - [img](#img)
   - [video](#video)
@@ -171,6 +173,10 @@ Importance for accessibilitiy purposes:
 ## td
 ## th
 ## tr
+## hr
+### Usage
+- Blog post
+  - [sdras](https://codepen.io/sdras/pen/egEgXb)
 # Image and multimedia
 ## img
 ## video

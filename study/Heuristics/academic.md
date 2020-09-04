@@ -22,6 +22,7 @@
       - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
     - [Psychology](#psychology)
   - [Quotes](#quotes)
+  - [Questions](#questions)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
     - [IELTS](#ielts)
@@ -138,6 +139,36 @@ Four key time stamps to review what I've learned:
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
 - Education is an admirable thing, but it is well to remember from time to time that nothing worth knowing can be taught.  --- Oscar Wilde, *The Critic as Artist*, 1890
+
+## Questions
+- 有些知识不是点，不是面，是流式的，如何对流式的知识，技能，以及神经通路进行记录
+  - 何为流式知识？可否明确定义？
+    - 范例
+  - 依次照相？ Snapshots? Checkpoints? 
+    - 电子游戏的关卡设计与流式知识（数学，编程，手工，厨艺，算法（解决问题），前端UI/UX CSS等）之间能否建立联系？
+  - 流式知识的检查点(checkpoint)设置以及记载方法
+    - 类比：
+      - 钢琴：五线谱
+        - 缺陷
+          - 缺乏voicing
+          - 缺乏演奏者表情，气氛
+          - 等等 
+      - 学习视频
+        - 缺乏大脑内部神经通路建立过程
+- 既然肌肉的训练获得和基因有联系，那么不同人建立不同神经通路的速度是否不同？
+  - How about an article summarizing how genetics affects muscle gains?
+    - Easy gainer VS hard gainer
+    - 既然Jeff Nippard声称不同人采用不同的训练方法可以在一定程度上规避基因缺陷所带来的劣势（非消灭基因缺陷本身）,那么同样的理论是否能由于心智过程？
+  - 如何定义 “不同的神经通路”？
+  - 为何Jordan B. Peterson说21世纪重大心理学课题其中之一为：如何提高IQ？
+  - 参考资料？
+    - Die Intelligenz der Kinder und Jugendlichen und die Methoden ihrer Untersuchung
+      - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
+      - It is said to be the academic source of the first formal research into the human IQ
+      - Process 1(Just familiarize yourself with the big picture)
+        - Progress: 14/367
+          - [ ] Learn the vocabularies of the *Inhaltsverzeichnis*
+      - Process 2(Interest in *Die Verschiedenheiten der Intelligenz* - *Die Entwicklung der Intelligenz*)
 # Standardized Tests
 ## Language
 ### IELTS

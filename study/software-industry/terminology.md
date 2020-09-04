@@ -102,6 +102,7 @@
     - [Virtual DOM](#virtual-dom)
     - [VoIP](#voip)
     - [Vue](#vue)
+    - [Vue templates](#vue-templates)
     - [Vue watcher](#vue-watcher)
   - [W](#w)
     - [Windowing system](#windowing-system)
@@ -325,6 +326,9 @@ The term **Web service(WS)** is either:
 - Voice over Internet Protocol, also called IP telephony, is a method and group of technologies for the delivery of voice communications and multimedia sessions over Internet Protocol networks, such as the Internet.
 ### Vue
 - Vue is a **progressive framework** for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
+
+### Vue templates
+- Vue.js uses HTML-based template syntax to bind the Vue instance to the DOM, very useful for components
 ### Vue watcher
 - (Vue.js)?
   - Watch updates the DOM only if it's required-performing calcualtions in JS is really performant but accessing the DOM is not. So we have a Virtual DOM which is like a copy, but parsed in JavaScript

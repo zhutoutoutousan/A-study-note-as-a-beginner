@@ -50,14 +50,17 @@
   - [Computed](#computed)
   - [Created](#created)
   - [Watcher](#watcher)
+- [Teamplates and components](#teamplates-and-components)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
+  - [Vuex and OOP](#vuex-and-oop)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
 - [Troubleshoot](#troubleshoot)
   - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
+  - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
 - [Extensive resource](#extensive-resource)
 # Vanilla JS vs Vue
 
@@ -68,6 +71,7 @@
 [Vue - guide](https://vuejs.org/v2/guide/)
 
 # Vue instance
+- The vue instance is the middleman between the DOM and the business logic
 ## Simplest example
 ```html
 <div id="NAME">
@@ -385,8 +389,21 @@ new Vue({
 - Each component has a watcher instance
 - The properties touched by the watcher during the render are registered as dependencies
 - When the setter is triggered, it lets the watcher know, and causes the component to re-render
-
+- Good for asynchronous updates, and updates/transitions with data changes
+- Good using with **SVG**
 ```javascript
+// Format
+watch: {
+  watchedProperty (value, oldValue) {
+    // Dope code
+    deep: true,
+    nestedWachtedProperty (value, oldValue) {
+      // ...
+    }
+  }
+}
+
+
 new Vue({
   el: '#app',
   data() {
@@ -404,12 +421,14 @@ new Vue({
 });
 
 ```
+# Teamplates and components
+
 # Vue-CLI
 
 # Vue-router
 
 # Vuex
-
+## Vuex and OOP
 
 # Vue devTools
 ## --- 
@@ -428,7 +447,35 @@ const App =  {
 }
 Vue.createApp(App).mount('#app')
 ```
+
+## Uncaught TypeError: Vue is not a constructor 
+```javascript
+// This code will throw a type error
+let vm = new Vue({
+  el: '#app',
+  data() {
+    return {
+      message: 'This is the initial message',
+      otherMessage: 'This is another message'
+    }
+  }
+})
+console.log(vm);
+
+// Use this instead for vue-next
+const App =  {
+  data() {
+    return {
+      message: 'This is the intial message',
+      otherMessage: 'This is another message'
+    }
+  }
+}
+Vue.createApp(App).mount('#app')
+```
+
+
+
 # Extensive resource
-- Where you can 
 
 

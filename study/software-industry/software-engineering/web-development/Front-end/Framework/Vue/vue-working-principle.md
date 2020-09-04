@@ -5,6 +5,9 @@
   - [Vue compared to other framework](#vue-compared-to-other-framework)
 - [Vue working principle](#vue-working-principle)
   - [In vue](#in-vue)
+  - [Vue instance](#vue-instance)
+  - [Virtual DOM](#virtual-dom)
+  - [Getters and setters](#getters-and-setters)
 # Overview
 ## What makes a good framework?
 - Declarative
@@ -35,3 +38,9 @@ new Vue({
   }
 })
 ```
+
+## Vue instance
+
+## Virtual DOM
+- Watch updates the DOM only if it's required performing calculations in JS is really performant but accessing the DOM is not. So Vue has a Virtual DOM which is like a copy, but parsed in JavaScript
+## Getters and setters

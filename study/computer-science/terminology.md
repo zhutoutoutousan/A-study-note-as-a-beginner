@@ -2,6 +2,7 @@
 - [Contents](#contents)
 - [A](#a)
   - [Algorithm](#algorithm)
+  - [Alpha-beta pruning](#alpha-beta-pruning)
   - [AON](#aon)
   - [Assertion](#assertion)
   - [Associative array](#associative-array)
@@ -42,7 +43,7 @@
   - [Hash Table/Hash map](#hash-tablehash-map)
   - [HFC network](#hfc-network)
   - [Host](#host)
-  - [Hub](#hub)
+  - [Hub 集线器](#hub-集线器)
 - [I](#i)
   - [Internet Protocol(IP)](#internet-protocolip)
   - [IoT](#iot)
@@ -90,6 +91,10 @@
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
 - An algorithm is said to be **correct** if, for every input instance, it halts with the correct output.
+## Alpha-beta pruning
+- **Alpha-beta pruning** is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
+- [wiki](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+- [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=12s)
 
 ## AON
 - Active Optical Networks
@@ -97,7 +102,7 @@
 - AON is essentially switched Ethernet
 
 ## Assertion
-[Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
+- [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
 ## Associative array
 # B
 ## Bandwidth
@@ -164,7 +169,7 @@ In the context of hardware and software systems, **formal verification** is the 
 - [javascript-algorithms](https://github.com/zhutoutoutousan/javascript-algorithms/tree/master/src/data-structures/hash-table)
 ## HFC network
 ## Host
-## Hub
+## Hub 集线器
 - A hub doesn't filter data or has any intelligence as to where the data should be sent.
 - The only thing the hub knows is when the device is connected to one of its ports, when a data packet arrives at one of the ports, it is copied to all of the other ports.
 - [集线器，交换机和路由器解释 - 有什么区别？](https://www.youtube.com/watch?v=1z0ULvg_pW8)

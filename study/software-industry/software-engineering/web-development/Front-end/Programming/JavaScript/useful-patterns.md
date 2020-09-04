@@ -6,6 +6,7 @@
   - [See if contains](#see-if-contains)
     - [Array](#array)
       - [```Array.prototype.includes()```](#arrayprototypeincludes)
+  - [Count the occurences/frequency](#count-the-occurencesfrequency)
   - [Getting data type](#getting-data-type)
   - [Testing equality](#testing-equality)
     - [Types of equality](#types-of-equality)
@@ -58,6 +59,9 @@
     - [```Array.prototype.join()```](#arrayprototypejoin)
 - [Problem solving questions and mathematics](#problem-solving-questions-and-mathematics)
 
+
+
+
 # OOP series
 ## How to curry
 
@@ -65,6 +69,22 @@
 ## See if contains
 ### Array
 #### ```Array.prototype.includes()```
+## Count the occurences/frequency
+- [Stack-overflow](https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements)
+```javascript
+/**
+ * @param {Array} arr
+ * @param {Array | Number | Object | String} query
+ * @return
+ */
+const countOccurences = (arr, query) => {
+  switch(typeof(query)) {
+    case "Object":
+    
+  }
+}
+```
+
 ## Getting data type
 ## Testing equality
 ### Types of equality

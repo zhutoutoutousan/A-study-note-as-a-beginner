@@ -97,6 +97,7 @@
     - [URI](#uri)
     - [User interface(UI)](#user-interfaceui)
   - [V](#v)
+    - [Vue components](#vue-components)
     - [Vue instance](#vue-instance)
     - [Vue.js](#vuejs)
     - [Virtual DOM](#virtual-dom)
@@ -316,6 +317,8 @@ The term **Web service(WS)** is either:
 ### User interface(UI)
 
 ## V
+### Vue components
+- A collection of elements that are encapsulated into a group that can be accessed through one single element
 ### Vue instance
 - The Vue instance is the middleman between the DOM and the business logic
 ### Vue.js

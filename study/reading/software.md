@@ -30,15 +30,17 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Progress: 19/660
 ## C++
 - Motivation:
-  - None, just know the entry point when I got the right motivation
+  - Chromium V8 is written in C++, how come you don't have any familiarity with it?
+  - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
 - C++ Primer
   - [link1 - Requires download](https://faculty.psau.edu.sa/filedownload/doc-8-pdf-95bf5763251f491480a0c1e5b76a16d8-original.pdf)
 ## JavaScript
 - Motivations
-  - Currently no motivations 
+  - Currently no need for motivations 
   - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
 ## Java
-- Motivations
+- Motivations:
+  - Practice data structrure on Hackerrank videos
 - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
   - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
     - Pretty slow to load

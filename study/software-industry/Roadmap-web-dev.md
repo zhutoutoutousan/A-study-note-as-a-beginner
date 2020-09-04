@@ -179,8 +179,7 @@
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
     - Progress track: Watchers 1hr 50:13 + 2min31s/ 5hrs
-      - [CODEPEN now](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
-        - [ref](https://codepen.io/sdras/pen/dRqZOy)
+      - [codepenn follow along](https://codepen.io/zhutoutoutousan/pen/wvGPpww?editors=1111)
       - You should take a look at the little project in the video ```Methods``` and work on it
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation

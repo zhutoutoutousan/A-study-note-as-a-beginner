@@ -31,6 +31,7 @@
     - [Etymology](#etymology)
     - [Ever-increasing](#ever-increasing)
     - [Examples of feudalism  封建](#examples-of-feudalism-封建)
+    - [Eugenics](#eugenics)
   - [F](#f)
     - [FascistS](#fascists)
     - [First Gulf War](#first-gulf-war)
@@ -132,6 +133,11 @@
 - Examples of feudalism are helpful to fully understand feudalism and feudal society.
 - 封建是源自於中國古代天子依爵位高低將領土分封與宗室或功臣作為食邑的制度。 在此制度下，大地主或領主能從土地取得收入，並且在其領地上行使政府職權。 而在馬克思主義的影響下，「封建」常做為封建社會的代稱。
 - 封建，词语源自《诗·商颂·殷武》：“命于下国，封建厥福”，意思是指封邦建国。
+
+### Eugenics
+- The study of how to arrange reproduction within a human population to increase the occurence of heritable characteristics regarded as desirable. Developed largely by Francis Galton as a method of improving the human race, it fell into disfavor only after the perversion of its doctrines by the Nazis.
+  - Influenced entities
+    - The body type theory - Somatotypes
 ## F
 ### FascistS
 ### First Gulf War

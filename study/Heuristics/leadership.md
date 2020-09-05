@@ -2,6 +2,9 @@
 - [Table of Contents](#table-of-contents)
 - [Speech](#speech)
   - [Training grounds](#training-grounds)
+    - [Online platform](#online-platform)
+    - [Social media channel](#social-media-channel)
+    - [DIY](#diy)
   - [Structuring](#structuring)
   - [Voicing](#voicing)
   - [Text-featured memory](#text-featured-memory)
@@ -48,8 +51,14 @@
 
 # Speech
 ## Training grounds
+### Online platform
 - Toastmaster
 - Great Speeches
+
+### Social media channel
+- Christma on command
+### DIY
+- Everyday, spend some time browsing through the interactions that you initiated or participated with other humen, consider what choice of words or response, expression, body language would lead to a better results, take some time writing them down.
 ## Structuring
 ## Voicing
 ## Text-featured memory
@@ -61,21 +70,35 @@
 #### Insist
 #### Indifferent
 #### Refocus
-- See the forest through the trees
+- *See the forest through the trees*
+- *Putting the cart before the horse*
+  - Examples of usage
+    - [Source 1: The 5 Worst Diet Mistakes For Losing Fat & Building Muscle (Avoid These) --- Jeff Nippard ](https://www.youtube.com/watch?v=vCbn05pda_4)
 #### Redirect
 - Beat around the bush
 #### Intimidate
 - Tongue-in-cheek
 - Lose your/his man card
+- Pro-eugenic proclaim
+  - *Dick-waving contest*
+  - *Dick-measuring contest*
 #### Placate
 #### Debunk
 #### Lucid
 #### Unsettle
 #### Discredit
+- Anti-eugenic proclaim
+  - *Dick-waving contest*
+  - *Dick-measuring contest*
+
 #### Extrapolate
 #### Confront
 - Point out the fallacies
   - the logical fallacy
+- Point out the psychological projection or else directly and relate to human nature
+  - Procedures
+  - Usage
+    - Good for
 #### Appease
 - Give credits to the achievements that have been taken for granted
   - Procedures
@@ -89,10 +112,7 @@
   - Prerequisites
     - Past performance
   - Arsenal of words and phrases
-- Point out the psychological projection or else directly and relate to human nature
-  - Procedures
-  - Usage
-    - Good for
+
 
 ### GR
 

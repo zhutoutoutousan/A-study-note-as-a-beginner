@@ -23,7 +23,7 @@
       - [Lucid](#lucid)
       - [Unsettle](#unsettle)
       - [Discredit](#discredit)
-      - [Extrapolate](#extrapolate)
+      - [Extrapolate8](#extrapolate8)
       - [Confront](#confront)
       - [Appease](#appease)
     - [GR](#gr)
@@ -42,12 +42,12 @@
 - [Social media manipulation](#social-media-manipulation)
   - [Platforms and their sub-ecosystems](#platforms-and-their-sub-ecosystems)
   - [Possible traits to follow](#possible-traits-to-follow)
+  - [Teamplay](#teamplay)
 - [Skillset](#skillset)
   - [Original skill tree construction](#original-skill-tree-construction)
   - [Dramatic presentation](#dramatic-presentation)
   - [Leadership manifestation readiness](#leadership-manifestation-readiness)
 - [Mindset](#mindset)
-- [Media teamplay](#media-teamplay)
 
 # Speech
 ## Training grounds
@@ -91,7 +91,7 @@
   - *Dick-waving contest*
   - *Dick-measuring contest*
 
-#### Extrapolate
+#### Extrapolate8
 #### Confront
 - Point out the fallacies
   - the logical fallacy
@@ -153,7 +153,7 @@
   - ASMR
 - Collusional drama
 - Other subcultural "Engineering of consent" traits
-
+## Teamplay
 # Skillset
 ## Original skill tree construction
 ## Dramatic presentation
@@ -162,4 +162,3 @@
 
 # Mindset
 
-# Media teamplay

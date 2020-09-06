@@ -21,6 +21,7 @@
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
   - [D](#d)
+    - [Data store](#data-store)
     - [Data type](#data-type)
     - [Decoupled backend-frontend 前后端分离](#decoupled-backend-frontend-前后端分离)
     - [Devious](#devious)
@@ -171,6 +172,8 @@ A group of servers that stores your data
 ### Communication links
 
 ## D
+### Data store
+- Examples: Redis, MongoDB, Postgres, MySQL etc..
 ### Data type 
 - (javascript)
   - CH: 基本类型

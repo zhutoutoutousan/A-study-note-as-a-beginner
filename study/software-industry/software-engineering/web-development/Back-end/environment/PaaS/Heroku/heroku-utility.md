@@ -4,14 +4,10 @@
 - [RTFM](#rtfm)
 - [Tutorials track](#tutorials-track)
 - [Heroku CLI](#heroku-cli)
-  - [Commands](#commands)
-  - [Operations](#operations)
-    - [Deploy an app](#deploy-an-app)
-    - [Check logs](#check-logs)
-    - [Check dyno](#check-dyno)
 - [Heroku architecture](#heroku-architecture)
   - [Procfile](#procfile)
   - [Dyno](#dyno)
+  - [Config var](#config-var)
 - [Deployment](#deployment)
 - [Language support](#language-support)
 - [Troubleshoot](#troubleshoot)
@@ -34,7 +30,6 @@
   - Completed, if u r a bit rusty on how it's done in a row, revisit it for refreshment
   
 # Heroku CLI
-## Commands
 - ```heroku open [sub-site]```
 - ```heroku ps:scale web=[number]```
   - Scale the number of web dynos to ```[number]```
@@ -43,16 +38,12 @@
 - ```heroku create```
 - ```heroku local```
   - Run heroku app locally
+- ```heroku config:set [process.env.[PROP]] = [number]```
+  - Set the node.js ```process.env``` property
 - ```git add .```
 - ```git push heroku main```
 - ```heroku run bash```
-## Operations
-### Deploy an app
-### Check logs
-```
-heroku logs --tail
-```
-### Check dyno
+- ```heroku logs --tail```
 
 # Heroku architecture
 ## Procfile
@@ -62,6 +53,9 @@ heroku logs --tail
 ## Dyno
 - Dyno: Think of it as a lightweight container that runs the command specified in the ```Procfile```
 - [doc](https://devcenter.heroku.com/articles/dynos)
+
+## Config var
+- RTFM
 # Deployment
 - [Doc](https://devcenter.heroku.com/categories/deploying-with-git)
 

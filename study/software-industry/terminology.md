@@ -60,6 +60,7 @@
   - [M](#m)
     - [```main size```](#main-size)
     - [Methods](#methods)
+    - [Mocha](#mocha)
     - [MVC](#mvc)
   - [N](#n)
     - [Name space](#name-space)
@@ -233,6 +234,10 @@ A group of servers that stores your data
 ### Methods
 - (Vue.js) Methods in Vue.js are bound to the Vue instance, they are incredibly useful for  functions you would like to access in directives
 - You can use arrow functions within the method, but the method cannot be an arrow function
+
+### Mocha
+- Mocha is a featuer-rich JavaScript test framework running on ```Node.js``` and in the browser, making asynchronous testing simple and fun.
+- Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 ### MVC
 - **Model-view-controller** is a *software design pattern* commonly used for developing *user interfaces* that divides the related program logic into three interconnected elements.
 - [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)

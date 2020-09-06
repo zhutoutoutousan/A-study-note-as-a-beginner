@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Suggestions](#suggestions)
 - [RTFM](#rtfm)
 - [Tutorials track](#tutorials-track)
 - [Heroku CLI](#heroku-cli)
@@ -7,6 +8,7 @@
   - [Operations](#operations)
     - [Deploy an app](#deploy-an-app)
     - [Check logs](#check-logs)
+    - [Check dyno](#check-dyno)
 - [Heroku architecture](#heroku-architecture)
   - [Procfile](#procfile)
   - [Dyno](#dyno)
@@ -14,6 +16,10 @@
 - [Language support](#language-support)
 - [Troubleshoot](#troubleshoot)
   - [-Heroku login: >IP address mismatch](#-heroku-login-ip-address-mismatch)
+
+# Suggestions
+- Don't dig too hard in this note, just go with the flow. Get back after using it for a while
+
 # RTFM
 - RTFM scenarios
   - Installation
@@ -33,6 +39,9 @@
 ## Commands
 - ```heroku open```
 - ```heroku ps:scale web=[number]```
+  - Scale the number of web dynos to ```[number]```
+- ```heroku ps```
+  - Check dyno state
 - ```heroku create```
 ## Operations
 ### Deploy an app
@@ -40,6 +49,7 @@
 ```
 heroku logs --tail
 ```
+### Check dyno
 
 # Heroku architecture
 ## Procfile

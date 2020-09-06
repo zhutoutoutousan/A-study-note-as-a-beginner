@@ -14,7 +14,7 @@
 ## npm init
 - When inputting ```npm init```, it asks you what the entry point is, what does that mean?
 ### npm init -y
-
+- npm init -yes
 # package.json
 
 # package-lock.json

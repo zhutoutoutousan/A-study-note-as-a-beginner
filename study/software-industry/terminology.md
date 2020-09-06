@@ -10,6 +10,7 @@
     - [Block element 块级元素](#block-element-块级元素)
     - [Boostrap](#boostrap)
   - [C](#c)
+    - [Caret](#caret)
     - [Carousel 轮播图](#carousel-轮播图)
     - [Chai](#chai)
     - [Command line argument](#command-line-argument)
@@ -60,6 +61,8 @@
     - [JIT](#jit)
     - [JFC](#jfc)
     - [JRE](#jre)
+  - [L](#l)
+    - [Lookahead/lookbehind](#lookaheadlookbehind)
   - [M](#m)
     - [```main size```](#main-size)
     - [Methods](#methods)
@@ -76,6 +79,7 @@
     - [PaaS](#paas)
     - [Packet switch](#packet-switch)
     - [```PATH```](#path)
+    - [Pipe](#pipe)
     - [Promise](#promise)
     - [Proxy](#proxy)
   - [R](#r)
@@ -83,6 +87,8 @@
     - [Reactive programming](#reactive-programming)
     - [React.js](#reactjs)
     - [React component class/type](#react-component-classtype)
+    - [Regular expression](#regular-expression)
+    - [Regular expression engine](#regular-expression-engine)
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
@@ -134,6 +140,8 @@
 ### Boostrap
 
 ## C
+### Caret
+- ```^```
 ### Carousel 轮播图
 ### Chai
 - Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
@@ -236,7 +244,9 @@ A group of servers that stores your data
   - Execution environment
     - JavaSE
   - Project specific JRE
-  
+## L
+### Lookahead/lookbehind
+- (regex)
 ## M
 ### ```main size```
 - (front-end)     主轴空间
@@ -280,6 +290,8 @@ A group of servers that stores your data
   - Heroku
 ### Packet switch
 ### ```PATH```
+### Pipe
+- (programming symbol)  ```|```
 ### Promise
 - (Web API)A **promise** is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a *promise* to supply the value at some point in the future.
 - A **promise** is in one of these states:
@@ -317,6 +329,12 @@ class ThisIsAComponentClass extends React.Component {
 }
 
 ```
+### Regular expression
+- Basically, a regular expression is a pattern describing a certain amount of text.
+  - There's some mathematical theory behind it, dig it if you are interested.
+### Regular expression engine
+- A regular expression "engine' is a piece of software that can process regular expressions, trying to match the pattern to the given string.
+- Examples: Perl, PCRE, PHP, .NET, Java, JavaScript, XRegExp, VBScript, Python, Ruby, Delphi, R, Tcl, POSIX ...
 ### Replica set
 A cluster where each server stores the same data
 ### Requests for comments(RFCs)

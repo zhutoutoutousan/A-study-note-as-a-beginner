@@ -20,6 +20,7 @@
     - [Object](#object)
     - [Function](#function-1)
   - [Document generation](#document-generation)
+- [Use of HTML in js-doc magic comment](#use-of-html-in-js-doc-magic-comment)
 - [RTFM entry](#rtfm-entry)
 
 # Usage oriented commentations
@@ -48,6 +49,8 @@ See [jsdoc](https://jsdoc.app/tags-callback.html)
 ### Function
 
 ## Document generation
+
+# Use of HTML in js-doc magic comment
 
 # RTFM entry
 - [jsdoc - app](https://jsdoc.app/)

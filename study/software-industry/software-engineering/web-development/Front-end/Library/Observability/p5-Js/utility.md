@@ -38,6 +38,8 @@
     - [```createDiv()```](#creatediv)
     - [```createButton()```](#createbutton)
     - [Events](#events)
+- [Troubleshoot](#troubleshoot)
+  - [Uncaught TypeError: Cannot read property 'prototype' of undefined](#uncaught-typeerror-cannot-read-property-prototype-of-undefined)
 
 # Study progress
 - [x] Getting started --> [link](https://p5js.org/get-started/#sketch)
@@ -148,3 +150,6 @@ function setup() {
 ### ```createButton()```
 ### Events
 
+# Troubleshoot
+## Uncaught TypeError: Cannot read property 'prototype' of undefined
+-  p5.dom.js

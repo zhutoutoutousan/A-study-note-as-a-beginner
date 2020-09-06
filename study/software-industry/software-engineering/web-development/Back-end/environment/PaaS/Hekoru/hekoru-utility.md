@@ -11,9 +11,13 @@
 - Node.js
 
   
-## Heroku
-- Heroku CLI
-
+## Heroku CLI
+### Commands
+- ```heroku open```
+- ```heroku ps:scale web=[number]```
+- ```heroku create```
+### Operations
+#### Deploy an app
 
 
 # Troubleshoot

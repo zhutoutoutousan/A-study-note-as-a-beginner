@@ -352,6 +352,12 @@ xxxxxxx...August-----------------------September--------------------------->|
         - [x] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
       - [x] Code along
         - [x] Can use chrome DevTool to check the OOP
+    - Algorithm - Traverse Linked list
+
+```javascript
+
+```
+
   - 24 hrs
 
   - 1 week

@@ -93,6 +93,8 @@
 
 #### Extrapolate8
 #### Confront
+- (Opponent)Point out the **flaws** of the opponent to prove to the crowd that he/she is a better person to undermine one's status quo
+  - Defense strategies
 - Point out the fallacies
   - the logical fallacy
 - Point out the psychological projection or else directly and relate to human nature

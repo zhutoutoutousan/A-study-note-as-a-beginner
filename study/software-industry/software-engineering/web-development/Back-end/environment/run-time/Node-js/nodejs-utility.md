@@ -1,3 +1,24 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Networking](#networking)
+  - [Host a server](#host-a-server)
+    - [Host an html file](#host-an-html-file)
+- [Navigation](#navigation)
+  - [Keyboard shortcut](#keyboard-shortcut)
+  - [```process.exit()```](#processexit)
+  - [```SIGTERM```](#sigterm)
+  - [Reference](#reference)
+- [File system](#file-system)
+  - [Open a file](#open-a-file)
+  - [Read a file](#read-a-file)
+  - [Write to a file](#write-to-a-file)
+  - [Get the information of the file](#get-the-information-of-the-file)
+- [Synchronous vs Asynchronous](#synchronous-vs-asynchronous)
+- [Troubleshoot](#troubleshoot)
+  - [```TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined```](#typeerror-err_invalid_callback-callback-must-be-a-function-received-undefined)
+- [Resources](#resources)
+  - [API](#api)
+  - [Tutorials](#tutorials)
 # Networking
 ## Host a server
 ### Host an html file

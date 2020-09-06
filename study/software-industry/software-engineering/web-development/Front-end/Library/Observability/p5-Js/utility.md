@@ -153,3 +153,5 @@ function setup() {
 # Troubleshoot
 ## Uncaught TypeError: Cannot read property 'prototype' of undefined
 -  p5.dom.js
+-  [GITHUB ISSUE](https://github.com/processing/p5.js-website-OLD/issues/174)
+   - It is a good idea to include p5.js before p5.dom.js

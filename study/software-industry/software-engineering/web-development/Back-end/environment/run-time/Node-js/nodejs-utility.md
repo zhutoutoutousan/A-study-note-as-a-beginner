@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [RTFM](#rtfm)
 - [Networking](#networking)
   - [Host a server](#host-a-server)
     - [Host an html file](#host-an-html-file)
@@ -8,17 +9,23 @@
   - [```process.exit()```](#processexit)
   - [```SIGTERM```](#sigterm)
   - [Reference](#reference)
-- [File system](#file-system)
+- [File system - ```fs```](#file-system---fs)
   - [Open a file](#open-a-file)
   - [Read a file](#read-a-file)
   - [Write to a file](#write-to-a-file)
   - [Get the information of the file](#get-the-information-of-the-file)
-- [Synchronous vs Asynchronous](#synchronous-vs-asynchronous)
+- [Networking](#networking-1)
+  - [http request](#http-request)
+  - [Basic concepts](#basic-concepts)
+    - [Synchronous vs Asynchronous](#synchronous-vs-asynchronous)
 - [Troubleshoot](#troubleshoot)
   - [```TypeError [ERR_INVALID_CALLBACK]: Callback must be a function. Received undefined```](#typeerror-err_invalid_callback-callback-must-be-a-function-received-undefined)
 - [Resources](#resources)
   - [API](#api)
   - [Tutorials](#tutorials)
+
+# RTFM
+
 # Networking
 ## Host a server
 ### Host an html file
@@ -74,13 +81,16 @@ See more on [Node.js API](https://nodejs.org/api/process.html#process_exit_codes
 [Node.js tutorial](https://nodejs.dev/how-to-exit-from-a-nodejs-program)
 
 
-# File system
+# File system - ```fs```
 ## Open a file
 ## Read a file
 ## Write to a file
 ## Get the information of the file
 
-# Synchronous vs Asynchronous
+# Networking
+## http request
+## Basic concepts
+### Synchronous vs Asynchronous
 
 
 # Troubleshoot

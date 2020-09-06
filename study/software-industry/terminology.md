@@ -20,6 +20,7 @@
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
+    - [Computing](#computing)
   - [D](#d)
     - [Data store](#data-store)
     - [Data type](#data-type)
@@ -65,6 +66,7 @@
     - [JFC](#jfc)
     - [JRE](#jre)
   - [L](#l)
+    - [Locale](#locale)
     - [Lookahead/lookbehind](#lookaheadlookbehind)
     - [LXC](#lxc)
     - [LXD](#lxd)
@@ -170,7 +172,9 @@
 A group of servers that stores your data
 ### Code bundler
 ### Communication links
-
+### Computing
+- **Computing** is any activity that uses computers to manage, process, and communicate information.
+- [wiki](https://en.wikipedia.org/wiki/Computing)
 ## D
 ### Data store
 - Examples: Redis, MongoDB, Postgres, MySQL etc..
@@ -259,6 +263,9 @@ A group of servers that stores your data
     - JavaSE
   - Project specific JRE
 ## L
+### Locale
+- In computing, a **locale** is a set of parameters that defines the user's language, region and any speical variant preferences that the user wants to see in their user interface.
+- [wiki](https://en.wikipedia.org/wiki/Locale_(computer_software))
 ### Lookahead/lookbehind
 - (regex)
 

@@ -112,8 +112,8 @@
 ```
 April -...--------------------------------------------------------------> October  
 xxxxxxx...August-----------------------September--------------------------->|  
-                                          /|\
-                                           |  U R here
+                                                      /|\
+                                                       |  U R here
 ```
 - First stage mark: **FST**
 
@@ -136,6 +136,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Learn server hosting
   - This guy used ```github.io```
   - How about you use ```Hikaru```
+    - [x] Finished getting started guide
   - Check back-end --> PaaS section for static site hosting(AWS) 
     - Consider hosting your original lottery game
 - Learn MongoDB
@@ -190,14 +191,10 @@ xxxxxxx...August-----------------------September--------------------------->|
 # Front-end portfolio
 ## Time control
 ### 10/40
-- Finish vue calculator
 - Vue.js course 
-- E-commerce tutorial
-  - Follow along(Should finish 40%)
 ### 20/40
 - Vue.js course(should finish)
-- E-commerce tutorial
-  - Follow along(Should finish)
+- Vue calculator debugging
 ### 30/40
 - Keep working 
 ### 40/40

@@ -134,6 +134,7 @@
     - [windows](#windows)
     - [windows powershell](#windows-powershell)
   - [%](#)
+    - [```%APPDATA%```](#appdata)
     - [```%LOCALAPPDATA%```](#localappdata)
 - [Uncategorized temp](#uncategorized-temp)
 # Alphabetical
@@ -429,6 +430,7 @@ The term **Web service(WS)** is either:
 ### windows powershell
 - PowerShell is a more advanced version of the cmd used to run external programs like ping or copy and automate many different system administration tasks which are not accessible from cmd.exe. It's quite similar to cmd except it's more powerful and used different commands altogether.
 ## %
+### ```%APPDATA%```
 ### ```%LOCALAPPDATA%```
 
 # Uncategorized temp

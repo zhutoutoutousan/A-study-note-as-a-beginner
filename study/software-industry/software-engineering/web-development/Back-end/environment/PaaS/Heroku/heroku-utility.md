@@ -32,7 +32,9 @@
 # Tutorials track
 - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
   - Completed, if u r a bit rusty on how it's done in a row, revisit it for refreshment
-  
+- [How Heroku works](https://devcenter.heroku.com/articles/how-heroku-works)
+- [Node.js](https://devcenter.heroku.com/categories/nodejs-support)
+- [Deployment](https://devcenter.heroku.com/articles/deploying-nodejs)
 # Heroku CLI
 - ```heroku open [sub-site]```
 - ```heroku ps:scale web=[number]```
@@ -50,7 +52,8 @@
 - ```git push heroku main```
 - ```heroku run bash```
 - ```heroku logs --tail```
-
+- ```heroku pg:psql```
+  - Database
 # Heroku architecture
 ## Procfile
 - [Doc](https://devcenter.heroku.com/articles/procfile)

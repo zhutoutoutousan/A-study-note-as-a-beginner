@@ -14,7 +14,6 @@
     - [Carousel 轮播图](#carousel-轮播图)
     - [Chai](#chai)
     - [Command line argument](#command-line-argument)
-    - [Computed](#computed)
     - [Class](#class)
     - [CLI](#cli)
     - [Closure 闭包](#closure-闭包)
@@ -34,6 +33,8 @@
     - [```flex-shrink``` 回缩比例](#flex-shrink-回缩比例)
   - [G](#g)
     - [Gtk APP](#gtk-app)
+  - [H](#h)
+    - [HTTP routing](#http-routing)
   - [I](#i)
     - [IDE](#ide)
     - [IEEE 802](#ieee-802)
@@ -113,6 +114,7 @@
     - [User interface(UI)](#user-interfaceui)
   - [V](#v)
     - [Vue components](#vue-components)
+    - [Vue Computed](#vue-computed)
     - [Vue instance](#vue-instance)
     - [Vue.js](#vuejs)
     - [Virtual DOM](#virtual-dom)
@@ -136,6 +138,9 @@
 - (node.js)
 ## B
 ### BDD/TDD
+- BDD: Behavior Driven Development
+- TDD: Test Driven Development
+- [BDD vs TDD](https://blog.testlodge.com/tdd-vs-bdd/)
 ### Block element 块级元素
 ### Boostrap
 
@@ -146,8 +151,7 @@
 ### Chai
 - Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 ### Command line argument
-### Computed
-- (Vue.js)
+
 ### Class
 - (ES6)
 - (java)A java class is a group of data items with associated functions that can perform operations on that data. The data items in a calss are called *variables*, or sometimes *fields*; in Java, functions are called *methods*.
@@ -187,7 +191,9 @@ A group of servers that stores your data
 ### ```flex-shrink``` 回缩比例
 ## G
 ### Gtk APP
-
+## H
+### HTTP routing
+- [Heroku](https://devcenter.heroku.com/articles/http-routing)
 ## I
 ### IDE
 - IDE: Integrated Development Environment
@@ -373,6 +379,8 @@ The term **Web service(WS)** is either:
 ## V
 ### Vue components
 - A collection of elements that are encapsulated into a group that can be accessed through one single element
+### Vue Computed
+- (Vue.js)
 ### Vue instance
 - The Vue instance is the middleman between the DOM and the business logic
 ### Vue.js

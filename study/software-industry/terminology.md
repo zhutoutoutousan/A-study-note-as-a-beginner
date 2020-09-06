@@ -27,6 +27,7 @@
     - [Discord](#discord)
   - [E](#e)
     - [Encapsulation](#encapsulation)
+    - [Ephemeral](#ephemeral)
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
   - [F](#f)
     - [```flex-grow``` 增长比例](#flex-grow-增长比例)
@@ -183,6 +184,8 @@ A group of servers that stores your data
 - Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
 ## E
 ### Encapsulation
+### Ephemeral
+- (adj) lasting for a very short time
 ### Execusion context 执行上下文
 - (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
   - [What is the 'Execution Context' in JavaScript exactly?](https://stackoverflow.com/questions/9384758/what-is-the-execution-context-in-javascript-exactly#:~:text=Execution%20context%20is%20a%20concept,value%20of%20the%20this%20object.)

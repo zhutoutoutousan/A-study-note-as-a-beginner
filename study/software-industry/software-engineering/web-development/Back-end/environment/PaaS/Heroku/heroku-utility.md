@@ -31,18 +31,21 @@
 
 # Tutorials track
 - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
-
-
-
+  - Completed, if u r a bit rusty on how it's done in a row, revisit it for refreshment
   
 # Heroku CLI
 ## Commands
-- ```heroku open```
+- ```heroku open [sub-site]```
 - ```heroku ps:scale web=[number]```
   - Scale the number of web dynos to ```[number]```
 - ```heroku ps```
   - Check dyno state
 - ```heroku create```
+- ```heroku local```
+  - Run heroku app locally
+- ```git add .```
+- ```git push heroku main```
+- ```heroku run bash```
 ## Operations
 ### Deploy an app
 ### Check logs

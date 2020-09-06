@@ -9,6 +9,9 @@
   - [Dyno](#dyno)
   - [Config var](#config-var)
 - [Deployment](#deployment)
+- [Addons](#addons)
+  - [Database](#database)
+    - [Heroku Postgres Starter Tier dev database](#heroku-postgres-starter-tier-dev-database)
 - [Language support](#language-support)
 - [Troubleshoot](#troubleshoot)
   - [-Heroku login: >IP address mismatch](#-heroku-login-ip-address-mismatch)
@@ -20,6 +23,7 @@
 - RTFM scenarios
   - Installation
   - Setting up
+  - Quick recap
 - [Dev - Heroku](https://devcenter.heroku.com/)
 - [Official articles](https://devcenter.heroku.com/articles/)
   - More docs
@@ -38,6 +42,8 @@
 - ```heroku create```
 - ```heroku local```
   - Run heroku app locally
+- ```heroku config```
+  - Check heroku config var
 - ```heroku config:set [process.env.[PROP]] = [number]```
   - Set the node.js ```process.env``` property
 - ```git add .```
@@ -59,6 +65,12 @@
 # Deployment
 - [Doc](https://devcenter.heroku.com/categories/deploying-with-git)
 
+# Addons
+## Database
+### Heroku Postgres Starter Tier dev database
+- Installation
+  - [RTFM](https://devcenter.heroku.com/articles/getting-started-with-nodejs#provision-a-database)
+  - [More RTFM](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup)
 # Language support 
 - [Node.js entry](https://devcenter.heroku.com/categories/nodejs-support)
 # Troubleshoot

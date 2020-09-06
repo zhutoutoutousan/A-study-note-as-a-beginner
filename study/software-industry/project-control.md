@@ -355,7 +355,14 @@ xxxxxxx...August-----------------------September--------------------------->|
     - Algorithm - Traverse Linked list
 
 ```javascript
+function traversal(linkedList, callback) {
+  let currentNode = linkedList.head;
 
+  while (currentNode) {
+    callback(currentNode.value);
+    currentNode = currentNode.next;
+  }
+}
 ```
 
   - 24 hrs

@@ -1,0 +1,3 @@
+- [Linkedlist loop](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/train/javascript)
+    - Maybe create two traverse process racing with each other, one for traversing the whole list, one for query if there is a loop entry
+      - Better if you create the handling function for each scenarios

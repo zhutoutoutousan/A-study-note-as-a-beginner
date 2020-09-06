@@ -58,6 +58,9 @@
 - [N](#n)
   - [Network core](#network-core)
   - [NP-complete problems](#np-complete-problems)
+- [O](#o)
+  - [OS kernel](#os-kernel)
+  - [OS-level virtualization](#os-level-virtualization)
 - [P](#p)
   - [Parallelism](#parallelism)
   - [PON](#pon)
@@ -84,6 +87,7 @@
   - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
 - [U](#u)
   - [UAE](#uae)
+  - [User space](#user-space)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
 - [Book entry](#book-entry)
@@ -214,6 +218,12 @@ In the context of hardware and software systems, **formal verification** is the 
 ## Network core
 ## NP-complete problems
 
+# O
+## OS kernel
+## OS-level virtualization
+- OS-level virtualization is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances.
+- [wiki](https://en.wikipedia.org/wiki/OS-level_virtualization)
+
 # P
 ## Parallelism
 ## PON
@@ -261,7 +271,7 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 
 # U
 ## UAE
-
+## User space
 # W
 ## Worst-case running time
 

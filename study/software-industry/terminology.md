@@ -64,6 +64,8 @@
     - [JRE](#jre)
   - [L](#l)
     - [Lookahead/lookbehind](#lookaheadlookbehind)
+    - [LXC](#lxc)
+    - [LXD](#lxd)
   - [M](#m)
     - [```main size```](#main-size)
     - [Methods](#methods)
@@ -253,6 +255,13 @@ A group of servers that stores your data
 ## L
 ### Lookahead/lookbehind
 - (regex)
+
+### LXC
+- LXC: Linux Containers
+  - **LXC** is an operating-system-level virtualization method for running multiple isolated Linux systems(containers) on a control host using a single Linux kernel.
+- Plz work on your OS working principle to know more
+
+### LXD
 ## M
 ### ```main size```
 - (front-end)     主轴空间

@@ -9,6 +9,7 @@
     - [Check logs](#check-logs)
 - [Heroku architecture](#heroku-architecture)
   - [Procfile](#procfile)
+  - [Dyno](#dyno)
 - [Deployment](#deployment)
 - [Language support](#language-support)
 - [Troubleshoot](#troubleshoot)
@@ -44,6 +45,10 @@ heroku logs --tail
 ## Procfile
 - [Doc](https://devcenter.heroku.com/articles/procfile)
 - heroku.yml
+
+## Dyno
+- Dyno: Think of it as a lightweight container that runs the command specified in the ```Procfile```
+- [doc](https://devcenter.heroku.com/articles/dynos)
 # Deployment
 - [Doc](https://devcenter.heroku.com/categories/deploying-with-git)
 

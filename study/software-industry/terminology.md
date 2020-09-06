@@ -5,10 +5,12 @@
     - [Abstraction](#abstraction)
     - [Accordion 折叠面板](#accordion-折叠面板)
   - [B](#b)
+    - [BDD/TDD](#bddtdd)
     - [Block element 块级元素](#block-element-块级元素)
     - [Boostrap](#boostrap)
   - [C](#c)
     - [Carousel 轮播图](#carousel-轮播图)
+    - [Chai](#chai)
     - [Command line argument](#command-line-argument)
     - [Computed](#computed)
     - [Class](#class)
@@ -74,6 +76,7 @@
     - [Packet switch](#packet-switch)
     - [```PATH```](#path)
     - [Promise](#promise)
+    - [Proxy](#proxy)
   - [R](#r)
     - [React element](#react-element)
     - [Reactive programming](#reactive-programming)
@@ -123,11 +126,14 @@
 - (Object-oriented programming)Creating a simple model of a more complex thing, which represents its most important aspects in a way that is easy to work with for programming purposes.
 ### Accordion 折叠面板
 ## B
+### BDD/TDD
 ### Block element 块级元素
 ### Boostrap
 
 ## C
 ### Carousel 轮播图
+### Chai
+- Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 ### Command line argument
 ### Computed
 - (Vue.js)
@@ -276,6 +282,10 @@ A group of servers that stores your data
 - A **promise** is in one of these states:
   - *pending*: initial state, neither fulfilled nor rejected.
   - *fulfilled*: meaning that the operation completed
+
+### Proxy
+- (networking)
+- (front-end framework)
 ## R
 ### React element
 - (React.js)```render``` returns a **React element**

@@ -401,6 +401,7 @@ See:
     - 12 grams of raw coffee powder
       - 50mg/1g
     - Cocacola Zero: 50mg/500ml
+    - Red bull: 20mg
   - Hours of effect: 7hrs
     - Recommended take your last drop of coffee 8 hours before going to sleep, which should be taken into account when winding back the bio-clock
   - Current sustainable practice

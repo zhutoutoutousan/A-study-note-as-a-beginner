@@ -12,6 +12,7 @@
     - [Command line argument](#command-line-argument)
     - [Computed](#computed)
     - [Class](#class)
+    - [CLI](#cli)
     - [Closure 闭包](#closure-闭包)
     - [Cluster](#cluster)
     - [Code bundler](#code-bundler)
@@ -70,6 +71,7 @@
   - [P](#p)
     - [PaaS](#paas)
     - [Packet switch](#packet-switch)
+    - [```PATH```](#path)
     - [Promise](#promise)
   - [R](#r)
     - [React element](#react-element)
@@ -109,6 +111,10 @@
     - [Vue watcher](#vue-watcher)
   - [W](#w)
     - [Windowing system](#windowing-system)
+    - [windows](#windows)
+    - [windows powershell](#windows-powershell)
+  - [%](#)
+    - [```%LOCALAPPDATA%```](#localappdata)
 - [Uncategorized temp](#uncategorized-temp)
 # Alphabetical
 ## A
@@ -130,6 +136,9 @@
   - As in other object-oriented languages, classes are application components that hold executable code and data. Compiled Java classes are distributed in a universal binary format that contains Java bytecode and other class information.
   - Java class can be maintained discretly and stored in files or archives locally or on a network server.
   - Java classes are located and loaded dynamically at runtime as they are needed by an application.
+
+### CLI
+- (windows)
 ### Closure 闭包
 ### Cluster
 A group of servers that stores your data
@@ -256,6 +265,7 @@ A group of servers that stores your data
 - Examples
   - Heroku
 ### Packet switch
+### ```PATH```
 ### Promise
 - (Web API)A **promise** is a proxy for a value not necessarily known when the promise is created. It allows you to associate handlers with an asynchronous action's eventual success value or failure reason. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a *promise* to supply the value at some point in the future.
 - A **promise** is in one of these states:
@@ -346,6 +356,11 @@ The term **Web service(WS)** is either:
   - Good for asynchronous updates, and updates/transitions with data changes
 ## W
 ### Windowing system
+### windows
+### windows powershell
+- PowerShell is a more advanced version of the cmd used to run external programs like ping or copy and automate many different system administration tasks which are not accessible from cmd.exe. It's quite similar to cmd except it's more powerful and used different commands altogether.
+## %
+### ```%LOCALAPPDATA%```
 
 # Uncategorized temp
 - 子项合计宽度

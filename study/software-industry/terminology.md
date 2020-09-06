@@ -21,6 +21,7 @@
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
     - [Computing](#computing)
+    - [Connection pooler](#connection-pooler)
   - [D](#d)
     - [Data store](#data-store)
     - [Data type](#data-type)
@@ -175,6 +176,8 @@ A group of servers that stores your data
 ### Computing
 - **Computing** is any activity that uses computers to manage, process, and communicate information.
 - [wiki](https://en.wikipedia.org/wiki/Computing)
+
+### Connection pooler
 ## D
 ### Data store
 - Examples: Redis, MongoDB, Postgres, MySQL etc..

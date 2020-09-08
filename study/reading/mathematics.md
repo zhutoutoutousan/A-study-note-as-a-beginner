@@ -95,6 +95,7 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
       - Goal
         - Identify what sort of problems requires number theory
         - Build your own mental model of number theory for computer science
+      - Progress: 20/641
 # Graph theory
 - Introduction to Graph Theory - R.J.Wilson
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)

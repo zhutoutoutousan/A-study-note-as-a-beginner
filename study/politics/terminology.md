@@ -10,6 +10,7 @@
     - [Banking system](#banking-system)
     - [Bedrock](#bedrock)
   - [C](#c)
+    - [Cancel culture](#cancel-culture)
     - [Capitalism](#capitalism)
     - [Capital input](#capital-input)
     - [Censorship](#censorship)
@@ -56,6 +57,7 @@
   - [N](#n)
     - [Nudge Theory](#nudge-theory)
   - [O](#o)
+    - [Online shaming](#online-shaming)
     - [Overturn](#overturn)
   - [P](#p)
     - [Persecution](#persecution)
@@ -107,6 +109,7 @@
 ### Banking system
 ### Bedrock
 ## C
+### Cancel culture
 ### Capitalism
 ### Capital input
 ### Censorship
@@ -163,7 +166,7 @@
 ## N
 ### Nudge Theory
 ## O
-
+### Online shaming
 ### Overturn
 ## P
 ### Persecution

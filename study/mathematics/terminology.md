@@ -69,10 +69,8 @@
     - [Two's component](#twos-component)
   - [V](#v)
     - [Vector](#vector)
-- [EN-GE-CH](#en-ge-ch)
-  - [M](#m-1)
-    - [Mapping - ? - 映射](#mapping------映射)
-- [Book entry](#book-entry)
+- [Mathematic symbol](#mathematic-symbol)
+  - [Logical reasoning](#logical-reasoning)
 # Alphabetical
 ## A
 ### Algebraic geometry
@@ -219,6 +217,12 @@ $$
 ### Prime numbers
 - Definition
   - A number $p$ is said to be *prime* if $p > 1$ and $p$ has no positive divisors except $1$ and $p$.
+- Theorem
+  - Theorem 1: 正整数除1之外，皆为质数之乘积
+    - Claim: *Every positive integer, except $1$, is a product of primes.*
+    - Proof
+      - [wiki](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
+      - [Link1 - Triggers download - P21](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
 ## Q
 ### Quadratic residues
 
@@ -287,12 +291,5 @@ $$
 - A **vector** is denoted by **lowercase** boldface letters **a**, **b**,... or by its general component in brackets, **a** = [$a_j$], and so on.
 - For more, check [**Matrix**](#matrice) section.
 
-
-# EN-GE-CH
-## M
-### Mapping - ? - 映射
-
-
-
-# Book entry
-
+# Mathematic symbol
+## Logical reasoning

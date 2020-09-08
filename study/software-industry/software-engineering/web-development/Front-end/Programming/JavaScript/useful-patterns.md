@@ -24,6 +24,8 @@
   - [Remove Array](#remove-array)
     - [Array element](#array-element)
 - [Mathematic series](#mathematic-series)
+  - [Prime numbers](#prime-numbers)
+    - [Generate prime numbers](#generate-prime-numbers)
 - [Work with series](#work-with-series)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
@@ -133,7 +135,9 @@ console.log(removeElementByIndex(a, 3))
 ```
 
 # Mathematic series
-
+## Prime numbers
+### Generate prime numbers
+- [Need to generate prime numbers in JavaScript](https://stackoverflow.com/questions/21966000/need-to-generate-prime-numbers-in-javascript)
 
 # Work with series
 ## Work with **immutable** objects

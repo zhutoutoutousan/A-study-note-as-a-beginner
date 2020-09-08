@@ -48,6 +48,7 @@
     - [Point reflection](#point-reflection)
     - [Positive energy theorem](#positive-energy-theorem)
     - [Positive integer](#positive-integer)
+    - [Prime numbers](#prime-numbers)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
   - [R](#r)
@@ -97,8 +98,14 @@
 ### Divisible
 - An *integer* $a$ is said to be *divisible* by another integer $b$, not $0$, if there is a third integer $c$ such that $a=bc$, if $a$ and $b$ are positive, $c$ is necessarily positive
 ### Divisor
-- If an integer $a$ is said to be divisible by another integer $b$, then we can say $a$ is divisible by $b$, or $b$ is a *divisor* of $a$, by $b|a$.
-- Thus $1|a$, $a|a$,and $b|0$ for every $b$ but $0$. 
+- If an integer $a$ is said to be divisible by another integer $b$, then we can say $a$ is divisible by $b$, or $b$ is a *divisor* of $a$, by $b|a$. For the contrary of $b|a$, we use $b \nmid a$
+- Some examples(Try to visualize, build your own mental model)
+  - $1|a$, $a|a$,and $b|0$ for every $b$ but $0$.
+  - $b|a \, . \, c|b \rightarrow \, c|a$
+  - $b|a \, \rightarrow \, bc|ac$
+  - $c\neq 0 \, . \, c|a \, . \,  c|b \, \rightarrow \, c|ma + nb$ for all integral $m$ and $n$
+
+
 ## E
 ### Elliptic curve
 ### Euclid's Algorithm
@@ -209,7 +216,9 @@ $$
 - [wiki](https://en.wikipedia.org/wiki/Positive_energy_theorem)
 ### Positive integer
 - 1,2,3...
-
+### Prime numbers
+- Definition
+  - A number $p$ is said to be *prime* if $p > 1$ and $p$ has no positive divisors except $1$ and $p$.
 ## Q
 ### Quadratic residues
 

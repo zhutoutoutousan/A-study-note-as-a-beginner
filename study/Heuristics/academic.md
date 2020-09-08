@@ -65,6 +65,27 @@
 - [Book reference entry](#book-reference-entry)
 - [Online General Resource Entry(for all disciplines)](#online-general-resource-entryfor-all-disciplines)
 - [P.O.I](#poi)
+- [Temp ==> Academic writing](#temp--academic-writing)
+  - [Comments](#comments)
+  - [Motivation](#motivation)
+  - [Terminology](#terminology)
+    - [Alphabetical](#alphabetical)
+  - [Necessary technical/academic backgrounds](#necessary-technicalacademic-backgrounds)
+  - [Useful phrases and language patterns](#useful-phrases-and-language-patterns)
+    - [Use of articles](#use-of-articles)
+    - [Use of tense(Grammar)](#use-of-tensegrammar)
+    - [Use of **e.g.**](#use-of-eg)
+    - [Describe the application of a technology to a certain field](#describe-the-application-of-a-technology-to-a-certain-field)
+      - [Neural network experiments](#neural-network-experiments)
+      - [Describe a neural network](#describe-a-neural-network)
+      - [Prepositions to describe an act of utilization of a certain method/technology](#prepositions-to-describe-an-act-of-utilization-of-a-certain-methodtechnology)
+        - [via](#via)
+        - [by](#by)
+        - [with](#with)
+        - [using](#using)
+    - [The use of uppercase and lowercase words in academic writing](#the-use-of-uppercase-and-lowercase-words-in-academic-writing)
+    - [The use of zero-article nouns in academic writing](#the-use-of-zero-article-nouns-in-academic-writing)
+    - [Addressing the figures in academic writing](#addressing-the-figures-in-academic-writing)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -285,3 +306,70 @@ Not applicable
   - Neuroscience and study techniques
 - Ali Abdall
   - Has a YouTube channel delicated to share study techniques
+
+
+
+# Temp ==> Academic writing
+- Please merge these contents to the academic writing section.
+## Comments
+- Good to use fancy words at Preface section, keep readers stay at page for Intelligent-or-Humility fallacy, or just encourage experience readers to close the page immediately---he/she probably already know what you are doing during the first few seconds. Anyway around, it wouldn't matter for starters. It cuts both ways, but for this one, its siginificance is neglectable.
+  - The semantics and the "voicing" of preface is all that matters when it comes to aesthetics. Use of fancy words is not comparable to great semantics.
+- It is better to use infinitive form **to do** than **doing** for readers to quickly understand the parallel relationship
+- Misuse of **whereas**, there is no **predicate** in the sentence. Replace it with **In comparison**
+- **If** leads a conditional clause, not a full sentence, for informal scenarios, you may use **What if**, but I don't think the tone, the arguments aforementioned is strong enough :/
+
+- I didn't identify the subject --- **MRI** --- at first glance, because all the commas are driving me crazy.
+- [over/in/for the past twenty years - WordReference](https://forum.wordreference.com/threads/over-in-for-the-past-twenty-years.1652050/)
+- technology is using... Aren't you sure **PI** alreadys is a form of technology?
+- Are you sure **PI** is a protocol?
+- Require more knowledge of **PI** for furthur inspection, currently unavailable.
+- Data: noun(pl)   singular form: datum
+
+- In general sounds more formal
+- reach a trade-off between --> Search trade-off 
+- ... which are Pruning ...  has ambiguity whether it refers to *the accuracy* or *the model size*, or the intended *few options* 
+- Separately--> Doesn't describe a motion with any context.
+- The use of uppercase and lowercase words, umm...
+
+Comments:
+- [Does an uncountable noun take an article if it has an adjective before it?](https://ell.stackexchange.com/questions/16694/does-an-uncountable-noun-take-an-article-if-it-has-an-adjective-before-it#:~:text=The%20short%20answer%20is%20no,to%20count%20or%20vice%20versa.)
+
+Comments:
+- [Most Common Verb Tenses in Academic Writing](https://academicguides.waldenu.edu/writingcenter/grammar/verbtenses#:~:text=Prepositions-,Most%20Common%20Verb%20Tenses%20in%20Academic%20Writing,and%20(c)%20present%20perfect.&text=This%20tense%20indicates%20that%20the,past%2C%20present%2C%20and%20future.)
+
+Comments:
+- **one of the most** is always followed by nouns in plural forms
+- [Using-articles-UNE](https://aso-resources.une.edu.au/academic-writing/grammar/using-articles/#:~:text=The%20indefinite%20article%20(a%2C%20an,nouns%20or%20with%20plural%20nouns.&text=Use%20a%2C%20an%20when%20you,noun%20or%20an%20uncountable%20noun.)) <--Remove the parenthese at the end, the problem with the parsing process of ```Markdown```
+
+Comments:
+- Be aware of tense inconsistencies!
+- Suggest avoid *etc.* at the end of sentences 拯救世界的重担在于你！
+  - [HOW TO USE ETC. IN LISTS OF THINGS - essaysupply](https://www.essaysupply.com/blog/using-etcetera-in-academic-writing#:~:text=One%20of%20the%20reasons%20is,English%20grammar%20and%20composition%20classes.&text=The%20term%20%E2%80%9Cet%20cetera%E2%80%9D%20actually,as%20you%20do%20it%20right.)
+  - [Q: When "etc." falls at the end of a question, how should it be punctuated? - editage Insights](https://www.editage.com/insights/when-etc-falls-at-the-end-of-a-question-would-it-be-puctuated-with-only-a-question-mark-etc-or-with-a-period-followed-by-the-question-mark-etc#:~:text=Generally%2C%20in%20American%20English%2C%20if,as%20the%20final%20punctuation%20mark.)
+
+## Motivation
+- WTH should I do that?
+  - I can still salvage the experience gained in a written manner
+## Terminology
+### Alphabetical
+
+## Necessary technical/academic backgrounds
+## Useful phrases and language patterns
+### Use of articles
+[Using Articles - Purdue University](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html#:~:text=The%20is%20used%20to%20refer,a%2Fan%20the%20indefinite%20article.&text=For%20example%2C%20if%20I%20say,I%20mean%20a%20specific%20book.)
+### Use of tense(Grammar)
+### Use of **e.g.**
+### Describe the application of a technology to a certain field
+#### Neural network experiments
+- Result or results?
+#### Describe a neural network
+- Should **XXX-Net** be plural?
+#### Prepositions to describe an act of utilization of a certain method/technology
+##### via
+##### by 
+##### with
+##### using
+### The use of uppercase and lowercase words in academic writing
+- [Capital letters - Academic writing - UNE](https://aso-resources.une.edu.au/academic-writing/punctuation/capital-letters/#:~:text=One%20of%20the%20most%20common,capital%20(upper%20case)%20letters.&text=Also%2C%20capitalisation%20should%20not%20be,first%20word%20in%20a%20sentence)
+### The use of zero-article nouns in academic writing
+### Addressing the figures in academic writing

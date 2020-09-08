@@ -89,9 +89,12 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
     - Remarks by notation p9/641
       - Recommended going back from time to time
     - First just read, not much grasp of the conceptual structure yet
-    - Process1(Read for pleasure)
+    - Process1(Slow reading)
       - Progress: 19/641 
-
+    - Process2(For software problem solving)
+      - Goal
+        - Identify what sort of problems requires number theory
+        - Build your own mental model of number theory for computer science
 # Graph theory
 - Introduction to Graph Theory - R.J.Wilson
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)

@@ -228,6 +228,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [x] Read and rewrite the AI
 ### 20/40
 - Use ```console.log``` to debug
+  - [ ] The Piece ```moveThroughPieces``` while loop inputs ```x:NaN``` when Pawn moves
 - Learn Heroku
 - Review Minimax function with alpha-beta pruning
 - Study some P5.js

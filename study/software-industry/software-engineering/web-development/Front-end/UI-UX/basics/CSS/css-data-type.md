@@ -9,11 +9,13 @@
     - [pixel](#pixel)
   - [Relative length units](#relative-length-units)
     - [Viewport-percentage lengths](#viewport-percentage-lengths)
+      - [vw](#vw)
       - [vh](#vh)
       - [vm](#vm)
-  - [em](#em)
-  - [rem](#rem)
-    - [Comparison between ```em``` and ```rem```](#comparison-between-em-and-rem)
+    - [Root-weight lengths](#root-weight-lengths)
+      - [em](#em)
+      - [rem](#rem)
+      - [Comparison between ```em``` and ```rem```](#comparison-between-em-and-rem)
   - [Reference](#reference)
 - [```<length-percentage>```](#length-percentage)
 - [```<number>```](#number)
@@ -44,13 +46,16 @@ One of the goals is to instantly translate all the length units to how much spac
 
 ## Relative length units
 ### Viewport-percentage lengths
+#### vw
+- 1% of the viewport's width.
 #### vh
 - Equal to 1% of the height of the viewport's initial containing block
 #### vm
-## em
+### Root-weight lengths
+#### em
 - Font size of the parent, in the case of typographical properties like ```font-size```, and font size of the element itself, in the case of other properties like ```width```.
-## rem
-### Comparison between ```em``` and ```rem```
+#### rem
+#### Comparison between ```em``` and ```rem```
 ```html
 <div class="col col--em">
     <h1>em</h1>

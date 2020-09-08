@@ -57,6 +57,7 @@
     - [Recursive tree](#recursive-tree)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
+    - [Square-cube law](#square-cube-law)
     - [Swinnerton-Dyer Conjecture](#swinnerton-dyer-conjecture)
     - [Symmetric Matrix](#symmetric-matrix)
   - [T](#t)
@@ -245,6 +246,9 @@ $$
 3 & 2 & 0
 \end{bmatrix}
 $$
+
+### Square-cube law
+- [wiki](https://en.wikipedia.org/wiki/Square%E2%80%93cube_law)
 ### Swinnerton-Dyer Conjecture
 
 ### Symmetric Matrix

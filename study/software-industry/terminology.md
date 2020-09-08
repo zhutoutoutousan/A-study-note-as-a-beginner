@@ -10,6 +10,7 @@
     - [Block element 块级元素](#block-element-块级元素)
     - [Boostrap](#boostrap)
   - [C](#c)
+    - [Camel case](#camel-case)
     - [Caret](#caret)
     - [Carousel 轮播图](#carousel-轮播图)
     - [Chai](#chai)
@@ -89,6 +90,7 @@
   - [P](#p)
     - [PaaS](#paas)
     - [Packet switch](#packet-switch)
+    - [Pascal case](#pascal-case)
     - [```PATH```](#path)
     - [Pipe](#pipe)
     - [Promise](#promise)
@@ -110,6 +112,7 @@
     - [Scalability](#scalability)
     - [Scope 作用域](#scope-作用域)
     - [Service](#service)
+    - [Snake case](#snake-case)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [Stream](#stream)
@@ -162,6 +165,8 @@
 ### Boostrap
 
 ## C
+### Camel case
+- camelCase
 ### Caret
 - ```^```
 ### Carousel 轮播图
@@ -336,6 +341,8 @@ A group of servers that stores your data
 - Examples
   - Heroku
 ### Packet switch
+### Pascal case
+- pascal-case
 ### ```PATH```
 ### Pipe
 - (programming symbol)  ```|```
@@ -399,7 +406,8 @@ A cluster where each server stores the same data
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
 - a server running on a computer device, listening for requests at a particular port over a network, serving web documents(HTML, JSON, XML, images), and creating web application services, which serve in solving specific domain problems over the Web(WWW, Internet, HTTP).  See more at [wikipaedia](https://en.wikipedia.org/wiki/Web_service)
-
+### Snake case
+- snake_case
 ### Software architecture
 - **Software architecture** refers to the fundamental structures of a *software system* and the discipline of creating such structures and systems.
 - [Software architecture - Wiki](https://en.wikipedia.org/wiki/Software_architecture)
@@ -424,7 +432,7 @@ The term **Web service(WS)** is either:
     - Progress:
 - RTFM
   - [MDN - SVG element reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)
-  - [MDN - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#SVG_interfaces)
+  - [MDN - DOM-SVG interfaces](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#SVG_interfaces)
 ## T
 ### TDZ 暂时死区
 ### Template engine 模板引擎

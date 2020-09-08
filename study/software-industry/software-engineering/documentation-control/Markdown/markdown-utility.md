@@ -30,11 +30,12 @@
 - [Figures](#figures)
     - [How to insert centered caption in a page?](#how-to-insert-centered-caption-in-a-page)
 - [Table](#table)
-- [Applications of vanilla HTML and CSS in markdown notes](#applications-of-vanilla-html-and-css-in-markdown-notes)
+- [Applications of HTML and CSS in markdown notes](#applications-of-html-and-css-in-markdown-notes)
   - [Accordian](#accordian)
     - [Troubleshoot](#troubleshoot)
   - [Animation](#animation)
     - [Embedded gif animation](#embedded-gif-animation)
+    - [SVG](#svg)
 - [Hyperlink](#hyperlink)
 - [Reference](#reference)
 
@@ -189,7 +190,7 @@ For more checkout [Using an image caption in Markdown Jekyll](https://stackoverf
 | 8 &nbsp; &nbsp; ```A[i+1] = key``` | $c_8$ | n -1 |
 [Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
 
-# Applications of vanilla HTML and CSS in markdown notes
+# Applications of HTML and CSS in markdown notes
 ## Accordian
 ```markdown
 <details>
@@ -215,6 +216,62 @@ The user plug-in of Vscode might not parse the ```markdown``` code in the HTML. 
   - Add ```open``` atttribute and delete it when done editing
 ## Animation
 ### Embedded gif animation
+### SVG
+
+Why did that happen?
+
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="red" />
+
+  <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+
+</svg>
+```
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="red" />
+
+  <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+</svg>
+```
+
+
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="red" />
+
+  <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+
+</svg>
+```
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="red" />
+
+  <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+</svg>
+```
 
 # Hyperlink
 

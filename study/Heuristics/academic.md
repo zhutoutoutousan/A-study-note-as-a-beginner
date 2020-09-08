@@ -11,6 +11,7 @@
         - [Spaced repetition](#spaced-repetition)
         - [Forgetting curve](#forgetting-curve)
       - [Working memory](#working-memory)
+    - [Context switch](#context-switch)
     - [Procrastination](#procrastination)
       - [Pomodoro](#pomodoro)
     - [Resource](#resource)
@@ -124,8 +125,17 @@ Four key time stamps to review what I've learned:
 - The working memory is centered out of the prefrontal cortex
 - The working memory can store only about four chunks of information
 - The short-term memory can be taken as an inefficient mental blackboard that is constantly fading away. Repetitions required for information to stay.
+
+### Context switch
+- What is context switch defined on the neurological level for academic study or software development?
+- What is the optimal time stamp when you should perform a context switch?
+- Using multiple virtual desktops to seperate workflow into different groups could be useful to plug the energy leak when performing the context switch.
 ### Procrastination
 - It seems that the procrastination between each training/study session(less than 15 minutes) can serve as a temporary relax. Just to ease the psychological and physical obstacles for starting from where I left off.
+- Dopamine drainage and **input theory**
+  - [如何学习语言：输入假说（为什么大多数方法没有效果）](https://www.youtube.com/watch?v=J_EQDtpYSNM)
+  - [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
+  - Can you describe the sweet spot of known and the unknown proportion? No need for strict answers, any context would be good.
 #### Pomodoro
 - Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
 - When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)

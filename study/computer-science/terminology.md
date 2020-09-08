@@ -17,9 +17,9 @@
   - [CMTS](#cmts)
   - [CO](#co)
   - [Context switch](#context-switch)
-    - [Cryptoanalysis](#cryptoanalysis)
-    - [Cryptography](#cryptography)
-    - [Cryptology](#cryptology)
+  - [Cryptoanalysis](#cryptoanalysis)
+  - [Cryptography](#cryptography)
+  - [Cryptology](#cryptology)
 - [D](#d)
   - [Data structures](#data-structures)
   - [Data type](#data-type)
@@ -125,11 +125,12 @@
 ## CO
 - (networking)Central office
 ## Context switch
-### Cryptoanalysis
+- A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
+## Cryptoanalysis
 - studies the breaking of cryptosystems.
-### Cryptography
+## Cryptography
 - Cryptography concerns itself with the design of cryptosystems
-### Cryptology
+## Cryptology
 - *Cryptology*, the study of cryptosystems, can be subdivided into two disciplines.
 
 # D

@@ -98,6 +98,7 @@
     - [Proxy](#proxy)
   - [R](#r)
     - [Raster graphics](#raster-graphics)
+    - [rAF](#raf)
     - [React element](#react-element)
     - [Reactive programming](#reactive-programming)
     - [React.js](#reactjs)
@@ -364,6 +365,9 @@ A group of servers that stores your data
 ### Raster graphics
 - In computer graphics, a **Raster graphics** or **Bitmap** image is a dot matrix data structure that represents a genearlly rectangular grid of pixels(points of color), viewable via a monitor, paper, or other display medium.
 - [wiki](https://en.wikipedia.org/wiki/Raster_graphics)
+
+### rAF
+- ```window.requestAnimationFrame()```
 ### React element
 - (React.js)```render``` returns a **React element**
 

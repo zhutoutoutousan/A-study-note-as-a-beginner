@@ -26,6 +26,7 @@
     - [Combos to use](#combos-to-use)
     - [Related CSS rules](#related-css-rules)
 - [Animation](#animation)
+  - [Learn from projects](#learn-from-projects)
   - [Arsenal](#arsenal)
     - [Pseudo-selector](#pseudo-selector)
     - [Animation body](#animation-body)
@@ -148,6 +149,9 @@ Use of negative margins equal to half of that width and height, then position it
 ### Related CSS rules
 
 # Animation
+## Learn from projects
+- [Bouncing gravity ball](https://codepen.io/zhutoutoutousan/pen/oNxEYMv)
+  - [Example](https://codepen.io/sdras/pen/771eaa6936cc619048604ce8a2331b37)
 ## Arsenal
 ### Pseudo-selector
 - ```:hover```
@@ -178,6 +182,10 @@ Use of negative margins equal to half of that width and height, then position it
       - Positive value: move down
   -  ```translate3d```
   - ```transition```
+
+ - Web API
+   - ```window.requestAnimationFrame()```
+     - [RTFM](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 ### Reference
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d)
   - 3D display

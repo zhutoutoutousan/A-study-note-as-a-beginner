@@ -139,6 +139,59 @@ console.log(removeElementByIndex(a, 3))
 ## Prime numbers
 ### Check if a number is a prime
 - [JavaScript Program to Check Prime Number - Programiz](https://www.programiz.com/javascript/examples/prime-number)
+- Determine the maximum possible divisor $d$ of a positive integer $n$
+```javascript
+
+
+// |---------------------------|
+// |-------------|  <-- This is maximum divisor
+
+// |--------|
+// |----| <-- Maximum
+// |-------| 
+// |----| <-- Maximum
+
+function primeFactors(n){
+    let processingNumber = n;
+    let testingFactor = 2;
+    let testingFactorCount = 0;  
+    let outputString = '';
+    
+    const isDivisorOf = (a, b) => a % b === 0;
+  
+    while (processingNumber !== 1 && processingNumber > n) {
+      while (processingNumber % testingFactor === 0) {
+        if(processingNumber / testingFactor % testingFactor === 0) {
+          testingFactorCount++;
+          processingNumber /= testingFactor;
+        }
+        else {
+          processingNumber /= testingFactor;
+          outputString += `(${testingFactor}**${testingFactorCount})`;
+          testingFactor++;
+        }
+      }  
+    }
+    return outputString;
+}
+
+// https://www.codewars.com/kata/54d512e62a5e54c96200019e/train/javascript
+// ISSUE: Page irresponsive after 
+//  isPrime(98764321261)
+const isPrime = (num) => {
+  if(num === 1)return "Neither";
+  for (let i = 2; i <= Math.ceil(num / 2); i++) {
+console.log(`CHECK: divisor?${i}`)
+    if (num % i === 0) {
+console.log(`RESULT: The divisor is ${i}`);
+      return false;
+      }
+  }
+  return true;
+}
+
+```
+
 ### Generate prime numbers
 - [Need to generate prime numbers in JavaScript](https://stackoverflow.com/questions/21966000/need-to-generate-prime-numbers-in-javascript)
 

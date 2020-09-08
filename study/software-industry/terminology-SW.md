@@ -444,6 +444,7 @@ The term **Web service(WS)** is either:
     - Important recaps
       - Grid, pixels
     - Progress:
+      - [Positions](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions)
 - RTFM
   - [MDN - SVG element reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)
   - [MDN - DOM-SVG interfaces](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#SVG_interfaces)

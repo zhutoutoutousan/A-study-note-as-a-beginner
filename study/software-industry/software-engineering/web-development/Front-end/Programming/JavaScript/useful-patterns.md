@@ -25,6 +25,7 @@
     - [Array element](#array-element)
 - [Mathematic series](#mathematic-series)
   - [Prime numbers](#prime-numbers)
+    - [Check if a number is a prime](#check-if-a-number-is-a-prime)
     - [Generate prime numbers](#generate-prime-numbers)
 - [Work with series](#work-with-series)
   - [Work with **immutable** objects](#work-with-immutable-objects)
@@ -136,6 +137,8 @@ console.log(removeElementByIndex(a, 3))
 
 # Mathematic series
 ## Prime numbers
+### Check if a number is a prime
+- [JavaScript Program to Check Prime Number - Programiz](https://www.programiz.com/javascript/examples/prime-number)
 ### Generate prime numbers
 - [Need to generate prime numbers in JavaScript](https://stackoverflow.com/questions/21966000/need-to-generate-prime-numbers-in-javascript)
 

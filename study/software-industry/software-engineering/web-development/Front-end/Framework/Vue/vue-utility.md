@@ -55,6 +55,7 @@
     - [Format](#format)
     - [Usage](#usage)
 - [$ Methods](#-methods)
+  - [```$event```](#event)
   - [```$emit```](#emit)
 - [Teamplates and components](#teamplates-and-components)
   - [Heads-ups](#heads-ups-1)
@@ -70,9 +71,13 @@
   - [---](#hr)
     - [```<Root>```](#root)
 - [Troubleshoot](#troubleshoot)
-  - [[Vue warn]: Avoid mutating a prop directly since...](#vue-warn-avoid-mutating-a-prop-directly-since)
-  - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
-  - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
+  - [Debugging](#debugging)
+    - [Using ```<pre>```](#using-pre)
+  - [Bugs gallary](#bugs-gallary)
+    - [[Vue warn]: Avoid mutating a prop directly since...](#vue-warn-avoid-mutating-a-prop-directly-since)
+    - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
+    - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
+    - [Uncaught TypeError: Vue.component is not a function](#uncaught-typeerror-vuecomponent-is-not-a-function)
 - [Extensive resource](#extensive-resource)
 # Vanilla JS vs Vue
 
@@ -441,7 +446,7 @@ new Vue({
 - To dynamically bind props to data on the parents, use ```v-bind``` or ```:```
 
 ### Heads ups
-- Objects and arrays need their defaults to be returend from a function:
+- Objects and arrays need their defaults to be returned from a function:
 ```javascript
 props: {
   randomProp: {
@@ -502,7 +507,67 @@ new Vue({
 ```
 
 # $ Methods
+## ```$event```
 ## ```$emit```
+- Usage
+  - If you change the ```prop``` in the functions in ```methods``` property, the data property of the root and the child won't be the same. 
+```javascript
+// bad
+Vue.component('child', {
+  props: ['text'],
+  template: '#child',
+  methods: {
+    talkToMe() {
+      this.text = 'forget introductions, I want a blowjob.'
+    }
+  }
+});
+
+// good
+Vue.component('child', {
+  props: ['text'],
+  template: '#child',
+  methods: {
+    // The child is reporting its activity to the parent
+    // fireEvent() {
+    //   this.$emit('myEvent', eventValue);
+    // }
+    talkToMe() {
+      this.text = 'forget introductions, I want a blowjob.';
+      this.$emit('changeText', this.text)
+    }
+  }
+});
+
+```
+
+```html
+<!-- bad -->
+<div id="app">
+  <child :text="message" ></child>
+</div>
+<script type="text/x-template" id="child">
+  <div>
+     <p> {{ text }}</p>
+     <button @click="talkToMe"> Let's talk</button>
+  </div>
+</script>
+
+
+<!-- good -->
+<!-- <my-component @myEvent="parentHandler"></my-component> -->
+<div id="app">
+  <child :text="message" @changeText="message = $event"></child>
+</div>
+<script type="text/x-template" id="child">
+  <div>
+     <p> {{ text }}</p>
+     <button @click="talkToMe"> Let's talk</button>
+  </div>
+</script>
+
+```
+
 
 # Teamplates and components
 ## Heads-ups
@@ -528,7 +593,13 @@ new Vue({
 ### ```<Root>```
 
 # Troubleshoot
-## [Vue warn]: Avoid mutating a prop directly since...
+## Debugging
+### Using ```<pre>```
+```html
+<pre>{{ $data }}</pre>
+```
+## Bugs gallary
+### [Vue warn]: Avoid mutating a prop directly since...
 - Props data flow are always from parent to child communication(one way)
 ```
 WARN: ... since the value will be overwritten whenever the parent component re-renders. Instead, use a data or computed property based on the prop's value. Prop being mutated: "..." found in ....
@@ -564,7 +635,7 @@ Vue.component('child', {
 // fix
 
 ```
-## Uncaught TypeError: Vue.createApp is not a function
+### Uncaught TypeError: Vue.createApp is not a function
 ```javascript
 // This is vue-next syntax, use vue-next instead of older versions
 const App =  {
@@ -577,7 +648,7 @@ const App =  {
 Vue.createApp(App).mount('#app')
 ```
 
-## Uncaught TypeError: Vue is not a constructor 
+### Uncaught TypeError: Vue is not a constructor 
 ```javascript
 // This code will throw a type error
 let vm = new Vue({
@@ -602,8 +673,8 @@ const App =  {
 }
 Vue.createApp(App).mount('#app')
 ```
-
-
+### Uncaught TypeError: Vue.component is not a function
+- Maybe you just included a wrong CDN link
 
 # Extensive resource
 

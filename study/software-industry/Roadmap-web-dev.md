@@ -181,6 +181,9 @@
     - Progress track: Watchers 1hr 50:13 + 2min31s/ 5hrs
       - [codepenn follow along](https://codepen.io/zhutoutoutousan/pen/wvGPpww?editors=1111)
       - You should take a look at the little project in the video ```Methods``` and work on it
+      - Contents with qualms
+        - Communicating Events:
+          - I don't quite get how the bouncing ball works, maybe I should come back later to figure it out, also how ```$emit``` works
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
 

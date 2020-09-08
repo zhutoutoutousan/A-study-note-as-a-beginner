@@ -441,6 +441,8 @@ The term **Web service(WS)** is either:
   - [w3.org - svg](https://www.w3.org/2000/svg)
   - [MDN - svg](https://developer.mozilla.org/en-US/docs/Web/SVG)
   - [MDN - follow along tutorials](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+    - Important recaps
+      - Grid, pixels
     - Progress:
 - RTFM
   - [MDN - SVG element reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)

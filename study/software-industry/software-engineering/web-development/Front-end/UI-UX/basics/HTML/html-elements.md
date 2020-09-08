@@ -64,6 +64,10 @@
   - [video](#video)
   - [audio](#audio)
 - [Embedded content](#embedded-content)
+  - [```<iframe>```](#iframe)
+  - [```<svg>```](#svg)
+    - [```<line>```](#line)
+    - [```<circle>```](#circle)
 - [Scripting](#scripting)
   - [canvas](#canvas)
   - [script](#script-1)
@@ -183,7 +187,23 @@ Importance for accessibilitiy purposes:
 ## audio
 
 # Embedded content
-
+## ```<iframe>```
+## ```<svg>```
+- xmlns
+- viewBox
+### ```<line>```
+- x1
+- x2
+- y1
+- y2
+- stroke
+- stroke-width
+- stroke-dasharray
+### ```<circle>```
+- r
+- cx
+- cy
+- fill
 # Scripting
 ## canvas
 ## script
@@ -193,6 +213,7 @@ Importance for accessibilitiy purposes:
 #### text/x-template
 - Vue.js
 # Obsolete and deprecated elements
+
 
 
 # **Which element for which scenario?**

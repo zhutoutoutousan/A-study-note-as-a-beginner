@@ -75,6 +75,7 @@
     - [```main size```](#main-size)
     - [Methods](#methods)
     - [Mocha](#mocha)
+    - [Mutable](#mutable)
     - [MVC](#mvc)
   - [N](#n)
     - [Name space](#name-space)
@@ -109,6 +110,7 @@
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [Stream](#stream)
+    - [SVG](#svg)
   - [T](#t)
     - [TDZ 暂时死区](#tdz-暂时死区)
     - [Template engine 模板引擎](#template-engine-模板引擎)
@@ -289,6 +291,8 @@ A group of servers that stores your data
 ### Mocha
 - Mocha is a featuer-rich JavaScript test framework running on ```Node.js``` and in the browser, making asynchronous testing simple and fun.
 - Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
+
+### Mutable
 ### MVC
 - **Model-view-controller** is a *software design pattern* commonly used for developing *user interfaces* that divides the related program logic into three interconnected elements.
 - [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
@@ -389,6 +393,9 @@ The term **Web service(WS)** is either:
 ### Software design pattern
 ### Stream
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
+### SVG
+- SVG: Scalable Vector Graphics
+- [w3.org - svg](https://www.w3.org/2000/svg)
 ## T
 ### TDZ 暂时死区
 ### Template engine 模板引擎

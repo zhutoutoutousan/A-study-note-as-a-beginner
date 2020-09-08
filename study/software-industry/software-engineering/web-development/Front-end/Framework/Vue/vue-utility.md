@@ -74,6 +74,7 @@
   - [Debugging](#debugging)
     - [Using ```<pre>```](#using-pre)
   - [Bugs gallary](#bugs-gallary)
+    - [Codepen: Vue devTool doesn't work in life view](#codepen-vue-devtool-doesnt-work-in-life-view)
     - [[Vue warn]: Avoid mutating a prop directly since...](#vue-warn-avoid-mutating-a-prop-directly-since)
     - [Uncaught TypeError: Vue.createApp is not a function](#uncaught-typeerror-vuecreateapp-is-not-a-function)
     - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
@@ -538,7 +539,7 @@ Vue.component('child', {
     }
   }
 });
-
+*
 ```
 
 ```html
@@ -554,7 +555,7 @@ Vue.component('child', {
 </script>
 
 
-<!-- good -->
+<!-- Still some issues -->
 <!-- <my-component @myEvent="parentHandler"></my-component> -->
 <div id="app">
   <child :text="message" @changeText="message = $event"></child>
@@ -599,6 +600,7 @@ Vue.component('child', {
 <pre>{{ $data }}</pre>
 ```
 ## Bugs gallary
+### Codepen: Vue devTool doesn't work in life view
 ### [Vue warn]: Avoid mutating a prop directly since...
 - Props data flow are always from parent to child communication(one way)
 ```

@@ -178,8 +178,8 @@
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
-    - Progress track: Watchers 1hr 50:13 + 2min31s/ 5hrs
-      - [codepenn follow along](https://codepen.io/zhutoutoutousan/pen/wvGPpww?editors=1111)
+    - Progress track: Watchers 2hr 00:06 + 4min09s/ 5hrs
+      - [codepenn follow along](https://codepen.io/sdras/pen/BpjQzE)
       - You should take a look at the little project in the video ```Methods``` and work on it
       - Contents with qualms
         - Communicating Events:

@@ -63,6 +63,7 @@
   - [Vue components](#vue-components)
     - [Local component](#local-component)
     - [Global component](#global-component)
+  - [Vue slots](#vue-slots)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
@@ -582,6 +583,32 @@ Vue.component('child', {
 - RTFM
 ### Global component
 - RTFM
+
+## Vue slots 
+How slot works
+- [Project](https://codepen.io/sdras/pen/BpjQzE)
+```html
+<!-- app -->
+    <div id="post">
+        <main>
+            <slot name="header"></slot>
+            <slot></slot>
+        </main>
+    </div>
+
+    <!-- Component -->
+    <app-post>
+        <h1 slot="header">This is the main title</h1>
+        <p>I will go in the unnamed slot!</p>
+    </app-post>
+
+
+    <!--  Rendered -->
+    <main>
+      <h1>This is the main title</h1>
+      <p>I will go in the unnamed slot!</p>
+    </main>
+```
 # Vue-CLI
 
 # Vue-router

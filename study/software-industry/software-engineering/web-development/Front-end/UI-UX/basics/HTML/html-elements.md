@@ -194,6 +194,9 @@ Importance for accessibilitiy purposes:
 ## ```<svg>```
 - xmlns
 - viewBox
+- version
+- baseProfile
+- width/height
 ### ```<line>```
 - x1
 - x2

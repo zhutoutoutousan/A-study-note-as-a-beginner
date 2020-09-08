@@ -15,6 +15,7 @@
     - [Carousel 轮播图](#carousel-轮播图)
     - [Chai](#chai)
     - [Command line argument](#command-line-argument)
+    - [Complex system](#complex-system)
     - [Class](#class)
     - [CLI](#cli)
     - [Closure 闭包](#closure-闭包)
@@ -96,6 +97,7 @@
     - [Promise](#promise)
     - [Proxy](#proxy)
   - [R](#r)
+    - [Raster graphics](#raster-graphics)
     - [React element](#react-element)
     - [Reactive programming](#reactive-programming)
     - [React.js](#reactjs)
@@ -128,6 +130,7 @@
     - [URI](#uri)
     - [User interface(UI)](#user-interfaceui)
   - [V](#v)
+    - [Vector graphics](#vector-graphics)
     - [Vue components](#vue-components)
     - [Vue Computed](#vue-computed)
     - [Vue instance](#vue-instance)
@@ -167,13 +170,15 @@
 ## C
 ### Camel case
 - camelCase
+
 ### Caret
 - ```^```
 ### Carousel 轮播图
 ### Chai
 - Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 ### Command line argument
-
+### Complex system
+- [wiki](https://en.wikipedia.org/wiki/Complex_system)
 ### Class
 - (ES6)
 - (java)A java class is a group of data items with associated functions that can perform operations on that data. The data items in a calss are called *variables*, or sometimes *fields*; in Java, functions are called *methods*.
@@ -356,6 +361,9 @@ A group of servers that stores your data
 - (networking)
 - (front-end framework)
 ## R
+### Raster graphics
+- In computer graphics, a **Raster graphics** or **Bitmap** image is a dot matrix data structure that represents a genearlly rectangular grid of pixels(points of color), viewable via a monitor, paper, or other display medium.
+- [wiki](https://en.wikipedia.org/wiki/Raster_graphics)
 ### React element
 - (React.js)```render``` returns a **React element**
 
@@ -401,6 +409,9 @@ A cluster where each server stores the same data
 ### RxJS
 ## S
 ### Scalability
+- **Scalability** is the property of a system to handle a growing amount of work by adding resources to the system.
+  - In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs, and applications.
+- [wiki](https://en.wikipedia.org/wiki/Scalability)
 ### Scope 作用域
 ### Service
 The term **Web service(WS)** is either:
@@ -420,6 +431,7 @@ The term **Web service(WS)** is either:
 - SVG is an XML language, similar to XHTML, which can be used to draw vector graphics. It can be used to create an image either by specifying all the lines and shapes necessary, by modifying already existing raster images, or by a combination of both. The image and its components can also be transformed, composited together, or filtered to change their appearance completely.
   - Features
     - Support gradients, rotations, filter effects, animations, interactivity with JavaScript etc..
+    - [What is the difference between SVG and HTML5 Canvas?](https://www.tutorialspoint.com/What-is-the-difference-between-SVG-and-HTML5-Canvas#:~:text=SVG%20gives%20better%20performance%20with,or%20larger%20number%20of%20objects.&text=SVG%20is%20vector%20based%20and,based%20and%20composed%20of%20pixel.)
   - Downside
     - Loading SVG can be slow.
   - Benefits
@@ -447,6 +459,7 @@ The term **Web service(WS)** is either:
 ### User interface(UI)
 
 ## V
+### Vector graphics
 ### Vue components
 - A collection of elements that are encapsulated into a group that can be accessed through one single element
 ### Vue Computed

@@ -65,6 +65,7 @@
   - [audio](#audio)
 - [Embedded content](#embedded-content)
   - [```<iframe>```](#iframe)
+  - [```<g>```](#g)
   - [```<svg>```](#svg)
     - [```<line>```](#line)
     - [```<circle>```](#circle)
@@ -188,6 +189,8 @@ Importance for accessibilitiy purposes:
 
 # Embedded content
 ## ```<iframe>```
+## ```<g>```
+- Used to group several basic shapes together.
 ## ```<svg>```
 - xmlns
 - viewBox

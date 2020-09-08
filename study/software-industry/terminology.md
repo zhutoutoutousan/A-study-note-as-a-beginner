@@ -38,6 +38,7 @@
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [H](#h)
+    - [HTML](#html)
     - [HTTP routing](#http-routing)
   - [I](#i)
     - [IDE](#ide)
@@ -101,6 +102,7 @@
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
     - [Routing](#routing)
+    - [Royalty-free](#royalty-free)
     - [Runtime system](#runtime-system)
     - [RxJS](#rxjs)
   - [S](#s)
@@ -135,6 +137,10 @@
     - [Windowing system](#windowing-system)
     - [windows](#windows)
     - [windows powershell](#windows-powershell)
+    - [W3C](#w3c)
+  - [X](#x)
+    - [XHTML](#xhtml)
+    - [XML](#xml)
   - [%](#)
     - [```%APPDATA%```](#appdata)
     - [```%LOCALAPPDATA%```](#localappdata)
@@ -210,6 +216,9 @@ A group of servers that stores your data
 ## G
 ### Gtk APP
 ## H
+### HTML
+- sadas
+  - HTML is case-insensitive
 ### HTTP routing
 - [Heroku](https://devcenter.heroku.com/articles/http-routing)
 ## I
@@ -376,6 +385,9 @@ A cluster where each server stores the same data
 ### Requests for comments(RFCs)
 ### Routing
 **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on). [\[express.js\]](https://expressjs.com/en/starter/basic-routing.html)
+
+### Royalty-free
+- Royalty-free material subject to copyright or other intellectual property rights may be used without the need to pay royalties or license fees for each use, per each copy or volume sold or some time period of use or sales.
 ### Runtime system
 ### RxJS
 ## S
@@ -395,7 +407,21 @@ The term **Web service(WS)** is either:
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ### SVG
 - SVG: Scalable Vector Graphics
-- [w3.org - svg](https://www.w3.org/2000/svg)
+- SVG is an XML language, similar to XHTML, which can be used to draw vector graphics. It can be used to create an image either by specifying all the lines and shapes necessary, by modifying already existing raster images, or by a combination of both. The image and its components can also be transformed, composited together, or filtered to change their appearance completely.
+  - Features
+    - Support gradients, rotations, filter effects, animations, interactivity with JavaScript etc..
+  - Downside
+    - Loading SVG can be slow.
+  - Benefits
+    - There is a DOM interface available for it.(Web API)
+    - Doesn't require third-party extensions.
+- Starter documents
+  - [w3.org - svg](https://www.w3.org/2000/svg)
+  - [MDN - svg](https://developer.mozilla.org/en-US/docs/Web/SVG)
+  - [MDN - follow along tutorials](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+    - Progress:
+- RTFM
+  - [MDN - SVG element reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)
 ## T
 ### TDZ 暂时死区
 ### Template engine 模板引擎
@@ -436,6 +462,14 @@ The term **Web service(WS)** is either:
 ### windows
 ### windows powershell
 - PowerShell is a more advanced version of the cmd used to run external programs like ping or copy and automate many different system administration tasks which are not accessible from cmd.exe. It's quite similar to cmd except it's more powerful and used different commands altogether.
+### W3C
+- [Official website](https://www.w3.org/)
+## X
+### XHTML
+- XHTML is case-sensitive
+### XML
+- XML: Extensible Markup Language
+- [RTFM entry](https://www.w3.org/TR/REC-xml/)
 ## %
 ### ```%APPDATA%```
 ### ```%LOCALAPPDATA%```

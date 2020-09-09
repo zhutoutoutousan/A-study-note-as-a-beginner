@@ -99,6 +99,7 @@
 
 # Knowledge base for plan making
 ## Nutrition
+- [Estimating Accuracy at Exercise Intensities: A Comparative Study of Self-Monitoring Heart Rate and Physical Activity Wearable Devices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374271/)
 ## Kinesiology
 ## Muscle growth
 ## Workout --> Goal relationship

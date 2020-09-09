@@ -36,6 +36,7 @@
   - [M](#m)
     - [Map](#map)
     - [Matrix](#matrix)
+    - [MAPE/MAPD](#mapemapd)
     - [Modeling](#modeling)
   - [N](#n)
     - [Non-negative integer](#non-negative-integer)
@@ -168,9 +169,23 @@ a_1 & a_2 & a_3
 $$
 
 - Matrices are handy for storing and processing data in applications. 
+
+### MAPE/MAPD
+
+$$
+M=\frac{1}{n}\sum_{t=1}^{n}|\frac{A_t-F_t}{A_t}|
+$$
+
+- MAPE: mean absolute percentage error
+- The **mean absolute percentage error(MAPE)**, also known as **mean absolute percentage deviation(MAPD)**, is a measure of prediction accuracy of a forecasting method in statistics.
+- $A_t$ is the actual value, $F_t$ is the forecast value.
+- [wiki](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
+
 ### Modeling
 - If we want to solve an engineering problem(usually of a physical nature), we first have to formulate the problem as a mathematical expression in terms of variables, functions, and equations. Such an expression is known as a mathematical model of the given problem. The process of setting up a model, solving it mathematically, and interpreting the result in physical or other terms is called *mathematical modeling* or, briefly, **modeling**.
 - The four stages of using mathematical modeling to solve a real problem?
+
+
 
 ## N
 ### Non-negative integer

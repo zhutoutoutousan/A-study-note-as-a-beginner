@@ -5,6 +5,14 @@
 ### Covet
 ### 
 
+# Tag
+- Requires **Web crawler**, **big data**, **social psychology**, **software observability**
+## Geology-->population
+### Religion
+### Social economic state
+### Education
+
+
 # NegativeEnergy2Benefit converter
 
 ## Upset2Benefit converter

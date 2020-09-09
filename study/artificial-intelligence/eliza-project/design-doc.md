@@ -1,4 +1,12 @@
+# Definition
+## Negative energy
+### Loneliness
+### Envy
+### Covet
+### 
+
 # NegativeEnergy2Benefit converter
+
 ## Upset2Benefit converter
 - Detect a certain group of people having a bad day, extract their level of irritabilities and level of irrationality, create some advertising strategy accordingly that can prompt them to purchase the product to raise sales quantities.
   - Detect if the user is irritable or high in irrationality
@@ -9,3 +17,4 @@
 ## PublicHate2Benefit converter
 
 ## OnlineShame2Benefit converter
+

@@ -77,6 +77,7 @@
   - [UI&UX](#uiux)
   - [Project management](#project-management)
 - [Interview ready?](#interview-ready)
+- [Problem solving proficiency](#problem-solving-proficiency)
 - [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
   - [Chromium](#chromium)
 
@@ -316,6 +317,12 @@
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
 - [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)
   - Progress:
+
+# Problem solving proficiency
+- Leetcode
+- Hackerrank
+- Codewar
+- [Projecteuler](https://projecteuler.net/)
 # Deep dive - Into the abyss
 ## Chromium
 - [Chromium source code](https://source.chromium.org/)

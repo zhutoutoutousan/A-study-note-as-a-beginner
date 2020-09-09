@@ -17,12 +17,14 @@
   - [CMTS](#cmts)
   - [CO](#co)
   - [Context switch](#context-switch)
+  - [Control flow](#control-flow)
   - [Cryptoanalysis](#cryptoanalysis)
   - [Cryptography](#cryptography)
   - [Cryptology](#cryptology)
 - [D](#d)
   - [Data structures](#data-structures)
   - [Data type](#data-type)
+  - [Declarative programming](#declarative-programming)
   - [Dial-up](#dial-up)
   - [Dictionary](#dictionary)
   - [Distributed application](#distributed-application)
@@ -126,6 +128,7 @@
 - (networking)Central office
 ## Context switch
 - A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
+## Control flow
 ## Cryptoanalysis
 - studies the breaking of cryptosystems.
 ## Cryptography
@@ -137,6 +140,8 @@
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
 ## Data type
+## Declarative programming
+- In computer science, **declarative programming** is a programming paradigm---a style of building the structure and elements of computer programs---that expresses the logic of a computation without describing its control flow.
 ## Dial-up
 ## Dictionary
 - (Computer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.

@@ -15,7 +15,7 @@
     - Process 2(Serious reading)
   - YouTube videos
   - Erinnerungen, Träume, Gedanken
-    - [Link1 - English version](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
+    - [Link1 - English version - Can be downloaded](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
     - [Link2](https://epdf.pub/erinnerungen-trume-gedanken-c-g-jung.html)
   - Die Archetypen und das kolletive Unbewußte
     - [Link1 - English version](https://www.are.na/block/1493356)
@@ -24,6 +24,15 @@
     - Paperback version can be obtained later
     - Process 1(Normal reading)
       - Progress(English version - link1): 21/566
+    - P.O.I
+      - Carus
+      - Hartmann
+      - Stanley Dell
+        - *The Integration of the Personality* (New York, 1939; London, 1949)
+      - Sigmund Freud
+        - *Von den Wurzeln des Bewusststeins*(Zurich, 1954)
+      - Language barrier
+        - Some contents require **Greek** level B2 to unlock, suggest start with typewriting
 - Carl Rogers
 - Sigmund Freud
 - Gustave Le Bon

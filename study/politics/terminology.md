@@ -26,6 +26,9 @@
   - [E](#e)
     - [Echo chamber](#echo-chamber)
     - [Economic growth](#economic-growth)
+    - [Egalitarianism](#egalitarianism)
+    - [Elite theory](#elite-theory)
+    - [Elitism](#elitism)
     - [Embody](#embody)
     - [Exorbitant](#exorbitant)
     - [Export](#export)
@@ -62,6 +65,7 @@
   - [P](#p)
     - [Persecution](#persecution)
     - [PLA](#pla)
+    - [Pluralism](#pluralism)
     - [Proclamation](#proclamation)
     - [Political correctness](#political-correctness)
     - [Politiquement correct](#politiquement-correct)
@@ -79,6 +83,7 @@
   - [S](#s)
     - [Scatology](#scatology)
     - [State-owned bank](#state-owned-bank)
+    - [Social stratification](#social-stratification)
     - [Superpower](#superpower)
     - [SOE](#soe)
     - [Subvert](#subvert)
@@ -127,6 +132,12 @@
 ### Echo chamber
 - (media)
 ### Economic growth
+### Egalitarianism
+- **Egalitarianism**, or **equalitarianism**, is a school of thought within political philosophy that builds from the concept of social equality, prioritizing it for all people.
+- [wiki](https://en.wikipedia.org/wiki/Egalitarianism)
+### Elite theory
+### Elitism
+- **Elitism** is the belief or attitude that individuals who form an *elite* --- a select group of people with an intrinsic quality, high intellect, wealth, special skills, or experience---are more likely to be constructive to society as a whole, and therefore deserve influence or authority greater than that of others.
 ### Embody
 ### Exorbitant
 ### Export
@@ -172,9 +183,12 @@
 ### Persecution
 - (noun)hostility and ill-treatment, especially because of race or political or religious beliefs
 ### PLA
+### Pluralism
+- Classical **pluralism** is the veiw that politics and decision making are located mostly in the framework of government, but that many non-governmental groups use their resources to exert influence.
 ### Proclamation
 ### Political correctness
 - "谦虚"在中国是否为政治正确？
+- [Political correctness: a force for good? A Munk Debate - Jordan B. Peterson](https://www.youtube.com/watch?v=ST6kj9OEYf0)
 ### Politiquement correct
 - (French) Political correctness
 ### Political polarization
@@ -202,6 +216,8 @@
 ### Scatology
 - Used to report the act of saying 'shit' by some high-profile political figures
 ### State-owned bank
+### Social stratification
+- **Social stratification** refers to a society's categorization of its people into groups based on socioeconomic factors like wealth, income, race, education, ethnicity, gender, occupation, social status, or derived power(social and political).
 ### Superpower
 - Definition
   - [Why China Will Not Become the Dominant Power in Asia](https://www.youtube.com/watch?v=_AvNT3vyzr0)

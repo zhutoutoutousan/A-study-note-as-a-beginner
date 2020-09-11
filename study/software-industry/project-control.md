@@ -69,8 +69,6 @@
 - [Problem solving proficiency](#problem-solving-proficiency)
   - [Time-control](#time-control-5)
     - [Project completion recording workbench(10/40)](#project-completion-recording-workbench1040)
-    - [10/40](#1040-5)
-    - [20/40](#2040-5)
     - [30/40](#3040-5)
     - [40/40](#4040-5)
   - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
@@ -315,70 +313,14 @@ xxxxxxx...August-----------------------September--------------------------->|
 - JavaScript algorithm
 - Data structure
 - Algorithms
-### 10/40
-- [ ] Study and take notes of all the data structure and algorithms
-  - [link](https://github.com/trekhleb/javascript-algorithms)
-  - Do this the hard way, follow along the coding for better muscle memory
-  - Learn to manage your time, record the duration of each training session for project development balance
-    - Start time: 
-      - 1/40-4/40(Study phase): 
-        - Linked-List
-          - [x] What it is
-          - [x] Code along
-            - [x] Can use chrome DevTool to check the OOP
-          - [ ] Pick some exercise
-            - [ ] [Top 20 Linked List Interview Question](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/)
-              - [ ] Progress
-        - Hashmap
-          - [x] What it is
-            - [x] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-          - [x] Code along
-            - [x] Can use chrome DevTool to check the OOP
-    - Keep training on ```codewar``` and ```LeetCode```
-      - Learn more about ```jest``` to get familiar with the JavaScript testing environment
-
-### 20/40
-- [ ] Every day, do a full sweep of review --- Forgetting curve style
-  - [link](https://github.com/trekhleb/javascript-algorithms)
-  - Do this the hard way, follow along the coding for better muscle memory
-  - Learn to manage your time, record the duration of each training session for project development balance
-- [ ] Every day, accumulate some interview questions on leetcode.
-- Recall phase record
-  - 10 minutes
-    - Hashmap
-      - [x] What it is
-        - [x] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-      - [x] Code along
-        - [x] Can use chrome DevTool to check the OOP
-    - Algorithm - Traverse Linked list
-
-```javascript
-function traversal(linkedList, callback) {
-  let currentNode = linkedList.head;
-
-  while (currentNode) {
-    callback(currentNode.value);
-    currentNode = currentNode.next;
-  }
-}
-```
-
-  - 24 hrs
-
-  - 1 week
-    - LinkedList
-      - 28 Mo. --> 4. Sep
-      - Code
-      - Itself
-  - 1 month
-    - I think I'm good with 1 week and then roll it back, I can't afford to wait for a month, not for that large capacity this huge knowledge chunk contains
-- Keep training on ```codewar``` and ```LeetCode```
-      - Learn more about ```jest``` to get familiar with the JavaScript testing environment
 ### 30/40
 ### 40/40
 ## Algorithm and Data Structure familiarity
 ### Leetcode training
 - Leetcode most interviewed questions
+
+
+
 
 ## General language proficiency
 ### CodeWar training

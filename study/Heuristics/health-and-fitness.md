@@ -77,6 +77,7 @@
     - [Protein](#protein)
       - [Whey protein](#whey-protein)
       - [Casein protein](#casein-protein)
+    - [Fiber(30g+/day)](#fiber30gday)
   - [Micronutrient](#micronutrient)
   - [Bulking](#bulking)
   - [Cutting](#cutting)
@@ -287,6 +288,18 @@ V
 ### Protein
 #### Whey protein
 #### Casein protein
+### Fiber(30g+/day)
+- Food high in fiber
+  - Green gram(mung bean): 16g/100g
+  - Fiber-rich coke/Sprite: 7.5g/500ml
+  - Broccoli: 2.6g/100g
+  - Shiitake: 2.5g/100g
+  - Whole brain bread: 2.2g/100g
+  - Spinach: 2.2g/100g
+  - Asparagus: 2.1g/100g
+  - Oatmeal: 1.7g/100g
+  - Onion: 1.7g/100g
+  - white rice: 0.4g/100g
 ## Micronutrient
 ## Bulking
 ## Cutting

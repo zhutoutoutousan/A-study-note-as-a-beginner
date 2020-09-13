@@ -21,6 +21,9 @@
         - Video game
           - Recommended low impact game
           - If you want to get sicker, just try some highly competitive games
+            - If you think winning a dick-waving contest is going to be of any help to your sickness, chances are, u r an idiot.  
+          - **THIS IS NOT A BINGE SESSION AFTER STRENUOUS WORK, clock your playing process**
+            - Alarm clock set to 30mins to 1.5 hrs, then start some mild work to keep things going.
         - Film
           - Ill-advised if already having depleted the dopamine stimulus of all current films.
       - Goals & plans
@@ -49,7 +52,7 @@
             - Not recommended:
               - Study a new language or any language with proficiency level below A2   
       - Nutrition
-      - Medication
+      - Medication(Go to doctors first if politically correct)
         - 中成药
           - 银黄片
 ### Acute

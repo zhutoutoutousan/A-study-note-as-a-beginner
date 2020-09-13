@@ -27,6 +27,7 @@
             - If you think winning a dick-waving contest is going to be of any help to your sickness, chances are, u r an idiot.  
           - **THIS IS NOT A BINGE SESSION AFTER STRENUOUS WORK, clock your playing process**
             - Alarm clock set to 30mins to 1.5 hrs, then start some mild work to keep things going.
+            - **BLUE PILL**: If it doesn't work, chances are you should not work today.
         - Film
           - Ill-advised if already having depleted the dopamine stimulus of all current films.
       - Goals & plans

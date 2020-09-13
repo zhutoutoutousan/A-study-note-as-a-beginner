@@ -17,6 +17,7 @@
     - [Advanced](#advanced)
       - [Kick](#kick)
 - [Plan](#plan)
+  - [Warm up](#warm-up)
   - [Push](#push)
     - [Chest training(Injury prevention)](#chest-traininginjury-prevention)
   - [Pull](#pull)
@@ -72,7 +73,7 @@
 #### Kick
 
 # Plan
-
+## Warm up
 ## Push
 - Bench press injury prevention
   - [Fix Your Shoulder Pain (BENCH PRESS!) - Athlean-X](https://www.youtube.com/watch?v=UtxmEJP6zCM)

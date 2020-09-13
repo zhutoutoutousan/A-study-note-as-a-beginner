@@ -69,3 +69,78 @@
 
 
 # Available engineering or research work under certain physiological dysfuntion
+
+
+
+
+
+# Physical disease
+## Digestive disease
+### Stomach
+#### Mucosis injury
+#### Stomach ulcer
+##### Medications
+### Liver
+### Gallbladder
+#### Cholelithiasis
+#### Acute cholecystitis
+#### Chronic cholecystitis
+### Intestine
+#### IBS(Irritable Bowel Syndrome)
+Symptoms:
+- Constipation or diarrhea
+- Bowel sound
+- Abdominal discomfort
+- Bloating
+- Gas 
+- Cramping  
+Cause:
+- Unclear
+- Maybe related to stress
+
+Management:
+- Take more fiber
+
+Medications
+
+Resource
+- [Basic knowledge](https://www.youtube.com/watch?v=eKLqFnAmK6c)
+#### Ulcerative colitis
+This is getting serious
+### Skin
+#### Acne
+Testosterone--> DHT --> Sebum
+
+Remedy
+- Clean the face using specialized lotion from time to time.
+### Colon
+#### Ulcerative Colitis
+- [What is Ulcerative Colitis?](https://www.youtube.com/watch?v=JMApMBY0CfQ)
+#### Appendicitis
+- High fiber diet would help alleviate the symptom
+
+# Mental disorder/readiness
+- [增强精力、意志力与大脑机能的三个习惯](https://www.youtube.com/watch?v=iLU2W-gasUQ)
+  - Meditation shuns the negative inner narrator
+
+
+
+# Symptom --> Disease
+## Tightness
+### Upper-right abdominal
+#### Diaphram pull/tear
+#### Hepatitis
+##### Viral hepatitis
+##### Bacterial hepatitis
+- Klebsiella pneumoniae infection
+  - Introduction
+    - [Klebsiella pneumoniae - causes, symptoms, diagnosis, treatment, pathology](https://www.youtube.com/watch?v=H4Xy6tHDlOI)
+  - Treatment
+    - 奥硝
+#### Diaphram injury
+#### Musculoskeletal problems
+#### Gallbladder problems
+#### Resource
+[What can cause pain in the diaphragm area?](https://www.medicalnewstoday.com/articles/321956#causes)
+
+### Upper-left abdominal

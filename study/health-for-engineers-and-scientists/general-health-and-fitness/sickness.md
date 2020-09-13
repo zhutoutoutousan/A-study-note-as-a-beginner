@@ -10,15 +10,18 @@
       - Possible viral or bacterial infection if accompanied with other symptoms
         - Sore throat(mild)
         - Fatigue(mild)
+        - Acne
+        - Swollen lymph node
     - Adaptation
       - R&R
         - Basic idea  
           - This is not a burnout, just take it easy, no need for a burnout travel
         - Sleep
           - Some power naps would be good for recovery
+          - Don't beat yourself to death if you have 10 hrs or more of sleep and wake up feeling like sxxt. Anticipate it and change the plan/timeline
         - Travel
           - Not recommended, if the immune system is already compromised, traveling would only make it worse
-        - Video game
+        - Video game/Binge watching
           - Recommended low impact game
           - If you want to get sicker, just try some highly competitive games
             - If you think winning a dick-waving contest is going to be of any help to your sickness, chances are, u r an idiot.  

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [TODO](#todo)
+- [Heads-ups](#heads-ups)
 - [Arsenal](#arsenal)
   - [Arm](#arm)
     - [Bicep](#bicep)
@@ -34,9 +35,13 @@
 - [Workout equipment](#workout-equipment)
 
 
+
 # TODO
 - Fill in the gaps
   - Dude, seriously, plz fill in the pre-rehersed workout plans for 'I just worked 8 hours and I don't want the workout to reduce my academic/tech performance', 'I don't want to do the compound lift but still want to train these parts, what do you suggest?(It needs to be smark ;p)
+# Heads-ups
+- The calory burn got by the resistance band for free training is probably not accurate. Use ```myfitnesspal``` data instead.
+
 # Arsenal
 ## Arm
 ### Bicep

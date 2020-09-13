@@ -72,6 +72,8 @@
 #### Refocus
 - *See the forest through the trees*
 - *Putting the cart before the horse*
+  - Meaning
+    - Putting the complicated minutiae(cart) before the important factor(horse)
   - Examples of usage
     - [Source 1: The 5 Worst Diet Mistakes For Losing Fat & Building Muscle (Avoid These) --- Jeff Nippard ](https://www.youtube.com/watch?v=vCbn05pda_4)
 #### Redirect

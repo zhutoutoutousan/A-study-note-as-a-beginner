@@ -106,6 +106,8 @@
 - [How to Make Buttermilk at Home](https://www.youtube.com/watch?v=qKU4nynlIgo)
 ### Anabolic breakfast-delicated series
 ### Anabolic chicken series
+- Baked Chicken
+  - [Recipe 1](https://www.youtube.com/watch?v=YAe5jDB5pJ4)
 - Easy chicken curry
   - [Recipe 1](https://www.youtube.com/watch?v=BxkHNN3mfIk)
 - Stuffed Chicken Breast With Spinach And Cream Cheese

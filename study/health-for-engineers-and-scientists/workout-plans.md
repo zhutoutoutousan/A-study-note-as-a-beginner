@@ -2,8 +2,12 @@
 - [Table of Contents](#table-of-contents)
 - [TODO](#todo)
 - [Arsenal](#arsenal)
+  - [Arm](#arm)
+    - [Bicep](#bicep)
+      - [Muscle aesthetics](#muscle-aesthetics)
+      - [Hypertrophy](#hypertrophy)
   - [Leg](#leg)
-    - [Hypertrophy](#hypertrophy)
+    - [Hypertrophy](#hypertrophy-1)
       - [Hamstring](#hamstring)
       - [Quadracep](#quadracep)
     - [Strength](#strength)
@@ -34,6 +38,15 @@
 - Fill in the gaps
   - Dude, seriously, plz fill in the pre-rehersed workout plans for 'I just worked 8 hours and I don't want the workout to reduce my academic/tech performance', 'I don't want to do the compound lift but still want to train these parts, what do you suggest?(It needs to be smark ;p)
 # Arsenal
+## Arm
+### Bicep
+#### Muscle aesthetics
+- Bicep peak
+  - Keep wrists out of the equation
+    - [Biceps Peaks - 5 Best Ways to Build Them! (BOULDERS) - ATHLEAN-X](https://www.youtube.com/watch?v=mO70v8F9VeQ)
+  - Fully supernate your arm
+#### Hypertrophy
+- [Best and Worst Exercises To Build Bigger Biceps - Greg Doucette](https://www.youtube.com/watch?v=IqE0NUlXMxc)
 ## Leg
 ### Hypertrophy
 #### Hamstring

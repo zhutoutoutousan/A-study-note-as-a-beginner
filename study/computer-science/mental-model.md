@@ -119,18 +119,9 @@ class DoublyLinkedList {
         }
 
         let deletedNode = null;
+        let currentNode = this.head;
 
-        // If the head must be deleted then make next node that is different from the head to be a new head.
-        while (this.head && this.compare.equal(this.head.value, value)) {
-            deletedNode = this.head;
-            this.head = this.head.next;
-        }
-
-        let currentNode = this.head
-
-        if (currentNode !== null) {
-            // If next node must be deleted then make next node to be a next next one
-        }
+        
     }
 }
 

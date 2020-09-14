@@ -66,12 +66,27 @@
   - [Vue slots](#vue-slots)
   - [Single file templates](#single-file-templates)
 - [Vue-CLI](#vue-cli)
+- [Lifecycle hooks](#lifecycle-hooks)
+  - [```newVue```](#newvue)
+  - [```beforeCreate```](#beforecreate)
+  - [```created```](#created-1)
+  - [```beforeMount```](#beforemount)
+  - [```mounted```](#mounted)
+    - [```beforeUpdate```](#beforeupdate)
+    - [```updated```](#updated)
+    - [```activated```](#activated)
+    - [```deactivated```](#deactivated)
+  - [```beforeDestroy```](#beforedestroy)
+  - [```destroyed```](#destroyed)
+- [NUXT](#nuxt)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
   - [Vuex and OOP](#vuex-and-oop)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
+- [Gadgets](#gadgets)
+  - [vue-style-loader](#vue-style-loader)
 - [Troubleshoot](#troubleshoot)
   - [Debugging](#debugging)
     - [Using ```<pre>```](#using-pre)
@@ -631,6 +646,33 @@ How slot works
 ```
 # Vue-CLI
 - RTFM
+
+# Lifecycle hooks
+- The lifecycle hooks provide you a method so that you might trigger something precisely at different junctures of a components's lifecycle. Components are mounted when we instantiate them, and in turn unmounted, for instance when we toggle them in a v-if/v-else statement
+- Lifecycle hooks also uuto-bind to the instance so that you can use the component's state, and methods. You don't have to ```console.log``` to find out what ```this``` refers to.
+  - You shouldn't use an arrow function on a lifecycle method, as it will return the parent instead of giving you nice binding out of the box.
+## ```newVue```
+## ```beforeCreate```
+- observe data && init events
+## ```created```
+- TEMPLATE OPTIONS AND RENDER
+## ```beforeMount```
+- create virtual DOM el and replace 'el' with it
+## ```mounted```
+### ```beforeUpdate```
+- virtual DOM rerender and patch
+### ```updated```
+### ```activated```
+- keep-alive component reactivated
+### ```deactivated```
+## ```beforeDestroy```
+- teardown watchers, child components, evern listeners
+## ```destroyed```
+
+
+# NUXT
+
+
 # Vue-router
 
 # Vuex
@@ -639,6 +681,9 @@ How slot works
 # Vue devTools
 ## --- 
 ### ```<Root>```
+
+# Gadgets
+## vue-style-loader
 
 # Troubleshoot
 ## Debugging

@@ -21,6 +21,7 @@
     - [Software engineering](#software-engineering)
       - [Something about procrastination when coding](#something-about-procrastination-when-coding)
       - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
+      - [Follow/Code/Note along or Skimming?](#followcodenote-along-or-skimming)
     - [Psychology](#psychology)
   - [Quotes](#quotes)
   - [Questions](#questions)
@@ -155,14 +156,30 @@ Four key time stamps to review what I've learned:
   - It may allow you to *identify a new problem and put it into the right group of problems*. The area of engineering mathematics are growing but most often retain their conceptual structure.
   - You may *absorb new information more rapidly* by being able to fit it into the conceptual structure.
   - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics or else.
-
+ 
 ### Software engineering
 #### Something about procrastination when coding
 - What could serve as good practices to transform 'procrastination' to effective recovery without losing 'Coding stickness'?
 #### The implementation of the forgetting curve to the knowledge structure categorization
 - Check ```leetcode``` section and you'll know
-
-
+#### Follow/Code/Note along or Skimming?
+- Code/Follow/Note along: Very good if you know what you are seeking for, integrating the reoccuring elements into your knowledge system is very helpful.
+  - Requires a clear objective
+  - Cons:
+    - Slow
+    - When you are destructuring the niche elements, it's very easy to get stray
+    - Not enough stimulus for flow-like patterns
+  - Advice:
+    - Review your goal and get back on track from time to time
+- Skimming: Very good for brainstorming or project development
+  - Requires previous exposure
+  - Pros
+    - Fast
+    - Simulates the every-day, canonical work flow of developing
+  - Cons:
+    - Missing a lot of opportunities to crystalize reoccuring elements and is not optimal for long-term benefits
+  - Advice:
+    - In your ```process``` and ```progress``` record practices, record your skimming progress to show that **you have skimmed these contents** so that you have a clear mind that you might become rusty and disorganized some time later and if so, you can get back to these contents for refreshment.
 ### Psychology
 - First question is, how do you build an efficient strategy of reading, study and observation given a certain goal.
 

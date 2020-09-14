@@ -98,6 +98,7 @@
     - [Promise](#promise)
     - [Proxy](#proxy)
   - [R](#r)
+    - [Race condition](#race-condition)
     - [Raster graphics](#raster-graphics)
     - [rAF](#raf)
     - [React element](#react-element)
@@ -364,6 +365,7 @@ A group of servers that stores your data
 - (networking)
 - (front-end framework)
 ## R
+### Race condition
 ### Raster graphics
 - In computer graphics, a **Raster graphics** or **Bitmap** image is a dot matrix data structure that represents a genearlly rectangular grid of pixels(points of color), viewable via a monitor, paper, or other display medium.
 - [wiki](https://en.wikipedia.org/wiki/Raster_graphics)

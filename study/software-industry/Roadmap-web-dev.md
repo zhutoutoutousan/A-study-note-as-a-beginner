@@ -34,7 +34,7 @@
     - [Vue.js Path](#vuejs-path)
     - [React.js Path](#reactjs-path)
     - [JavaScript/TypeScript](#javascripttypescript)
-    - [Uncatagorizeed](#uncatagorizeed)
+    - [Uncatagorized](#uncatagorized)
   - [Egghead($40/month)](#egghead40month)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
   - [Wes Bos](#wes-bos)
@@ -190,7 +190,7 @@
         - Good for studying with strict deadline
         - Focus on building or strengthening the neurological pathways along the way
         - If there is something that really could be reoccuring, then take some notes.
-      - Progress: Page-Specific Transitions 3:34:41/5hrs
+      - Progress: Page-Specific Transitions 4:20:41/5hrs --> Vuex
       - Resource for recap
         - Nuxt.js
           - [Repo](https://github.com/sdras/nuxt-type)
@@ -214,7 +214,7 @@
 - TypeScript 3 Fundamentals, v2
   - [Link](https://frontendmasters.com/courses/typescript-v2/)
   - Progress: /4hrs
-### Uncatagorizeed
+### Uncatagorized
 - Deep JavaScript Foundations
 - Rethinking Asynchronous JavaScript
 - Functional-Light JavaScript, v2

@@ -84,9 +84,12 @@
   - [Vuex and OOP](#vuex-and-oop)
 - [Animation](#animation)
   - [transition component](#transition-component)
+- [Niche](#niche)
+  - [Filter](#filter)
+  - [Mixin](#mixin)
+  - [Custom directives](#custom-directives)
 - [Vue devTools](#vue-devtools)
-  - [---](#hr)
-    - [```<Root>```](#root)
+  - [```<Root>```](#root)
 - [Gadgets](#gadgets)
   - [vue-style-loader](#vue-style-loader)
 - [Troubleshoot](#troubleshoot)
@@ -688,14 +691,18 @@ How slot works
 
 # Animation
 ## transition component
-- Default 'v-'  prefix, otherwise name="name"
+- Default 'v-'  prefix, otherwise name="name" 
+
+# Niche
+## Filter
+## Mixin
+- A mixin allows you to encapsulate one piece of functionality so that you can use it in different components throughout the application
+- If written correctly, they are pure --- they don't modify or change things outside of the function's scope, so you will reliably always receive the same value with the same inputs on multiple executions.
 - RTFM
 
-
-
+## Custom directives
 # Vue devTools
-## --- 
-### ```<Root>```
+## ```<Root>```
 
 # Gadgets
 ## vue-style-loader

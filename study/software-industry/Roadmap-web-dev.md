@@ -191,6 +191,11 @@
         - Focus on building or strengthening the neurological pathways along the way
         - If there is something that really could be reoccuring, then take some notes.
       - Progress: Slot --> Ending
+      - Resource for recap
+        - Nuxt.js
+          - [Repo](https://github.com/sdras/nuxt-type)
+          - [dEMO](https://nuxt-type.now.sh)
+            - Cool page transition
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
 

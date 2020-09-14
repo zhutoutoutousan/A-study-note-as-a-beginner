@@ -671,7 +671,13 @@ How slot works
 
 
 # NUXT
-
+- Features
+  - Automatic Code Splitting
+  - Server-Side Rendering
+  - Routing System with Asynchronous Data
+  - Lighthouse scores out of the gate
+  - Static File Serving
+  - ES6/ES7 transplilation
 
 # Vue-router
 

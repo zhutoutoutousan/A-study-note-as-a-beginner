@@ -84,6 +84,7 @@
   - [N](#n)
     - [Name space](#name-space)
     - [Non-Basic-Multilingual-Plane character](#non-basic-multilingual-plane-character)
+    - [Nuxt.js](#nuxtjs)
   - [O](#o)
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented language](#object-oriented-language)
@@ -116,10 +117,13 @@
   - [S](#s)
     - [Scalability](#scalability)
     - [Scope 作用域](#scope-作用域)
+    - [SEO](#seo)
+    - [Server-Side rendering](#server-side-rendering)
     - [Service](#service)
     - [Snake case](#snake-case)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
+    - [Static File Serving](#static-file-serving)
     - [Stream](#stream)
     - [SVG](#svg)
   - [T](#t)
@@ -335,6 +339,7 @@ A group of servers that stores your data
 ## N
 ### Name space
 ### Non-Basic-Multilingual-Plane character
+### Nuxt.js
 ## O
 ### Object-oriented inheritance model
 ### Object-oriented language
@@ -421,6 +426,8 @@ A cluster where each server stores the same data
   - In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs, and applications.
 - [wiki](https://en.wikipedia.org/wiki/Scalability)
 ### Scope 作用域
+### SEO
+### Server-Side rendering
 ### Service
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
@@ -432,6 +439,7 @@ The term **Web service(WS)** is either:
 - [Software architecture - Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 
 ### Software design pattern
+### Static File Serving
 ### Stream
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ### SVG

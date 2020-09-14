@@ -37,6 +37,7 @@
   - [F](#f)
     - [```flex-grow``` 增长比例](#flex-grow-增长比例)
     - [```flex-shrink``` 回缩比例](#flex-shrink-回缩比例)
+    - [Flux application architecture](#flux-application-architecture)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [H](#h)
@@ -231,6 +232,7 @@ A group of servers that stores your data
 ## F
 ### ```flex-grow``` 增长比例
 ### ```flex-shrink``` 回缩比例
+### Flux application architecture
 ## G
 ### Gtk APP
 ## H

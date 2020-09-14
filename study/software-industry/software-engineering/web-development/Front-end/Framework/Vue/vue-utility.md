@@ -54,6 +54,7 @@
     - [Heads ups](#heads-ups)
     - [Format](#format)
     - [Usage](#usage)
+  - [Filter](#filter)
 - [$ Methods](#-methods)
   - [```$event```](#event)
   - [```$emit```](#emit)
@@ -65,31 +66,32 @@
     - [Global component](#global-component)
   - [Vue slots](#vue-slots)
   - [Single file templates](#single-file-templates)
-- [Vue-CLI](#vue-cli)
-- [Lifecycle hooks](#lifecycle-hooks)
-  - [```newVue```](#newvue)
-  - [```beforeCreate```](#beforecreate)
-  - [```created```](#created-1)
-  - [```beforeMount```](#beforemount)
-  - [```mounted```](#mounted)
-    - [```beforeUpdate```](#beforeupdate)
-    - [```updated```](#updated)
-    - [```activated```](#activated)
-    - [```deactivated```](#deactivated)
-  - [```beforeDestroy```](#beforedestroy)
-  - [```destroyed```](#destroyed)
-- [NUXT](#nuxt)
-- [Vue-router](#vue-router)
-- [Vuex](#vuex)
-  - [Vuex and OOP](#vuex-and-oop)
+  - [Mixin](#mixin)
+    - [Merging with mixins](#merging-with-mixins)
+  - [Lifecycle hooks](#lifecycle-hooks)
+    - [```newVue```](#newvue)
+    - [```beforeCreate```](#beforecreate)
+    - [```created```](#created-1)
+    - [```beforeMount```](#beforemount)
+    - [```mounted```](#mounted)
+      - [```beforeUpdate```](#beforeupdate)
+      - [```updated```](#updated)
+      - [```activated```](#activated)
+      - [```deactivated```](#deactivated)
+    - [```beforeDestroy```](#beforedestroy)
+    - [```destroyed```](#destroyed)
+- [Vue SE](#vue-se)
+  - [Architectual aids](#architectual-aids)
+    - [Vuex](#vuex)
+      - [Vuex and OOP](#vuex-and-oop)
+  - [Development aids](#development-aids)
+    - [Vue devTools](#vue-devtools)
+      - [```<Root>```](#root)
+    - [Vue-CLI](#vue-cli)
+    - [NUXT](#nuxt)
+    - [Vue-router](#vue-router)
 - [Animation](#animation)
   - [transition component](#transition-component)
-- [Niche](#niche)
-  - [Filter](#filter)
-  - [Mixin](#mixin)
-  - [Custom directives](#custom-directives)
-- [Vue devTools](#vue-devtools)
-  - [```<Root>```](#root)
 - [Gadgets](#gadgets)
   - [vue-style-loader](#vue-style-loader)
 - [Troubleshoot](#troubleshoot)
@@ -529,6 +531,8 @@ new Vue({
 })
 ```
 
+## Filter
+
 # $ Methods
 ## ```$event```
 ## ```$emit```
@@ -592,7 +596,10 @@ Vue.component('child', {
 ```
 
 
+
+
 # Teamplates and components
+
 ## Heads-ups
 - { Each component instance has its own isolated scope }
   - Data must be a function
@@ -649,33 +656,63 @@ How slot works
   /* Write your styles for the component in here */
 </style>
 ```
-# Vue-CLI
+## Mixin
+- A mixin allows you to encapsulate one piece of functionality so that you can use it in different components throughout the application
+- If written correctly, they are pure --- they don't modify or change things outside of the function's scope, so you will reliably always receive the same value with the same inputs on multiple executions.
 - RTFM
+- Global Mixin --> Use it with caution
+  - RTFM
+### Merging with mixins
 
-# Lifecycle hooks
+## Lifecycle hooks
 - The lifecycle hooks provide you a method so that you might trigger something precisely at different junctures of a components's lifecycle. Components are mounted when we instantiate them, and in turn unmounted, for instance when we toggle them in a v-if/v-else statement
 - Lifecycle hooks also uuto-bind to the instance so that you can use the component's state, and methods. You don't have to ```console.log``` to find out what ```this``` refers to.
   - You shouldn't use an arrow function on a lifecycle method, as it will return the parent instead of giving you nice binding out of the box.
-## ```newVue```
-## ```beforeCreate```
+### ```newVue```
+### ```beforeCreate```
 - observe data && init events
-## ```created```
+### ```created```
 - TEMPLATE OPTIONS AND RENDER
-## ```beforeMount```
+### ```beforeMount```
 - create virtual DOM el and replace 'el' with it
-## ```mounted```
-### ```beforeUpdate```
+### ```mounted```
+#### ```beforeUpdate```
 - virtual DOM rerender and patch
-### ```updated```
-### ```activated```
+#### ```updated```
+#### ```activated```
 - keep-alive component reactivated
-### ```deactivated```
-## ```beforeDestroy```
+#### ```deactivated```
+### ```beforeDestroy```
 - teardown watchers, child components, evern listeners
-## ```destroyed```
+### ```destroyed```
+
+# Vue SE
+## Architectual aids
+
+### Vuex
+- Features
+  - Centralized store for shared data and logic even shared methods or async
+  - Unidirectional data flow
+  - Influenced by Flux application architecture
+  - Similar to Redux(Vue is compatible with Redux)
+- Why use Vuex
+  - In a complex single page application, passing state between many components, and especially deeply nested or sibling components, can get complicated quickly. Having one centralized place to access your data can help you stay organized.
+- When to use Vuex
+  - "You just know"
+  - Multiple instances of children/siblings communicating
+  - I'd like to "see" what all of the state looks like and keep it organized in one place
+#### Vuex and OOP
+
+## Development aids
+
+### Vue devTools
+#### ```<Root>```
+
+### Vue-CLI
+- RTFM
 
 
-# NUXT
+### NUXT
 - Features
   - Automatic Code Splitting
   - Server-Side Rendering
@@ -684,25 +721,15 @@ How slot works
   - Static File Serving
   - ES6/ES7 transplilation
 
-# Vue-router
+### Vue-router
 
-# Vuex
-## Vuex and OOP
 
 # Animation
 ## transition component
 - Default 'v-'  prefix, otherwise name="name" 
 
-# Niche
-## Filter
-## Mixin
-- A mixin allows you to encapsulate one piece of functionality so that you can use it in different components throughout the application
-- If written correctly, they are pure --- they don't modify or change things outside of the function's scope, so you will reliably always receive the same value with the same inputs on multiple executions.
-- RTFM
 
-## Custom directives
-# Vue devTools
-## ```<Root>```
+
 
 # Gadgets
 ## vue-style-loader

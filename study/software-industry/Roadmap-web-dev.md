@@ -196,6 +196,7 @@
           - [Repo](https://github.com/sdras/nuxt-type)
           - [dEMO](https://nuxt-type.now.sh)
             - Cool page transition
+        - ANIMATION: Display when scrolling: Custom directives --> D3 events
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
 

@@ -179,12 +179,18 @@
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
-    - Progress track: Watchers 2hr 00:06 + 4min09s/ 5hrs
-      - [codepenn follow along](https://codepen.io/sdras/pen/BpjQzE)
+    - Process 1(Follow along): Watchers 2hr 00:06 + 4min09s/ 5hrs
       - You should take a look at the little project in the video ```Methods``` and work on it
+      - Some of the codepen projects is a bit off if you try to code along, if your muscle memory already serves you well, then it would be pointless trying to do preaching to the choir sort of stuff, a bit like puting the cart before the horse.
       - Contents with qualms
         - Communicating Events:
           - I don't quite get how the bouncing ball works, maybe I should come back later to figure it out, also how ```$emit``` works
+    - Process 2(Speedrun)
+      - Goal: Just have a general neuralogical stimulus without taking too much time
+        - Good for studying with strict deadline
+        - Focus on building or strengthening the neurological pathways along the way
+        - If there is something that really could be reoccuring, then take some notes.
+      - Progress: Slot --> Ending
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
 

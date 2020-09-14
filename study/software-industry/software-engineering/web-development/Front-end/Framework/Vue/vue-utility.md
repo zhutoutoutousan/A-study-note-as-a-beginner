@@ -64,6 +64,7 @@
     - [Local component](#local-component)
     - [Global component](#global-component)
   - [Vue slots](#vue-slots)
+  - [Single file templates](#single-file-templates)
 - [Vue-CLI](#vue-cli)
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
@@ -609,8 +610,27 @@ How slot works
       <p>I will go in the unnamed slot!</p>
     </main>
 ```
-# Vue-CLI
 
+## Single file templates
+```html
+<template>
+  <div>
+    <!-- Write your HTML with Vue in here -->
+  </div>
+</template>
+
+<script>
+  export default {
+    // Write your vue component logic here
+  }
+</script>
+
+<style scoped>
+  /* Write your styles for the component in here */
+</style>
+```
+# Vue-CLI
+- RTFM
 # Vue-router
 
 # Vuex

@@ -93,6 +93,7 @@
     - [Packet switch](#packet-switch)
     - [Pascal case](#pascal-case)
     - [```PATH```](#path)
+    - [Performance metric](#performance-metric)
     - [Pipe](#pipe)
     - [Promise](#promise)
     - [Proxy](#proxy)
@@ -350,6 +351,7 @@ A group of servers that stores your data
 ### Pascal case
 - pascal-case
 ### ```PATH```
+### Performance metric
 ### Pipe
 - (programming symbol)  ```|```
 ### Promise

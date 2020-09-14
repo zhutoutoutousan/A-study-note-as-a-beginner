@@ -206,7 +206,10 @@ Four key time stamps to review what I've learned:
           - 缺乏演奏者表情，气氛
           - 等等 
       - 学习视频
-        - 缺乏大脑内部神经通路建立过程
+        - Pros
+          - 语言形式描述思维过程
+        - Cons
+          - 缺乏大脑内部神经通路建立过程(Not deep enough)
 - 既然肌肉的训练获得和基因有联系，那么不同人建立不同神经通路的速度是否不同？
   - How about an article summarizing how genetics affects muscle gains?
     - Easy gainer VS hard gainer

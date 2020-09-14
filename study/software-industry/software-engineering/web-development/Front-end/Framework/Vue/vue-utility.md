@@ -82,6 +82,8 @@
 - [Vue-router](#vue-router)
 - [Vuex](#vuex)
   - [Vuex and OOP](#vuex-and-oop)
+- [Animation](#animation)
+  - [transition component](#transition-component)
 - [Vue devTools](#vue-devtools)
   - [---](#hr)
     - [```<Root>```](#root)
@@ -683,6 +685,13 @@ How slot works
 
 # Vuex
 ## Vuex and OOP
+
+# Animation
+## transition component
+- Default 'v-'  prefix, otherwise name="name"
+- RTFM
+
+
 
 # Vue devTools
 ## --- 

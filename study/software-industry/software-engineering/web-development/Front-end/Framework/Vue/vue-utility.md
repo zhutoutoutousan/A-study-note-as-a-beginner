@@ -105,8 +105,11 @@
     - [Uncaught TypeError: Vue.component is not a function](#uncaught-typeerror-vuecomponent-is-not-a-function)
 - [Extensive resource](#extensive-resource)
   - [Vuepress](#vuepress)
+    - [Functionality-oriented](#functionality-oriented)
+      - [Sub-folders --> Sidebar](#sub-folders----sidebar)
     - [Troubleshoot](#troubleshoot-1)
       - [Tag ```<...>``` has no matching end tag](#tag--has-no-matching-end-tag)
+- [Conventions](#conventions)
 # Vanilla JS vs Vue
 
 # RTFM
@@ -824,7 +827,10 @@ Vue.createApp(App).mount('#app')
 
 # Extensive resource
 ## Vuepress
-
+### Functionality-oriented
+#### Sub-folders --> Sidebar
+- [List subfolders in sidebar navigation - Stack Overflow](https://stackoverflow.com/questions/54019105/list-subfolders-in-sidebar-navigation)
 ### Troubleshoot
 #### Tag ```<...>``` has no matching end tag
 
+# Conventions

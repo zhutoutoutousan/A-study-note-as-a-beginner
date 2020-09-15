@@ -98,6 +98,7 @@
     - [Performance metric](#performance-metric)
     - [Pipe](#pipe)
     - [Promise](#promise)
+    - [PoC](#poc)
     - [Proxy](#proxy)
   - [R](#r)
     - [Race condition](#race-condition)
@@ -367,6 +368,11 @@ A group of servers that stores your data
 - A **promise** is in one of these states:
   - *pending*: initial state, neither fulfilled nor rejected.
   - *fulfilled*: meaning that the operation completed
+
+### PoC
+- PoC: proof of concept
+- A proof of concept(PoC) exploit is a non-harmful attack against a computer or network.
+- [searchsecurity](https://searchsecurity.techtarget.com/definition/proof-of-concept-PoC-exploit)
 
 ### Proxy
 - (networking)

@@ -104,6 +104,9 @@
     - [Uncaught TypeError: Vue is not a constructor](#uncaught-typeerror-vue-is-not-a-constructor)
     - [Uncaught TypeError: Vue.component is not a function](#uncaught-typeerror-vuecomponent-is-not-a-function)
 - [Extensive resource](#extensive-resource)
+  - [Vuepress](#vuepress)
+    - [Troubleshoot](#troubleshoot-1)
+      - [Tag ```<...>``` has no matching end tag](#tag--has-no-matching-end-tag)
 # Vanilla JS vs Vue
 
 # RTFM
@@ -820,5 +823,8 @@ Vue.createApp(App).mount('#app')
 - Maybe you just included a wrong CDN link
 
 # Extensive resource
+## Vuepress
 
+### Troubleshoot
+#### Tag ```<...>``` has no matching end tag
 

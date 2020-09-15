@@ -41,6 +41,8 @@
   - [U](#u)
   - [V](#v)
     - [Value](#value)
+  - [Uncategorized](#uncategorized)
+    - [内容分发模式](#内容分发模式)
 # Alphabetical
 ## B
 ### Beauty Pageant
@@ -125,3 +127,12 @@
 ### Value
 - Value is the monetary, material, or assessed worth of an asset, good, or service.
 - [Investopaedia](https://www.investopedia.com/terms/v/value.asp#:~:text=Value%20is%20the%20monetary%2C%20material,asset%2C%20good%2C%20or%20service.)
+
+
+## Uncategorized
+### 内容分发模式
+- 分类
+  - 社交分发
+  - 算法分发
+- [为什么微信开始拥抱算法了](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6711521420784078848/)
+

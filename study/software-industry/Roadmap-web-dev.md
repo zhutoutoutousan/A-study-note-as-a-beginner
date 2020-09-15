@@ -199,7 +199,8 @@
         - ANIMATION: Display when scrolling: Custom directives --> D3 events
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
-
+- Vuepress
+  - [github Repo study](https://github.com/vuejs/vuepress/tree/master/packages/docs/docs)
 ### React.js Path
 - React.js Path
   - [Entry](https://frontendmasters.com/learn/react/)

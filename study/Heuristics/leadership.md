@@ -11,8 +11,10 @@
   - [Impromptu speech](#impromptu-speech)
   - [Persuasion --- silver tongue](#persuasion-----silver-tongue)
     - [EN](#en)
+      - [Discourage](#discourage)
       - [Advice](#advice)
       - [Pinpoint](#pinpoint)
+      - [Impatient](#impatient)
       - [Insist](#insist)
       - [Indifferent](#indifferent)
       - [Refocus](#refocus)
@@ -65,8 +67,13 @@
 ## Impromptu speech
 ## Persuasion --- silver tongue
 ### EN
+#### Discourage
+- Deflate
+- Dishearten
 #### Advice
 #### Pinpoint
+#### Impatient
+- Kill three birds with one stone
 #### Insist
 #### Indifferent
 #### Refocus

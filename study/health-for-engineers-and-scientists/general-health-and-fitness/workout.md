@@ -22,7 +22,7 @@
   - [How to make plans](#how-to-make-plans)
   - [Gallary of plans](#gallary-of-plans)
     - [Injury rehab](#injury-rehab)
-      - [15 days intercostal neuralgia rehab plan](#15-days-intercostal-neuralgia-rehab-plan)
+      - [15 days intercostal neuralgia rehab plan(tracking)](#15-days-intercostal-neuralgia-rehab-plantracking)
   - [Arsenal](#arsenal)
     - [Warm up](#warm-up)
     - [Push](#push)
@@ -89,7 +89,7 @@
 ## How to make plans
 ## Gallary of plans
 ### Injury rehab
-#### 15 days intercostal neuralgia rehab plan
+#### 15 days intercostal neuralgia rehab plan(tracking)
 - Goal
   - Keep testosterone level high
     - Squats every day
@@ -116,6 +116,12 @@
         - Straight arm rotation 8RM+
       - Chest
         - Dumbell press 8RM+
+  - Day 2
+    - Same as Day 1
+  - Day 3
+    - Condition
+      - Need to rest arms
+    - Arm --> Core
 ## Arsenal
 ### Warm up
 ### Push

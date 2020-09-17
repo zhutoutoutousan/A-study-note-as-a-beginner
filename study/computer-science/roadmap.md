@@ -6,6 +6,7 @@
 ### Youtube channels
 Complete course:
 - [Computer Networking Complete Course - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws)
+- [Computer Networking Course - Network Engineering [CompTIA Network+ Exam Prep]](https://www.youtube.com/watch?v=qiQR5rTSshw)
 #### PowerCert Animated Videos
 - [Differences between hub, switch and a hub](https://www.youtube.com/watch?v=1z0ULvg_pW8)
 # Online streaming

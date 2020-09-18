@@ -12,6 +12,7 @@
     - LinkedList
       - [entry](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/LinkedList.js)
         - No need to code along
+        - Last review stamp: LINE 130
     - Doubly Linked List
       - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list)
         - No need to code along

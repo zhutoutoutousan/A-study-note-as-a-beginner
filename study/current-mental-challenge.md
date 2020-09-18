@@ -4,10 +4,11 @@
 - [Mathematics, DS & As](#mathematics-ds--as)
   - [Pyramid path](#pyramid-path)
     - [Approach](#approach)
-- [Mabye later](#mabye-later)
   - [Matrix determinent](#matrix-determinent)
+  - [The mathematical properties of Sudoku solutions](#the-mathematical-properties-of-sudoku-solutions)
+- [JavaScript](#javascript)
   - [Figure out what currying is about](#figure-out-what-currying-is-about)
-    - [Neural understanding pattern: Recursion+Minimax+ES6](#neural-understanding-pattern-recursionminimaxes6)
+  - [RegExp negative lookahead doesn't match?](#regexp-negative-lookahead-doesnt-match)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -40,11 +41,15 @@
   - Start as soon as you completed the session above
 
 
-# Mabye later
 ## Matrix determinent
 - [Codewar - matrix determinent](https://www.codewars.com/kata/52a382ee44408cea2500074c/train/javascript)
   - I want to combine this training with mathematic reading, but I don't want to right now, mabye later
 
+## The mathematical properties of Sudoku solutions
+- [Mathematics of Sudoku](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku#Constraints_of_clue_geometry)
+- [Codewar - Validate Sudoku with size `NxN`](https://www.codewars.com/kata/540afbe2dc9f615d5e000425/train/javascript)
+
+# JavaScript
 ## Figure out what currying is about
 - Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument
 - [Method Chaining & Currying javascript](https://medium.com/@anilchaudhary453/method-chaining-currying-javascript-b6fc3324592c#:~:text=currying%20is%20the%20technique%20of,each%20with%20a%20single%20argument.)
@@ -55,4 +60,24 @@
 - Maybe adding step through to watch the process
   - How to use devtool to step through codes in the console?
 
-### Neural understanding pattern: Recursion+Minimax+ES6
+## RegExp negative lookahead doesn't match?
+- [Leetcode Problem](https://leetcode.com/problems/string-to-integer-atoi/)
+```javascript
+const judge = /(?![A-Z]|[a-z])(-?[0-9]+)/
+
+/**
+ * @param {string} str
+ * @return {number}
+ */
+var myAtoi = function(str) {
+  const maxNumber = 2 ** 31 - 1;
+  const minNumber = - (2 ** 31);
+  const judge = /(?![A-Z]|[a-z])\s?+(-?[0-9]+)/;
+  const found = str.match(judge)[0];
+  const resultNumber = parseInt(found);
+  return resultNumber > maxNumber ? maxNumber :
+         resultNumber < minNumber ? minNumber :
+         resultNumber;
+};
+```
+

@@ -1,23 +1,35 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [TODO](#todo)
+- [Training paradigm](#training-paradigm)
+  - [Athletic performance](#athletic-performance)
+    - [H.I.I.T](#hiit)
+    - [Tabata](#tabata)
+- [Scientific research on workout](#scientific-research-on-workout)
 - [Assess and adjust](#assess-and-adjust)
   - [Example](#example)
 - [Heads-ups](#heads-ups)
 - [Movements Arsenal](#movements-arsenal)
-  - [Arm](#arm)
-    - [Bicep](#bicep)
-      - [Muscle aesthetics](#muscle-aesthetics)
+  - [Hypertrophy/Strength/Basic](#hypertrophystrengthbasic)
+    - [Chest](#chest)
+      - [Lower chest](#lower-chest)
+    - [Arm](#arm)
+      - [Bicep](#bicep)
+    - [Leg](#leg)
       - [Hypertrophy](#hypertrophy)
-  - [Leg](#leg)
-    - [Hypertrophy](#hypertrophy-1)
-      - [Hamstring](#hamstring)
-      - [Quadracep](#quadracep)
-    - [Strength](#strength)
-    - [Mobility](#mobility)
-    - [Stability](#stability)
-    - [Advanced](#advanced)
-      - [Kick](#kick)
+        - [Hamstring](#hamstring)
+        - [Quadracep](#quadracep)
+      - [Strength](#strength)
+      - [Mobility](#mobility)
+      - [Stability](#stability)
+    - [Back](#back)
+      - [Face pull](#face-pull)
+  - [Athletic](#athletic)
+    - [Stamania](#stamania)
+    - [Agility](#agility)
+    - [Power](#power)
+      - [Jump height](#jump-height)
+  - [Calisthetics](#calisthetics)
 - [Plan](#plan)
   - [How to make plans](#how-to-make-plans)
   - [Gallary of plans](#gallary-of-plans)
@@ -32,8 +44,8 @@
     - [Leg](#leg-1)
     - [*Perfect* workout training(Modified - Strength & hypertrophy)](#perfect-workout-trainingmodified---strength--hypertrophy)
     - [Squat strength training](#squat-strength-training)
-    - [Agility](#agility)
-    - [Power](#power)
+    - [Agility](#agility-1)
+    - [Power](#power-1)
 - [Heuristics for plan making](#heuristics-for-plan-making)
   - [Injury and and training deviations](#injury-and-and-training-deviations)
   - [Nutrition](#nutrition)
@@ -48,42 +60,134 @@
 # TODO
 - Fill in the gaps
   - Dude, seriously, plz fill in the pre-rehersed workout plans for 'I just worked 8 hours and I don't want the workout to reduce my academic/tech performance', 'I don't want to do the compound lift but still want to train these parts, what do you suggest?(It needs to be smark ;p)
+- Add more structural integrity overtime
 
+
+# Training paradigm
+## Athletic performance
+### H.I.I.T
+### Tabata
+
+# Scientific research on workout
+- P.O.I
+  - Shredded sports science
+  - Jeff Nippard
+  - Jeff Cavaliere
 # Assess and adjust
 ## Example
-- Shoulder: Weakness on the left side
-- Bicep: Weakness on the right side 
+- Shoulder
+  - Debuff
+    - AC joint pain
+    - Labrum tear
+    - SLAP
+    - Weakness on the left side
+- Bicep 
+  - Debuff
+    - Weakness on the right side 
+- Engineer
+  - Debuff
+    - Beginner level
+      - Posture
+      - Muscle imbalance
+    - General
+      - Diminished resource for neurological strength and time
+      - More compromised immune system for regular work stress
+      - Stress related disease like intercostal neuralgia etc.
+  - Buff
+    - Access to scientific-based materials of nutrition and workout
+  - Adjustment
+    - 5RM to 8RM for strength and hypertrophy, 8RM-10RM for hypertrophy
+    - Not recommended for 10RM+ for more training volume
+    - 1RM can only be done once every 2-3 months for strength test purposes
+    - Warm up needed
+- Scientist
+  - Buff
+    - Access to advanced scientific-based materials of nutrition and workout
+
+- Scientist
 # Heads-ups
 - The calory burn got by the resistance band for free training is probably not accurate. Use ```myfitnesspal``` data instead.
 
 # Movements Arsenal
-## Arm
-### Bicep
-#### Muscle aesthetics
+## Hypertrophy/Strength/Basic
+### Chest
+#### Lower chest
+- Decline bench(dumbell) press
+  - [The LOWER Chest Solution (GET DEFINED PECS!) - 3:14](https://www.youtube.com/watch?v=wMmy2MlH55U)
+- Dip+
+  - [The LOWER Chest Solution (GET DEFINED PECS!) - 3:56](https://www.youtube.com/watch?v=wMmy2MlH55U)
+- Decline cable dip
+  - [The LOWER Chest Solution (GET DEFINED PECS!) - 11:13](https://www.youtube.com/watch?v=wMmy2MlH55U)
+- Jackhammer pushdown
+  - [The LOWER Chest Solution (GET DEFINED PECS!) - 6:13](https://www.youtube.com/watch?v=wMmy2MlH55U)
+- Straight bar dip
+- Standing cable LC press
+  - [The LOWER Chest Solution (GET DEFINED PECS!) - 7:11](https://www.youtube.com/watch?v=wMmy2MlH55U)
+### Arm
+#### Bicep
+- Basics
+  - [Best and Worst Exercises To Build Bigger Biceps - Greg Doucette](https://www.youtube.com/watch?v=IqE0NUlXMxc)
 - Bicep peak
   - Keep wrists out of the equation
     - [Biceps Peaks - 5 Best Ways to Build Them! (BOULDERS) - ATHLEAN-X](https://www.youtube.com/watch?v=mO70v8F9VeQ)
   - Fully supernate your arm
+
+### Leg
 #### Hypertrophy
-- [Best and Worst Exercises To Build Bigger Biceps - Greg Doucette](https://www.youtube.com/watch?v=IqE0NUlXMxc)
-## Leg
-### Hypertrophy
-#### Hamstring
+##### Hamstring
 - Russian leg curl
-#### Quadracep
-- Half squat
-  - Possitive effect how maximum jump height
-### Strength
+##### Quadracep
+
+#### Strength
 - Grip strength
   - Rack pull
     - [Doing Rack Pulls Like This! (SAVE A FRIEND) - ATHLEAN-X](https://www.youtube.com/watch?v=agF7TbWjQao)
-### Mobility
+#### Mobility
 
-### Stability
+#### Stability
 - Bulgarian split squat
 
-### Advanced
-#### Kick
+### Back
+#### Face pull
+- Face-to-sky pull
+  - [The 6 Best Lifts for NEW Muscle Growth (GUARANTEED!) --- 10:23](https://www.youtube.com/watch?v=vj-iZGUrAs4)
+
+
+
+
+## Athletic
+### Stamania
+- Long distance running
+  - Reach below 82kg, 10% body fat to unlock
+### Agility
+### Power
+#### Jump height
+- P.O.I
+  - Jack Cascio
+
+- Flexibility
+  - Hip Flexor Strech
+  - Lats+Core
+  - Achilles Tendon stretch
+    - [How to Jump Higher (STEP BY STEP GUIDE!) - ATHLEAN-X - 3:08](https://www.youtube.com/watch?v=PtbAFo2ukZE)
+- Push strenth
+  - [How to Jump Higher (STEP BY STEP GUIDE!) - ATHLEAN-X - 3:08](https://www.youtube.com/watch?v=PtbAFo2ukZE)
+  - Toe squats
+  - Heavy KB swings
+  - Heave Sled/prowers
+  - Half squat
+    - Possitive effect how maximum jump height
+
+- Push power
+  - Accelerative box jumps
+  - Lighter kb Swing
+  - Lighter Sled/P rowers
+- Roll up jump
+  - Single leg variation
+  - [INCREASE YOUR VERTICAL with 1 EXPLOSIVE BODYWEIGHT leg exercise! - 2:21](https://www.youtube.com/watch?v=v7hlCxtdNhc)
+## Calisthetics
+- Front lever
+- Planche
 
 # Plan
 ## How to make plans
@@ -122,6 +226,21 @@
     - Condition
       - Need to rest arms
     - Arm --> Core
+  - Day 4
+    - Arm
+      - Spider curl ---> Tricep push down 5SETs R30s
+      - R1m
+    - Back
+      - Straight arm push down --> Face-to-sky pull 5SETs R30s
+      - R1m
+    - Chest
+      - Bench press 6RM+  5SETs
+      - Seated crossover 6SETs
+      - Dumbell Incline Press --- Dumbell decline Press 5SETs
+    - Leg
+      - Dumbell back lunge 5RM+ 5SETs
+    - Cardio
+      - Battle ropes 1M*3 R30S
 ## Arsenal
 ### Warm up
 ### Push
@@ -180,4 +299,4 @@
   - Injury specified
 
 # Workout equipment
-- If you choose free training, the calories burned  might include the REM?
+- Fitness band calory burn is garbage, use standard data instead.

@@ -85,6 +85,8 @@
     - [Source 1: The 5 Worst Diet Mistakes For Losing Fat & Building Muscle (Avoid These) --- Jeff Nippard ](https://www.youtube.com/watch?v=vCbn05pda_4)
 #### Redirect
 - Beat around the bush
+- Throw \[someone\] a curve ball: Surprise
+  - Useful with someone who is familiar with baseball
 #### Intimidate
 - Tongue-in-cheek
 - Lose your/his man card

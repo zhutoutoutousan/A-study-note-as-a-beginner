@@ -48,6 +48,8 @@
   - [Work with JSON](#work-with-json)
   - [Work with localStorage](#work-with-localstorage)
   - [Work with sessionStorage](#work-with-sessionstorage)
+  - [Work with networking parts](#work-with-networking-parts)
+    - [Extract domain name from URL](#extract-domain-name-from-url)
 - [Generate series](#generate-series)
   - [Generate string](#generate-string)
     - [Generate Alphabet](#generate-alphabet)
@@ -284,6 +286,26 @@ const findMaxIndex = arr => arr.indexOf(Math.max(...arr));
 ## Work with JSON
 ## Work with localStorage
 ## Work with sessionStorage
+## Work with networking parts
+### Extract domain name from URL
+- [how to get domain name from URL](https://stackoverflow.com/questions/569137/how-to-get-domain-name-from-url)
+- [Regular expression to extract domain from URL](https://www.golangprograms.com/regular-expression-to-extract-domain-from-url.html)
+- [Codewar](https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/javascript)
+
+```javascript
+function domainName(url){
+  url = url.replace("https://", '');
+  url = url.replace("http://", '');
+  url = url.replace("www.", '');
+  return url.split('.')[0];
+};
+
+function domainName(url){
+  return url.match(/(?:http(?:s)?:\/\/)?(?:w{3}\.)?([^\.]+)/i)[1];
+}
+
+const regex = /^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\.\n]+)/
+```
 # Generate series
 ## Generate string
 ### Generate Alphabet

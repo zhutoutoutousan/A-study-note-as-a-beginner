@@ -13,6 +13,7 @@
     - [Camel case](#camel-case)
     - [Caret](#caret)
     - [Carousel 轮播图](#carousel-轮播图)
+    - [ccTLD](#cctld)
     - [Chai](#chai)
     - [Command line argument](#command-line-argument)
     - [Complex system](#complex-system)
@@ -183,6 +184,8 @@
 ### Caret
 - ```^```
 ### Carousel 轮播图
+### ccTLD
+- ccTLD: country code top-level domain
 ### Chai
 - Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 ### Command line argument

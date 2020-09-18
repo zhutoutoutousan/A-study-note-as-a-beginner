@@ -1,0 +1,2 @@
+# Data structure and algorithms
+- While training code war or leetcode, don't get stuck with one problem, training is for strengthening established neural pathways, just like training for hypertrophy, you don't need to train 1RM everyday.

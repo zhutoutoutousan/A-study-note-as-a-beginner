@@ -431,8 +431,10 @@ class ThisIsAComponentClass extends React.Component {
 
 ```
 ### Recursion
-- [4.3. Recursion and argument passing](https://publications.gbdirect.co.uk/c_book/chapter4/recursion_and_argument_passing.html)
-- [Recursion is not hard: a step-by-step walkthrough of this useful programming technique - Freecodecamp](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
+- Blogs
+  - [4.3. Recursion and argument passing](https://publications.gbdirect.co.uk/c_book/chapter4/recursion_and_argument_passing.html)
+  - [Recursion is not hard: a step-by-step walkthrough of this useful programming technique - Freecodecamp](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
+- Video source
 ### Regular expression
 - Basically, a regular expression is a pattern describing a certain amount of text.
   - There's some mathematical theory behind it, dig it if you are interested.

@@ -67,10 +67,6 @@
   - [Tech-stack](#tech-stack-3)
   - [Reference materials](#reference-materials-1)
 - [Problem solving proficiency](#problem-solving-proficiency)
-  - [Time-control](#time-control-5)
-    - [Project completion recording workbench(10/40)](#project-completion-recording-workbench1040)
-    - [30/40](#3040-5)
-    - [40/40](#4040-5)
   - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
     - [Leetcode training](#leetcode-training)
   - [General language proficiency](#general-language-proficiency)
@@ -237,20 +233,29 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Polishing
 ## Progress
 - [x] Chessboard
+- [ ] Game mechanics
+  - [ ] When you win, the game is stuck 
+- [ ] Chess Pieces
+  - [x] Initial design
+  - [ ] The black bishop sometimes disappear
+  - [ ] Check ```diagsweep``` function
+  - [ ] If you click the queen twice, it just disappear
+    - [ ] Check ```diagsweep``` function
+  - [ ] Rook can move through pieces vertically(not horizontally)
+    - [ ] Check ```moveThroughPieces``` 
+  - [ ] Pawn can travel out of bounds
+  - [ ] Pawn doesn't promote
+  - [ ] Pawn doesn't en passant
 - [ ] AI
-  - [x] Coding
-  - [ ] Bugs
-    - [ ] If you click the queen twice, it just disappear
-    - [ ] The black bishop sometimes disappear
-    - [ ] AI runs too slow if set to 
-    - [ ] Enemy queen doesn't move at all
-    - [ ] When you win, the game is stuck
-    - [ ] Rook can move through pieces
-    - [ ] Pawn can travel out of bounds
-    - [ ] Pawn doesn't promote
-    - [ ] Pawn doenn't en passant
+  - [x] Algorithms
+  - [ ] Enemy loves moving pawn
+- [ ] Decoration
+  - [ ] Start the game
+  - [ ] Restart the game
 - [ ] Multiplayer
+  - [ ] Choose mode
   - [ ] Networking
+
 ## Tech-stack
 - ES6
 - p5.js
@@ -318,14 +323,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 
 # Problem solving proficiency
-## Time-control
-### Project completion recording workbench(10/40)
-- JavaScript algorithm
-- Data structure
-- Algorithms
-### 30/40
-### 40/40
 ## Algorithm and Data Structure familiarity
+- Basic training: See mental model in data structure and algorithms
 ### Leetcode training
 - Leetcode most interviewed questions
 
@@ -338,11 +337,6 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Fun
 - Should do it from time to time
 ### Hackerrank training
-
-
-
-
-
 # Interview questions
 ## Basic JavaScript/HTML/CSS
 ## Vue, React.js inner working principle

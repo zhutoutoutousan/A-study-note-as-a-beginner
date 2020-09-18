@@ -5,6 +5,7 @@
     - [Abstraction](#abstraction)
     - [Accordion 折叠面板](#accordion-折叠面板)
     - [Assertion](#assertion)
+    - [```arguments```](#arguments)
   - [B](#b)
     - [BDD/TDD](#bddtdd)
     - [Block element 块级元素](#block-element-块级元素)
@@ -25,6 +26,7 @@
     - [Communication links](#communication-links)
     - [Computing](#computing)
     - [Connection pooler](#connection-pooler)
+    - [Currying 柯里化](#currying-柯里化)
   - [D](#d)
     - [Data store](#data-store)
     - [Data type](#data-type)
@@ -169,6 +171,9 @@
 ### Accordion 折叠面板
 ### Assertion
 - (node.js)
+
+### ```arguments```
+- [The arguments object - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 ## B
 ### BDD/TDD
 - BDD: Behavior Driven Development
@@ -210,6 +215,13 @@ A group of servers that stores your data
 - [wiki](https://en.wikipedia.org/wiki/Computing)
 
 ### Connection pooler
+### Currying 柯里化
+- Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument
+- [Method Chaining & Currying javascript](https://medium.com/@anilchaudhary453/method-chaining-currying-javascript-b6fc3324592c#:~:text=currying%20is%20the%20technique%20of,each%20with%20a%20single%20argument.)
+  - [The arguments object - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+  - [JavaScript ES6: Spread Operator and Rest Parameters](https://medium.com/@luke_smaki/javascript-es6-spread-operator-and-rest-parameters-b3e89d112281#:~:text=The%20spread%20operator%20allows%20us,access%20them%20in%20an%20array.)
+  - [Stack Overflow - How to get a slice from “arguments”](https://stackoverflow.com/questions/9510094/how-to-get-a-slice-from-arguments)
+- [A Chain adding function - Codewar](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88/train/javascript)
 ## D
 ### Data store
 - Examples: Redis, MongoDB, Postgres, MySQL etc..

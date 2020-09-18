@@ -160,10 +160,13 @@
     - Beginner level
       - Posture
       - Muscle imbalance
-    - General
+    - Workout performance
       - Diminished resource for neurological strength and time
+    - Weak
       - More compromised immune system for regular work stress
-      - Stress related disease like intercostal neuralgia etc.
+      - Stress related disease like intercostal neuralgia etc. 
+      - Academic/Tech performance is sensitive to workout injury
+        - Injury-induced pain like neuralgia will greatly reduce the neurological effort for intellectual activities, causing wasting mental effort due to not enough neural power to make new connections or formulate patterns
   - Buff
     - Access to scientific-based materials of nutrition and workout
   - Adjustment

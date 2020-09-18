@@ -111,6 +111,7 @@
     - [Reactive programming](#reactive-programming)
     - [React.js](#reactjs)
     - [React component class/type](#react-component-classtype)
+    - [Recursion](#recursion)
     - [Regular expression](#regular-expression)
     - [Regular expression engine](#regular-expression-engine)
     - [Replica set](#replica-set)
@@ -244,7 +245,8 @@ A group of servers that stores your data
 - (ECMAScript)**Execution context** is a concept in the language spec that---in Layman's terms---roughly equates to the 'environment' a function executes in, i.e., variable scope(and the *scope chain*, variables)
   - [What is the 'Execution Context' in JavaScript exactly?](https://stackoverflow.com/questions/9384758/what-is-the-execution-context-in-javascript-exactly#:~:text=Execution%20context%20is%20a%20concept,value%20of%20the%20this%20object.)
   - [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
-
+- An execution context forms upon a function invocation. This context places itself on an execution stack, an order of operations. The item that is always first in this stack is the global execution context. Next up are any function created contexts.
+  - [Recursion is not hard: a step-by-step walkthrough of this useful programming technique](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
 ## F
 ### ```flex-grow``` 增长比例
 ### ```flex-shrink``` 回缩比例
@@ -427,6 +429,9 @@ class ThisIsAComponentClass extends React.Component {
 }
 
 ```
+### Recursion
+- [4.3. Recursion and argument passing](https://publications.gbdirect.co.uk/c_book/chapter4/recursion_and_argument_passing.html)
+- [Recursion is not hard: a step-by-step walkthrough of this useful programming technique - Freecodecamp](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
 ### Regular expression
 - Basically, a regular expression is a pattern describing a certain amount of text.
   - There's some mathematical theory behind it, dig it if you are interested.

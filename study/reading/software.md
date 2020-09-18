@@ -29,6 +29,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - severely broken NUL terminated strings
   - Process 1:(Learn when you have some spare time and interest)
     - Progress: 19/660
+- C book
+  - [link1](https://publications.gbdirect.co.uk/c_book/)
 ## C++
 - Motivation:
   - Chromium V8 is written in C++, how come you don't have any familiarity with it?

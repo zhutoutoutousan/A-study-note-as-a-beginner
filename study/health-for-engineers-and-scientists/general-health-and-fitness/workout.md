@@ -1,10 +1,16 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Debate space](#debate-space)
 - [TODO](#todo)
 - [Training paradigm](#training-paradigm)
   - [Athletic performance](#athletic-performance)
     - [H.I.I.T](#hiit)
     - [Tabata](#tabata)
+  - [Hypertrophy](#hypertrophy)
+    - [Super set](#super-set)
+    - [Drop set](#drop-set)
+    - [Concentric/Isometric/Eccentric contraction](#concentricisometriceccentric-contraction)
+    - [Pylometric contraction](#pylometric-contraction)
 - [Scientific research on workout](#scientific-research-on-workout)
   - [Workout equipment](#workout-equipment)
   - [Injury and and training deviations](#injury-and-and-training-deviations)
@@ -26,7 +32,7 @@
     - [Arm](#arm)
       - [Bicep](#bicep)
     - [Leg](#leg)
-      - [Hypertrophy](#hypertrophy)
+      - [Hypertrophy](#hypertrophy-1)
         - [Hamstring](#hamstring)
         - [Quadracep](#quadracep)
       - [Strength](#strength)
@@ -37,6 +43,9 @@
   - [Athletic](#athletic)
     - [Stamania](#stamania)
     - [Agility](#agility)
+      - [All-rounded](#all-rounded)
+      - [Saggital plane](#saggital-plane)
+      - [Lateral plane](#lateral-plane)
     - [Power](#power)
       - [Jump height](#jump-height)
   - [Calisthetics](#calisthetics)
@@ -56,6 +65,8 @@
     - [Injury rehab](#injury-rehab)
       - [15 days intercostal neuralgia rehab plan(tracking)](#15-days-intercostal-neuralgia-rehab-plantracking)
 
+# Debate space
+- Losing 1% body fat rate per month is optimal for cutting without losing muscle
 
 
 # TODO
@@ -68,7 +79,11 @@
 ## Athletic performance
 ### H.I.I.T
 ### Tabata
-
+## Hypertrophy
+### Super set
+### Drop set
+### Concentric/Isometric/Eccentric contraction
+### Pylometric contraction
 # Scientific research on workout
 - P.O.I
   - Shredded sports science
@@ -101,6 +116,7 @@
 - Bicep 
   - Debuff
     - Weakness on the right side 
+- Posterior chain
 - Engineer
   - Debuff
     - Beginner level
@@ -182,6 +198,9 @@
 - Long distance running
   - Reach below 82kg, 10% body fat to unlock
 ### Agility
+#### All-rounded
+#### Saggital plane
+#### Lateral plane
 - Lower body
   - X-plosive foot drill
     - [Agility Tree...X-plosive Quick Foot Drill!!](https://www.youtube.com/watch?v=ucHoBr6qlZY)
@@ -190,7 +209,7 @@
 #### Jump height
 - P.O.I
   - Jack Cascio
-
+ 
 - Flexibility
   - Hip Flexor Strech
   - Lats+Core
@@ -234,7 +253,8 @@
 ### Injury rehab
 #### 15 days intercostal neuralgia rehab plan(tracking)
 <details close>
-  <summary style="color:yellow">See the whole plan</summary>
+<!-- <details open> -->
+  <summary style="color:yellow"><strong>See the whole plan</strong></summary>
 
 - Goal
   - Keep testosterone level high
@@ -269,6 +289,7 @@
       - Need to rest arms
     - Arm --> Core
   - Day 4
+    - DURATION: 1hr+20min
     - Arm
       - Spider curl ---> Tricep push down 5SETs R30s
       - R1m
@@ -278,11 +299,14 @@
     - Chest
       - Bench press 6RM+  5SETs
       - Seated crossover 6SETs
-      - Dumbell Incline Press --- Dumbell decline Press 5SETs
+      - Dumbell Incline Press --- Dumbell decline Press 3SETs
     - Leg
       - Dumbell back lunge 5RM+ 5SETs
     - Cardio
-      - Battle ropes 1M*3 R30S
-      - 
-      - 
+      - Kettle bell swing
+        - <div style="color: red">WARNING: Injury on the posterior chain</div>
+      - Roll up jump
+  - Day 5
+    - Cardio
+      - Bike ride: 1hr
 </details>

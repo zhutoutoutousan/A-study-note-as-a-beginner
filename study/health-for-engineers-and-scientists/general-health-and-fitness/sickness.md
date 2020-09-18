@@ -2,7 +2,8 @@
 ## Symptom
 ### Mild
 - Intercostal neuralgia
-  - Infection-induced
+  - Infection induced
+  - Workout-injury induced
     - Description
       - Mild burning sensation in the back and liver area
         - Only relieves when lying or sitting in the chairs designed by ergonomics

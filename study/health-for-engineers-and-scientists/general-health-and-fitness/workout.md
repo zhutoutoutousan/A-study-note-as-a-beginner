@@ -6,10 +6,20 @@
     - [H.I.I.T](#hiit)
     - [Tabata](#tabata)
 - [Scientific research on workout](#scientific-research-on-workout)
+  - [Workout equipment](#workout-equipment)
+  - [Injury and and training deviations](#injury-and-and-training-deviations)
+  - [Nutrition](#nutrition)
+  - [Kinesiology](#kinesiology)
+  - [Muscle growth](#muscle-growth)
+  - [Workout --> Goal relationship](#workout----goal-relationship)
+  - [Recovery](#recovery)
 - [Assess and adjust](#assess-and-adjust)
   - [Example](#example)
-- [Heads-ups](#heads-ups)
 - [Movements Arsenal](#movements-arsenal)
+  - [Warm ups](#warm-ups)
+    - [Warm ups in general](#warm-ups-in-general)
+    - [Shoulder](#shoulder)
+  - [Workout stretch](#workout-stretch)
   - [Hypertrophy/Strength/Basic](#hypertrophystrengthbasic)
     - [Chest](#chest)
       - [Lower chest](#lower-chest)
@@ -30,30 +40,21 @@
     - [Power](#power)
       - [Jump height](#jump-height)
   - [Calisthetics](#calisthetics)
+  - [Martial arts](#martial-arts)
+    - [Basics](#basics)
+      - [Core](#core)
+      - [Forearm](#forearm)
+      - [Agility](#agility-1)
+      - [Footwork](#footwork)
 - [Plan](#plan)
   - [How to make plans](#how-to-make-plans)
   - [Gallary of plans](#gallary-of-plans)
+    - [Regular strength](#regular-strength)
+      - [120 days strength plan](#120-days-strength-plan)
+    - [Regular hypertrophy](#regular-hypertrophy)
+      - [60 days chest+shoulder hypertrophy plan](#60-days-chestshoulder-hypertrophy-plan)
     - [Injury rehab](#injury-rehab)
       - [15 days intercostal neuralgia rehab plan(tracking)](#15-days-intercostal-neuralgia-rehab-plantracking)
-  - [Arsenal](#arsenal)
-    - [Warm up](#warm-up)
-    - [Push](#push)
-    - [Chest training(Injury prevention)](#chest-traininginjury-prevention)
-    - [Pull](#pull)
-      - [Tricep + Bicep | Shoulder Injury + Medium  intensity](#tricep--bicep--shoulder-injury--medium-intensity)
-    - [Leg](#leg-1)
-    - [*Perfect* workout training(Modified - Strength & hypertrophy)](#perfect-workout-trainingmodified---strength--hypertrophy)
-    - [Squat strength training](#squat-strength-training)
-    - [Agility](#agility-1)
-    - [Power](#power-1)
-- [Heuristics for plan making](#heuristics-for-plan-making)
-  - [Injury and and training deviations](#injury-and-and-training-deviations)
-  - [Nutrition](#nutrition)
-  - [Kinesiology](#kinesiology)
-  - [Muscle growth](#muscle-growth)
-  - [Workout --> Goal relationship](#workout----goal-relationship)
-  - [Recovery](#recovery)
-- [Workout equipment](#workout-equipment)
 
 
 
@@ -73,6 +74,22 @@
   - Shredded sports science
   - Jeff Nippard
   - Jeff Cavaliere
+
+
+## Workout equipment
+- Fitness band calory burn is garbage, use standard data instead.
+## Injury and and training deviations
+- If there's AC joint, labrum tear, then never try any bench press or overhead shoulder press lower than 3RM
+## Nutrition
+- [Estimating Accuracy at Exercise Intensities: A Comparative Study of Self-Monitoring Heart Rate and Physical Activity Wearable Devices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374271/)
+## Kinesiology
+## Muscle growth
+## Workout --> Goal relationship
+## Recovery
+- Recovery time
+  - Workout specified
+  - Injury specified
+
 # Assess and adjust
 ## Example
 - Shoulder
@@ -104,11 +121,16 @@
   - Buff
     - Access to advanced scientific-based materials of nutrition and workout
 
-- Scientist
-# Heads-ups
-- The calory burn got by the resistance band for free training is probably not accurate. Use ```myfitnesspal``` data instead.
-
 # Movements Arsenal
+## Warm ups
+### Warm ups in general
+- [Workout Warm Up SCREW UP! (Big Workout Mistake!)](https://www.youtube.com/watch?v=LlVbcoD3eoQ)
+### Shoulder
+- Resistance band stabilization drill
+  - [Quick Shoulder Mobility Drill (STRONGER BENCH PRESS!)](https://www.youtube.com/watch?v=2GG4Qi5whnA)
+  - MUST DO BEFORE: Bench press
+    - 8-10 reps, slow
+## Workout stretch
 ## Hypertrophy/Strength/Basic
 ### Chest
 #### Lower chest
@@ -160,6 +182,10 @@
 - Long distance running
   - Reach below 82kg, 10% body fat to unlock
 ### Agility
+- Lower body
+  - X-plosive foot drill
+    - [Agility Tree...X-plosive Quick Foot Drill!!](https://www.youtube.com/watch?v=ucHoBr6qlZY)
+  - Ladder drill
 ### Power
 #### Jump height
 - P.O.I
@@ -189,11 +215,27 @@
 - Front lever
 - Planche
 
+## Martial arts
+### Basics
+#### Core
+#### Forearm
+#### Agility
+#### Footwork
+
 # Plan
 ## How to make plans
 ## Gallary of plans
+### Regular strength
+#### 120 days strength plan
+- Principles
+  - Only test 1RM once every 2 months
+### Regular hypertrophy
+#### 60 days chest+shoulder hypertrophy plan
 ### Injury rehab
 #### 15 days intercostal neuralgia rehab plan(tracking)
+<details close>
+  <summary style="color:yellow">See the whole plan</summary>
+
 - Goal
   - Keep testosterone level high
     - Squats every day
@@ -241,62 +283,6 @@
       - Dumbell back lunge 5RM+ 5SETs
     - Cardio
       - Battle ropes 1M*3 R30S
-## Arsenal
-### Warm up
-### Push
-- Bench press injury prevention
-  - [Fix Your Shoulder Pain (BENCH PRESS!) - Athlean-X](https://www.youtube.com/watch?v=UtxmEJP6zCM)
-### Chest training(Injury prevention)
-| Timing | Workout | Sets | Load | Muscle group | Description |
-|----| ----------------- |:----:|:-----:|:-----|------|
-| 0:00 | Bench press | 5 | 20-10 60-8 80-4 90-1 50-10 | Mid chest | No reps specs  |
-| 0:00 | Barbell hip thrust | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
-| 0:00 | Barbell  | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
-### Pull
-#### Tricep + Bicep | Shoulder Injury + Medium  intensity
-| Timing | Workout | Sets | Load | Muscle group | Description |
-|----| ----------------- |:----:|:-----:|:-----|------|
-| 0:00 | Dumbbell pin press && Barbell bicep curl && Farmer's carry  | 5 | 20-10 60-8 80-4 90-1 50-10 | Mid chest | Super set  |
-| 0:00 | Rack pull | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs  |
-| 0:00 | Barbell  | 5 | 0.5 0.7 0.9 0.8 0.9 | Mid chest | No reps specs |
-### Leg
-### *Perfect* workout training(Modified - Strength & hypertrophy)
-- Shoulder injury
-
-
-| Timing | Workout | Sets | Load | Muscle group | Description |
-|----| ----------------- |:----:|:-----:|:-----|------|
-| 0:00 | Barbell Squat | 5 | WM-10 5RM-5 1RM-1 3RM-2 10RM-8 | Quad | No reps specs  |
-| 0:00  | Barbell hip thrust | 5 | 0.5 0.7 0.9 0.8 0.9 | Glutes | No reps specs  |
-| 0:00 | Russian leg curl | 5 | 0.5 0.7 0.9 0.8 0.9 | Hamstring   | Superset  |
-| 0:00 | Bulgarian split squat | 5 | 0.5 0.7 0.9 0.8 0.9 | Quad & power   | Superset  |
-| 0:00 | Banded split drop lunge | 5 | 0.5 0.7 0.9 0.8 0.9 | Hamstring- Biceps femoris  | No reps specs  |
-| 0:00 |  | 5 | 0.5 0.7 0.9 0.8 0.9 | Glutes  | No reps specs  |
-
-- [The PERFECT Leg Workout (Sets and Reps Included) - Athlean-X](https://www.youtube.com/watch?v=RjexvOAsVtI)
-
-### Squat strength training
-| Timing | Workout | Sets | Load | Muscle group | Description |
-|----| ----------------- |:----:|:-----:|:-----|------|
-| 0:00 | Squat | 10 | 0.1 0.5 0.8 1.1  | Quad  | No reps specs  |
-### Agility
-
-### Power
-
-
-
-# Heuristics for plan making
-## Injury and and training deviations
-- If there's AC joint, labrum tear, then never try any bench press or overhead shoulder press lower than 3RM
-## Nutrition
-- [Estimating Accuracy at Exercise Intensities: A Comparative Study of Self-Monitoring Heart Rate and Physical Activity Wearable Devices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374271/)
-## Kinesiology
-## Muscle growth
-## Workout --> Goal relationship
-## Recovery
-- Recovery time
-  - Workout specified
-  - Injury specified
-
-# Workout equipment
-- Fitness band calory burn is garbage, use standard data instead.
+      - 
+      - 
+</details>

@@ -239,7 +239,16 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [x] Chessboard
 - [ ] AI
   - [x] Coding
-  - [ ] Functionality
+  - [ ] Bugs
+    - [ ] If you click the queen twice, it just disappear
+    - [ ] The black bishop sometimes disappear
+    - [ ] AI runs too slow if set to 
+    - [ ] Enemy queen doesn't move at all
+    - [ ] When you win, the game is stuck
+    - [ ] Rook can move through pieces
+    - [ ] Pawn can travel out of bounds
+    - [ ] Pawn doesn't promote
+    - [ ] Pawn doenn't en passant
 - [ ] Multiplayer
   - [ ] Networking
 ## Tech-stack

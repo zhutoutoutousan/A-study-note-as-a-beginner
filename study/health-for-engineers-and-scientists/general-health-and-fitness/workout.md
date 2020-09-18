@@ -116,6 +116,12 @@
     - Duration: 6-12 weeks
   - Adjustment
     - All lifts reduce to --> 6RM+
+
+- Back
+  - Debuff
+    - Smaller lats on the left
+  - Adjustment
+    - Extra reps for left-side lats for each set
 - Posterior chain
   - Debuff
     - Injury
@@ -124,8 +130,10 @@
     - Unable to perform these lifts:
       - Deadlift
       - Kettle bell swing
+      - Hip thrust
     - Reduced weight for these lifts:
       - Squat --> 6RM+
+      - Farmer's carry
   - Recovery time
     - Duration: 6-12 weeks
     - Progress: 9/18/2020-11/1/2020

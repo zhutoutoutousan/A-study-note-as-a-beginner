@@ -238,7 +238,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Progress
 - [x] Chessboard
 - [ ] AI
-  - [ ] Graph algorithm
+  - [x] Coding
+  - [ ] Functionality
 - [ ] Multiplayer
   - [ ] Networking
 ## Tech-stack

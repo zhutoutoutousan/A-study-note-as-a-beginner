@@ -20,7 +20,7 @@
   - [Workout --> Goal relationship](#workout----goal-relationship)
   - [Recovery](#recovery)
 - [Assess and adjust](#assess-and-adjust)
-  - [Example](#example)
+  - [Example(Current status track)](#examplecurrent-status-track)
 - [Movements Arsenal](#movements-arsenal)
   - [Warm ups](#warm-ups)
     - [Warm ups in general](#warm-ups-in-general)
@@ -102,21 +102,51 @@
 ## Workout --> Goal relationship
 ## Recovery
 - Recovery time
-  - Workout specified
+  - Muscle group specified
   - Injury specified
+    - Nerve damage: 6-12 weeks
+    - Tendon tear
 
 # Assess and adjust
-## Example
+## Example(Current status track)
+- Ribcage
+  - Debuff
+    - Intercostal neuralgia
+  - Recovery time:
+    - Duration: 6-12 weeks
+  - Adjustment
+    - All lifts reduce to --> 6RM+
+- Posterior chain
+  - Debuff
+    - Injury
+      - Nerve damage
+      - Muscle damage
+    - Unable to perform these lifts:
+      - Deadlift
+      - Kettle bell swing
+    - Reduced weight for these lifts:
+      - Squat --> 6RM+
+  - Recovery time
+    - Duration: 6-12 weeks
+    - Progress: 9/18/2020-11/1/2020
 - Shoulder
   - Debuff
     - AC joint pain
     - Labrum tear
     - SLAP
     - Weakness on the left side
+  - Reduced weight for these lifts:
+    - Bench press --> 6RM+
+- Chest
+  - Debuff
+    - Smaller left lec
+  - Adjustment
+    - Extra training for the left pec
 - Bicep 
   - Debuff
     - Weakness on the right side 
-- Posterior chain
+  - Adjustment
+    - Extra training for bicep on the right for each set
 - Engineer
   - Debuff
     - Beginner level

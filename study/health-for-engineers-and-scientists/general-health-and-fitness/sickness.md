@@ -3,6 +3,13 @@
 ### Mild
 - Intercostal neuralgia
   - Infection induced
+  - Mental activities induced
+    - Trigger
+      - Negative inner narrative
+      - Intellectual helplessness
+      - Uncertainty and anxiousness
+      - Social pressure
+    - Methods
   - Workout-injury induced
     - Description
       - Mild burning sensation in the back and liver area

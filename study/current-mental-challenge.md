@@ -1,3 +1,13 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Mathematics, DS & As](#mathematics-ds--as)
+  - [Pyramid path](#pyramid-path)
+    - [Approach](#approach)
+- [Mabye later](#mabye-later)
+  - [Matrix determinent](#matrix-determinent)
+  - [Figure out what currying is about](#figure-out-what-currying-is-about)
+    - [Neural understanding pattern: Recursion+Minimax+ES6](#neural-understanding-pattern-recursionminimaxes6)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -44,3 +54,5 @@
 - [A Chain adding function - Codewar](https://www.codewars.com/kata/539a0e4d85e3425cb0000a88/train/javascript)
 - Maybe adding step through to watch the process
   - How to use devtool to step through codes in the console?
+
+### Neural understanding pattern: Recursion+Minimax+ES6

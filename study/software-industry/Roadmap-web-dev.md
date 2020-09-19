@@ -203,6 +203,7 @@
           - [dEMO](https://nuxt-type.now.sh)
             - Cool page transition
         - ANIMATION: Display when scrolling: Custom directives --> D3 events
+      - Vuex part is progressed using only direct neurological path simulation
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
 - Vuepress

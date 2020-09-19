@@ -107,6 +107,8 @@
 
 
 # Tools and methods
+- Chrome extension: Google input tool
+  - You don't need to install system input methods
 - Lingodeer
   - Very good to get a general grasp of 90% grammar and vocabularies along A1-B1
   - Engaging

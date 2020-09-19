@@ -9,6 +9,8 @@
 - [JavaScript](#javascript)
   - [Figure out what currying is about](#figure-out-what-currying-is-about)
   - [RegExp negative lookahead doesn't match?](#regexp-negative-lookahead-doesnt-match)
+  - [LinkedList Loop](#linkedlist-loop)
+  - [Sliding window technique](#sliding-window-technique)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -81,3 +83,12 @@ var myAtoi = function(str) {
 };
 ```
 
+## LinkedList Loop
+
+- [Linkedlist loop](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/train/javascript)
+    - Maybe create two traverse process racing with each other, one for traversing the whole list, one for query if there is a loop entry
+      - Better if you create the handling function for each scenarios
+
+
+## Sliding window technique
+- [Window Sliding Technique - Geeksforgeeks](https://www.geeksforgeeks.org/window-sliding-technique/#:~:text=This%20technique%20shows%20how%20a,to%20reduce%20the%20time%20complexity.&text=Given%20an%20array%20of%20integers,consecutive%20elements%20in%20the%20array.)

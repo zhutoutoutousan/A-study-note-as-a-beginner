@@ -16,6 +16,7 @@
     - [CSS](#css-1)
       - [Playgrounds](#playgrounds-1)
     - [JavaScript](#javascript)
+    - [TypeScript](#typescript)
     - [Code style](#code-style)
     - [Software testing](#software-testing)
     - [Reference](#reference)
@@ -35,7 +36,7 @@
     - [Vue.js Path](#vuejs-path)
     - [React.js Path](#reactjs-path)
     - [JavaScript/TypeScript](#javascripttypescript)
-    - [Uncatagorizeed](#uncatagorizeed)
+    - [Uncatagorized](#uncatagorized)
   - [Egghead($40/month)](#egghead40month)
   - [Lynda(Free for Linkedin Premium users)](#lyndafree-for-linkedin-premium-users)
   - [Wes Bos](#wes-bos)
@@ -78,6 +79,7 @@
   - [UI&UX](#uiux)
   - [Project management](#project-management)
 - [Interview ready?](#interview-ready)
+- [Problem solving proficiency](#problem-solving-proficiency)
 - [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
   - [Chromium](#chromium)
 
@@ -122,6 +124,10 @@
 - Tutorials
   - [JavaScript tutorial](https://github.com/javascript-tutorial)
 - [Object-Playground](http://www.objectplayground.com/)
+
+### TypeScript
+- Learn from projects that you are interested in, then look up in the official documents
+  - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
 ### Code style
 - Uncle Bob
 
@@ -179,13 +185,28 @@
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)
     - [github](https://github.com/sdras/intro-to-vue)
     - Recommended speed: 2x(Could be slower)
-    - Progress track: Watchers 1hr 15:43 + 5min07s/ 5hrs
-      - [CODEPEN now](https://codepen.io/zhutoutoutousan/pen/MWymOXV)
-        - [ref](https://codepen.io/sdras/pen/dRqZOy)
+    - Process 1(Follow along): Watchers 2hr 00:06 + 4min09s/ 5hrs
       - You should take a look at the little project in the video ```Methods``` and work on it
+      - Some of the codepen projects is a bit off if you try to code along, if your muscle memory already serves you well, then it would be pointless trying to do preaching to the choir sort of stuff, a bit like puting the cart before the horse.
+      - Contents with qualms
+        - Communicating Events:
+          - I don't quite get how the bouncing ball works, maybe I should come back later to figure it out, also how ```$emit``` works
+    - Process 2(Speedrun)
+      - Goal: Just have a general neuralogical stimulus without taking too much time
+        - Good for studying with strict deadline
+        - Focus on building or strengthening the neurological pathways along the way
+        - If there is something that really could be reoccuring, then take some notes.
+      - Progress: Page-Specific Transitions 4:20:41/5hrs --> Vuex
+      - Resource for recap
+        - Nuxt.js
+          - [Repo](https://github.com/sdras/nuxt-type)
+          - [dEMO](https://nuxt-type.now.sh)
+            - Cool page transition
+        - ANIMATION: Display when scrolling: Custom directives --> D3 events
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
-
+- Vuepress
+  - [github Repo study](https://github.com/vuejs/vuepress/tree/master/packages/docs/docs)
 ### React.js Path
 - React.js Path
   - [Entry](https://frontendmasters.com/learn/react/)
@@ -200,7 +221,7 @@
 - TypeScript 3 Fundamentals, v2
   - [Link](https://frontendmasters.com/courses/typescript-v2/)
   - Progress: /4hrs
-### Uncatagorizeed
+### Uncatagorized
 - Deep JavaScript Foundations
 - Rethinking Asynchronous JavaScript
 - Functional-Light JavaScript, v2
@@ -315,6 +336,12 @@
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
 - [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)
   - Progress:
+
+# Problem solving proficiency
+- Leetcode
+- Hackerrank
+- Codewar
+- [Projecteuler](https://projecteuler.net/)
 # Deep dive - Into the abyss
 ## Chromium
 - [Chromium source code](https://source.chromium.org/)

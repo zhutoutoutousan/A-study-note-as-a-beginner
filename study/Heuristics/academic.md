@@ -11,6 +11,7 @@
         - [Spaced repetition](#spaced-repetition)
         - [Forgetting curve](#forgetting-curve)
       - [Working memory](#working-memory)
+    - [Context switch](#context-switch)
     - [Procrastination](#procrastination)
       - [Pomodoro](#pomodoro)
     - [Resource](#resource)
@@ -18,10 +19,13 @@
     - [Engineering](#engineering)
       - [The importance of the conceptual structure and terminologies](#the-importance-of-the-conceptual-structure-and-terminologies)
     - [Software engineering](#software-engineering)
+      - [Mental breakdown](#mental-breakdown)
       - [Something about procrastination when coding](#something-about-procrastination-when-coding)
       - [The implementation of the forgetting curve to the knowledge structure categorization](#the-implementation-of-the-forgetting-curve-to-the-knowledge-structure-categorization)
+      - [Follow/Code/Note along or Skimming?](#followcodenote-along-or-skimming)
     - [Psychology](#psychology)
   - [Quotes](#quotes)
+  - [Questions](#questions)
 - [Standardized Tests](#standardized-tests)
   - [Language](#language)
     - [IELTS](#ielts)
@@ -64,6 +68,27 @@
 - [Book reference entry](#book-reference-entry)
 - [Online General Resource Entry(for all disciplines)](#online-general-resource-entryfor-all-disciplines)
 - [P.O.I](#poi)
+- [Temp ==> Academic writing](#temp--academic-writing)
+  - [Comments](#comments)
+  - [Motivation](#motivation)
+  - [Terminology](#terminology)
+    - [Alphabetical](#alphabetical)
+  - [Necessary technical/academic backgrounds](#necessary-technicalacademic-backgrounds)
+  - [Useful phrases and language patterns](#useful-phrases-and-language-patterns)
+    - [Use of articles](#use-of-articles)
+    - [Use of tense(Grammar)](#use-of-tensegrammar)
+    - [Use of **e.g.**](#use-of-eg)
+    - [Describe the application of a technology to a certain field](#describe-the-application-of-a-technology-to-a-certain-field)
+      - [Neural network experiments](#neural-network-experiments)
+      - [Describe a neural network](#describe-a-neural-network)
+      - [Prepositions to describe an act of utilization of a certain method/technology](#prepositions-to-describe-an-act-of-utilization-of-a-certain-methodtechnology)
+        - [via](#via)
+        - [by](#by)
+        - [with](#with)
+        - [using](#using)
+    - [The use of uppercase and lowercase words in academic writing](#the-use-of-uppercase-and-lowercase-words-in-academic-writing)
+    - [The use of zero-article nouns in academic writing](#the-use-of-zero-article-nouns-in-academic-writing)
+    - [Addressing the figures in academic writing](#addressing-the-figures-in-academic-writing)
 
 # Roadmap
 - [Open Source Society University](https://github.com/ossu)
@@ -102,8 +127,17 @@ Four key time stamps to review what I've learned:
 - The working memory is centered out of the prefrontal cortex
 - The working memory can store only about four chunks of information
 - The short-term memory can be taken as an inefficient mental blackboard that is constantly fading away. Repetitions required for information to stay.
+
+### Context switch
+- What is context switch defined on the neurological level for academic study or software development?
+- What is the optimal time stamp when you should perform a context switch?
+- Using multiple virtual desktops to seperate workflow into different groups could be useful to plug the energy leak when performing the context switch.
 ### Procrastination
 - It seems that the procrastination between each training/study session(less than 15 minutes) can serve as a temporary relax. Just to ease the psychological and physical obstacles for starting from where I left off.
+- Dopamine drainage and **input theory**
+  - [如何学习语言：输入假说（为什么大多数方法没有效果）](https://www.youtube.com/watch?v=J_EQDtpYSNM)
+  - [Stephen Krashen on Language Acquisition](https://www.youtube.com/watch?v=NiTsduRreug)
+  - Can you describe the sweet spot of known and the unknown proportion? No need for strict answers, any context would be good.
 #### Pomodoro
 - Maybe for studying some very difficult content, this might work, and the parameter shifts to 'more rest, less study' side as the difficulty rises.
 - When you are sick, don't use Pomodoro too strictly. Check [HEALTH](./health-and-fitness.md)
@@ -123,21 +157,75 @@ Four key time stamps to review what I've learned:
   - It may allow you to *identify a new problem and put it into the right group of problems*. The area of engineering mathematics are growing but most often retain their conceptual structure.
   - You may *absorb new information more rapidly* by being able to fit it into the conceptual structure.
   - Knowledge of the conceptual structure and terminology is also important when *using the Internet to search for mathematical information*. Since the search proceeds by putting in key words(i.e., terms) into the search engine, you have to remember the important concepts(or be able to look them up in the book) that identify the application and area of engineering mathematics or else.
-
+ 
 ### Software engineering
+#### Mental breakdown
 #### Something about procrastination when coding
 - What could serve as good practices to transform 'procrastination' to effective recovery without losing 'Coding stickness'?
 #### The implementation of the forgetting curve to the knowledge structure categorization
 - Check ```leetcode``` section and you'll know
-
-
+#### Follow/Code/Note along or Skimming?
+- Code/Follow/Note along: Very good if you know what you are seeking for, integrating the reoccuring elements into your knowledge system is very helpful.
+  - Requires a clear objective
+  - Cons:
+    - Slow
+    - When you are destructuring the niche elements, it's very easy to get stray
+    - Not enough stimulus for flow-like patterns
+  - Advice:
+    - Review your goal and get back on track from time to time
+- Skimming: Very good for brainstorming or project development
+  - Requires previous exposure
+  - Pros
+    - Fast
+    - Simulates the every-day, canonical work flow of developing
+  - Cons:
+    - Missing a lot of opportunities to crystalize reoccuring elements and is not optimal for long-term benefits
+  - Advice:
+    - In your ```process``` and ```progress``` record practices, record your skimming progress to show that **you have skimmed these contents** so that you have a clear mind that you might become rusty and disorganized some time later and if so, you can get back to these contents for refreshment.
 ### Psychology
 - First question is, how do you build an efficient strategy of reading, study and observation given a certain goal.
 
 
 ## Quotes
 - Impeccable definitions have little value at the beginning of the study of a subject. The best way to find out what *xxx* is about is to start doing it. Proceeding through even with the qualms about the meaning and purpose of the subject can be considered.
+  - But you should make a checkpoint that you can easily retrieve(like a checkpoint or savegame file in a video game) where you address your qualms and get back to it with all the context retrieved in an orderly manner. 
 - Education is an admirable thing, but it is well to remember from time to time that nothing worth knowing can be taught.  --- Oscar Wilde, *The Critic as Artist*, 1890
+- If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions. --- Albert Einstein
+  - This quote requires fack checks, did he really say it?
+  - I somehow agree upon the time spent on thinking over all possible angles of the problem, getting more insights along the way.
+    - It may be considerable to add a central note recording all those high-intensity fluid-like problem solving process, recording as much as you can as a 'savegame' each time you want to refresh where you had arrived.
+## Questions
+- 有些知识不是点，不是面，是流式的，如何对流式的知识，技能，以及神经通路进行记录
+  - 何为流式知识？可否明确定义？
+    - 范例
+  - 依次照相？ Snapshots? Checkpoints? 
+    - 电子游戏的关卡设计与流式知识（数学，编程，手工，厨艺，算法（解决问题），前端UI/UX CSS等）之间能否建立联系？
+  - 流式知识的检查点(checkpoint)设置以及记载方法
+    - 类比：
+      - 钢琴：五线谱
+        - 缺陷
+          - 缺乏voicing
+          - 缺乏演奏者表情，气氛
+          - 等等 
+      - 学习视频
+        - Pros
+          - 语言形式描述思维过程
+        - Cons
+          - 缺乏大脑内部神经通路建立过程(Not deep enough)
+- 既然肌肉的训练获得和基因有联系，那么不同人建立不同神经通路的速度是否不同？
+  - How about an article summarizing how genetics affects muscle gains?
+    - Easy gainer VS hard gainer
+    - 既然Jeff Nippard声称不同人采用不同的训练方法可以在一定程度上规避基因缺陷所带来的劣势（非消灭基因缺陷本身）,那么同样的理论是否能由于心智过程？
+  - 如何定义 “不同的神经通路”？
+  - 为何Jordan B. Peterson说21世纪重大心理学课题其中之一为：如何提高IQ？
+  - 参考资料？
+    - Die Intelligenz der Kinder und Jugendlichen und die Methoden ihrer Untersuchung
+      - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
+      - It is said to be the academic source of the first formal research into the human IQ
+      - Process 1(Just familiarize yourself with the big picture)
+        - Progress: 14/367
+          - [ ] Learn the vocabularies of the *Inhaltsverzeichnis*
+      - Process 2(Interest in *Die Verschiedenheiten der Intelligenz* - *Die Entwicklung der Intelligenz*)
 # Standardized Tests
 ## Language
 ### IELTS
@@ -254,3 +342,70 @@ Not applicable
   - Neuroscience and study techniques
 - Ali Abdall
   - Has a YouTube channel delicated to share study techniques
+
+
+
+# Temp ==> Academic writing
+- Please merge these contents to the academic writing section.
+## Comments
+- Good to use fancy words at Preface section, keep readers stay at page for Intelligent-or-Humility fallacy, or just encourage experience readers to close the page immediately---he/she probably already know what you are doing during the first few seconds. Anyway around, it wouldn't matter for starters. It cuts both ways, but for this one, its siginificance is neglectable.
+  - The semantics and the "voicing" of preface is all that matters when it comes to aesthetics. Use of fancy words is not comparable to great semantics.
+- It is better to use infinitive form **to do** than **doing** for readers to quickly understand the parallel relationship
+- Misuse of **whereas**, there is no **predicate** in the sentence. Replace it with **In comparison**
+- **If** leads a conditional clause, not a full sentence, for informal scenarios, you may use **What if**, but I don't think the tone, the arguments aforementioned is strong enough :/
+
+- I didn't identify the subject --- **MRI** --- at first glance, because all the commas are driving me crazy.
+- [over/in/for the past twenty years - WordReference](https://forum.wordreference.com/threads/over-in-for-the-past-twenty-years.1652050/)
+- technology is using... Aren't you sure **PI** alreadys is a form of technology?
+- Are you sure **PI** is a protocol?
+- Require more knowledge of **PI** for furthur inspection, currently unavailable.
+- Data: noun(pl)   singular form: datum
+
+- In general sounds more formal
+- reach a trade-off between --> Search trade-off 
+- ... which are Pruning ...  has ambiguity whether it refers to *the accuracy* or *the model size*, or the intended *few options* 
+- Separately--> Doesn't describe a motion with any context.
+- The use of uppercase and lowercase words, umm...
+
+Comments:
+- [Does an uncountable noun take an article if it has an adjective before it?](https://ell.stackexchange.com/questions/16694/does-an-uncountable-noun-take-an-article-if-it-has-an-adjective-before-it#:~:text=The%20short%20answer%20is%20no,to%20count%20or%20vice%20versa.)
+
+Comments:
+- [Most Common Verb Tenses in Academic Writing](https://academicguides.waldenu.edu/writingcenter/grammar/verbtenses#:~:text=Prepositions-,Most%20Common%20Verb%20Tenses%20in%20Academic%20Writing,and%20(c)%20present%20perfect.&text=This%20tense%20indicates%20that%20the,past%2C%20present%2C%20and%20future.)
+
+Comments:
+- **one of the most** is always followed by nouns in plural forms
+- [Using-articles-UNE](https://aso-resources.une.edu.au/academic-writing/grammar/using-articles/#:~:text=The%20indefinite%20article%20(a%2C%20an,nouns%20or%20with%20plural%20nouns.&text=Use%20a%2C%20an%20when%20you,noun%20or%20an%20uncountable%20noun.)) <--Remove the parenthese at the end, the problem with the parsing process of ```Markdown```
+
+Comments:
+- Be aware of tense inconsistencies!
+- Suggest avoid *etc.* at the end of sentences 拯救世界的重担在于你！
+  - [HOW TO USE ETC. IN LISTS OF THINGS - essaysupply](https://www.essaysupply.com/blog/using-etcetera-in-academic-writing#:~:text=One%20of%20the%20reasons%20is,English%20grammar%20and%20composition%20classes.&text=The%20term%20%E2%80%9Cet%20cetera%E2%80%9D%20actually,as%20you%20do%20it%20right.)
+  - [Q: When "etc." falls at the end of a question, how should it be punctuated? - editage Insights](https://www.editage.com/insights/when-etc-falls-at-the-end-of-a-question-would-it-be-puctuated-with-only-a-question-mark-etc-or-with-a-period-followed-by-the-question-mark-etc#:~:text=Generally%2C%20in%20American%20English%2C%20if,as%20the%20final%20punctuation%20mark.)
+
+## Motivation
+- WTH should I do that?
+  - I can still salvage the experience gained in a written manner
+## Terminology
+### Alphabetical
+
+## Necessary technical/academic backgrounds
+## Useful phrases and language patterns
+### Use of articles
+[Using Articles - Purdue University](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html#:~:text=The%20is%20used%20to%20refer,a%2Fan%20the%20indefinite%20article.&text=For%20example%2C%20if%20I%20say,I%20mean%20a%20specific%20book.)
+### Use of tense(Grammar)
+### Use of **e.g.**
+### Describe the application of a technology to a certain field
+#### Neural network experiments
+- Result or results?
+#### Describe a neural network
+- Should **XXX-Net** be plural?
+#### Prepositions to describe an act of utilization of a certain method/technology
+##### via
+##### by 
+##### with
+##### using
+### The use of uppercase and lowercase words in academic writing
+- [Capital letters - Academic writing - UNE](https://aso-resources.une.edu.au/academic-writing/punctuation/capital-letters/#:~:text=One%20of%20the%20most%20common,capital%20(upper%20case)%20letters.&text=Also%2C%20capitalisation%20should%20not%20be,first%20word%20in%20a%20sentence)
+### The use of zero-article nouns in academic writing
+### Addressing the figures in academic writing

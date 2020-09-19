@@ -1,40 +1,118 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [RegExp syntax](#regexp-syntax)
-  - [operators](#operators)
-- [RegExp object](#regexp-object)
-- [Methods](#methods)
+- [Overview](#overview)
+- [Mental model](#mental-model)
+  - [Position](#position)
+    - [```^``` - beginning](#---beginning)
+    - [- Word boundries](#ulliword-boundriesliul)
+  - [Occurence](#occurence)
+    - [- quantifier](#ulliquantifierliul)
+  - [Match](#match)
+    - [Any](#any)
+    - [Literal characters](#literal-characters)
+  - [Special characters](#special-characters)
+- [Quick reference](#quick-reference)
+  - [Literal characters](#literal-characters-1)
+  - [Special characters](#special-characters-1)
+  - [Non-printable Characters](#non-printable-characters)
+- [Use RegExp in JavaScript](#use-regexp-in-javascript)
+  - [RegExp object](#regexp-object)
+  - [Methods](#methods)
     - [```RegExp.prototype.exec()```](#regexpprototypeexec)
     - [```RegExp.prototype.test()```](#regexpprototypetest)
-- [Typical RegExp for a particular scenario](#typical-regexp-for-a-particular-scenario)
-  - [E-mail](#e-mail)
-  - [Password](#password)
-- [Resource](#resource)
-- [Reference](#reference)
+  - [Applications](#applications)
+  - [Front-end](#front-end)
+    - [Password Validation](#password-validation)
+    - [E-mail](#e-mail)
+- [Deep dive](#deep-dive)
+  - [The working principle of regular expression engines](#the-working-principle-of-regular-expression-engines)
+- [Tools and tutorials](#tools-and-tutorials)
 
 
-# RegExp syntax
-## operators
+# Overview
+- Get familiar with RegExp in real-life scenarios for some time then we can talk
+- It seems pointless to categorize operators in the beginning
+- This seems to be dependent from the topic JavaScript, consider upgrade this note.
 
+# Mental model
+## Position
+### ```^``` - beginning
+### - Word boundries
+## Occurence
+### - quantifier
+## Match
+### Any
+- ```.``` Dot. Matches any character except line breaks.
+### Literal characters
+- duh
+## Special characters
 
-# RegExp object
+# Quick reference
+## Literal characters
+## Special characters
+- Special characters are dissipated around the note for practical purposes
+- If you want to match special characters literally, you need to use backslash
+- Gallary of speical characters
+  - ```\```
+    - ```\d```: 0~9
+    - ```\Q* [Special characters] *\E```: Match ```[Special characters]``` literally
+  - ```^```
+  - ```$```
+  - ```.```
+  - ```|```
+  - ```?```
+  - ```*```
+  - ```+```
+  - ```(```
+  - ```)```
+  - ```[```
+  - ```{```
+    - Repetition operator
+## Non-printable Characters
+- Come back next time
+# Use RegExp in JavaScript
+## RegExp object
 ```javascript
 let re = new RegExp(string,rules);
 ```
-
-# Methods
+## Methods
 ### ```RegExp.prototype.exec()```
 ### ```RegExp.prototype.test()```
 
-# Typical RegExp for a particular scenario
-## E-mail
-## Password
+## Applications
+## Front-end
+### Password Validation
+```javascript
+/*
+^ Beginning
 
 
-# Resource
+
+
+*/
+const passWordValidation = /^(?=.*\d)/
+
+```
+### E-mail
+
+
+# Deep dive
+## The working principle of regular expression engines
+- [source1](https://www.regular-expressions.info/engine.html)
+
+# Tools and tutorials
 - [RegEx101](https://regex101.com/)
   - A good source to learn the syntax
-- Still need a site for **functionality** to **RegExp**
+- [regexr](regexr.com)
+- [regular-expression - tutorial](https://www.regular-expressions.info/tutorial.html)
+  - Features
+    - This site tutorial explains how a regular expression engine works on the inside
+  - Process(Walkthrough)
+    - Progress: Character classes
+    - Navigation
+      - There is some explanations of colored texts in the regular expression.
+- Suggestions
+  - Still need a site for **functionality** to **RegExp**
 
-# Reference
-[RegExp.prototype.exec()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec)
+- Reference
+  - [RegExp.prototype.exec()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec)

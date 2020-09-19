@@ -63,6 +63,8 @@
   - [Spinal cord](#spinal-cord)
 - [U](#u)
   - [Utah array](#utah-array)
+- [Uncategorized](#uncategorized)
+  - [峰电位分类](#峰电位分类)
 # A
 ## Action potential(Spike)
 ## Arbor
@@ -168,3 +170,7 @@ Peripheral nervous system
 
 # U
 ## Utah array
+
+
+# Uncategorized
+## 峰电位分类

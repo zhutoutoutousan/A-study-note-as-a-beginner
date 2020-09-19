@@ -25,6 +25,7 @@
 - [Language](#language)
   - [JavaScript](#javascript-1)
   - [Markdown](#markdown-1)
+- [Vscode CLI](#vscode-cli)
 - [Troubleshooting](#troubleshooting)
   - [ENV](#env)
     - [running scripts is disabled on this system](#running-scripts-is-disabled-on-this-system)
@@ -91,6 +92,7 @@ Q: What about /* */?
 # Tools
 ## Command palette
 ## Extensions
+- Toggle Extension side bar: Ctrl+Shift+X
 ### JavaScript
 ### Template engine
 ### Front-end frameworks
@@ -106,7 +108,7 @@ Q: What about /* */?
 ## Markdown
 - Bold: Ctrl+B
 
-
+# Vscode CLI
 
 
 

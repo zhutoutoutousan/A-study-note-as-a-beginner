@@ -10,6 +10,7 @@
     - [Banking system](#banking-system)
     - [Bedrock](#bedrock)
   - [C](#c)
+    - [Cancel culture](#cancel-culture)
     - [Capitalism](#capitalism)
     - [Capital input](#capital-input)
     - [Censorship](#censorship)
@@ -25,12 +26,16 @@
   - [E](#e)
     - [Echo chamber](#echo-chamber)
     - [Economic growth](#economic-growth)
+    - [Egalitarianism](#egalitarianism)
+    - [Elite theory](#elite-theory)
+    - [Elitism](#elitism)
     - [Embody](#embody)
     - [Exorbitant](#exorbitant)
     - [Export](#export)
     - [Etymology](#etymology)
     - [Ever-increasing](#ever-increasing)
     - [Examples of feudalism  封建](#examples-of-feudalism-封建)
+    - [Eugenics](#eugenics)
   - [F](#f)
     - [FascistS](#fascists)
     - [First Gulf War](#first-gulf-war)
@@ -55,10 +60,12 @@
   - [N](#n)
     - [Nudge Theory](#nudge-theory)
   - [O](#o)
+    - [Online shaming](#online-shaming)
     - [Overturn](#overturn)
   - [P](#p)
     - [Persecution](#persecution)
     - [PLA](#pla)
+    - [Pluralism](#pluralism)
     - [Proclamation](#proclamation)
     - [Political correctness](#political-correctness)
     - [Politiquement correct](#politiquement-correct)
@@ -76,6 +83,7 @@
   - [S](#s)
     - [Scatology](#scatology)
     - [State-owned bank](#state-owned-bank)
+    - [Social stratification](#social-stratification)
     - [Superpower](#superpower)
     - [SOE](#soe)
     - [Subvert](#subvert)
@@ -106,6 +114,7 @@
 ### Banking system
 ### Bedrock
 ## C
+### Cancel culture
 ### Capitalism
 ### Capital input
 ### Censorship
@@ -123,6 +132,12 @@
 ### Echo chamber
 - (media)
 ### Economic growth
+### Egalitarianism
+- **Egalitarianism**, or **equalitarianism**, is a school of thought within political philosophy that builds from the concept of social equality, prioritizing it for all people.
+- [wiki](https://en.wikipedia.org/wiki/Egalitarianism)
+### Elite theory
+### Elitism
+- **Elitism** is the belief or attitude that individuals who form an *elite* --- a select group of people with an intrinsic quality, high intellect, wealth, special skills, or experience---are more likely to be constructive to society as a whole, and therefore deserve influence or authority greater than that of others.
 ### Embody
 ### Exorbitant
 ### Export
@@ -132,6 +147,11 @@
 - Examples of feudalism are helpful to fully understand feudalism and feudal society.
 - 封建是源自於中國古代天子依爵位高低將領土分封與宗室或功臣作為食邑的制度。 在此制度下，大地主或領主能從土地取得收入，並且在其領地上行使政府職權。 而在馬克思主義的影響下，「封建」常做為封建社會的代稱。
 - 封建，词语源自《诗·商颂·殷武》：“命于下国，封建厥福”，意思是指封邦建国。
+
+### Eugenics
+- The study of how to arrange reproduction within a human population to increase the occurence of heritable characteristics regarded as desirable. Developed largely by Francis Galton as a method of improving the human race, it fell into disfavor only after the perversion of its doctrines by the Nazis.
+  - Influenced entities
+    - The body type theory - Somatotypes
 ## F
 ### FascistS
 ### First Gulf War
@@ -157,15 +177,18 @@
 ## N
 ### Nudge Theory
 ## O
-
+### Online shaming
 ### Overturn
 ## P
 ### Persecution
 - (noun)hostility and ill-treatment, especially because of race or political or religious beliefs
 ### PLA
+### Pluralism
+- Classical **pluralism** is the veiw that politics and decision making are located mostly in the framework of government, but that many non-governmental groups use their resources to exert influence.
 ### Proclamation
 ### Political correctness
 - "谦虚"在中国是否为政治正确？
+- [Political correctness: a force for good? A Munk Debate - Jordan B. Peterson](https://www.youtube.com/watch?v=ST6kj9OEYf0)
 ### Politiquement correct
 - (French) Political correctness
 ### Political polarization
@@ -193,6 +216,8 @@
 ### Scatology
 - Used to report the act of saying 'shit' by some high-profile political figures
 ### State-owned bank
+### Social stratification
+- **Social stratification** refers to a society's categorization of its people into groups based on socioeconomic factors like wealth, income, race, education, ethnicity, gender, occupation, social status, or derived power(social and political).
 ### Superpower
 - Definition
   - [Why China Will Not Become the Dominant Power in Asia](https://www.youtube.com/watch?v=_AvNT3vyzr0)

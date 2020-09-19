@@ -1,6 +1,9 @@
 # Network debugging
 ## Fiddler
+## Online HTTP Sniffer
+- [Official website](https://websniffer.cc/)
 
+## Google network DevTool
 # Proxy client
 ## Proxify
 # Cybersecurity

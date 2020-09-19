@@ -15,7 +15,7 @@
     - Process 2(Serious reading)
   - YouTube videos
   - Erinnerungen, Träume, Gedanken
-    - [Link1 - English version](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
+    - [Link1 - English version - Can be downloaded](https://antilogicalism.com/wp-content/uploads/2017/07/memories-dreams-reflections.pdf)
     - [Link2](https://epdf.pub/erinnerungen-trume-gedanken-c-g-jung.html)
   - Die Archetypen und das kolletive Unbewußte
     - [Link1 - English version](https://www.are.na/block/1493356)
@@ -23,7 +23,16 @@
     - Suggested staying with the English version, the original German version online available without scams is pretty rare.
     - Paperback version can be obtained later
     - Process 1(Normal reading)
-      - Progress(English version - link1): 21/566
+      - Progress(English version - link1): 22/566
+    - P.O.I
+      - Carus
+      - Hartmann
+      - Stanley Dell
+        - *The Integration of the Personality* (New York, 1939; London, 1949)
+      - Sigmund Freud
+        - *Von den Wurzeln des Bewusststeins*(Zurich, 1954)
+      - Language barrier
+        - Some contents require **Greek** level B2 to unlock, suggest start with typewriting
 - Carl Rogers
 - Sigmund Freud
 - Gustave Le Bon
@@ -63,7 +72,7 @@
   - [Link1](http://www.th-hoffmann.eu/archiv/stern/stern.1920.pdf)
   - It is said to be the academic source of the first formal research into the human IQ
   - Process 1(Just familiarize yourself with the big picture)
-    - Progress: 14/367
+    - Progress: 19/367
       - [ ] Learn the vocabularies of the *Inhaltsverzeichnis*
   - Process 2(Interest in *Die Verschiedenheiten der Intelligenz* - *Die Entwicklung der Intelligenz*)
 

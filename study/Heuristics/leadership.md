@@ -2,14 +2,19 @@
 - [Table of Contents](#table-of-contents)
 - [Speech](#speech)
   - [Training grounds](#training-grounds)
+    - [Online platform](#online-platform)
+    - [Social media channel](#social-media-channel)
+    - [DIY](#diy)
   - [Structuring](#structuring)
   - [Voicing](#voicing)
   - [Text-featured memory](#text-featured-memory)
   - [Impromptu speech](#impromptu-speech)
   - [Persuasion --- silver tongue](#persuasion-----silver-tongue)
     - [EN](#en)
+      - [Discourage](#discourage)
       - [Advice](#advice)
       - [Pinpoint](#pinpoint)
+      - [Impatient](#impatient)
       - [Insist](#insist)
       - [Indifferent](#indifferent)
       - [Refocus](#refocus)
@@ -20,7 +25,7 @@
       - [Lucid](#lucid)
       - [Unsettle](#unsettle)
       - [Discredit](#discredit)
-      - [Extrapolate](#extrapolate)
+      - [Extrapolate8](#extrapolate8)
       - [Confront](#confront)
       - [Appease](#appease)
     - [GR](#gr)
@@ -39,43 +44,74 @@
 - [Social media manipulation](#social-media-manipulation)
   - [Platforms and their sub-ecosystems](#platforms-and-their-sub-ecosystems)
   - [Possible traits to follow](#possible-traits-to-follow)
+  - [Teamplay](#teamplay)
 - [Skillset](#skillset)
   - [Original skill tree construction](#original-skill-tree-construction)
   - [Dramatic presentation](#dramatic-presentation)
   - [Leadership manifestation readiness](#leadership-manifestation-readiness)
 - [Mindset](#mindset)
-- [Media teamplay](#media-teamplay)
 
 # Speech
 ## Training grounds
+### Online platform
 - Toastmaster
 - Great Speeches
+
+### Social media channel
+- Christma on command
+### DIY
+- Everyday, spend some time browsing through the interactions that you initiated or participated with other humen, consider what choice of words or response, expression, body language would lead to a better results, take some time writing them down.
 ## Structuring
 ## Voicing
 ## Text-featured memory
 ## Impromptu speech
 ## Persuasion --- silver tongue
 ### EN
+#### Discourage
+- Deflate
+- Dishearten
 #### Advice
 #### Pinpoint
+#### Impatient
+- Kill three birds with one stone
 #### Insist
 #### Indifferent
 #### Refocus
-- See the forest through the trees
+- *See the forest through the trees*
+- *Putting the cart before the horse*
+  - Meaning
+    - Putting the complicated minutiae(cart) before the important factor(horse)
+  - Examples of usage
+    - [Source 1: The 5 Worst Diet Mistakes For Losing Fat & Building Muscle (Avoid These) --- Jeff Nippard ](https://www.youtube.com/watch?v=vCbn05pda_4)
 #### Redirect
 - Beat around the bush
+- Throw \[someone\] a curve ball: Surprise
+  - Useful with someone who is familiar with baseball
 #### Intimidate
 - Tongue-in-cheek
 - Lose your/his man card
+- Pro-eugenic proclaim
+  - *Dick-waving contest*
+  - *Dick-measuring contest*
 #### Placate
 #### Debunk
 #### Lucid
 #### Unsettle
 #### Discredit
-#### Extrapolate
+- Anti-eugenic proclaim
+  - *Dick-waving contest*
+  - *Dick-measuring contest*
+
+#### Extrapolate8
 #### Confront
+- (Opponent)Point out the **flaws** of the opponent to prove to the crowd that he/she is a better person to undermine one's status quo
+  - Defense strategies
 - Point out the fallacies
   - the logical fallacy
+- Point out the psychological projection or else directly and relate to human nature
+  - Procedures
+  - Usage
+    - Good for
 #### Appease
 - Give credits to the achievements that have been taken for granted
   - Procedures
@@ -89,10 +125,7 @@
   - Prerequisites
     - Past performance
   - Arsenal of words and phrases
-- Point out the psychological projection or else directly and relate to human nature
-  - Procedures
-  - Usage
-    - Good for
+
 
 ### GR
 
@@ -133,7 +166,7 @@
   - ASMR
 - Collusional drama
 - Other subcultural "Engineering of consent" traits
-
+## Teamplay
 # Skillset
 ## Original skill tree construction
 ## Dramatic presentation
@@ -142,4 +175,3 @@
 
 # Mindset
 
-# Media teamplay

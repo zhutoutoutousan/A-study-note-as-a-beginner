@@ -19,6 +19,9 @@
   - It seems this entity gaining interest in this book is suffering from the **anomie** mentioned above. 
 - I enjoy killing my time on lingodeer learning this language when commuting
 
+## Greek
+- Now here's one very good reason to learn Greek, I want to understand some Greek in Carl Jung's book on archetypes. So why don't you start with typewriting in Greek?
+
 ## Russian
 - I love some russian songs back in the 1940s
 - I once loved Тостои
@@ -40,9 +43,7 @@
 - I enjoy killing my time on lingodeer learning this language when commuting
 ## Arabic
 - It looks sexy
-## Greek
-- It looks smart
-- I am intrigued by the greek philosophy...sort of
+
 ## Latin
 - It seems good to help understand liberal art. I don't know.
 

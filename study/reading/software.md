@@ -12,6 +12,7 @@
 - [Full-stack development](#full-stack-development)
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
+- [Operating system working principle](#operating-system-working-principle)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## C
@@ -28,17 +29,21 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - severely broken NUL terminated strings
   - Process 1:(Learn when you have some spare time and interest)
     - Progress: 19/660
+- C book
+  - [link1](https://publications.gbdirect.co.uk/c_book/)
 ## C++
 - Motivation:
-  - None, just know the entry point when I got the right motivation
+  - Chromium V8 is written in C++, how come you don't have any familiarity with it?
+  - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
 - C++ Primer
   - [link1 - Requires download](https://faculty.psau.edu.sa/filedownload/doc-8-pdf-95bf5763251f491480a0c1e5b76a16d8-original.pdf)
 ## JavaScript
 - Motivations
-  - Currently no motivations 
+  - Currently no need for motivations 
   - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
 ## Java
-- Motivations
+- Motivations:
+  - Practice data structrure on Hackerrank videos
 - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
   - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
     - Pretty slow to load
@@ -95,6 +100,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Progress 1: 343/343-471
   - Process 2(Reading for pleasure) 14/503
     - Require at least finishing one book of elementary number theory to proceed or study the appendix
+- CompTIA Network+ Certification Study Guide
+  - [Link1](http://index-of.es/Varios-2/Comptia%20Network+.pdf)
+- CompTIA Security+
+  - [Github - study notes](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
+  - CompTIA Security+ Exam Guide
+    - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
 # Full-stack development
 - Getting MEAN with Mongo, Express, Angular, and Node 0/?
   - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
@@ -126,3 +137,5 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Compiler working principle and design
 - Compilers Principle, Techniques, & Tools --- A.V.Aho
   - [Link1](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
+
+# Operating system working principle

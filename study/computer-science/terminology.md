@@ -2,6 +2,7 @@
 - [Contents](#contents)
 - [A](#a)
   - [Algorithm](#algorithm)
+  - [Alpha-beta pruning](#alpha-beta-pruning)
   - [AON](#aon)
   - [Assertion](#assertion)
   - [Associative array](#associative-array)
@@ -16,12 +17,14 @@
   - [CMTS](#cmts)
   - [CO](#co)
   - [Context switch](#context-switch)
-    - [Cryptoanalysis](#cryptoanalysis)
-    - [Cryptography](#cryptography)
-    - [Cryptology](#cryptology)
+  - [Control flow](#control-flow)
+  - [Cryptoanalysis](#cryptoanalysis)
+  - [Cryptography](#cryptography)
+  - [Cryptology](#cryptology)
 - [D](#d)
   - [Data structures](#data-structures)
   - [Data type](#data-type)
+  - [Declarative programming](#declarative-programming)
   - [Dial-up](#dial-up)
   - [Dictionary](#dictionary)
   - [Distributed application](#distributed-application)
@@ -42,7 +45,7 @@
   - [Hash Table/Hash map](#hash-tablehash-map)
   - [HFC network](#hfc-network)
   - [Host](#host)
-  - [Hub](#hub)
+  - [Hub 集线器](#hub-集线器)
 - [I](#i)
   - [Internet Protocol(IP)](#internet-protocolip)
   - [IoT](#iot)
@@ -57,6 +60,9 @@
 - [N](#n)
   - [Network core](#network-core)
   - [NP-complete problems](#np-complete-problems)
+- [O](#o)
+  - [OS kernel](#os-kernel)
+  - [OS-level virtualization](#os-level-virtualization)
 - [P](#p)
   - [Parallelism](#parallelism)
   - [PON](#pon)
@@ -83,6 +89,7 @@
   - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
 - [U](#u)
   - [UAE](#uae)
+  - [User space](#user-space)
 - [W](#w)
   - [Worst-case running time](#worst-case-running-time)
 - [Book entry](#book-entry)
@@ -90,14 +97,19 @@
 ## Algorithm
 - An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
 - An algorithm is said to be **correct** if, for every input instance, it halts with the correct output.
-
+## Alpha-beta pruning
+- **Alpha-beta pruning** is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
+- [wiki](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
+- [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=12s)
+- Q: 
+  - What's its difference between memoization
 ## AON
 - Active Optical Networks
 - Household network --> Splitting service --> AON
 - AON is essentially switched Ethernet
 
 ## Assertion
-[Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
+- [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
 ## Associative array
 # B
 ## Bandwidth
@@ -115,17 +127,21 @@
 ## CO
 - (networking)Central office
 ## Context switch
-### Cryptoanalysis
+- A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
+## Control flow
+## Cryptoanalysis
 - studies the breaking of cryptosystems.
-### Cryptography
+## Cryptography
 - Cryptography concerns itself with the design of cryptosystems
-### Cryptology
+## Cryptology
 - *Cryptology*, the study of cryptosystems, can be subdivided into two disciplines.
 
 # D
 ## Data structures
 - A **data structure** is a way to store and organize data in order to facilitate access and modifications.
 ## Data type
+## Declarative programming
+- In computer science, **declarative programming** is a programming paradigm---a style of building the structure and elements of computer programs---that expresses the logic of a computation without describing its control flow.
 ## Dial-up
 ## Dictionary
 - (Computer networking)Many algorithms need only the ability to insert elements into, delete elements from, and test membership in a set. We call a **dynamic** set that supports these operations a **dictionary**.
@@ -164,7 +180,7 @@ In the context of hardware and software systems, **formal verification** is the 
 - [javascript-algorithms](https://github.com/zhutoutoutousan/javascript-algorithms/tree/master/src/data-structures/hash-table)
 ## HFC network
 ## Host
-## Hub
+## Hub 集线器
 - A hub doesn't filter data or has any intelligence as to where the data should be sent.
 - The only thing the hub knows is when the device is connected to one of its ports, when a data packet arrives at one of the ports, it is copied to all of the other ports.
 - [集线器，交换机和路由器解释 - 有什么区别？](https://www.youtube.com/watch?v=1z0ULvg_pW8)
@@ -207,6 +223,12 @@ In the context of hardware and software systems, **formal verification** is the 
 # N
 ## Network core
 ## NP-complete problems
+
+# O
+## OS kernel
+## OS-level virtualization
+- OS-level virtualization is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances.
+- [wiki](https://en.wikipedia.org/wiki/OS-level_virtualization)
 
 # P
 ## Parallelism
@@ -255,7 +277,7 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 
 # U
 ## UAE
-
+## User space
 # W
 ## Worst-case running time
 

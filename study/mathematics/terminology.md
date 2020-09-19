@@ -36,6 +36,7 @@
   - [M](#m)
     - [Map](#map)
     - [Matrix](#matrix)
+    - [MAPE/MAPD](#mapemapd)
     - [Modeling](#modeling)
   - [N](#n)
     - [Non-negative integer](#non-negative-integer)
@@ -48,6 +49,7 @@
     - [Point reflection](#point-reflection)
     - [Positive energy theorem](#positive-energy-theorem)
     - [Positive integer](#positive-integer)
+    - [Prime numbers](#prime-numbers)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
   - [R](#r)
@@ -56,6 +58,7 @@
     - [Recursive tree](#recursive-tree)
   - [S](#s)
     - [Skew-Symmetric Matrix](#skew-symmetric-matrix)
+    - [Square-cube law](#square-cube-law)
     - [Swinnerton-Dyer Conjecture](#swinnerton-dyer-conjecture)
     - [Symmetric Matrix](#symmetric-matrix)
   - [T](#t)
@@ -68,10 +71,8 @@
     - [Two's component](#twos-component)
   - [V](#v)
     - [Vector](#vector)
-- [EN-GE-CH](#en-ge-ch)
-  - [M](#m-1)
-    - [Mapping - ? - 映射](#mapping------映射)
-- [Book entry](#book-entry)
+- [Mathematic symbol](#mathematic-symbol)
+  - [Logical reasoning](#logical-reasoning)
 # Alphabetical
 ## A
 ### Algebraic geometry
@@ -97,8 +98,14 @@
 ### Divisible
 - An *integer* $a$ is said to be *divisible* by another integer $b$, not $0$, if there is a third integer $c$ such that $a=bc$, if $a$ and $b$ are positive, $c$ is necessarily positive
 ### Divisor
-- If an integer $a$ is said to be divisible by another integer $b$, then we can say $a$ is divisible by $b$, or $b$ is a *divisor* of $a$, by $b|a$.
-- Thus $1|a$, $a|a$,and $b|0$ for every $b$ but $0$. 
+- If an integer $a$ is said to be divisible by another integer $b$, then we can say $a$ is divisible by $b$, or $b$ is a *divisor* of $a$, by $b|a$. For the contrary of $b|a$, we use $b \nmid a$
+- Some examples(Try to visualize, build your own mental model)
+  - $1|a$, $a|a$,and $b|0$ for every $b$ but $0$.
+  - $b|a \, . \, c|b \rightarrow \, c|a$
+  - $b|a \, \rightarrow \, bc|ac$
+  - $c\neq 0 \, . \, c|a \, . \,  c|b \, \rightarrow \, c|ma + nb$ for all integral $m$ and $n$
+
+
 ## E
 ### Elliptic curve
 ### Euclid's Algorithm
@@ -162,9 +169,23 @@ a_1 & a_2 & a_3
 $$
 
 - Matrices are handy for storing and processing data in applications. 
+
+### MAPE/MAPD
+
+$$
+M=\frac{1}{n}\sum_{t=1}^{n}|\frac{A_t-F_t}{A_t}|
+$$
+
+- MAPE: mean absolute percentage error
+- The **mean absolute percentage error(MAPE)**, also known as **mean absolute percentage deviation(MAPD)**, is a measure of prediction accuracy of a forecasting method in statistics.
+- $A_t$ is the actual value, $F_t$ is the forecast value.
+- [wiki](https://en.wikipedia.org/wiki/Mean_absolute_percentage_error)
+
 ### Modeling
 - If we want to solve an engineering problem(usually of a physical nature), we first have to formulate the problem as a mathematical expression in terms of variables, functions, and equations. Such an expression is known as a mathematical model of the given problem. The process of setting up a model, solving it mathematically, and interpreting the result in physical or other terms is called *mathematical modeling* or, briefly, **modeling**.
 - The four stages of using mathematical modeling to solve a real problem?
+
+
 
 ## N
 ### Non-negative integer
@@ -209,7 +230,15 @@ $$
 - [wiki](https://en.wikipedia.org/wiki/Positive_energy_theorem)
 ### Positive integer
 - 1,2,3...
-
+### Prime numbers
+- Definition
+  - A number $p$ is said to be *prime* if $p > 1$ and $p$ has no positive divisors except $1$ and $p$.
+- Theorem
+  - Theorem 1: 正整数除1之外，皆为质数之乘积
+    - Claim: *Every positive integer, except $1$, is a product of primes.*
+    - Proof
+      - [wiki](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
+      - [Link1 - Triggers download - P21](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
 ## Q
 ### Quadratic residues
 
@@ -232,6 +261,9 @@ $$
 3 & 2 & 0
 \end{bmatrix}
 $$
+
+### Square-cube law
+- [wiki](https://en.wikipedia.org/wiki/Square%E2%80%93cube_law)
 ### Swinnerton-Dyer Conjecture
 
 ### Symmetric Matrix
@@ -278,12 +310,5 @@ $$
 - A **vector** is denoted by **lowercase** boldface letters **a**, **b**,... or by its general component in brackets, **a** = [$a_j$], and so on.
 - For more, check [**Matrix**](#matrice) section.
 
-
-# EN-GE-CH
-## M
-### Mapping - ? - 映射
-
-
-
-# Book entry
-
+# Mathematic symbol
+## Logical reasoning

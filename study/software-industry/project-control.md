@@ -7,72 +7,28 @@
 - [Timeline-project control](#timeline-project-control)
 - [Personal website](#personal-website)
   - [Front-page](#front-page)
-    - [Time control](#time-control)
-      - [10/40](#1040)
-      - [20/40](#2040)
-      - [30/40](#3040)
-      - [40/40](#4040)
+    - [Progress](#progress)
     - [Design](#design)
       - [UI](#ui)
       - [Functionality](#functionality)
     - [Tech-stack](#tech-stack)
   - [Blog-page](#blog-page)
-    - [Time control](#time-control-1)
-      - [10/40](#1040-1)
-      - [20/40](#2040-1)
-      - [30/40](#3040-1)
-      - [40/40](#4040-1)
-    - [Progress](#progress)
+    - [Progress](#progress-1)
       - [UI](#ui-1)
       - [Functionality](#functionality-1)
     - [Tech-stack](#tech-stack-1)
   - [Resource](#resource)
 - [Front-end portfolio](#front-end-portfolio)
-  - [Time control](#time-control-2)
-    - [10/40](#1040-2)
-    - [20/40](#2040-2)
-    - [30/40](#3040-2)
-    - [40/40](#4040-2)
+  - [Progress](#progress-2)
   - [Items](#items)
 - [Chess game](#chess-game)
-  - [Time control](#time-control-3)
-    - [10/40](#1040-3)
-    - [20/40](#2040-3)
-    - [30/40](#3040-3)
-    - [40/40](#4040-3)
-  - [Progress](#progress-1)
-  - [Tech-stack](#tech-stack-2)
+  - [Progress](#progress-3)
   - [Reference materials](#reference-materials)
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
-  - [Time control](#time-control-4)
-    - [10/40](#1040-4)
-    - [20/40](#2040-4)
-    - [30/40](#3040-4)
-    - [40/40](#4040-4)
-  - [Design](#design-1)
-    - [UI](#ui-2)
-      - [Navbar](#navbar)
-  - [Functionality](#functionality-2)
-    - [Algorithm study](#algorithm-study)
-    - [Sorting algorithm map](#sorting-algorithm-map)
-      - [Heap sort](#heap-sort)
-      - [Merge sort](#merge-sort)
-      - [Quick sort](#quick-sort)
-    - [Pathfinding algorithm map](#pathfinding-algorithm-map)
-      - [Dijkstra's algorithm](#dijkstras-algorithm)
-      - [A* Search](#a-search)
-      - [Greddy Best-first Search](#greddy-best-first-search)
-      - [Breadth-first Search](#breadth-first-search)
-      - [Depth-first Search](#depth-first-search)
-  - [Tech-stack](#tech-stack-3)
+  - [Progress](#progress-4)
+  - [Tech-stack](#tech-stack-2)
   - [Reference materials](#reference-materials-1)
 - [Problem solving proficiency](#problem-solving-proficiency)
-  - [Time-control](#time-control-5)
-    - [Project completion recording workbench(10/40)](#project-completion-recording-workbench1040)
-    - [10/40](#1040-5)
-    - [20/40](#2040-5)
-    - [30/40](#3040-5)
-    - [40/40](#4040-5)
   - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
     - [Leetcode training](#leetcode-training)
   - [General language proficiency](#general-language-proficiency)
@@ -84,13 +40,14 @@
   - [Networking, browser](#networking-browser)
   - [Development pattern/Teamwork](#development-patternteamwork)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
-  - [Design](#design-2)
-    - [Functionality](#functionality-3)
-  - [Tech-stack](#tech-stack-4)
+  - [Design](#design-1)
+    - [Functionality](#functionality-2)
+  - [Tech-stack](#tech-stack-3)
   - [Reference materials](#reference-materials-2)
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-    - [Functionality](#functionality-4)
+    - [Functionality](#functionality-3)
+  - [Reference](#reference)
 
 # Priority-project control
 ## In two months
@@ -111,8 +68,8 @@
 ```
 April -...--------------------------------------------------------------> October  
 xxxxxxx...August-----------------------September--------------------------->|  
-                           /|\
-                            |  U R here
+                                                              /|\
+                                                               |  U R here
 ```
 - First stage mark: **FST**
 
@@ -121,8 +78,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 # Personal website
 
 ## Front-page
-### Time control
-#### 10/40
+### Progress
 - Study the example
   - [Portfolio](https://github.com/realmartinzane/portfolio)
   - Progress
@@ -130,22 +86,17 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Redesign its style
   - Accumulate some ideas
 - Get familiar with its elements
-#### 20/40
 - Website Construction
 - Learn server hosting
   - This guy used ```github.io```
   - How about you use ```Hikaru```
+    - [x] Finished getting started guide
   - Check back-end --> PaaS section for static site hosting(AWS) 
     - Consider hosting your original lottery game
 - Learn MongoDB
-#### 30/40
 - Website Construction
 - Learn server hosting
-- Learn MongoDB
-#### 40/40
-- Website Construction
-- Learn server hosting
-- Learn MongoDB
+
 ### Design
 #### UI
 - Just like the first example in the **resource** section
@@ -155,16 +106,11 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [ ] Series of courses on your note: **Roadmap-web**
 
 ## Blog-page
-### Time control
-#### 10/40
-- Vue course(Frontend master)
-#### 20/40
+### Progress
 - Vue course(Frontend master)
 - Complete learning Vuepress
-#### 30/40
-- Build the website
-#### 40/40
-### Progress
+- If Vuepress is not good
+  - [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
 #### UI
 - [ ] Generated by Vuepress
 #### Functionality
@@ -187,24 +133,13 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
 
 # Front-end portfolio
-## Time control
-### 10/40
-- Finish vue calculator
-- Vue.js course 
-- E-commerce tutorial
-  - Follow along(Should finish 40%)
-### 20/40
-- Vue.js course(should finish)
-- E-commerce tutorial
-  - Follow along(Should finish)
-### 30/40
-- Keep working 
-### 40/40
-- Keep working 
+## Progress
+- Create Serving
 ## Items 
-
 - Site
 - Components
+  - Lottery game
+    - Serving
   - [x] Accordian
   - Autocomplete
   - [x] Vanilla JS calculator
@@ -225,27 +160,30 @@ xxxxxxx...August-----------------------September--------------------------->|
   - toast-notification
 
 # Chess game
-## Time control
-### 10/40
-- Read and rewrite the AI
-- P5.js
-  - [Study this repo](https://codepen.io/tuppercode/pen/vxKqwg)
-### 20/40
-- Learn from reference and build the Hikaru server
-### 30/40
-- Build online gaming
-### 40/40
-- Polishing
 ## Progress
 - [x] Chessboard
+- [ ] Game mechanics
+  - [ ] When you win, the game is stuck 
+- [ ] Chess Pieces
+  - [x] Initial design
+  - [ ] The black bishop sometimes disappear
+  - [ ] Check ```diagsweep``` function
+  - [ ] If you click the queen twice, it just disappear
+    - [ ] Check ```diagsweep``` function
+  - [ ] Rook can move through pieces vertically(not horizontally)
+    - [ ] Check ```moveThroughPieces``` 
+  - [ ] Pawn can travel out of bounds
+  - [ ] Pawn doesn't promote
+  - [ ] Pawn doesn't en passant
 - [ ] AI
-  - [ ] Graph algorithm
+  - [x] Algorithms
+  - [ ] Enemy loves moving pawn
+- [ ] Decoration
+  - [ ] Start the game
+  - [ ] Restart the game
 - [ ] Multiplayer
+  - [ ] Choose mode
   - [ ] Networking
-## Tech-stack
-- ES6
-- p5.js
-- Node.js
 
 ## Reference materials
 - Code bullet --> Chess AI
@@ -254,43 +192,13 @@ xxxxxxx...August-----------------------September--------------------------->|
   - With rooms
 - [Online-chess](https://github.com/kevinAlbs/Chess)
   - Node.js
+  - 
 # Pathfinding algorithm visualizer
-## Time control
-### 10/40
+## Progress
 - Learn to design the UI
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
 - Go through the React Tutorial
-### 20/40
-- Study React
-### 30/40
-- Refactor project
-### 40/40
-## Design
-### UI
-#### Navbar
-- [ ] Study the html code in the repo, play around with demos
-  - [ ] How about putting it into your own portfolio?
-## Functionality
-### Algorithm study
-- Check **Roadmap-web** for guidance
-### Sorting algorithm map
-#### Heap sort
-- APP
-#### Merge sort
-- APP
-#### Quick sort
-- APP
-### Pathfinding algorithm map
-#### Dijkstra's algorithm
-- APP
-#### A* Search
-- APP
-#### Greddy Best-first Search
-- APP
-#### Breadth-first Search
-- APP
-#### Depth-first Search
-- APP
+
 ## Tech-stack
 - [ ] React
   - [ ] React tutorial
@@ -304,67 +212,14 @@ xxxxxxx...August-----------------------September--------------------------->|
 
 
 
-
-
-
-
 # Problem solving proficiency
-## Time-control
-### Project completion recording workbench(10/40)
-- JavaScript algorithm
-- Data structure
-- Algorithms
-### 10/40
-- [ ] Study and take notes of all the data structure and algorithms
-  - [link](https://github.com/trekhleb/javascript-algorithms)
-  - Do this the hard way, follow along the coding for better muscle memory
-  - Learn to manage your time, record the duration of each training session for project development balance
-    - Start time: 
-      - 1/40-4/40(Study phase): 
-        - Linked-List
-          - [x] What it is
-          - [x] Code along
-            - [x] Can use chrome DevTool to check the OOP
-          - [ ] Pick some exercise
-            - [ ] [Top 20 Linked List Interview Question](https://www.geeksforgeeks.org/top-20-linked-list-interview-question/)
-              - [ ] Progress
-        - Hashmap
-          - [x] What it is
-            - [x] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-          - [x] Code along
-            - [x] Can use chrome DevTool to check the OOP
-    - Keep training on ```codewar``` and ```LeetCode```
-      - Learn more about ```jest``` to get familiar with the JavaScript testing environment
-
-### 20/40
-- [ ] Every day, do a full sweep of review --- Forgetting curve style
-  - [link](https://github.com/trekhleb/javascript-algorithms)
-  - Do this the hard way, follow along the coding for better muscle memory
-  - Learn to manage your time, record the duration of each training session for project development balance
-- [ ] Every day, accumulate some interview questions on leetcode.
-- Recall phase record
-  - 10 minutes
-    - Hashmap
-      - [x] What it is
-        - [x] [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
-      - [x] Code along
-        - [x] Can use chrome DevTool to check the OOP
-  - 24 hrs
-
-  - 1 week
-    - LinkedList
-      - 28 Mo. --> 4. Sep
-      - Code
-      - Itself
-  - 1 month
-    - I think I'm good with 1 week and then roll it back, I can't afford to wait for a month, not for that large capacity this huge knowledge chunk contains
-- Keep training on ```codewar``` and ```LeetCode```
-      - Learn more about ```jest``` to get familiar with the JavaScript testing environment
-### 30/40
-### 40/40
 ## Algorithm and Data Structure familiarity
+- Basic training: See mental model in data structure and algorithms
 ### Leetcode training
 - Leetcode most interviewed questions
+
+
+
 
 ## General language proficiency
 ### CodeWar training
@@ -372,11 +227,6 @@ xxxxxxx...August-----------------------September--------------------------->|
 - Fun
 - Should do it from time to time
 ### Hackerrank training
-
-
-
-
-
 # Interview questions
 ## Basic JavaScript/HTML/CSS
 ## Vue, React.js inner working principle
@@ -407,4 +257,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Can explore other people's world if you got the access
 - 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
-  - With BCI interface directly interacting with the brain.
+  - With BCI interface directly interacting with the br
+
+## Reference
+- [xmind-viewer](https://github.com/xmindltd/xmind-viewer)

@@ -6,6 +6,7 @@
   - [See if contains](#see-if-contains)
     - [Array](#array)
       - [```Array.prototype.includes()```](#arrayprototypeincludes)
+  - [Count the occurences/frequency](#count-the-occurencesfrequency)
   - [Getting data type](#getting-data-type)
   - [Testing equality](#testing-equality)
     - [Types of equality](#types-of-equality)
@@ -22,9 +23,14 @@
 - [Remove series](#remove-series)
   - [Remove Array](#remove-array)
     - [Array element](#array-element)
+- [Mathematic series](#mathematic-series)
+  - [Prime numbers](#prime-numbers)
+    - [Check if a number is a prime](#check-if-a-number-is-a-prime)
+    - [Generate prime numbers](#generate-prime-numbers)
 - [Work with series](#work-with-series)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
+    - [Display big numbers](#display-big-numbers)
     - [Absolute value](#absolute-value)
   - [Work with strings](#work-with-strings)
     - [Reverse a string](#reverse-a-string)
@@ -42,6 +48,8 @@
   - [Work with JSON](#work-with-json)
   - [Work with localStorage](#work-with-localstorage)
   - [Work with sessionStorage](#work-with-sessionstorage)
+  - [Work with networking parts](#work-with-networking-parts)
+    - [Extract domain name from URL](#extract-domain-name-from-url)
 - [Generate series](#generate-series)
   - [Generate string](#generate-string)
     - [Generate Alphabet](#generate-alphabet)
@@ -58,6 +66,9 @@
     - [```Array.prototype.join()```](#arrayprototypejoin)
 - [Problem solving questions and mathematics](#problem-solving-questions-and-mathematics)
 
+
+
+
 # OOP series
 ## How to curry
 
@@ -65,6 +76,22 @@
 ## See if contains
 ### Array
 #### ```Array.prototype.includes()```
+## Count the occurences/frequency
+- [Stack-overflow](https://stackoverflow.com/questions/5667888/counting-the-occurrences-frequency-of-array-elements)
+```javascript
+/**
+ * @param {Array} arr
+ * @param {Array | Number | Object | String} query
+ * @return
+ */
+const countOccurences = (arr, query) => {
+  switch(typeof(query)) {
+    case "Object":
+    
+  }
+}
+```
+
 ## Getting data type
 ## Testing equality
 ### Types of equality
@@ -110,9 +137,77 @@ let a = [2,3,2,1,2,5]
 console.log(removeElementByIndex(a, 3))
 ```
 
+# Mathematic series
+## Prime numbers
+### Check if a number is a prime
+- [JavaScript Program to Check Prime Number - Programiz](https://www.programiz.com/javascript/examples/prime-number)
+- Determine the maximum possible divisor $d$ of a positive integer $n$
+```javascript
+
+
+// |---------------------------|
+// |-------------|  <-- This is maximum divisor
+
+// |--------|
+// |----| <-- Maximum
+// |-------| 
+// |----| <-- Maximum
+
+function primeFactors(n){
+    let processingNumber = n;
+    let testingFactor = 2;
+    let testingFactorCount = 0;  
+    let outputString = '';
+    
+    const isDivisorOf = (a, b) => a % b === 0;
+  
+    while (processingNumber !== 1 && processingNumber > n) {
+      while (processingNumber % testingFactor === 0) {
+        if(processingNumber / testingFactor % testingFactor === 0) {
+          testingFactorCount++;
+          processingNumber /= testingFactor;
+        }
+        else {
+          processingNumber /= testingFactor;
+          outputString += `(${testingFactor}**${testingFactorCount})`;
+          testingFactor++;
+        }
+      }  
+    }
+    return outputString;
+}
+
+// https://www.codewars.com/kata/54d512e62a5e54c96200019e/train/javascript
+// ISSUE: Page irresponsive after 
+//  isPrime(98764321261)
+const isPrime = (num) => {
+  if(num === 1)return "Neither";
+  for (let i = 2; i <= Math.ceil(num / 2); i++) {
+console.log(`CHECK: divisor?${i}`)
+    if (num % i === 0) {
+console.log(`RESULT: The divisor is ${i}`);
+      return false;
+      }
+  }
+  return true;
+}
+
+```
+
+### Generate prime numbers
+- [Need to generate prime numbers in JavaScript](https://stackoverflow.com/questions/21966000/need-to-generate-prime-numbers-in-javascript)
+
 # Work with series
 ## Work with **immutable** objects
 ## Work with numbers
+### Display big numbers
+- [How to avoid scientific notation for large numbers in JavaScript?](https://stackoverflow.com/questions/1685680/how-to-avoid-scientific-notation-for-large-numbers-in-javascript)
+- [StackOverflow -  Javascript display really big numbers rather than displaying xe+n](https://stackoverflow.com/questions/16066793/javascript-display-really-big-numbers-rather-than-displaying-xen)
+```javascript
+const 
+
+```
+
 ### Absolute value
 ```javascript
 let a = -134;
@@ -191,6 +286,26 @@ const findMaxIndex = arr => arr.indexOf(Math.max(...arr));
 ## Work with JSON
 ## Work with localStorage
 ## Work with sessionStorage
+## Work with networking parts
+### Extract domain name from URL
+- [how to get domain name from URL](https://stackoverflow.com/questions/569137/how-to-get-domain-name-from-url)
+- [Regular expression to extract domain from URL](https://www.golangprograms.com/regular-expression-to-extract-domain-from-url.html)
+- [Codewar](https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/javascript)
+
+```javascript
+function domainName(url){
+  url = url.replace("https://", '');
+  url = url.replace("http://", '');
+  url = url.replace("www.", '');
+  return url.split('.')[0];
+};
+
+function domainName(url){
+  return url.match(/(?:http(?:s)?:\/\/)?(?:w{3}\.)?([^\.]+)/i)[1];
+}
+
+const regex = /^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\.\n]+)/
+```
 # Generate series
 ## Generate string
 ### Generate Alphabet

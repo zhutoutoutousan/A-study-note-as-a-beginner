@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [```UNEXPECTED_STORE_EXCEPTION```](#unexpected_store_exception)
 - [Memory leak](#memory-leak)
   - [Symptom](#symptom)
   - [Edit Registry - Ndu and Null](#edit-registry---ndu-and-null)
@@ -15,6 +16,9 @@
     - [Potential repercussions](#potential-repercussions)
   - [Resource](#resource)
   - [Reference](#reference)
+
+# ```UNEXPECTED_STORE_EXCEPTION```
+- [Bluescreens during gaming Unexpected store exception, and Critical process died](https://answers.microsoft.com/en-us/windows/forum/all/bluescreens-during-gaming-unexpected-store/6dc84e93-fa5c-4d24-96ce-d279b7fc6fe3)
 # Memory leak
 ## Symptom
 - 16GB ram shows 60% usage just after starting up

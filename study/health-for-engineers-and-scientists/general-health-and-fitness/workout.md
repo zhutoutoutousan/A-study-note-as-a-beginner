@@ -348,6 +348,6 @@
         - <div style="color: red">WARNING: Injury on the posterior chain</div>
       - Roll up jump
   - Day 5
-    - Cardio
-      - Bike ride: 1hr
+    - Off day
+    - Diet break --> 500 kcal deficit
 </details>

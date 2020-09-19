@@ -6,6 +6,8 @@
 - [Roadmap](#roadmap)
   - [Software architecture](#software-architecture)
   - [Full-stack](#full-stack)
+    - [Database](#database)
+    - [API](#api)
     - [Resources](#resources)
   - [Front-end](#front-end)
     - [HTML](#html)
@@ -22,7 +24,7 @@
     - [Run time](#run-time)
     - [Client API](#client-api)
     - [Framework](#framework)
-    - [Database](#database)
+    - [Database](#database-1)
     - [PaaS](#paas)
 - [Main study resource track](#main-study-resource-track)
   - [Vue mastery](#vue-mastery)
@@ -93,6 +95,10 @@
 - [Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 
 ## Full-stack
+### Database
+- [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+### API
+- [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
 ### Resources
 - [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 

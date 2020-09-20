@@ -47,6 +47,7 @@
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
     - [Functionality](#functionality-3)
+  - [P.O.I](#poi)
   - [Reference](#reference)
 
 # Priority-project control
@@ -258,6 +259,10 @@ xxxxxxx...August-----------------------September--------------------------->|
 - 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the br
+
+## P.O.I
+- Zhu Xiao Wei
+  - [front-page](https://coolerzxw.github.io/)
 
 ## Reference
 - [xmind-viewer](https://github.com/xmindltd/xmind-viewer)

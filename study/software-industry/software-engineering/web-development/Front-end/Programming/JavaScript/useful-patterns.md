@@ -50,6 +50,8 @@
   - [Work with sessionStorage](#work-with-sessionstorage)
   - [Work with networking parts](#work-with-networking-parts)
     - [Extract domain name from URL](#extract-domain-name-from-url)
+  - [Work with colors](#work-with-colors)
+    - [decimal to rgb](#decimal-to-rgb)
 - [Generate series](#generate-series)
   - [Generate string](#generate-string)
     - [Generate Alphabet](#generate-alphabet)
@@ -305,6 +307,30 @@ function domainName(url){
 }
 
 const regex = /^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\.\n]+)/
+```
+
+## Work with colors
+### decimal to rgb
+```javascript
+function rgb(r, g, b){
+  return toHex(r)+toHex(g)+toHex(b);
+}
+
+function toHex(d) {
+    if(d < 0 ) {return "00";}
+    if(d > 255 ) {return "FF";}
+    return  ("0"+(Number(d).toString(16))).slice(-2).toUpperCase()
+}
+
+
+
+function rgb(r, g, b){
+  return [r,g,b].map(function(x) {
+    return ('0'+Math.max(0, Math.min(255, x)).toString(16)).slice(-2);
+  }).join('').toUpperCase();
+}
+
+
 ```
 # Generate series
 ## Generate string

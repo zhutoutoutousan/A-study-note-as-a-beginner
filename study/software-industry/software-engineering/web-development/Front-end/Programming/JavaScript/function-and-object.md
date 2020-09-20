@@ -207,6 +207,7 @@ let new_array = arr.map(function callback( currentValue[, index[, array]]){
 let newArray = arr.filter(callback(element[, index [, array]]), thisArg)
 ```
 ### ```Array.prototype.reduce```
+- You should always use ```initialValue``` in the callback function, otherwise the first element will be directly passed as the initial value.
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 #### Mental model
 ### ``` Array.prototype.fill()```

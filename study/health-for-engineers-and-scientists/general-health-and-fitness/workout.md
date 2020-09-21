@@ -350,4 +350,8 @@
   - Day 5
     - Off day
     - Diet break --> 500 kcal deficit
+  - Day 6
+    - Hiking
+  - Day 7
+    - 
 </details>

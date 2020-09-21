@@ -11,6 +11,11 @@
   - Requires at least **Russian B1 level** to initiate online search for e-books | Your level: Lower A2
 
 # Language
+## Latin
+- Oxford Latin Course
+  - [Link1](http://web.lancastercountryday.org/books/latin/OxfordLatin.pdf)
+  - !: Master Latin typewriting first
+## Greek
 - From Zero to Greek
   - [Link1](http://www.dramata.com/ACL_2008_Zero_to_Greek_workshop.pdf)
   - Learn Greek typewriting first to unlock fast customized local note taking system
@@ -20,3 +25,5 @@
 # Linguistics
 - Introduction to Linguistics --- Marcus Kracht, UCLA
     - [link1](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
+    - Process 1:(Completely out of interest and burnout recovery)
+      - Progress: 3/211

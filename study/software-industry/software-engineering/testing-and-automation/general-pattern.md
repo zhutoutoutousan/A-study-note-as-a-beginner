@@ -1,5 +1,6 @@
 # Assert
 - [Node.js - assert](https://nodejs.org/api/assert.html)
+- [chai - assert](https://www.chaijs.com/api/assert/)
 # BDD
 ## expect
 

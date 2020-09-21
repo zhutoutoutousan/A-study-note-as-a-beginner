@@ -216,7 +216,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Algorithm and Data Structure familiarity
 - Basic training: See mental model in data structure and algorithms
 ### Leetcode training
-- Leetcode most interviewed questions
+- [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189)
 
 
 

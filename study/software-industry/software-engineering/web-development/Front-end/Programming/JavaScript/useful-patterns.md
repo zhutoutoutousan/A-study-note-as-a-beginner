@@ -28,6 +28,8 @@
     - [Check if a number is a prime](#check-if-a-number-is-a-prime)
     - [Generate prime numbers](#generate-prime-numbers)
 - [Work with series](#work-with-series)
+  - [Work with data structure](#work-with-data-structure)
+    - [Convert array to linked list](#convert-array-to-linked-list)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
     - [Display big numbers](#display-big-numbers)
@@ -38,6 +40,7 @@
       - [Verify if a string has a pattern \[pattern\]](#verify-if-a-string-has-a-pattern-pattern)
         - [```String.prototype.includes()```](#stringprototypeincludes)
   - [Work with Arrays](#work-with-arrays)
+    - [Array equal?](#array-equal)
     - [Push into multidimensional array](#push-into-multidimensional-array)
     - [Cut an array given certain index](#cut-an-array-given-certain-index)
       - [```Array.prototype.splice()```](#arrayprototypesplice)
@@ -200,6 +203,27 @@ console.log(`RESULT: The divisor is ${i}`);
 - [Need to generate prime numbers in JavaScript](https://stackoverflow.com/questions/21966000/need-to-generate-prime-numbers-in-javascript)
 
 # Work with series
+## Work with data structure
+### Convert array to linked list
+- [Implementing a Linked List in JavaScript](https://medium.com/javascript-in-plain-english/implementing-a-linked-list-in-javascript-3f71c83487b5)
+```javascript
+// This code is wrong, fix it
+    const createListNodeFromArray = (arr) => {
+        let resultList = new ListNode(0, null);
+        let currentNode = resultList;
+        for (let i = 0; i < arr.length; i++) {
+            if(!currentNode.val || !currentNode.next){
+                currentNode.val = arr[i];
+            }
+            else {
+                currentNode.next = new ListNode(arr[i],null);
+                currentNode = currentNode.next;
+            }
+        }
+        return resultList;
+    }
+```
+
 ## Work with **immutable** objects
 ## Work with numbers
 ### Display big numbers
@@ -230,6 +254,8 @@ console.log('Fuck this shit'.includes('shitty'));  // false
 
 - [How to check if a string contains a substring in JavaScript](https://flaviocopes.com/how-to-string-contains-substring-javascript/)
 ## Work with Arrays
+### Array equal?
+- [Checking if two arrays are equal](https://gomakethings.com/checking-if-two-arrays-are-equal/#:~:text=The%20simplest%20and%20fastest%20way,a%20comparison%20operator%20(%20%3D%3D%3D%20).&text=This%20approach%20is%20great%20for,items%20is%20equal%20to%20another.)
 ### Push into multidimensional array
 ### Cut an array given certain index
 #### ```Array.prototype.splice()```

@@ -3,12 +3,14 @@
 - [Alphabetical](#alphabetical)
   - [A](#a)
     - [Aion](#aion)
+    - [Allegory](#allegory)
     - [Altruism](#altruism)
     - [âme](#âme)
     - [Apposite](#apposite)
     - [Archetype](#archetype)
     - [Ascribe](#ascribe)
     - [Assent](#assent)
+    - [Astrology](#astrology)
     - [Ausdruck](#ausdruck)
   - [B](#b)
     - [Bewußtsein](#bewußtsein)
@@ -48,6 +50,7 @@
   - [G](#g)
     - [Group pressure](#group-pressure)
   - [H](#h)
+    - [Heresy](#heresy)
   - [I](#i)
     - [Id](#id)
     - [Idiosyncrasy](#idiosyncrasy)
@@ -64,6 +67,8 @@
     - [Pathology](#pathology)
     - [Personal unconscious](#personal-unconscious)
     - [Pertinent](#pertinent)
+    - [Primitive man](#primitive-man)
+    - [Psyche](#psyche)
     - [Psychological projection](#psychological-projection)
   - [R](#r)
     - [Readily](#readily)
@@ -102,6 +107,8 @@
 # Alphabetical
 ## A
 ### Aion
+### Allegory
+- An allegory is a paraphrase of a conscious content, whereas a symbol is the best possible expression for an unconscious content whose nature can only be guessed, because it is still unknown.
 ### Altruism
 - the belief in or practice of disinterested and selfless concern for the well-being of others.
 - [wiki](https://en.wikipedia.org/wiki/Altruism)
@@ -112,8 +119,12 @@
 ### Archetype
 - ...*they constitute the personal and private side of psychic life. The contents of the collective unconscious, on the other hand, are known as archetypes*...
     - [p22](https://www.are.na/block/1493356)
+- ...*One must, for the sake of accuracy, dinstinguish between "archetype" and "archetypal ideas". The archetype as such is a hypothetical and irrepresentable model, something like the "pattern of behaviour" in biology.* --- Cf. "One the nature of the Psyche," sec.7
 ### Ascribe
 ### Assent
+### Astrology
+- Astrology is a pseudoscience that claims to divine information about human affairs and terrestrial events by studying the movements and relative positions of celestial objects.
+- C.Jung: *...Even tody, people who still believe in astrology fall almost without exception for the old superstitious assumption of the influence of the stars...* --- The archetypes and the collective unconscious
 ### Ausdruck
 - (German) m. Expression
 ## B
@@ -192,6 +203,8 @@
 ## G
 ### Group pressure
 ## H
+### Heresy
+- Belief or opinion contrary to orthodox religious(especially Christian) doctrine.
 ## I
 ### Id
 ### Idiosyncrasy
@@ -217,6 +230,11 @@
 - ...*A more or less superficial layer of the unconscious is undoubtedly  personal. I call it the personal unconscious. But this personal unconscious rests upon a deeper layer, which does not derive from personal experience and is not a personal acquisition but is inborn. This*...
   - [P21](https://www.are.na/block/1493356)
 ### Pertinent
+### Primitive man
+- ...*Primitive man is not much interested in objective explanations of the obvious, but he has an imperative need---or rather, his unconscious psyche has an irresistible urge--- to assimilate all outer sense experiences to inner, psychic events.* --- Collected works of C. G. Jung : The Archetypes and the Collective Unconscious, 24/566
+  - Sun rise is not enought, it has to be a god or hero who dwells nowhere except in the soul of man.
+
+### Psyche
 ### Psychological projection
 - Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.
 ## R

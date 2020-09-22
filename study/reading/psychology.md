@@ -23,7 +23,7 @@
     - Suggested staying with the English version, the original German version online available without scams is pretty rare.
     - Paperback version can be obtained later
     - Process 1(Normal reading)
-      - Progress(English version - link1): 22/566
+      - Progress(English version - link1): 24+/566
     - P.O.I
       - Carus
       - Hartmann

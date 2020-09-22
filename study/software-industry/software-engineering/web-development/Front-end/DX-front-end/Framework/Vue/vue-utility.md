@@ -749,8 +749,28 @@ export const store = new Vuex.Store({
 
 #### Getter
 - Getters will make values able to show statically in the templates. They can read the value, but not mutate the state.
+- On the component itself, we would use ```computed``` for ```getters```(this makes sense because the value is already computed for us), and ```methods``` with ```commit``` to access the ```mutations```, and methods with ```dispatch``` for the ```actions```
+```javascript
+// Vue instance and component
+computed {
+  value() {
+    return this.$store.getters.tripleCounter;
+  }
+},
+methods: {
+  increment() {
+    this.$store,commit('increment', 2)
+  },
+  asyncIncrement() {
+    this.$store.dispatch('asyncIncrement', 2)
+  }
+}
+
+```
+
 #### Mutations
 - Mutations will allow us to update the state, but they will always be synchronous. Mutations are the only way to change data in the state in the store.
+- Use ```commit```
 #### Actions
 - Actions will allow us to update the state, asynchronously, but will use an existing mutation. This can be very helpful if you need to perform a few different mutations at once in a particular order, or reach out to a server.
 - Pass in the context: ```context.state```, ```context.getter```
@@ -771,21 +791,22 @@ actions: {
 }
 
 // async
-// payload: duration
+// payload: duration, asyncNum.by
 actions: {
-  asyncIncrement ({ commit }, duration) {
+  asyncIncrement ({ commit }, asyncNum) {
     setTimeout(() => {
-      commit('increment')
-    }, duration)
+      commit('increment', asyncNum.by)
+    }, asyncNum.duration)
   }
 }
 
 // async  dispatch
-// address payload: duration is 1000
+// address payload: duration is 1000, asyncNum.by is 10
 methods: {
   asyncIncrement() {
     this.$store.dispatch('asyncIncrement', {
-      duration: 1000
+      duration: 1000,
+      by:10
     })
   }
 }

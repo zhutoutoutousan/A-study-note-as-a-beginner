@@ -196,7 +196,7 @@
         - Good for studying with strict deadline
         - Focus on building or strengthening the neurological pathways along the way
         - If there is something that really could be reoccuring, then take some notes.
-      - Progress: Page-Specific Transitions 4:20:41/5hrs --> Vuex
+      - Progress: Page-Specific Transitions **COMPLETED** --> Vuex
       - Resource for recap
         - Nuxt.js
           - [Repo](https://github.com/sdras/nuxt-type)

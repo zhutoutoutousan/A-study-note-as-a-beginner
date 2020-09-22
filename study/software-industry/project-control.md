@@ -169,7 +169,9 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [ ] The black bishop sometimes disappear
   - [ ] Check ```diagsweep``` function
   - [ ] If you click the queen twice, it just disappear
-    - [ ] Check ```diagsweep``` function
+    - [ ] Source check
+      - [ ] In QUEEN: ```canMove``` function, the ```basicCondition``` returns the wrong value
+      - [ ] Although it **cannot Move**, it still sees it as ```attacking``` and took itself.
   - [ ] Rook can move through pieces vertically(not horizontally)
     - [ ] Check ```moveThroughPieces``` 
   - [ ] Pawn can travel out of bounds

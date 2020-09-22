@@ -230,7 +230,12 @@ console.log(`RESULT: The divisor is ${i}`);
 - [How to avoid scientific notation for large numbers in JavaScript?](https://stackoverflow.com/questions/1685680/how-to-avoid-scientific-notation-for-large-numbers-in-javascript)
 - [StackOverflow -  Javascript display really big numbers rather than displaying xe+n](https://stackoverflow.com/questions/16066793/javascript-display-really-big-numbers-rather-than-displaying-xen)
 ```javascript
-const 
+/*
+Maybe you can chop the number string to bits that will not be displayed as scientific exponentials. Then use carry to 
+*/
+const operateBigNumbers(bigNum1, bigNum2, ops) {
+    
+}
 
 ```
 

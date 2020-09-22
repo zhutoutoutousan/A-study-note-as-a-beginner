@@ -12,6 +12,7 @@
   - [LinkedList Loop](#linkedlist-loop)
   - [Sliding window technique](#sliding-window-technique)
   - [JavaScript mutable objects](#javascript-mutable-objects)
+- [Pick up where you left off](#pick-up-where-you-left-off)
 - [Questions](#questions)
 # Overview
 - This note is analogous to RAM in computer systems
@@ -97,6 +98,33 @@ var myAtoi = function(str) {
 
 ## JavaScript mutable objects
 
+# Pick up where you left off
+```javascript
+// https://leetcode.com/problems/add-binary/submissions/
+/**
+ * @param {string} a
+ * @param {string} b
+ * @return {string}
+ */
+var addBinary = function(a, b) {
+//  xxxx ==> 1221112121121 ==> carry
+    let convertNum = parseInt(a) + parseInt(b);
+    let convertArr = convertNum.toString().split('');
+    for (let i = convertArr.length - 1; i >= 0; i--) {
+        if(convertArr[i] === '2') {
+            convertArr[i] = '0';
+            console.log(convertArr)
+            if(i === 0) {
+                convertArr = ['1', ...convertArr];
+            }
+            else {
+                convertArr[i - 1] = `${parseInt(parseInt(convertArr[i -1])+1)}`;
+            }
+        }
+    }
+    return convertArr.join('');
+};
+```
 
 # Questions
 

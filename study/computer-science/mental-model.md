@@ -34,6 +34,7 @@
     - Tree
       - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree)
         - Code along
+    - Graph
   - Algorithms
     - Bit manipulation
       - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/bits)
@@ -58,5 +59,12 @@
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 
 ```javascript
-
+// graph
+class Graph {
+  constructor(isDirected = false) {
+    this.vertices = {};
+    this.edges = {};
+    this.isDirected = isDirected;
+  }
+}
 ```

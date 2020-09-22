@@ -83,6 +83,10 @@
 - [Vue SE](#vue-se)
   - [Architectual aids](#architectual-aids)
     - [Vuex](#vuex)
+      - [File structure](#file-structure)
+      - [Getter](#getter)
+      - [Mutations](#mutations)
+      - [Actions](#actions)
       - [Vuex and OOP](#vuex-and-oop)
   - [Development aids](#development-aids)
     - [Vue devTools](#vue-devtools)
@@ -707,6 +711,86 @@ How slot works
   - "You just know"
   - Multiple instances of children/siblings communicating
   - I'd like to "see" what all of the state looks like and keep it organized in one place
+
+
+- Basic example:
+```javascript
+export const store = new Vuex.Store({
+  state: {
+    counter: 0
+  },
+  // showing things, not mutating state
+  getters: {
+    tripleCounter: state => {
+      return state.counter * 3;
+    }
+  },
+  // mutating the state
+  // mutations are always synchronous
+  mutations: {
+    // showing passed with payload, represented as num
+    increment: (state, num) => {
+      state.counter += num;
+    }
+  },
+  // commits the mutation, it's asynchronous
+  actions: {
+    asyncIncrement: ({ commit }, asyncNum) => {
+      setTimeout(() => {
+        // the asyncNum objects could also just be static amounts
+        commit('increment', asyncNum.by);
+      }, asyncNum.duration);
+    }
+  }
+});
+```  
+#### File structure
+- RTFM
+
+#### Getter
+- Getters will make values able to show statically in the templates. They can read the value, but not mutate the state.
+#### Mutations
+- Mutations will allow us to update the state, but they will always be synchronous. Mutations are the only way to change data in the state in the store.
+#### Actions
+- Actions will allow us to update the state, asynchronously, but will use an existing mutation. This can be very helpful if you need to perform a few different mutations at once in a particular order, or reach out to a server.
+- Pass in the context: ```context.state```, ```context.getter```
+  - Avoid using ```context.state``` directly to avoid collisions
+```javascript
+// bad
+actions: {
+  increment (context) {
+    context.commit('increment')
+  }
+}
+
+// good
+actions: {
+  increment ({ commit }) {
+    commit('increment')
+  }
+}
+
+// async
+// payload: duration
+actions: {
+  asyncIncrement ({ commit }, duration) {
+    setTimeout(() => {
+      commit('increment')
+    }, duration)
+  }
+}
+
+// async  dispatch
+// address payload: duration is 1000
+methods: {
+  asyncIncrement() {
+    this.$store.dispatch('asyncIncrement', {
+      duration: 1000
+    })
+  }
+}
+
+```
 #### Vuex and OOP
 
 ## Development aids

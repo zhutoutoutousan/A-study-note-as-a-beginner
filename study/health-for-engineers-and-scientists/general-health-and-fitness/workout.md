@@ -40,7 +40,6 @@
       - [Mobility](#mobility)
       - [Stability](#stability)
     - [Back](#back)
-      - [Face pull](#face-pull)
   - [Athletic](#athletic)
     - [Stamania](#stamania)
     - [Agility](#agility)
@@ -71,12 +70,14 @@
 - Don't injury yourself as a coder/engineer/scientist, 5-8RM only
 - No running before getting 82kg, below 15% body fat
 - Strength
-  - Squat: 100kg 5RM
-  - Deadlift
+  - Squat: 105kg 5RM
+  - Deadlift: 150kg 5RM
+  - Bench press: 80kg 5RM
   - Overhead Press
 - Endurance
   - Unlock after reaching down to 82kg, below 15% body fat
-
+- Power
+- Calisthetics
 # Debate space
 - Losing 1% body fat rate per month is optimal for cutting without losing muscle
 
@@ -239,11 +240,20 @@
 - Bulgarian split squat
 
 ### Back
-#### Face pull
-- Face-to-sky pull
-  - [The 6 Best Lifts for NEW Muscle Growth (GUARANTEED!) --- 10:23](https://www.youtube.com/watch?v=vj-iZGUrAs4)
-
-
+- Chin-up
+  - Weighted Chin-up
+  - Band support Chin-up
+- Pull-up
+- Face pull
+  - Face-to-sky pull
+    - [The 6 Best Lifts for NEW Muscle Growth (GUARANTEED!) --- 10:23](https://www.youtube.com/watch?v=vj-iZGUrAs4)
+- Seated chest supported row
+- Bent over pronated barbell row
+- Seated row
+- Deadlift
+  - Sumo deadlift
+    - [The Most Effective Way to Deadlift for Muscle and Strength (Sumo Technique Explained) - Jeff Nippard](https://www.youtube.com/watch?v=XsrD5y8EIKU)
+    - Good for lower back protection
 
 
 ## Athletic

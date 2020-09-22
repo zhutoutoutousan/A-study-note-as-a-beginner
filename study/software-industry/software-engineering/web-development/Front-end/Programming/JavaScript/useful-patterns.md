@@ -32,6 +32,7 @@
     - [Convert array to linked list](#convert-array-to-linked-list)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
+    - [Convert float to an int](#convert-float-to-an-int)
     - [Work with big numbers](#work-with-big-numbers)
     - [Absolute value](#absolute-value)
   - [Work with strings](#work-with-strings)
@@ -226,6 +227,13 @@ console.log(`RESULT: The divisor is ${i}`);
 
 ## Work with **immutable** objects
 ## Work with numbers
+### Convert float to an int
+- Don't use the ```Math``` Object.
+- [Fastest way to cast a float to an int in javascript? - Stack Overflow](https://stackoverflow.com/questions/34077449/fastest-way-to-cast-a-float-to-an-int-in-javascript/34077505)
+```javascript
+let a = 123124.1251221
+~~a; //123124
+```
 ### Work with big numbers
 - [How to avoid scientific notation for large numbers in JavaScript?](https://stackoverflow.com/questions/1685680/how-to-avoid-scientific-notation-for-large-numbers-in-javascript)
 - [StackOverflow -  Javascript display really big numbers rather than displaying xe+n](https://stackoverflow.com/questions/16066793/javascript-display-really-big-numbers-rather-than-displaying-xen)

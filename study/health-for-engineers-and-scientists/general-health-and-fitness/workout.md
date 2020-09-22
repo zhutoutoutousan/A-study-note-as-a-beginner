@@ -26,20 +26,15 @@
   - [Warm ups](#warm-ups)
     - [Warm ups in general](#warm-ups-in-general)
     - [Shoulder](#shoulder)
+    - [Back](#back)
+    - [Leg](#leg)
   - [Workout stretch](#workout-stretch)
   - [Hypertrophy/Strength/Basic](#hypertrophystrengthbasic)
     - [Chest](#chest)
       - [Lower chest](#lower-chest)
     - [Arm](#arm)
-      - [Bicep](#bicep)
-    - [Leg](#leg)
-      - [Hypertrophy](#hypertrophy-1)
-        - [Hamstring](#hamstring)
-        - [Quadracep](#quadracep)
-      - [Strength](#strength)
-      - [Mobility](#mobility)
-      - [Stability](#stability)
-    - [Back](#back)
+    - [Leg](#leg-1)
+    - [Back](#back-1)
   - [Athletic](#athletic)
     - [Stamania](#stamania)
     - [Agility](#agility)
@@ -67,9 +62,9 @@
 
 
 # HARDER THAN LAST TIME
-- Don't injury yourself as a coder/engineer/scientist, 5-8RM only
 - No running before getting 82kg, below 15% body fat
 - Strength
+  - Don't injury yourself as a coder/engineer/scientist, 5-8RM only
   - Squat: 105kg 5RM
   - Deadlift: 150kg 5RM
   - Bench press: 80kg 5RM
@@ -195,11 +190,28 @@
 ## Warm ups
 ### Warm ups in general
 - [Workout Warm Up SCREW UP! (Big Workout Mistake!)](https://www.youtube.com/watch?v=LlVbcoD3eoQ)
+- [The Most Effective Science-Based Warm Up & Mobility Routine (Full Body) - Jeff Nippard](https://www.youtube.com/watch?v=E81GN-3A8XM&t=297s)
+- Heart rate: 100-120 BPM
+- M.I.I.T
+- Pyramid load drill 3-4 SETS
+  - For compound lifts
 ### Shoulder
 - Resistance band stabilization drill
   - [Quick Shoulder Mobility Drill (STRONGER BENCH PRESS!)](https://www.youtube.com/watch?v=2GG4Qi5whnA)
   - MUST DO BEFORE: Bench press
     - 8-10 reps, slow
+### Back
+- Squat and reach stretch
+  - For sumo deadlifts
+- Cossack squats
+  - For sumo deadlifts
+### Leg
+- Foam roll(2-3 minutes)
+- Dynamic stretch
+  - Leg swings 10-12 REP 
+  - Step throughs
+  - Scorpion stretch
+  - Knee-Drive rotating squat
 ## Workout stretch
 ## Hypertrophy/Strength/Basic
 ### Chest
@@ -216,27 +228,21 @@
 - Standing cable LC press
   - [The LOWER Chest Solution (GET DEFINED PECS!) - 7:11](https://www.youtube.com/watch?v=wMmy2MlH55U)
 ### Arm
-#### Bicep
-- Basics
+- Forearm
+  - Grip strength
+    - Rack pull
+      - [Doing Rack Pulls Like This! (SAVE A FRIEND) - ATHLEAN-X](https://www.youtube.com/watch?v=agF7TbWjQao)
+
+
+- Bicep
   - [Best and Worst Exercises To Build Bigger Biceps - Greg Doucette](https://www.youtube.com/watch?v=IqE0NUlXMxc)
-- Bicep peak
-  - Keep wrists out of the equation
-    - [Biceps Peaks - 5 Best Ways to Build Them! (BOULDERS) - ATHLEAN-X](https://www.youtube.com/watch?v=mO70v8F9VeQ)
-  - Fully supernate your arm
+  - Bicep peak
+    - Keep wrists out of the equation
+      - [Biceps Peaks - 5 Best Ways to Build Them! (BOULDERS) - ATHLEAN-X](https://www.youtube.com/watch?v=mO70v8F9VeQ)
+    - Fully supernate your arm
 
 ### Leg
-#### Hypertrophy
-##### Hamstring
 - Russian leg curl
-##### Quadracep
-
-#### Strength
-- Grip strength
-  - Rack pull
-    - [Doing Rack Pulls Like This! (SAVE A FRIEND) - ATHLEAN-X](https://www.youtube.com/watch?v=agF7TbWjQao)
-#### Mobility
-
-#### Stability
 - Bulgarian split squat
 
 ### Back
@@ -251,6 +257,12 @@
 - Bent over pronated barbell row
 - Seated row
 - Deadlift
+  - Training tips
+    - Rep range
+      - Strength: 4-5 reps(For scientists and engineers)
+      - Hypertrophy: 5-8 reps
+    - Training frequency: No more than 1-2X per week for high demands on recovery
+      - [The Most Effective Way to Deadlift for Muscle and Strength (Sumo Technique Explained) - Jeff Nippard](https://www.youtube.com/watch?v=XsrD5y8EIKU)
   - Sumo deadlift
     - [The Most Effective Way to Deadlift for Muscle and Strength (Sumo Technique Explained) - Jeff Nippard](https://www.youtube.com/watch?v=XsrD5y8EIKU)
     - Good for lower back protection
@@ -382,8 +394,4 @@
       - Squat: 5-8RM 6-8 SETS
       - Bulgarian split squat 5-6RM 5 SETS
       - Calf raise 5-8RM 8SETS
-    - Leg agility/power
-      - Ladder drill 20s on 10s off 5SETS
-      - Dumbell jump 12RM 5SETS
-      - Bulgarian split jump 8RM 3SETS
 </details>

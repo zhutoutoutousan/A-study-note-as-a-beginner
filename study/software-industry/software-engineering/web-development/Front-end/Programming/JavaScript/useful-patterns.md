@@ -32,7 +32,7 @@
     - [Convert array to linked list](#convert-array-to-linked-list)
   - [Work with **immutable** objects](#work-with-immutable-objects)
   - [Work with numbers](#work-with-numbers)
-    - [Display big numbers](#display-big-numbers)
+    - [Work with big numbers](#work-with-big-numbers)
     - [Absolute value](#absolute-value)
   - [Work with strings](#work-with-strings)
     - [Reverse a string](#reverse-a-string)
@@ -226,13 +226,36 @@ console.log(`RESULT: The divisor is ${i}`);
 
 ## Work with **immutable** objects
 ## Work with numbers
-### Display big numbers
+### Work with big numbers
 - [How to avoid scientific notation for large numbers in JavaScript?](https://stackoverflow.com/questions/1685680/how-to-avoid-scientific-notation-for-large-numbers-in-javascript)
 - [StackOverflow -  Javascript display really big numbers rather than displaying xe+n](https://stackoverflow.com/questions/16066793/javascript-display-really-big-numbers-rather-than-displaying-xen)
 ```javascript
 /*
+EXPERIMENT: The biggest number digits for JavaScript to display without distorting its value
+-> 999999999999999999999
+1e+21
+-> 999999999999999
+999999999999999
+-> 9999999999999994
+9999999999999994
+-> 9999999999999995
+9999999999999996
+-> 9999999999999996
+9999999999999996
+-> 9999999999999997
+9999999999999996
+-> 9999999999999998
+9999999999999998
+-> 9999999999999999
+10000000000000000
+
+It would be safe to say that, if you want to chunk to substrings with the length up to 15 
+
 Maybe you can chop the number string to bits that will not be displayed as scientific exponentials. Then use carry to 
 */
+const chopNumber = (numString) => {
+
+}
 const operateBigNumbers(bigNum1, bigNum2, ops) {
     
 }

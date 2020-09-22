@@ -44,7 +44,8 @@ Complete course:
 
 ### Go
 - [LeetCode Go](https://github.com/halfrost/LeetCode-Go)
-
+### Python
+- [Array programming with NumPy - Python](https://www.nature.com/articles/s41586-020-2649-2)
 # Cryptology
 ## P.O.I
 - C.E.Shannon

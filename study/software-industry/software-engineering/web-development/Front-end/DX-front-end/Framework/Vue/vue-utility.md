@@ -120,8 +120,17 @@
 ## RTFM Scenarios
 - How to use Vue in your projects
 ## RTFM entry
-[Vue - guide](https://vuejs.org/v2/guide/)
-
+- [Vue - guide](https://vuejs.org/v2/guide/)
+- vue docs
+- vue repo
+- nuxt docs
+- vuex docs
+- css-tricks guide
+- awesome vue
+- vue newsletter
+- monterail blog
+- vue tips
+- the majesty of vue
 # Vue instance
 - The vue instance is the middleman between the DOM and the business logic
 ## Simplest example
@@ -766,6 +775,23 @@ methods: {
   }
 }
 
+// You can use a spread operator, useful when you have to work with a lot of getters/mutations/actions:
+// Need: babel-preset-stage-2 or babel-plugin-transform-object-rest-spread
+// Vue instance or component:
+import {mapActions} from 'vuex';
+
+export default {
+  // ...
+  methods: {
+    ...mapActions([
+      // map this.increment() to this.$store.commit('increment')
+      'increment',
+      'decrement',
+      'asyncIncrement'
+    ])
+  }
+}
+
 ```
 
 #### Mutations
@@ -810,6 +836,8 @@ methods: {
     })
   }
 }
+
+
 
 ```
 #### Vuex and OOP

@@ -203,6 +203,9 @@
           - [dEMO](https://nuxt-type.now.sh)
             - Cool page transition
         - ANIMATION: Display when scrolling: Custom directives --> D3 events
+        - vue-weather-notifier(vuex)
+          - [repo](https://github.com/sdras/vue-weather-notifier)
+        - **Vuex exercise**: Vuex comment form
       - Vuex part is progressed using only direct neurological path simulation
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation

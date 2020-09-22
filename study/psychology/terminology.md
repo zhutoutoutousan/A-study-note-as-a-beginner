@@ -19,6 +19,7 @@
     - [Capable of consciousness](#capable-of-consciousness)
     - [Collective unconscious](#collective-unconscious)
     - [Collusion](#collusion)
+    - [Connotation](#connotation)
     - [Constitute](#constitute)
     - [Cognitive bias](#cognitive-bias)
     - [Cognitive dissonance](#cognitive-dissonance)
@@ -27,6 +28,7 @@
     - [Culture](#culture)
   - [D](#d)
     - [Décrire](#décrire)
+    - [Defeatism](#defeatism)
     - [Defense mechanism](#defense-mechanism)
     - [Denkinhalt](#denkinhalt)
     - [Denktätigkeit](#denktätigkeit)
@@ -70,6 +72,8 @@
     - [Primitive man](#primitive-man)
     - [Psyche](#psyche)
     - [Psychological projection](#psychological-projection)
+  - [Q](#q)
+    - [Querdenken](#querdenken)
   - [R](#r)
     - [Readily](#readily)
     - [Reality](#reality)
@@ -141,7 +145,7 @@
     - [Link1 - English version](https://www.are.na/block/1493356)
 ### Collusion
 - (noun)secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.
-
+### Connotation
 ### Constitute
 ### Cognitive bias
 ### Cognitive dissonance
@@ -158,6 +162,9 @@
 ## D
 ### Décrire
 - (French) Describe
+
+### Defeatism
+- Defeatism is the acceptance of defeat without struggle, often with negative connotations. It can be linked to pessimism in psychology.
 ### Defense mechanism
 ### Denkinhalt
 - (German) \[der\] 
@@ -237,6 +244,11 @@
 ### Psyche
 ### Psychological projection
 - Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.
+
+## Q
+### Querdenken
+- (german)
+  - [wiki - Proteste während der COVID-19-Pandemie in Deutschland](https://de.wikipedia.org/wiki/Proteste_w%C3%A4hrend_der_COVID-19-Pandemie_in_Deutschland#Demonstration_am_1._August_2020)
 ## R
 ### Readily
 ### Reality

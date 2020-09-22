@@ -167,19 +167,19 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [ ] When you win, the game is stuck 
 - [ ] Chess Pieces
   - [x] Initial design
-  - [ ] The black bishop sometimes disappear
-  - [ ] Check ```diagsweep``` function
+  - [x] ? The black bishop sometimes disappear
+    - [x] ? ```diagsweep``` add logic 
   - [x] If you click the queen twice, it just disappear
     - [x] In QUEEN: ```canMove``` function, the ```basicCondition``` returns the wrong value
     - [x] Although it **cannot Move**, it still sees it as ```attacking``` and took itself.
     - [x] Source : <span style="color: red;">The execution order of boolean</div>
   - [x] Rook can move through pieces vertically(not horizontally)
     - [x] Source : <span style="color: red;">Still the execution order of boolean</div>
-  - [ ] Pawn can travel out of bounds
+  - [x] Pawn can travel out of bounds
   - [ ] Pawn doesn't promote
   - [ ] Pawn doesn't en passant
-  - [ ] (?)Pawn can't march if it can attack
-  - [ ] Pawn can *march and attack*
+  - [x] Pawn can't march if it can attack
+  - [x] Pawn can *march and attack*
 - [ ] AI
   - [x] Algorithms
   - [ ] Enemy loves moving pawn

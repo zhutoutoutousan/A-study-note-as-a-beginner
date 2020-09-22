@@ -24,6 +24,7 @@
 - [Chess game](#chess-game)
   - [Progress](#progress-3)
   - [Reference materials](#reference-materials)
+  - [What is learned](#what-is-learned)
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
   - [Progress](#progress-4)
   - [Tech-stack](#tech-stack-2)
@@ -168,15 +169,17 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [x] Initial design
   - [ ] The black bishop sometimes disappear
   - [ ] Check ```diagsweep``` function
-  - [ ] If you click the queen twice, it just disappear
-    - [ ] Source check
-      - [ ] In QUEEN: ```canMove``` function, the ```basicCondition``` returns the wrong value
-      - [ ] Although it **cannot Move**, it still sees it as ```attacking``` and took itself.
-  - [ ] Rook can move through pieces vertically(not horizontally)
-    - [ ] Check ```moveThroughPieces``` 
+  - [x] If you click the queen twice, it just disappear
+    - [x] In QUEEN: ```canMove``` function, the ```basicCondition``` returns the wrong value
+    - [x] Although it **cannot Move**, it still sees it as ```attacking``` and took itself.
+    - [x] Source : <span style="color: red;">The execution order of boolean</div>
+  - [x] Rook can move through pieces vertically(not horizontally)
+    - [x] Source : <span style="color: red;">Still the execution order of boolean</div>
   - [ ] Pawn can travel out of bounds
   - [ ] Pawn doesn't promote
   - [ ] Pawn doesn't en passant
+  - [ ] (?)Pawn can't march if it can attack
+  - [ ] Pawn can *march and attack*
 - [ ] AI
   - [x] Algorithms
   - [ ] Enemy loves moving pawn
@@ -194,7 +197,14 @@ xxxxxxx...August-----------------------September--------------------------->|
   - With rooms
 - [Online-chess](https://github.com/kevinAlbs/Chess)
   - Node.js
-  - 
+
+## What is learned
+- Becareful with multiple logical operators
+```
+a || b && c 
+a || (b && c)
+```
+
 # Pathfinding algorithm visualizer
 ## Progress
 - Learn to design the UI

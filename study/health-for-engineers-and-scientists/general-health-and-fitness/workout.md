@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [HARDER THAN LAST TIME](#harder-than-last-time)
 - [Debate space](#debate-space)
 - [TODO](#todo)
 - [Training paradigm](#training-paradigm)
@@ -64,6 +65,17 @@
       - [60 days chest+shoulder hypertrophy plan](#60-days-chestshoulder-hypertrophy-plan)
     - [Injury rehab](#injury-rehab)
       - [15 days intercostal neuralgia rehab plan(tracking)](#15-days-intercostal-neuralgia-rehab-plantracking)
+
+
+# HARDER THAN LAST TIME
+- Don't injury yourself as a coder/engineer/scientist, 5-8RM only
+- No running before getting 82kg, below 15% body fat
+- Strength
+  - Squat: 100kg 5RM
+  - Deadlift
+  - Overhead Press
+- Endurance
+  - Unlock after reaching down to 82kg, below 15% body fat
 
 # Debate space
 - Losing 1% body fat rate per month is optimal for cutting without losing muscle
@@ -353,5 +365,15 @@
   - Day 6
     - Hiking
   - Day 7
-    - 
+    - Chest day(Not planned)
+  - Day 8
+    - Leg day
+    - Leg hypertrophy
+      - Squat: 5-8RM 6-8 SETS
+      - Bulgarian split squat 5-6RM 5 SETS
+      - Calf raise 5-8RM 8SETS
+    - Leg agility/power
+      - Ladder drill 20s on 10s off 5SETS
+      - Dumbell jump 12RM 5SETS
+      - Bulgarian split jump 8RM 3SETS
 </details>

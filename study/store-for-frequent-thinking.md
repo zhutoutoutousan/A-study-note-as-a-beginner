@@ -124,7 +124,30 @@ var addBinary = function(a, b) {
     }
     return convertArr.join('');
 };
+
+
+// https://leetcode.com/problems/merge-sorted-array/
+/**
+ * @param {number[]} nums1
+ * @param {number} m
+ * @param {number[]} nums2
+ * @param {number} n
+ * @return {void} Do not return anything, modify nums1 in-place instead.
+ */
+var merge = function(nums1, m, nums2, n) {
+// [4,7,11,256, 123,456,999,1233]    
+    
+    for(let i = 0; i < n; i++) {
+        
+    }
+};
+
+
+// https://www.codewars.com/kata/55911ef14065454c75000062/train/javascript
+
 ```
+
+
 
 # Questions
 

@@ -237,6 +237,7 @@ let a = 123124.1251221
 ### Work with big numbers
 - [How to avoid scientific notation for large numbers in JavaScript?](https://stackoverflow.com/questions/1685680/how-to-avoid-scientific-notation-for-large-numbers-in-javascript)
 - [StackOverflow -  Javascript display really big numbers rather than displaying xe+n](https://stackoverflow.com/questions/16066793/javascript-display-really-big-numbers-rather-than-displaying-xen)
+- [Working with large integers in JavaScript](https://2ality.com/2012/07/large-integers.html)
 ```javascript
 /*
 EXPERIMENT: The biggest number digits for JavaScript to display without distorting its value

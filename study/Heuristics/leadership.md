@@ -93,6 +93,7 @@
 - Pro-eugenic proclaim
   - *Dick-waving contest*
   - *Dick-measuring contest*
+- TLDR
 #### Placate
 #### Debunk
 #### Lucid

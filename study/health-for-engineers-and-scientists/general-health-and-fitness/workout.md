@@ -394,4 +394,9 @@
       - Squat: 5-8RM 6-8 SETS
       - Bulgarian split squat 5-6RM 5 SETS
       - Calf raise 5-8RM 8SETS
+  - Day 9
+    - Back day
+    - Back hypertrophy
+      - Chin-up <--> push up 5-8RM
+        - Weighted-->Band-assisted
 </details>

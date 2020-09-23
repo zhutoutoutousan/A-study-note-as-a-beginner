@@ -7,11 +7,6 @@
 - [Timeline-project control](#timeline-project-control)
 - [Personal website](#personal-website)
   - [Front-page](#front-page)
-    - [Progress](#progress)
-    - [Design](#design)
-      - [UI](#ui)
-      - [Functionality](#functionality)
-    - [Tech-stack](#tech-stack)
   - [Blog-page](#blog-page)
 - [Front-end portfolio](#front-end-portfolio)
 - [Chess game](#chess-game)
@@ -19,24 +14,15 @@
   - [What is learned](#what-is-learned)
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
 - [Problem solving proficiency](#problem-solving-proficiency)
-  - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
-    - [Leetcode training](#leetcode-training)
-  - [General language proficiency](#general-language-proficiency)
-    - [CodeWar training](#codewar-training)
-    - [Hackerrank training](#hackerrank-training)
 - [Interview questions](#interview-questions)
-  - [Basic JavaScript/HTML/CSS](#basic-javascripthtmlcss)
-  - [Vue, React.js inner working principle](#vue-reactjs-inner-working-principle)
-  - [Networking, browser](#networking-browser)
-  - [Development pattern/Teamwork](#development-patternteamwork)
 - [Web crawler of German Websites](#web-crawler-of-german-websites)
-  - [Design](#design-1)
-    - [Functionality](#functionality-1)
-  - [Tech-stack](#tech-stack-1)
+  - [Design](#design)
+    - [Functionality](#functionality)
+  - [Tech-stack](#tech-stack)
   - [Reference materials](#reference-materials-1)
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-    - [Functionality](#functionality-2)
+    - [Functionality](#functionality-1)
   - [Reference](#reference)
 
 # Priority-project control
@@ -68,32 +54,12 @@ xxxxxxx...August-----------------------September--------------------------->|
 # Personal website
 
 ## Front-page
-### Progress
-- Study the example
-  - [Portfolio](https://github.com/realmartinzane/portfolio)
-  - Progress
-    - Finish Vue.js course
-- Redesign its style
-  - Accumulate some ideas
-- Get familiar with its elements
-- Website Construction
-- Learn server hosting
-  - This guy used ```github.io```
-  - How about you use ```Hikaru```
-    - [x] Finished getting started guide
-  - Check back-end --> PaaS section for static site hosting(AWS) 
-    - Consider hosting your original lottery game
-- Learn MongoDB
-- Website Construction
-- Learn server hosting
-
-### Design
-#### UI
-- Just like the first example in the **resource** section
-#### Functionality
-### Tech-stack
-- [ ] Vue
-  - [ ] Series of courses on your note: **Roadmap-web**
+- [ ] Study the example
+  - [ ] [Portfolio](https://github.com/realmartinzane/portfolio)
+  - [ ] [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
+  - [ ] Vue
+    - [x] Intro course
+    - [ ] Integration
 
 ## Blog-page
 - [x] VuePress
@@ -104,7 +70,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
 
 # Front-end portfolio
-- Site
+- [ ] Site link
 - Components
   - Source code
     - Lottery game
@@ -159,7 +125,12 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] Multiplayer
   - [ ] Choose mode
   - [ ] Networking
-
+- [ ] Serving
+  - [x] Heroku note
+  - [ ] Webpack
+    - [ ] Webpack course
+    - [ ] Webpack packing
+  - [ ] Deploy
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
@@ -176,36 +147,29 @@ a || (b && c)
 ```
 
 # Pathfinding algorithm visualizer
-- Learn to design the UI
+- [ ] Graph algorithm
+  - [ ] Code along(javascript-algorithm)
+    - [ ] [graph](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/graph)
+  - [ ] Understand? Mental model?
+- [ ] Study repo
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
-- Go through the React Tutorial
 - [ ] React
+  - [ ] React intro course
   - [ ] React tutorial
     - [ ] tic-tac-tok game
       - [ ] [Official walkthrough](https://reactjs.org/tutorial/tutorial.html)
     - [ ] Concepts
       - [ ] [Official guide](https://reactjs.org/docs/hello-world.html)
-- Clement mihailescu --> Original Vanilla-Js project
-  - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
-
 
 
 # Problem solving proficiency
-## Algorithm and Data Structure familiarity
-- Basic training: See mental model in data structure and algorithms
-### Leetcode training
-- [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189)
-## General language proficiency
-### CodeWar training
-- Very addictive
-- Fun
-- Should do it from time to time
-### Hackerrank training
+- Leetcode
+- Codewar
+- javascript-algorithm
+
+
 # Interview questions
-## Basic JavaScript/HTML/CSS
-## Vue, React.js inner working principle
-## Networking, browser
-## Development pattern/Teamwork
+- [ ] Gather some link website and put it here
 
 
 

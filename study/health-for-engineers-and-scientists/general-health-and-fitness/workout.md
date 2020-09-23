@@ -201,6 +201,7 @@
   - MUST DO BEFORE: Bench press
     - 8-10 reps, slow
 ### Back
+- [How To Train Back WIDTH vs THICKNESS (Close vs Wide Grip? Rows or Pullups?) - Jeff Nippard](https://www.youtube.com/watch?v=PAXkl-AdJFg)
 - Squat and reach stretch
   - For sumo deadlifts
 - Cossack squats
@@ -250,6 +251,7 @@
   - Weighted Chin-up
   - Band support Chin-up
 - Pull-up
+  - Width: 1.5 shoulder width
 - Face pull
   - Face-to-sky pull
     - [The 6 Best Lifts for NEW Muscle Growth (GUARANTEED!) --- 10:23](https://www.youtube.com/watch?v=vj-iZGUrAs4)
@@ -397,6 +399,12 @@
   - Day 9
     - Back day
     - Back hypertrophy
-      - Chin-up <--> push up 5-8RM
-        - Weighted-->Band-assisted
+      - Chin-up <--> pull up --> tucked front-lever  5-8RM  5SETS
+        - Weighted-->Band-assisted  
+      - Equipment supported reverse grip lat pull down 5-8RM 8SETS+
+      - Dumbell T-raise/W-raise/Y-raise 5-8RM 5SETS+
+        - Really slow eccentric motion
+      - Facepull
+      - Sumo deadlift(empty bar)
+        - Addressing the nerve damage in the posterior chain
 </details>

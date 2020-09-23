@@ -8,6 +8,11 @@
 
 ### Coding
 - 10 minutes
+  - Problem solving technique
+    - Sliding window
+    - Two pointer
+      - [Two Pointers Technique - Geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+      - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - Data structure
     - LinkedList
       - [entry](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/LinkedList.js)
@@ -41,6 +46,17 @@
         - Code along
     - Tree
       - Binary search
+    - Sort
+      - Insertion sort
+      - Bubble sort
+      - Heap sort
+      - Quick sort
+      - Merge sort
+    - Graph
+      - BFS
+      - DFS
+      - Dijkstra
+      - A*
 - 1 hour
 - 1 day
 - 1 week
@@ -57,6 +73,8 @@
 
 # Resource
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
+
+# Training ground
 
 ```javascript
 // graph

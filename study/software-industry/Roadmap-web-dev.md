@@ -218,7 +218,7 @@
     - [Link](https://frontendmasters.com/courses/complete-react-v5/)
     - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
     - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
-    - Progress: Project Setup  8:23/5hrs
+    - Progress: Pure react  31:23+2m05s/5hrs
 ### JavaScript/TypeScript
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)

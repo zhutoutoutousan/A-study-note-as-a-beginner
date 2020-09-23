@@ -10,6 +10,12 @@
 ## Function components
 ```javascript
 // Example
+// param 1: 
+// param 2: attributes given to the opponent e.g. { id: "something-important" } ==> <div id="something=important>...
+// param 3: children : e.g. [
+//                             reactElement,
+//                             moreElements           
+//                            ]
 const App = () => {
     return React.createElement(
         "div",
@@ -40,6 +46,8 @@ class ShoppingList extends React.Component {
 // Usage: <ShoppingList name="Mark">
 
 ```
+
+## Reusable components
 # JSX
 ## Basics
 - JSX ia an expression
@@ -81,6 +89,16 @@ Put any valid JavaScript Expression in side
 # Router
 
 # Troubleshoot
+## Technique
+- See if the JavaScript is loading
+```javascript
+//     throw new Error('lol')
+const App = () => {
+    // ...
+    throw new Error('lol')
+}
+```
+
 
 ## Uncaught SyntaxError: Unexpected token '<'
 - [ReactJS: “Uncaught SyntaxError: Unexpected token <” - Stackoverflow](https://stackoverflow.com/questions/28100644/reactjs-uncaught-syntaxerror-unexpected-token)

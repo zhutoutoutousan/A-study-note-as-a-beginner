@@ -35,6 +35,7 @@
   - Trim down to easier version first
     - Search all binary tree problems in leetCode
     - Easy
+      - [Same Tree](https://leetcode.com/problems/same-tree/)
 ### Approach anyway
 - Tree + dijkstra/ path searching + backtrack?
   - MENTAL ELEMENT NEEDED:

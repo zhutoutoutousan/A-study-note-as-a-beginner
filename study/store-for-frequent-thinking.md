@@ -3,7 +3,8 @@
 - [Overview](#overview)
 - [Mathematics, DS & As](#mathematics-ds--as)
   - [Pyramid path](#pyramid-path)
-    - [Approach](#approach)
+    - [Trim down to easier version first](#trim-down-to-easier-version-first)
+    - [Approach anyway](#approach-anyway)
   - [Matrix determinent](#matrix-determinent)
   - [The mathematical properties of Sudoku solutions](#the-mathematical-properties-of-sudoku-solutions)
 - [JavaScript](#javascript)
@@ -26,7 +27,15 @@
 ## Pyramid path
 - [Project Euler Maximum path sum I](https://projecteuler.net/problem=18)
 - [Pyramid Slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train/javascript)
-### Approach
+
+### Trim down to easier version first
+- [Binary Tree Maximum Path Sum - leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+  - Basic training
+    - [ ] Javascript-algorithm --> binary-tree --> CS mental-model 
+  - Trim down to easier version first
+    - Search all binary tree problems in leetCode
+    - Easy
+### Approach anyway
 - Tree + dijkstra/ path searching + backtrack?
   - MENTAL ELEMENT NEEDED:
     - BACKTRACK

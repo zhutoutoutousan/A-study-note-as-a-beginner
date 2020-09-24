@@ -407,4 +407,17 @@
       - Facepull
       - Sumo deadlift(empty bar)
         - Addressing the nerve damage in the posterior chain
+  - Day 10
+    - Arm day
+      - Skull crusher <--> Barbell curl--> drag curl 8RM 5SETS
+      - Tricep pushdown 5-8RM 5SETS
+      - Overhead press 8RM 3SETS
+      - Incline curl <--> Spider curl 6RM 3SETS
+      - Planche push up 6RM 2SETS
+      - Lateral Raise 8RM 5SETS
+      - Band reverse fly 8RM 6SETS
+      - Eccentric chest crusher 3SETS 
+    - Cardio: 1hr bike ride
+  - Day 11
+    - Off day
 </details>

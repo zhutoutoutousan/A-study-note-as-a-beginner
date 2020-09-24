@@ -123,6 +123,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] AI
   - [x] Algorithms
   - [ ] Enemy loves moving pawn
+    - [ ] Why
 - [ ] Decoration
   - [ ] Start the game
   - [ ] Restart the game

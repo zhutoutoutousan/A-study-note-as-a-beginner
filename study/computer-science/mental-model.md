@@ -77,6 +77,13 @@
 # Training ground
 
 ```javascript
+// tree
+
+
+```
+
+
+```javascript
 // graph
 class Graph {
   constructor(isDirected = false) {

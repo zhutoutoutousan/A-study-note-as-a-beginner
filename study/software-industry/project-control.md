@@ -113,9 +113,11 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [x] Pawn can travel out of bounds
   - [ ] Pawn doesn't promote
   - [ ] Pawn doesn't en passant
-    - [ ] There is a ```firstTurn``` indicator, but it doesn't work
-      - [ ] When a pawn has been moved, there is no telling whether it is consecutive or not
-    - [ ] Develop the ```canEnPassant``` boolean logic
+    - [x] There is a ```firstTurn``` indicator, but it doesn't work
+      - [x] When a pawn has been moved, there is no telling whether it is consecutive or not
+    - [x] Develop the ```canEnPassant``` boolean logic
+    - [ ] Use pawn class property ```canBeEnPassent```
+      - [ ] The property switch back to ```false``` before the next move
   - [x] Pawn can't march if it can attack
   - [x] Pawn can *march and attack*
 - [ ] AI

@@ -57,7 +57,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] Study the example
   - [ ] [Portfolio](https://github.com/realmartinzane/portfolio)
   - [ ] [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
-    - [ ] Progress: 8:11/1hrs
+    - [ ] Progress: 13:43/1hrs
     - Local file --> adopt-me
   - [ ] Vue
     - [x] Intro course
@@ -118,6 +118,8 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [x] Develop the ```canEnPassant``` boolean logic
     - [ ] Use pawn class property ```canBeEnPassent```
       - [ ] The property switch back to ```false``` before the next move
+    - [ ] <span style="color: red">Chrome devTool technique</span>
+      - [ ] Gather as much information as you can
   - [x] Pawn can't march if it can attack
   - [x] Pawn can *march and attack*
 - [ ] AI

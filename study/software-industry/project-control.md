@@ -118,7 +118,9 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [x] Develop the ```canEnPassant``` boolean logic
     - [ ] Use pawn class property ```canBeEnPassent```
       - [ ] The property switch back to ```false``` before the next move
-    - [ ] <span style="color: red">Chrome devTool technique</span>
+        - [ ] It happened in the ```RunAI()``` function
+        - [ ] WORKAROUND: maybe you can add store Enpassant and store it back
+    - [ ] <span style="color: red">Chrome devTool technique</span>(optional)
       - [ ] Gather as much information as you can
   - [x] Pawn can't march if it can attack
   - [x] Pawn can *march and attack*

@@ -20,7 +20,7 @@
 
 - Paradigm 1
   - Stage 1
-    - 10 minutes
+    - REP 1
       - Problem solving technique
         - Divide and conquer
         - Recursion
@@ -69,7 +69,7 @@
           - DFS
           - Dijkstra
           - A*
-    - 1 hour
+    - REP 2
       - Data structure
         - Hash table
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/hash-table)
@@ -79,9 +79,9 @@
         - [entry](https://github.com/trekhleb/javascript-algorithms/blob/master/src/data-structures/linked-list/LinkedList.js)
           - No need to code along
           - Last review stamp: LINE 130
-    - 1 day
-    - 1 week
-    - 1 month
+    - REP 3
+    - REP 4
+    - REP 5
   - Stage 2
   - Stage 3
 - Paradigm 2

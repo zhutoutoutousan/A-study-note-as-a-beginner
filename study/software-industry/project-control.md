@@ -57,8 +57,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] Study the example
   - [ ] [Portfolio](https://github.com/realmartinzane/portfolio)
   - [ ] [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
-    - [ ] Progress: 13:43/1hrs
-    - Local file --> adopt-me
+    - [ ] Progress: 31:34/1hrs
+    - Local file --> code-playground --> blog-practice
   - [ ] Vue
     - [x] Intro course
     - [ ] Integration

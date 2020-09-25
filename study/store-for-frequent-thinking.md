@@ -36,6 +36,8 @@
     - Search all binary tree problems in leetCode
     - Easy
       - [Same Tree](https://leetcode.com/problems/same-tree/)
+      - Trim down to easier version first
+        - javascript-algorithm --> binary-tree
 ### Approach anyway
 - Tree + dijkstra/ path searching + backtrack?
   - MENTAL ELEMENT NEEDED:

@@ -13,6 +13,16 @@
     - [Vue API](#vue-api)
 - [REFERENCE](#reference)
 # Read through documentations faster
+- Maybe you can do documentation speed reading from time to time for a particular genre for a general grasp
+  - A workout style or warm up would be good
+  - Maybe you can list a workout list
+    - Backend framework 
+    - Front-end framework 
+  - Keep a certain amount of speed and momentum, only slow down when you really think it's gonna be beneficial for the coding task ahead
+  - Don't limit yourself to the API
+  - Don't get too slow, as a warm up, you should finish in no more than 6 minutes per stack
+  - Habit
+    - Maybe everyday before you start coding in some framework, take a quick glance, workout style
 ## General
 ### Documentation
 ### Design documents

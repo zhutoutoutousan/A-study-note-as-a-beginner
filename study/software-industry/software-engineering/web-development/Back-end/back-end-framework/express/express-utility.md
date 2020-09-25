@@ -47,3 +47,6 @@ app.listen(5000)
 #### res & req
 
 ### listen
+
+# Troubleshoot
+## Error: listen EADDRINUSE: address already in use :::5000

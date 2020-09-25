@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Alphabetical](#alphabetical)
+  - [A](#a)
+    - [Ausführung](#ausführung)
   - [B](#b)
     - [Beauty Pageant](#beauty-pageant)
     - [Business logic 商业逻辑](#business-logic-商业逻辑)
@@ -39,11 +41,15 @@
     - [Pareto principle](#pareto-principle)
     - [Pseudo-psychology](#pseudo-psychology)
   - [U](#u)
+    - [Überleben](#überleben)
   - [V](#v)
     - [Value](#value)
   - [Uncategorized](#uncategorized)
     - [内容分发模式](#内容分发模式)
 # Alphabetical
+## A
+### Ausführung
+- (German) Execution
 ## B
 ### Beauty Pageant
 - 选美本质上是一种以流水线式的标准产出用于框定大众心中主观审美感知，后通过大众传媒强行输出的“文化工业”
@@ -122,7 +128,8 @@
 ### Pseudo-psychology
 
 ## U
-
+### Überleben
+- (German) Survive
 ## V
 ### Value
 - Value is the monetary, material, or assessed worth of an asset, good, or service.

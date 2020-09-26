@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Configuration](#configuration)
 - [Navigation](#navigation)
   - [Visual](#visual)
   - [File system](#file-system)
@@ -34,6 +35,9 @@
 - [Future improvements?](#future-improvements)
 - [Resources](#resources-2)
 
+
+# Configuration
+- Toggle setting tab: Ctrl+,
 
 # Navigation
 ## Visual

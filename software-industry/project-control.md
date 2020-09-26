@@ -70,7 +70,8 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
   - 3:30 [Entry](https://github.com/realmartinzane/portfolio)
 - [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
-
+- [Raneto](https://github.com/gilbitron/Raneto)
+  - This seems very suitable for this line of work
 # Front-end portfolio
 - [ ] Site link
 - Components

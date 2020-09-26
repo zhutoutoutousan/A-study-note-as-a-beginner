@@ -428,6 +428,7 @@
     - Chest
       - Bench press 5-8RM 6SETS
       - Incline press 6-8RM 6SETS
-      - Standing LC press <--> Equipment crossover 6-8RM 5SETS
-    - 30min bike ride
+      - Standing LC press <--> Equipment crossover 6-8RM 2SETS
+  - Day 14
+    - 1 hrs bike ride
 </details>

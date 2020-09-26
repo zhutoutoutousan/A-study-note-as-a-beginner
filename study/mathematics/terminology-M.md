@@ -25,6 +25,7 @@
     - [Euclid's Algorithm](#euclids-algorithm)
   - [G](#g)
     - [Geometric Sequence](#geometric-sequence)
+    - [Graph](#graph)
   - [H](#h)
     - [Homothetic transformation](#homothetic-transformation)
   - [I](#i)
@@ -112,6 +113,21 @@
 ## G
 ### Geometric Sequence
 - [Geometric Sequences and Sums](https://www.mathsisfun.com/algebra/sequences-sums-geometric.html)
+### Graph
+- Sub-definitions: **Vertice**, **Edge**, **Degree**, **Multiple edges**
+  - **Loop**, **directed graphs(digraphs)**
+  - **simple graph**: graphs with no loops or multiple edges
+  - **walk**: A **walk** is a 'way of getting from one vertex to another'
+  - **path**: A walk in which no vertex appears more than once is called a **path**
+  - **cycle**
+  - **Eulerian graph**: graphs containing walks that include every edge exactly once, ending at the initial vertex
+  - **Hamiltonian graph**: graphs containing walks that include every vertex exactly once, ending at the initial vertex.
+- More entry
+  - Introduction to Graph Theory - R.J.Wilson P11-
+    - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
+    - Basic definition
+    - Real life application
+    - Expression in written English
 ## H
 ### Homothetic transformation
 ## I

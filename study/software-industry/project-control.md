@@ -156,6 +156,9 @@ a || (b && c)
 ```
 
 # Pathfinding algorithm visualizer
+- [ ] Tutorial
+  - [ ] [Sorting Visualizer Tutorial (software engineering project)](https://www.youtube.com/watch?v=pFXYym4Wbkc)
+  - [ ] [Pathfinding](https://www.youtube.com/watch?v=msttfIHHkak&t=1010s)
 - [ ] Graph algorithm
   - [ ] Code along(javascript-algorithm)
     - [ ] [graph](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/graph)

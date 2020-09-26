@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Configuration](#configuration)
+  - [Shortcut](#shortcut)
+  - [Good practices](#good-practices)
 - [Navigation](#navigation)
   - [Visual](#visual)
   - [File system](#file-system)
@@ -36,8 +38,13 @@
 - [Resources](#resources-2)
 
 
+
 # Configuration
+## Shortcut
 - Toggle setting tab: Ctrl+,
+## Good practices
+- Format on save
+  - Use same configuration file
 
 # Navigation
 ## Visual

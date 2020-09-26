@@ -58,7 +58,7 @@
     - [Regular hypertrophy](#regular-hypertrophy)
       - [60 days chest+shoulder hypertrophy plan](#60-days-chestshoulder-hypertrophy-plan)
     - [Injury rehab](#injury-rehab)
-      - [15 days intercostal neuralgia rehab plan(tracking)](#15-days-intercostal-neuralgia-rehab-plantracking)
+      - [20 days intercostal neuralgia rehab plan(tracking)](#20-days-intercostal-neuralgia-rehab-plantracking)
 
 
 # HARDER THAN LAST TIME
@@ -328,7 +328,7 @@
 ### Regular hypertrophy
 #### 60 days chest+shoulder hypertrophy plan
 ### Injury rehab
-#### 15 days intercostal neuralgia rehab plan(tracking)
+#### 20 days intercostal neuralgia rehab plan(tracking)
 <details close>
 <!-- <details open> -->
   <summary style="color:yellow"><strong>See the whole plan</strong></summary>
@@ -417,7 +417,17 @@
       - Lateral Raise 8RM 5SETS
       - Band reverse fly 8RM 6SETS
       - Eccentric chest crusher 3SETS 
-    - Cardio: 1hr bike ride
   - Day 11
     - Off day
+  - Day 12
+    - 1hr bike ride
+  - Day 13
+    - Shoulder compensation
+      - Seated Side lateral raise 6-8RM 5SETS
+      - Band rear delts raise 6-8RM 5SETS
+    - Chest
+      - Bench press 5-8RM 6SETS
+      - Incline press 6-8RM 6SETS
+      - Standing LC press <--> Equipment crossover 6-8RM 5SETS
+    - 30min bike ride
 </details>

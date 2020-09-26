@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+- [Software engineering](#software-engineering)
+  - [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](#when-prettierrequireconfig-is-true-and-no-config-exists-extension-should-not-try-to-load-prettier)
 - [Mathematics, DS & As](#mathematics-ds--as)
   - [Pyramid path](#pyramid-path)
     - [Trim down to easier version first](#trim-down-to-easier-version-first)
@@ -23,6 +25,10 @@
   - Some problems has some context that requires some reviewing for itself to be clear in your mind when you reached the state that you can think about it when in diffuse mode. 
 - After the problem or challenge has been completed and doesn't require any more thinking when working out, commuting and so on, migrate it to the corresponding space(Hard disc)
 - This note also stores some exercises that, at that very moment, you don't have the taste for it but want to do it some time later
+
+# Software engineering
+## When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier
+- [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](https://github.com/prettier/prettier-vscode/issues/1161)
 # Mathematics, DS & As
 ## Pyramid path
 - [Project Euler Maximum path sum I](https://projecteuler.net/problem=18)

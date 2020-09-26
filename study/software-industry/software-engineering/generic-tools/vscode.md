@@ -2,7 +2,8 @@
 - [Table of Contents](#table-of-contents)
 - [Configuration](#configuration)
   - [Shortcut](#shortcut)
-  - [Good practices](#good-practices)
+  - [Settings](#settings)
+    - [Good practices](#good-practices)
 - [Navigation](#navigation)
   - [Visual](#visual)
   - [File system](#file-system)
@@ -19,14 +20,14 @@
 - [Tools](#tools)
   - [Command palette](#command-palette)
   - [Extensions](#extensions)
-    - [JavaScript](#javascript)
+    - [Formatter](#formatter)
     - [Template engine](#template-engine)
     - [Front-end frameworks](#front-end-frameworks)
     - [npm](#npm)
     - [Markdown](#markdown)
     - [Server preview](#server-preview)
 - [Language](#language)
-  - [JavaScript](#javascript-1)
+  - [JavaScript](#javascript)
   - [Markdown](#markdown-1)
 - [Vscode CLI](#vscode-cli)
 - [Troubleshooting](#troubleshooting)
@@ -42,7 +43,9 @@
 # Configuration
 ## Shortcut
 - Toggle setting tab: Ctrl+,
-## Good practices
+## Settings
+- What's the difference between ```user``` and ```workspace```
+### Good practices
 - Format on save
   - Use same configuration file
 
@@ -104,7 +107,10 @@ Q: What about /* */?
 ## Command palette
 ## Extensions
 - Toggle Extension side bar: Ctrl+Shift+X
-### JavaScript
+### Formatter
+- Prettier
+- ESlint
+- JavaScript formatter
 ### Template engine
 ### Front-end frameworks
 ### npm

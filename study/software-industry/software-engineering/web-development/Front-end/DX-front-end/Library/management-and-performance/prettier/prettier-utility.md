@@ -18,3 +18,4 @@
 # Troubleshoot
 ## When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier
 - [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](https://github.com/prettier/prettier-vscode/issues/1161)
+- Accompanied with the ```CLI``` command in ```package.json```, check if HTML and CSS are affected by ```prettier```, maybe it's some other formatter

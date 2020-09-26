@@ -1,3 +1,5 @@
+# Tutorial progress check
+- [MongoDB basics](https://university.mongodb.com/courses/M001/about)
 # Installation
 - Don't forget to add ./bin to your system variable path
 
@@ -43,3 +45,6 @@ exit
     - Optimize queries
     - Manage indexes
     - Explore data
+
+# Mongoose
+- [official documentation](https://mongoosejs.com/docs/index.html)

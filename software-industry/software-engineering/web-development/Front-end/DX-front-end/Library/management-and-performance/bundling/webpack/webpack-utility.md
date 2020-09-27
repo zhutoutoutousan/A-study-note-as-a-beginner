@@ -6,9 +6,11 @@
       - [Webpack concept](https://webpack.js.org/concepts/)
     - [ ] Comparison
       -  [link](https://webpack.js.org/comparison/)
-- Getting Started
+- [x] Getting Started
   - [Link1](https://webpack.js.org/guides/getting-started/)
-  - Progress: Getting Started - npm scripts
+  - Progress: Completed
+- More topics
+  - Continue your developer journey further to unlock
 # webpack.config.js
 
 # Concept

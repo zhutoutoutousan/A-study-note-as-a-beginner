@@ -56,9 +56,6 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Front-page
 - [ ] Study the example
   - [ ] [Portfolio](https://github.com/realmartinzane/portfolio)
-  - [ ] [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
-    - [ ] Progress: 31:34/1hrs
-    - Local file --> code-playground --> blog-practice
   - [ ] Vue
     - [x] Intro course
     - [ ] Integration
@@ -66,10 +63,13 @@ xxxxxxx...August-----------------------September--------------------------->|
 ## Blog-page
 - [x] VuePress
   - [x] Not suitable
-- [ ]  [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
-- [ ] [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
+- [x] [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
   - 3:30 [Entry](https://github.com/realmartinzane/portfolio)
 - [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
+- [x] [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
+  - [x] Progress: 31:34/1hrs
+  - [x] Got a better tool for the job
+  - Local file --> code-playground --> blog-practice
 - [Raneto](https://github.com/gilbitron/Raneto)
   - [x] Website hosting
   - [ ] Problems
@@ -141,7 +141,7 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [ ] Serving
   - [x] Heroku note
   - [ ] Webpack
-    - [ ] Webpack course
+    - [x] Webpack course
     - [ ] Webpack packing
   - [ ] Deploy
 ## Reference materials

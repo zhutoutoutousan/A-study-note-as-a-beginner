@@ -131,6 +131,7 @@
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [Static File Serving](#static-file-serving)
+    - [Static module bundler](#static-module-bundler)
     - [Stream](#stream)
     - [SVG](#svg)
   - [T](#t)
@@ -476,6 +477,7 @@ The term **Web service(WS)** is either:
 
 ### Software design pattern
 ### Static File Serving
+### Static module bundler
 ### Stream
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ### SVG

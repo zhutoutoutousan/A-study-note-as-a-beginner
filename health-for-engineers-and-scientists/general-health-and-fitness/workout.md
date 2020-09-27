@@ -430,5 +430,9 @@
       - Incline press 6-8RM 6SETS
       - Standing LC press <--> Equipment crossover 6-8RM 2SETS
   - Day 14
-    - 1 hrs bike ride
+    - Off day
+      - Resting heart rate raised by 10%, indicating some degree of fatigue
+      - Brisk walk
+    - Injury recovery
+      - Intercostal neuralgia: Milder
 </details>

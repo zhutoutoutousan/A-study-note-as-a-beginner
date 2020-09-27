@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+- [Heuristics](#heuristics)
 - [Software engineering](#software-engineering)
   - [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](#when-prettierrequireconfig-is-true-and-no-config-exists-extension-should-not-try-to-load-prettier)
 - [Mathematics, DS & As](#mathematics-ds--as)
@@ -25,6 +26,11 @@
   - Some problems has some context that requires some reviewing for itself to be clear in your mind when you reached the state that you can think about it when in diffuse mode. 
 - After the problem or challenge has been completed and doesn't require any more thinking when working out, commuting and so on, migrate it to the corresponding space(Hard disc)
 - This note also stores some exercises that, at that very moment, you don't have the taste for it but want to do it some time later
+
+# Heuristics
+- First checkpoint: Once you understand the nature of a problem and is ready to construct the mental model without furthur clues.
+  - That you can construct and polish the mental model.
+  - Once the mental model recollected during the leisure time is mature, you can immediately get back to the problem, this note serves as a quick state recovery tool.
 
 # Software engineering
 ## When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier

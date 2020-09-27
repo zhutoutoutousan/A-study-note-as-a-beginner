@@ -18,6 +18,16 @@
 
 ## Data structure and algorithms
 
+- Judging factor
+  - Primitive
+    - Coding along
+    - Basic ideas
+    - Vague memory
+  - Intermediate
+    - Code-mentalModel connection
+  - Advanced
+    - Experience more to unlock
+
 - Paradigm 1
   - Stage 1
     - REP 1
@@ -96,8 +106,55 @@
 # Training ground
 
 ```javascript
-// tree
+// Use Comparator
+// Use HashTable
 
+// tree
+class BinaryTreeNode {
+  constructor(value = null) {
+    this.left = null;
+    this.right = null;
+    this.parent = null;
+    this.value = value;
+  }
+
+  // Any node related meta information may be stored here.
+  this.meta = new HashTable();
+
+  // This comparator is used to compare binary tree nodes with each other
+  this.nodeComparator = new Comparator();
+
+  get leftHeight() {
+    if (!this.left) {
+      return 0;
+    }
+
+    return this.left.height + 1;
+  }
+
+  get rightHeight() {
+    if (!this.right) {
+      return 0;
+    }
+
+    return this.right.height + 1;
+  }
+
+  get height() {
+    return Math.max(this.leftHeight, this.rightHeight)
+  }
+
+  get balanceFactor() {
+    return this.leftHeight - this.rightHeight;
+  }
+
+  get uncle() {
+    // Check if current node has parent;
+    if (!this.parent) {
+      return undefined;
+    }
+  }
+}
 
 ```
 

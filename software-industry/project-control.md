@@ -144,6 +144,7 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [x] Webpack course
     - [ ] Webpack packing
   - [ ] Deploy
+    - [ ] [Bulletproof node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure/)
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
@@ -153,7 +154,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Node.js
 
 ## What is learned
-- Becareful with multiple logical operators
+- Be careful with multiple logical operators
 ```
 a || b && c 
 a || (b && c)

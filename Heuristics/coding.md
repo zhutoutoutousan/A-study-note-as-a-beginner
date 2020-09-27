@@ -9,6 +9,8 @@
 - [Coding practice](#coding-practice)
   - [JavaScript](#javascript)
   - [The BIG PICTURE](#the-big-picture)
+    - [Heuristics](#heuristics)
+    - [Micellaneous resource](#micellaneous-resource)
   - [Troubleshooting](#troubleshooting)
     - [Typo](#typo)
   - [Code style & Naming convention](#code-style--naming-convention)
@@ -85,7 +87,10 @@ function humanReadable(seconds) {
 
 ```
 ## The BIG PICTURE
-[国内低代码平台从业者交流](https://github.com/taowen/awesome-lowcode)
+### Heuristics
+- When the time, the level of your motivation and the balance between technical skills betterment and more is RIGHT, do some exhaustive recursive documentation reading(speed reading style) to polish the sense of the big picture
+### Micellaneous resource
+- [国内低代码平台从业者交流](https://github.com/taowen/awesome-lowcode)
 ## Troubleshooting
 ### Typo
 - Mistaken underscore?

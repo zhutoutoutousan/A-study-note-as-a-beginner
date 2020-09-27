@@ -4,6 +4,7 @@
 - [Methodologies](#methodologies)
   - [CSS](#css)
 - [Roadmap](#roadmap)
+  - [Stew](#stew)
   - [Software architecture](#software-architecture)
   - [Full-stack](#full-stack)
     - [Database](#database)
@@ -93,6 +94,11 @@
 - For a developed project, remove all of its ```CSS``` code, then add it line by line to study how ```CSS``` works
 
 # Roadmap
+
+## Stew
+- [Code interview university](https://github.com/jwasham/coding-interview-university)
+  - This dude is a badass, self-studied for 8 months and got to the Amazon
+
 ## Software architecture
 - [Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 

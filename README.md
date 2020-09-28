@@ -1,6 +1,29 @@
-# Introduction
-There is no much to say
+# Portals
+- [Portals](#portals)
+- [Usage](#usage)
+  - [PC](#pc)
+  - [Mobile](#mobile)
+- [Notebook architecture](#notebook-architecture)
 
-# Entries
-- [Frequent Thinking Store](./store-for-frequent-thinking.md)
-- [Anthropology](./anthropology/router.md)
+# Usage
+## PC
+- Clone the repo
+- Open the project with vscode
+  - [For vscode utility](./software-industry/software-engineering/generic-tools/vscode.md)
+
+- Explore
+
+## Mobile
+- Install GitHub app
+- View the project
+# Notebook architecture
+- Root
+  - reading        
+  - heuristics     // methodologies and testing grounds
+  - customized_subject
+    - terminology  // dictionary
+    - roadmap  // stores
+    - mental model  // mind palace training
+    - nested_customized_subsubject
+  - Store for frequent thinking
+    - For storing the questions that you want to think over when pinching a loaf

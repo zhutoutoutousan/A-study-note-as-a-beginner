@@ -28,6 +28,7 @@
 - [Ethics](#ethics)
 - [Tools](#tools)
   - [Code comparison](#code-comparison)
+- [Habit](#habit)
 - [Resource](#resource)
   - [Conference](#conference)
   - [Blog](#blog)
@@ -125,6 +126,9 @@ Windows 10: Win  + ;
 ## Code comparison
 - [codebeautify](https://codebeautify.org/)
 - [CSS-tidy](http://csstidy.sourceforge.net/)
+
+# Habit
+- ```console.log``` frequently before shit goes down altogether
 
 # Resource
 ## Conference

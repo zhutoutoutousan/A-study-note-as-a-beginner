@@ -25,5 +25,6 @@
     - roadmap  // stores
     - mental model  // mind palace training
     - nested_customized_subsubject
+      - Sub-Topic-oriented Notes
   - Store for frequent thinking
     - For storing the questions that you want to think over when pinching a loaf

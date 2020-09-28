@@ -133,6 +133,7 @@
     - [Software design pattern](#software-design-pattern)
     - [Static File Serving](#static-file-serving)
     - [Static module bundler](#static-module-bundler)
+    - [Status Code(HTTP)](#status-codehttp)
     - [Stream](#stream)
     - [SVG](#svg)
   - [T](#t)
@@ -481,6 +482,8 @@ The term **Web service(WS)** is either:
 ### Software design pattern
 ### Static File Serving
 ### Static module bundler
+### Status Code(HTTP)
+- [HTTP Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 ### Stream
 - (Front-end) A stream is a sequence of ongoing events ordered in time that offer some hooks with which to observe it.
 ### SVG

@@ -2,7 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [RTFM](#rtfm)
   - [RTFM resource](#rtfm-resource)
-- [Tools](#tools)
+- [Tools, Rules, team-play](#tools-rules-team-play)
 - [Component](#component)
   - [Micellaneous](#micellaneous)
   - [Function components](#function-components)
@@ -16,7 +16,7 @@
   - [Injection attack prevention](#injection-attack-prevention)
 - [Props](#props)
 - [Hook](#hook)
-  - [](#)
+  - [Introduction](#introduction)
 - [Router](#router)
 - [Troubleshoot](#troubleshoot)
   - [Technique](#technique)
@@ -30,13 +30,15 @@
 [React Top-Level API](https://reactjs.org/docs/react-api.html#createelement)
 
 
-# Tools
+# Tools, Rules, team-play
 - Use Emmit shortcut in JSX
   - Change *js* file to jsx
   - Ctrl+Shift+P: configure language | Ctrl+K M --> JavaScript React
     - PROBLEM:  For every file I need to do this action, is there a better way?
   - [Stack Overflow - Configure Emmet for JSX in VSCode ](https://stackoverflow.com/questions/56311467/configure-emmet-for-jsx-in-vscode)
 - Eslint
+  - eslint-plugin-react-hooks
+  - more --> See below
 ```json
 {
   "extends": [
@@ -49,9 +51,11 @@
   ],
   "rules": {
     "react/prop-types": 0,
-    "no-console": 1
+    "no-console": 1,
+    "react-hooks/rules-of-hooks": 2,
+    "react-hooks/exhaustive-deps": 1
   },
-  "plugins": ["react", "import", "jsx-a11y"],
+  "plugins": ["react", "import", "jsx-a11y", "react-hooks"],
   "parserOptions": {
     "ecmaVersion": 2018,
     "sourceType": "module",
@@ -94,6 +98,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.21.2",
+    "eslint-plugin-react-hooks": "^4.1.2",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.1.2"
   },
@@ -102,6 +107,7 @@
     "react-dom": "^16.13.1"
   }
 }
+
 
 ```
 # Component
@@ -284,7 +290,7 @@ ReactDOM.render(React.createElement(App), document.getElementById("root"));
 // --------------------------- Pure react ---------------------------
 ```
 # Hook
-## 
+## Introduction
 ```javascript
 
 import React, { useState } from "react";
@@ -293,8 +299,9 @@ const SearchParams = () => {
 
 // This is a hook
 // All hooks begin with 'use' ==> Can use something else, but some convention advisible 
+    // Hooks never go inside for loops or any statement
 // useState ==> initial value
-// location: element [id=location]   <== Sync with user input  <== User input
+// location: element [id=location]???   <== Sync with user input  <== User input
 // setLocation ==> hook event
   const [location, setLocation] = useState("Seattle, WA"); 
 

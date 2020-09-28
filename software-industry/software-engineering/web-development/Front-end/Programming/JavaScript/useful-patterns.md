@@ -72,6 +72,7 @@
     - [```Array.prototype.join()```](#arrayprototypejoin)
 - [Security](#security)
   - [ROT-13](#rot-13)
+  - [AES](#aes)
 - [Problem solving questions and mathematics](#problem-solving-questions-and-mathematics)
 
 
@@ -451,8 +452,9 @@ console.log(parseInt(a),10) // 134   10-->base number
 # Security
 ## ROT-13
 ```javascript
-// Not good
 // https://www.codewars.com/kata/52223df9e8f98c7aa7000062/solutions/javascript
+
+// Not good
 function rot13(str) {
   return str.split('')
             .map((element) => {
@@ -461,8 +463,7 @@ function rot13(str) {
                          element.charCodeAt() - 97 >= 13 ? element.charCodeAt() - 13 : element.charCodeAt() + 13  
                     :  element.charCodeAt() <= 90 && element.charCodeAt() >= 65 ?
                          element.charCodeAt() - 65 >= 13 ? element.charCodeAt() - 13 : element.charCodeAt() + 13
-                    : element.charCodeAt())
-                           
+                    : element.charCodeAt())        
              })
             .join('')
 }
@@ -474,6 +475,8 @@ function rot13(str) {
   });
 }
 ```
+
+## AES
 
 # Problem solving questions and mathematics
 - Given an array of integers, find the one that appears an odd number of times.

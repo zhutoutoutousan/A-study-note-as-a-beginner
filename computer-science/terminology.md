@@ -13,11 +13,13 @@
   - [Cache locality](#cache-locality)
   - [Call stack](#call-stack)
   - [Cell phone tower](#cell-phone-tower)
+  - [Cellular automaton](#cellular-automaton)
   - [Chronology](#chronology)
   - [CMTS](#cmts)
   - [CO](#co)
   - [Context switch](#context-switch)
   - [Control flow](#control-flow)
+  - [Conway's Game of Life](#conways-game-of-life)
   - [Cryptoanalysis](#cryptoanalysis)
   - [Cryptography](#cryptography)
   - [Cryptology](#cryptology)
@@ -118,6 +120,8 @@
 ## Cache locality
 ## Call stack
 ## Cell phone tower
+## Cellular automaton
+- [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 ## Chronology
 - Chronology is the science of arranging events in their order of occurence in time.
 - [wiki](https://en.wikipedia.org/wiki/Chronology)
@@ -129,6 +133,7 @@
 ## Context switch
 - A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
 ## Control flow
+## Conway's Game of Life
 ## Cryptoanalysis
 - studies the breaking of cryptosystems.
 ## Cryptography

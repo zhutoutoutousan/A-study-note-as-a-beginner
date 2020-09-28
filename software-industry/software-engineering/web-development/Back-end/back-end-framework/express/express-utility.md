@@ -48,5 +48,9 @@ app.listen(5000)
 
 ### listen
 
+
+# Project management
+- [Local file management](https://stackoverflow.com/questions/29357305/nodejs-express-include-local-js-file)
+- [Bulletproof node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure/)
 # Troubleshoot
 ## Error: listen EADDRINUSE: address already in use :::5000

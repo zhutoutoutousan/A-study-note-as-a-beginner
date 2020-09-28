@@ -16,6 +16,7 @@
   - [Injection attack prevention](#injection-attack-prevention)
 - [Props](#props)
 - [Hook](#hook)
+  - [](#)
 - [Router](#router)
 - [Troubleshoot](#troubleshoot)
   - [Technique](#technique)
@@ -23,6 +24,7 @@
   - [Uncaught Invariant Violation: Target container is not a DOM element.](#uncaught-invariant-violation-target-container-is-not-a-dom-element)
   - [Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.](#uncaught-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined-you-likely-forgot-to-export-your-component-from-the-file-its-defined-in-or-you-might-have-mixed-up-default-and-named-imports)
   - [Warning: Each child in a list should have a unique "key" prop.](#warning-each-child-in-a-list-should-have-a-unique-key-prop)
+  - [Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.](#warning-failed-prop-type-you-provided-a-value-prop-to-a-form-field-without-an-onchange-handler-this-will-render-a-read-only-field-if-the-field-should-be-mutable-use-defaultvalue-otherwise-set-either-onchange-or-readonly)
 # RTFM
 ## RTFM resource
 [React Top-Level API](https://reactjs.org/docs/react-api.html#createelement)
@@ -282,6 +284,43 @@ ReactDOM.render(React.createElement(App), document.getElementById("root"));
 // --------------------------- Pure react ---------------------------
 ```
 # Hook
+## 
+```javascript
+
+import React, { useState } from "react";
+
+const SearchParams = () => {
+
+// This is a hook
+// All hooks begin with 'use' ==> Can use something else, but some convention advisible 
+// useState ==> initial value
+// location: element [id=location]   <== Sync with user input  <== User input
+// setLocation ==> hook event
+  const [location, setLocation] = useState("Seattle, WA"); 
+
+  return (
+    <div className="search-params">
+     
+      <form>
+        <label htmlFor="location">
+          Location
+          <input
+            value={location}
+            id="location"
+            placeholder="Location"
+            onChange={(e) => setLocation(e.target.value)} // Hooked here
+          />
+        </label>
+        <button>Submit</button>
+      </form>
+    </div>
+  );
+};
+
+export default SearchParams;
+
+
+```
 # Router
 
 # Troubleshoot
@@ -348,3 +387,5 @@ export default function Pet{
 
 ## Warning: Each child in a list should have a unique "key" prop.
 - [Stack Overflow - Understanding unique keys for array children in React.js](https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js)
+
+## Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.

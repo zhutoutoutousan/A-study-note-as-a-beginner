@@ -1,3 +1,25 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [RTFM](#rtfm)
+  - [RTFM resource](#rtfm-resource)
+- [Component](#component)
+  - [Micellaneous](#micellaneous)
+  - [Function components](#function-components)
+  - [Class components](#class-components)
+  - [Reusable components](#reusable-components)
+- [JSX](#jsx)
+  - [Basics](#basics)
+  - [Rendering process](#rendering-process)
+  - [Curly brace](#curly-brace)
+  - [Injection attack prevention](#injection-attack-prevention)
+- [Props](#props)
+- [Router](#router)
+- [Troubleshoot](#troubleshoot)
+  - [Technique](#technique)
+  - [Uncaught SyntaxError: Unexpected token '<'](#uncaught-syntaxerror-unexpected-token-)
+  - [Uncaught Invariant Violation: Target container is not a DOM element.](#uncaught-invariant-violation-target-container-is-not-a-dom-element)
+  - [Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.](#uncaught-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined-you-likely-forgot-to-export-your-component-from-the-file-its-defined-in-or-you-might-have-mixed-up-default-and-named-imports)
+  - [Warning: Each child in a list should have a unique "key" prop.](#warning-each-child-in-a-list-should-have-a-unique-key-prop)
 # RTFM
 ## RTFM resource
 [React Top-Level API](https://reactjs.org/docs/react-api.html#createelement)
@@ -153,3 +175,39 @@ const App = () => {
 ## Uncaught Invariant Violation: Target container is not a DOM element.
 
 ## Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+```javascript
+// App.js
+import React from 'react'
+import { Pet } from './Pet'
+const App = () => {
+    // ...
+}
+
+// component.js    should be 
+
+export const Pet = () => {
+    // ...
+}
+
+//------------------------------------------------------------------------
+
+// App.js
+import React from 'react'
+// If you set to { Pet }, react will return error, why?
+import Pet  from './Pet'
+const App = () => {
+    // ...
+}
+
+// component.js    should be 
+
+export default function Pet{
+    // ...
+}
+
+
+
+```
+
+## Warning: Each child in a list should have a unique "key" prop.
+- [Stack Overflow - Understanding unique keys for array children in React.js](https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js)

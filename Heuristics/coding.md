@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Be like a total beginner from time to time](#be-like-a-total-beginner-from-time-to-time)
 - [Correct Mental model](#correct-mental-model)
   - [Start from a bug](#start-from-a-bug)
   - [Values](#values)
@@ -34,6 +35,9 @@
   - [Blog](#blog)
   - [Course](#course)
   - [Open source projects](#open-source-projects)
+
+# Be like a total beginner from time to time
+- From time to time, just imagine that you are a complete beginner, in an IDE like vscode, locate all of the stuff that you are infamiliar with and experiment with them with reasonable qualm
 # Correct Mental model
 ## Start from a bug
 ```javascript

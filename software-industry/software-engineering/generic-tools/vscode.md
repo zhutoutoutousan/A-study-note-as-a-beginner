@@ -17,7 +17,8 @@
   - [Editing](#editing)
     - [Resources](#resources)
   - [Resources](#resources-1)
-- [Tools](#tools)
+- [Tools and Project Management](#tools-and-project-management)
+  - [Code](#code)
   - [Command palette](#command-palette)
   - [Extensions](#extensions)
     - [Formatter](#formatter)
@@ -103,7 +104,8 @@ Q: What about /* */?
 
 ## Resources
 [Code navigation](https://code.visualstudio.com/docs/editor/editingevolved)
-# Tools
+# Tools and Project Management
+## Code
 ## Command palette
 ## Extensions
 - Toggle Extension side bar: Ctrl+Shift+X

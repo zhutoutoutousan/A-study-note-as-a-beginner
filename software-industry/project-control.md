@@ -145,6 +145,8 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [ ] Webpack packing
   - [ ] Deploy
     - [ ] [Bulletproof node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure/)
+  - [ ] Class
+    - [ ] [Frontend Master course](https://frontendmasters.com/courses/api-design-nodejs-v3/)
 ## Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)

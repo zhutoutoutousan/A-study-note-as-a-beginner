@@ -35,6 +35,7 @@
         - Divide and conquer
         - Recursion
         - Sliding window
+          - [Sliding Window Technique - Algorithmic Mental Models](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
         - Two pointer
           - [Two Pointers Technique - Geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
           - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

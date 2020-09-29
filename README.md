@@ -91,6 +91,9 @@
     - Ctrl+R --> \[this repo name\] --> open this project
     - Ctrl+Shift+E --> toggle file system sidebar
     - Ctrl+P \[file name cues\] --> Quickly open a file deeply rooted anywhere
+    - Toggle split tab: Ctrl+|(shift+\\)
+    - ```markdown all in one```--> preview: Ctrl+Shift+V
+    - 
   - Other Navigations
     - Switch between different virtual desktop
       - W10: Ctrl+win+left/right

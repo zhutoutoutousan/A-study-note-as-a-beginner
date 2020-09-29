@@ -54,16 +54,19 @@
 - Root
   - reading
     - Explore the online reading resource and track the  progress both mentally and physicallly
+    - Also works for managing the reading progress for paper-cover books around your desks, just you can't access it immediately if you have the spur to read it.
   - heuristics     
     - Methodologies and testing grounds
     - Any new ideas, strange or not
   - health-for-engineers-and-scientists
     - workout plans, why-bothers, cooking recipe
+    - For engineers and scientists, from the perspective of a software engineer
   - \[customized_subject\]
     - terminology
       - Serves as a dictionary
+      - Very flexible, you can add video Links, books, different explanations from a variety of sources, you can even track the tutorial progress here.
     - roadmap 
-      - Stores the online resource and track every progress to matter of seconds or a single thought
+      - Stores the online resources, tutorials and track every progress to matter of seconds or a single thought
     - mental model
       - Acting as a training coach and progress tracker for intellectual skills training and a visualization training cookbook
     - \[nested_customized_subsubject\]
@@ -71,6 +74,7 @@
       - \[Recursion\]
   - Store for frequent thinking
     - For storing the questions that you want to think over when pinching a loaf or wandering around
+- Utilities(Under construction)
 
 
 # Keyboard shortcuts

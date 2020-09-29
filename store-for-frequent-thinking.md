@@ -6,6 +6,7 @@
   - [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](#when-prettierrequireconfig-is-true-and-no-config-exists-extension-should-not-try-to-load-prettier)
 - [Mathematics, DS & As](#mathematics-ds--as)
   - [Pyramid path](#pyramid-path)
+    - [Binomial Expansion](#binomial-expansion)
     - [Trim down to easier version first](#trim-down-to-easier-version-first)
     - [Approach anyway](#approach-anyway)
   - [Matrix determinent](#matrix-determinent)
@@ -39,7 +40,8 @@
 ## Pyramid path
 - [Project Euler Maximum path sum I](https://projecteuler.net/problem=18)
 - [Pyramid Slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train/javascript)
-
+### Binomial Expansion
+- [codewar - binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b/train/javascript)
 ### Trim down to easier version first
 - [Binary Tree Maximum Path Sum - leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - Basic training

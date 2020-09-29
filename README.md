@@ -42,7 +42,7 @@
 
 # Demo
 - [demo](https://warm-oasis-28882.herokuapp.com/)
-- Recommended clone the repo
+- Recommended clone the repo instead, it's the thought that counts
 # Usage
 ## PC
 - Clone the repo

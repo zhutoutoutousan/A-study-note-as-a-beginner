@@ -12,7 +12,7 @@
 - Theoretical
   - High-level 
     - A framework prompts you to think in a certain pattern or a path, like what hooks in the ```react``` does, which, in long-term, can be beneficial.
-    - A framework should be either opinionated or unopinionated, but the best case scenarios is for every individual from different fields to adjust/fine tune their study methods and according tools and utilities.
+    - A framework should be either opinionated or unopinionated, but the best case scenario is for every individual from different fields to adjust/fine tune their study methods and according tools and utilities.
     - A framework should take the psychological, physiological and intellectual status of the user into the equation.
     - A framework should be able to constantly absorb the evidence-based scientific research concerning study as well as the anecdotal stories and upgrade itself.
   - Low-level
@@ -59,7 +59,7 @@
     - Methodologies and testing grounds
     - Any new ideas, strange or not
   - health-for-engineers-and-scientists
-    - workout plans, why-bothers, cooking recipe
+    - workout plans, why-bothers, cooking recipe， working/nutrition resource, movement arsenals
     - For engineers and scientists, from the perspective of a software engineer
   - \[customized_subject\]
     - terminology

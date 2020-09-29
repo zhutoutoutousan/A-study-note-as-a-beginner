@@ -6,6 +6,7 @@
 ### Fiber(30g+/day)
 - Food high in fiber
   - Green gram(mung bean): 16g/100g
+  - Adzuki bean: 13g/100g
   - Fiber-rich coke/Sprite: 7.5g/500ml
   - Broccoli: 2.6g/100g
   - Shiitake: 2.5g/100g

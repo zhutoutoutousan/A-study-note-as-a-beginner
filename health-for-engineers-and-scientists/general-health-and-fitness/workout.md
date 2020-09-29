@@ -75,7 +75,8 @@
 - Calisthetics
 # Debate space
 - Losing 1% body fat rate per month is optimal for cutting without losing muscle
-
+- You can't neglect cardio, a healthy heart is crutial for long-term development for engineers and scientists
+  - [What's the BEST Cardio to Preserve Muscle???](https://www.youtube.com/watch?v=6YfXQwutMFA)
 
 # TODO
 - Fill in the gaps
@@ -435,4 +436,15 @@
       - Brisk walk
     - Injury recovery
       - Intercostal neuralgia: Milder
+  - Day 15
+    - Back day
+      - Chin-up <--> pull up --> tucked front-lever  5-8RM  5SETS
+        - Weighted-->Band-assisted  
+      - Equipment supported reverse grip lat pull down 5-8RM 8SETS+
+      - Dumbell T-raise/W-raise/Y-raise 5-8RM 5SETS+
+        - Really slow eccentric motion
+      - Facepull 5SETS
+      - Sumo deadlift(empty bar)
+        - Addressing the nerve damage in the posterior chain
+    - Bike ride: 40min
 </details>

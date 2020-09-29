@@ -4,13 +4,13 @@
   - [PC](#pc)
   - [Mobile](#mobile)
 - [Notebook architecture](#notebook-architecture)
+- [Heads-ups](#heads-ups)
 
 # Usage
 ## PC
 - Clone the repo
 - Open the project with vscode
   - [For vscode utility](./software-industry/software-engineering/generic-tools/vscode.md)
-
 - Explore
 
 ## Mobile
@@ -29,3 +29,9 @@
       - Sub-Topic-oriented Notes
   - Store for frequent thinking
     - For storing the questions that you want to think over when pinching a loaf
+
+
+# Heads-ups
+- Be familiar with vscode keyboard shortcuts first
+  - I want to open this notebook after a day of hangover
+    - 

@@ -52,17 +52,25 @@
 - View the project
 # Notebook architecture
 - Root
-  - reading        
-  - heuristics     // methodologies and testing grounds
+  - reading
+    - Explore the online reading resource and track the  progress both mentally and physicallly
+  - heuristics     
+    - Methodologies and testing grounds
+    - Any new ideas, strange or not
   - health-for-engineers-and-scientists
-  - customized_subject
-    - terminology  // dictionary
-    - roadmap  // stores
-    - mental model  // mind palace training
-    - nested_customized_subsubject
+    - workout plans, why-bothers, cooking recipe
+  - \[customized_subject\]
+    - terminology
+      - Serves as a dictionary
+    - roadmap 
+      - Stores the online resource and track every progress to matter of seconds or a single thought
+    - mental model
+      - Acting as a training coach and progress tracker for intellectual skills training and a visualization training cookbook
+    - \[nested_customized_subsubject\]
       - Sub-Topic-oriented Notes
+      - \[Recursion\]
   - Store for frequent thinking
-    - For storing the questions that you want to think over when pinching a loaf
+    - For storing the questions that you want to think over when pinching a loaf or wandering around
 
 
 # Keyboard shortcuts

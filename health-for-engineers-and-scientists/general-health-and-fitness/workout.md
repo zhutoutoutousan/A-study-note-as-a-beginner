@@ -1,5 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Why should engineers and scientists workout at the first place?](#why-should-engineers-and-scientists-workout-at-the-first-place)
+  - [Benefits](#benefits)
+  - [Scenarios](#scenarios)
 - [HARDER THAN LAST TIME](#harder-than-last-time)
 - [Debate space](#debate-space)
 - [TODO](#todo)
@@ -20,7 +23,7 @@
   - [Muscle growth](#muscle-growth)
   - [Workout --> Goal relationship](#workout----goal-relationship)
   - [Recovery](#recovery)
-- [Assess and adjust](#assess-and-adjust)
+- [Assess and adjust(Long-term)](#assess-and-adjustlong-term)
   - [Example(Current status track)](#examplecurrent-status-track)
 - [Movements Arsenal](#movements-arsenal)
   - [Warm ups](#warm-ups)
@@ -60,6 +63,19 @@
     - [Injury rehab](#injury-rehab)
       - [20 days intercostal neuralgia rehab plan(tracking)](#20-days-intercostal-neuralgia-rehab-plantracking)
 
+# Why should engineers and scientists workout at the first place?
+## Benefits
+- Resistance training
+- Cardio
+  - Better heart
+
+## Scenarios
+- I'm a beginner
+  - I just graduates from University and have no money
+- I'm a intermediate
+
+
+ 
 
 # HARDER THAN LAST TIME
 - No running before getting 82kg, below 15% body fat
@@ -116,7 +132,8 @@
     - Nerve damage: 6-12 weeks
     - Tendon tear
 
-# Assess and adjust
+# Assess and adjust(Long-term)
+- If it is short-term you should include a status report on your training plan
 ## Example(Current status track)
 - Ribcage
   - Debuff
@@ -447,4 +464,11 @@
       - Sumo deadlift(empty bar)
         - Addressing the nerve damage in the posterior chain
     - Bike ride: 40min
+  - Day 16
+    - Status
+      - Motivated
+      - Energetic
+      - Enough sleep: 3hrs deep sleep
+    - Leg day
+      - Squat
 </details>

@@ -5,7 +5,7 @@
   - [PC](#pc)
   - [Mobile](#mobile)
 - [Notebook architecture](#notebook-architecture)
-- [Heads-ups](#heads-ups)
+- [Keyboard shortcuts](#keyboard-shortcuts)
 
 
 # Explore the definition for a **study framework**
@@ -36,7 +36,8 @@
   - [For vscode utility](./software-industry/software-engineering/generic-tools/vscode.md)
 - Explore
 
-- ![Pansyass-bullshit](pansy-ass-bullshit.jpg)
+![Pansyass-bullshit](pansy-ass-bullshit.jpg)
+
 ## Mobile
 - Install GitHub app
 - View the project
@@ -55,7 +56,26 @@
     - For storing the questions that you want to think over when pinching a loaf
 
 
-# Heads-ups
-- Be familiar with vscode keyboard shortcuts first
+# Keyboard shortcuts
+- Be familiar with vscode keyboard shortcuts first(w10)
   - I want to open this notebook after a day of hangover
-    - 
+    - Win+V --> open visual studio
+    - Ctrl+R --> \[this repo name\] --> open this project
+    - Ctrl+Shift+E --> toggle file system sidebar
+    - Ctrl+P \[file name cues\] --> Quickly open a file deeply rooted anywhere
+  - Other Navigations
+    - Switch between different virtual desktop
+      - W10: Ctrl+win+left/right
+    - Move things around virtual desktops
+      - Win+tab --> move things around
+    - Duplicate workplace to study in another virtual desktop
+      - Ctrl+Shift+P >dupli...(autocomplete) 
+    - Move tabs in vscode around
+      - Select a sub tab: Ctrl+1/2/3/4... 
+      - Move a sub tab to the right: Ctrl+Alt+Right/Left
+- Work with web browsers
+  - Chrome
+    - Extensions
+      - Vimium
+        - Once installed, press F to show all page elements and its shortcut
+        - Use these shortcut to quickly access the page without touching the mouse

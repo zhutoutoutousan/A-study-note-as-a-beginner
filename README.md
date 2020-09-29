@@ -26,6 +26,15 @@
 - Practical
   - SE implementation
     - Cybersecurity
+  - Entities to consider
+    - Marginnote
+    - Mindmap e.g. Xmind
+    - Game experience
+      - Minecraft
+      - CYPHER
+    - Flashcard
+    - Knowledge graph
+    - Neuroscience <--> Study theory
 - More information
   - [Conceptual framework - wiki](https://en.wikipedia.org/wiki/Conceptual_framework)
 

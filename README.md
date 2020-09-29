@@ -1,6 +1,7 @@
 # Portals
 - [Portals](#portals)
-- [Explore the definition for a **study framework**](#explore-the-definition-for-a-study-framework)
+- [Explore the definition of **study framework**](#explore-the-definition-of-study-framework)
+- [Demo](#demo)
 - [Usage](#usage)
   - [PC](#pc)
   - [Mobile](#mobile)
@@ -8,7 +9,7 @@
 - [Keyboard shortcuts](#keyboard-shortcuts)
 
 
-# Explore the definition for a **study framework**
+# Explore the definition of **study framework**
 - Theoretical
   - High-level 
     - A framework prompts you to think in a certain pattern or a path, like what hooks in the ```react``` does, which, in long-term, can be beneficial.
@@ -37,7 +38,11 @@
     - Neuroscience <--> Study theory
 - More information
   - [Conceptual framework - wiki](https://en.wikipedia.org/wiki/Conceptual_framework)
+  - [Involution - wiki](https://en.wikipedia.org/wiki/Involution_(mathematics))
 
+# Demo
+- [demo](https://warm-oasis-28882.herokuapp.com/)
+- Recommended clone the repo
 # Usage
 ## PC
 - Clone the repo

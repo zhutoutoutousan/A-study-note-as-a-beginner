@@ -219,7 +219,7 @@ a || (b && c)
   - Customized music playlist
   - Map system based on the mindmap
   - Can explore other people's world if you got the access
-- 4D Game with VR/AR technology
+- 4D Game with VR/AR technologyhttps://github.com/zhutoutoutousan/A-study-note-as-a-beginner
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the br
 

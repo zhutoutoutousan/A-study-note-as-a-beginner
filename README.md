@@ -70,6 +70,8 @@
     - terminology
       - Serves as a dictionary
       - Very flexible, you can add video Links, books, different explanations from a variety of sources, you can even track the tutorial progress here.
+      - 中文-English-Deutsch-Français-Italiano
+      - Use Ctrl+F for searching/ traditional *table of contents*
     - roadmap 
       - Stores the online resources, tutorials and track every progress to matter of seconds or a single thought
     - mental model

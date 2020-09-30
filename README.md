@@ -124,10 +124,11 @@
         - Use these shortcut to quickly access the page without touching the mouse
 
 # Heuristic
-- **DISCLAIMER** As a self-explanatory title, these contents are only serves as references
+- **DISCLAIMER** As a self-explanatory title, these contents only serve as references
 ## When exactly is optimal for framework activation?
 - General
   - <span style="color: lime">DO</span> Reoccuring concepts, knowledge, thought patterns/neural pathways that surpass the threshold which is determined by the individual's goal, status and more.
+  - <span style="color: lime">DO</span> Needs for conceptual structure
 - Software development
   - <span style="color: red">DON'T</span> For **technical documents**, it's useless to rewrite the instruction manual 
     - <span style="color: lime">DO</span> But it could be useful to speed read it and write down what content you should be paying attention to the next time you start speed reading it.

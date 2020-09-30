@@ -168,6 +168,10 @@
   - [%](#)
     - [```%APPDATA%```](#appdata)
     - [```%LOCALAPPDATA%```](#localappdata)
+  - [*](#ulliliul)
+    - [`*` 通用选择器](#-通用选择器)
+  - [](#-1)
+    - [`#` id选择器](#-id选择器)
 - [中国特色](#中国特色)
   - [D](#d-1)
     - [DIV+CSS布局](#divcss布局)
@@ -562,6 +566,11 @@ The term **Web service(WS)** is either:
 ## %
 ### ```%APPDATA%```
 ### ```%LOCALAPPDATA%```
+## *
+### `*` 通用选择器
+## #
+### `#` id选择器
+
 
 # 中国特色
 ## D

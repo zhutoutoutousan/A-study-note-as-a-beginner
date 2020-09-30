@@ -79,7 +79,9 @@
 ## The mathematical properties of Sudoku solutions
 - [Mathematics of Sudoku](https://en.wikipedia.org/wiki/Mathematics_of_Sudoku#Constraints_of_clue_geometry)
 - [Codewar - Validate Sudoku with size `NxN`](https://www.codewars.com/kata/540afbe2dc9f615d5e000425/train/javascript)
-
+- A harder version
+  - [sudoku solution - codewar](https://www.codewars.com/kata/5296bc77afba8baa690002d7/train/javascript)
+    - [Get familiar with backtracking first - WIKI](https://en.wikipedia.org/wiki/Backtracking)
 # JavaScript
 ## Figure out what currying is about
 - Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument

@@ -9,6 +9,7 @@
     - [Calabi-Yao manifold](#calabi-yao-manifold)
     - [Congruence](#congruence)
     - [Conjecture](#conjecture)
+    - [Constraint satisfaction problem](#constraint-satisfaction-problem)
     - [Continued fractions](#continued-fractions)
     - [Currying](#currying)
   - [D](#d)
@@ -84,6 +85,9 @@
 ### Congruence
 - 相似三角形
 ### Conjecture
+### Constraint satisfaction problem
+- **Constraint satisfaction problems**(**CSPs**) are mathematical questions defined as a set of objects whose state must satisfy a number of constraints or limitations.
+- [wiki](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem)
 ### Continued fractions
 ### Currying
 - **Currying** is the technique of converting a function that takes multiple arguments into a sequence of functions that each take a single argument.

@@ -11,6 +11,7 @@
 - [Keyboard shortcuts](#keyboard-shortcuts)
 - [Heuristic](#heuristic)
   - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
+- [Iconic files for demonstration](#iconic-files-for-demonstration)
 
 
 # Explore the definition of **study framework**
@@ -133,3 +134,5 @@
   - <span style="color: red">DON'T</span> For **technical documents**, it's useless to rewrite the instruction manual 
     - <span style="color: lime">DO</span> But it could be useful to speed read it and write down what content you should be paying attention to the next time you start speed reading it.
   - <span style="color: lime">DO</span> Eat chicken and broccoli every day
+
+# Iconic files for demonstration

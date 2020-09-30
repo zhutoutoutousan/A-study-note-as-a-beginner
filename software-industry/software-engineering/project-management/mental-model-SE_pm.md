@@ -9,6 +9,8 @@
     - [Tools and gadgets](#tools-and-gadgets-1)
 - [Front-end <--> back-End architecture](#front-end----back-end-architecture)
 - [Back-end](#back-end)
+- [Code reference](#code-reference)
+  - [FxxkingSassLoaderConfig](#fxxkingsassloaderconfig)
 
 # Trivia?
 - Contents in quotes, you can just use `npm i -D? \[quotedName\]`
@@ -46,11 +48,16 @@
     - Webpack
       - "sass-loader"
       - "style-resources-loader"
+        - Issues
+          - TypeError: Cannot read property 'style-resources-loader' of undefined
+            - When working with vue-cli
+            - [vue-cli4项目引入sass的坑 Cannot read property ‘style-resources-loader‘ of undefined](https://blog.csdn.net/daxianghaoshuai/article/details/108375862)
+              - [Code](#fxxkingsassloaderconfig)
 - UI-DX
   - Template engine
     - CSS
       - Sass
-        - "node-sass"
+        - "sass-loader"
       - Less
     - HTML
       - jade
@@ -68,3 +75,38 @@
 # Front-end <--> back-End architecture
 
 # Back-end
+- Node.js
+  - "node-sass"
+    - Issues
+    - [Support for Node V12 - GitHub](https://github.com/sass/node-sass/issues/2632)
+    - Maybe just try again after a while
+
+
+
+# Code reference
+## FxxkingSassLoaderConfig
+```javascript 
+// https://cli.vuejs.org/config/#global-cli-config
+// vue.config.js
+const path = require('path')
+module.exports={
+    css: {
+        requireModuleExtension: true,
+        sourceMap: true,
+        loaderOptions: {
+          scss: {
+            additionalData(content, loaderContext) {
+              const { resourcePath, rootContext } = loaderContext;
+              const relativePath = path.relative(rootContext, resourcePath);
+              if (
+                relativePath.replace(/\\/g, "/") !== "src/styles/index.scss"
+              ) {
+                return '@import "~@/styles/index.scss";' + content;
+              }
+              return content;
+            },
+          },
+        },
+      },
+}
+```

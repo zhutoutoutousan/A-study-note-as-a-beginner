@@ -39,6 +39,7 @@
     - [Arm](#arm)
     - [Leg](#leg-1)
     - [Back](#back-1)
+    - [Shoulder](#shoulder-1)
   - [Athletic](#athletic)
     - [Stamania](#stamania)
     - [Agility](#agility)
@@ -291,7 +292,18 @@
     - [The Most Effective Way to Deadlift for Muscle and Strength (Sumo Technique Explained) - Jeff Nippard](https://www.youtube.com/watch?v=XsrD5y8EIKU)
     - Good for lower back protection
 
-
+### Shoulder
+- [Build Huge Shoulders - All 3 Heads!! (FRONT, MIDDLE, REAR)](https://www.youtube.com/watch?v=LRVFXFpIHDE)
+- Front delts
+  - Cable front raise
+    - Follow the fiber
+    - [Build Huge Shoulders - All 3 Heads!! (FRONT, MIDDLE, REAR) - 2:02](https://www.youtube.com/watch?v=LRVFXFpIHDE)
+- Mid delts
+  - Dumbell high pull
+- Rear delts
+  - Seated row
+    - [Build Huge Shoulders - All 3 Heads!! (FRONT, MIDDLE, REAR) - 6:36](https://www.youtube.com/watch?v=LRVFXFpIHDE)
+  - Cable reverse fly
 ## Athletic
 ### Stamania
 - Long distance running
@@ -343,6 +355,8 @@
 # Plan
 ## How to make plans
 ## Gallary of plans
+- Delete the plans once you have finished one
+- If a plan is really good, showing good results, then make some template elements and start from there
 ### Regular strength
 #### 120 days strength plan
 - Principles
@@ -475,4 +489,11 @@
       - Enough sleep: 3hrs deep sleep
     - Leg day
       - Squat
+  - Day 17
+    - Shoulder day
+    - Barbell Overhead press: 5-8RM 6SETS
+    - Dumbell overhead press: 6-8RM 3SETS(fatigue)
+    - Lateral raise - Dumbell high pull 5-8RM 3*2SETS
+    - Cable reverse fly: 6-8RM 5SETS
+    - Bike ride: 30min
 </details>

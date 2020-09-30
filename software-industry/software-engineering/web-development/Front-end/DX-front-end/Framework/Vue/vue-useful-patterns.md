@@ -1,6 +1,28 @@
+
+
 # Project management
 ## vue.config.js --> Resource management
+### SCSS
+```javascript
+// vue.config.js
+const path = require('path')
 
+module.exports = {
+  pluginOptions: {
+    'style-resources-loader': {
+      preProcessor: 'scss',
+      patterns: [
+        path.resolve(__dirname, 'src/scss/abstracts/*.scss'),
+      ]
+    }
+  },
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/portfolio/'
+    : '/'
+}
+
+
+```
 
 ## scss/css architecture practices
 ```
@@ -74,3 +96,8 @@ new Vue({
 
 # Data interaction
 ## Interact with ```data```
+
+
+# Trivia
+- Vue `npm run serve` only hot reloads when the component files are changed, scss files don't work on save
+  - Can you change it via `vue.config.js`?

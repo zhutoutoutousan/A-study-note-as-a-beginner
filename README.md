@@ -1,15 +1,20 @@
 # Portals
 - [Portals](#portals)
 - [Explore the definition of **study framework**](#explore-the-definition-of-study-framework)
+  - [Basic idea](#basic-idea)
+  - [Integration from great gaming experiences](#integration-from-great-gaming-experiences)
 - [Demo](#demo)
-- [Usage](#usage)
+- [Installation](#installation)
   - [PC](#pc)
   - [Mobile](#mobile)
 - [Notebook architecture](#notebook-architecture)
 - [Keyboard shortcuts](#keyboard-shortcuts)
+- [Heuristic](#heuristic)
+  - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
 
 
 # Explore the definition of **study framework**
+## Basic idea
 - Theoretical
   - High-level 
     - A framework prompts you to think in a certain pattern or a path, like what hooks in the ```react``` does, which, in long-term, can be beneficial.
@@ -40,10 +45,17 @@
   - [Conceptual framework - wiki](https://en.wikipedia.org/wiki/Conceptual_framework)
   - [Involution - wiki](https://en.wikipedia.org/wiki/Involution_(mathematics))
 
+## Integration from great gaming experiences
+- Unlock system
+- Save game
+  - Great for workplaces where frequent interruptions are inevitable
+- Difficulty curves design
+  - You play the game instead of games playing you
+
 # Demo
 - [demo](https://warm-oasis-28882.herokuapp.com/)
 - Recommended clone the repo instead, it's the thought that counts
-# Usage
+# Installation
 ## PC
 - Clone the repo
 - Open the project with vscode
@@ -110,3 +122,13 @@
       - Vimium
         - Once installed, press F to show all page elements and its shortcut
         - Use these shortcut to quickly access the page without touching the mouse
+
+# Heuristic
+- **DISCLAIMER** As a self-explanatory title, these contents are only serves as references
+## When exactly is optimal for framework activation?
+- General
+  - <span style="color: lime">DO</span> Reoccuring concepts, knowledge, thought patterns/neural pathways that surpass the threshold which is determined by the individual's goal, status and more.
+- Software development
+  - <span style="color: red">DON'T</span> For **technical documents**, it's useless to rewrite the instruction manual 
+    - <span style="color: lime">DO</span> But it could be useful to speed read it and write down what content you should be paying attention to the next time you start speed reading it.
+  - <span style="color: lime">DO</span> Eat chicken and broccoli every day

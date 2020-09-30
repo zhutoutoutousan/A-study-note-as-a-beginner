@@ -6,6 +6,7 @@
 - [HARDER THAN LAST TIME](#harder-than-last-time)
 - [Debate space](#debate-space)
 - [TODO](#todo)
+- [Posture routine for scientists and engineers](#posture-routine-for-scientists-and-engineers)
 - [Training paradigm](#training-paradigm)
   - [Athletic performance](#athletic-performance)
     - [H.I.I.T](#hiit)
@@ -98,6 +99,9 @@
 - Fill in the gaps
   - Dude, seriously, plz fill in the pre-rehersed workout plans for 'I just worked 8 hours and I don't want the workout to reduce my academic/tech performance', 'I don't want to do the compound lift but still want to train these parts, what do you suggest?(It needs to be smark ;p)
 - Add more structural integrity overtime
+
+# Posture routine for scientists and engineers
+- [The PERFECT Daily Posture Routine (UNDO SITTING!) - ATHLEAN-X](https://www.youtube.com/watch?v=h3PZZyoXnKU&t=354s)
 
 
 # Training paradigm

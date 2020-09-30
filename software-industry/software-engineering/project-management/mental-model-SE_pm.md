@@ -23,9 +23,18 @@
   - UI gadgets
     - fontawesome
 ## Business logic
+- JavaScript
 ## DI/DX
 ### Tools and gadgets
-- Framework
+- UI-DX
+  - Template engine
+    - CSS
+      - Sass
+      - Less
+    - HTML
+      - jade
+      - pub
+- Framework(DI+DX)
   - Vue
   - React
   - Angular

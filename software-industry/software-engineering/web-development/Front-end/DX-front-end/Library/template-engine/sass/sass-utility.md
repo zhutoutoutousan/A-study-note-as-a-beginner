@@ -1,3 +1,8 @@
+# RTFM
+- [RTFM](http://www.sass-lang.com/)
+  - Speed read recommended 
+  - Pay attention to ```@mixin```, ```@use```
+
 # Class Closure
 
 # Variable

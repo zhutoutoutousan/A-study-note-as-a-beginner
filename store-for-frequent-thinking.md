@@ -19,6 +19,7 @@
   - [JavaScript mutable objects](#javascript-mutable-objects)
 - [Pick up where you left off](#pick-up-where-you-left-off)
 - [Questions](#questions)
+- [Alltagsleben](#alltagsleben)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -179,3 +180,7 @@ var merge = function(nums1, m, nums2, n) {
 
 # Questions
 
+
+
+# Alltagsleben
+- Perhaps you should include a plan that takes both workout and intellectual activities into account instead of just the workout.

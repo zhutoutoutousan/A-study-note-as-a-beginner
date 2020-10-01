@@ -37,3 +37,19 @@
       - Recovery time: 
       - Diary
         - Day 1
+          - Caveat
+            - 5g of caffeine taken around 15:00
+          - Measure combo used
+            - Diet break
+            - Meditation music(Time unlimited)
+            - Take a walk
+              - Meditation music
+            - Intellectual activities change
+              - Focus on one easy stuff only
+            - Consumed chinese anti-virus medication for potentially compromised immune system
+              - To counter against the potential viral or bacterial infection
+          - Notes
+            - Isolate out all stress points
+            - Lying in bed, avoiding uncontrollable light source irritation seems to do the trick
+            - Videos that triggers mental relaxation seems to be geared towards long narrative driven gameplay
+            - Possible increased chance of more recovery if you take a long walk meditating after lying in bed for a while

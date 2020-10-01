@@ -42,6 +42,15 @@
     - Flashcard
     - Knowledge graph
     - Neuroscience <--> Study theory
+  - Features
+    - Flexibility(Similar to Difficulty settings in video games)
+      - The most advanced user should be able to program how the framework works
+        - API reference
+        - Technical documentations
+      - The average user should be able to enjoy encapsulated settings
+        - In-game settings
+      - The minor user should be able to quickly achieve their goal
+        - State your purposes, automatic configuration
 - More information
   - [Conceptual framework - wiki](https://en.wikipedia.org/wiki/Conceptual_framework)
   - [Involution - wiki](https://en.wikipedia.org/wiki/Involution_(mathematics))

@@ -496,4 +496,10 @@
     - Lateral raise - Dumbell high pull 5-8RM 3*2SETS
     - Cable reverse fly: 6-8RM 5SETS
     - Bike ride: 30min
+  - Day 18
+    - Off day
+      - Including intellectual activities
+    - Recovery
+      - Intercostal neuralgia: Almost unnoticable
+      - Neural damage at lower back: Almost unnoticable
 </details>

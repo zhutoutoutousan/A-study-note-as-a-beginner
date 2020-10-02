@@ -70,4 +70,5 @@
               - Mucus built in lung and trachea
               - Possible compromised immune system due to the accumulated mental fatigue built over days
           - Assess and adjust
-            - Keep medication
+            - Keep medication intake
+            - Cancel

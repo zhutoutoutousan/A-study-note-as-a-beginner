@@ -188,7 +188,8 @@
 
 ### Node.js path
 - [Api design node.js](https://frontendmasters.com/courses/api-design-nodejs-v3/)
-  - Progress:
+  - Progress: 35:02
+  - [github repo](https://github.com/FrontendMasters/api-design-node-v3)
 ### Vue.js Path
 - Vue.js Path
   - Intro to Vue.js

@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Study resource track](#study-resource-track)
 - [Commmand gallary](#commmand-gallary)
+  - [git checkout](#git-checkout)
 - [How-to](#how-to)
   - [Commit & push](#commit--push)
   - [Remove history file](#remove-history-file)
@@ -19,7 +20,7 @@
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 # Commmand gallary
-
+## git checkout
 
 # How-to
 ## Commit & push

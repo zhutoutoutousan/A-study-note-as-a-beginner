@@ -502,4 +502,6 @@
     - Recovery
       - Intercostal neuralgia: Almost unnoticable
       - Neural damage at lower back: Almost unnoticable
+  - Day 19
+    - Off day due to respiritory infection and increasing work pressure
 </details>

@@ -56,12 +56,18 @@
   - [Involution - wiki](https://en.wikipedia.org/wiki/Involution_(mathematics))
 
 ## Integration from great gaming experiences
-- Unlock system
-- Save game
-  - Great for workplaces where frequent interruptions are inevitable
-- Difficulty curves design
-  - You play the game instead of games playing you
-
+- Iconic game references
+  - Mass effect 3
+  - GTA V
+- Game mechanics
+  - Unlock system
+  - Save game
+    - Great for workplaces where frequent interruptions are inevitable
+  - Difficulty curves design
+    - You play the game instead of games playing you
+  - CODEX
+    - When you are lost in a video game like **Mass effect 3**, you can check the codex to know more about the in-game world
+    - The level of complexity and scale should be on par or slightly extensive with that of the user
 # Demo
 - [demo](https://warm-oasis-28882.herokuapp.com/)
 - Recommended clone the repo instead, it's the thought that counts

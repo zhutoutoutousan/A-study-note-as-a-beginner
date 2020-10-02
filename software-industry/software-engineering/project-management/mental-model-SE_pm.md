@@ -80,7 +80,13 @@
     - Issues
     - [Support for Node V12 - GitHub](https://github.com/sass/node-sass/issues/2632)
     - Maybe just try again after a while
-
+- Mongodb
+  - "mongodb-memory-server"
+- DI/DX
+  - express
+  - nodemon
+    - Refresh the page on file change&&save
+    - Configure: nodemon.json
 
 
 # Code reference

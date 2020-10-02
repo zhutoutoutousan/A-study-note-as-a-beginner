@@ -5,6 +5,7 @@
     - [Abstraction](#abstraction)
     - [Accordion 折叠面板](#accordion-折叠面板)
     - [Agile development](#agile-development)
+    - [API](#api)
     - [Assertion](#assertion)
     - [```arguments```](#arguments)
   - [B](#b)
@@ -17,16 +18,18 @@
     - [Carousel 轮播图](#carousel-轮播图)
     - [ccTLD](#cctld)
     - [Chai](#chai)
-    - [Command line argument](#command-line-argument)
-    - [Complex system](#complex-system)
     - [Class](#class)
     - [CLI](#cli)
+    - [Cloud hosting](#cloud-hosting)
     - [Closure 闭包](#closure-闭包)
     - [Cluster](#cluster)
+    - [Command line argument](#command-line-argument)
+    - [Complex system](#complex-system)
     - [Code bundler](#code-bundler)
     - [Communication links](#communication-links)
     - [Computing](#computing)
     - [Connection pooler](#connection-pooler)
+    - [CRUD](#crud)
     - [Currying 柯里化](#currying-柯里化)
   - [D](#d)
     - [Data store](#data-store)
@@ -40,6 +43,7 @@
     - [Encapsulation](#encapsulation)
     - [Ephemeral](#ephemeral)
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
+    - [Express](#express)
   - [F](#f)
     - [```flex-grow``` 增长比例](#flex-grow-增长比例)
     - [```flex-shrink``` 回缩比例](#flex-shrink-回缩比例)
@@ -86,6 +90,7 @@
     - [```main size```](#main-size)
     - [Methods](#methods)
     - [Mocha](#mocha)
+    - [MongoDB](#mongodb)
     - [Mutable](#mutable)
     - [MVC](#mvc)
   - [N](#n)
@@ -96,6 +101,7 @@
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented language](#object-oriented-language)
     - [Object-oriented programming](#object-oriented-programming)
+    - [ORM/ODM](#ormodm)
   - [P](#p)
     - [PaaS](#paas)
     - [Packet switch](#packet-switch)
@@ -104,6 +110,7 @@
     - [Performance metric](#performance-metric)
     - [Pipe](#pipe)
     - [Promise](#promise)
+    - [Proprietary](#proprietary)
     - [PoC](#poc)
     - [Proxy](#proxy)
   - [R](#r)
@@ -119,11 +126,13 @@
     - [Regular expression engine](#regular-expression-engine)
     - [Replica set](#replica-set)
     - [Requests for comments(RFCs)](#requests-for-commentsrfcs)
+    - [REST](#rest)
     - [Routing](#routing)
     - [Royalty-free](#royalty-free)
     - [Runtime system](#runtime-system)
     - [RxJS](#rxjs)
   - [S](#s)
+    - [SaaS](#saas)
     - [Scalability](#scalability)
     - [Scope 作用域](#scope-作用域)
     - [SEO](#seo)
@@ -183,6 +192,18 @@
 ### Accordion 折叠面板
 ### Agile development
 - [全栈必备 敏捷估点](https://cloud.tencent.com/developer/article/1192181)
+
+### API
+- API: Application Programming Interface
+- (tldr, REST) a server that creates an HTTP interface for interacting with some data
+- Work with others
+  - Node.js
+    - build for high concurrent APIs that are not CPU intensive
+    - Node.js is JavaScript, it's async and event driven
+    - Single threaded(can optimize)
+    - When kept async, Node can handle a high amount of concurrent request
+    - Not great for CPU intensive work(data crunching, ML, big maths) --> Tensorflow, PyTorch  
+    - So many open source tools to help build APIs
 ### Assertion
 - (node.js)
 
@@ -207,9 +228,6 @@
 - ccTLD: country code top-level domain
 ### Chai
 - Chai is a BDD/TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
-### Command line argument
-### Complex system
-- [wiki](https://en.wikipedia.org/wiki/Complex_system)
 ### Class
 - (ES6)
 - (java)A java class is a group of data items with associated functions that can perform operations on that data. The data items in a calss are called *variables*, or sometimes *fields*; in Java, functions are called *methods*.
@@ -219,9 +237,15 @@
 
 ### CLI
 - (windows)
+### Cloud hosting
 ### Closure 闭包
 ### Cluster
 A group of servers that stores your data
+
+
+### Command line argument
+### Complex system
+- [wiki](https://en.wikipedia.org/wiki/Complex_system)
 ### Code bundler
 ### Communication links
 ### Computing
@@ -229,6 +253,9 @@ A group of servers that stores your data
 - [wiki](https://en.wikipedia.org/wiki/Computing)
 
 ### Connection pooler
+
+### CRUD
+- CRUD: Create, Read, Update, Destroy
 ### Currying 柯里化
 - Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument
 - [Method Chaining & Currying javascript](https://medium.com/@anilchaudhary453/method-chaining-currying-javascript-b6fc3324592c#:~:text=currying%20is%20the%20technique%20of,each%20with%20a%20single%20argument.)
@@ -266,6 +293,13 @@ A group of servers that stores your data
   - [ECMA-262-3 in detail. Chapter 1. Execution Contexts.](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/)
 - An execution context forms upon a function invocation. This context places itself on an execution stack, an order of operations. The item that is always first in this stack is the global execution context. Next up are any function created contexts.
   - [Recursion is not hard: a step-by-step walkthrough of this useful programming technique](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
+
+### Express
+- (tldr - back-end framework) the standard API framework for Node.js
+- Feature
+  - Handles all the tedious tasks like managing sockets, route matching, error handling, async, and more
+  - Open source
+  - Has a huge community and support from anything that has to do with APIs in Node.js
 ## F
 ### ```flex-grow``` 增长比例
 ### ```flex-shrink``` 回缩比例
@@ -358,7 +392,12 @@ A group of servers that stores your data
 ### Mocha
 - Mocha is a featuer-rich JavaScript test framework running on ```Node.js``` and in the browser, making asynchronous testing simple and fun.
 - Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
-
+### MongoDB
+- (tldr) the go-to non-relational DB, works well in Node.js
+- Non-relational document store that is easy to get started and scales well
+- Open source and backed by a big company
+- Tons of hosting solutions --> Atlas, AWS, digital ocean
+- ORM/ODM and other libs are some of the best for any DB
 ### Mutable
 ### MVC
 - **Model-view-controller** is a *software design pattern* commonly used for developing *user interfaces* that divides the related program logic into three interconnected elements.
@@ -385,6 +424,7 @@ A group of servers that stores your data
 - ?
   - The primary benefits of an object-oriented language are this association between data and functionality in class units and also the ability of classes to *encapsulate* or hide details, freeing the developer from worrying about low-level details.
 ### Object-oriented programming
+### ORM/ODM
 ## P
 ### PaaS
 - PaaS: Platform as a service
@@ -404,6 +444,8 @@ A group of servers that stores your data
 - A **promise** is in one of these states:
   - *pending*: initial state, neither fulfilled nor rejected.
   - *fulfilled*: meaning that the operation completed
+
+### Proprietary
 
 ### PoC
 - PoC: proof of concept
@@ -462,6 +504,12 @@ class ThisIsAComponentClass extends React.Component {
 ### Replica set
 A cluster where each server stores the same data
 ### Requests for comments(RFCs)
+### REST
+- (blurry, tldr)most populare API design pattern
+- An API design that combines DB resources, route paths, and HTTP verbs to allow applications describe what action they are trying to perform
+- Popularized when SaaS products starting offering APIs for integrations
+- Works with basic data models
+- **Hard to scale with complex data models and client requirements**
 ### Routing
 **Routing** refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on). [\[express.js\]](https://expressjs.com/en/starter/basic-routing.html)
 
@@ -470,6 +518,10 @@ A cluster where each server stores the same data
 ### Runtime system
 ### RxJS
 ## S
+### SaaS
+- SaaS: Software as a service
+- **Software as a service** is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.
+- [Software as a service - wiki](https://en.wikipedia.org/wiki/Software_as_a_service)
 ### Scalability
 - **Scalability** is the property of a system to handle a growing amount of work by adding resources to the system.
   - In computing, scalability is a characteristic of computers, networks, algorithms, networking protocols, programs, and applications.

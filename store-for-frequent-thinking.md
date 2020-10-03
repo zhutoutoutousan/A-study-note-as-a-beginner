@@ -18,8 +18,10 @@
   - [Sliding window technique](#sliding-window-technique)
   - [JavaScript mutable objects](#javascript-mutable-objects)
 - [Pick up where you left off](#pick-up-where-you-left-off)
-- [Questions](#questions)
+  - [Add binary](#add-binary)
 - [Alltagsleben](#alltagsleben)
+- [CSS](#css)
+  - [Logo design](#logo-design)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -128,6 +130,7 @@ var myAtoi = function(str) {
 ## JavaScript mutable objects
 
 # Pick up where you left off
+## Add binary
 ```javascript
 // https://leetcode.com/problems/add-binary/submissions/
 /**
@@ -178,9 +181,13 @@ var merge = function(nums1, m, nums2, n) {
 
 
 
-# Questions
-
-
 
 # Alltagsleben
 - Perhaps you should include a plan that takes both workout and intellectual activities into account instead of just the workout.
+
+
+
+# CSS
+## Logo design
+- [Your piece of shit code](https://codepen.io/zhutoutoutousan/pen/VwaojaG)
+- [Why is this jackass's code working?](https://codepen.io/HugoGiraudel/pen/Gpcrf)

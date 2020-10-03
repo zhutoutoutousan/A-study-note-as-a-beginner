@@ -20,7 +20,9 @@ a[href="https://fuckyouverymuch.com"]{ }
 ## Pseudo-elements
 ## ```:hover```
 ## ```::before```
+- [CSS tricks - ::before / ::after](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 ## ```::after```
+- [CSS tricks - ::before / ::after](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 In CSS, ```::after``` creates a *pseudo-element*
 ## ```:root``` and ```var()```
 Usage:

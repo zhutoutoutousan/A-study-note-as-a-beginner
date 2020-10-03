@@ -21,6 +21,8 @@
   - [H](#h)
     - [Hiring freeze](#hiring-freeze)
     - [Hunger marketing 饥饿营销](#hunger-marketing-饥饿营销)
+  - [I](#i)
+    - [IPO](#ipo)
   - [L](#l)
     - [Logic 逻辑（商业）](#logic-逻辑商业)
   - [M](#m)
@@ -87,6 +89,10 @@
 ### Hunger marketing 饥饿营销
 - *饥饿营销是小米首创并发扬光大的。小米1和小米2时代是高性能低价格的代名词，当时大部分智能手机都卖3000以上，小米只卖1999，物超所值，人人抢购。小米还善于将这种饥饿感放大，开放售卖前让用户预约。小米早年一直宣称不是刻意搞饥饿营销，而是产量不足，用户需求又太高，不得已而为之。无论真假，事实是每次小米手机开放购买，用不了几分钟就被抢光。另外，小米其实也是小批量生产，观察市场反馈，根据需求再次扩大生产，可以说是中国企业「精益创业」的最早实践者。*  --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 
+## I
+### IPO
+- IPO: Initial Public Offering
+- [wiki](https://en.wikipedia.org/wiki/Initial_public_offering)
 ## L
 ### Logic 逻辑（商业）
 - (business) See business logic

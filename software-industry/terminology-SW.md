@@ -30,6 +30,7 @@
     - [Computing](#computing)
     - [Connection pooler](#connection-pooler)
     - [CRUD](#crud)
+    - [CSS framework](#css-framework)
     - [Currying 柯里化](#currying-柯里化)
   - [D](#d)
     - [Data store](#data-store)
@@ -256,6 +257,10 @@ A group of servers that stores your data
 
 ### CRUD
 - CRUD: Create, Read, Update, Destroy
+### CSS framework
+- [Stack Overflow - What is a CSS framework](https://stackoverflow.com/questions/14563058/what-is-a-css-authoring-framework)
+- Examples
+  - [Compass](http://compass-style.org/)
 ### Currying 柯里化
 - Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument
 - [Method Chaining & Currying javascript](https://medium.com/@anilchaudhary453/method-chaining-currying-javascript-b6fc3324592c#:~:text=currying%20is%20the%20technique%20of,each%20with%20a%20single%20argument.)

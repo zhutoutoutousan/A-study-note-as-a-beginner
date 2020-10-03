@@ -23,6 +23,7 @@
 - [Alltagsleben](#alltagsleben)
 - [CSS](#css)
   - [Logo design](#logo-design)
+  - [Micellaneous observation](#micellaneous-observation)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -198,3 +199,6 @@ var merge = function(nums1, m, nums2, n) {
   - Trim down to easier questions
     - Deeper, rigorous understandings of `:after` and `:before`
     -  [ ] Exhaustive information gathering of `:after` and `:before`
+
+## Micellaneous observation
+- Why is `scss scoped` in vue ecosystem not working for footer?

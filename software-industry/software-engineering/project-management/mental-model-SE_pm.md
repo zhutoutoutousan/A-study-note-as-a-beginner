@@ -73,7 +73,8 @@
   - Angular
 - npm packages
 # Front-end <--> back-End architecture
-
+- API
+  - Insomnia/Postman
 # Back-end
 - Node.js
   - "node-sass"
@@ -87,6 +88,7 @@
   - nodemon
     - Refresh the page on file change&&save
     - Configure: nodemon.json
+
 
 
 # Code reference

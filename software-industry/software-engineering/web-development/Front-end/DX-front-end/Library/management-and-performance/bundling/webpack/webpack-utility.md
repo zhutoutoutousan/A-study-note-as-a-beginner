@@ -1,16 +1,21 @@
-# RTFM
+# RTFM and study track
 - [Guides](https://webpack.js.org/guides/)
-  - [ ] Initial Study
+  - [x] Initial Study
     - Progress:
     - [x] Concepts
       - [Webpack concept](https://webpack.js.org/concepts/)
-    - [ ] Comparison
+    - [x] Comparison
       -  [link](https://webpack.js.org/comparison/)
 - [x] Getting Started
   - [Link1](https://webpack.js.org/guides/getting-started/)
   - Progress: Completed
-- More topics
-  - Continue your developer journey further to unlock
+- More official documents 
+  - [x] Continue your developer journey further to unlock
+  - [ ] Asset management
+- Extensive topics
+  - [Stack Overflow - Work with express and webpack](https://stackoverflow.com/questions/31102035/how-can-i-use-webpack-with-express)
+- Learn from demos
+  - [Colt - webpack-demo-app](https://github.com/Colt/webpack-demo-app)
 # webpack.config.js
 
 # Concept

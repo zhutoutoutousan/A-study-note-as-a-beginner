@@ -189,7 +189,12 @@
 ### Node.js path
 - [Api design node.js](https://frontendmasters.com/courses/api-design-nodejs-v3/)
   - Progress: 35:02
-  - [github repo](https://github.com/FrontendMasters/api-design-node-v3)
+    - Study Style(Speedrun)
+      - Don't code along(for the time being, there's no time for that)
+      - Just clone the repo and do some reserach, make some notes
+        - No need to run through the code
+      - Study for being more competent using express
+    - [github repo](https://github.com/FrontendMasters/api-design-node-v3)
 ### Vue.js Path
 - Vue.js Path
   - Intro to Vue.js

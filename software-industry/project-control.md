@@ -76,30 +76,7 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [ ] Limited directory nesting depth
 - [wiki.js]
 # Front-end portfolio
-- [ ] Site link
-- Components
-  - Source code
-    - Lottery game
-      - Serving
-    - [x] Accordian
-    - Autocomplete
-    - [x] Vanilla JS calculator
-      - [x] HTML layout
-      - [x] Layout style
-      - [x] CSS animation
-      - [x] Logic
-      - [ ] Furthur troubleshoot
-    - Vue Calculator
-      - [x] Project setup
-      - [ ] Can proceed Vue.js course without finishing it first
-    - [x] Carousel
-    - Drop-down-menu
-    - Expanding-search-bar
-    - Icon bar
-    - Pagination
-    - [x] Responsive navbar
-    - toast-notification
-  - Link
+- [ ] Just use codepen as a website reference
 # Chess game
 - [x] Chessboard
 - [ ] Game mechanics
@@ -143,7 +120,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [ ] Webpack
     - [x] Webpack course
     - [ ] Webpack packing
-  - [ ] Deploy
+  - [x] Deploy
     - [ ] [Bulletproof node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure/)
   - [ ] Class
     - [ ] [Frontend Master course](https://frontendmasters.com/courses/api-design-nodejs-v3/)
@@ -219,7 +196,7 @@ a || (b && c)
   - Customized music playlist
   - Map system based on the mindmap
   - Can explore other people's world if you got the access
-- 4D Game with VR/AR technologyhttps://github.com/zhutoutoutousan/A-study-note-as-a-beginner
+- 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the br
 

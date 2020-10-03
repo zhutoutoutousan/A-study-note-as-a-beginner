@@ -12,6 +12,7 @@
   - [Matrix determinent](#matrix-determinent)
   - [The mathematical properties of Sudoku solutions](#the-mathematical-properties-of-sudoku-solutions)
 - [JavaScript](#javascript)
+  - [Battle ship](#battle-ship)
   - [Figure out what currying is about](#figure-out-what-currying-is-about)
   - [RegExp negative lookahead doesn't match?](#regexp-negative-lookahead-doesnt-match)
   - [LinkedList Loop](#linkedlist-loop)
@@ -86,6 +87,9 @@
   - [sudoku solution - codewar](https://www.codewars.com/kata/5296bc77afba8baa690002d7/train/javascript)
     - [Get familiar with backtracking first - WIKI](https://en.wikipedia.org/wiki/Backtracking)
 # JavaScript
+## Battle ship
+- [Battleship field validator](https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/javascript)
+- I already figured out what the game is about, too shame just to let it slip
 ## Figure out what currying is about
 - Currying is the technique of translating the evaluation of a function that takes multiple arguments(or a tuple of arguments) into evaluating a sequence of functions, each with a single argument
 - [Method Chaining & Currying javascript](https://medium.com/@anilchaudhary453/method-chaining-currying-javascript-b6fc3324592c#:~:text=currying%20is%20the%20technique%20of,each%20with%20a%20single%20argument.)
@@ -191,3 +195,6 @@ var merge = function(nums1, m, nums2, n) {
 ## Logo design
 - [Your piece of shit code](https://codepen.io/zhutoutoutousan/pen/VwaojaG)
 - [Why is this jackass's code working?](https://codepen.io/HugoGiraudel/pen/Gpcrf)
+  - Trim down to easier questions
+    - Deeper, rigorous understandings of `:after` and `:before`
+    -  [ ] Exhaustive information gathering of `:after` and `:before`

@@ -354,6 +354,9 @@
 
 # Plan
 ## How to make plans
+- Health state
+- Recovery state
+- The contents of last 5 days of training
 ## Gallary of plans
 - Delete the plans once you have finished one
 - If a plan is really good, showing good results, then make some template elements and start from there
@@ -504,4 +507,15 @@
       - Neural damage at lower back: Almost unnoticable
   - Day 19
     - Off day due to respiritory infection and increasing work pressure
+  - Day 20
+    - Recovery state:
+      - Infection symptom fairly recovered
+      - Neural damage: Lower back still weak
+    - Chest day
+      - Barbell bench press 5-8RM 6SETS
+      - Seat crossover 5-8RM 5SETS
+      - Seated push 4-8RM 4SETS
+      - Incline bench press 5-8RM 5SETS
+      - Cable LC press 6-8RM 3SETS
+    - 30 minutes bike ride
 </details>

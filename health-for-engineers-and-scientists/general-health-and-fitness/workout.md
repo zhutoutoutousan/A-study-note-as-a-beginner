@@ -358,20 +358,6 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-  - Day 16
-    - Status
-      - Motivated
-      - Energetic
-      - Enough sleep: 3hrs deep sleep
-    - Leg day
-      - Squat
-  - Day 17
-    - Shoulder day
-    - Barbell Overhead press: 5-8RM 6SETS
-    - Dumbell overhead press: 6-8RM 3SETS(fatigue)
-    - Lateral raise - Dumbell high pull 5-8RM 3*2SETS
-    - Cable reverse fly: 6-8RM 5SETS
-    - Bike ride: 30min
   - Day 18
     - Off day
       - Including intellectual activities
@@ -411,5 +397,8 @@
   - Easybar curl 5-8RM 5SETS
   - Tricep push down & kickback 5-8RM 3*2SETS 
 - Day 2
-  
+  - Leg day
+  - Squat 5-8RM 5SETS
+  - Split squat 5-8RM 5SETS
+  - Sumo deadlift 6-8RM 3SETS
 

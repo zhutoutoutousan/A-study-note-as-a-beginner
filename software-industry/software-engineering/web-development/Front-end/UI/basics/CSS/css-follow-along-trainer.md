@@ -1,6 +1,8 @@
 # Why
 - CSS is more practice-densed work, so once you are familiar with the ropes, you should follow along those great works.
-
+  - You should not overlap your effort
+- Platforms
+  - Codepen
 
 # Font styles
 - Neon Glow
@@ -16,3 +18,7 @@
 # Page element
 ## Nav Bar
 ## Modal box
+
+
+# For quick refreshments
+- [CSS-trick - media query](https://css-tricks.com/logic-in-media-queries/)

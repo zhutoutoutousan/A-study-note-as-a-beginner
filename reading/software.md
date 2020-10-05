@@ -13,6 +13,7 @@
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
+- [Source code study](#source-code-study)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## C
@@ -139,3 +140,22 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link1](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 
 # Operating system working principle
+
+
+# Source code study
+- Operating system
+  - Linux
+    - [Linux - github](https://github.com/eiiches/linux) 
+    - Status: Looking around, get familiar with it first
+      - Is there any close resource for reference?
+
+- Front-end framework
+  - Vue 
+    - [vue-next - github](https://github.com/vuejs/vue-next)
+    - Status: Motivated, look around first
+  - React
+    - [react - github](https://github.com/facebook/react)
+    - Status: Not yet
+- Browser working principle
+  - Chromium
+- Game development

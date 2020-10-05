@@ -151,11 +151,12 @@
     - <span style="color: lime">DO</span> But it could be useful to speed read it and write down what content you should be paying attention to the next time you start speed reading it.
   - <span style="color: lime">DO</span> Eat chicken and broccoli every day
 - Scenarios to use **Training coach**
+  - Problem-solving oriented part of a subject e.g. electrical engineering, mathematics
   - CSS proficiency
   - Data structure and algorithms, problem solving
   - Logical reasoning
 - Scenarios to use **Static knowledge hub**
-  - Philosophy, psychology
+  - Terminologies/knowledge dense part of a subject e.g. psychology, philosophy
   - Academic writing
 - Scenarios to use **State restoration**
   - Book reading

@@ -1,4 +1,19 @@
+# Table of Content
+- [Table of Content](#table-of-content)
+- [Code it on platforms](#code-it-on-platforms)
+- [Code it the hard way](#code-it-the-hard-way)
+- [Resource](#resource)
+  - [Training ground](#training-ground)
+- [Watch it](#watch-it)
+- [Read it](#read-it)
 
+# Code it on platforms
+- Leetcode
+- Codewar
+- Hackerrank
+
+
+# Code it the hard way
 - Judging factor
   - Primitive
     - Coding along
@@ -87,7 +102,7 @@
 # Resource
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 
-# Training ground
+## Training ground
 
 ```javascript
 // Use Comparator
@@ -259,3 +274,16 @@ class Graph {
   }
 }
 ```
+
+
+# Watch it
+- [Dynamic programming - MIT](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+  - Progress control: 12:13
+  - Optional Prerequisites
+    - [MIT - divide and conquer FFT](https://www.youtube.com/watch?v=iTMn0Kt18tg)
+    - [MIT - Divide and Conquer - Convex hull Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU)
+  - Time Complexity reasoning: 11:00
+  - Introduce memoized DP algorithm: 11:30+
+
+# Read it
+- Check *reading* section, finish the *Introduction to algorithms* and implement the idea in C

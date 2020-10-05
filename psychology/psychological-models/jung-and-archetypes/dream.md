@@ -16,3 +16,9 @@
     - When I stopped a guy who wanted to destroy the world, I returned to the surface for celebration, suddenly, my eyesight shakened, some purpleish flashes stunned me. Turn out, just when we were fighting the terriost down there, a mysterious alien species invaded us, injecting every one with its tiny microbe capable of controling human's mind. Thoses people I knew were acting strangely, flashing purple lights when they were walking like a zombie. Then I blacked out.
     - When I woke up, I saw I was dumped into the piles of bodies. Next to me looked like an alien research facitity, I ran in, discovered that there were still survivors. The guards controlled by aliens had eyes of purple, those not had blue. There were aliens(I couldn't remember their apperance), they had mind control turrent capable of controling human's mind instantly, which cannot be resisted. Also they have a certain strain of alien that if found me, it will start interfering with my mind(my eyesight turns purple), I can try to resist, but not for long. The best I can do is to kill it. Running away would only give away my position.
     - \[End of dream\]
+
+### October
+- 5
+  - I only sleeped for 4 hours but I feel damn good. Probably on the premise of taking 9 grams of coffee powder later.
+  - This dream has something to do with the german version of 'history' --- 'Verlauf', but I can't quite recollect it.
+  - The only feelings I got is the urge to understand under the hood how Discrete Fast Fourier Transform algorithm works. And all those training I had in codewar, the pleasure of solving a problem by typing the codes comes back.

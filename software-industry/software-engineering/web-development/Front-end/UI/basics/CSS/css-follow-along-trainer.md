@@ -11,3 +11,8 @@
       - `text-shadow`
         - If there are more than 1 pattern, they just add to each other
 
+
+
+# Page element
+## Nav Bar
+## Modal box

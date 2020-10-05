@@ -57,13 +57,12 @@
       - [Footwork](#footwork)
 - [Plan](#plan)
   - [How to make plans](#how-to-make-plans)
+    - [State storage(10/4/2020)](#state-storage1042020)
   - [Gallary of plans](#gallary-of-plans)
     - [Regular strength](#regular-strength)
       - [120 days strength plan](#120-days-strength-plan)
     - [Regular hypertrophy](#regular-hypertrophy)
-      - [60 days chest+shoulder hypertrophy plan](#60-days-chestshoulder-hypertrophy-plan)
-    - [Injury rehab](#injury-rehab)
-      - [20 days intercostal neuralgia rehab plan(tracking)](#20-days-intercostal-neuralgia-rehab-plantracking)
+      - [20 days maintenance training under heavy life uncertainties](#20-days-maintenance-training-under-heavy-life-uncertainties)
 
 # Why should engineers and scientists workout at the first place?
 ## Benefits
@@ -357,134 +356,8 @@
 - Health state
 - Recovery state
 - The contents of last 5 days of training
-## Gallary of plans
-- Delete the plans once you have finished one
-- If a plan is really good, showing good results, then make some template elements and start from there
-### Regular strength
-#### 120 days strength plan
-- Principles
-  - Only test 1RM once every 2 months
-### Regular hypertrophy
-#### 60 days chest+shoulder hypertrophy plan
-### Injury rehab
-#### 20 days intercostal neuralgia rehab plan(tracking)
-<details close>
-<!-- <details open> -->
-  <summary style="color:yellow"><strong>See the whole plan</strong></summary>
 
-- Goal
-  - Keep testosterone level high
-    - Squats every day
-  - Leave the muscle and neural pathway time to heal
-    - No high impact exercise
-    - Mixed 5-8RM weight exercise, bodyweight exercise 
-  - Avoid muscle loss
-  - If there is circadium rhythm disruption, fine tune it.
-  - Preferred full body workout
-- Nutrition
-- Progression
-  - Day 1
-    - Focus
-      - Bicep
-        - Chin-ups 8RM+ R1M
-      - Tricep
-        - Tricep-pushdowns  5RM+  R1M
-      - Back
-        - Straight arm push down 8RM+  R30S
-        - W-T-Y raise  8RM+  R30S
-      - Lower body
-        - Squat  5RM+  R1.5M
-      - Obliques
-        - Straight arm rotation 8RM+
-      - Chest
-        - Dumbell press 8RM+
-  - Day 2
-    - Same as Day 1
-  - Day 3
-    - Condition
-      - Need to rest arms
-    - Arm --> Core
-  - Day 4
-    - DURATION: 1hr+20min
-    - Arm
-      - Spider curl ---> Tricep push down 5SETs R30s
-      - R1m
-    - Back
-      - Straight arm push down --> Face-to-sky pull 5SETs R30s
-      - R1m
-    - Chest
-      - Bench press 6RM+  5SETs
-      - Seated crossover 6SETs
-      - Dumbell Incline Press --- Dumbell decline Press 3SETs
-    - Leg
-      - Dumbell back lunge 5RM+ 5SETs
-    - Cardio
-      - Kettle bell swing
-        - <div style="color: red">WARNING: Injury on the posterior chain</div>
-      - Roll up jump
-  - Day 5
-    - Off day
-    - Diet break --> 500 kcal deficit
-  - Day 6
-    - Hiking
-  - Day 7
-    - Chest day(Not planned)
-  - Day 8
-    - Leg day
-    - Leg hypertrophy
-      - Squat: 5-8RM 6-8 SETS
-      - Bulgarian split squat 5-6RM 5 SETS
-      - Calf raise 5-8RM 8SETS
-  - Day 9
-    - Back day
-    - Back hypertrophy
-      - Chin-up <--> pull up --> tucked front-lever  5-8RM  5SETS
-        - Weighted-->Band-assisted  
-      - Equipment supported reverse grip lat pull down 5-8RM 8SETS+
-      - Dumbell T-raise/W-raise/Y-raise 5-8RM 5SETS+
-        - Really slow eccentric motion
-      - Facepull
-      - Sumo deadlift(empty bar)
-        - Addressing the nerve damage in the posterior chain
-  - Day 10
-    - Arm day
-      - Skull crusher <--> Barbell curl--> drag curl 8RM 5SETS
-      - Tricep pushdown 5-8RM 5SETS
-      - Overhead press 8RM 3SETS
-      - Incline curl <--> Spider curl 6RM 3SETS
-      - Planche push up 6RM 2SETS
-      - Lateral Raise 8RM 5SETS
-      - Band reverse fly 8RM 6SETS
-      - Eccentric chest crusher 3SETS 
-  - Day 11
-    - Off day
-  - Day 12
-    - 1hr bike ride
-  - Day 13
-    - Shoulder compensation
-      - Seated Side lateral raise 6-8RM 5SETS
-      - Band rear delts raise 6-8RM 5SETS
-    - Chest
-      - Bench press 5-8RM 6SETS
-      - Incline press 6-8RM 6SETS
-      - Standing LC press <--> Equipment crossover 6-8RM 2SETS
-  - Day 14
-    - Off day
-      - Resting heart rate raised by 10%, indicating some degree of fatigue
-      - Brisk walk
-    - Injury recovery
-      - Intercostal neuralgia: Milder
-  - Day 15
-    - Back day
-      - Chin-up <--> pull up --> tucked front-lever  5-8RM  5SETS
-        - Weighted-->Band-assisted  
-      - Equipment supported reverse grip lat pull down 5-8RM 8SETS+
-      - Dumbell T-raise/W-raise/Y-raise 5-8RM 5SETS+
-        - Really slow eccentric motion
-      - Facepull 5SETS
-      - Sumo deadlift(empty bar)
-        - Addressing the nerve damage in the posterior chain
-    - Bike ride: 40min
+### State storage(10/4/2020)
   - Day 16
     - Status
       - Motivated
@@ -518,4 +391,25 @@
       - Incline bench press 5-8RM 5SETS
       - Cable LC press 6-8RM 3SETS
     - 30 minutes bike ride
-</details>
+## Gallary of plans
+- Delete the plans once you have finished one
+- If a plan is really good, showing good results, then make some template elements and start from there
+### Regular strength
+#### 120 days strength plan
+- Principles
+  - Only test 1RM once every 2 months
+### Regular hypertrophy
+#### 20 days maintenance training under heavy life uncertainties
+- Goal
+  - Keep benefiting from workout
+  - Injury prevention precedes the training performance
+  - Frequent medication for compromised immune system caused by heavy workload and stress
+- Day 1
+  - Bicep & Tricep day
+  - Chin-up 6-8RM 5SETS
+  - Easybar skull crusher 5-8RM 5SETS
+  - Easybar curl 5-8RM 5SETS
+  - Tricep push down & kickback 5-8RM 3*2SETS 
+- Day 2
+  
+

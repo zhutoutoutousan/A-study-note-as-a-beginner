@@ -43,6 +43,7 @@
     - [Geopolitics](#geopolitics)
     - [Goliath strategy](#goliath-strategy)
   - [I](#i)
+    - [Identity politics](#identity-politics)
     - [Ideology 意识形态](#ideology-意识形态)
     - [Informationized military](#informationized-military)
     - [Inport](#inport)
@@ -50,6 +51,7 @@
     - [Jewish Question](#jewish-question)
   - [L](#l)
     - [Labour input](#labour-input)
+    - [Left](#left)
     - [Liberal democracy](#liberal-democracy)
     - [Loan](#loan)
   - [M](#m)
@@ -78,6 +80,8 @@
     - [Projection](#projection)
   - [R](#r)
     - [Racism](#racism)
+    - [Radical left](#radical-left)
+    - [Radical right](#radical-right)
     - [Reform](#reform)
     - [Revolution](#revolution)
   - [S](#s)
@@ -160,6 +164,7 @@
 ### Geopolitics
 ### Goliath strategy
 ## I
+### Identity politics
 ### Ideology 意识形态
 ### Informationized military
 ### Inport
@@ -167,6 +172,7 @@
 ### Jewish Question
 ## L 
 ### Labour input
+### Left
 ### Liberal democracy
 ### Loan
 ## M
@@ -210,6 +216,8 @@
 
 ## R
 ### Racism
+### Radical left
+### Radical right
 ### Reform
 ### Revolution
 ## S

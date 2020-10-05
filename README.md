@@ -26,6 +26,7 @@
     - Functionality
       - A intellectual coach
         - Customized active-recall tools
+        - Training plan and monitor system for fluid-like neural patterns
       - An information hub
         - All information should be strongly coupled together
         - Customized study tools for a certain task

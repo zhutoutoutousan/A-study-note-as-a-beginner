@@ -401,4 +401,11 @@
   - Squat 5-8RM 5SETS
   - Split squat 5-8RM 5SETS
   - Sumo deadlift 6-8RM 3SETS
+- Day 3
+  - Off day
+    - Having worked out rigorously for 3 days
+    - Sign of minor upper respritory tract infection
+      - Dry throat
+  - Bike ride: 30minutes
+  - Frequent stroll
 

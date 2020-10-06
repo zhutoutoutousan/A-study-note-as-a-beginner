@@ -22,6 +22,8 @@
     - A framework should be either opinionated or unopinionated, but the best case scenario is for every individual from different fields to adjust/fine tune their study methods and according tools and utilities.
     - A framework should take the psychological, physiological and intellectual status of the user into the equation.
     - A framework should be able to constantly absorb the evidence-based scientific research concerning study as well as the anecdotal stories and upgrade itself.
+    - A framework should train or assist you to build a higher-dimensional '**hashmap**' to reduce your effort to retain neural patterns or pathways with time complexity of $O(1)$ which without the help could be $O(n)$, $O(n^2)$ or worse
+      - For a human, time complexity is important, because the life of a man is limited at the time this acclaim is made, and with the development of electronics, we could find a way to reduce time complexity for a human to optimize the process of building or strengthening a neural pattern/pathway with the compensations of increased space complexity
   - Low-level
     - Functionality
       - A intellectual coach

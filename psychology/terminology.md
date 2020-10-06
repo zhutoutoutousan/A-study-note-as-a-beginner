@@ -151,6 +151,9 @@
 ### Cognitive dissonance
 - In the field of psychology, cognitive dissonance occurs when a person holds contradictory beliefs, ideas, or values, and is typically experienced as psychological stress when they participate in an action that goes against one or more of them.
 - [wiki](https://en.wikipedia.org/wiki/Cognitive_dissonance)
+- *A Theory of Cognitive Dissonance* (1957)
+  - Leon Festinger: human beings strive for internal psychological consistency to function mentally in the real world
+- [An Introduction to Cognitive Dissonance Theory and an Overview of Current Perspectives on the Theory](https://www.apa.org/pubs/books/Cognitive-Dissonance-Intro-Sample.pdf)
 ### Coprolalia
 - -copro: shit
 - -lalia: speak

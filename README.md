@@ -158,7 +158,7 @@
   - Data structure and algorithms, problem solving
   - Logical reasoning
 - Scenarios to use **Static knowledge hub**
-  - Terminologies/knowledge dense part of a subject e.g. psychology, philosophy
+  - Terminologies/knowledge/theorem dense part of a subject e.g. psychology, philosophy
   - Academic writing
 - Scenarios to use **State restoration**
   - Book reading

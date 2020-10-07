@@ -358,12 +358,6 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-  - Day 18
-    - Off day
-      - Including intellectual activities
-    - Recovery
-      - Intercostal neuralgia: Almost unnoticable
-      - Neural damage at lower back: Almost unnoticable
   - Day 19
     - Off day due to respiritory infection and increasing work pressure
   - Day 20
@@ -408,4 +402,12 @@
       - Dry throat
   - Bike ride: 30minutes
   - Frequent stroll
-
+- Day 4
+  - Back day
+  - Sumo deadlift 6-8RM 5SETS
+  - Straight arm pulldown 5-8RM 5SETS
+  - Chin-up 5-8RM 3SETS
+  - Banded rotator cuff 6-8RM 3*2SETS
+  - T-Y-raise 5-8RM 5SETS
+  - Barbell shrug 6-8RM 3SETS
+  - Cardio: 20 minutes bike ride

@@ -56,6 +56,7 @@
   - [H](#h)
     - [Hook](#hook)
     - [HTML](#html)
+    - [HTML5](#html5)
     - [HTTP routing](#http-routing)
   - [I](#i)
     - [IDE](#ide)
@@ -325,6 +326,9 @@ A group of servers that stores your data
 ### HTML
 - sadas
   - HTML is case-insensitive
+
+### HTML5
+- [HTML5 mobile app or native? It depends](https://techbeacon.com/app-dev-testing/html5-mobile-app-or-native-it-depends)
 ### HTTP routing
 - [Heroku](https://devcenter.heroku.com/articles/http-routing)
 ## I
@@ -565,6 +569,7 @@ The term **Web service(WS)** is either:
     - 10:05: Connect to local ubuntu server
   - Possible prerequisites
     - (Ubuntu)Introduction to Linux --> Networking
+    - [Connecting Ubuntu Server to the Internet through Windows 10 laptop and Ethernet cable - Stack Exchange_Ubuntu](https://askubuntu.com/questions/1196264/connecting-ubuntu-server-to-the-internet-through-windows-10-laptop-and-ethernet)
 ### Static File Serving
 ### Static module bundler
 ### Status Code(HTTP)

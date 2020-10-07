@@ -4,7 +4,6 @@
   - [In two months](#in-two-months)
   - [In two years](#in-two-years)
   - [In five years](#in-five-years)
-- [Timeline-project control](#timeline-project-control)
 - [Personal website](#personal-website)
   - [Front-page](#front-page)
   - [Blog-page](#blog-page)
@@ -23,7 +22,18 @@
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
     - [Functionality](#functionality-1)
+  - [Debate space](#debate-space)
+    - [Why](#why)
+    - [Contexts to investigate](#contexts-to-investigate)
+    - [Pro](#pro)
+    - [Against](#against)
   - [Reference](#reference)
+- [Relaxation box](#relaxation-box)
+  - [Basic idea](#basic-idea)
+  - [Context](#context)
+  - [Debate space](#debate-space-1)
+    - [Pro](#pro-1)
+    - [Against](#against-1)
 
 # Priority-project control
 ## In two months
@@ -40,26 +50,19 @@
 2. Web crawler for German websites
 ## In five years
 1. DeepSTUDYcity(4d+AR/VR)
-# Timeline-project control
-```
-April -...--------------------------------------------------------------> October  
-xxxxxxx...August-----------------------September--------------------------->|  
-                                                                 /|\
-                                                                  |  U R here
-```
-- First stage mark: **FST**
-
-
 
 # Personal website
-
 ## Front-page
-- [ ] Study the example
-  - [ ] [Portfolio](https://github.com/realmartinzane/portfolio)
-  - [ ] Vue
+- [x] Study the example
+  - [x] [Portfolio](https://github.com/realmartinzane/portfolio)
+  - [x] Vue
     - [x] Intro course
-    - [ ] Integration
-
+    - [x] Integration
+- [ ] Mobile support
+  - [ ] Learn google devTool mobile simulation
+  - [ ] Learn CSS media queries with mobile
+  - [ ] Learn Responsive frameworks
+  - [ ] Learn Nuxt.js(Server side rendering)
 ## Blog-page
 - [x] VuePress
   - [x] Not suitable
@@ -76,7 +79,7 @@ xxxxxxx...August-----------------------September--------------------------->|
     - [ ] Limited directory nesting depth
 - [wiki.js]
 # Front-end portfolio
-- [ ] Just use codepen as a website reference
+- [x] Completed
 # Chess game
 - [x] Chessboard
 - [ ] Game mechanics
@@ -198,9 +201,58 @@ a || (b && c)
   - Can explore other people's world if you got the access
 - 4D Game with VR/AR technology
   - Where you can swim in the oceans of your knowledge bank
-  - With BCI interface directly interacting with the br
+  - With BCI interface directly interacting with the brain
 
+## Debate space
+### Why
+- Of all YouTube videos, 99 percent of the video got less than 10 views. If you got an idea, 99% of your thought efforts should be geared towards debunking this idea by proving them invalid even with all available deviations or alternative routes.
+- Only through hundreds and thousands of debates trying their best effort to tear down the idea can any idea that could survive be anything more than invalid.
+- Talk to more people is essential --> 李开复-->3D浏览器，结果没有市场 --> 实用性创新
+### Contexts to investigate
+- Marketing ecosystem
+- Business ecosystem/landscape
+### Pro
+- If the functionality of the product can be scaled to fit themselves towards different groups/classes of social groups/individuals, we can charge a variety of prices to different groups to maximize the profit
+- The tools we use for a study framework is more or less for a certain group of people and is either too complex/inaccessible to other groups of people. 
+### Against
+- Readiness
+  - Your technical skills is not enough
+  - You don't have enough reputation and ability to set up a team
+  - Even a team is present, there is no telling that what marketing strategy to use
+- Demands
+  - According to dominance hierarchy and basic neuralscience, the brain wants pleasure rather than pain, an individual wants to challenge the dominance hierarchy rather than better himself/herself, which indicates decreased market demands for a tool like this.
+    - If a product is implicative to an individual that he/she could use this to improve his/her social economic status. He/she would have a spur to use it. 
+      - But after that, the situation becomes a zero-sum game, I'm not sure if that equilibrium could be profitable if the base line is too low.
+        - Requires basic knowledge of **Game theory** to unlock more self-debate sequence --> Build a hashmap to unlock fast **Game theory**-related problems ---> Exact neural pattern connection ---> Read books first
+    - We should not omit the power of ideology, sometimes the political 'Zeitgeist' could be the reason why a product is popular, which is worth investigating.
+- Competition
+  - Maybe there's already a team or a product working on this
+    - Notion
+      - It's functionality
+      - Is it a success
+        - Why is it a succcess
+      - This product's functionality
+      - Not quite the functionality that this product is designed for
+        - Summarize your reasons
+    - Raneto
+    - Marginnote
+    - Evernote
+    - Xmind
+  - If this product for some reasons is public, can it survive?
 ## Reference
 - [xmind-viewer](https://github.com/xmindltd/xmind-viewer)
 - [Flashcard](https://github.com/jwasham/computer-science-flash-cards)
 - [Node flashcard](https://github.com/ashwanikumar04/flash-cards)
+
+# Relaxation box
+## Basic idea
+- If there is a 'box' with the size of a telephone booth where you can find a massage chair with noise-free headset and oxygen generator. I wouldn't mind going to that place during lunch break.
+  - In every department store, coffee cafeteria where those white-collar people likes to rest.
+
+## Context
+## Debate space
+### Pro
+### Against
+- Seems too costly, u sure it could be profitable?
+  - Require basic knowledge of **how a business runs and the cash flow works** for further discussion
+- Could you figure out a reservation system? 'Cause if this stuff exists, we don't want those people to be fixed. It should be optimized.

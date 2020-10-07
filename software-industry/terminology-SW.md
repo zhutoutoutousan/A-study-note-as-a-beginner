@@ -39,6 +39,8 @@
     - [Destructuring](#destructuring)
     - [Devious](#devious)
     - [Discord](#discord)
+    - [DNS](#dns)
+    - [DNS Cache poisoning](#dns-cache-poisoning)
   - [E](#e)
     - [Emmet](#emmet)
     - [Encapsulation](#encapsulation)
@@ -102,6 +104,7 @@
     - [Object-oriented inheritance model](#object-oriented-inheritance-model)
     - [Object-oriented language](#object-oriented-language)
     - [Object-oriented programming](#object-oriented-programming)
+    - [Onion routing](#onion-routing)
     - [ORM/ODM](#ormodm)
   - [P](#p)
     - [PaaS](#paas)
@@ -142,12 +145,15 @@
     - [Snake case](#snake-case)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
+    - [SSH](#ssh)
     - [Static File Serving](#static-file-serving)
     - [Static module bundler](#static-module-bundler)
     - [Status Code(HTTP)](#status-codehttp)
     - [Stream](#stream)
     - [SVG](#svg)
   - [T](#t)
+    - [TCP](#tcp)
+    - [TCP meltdown](#tcp-meltdown)
     - [TDZ 暂时死区](#tdz-暂时死区)
     - [Template engine 模板引擎](#template-engine-模板引擎)
     - [Traditional Gtk](#traditional-gtk)
@@ -285,6 +291,9 @@ A group of servers that stores your data
 - (adj)showing a skillful use of underhanded tactics to achieve goals
 ### Discord
 - Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
+### DNS
+### DNS Cache poisoning
+- [DNS Cache poisoning - Computerphile](https://www.youtube.com/watch?v=7MT1F0O3_Yw)
 ## E
 ### Emmet
 - (vscode extension)When you type ```<div>```, ```.someClass```, vscode fill that for you
@@ -429,6 +438,8 @@ A group of servers that stores your data
 - ?
   - The primary benefits of an object-oriented language are this association between data and functionality in class units and also the ability of classes to *encapsulate* or hide details, freeing the developer from worrying about low-level details.
 ### Object-oriented programming
+### Onion routing
+- [Onion Routing - Computerphile](https://www.youtube.com/watch?v=QRYzre4bf7I)
 ### ORM/ODM
 ## P
 ### PaaS
@@ -534,6 +545,7 @@ A cluster where each server stores the same data
 ### Scope 作用域
 ### SEO
 ### Server-Side rendering
+- Nuxt.js
 ### Service
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
@@ -545,6 +557,14 @@ The term **Web service(WS)** is either:
 - [Software architecture - Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 
 ### Software design pattern
+### SSH
+- SSH: Secure Shell Works
+- [How Secure Shell Works (SSH) - Computerphile](https://www.youtube.com/watch?v=ORcvSkgdA58)
+- [SSH Crash Course | With Some DevOps](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+  - Progress: 10:05
+    - 10:05: Connect to local ubuntu server
+  - Possible prerequisites
+    - (Ubuntu)Introduction to Linux --> Networking
 ### Static File Serving
 ### Static module bundler
 ### Status Code(HTTP)
@@ -574,6 +594,8 @@ The term **Web service(WS)** is either:
   - [MDN - SVG element reference](https://developer.mozilla.org/en-US/docs/Web/SVG/Element)
   - [MDN - DOM-SVG interfaces](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#SVG_interfaces)
 ## T
+### TCP
+### TCP meltdown
 ### TDZ 暂时死区
 ### Template engine 模板引擎
 ### Traditional Gtk

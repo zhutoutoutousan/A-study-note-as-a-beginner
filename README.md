@@ -8,7 +8,7 @@
   - [PC](#pc)
   - [Mobile](#mobile)
 - [Notebook architecture](#notebook-architecture)
-- [Keyboard shortcuts](#keyboard-shortcuts)
+- [*Gameplay* controls](#gameplay-controls)
 - [Heuristic](#heuristic)
   - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
 - [Iconic files for demonstration](#iconic-files-for-demonstration)
@@ -115,26 +115,34 @@
 - Utilities(Under construction)
 
 
-# Keyboard shortcuts
-- Be familiar with vscode keyboard shortcuts first(w10)
-  - I want to open this notebook after a day of hangover
-    - Win+V --> open visual studio
-    - Ctrl+R --> \[this repo name\] --> open this project
-    - Ctrl+Shift+E --> toggle file system sidebar
-    - Ctrl+P \[file name cues\] --> Quickly open a file deeply rooted anywhere
-    - Toggle split tab: Ctrl+|(shift+\\)
-    - ```markdown all in one```--> preview: Ctrl+Shift+V
+# *Gameplay* controls
+- Open the project
+  - Win+V --> open visual studio
+  - Ctrl+R --> \[this repo name\] --> open this project
+  - Ctrl+Shift+E --> toggle file system sidebar
+  - Ctrl+P \[file name cues\] --> Quickly open a file deeply rooted anywhere
 
-  - Other Navigations
-    - Switch between different virtual desktop
-      - W10: Ctrl+win+left/right
-    - Move things around virtual desktops
-      - Win+tab --> move things around
-    - Duplicate workplace to study in another virtual desktop
-      - Ctrl+Shift+P >dupli...(autocomplete) 
-    - Move tabs in vscode around
-      - Select a sub tab: Ctrl+1/2/3/4... 
-      - Move a sub tab to the right: Ctrl+Alt+Right/Left
+
+- Tab manipulation
+  - Toggle split tab: Ctrl+|(shift+\\)
+  - ```markdown all in one```--> preview: Ctrl+Shift+V
+  - Move tabs in vscode around
+    - Select a sub tab: Ctrl+1/2/3/4... 
+    - Move a sub tab to the right: Ctrl+Alt+Right/Left
+
+- OS navigation
+  - Switch between different virtual desktop
+    - W10: Ctrl+win+left/right
+  - Move things around virtual desktops
+    - Win+tab --> move things around
+  - Duplicate workplace to study in another virtual desktop
+    - Ctrl+Shift+P >dupli...(autocomplete) 
+
+
+- Note navigation
+  - Move to the start/end of the file
+    - Ctrl+HOME
+    - Ctrl+END
 - Work with web browsers
   - Chrome
     - Extensions

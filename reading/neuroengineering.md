@@ -18,3 +18,6 @@
 
 - Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems
   - [link1](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf)
+
+- Principles of Neural Science
+  - [link1](http://www.gbv.de/dms/hebis-darmstadt/toc/89892356.pdf)

@@ -45,6 +45,11 @@
 - The Handbook of Jungian Psychology
   - [link1](https://dondeg.files.wordpress.com/2015/08/hjp.pdf)
 # Society
+## Dominance Hierarchy
+- Chimpanzee Politics: Power and Sex Among Apes
+  - Papers
+- Demonic Males
+## General
 - The Social Animal - E.Aronson
   - [Link1](https://khanahmadli.files.wordpress.com/2019/01/the-social-animal.pdf)
   - **Related reading**

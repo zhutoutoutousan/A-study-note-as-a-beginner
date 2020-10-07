@@ -24,6 +24,7 @@
 - [CSS](#css)
   - [Logo design](#logo-design)
   - [Micellaneous observation](#micellaneous-observation)
+- [Academic writing](#academic-writing)
 # Overview
 - This note is analogous to RAM in computer systems
   - Your short-term memory(Cache) is not enough
@@ -202,3 +203,6 @@ var merge = function(nums1, m, nums2, n) {
 
 ## Micellaneous observation
 - Why is `scss scoped` in vue ecosystem not working for footer?
+
+# Academic writing
+- Consider migrating the *academic writing* part to *Language-->English*

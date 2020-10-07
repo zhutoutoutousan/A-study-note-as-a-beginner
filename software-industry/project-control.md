@@ -61,6 +61,7 @@
 - [ ] Mobile support
   - [ ] Learn google devTool mobile simulation
   - [ ] Learn CSS media queries with mobile
+    - [ ] [Are you writing responsive CSS the wrong way?](https://www.youtube.com/watch?v=0ohtVzCSHqs)
   - [ ] Learn Responsive frameworks
   - [ ] Learn Nuxt.js(Server side rendering)
 ## Blog-page

@@ -31,6 +31,8 @@ Complete course:
 
 
 # Data Structure and Algorithms
+- Read the book and implement in C
+  - [TheAlgorithmsC - github](https://github.com/TheAlgorithms/C)
 ## Visualization
 - [Data Structure Visualizations - CS USFCA](https://www.cs.usfca.edu/~galles/visualization/)
 - [Github - algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)

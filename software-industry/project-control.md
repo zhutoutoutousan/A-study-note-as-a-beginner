@@ -20,6 +20,7 @@
   - [Tech-stack](#tech-stack)
   - [Reference materials](#reference-materials-1)
 - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
+  - [Progress](#progress)
   - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
     - [Functionality](#functionality-1)
   - [Debate space](#debate-space)
@@ -184,9 +185,10 @@ a || (b && c)
 ## Tech-stack
 - React
 ## Reference materials
-
+- [TweetScraper - github](https://github.com/jonbakerfish/TweetScraper)
 
 # 3D/VR personal knowledge base
+## Progress
 ## Application --> Mindmap + Flashcard
 ### Functionality
 - AI

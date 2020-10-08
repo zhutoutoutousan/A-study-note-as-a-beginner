@@ -20,6 +20,8 @@
   - [K](#k)
     - [Kniebeuge](#kniebeuge)
     - [Kreuzheben](#kreuzheben)
+  - [M](#m)
+    - [Mesocycle](#mesocycle)
   - [N](#n)
     - [Neuralgia](#neuralgia)
   - [P](#p)
@@ -61,6 +63,10 @@
 - (German)Squat
 ### Kreuzheben
 - (German)Deadlift
+
+## M
+### Mesocycle
+- [Mesocycle - Sportlyzer](https://academy.sportlyzer.com/wiki/mesocycle/#:~:text=Mesocycle%20is%20a%20training%20phase,that%20should%20be%20developed.)
 
 ## N
 ### Neuralgia

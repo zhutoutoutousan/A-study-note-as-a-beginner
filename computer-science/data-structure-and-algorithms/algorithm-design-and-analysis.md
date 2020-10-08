@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Basic terminologies to review](#basic-terminologies-to-review)
+- [Suggestions](#suggestions)
 - [Formal problem description](#formal-problem-description)
 - [Algorithm description](#algorithm-description)
   - [Pseudocode](#pseudocode)
@@ -28,7 +28,8 @@
       - [Recursion level](#recursion-level)
 - [Mathematics and algorithms](#mathematics-and-algorithms)
 
-# Basic terminologies to review
+# Suggestions
+- Understand it first
 
 # Formal problem description
 

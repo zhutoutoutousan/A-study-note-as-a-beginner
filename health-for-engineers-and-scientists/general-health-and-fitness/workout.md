@@ -358,8 +358,6 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-  - Day 19
-    - Off day due to respiritory infection and increasing work pressure
   - Day 20
     - Recovery state:
       - Infection symptom fairly recovered
@@ -411,3 +409,6 @@
   - T-Y-raise 5-8RM 5SETS
   - Barbell shrug 6-8RM 3SETS
   - Cardio: 20 minutes bike ride
+- Day 5
+  - Off day
+  - Travel a bit

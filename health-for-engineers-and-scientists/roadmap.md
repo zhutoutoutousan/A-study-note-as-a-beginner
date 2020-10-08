@@ -41,3 +41,4 @@ Test:
 ### Bodybuilding
 
 # How strenuous mental work does to your body
+## Neuralgia

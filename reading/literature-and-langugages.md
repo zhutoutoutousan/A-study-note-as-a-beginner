@@ -8,8 +8,10 @@
   - Progress(100% understanding): 1/97
     - Should probably not do that
 - Воскрешение --- Л. Н. Толстой.
+  - [Воскресение - Лев Толстой](https://ilibrary.ru/text/1462/index.html)
   - Requires at least **Russian B1 level** to initiate online search for e-books | Your level: Lower A2
-
+- Entry to Russian Literature
+  - [Библиотека](https://ilibrary.ru/)
 # Language
 ## Latin
 - Oxford Latin Course

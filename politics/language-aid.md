@@ -4,6 +4,8 @@
   - [Alphabetical](#alphabetical)
     - [E](#e)
       - [el](#el)
+    - [R](#r)
+      - [Riferimento](#riferimento)
     - [S](#s)
       - [Solere](#solere)
 - [French](#french)
@@ -16,6 +18,9 @@
 ### E
 #### el
 - [Wiki](https://www.wordreference.com/enit/e)
+### R
+#### Riferimento
+- Reference
 ### S
 #### Solere
 - (Verb intransitive)to be in the habit of

@@ -6,7 +6,7 @@
 - Il Principe di Niccolo 
   - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
     - Process 1:(Read for learning italian)
-      - Progress: 4/102
+      - Progress: 4/102 Para 1 Line 3
   - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
   - **A higher level of reading efficiency requires at least Italian C1 level to unlock** | Your level: Lower B1
   - Progress(Slow language learning)

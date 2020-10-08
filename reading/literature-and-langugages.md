@@ -29,3 +29,9 @@
     - [link1](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
     - Process 1:(Completely out of interest and burnout recovery)
       - Progress: 3/211
+
+# Language acquisition
+- Principles and Practice in Second Language Acquisition - Stephen Kraschen
+  - [link1](http://www.sdkrashen.com/content/books/principles_and_practice.pdf)
+- Fluent forever
+  - [Fluent Forever Summary and Review](https://lifeclub.org/books/fluent-forever-gabriel-wyner-review-summary)

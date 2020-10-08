@@ -61,16 +61,13 @@
 - Video games
 ## French
 - Video games
-- Romans
+- Reading
 - Lingodeer
-- Get stimulations by looking up conjugaison of verbs in the search engine
 ## Italian
 - Lingodeer
-- Get stimulations by looking up *coniugazione* of verbs in the search engine
+- Reading
 
 ## Russian
-- Get familiar with the typewriting first
-  - Goal: At least 40 WPM
 - Lingodeer(After finishing French and Italian)
 ## Spanish & Portuguese
 - Lingodeer(After finishing Russian)
@@ -79,13 +76,14 @@
   - Typewriting practice
 ## Korean
 - Lingodeer(After finishing Japanese)
-## Arabic
-- Requires serious learning if started, note taking required
 ## Greek
-- Requires serious learning if started, note taking required
+- Typewriting: untrained/20WPM
 ## Latin
-- Requires serious learning if started, note taking required
-
+- Unlock after reaching Greek level B1
+## Arabic
+- Unlock after reaching reaching Latin level B1
+## Hebrew
+- Unlock after you succeeded in your life and have no better stuff to do except learning this weird old language.
 
 # P.O.I
 - Steve Kaufmann
@@ -138,8 +136,7 @@
 
 
 # Strategy
-- No grammar included in this section
-
+- For vocabulary store, you can delete some elements you are familiar with for better development
 
 # Type writing
 - Technique

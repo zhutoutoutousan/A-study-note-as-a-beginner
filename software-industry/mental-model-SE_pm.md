@@ -67,6 +67,7 @@
               - [Code](#fxxkingsassloaderconfig)
     - Parcel
       - Less configuration, easier to use
+      - Automatically install dependecies when serving on save
 - UI-DX
   - Template engine
     - CSS

@@ -37,7 +37,7 @@
     - [List of events](#list-of-events)
       - [Mouse](#mouse)
       - [Keyboard](#keyboard)
-    - [Event Listener](#event-listener)
+    - [`GlobalEventHandlers`](#globaleventhandlers)
     - [Keyboard event](#keyboard-event)
       - [Hotkey](#hotkey)
         - [```eventListener + keyup + code + switch case```](#eventlistener--keyup--code--switch-case)
@@ -114,7 +114,7 @@
   - [Attributes](#attributes)
     - [Target](#target)
       - [closest](#closest)
-  - [Event Listener](#event-listener-1)
+  - [Event Listener](#event-listener)
     - [Syntax](#syntax)
   - [Event Loop](#event-loop)
     - [Resource](#resource)
@@ -223,7 +223,10 @@ while(currentNode) {
 #### Keyboard
 - keyup
 - keydown
-### Event Listener
+### `GlobalEventHandlers`
+- onBlur
+  - [What is the difference between onBlur and onChange attribute in HTML?](https://stackoverflow.com/questions/785099/what-is-the-difference-between-onblur-and-onchange-attribute-in-html)
+- onChange
 ### Keyboard event
 #### Hotkey
 ##### ```eventListener + keyup + code + switch case```

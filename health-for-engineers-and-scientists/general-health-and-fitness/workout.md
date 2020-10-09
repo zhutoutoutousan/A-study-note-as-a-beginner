@@ -358,17 +358,7 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-  - Day 20
-    - Recovery state:
-      - Infection symptom fairly recovered
-      - Neural damage: Lower back still weak
-    - Chest day
-      - Barbell bench press 5-8RM 6SETS
-      - Seat crossover 5-8RM 5SETS
-      - Seated push 4-8RM 4SETS
-      - Incline bench press 5-8RM 5SETS
-      - Cable LC press 6-8RM 3SETS
-    - 30 minutes bike ride
+- Already enough for plan
 ## Gallary of plans
 - Delete the plans once you have finished one
 - If a plan is really good, showing good results, then make some template elements and start from there
@@ -421,3 +411,8 @@
     - Cable HC press 6-8RM 3SETS
     - Cable LC press 6-8RM 3SETS
   - 30 minutes bike ride
+- Day 7
+  - Shoulder Day
+  - Status
+    - 3 hours' sleep, strangely I felt great, with coffee of course
+    - Sign of recovery of infection

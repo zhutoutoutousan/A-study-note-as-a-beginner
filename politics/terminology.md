@@ -22,6 +22,7 @@
     - [David strategy](#david-strategy)
     - [Demopraphy](#demopraphy)
     - [Disparage](#disparage)
+    - [Dispossessed](#dispossessed)
     - [Dividend](#dividend)
   - [E](#e)
     - [Echo chamber](#echo-chamber)
@@ -37,7 +38,7 @@
     - [Examples of feudalism  封建](#examples-of-feudalism-封建)
     - [Eugenics](#eugenics)
   - [F](#f)
-    - [FascistS](#fascists)
+    - [Fascist](#fascist)
     - [First Gulf War](#first-gulf-war)
   - [G](#g)
     - [Geopolitics](#geopolitics)
@@ -134,6 +135,7 @@
 ### David strategy
 ### Demopraphy
 ### Disparage
+### Dispossessed
 ### Dividend
 ## E
 ### Echo chamber
@@ -160,7 +162,7 @@
   - Influenced entities
     - The body type theory - Somatotypes
 ## F
-### FascistS
+### Fascist
 ### First Gulf War
 - Took place in 1991
 ## G

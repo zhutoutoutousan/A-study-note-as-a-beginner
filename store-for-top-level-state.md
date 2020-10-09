@@ -78,6 +78,8 @@
 ### Binomial Expansion
 - [codewar - binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b/train/javascript)
 ### Trim down to easier version first
+- Dynamic programming
+  - [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw&t=186s)
 - [Binary Tree Maximum Path Sum - leetcode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - Basic training
     - [ ] Javascript-algorithm --> binary-tree --> CS mental-model 

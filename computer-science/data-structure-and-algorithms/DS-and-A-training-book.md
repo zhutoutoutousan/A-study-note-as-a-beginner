@@ -1,11 +1,17 @@
 # Table of Content
 - [Table of Content](#table-of-content)
+- [What is learned](#what-is-learned)
 - [Code it on platforms](#code-it-on-platforms)
-- [Code it the hard way](#code-it-the-hard-way)
+- [Monitor](#monitor)
 - [Resource](#resource)
-  - [Training ground](#training-ground)
-- [Watch it](#watch-it)
 - [Read it](#read-it)
+
+# What is learned
+- Coding along `javascript-algorithm` is a bad idea, at least for this one. Remember why people use straps when doing the deadlift? It's for focusing on the posterior chain without the limiting factor of the grip strength. In this case, your muscle memory and the typing proficiency, or even the code-hand connection are not the limiting factor. The true limiting factors are: 
+  - **Construction of neural pathways for problem solving techniques**
+  - **Construction of mental model for algorithms and data structure** 
+  - **Connection between ideas/mental models/neural pathways and code implementation**
+  - **Problem solving proficiency**
 
 # Code it on platforms
 - Leetcode
@@ -13,21 +19,15 @@
 - Hackerrank
 
 
-# Code it the hard way
-- Judging factor
-  - Primitive
-    - Coding along
-    - Basic ideas
-    - Vague memory
-  - Intermediate
-    - Code-mentalModel connection
-  - Advanced
-    - Experience more to unlock
-
-- Paradigm 1
+# Monitor
+- Paradigm 1 
   - Stage 1
     - REP 1
       - Problem solving technique
+        - Dynamic programming
+          - [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw&t=186s)
+          - Optional
+            - Try observe the callstack in Google Chrome DevTool for Fibonacci Memoized solution
         - Divide and conquer
         - Recursion
         - Sliding window
@@ -38,23 +38,17 @@
       - Data structure
         - Doubly Linked List
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/doubly-linked-list)
-            - No need to code along
         - Queue
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/queue)
-            - Code along
         - Stack
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/stack)
-            - Code along
         - Heap
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/heap)
-            - Code along
         - Priority queue
           - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/priority-queue)
-            - Code along
         - Tree
           - Binary tree
             - [entry](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/tree)
-              - Code along
               - Pair with
                 - HashTable
                 - LinkedList
@@ -97,193 +91,9 @@
 - Paradigm 3
 - REVIEW AND RESET
 
-
-
 # Resource
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 
-## Training ground
-
-```javascript
-// Use Comparator
-// Use HashTable
-
-// tree
-class BinaryTreeNode {
-  constructor(value = null) {
-    this.left = null;
-    this.right = null;
-    this.parent = null;
-    this.value = value;
-  }
-
-  // Any node related meta information may be stored here.
-  this.meta = new HashTable();
-
-  // This comparator is used to compare binary tree nodes with each other
-  this.nodeComparator = new Comparator();
-
-  get leftHeight() {
-    if (!this.left) {
-      return 0;
-    }
-
-    return this.left.height + 1;
-  }
-
-  get rightHeight() {
-    if (!this.right) {
-      return 0;
-    }
-
-    return this.right.height + 1;
-  }
-
-  get height() {
-    return Math.max(this.leftHeight, this.rightHeight)
-  }
-
-  get balanceFactor() {
-    return this.leftHeight - this.rightHeight;
-  }
-
-  get uncle() {
-    // Check if current node has parent;
-    if (!this.parent) {
-      return undefined;
-    }
-
-    // Check if current node has grand-parent
-    if (!this.parent.parent) {
-      return undefined;
-    }
-
-    // Check if grand-parent has two children.
-    if (!this.parent.parent.left || !this.parent.parent.right) {
-      return undefined;
-    }
-
-    // So for now we know that current node has grand-parent and this
-    // grand-parent has two children. Let's find out who is the uncle.
-    if (this.nodeComparator.equal(this.parent, this.parent.parent.left)) {
-      // Right one is an uncle
-      return this.parent.parent.right;
-    }
-
-    // Left one is an uncle
-    return this.parent.parent.left;
-  }
-
-  setValue(value) {
-    this.value = value;
-
-    return this;
-  }
-
-  setLeft(node) {
-    // Reset parent for left node since it is going to be detached.
-    if (this.left) {
-      this.left.parent = null;
-    }
-
-    // Attach new node to the left.
-    this.left = node;
-
-    // Make current node to be a parent for new left one.
-    if (this.left) {
-      this.left.parent = this;
-    }
-
-    return this;
-  }
-
-  setRight(node) {
-    // Reset parent for right node since it is going to be detached.
-    if(this.right) {
-      this.right.parent = null;
-    }
-
-    // Attach new node to the right.
-    this.right = node;
-
-    // Make current node to be a parent for new right one.
-    if(node) {
-      this.right.parent = this;
-    }
-
-    return this;
-  }
-
-  removeChild(nodeToRemove) {
-    if (this.left && this.nodeComparator.equal(this.left, nodeToRemove)) {
-      this.left = null;
-      return true;
-    }
-
-    if (this.right && this.nodeComparator.equal(this.right, nodeToRemove)) {
-      this.right = null;
-      return true;
-    }
-
-    return false;
-  }
-
-  replaceChild(nodeToReplace, replacementNode) {
-    if (!nodeToReplace || !replacementNode) {
-      return false;
-    }
-
-    if (this.left && this.nodeComparator.equal(this.left, nodeToReplace)) {
-      this.left = replacementNode;
-      return true;
-    }
-
-    if (this.right && this.nodeComparator.equal(this.right, nodeToReplace)) {
-      this.right = replacementNode;
-      return true;
-    }
-
-    return false;
-  }
-
-  static copyNode(sourceNode, targetNode) {
-    targetNode.setValue(sourceNode.value);
-    targetNode.setLeft(sourceNode.left);
-    targetNode.setRight(sourceNode.right);
-  }
-
-  traverseInOrder() {
-    let traverse = [];
-
-    if(this.left) {
-      traverse = traverse.concat(this.left.traverseInOrder());
-    }
-  }
-}
-
-```
-
-
-```javascript
-// graph
-class Graph {
-  constructor(isDirected = false) {
-    this.vertices = {};
-    this.edges = {};
-    this.isDirected = isDirected;
-  }
-}
-```
-
-
-# Watch it
-- [Dynamic programming - MIT](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
-  - Progress control: 12:13
-  - Optional Prerequisites
-    - [MIT - divide and conquer FFT](https://www.youtube.com/watch?v=iTMn0Kt18tg)
-    - [MIT - Divide and Conquer - Convex hull Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU)
-  - Time Complexity reasoning: 11:00
-  - Introduce memoized DP algorithm: 11:30+
 
 # Read it
 - Check *reading* section, finish the *Introduction to algorithms* and implement the idea in C

@@ -2,6 +2,12 @@
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Heuristics](#heuristics)
+- [Activities hierarchy(Simultaneous)](#activities-hierarchysimultaneous)
+  - [Tier 1](#tier-1)
+  - [Tier 2](#tier-2)
+  - [Tier 3](#tier-3)
+  - [Tier 4](#tier-4)
+  - [Tier 5](#tier-5)
 - [Software engineering](#software-engineering)
   - [When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier](#when-prettierrequireconfig-is-true-and-no-config-exists-extension-should-not-try-to-load-prettier)
 - [Mathematics, DS & As](#mathematics-ds--as)
@@ -38,6 +44,28 @@
 - First checkpoint: Once you understand the nature of a problem and is ready to construct the mental model without furthur clues.
   - That you can construct and polish the mental model.
   - Once the mental model recollected during the leisure time is mature, you can immediately get back to the problem, this note serves as a quick state recovery tool.
+
+
+# Activities hierarchy(Simultaneous)
+- Heuristics for exploring the nuance in multi-tasking
+## Tier 1
+- DS & A
+- Mathematics
+- Computer Science
+- More
+## Tier 2
+- Project development
+## Tier 3
+- Video tutorial
+- Software development skills acquisition(New)
+
+## Tier 4
+- Front-end HTML,CSS,JS--> Codepen practice
+
+## Tier 5
+- Rigorous reading(Liberal Arts)
+- Podcast, music(background)
+- Language study
 
 # Software engineering
 ## When "prettier.requireConfig" is true and no config exists extension should not try to load Prettier

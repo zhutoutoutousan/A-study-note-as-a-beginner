@@ -173,3 +173,21 @@
     - Build a multi-dimensional "hashmap" for future skimming
   - Quick training progress restoration
 # Iconic files for demonstration
+- Top level state restoration
+  - [link](./store-for-top-level-state.md)
+  - Store the ideas, random thoughts, unsolved mathematic/data structure and algorithms questions for future return
+  - Good for top-level issues that at that very time you don't have the energy or time to resolve
+- Roadmap
+  - [Web development roadmap](./software-industry/Roadmap-web-dev.md)
+  - Used to store customized study resource as well as your progress to the level of detail you desire.
+- Mental model
+  - [Mental model for Software Engineering - Project management](./software-industry/mental-model-SE_pm.md)
+  - The mental model(data structure pattern) you want to build to speed up the quality study progress
+- Customized dictionary
+  - [Software Customized dictionary](./software-industry/terminology-SW.md)
+  - [Psychology Customized dictionary](./psychology/terminology-PSY.md)
+  - [Language/language-instances/italian/general-vocabulary-it](./language/language-instances/italian/general-vocabulary-it.md)
+- Reading progress track
+  - [Software](./reading/software.md)
+- Chaos
+  - Actually all of those above were entirely chaos several months ago. Order is obtained from all those chaos by default.

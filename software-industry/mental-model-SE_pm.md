@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Trivia?](#trivia)
+- [General](#general)
 - [Front-end](#front-end)
   - [UI/UX](#uiux)
     - [Tools and gadgets](#tools-and-gadgets)
@@ -14,6 +15,17 @@
 
 # Trivia?
 - Contents in quotes, you can just use `npm i -D? \[quotedName\]`
+
+
+# General
+- File manipulation
+  - "glob"
+    - Match files using the patterns the shell uses, like stars and stuff.
+    - [RTFM](https://github.com/isaacs/node-glob)
+    - [File Globbing In Linux](https://www.youtube.com/watch?v=hQyXuuBbCOo)
+    - Source code study progress track
+      - Why study
+      - [RTFM](https://github.com/isaacs/node-glob)
 
 # Front-end
 ## UI/UX

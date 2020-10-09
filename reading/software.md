@@ -152,7 +152,6 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - [Linux - github](https://github.com/eiiches/linux) 
     - Status: Looking around, get familiar with it first
       - Is there any close resource for reference?
-
 - Front-end framework
   - Vue 
     - [vue-next - github](https://github.com/vuejs/vue-next)
@@ -160,6 +159,13 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - React
     - [react - github](https://github.com/facebook/react)
     - Status: Not yet
+- Knowledge base
+  - Raneto
+    - [Portal](https://github.com/gilbitron/Raneto)
+    - Status: Studying as shown in those processes
+    - Process 1: Study dependencies for more project management proficiencies
+    - Process 2: Get the hang of the project architecture
+    - Process 3: Study to give an idea how to solve the nested directories problem
 - Browser working principle
   - Chromium
 - Game development

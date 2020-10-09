@@ -48,16 +48,18 @@
     - [Execusion context 执行上下文](#execusion-context-执行上下文)
     - [Express](#express)
   - [F](#f)
+    - [```flex```](#flex)
     - [```flex-grow``` 增长比例](#flex-grow-增长比例)
     - [```flex-shrink``` 回缩比例](#flex-shrink-回缩比例)
     - [Flux application architecture](#flux-application-architecture)
   - [G](#g)
     - [Gtk APP](#gtk-app)
   - [H](#h)
-    - [Hook](#hook)
     - [HTML](#html)
     - [HTML5](#html5)
+    - [HTTP](#http)
     - [HTTP routing](#http-routing)
+    - [HTTP Strict-Transport-Security](#http-strict-transport-security)
   - [I](#i)
     - [IDE](#ide)
     - [IEEE 802](#ieee-802)
@@ -321,21 +323,29 @@ A group of servers that stores your data
   - Open source
   - Has a huge community and support from anything that has to do with APIs in Node.js
 ## F
+### ```flex```
+- RTFM
 ### ```flex-grow``` 增长比例
 ### ```flex-shrink``` 回缩比例
 ### Flux application architecture
 ## G
 ### Gtk APP
 ## H
-### Hook
 ### HTML
 - sadas
   - HTML is case-insensitive
 
 ### HTML5
 - [HTML5 mobile app or native? It depends](https://techbeacon.com/app-dev-testing/html5-mobile-app-or-native-it-depends)
+### HTTP
+- MDN reading progress track
+  - HTTP headers
 ### HTTP routing
 - [Heroku](https://devcenter.heroku.com/articles/http-routing)
+
+### HTTP Strict-Transport-Security
+- The **HTTP Strict-Transport-Security** response header(HSTS) lets a website tell browsers that it should only be accessed using HTTPS, instead of using HTTP.
+- [RTFM](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
 ## I
 ### IDE
 - IDE: Integrated Development Environment
@@ -430,12 +440,15 @@ A group of servers that stores your data
   - **Model**: The central components of the pattern. It is the application's dynamic data structure, independent of the user interface. It directly manages the data, logic and rules of the application
     - Vue.js:
     - React.js:
+    - Express:
   - **View**: Any representation of information such as a chart, diagram or table.
     - Vue.js:
     - React.js:
+    - Express:
   - **Controller**: Accepts input and converts it to commands for the model or view
     - Vue.js:
     - React.js:
+    - Express:
   - **Service**: Between the controller and the model sometimes goes a layer which is called a service. It fetches data from the model and lets the controller use the fetched data.   
 ## N
 ### Name space

@@ -30,6 +30,7 @@
 - [CSS](#css)
   - [Logo design](#logo-design)
   - [Micellaneous observation](#micellaneous-observation)
+- [Architectual change for software engineering routine](#architectual-change-for-software-engineering-routine)
 - [Academic writing](#academic-writing)
 # Overview
 - This note is analogous to RAM in computer systems
@@ -231,6 +232,10 @@ var merge = function(nums1, m, nums2, n) {
 
 ## Micellaneous observation
 - Why is `scss scoped` in vue ecosystem not working for footer?
+
+# Architectual change for software engineering routine
+- Consider adding a workout session
+  - Chrome DevTool documentation speed reading(intermittent)
 
 # Academic writing
 - Consider migrating the *academic writing* part to *Language-->English*

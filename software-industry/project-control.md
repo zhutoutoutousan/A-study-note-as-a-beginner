@@ -81,7 +81,10 @@
     - [ ] Limited directory nesting depth
 - [wiki.js]
 # Front-end portfolio
-- [x] Completed
+- [x] Initial design
+- [ ] Documents
+- [ ] Issues
+  - [ ] For mobiles, the media query is not good
 # Chess game
 - [x] Chessboard
 - [ ] Game mechanics

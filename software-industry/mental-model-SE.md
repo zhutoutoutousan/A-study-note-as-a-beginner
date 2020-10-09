@@ -2,6 +2,8 @@
 ## Networking
 ### Architecture
 - [What happens when type google.com into your browser address box and hit enter? (Detailed Analysis)](https://www.youtube.com/watch?v=dh406O2v_1c)
+  - Difficulty point: 15:21/45:02 DNS lookup
+    - Require more proficiency in *Computer networking*, plz read some books or videos
   - **This video is really important dude, make sure you visit it back from time to time to help you build the mental model**
   - [View Cache Data With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/storage/cache)
   - [Cache - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Cache)

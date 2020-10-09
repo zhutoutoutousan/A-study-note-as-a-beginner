@@ -1,10 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Techniques](#techniques)
 - [Alphabetical](#alphabetical)
   - [A](#a)
     - [Abstraction](#abstraction)
     - [Accordion 折叠面板](#accordion-折叠面板)
     - [Agile development](#agile-development)
+    - [ALPN](#alpn)
     - [API](#api)
     - [Assertion](#assertion)
     - [```arguments```](#arguments)
@@ -39,8 +41,13 @@
     - [Destructuring](#destructuring)
     - [Devious](#devious)
     - [Discord](#discord)
+    - [DN(domain name)](#dndomain-name)
     - [DNS](#dns)
     - [DNS Cache poisoning](#dns-cache-poisoning)
+    - [DNS lookup](#dns-lookup)
+    - [DNS provider](#dns-provider)
+    - [DNS_rDNS](#dns_rdns)
+    - [DNS_DoH](#dns_doh)
   - [E](#e)
     - [Emmet](#emmet)
     - [Encapsulation](#encapsulation)
@@ -147,11 +154,13 @@
     - [Session tracking 会话跟踪](#session-tracking-会话跟踪)
     - [Server-Side rendering 服务端渲染](#server-side-rendering-服务端渲染)
     - [Service 服务](#service-服务)
+    - [Service worker](#service-worker)
     - [Servlet](#servlet)
     - [Snake case](#snake-case)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [SSH](#ssh)
+    - [SSL](#ssl)
     - [SSL striping](#ssl-striping)
     - [Stateless](#stateless)
     - [Static File Serving](#static-file-serving)
@@ -200,6 +209,13 @@
 - [中国特色](#中国特色)
   - [D](#d-1)
     - [DIV+CSS布局](#divcss布局)
+
+# Techniques
+- When you name something, try to use snake case to determine a hierarchical structure to express the relationship between the topic and the subtopic
+  - Problem: Just like hashmap, if you just use this, there would be a lot of collision, like some linklist got too long for there is only a few.
+    - Does it matter? You can just use Ctrl+F
+- Plz refactor the terminology
+
 # Alphabetical
 ## A
 ### Abstraction
@@ -207,7 +223,8 @@
 ### Accordion 折叠面板
 ### Agile development
 - [全栈必备 敏捷估点](https://cloud.tencent.com/developer/article/1192181)
-
+### ALPN
+- ALPN: Application-Layer Protocol Negotiation
 ### API
 - API: Application Programming Interface
 - (tldr, REST) a server that creates an HTTP interface for interacting with some data
@@ -299,9 +316,28 @@ A group of servers that stores your data
 - (adj)showing a skillful use of underhanded tactics to achieve goals
 ### Discord
 - Discord is a proprietary freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
+### DN(domain name)
+- [RTFM](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 ### DNS
+- DNS: Domain Name System
+- **DNS**(**Domain Name System**) is a hierarchical and decentralized naming system for Internet connected resources.
+- [RTFM - MDN](https://developer.mozilla.org/en-US/docs/Glossary/DNS)
+- [RTFM - wiki](https://en.wikipedia.org/wiki/Domain_Name_System)
 ### DNS Cache poisoning
 - [DNS Cache poisoning - Computerphile](https://www.youtube.com/watch?v=7MT1F0O3_Yw)
+### DNS lookup
+- [What happens when type google.com into your browser address box and hit enter? (Detailed Analysis)](https://www.youtube.com/watch?v=dh406O2v_1c)
+  - Difficulty point: 15:21/45:02 DNS lookup
+### DNS provider
+- GW
+- IP
+- MAC
+- EXIP
+### DNS_rDNS
+### DNS_DoH
+- DoH: DNS over HTTPS
+- [RTFM - wiki](https://de.wikipedia.org/wiki/DNS_over_HTTPS)
+- DNS over HTTPS ist ein Protokoll zur Durchführung einer DNS-Auflösung über das HTTPS-Protokoll.
 ## E
 ### Emmet
 - (vscode extension)When you type ```<div>```, ```.someClass```, vscode fill that for you
@@ -581,6 +617,10 @@ A cluster where each server stores the same data
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
 - a server running on a computer device, listening for requests at a particular port over a network, serving web documents(HTML, JSON, XML, images), and creating web application services, which serve in solving specific domain problems over the Web(WWW, Internet, HTTP).  See more at [wikipaedia](https://en.wikipedia.org/wiki/Web_service)
+
+### Service worker
+- Service workers essentially act as proxy servers that sit between web applications, the browser and the network(when available).
+- [RTFM - mdn](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 ### Servlet
 ### Snake case
 - snake_case
@@ -598,6 +638,7 @@ The term **Web service(WS)** is either:
   - Possible prerequisites
     - (Ubuntu)Introduction to Linux --> Networking
     - [Connecting Ubuntu Server to the Internet through Windows 10 laptop and Ethernet cable - Stack Exchange_Ubuntu](https://askubuntu.com/questions/1196264/connecting-ubuntu-server-to-the-internet-through-windows-10-laptop-and-ethernet)
+### SSL
 ### SSL striping
 ### Stateless
 ### Static File Serving

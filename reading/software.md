@@ -173,6 +173,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Status: Studying as shown in those processes
     - Process 1: Study dependencies for more project management proficiencies
     - Process 2: Get the hang of the project architecture
+      - [ ] Study task: Study Dan Abramov's mental model of JavaScript Modules
     - Process 3: Study to give an idea how to solve the nested directories problem
 - Browser working principle
   - Chromium

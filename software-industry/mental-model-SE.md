@@ -1,6 +1,7 @@
 # Front-line memory
 ## Networking
 ### Architecture
+- [What Happens When You Click a Link? - Computerphile](https://www.youtube.com/watch?v=keo0dglCj7I)
 - [What happens when type google.com into your browser address box and hit enter? (Detailed Analysis)](https://www.youtube.com/watch?v=dh406O2v_1c)
   - Difficulty point: 15:21/45:02 DNS lookup
     - Require more proficiency in *Computer networking*, plz read some books or videos

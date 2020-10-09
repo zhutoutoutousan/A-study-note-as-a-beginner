@@ -307,7 +307,6 @@ const SearchParams = () => {
 
   return (
     <div className="search-params">
-     
       <form>
         <label htmlFor="location">
           Location

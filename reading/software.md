@@ -13,6 +13,7 @@
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
+- [Engineering](#engineering)
 - [Source code study](#source-code-study)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
@@ -142,6 +143,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Operating system working principle
 
 
+# Engineering
+- Design Patterns Elements of Reusable Object-Oriented Software
+  - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 # Source code study
 - Operating system
   - Linux

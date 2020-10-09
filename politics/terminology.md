@@ -60,6 +60,7 @@
     - [Monarchy](#monarchy)
     - [Monopoly](#monopoly)
   - [N](#n)
+    - [Nationalist](#nationalist)
     - [Nudge Theory](#nudge-theory)
   - [O](#o)
     - [Online shaming](#online-shaming)
@@ -87,6 +88,7 @@
   - [S](#s)
     - [Scatology](#scatology)
     - [State-owned bank](#state-owned-bank)
+    - [Social fabric](#social-fabric)
     - [Social stratification](#social-stratification)
     - [Superpower](#superpower)
     - [SOE](#soe)
@@ -96,6 +98,7 @@
     - [Turmoil](#turmoil)
     - [Two-party systems](#two-party-systems)
   - [U](#u)
+    - [Universalist](#universalist)
     - [Uprootedness](#uprootedness)
     - [Urbanization](#urbanization)
   - [W](#w)
@@ -181,6 +184,7 @@
 ### Monarchy
 ### Monopoly
 ## N
+### Nationalist
 ### Nudge Theory
 ## O
 ### Online shaming
@@ -224,6 +228,7 @@
 ### Scatology
 - Used to report the act of saying 'shit' by some high-profile political figures
 ### State-owned bank
+### Social fabric
 ### Social stratification
 - **Social stratification** refers to a society's categorization of its people into groups based on socioeconomic factors like wealth, income, race, education, ethnicity, gender, occupation, social status, or derived power(social and political).
 ### Superpower
@@ -241,6 +246,7 @@
 
 ### Two-party systems
 ## U
+### Universalist
 ### Uprootedness
 ### Urbanization
 

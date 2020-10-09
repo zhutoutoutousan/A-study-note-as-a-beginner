@@ -65,6 +65,8 @@
             - When working with vue-cli
             - [vue-cli4项目引入sass的坑 Cannot read property ‘style-resources-loader‘ of undefined](https://blog.csdn.net/daxianghaoshuai/article/details/108375862)
               - [Code](#fxxkingsassloaderconfig)
+    - Parcel
+      - Less configuration, easier to use
 - UI-DX
   - Template engine
     - CSS
@@ -89,10 +91,16 @@
   - Insomnia/Postman
 # Back-end
 - Node.js
-  - "node-sass"
-    - Issues
-    - [Support for Node V12 - GitHub](https://github.com/sass/node-sass/issues/2632)
-    - Maybe just try again after a while
+  - Resource handler
+    - "node-sass"
+      - Issues
+      - [Support for Node V12 - GitHub](https://github.com/sass/node-sass/issues/2632)
+      - Maybe just try again after a while
+  - Networking
+    - "body-parser"
+      - [RTFM](https://github.com/expressjs/body-parser)
+      - [Node.js - Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+      - Study more on HTTP, browser architecture to unlock furthur study
 - Mongodb
   - "mongodb-memory-server"
 - DI/DX

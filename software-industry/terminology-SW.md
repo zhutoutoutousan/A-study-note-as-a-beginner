@@ -141,12 +141,17 @@
     - [Scalability](#scalability)
     - [Scope 作用域](#scope-作用域)
     - [SEO](#seo)
-    - [Server-Side rendering](#server-side-rendering)
-    - [Service](#service)
+    - [Session 会话](#session-会话)
+    - [Session tracking 会话跟踪](#session-tracking-会话跟踪)
+    - [Server-Side rendering 服务端渲染](#server-side-rendering-服务端渲染)
+    - [Service 服务](#service-服务)
+    - [Servlet](#servlet)
     - [Snake case](#snake-case)
     - [Software architecture](#software-architecture)
     - [Software design pattern](#software-design-pattern)
     - [SSH](#ssh)
+    - [SSL striping](#ssl-striping)
+    - [Stateless](#stateless)
     - [Static File Serving](#static-file-serving)
     - [Static module bundler](#static-module-bundler)
     - [Status Code(HTTP)](#status-codehttp)
@@ -548,12 +553,22 @@ A cluster where each server stores the same data
 - [wiki](https://en.wikipedia.org/wiki/Scalability)
 ### Scope 作用域
 ### SEO
-### Server-Side rendering
+### Session 会话
+- A **session** is defined as a series of related browser requests that come from the same client during a certain time period.
+- [Advanced Internet Technology Lab - Session Tracking](http://site.iugaza.edu.ps/hmasry/files/Lab-8-Session-Tracking.pdf)
+### Session tracking 会话跟踪
+- **Session tracking** enables you to track a user's progress over multiple servlets or HTML pages, which, by nature, are stateless
+- [Advanced Internet Technology Lab - Session Tracking](http://site.iugaza.edu.ps/hmasry/files/Lab-8-Session-Tracking.pdf)
+- [Understanding Cookies and Sessions](http://www.lassosoft.com/Tutorial-Understanding-Cookies-and-Sessions)
+- [What is Session Tracking? | Servlets](https://www.youtube.com/watch?v=VLg7WV5L0S4&list=PLmCsXDGbJHdjMQ9fe9Mwl1jZ2gysxpbQJ)
+  - Require basic Java Proficiency level to unlock this tutorial
+### Server-Side rendering 服务端渲染
 - Nuxt.js
-### Service
+### Service 服务
 The term **Web service(WS)** is either:
 - a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web,or
 - a server running on a computer device, listening for requests at a particular port over a network, serving web documents(HTML, JSON, XML, images), and creating web application services, which serve in solving specific domain problems over the Web(WWW, Internet, HTTP).  See more at [wikipaedia](https://en.wikipedia.org/wiki/Web_service)
+### Servlet
 ### Snake case
 - snake_case
 ### Software architecture
@@ -570,6 +585,8 @@ The term **Web service(WS)** is either:
   - Possible prerequisites
     - (Ubuntu)Introduction to Linux --> Networking
     - [Connecting Ubuntu Server to the Internet through Windows 10 laptop and Ethernet cable - Stack Exchange_Ubuntu](https://askubuntu.com/questions/1196264/connecting-ubuntu-server-to-the-internet-through-windows-10-laptop-and-ethernet)
+### SSL striping
+### Stateless
 ### Static File Serving
 ### Static module bundler
 ### Status Code(HTTP)

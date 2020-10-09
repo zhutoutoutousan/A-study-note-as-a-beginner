@@ -368,7 +368,7 @@
 - [一名【合格】前端工程师的自检清单](https://juejin.im/post/6844903830887366670)
 - [Minimum Job Requirements in Development](https://www.youtube.com/watch?v=VvjkphEwHlQ)
   - Progress:
-
+- [写给初级前端的面试经验](https://juejin.im/post/6844903797848981512#heading-8)
 # Problem solving proficiency
 - Leetcode
 - Hackerrank

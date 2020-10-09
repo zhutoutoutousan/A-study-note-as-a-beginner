@@ -14,7 +14,7 @@
 - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
 - [Problem solving proficiency](#problem-solving-proficiency)
 - [Interview questions](#interview-questions)
-- [Web crawler of German Websites](#web-crawler-of-german-websites)
+- [Study web crawler design](#study-web-crawler-design)
   - [Design](#design)
     - [Functionality](#functionality)
   - [Tech-stack](#tech-stack)
@@ -179,13 +179,18 @@ a || (b && c)
 
 
 
-# Web crawler of German Websites
+# Study web crawler design
 ## Design
 ### Functionality
 ## Tech-stack
 - React
 ## Reference materials
-- [TweetScraper - github](https://github.com/jonbakerfish/TweetScraper)
+- Projects
+  - [TweetScraper - github](https://github.com/jonbakerfish/TweetScraper)
+  - [Crawlab](https://github.com/crawlab-team/crawlab)
+- P.O.I
+  - tikazyq(github)
+
 
 # 3D/VR personal knowledge base
 ## Progress

@@ -11,6 +11,7 @@
     - [API](#api)
     - [Resources](#resources)
   - [Front-end](#front-end)
+    - [Performance](#performance)
     - [HTML](#html)
       - [Template engine](#template-engine)
       - [Playgrounds](#playgrounds)
@@ -114,6 +115,10 @@
 - [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Front-end
+### Performance
+- Udacity: Website Performance Optimization
+  - [link](https://www.youtube.com/watch?v=GNAENzKdciQ&list=PLAwxTw4SYaPmKmNX-INgcxQWf30KuWa_A)
+  - Progress: 4/75
 ### HTML
 #### Template engine
 - pug

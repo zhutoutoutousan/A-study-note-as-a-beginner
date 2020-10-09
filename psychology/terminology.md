@@ -13,6 +13,7 @@
     - [Astrology](#astrology)
     - [Ausdruck](#ausdruck)
   - [B](#b)
+    - [BDSM](#bdsm)
     - [Bewußtsein](#bewußtsein)
     - [Bias](#bias)
   - [C](#c)
@@ -132,6 +133,7 @@
 ### Ausdruck
 - (German) m. Expression
 ## B
+### BDSM
 ### Bewußtsein
 - (German) n.  Consciousness 
 ### Bias

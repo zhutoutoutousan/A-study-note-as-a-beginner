@@ -19,6 +19,8 @@
   - [Non-cooperative game theory](#non-cooperative-game-theory)
 - [O](#o)
   - [Ordinal payoff](#ordinal-payoff)
+- [R](#r)
+  - [Regularization](#regularization)
 - [Z](#z)
   - [Zero-sum game](#zero-sum-game)
 # A
@@ -52,5 +54,7 @@
       - Interaction among firms in an industry in an environment where antitrust laws make it illegal for firms to reach agreements concerning prices or production quotas or other forms of collusive behavior
 # O
 ## Ordinal payoff
+# R
+## Regularization
 # Z
 ## Zero-sum game

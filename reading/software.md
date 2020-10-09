@@ -152,7 +152,15 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - [Linux - github](https://github.com/eiiches/linux) 
     - Status: Looking around, get familiar with it first
       - Is there any close resource for reference?
-- Front-end framework
+- Front-end
+  - Bootstrap
+    - Status: On
+      - Process 1: Study dependencies(package.json)
+        - Meteor
+          - [Build A Meteor.js App In 45 Minutes - Traversy Media](https://www.youtube.com/watch?v=9494-2E4riQ)
+            - Progress
+              - Code-playground follow along
+      - Process 2: Study project architecture
   - Vue 
     - [vue-next - github](https://github.com/vuejs/vue-next)
     - Status: Motivated, look around first

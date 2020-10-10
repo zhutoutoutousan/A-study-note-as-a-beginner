@@ -416,3 +416,8 @@
   - Status
     - 3 hours' sleep, strangely I felt great, with coffee of course
     - Sign of recovery of infection
+  - Exercise
+    - Overhead press 5-8RM 5SETS
+    - Side lateral raise 6-8RM 5SETS
+    - Banded front raise 6-8RM 5SETS
+    - Banded rear delts raise 6-8RM 5SETS

@@ -7,6 +7,7 @@
     - [Accordion 折叠面板](#accordion-折叠面板)
     - [Agile development](#agile-development)
     - [ALPN](#alpn)
+    - [Anaconda](#anaconda)
     - [API](#api)
     - [Assertion](#assertion)
     - [```arguments```](#arguments)
@@ -225,6 +226,8 @@
 - [全栈必备 敏捷估点](https://cloud.tencent.com/developer/article/1192181)
 ### ALPN
 - ALPN: Application-Layer Protocol Negotiation
+### Anaconda
+- [Official](https://www.anaconda.com/)
 ### API
 - API: Application Programming Interface
 - (tldr, REST) a server that creates an HTTP interface for interacting with some data

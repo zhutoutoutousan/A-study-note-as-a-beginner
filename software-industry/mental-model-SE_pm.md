@@ -92,6 +92,8 @@
   - Insomnia/Postman
 # Back-end
 - Node.js
+  - Project architecture
+    - [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
   - Resource handler
     - "node-sass"
       - Issues

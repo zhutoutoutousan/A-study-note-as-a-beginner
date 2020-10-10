@@ -150,9 +150,9 @@
   - Progress: 8:22/57:18
 
 ### Reference
-[From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  
-[我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
-[Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
+- [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/#.untubom74)  
+- [我如何零基础转行成为一个自信的前端](https://www.itcodemonkey.com/article/10603.html)  
+- [Vitaly Friedman: Dirty little front-end tricks - JSConf Iceland 2016](https://www.youtube.com/watch?v=DQk9TqO5ets)
 ## Back-end
 ### Programming language
 - AJAX and Node.js
@@ -237,8 +237,6 @@
       - Vuex part is progressed using only direct neurological path simulation
   - Advanced Vue.js Features from the Ground Up
     - More resources on Vue source code interpretation
-- Vuepress
-  - [github Repo study](https://github.com/vuejs/vuepress/tree/master/packages/docs/docs)
 ### React.js Path
 - React.js Path
   - [Entry](https://frontendmasters.com/learn/react/)

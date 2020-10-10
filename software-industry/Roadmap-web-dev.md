@@ -244,7 +244,8 @@
     - [Link](https://frontendmasters.com/courses/complete-react-v5/)
     - [Main study materials](https://btholt.github.io/complete-intro-to-react-v5/)
     - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
-    - Progress: Calling Pet API  2:19:25/5.5hrs
+    - Progress: Calling Pet API  3:15:25/5.5hrs
+      - Hook in different components: 2:26hr
 ### JavaScript/TypeScript
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)

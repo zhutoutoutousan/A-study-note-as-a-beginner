@@ -17,9 +17,13 @@
 - [Props](#props)
 - [Hook](#hook)
   - [Introduction](#introduction)
+  - [Cross-component communication](#cross-component-communication)
+  - [Effect hook](#effect-hook)
+- [DevTools](#devtools)
+  - [Technique](#technique)
 - [Router](#router)
 - [Troubleshoot](#troubleshoot)
-  - [Technique](#technique)
+  - [Technique](#technique-1)
   - [Uncaught SyntaxError: Unexpected token '<'](#uncaught-syntaxerror-unexpected-token-)
   - [Uncaught Invariant Violation: Target container is not a DOM element.](#uncaught-invariant-violation-target-container-is-not-a-dom-element)
   - [Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.](#uncaught-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined-you-likely-forgot-to-export-your-component-from-the-file-its-defined-in-or-you-might-have-mixed-up-default-and-named-imports)
@@ -327,6 +331,56 @@ export default SearchParams;
 
 
 ```
+
+## Cross-component communication
+```javascript
+// App.js ==> Sub1.js || Sub2.js
+
+// Sub1.js
+import React, { useState } from "react";
+import Sub2.js from './Sub2.js';
+
+const sub1 = () => {
+  // hook
+  const [hookContainer, hookSetter] = useState(initialHookContainerValue);
+  const [componentHookContainer, componentHookSetter] = useComponent(initialComponentHookContainerValue);
+
+  return (
+    // JSX
+    <useComponent />
+  )
+
+}
+
+
+// Sub2.js
+import React, { useState } from "react";
+
+const useComponent = (para1, defaultState, para2) => {
+  // Parent state passed by 'defaultState'
+  const [state, setState] = useState(defaultState);
+  const Component = () => (
+    // JSX
+  )
+  return [state,Component, setState];
+}
+
+export default useComponent;
+
+```
+
+## Effect hook
+- JSX rendered first before anything happens in `UseEffect`
+- Useful for UX: Give the user something to enjoy when waiting for something
+- [RTFM](https://reactjs.org/docs/hooks-effect.html)
+
+
+# DevTools
+- Chrome Extension
+
+## Technique
+- Dollar sign
+
 # Router
 
 # Troubleshoot

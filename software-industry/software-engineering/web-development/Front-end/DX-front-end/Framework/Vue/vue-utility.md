@@ -114,8 +114,8 @@
     - [Troubleshoot](#troubleshoot-1)
       - [Tag ```<...>``` has no matching end tag](#tag--has-no-matching-end-tag)
 - [Conventions](#conventions)
-# Vanilla JS vs Vue
 
+# Vanilla JS vs Vue
 # RTFM
 ## RTFM Scenarios
 - How to use Vue in your projects

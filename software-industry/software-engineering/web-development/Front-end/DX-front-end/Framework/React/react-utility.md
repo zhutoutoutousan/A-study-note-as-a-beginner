@@ -29,6 +29,9 @@
   - [Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.](#uncaught-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined-you-likely-forgot-to-export-your-component-from-the-file-its-defined-in-or-you-might-have-mixed-up-default-and-named-imports)
   - [Warning: Each child in a list should have a unique "key" prop.](#warning-each-child-in-a-list-should-have-a-unique-key-prop)
   - [Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.](#warning-failed-prop-type-you-provided-a-value-prop-to-a-form-field-without-an-onchange-handler-this-will-render-a-read-only-field-if-the-field-should-be-mutable-use-defaultvalue-otherwise-set-either-onchange-or-readonly)
+- [Unknown pattern for future review](#unknown-pattern-for-future-review)
+  - [API return](#api-return)
+  - [API cache](#api-cache)
 # RTFM
 ## RTFM resource
 [React Top-Level API](https://reactjs.org/docs/react-api.html#createelement)
@@ -373,7 +376,7 @@ export default useComponent;
 - JSX rendered first before anything happens in `UseEffect`
 - Useful for UX: Give the user something to enjoy when waiting for something
 - [RTFM](https://reactjs.org/docs/hooks-effect.html)
-
+- [Learn useEffect In 13 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=0ZJgIjIuY7U)
 
 # DevTools
 - Chrome Extension
@@ -449,3 +452,29 @@ export default function Pet{
 - [Stack Overflow - Understanding unique keys for array children in React.js](https://stackoverflow.com/questions/28329382/understanding-unique-keys-for-array-children-in-react-js)
 
 ## Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.
+
+
+# Unknown pattern for future review
+## API return 
+
+```javascript
+
+  useEffect(() => {
+    setBreeds([]);
+    setBreed("");
+    console.log(animal);
+    console.log(pet.breeds(animal).then((a) => console.log(a) ));
+
+// pet is an API that returns an promise that if accepted, returns an Object that contains 'breeds' array of ANIMAL OBJECTS, what does `{breeds : apiBreeds}` do under the hood?
+    pet.breeds(animal).then(({ breeds: apiBreeds }) => {
+      console.log(breeds);
+      console.log(apiBreeds);
+      const breedStrings = apiBreeds.map(({ name }) => name);
+      setBreeds(breedStrings);
+    }, error => console.error(error));
+  }, [animal, setBreed, setBreeds]);
+ 
+```
+
+## API cache
+`.cache`

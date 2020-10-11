@@ -55,6 +55,8 @@
     - Eslint
       - "babel-eslint"
       - "eslint"
+        - Issues
+          - Parse errors in imported module
       - "eslint-plugin-vue"
   - Bundling
     - Webpack
@@ -65,9 +67,14 @@
             - When working with vue-cli
             - [vue-cli4项目引入sass的坑 Cannot read property ‘style-resources-loader‘ of undefined](https://blog.csdn.net/daxianghaoshuai/article/details/108375862)
               - [Code](#fxxkingsassloaderconfig)
-    - Parcel
+    - "parcel"
       - Less configuration, easier to use
       - Automatically install dependecies when serving on save
+      - "parcel-bundler"
+        - Issues
+          - Cannot read property 'type' of undefined - Bundler.js
+            - [Cannot read property 'type' of undefined - github](https://github.com/parcel-bundler/parcel/issues/2749)
+            - Seems to be the problem with the vscode
 - UI-DX
   - Template engine
     - CSS

@@ -22,7 +22,8 @@
   - [Effect hook](#effect-hook)
 - [DevTools](#devtools)
   - [Technique](#technique)
-- [Router](#router)
+- [React/reach Router](#reactreach-router)
+  - [Router based data flow](#router-based-data-flow)
 - [Troubleshoot](#troubleshoot)
   - [Technique](#technique-1)
   - [Uncaught SyntaxError: Unexpected token '<'](#uncaught-syntaxerror-unexpected-token-)
@@ -31,9 +32,13 @@
   - [Warning: Each child in a list should have a unique "key" prop.](#warning-each-child-in-a-list-should-have-a-unique-key-prop)
   - [Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.](#warning-failed-prop-type-you-provided-a-value-prop-to-a-form-field-without-an-onchange-handler-this-will-render-a-read-only-field-if-the-field-should-be-mutable-use-defaultvalue-otherwise-set-either-onchange-or-readonly)
   - [Uncaught ReferenceError: regeneratorRuntime is not defined](#uncaught-referenceerror-regeneratorruntime-is-not-defined)
+  - [Uncaught Invariant Violation: <Router>: Children of <Router> must have a `path` or `default` prop, or be a `<Redirect>`.](#uncaught-invariant-violation-router-children-of-router-must-have-a-path-or-default-prop-or-be-a-redirect)
 - [Unknown pattern for future review](#unknown-pattern-for-future-review)
+  - [Difference of `/` and `./` in React router](#difference-of--and--in-react-router)
   - [API return](#api-return)
   - [API cache](#api-cache)
+  - [Vscode automatic import component](#vscode-automatic-import-component)
+- [P.O.I](#poi)
 # RTFM
 ## RTFM resource
 [React Top-Level API](https://reactjs.org/docs/react-api.html#createelement)
@@ -420,7 +425,63 @@ export default useComponent;
 ## Technique
 - Dollar sign
 
-# Router
+# React/reach Router
+- Reach router frees you from dealing with much accessibility issues compared to React router
+## Router based data flow
+```JSX
+// ----  App.js
+// import all bunch of stuffs
+const App = () => {
+  return (
+    <React.StrictMode>
+    <div>
+      <h1 id="something-important">Adopt Me!</h1>
+      <Router>
+        <SearchParams path="/" />
+        <Details path="/details/:id" />
+      </Router>
+
+
+    </div>
+    </React.StrictMode>
+  );
+};
+render(<App />, document.getElementById("root"));
+
+// --- Details
+import React from 'react';
+
+const Details = (props) => {
+return <pre><code>{JSON.stringify(props, null, 4)}</code></pre>
+}
+
+export default Details;
+
+// The details returns on the page routed
+// Adopt Me!
+// {
+//     "path": "/details/:id",
+//     "id": "44594159",
+//     "uri": "/details/44594159",
+//     "location": {
+//         "pathname": "/details/44594159",
+//         "search": "",
+//         "hash": "",
+//         "href": "http://localhost:1234/details/44594159",
+//         "origin": "http://localhost:1234",
+//         "protocol": "http:",
+//         "host": "localhost:1234",
+//         "hostname": "localhost",
+//         "port": "1234",
+//         "state": null,
+//         "key": "initial"
+//     }
+// }
+
+
+
+```
+
 
 # Troubleshoot
 ## Technique
@@ -493,7 +554,12 @@ export default function Pet{
 ## Uncaught ReferenceError: regeneratorRuntime is not defined
 - [Parcel, how to fix the `regeneratorRuntime is not defined` error](https://flaviocopes.com/parcel-regeneratorruntime-not-defined/)
 
+## Uncaught Invariant Violation: <Router>: Children of <Router> must have a `path` or `default` prop, or be a `<Redirect>`. 
+
 # Unknown pattern for future review
+## Difference of `/` and `./` in React router
+- Use `/` 
+
 ## API return 
 
 ```javascript
@@ -517,3 +583,10 @@ export default function Pet{
 
 ## API cache
 `.cache`
+
+## Vscode automatic import component
+- How to get vscode automatically import a component when I input `<Component />`?
+
+# P.O.I
+- Dan Abramov
+- Ryan Florence

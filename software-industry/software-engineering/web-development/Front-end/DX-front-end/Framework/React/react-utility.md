@@ -17,7 +17,8 @@
 - [Props](#props)
 - [Hook](#hook)
   - [Introduction](#introduction)
-  - [Cross-component communication](#cross-component-communication)
+  - [One-way data flow](#one-way-data-flow)
+  - [Cross-component hook communication](#cross-component-hook-communication)
   - [Effect hook](#effect-hook)
 - [DevTools](#devtools)
   - [Technique](#technique)
@@ -335,7 +336,39 @@ export default SearchParams;
 
 ```
 
-## Cross-component communication
+## One-way data flow
+```javascript
+import React from 'react';
+import Pet from './Pet';
+
+const Results = ({ pets }) => {
+    return (
+        <div className="search">
+            {pets.length === 0 ? (
+                            <h1>No PPets Found</h1>
+                            ) : (
+                                pets.map( pet => (
+                                    <Pet
+                                        animal={pet.type}
+                                        key={pet.id}
+                                        name={pet.name}
+                                        breed={pet.breeds.primary}
+                                        media={pet.photos}
+                                        location={`${pet.contact.address.city}, ${pet.contact.address.state}`}
+                                        id={pet.id}
+                                    />
+                                 )
+                                )
+                            )}
+        </div>
+    );
+    }
+
+```
+
+
+
+## Cross-component hook communication
 ```javascript
 // App.js ==> Sub1.js || Sub2.js
 
@@ -377,6 +410,8 @@ export default useComponent;
 - Useful for UX: Give the user something to enjoy when waiting for something
 - [RTFM](https://reactjs.org/docs/hooks-effect.html)
 - [Learn useEffect In 13 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=0ZJgIjIuY7U)
+
+
 
 # DevTools
 - Chrome Extension

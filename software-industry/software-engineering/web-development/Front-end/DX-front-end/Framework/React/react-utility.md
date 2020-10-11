@@ -30,6 +30,7 @@
   - [Uncaught Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.](#uncaught-error-element-type-is-invalid-expected-a-string-for-built-in-components-or-a-classfunction-for-composite-components-but-got-undefined-you-likely-forgot-to-export-your-component-from-the-file-its-defined-in-or-you-might-have-mixed-up-default-and-named-imports)
   - [Warning: Each child in a list should have a unique "key" prop.](#warning-each-child-in-a-list-should-have-a-unique-key-prop)
   - [Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.](#warning-failed-prop-type-you-provided-a-value-prop-to-a-form-field-without-an-onchange-handler-this-will-render-a-read-only-field-if-the-field-should-be-mutable-use-defaultvalue-otherwise-set-either-onchange-or-readonly)
+  - [Uncaught ReferenceError: regeneratorRuntime is not defined](#uncaught-referenceerror-regeneratorruntime-is-not-defined)
 - [Unknown pattern for future review](#unknown-pattern-for-future-review)
   - [API return](#api-return)
   - [API cache](#api-cache)
@@ -488,6 +489,9 @@ export default function Pet{
 
 ## Warning: Failed prop type: You provided a `value` prop to a form field without an `onChange` handler. This will render a read-only field. If the field should be mutable use `defaultValue`. Otherwise, set either `onChange` or `readOnly`.
 
+
+## Uncaught ReferenceError: regeneratorRuntime is not defined
+- [Parcel, how to fix the `regeneratorRuntime is not defined` error](https://flaviocopes.com/parcel-regeneratorruntime-not-defined/)
 
 # Unknown pattern for future review
 ## API return 

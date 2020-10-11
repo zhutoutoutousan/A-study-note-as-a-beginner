@@ -26,8 +26,9 @@
       - [```align-content: flex-start | flex-end | center```](#align-content-flex-start--flex-end--center)
       - [```flex```](#flex)
       - [```flex-basis: <length>```](#flex-basis-length)
-      - [```flex-grow: <number> ```](#flex-grow-number)
+      - [```flex-grow: <number> ```](#flex-grow-number-)
       - [```flex-shrink: <number>```](#flex-shrink-number)
+      - [`flex-direction`](#flex-direction)
       - [```flex: <integer>```](#flex-integer)
       - [```order:<integer>```](#orderinteger)
   - [Topics](#topics)
@@ -145,6 +146,8 @@ Training:
 - Go to 
 #### ```flex-grow: <number> ```
 #### ```flex-shrink: <number>```
+#### `flex-direction`
+- [Flexbox Tutorial - 5 - Flex direction](https://www.youtube.com/watch?v=ujXa2wQnAuU)
 #### ```flex: <integer>```
 #### ```order:<integer>```
 

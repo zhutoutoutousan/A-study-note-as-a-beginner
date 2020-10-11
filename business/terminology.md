@@ -24,6 +24,7 @@
   - [I](#i)
     - [IPO](#ipo)
   - [L](#l)
+    - [Liquidity](#liquidity)
     - [Logic 逻辑（商业）](#logic-逻辑商业)
   - [M](#m)
     - [Monetary](#monetary)
@@ -94,6 +95,8 @@
 - IPO: Initial Public Offering
 - [wiki](https://en.wikipedia.org/wiki/Initial_public_offering)
 ## L
+### Liquidity
+- **Liquidity** refers to the ease with which an asset, or security, can be converted into ready cash without affecting its market price. Cash is the most liquid of assets while tangible items are less liquid and the two main types of **liquidity** include market **liquidity** and accounting **liquidity**
 ### Logic 逻辑（商业）
 - (business) See business logic
 

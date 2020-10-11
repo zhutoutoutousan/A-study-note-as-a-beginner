@@ -412,6 +412,8 @@
     - Cable LC press 6-8RM 3SETS
   - 30 minutes bike ride
 - Day 7
+  - Off day
+- Day 8 
   - Shoulder Day
   - Status
     - 3 hours' sleep, strangely I felt great, with coffee of course

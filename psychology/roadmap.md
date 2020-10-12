@@ -6,6 +6,7 @@
 
 # P.O.I
 - **Jorden B. Peterson**
+  - [Psychology 430H: Self-Deception](https://www.jordanbpeterson.com/classes/self-deception/)
 - **Carl Jung**
 - **Carl Roger**
 - Gabriel Tarde

@@ -440,8 +440,6 @@ const App = () => {
         <SearchParams path="/" />
         <Details path="/details/:id" />
       </Router>
-
-
     </div>
     </React.StrictMode>
   );

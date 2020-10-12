@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [A](#a)
   - [Action potential(Spike)](#action-potentialspike)
+  - [Aliasing](#aliasing)
   - [Arbor](#arbor)
   - [Axon](#axon)
     - [Myelinated axon](#myelinated-axon)
@@ -9,20 +10,28 @@
 - [B](#b)
   - [BDNF](#bdnf)
 - [C](#c)
+  - [CCD](#ccd)
   - [Cell assembly](#cell-assembly)
   - [CNS](#cns)
   - [Cortical](#cortical)
   - [Collaterals](#collaterals)
+  - [Convolution](#convolution)
+  - [CTD](#ctd)
   - [CTRL lab](#ctrl-lab)
 - [D](#d)
+  - [Decimation](#decimation)
   - [Deep brain stimulation](#deep-brain-stimulation)
   - [Dendrites](#dendrites)
     - [Dendrites.Dendritic-arbor](#dendritesdendritic-arbor)
   - [Descriptive models](#descriptive-models)
+  - [Discrete-time signal processing](#discrete-time-signal-processing)
   - [Dopamine](#dopamine)
   - [Demyelination](#demyelination)
 - [E](#e)
   - [Exc](#exc)
+  - [Expert system](#expert-system)
+- [F](#f)
+  - [FFT](#fft)
 - [G](#g)
   - [Glia](#glia)
     - [Astrocytes](#astrocytes)
@@ -31,6 +40,7 @@
     - [Microglia](#microglia)
     - [Trivia](#trivia)
 - [I](#i)
+  - [Interpolation](#interpolation)
   - [Interpretive models](#interpretive-models)
   - [IPS](#ips)
 - [L](#l)
@@ -59,7 +69,11 @@
   - [PCC](#pcc)
   - [PNS](#pns)
 - [S](#s)
+  - [Sampling rate](#sampling-rate)
+  - [SAW](#saw)
   - [Secretion](#secretion)
+  - [Signal interpretation](#signal-interpretation)
+  - [Signal processing](#signal-processing)
   - [Spinal cord](#spinal-cord)
 - [U](#u)
   - [Utah array](#utah-array)
@@ -67,6 +81,7 @@
   - [峰电位分类](#峰电位分类)
 # A
 ## Action potential(Spike)
+## Aliasing
 ## Arbor
 ## Axon
 ### Myelinated axon
@@ -76,25 +91,38 @@
 # B
 ## BDNF
 # C
+## CCD
+- charge-coupled device
 ## Cell assembly
 ## CNS
 Centeral nervous system
 ## Cortical
 ## Collaterals
+## Convolution
+## CTD
+- charge transport device
 ## CTRL lab
 # D
+## Decimation
 ## Deep brain stimulation
 ## Dendrites
 ### Dendrites.Dendritic-arbor
 ## Descriptive models
 Descriptive models summarize large amounts of experimental data compactly yet accurately, thereby characterizing what neurons and neural circuits do. [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
+## Discrete-time signal processing
+- *Discrete-time signal processing* includes digital signal processing as a special case, but also includes the possibility that sequences of samples(sampled data) are processed with other discrete-time technologies.
+
 ## Dopamine
 ## Demyelination
 # E
 ## Exc
+## Expert system
+# F
+## FFT
+- FFT: fast Fourier transform
 # G
 ## Glia
-Supporters of neurons
+- Supporters of neurons
 ### Astrocytes
 - Comprise about 20% of the glia cells
 - Cleaning up the wastes like excess ions, excess neuro-transmitters and their metabolites. 
@@ -114,6 +142,7 @@ Supporters of neurons
 - According to Suzana Herculane Hovzel, a human brain generally contains about 86 billion neurons and 85 billion glia with a ratio of 0.99.
 
 # I
+## Interpolation
 ## Interpretive models
 - [Theoretical-neuroscience Preface](../resource/theoretical-neuroscience.pdf)
 ## IPS
@@ -164,8 +193,14 @@ Myelin is a fatty wrap that goes around some axons.
 Peripheral nervous system
 
 # S
+## Sampling rate
+## SAW
+- SAW: surface acoustic wave
 ## Secretion
-[Secretion - wikipedia](https://en.wikipedia.org/wiki/Secretion)
+- [Secretion - wikipedia](https://en.wikipedia.org/wiki/Secretion)
+## Signal interpretation
+- ... In such problems the objectives of the processing is not to obtain an output signal but to obtain a characterization of the input signal.
+## Signal processing
 ## Spinal cord
 
 # U

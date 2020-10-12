@@ -423,3 +423,11 @@
     - Side lateral raise 6-8RM 5SETS
     - Banded front raise 6-8RM 5SETS
     - Banded rear delts raise 6-8RM 5SETS
+- Day 9
+  - Leg day
+  - Squat 5-8RM 5SETS
+  - Sumo deadlift 5-8RM 5SETS
+  - Calf raise 6-8RM 5SETS
+  - Banded hip pull 6-8RM 3SETS
+- Day 10
+  - Bicep and tricep

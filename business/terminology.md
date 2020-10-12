@@ -7,6 +7,7 @@
     - [Beauty Pageant](#beauty-pageant)
     - [Business logic 商业逻辑](#business-logic-商业逻辑)
   - [C](#c)
+    - [Cancel culture](#cancel-culture)
     - [Capitalism 资本主义](#capitalism-资本主义)
     - [Communism](#communism)
     - [Community marketing 社区营销](#community-marketing-社区营销)
@@ -15,6 +16,8 @@
   - [D](#d)
     - [D2C](#d2c)
     - [Deep work](#deep-work)
+    - [Defeatism culture 丧文化](#defeatism-culture-丧文化)
+    - [Defeatism marketing 丧营销](#defeatism-marketing-丧营销)
     - [Detonation product strategy 爆品策略](#detonation-product-strategy-爆品策略)
   - [F](#f)
     - [Fan economy 粉丝经济](#fan-economy-粉丝经济)
@@ -63,7 +66,7 @@
 - In computer software, business logic or domain logic is the part of the program that encodes the real-world business rules that determine how data can be created, stored, and changed.
 - [wiki](https://en.wikipedia.org/wiki/Business_logic)
 ## C
-
+### Cancel culture
 ### Capitalism 资本主义
 ### Communism 
 ### Community marketing 社区营销
@@ -78,6 +81,14 @@
 ### D2C
 ### Deep work
 - (Book) Check ```reading-heuristics```
+### Defeatism culture 丧文化
+- [如何评价现在流行的「丧文化」？](https://www.zhihu.com/question/49922788)
+- Related 
+  - The Catcher in the Rye
+  - Hea culture
+### Defeatism marketing 丧营销
+- [丧文化爆红背后的丧营销](https://zhuanlan.zhihu.com/p/31415441)
+- [从丧茶的“丧营销”说起，“丧”为何成为一种潮流？](https://www.yunyingpai.com/market/446527.html)
 ### Detonation product strategy 爆品策略
 - *在小米手机诞生以前，手机品牌大部分采用的机海战术——即根据特点市场需求制造多款手机，多渠道销售。而小米1走了与iPhone 同样的道路，即做一个爆款。爆品是小米最简单也是最根本的逻辑，2011年8月，小米只发布了一款手机，这款手机在当时的配置是顶级的，价钱基本是最低的，被大量抢购。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 ## F

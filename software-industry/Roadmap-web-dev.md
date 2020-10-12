@@ -6,6 +6,7 @@
 - [Roadmap](#roadmap)
   - [Stew](#stew)
   - [Software architecture](#software-architecture)
+  - [System design](#system-design)
   - [Full-stack](#full-stack)
     - [Database](#database)
     - [API](#api)
@@ -105,6 +106,9 @@
 
 ## Software architecture
 - [Wiki](https://en.wikipedia.org/wiki/Software_architecture)
+
+## System design
+
 
 ## Full-stack
 ### Database

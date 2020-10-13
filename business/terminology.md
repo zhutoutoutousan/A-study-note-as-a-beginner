@@ -4,6 +4,7 @@
   - [A](#a)
     - [Ausführung](#ausführung)
   - [B](#b)
+    - [Bankruptcy reorganization 破产重组](#bankruptcy-reorganization-破产重组)
     - [Beauty Pageant](#beauty-pageant)
     - [Business logic 商业逻辑](#business-logic-商业逻辑)
   - [C](#c)
@@ -57,6 +58,10 @@
 ### Ausführung
 - (German) Execution
 ## B
+### Bankruptcy reorganization 破产重组
+- [破产重组 - MBA智库](https://wiki.mbalib.com/wiki/%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84)
+- [美国两大汽车公司破产案件剖析](http://www.csrc.gov.cn/pub/newsite/ztzl/yjbg/201405/P020140528519420932187.pdf)
+- [如何看待上市公司破产重整](https://www.lexology.com/library/detail.aspx?g=67094cfe-d90e-4120-8829-7f811eefa4f4)
 ### Beauty Pageant
 - 选美本质上是一种以流水线式的标准产出用于框定大众心中主观审美感知，后通过大众传媒强行输出的“文化工业”
   - [新之说：被吐槽“越来越丑”，风光不再的“香港小姐”经历了什么？](https://www.youtube.com/watch?v=1v1NZh9uMMU)

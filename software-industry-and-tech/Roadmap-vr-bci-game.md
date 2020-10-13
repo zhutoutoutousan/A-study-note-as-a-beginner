@@ -15,8 +15,12 @@
       - [Design 设计](#design-设计)
       - [Architecture 架构](#architecture-架构)
       - [Engineering 工程](#engineering-工程)
-    - [Source code study 源码学习](#source-code-study-源码学习)
+    - [Study source 学习资源](#study-source-学习资源)
+      - [Official](#official)
+      - [GitHub](#github)
 - [VR 虚拟现实](#vr-虚拟现实)
+  - [Showcase](#showcase)
+  - [Prospect](#prospect)
   - [Optical model 光学模型](#optical-model-光学模型)
   - [Game model 游戏模型](#game-model-游戏模型)
   - [Application 应用](#application-应用)
@@ -74,12 +78,25 @@
 - Front-end 
 - Back-end
 - DevOps
+- Game
+  - Unity
+  - C#
 - Team play
-### Source code study 源码学习
+### Study source 学习资源
+#### Official
+- [Developer Google - VR](https://developers.google.com/vr/)
+#### GitHub
 - [volkflo - GitHub](https://github.com/volkflo/VR-ShowRoom)
+  - Prerequisites
+    - C#
 
 
 # VR 虚拟现实
+## Showcase
+- [Upload VR Showcase: Summer Edition 2020](https://www.youtube.com/watch?v=-Z9Zp9wzha0)
+## Prospect
+- [VR Headsets Are Dying A Lonely Death - Forbes](https://www.forbes.com/sites/barrycollins/2020/05/04/vr-headsets-are-dying-a-lonely-death/#1b43011a4d95)
+- [Stop Saying Virtual Reality Is Dying - Forbes](https://www.forbes.com/sites/joeparlock/2020/05/05/stop-saying-virtual-reality-is-dying/#6202e4fa646e)
 ## Optical model 光学模型
 - 全息投影
 

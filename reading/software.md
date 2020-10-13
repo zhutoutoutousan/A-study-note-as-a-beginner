@@ -149,8 +149,10 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 
 # Game development
+- C# all books
+  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
 - The C# Player’s Guide
-  - 
+  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
 # Source code study
 - Operating system
   - Linux

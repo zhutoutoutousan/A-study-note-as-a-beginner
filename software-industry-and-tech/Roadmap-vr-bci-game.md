@@ -1,5 +1,6 @@
 # Table of Contents 目录
 - [Table of Contents 目录](#table-of-contents-目录)
+- [KICK-START](#kick-start)
 - [How to make this roadmap more organized 如何使该路线图更加清晰](#how-to-make-this-roadmap-more-organized-如何使该路线图更加清晰)
 - [Cloud showroom 云展厅](#cloud-showroom-云展厅)
   - [Commercial model 商业模型](#commercial-model-商业模型)
@@ -31,6 +32,9 @@
 - [Project-oriented study 项目推动型学习](#project-oriented-study-项目推动型学习)
   - [Simple 3D VR game 简单的3D&VR游戏](#simple-3d-vr-game-简单的3dvr游戏)
 
+# KICK-START
+
+
 # How to make this roadmap more organized 如何使该路线图更加清晰
 - First you just can perform some BFS(Bredth-First-Search)  你可以先开始广度优先搜索，吸收尽可能多的信息，在某个Eureka Moment，可以将路线图的结构进行调整优化, 然后综合考虑进行深度优先搜索或者最佳优先搜索。
 - Don't get attached to it, make it functional 
@@ -46,8 +50,13 @@
 
 ## UI/UX for VR and Exhibition 虚拟现实展览的用户体验/界面
 ### Innovation 创新
+- WATCH MORE EXHIBITIONS 
+  - VIDEOS
+    - CES
+  - GO
 - Exhibit design as it self
   - [Here Are Best Exhibition Stand Ideas to Attract Maximum Visitors during the Show](https://www.expodisplayservice.com/here-are-best-exhibition-stand-ideas-to-attract-maximum-visitors-during-the-show/)
+  - [What is Innovative Exhibition Design?](https://blog.orselli.net/2015/01/what-is-innovative-exhibition-design.html)
 - Portals
   - [TechConnect World Innovation](https://www.techconnectworld.com/World2021/)
 - Innovation pool
@@ -88,6 +97,8 @@
 - Suggest you start the `system design` when you have time after work
 #### Engineering 工程
 - Front-end 
+  - [aframe.io](https://aframe.io/)
+  - [three.js](https://threejs.org/docs/#manual/en/introduction/How-to-create-VR-content)
 - Back-end
 - DevOps
 - Game

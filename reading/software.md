@@ -153,6 +153,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
 - The C# Player’s Guide
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
+  - Process 1(Follow along)
+    - Goal: To quickly get familiar with VR game design
+    - Progress: 30/409
 # Source code study
 - Operating system
   - Linux

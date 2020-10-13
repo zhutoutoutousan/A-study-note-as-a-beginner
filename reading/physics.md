@@ -16,6 +16,12 @@
 - Electromagnetic field theory: a problem solving approach
   - [link1](https://ocw.mit.edu/resources/res-6-002-electromagnetic-field-theory-a-problem-solving-approach-spring-2008/textbook-contents/MITRES_6_002S08_Part1.pdf)
 
+# Quantum Physics
+- [Quantum Physics Full Course | Quantum Mechanics Course](https://www.youtube.com/watch?v=K4BF7MD69_U)
+  - Process 1(Wactch for fun)
+    - Progress: 5:24/9hrs
+    - 5:24 Think point: How does a wave passing two portals form three distributions?
+
 
 # Interest-oriented reading
 ## Quantum entanglement

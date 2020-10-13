@@ -1,0 +1,1 @@
+- This space serves as a callstack for any thoughts, desire, learning plans that is not appropriate to proceed at your workplace, class or elsewhere

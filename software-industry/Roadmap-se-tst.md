@@ -1,3 +1,6 @@
+# Major resource
+- [How they test - github](https://github.com/abhivaikar/howtheytest)
+
 # Web testing
 ## Testing tools
 ### Jest

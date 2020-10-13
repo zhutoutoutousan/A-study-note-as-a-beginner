@@ -9,8 +9,12 @@
     - [Good examples 优秀项目实例](#good-examples-优秀项目实例)
   - [Outsource platform 外包平台](#outsource-platform-外包平台)
   - [Technology related  相应科技](#technology-related-相应科技)
+    - [Physics 物理](#physics-物理)
     - [Hardware 硬件](#hardware-硬件)
     - [Software 软件](#software-软件)
+      - [Design 设计](#design-设计)
+      - [Architecture 架构](#architecture-架构)
+      - [Engineering 工程](#engineering-工程)
     - [Source code study 源码学习](#source-code-study-源码学习)
 - [VR 虚拟现实](#vr-虚拟现实)
   - [Optical model 光学模型](#optical-model-光学模型)
@@ -22,11 +26,13 @@
   - [Simple 3D VR game 简单的3D&VR游戏](#simple-3d-vr-game-简单的3dvr游戏)
 
 # How to make this roadmap more organized 如何使该路线图更加清晰
-- First you just can perform some BFS(Bredth-First-Search)  你可以先开始广度优先搜索，吸收尽可能多的信息，在某个Eureka Moment，可以将路线图的结构进行调整优化。
+- First you just can perform some BFS(Bredth-First-Search)  你可以先开始广度优先搜索，吸收尽可能多的信息，在某个Eureka Moment，可以将路线图的结构进行调整优化, 然后综合考虑进行深度优先搜索或者最佳优先搜索。
+- Don't get attached to it, make it functional 
 
 # Cloud showroom 云展厅 
 ## Commercial model 商业模型
 - How does it profit 钱从哪儿来？到哪儿去？
+  - [中国那么多各式各样的展会是靠什么盈利？](https://www.zhihu.com/question/21812216)
 ## Commercial Examples 商业实例
 - [京瓷云展厅](https://kyocera.xsy.red/)
   - Look at the HTML code 查看其HTML代码
@@ -45,16 +51,30 @@
 - [Designing Screen Interfaces for VR (Google I/O '17)](https://www.youtube.com/watch?v=ES9jArHRFHQ)
   - Watch progress: 
   - What is learned
+### Physics 物理
+- Holography 全息投影
 ### Hardware 硬件
 - 360 Camera
   - Brands
   - Pricing
   - Features
+  - Utility
 - Mobile device/PC/IPAD
   - Compatibility
   - Accessibility
   - Scalability
 ### Software 软件
+#### Design 设计
+- Adobe Series
+- sass, HTML
+
+#### Architecture 架构
+- Suggest you start the `system design` when you have time after work
+#### Engineering 工程
+- Front-end 
+- Back-end
+- DevOps
+- Team play
 ### Source code study 源码学习
 - [volkflo - GitHub](https://github.com/volkflo/VR-ShowRoom)
 

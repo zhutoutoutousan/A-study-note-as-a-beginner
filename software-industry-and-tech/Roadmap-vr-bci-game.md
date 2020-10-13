@@ -5,6 +5,7 @@
   - [Commercial model 商业模型](#commercial-model-商业模型)
   - [Commercial Examples 商业实例](#commercial-examples-商业实例)
   - [UI/UX for VR and Exhibition 虚拟现实展览的用户体验/界面](#uiux-for-vr-and-exhibition-虚拟现实展览的用户体验界面)
+    - [Innovation 创新](#innovation-创新)
     - [Good practices 优秀实践经验](#good-practices-优秀实践经验)
     - [Good examples 优秀项目实例](#good-examples-优秀项目实例)
   - [Outsource platform 外包平台](#outsource-platform-外包平台)
@@ -17,6 +18,7 @@
       - [Engineering 工程](#engineering-工程)
     - [Study source 学习资源](#study-source-学习资源)
       - [Official](#official)
+      - [Study progress track](#study-progress-track)
       - [GitHub](#github)
 - [VR 虚拟现实](#vr-虚拟现实)
   - [Showcase](#showcase)
@@ -41,7 +43,17 @@
 - [京瓷云展厅](https://kyocera.xsy.red/)
   - Look at the HTML code 查看其HTML代码
 
+
 ## UI/UX for VR and Exhibition 虚拟现实展览的用户体验/界面
+### Innovation 创新
+- Exhibit design as it self
+  - [Here Are Best Exhibition Stand Ideas to Attract Maximum Visitors during the Show](https://www.expodisplayservice.com/here-are-best-exhibition-stand-ideas-to-attract-maximum-visitors-during-the-show/)
+- Portals
+  - [TechConnect World Innovation](https://www.techconnectworld.com/World2021/)
+- Innovation pool
+  - [Pinterest - Innovative Ideas](https://www.pinterest.com/exhibitpro/innovative-ideas/)
+  - Exhibitions in Shanghai
+    - Here you can put in all the great exhibitions you want to obtain innovative ideas from in Shanghai
 ### Good practices 优秀实践经验
 - [Designing User Experience for Virtual Reality (VR) applications - Medium](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96?gi=f6d11a8b7412)
 ### Good examples 优秀项目实例
@@ -85,6 +97,8 @@
 ### Study source 学习资源
 #### Official
 - [Developer Google - VR](https://developers.google.com/vr/)
+#### Study progress track
+- C#
 #### GitHub
 - [volkflo - GitHub](https://github.com/volkflo/VR-ShowRoom)
   - Prerequisites

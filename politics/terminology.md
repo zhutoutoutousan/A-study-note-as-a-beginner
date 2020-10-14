@@ -9,17 +9,20 @@
     - [Bad debt](#bad-debt)
     - [Banking system](#banking-system)
     - [Bedrock](#bedrock)
+    - [Bill of Rights](#bill-of-rights)
   - [C](#c)
     - [Cancel culture](#cancel-culture)
     - [Capitalism](#capitalism)
     - [Capital input](#capital-input)
     - [Censorship](#censorship)
     - [Conspiracy theory](#conspiracy-theory)
+    - [Constituency](#constituency)
     - [Cross-cutting](#cross-cutting)
     - [Communism](#communism)
     - [Confirmation bias](#confirmation-bias)
   - [D](#d)
     - [David strategy](#david-strategy)
+    - [Deluge](#deluge)
     - [Demopraphy](#demopraphy)
     - [Disparage](#disparage)
     - [Dispossessed](#dispossessed)
@@ -40,6 +43,7 @@
   - [F](#f)
     - [Fascist](#fascist)
     - [First Gulf War](#first-gulf-war)
+    - [Freedom of speech](#freedom-of-speech)
   - [G](#g)
     - [Geopolitics](#geopolitics)
     - [Goliath strategy](#goliath-strategy)
@@ -48,6 +52,7 @@
     - [Ideology 意识形态](#ideology-意识形态)
     - [Informationized military](#informationized-military)
     - [Inport](#inport)
+    - [Inundate](#inundate)
   - [J](#j)
     - [Jewish Question](#jewish-question)
   - [L](#l)
@@ -89,11 +94,13 @@
   - [S](#s)
     - [Scatology](#scatology)
     - [State-owned bank](#state-owned-bank)
+    - [Social cohesion](#social-cohesion)
     - [Social fabric](#social-fabric)
     - [Social stratification](#social-stratification)
     - [Superpower](#superpower)
     - [SOE](#soe)
     - [Subvert](#subvert)
+    - [Systemic racism](#systemic-racism)
   - [T](#t)
     - [Totalitarian](#totalitarian)
     - [Turmoil](#turmoil)
@@ -121,18 +128,22 @@
 ### Bad debt
 ### Banking system
 ### Bedrock
+### Bill of Rights
+- [United States Bill of Rights](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights)
 ## C
 ### Cancel culture
 ### Capitalism
 ### Capital input
 ### Censorship
 ### Conspiracy theory
+### Constituency
 ### Cross-cutting
 
 ### Communism
 ### Confirmation bias
 ## D
 ### David strategy
+### Deluge
 ### Demopraphy
 ### Disparage
 ### Dispossessed
@@ -165,6 +176,7 @@
 ### Fascist
 ### First Gulf War
 - Took place in 1991
+### Freedom of speech
 ## G
 ### Geopolitics
 ### Goliath strategy
@@ -173,6 +185,8 @@
 ### Ideology 意识形态
 ### Informationized military
 ### Inport
+### Inundate
+
 ## J
 ### Jewish Question
 ## L 
@@ -230,6 +244,8 @@
 ### Scatology
 - Used to report the act of saying 'shit' by some high-profile political figures
 ### State-owned bank
+### Social cohesion
+- *...There are two main divisions of this communications system which maintain social cohesion. On the first level there are the commercial media. ...* --- [The Engineering of Consent](http://www.fraw.org.uk/data/politics/bernays_1947.pdf)
 ### Social fabric
 ### Social stratification
 - **Social stratification** refers to a society's categorization of its people into groups based on socioeconomic factors like wealth, income, race, education, ethnicity, gender, occupation, social status, or derived power(social and political).
@@ -241,6 +257,8 @@
 ### SOE
 ### Subvert
 - (verb)undermine the power and authority of (an established system or institution).
+### Systemic racism
+- [What is systemic racism? Here's what it means and how you can help dismantle it](https://www.usatoday.com/story/news/nation/2020/06/15/systemic-racism-what-does-mean/5343549002/)
 ## T
 ### Totalitarian
 ### Turmoil

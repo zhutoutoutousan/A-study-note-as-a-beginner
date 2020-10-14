@@ -1,4 +1,5 @@
 - This space serves as a callstack for any thoughts, desire, learning plans that is not appropriate to proceed at your workplace, class or elsewhere
+- Highly agile and career-oriented 
 
 # Convert PSD to Website
 - [Web design tutorial: How to design Website in Photoshop](https://www.youtube.com/watch?v=Dzr5xQeDQqk)

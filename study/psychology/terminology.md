@@ -33,6 +33,7 @@
     - [Dissent](#dissent)
     - [Dissenter](#dissenter)
     - [d.h.](#dh)
+    - [Dominance hierarchy](#dominance-hierarchy)
     - [Doublespeak](#doublespeak)
   - [E](#e)
     - [Engorge](#engorge)
@@ -165,6 +166,8 @@
 ### d.h.
 - (German) Das heisst
   - i.e.
+
+### Dominance hierarchy
 ### Doublespeak
 ## E
 ### Engorge

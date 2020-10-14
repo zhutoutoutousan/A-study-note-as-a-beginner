@@ -435,3 +435,5 @@
   - Easybar skull crusher 5-8RM 5SETS
   - Easybar curl 5-8RM 5SETS
   - Tricep push down & kickback 5-8RM 3*2SETS  
+- Day 11
+  - Off day

@@ -118,19 +118,8 @@
 
 
 
-# TEMP
-- HTML <--> 3dmax
-  - [3D models in HTML documents](https://keithclark.co.uk/articles/3d-models-in-html-documents/)
-- Jingci
-- Target enterprise
-  - Songxia
-- Front-end requirements
-  - Compatibility
-  - Performance
-- Master -->  
-- yunshanghuizhan
-- fumaohui
-- Aliyun
+
+
 
 # VR 虚拟现实
 ## Showcase

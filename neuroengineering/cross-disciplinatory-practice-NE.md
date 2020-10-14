@@ -1,0 +1,2 @@
+# Software engineering
+- Oppenheim: *Object-oriented programming languages provide a convenient environment for manipulating signals, systems, and signal processing expressions without explicitly evaluating the data sequneces and provide the basis for this class of processing* --> Signal interpretation

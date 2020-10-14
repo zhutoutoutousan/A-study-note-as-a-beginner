@@ -1,0 +1,1 @@
+- [Proxy requirements for Creative Cloud Libraries](https://helpx.adobe.com/creative-cloud/kb/proxy-authentication-support-creative-cloud.html)

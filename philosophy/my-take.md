@@ -1,0 +1,1 @@
+- I don't think philosophy should be a subject that makes the grandiose generic theory or model to this world, but the one that keeps its tenacity to provide guide for all other disciplines

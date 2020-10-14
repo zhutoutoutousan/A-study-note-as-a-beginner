@@ -27,6 +27,7 @@
 - [Pick up where you left off](#pick-up-where-you-left-off)
   - [Add binary](#add-binary)
 - [Alltagsleben](#alltagsleben)
+- [New way to study codewar](#new-way-to-study-codewar)
 - [CSS](#css)
   - [Logo design](#logo-design)
   - [Micellaneous observation](#micellaneous-observation)
@@ -234,7 +235,9 @@ var merge = function(nums1, m, nums2, n) {
 # Alltagsleben
 - Perhaps you should include a plan that takes both workout and intellectual activities into account instead of just the workout.
 
-
+# New way to study codewar
+- [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7/train/javascript)
+  - Study keywords
 
 # CSS
 ## Logo design

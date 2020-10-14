@@ -437,3 +437,5 @@
   - Tricep push down & kickback 5-8RM 3*2SETS  
 - Day 11
   - Off day
+- Day 12
+  - 

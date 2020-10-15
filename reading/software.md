@@ -157,6 +157,14 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Goal: To quickly get familiar with VR game design
     - Progress: 30/409
 # Source code study
+- Design and presentation
+  - [THREE.JS](https://github.com/mrdoob/three.js/)
+    - Status: This tool is related with my aspiration and work
+    - Progress: Fast progress
+      - Process 1: PerspectiveCamera
+        - [PerspectiveCamera](https://github.com/mrdoob/three.js/blob/master/src/cameras/PerspectiveCamera.js)
+      - Process 2: Front page
+        - [FRONTPAGE](https://github.com/mrdoob/three.js/)
 - Operating system
   - Linux
     - [Linux - github](https://github.com/eiiches/linux) 

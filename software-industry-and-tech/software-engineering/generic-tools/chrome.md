@@ -12,5 +12,8 @@
 # Wanna expand your skills later?
 [21 Chrome shortcuts you need to know](https://www.cnet.com/how-to/21-chrome-shortcuts-you-need-to-know/)
 
+# Chrome DevTool
+- If you check an Object in the console, you often encounter the `(...)`, what exactly does it mean?
+
 # Oops
 ## How to recover deleted bookmarks, passwords and other settings in Chrome

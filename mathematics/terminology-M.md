@@ -7,12 +7,14 @@
     - [Birch Conjecture](#birch-conjecture)
   - [C](#c)
     - [Calabi-Yao manifold](#calabi-yao-manifold)
+    - [Compact space](#compact-space)
     - [Congruence](#congruence)
     - [Conjecture](#conjecture)
     - [Constraint satisfaction problem](#constraint-satisfaction-problem)
     - [Continued fractions](#continued-fractions)
     - [Currying](#currying)
   - [D](#d)
+    - [D-dimensional space](#d-dimensional-space)
     - [Diagonal Matrix](#diagonal-matrix)
     - [Differentiation](#differentiation)
     - [Differential calculus](#differential-calculus)
@@ -82,6 +84,10 @@
 ### Birch Conjecture
 ## C
 ### Calabi-Yao manifold
+### Compact space
+- [wiki](https://en.wikipedia.org/wiki/Compact_space)
+  - Suggested treat this as a mind trainer for your spatial intelligence
+  - I don't quite understand the **cube-volume aspect ratio** part
 ### Congruence
 - 相似三角形
 ### Conjecture
@@ -94,6 +100,7 @@
 - Currying a function $f$ that takes three arguments creates three functions: $x=f(a,b,c)$ becomes: $x=g(a)(b)(c)$ or $h=g(a), \,\,\, i=h(b), \,\,\, x=i(c)$
 - [Wiki](https://en.wikipedia.org/wiki/Currying)
 ## D
+### D-dimensional space
 ### Diagonal Matrix
 ### Differentiation
 ### Differential calculus

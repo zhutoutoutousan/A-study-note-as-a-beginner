@@ -17,6 +17,7 @@
   - [Chronology](#chronology)
   - [CMTS](#cmts)
   - [CO](#co)
+  - [Computability theory](#computability-theory)
   - [Context switch](#context-switch)
   - [Control flow](#control-flow)
   - [Conway's Game of Life](#conways-game-of-life)
@@ -87,13 +88,14 @@
   - [Switch](#switch)
     - [Computer networking](#computer-networking)
 - [T](#t)
-  - [Telco](#telco)
   - [Transmission Control Protocol(TCP)](#transmission-control-protocoltcp)
+  - [Turing degree](#turing-degree)
+  - [Turing machine](#turing-machine)
+  - [Turing(orcale machine)](#turingorcale-machine)
+  - [Turing reducible](#turing-reducible)
 - [U](#u)
   - [UAE](#uae)
-  - [User space](#user-space)
 - [W](#w)
-  - [Worst-case running time](#worst-case-running-time)
 - [Book entry](#book-entry)
 # A
 ## Algorithm
@@ -130,6 +132,10 @@
 - The CMTS serves a similar function as the DSL network's DSLAM--- turning the analog signal sent from the cable modems in many downstream homes back into digital format.
 ## CO
 - (networking)Central office
+## Computability theory
+- [wiki](https://en.wikipedia.org/wiki/Computability_theory)
+  - Complex content, activate progress track
+    - [ ] Turing degrees
 ## Context switch
 - A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
 ## Control flow
@@ -276,16 +282,21 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 
 
 # T
-## Telco
-- Telephone company
 ## Transmission Control Protocol(TCP)
-
+## Turing degree
+- [wiki](https://en.wikipedia.org/wiki/Turing_degree)
+  - Complex content, activate progress track
+    - Progress: Turing equivalence
+- The Turing degree of a set is a measure of how difficult it is to solve the decision problem associated with the set, that is, to determine whether an arbitrary number is in the given set.
+## Turing machine
+- [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
+  - Complex content, activate progress track
+    - Progress
+## Turing(orcale machine)
+## Turing reducible
 # U
 ## UAE
-## User space
 # W
-## Worst-case running time
-
 
 
 # Book entry

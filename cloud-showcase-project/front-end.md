@@ -1,10 +1,10 @@
 
 
 # Front-end performance
+- [Cranking Up Performance in Graphics Intensive Web Apps and Games (Google I/O '17)](https://www.youtube.com/watch?v=wkDd-x0EkFU)
 
 
-
-# Compatibility & Security
+# Compatibility & Security & Agility
 - Resource
   - [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)
   - [Cross-Browser Compatibility](https://frontend.turing.io/lessons/module-2/cross-browser-compat.html)
@@ -35,7 +35,16 @@
   - Video embed
 - Problem stores
   - [Proper use of flex properties when nesting flex containers](https://stackoverflow.com/questions/37840646/proper-use-of-flex-properties-when-nesting-flex-containers)
-
+- Font(Chinese)
+  - Compatibility
+    - [Using font face - CSS trick](https://css-tricks.com/snippets/css/using-font-face/)
+  - Library
+    - [有字库](https://www.webfont.com/)
+  - Compressor
+    - [字蛛](https://www.font-spider.org/)
+      - Limitations
+        - Only constant texts and styles are supported
+      - [字蛛 - github](https://github.com/aui/font-spider)
 
 # Front-end VR Tools
 ## Three.js(VR)
@@ -52,3 +61,7 @@
 - [京瓷云展厅](https://kyocera.xsy.red//)
   - Why are all the elements rendered on the page when not selected but just set to `display: none`
     - Vue.js ---> Lazy render
+
+
+# Mistake you make
+- In codepenn, if you get stuck, search Chinese colon, semicolon, comma quote  question mark or anything

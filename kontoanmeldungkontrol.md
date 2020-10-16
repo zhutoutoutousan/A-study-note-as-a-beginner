@@ -5,4 +5,6 @@
 - 126-am
 - gm- am
 
+- gm- inksdeep --- Gründige 126 sequenz
 
+- gh - ROT-13 (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]

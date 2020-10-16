@@ -3,6 +3,7 @@
 - [Time Control](#time-control)
 - [Files](#files)
 - [Current Top Priority](#current-top-priority)
+- [Client requirement](#client-requirement)
   - [Teamplay](#teamplay)
 - [What our Client wants](#what-our-client-wants)
 - [Basic requirements](#basic-requirements)
@@ -17,9 +18,15 @@
 # Files
 - 上海一实沉浸体验8.17
 
+
 # Current Top Priority
-- Get familiar with `three.js`(Check 3d section)
 - Get familiar with our client
+- Get familiar with `three.js`(Check 3d section)
+
+
+# Client requirement
+
+
 ## Teamplay
 - Read through the messages in the group
 # What our Client wants

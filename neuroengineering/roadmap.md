@@ -40,3 +40,6 @@
 ## Tutorial
 # Open source resource
 - [Advanced Normalization Tools](https://github.com/ANTsX/ANTs)
+
+# Interest into human mental fatigue
+- [Mental fatigue caused by prolonged cognitive load associated with sympathetic hyperactivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113724/)

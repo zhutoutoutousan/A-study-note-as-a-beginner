@@ -438,4 +438,10 @@
 - Day 11
   - Off day
 - Day 12
-  - 
+  - Chest day
+    - Incline bench press 5-8RM 5SETS
+    - Barbell bench press 5-8RM 6SETS
+    - Seat crossover 5-8RM 5SETS
+    - Seated push 4-8RM 4SETS
+    - Cable HC press 6-8RM 3SETS
+    - Cable LC press 6-8RM 3SETS

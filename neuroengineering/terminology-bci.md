@@ -3,7 +3,6 @@
 - [A](#a)
   - [Action potential(Spike)](#action-potentialspike)
   - [Aliasing](#aliasing)
-  - [ANS](#ans)
   - [Arbor](#arbor)
   - [Axon](#axon)
     - [Myelinated axon](#myelinated-axon)
@@ -85,9 +84,6 @@
 # A
 ## Action potential(Spike)
 ## Aliasing
-## ANS
-- ANS: Autonomic Nervous System
-- $ANS = {PNS, SNS}$
 ## Arbor
 ## Axon
 ### Myelinated axon
@@ -216,6 +212,7 @@ Myelin is a fatty wrap that goes around some axons.
 - [Neuroanatomy Sympathetic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK542195/#:~:text=The%20sympathetic%20nervous%20system%20\(SNS,and%20parts%20of%20the%20body.)
 - Function
   - Governs the "fight or flight" response
+  - Prepare the body for physical activity, a whole-body reaction affecting many organ systems throughout the body to redirect oxygen-rich blood to areas of the body needed during intense physical demand.
 ## Spinal cord
 
 # U

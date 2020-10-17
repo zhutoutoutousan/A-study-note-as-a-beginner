@@ -9,6 +9,9 @@
 - [wiki](https://en.wikipedia.org/wiki/Aspect_ratio)
   - Focus on general aspect ratio 
 
+# E
+## Egualmente
+
 # F
 ## FOV
 - [Field of View - Rectilinear and Fishye Lenses](http://www.bobatkins.com/photography/technical/field_of_view.html)
@@ -21,10 +24,12 @@
 
 
 # L
+## Languendo.
 ## Legato
+## Leggierissimo volante
 ## Letterboxing
 - [Letterboxing (filming)](https://en.wikipedia.org/wiki/Letterboxing_(filming))
-
+## loco.
 # O
 ## OpenGL
 
@@ -38,6 +43,7 @@
 ## Stencil
 - [wiki](https://en.wikipedia.org/wiki/Stencil)
 # V
+## Velocissimo
 ## Viewing frustum
 - [wiki](https://en.wikipedia.org/wiki/Viewing_frustum)
   - Mini spatial intelligence training, buddy

@@ -445,3 +445,12 @@
     - Seated push 4-8RM 4SETS
     - Cable HC press 6-8RM 3SETS
     - Cable LC press 6-8RM 3SETS
+- Day 13
+  - Back day
+  - Sumo deadlift 6-8RM 4SETS
+  - Straight arm pulldown 5-8RM 4SETS
+  - Chin-up 5-8RM 3SETS
+  - Banded rotator cuff 6-8RM 3*2SETS
+  - T-Y-raise 5-8RM 3SETS
+  - Barbell shrug 6-8RM 3SETS
+  - Cardio: 20 minutes bike ride

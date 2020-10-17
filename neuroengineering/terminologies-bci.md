@@ -3,6 +3,7 @@
 - [A](#a)
   - [Action potential(Spike)](#action-potentialspike)
   - [Aliasing](#aliasing)
+  - [ANS](#ans)
   - [Arbor](#arbor)
   - [Axon](#axon)
     - [Myelinated axon](#myelinated-axon)
@@ -68,12 +69,14 @@
 - [P](#p)
   - [PCC](#pcc)
   - [PNS](#pns)
+  - [PSH](#psh)
 - [S](#s)
   - [Sampling rate](#sampling-rate)
   - [SAW](#saw)
   - [Secretion](#secretion)
   - [Signal interpretation](#signal-interpretation)
   - [Signal processing](#signal-processing)
+  - [SNS  交感神经系统](#sns-交感神经系统)
   - [Spinal cord](#spinal-cord)
 - [U](#u)
   - [Utah array](#utah-array)
@@ -82,6 +85,9 @@
 # A
 ## Action potential(Spike)
 ## Aliasing
+## ANS
+- ANS: Autonomic Nervous System
+- $ANS = {PNS, SNS}$
 ## Arbor
 ## Axon
 ### Myelinated axon
@@ -190,8 +196,12 @@ Myelin is a fatty wrap that goes around some axons.
 # P
 ## PCC
 ## PNS
-Peripheral nervous system
-
+- PNS: Peripheral nervous system
+- PNS: Parasympathetic nervous system
+  - Function
+    - Controls the "rest and digest" response
+## PSH
+- PSH: Paroxysmal Sympathetic Hyperactivity
 # S
 ## Sampling rate
 ## SAW
@@ -201,6 +211,11 @@ Peripheral nervous system
 ## Signal interpretation
 - ... In such problems the objectives of the processing is not to obtain an output signal but to obtain a characterization of the input signal.
 ## Signal processing
+## SNS  交感神经系统
+- SNS: Sympathetic Nervous System
+- [Neuroanatomy Sympathetic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK542195/#:~:text=The%20sympathetic%20nervous%20system%20\(SNS,and%20parts%20of%20the%20body.)
+- Function
+  - Governs the "fight or flight" response
 ## Spinal cord
 
 # U

@@ -3,6 +3,7 @@
 - [Pick up where you left off if you want to review](#pick-up-where-you-left-off-if-you-want-to-review)
 - [Alphabetical](#alphabetical)
   - [A](#a)
+    - [Acrimonious](#acrimonious)
     - [Aion](#aion)
     - [Allegory](#allegory)
     - [Altruism](#altruism)
@@ -72,7 +73,9 @@
     - [Pathology](#pathology)
     - [Personal unconscious](#personal-unconscious)
     - [Pertinent](#pertinent)
+    - [Pornography](#pornography)
     - [Primitive man](#primitive-man)
+    - [Prostitution](#prostitution)
     - [Psyche](#psyche)
     - [Psychological projection](#psychological-projection)
   - [Q](#q)
@@ -117,6 +120,8 @@
 
 # Alphabetical
 ## A
+### Acrimonious
+- (typically of speech or a debate) angry and bitter.
 ### Aion
 ### Allegory
 - An allegory is a paraphrase of a conscious content, whereas a symbol is the best possible expression for an unconscious content whose nature can only be guessed, because it is still unknown.
@@ -250,10 +255,15 @@
 - ...*A more or less superficial layer of the unconscious is undoubtedly  personal. I call it the personal unconscious. But this personal unconscious rests upon a deeper layer, which does not derive from personal experience and is not a personal acquisition but is inborn. This*...
   - [P21](https://www.are.na/block/1493356)
 ### Pertinent
+### Pornography
+- [Pornography - N.M. Malamuth](https://www.sscnet.ucla.edu/comm/malamuth/pdf/99evpc3.pdf)
+- [A Historical and Empirical Review of Pornography and Romantic Relationships: Implications for Family Researchers: Pornography and Romantic Relationships](https://www.researchgate.net/publication/303743231_A_Historical_and_Empirical_Review_of_Pornography_and_Romantic_Relationships_Implications_for_Family_Researchers_Pornography_and_Romantic_Relationships)
 ### Primitive man
 - ...*Primitive man is not much interested in objective explanations of the obvious, but he has an imperative need---or rather, his unconscious psyche has an irresistible urge--- to assimilate all outer sense experiences to inner, psychic events.* --- Collected works of C. G. Jung : The Archetypes and the Collective Unconscious, 24/566
   - Sun rise is not enought, it has to be a god or hero who dwells nowhere except in the soul of man.
-
+### Prostitution
+- [The Origin of Prostitution in Ancient Mesopotamia](https://www.jstor.org/stable/3174047?read-now=1&seq=1#page_scan_tab_contents)
+- [The History of Prostitution - Its Extent, Causes, and Effects throughout the World  By W.W. Sanger](http://www.24grammata.com/wp-content/uploads/2014/08/The-History-of-Prostitution-by-William-W.-Sanger-24grammata.com_1.pdf)
 ### Psyche
 ### Psychological projection
 - Psychological projection is a defense mechanism in which the human ego defends itself against unconscious impulses or qualities by denying their existence in themselves while attributing them to others.

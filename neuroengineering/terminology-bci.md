@@ -67,7 +67,6 @@
   - [Nucleus](#nucleus)
 - [P](#p)
   - [PCC](#pcc)
-  - [PNS](#pns)
   - [PSH](#psh)
 - [S](#s)
   - [Sampling rate](#sampling-rate)
@@ -75,7 +74,6 @@
   - [Secretion](#secretion)
   - [Signal interpretation](#signal-interpretation)
   - [Signal processing](#signal-processing)
-  - [SNS  交感神经系统](#sns-交感神经系统)
   - [Spinal cord](#spinal-cord)
 - [U](#u)
   - [Utah array](#utah-array)
@@ -191,11 +189,7 @@ Myelin is a fatty wrap that goes around some axons.
 ## Nucleus
 # P
 ## PCC
-## PNS
-- PNS: Peripheral nervous system
-- PNS: Parasympathetic nervous system
-  - Function
-    - Controls the "rest and digest" response
+
 ## PSH
 - PSH: Paroxysmal Sympathetic Hyperactivity
 # S
@@ -207,12 +201,7 @@ Myelin is a fatty wrap that goes around some axons.
 ## Signal interpretation
 - ... In such problems the objectives of the processing is not to obtain an output signal but to obtain a characterization of the input signal.
 ## Signal processing
-## SNS  交感神经系统
-- SNS: Sympathetic Nervous System
-- [Neuroanatomy Sympathetic Nervous System](https://www.ncbi.nlm.nih.gov/books/NBK542195/#:~:text=The%20sympathetic%20nervous%20system%20\(SNS,and%20parts%20of%20the%20body.)
-- Function
-  - Governs the "fight or flight" response
-  - Prepare the body for physical activity, a whole-body reaction affecting many organ systems throughout the body to redirect oxygen-rich blood to areas of the body needed during intense physical demand.
+
 ## Spinal cord
 
 # U

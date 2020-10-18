@@ -12,6 +12,15 @@
     - [Editor](https://threejs.org/editor/)
   - Guide progress track
 
+# Performance issues
+## Posts
+- [Three.js: ways to reduce file size of models? - Stack Overflow](https://stackoverflow.com/questions/45144656/three-js-ways-to-reduce-file-size-of-models#:~:text=The%20OBJ%20file%20is%20around,JSON%20file%20is%20almost%20100mb.)
+- [Loading Big .Obj file about 300 Mb will crash te browser and take much time to load](https://discourse.threejs.org/t/loading-big-obj-file-about-300-mb-will-crash-te-browser-and-take-much-time-to-load/1401)
+- [Reduce .STL or .OBJ File Size Using Blender](https://www.youtube.com/watch?v=lcTDBJt9MfE)
+
+## Tools
+- [obj simplify - github](https://github.com/jonnenauha/obj-simplify)
+
 
 # Features showcase
 ## Movement

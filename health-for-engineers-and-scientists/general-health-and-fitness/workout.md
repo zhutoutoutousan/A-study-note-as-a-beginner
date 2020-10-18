@@ -454,3 +454,12 @@
   - T-Y-raise 5-8RM 3SETS
   - Barbell shrug 6-8RM 3SETS
   - Cardio: 20 minutes bike ride
+- Day 14
+  - 40 minutes Bike ride(Gentle)
+- Day 15
+  - Shoulder day
+  - Exercise
+    - Overhead press 5-8RM 5SETS
+    - Side lateral raise 6-8RM 5SETS
+    - Banded front raise 6-8RM 5SETS
+    - Banded rear delts raise 6-8RM 5SETS

@@ -1,0 +1,2 @@
+- Bring the U-disk
+  - Get the Obj file

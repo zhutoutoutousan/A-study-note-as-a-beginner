@@ -1,5 +1,27 @@
-# Imported from general project management
-## General
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Boilerplates](#boilerplates)
+  - [Architecture](#architecture)
+  - [Instance](#instance)
+- [General](#general)
+- [Front-end](#front-end)
+  - [UI/UX](#uiux)
+    - [Tools and gadgets](#tools-and-gadgets)
+  - [Business logic](#business-logic)
+  - [DI/DX](#didx)
+    - [Tools and gadgets](#tools-and-gadgets-1)
+- [Front-end <--> back-End architecture](#front-end----back-end-architecture)
+- [Back-end](#back-end)
+- [Code reference](#code-reference)
+  - [FxxkingSassLoaderConfig](#fxxkingsassloaderconfig)
+
+
+# Boilerplates
+## Architecture
+## Instance
+
+
+# General
 - File manipulation
   - "glob"
     - Match files using the patterns the shell uses, like stars and stuff.
@@ -9,9 +31,9 @@
       - Why study
       - [RTFM](https://github.com/isaacs/node-glob)
 
-## Front-end
-### UI/UX
-#### Tools and gadgets
+# Front-end
+## UI/UX
+### Tools and gadgets
 - Framework
   - Bootstrap
     - UI gadget(html class --> css library)
@@ -19,6 +41,7 @@
   - Ant
 - Animation
   - d3.js
+  - three.js
 - npm packages
   - UI gadgets
     - fontawesome
@@ -27,11 +50,11 @@
       - "@fortawesome/free-regular-svg-icons"
       - "@fortawesome/free-solid-svg-icons"
       - "@fortawesome/vue-fontawesome"
-### Business logic
+## Business logic
 - JavaScript
 - TypeScript
-### DI/DX
-#### Tools and gadgets
+## DI/DX
+### Tools and gadgets
 - Project management
   - Formatting
     - Eslint
@@ -77,10 +100,10 @@
   - React
   - Angular
 - npm packages
-## Front-end <--> back-End architecture
+# Front-end <--> back-End architecture
 - API
   - Insomnia/Postman
-## Back-end
+# Back-end
 - Node.js
   - Project architecture
     - [bulletproof-nodejs](https://github.com/santiq/bulletproof-nodejs)
@@ -104,8 +127,8 @@
 
 
 
-## Code reference
-### FxxkingSassLoaderConfig
+# Code reference
+## FxxkingSassLoaderConfig
 ```javascript 
 // https://cli.vuejs.org/config/#global-cli-config
 // vue.config.js

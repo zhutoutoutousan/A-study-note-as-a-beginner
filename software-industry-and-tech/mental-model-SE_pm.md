@@ -1,6 +1,5 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Trivia?](#trivia)
 - [General](#general)
 - [Front-end](#front-end)
   - [UI/UX](#uiux)
@@ -12,11 +11,6 @@
 - [Back-end](#back-end)
 - [Code reference](#code-reference)
   - [FxxkingSassLoaderConfig](#fxxkingsassloaderconfig)
-
-# Trivia?
-- Contents in quotes, you can just use `npm i -D? \[quotedName\]`
-
-
 # General
 - File manipulation
   - "glob"
@@ -70,6 +64,7 @@
     - "parcel"
       - Less configuration, easier to use
       - Automatically install dependecies when serving on save
+      - [Using Parcel In A Vue.js App](https://scotch.io/tutorials/using-parcel-in-a-vuejs-app)
       - "parcel-bundler"
         - Issues
           - Cannot read property 'type' of undefined - Bundler.js

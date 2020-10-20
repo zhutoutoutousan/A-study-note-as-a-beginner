@@ -463,3 +463,12 @@
     - Side lateral raise 6-8RM 5SETS
     - Banded front raise 6-8RM 5SETS
     - Banded rear delts raise 6-8RM 5SETS
+- Day 16
+  - Off day(Completely)
+- Day 17
+  - Bicep and tricep
+  - Chin-up 6-8RM 5SETS
+  - Easybar skull crusher 5-8RM 5SETS
+  - Easybar curl 5-8RM 5SETS
+  - Tricep push down & kickback 5-8RM 3*2SETS  
+  - Bike ride 30minutes

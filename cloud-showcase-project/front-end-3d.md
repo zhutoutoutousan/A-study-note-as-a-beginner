@@ -31,6 +31,7 @@
   - [Free online GLB to OBJ Converter](https://products.aspose.app/3d/conversion/glb-to-obj)
   - There are a lot of useful format converters, exporters in the `three.js/util`
 # Performance issues
+- Stats.js -- Mrdoob
 ## Adjustment
 - Possible useful methods
   - `renderer.setPixelRatio( window.devicePixelRatio )`
@@ -55,8 +56,11 @@
 # Control panel
 - Google: dat.GUI
   - [Source code](https://github.com/dataarts/dat.gui)
-
+- Control
+  - [First person shooter game](https://codepen.io/viniciusSouza/pen/gOPVmKV)
+  - [Fly control](https://threejs.org/examples/misc_controls_fly.html)
 # Artistic modification
+
 
 
 # Tools

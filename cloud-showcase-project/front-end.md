@@ -1,5 +1,3 @@
-
-
 # Front-end performance
 - [Cranking Up Performance in Graphics Intensive Web Apps and Games (Google I/O '17)](https://www.youtube.com/watch?v=wkDd-x0EkFU)
 

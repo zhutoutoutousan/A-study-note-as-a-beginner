@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Time Control](#time-control)
-- [Files](#files)
+- [Assets](#assets)
 - [Current Top Priority](#current-top-priority)
 - [Client requirement](#client-requirement)
   - [Teamplay](#teamplay)
@@ -15,7 +15,7 @@
 - There would be a front-end engineer who has extensive experience in VR showcase in Nanjing in the group
 - Deadline: 21/1/31
 
-# Files
+# Assets
 - 上海一实沉浸体验8.17
 
 
@@ -71,4 +71,4 @@
     - [阿里云渲染解决方案](https://rendering.aliyun.com/)
 - Stadia
   - Network not stable
-  - [Troubleshooting your Stadia experience](https://support.google.com/stadia/answer/9595943#network)
+    - [Troubleshooting your Stadia experience](https://support.google.com/stadia/answer/9595943#network)

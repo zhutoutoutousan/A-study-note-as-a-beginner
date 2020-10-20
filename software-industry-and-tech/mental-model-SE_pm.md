@@ -87,6 +87,9 @@
     - "vue-cli-plugin-style-resources-loader"
     - "vue-template-compiler"
   - React
+    - Build tools
+      - "Next"
+        - [The React Framework for Production](https://nextjs.org/)
   - Angular
 - npm packages
 # Front-end <--> back-End architecture

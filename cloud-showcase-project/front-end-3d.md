@@ -63,6 +63,7 @@
 ## Format converter
 - [FBX2glTF](https://github.com/facebookincubator/FBX2glTF)
   - [Instruction](https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials/#convert-from-fbx)
+  - Why won't Windows Powershell work
 ## Shader
 - [Shadertoy](https://www.shadertoy.com/)
 

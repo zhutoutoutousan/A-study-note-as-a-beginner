@@ -127,6 +127,7 @@
     - [Promise](#promise)
     - [Proprietary](#proprietary)
     - [PoC](#poc)
+    - [POSIX](#posix)
     - [Proxy](#proxy)
   - [R](#r)
     - [Race condition](#race-condition)
@@ -528,6 +529,10 @@ A group of servers that stores your data
 - PoC: proof of concept
 - A proof of concept(PoC) exploit is a non-harmful attack against a computer or network.
 - [searchsecurity](https://searchsecurity.techtarget.com/definition/proof-of-concept-PoC-exploit)
+
+### POSIX
+- The **Portable Operating System Interface** is a family of standards specified by the IEEE Computer Society for maintaining compatibility between operating systems. POSIX defines the application programming interface (API), along with command line shells and utility interfaces, for software compatibility with variants of Unix and other operating systems.
+- [wiki](https://en.wikipedia.org/wiki/POSIX)
 
 ### Proxy
 - (networking)

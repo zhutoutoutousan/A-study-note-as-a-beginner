@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Agile development](#agile-development)
 - [Boilerplates](#boilerplates)
   - [Architecture](#architecture)
   - [Instance](#instance)
@@ -12,9 +13,13 @@
     - [Tools and gadgets](#tools-and-gadgets-1)
 - [Front-end <--> back-End architecture](#front-end----back-end-architecture)
 - [Back-end](#back-end)
+- [Deprecation](#deprecation)
 - [Code reference](#code-reference)
   - [FxxkingSassLoaderConfig](#fxxkingsassloaderconfig)
 
+
+# Agile development
+- CMS
 
 # Boilerplates
 ## Architecture
@@ -99,7 +104,8 @@
     - "vue-template-compiler"
   - React
   - Angular
-- npm packages
+- Cross environment support
+  - "cross-env"
 # Front-end <--> back-End architecture
 - API
   - Insomnia/Postman
@@ -125,7 +131,10 @@
     - Refresh the page on file change&&save
     - Configure: nodemon.json
 
-
+# Deprecation
+- [Google: Deprecations](https://cloud.google.com/appengine/docs/deprecations)
+- [Waybackmachine](http://web.archive.org/)
+  - Access deprecated website
 
 # Code reference
 ## FxxkingSassLoaderConfig

@@ -14,6 +14,11 @@
   - [Introduction to NuxtJS - Nested and dynamic pages, layouts, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
 - Three.js learn from Chrome DevTools
   - A lot of examples can be learned from the Google Chrome DevTools
+
+# Agile development
+- Boilerplate
+  - [vue-threejs](https://github.com/fritx/vue-threejs)
+  - [react-threejs](https://github.com/fritx/react-threejs)
 # Interface 
 - three.js
   - Examples
@@ -47,10 +52,17 @@
 # 3D Model
 - Blender
 
+# Control panel
+- Google: dat.GUI
+  - [Source code](https://github.com/dataarts/dat.gui)
+
 # Artistic modification
 
 
 # Tools
+## Format converter
+- [FBX2glTF](https://github.com/facebookincubator/FBX2glTF)
+  - [Instruction](https://developers.facebook.com/docs/sharing/3d-posts/glb-tutorials/#convert-from-fbx)
 ## Shader
 - [Shadertoy](https://www.shadertoy.com/)
 

@@ -13,3 +13,7 @@
         - [Site](https://www.cosmicjs.com/)
       - landingpage
         - [landing-page](https://github.com/cosmicjs/landing-page)
+
+# Design
+- Landing page
+  - [What is a Landing Page?](https://www.youtube.com/watch?v=OeuS3PnjTH8)

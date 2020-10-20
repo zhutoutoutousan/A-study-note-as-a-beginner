@@ -2,6 +2,9 @@
 - [Cranking Up Performance in Graphics Intensive Web Apps and Games (Google I/O '17)](https://www.youtube.com/watch?v=wkDd-x0EkFU)
 
 
+
+
+
 # Compatibility & Security & Agility
 - Resource
   - [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)
@@ -47,6 +50,7 @@
       - [字蛛 - github](https://github.com/aui/font-spider)
 
 # Front-end VR Tools
+- Consider migrating to the `front-end-3d` if you have time
 ## Three.js(VR)
 
 ## Krpano(Deprecated)

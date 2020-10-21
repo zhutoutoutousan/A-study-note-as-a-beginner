@@ -1,2 +1,3 @@
-- Bring the U-disk
-  - Get the Obj file
+- [x] Bring the U-disk
+  - [x] Get the Obj file
+  - [ ] Make a list of your inventory list

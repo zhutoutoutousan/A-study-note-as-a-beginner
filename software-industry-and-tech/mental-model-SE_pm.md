@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Engineering management](#engineering-management)
 - [Agile development](#agile-development)
 - [Boilerplates](#boilerplates)
   - [Architecture](#architecture)
@@ -19,6 +20,8 @@
 - [Code reference](#code-reference)
   - [FxxkingSassLoaderConfig](#fxxkingsassloaderconfig)
 
+# Engineering management
+- There are a lot of information concerning engineering management in the `wiki` section of a large and popular projects on GitHub
 
 # Agile development
 - CMS

@@ -159,6 +159,13 @@ Normal in windows 10 CLI
   - What to input in the search engine?
 - Learn more about extensions
   - [Vscode - extension guides](https://code.visualstudio.com/api/extension-guides/)
+  - Process 1(If you see this and want to continue)
+    - [Tree view](https://code.visualstudio.com/api/extension-guides/tree-view)
+      - Progress:
+        - [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+        - Source code read: FileExplorer.ts
+- Vscode source code
+  - [github repo](https://github.com/microsoft/vscode)
 
 # Resources
 [Visual Code Studio](https://code.visualstudio.com/docs/)

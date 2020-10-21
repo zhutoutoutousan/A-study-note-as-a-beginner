@@ -8,6 +8,7 @@
   - [C](#c)
     - [Calabi-Yao manifold](#calabi-yao-manifold)
     - [Compact space](#compact-space)
+    - [Composition algebra](#composition-algebra)
     - [Congruence](#congruence)
     - [Conjecture](#conjecture)
     - [Constraint satisfaction problem](#constraint-satisfaction-problem)
@@ -56,6 +57,7 @@
     - [Prime numbers](#prime-numbers)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
+    - [Quaternion](#quaternion)
   - [R](#r)
     - [Radix complement](#radix-complement)
     - [Rational integer](#rational-integer)
@@ -88,6 +90,8 @@
 - [wiki](https://en.wikipedia.org/wiki/Compact_space)
   - Suggested treat this as a mind trainer for your spatial intelligence
   - I don't quite understand the **cube-volume aspect ratio** part
+### Composition algebra
+- [wiki](https://en.wikipedia.org/wiki/Composition_algebra)
 ### Congruence
 - 相似三角形
 ### Conjecture
@@ -268,7 +272,9 @@ $$
       - [Link1 - Triggers download - P21](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
 ## Q
 ### Quadratic residues
-
+### Quaternion
+- [wiki](https://en.wikipedia.org/wiki/Quaternion)
+- [Visualizing quaternions (4d numbers) with stereographic projection](https://www.youtube.com/watch?v=d4EgbgTm0Bg)
 ## R
 ### Radix complement
 ### Rational integer

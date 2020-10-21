@@ -13,6 +13,8 @@
 ## Egualmente
 
 # F
+## Face culling 面剔除
+- [Face culling - OpenGL](https://learnopengl.com/Advanced-OpenGL/Face-culling)
 ## FOV
 - [Field of View - Rectilinear and Fishye Lenses](http://www.bobatkins.com/photography/technical/field_of_view.html)
 ## Frustum
@@ -30,6 +32,8 @@
 ## Letterboxing
 - [Letterboxing (filming)](https://en.wikipedia.org/wiki/Letterboxing_(filming))
 ## loco.
+## Loading gates 装载门
+- (game)
 # O
 ## OpenGL
 
@@ -38,6 +42,9 @@
 - [wiki](https://en.wikipedia.org/wiki/Panorama)
 ## Perspective virtual camera system
 ## Pigment
+# R
+## Rasterization
+
 # S
 ## Shader
 ## Stencil

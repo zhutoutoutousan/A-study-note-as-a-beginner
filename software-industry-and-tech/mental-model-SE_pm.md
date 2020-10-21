@@ -40,6 +40,8 @@
   - "blob"
 # Front-end
 ## Client-side networking
+- App cache
+- Service worker
 - Web API: The WebSockets
   - The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
 ## Client-side storage
@@ -71,6 +73,9 @@
 - TypeScript
 ## DI/DX
 ### Tools and gadgets
+- Debugging
+  - Watch events
+    - [Visual Event](http://www.sprymedia.co.uk/article/Visual+Event+2)
 - Project management
   - Formatting
     - Eslint
@@ -123,6 +128,7 @@
 # Front-end <--> back-End architecture
 - Web worker
   - [What's the difference between self and window?](https://stackoverflow.com/questions/3638887/whats-the-difference-between-self-and-window#:~:text=In%20short%2C%20both%20window%20and,object%20of%20client%2Dside%20javascript.&text=self%20is%20a%20read%2Donly,favor%20of%2C%20the%20window%20directly.)
+  - [x] [Intro to Web Workers](https://www.youtube.com/watch?v=EiPytIxrZtU)
 - API
   - Insomnia/Postman
 - Testing

@@ -1,3 +1,18 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Navigation](#navigation)
+- [Useful plug-ins](#useful-plug-ins)
+- [Keyboard shortcuts](#keyboard-shortcuts)
+  - [Visual navigation](#visual-navigation)
+  - [History navigation](#history-navigation)
+- [Wanna expand your skills later?](#wanna-expand-your-skills-later)
+- [Chrome DevTool](#chrome-devtool)
+- [Oops](#oops)
+  - [How to recover deleted bookmarks, passwords and other settings in Chrome](#how-to-recover-deleted-bookmarks-passwords-and-other-settings-in-chrome)
+
+# Navigation
+- I want to quickly access the tab I opened in a bunch of Chrome tabs with just a few keyword inputs
+  - Just mash `O` and search
 # Useful plug-ins
 - I want to only use keystrokes to navigate through all those pages: Vimium
 

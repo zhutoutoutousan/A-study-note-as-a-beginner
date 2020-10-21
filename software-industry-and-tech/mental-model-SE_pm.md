@@ -6,6 +6,8 @@
   - [Instance](#instance)
 - [General](#general)
 - [Front-end](#front-end)
+  - [Client-side networking](#client-side-networking)
+  - [Client-side storage](#client-side-storage)
   - [UI/UX](#uiux)
     - [Tools and gadgets](#tools-and-gadgets)
   - [Business logic](#business-logic)
@@ -35,8 +37,17 @@
     - Source code study progress track
       - Why study
       - [RTFM](https://github.com/isaacs/node-glob)
-
+  - "blob"
 # Front-end
+## Client-side networking
+- Web API: The WebSockets
+  - The WebSocket API is an advanced technology that makes it possible to open a two-way interactive communication session between the user's browser and a server. With this API, you can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+## Client-side storage
+- web API: Web storage
+  - Session storage
+  - Local Storage
+- Web API: IndexDB API
+- Browser Cookie
 ## UI/UX
 ### Tools and gadgets
 - Framework
@@ -110,8 +121,13 @@
 - Cross environment support
   - "cross-env"
 # Front-end <--> back-End architecture
+- Web worker
+  - [What's the difference between self and window?](https://stackoverflow.com/questions/3638887/whats-the-difference-between-self-and-window#:~:text=In%20short%2C%20both%20window%20and,object%20of%20client%2Dside%20javascript.&text=self%20is%20a%20read%2Donly,favor%20of%2C%20the%20window%20directly.)
 - API
   - Insomnia/Postman
+- Testing
+  - [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+    - Free to use fake Online REST API for testing and prototyping
 # Back-end
 - Node.js
   - Project architecture

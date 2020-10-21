@@ -8,6 +8,9 @@
 # Accesory study progress track
 - Three.js fundamentals
   - [link](https://threejsfundamentals.org/)
+  - [threejs - scenegraph](https://threejsfundamentals.org/threejs/lessons/threejs-scenegraph.html)
+    - Progress: Check the file 
+    - File: `scenegraph-practice`(code-playground)
 - Discover three.js
   - [link](https://discoverthreejs.com/)
 - Service side rendering

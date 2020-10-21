@@ -472,3 +472,5 @@
   - Easybar curl 5-8RM 5SETS
   - Tricep push down & kickback 5-8RM 3*2SETS  
   - Bike ride 30minutes
+- Day 18
+  - Leg day

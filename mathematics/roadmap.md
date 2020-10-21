@@ -37,6 +37,13 @@
 ## P.O.I
 - Joe Silverman
 
+
+# R programming
+
+# Useful tools
+## Visualization
+- [mathinsight](https://mathinsight.org/)
+
 # Resource
 - [The map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
 - [Terry Tao - Blog](https://terrytao.wordpress.com/)

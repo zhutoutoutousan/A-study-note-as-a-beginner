@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Computer graphics](#computer-graphics)
 - [Programming language proficiency](#programming-language-proficiency)
   - [C](#c)
   - [C++](#c-1)
@@ -16,6 +17,15 @@
 - [Engineering](#engineering)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
+
+# Computer graphics
+- Mathematics for 3D Game Programming and Computer Graphics 
+  - [link](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
+  - Progress 1
+    - Goal
+      - Lay a solid mathematic background for game developing
+    - Progress: Just started
+
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## C

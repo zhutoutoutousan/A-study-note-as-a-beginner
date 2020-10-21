@@ -51,3 +51,7 @@ Complete course:
 # Cryptology
 ## P.O.I
 - C.E.Shannon
+
+
+# Computer graphics
+- [REAL-TIME 4D ANIMATION ON A 3D GRAPHICS WORKSTATION](https://graphicsinterface.org/wp-content/uploads/gi1988-1.pdf)

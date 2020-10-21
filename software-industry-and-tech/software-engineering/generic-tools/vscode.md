@@ -157,6 +157,8 @@ Normal in windows 10 CLI
 # Future improvements?
 - When I was programming JavaScript with vscode, I'd really like a list of global variables, is there any?
   - What to input in the search engine?
+- Learn more about extensions
+  - [Vscode - extension guides](https://code.visualstudio.com/api/extension-guides/)
 
 # Resources
 [Visual Code Studio](https://code.visualstudio.com/docs/)

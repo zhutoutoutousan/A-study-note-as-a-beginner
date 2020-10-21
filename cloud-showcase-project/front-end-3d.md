@@ -14,19 +14,32 @@
   - [Introduction to NuxtJS - Nested and dynamic pages, layouts, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
 - Three.js learn from Chrome DevTools
   - A lot of examples can be learned from the Google Chrome DevTools
-
+- 3D Programming Fundamentals C++
+  - [Entry](https://www.youtube.com/watch?v=uehGqieEbus&list=PLqCJpWy5Fohe8ucwhksiv9hTF5sfid8lA)
+    - Process(Stupid process to understand faceculling)
+      - Tutorial 6
+        - Progress: 18:07/35:17
+- [Explaining basic 3D theory - MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
 # Agile development
 - Boilerplate
   - [vue-threejs](https://github.com/fritx/vue-threejs)
   - [react-threejs](https://github.com/fritx/react-threejs)
 # Interface 
-- three.js
-  - Examples
-    - [Tank](https://codepen.io/pen/?&editable=true&editors=101=https%3A%2F%2Fthreejsfundamentals.org%2F)
-  - Editor
-    - [editor source code](https://github.com/mrdoob/three.js/tree/master/editor)
-    - [Editor](https://threejs.org/editor/)
-  - Guide progress track
+- 3D render library
+  - AR.JS
+  - Unity/Unreal
+  - babylon.js
+  - Playcanvas
+  - A-frame
+    - Toy-level, not suitable
+    - You can use all your three.js knowledge to create objects, and use aframe to handle the life cycle and interactions to have a good experience in VR.
+  - three.js
+    - Examples
+      - [Tank](https://codepen.io/pen/?&editable=true&editors=101=https%3A%2F%2Fthreejsfundamentals.org%2F)
+    - Editor
+      - [editor source code](https://github.com/mrdoob/three.js/tree/master/editor)
+      - [Editor](https://threejs.org/editor/)
+    - Guide progress track
 - Format converter
   - [Free online GLB to OBJ Converter](https://products.aspose.app/3d/conversion/glb-to-obj)
   - There are a lot of useful format converters, exporters in the `three.js/util`

@@ -1,3 +1,8 @@
+# Material science
+- Semiconductor Physics And Devices
+  - [link1](http://www.fulviofrisone.com/attachments/article/403/Semiconductor%20Physics%20And%20Devices%20-%20Donald%20Neamen.pdf)
+- Basic Semiconductor Material Science and Solid State Physics
+  - [link1](http://web.pdx.edu/~davide/notes.pdf)
 # General physics
 - University physics with modern physics Young and Freedman
   - [Link1](http://dl.booktolearn.com/ebooks2/science/physics/9780321696861_university_physics_with_modern_physics_c2cc.pdf)

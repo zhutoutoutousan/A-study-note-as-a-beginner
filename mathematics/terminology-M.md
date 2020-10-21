@@ -1,10 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Refactor plan](#refactor-plan)
 - [Alphabetical](#alphabetical)
-  - [A](#a)
-    - [Algebraic geometry](#algebraic-geometry)
-  - [B](#b)
-    - [Birch Conjecture](#birch-conjecture)
   - [C](#c)
     - [Calabi-Yao manifold](#calabi-yao-manifold)
     - [Compact space](#compact-space)
@@ -79,13 +76,18 @@
     - [Vector](#vector)
 - [Mathematic symbol](#mathematic-symbol)
   - [Logical reasoning](#logical-reasoning)
+
+# Refactor plan
+- This is not a store for memorization or disorganized, confusing warehouse. Come up with a better data structure
+- Delete those that you don't want to stimulate yourself with on a daily, weekly or monthly basis
+- You can group a set of concepts together, nest those concepts either for the sake of smooth recall process or their relationship
 # Alphabetical
-## A
-### Algebraic geometry
-## B
-### Birch Conjecture
+
 ## C
 ### Calabi-Yao manifold
+- [Calabi-Yao manifold - wiki](https://en.wikipedia.org/wiki/Calabi%E2%80%93Yau_manifold)
+- [Algebraic geometry](https://en.wikipedia.org/wiki/Algebraic_geometry)
+  - [Polynomial](https://en.wikipedia.org/wiki/Polynomial#Multivariate_polynomial)
 ### Compact space
 - [wiki](https://en.wikipedia.org/wiki/Compact_space)
   - Suggested treat this as a mind trainer for your spatial intelligence

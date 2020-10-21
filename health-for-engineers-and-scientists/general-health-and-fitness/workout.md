@@ -474,3 +474,7 @@
   - Bike ride 30minutes
 - Day 18
   - Leg day
+  - Squat 5-8RM 5SETS
+  - Split squat 5-8RM 5SETS
+  - Calf raise 6-8RM 5SETS
+  - Banded hip pull 6-8RM 3SETS

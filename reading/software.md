@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Computer system](#computer-system)
 - [Computer graphics](#computer-graphics)
 - [Programming language proficiency](#programming-language-proficiency)
   - [C](#c)
@@ -8,7 +9,6 @@
   - [Java](#java)
 - [Data structure and algorithms](#data-structure-and-algorithms)
 - [Programming language principle & paradigm](#programming-language-principle--paradigm)
-- [Computer system](#computer-system)
 - [Computer security](#computer-security)
 - [Full-stack development](#full-stack-development)
 - [Computer networking](#computer-networking)
@@ -18,9 +18,46 @@
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
 
+
+# Computer system
+- Computer Systems: A Programmer's Perspective: 40/1078
+  -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
+  -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
+  -  Process 1:(Read when not in intense working period)
+     -  Progress: 47/1078
+     -  Short-term store
+        -  Visualization
+           -  Compilation phase: P40
+           -  Hardware organization of a typical system: P43
+           -  Loading the executable from disk into main memory P46
+           -  Writing the output string from memory to the display P47
+     -  I.O.I
+        - GNU：P41
+  -  Process 2:(Build your own computer system)
+     - Budget FPGA project
+       - [The best FPGA boards for beginners](https://augustafreepress.com/the-best-fpga-boards-for-beginners/)
+         - [ALINX XILINX 黑金FPGA开发板SPARTAN6 XC6SLX9 FPGA学习板AX309](https://detail.tmall.com/item.htm?spm=a230r.1.14.20.694f3b0ece4dTE&id=595378320744&ns=1&abbucket=13&skuId=4133553384338)
+       - [Resource](https://cseweb.ucsd.edu/classes/sp08/cse141/slides/CSE141-MBT-L1.pdf)
+     - Find more viable resource for your hands-on computer system project
+     - [Helix microsystems](https://www.helixmicrosystems.com/products)
+  -  Prerequisites
+     - [x] familiarity with C or C++
+     - [x] Linux or [Cygwin tools](www.cygwin.com)
+     - [x] No hardware, machine language or assembly-language programming
+  - Reading methods
+    - Solution to the problems are at the end of each chapter
+    - The blue diamond markings indicates the effort.(See 21/1078)
+    - Source code available from [CS:APP](csapp.cs.cmu.edu)
+  - Why bother reading this book
+    - Like duh
+  - [Configuring C/C++ debugging - Vscode](https://code.visualstudio.com/docs/cpp/launch-json-reference)
+   
+
 # Computer graphics
 - Mathematics for 3D Game Programming and Computer Graphics 
   - [link](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
+  - AFTER READING
+    - You would probably more ready for developing a professional-quality 3D graphics engine
   - Progress 1
     - Goal
       - Lay a solid mathematic background for game developing
@@ -91,26 +128,6 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Programming language principle & paradigm
 - Functional programming in JavaScript 24/274
 
-# Computer system
-- Computer Systems: A Programmer's Perspective: 40/1078
-  -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
-  -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
-  -  Process 1:(Read when not in intense working period)
-     -  Progress: 42/1078
-     -  Short-term store
-        -  Compilation phase: P40
-     -  I.O.I
-        -  GNU： P41
-  -  Prerequisites
-     - [x] familiarity with C or C++
-     - [x] Linux or [Cygwin tools](www.cygwin.com)
-     - [x] No hardware, machine language or assembly-language programming
-  - Reading methods
-    - Solution to the problems are at the end of each chapter
-    - The blue diamond markings indicates the effort.(See 21/1078)
-    - Source code available from [CS:APP](csapp.cs.cmu.edu)
-  - Why bother reading this book
-    - Like duh
 # Computer security
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)

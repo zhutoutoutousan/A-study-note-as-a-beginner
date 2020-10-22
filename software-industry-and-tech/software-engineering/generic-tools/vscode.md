@@ -17,6 +17,7 @@
   - [Editing](#editing)
     - [Resources](#resources)
   - [Resources](#resources-1)
+- [Coding](#coding)
 - [Tools and Project Management](#tools-and-project-management)
   - [Code](#code)
   - [Command palette](#command-palette)
@@ -104,6 +105,10 @@ Q: What about /* */?
 
 ## Resources
 [Code navigation](https://code.visualstudio.com/docs/editor/editingevolved)
+
+# Coding
+- Control comment type
+  - Ctrl+K Ctrl+/
 # Tools and Project Management
 ## Code
 ## Command palette

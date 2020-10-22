@@ -5,6 +5,12 @@
     - [Algebraic geometry](#algebraic-geometry)
   - [B](#b)
     - [Birch Conjecture](#birch-conjecture)
+  - [N](#n)
+    - [Normal](#normal)
+  - [S](#s)
+    - [Spline](#spline)
+  - [T](#t)
+    - [Tangent](#tangent)
 # Alphabetical
 ## A
 ### Algebraic geometry
@@ -28,3 +34,21 @@
 - `NEST_OV_1`
   - [Trefoil](https://en.wikipedia.org/wiki/Trefoil_knot)
     - [Parametric equation](https://en.wikipedia.org/wiki/Parametric_equation)
+
+## N
+### Normal
+- [Normal](https://en.wikipedia.org/wiki/Normal_(geometry))
+- [Convex set](https://en.wikipedia.org/wiki/Convex_set)
+## S
+### Spline
+- [Self](https://en.wikipedia.org/wiki/Spline_(mathematics))
+- [Piecewise](https://en.wikipedia.org/wiki/Piecewise)
+- [Spline interpolation](https://en.wikipedia.org/wiki/Spline_interpolation)
+  - [Polynomial interpolation](https://en.wikipedia.org/wiki/Polynomial_interpolation)
+    - [Interpolation](https://en.wikipedia.org/wiki/Interpolation)\
+  - [Curvature](https://en.wikipedia.org/wiki/Curvature)
+
+
+## T
+### Tangent
+- [Tangent](https://en.wikipedia.org/wiki/Tangent)

@@ -79,6 +79,7 @@
     - [Lexical scope](#lexical-scope)
   - [IIFE](#iife)
 - [Non-Object](#non-object)
+- [Questions](#questions)
 
 
 # Object
@@ -337,3 +338,9 @@ const a = (function(){
 ## IIFE
 
 # Non-Object
+
+
+# Questions
+- If I pass an object to a class using `call()` to determine its `this` value, ... Read only?
+  - [Source of question](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+    - Using call to invoke a function and specifying the context for 'this'

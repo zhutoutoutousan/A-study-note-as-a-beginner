@@ -20,6 +20,10 @@
 ## Frustum
 - [wiki](https://en.wikipedia.org/wiki/Frustum)
 
+# H
+## HSL & HSV
+- [WIKI](https://en.wikipedia.org/wiki/HSL_and_HSV)
+
 
 # I
 ## Isotropy
@@ -41,6 +45,8 @@
 ## Panorama
 - [wiki](https://en.wikipedia.org/wiki/Panorama)
 ## Perspective virtual camera system
+## Phong shading
+- [Phong shading](https://en.wikipedia.org/wiki/Phong_shading)
 ## Pigment
 # R
 ## Rasterization

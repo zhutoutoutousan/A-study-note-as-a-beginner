@@ -182,6 +182,7 @@
     - [Unified Modeling Language(UML)](#unified-modeling-languageuml)
     - [URI](#uri)
     - [User interface(UI)](#user-interfaceui)
+    - [UUID](#uuid)
   - [V](#v)
     - [Vector graphics](#vector-graphics)
     - [Vue components](#vue-components)
@@ -692,7 +693,8 @@ The term **Web service(WS)** is either:
 
 ### URI
 ### User interface(UI)
-
+### UUID
+- [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier#:~:text=A%20universally%20unique%20identifier%20(UUID,in%20software%20created%20by%20Microsoft.)
 ## V
 ### Vector graphics
 ### Vue components

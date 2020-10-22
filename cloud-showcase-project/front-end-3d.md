@@ -63,6 +63,12 @@
 
 # Features showcase
 ## Movement
+### First person
+- See `code-playground`
+### Fly
+- See `code-playground`
+## Collision detection
+- [How to detect collision in three.js?](https://stackoverflow.com/questions/11473755/how-to-detect-collision-in-three-js)
 ## VR
 - [WebXR](https://mixedreality.mozilla.org/hello-webxr/)
 

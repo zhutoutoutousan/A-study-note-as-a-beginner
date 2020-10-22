@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Time Control](#time-control)
 - [Assets](#assets)
+- [Architecture](#architecture)
 - [Current Top Priority](#current-top-priority)
 - [Client requirement](#client-requirement)
   - [Teamplay](#teamplay)
@@ -17,6 +18,9 @@
 
 # Assets
 - 上海一实沉浸体验8.17
+
+# Architecture
+- [Cloudbase framework](https://github.com/TencentCloudBase/cloudbase-framework)
 
 
 # Current Top Priority

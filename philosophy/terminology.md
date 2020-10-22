@@ -1,2 +1,0 @@
-# P
-## Post-modernism

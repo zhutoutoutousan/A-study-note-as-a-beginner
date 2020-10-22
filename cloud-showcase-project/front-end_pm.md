@@ -35,10 +35,14 @@
     - Source code study progress track
       - Why study
       - [RTFM](https://github.com/isaacs/node-glob)
-
+- General development experience
+  - Lerna
+    - [github repo](https://github.com/lerna/lerna)
 # Front-end
 ## UI/UX
 ### Tools and gadgets
+- Component library
+  - [aliyun - cloud-design](https://github.com/aliyun/cloud-design)
 - Framework
   - Bootstrap
     - UI gadget(html class --> css library)

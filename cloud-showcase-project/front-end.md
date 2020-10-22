@@ -1,6 +1,9 @@
 # Front-end performance
 - [Cranking Up Performance in Graphics Intensive Web Apps and Games (Google I/O '17)](https://www.youtube.com/watch?v=wkDd-x0EkFU)
 
+# Accessibility
+- Multiple language support
+
 # Compatibility & Security & Agility
 - Resource
   - [Introduction to cross browser testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction)

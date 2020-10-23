@@ -17,3 +17,9 @@
 # Design
 - Landing page
   - [What is a Landing Page?](https://www.youtube.com/watch?v=OeuS3PnjTH8)
+
+
+# Useful stacks
+- Animation on scroll
+  - [AOS: CSS-Driven “On Scroll” Animation Library](https://css-tricks.com/aos-css-driven-scroll-animation-library/)
+  - Apple official website

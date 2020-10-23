@@ -21,7 +21,7 @@
 
 # Architecture
 - [Cloudbase framework](https://github.com/TencentCloudBase/cloudbase-framework)
-
+- [Game system design](https://www.youtube.com/watch?v=EU81tjgoKoI)
 
 # Current Top Priority
 - Get familiar with our client

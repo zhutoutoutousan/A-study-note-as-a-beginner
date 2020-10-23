@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [General mathematics](#general-mathematics)
+- [Geometry & Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
   - [General](#general)
 - [Linear algebra](#linear-algebra)
@@ -47,6 +48,11 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
     - Need to download :(
     - !!!(private)Search for 7__.pdf.pdf locally
 
+# Geometry & Topology
+- Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces
+  - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf)
+- Topology for the working mathematician
+  - [link1](https://www.math.ru.nl/~mueger/topology.pdf)
 
 # Mathematical analysis
 ## General

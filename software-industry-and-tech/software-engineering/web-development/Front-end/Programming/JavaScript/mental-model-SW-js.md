@@ -20,6 +20,9 @@ function duplicateSpreadsheet(original) {
 - When I am coding a program that contains some fairly large classes, I start to lose track of some methods and its specifications, is there any technique or metal exercise that attack this issue?
   - Maybe start visualizing its output and input?
 
+# Guidance
+- [Javascript “Bang, Bang. I Shot You Down” - Use of Double Bangs (!!) in Javascript.](https://medium.com/better-programming/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)
+
 
 # Visualization resource
 - [JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)

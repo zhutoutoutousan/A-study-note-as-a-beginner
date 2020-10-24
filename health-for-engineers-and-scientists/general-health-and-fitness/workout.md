@@ -473,5 +473,10 @@
   - Tricep push down & kickback 5-8RM 3*2SETS  
   - Bike ride 30minutes
 - Day 18
-  - 
+  - Off day due to signs of illness
 - Day 19
+  - Leg day
+  - Squat 5-8RM 5SETS
+  - Split squat 5-8RM 5SETS
+  - Hip thrust 5-8RM 5SETS
+  - Banded hip pull 6-8RM 3SETS

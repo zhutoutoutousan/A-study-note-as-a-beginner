@@ -76,6 +76,9 @@
 ## Pyramid path
 - [Project Euler Maximum path sum I](https://projecteuler.net/problem=18)
 - [Pyramid Slide down](https://www.codewars.com/kata/551f23362ff852e2ab000037/train/javascript)
+  - Trim down to easier materials first
+    - [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=aPQY__2H3tE)
+    - [5 Simple Steps for Solving Dynamic Programming Problems](https://www.youtube.com/watch?v=aPQY__2H3tE)
 ```javascript
 // Still missing a lot of stuffs to give a satisfactory input, give it a try after more training
 function longestSlideDown (pyramid) {
@@ -87,7 +90,6 @@ function longestSlideDown (pyramid) {
   
 }
 ```
-
 ### Binomial Expansion
 - [codewar - binomial expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b/train/javascript)
 ### Trim down to easier version first

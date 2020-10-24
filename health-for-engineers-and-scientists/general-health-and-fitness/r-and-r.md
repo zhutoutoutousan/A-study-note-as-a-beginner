@@ -1,3 +1,6 @@
+# Work stress
+- [Understanding the stress response](https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response#:~:text=The%20autonomic%20nervous%20system%20has,can%20respond%20to%20perceived%20dangers.)
+
 # Arsenal of R&R
 ## Sleep
 ## Meditation

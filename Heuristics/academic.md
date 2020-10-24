@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Roadmap](#roadmap)
 - [Study style(Academic)](#study-styleacademic)
+  - [From my perspective](#from-my-perspective)
   - [The science behind learning](#the-science-behind-learning)
     - [Basic rules](#basic-rules)
     - [Focused modes](#focused-modes)
@@ -100,6 +101,8 @@
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
 - [The map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 # Study style(Academic)
+## From my perspective
+- Top-down approach is probably for me. Top represents something I'm drawn to. Many universities use Bottom-up approach, which I think is confusing, deflating and ineffective.
 ## The science behind learning
 ### Basic rules
 - Like weightlifting and bodybuilding, learning something difficult takes time

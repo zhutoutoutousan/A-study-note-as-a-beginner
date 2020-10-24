@@ -56,6 +56,7 @@
   - [Linear probing](#linear-probing)
   - [Linked List](#linked-list)
   - [Load factor](#load-factor)
+  - [Locality](#locality)
 - [M](#m)
   - [MAC address](#mac-address)
   - [Memoization](#memoization)
@@ -81,6 +82,7 @@
   - [Satellite data](#satellite-data)
   - [Socket](#socket)
   - [Socket interface](#socket-interface)
+  - [SRAM](#sram)
   - [Stack](#stack)
   - [State space](#state-space)
   - [Space complexity](#space-complexity)
@@ -211,6 +213,9 @@ In the context of hardware and software systems, **formal verification** is the 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 ## Load factor
 - (Hash algorithm) Load factor = $\frac{Total\,\, number\, of\, items\, stored}{Size\,of\,the\,array}$
+
+## Locality
+- The tendency for programs to access data and code in localized regions.
 # M
 ## MAC address
 ## Memoization
@@ -267,6 +272,8 @@ Many useful algorithms are **recursive** in structure: to solve a given problrm,
 - In a typical implementation of a dynamic set, each elements is represented by an object whose attributes can be examined and manipulated if we have a pointer to the object. Some kinds of dynamic  sets assume that one of the object's attributes is an identifying **key**. If the keys are all different, we can think of the dynamic set as being a set of key values. The object may contain **satellite data**, which are carried around in other object attributes but are otherwise unused by the set implementation. It may also have attributes that are manipulated by the set operations; these attributes may contain data or pointers to other objects in the set.
 ## Socket
 ## Socket interface
+## SRAM
+- SRAM: Static random access memory
 ## Stack
 - (Data structure)See the **stack** section
 ## State space

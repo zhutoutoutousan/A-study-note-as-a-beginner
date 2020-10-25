@@ -1,9 +1,7 @@
 # Contents
 - [Contents](#contents)
 - [A](#a)
-  - [Algorithm](#algorithm)
-  - [Alpha-beta pruning](#alpha-beta-pruning)
-  - [AON](#aon)
+  - [Abstraction](#abstraction)
   - [Assertion](#assertion)
   - [Associative array](#associative-array)
 - [B](#b)
@@ -18,7 +16,6 @@
   - [CMTS](#cmts)
   - [CO](#co)
   - [Computability theory](#computability-theory)
-  - [Context switch](#context-switch)
   - [Control flow](#control-flow)
   - [Conway's Game of Life](#conways-game-of-life)
   - [Cryptoanalysis](#cryptoanalysis)
@@ -46,12 +43,6 @@
   - [FTTH](#ftth)
 - [H](#h)
   - [Hash Table/Hash map](#hash-tablehash-map)
-  - [HFC network](#hfc-network)
-  - [Host](#host)
-  - [Hub 集线器](#hub-集线器)
-- [I](#i)
-  - [Internet Protocol(IP)](#internet-protocolip)
-  - [IoT](#iot)
 - [L](#l)
   - [Linear probing](#linear-probing)
   - [Linked List](#linked-list)
@@ -101,20 +92,15 @@
 - [W](#w)
 - [Book entry](#book-entry)
 # A
-## Algorithm
-- An **algorithm** is any well-defined computational procedure that takes some value, or set of values, as **input** and produces some values, or sets of values, as **output**.
-- An algorithm is said to be **correct** if, for every input instance, it halts with the correct output.
-## Alpha-beta pruning
-- **Alpha-beta pruning** is a search algorithm that seeks to decrease the number of nodes that are evaluated by the minimax algorithm in its search tree.
-- [wiki](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
-- [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=12s)
-- Q: 
-  - What's its difference between memoization
-## AON
-- Active Optical Networks
-- Household network --> Splitting service --> AON
-- AON is essentially switched Ethernet
-
+## Abstraction
+- Examples
+  - Software engineering
+    - One aspect of good programming practice is to formulate a simple application-program interface(API) for a set of functions that allow programmers to use the code without having to delve into its inner workings
+  - Computer system
+    - Files <-- I/O devices
+    - Virtual memory  <-- Main memory and disk
+    - Process <-- Processor, main memory, I/O devices
+    - [P60 Some abstractions provided by a computer system](http://guanzhou.pub/files/Computer%20System_EN.pdf)
 ## Assertion
 - [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
 ## Associative array
@@ -139,8 +125,7 @@
 - [wiki](https://en.wikipedia.org/wiki/Computability_theory)
   - Complex content, activate progress track
     - [ ] Turing degrees
-## Context switch
-- A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.
+
 ## Control flow
 ## Conway's Game of Life
 ## Cryptoanalysis
@@ -192,18 +177,8 @@ In the context of hardware and software systems, **formal verification** is the 
 - In computing, a **hash table**(hash map) is a data structure whic himplements an *associative array* abstract data type, a structure that can map *keys to values*. A hash table uses a *hash function* to compute an index into an array of buckets or slots, from which the desired value can be found.
 - Ideally, the hash function will assign each key to a unique bucket, but most hash tabel designs employ an imperfect hash function, which might cause has collisions where the hash function generates the same index for more than one key. Such collisions must be accomodated in some way.
 - [javascript-algorithms](https://github.com/zhutoutoutousan/javascript-algorithms/tree/master/src/data-structures/hash-table)
-## HFC network
-## Host
-## Hub 集线器
-- A hub doesn't filter data or has any intelligence as to where the data should be sent.
-- The only thing the hub knows is when the device is connected to one of its ports, when a data packet arrives at one of the ports, it is copied to all of the other ports.
-- [集线器，交换机和路由器解释 - 有什么区别？](https://www.youtube.com/watch?v=1z0ULvg_pW8)
-# I
-## Internet Protocol(IP)
-- The TCP and IP are two of the most important protocols in the Internet
-- The IP protocol specifies the format of the packets that are sent and received among routers and end systems
-## IoT
-- Internet of Things
+
+
 
 # L
 ## Linear probing

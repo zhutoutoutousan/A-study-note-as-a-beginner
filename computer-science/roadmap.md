@@ -3,7 +3,9 @@
 
 # Computer system and OS
 - [CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark)
-
+- [GNU](https://www.gnu.org/)
+- [Linux](https://www.linux.org/)
+- [UNIX](https://www.opengroup.org/membership/forums/platform/unix)
 # Computer networking
 ## Online course progress track
 ### Youtube channels

@@ -24,9 +24,9 @@
   -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
   -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
   -  Process 1:(Read when not in intense working period)
-     -  Progress: 49/1078
+     -  Progress: 65/1078
      -  Short-term store
-        -  Visualization
+        -  Visualization(Append to terminology recommended)
            -  Compilation phase: P40
            -  Hardware organization of a typical system: P43
            -  Loading the executable from disk into main memory P46
@@ -35,6 +35,7 @@
            -  Computer system visulization
               -  Layered view of a computer system P49
               -  Abstractions provided by an operating system P50
+              -  Process context switching P51
 
      -  I.O.I
         - GNU：P41

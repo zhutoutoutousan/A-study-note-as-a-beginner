@@ -8,3 +8,5 @@
   - [X] Take your time, finish this first
   - [Watch and leran Dynamic programming](https://www.youtube.com/watch?v=aPQY__2H3tE)
     - Progress
+  - Jung *On the nature of psyche*(Paperback)
+    - Progress: 0/10

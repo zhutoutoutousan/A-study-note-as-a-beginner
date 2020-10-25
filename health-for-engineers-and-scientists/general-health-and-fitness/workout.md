@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Paradigm shift: Leveling up](#paradigm-shift-leveling-up)
 - [Why should engineers and scientists workout at the first place?](#why-should-engineers-and-scientists-workout-at-the-first-place)
   - [Benefits](#benefits)
   - [Scenarios](#scenarios)
@@ -63,6 +64,10 @@
       - [120 days strength plan](#120-days-strength-plan)
     - [Regular hypertrophy](#regular-hypertrophy)
       - [20 days maintenance training under heavy life uncertainties](#20-days-maintenance-training-under-heavy-life-uncertainties)
+
+# Paradigm shift: Leveling up
+- [How To Deload](https://www.youtube.com/watch?v=Dt6ok24VBpg)
+
 
 # Why should engineers and scientists workout at the first place?
 ## Benefits
@@ -480,3 +485,11 @@
   - Split squat 5-8RM 5SETS
   - Hip thrust 5-8RM 5SETS
   - Banded hip pull 6-8RM 3SETS
+- Day 20
+  - Ab day
+  - Landmine swing 3SETS
+    - [The Most Powerful Ab Exercise Ever (6 PACK POWER!) - ATHLEAN-X](https://www.youtube.com/watch?v=M00ZuV7a9k8)
+  - Hanging leg raise(II-X-I/-I\\) 5-8RM 3SETS
+  - Oblique rotation 3-6RM 5SETS
+  - Band crunch 6-8RM 3SETS
+  - Explosive bench press 10/12-15RM 3SETS  

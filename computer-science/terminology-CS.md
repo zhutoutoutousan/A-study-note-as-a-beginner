@@ -65,6 +65,7 @@
   - [Network core](#network-core)
   - [NP-complete problems](#np-complete-problems)
 - [O](#o)
+  - [OS](#os)
   - [OS kernel](#os-kernel)
   - [OS-level virtualization](#os-level-virtualization)
 - [P](#p)
@@ -241,6 +242,11 @@ In the context of hardware and software systems, **formal verification** is the 
 ## NP-complete problems
 
 # O
+## OS
+- OS: Operating system
+- Primary purposes
+  - Protect the hardware from misuse by runaway applications
+  - Provide applications with simple and uniform mechanisms for manipulating complicated and often wildely different low-level hardware devices.
 ## OS kernel
 ## OS-level virtualization
 - OS-level virtualization is an operating system paradigm in which the kernel allows the existence of multiple isolated user space instances.

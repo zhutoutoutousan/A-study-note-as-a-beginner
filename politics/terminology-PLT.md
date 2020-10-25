@@ -72,6 +72,7 @@
     - [Online shaming](#online-shaming)
     - [Overturn](#overturn)
   - [P](#p)
+    - [Pareto distribution](#pareto-distribution)
     - [Persecution](#persecution)
     - [PLA](#pla)
     - [Pluralism](#pluralism)
@@ -85,6 +86,7 @@
     - [Power](#power)
     - [Potty-mouth](#potty-mouth)
     - [Projection](#projection)
+    - [Pun](#pun)
   - [R](#r)
     - [Racism](#racism)
     - [Radical left](#radical-left)
@@ -206,6 +208,8 @@
 ### Online shaming
 ### Overturn
 ## P
+### Pareto distribution
+- [wiki](https://en.wikipedia.org/wiki/Pareto_distribution)
 ### Persecution
 - (noun)hostility and ill-treatment, especially because of race or political or religious beliefs
 ### PLA
@@ -233,7 +237,10 @@
 
 ### Potty-mouth
 ### Projection
-
+### Pun
+- The **pun**, also called **paronomasia**, is a form of word play that explots multiple meanings of a term, or of similar-sounding words, for an intended humorous or rhetorical effect.
+- [Pun](https://en.wikipedia.org/wiki/Pun)
+  - [Literal and figurative language](https://en.wikipedia.org/wiki/Literal_and_figurative_language)
 ## R
 ### Racism
 ### Radical left

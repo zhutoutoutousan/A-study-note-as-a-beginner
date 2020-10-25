@@ -24,13 +24,18 @@
   -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
   -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
   -  Process 1:(Read when not in intense working period)
-     -  Progress: 47/1078
+     -  Progress: 49/1078
      -  Short-term store
         -  Visualization
            -  Compilation phase: P40
            -  Hardware organization of a typical system: P43
            -  Loading the executable from disk into main memory P46
            -  Writing the output string from memory to the display P47
+           -  An example of a memory hierarchy P49
+           -  Computer system visulization
+              -  Layered view of a computer system P49
+              -  Abstractions provided by an operating system P50
+
      -  I.O.I
         - GNU：P41
   -  Process 2:(Build your own computer system)

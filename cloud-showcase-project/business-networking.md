@@ -1,4 +1,3 @@
-
 # Tools
 - LinkedIn
   - Update your status
@@ -21,7 +20,8 @@
 # Meet with SUZHOU infoteam
 - Current status
   - It's best if you could gather more assets to show
-
+    - 3D homepage
+    - 2D homepage
 # P.O.I
 - 张总--> 张京
 - 程

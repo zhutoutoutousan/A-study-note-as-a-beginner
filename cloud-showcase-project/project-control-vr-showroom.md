@@ -32,7 +32,6 @@
   - Recommendations
     - You don't need people
       - Limitations:
-        -  
       - Inspiration: CYPHER, Talos principle
         - [Cypher * FULL GAME WALKTHROUGH GAMEPLAY](https://www.youtube.com/watch?v=AZIc0NZ3cX8)
         - [The Talos Principle * FULL GAME WALKTHROUGH GAMEPLAY & ALL ENDINGS](https://www.youtube.com/watch?v=ycwzQ-3tVPg)

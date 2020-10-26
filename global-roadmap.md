@@ -1,2 +1,48 @@
-# 3d tools
-- [Blender - github](https://github.com/blender/)
+# Weeks
+- Projects
+  - Project: Cloud showroom(21/1/31)
+  - Project: Homepage
+- Time progress
+  - 21/1/31: 14weeks
+    - Sort by current items
+      - Long-term technology debt prevention
+      - Front-end basics
+        - UI components
+          - Modal box
+          - VR control pannel
+          - Button sets
+        - Whole page layout
+        - Animations and effects
+        - 3D programming
+          - three.js
+            - Feature
+              - **First person**
+              - **Collision detection**
+            - Problems
+              - Why does some mesh just disappear when I am close to it when in the fly mode?
+    - Week 1
+      - Cloud showcase(一实)
+        - Paradigm: Feasibility test
+          - Directions:
+            - 京瓷
+              - [pano2vr](https://ggnome.com/pano2vr/#examples)
+            - 3d model
+          - Current topics
+            - Group dynamics
+            - Workflow
+            - Prototype test
+              - You should test it on the server
+                - Aliyun
+                - Tech
+                  - [How to make a loading screen in three.js](https://stackoverflow.com/questions/35575065/how-to-make-a-loading-screen-in-three-js/35584276)
+      - Company front-page
+        - Paradigm: 3d model --> 360 Virtual tour
+        - Tools
+          - [camera-controls](https://www.npmjs.com/package/camera-controls)
+        - Difficult part
+          - Auto tour based on camera
+            - [Smooth Camera Movement Three.js](https://codepen.io/Fallenstedt/pen/QvKBQo)
+            - The tank project(Offical three.js guide)
+            - `setTimeOut`+`Promise`
+              - 
+      - VR platform

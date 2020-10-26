@@ -5,3 +5,4 @@
     - Distance: (Approximately 2km bike ride)
 - Bus to arrival at workplace
   - Datapunkt 1: 1:23:32
+  - Datapunkt 2: 1:19:00

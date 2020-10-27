@@ -35,6 +35,56 @@
                 - Aliyun
                 - Tech
                   - [How to make a loading screen in three.js](https://stackoverflow.com/questions/35575065/how-to-make-a-loading-screen-in-three-js/35584276)
+          - Progress 项目进展
+            - [ ] Goal: 
+              - [ ] No explicit goal 无显式目标
+              - [ ] Implicit 隐式目标
+                - [ ] Show to clients  客户
+                - [ ] Feasibility test model 可行性测试模型
+                - [ ] Demo展示
+            - [ ] Deadline: 10/29 
+            - [ ] Items
+              - [x] Loading page 装载画面
+                - [x] [Example](https://jsfiddle.net/sojzu8a5/1/)
+                - [x] Construction 建设
+                - [ ] Keep an eye out for potential problems when deploying 密切注意开发后期可能存在的问题
+              - [ ] Physics 物理引擎
+                - [ ] First person
+                  - [ ] **First person camera** 
+                  - [ ] (Not urgent)`pointerclick`
+                    - [ ] [Pointer Lock and First Person Shooter Controls](https://www.html5rocks.com/en/tutorials/pointerlock/intro/)
+                    - [ ] [Quake 3 Map Viewer](http://media.tojicode.com/q3bsp/)
+                  - [ ] (Not urgent)`fullScreen`
+                    - [ ] [Fullscreen API](https://developer.mozilla.org/en-US/docs/Web/API/Fullscreen_API)
+                - [ ] **Collision detection**
+                  - [ ] Physii.js study
+                    - [ ] [Physii setup](https://github.com/chandlerprall/Physijs/wiki/Basic-Setup)
+                  - [ ] Camera collision
+                    - [ ] Convenience-induced code refactoring
+                      - [ ] Examples in the `Physii.js`
+                    - [ ] Raycasting
+                      - [ ] [camera FirstPersonControls with collisions](https://github.com/mrdoob/three.js/issues/913)
+                      - [ ] [three.js example](https://threejs.org/examples/#webgl_instancing_raycast)
+                      - [ ] [Cannon.js](https://discourse.threejs.org/t/preferred-physics-engine-cannon-js-ammo-js-diy/1565/2)
+                      - [ ] [Cannon.js example](https://schteppe.github.io/cannon.js/examples/threejs_fps.html)
+
+              - [ ] **Networking**
+                - [ ] 阿里云
+                  - [x] 域名注册
+                    - [x] `zhutoutoutousan.xyz`
+                    - [ ] 域名实有制注册
+                      - [ ] 需要双面身份证扫描件
+                  - [ ] CDN
+                    - [ ] [验证域名归属权](https://help.aliyun.com/document_detail/169377.html?spm=5176.11785003.domainAdd.3.3ed6142f6trZNa)
+              - [ ] (Optional)`vue-threejs`(refactor) + deploy / Or you can just use simpler version
+                - [ ] Async load
+                - [ ] CDN for 3d model
+                - [ ] (Optional) Webpack
+              - [ ] (Optional)Add light to the model before deploy
+              - [ ] Extras
+                - [ ] [Camera autopilot](https://threejs.org/examples/#webgl_camera) 
+                - [ ] Performance
+                  - [ ] [three.js example](https://threejs.org/examples/#webgl_interactive_cubes_gpu)
       - Company front-page
         - Paradigm: 3d model --> 360 Virtual tour
         - Tools
@@ -44,5 +94,31 @@
             - [Smooth Camera Movement Three.js](https://codepen.io/Fallenstedt/pen/QvKBQo)
             - The tank project(Offical three.js guide)
             - `setTimeOut`+`Promise`
-              - 
+              - d
       - VR platform
+
+
+# Decision making
+- 四天(本周四)
+  - 效果
+    - 基本灯光
+    - 物理碰撞
+  - 功能
+    - 漫游功能
+      - 手动漫游
+        - （可选）如需自动漫游，对当前场景只需证明可行性的demo
+      - 第一人称
+  - 网页
+    - 运行于阿里云服务器
+    - 加载完成前页面
+  - 缺点
+    - 代码质量集成率低
+    - 未经多浏览器测试
+    - 快速开发引入的其余问题
+- 两周
+  - 功能
+    - 自动漫游
+  - 项目
+    - 高代码质量
+    - 项目管理
+[Tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)

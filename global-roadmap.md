@@ -62,6 +62,7 @@
                   - [ ] Camera collision
                     - [ ] Convenience-induced code refactoring
                       - [ ] Examples in the `Physii.js`
+                        - [ ] [How I structure my vanilla JS projects](https://gomakethings.com/how-i-structure-my-vanilla-js-projects/)
                     - [ ] Raycasting
                       - [ ] [camera FirstPersonControls with collisions](https://github.com/mrdoob/three.js/issues/913)
                       - [ ] [three.js example](https://threejs.org/examples/#webgl_instancing_raycast)

@@ -37,7 +37,7 @@
                   - [How to make a loading screen in three.js](https://stackoverflow.com/questions/35575065/how-to-make-a-loading-screen-in-three-js/35584276)
           - Progress 项目进展
             - [ ] Goal: 
-              - [ ] No explicit goal 无显式目标
+              - [x] No explicit goal 无显式目标
               - [ ] Implicit 隐式目标
                 - [ ] Show to clients  客户
                 - [ ] Feasibility test model 可行性测试模型
@@ -51,6 +51,7 @@
               - [ ] Physics 物理引擎
                 - [ ] First person
                   - [ ] **First person camera** 
+                    - [ ] [template](https://codepen.io/frhd/pen/bZJZWB)
                   - [ ] (Not urgent)`pointerclick`
                     - [ ] [Pointer Lock and First Person Shooter Controls](https://www.html5rocks.com/en/tutorials/pointerlock/intro/)
                     - [ ] [Quake 3 Map Viewer](http://media.tojicode.com/q3bsp/)
@@ -60,9 +61,9 @@
                   - [ ] Physii.js study
                     - [ ] [Physii setup](https://github.com/chandlerprall/Physijs/wiki/Basic-Setup)
                   - [ ] Camera collision
-                    - [ ] Convenience-induced code refactoring
-                      - [ ] Examples in the `Physii.js`
-                        - [ ] [How I structure my vanilla JS projects](https://gomakethings.com/how-i-structure-my-vanilla-js-projects/)
+                    - [x] Convenience-induced code refactoring
+                      - [x] Examples in the `Physii.js`
+                        - [x] [How I structure my vanilla JS projects](https://gomakethings.com/how-i-structure-my-vanilla-js-projects/)
                     - [ ] Raycasting
                       - [ ] [camera FirstPersonControls with collisions](https://github.com/mrdoob/three.js/issues/913)
                       - [ ] [three.js example](https://threejs.org/examples/#webgl_instancing_raycast)
@@ -77,22 +78,29 @@
                       - [x] 需要双面身份证扫描件
                   - [x] Express项目建立
                     - [ ] express应用部署至阿里云
+                      - [ ] 购买ECS服务器
+                        - [ ] MONEY --> Come back home to do it
                       - [ ] [将Express应用部署到Web+](https://help.aliyun.com/document_detail/139374.html)
                       - [ ] [手摸手教你在阿里云服务器部署express项目](https://www.ucloud.cn/yun/46286.html)
                       - [ ] [部署Node.js环境（CentOS 7）](https://help.aliyun.com/document_detail/50775.html)
                   - [ ] CDN
                     - [ ] [验证域名归属权](https://help.aliyun.com/document_detail/169377.html?spm=5176.11785003.domainAdd.3.3ed6142f6trZNa)
-              - [ ] (Optional)`vue-threejs`(refactor) + deploy / Or you can just use simpler version
-                - [ ] Async load
-                - [ ] CDN for 3d model
-                - [ ] (Optional) Webpack
+              - [x] (Optional)`vue-threejs`(refactor) + deploy / Or you can just use simpler version
+                - [x] Async load
+                - [x] CDN for 3d model
+                - [x] (Optional) Webpack
+                - [x] **Not applicable**
               - [ ] (Optional)Add light to the model before deploy
               - [ ] Extras
+                - [ ] Potential issues with file download
+                  - [ ] [what is the order of html assets when page load](https://stackoverflow.com/questions/27175347/what-is-the-order-of-html-assets-when-page-load)
                 - [ ] [Camera autopilot](https://threejs.org/examples/#webgl_camera) 
                 - [ ] (Optional)Performance
                   - [ ] [three.js example](https://threejs.org/examples/#webgl_interactive_cubes_gpu)
                 - [ ] (Optional)Loading screen when downloading model file
                   - [ ] [Axios — Download Files & Images in Node.js](https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js)
+                  - [ ] [node-request-download](https://github.com/IndigoUnited/node-request-progress)
+                  - [ ] [2.6 - Asynchronous File Loading - Learn WebGL](http://learnwebgl.brown37.net/browser_environment/asynchronous_loading.html)
       - Company front-page
         - Paradigm: 3d model --> 360 Virtual tour
         - Tools

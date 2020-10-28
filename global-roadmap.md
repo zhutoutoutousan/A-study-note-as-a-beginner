@@ -73,8 +73,13 @@
                 - [ ] 阿里云
                   - [x] 域名注册
                     - [x] `zhutoutoutousan.xyz`
-                    - [ ] 域名实有制注册
-                      - [ ] 需要双面身份证扫描件
+                    - [x] 域名实有制注册
+                      - [x] 需要双面身份证扫描件
+                  - [x] Express项目建立
+                    - [ ] express应用部署至阿里云
+                      - [ ] [将Express应用部署到Web+](https://help.aliyun.com/document_detail/139374.html)
+                      - [ ] [手摸手教你在阿里云服务器部署express项目](https://www.ucloud.cn/yun/46286.html)
+                      - [ ] [部署Node.js环境（CentOS 7）](https://help.aliyun.com/document_detail/50775.html)
                   - [ ] CDN
                     - [ ] [验证域名归属权](https://help.aliyun.com/document_detail/169377.html?spm=5176.11785003.domainAdd.3.3ed6142f6trZNa)
               - [ ] (Optional)`vue-threejs`(refactor) + deploy / Or you can just use simpler version
@@ -84,8 +89,10 @@
               - [ ] (Optional)Add light to the model before deploy
               - [ ] Extras
                 - [ ] [Camera autopilot](https://threejs.org/examples/#webgl_camera) 
-                - [ ] Performance
+                - [ ] (Optional)Performance
                   - [ ] [three.js example](https://threejs.org/examples/#webgl_interactive_cubes_gpu)
+                - [ ] (Optional)Loading screen when downloading model file
+                  - [ ] [Axios — Download Files & Images in Node.js](https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js)
       - Company front-page
         - Paradigm: 3d model --> 360 Virtual tour
         - Tools

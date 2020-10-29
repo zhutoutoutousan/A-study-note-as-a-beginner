@@ -92,7 +92,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Chromium V8 is written in C++, how come you don't have any familiarity with it?
   - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
 - C++ Primer
-  - [link1 - Requires download](https://faculty.psau.edu.sa/filedownload/doc-8-pdf-95bf5763251f491480a0c1e5b76a16d8-original.pdf)
+  - [link1 - legit](http://index-of.es/C++/Addison.Wesley.C++%20Primer.By.Stanley%20B.%20Lippman.pdf)
+  - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
+    - Process 1:
+      - Goal: C++ is sexy, I want to fuck her
+      - Progress:
+  - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript
 - Motivations
   - Currently no need for motivations 

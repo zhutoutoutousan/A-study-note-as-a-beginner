@@ -79,6 +79,8 @@
   - Trim down to easier materials first
     - [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=aPQY__2H3tE)
     - [5 Simple Steps for Solving Dynamic Programming Problems](https://www.youtube.com/watch?v=aPQY__2H3tE)
+    - [A graphical introduction to dynamic programming - Read](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2)
+      - In case you don't have the setup for video study    
 ```javascript
 // Still missing a lot of stuffs to give a satisfactory input, give it a try after more training
 function longestSlideDown (pyramid) {

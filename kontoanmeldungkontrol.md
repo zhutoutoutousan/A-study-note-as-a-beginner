@@ -14,3 +14,9 @@
   - Sicherheitshinweise
     - Beschützungsfrage
       - Beschreibung(CH):(CH): null
+
+
+- ADPS
+  - Ansprüchesvoll
+    - Kein Name oder email Anschritt
+  - (Spitzname)-Cheng\[Kleinbuchstaben\]S\[System > großgeschrieben\]567$\[ROT-13\(PS-[Kleinbuchstaben]\)\]

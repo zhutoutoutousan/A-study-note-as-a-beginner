@@ -1,29 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T05:45:34.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BSodtG_Xwa85bDqzl4jL" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T05:49:36.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="wb80V6uzZGW9BRSAqBNZ" version="13.8.8" type="github">
   <diagram id="kuiyt1MhbL2v9OrnDHOi" name="Page-1">
-    <mxGraphModel dx="2782" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="2526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-28" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-70" width="820" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="Zh1UnJbAb8gPV4NuENTu-5" value="&lt;b&gt;一实&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="910" y="-240" width="70" height="70" as="geometry" />
+          <mxGeometry x="421" y="40" width="820" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-27" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;墨深-未迟技术分工的探讨&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="-150" width="340" height="80" as="geometry" />
+          <mxGeometry x="691" y="-40" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;墨深&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="980" y="20" width="100" height="100" as="geometry" />
+          <mxGeometry x="491" y="130" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" width="230" height="120" as="geometry" />
+          <mxGeometry x="641" y="110" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-31" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;擅长&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1191" y="-60" width="100" height="60" as="geometry" />
+          <mxGeometry x="702" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-30" y="-140" width="800" height="620" as="geometry" />
+          <mxGeometry x="-440" y="-50" width="800" height="620" as="geometry" />
         </mxCell>
         <mxCell id="Zh1UnJbAb8gPV4NuENTu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="TPo5QiDIO2kZ5POcdjzT-1" vertex="1">
           <mxGeometry y="82.66666666666664" width="800" height="537.3333333333333" as="geometry" />
@@ -124,8 +121,8 @@
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="700" width="780" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="TPo5QiDIO2kZ5POcdjzT-6" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;【墨深&amp;lt;-&amp;gt;未迟】沟通需求&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="428.2902439024391" y="613.6700000000001" width="331.7073170731707" height="82.66666666666664" as="geometry" />
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-6" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;【墨深&amp;lt;-&amp;gt;未迟】沟通需求 2020/11/2&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="398.29" y="617.3299999999999" width="491.71" height="82.67" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;墨深web前端&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-191" y="970" width="100" height="100" as="geometry" />
@@ -474,6 +471,21 @@
             <mxPoint x="60" y="1320" as="sourcePoint" />
             <mxPoint x="110" y="1270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-122" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-119" target="TPo5QiDIO2kZ5POcdjzT-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1280" as="sourcePoint" />
+            <mxPoint x="220" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-123" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-580" width="1700" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Zh1UnJbAb8gPV4NuENTu-5" value="&lt;b&gt;一实&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-413" y="-500" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-124" value="&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;墨深-未迟 一实项目启动&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-670" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

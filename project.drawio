@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T05:42:31.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="boMHsnPpfUuUd6uWmSd7" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T05:45:34.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="BSodtG_Xwa85bDqzl4jL" version="13.8.8" type="github">
   <diagram id="kuiyt1MhbL2v9OrnDHOi" name="Page-1">
     <mxGraphModel dx="2782" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -423,6 +423,57 @@
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-110" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#000000&quot;&gt;部署&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="140" y="1220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-111" value="&lt;font style=&quot;font-size: 25px&quot;&gt;成本&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-112" value="&lt;font style=&quot;font-size: 24px&quot;&gt;性能&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-191" y="1370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-113" value="..." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="1550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-114" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-111" target="TPo5QiDIO2kZ5POcdjzT-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1250" as="sourcePoint" />
+            <mxPoint x="240" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-115" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-112" target="TPo5QiDIO2kZ5POcdjzT-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1250" as="sourcePoint" />
+            <mxPoint x="240" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-116" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-113" target="TPo5QiDIO2kZ5POcdjzT-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1250" as="sourcePoint" />
+            <mxPoint x="240" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-117" value="&lt;font style=&quot;font-size: 25px&quot;&gt;灵活性&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-118" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-117" target="TPo5QiDIO2kZ5POcdjzT-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="1250" as="sourcePoint" />
+            <mxPoint x="240" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-119" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff3333&quot;&gt;目前小样阶段可不可以买个经济的服务器到时候再换，有没有安全及工程隐患？&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="1450" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-120" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-119" target="TPo5QiDIO2kZ5POcdjzT-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1320" as="sourcePoint" />
+            <mxPoint x="110" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-121" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-119" target="TPo5QiDIO2kZ5POcdjzT-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1320" as="sourcePoint" />
+            <mxPoint x="110" y="1270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

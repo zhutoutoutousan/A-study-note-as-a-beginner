@@ -401,7 +401,7 @@
   - Only test 1RM once every 2 months
 ### 20 days strict diet plan
 - Day 1
-  - Shoulder day
+  - Shoulder day  
   - Strength & Hypertrophy
     - Overhead press 4-6RM 5SETS
     - Side lateral raise 6-8RM 5SETS

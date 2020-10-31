@@ -62,8 +62,7 @@
   - [Gallary of plans](#gallary-of-plans)
     - [Regular strength](#regular-strength)
       - [120 days strength plan](#120-days-strength-plan)
-    - [Regular hypertrophy](#regular-hypertrophy)
-      - [20 days maintenance training under heavy life uncertainties](#20-days-maintenance-training-under-heavy-life-uncertainties)
+    - [20 days strict diet plan](#20-days-strict-diet-plan)
 
 # Paradigm shift: Leveling up
 - [How To Deload](https://www.youtube.com/watch?v=Dt6ok24VBpg)
@@ -363,113 +362,6 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-- Already enough for plan
-## Gallary of plans
-- Delete the plans once you have finished one
-- If a plan is really good, showing good results, then make some template elements and start from there
-### Regular strength
-#### 120 days strength plan
-- Principles
-  - Only test 1RM once every 2 months
-### Regular hypertrophy
-#### 20 days maintenance training under heavy life uncertainties
-- Goal
-  - Keep benefiting from workout
-  - Injury prevention precedes the training performance
-  - Frequent medication for compromised immune system caused by heavy workload and stress
-- Day 1
-  - Bicep & Tricep day
-  - Chin-up 6-8RM 5SETS
-  - Easybar skull crusher 5-8RM 5SETS
-  - Easybar curl 5-8RM 5SETS
-  - Tricep push down & kickback 5-8RM 3*2SETS 
-- Day 2
-  - Leg day
-  - Squat 5-8RM 5SETS
-  - Split squat 5-8RM 5SETS
-  - Sumo deadlift 6-8RM 3SETS
-- Day 3
-  - Off day
-    - Having worked out rigorously for 3 days
-    - Sign of minor upper respritory tract infection
-      - Dry throat
-  - Bike ride: 30minutes
-  - Frequent stroll
-- Day 4
-  - Back day
-  - Sumo deadlift 6-8RM 5SETS
-  - Straight arm pulldown 5-8RM 5SETS
-  - Chin-up 5-8RM 3SETS
-  - Banded rotator cuff 6-8RM 3*2SETS
-  - T-Y-raise 5-8RM 5SETS
-  - Barbell shrug 6-8RM 3SETS
-  - Cardio: 20 minutes bike ride
-- Day 5
-  - Off day
-  - Travel a bit
-- Day 6
-  - Chest day
-    - Incline bench press 5-8RM 5SETS
-    - Barbell bench press 5-8RM 6SETS
-    - Seat crossover 5-8RM 5SETS
-    - Seated push 4-8RM 4SETS
-    - Cable HC press 6-8RM 3SETS
-    - Cable LC press 6-8RM 3SETS
-  - 30 minutes bike ride
-- Day 7
-  - Off day
-- Day 8 
-  - Shoulder Day
-  - Status
-    - 3 hours' sleep, strangely I felt great, with coffee of course
-    - Sign of recovery of infection
-  - Exercise
-    - Overhead press 5-8RM 5SETS
-    - Side lateral raise 6-8RM 5SETS
-    - Banded front raise 6-8RM 5SETS
-    - Banded rear delts raise 6-8RM 5SETS
-- Day 9
-  - Leg day
-  - Squat 5-8RM 5SETS
-  - Sumo deadlift 5-8RM 5SETS
-  - Calf raise 6-8RM 5SETS
-  - Banded hip pull 6-8RM 3SETS
-- Day 10
-  - Bicep and tricep
-  - Chin-up 6-8RM 5SETS
-  - Easybar skull crusher 5-8RM 5SETS
-  - Easybar curl 5-8RM 5SETS
-  - Tricep push down & kickback 5-8RM 3*2SETS  
-- Day 11
-  - Off day
-- Day 12
-  - Chest day
-    - Incline bench press 5-8RM 5SETS
-    - Barbell bench press 5-8RM 6SETS
-    - Seat crossover 5-8RM 5SETS
-    - Seated push 4-8RM 4SETS
-    - Cable HC press 6-8RM 3SETS
-    - Cable LC press 6-8RM 3SETS
-- Day 13
-  - Back day
-  - Sumo deadlift 6-8RM 4SETS
-  - Straight arm pulldown 5-8RM 4SETS
-  - Chin-up 5-8RM 3SETS
-  - Banded rotator cuff 6-8RM 3*2SETS
-  - T-Y-raise 5-8RM 3SETS
-  - Barbell shrug 6-8RM 3SETS
-  - Cardio: 20 minutes bike ride
-- Day 14
-  - 40 minutes Bike ride(Gentle)
-- Day 15
-  - Shoulder day
-  - Exercise
-    - Overhead press 5-8RM 5SETS
-    - Side lateral raise 6-8RM 5SETS
-    - Banded front raise 6-8RM 5SETS
-    - Banded rear delts raise 6-8RM 5SETS
-- Day 16
-  - Off day(Completely)
 - Day 17
   - Bicep and tricep
   - Chin-up 6-8RM 5SETS
@@ -493,3 +385,28 @@
   - Oblique rotation 3-6RM 5SETS
   - Band crunch 6-8RM 3SETS
   - Explosive bench press 10/12-15RM 3SETS  
+- Day 21
+  - Off day
+  - Chest day
+- Day 22
+  - Off day
+- Day 23
+  - Back day(Olympic)
+## Gallary of plans
+- Delete the plans once you have finished one
+- If a plan is really good, showing good results, then make some template elements and start from there
+### Regular strength
+#### 120 days strength plan
+- Principles
+  - Only test 1RM once every 2 months
+### 20 days strict diet plan
+- Day 1
+  - Shoulder day
+  - Strength & Hypertrophy
+    - Overhead press 4-6RM 5SETS
+    - Side lateral raise 6-8RM 5SETS
+    - Rear delt band raise 5-8RM 5SETS
+  - Explosiveness
+    - Landmine explosive push 3SETS
+      - [Explosive SHOULDER Workout: How to Train Shoulders Explosively!](https://www.youtube.com/watch?v=mNNIT2Uhr20&t=102s)
+    - Dumbell snatch 8-12RM 3SETS

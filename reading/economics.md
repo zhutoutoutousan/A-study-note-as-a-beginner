@@ -14,3 +14,9 @@
   - Война и мир
   - Unbroken - Laura Hillenbrand
   - Boyd - Robert Coram
+
+# Project Management
+- Project Management for Dummies
+  - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
+    - Process(For occupational survival)
+      - Progress: 29/389

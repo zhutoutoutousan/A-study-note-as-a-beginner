@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T06:06:40.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="TXJM1r3f2Pg2lHtdTiG7" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T06:10:29.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="UTsLLF6A4f3JNArO9ATu" version="13.8.8" type="github">
   <diagram id="kuiyt1MhbL2v9OrnDHOi" name="Page-1">
-    <mxGraphModel dx="2782" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,11 +298,11 @@
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-67" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;阿里云OSS配置(完成）&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=26;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="315" y="820" width="305" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TPo5QiDIO2kZ5POcdjzT-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;域名备案(可行)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="365" y="870" width="180" height="20" as="geometry" />
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;域名备案(未完成)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="870" width="205" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TPo5QiDIO2kZ5POcdjzT-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;需阿里包年包月服务器(需咨询)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="365" y="930" width="180" height="20" as="geometry" />
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px&quot;&gt;需阿里包年包月服务器(咨询未迟)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="930" width="205" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-71" value="性能" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;strokeColor=#CC0000;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1250" width="130" height="80" as="geometry" />
@@ -400,7 +400,7 @@
             <mxPoint x="420" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPo5QiDIO2kZ5POcdjzT-110" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#000000&quot;&gt;部署&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-110" value="&lt;font style=&quot;font-size: 24px&quot;&gt;部署&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="140" y="1220" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-111" value="&lt;font style=&quot;font-size: 25px&quot;&gt;成本&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">

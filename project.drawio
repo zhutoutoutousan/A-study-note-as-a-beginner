@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T05:38:59.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="GUFR-Gn1c_AfDso9xcxJ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T05:41:23.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="m-St6FgtB1O5g5Hk0_KW" version="13.8.8" type="github">
   <diagram id="kuiyt1MhbL2v9OrnDHOi" name="Page-1">
-    <mxGraphModel dx="2782" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,8 @@
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="700" width="300" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="TPo5QiDIO2kZ5POcdjzT-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;页面设计PSD&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry y="820" width="60" height="80" as="geometry" />
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;页面设计PSD&amp;amp;H5&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="815" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-15" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;目标&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="680" y="710" width="100" height="20" as="geometry" />
@@ -323,7 +323,7 @@
           <mxGeometry x="170" y="940" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-75" value="待商讨" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=28;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="675" y="1190" width="110" height="20" as="geometry" />
+          <mxGeometry x="675" y="1180" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TPo5QiDIO2kZ5POcdjzT-76" value="后端" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;strokeColor=#CC0000;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1350" width="130" height="80" as="geometry" />
@@ -414,6 +414,18 @@
             <mxPoint x="470" y="1350" as="sourcePoint" />
             <mxPoint x="520" y="1300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;页面设计PSD&amp;amp;H5&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1250" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-109" value="" style="endArrow=classic;html=1;fontSize=28;fontColor=#00CC00;" edge="1" parent="1" source="TPo5QiDIO2kZ5POcdjzT-107" target="TPo5QiDIO2kZ5POcdjzT-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1200" as="sourcePoint" />
+            <mxPoint x="420" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPo5QiDIO2kZ5POcdjzT-110" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#000000&quot;&gt;部署&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1220" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

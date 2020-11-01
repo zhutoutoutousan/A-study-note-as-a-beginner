@@ -410,3 +410,4 @@
     - Landmine explosive push 3SETS
       - [Explosive SHOULDER Workout: How to Train Shoulders Explosively!](https://www.youtube.com/watch?v=mNNIT2Uhr20&t=102s)
     - Dumbell snatch 8-12RM 3SETS
+- Day 2

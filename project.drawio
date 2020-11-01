@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T08:16:04.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="KMev0zmqkL_iMO_SCI9L" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T08:19:52.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lnGzdH-V2Bq1djLbKTzQ" version="13.8.8" type="github">
   <diagram id="kuiyt1MhbL2v9OrnDHOi" name="Page-1">
-    <mxGraphModel dx="1747" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -733,8 +733,8 @@
         <mxCell id="TbPL6H-Haf-2qUt8RqPV-68" value="墨深创意组" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=29;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1045.5" y="2620" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TbPL6H-Haf-2qUt8RqPV-14" value="&lt;b style=&quot;font-size: 48px;&quot;&gt;&lt;font style=&quot;font-size: 48px;&quot;&gt;目标同上&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=48;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="2245" width="100" height="90" as="geometry" />
+        <mxCell id="TbPL6H-Haf-2qUt8RqPV-14" value="&lt;b style=&quot;font-size: 48px&quot;&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;目标&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="2020" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TbPL6H-Haf-2qUt8RqPV-70" value="" style="endArrow=classic;html=1;fontSize=33;fontColor=#000000;" edge="1" parent="1" source="TbPL6H-Haf-2qUt8RqPV-25" target="TbPL6H-Haf-2qUt8RqPV-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -756,6 +756,15 @@
             <mxPoint x="840" y="2450" as="sourcePoint" />
             <mxPoint x="890" y="2400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TbPL6H-Haf-2qUt8RqPV-79" value="&lt;b style=&quot;font-size: 37px;&quot;&gt;时间截点&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2255" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TbPL6H-Haf-2qUt8RqPV-80" value="待估点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=28;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="1252.5" y="2400" width="295" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TbPL6H-Haf-2qUt8RqPV-81" value="&lt;font style=&quot;font-size: 26px&quot;&gt;低配置用户可访问2D响应式页面，高配置用户可实现一键到底式3D游览&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontColor=#CC0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2140" width="295" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

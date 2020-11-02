@@ -23,5 +23,7 @@
 
 
 
-- Inkdeeps
+- IDs: inkdeeps@inkdeeps.com
   - Email: !#@$#%132435IDs
+
+- IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`

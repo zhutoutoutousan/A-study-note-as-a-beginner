@@ -27,3 +27,8 @@
   - Email: !#@$#%132435IDs
 
 - IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`
+
+
+Servers
+101.227.111.51
+administrator/Admin@163.com

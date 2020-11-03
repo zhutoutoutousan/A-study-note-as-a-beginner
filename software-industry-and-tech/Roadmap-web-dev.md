@@ -37,6 +37,7 @@
   - [Pirple](#pirple)
   - [Udemy（$10/course)](#udemy10course)
   - [Frontend Masters($39/month)](#frontend-masters39month)
+    - [Books](#books)
     - [Intro to Web Dev](#intro-to-web-dev)
     - [Node.js path](#nodejs-path)
     - [Vue.js Path](#vuejs-path)
@@ -197,6 +198,8 @@
 - Modern React with Redux[2020 Update]
 - JavaScript: Understanding the Weirds Parts
 ## Frontend Masters($39/month)
+### Books
+- [Entry](https://frontendmasters.com/books/front-end-handbook/2019/)
 ### Intro to Web Dev
 - Complete Intro to Web Development, v2
   - [Link1](https://frontendmasters.com/courses/web-development-v2/)

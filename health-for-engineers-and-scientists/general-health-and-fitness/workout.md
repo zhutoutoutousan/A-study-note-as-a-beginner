@@ -411,3 +411,11 @@
       - [Explosive SHOULDER Workout: How to Train Shoulders Explosively!](https://www.youtube.com/watch?v=mNNIT2Uhr20&t=102s)
     - Dumbell snatch 8-12RM 3SETS
 - Day 2
+  - Off day
+- Day 3 
+  - Bicep and tricep
+  - Chin-up 6-8RM 5SETS
+  - Easybar skull crusher 5-8RM 5SETS
+  - Easybar curl 5-8RM 5SETS
+  - Tricep push down & kickback 5-8RM 3*2SETS  
+- Day 4

@@ -419,3 +419,12 @@
   - Easybar curl 5-8RM 5SETS
   - Tricep push down & kickback 5-8RM 3*2SETS  
 - Day 4
+  - Leg day
+  - Squat 5-8RM 5SETS
+  - Split squat 5-8RM 3SETS
+- Day 5 
+  - Chest day
+  - Bench press 4-6RM 5SETS
+  - Incline dumbell press 6-8RM 5SETS
+  - Standing LC press 6-8RM 5SETS
+  - 

@@ -18,6 +18,8 @@
     - [Resources](#resources)
   - [Resources](#resources-1)
 - [Coding](#coding)
+  - [Emmit](#emmit)
+    - [`HTML`](#html)
 - [Tools and Project Management](#tools-and-project-management)
   - [Code](#code)
   - [Command palette](#command-palette)
@@ -104,11 +106,18 @@ Q: What about /* */?
 [multiple cursors](https://stackoverflow.com/questions/29953479/multiple-cursors-in-visual-studio-code)
 
 ## Resources
+ 
 [Code navigation](https://code.visualstudio.com/docs/editor/editingevolved)
 
 # Coding
 - Control comment type
   - Ctrl+K Ctrl+/
+
+## Emmit
+### `HTML`
+- What does `|c` in emmit shortcut means?
+  - ?: Comment at the end of the element
+  - Very useful when coding long `html` with a variety of class names 
 # Tools and Project Management
 ## Code
 ## Command palette

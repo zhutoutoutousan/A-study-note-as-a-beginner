@@ -36,7 +36,7 @@
               -  Layered view of a computer system P49
               -  Abstractions provided by an operating system P50
               -  Process context switching P51
-
+     - Read style change: Reading by doing --> Code-playground
      -  I.O.I
         - GNU：P41
   -  Process 2:(Build your own computer system)
@@ -93,10 +93,10 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
 - C++ Primer
   - [link1 - legit](http://index-of.es/C++/Addison.Wesley.C++%20Primer.By.Stanley%20B.%20Lippman.pdf)
-  - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
     - Process 1:
       - Goal: C++ is sexy, I want to fuck her
-      - Progress:
+      - Progress: 17/1069
+  - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript
 - Motivations
@@ -122,19 +122,11 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
   - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-  - Process 1(Ground-up): p0-55/1313
-    - Sub-process 1: Linear algebra(recap)
-      - AEM
-  - Process 2
-    - Goal: Have a medium-sized familiarity with the graph search algorithms and graph-related data structures
-    - Benefit:
-      - The groundwork for ```chess-game``` and ```algorithm-visualizer```
-      - Long-term benefit for being a front-end developer
-    - Progress 1: 229/229-357
-    - Progress 2: 587/587-684
-  - Process 3: P380-
-    - Goal: Just have a quick look at dynamic programming
-- Introduction to Algorithms: Solutions and Instructor's Manual
+  - Process 0 
+    - Random reading for general neural pathway construction
+    - Fast read,
+    - Punkt: p57
+
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
 # Programming language principle & paradigm
 - Functional programming in JavaScript 24/274

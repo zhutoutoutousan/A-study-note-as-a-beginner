@@ -422,9 +422,10 @@
   - Leg day
   - Squat 5-8RM 5SETS
   - Split squat 5-8RM 3SETS
-- Day 5 
+- Day 5
+  - Off day
+- Day 6 
   - Chest day
   - Bench press 4-6RM 5SETS
   - Incline dumbell press 6-8RM 5SETS
   - Standing LC press 6-8RM 5SETS
-  - 

@@ -72,6 +72,8 @@
 - Goal:
   - Find necessary tools for Safari, Firefox, IE, Chrome
   - Mobile
+- Tools
+  - [6 Top Responsive Web Design Testing Tools](https://stratabeat.com/responsive-web-design-testing-tools/)
 
 
 # Cross browser support

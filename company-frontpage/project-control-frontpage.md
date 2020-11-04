@@ -15,6 +15,8 @@
         - [landing-page](https://github.com/cosmicjs/landing-page)
 
 # Skills
+## Knowledge
+- [Typography for Developers](https://css-tricks.com/typography-for-developers/)
 ## Grid layout
 ### Refreshment space
 - [CSS Grid Layout: The Fr Unit](https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit#:~:text=With%20CSS%20Grid%20Layout%2C%20we,the%20grid%20with%20grid%20areas.)
@@ -39,6 +41,7 @@
 
 # Language support
 - [Vue I18n](https://kazupon.github.io/vue-i18n/)
+  - [Single file Component](https://kazupon.github.io/vue-i18n/guide/sfc.html#basic-usage)
 
 # Test
 - Goal:

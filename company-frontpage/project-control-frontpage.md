@@ -1,3 +1,23 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Basics](#basics)
+- [Style](#style)
+- [Skills](#skills)
+  - [Knowledge](#knowledge)
+  - [Grid layout](#grid-layout)
+    - [Refreshment space](#refreshment-space)
+    - [Current Topics](#current-topics)
+    - [Tools](#tools)
+- [Design](#design)
+- [Language support](#language-support)
+- [Test](#test)
+- [Cross browser support](#cross-browser-support)
+  - [Material](#material)
+  - [Report](#report)
+    - [Desktop](#desktop)
+    - [Mobile/Tablet](#mobiletablet)
+    - [Utility](#utility)
+- [Useful stacks](#useful-stacks)
 # Basics
 - [PSD to Responsive Website Tutorial #1 - Introduction](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
   - Progress:
@@ -20,16 +40,21 @@
 ## Grid layout
 ### Refreshment space
 - [CSS Grid Layout: The Fr Unit](https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit#:~:text=With%20CSS%20Grid%20Layout%2C%20we,the%20grid%20with%20grid%20areas.)
-### Tutorial
-- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-  - Book reference: *Get Ready for CSS Grid Layout*
-  - [Prerequisite: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    - Progress: Don't overlap the progress, you've got a project to proceed 
-      - Progress: `flex-shrink`
-      - Tip: use video for quick comprehension
-- [How to create an image gallery with CSS Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
-- [Look Ma, No Media Queries! Responsive Layouts Using CSS Grid](https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/)
 
+### Current Topics
+- Basics
+  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    - Book reference: *Get Ready for CSS Grid Layout*
+    - [Prerequisite: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+      - Progress: Don't overlap the progress, you've got a project to proceed 
+        - Progress: `flex-shrink`
+        - Tip: use video for quick comprehension
+  - [How to create an image gallery with CSS Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
+- Responsive grid
+  - [Look Ma, No Media Queries! Responsive Layouts Using CSS Grid](https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/)
+  - [CodePen Responsive Grid with Flexbox](https://codepen.io/irinakramer/pen/jcLlp)
+  - [Responsive grid layout](https://codepen.io/iconso22/pen/GGrVeg)
+- Scroll effects
 ### Tools
 - [Grid-layoutit](https://grid.layoutit.com/)
 # Design

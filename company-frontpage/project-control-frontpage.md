@@ -2,7 +2,8 @@
 - [Table of Contents](#table-of-contents)
 - [Basics](#basics)
 - [Style](#style)
-- [Skills](#skills)
+- [Wherewithals](#wherewithals)
+  - [Skills](#skills)
   - [Knowledge](#knowledge)
   - [Grid layout](#grid-layout)
     - [Refreshment space](#refreshment-space)
@@ -34,9 +35,14 @@
       - landingpage
         - [landing-page](https://github.com/cosmicjs/landing-page)
 
-# Skills
+# Wherewithals
+## Skills
+- Special effects
+  - [Image edge fade](https://codepen.io/burtclan/pres/mLqxC)
 ## Knowledge
+- [Landing page typography examples(Codepen)](https://codepen.io/designbyremedy/pen/aqjLx)
 - [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+- [CSS background](https://www.w3.org/TR/css-backgrounds-3/)
 ## Grid layout
 ### Refreshment space
 - [CSS Grid Layout: The Fr Unit](https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit#:~:text=With%20CSS%20Grid%20Layout%2C%20we,the%20grid%20with%20grid%20areas.)

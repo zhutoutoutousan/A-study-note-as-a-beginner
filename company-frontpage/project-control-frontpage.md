@@ -13,6 +13,7 @@
 - [Language support](#language-support)
 - [Test](#test)
 - [Cross browser support](#cross-browser-support)
+  - [Tools](#tools-1)
   - [Material](#material)
   - [Report](#report)
     - [Desktop](#desktop)
@@ -83,6 +84,8 @@
 
 
 # Cross browser support
+## Tools
+- Browserify
 ## Material
 - CSS-tricks/MDN --> 
 - [Cross browser support for flexbox](https://css-tricks.com/almanac/properties/f/flex-wrap/)

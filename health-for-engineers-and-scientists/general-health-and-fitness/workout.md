@@ -362,21 +362,6 @@
 - The contents of last 5 days of training
 
 ### State storage(10/4/2020)
-- Day 17
-  - Bicep and tricep
-  - Chin-up 6-8RM 5SETS
-  - Easybar skull crusher 5-8RM 5SETS
-  - Easybar curl 5-8RM 5SETS
-  - Tricep push down & kickback 5-8RM 3*2SETS  
-  - Bike ride 30minutes
-- Day 18
-  - Off day due to signs of illness
-- Day 19
-  - Leg day
-  - Squat 5-8RM 5SETS
-  - Split squat 5-8RM 5SETS
-  - Hip thrust 5-8RM 5SETS
-  - Banded hip pull 6-8RM 3SETS
 - Day 20
   - Ab day
   - Landmine swing 3SETS
@@ -429,3 +414,13 @@
   - Bench press 4-6RM 5SETS
   - Incline dumbell press 6-8RM 5SETS
   - Standing LC press 6-8RM 5SETS
+- Day 7
+  - Off day
+- Day 8
+  - Back day
+  - Wide-grip Pull up & Chin-up <-|-> Sumo Deadlift 5-8RM 5SETS
+  - Front-lever | Straight arm pushdown 5-8RM 5SETS
+  - Barbell dead row 8/10-12RM 2SETS
+  - Explosive hight pulley row 10-12RM 2SETS 
+  - Y-T-W raise 6-8RM 3SETS
+  - Barbell shrug 5-8RM 2SETS

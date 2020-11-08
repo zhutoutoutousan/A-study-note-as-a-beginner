@@ -51,6 +51,8 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
 # Geometry & Topology
 - Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf)
+  - Process 1(Interest)
+    - Progress: 20/461
 - Topology for the working mathematician
   - [link1](https://www.math.ru.nl/~mueger/topology.pdf)
 

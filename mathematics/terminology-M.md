@@ -42,16 +42,9 @@
     - [Modeling](#modeling)
   - [N](#n)
     - [Non-negative integer](#non-negative-integer)
-  - [L](#l)
-    - [Linear algebra](#linear-algebra)
-    - [Linear system](#linear-system)
-    - [Linear transformation](#linear-transformation)
   - [P](#p)
     - [Permutation](#permutation)
-    - [Point reflection](#point-reflection)
     - [Positive energy theorem](#positive-energy-theorem)
-    - [Positive integer](#positive-integer)
-    - [Prime numbers](#prime-numbers)
   - [Q](#q)
     - [Quadratic residues](#quadratic-residues)
     - [Quaternion](#quaternion)
@@ -224,54 +217,13 @@ $$
 ### Non-negative integer
 - 0,1,2,3...
 
-## L
-### Linear algebra
-- Linear algebra is a fairly extensive subject that covers vectors and matrices, determinants, systems of linear equations, vector spaces and linear transformations, eigenvalue problems, and other topics.
-- It can be applied to engineering, physics, geometry, computer science, economics, and other areas. It also helps us have a deeper understanding of mathematics itself.
-### Linear system
-- Some concepts like **unknowns** e.g. $x_1,x_2$ in the following examples. Some **coefficient matrix**, called $\bold{A}$ by listing the coefficients of the **unknowns** in the position in which they appear in the linear equations. As shown in $\tilde{A}$ equation, by augmenting $\bold{A}$ with the right sides of the linear system and call it the augmented matrix of the system.
 
-
-$$
-\bold{A} = \begin{bmatrix}
-4 & 6 & 9\\
-6 & 0 & -2\\
-5 & -8 & 1
-\end{bmatrix},
-
-\tilde{A} = \begin{bmatrix}
-4 & 6 & 9 & 6\\
-6 & 0 & -2 & 20\\
-5 & -8 & 1 & 10
-\end{bmatrix}
-$$
-
-- Some examples of linear systems
-  - $$
-    \begin{matrix}
-      4x_1 + 6x_2 + 9x_3 = 6 \\
-      6x_1  - 2x_3 = 20 \\
-      5x_1 - 8x_2 + x_3 = 10
-    \end{matrix}
-    $$
-
-### Linear transformation
 ## P
 ### Permutation
-### Point reflection
+- [self](https://en.wikipedia.org/wiki/Permutation)
 ### Positive energy theorem
 - [wiki](https://en.wikipedia.org/wiki/Positive_energy_theorem)
-### Positive integer
-- 1,2,3...
-### Prime numbers
-- Definition
-  - A number $p$ is said to be *prime* if $p > 1$ and $p$ has no positive divisors except $1$ and $p$.
-- Theorem
-  - Theorem 1: 正整数除1之外，皆为质数之乘积
-    - Claim: *Every positive integer, except $1$, is a product of primes.*
-    - Proof
-      - [wiki](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
-      - [Link1 - Triggers download - P21](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
+
 ## Q
 ### Quadratic residues
 ### Quaternion

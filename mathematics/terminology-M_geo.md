@@ -11,6 +11,7 @@
     - [Spline](#spline)
   - [T](#t)
     - [Tangent](#tangent)
+    - [Topology](#topology)
 # Alphabetical
 ## A
 ### Algebraic geometry
@@ -52,3 +53,9 @@
 ## T
 ### Tangent
 - [Tangent](https://en.wikipedia.org/wiki/Tangent)
+### Topology
+- It deals with 
+  - the properties of geometric figures which are unchanged by topological mappings, i.e., by mappings which are bijective
+    - [Bijective](https://en.wikipedia.org/wiki/Bijection#:~:text=In%20mathematics%2C%20a%20bijection%2C%20bijective,element%20of%20the%20first%20set.)
+    - [Homeomorphism](https://en.wikipedia.org/wiki/Homeomorphism)
+    - Topological space

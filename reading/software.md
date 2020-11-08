@@ -95,7 +95,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [link1 - legit](http://index-of.es/C++/Addison.Wesley.C++%20Primer.By.Stanley%20B.%20Lippman.pdf)
     - Process 1:
       - Goal: C++ is sexy, I want to fuck her
-      - Progress: 17/1069
+      - Progress: 25/1069
+        - research `iostream`
+        - Video tutorial aids
+          - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+            - Progress: 10:21/10:28:14
+            - [Verwenden des Microsoft C++-Toolsets über die Befehlszeile](https://code.visualstudio.com/docs/languages/cpp)
   - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript

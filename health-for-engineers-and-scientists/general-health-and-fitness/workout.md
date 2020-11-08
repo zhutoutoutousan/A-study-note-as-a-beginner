@@ -56,13 +56,12 @@
       - [Forearm](#forearm)
       - [Agility](#agility-1)
       - [Footwork](#footwork)
-- [Plan](#plan)
+- [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
-    - [State storage(10/4/2020)](#state-storage1042020)
-  - [Gallary of plans](#gallary-of-plans)
-    - [Regular strength](#regular-strength)
-      - [120 days strength plan](#120-days-strength-plan)
-    - [20 days strict diet plan](#20-days-strict-diet-plan)
+    - [State storage](#state-storage)
+  - [Macrocycle(2020/11/8-2021/11/8)](#macrocycle2020118-2021118)
+    - [Mesocycle(2020/11/8-2021/1/31)](#mesocycle2020118-2021131)
+      - [Microcycle(11/8-11/15)](#microcycle118-1115)
 
 # Paradigm shift: Leveling up
 - [How To Deload](https://www.youtube.com/watch?v=Dt6ok24VBpg)
@@ -355,13 +354,15 @@
 #### Agility
 #### Footwork
 
-# Plan
+# Periodized plans
 ## How to make plans
-- Health state
-- Recovery state
-- The contents of last 5 days of training
-
-### State storage(10/4/2020)
+- Basics
+  - Health state
+  - Recovery state
+  - The contents of last 5 days of training
+- [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
+- [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
+### State storage
 - Day 20
   - Ab day
   - Landmine swing 3SETS
@@ -377,14 +378,7 @@
   - Off day
 - Day 23
   - Back day(Olympic)
-## Gallary of plans
-- Delete the plans once you have finished one
-- If a plan is really good, showing good results, then make some template elements and start from there
-### Regular strength
-#### 120 days strength plan
-- Principles
-  - Only test 1RM once every 2 months
-### 20 days strict diet plan
+
 - Day 1
   - Shoulder day  
   - Strength & Hypertrophy
@@ -424,3 +418,15 @@
   - Explosive hight pulley row 10-12RM 2SETS 
   - Y-T-W raise 6-8RM 3SETS
   - Barbell shrug 5-8RM 2SETS
+## Macrocycle(2020/11/8-2021/11/8)
+### Mesocycle(2020/11/8-2021/1/31)
+#### Microcycle(11/8-11/15)
+- Sunday
+  - Off day
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday

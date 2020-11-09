@@ -22,7 +22,7 @@
 - [Useful stacks](#useful-stacks)
 # Basics
 - [PSD to Responsive Website Tutorial #1 - Introduction](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
-  - Progress:
+  - Process(Just watch and get familiar)
 
 # Style
 - Apple

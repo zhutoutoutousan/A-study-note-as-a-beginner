@@ -12,6 +12,7 @@
 - [Design](#design)
 - [Language support](#language-support)
 - [Test](#test)
+- [Performance](#performance)
 - [Cross browser support](#cross-browser-support)
   - [Tools](#tools-1)
   - [Material](#material)
@@ -81,6 +82,10 @@
   - Mobile
 - Tools
   - [6 Top Responsive Web Design Testing Tools](https://stratabeat.com/responsive-web-design-testing-tools/)
+
+# Performance
+- Image load
+  - [Everything you need to know about images loading](https://alfy.me/2019/10/18/everything-you-need-to-know-about-images-loading.html)
 
 
 # Cross browser support

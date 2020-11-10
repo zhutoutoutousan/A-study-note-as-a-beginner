@@ -424,7 +424,9 @@
 - Sunday
   - Off day
 - Monday
+  - Bicep and tricep
 - Tuesday
+  - Shoulder
 - Wednesday
 - Thursday
 - Friday

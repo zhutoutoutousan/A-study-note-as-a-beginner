@@ -11,6 +11,7 @@
     - [Spline](#spline)
   - [T](#t)
     - [Tangent](#tangent)
+    - [Topological mapping](#topological-mapping)
     - [Topology](#topology)
 # Alphabetical
 ## A
@@ -46,16 +47,23 @@
 - [Piecewise](https://en.wikipedia.org/wiki/Piecewise)
 - [Spline interpolation](https://en.wikipedia.org/wiki/Spline_interpolation)
   - [Polynomial interpolation](https://en.wikipedia.org/wiki/Polynomial_interpolation)
-    - [Interpolation](https://en.wikipedia.org/wiki/Interpolation)\
+    - [Interpolation](https://en.wikipedia.org/wiki/Interpolation)
   - [Curvature](https://en.wikipedia.org/wiki/Curvature)
 
 
 ## T
 ### Tangent
 - [Tangent](https://en.wikipedia.org/wiki/Tangent)
+### Topological mapping
+- Homeomorphism
+  - [Homeomorphism - Britannica](https://www.britannica.com/science/homeomorphism)
+  - [2.07 Homeomorphisms](http://www.homepages.ucl.ac.uk/~ucahjde/tg/html/topsp07.html)
+  - [Definition of homeomorphic? - Mathematics: Stack Exchange](https://math.stackexchange.com/questions/1410343/definition-of-homeomorphic)
 ### Topology
 - It deals with 
   - the properties of geometric figures which are unchanged by topological mappings, i.e., by mappings which are bijective
     - [Bijective](https://en.wikipedia.org/wiki/Bijection#:~:text=In%20mathematics%2C%20a%20bijection%2C%20bijective,element%20of%20the%20first%20set.)
     - [Homeomorphism](https://en.wikipedia.org/wiki/Homeomorphism)
     - Topological space
+- It has
+  - Topological property

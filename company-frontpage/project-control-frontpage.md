@@ -12,6 +12,7 @@
 - [Design](#design)
 - [Language support](#language-support)
 - [Test](#test)
+- [Performance](#performance)
 - [Cross browser support](#cross-browser-support)
   - [Tools](#tools-1)
   - [Material](#material)
@@ -22,7 +23,7 @@
 - [Useful stacks](#useful-stacks)
 # Basics
 - [PSD to Responsive Website Tutorial #1 - Introduction](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
-  - Progress:
+  - Process(Just watch and get familiar)
 
 # Style
 - Apple
@@ -81,6 +82,10 @@
   - Mobile
 - Tools
   - [6 Top Responsive Web Design Testing Tools](https://stratabeat.com/responsive-web-design-testing-tools/)
+
+# Performance
+- Image load
+  - [Everything you need to know about images loading](https://alfy.me/2019/10/18/everything-you-need-to-know-about-images-loading.html)
 
 
 # Cross browser support

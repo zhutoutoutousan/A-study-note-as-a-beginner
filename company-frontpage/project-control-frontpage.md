@@ -1,5 +1,13 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Fast website design prototyping](#fast-website-design-prototyping)
+  - [CSS+HTML+JS?](#csshtmljs)
+  - [Adobe XD | Webflow |](#adobe-xd--webflow-)
+- [Web design](#web-design)
+- [Project control](#project-control)
+  - [Project architecture](#project-architecture)
+  - [Tech stack](#tech-stack)
+  - [Issues](#issues)
 - [Basics](#basics)
 - [Style](#style)
 - [Wherewithals](#wherewithals)
@@ -13,6 +21,7 @@
 - [Language support](#language-support)
 - [Test](#test)
 - [Performance](#performance)
+- [Mobile support](#mobile-support)
 - [Cross browser support](#cross-browser-support)
   - [Tools](#tools-1)
   - [Material](#material)
@@ -21,6 +30,33 @@
     - [Mobile/Tablet](#mobiletablet)
     - [Utility](#utility)
 - [Useful stacks](#useful-stacks)
+
+# Fast website design prototyping
+## CSS+HTML+JS?
+## Adobe XD | Webflow | 
+
+
+# Web design
+- [The best designs](https://www.thebestdesigns.com/p2)
+
+# Project control
+## Project architecture
+## Tech stack
+- [Why do you think that you always need UI framework?](http://julian.io/why-do-you-think-that-you-always-need-css-framework/)
+## Issues
+- Current issues
+  - Responsiveness
+    - Tabs
+      - Inkdeeps
+        - [ ] Mobile section text overflow
+    - Multi-device issues
+      - [ ] `overflow` doesn't work for mobile
+  - Code quality(Optional)
+  - Project architectual problems
+    - Body
+  - New essential features(Optional)
+    - Footer
+
 # Basics
 - [PSD to Responsive Website Tutorial #1 - Introduction](https://www.youtube.com/watch?v=KiFqtm0kRlI&list=PL4cUxeGkcC9j-0YIv3EDq58-B1yZWvw8_)
   - Process(Just watch and get familiar)
@@ -88,6 +124,9 @@
   - [Everything you need to know about images loading](https://alfy.me/2019/10/18/everything-you-need-to-know-about-images-loading.html)
 
 
+# Mobile support
+- [手机端各种奇葩问题总录 #37](https://github.com/zhongDZ/zhongdz.github.com/issues/37)
+- [前端VUE移动端弹窗overflow:hidden无效的问题](https://baijiahao.baidu.com/s?id=1638915035199534417&wfr=spider&for=pc)
 # Cross browser support
 ## Tools
 - Browserify

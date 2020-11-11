@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Commercial purposes](#commercial-purposes)
 - [Fast website design prototyping](#fast-website-design-prototyping)
   - [CSS+HTML+JS?](#csshtmljs)
   - [Adobe XD | Webflow |](#adobe-xd--webflow-)
@@ -17,6 +18,7 @@
     - [Refreshment space](#refreshment-space)
     - [Current Topics](#current-topics)
     - [Tools](#tools)
+- [UX](#ux)
 - [Design](#design)
 - [Language support](#language-support)
 - [Test](#test)
@@ -31,6 +33,9 @@
     - [Utility](#utility)
 - [Useful stacks](#useful-stacks)
 
+# Commercial purposes
+- [8 ESSENTIAL COMPONENTS OF A SUCCESSFUL LANDING PAGE](https://learninbound.com/blog/8-essential-components-of-a-successful-landing-page/)
+
 # Fast website design prototyping
 ## CSS+HTML+JS?
 ## Adobe XD | Webflow | 
@@ -38,6 +43,8 @@
 
 # Web design
 - [The best designs](https://www.thebestdesigns.com/p2)
+  - 一键到底
+    - [spinxdigital](https://www.spinxdigital.com/)
 
 # Project control
 ## Project architecture
@@ -99,8 +106,14 @@
   - [CodePen Responsive Grid with Flexbox](https://codepen.io/irinakramer/pen/jcLlp)
   - [Responsive grid layout](https://codepen.io/iconso22/pen/GGrVeg)
 - Scroll effects
+
 ### Tools
 - [Grid-layoutit](https://grid.layoutit.com/)
+
+
+# UX
+- [Custom Navigation Bar Animations with AOS](https://www.aliciaramirez.com/2019/05/custom-navigation-bar-animations-with-aos/)
+
 # Design
 - Current Resource
   - Inkdeeps: PSD group

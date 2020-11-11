@@ -45,7 +45,7 @@
 - [The best designs](https://www.thebestdesigns.com/p2)
   - 一键到底
     - [spinxdigital](https://www.spinxdigital.com/)
-
+- [Dark Web Design Inspirations](https://www.webdesign-inspiration.com/web-designs/style/dark)
 # Project control
 ## Project architecture
 ## Tech stack

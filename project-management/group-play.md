@@ -6,6 +6,10 @@
   - 明确需求
   - 明确时间节点
 
+# Resource
+- [怎样向上司汇报工作完成情况？](https://www.zhihu.com/question/20547122)
+
+
 # Tools
 ## Feishu
 ## Everything

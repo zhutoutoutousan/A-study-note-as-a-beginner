@@ -29,12 +29,8 @@
   - [3D model](#3d-model-1)
 
 # Current top priority task
-- Workflow instantiation
-  - Get familiar with three.js
-    - [ ] Assets loading
-      - [ ] fbx
-  - Draw a sphere using Blender and import it to three.js
-
+- Resource
+  - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
 # Web Infrastructure
 ## Cloud rendering
 - Basic

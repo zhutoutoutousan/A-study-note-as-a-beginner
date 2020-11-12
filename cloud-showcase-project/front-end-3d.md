@@ -8,6 +8,7 @@
 - [Interface](#interface)
 - [Functions](#functions)
   - [Video](#video)
+  - [Tour](#tour)
 - [Performance issues](#performance-issues)
   - [Adjustment](#adjustment)
   - [Posts](#posts)
@@ -98,6 +99,9 @@
 - [Video resource](https://medium.com/swlh/video-resource-dives-into-3d-world-with-three-js-90541cf99edf)
 - [VideoTexture](https://github.com/mrdoob/three.js/blob/master/src/textures/VideoTexture.js)
 - [Three.js YouTube player](https://codepen.io/asjas/pen/pWawPm)
+## Tour
+- PatrolJS
+- three-pathfinding
 # Performance issues
 - Manifestation
   - Developer side

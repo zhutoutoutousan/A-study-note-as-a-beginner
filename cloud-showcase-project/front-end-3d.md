@@ -1,9 +1,51 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Current top priority task](#current-top-priority-task)
+- [Web Infrastructure](#web-infrastructure)
+  - [Cloud rendering](#cloud-rendering)
+- [Accesory study progress track](#accesory-study-progress-track)
+- [Agile development](#agile-development)
+- [Interface](#interface)
+- [Functions](#functions)
+  - [Video](#video)
+- [Performance issues](#performance-issues)
+  - [Adjustment](#adjustment)
+  - [Posts](#posts)
+  - [Tools](#tools)
+- [Features showcase](#features-showcase)
+  - [Movement](#movement)
+    - [First person](#first-person)
+    - [Fly](#fly)
+  - [Collision detection](#collision-detection)
+  - [VR](#vr)
+- [3D Model](#3d-model)
+- [Control panel](#control-panel)
+- [Artistic modification](#artistic-modification)
+- [Tools](#tools-1)
+  - [Format converter](#format-converter)
+  - [Shader](#shader)
+- [Useful Resource](#useful-resource)
+  - [3D model](#3d-model-1)
+
 # Current top priority task
 - Workflow instantiation
   - Get familiar with three.js
     - [ ] Assets loading
       - [ ] fbx
   - Draw a sphere using Blender and import it to three.js
+
+# Web Infrastructure
+## Cloud rendering
+- Basic
+  - [初识云计算：历史、服务、架构](https://zhuanlan.zhihu.com/p/72482251)
+- Technology
+  - [云渲染与分布式并行集群渲染技术](https://blog.csdn.net/gridrender/article/details/51724033)
+- Renderer
+  - [Gpu pointe cloud renderer](https://github.com/ValentinKraft/UE4_GPUPointCloudRenderer)
+- Instance
+  - [51WORLD](https://www.51hitech.com/)
+  - 阿里云渲染
+  - [瑞云渲染](https://www.renderbus.com/pricing.html)
 
 # Accesory study progress track
 - Three.js fundamentals
@@ -27,6 +69,7 @@
 - Boilerplate
   - [vue-threejs](https://github.com/fritx/vue-threejs)
   - [react-threejs](https://github.com/fritx/react-threejs)
+  - [trois.js](https://github.com/troisjs/trois)
 - 3D design framework
   - nunuStudio
 # Interface 
@@ -42,7 +85,7 @@
     - You can use all your three.js knowledge to create objects, and use aframe to handle the life cycle and interactions to have a good experience in VR.
   - three.js
     - Examples
-      - [Tank](https://codepen.io/pen/?&editable=true&editors=101=https%3A%2F%2Fthreejsfundamentals.org%2F)
+      - [Tank](https://threejsfundamentals.org/threejs/lessons/threejs-scenegraph.html)
     - Editor
       - [editor source code](https://github.com/mrdoob/three.js/tree/master/editor)
       - [Editor](https://threejs.org/editor/)
@@ -50,8 +93,12 @@
 - Format converter
   - [Free online GLB to OBJ Converter](https://products.aspose.app/3d/conversion/glb-to-obj)
   - There are a lot of useful format converters, exporters in the `three.js/util`
+# Functions
+## Video
+- [Video resource](https://medium.com/swlh/video-resource-dives-into-3d-world-with-three-js-90541cf99edf)
+- [VideoTexture](https://github.com/mrdoob/three.js/blob/master/src/textures/VideoTexture.js)
+- [Three.js YouTube player](https://codepen.io/asjas/pen/pWawPm)
 # Performance issues
-
 - Manifestation
   - Developer side
     - 3D Model designers suffers from the long loading time when rendering to see the effects
@@ -64,7 +111,7 @@
   - 1
 - Tech level
   - Possible useful methods
-    - `renderer.setPixelRatio( window.devicePixelRatio )`
+    - `renderer.setPixelRatio( window.devicePixelRatio`
 ## Posts
 - [Three.js: ways to reduce file size of models? - Stack Overflow](https://stackoverflow.com/questions/45144656/three-js-ways-to-reduce-file-size-of-models#:~:text=The%20OBJ%20file%20is%20around,JSON%20file%20is%20almost%20100mb.)
 - [Loading Big .Obj file about 300 Mb will crash te browser and take much time to load](https://discourse.threejs.org/t/loading-big-obj-file-about-300-mb-will-crash-te-browser-and-take-much-time-to-load/1401)

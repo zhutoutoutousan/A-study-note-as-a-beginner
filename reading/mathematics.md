@@ -60,7 +60,6 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
 ## General
 - [Introduction to Mathematical analysis](https://maths-people.anu.edu.au/~john/Assets/Lecture%20Notes/B21H_97.pdf)
 
-
 # Linear algebra
 - Linear Algebra Done Right
 - Linear Algebra Done Wrong

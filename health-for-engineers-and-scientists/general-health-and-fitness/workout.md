@@ -428,7 +428,9 @@
 - Tuesday
   - Shoulder
 - Wednesday
+  - Leg
 - Thursday
+  - Off
 - Friday
 - Saturday
 - Sunday

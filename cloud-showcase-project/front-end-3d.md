@@ -4,6 +4,7 @@
 - [Web Infrastructure](#web-infrastructure)
   - [Cloud rendering](#cloud-rendering)
 - [Accesory study progress track](#accesory-study-progress-track)
+- [Project architecture](#project-architecture)
 - [Agile development](#agile-development)
 - [Interface](#interface)
 - [Functions](#functions)
@@ -62,6 +63,9 @@
       - Tutorial 6
         - Progress: 18:07/35:17
 - [Explaining basic 3D theory - MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
+
+# Project architecture
+- [How to organize your Three.js code in a cleaner way](https://medium.com/@soffritti.pierfrancesco/how-to-organize-the-structure-of-a-three-js-project-77649f58fa3f)
 # Agile development
 - Boilerplate
   - [vue-threejs](https://github.com/fritx/vue-threejs)

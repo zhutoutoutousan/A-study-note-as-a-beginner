@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Feasibility](#feasibility)
 - [Current top priority task](#current-top-priority-task)
 - [Web Infrastructure](#web-infrastructure)
   - [Cloud rendering](#cloud-rendering)
@@ -29,6 +30,10 @@
 - [Useful Resource](#useful-resource)
   - [3D model](#3d-model-1)
 
+# Feasibility
+- [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
+  - [Game](http://jamir.io/en)
+
 # Current top priority task
 - Resource
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
@@ -44,7 +49,9 @@
   - [51WORLD](https://www.51hitech.com/)
   - 阿里云渲染
   - [瑞云渲染](https://www.renderbus.com/pricing.html)
-
+- Server
+  - [NVIDIA RTX SERVER](https://www.nvidia.com/en-us/data-center/rtx-server-gaming/)
+    - [RTX SERVER CLOUD GAMING ](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/cloud-gaming-server/geforce-now-rtx-server-gaming-datasheet.pdf)
 # Accesory study progress track
 - Three.js fundamentals
   - [link](https://threejsfundamentals.org/)
@@ -115,7 +122,7 @@
   - 1
 - Tech level
   - Possible useful methods
-    - `renderer.setPixelRatio( window.devicePixelRatio`
+    - `renderer.setPixelRatio( window.devicePixelRatio )`
 ## Posts
 - [Three.js: ways to reduce file size of models? - Stack Overflow](https://stackoverflow.com/questions/45144656/three-js-ways-to-reduce-file-size-of-models#:~:text=The%20OBJ%20file%20is%20around,JSON%20file%20is%20almost%20100mb.)
 - [Loading Big .Obj file about 300 Mb will crash te browser and take much time to load](https://discourse.threejs.org/t/loading-big-obj-file-about-300-mb-will-crash-te-browser-and-take-much-time-to-load/1401)

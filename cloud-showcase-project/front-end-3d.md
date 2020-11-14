@@ -33,7 +33,7 @@
 # Feasibility
 - [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
   - [Game](http://jamir.io/en)
-
+- [Dualuniverse](https://www.dualuniverse.game/)
 # Current top priority task
 - Resource
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)

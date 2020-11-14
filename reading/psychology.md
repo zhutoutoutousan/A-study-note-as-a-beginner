@@ -39,7 +39,7 @@
   - Psychologie des foules
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
     - Process 1:(Language-study-oriented)
-      - Progress: 7/125
+      - Progress: 8/125 - Para 1
 
 # Jungian Psychology
 - The Handbook of Jungian Psychology

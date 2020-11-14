@@ -2,6 +2,9 @@
 ## I
 - Interdite
 
+
+# Current state
+
 # AZERTY keyboard layout
 On top of QWERTY
 - A<-->Q
@@ -18,3 +21,4 @@ On top of QWERTY
 ## L'étranger
 - Ainsi: adv.  So
 - Vieillard: n.m.   old man
+

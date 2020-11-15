@@ -438,3 +438,4 @@
   - Incline Dumbell bench press | Dumbell bench press  4-8RM 5SETS
   - Band LC press(double sides) 6-8RM 5SETS 
 - Sunday
+  - Back day

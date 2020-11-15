@@ -100,7 +100,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
         - Video tutorial aids
           - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
             - Progress: 10:21/10:28:14
-            - [Verwenden des Microsoft C++-Toolsets über die Befehlszeile](https://code.visualstudio.com/docs/languages/cpp)
+            - Tools: Visual Studio
   - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript

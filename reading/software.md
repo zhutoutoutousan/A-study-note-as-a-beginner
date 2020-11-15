@@ -97,6 +97,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - Goal: C++ is sexy, I want to fuck her
       - Progress: 25/1069
         - research `iostream`
+        - Setup envinronment for vscode
+          - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
         - Video tutorial aids
           - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
             - Progress: 10:21/10:28:14

@@ -439,3 +439,4 @@
   - Band LC press(double sides) 6-8RM 5SETS 
 - Sunday
   - Back day
+  - Sumo deadlift | Convention | Chin-up||Wide-grip pull-up  4-6RM 3*3SETS 

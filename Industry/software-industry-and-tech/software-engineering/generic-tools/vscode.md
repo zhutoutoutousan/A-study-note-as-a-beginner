@@ -1,13 +1,14 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Configuration](#configuration)
+  - [Terminal](#terminal)
   - [Shortcut](#shortcut)
   - [Settings](#settings)
     - [Good practices](#good-practices)
 - [Navigation](#navigation)
   - [Visual](#visual)
   - [File system](#file-system)
-  - [Terminal](#terminal)
+  - [Terminal](#terminal-1)
   - [Navigate through the application](#navigate-through-the-application)
   - [Navigate through code](#navigate-through-code)
   - [Searching](#searching)
@@ -45,6 +46,10 @@
 
 
 # Configuration
+## Terminal
+- [Changing the default path of Visual Studio Code's integrated terminal](https://stackoverflow.com/questions/43305050/changing-the-default-path-of-visual-studio-codes-integrated-terminal)
+- Enable running script
+  - [Informationen zu Ausführungsrichtlinien](https://docs.microsoft.com/de-de/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
 ## Shortcut
 - Toggle setting tab: Ctrl+,
 ## Settings

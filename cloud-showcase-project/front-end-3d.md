@@ -3,6 +3,7 @@
 - [Feasibility](#feasibility)
 - [Current top priority task](#current-top-priority-task)
 - [Web Infrastructure](#web-infrastructure)
+  - [Learn from projects](#learn-from-projects)
   - [Cloud rendering](#cloud-rendering)
 - [Accesory study progress track](#accesory-study-progress-track)
 - [Project architecture](#project-architecture)
@@ -38,6 +39,8 @@
 - Resource
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
 # Web Infrastructure
+## Learn from projects
+- [Multiplayer Game Development with JavaScript (full workshop)](https://www.youtube.com/watch?v=NvkM1immvWo)
 ## Cloud rendering
 - Basic
   - [初识云计算：历史、服务、架构](https://zhuanlan.zhihu.com/p/72482251)

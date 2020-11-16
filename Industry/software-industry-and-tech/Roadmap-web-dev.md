@@ -89,6 +89,7 @@
 - [Problem solving proficiency](#problem-solving-proficiency)
 - [Deep dive - Into the abyss](#deep-dive---into-the-abyss)
   - [Chromium](#chromium)
+- [Keep up with the TREND](#keep-up-with-the-trend)
 
 # Study style
 - First give a plan to a project I want to develop
@@ -383,3 +384,8 @@
 # Deep dive - Into the abyss
 ## Chromium
 - [Chromium source code](https://source.chromium.org/)
+
+# Keep up with the TREND
+- Vue 3.0
+  - [Vue 3 Tutorial - Full Course 10 Hours 10 apps](https://www.youtube.com/watch?v=e-E0UB-YDRk)
+  - [开篇词 | 解析 Vue js 源码，提升编码能力](https://www.youtube.com/watch?v=163nYC-HIKg&list=PL5d0qARooeQhwB6oKev6sQWLQ79n6OCYK&pbjreload=101)

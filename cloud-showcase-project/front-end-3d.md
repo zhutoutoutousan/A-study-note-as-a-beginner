@@ -35,6 +35,7 @@
 - [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
   - [Game](http://jamir.io/en)
 - [Dualuniverse](https://www.dualuniverse.game/)
+- 4399斗罗大陆
 # Current top priority task
 - Resource
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
@@ -64,7 +65,7 @@
 - Discover three.js
   - [link](https://discoverthreejs.com/)
 - Service side rendering
-  - [Introduction to NuxtJS - Nested and dynamic pages, layouts, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
+  - [Introduction to NuxtJS - Nested and dynamic pages, layoutGs, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
 - Three.js learn from Chrome DevTools
   - A lot of examples can be learned from the Google Chrome DevTools
 - 3D Programming Fundamentals C++

@@ -440,3 +440,4 @@
 - Sunday
   - Back day
   - Sumo deadlift | Convention | Chin-up||Wide-grip pull-up  4-6RM 3*3SETS 
+  - 

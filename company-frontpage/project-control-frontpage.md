@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Commercial purposes](#commercial-purposes)
+- [High-level project design](#high-level-project-design)
 - [Fast website design prototyping](#fast-website-design-prototyping)
   - [CSS+HTML+JS?](#csshtmljs)
   - [Adobe XD | Webflow |](#adobe-xd--webflow-)
@@ -36,6 +37,10 @@
 # Commercial purposes
 - [8 ESSENTIAL COMPONENTS OF A SUCCESSFUL LANDING PAGE](https://learninbound.com/blog/8-essential-components-of-a-successful-landing-page/)
 
+# High-level project design
+- [细致的网站开发流程是怎样的？](https://www.zhihu.com/question/19794153)
+- [网站建设开发流程时间表](https://www.songyi.net/news/875.html)
+- [软件生命周期](https://wiki.mbalib.com/wiki/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 # Fast website design prototyping
 ## CSS+HTML+JS?
 ## Adobe XD | Webflow | 

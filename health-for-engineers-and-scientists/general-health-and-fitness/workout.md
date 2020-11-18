@@ -438,6 +438,16 @@
   - Incline Dumbell bench press | Dumbell bench press  4-8RM 5SETS
   - Band LC press(double sides) 6-8RM 5SETS 
 - Sunday
+  - Off day
+- Monday
   - Back day
   - Sumo deadlift | Convention | Chin-up||Wide-grip pull-up  4-6RM 3*3SETS 
-  - 
+- Tuesday
+  - Off day
+- Wednesday
+  - Bicep and tricep
+    - Chin-up 6-8RM 5SETS
+    - Easybar skull crusher 5-8RM 5SETS
+    - Easybar curl 5-8RM 5SETS
+    - Tricep push down & kickback 5-8RM 3*2SETS  
+  - 30 minutes running + 30 minutes bike ride

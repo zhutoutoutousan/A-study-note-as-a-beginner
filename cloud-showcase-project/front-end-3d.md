@@ -68,11 +68,6 @@
   - [Introduction to NuxtJS - Nested and dynamic pages, layoutGs, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
 - Three.js learn from Chrome DevTools
   - A lot of examples can be learned from the Google Chrome DevTools
-- 3D Programming Fundamentals C++
-  - [Entry](https://www.youtube.com/watch?v=uehGqieEbus&list=PLqCJpWy5Fohe8ucwhksiv9hTF5sfid8lA)
-    - Process(Stupid process to understand faceculling)
-      - Tutorial 6
-        - Progress: 18:07/35:17
 - [Explaining basic 3D theory - MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
 
 # Project architecture

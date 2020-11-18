@@ -14,7 +14,8 @@
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
-- [Engineering](#engineering)
+- [Software Engineering](#software-engineering)
+- [Site-reliability Engineering](#site-reliability-engineering)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
 
@@ -187,10 +188,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Operating system working principle
 
 
-# Engineering
+# Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 
+# Site-reliability Engineering
+- [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
 # Game development
 - C# all books
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)

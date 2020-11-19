@@ -115,7 +115,6 @@
 ### Tools
 - [Grid-layoutit](https://grid.layoutit.com/)
 
-
 # UX
 - [Custom Navigation Bar Animations with AOS](https://www.aliciaramirez.com/2019/05/custom-navigation-bar-animations-with-aos/)
 
@@ -124,7 +123,6 @@
   - Inkdeeps: PSD group
 - Landing page
   - [What is a Landing Page?](https://www.youtube.com/watch?v=OeuS3PnjTH8)
-
 
 # Language support
 - [Vue I18n](https://kazupon.github.io/vue-i18n/)

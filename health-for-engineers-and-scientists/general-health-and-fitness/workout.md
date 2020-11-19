@@ -445,9 +445,10 @@
 - Tuesday
   - Off day
 - Wednesday
+  - 30 minutes running
+- Thursday
   - Bicep and tricep
     - Chin-up 6-8RM 5SETS
     - Easybar skull crusher 5-8RM 5SETS
-    - Easybar curl 5-8RM 5SETS
-    - Tricep push down & kickback 5-8RM 3*2SETS  
-  - 30 minutes running + 30 minutes bike ride
+    - Easybar curl 5-8RM 5SETS·
+    - Tricep push down & kickback 5-8RM 3*2SETS

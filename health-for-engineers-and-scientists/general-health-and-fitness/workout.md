@@ -441,7 +441,7 @@
   - Off day
 - Monday
   - Back day
-  - Sumo deadlift | Convention | Chin-up||Wide-grip pull-up  4-6RM 3*3SETS 
+  - Sumo deadlift | Convention | Chin-up || Wide-grip pull-up  4-6RM 3*3SETS 
 - Tuesday
   - Off day
 - Wednesday
@@ -449,6 +449,5 @@
 - Thursday
   - Bicep and tricep
     - Chin-up 6-8RM 5SETS
-    - Easybar skull crusher 5-8RM 5SETS
-    - Easybar curl 5-8RM 5SETS·
-    - Tricep push down & kickback 5-8RM 3*2SETS
+    - Easybar skull crusher 5-8RM 3SETS
+    - Wide grip push down(Superniated grip) 3SETS

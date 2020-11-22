@@ -62,6 +62,7 @@
   - [Macrocycle(2020/11/8-2021/11/8)](#macrocycle2020118-2021118)
     - [Mesocycle(2020/11/8-2021/1/31)](#mesocycle2020118-2021131)
       - [Microcycle(11/8-11/15)](#microcycle118-1115)
+      - [Microcycle(11/16-11/23)](#microcycle1116-1123)
 
 # Paradigm shift: Leveling up
 - [How To Deload](https://www.youtube.com/watch?v=Dt6ok24VBpg)
@@ -439,6 +440,8 @@
   - Band LC press(double sides) 6-8RM 5SETS 
 - Sunday
   - Off day
+#### Microcycle(11/16-11/23)
+
 - Monday
   - Back day
   - Sumo deadlift | Convention | Chin-up || Wide-grip pull-up  4-6RM 3*3SETS 
@@ -451,3 +454,13 @@
     - Chin-up 6-8RM 5SETS
     - Easybar skull crusher 5-8RM 3SETS
     - Wide grip push down(Superniated grip) 3SETS
+- Friday
+  - Chest day
+  - Bench press 5-8RM 5SETS
+  - Incline raise 5-8RM 5SETS
+  - Overcross 5-8RM 5SETS
+  - LC press 5-8RM 3SETS
+- Saturday
+  - Off day
+- Sunday
+  - 

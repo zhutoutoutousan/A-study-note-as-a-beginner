@@ -463,4 +463,7 @@
 - Saturday
   - Off day
 - Sunday
-  - 
+  - Overhead press 4-6RM 5SETS
+  - Side lateral raise 6-8RM 5SETS
+  - Band rear delts raise 5-8RM 5SETS
+  - Landmind press 8-10RM 3SETS*2

@@ -82,7 +82,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Goals
     - Learn about *rigorous defensive programming*
   - Interesting points:
-    - *C is broken, It is full of design choirces that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
+    - *C is broken, It is full of design choices that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
       - unrestricted, wild use of pointers 
       - severely broken NUL terminated strings
   - Process 1:(Learn when you have some spare time and interest)

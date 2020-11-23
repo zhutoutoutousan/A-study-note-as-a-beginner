@@ -1,12 +1,14 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Basics](#basics)
-- [Feasibility](#feasibility)
-- [Current top priority task](#current-top-priority-task)
-- [Web Infrastructure](#web-infrastructure)
-  - [Learn from projects](#learn-from-projects)
-  - [Cloud rendering](#cloud-rendering)
-- [Accesory study progress track](#accesory-study-progress-track)
+- [Workflow and teamplay](#workflow-and-teamplay)
+- [Approaches](#approaches)
+  - [Unity 3D](#unity-3d)
+    - [Resources](#resources)
+- [Panorama](#panorama)
+  - [Tutorials](#tutorials)
+- [3D model](#3d-model)
+  - [Feasibility](#feasibility)
+  - [Current top priority task](#current-top-priority-task)
 - [Project architecture](#project-architecture)
 - [Agile development](#agile-development)
 - [Interface](#interface)
@@ -23,56 +25,40 @@
     - [Fly](#fly)
   - [Collision detection](#collision-detection)
   - [VR](#vr)
-- [3D Model](#3d-model)
+- [3D Model](#3d-model-1)
 - [Control panel](#control-panel)
 - [Artistic modification](#artistic-modification)
 - [Tools](#tools-1)
   - [Format converter](#format-converter)
   - [Shader](#shader)
 - [Useful Resource](#useful-resource)
-  - [3D model](#3d-model-1)
+  - [3D model](#3d-model-2)
 
-# Basics
+# Workflow and teamplay
 - [3D动画怎么做？3D动画制作流程是怎么样的？](https://zhuanlan.zhihu.com/p/144272725)
 
-# Feasibility
+# Approaches
+## Unity 3D
+
+### Resources
+- [Unity-3D-FPS-Demo](https://github.com/dantheman213/Unity-3D-FPS-Demo)
+
+# Panorama
+## Tutorials
+- [After reading this, you can also implement a 360-degree panoramic plug-in.](https://developpaper.com/after-reading-this-you-can-also-implement-a-360-degree-panoramic-plug-in/)
+- [tpanorama](https://github.com/ConardLi/tpanorama)
+
+# 3D model
+## Feasibility
 - [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
   - [Game](http://jamir.io/en)
 - [Dualuniverse](https://www.dualuniverse.game/)
-- 4399斗罗大陆
-# Current top priority task
+
+## Current top priority task
 - Resource
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
-# Web Infrastructure
-## Learn from projects
-- [Multiplayer Game Development with JavaScript (full workshop)](https://www.youtube.com/watch?v=NvkM1immvWo)
-## Cloud rendering
-- Basic
-  - [初识云计算：历史、服务、架构](https://zhuanlan.zhihu.com/p/72482251)
-- Technology
-  - [云渲染与分布式并行集群渲染技术](https://blog.csdn.net/gridrender/article/details/51724033)
-- Renderer
-  - [Gpu pointe cloud renderer](https://github.com/ValentinKraft/UE4_GPUPointCloudRenderer)
-- Instance
-  - [51WORLD](https://www.51hitech.com/)
-  - 阿里云渲染
-  - [瑞云渲染](https://www.renderbus.com/pricing.html)
-- Server
-  - [NVIDIA RTX SERVER](https://www.nvidia.com/en-us/data-center/rtx-server-gaming/)
-    - [RTX SERVER CLOUD GAMING ](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/cloud-gaming-server/geforce-now-rtx-server-gaming-datasheet.pdf)
-# Accesory study progress track
-- Three.js fundamentals
-  - [link](https://threejsfundamentals.org/)
-  - [threejs - scenegraph](https://threejsfundamentals.org/threejs/lessons/threejs-scenegraph.html)
-    - Progress: Check the file 
-    - File: `scenegraph-practice`(code-playground)
-- Discover three.js
-  - [link](https://discoverthreejs.com/)
-- Service side rendering
-  - [Introduction to NuxtJS - Nested and dynamic pages, layoutGs, asyncData + axios, meta tags, and VueX](https://www.youtube.com/watch?v=NS0io3Z75GI)
-- Three.js learn from Chrome DevTools
-  - A lot of examples can be learned from the Google Chrome DevTools
-- [Explaining basic 3D theory - MDN](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
+
+
 
 # Project architecture
 - [How to organize your Three.js code in a cleaner way](https://medium.com/@soffritti.pierfrancesco/how-to-organize-the-structure-of-a-three-js-project-77649f58fa3f)

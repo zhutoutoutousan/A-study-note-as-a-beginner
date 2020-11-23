@@ -467,3 +467,13 @@
   - Side lateral raise 6-8RM 5SETS
   - Band rear delts raise 5-8RM 5SETS
   - Landmind press 8-10RM 3SETS*2
+- Monday
+  - Leg day
+    - Strength and hypertrophy
+      - Barbell squat 4-6RM 5SETS
+      - Bulgarian split squat 8RM 5SETS
+    - Assessive
+      - Quadruple band deviation MAX 3SETS
+    - Explosive
+      - Rise
+      - Dumbell jump

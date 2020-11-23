@@ -69,7 +69,8 @@
     - Goal
       - Lay a solid mathematic background for game developing
     - Progress: Just started
-
+- [WebGL - Up and Running](http://www.dominictran.com/pdf/WebGL.Up.and.Running.Aug.2012.Oreilly.pdf)
+- [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## C

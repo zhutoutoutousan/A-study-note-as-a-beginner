@@ -7,6 +7,7 @@
   - [Stew](#stew)
   - [Software architecture](#software-architecture)
   - [System design](#system-design)
+- [Web 3D](#web-3d)
   - [Full-stack](#full-stack)
     - [Database](#database)
     - [API](#api)
@@ -111,6 +112,10 @@
 
 ## System design
 
+# Web 3D
+- [ThreeJS快速入门](https://zhuanlan.zhihu.com/p/23272116)
+  - The book is the way to go
+- [3D展厅](https://zhuanlan.zhihu.com/p/113638835)
 
 ## Full-stack
 ### Database

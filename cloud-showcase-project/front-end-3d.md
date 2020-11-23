@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Basics](#basics)
 - [Feasibility](#feasibility)
 - [Current top priority task](#current-top-priority-task)
 - [Web Infrastructure](#web-infrastructure)
@@ -30,6 +31,9 @@
   - [Shader](#shader)
 - [Useful Resource](#useful-resource)
   - [3D model](#3d-model-1)
+
+# Basics
+- [3D动画怎么做？3D动画制作流程是怎么样的？](https://zhuanlan.zhihu.com/p/144272725)
 
 # Feasibility
 - [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)

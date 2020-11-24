@@ -1,10 +1,13 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [New 3D possibilities](#new-3d-possibilities)
+  - [Game engine](#game-engine)
+  - [Panorama](#panorama)
 - [Workflow and teamplay](#workflow-and-teamplay)
 - [Approaches](#approaches)
   - [Unity 3D](#unity-3d)
     - [Resources](#resources)
-- [Panorama](#panorama)
+- [Panorama](#panorama-1)
   - [Tutorials](#tutorials)
 - [3D model](#3d-model)
   - [Feasibility](#feasibility)
@@ -34,6 +37,20 @@
 - [Useful Resource](#useful-resource)
   - [3D model](#3d-model-2)
 
+
+# New 3D possibilities
+## Game engine
+- [cocos](https://github.com/cocos-creator)
+  - 根据Cocos的技术开发手册，愚总结cocos有三个特点： 1, 适应中国互联网及商业生态环境（接地气: 见https://docs.cocos.com/creator/manual/zh/publish/) 2. 重要技术栈来自开源社区（双刃剑） 3. 具有完整的游戏开发功能（五脏俱全）
+- Unity
+  - [Tutorial](https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=302s)
+  - [Simmer - Quick prototyping](https://simmer.io/)
+## Panorama
+- [Tutorial](https://www.youtube.com/watch?v=HtwXJR9uaHU&list=PLOE4AXLr4CPheIXvz4KqLjdg-4ZWJf39P&index=2)
+
+- [Krpano - Sterio 3D](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/depthmap/depthmap-textured/test.xml)
+- [Krpano - Moving elements](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/webvr-drone-attack/drone-attack.xml&html5=only+webgl)
+- [Blender to krpano workflow](https://www.youtube.com/watch?v=A2hk0FLNqYo&list=PLURjB7qnN5eP6BnkZgJyKXKNecB9nozZC&index=6)
 # Workflow and teamplay
 - [3D动画怎么做？3D动画制作流程是怎么样的？](https://zhuanlan.zhihu.com/p/144272725)
 

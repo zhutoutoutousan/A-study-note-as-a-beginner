@@ -477,3 +477,11 @@
     - Explosive
       - Rise
       - Dumbell jump
+- Tuesday
+  - Off day
+- Wednesday
+  - Bicep and tricep
+  - Chin up 5-8RM 5SETS
+  - Easybar skull crusher 5-8RM 3SETS
+  - Wide grip push down(Supernated grip) 5-8RM 3SETS
+  - 

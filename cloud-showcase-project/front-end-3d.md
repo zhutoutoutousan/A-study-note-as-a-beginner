@@ -1,17 +1,19 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [New 3D possibilities](#new-3d-possibilities)
-  - [Game engine](#game-engine)
   - [Panorama](#panorama)
 - [Workflow and teamplay](#workflow-and-teamplay)
-- [Approaches](#approaches)
+- [Methodology overview](#methodology-overview)
+  - [Cocos Creator](#cocos-creator)
   - [Unity 3D](#unity-3d)
-    - [Resources](#resources)
-- [Panorama](#panorama-1)
-  - [Tutorials](#tutorials)
-- [3D model](#3d-model)
-  - [Feasibility](#feasibility)
-  - [Current top priority task](#current-top-priority-task)
+    - [Tutorial](#tutorial)
+    - [Browser---In-game Communication](#browser---in-game-communication)
+  - [Panorama](#panorama-1)
+    - [Krpano](#krpano)
+    - [tpanorama](#tpanorama)
+      - [Tutorials](#tutorials)
+  - [three.js](#threejs)
+    - [Tutorial](#tutorial-1)
 - [Project architecture](#project-architecture)
 - [Agile development](#agile-development)
 - [Interface](#interface)
@@ -28,54 +30,53 @@
     - [Fly](#fly)
   - [Collision detection](#collision-detection)
   - [VR](#vr)
-- [3D Model](#3d-model-1)
+- [3D Model](#3d-model)
 - [Control panel](#control-panel)
 - [Artistic modification](#artistic-modification)
 - [Tools](#tools-1)
   - [Format converter](#format-converter)
   - [Shader](#shader)
 - [Useful Resource](#useful-resource)
-  - [3D model](#3d-model-2)
+  - [3D model](#3d-model-1)
 
 
 # New 3D possibilities
-## Game engine
-- [cocos](https://github.com/cocos-creator)
-  - 根据Cocos的技术开发手册，愚总结cocos有三个特点： 1, 适应中国互联网及商业生态环境（接地气: 见https://docs.cocos.com/creator/manual/zh/publish/) 2. 重要技术栈来自开源社区（双刃剑） 3. 具有完整的游戏开发功能（五脏俱全）
-- Unity
-  - [Tutorial](https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=302s)
-  - [Simmer - Quick prototyping](https://simmer.io/)
+
 ## Panorama
 - [Tutorial](https://www.youtube.com/watch?v=HtwXJR9uaHU&list=PLOE4AXLr4CPheIXvz4KqLjdg-4ZWJf39P&index=2)
-
 - [Krpano - Sterio 3D](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/depthmap/depthmap-textured/test.xml)
 - [Krpano - Moving elements](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/webvr-drone-attack/drone-attack.xml&html5=only+webgl)
 - [Blender to krpano workflow](https://www.youtube.com/watch?v=A2hk0FLNqYo&list=PLURjB7qnN5eP6BnkZgJyKXKNecB9nozZC&index=6)
 # Workflow and teamplay
 - [3D动画怎么做？3D动画制作流程是怎么样的？](https://zhuanlan.zhihu.com/p/144272725)
 
-# Approaches
+# Methodology overview
+## Cocos Creator
+- [cocos](https://github.com/cocos-creator)
+  - 根据Cocos的技术开发手册，愚总结cocos有三个特点： 1, 适应中国互联网及商业生态环境（接地气: 见https://docs.cocos.com/creator/manual/zh/publish/) 2. 重要技术栈来自开源社区（双刃剑） 3. 具有完整的游戏开发功能（五脏俱全）
 ## Unity 3D
-
-### Resources
+### Tutorial
+- [Tutorial](https://www.youtube.com/watch?v=Sqb-Ue7wpsI&t=302s)
+- [Simmer - Quick prototyping](https://simmer.io/)
 - [Unity-3D-FPS-Demo](https://github.com/dantheman213/Unity-3D-FPS-Demo)
-
-# Panorama
-## Tutorials
+### Browser---In-game Communication
+- [How to Send Data to Unity WebGL from Javascript or PHP](https://www.youtube.com/watch?v=L03EBBixFxw)
+## Panorama
+### Krpano
+- [Krpano - Depthmap](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/depthmap/gravina-apartment-tour/main2.xml)
+### tpanorama
+#### Tutorials
 - [After reading this, you can also implement a 360-degree panoramic plug-in.](https://developpaper.com/after-reading-this-you-can-also-implement-a-360-degree-panoramic-plug-in/)
 - [tpanorama](https://github.com/ConardLi/tpanorama)
-
-# 3D model
-## Feasibility
-- [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
-  - [Game](http://jamir.io/en)
-- [Dualuniverse](https://www.dualuniverse.game/)
-
-## Current top priority task
-- Resource
+## three.js
+- Tutorial
   - [用 Three.js 來當個創世神 (30)：總結與心得](https://ithelp.ithome.com.tw/articles/10209169)
-
-
+  - [Three.js WebGL Game Jamir - 8 minute gameplay](https://www.youtube.com/watch?v=JeJQB1iE9X0)
+    - [Game](http://jamir.io/en)
+- asfd
+- [Dualuniverse](https://www.dualuniverse.game/)
+### Tutorial
+- Resource
 
 # Project architecture
 - [How to organize your Three.js code in a cleaner way](https://medium.com/@soffritti.pierfrancesco/how-to-organize-the-structure-of-a-three-js-project-77649f58fa3f)

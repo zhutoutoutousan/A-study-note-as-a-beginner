@@ -4,3 +4,7 @@
 # Cloud rendering
 
 # Windows Server 2012
+## IIS configuration
+### For Unity 3D projects
+### For three.js/bablyon.js projects
+### For Krpano projects

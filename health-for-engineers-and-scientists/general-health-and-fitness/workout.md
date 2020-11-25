@@ -484,4 +484,7 @@
   - Chin up 5-8RM 5SETS
   - Easybar skull crusher 5-8RM 3SETS
   - Wide grip push down(Supernated grip) 5-8RM 3SETS
-  - 
+  - Easybar Curl 6-8RM 5SETS
+  - Tricep pushdown(Long-head) 4-8RM 3SETS
+  - Incline curl | Pronated Curl  6-8RM 5SETS*2
+  - Dumbell grip hold MAX 1SET

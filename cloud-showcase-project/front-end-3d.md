@@ -70,10 +70,29 @@
           - Artstations
           - Sketchfab
           - Unity 3
-    - Planning
-    - Block out
-    - Rendering
-      - [V-Ray Render Settings Explained | Learn it once and for all!](https://www.youtube.com/watch?v=j1YK0Uwvrvk)
+    - Planning 计划
+      - 模型构建计划
+        - 每个模型分解成不同的部分（primitive）
+      - 目标
+        - 将不同的部分拼接成一个完整的模型
+    - Procedure
+      - Block out
+        - 确定**模型的尺寸和比例**
+      - Refine low poly model
+      - Retopology
+      - UV mapping
+      - Rigging
+      - Skinning
+      - Animation
+      - LODs
+      - Baking
+      - Texturing
+      - Import
+      - Make materials
+      - Lighting
+      - `Programming`
+      - Rendering
+        - [V-Ray Render Settings Explained | Learn it once and for all!](https://www.youtube.com/watch?v=j1YK0Uwvrvk)
   - Terminologies
     - V-ray
       - [V-Ray Render Settings Explained | Learn it once and for all!](https://www.youtube.com/watch?v=j1YK0Uwvrvk)

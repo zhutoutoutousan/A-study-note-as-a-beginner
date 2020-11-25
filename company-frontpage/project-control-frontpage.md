@@ -6,6 +6,7 @@
   - [CSS+HTML+JS?](#csshtmljs)
   - [Adobe XD | Webflow |](#adobe-xd--webflow-)
 - [Tutorials](#tutorials)
+- [Examples](#examples)
 - [Web design](#web-design)
 - [Project control](#project-control)
   - [Project architecture](#project-architecture)
@@ -46,10 +47,14 @@
 ## CSS+HTML+JS?
 ## Adobe XD | Webflow | 
 
-
 # Tutorials
 - [Apple Airpod Pro Javascript Animation Tutorial](https://www.youtube.com/watch?v=wLUJ9VNzZXo)
-  
+  - Progress: 3:30/30:11
+
+# Examples
+- [Animation on load - Codepen](https://codepen.io/N1kbes/pen/yYYbRO)
+
+
 # Web design
 - [The best designs](https://www.thebestdesigns.com/p2)
   - 一键到底

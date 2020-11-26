@@ -2,6 +2,8 @@
 - [Table of Contents](#table-of-contents)
 - [Teamplay(R&D team)](#teamplayrd-team)
   - [3d modelling team](#3d-modelling-team)
+- [Current priority](#current-priority)
+  - [Yishi](#yishi)
 - [New 3D possibilities](#new-3d-possibilities)
   - [Panorama](#panorama)
 - [Workflow and teamplay](#workflow-and-teamplay)
@@ -13,7 +15,8 @@
     - [Browser---In-game Communication](#browser---in-game-communication)
   - [Echarts.js](#echartsjs)
   - [Panorama](#panorama-1)
-    - [Krpano](#krpano)
+    - [marzipano](#marzipano)
+    - [Krpano(DEPRECATED)](#krpanodeprecated)
       - [Tutorial](#tutorial-1)
     - [tpanorama](#tpanorama)
       - [Tutorials](#tutorials)
@@ -97,12 +100,17 @@
     - V-ray
       - [V-Ray Render Settings Explained | Learn it once and for all!](https://www.youtube.com/watch?v=j1YK0Uwvrvk)
 
+# Current priority
+## Yishi
+- [Krpano - Moving elements](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/webvr-drone-attack/drone-attack.xml&html5=only+webgl)
+- [Krpano - DOM events](https://krpano.com/plugins/userplugins/easyhtmllightbox/#example03)
+
+
 # New 3D possibilities
 
 ## Panorama
 - [Tutorial](https://www.youtube.com/watch?v=HtwXJR9uaHU&list=PLOE4AXLr4CPheIXvz4KqLjdg-4ZWJf39P&index=2)
 - [Krpano - Sterio 3D](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/depthmap/depthmap-textured/test.xml)
-- [Krpano - Moving elements](https://krpano.com/releases/1.20.9/viewer/krpano.html?xml=examples/webvr-drone-attack/drone-attack.xml&html5=only+webgl)
 - [Blender to krpano workflow](https://www.youtube.com/watch?v=A2hk0FLNqYo&list=PLURjB7qnN5eP6BnkZgJyKXKNecB9nozZC&index=6)
 # Workflow and teamplay
 - [3D动画怎么做？3D动画制作流程是怎么样的？](https://zhuanlan.zhihu.com/p/144272725)
@@ -125,7 +133,11 @@
 ## Echarts.js
 - [hightopo](https://www.hightopo.com/demo/)
 ## Panorama
-### Krpano
+### marzipano
+- Google's little project
+- Open source
+- HTML based
+### Krpano(DEPRECATED)
 #### Tutorial
 - Resources
   - [云盘狗](https://www.yunpangou.com/216062746121346911)

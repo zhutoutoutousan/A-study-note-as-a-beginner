@@ -495,3 +495,4 @@
   - Face pull | Lat pull down 6-8RM 5SETS
   - W-Y-T raise 6-8RM 3SETS
 - Friday
+  - Off day

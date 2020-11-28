@@ -1,3 +1,14 @@
+# Basics
+- Philosophy: the basics - Nigel Warburton
+  - [link1](https://studyhighschoolenglish.files.wordpress.com/2015/11/0415693160_philosophy-the-basics.pdf)
+- The philosophy book
+  - [link1](http://gimnazija-osma-tbrezovackog-zg.skole.hr/upload/gimnazija-osma-tbrezovackog-zg/newsattach/872/The_Philosophy_Book_(gnv64).pdf)
+# Practice
+- The Practice of Philosophy - A handbook for beginners - J.F. The Practice of Philosophy
+- Doing philosophy: an introduction through thought experiments
+- How to be a philosopher - G. Cox
+- Malá filosofie člověka
+  - Require Czech C2 level to proceed
 # Uncategorized
 - Richard Dawkins - the selfish gene
   - [Link1](https://alraziuni.edu.ye/uploads/pdf/book1/Laboratories/The%20Selfish%20Gene%20-%20R.%20Dawkins%20(1976)%20WW.pdf)

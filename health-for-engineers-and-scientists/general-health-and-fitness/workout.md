@@ -488,3 +488,11 @@
   - Tricep pushdown(Long-head) 4-8RM 3SETS
   - Incline curl | Pronated Curl  6-8RM 5SETS*2
   - Dumbell grip hold MAX 1SET
+- Thursday
+  - Back day
+  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
+  - Wide-grip pull up 4-6RM 5SETS
+  - Face pull | Lat pull down 6-8RM 5SETS
+  - W-Y-T raise 6-8RM 3SETS
+- Friday
+  - Off day

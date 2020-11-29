@@ -431,16 +431,16 @@
       - Clapping push up 8/10-12RM 2SETS
       - Explosive bench press 8/10-12RM 2SETS
 - Monday
- - Leg day
- - Strength & Hypertrophy
-   - Barbell squat  4-6RM 5SETS
-   - Bulgarian split squat  6-8RM 3SETS
-   - 360 SPLIT SQUAT 2RDs
-   - Snatch 4REPS 3SETS
-   - Snatch pull 6REPS 2SETS
-   - Snatch squat 6-8RM 2SETS
-   - Clean and jerk 6REPS 3SETS
-   - Front squat 5/6-8RM 2SETS
- - Explosiveness
-   - Dumbell squat jump 6-8RM/10RM 2SETS
-   - Roll-up jump 8RM/10RM 2SETS
+   - Leg day
+   - Strength & Hypertrophy
+     - Barbell squat  4-6RM 5SETS
+     - Bulgarian split squat  6-8RM 3SETS
+     - 360 SPLIT SQUAT 2RDs
+     - Snatch 4REPS 3SETS
+     - Snatch pull 6REPS 2SETS
+     - Snatch squat 6-8RM 2SETS
+     - Clean and jerk 6REPS 3SETS
+     - Front squat 5/6-8RM 2SETS
+   - Explosiveness
+     - Dumbell squat jump 6-8RM/10RM 2SETS
+     - Roll-up jump 8RM/10RM 2SETS

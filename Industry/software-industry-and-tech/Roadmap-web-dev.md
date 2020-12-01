@@ -7,7 +7,8 @@
   - [Stew](#stew)
   - [Software architecture](#software-architecture)
   - [System design](#system-design)
-- [Web 3D](#web-3d)
+  - [Web 3D](#web-3d)
+    - [C++](#c)
   - [Full-stack](#full-stack)
     - [Database](#database)
     - [API](#api)
@@ -112,10 +113,12 @@
 
 ## System design
 
-# Web 3D
+## Web 3D
 - [ThreeJS快速入门](https://zhuanlan.zhihu.com/p/23272116)
   - The book is the way to go
 - [3D展厅](https://zhuanlan.zhihu.com/p/113638835)
+### C++
+- [Code-It-Yourself! Tetris - Programming from Scratch (Quick and Simple C++)](https://www.youtube.com/watch?v=8OK8_tHeCIA)
 
 ## Full-stack
 ### Database

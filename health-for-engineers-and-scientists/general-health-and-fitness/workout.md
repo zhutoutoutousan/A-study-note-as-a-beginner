@@ -444,3 +444,5 @@
    - Explosiveness
      - Dumbell squat jump 6-8RM/10RM 2SETS
      - Roll-up jump 8RM/10RM 2SETS
+- Tuesday
+  - Off day

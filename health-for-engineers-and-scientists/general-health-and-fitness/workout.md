@@ -446,3 +446,8 @@
      - Roll-up jump 8RM/10RM 2SETS
 - Tuesday
   - Off day
+- Wednesday
+  - Bicep and tricep
+  - Strength and hypertrophy
+    - Chin-up 6-8RM 5SETS
+    - 

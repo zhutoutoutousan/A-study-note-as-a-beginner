@@ -31,7 +31,6 @@
 
 # Code 代码
 
-# Recent activities 
-- The 
+# Recent activities
 
 

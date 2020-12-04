@@ -29,6 +29,11 @@
 - IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`
 
 
-Servers  
+Servers von Huang
 101.227.111.51  
 administrator/Admin@163.com
+
+
+Unsere Server
+192.168.1.120
+range(1,6)

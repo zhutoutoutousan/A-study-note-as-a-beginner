@@ -1,0 +1,2 @@
+# Documentation
+- [Technical Documentation in Software Development: Types, Best Practices, and Tools](altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)

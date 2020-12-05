@@ -361,44 +361,6 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-
-- Monday
-  - Back day
-  - Sumo deadlift | Convention | Chin-up || Wide-grip pull-up  4-6RM 3*3SETS 
-- Tuesday
-  - Off day
-- Wednesday
-  - 30 minutes running
-- Thursday
-  - Bicep and tricep
-    - Chin-up 6-8RM 5SETS
-    - Easybar skull crusher 5-8RM 3SETS
-    - Wide grip push down(Superniated grip) 3SETS
-- Friday
-  - Chest day
-  - Bench press 5-8RM 5SETS
-  - Incline raise 5-8RM 5SETS
-  - Overcross 5-8RM 5SETS
-  - LC press 5-8RM 3SETS
-- Saturday
-  - Off day
-- Sunday
-  - Overhead press 4-6RM 5SETS
-  - Side lateral raise 6-8RM 5SETS
-  - Band rear delts raise 5-8RM 5SETS
-  - Landmind press 8-10RM 3SETS*2
-- Monday
-  - Leg day
-    - Strength and hypertrophy
-      - Barbell squat 4-6RM 5SETS
-      - Bulgarian split squat 8RM 5SETS
-    - Assessive
-      - Quadruple band deviation MAX 3SETS
-    - Explosive
-      - Rise
-      - Dumbell jump
-- Tuesday
-  - Off day
 - Wednesday
   - Bicep and tricep
   - Chin up 5-8RM 5SETS
@@ -450,4 +412,14 @@
   - Bicep and tricep
   - Strength and hypertrophy
     - Chin-up 6-8RM 5SETS
-    
+- Thursday
+  - Shoulder day
+- Friday
+  - Off day
+- Saturday
+- Sunday
+  - Back day
+  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
+  - Wide-grip pull up | Chin-up 4-6RM 6SETS
+  - Face pull | Straight arm pull down 6-8RM 5SETS
+  - W-Y-T raise 6-8RM 3SETS

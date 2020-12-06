@@ -1,6 +1,7 @@
 # Academic writing
 - On Writing Well
   - [Link1](http://richardcolby.net/writ2000/wp-content/uploads/2017/09/On-Writing-Well-30th-Anniversa-Zinsser-William.pdf)
+  - Progress: 10/233
 - The Elements of Style
   - [link1](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
 - How to write a sentence and how to read one

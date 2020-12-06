@@ -417,6 +417,7 @@
 - Friday
   - Off day
 - Saturday
+  - 40 minutes bike ride
 - Sunday
   - Back day
   - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
@@ -424,3 +425,10 @@
   - Dumbbell row 5-8RM 3SETS
   - Face pull | Straight arm pull down 6-8RM 5SETS
   - W-Y-T raise 6-8RM 3SETS
+- Monday
+  - Chest day
+  - Incline Dumbbell bench press | Flat Dumbbell bench press 4-6RM 5SETS*2
+  - Dumbbell fly 8-12RM 3SETS
+  - Equipment crossover 6-8RM 3SETS
+  - HC pull 6-8RM 5SETS
+  - LC push 6-8RM 5SETS

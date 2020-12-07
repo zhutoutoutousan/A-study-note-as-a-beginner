@@ -86,6 +86,10 @@
     - [JavaScript tutorial](https://github.com/javascript-tutorial)
   - [Object-Playground](http://www.objectplayground.com/)
 - TypeScript
+  - Production-Grade TypeScript
+    - [link1](https://frontendmasters.com/courses/production-typescript/)
+    - [Repo](https://github.com/mike-north/professional-ts/)
+    - Progress:
   - Learn from projects that you are interested in, then look up in the official documents
     - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
 ## Tools, middlewares, and frameworks

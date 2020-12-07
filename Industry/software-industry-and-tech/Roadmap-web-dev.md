@@ -89,7 +89,7 @@
   - Production-Grade TypeScript
     - [link1](https://frontendmasters.com/courses/production-typescript/)
     - [Repo](https://github.com/mike-north/professional-ts/)
-    - Progress:
+    - Progress: 24:00/6hrs
   - Learn from projects that you are interested in, then look up in the official documents
     - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
 ## Tools, middlewares, and frameworks
@@ -98,7 +98,6 @@
   - Vue JS Essentials with Vuex and Vue Router
     - [Link](https://www.udemy.com/course/vue-js-course/learn/lecture/10219482?start=30#overview)
     - Progress: Section 1 8/25 --> 10.5hrs
-
   - Intro to Vue.js
     - Suggested as the first vue course
     - [Link](https://frontendmasters.com/courses/vue/vue-instance/)

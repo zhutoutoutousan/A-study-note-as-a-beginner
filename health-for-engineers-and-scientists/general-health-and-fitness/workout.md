@@ -432,3 +432,5 @@
   - Equipment crossover 6-8RM 3SETS
   - HC pull 6-8RM 5SETS
   - LC push 6-8RM 5SETS
+- Tuesday
+  - Off day

@@ -10,6 +10,7 @@
 - [Methodology overview](#methodology-overview)
   - [Cocos Creator](#cocos-creator)
   - [Unity 3D](#unity-3d)
+    - [Project management](#project-management)
     - [3D model base for developers situated in China](#3d-model-base-for-developers-situated-in-china)
     - [Tutorial](#tutorial)
     - [Browser---In-game Communication](#browser---in-game-communication)
@@ -118,6 +119,8 @@
 - [cocos](https://github.com/cocos-creator)
   - 根据Cocos的技术开发手册，愚总结cocos有三个特点： 1, 适应中国互联网及商业生态环境（接地气: 见https://docs.cocos.com/creator/manual/zh/publish/) 2. 重要技术栈来自开源社区（双刃剑） 3. 具有完整的游戏开发功能（五脏俱全）
 ## Unity 3D
+### Project management
+- [Unity 3D - Official project](https://github.com/Unity-Technologies/FPSSample/blob/master/Documentation/SourceCode.md)
 ### 3D model base for developers situated in China
 - [cgmodel - CG模型网](https://www.cgmodel.com/)
 ### Tutorial
@@ -157,7 +160,6 @@
 
 # Project architecture
 ## Krpano project
-
 ## Vue-three.js project
 - [How to organize your Three.js code in a cleaner way](https://medium.com/@soffritti.pierfrancesco/how-to-organize-the-structure-of-a-three-js-project-77649f58fa3f)
 # Agile development

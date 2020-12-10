@@ -105,6 +105,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
           - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
             - Progress: 10:21/10:28:14
             - Tools: Visual Studio
+    - Process 2:
+      - Goal: Learn to work with U3D or UE4 developer as a Front-end developer
+      - Progress: 25/1069
   - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript

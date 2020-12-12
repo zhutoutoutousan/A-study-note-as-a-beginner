@@ -4,7 +4,8 @@
   - Process 1:(Serious learning)
     - Progress: 30/896
     - Maybe you can create a gallary of studies before, sorted by directions
-
+- [Signal Processing A Mathematical Approach Second Edition](https://library.oapen.org/bitstream/id/3eb04f39-67d7-4b4d-8569-3185fbefd944/1005624.pdf)
+- [The Mathematics of Signal Processing](http://www-personal.umich.edu/~damelin/proofdammiller.pdf)
 # BCI
 - Brain-Computer Interfacing: An Introduction - Rajesh
   - Chinese version

@@ -434,3 +434,22 @@
   - LC push 6-8RM 5SETS
 - Tuesday
   - Off day
+- Wednesday
+  - Off day
+- Thursday
+  - ?
+- Friday
+  - Leg
+- Saturday
+  - Shoulder
+- Sunday
+  - Core + Bicep & Tricep
+  - Core
+    - Hanging knee raise | Band crunch down 6-8RM 5SETS
+    - Ab wheel 3SETS
+    - Lateral band raise 6-8RM 3SETS
+    - Band scapular protraction 3SETS
+  - Bicep & Tricep
+    - Bicep curl | Cheated | Drag curl 4-6RM 3SETS
+    - Reverse tricep push down 6-8RM 3SETS
+  - 30 minutes bike ride

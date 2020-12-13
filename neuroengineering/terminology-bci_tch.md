@@ -27,7 +27,7 @@
   - [PSH](#psh)
 - [S](#s)
   - [Secretion](#secretion)
-  - [Spinal cord](#spinal-cord)
+  - [SPECT](#spect)
 - [U](#u)
   - [Utah array](#utah-array)
 
@@ -73,8 +73,7 @@
 # S
 ## Secretion
 - [Secretion - wikipedia](https://en.wikipedia.org/wiki/Secretion)
-
-## Spinal cord
-
+## SPECT
+- SPECT: Single-photon emission computed tomography
 # U
 ## Utah array

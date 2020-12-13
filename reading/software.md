@@ -14,7 +14,8 @@
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
-- [Engineering](#engineering)
+- [Software Engineering](#software-engineering)
+- [Site-reliability Engineering](#site-reliability-engineering)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
 
@@ -68,7 +69,8 @@
     - Goal
       - Lay a solid mathematic background for game developing
     - Progress: Just started
-
+- [WebGL - Up and Running](http://www.dominictran.com/pdf/WebGL.Up.and.Running.Aug.2012.Oreilly.pdf)
+- [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
 ## C
@@ -80,7 +82,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Goals
     - Learn about *rigorous defensive programming*
   - Interesting points:
-    - *C is broken, It is full of design choirces that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
+    - *C is broken, It is full of design choices that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
       - unrestricted, wild use of pointers 
       - severely broken NUL terminated strings
   - Process 1:(Learn when you have some spare time and interest)
@@ -103,6 +105,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
           - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
             - Progress: 10:21/10:28:14
             - Tools: Visual Studio
+    - Process 2:
+      - Goal: Learn to work with U3D or UE4 developer as a Front-end developer
+      - Progress: 25/1069
   - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
 ## JavaScript
@@ -165,8 +170,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [6-th edition](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf)
   - [7-th edition](https://leonawang.com/books/Computer%20Networking%20A%20Top-Down%20Approach%207th%20edition.pdf)
   - Process 1:
-    - Progress: 42/856
+    - Progress: 69/856
     - Get familiar with the ideas
+    - No taking notes for lack of time
   - Resource provided in the book
     - [Pearson - CS resource](https://media.pearsoncmg.com/bc/abp/cs-resources/)
     - [Fuck](http://gaia.cs.umass.edu/kurose_ross/interactive,)
@@ -187,10 +193,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Operating system working principle
 
 
-# Engineering
+# Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 
+# Site-reliability Engineering
+- [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
 # Game development
 - C# all books
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
@@ -198,7 +206,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
   - Process 1(Follow along)
     - Goal: To quickly get familiar with VR game design
-    - Progress: 30/409
+    - Progress: 109/409
 # Source code study
 - Design and presentation
   - [THREE.JS](https://github.com/mrdoob/three.js/)

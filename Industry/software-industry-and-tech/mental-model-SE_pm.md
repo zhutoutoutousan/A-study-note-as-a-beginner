@@ -128,6 +128,9 @@
   - Angular
 - Cross environment support
   - "cross-env"
+  - volta
+    - [Volta](https://docs.volta.sh/guide/#features)
+    - Run the correct `node` version in different envs
 # Front-end <--> back-End architecture
 - Web worker
   - [What's the difference between self and window?](https://stackoverflow.com/questions/3638887/whats-the-difference-between-self-and-window#:~:text=In%20short%2C%20both%20window%20and,object%20of%20client%2Dside%20javascript.&text=self%20is%20a%20read%2Donly,favor%20of%2C%20the%20window%20directly.)

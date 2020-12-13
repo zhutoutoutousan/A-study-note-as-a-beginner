@@ -12,6 +12,7 @@
     - [Capitalism 资本主义](#capitalism-资本主义)
     - [Communism](#communism)
     - [Community marketing 社区营销](#community-marketing-社区营销)
+    - [Contact Management 接触管理](#contact-management-接触管理)
     - [Customer Loyalty](#customer-loyalty)
     - [Customer Stickness 用户黏性](#customer-stickness-用户黏性)
   - [D](#d)
@@ -19,6 +20,7 @@
     - [Deep work](#deep-work)
     - [Defeatism culture 丧文化](#defeatism-culture-丧文化)
     - [Defeatism marketing 丧营销](#defeatism-marketing-丧营销)
+    - [Design sprint 设计冲刺](#design-sprint-设计冲刺)
     - [Detonation product strategy 爆品策略](#detonation-product-strategy-爆品策略)
   - [F](#f)
     - [Fan economy 粉丝经济](#fan-economy-粉丝经济)
@@ -76,7 +78,9 @@
 ### Communism 
 ### Community marketing 社区营销
 - *2010年8月，小米第一版手机系统发布并建立社区，起初只有100个社区用户。第二年小米手机发布时，已经拥有50万用户，这为小米手机的成功奠定了基础。当小米1发布时，首先是这50万发烧友用户去抢购手机，同时带动了更多人知道小米手机品牌。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
-
+### Contact Management 接触管理
+- [接触管理](https://wiki.mbalib.com/wiki/%E6%8E%A5%E8%A7%A6%E7%AE%A1%E7%90%86)
+- [初探用户体验中的接触点](https://www.jianshu.com/p/da7bdc5a681f)
 ### Customer Loyalty
 - Real customer loyalty occurs where there is deeper relationship based on trust. Here, people are willing to overlook what might seem like a better transactional offer elsewhere because of a genuine emotional bond, and the higher value of trust.
 - [Customer Loyalty vs Customer Stickness](https://www.cxtraining.com.au/customer-loyalty-vs-customer-stickiness/#:~:text=Customer%20Stickiness%20occurs%20where%20customers,Stickiness%20is%20real%20and%20valuable.)
@@ -94,6 +98,11 @@
 ### Defeatism marketing 丧营销
 - [丧文化爆红背后的丧营销](https://zhuanlan.zhihu.com/p/31415441)
 - [从丧茶的“丧营销”说起，“丧”为何成为一种潮流？](https://www.yunyingpai.com/market/446527.html)
+### Design sprint 设计冲刺
+- [啥是Design Sprint设计冲刺？](https://zhuanlan.zhihu.com/p/21597801)
+- [如何用Design Sprint（设计冲刺法）解决复杂问题](https://ixdc.org/act/3/schedule/308#:~:text=Design%20Sprint%EF%BC%88%E8%AE%BE%E8%AE%A1%E5%86%B2%E5%88%BA%E6%B3%95%EF%BC%89%E6%98%AF%E7%9B%AE%E5%89%8D%E5%9C%A8%E7%A1%85%E8%B0%B7%E7%9A%84,%E9%AA%8C%E8%AF%81%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%81%E7%A8%8B%E3%80%82)
+- [別說你真的懂顧客](https://www.hbrtaiwan.com/article_content_AR0002457.html)
+- [到底什麼是接觸點 What Is Touchpoint Exactly?](https://medium.com/ux-plus/wtf-is-touchpoint-58bfb23e27b6#:~:text=%E8%AB%87%E8%AB%96%E6%9C%8D%E5%8B%99%E8%A8%AD%E8%A8%88%E6%99%82%EF%BC%8C%E5%B8%B8%E5%B8%B8,%E7%9A%84%E7%AF%84%E7%96%87%E8%AE%8A%E5%BE%97%E7%8B%B9%E9%9A%98%E3%80%82)
 ### Detonation product strategy 爆品策略
 - *在小米手机诞生以前，手机品牌大部分采用的机海战术——即根据特点市场需求制造多款手机，多渠道销售。而小米1走了与iPhone 同样的道路，即做一个爆款。爆品是小米最简单也是最根本的逻辑，2011年8月，小米只发布了一款手机，这款手机在当时的配置是顶级的，价钱基本是最低的，被大量抢购。* --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 ## F

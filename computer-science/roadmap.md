@@ -1,6 +1,6 @@
 # Overall education
 - [OSSU](https://github.com/ossu/computer-science)
-
+- [fromthetransistor](https://github.com/geohot/fromthetransistor)
 # Computer system and OS
 - [CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark)
 - [GNU](https://www.gnu.org/)

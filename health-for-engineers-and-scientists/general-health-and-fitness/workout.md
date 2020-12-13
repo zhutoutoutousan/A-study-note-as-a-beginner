@@ -59,9 +59,7 @@
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
     - [State storage](#state-storage)
-  - [Macrocycle(2020/11/8-2021/11/8)](#macrocycle2020118-2021118)
-    - [Mesocycle(2020/11/8-2021/1/31)](#mesocycle2020118-2021131)
-      - [Microcycle(11/8-11/15)](#microcycle118-1115)
+  - [Control panel](#control-panel)
 
 # Paradigm shift: Leveling up
 - [How To Deload](https://www.youtube.com/watch?v=Dt6ok24VBpg)
@@ -363,80 +361,95 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Day 20
-  - Ab day
-  - Landmine swing 3SETS
-    - [The Most Powerful Ab Exercise Ever (6 PACK POWER!) - ATHLEAN-X](https://www.youtube.com/watch?v=M00ZuV7a9k8)
-  - Hanging leg raise(II-X-I/-I\\) 5-8RM 3SETS
-  - Oblique rotation 3-6RM 5SETS
-  - Band crunch 6-8RM 3SETS
-  - Explosive bench press 10/12-15RM 3SETS  
-- Day 21
-  - Off day
-  - Chest day
-- Day 22
-  - Off day
-- Day 23
-  - Back day(Olympic)
-
-- Day 1
-  - Shoulder day  
-  - Strength & Hypertrophy
-    - Overhead press 4-6RM 5SETS
-    - Side lateral raise 6-8RM 5SETS
-    - Rear delt band raise 5-8RM 5SETS
-  - Explosiveness
-    - Landmine explosive push 3SETS
-      - [Explosive SHOULDER Workout: How to Train Shoulders Explosively!](https://www.youtube.com/watch?v=mNNIT2Uhr20&t=102s)
-    - Dumbell snatch 8-12RM 3SETS
-- Day 2
-  - Off day
-- Day 3 
-  - Bicep and tricep
-  - Chin-up 6-8RM 5SETS
-  - Easybar skull crusher 5-8RM 5SETS
-  - Easybar curl 5-8RM 5SETS
-  - Tricep push down & kickback 5-8RM 3*2SETS  
-- Day 4
-  - Leg day
-  - Squat 5-8RM 5SETS
-  - Split squat 5-8RM 3SETS
-- Day 5
-  - Off day
-- Day 6 
-  - Chest day
-  - Bench press 4-6RM 5SETS
-  - Incline dumbell press 6-8RM 5SETS
-  - Standing LC press 6-8RM 5SETS
-- Day 7
-  - Off day
-- Day 8
-  - Back day
-  - Wide-grip Pull up & Chin-up <-|-> Sumo Deadlift 5-8RM 5SETS
-  - Front-lever | Straight arm pushdown 5-8RM 5SETS
-  - Barbell dead row 8/10-12RM 2SETS
-  - Explosive hight pulley row 10-12RM 2SETS 
-  - Y-T-W raise 6-8RM 3SETS
-  - Barbell shrug 5-8RM 2SETS
-## Macrocycle(2020/11/8-2021/11/8)
-### Mesocycle(2020/11/8-2021/1/31)
-#### Microcycle(11/8-11/15)
-- Sunday
-  - Off day
-- Monday
-  - Bicep and tricep
-- Tuesday
-  - Shoulder
 - Wednesday
-  - Leg
+  - Bicep and tricep
+  - Chin up 5-8RM 5SETS
+  - Easybar skull crusher 5-8RM 3SETS
+  - Wide grip push down(Supernated grip) 5-8RM 3SETS
+  - Easybar Curl 6-8RM 5SETS
+  - Tricep pushdown(Long-head) 4-8RM 3SETS
+  - Incline curl | Pronated Curl  6-8RM 5SETS*2
+  - Dumbell grip hold MAX 1SET
 - Thursday
-  - Off
+  - Back day
+  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
+  - Wide-grip pull up 4-6RM 5SETS
+  - Face pull | Lat pull down 6-8RM 5SETS
+  - W-Y-T raise 6-8RM 3SETS
 - Friday
-  - Off
+  - Off day
 - Saturday
+  - Off day(Abdominal discomfort)
+  - Diet break
+## Control panel
+- Sunday
   - Chest day
-  - Incline Dumbell bench press | Dumbell bench press  4-8RM 5SETS
-  - Band LC press(double sides) 6-8RM 5SETS 
+    - Strength & Hypertrophy
+      - Dumbell bench press(Incline) 6-8RM 5SETS
+      - Dumbell bench press(Flat) 4-6RM 5SETS
+      - LC press 6-8RM 5SETS
+      - HC pull 6-8RM 5SETS
+    - Explosiveness
+      - Clapping push up 8/10-12RM 2SETS
+      - Explosive bench press 8/10-12RM 2SETS
+- Monday
+   - Leg day
+   - Strength & Hypertrophy
+     - Barbell squat  4-6RM 5SETS
+     - Bulgarian split squat  6-8RM 3SETS
+     - 360 SPLIT SQUAT 2RDs
+     - Snatch 4REPS 3SETS
+     - Snatch pull 6REPS 2SETS
+     - Snatch squat 6-8RM 2SETS
+     - Clean and jerk 6REPS 3SETS
+     - Front squat 5/6-8RM 2SETS
+   - Explosiveness
+     - Dumbell squat jump 6-8RM/10RM 2SETS
+     - Roll-up jump 8RM/10RM 2SETS
+- Tuesday
+  - Off day
+- Wednesday
+  - Bicep and tricep
+  - Strength and hypertrophy
+    - Chin-up 6-8RM 5SETS
+- Thursday
+  - Shoulder day
+- Friday
+  - Off day
+- Saturday
+  - 40 minutes bike ride
 - Sunday
   - Back day
-  - Sumo deadlift | Convention | Chin-up||Wide-grip pull-up  4-6RM 3*3SETS 
+  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
+  - Wide-grip pull up | Chin-up 4-6RM 6SETS
+  - Dumbbell row 5-8RM 3SETS
+  - Face pull | Straight arm pull down 6-8RM 5SETS
+  - W-Y-T raise 6-8RM 3SETS
+- Monday
+  - Chest day
+  - Incline Dumbbell bench press | Flat Dumbbell bench press 4-6RM 5SETS*2
+  - Dumbbell fly 8-12RM 3SETS
+  - Equipment crossover 6-8RM 3SETS
+  - HC pull 6-8RM 5SETS
+  - LC push 6-8RM 5SETS
+- Tuesday
+  - Off day
+- Wednesday
+  - Off day
+- Thursday
+  - ?
+- Friday
+  - Leg
+- Saturday
+  - Shoulder
+- Sunday
+  - Core + Bicep & Tricep
+  - Core
+    - Hanging knee raise | Band crunch down 6-8RM 5SETS
+    - Ab wheel 3SETS
+    - Lateral band raise 6-8RM 3SETS
+    - Band scapular protraction 3SETS
+  - Bicep & Tricep
+    - Bicep curl | Cheated | Drag curl 4-6RM 3SETS
+    - Reverse tricep push down 6-8RM 3SETS
+  - 30 minutes bike ride

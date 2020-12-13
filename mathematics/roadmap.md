@@ -1,3 +1,6 @@
+# New shit
+- [How to Read Mathematics](https://web.stonehill.edu/compsci/History_Math/math-read.htm)
+
 # What do you want to achieve using mathematics?
 - Must come in handy when it comes to neuroengineering, EE and AI
 - Seriously, I found myself slightly interested in Mathematics itself.

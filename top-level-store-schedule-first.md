@@ -5,6 +5,39 @@
 # Significant platforms
 - [itch.io](https://itch.io/)
 
+# SOMething
+```javascript
+https://www.codewars.com/kata/52996b5c99fdcb5f20000004/train/javascript
+function runoff(voters){
+  const getArrayMaximum = (array) => {
+    if (array.length === 0) console.error('Array can\'t be empty ');
+    
+    let max = [array[0]];
+    let maxIndex = [0];
+    
+    for (let i = 1; i < array.length; i++) {
+      if (array[i] > max) {
+        maxIndex = [...maxIndex,i];
+        max = [...max, array[i]];
+      }
+    }
+    
+    return [maxIndex, max];
+  }
+  
+  const getOverHalfCandidate = (resultArray) => {
+    return resultArray.filter((vote) => vote > Math.floor(resultArray.length / 2))
+  }
+  
+  let countVote = Array(5).fill(0);
+  // 'a'.charCodeAt() --> 97
+  for(let i = 0; i < voters.length; i++) {
+    countVote[voters[i][0].charCodeAt() - 97] += 1;
+  }
+  console.log(countVote)
+  console.log(getOverHalfCandidate(countVote));
+}
+```
 
 # RTFM
 - [Blender](https://www.blender.org/get-involved/)

@@ -436,4 +436,9 @@
 - Monday
   - Off day
 - Tuesday
-  - 
+  - Back day
+  - Sumo deadlift 4-6RM 5SETS
+  - Wide-grip pull up | Chin-up 4-6RM 6SETS
+  - Dumbbell row 5-8RM 3SETS
+  - Face pull | Straight arm pull down 6-8RM 5SETS
+  - W-Y-T raise 6-8RM 3SETS

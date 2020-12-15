@@ -23,6 +23,9 @@
     - [Bundling](#bundling)
     - [Performance](#performance-1)
     - [JavaScript/TypeScript](#javascripttypescript)
+- [DevOps](#devops)
+  - [OS](#os)
+    - [windows](#windows)
 - [Back-end engineering](#back-end-engineering)
   - [Genereal](#genereal)
   - [Programming language and tools](#programming-language-and-tools)
@@ -55,7 +58,7 @@
 - [Entry](https://frontendmasters.com/books/front-end-handbook/2019/)
 - Fullstack for front-end - frontendmaster
   - [link1](https://frontendmasters.com/courses/fullstack-v2/introduction/)
-  - Progress:
+  - Progress: 1hrs42min/6hrs19min
 ### PaaS
 - Heroku
   - [Study entry](https://devcenter.heroku.com/)
@@ -157,6 +160,10 @@
   - Progress: /4hrs
 
 
+# DevOps
+## OS
+### windows
+- [All available windows commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)
 
 # Back-end engineering
 ## Genereal

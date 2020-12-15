@@ -162,7 +162,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
 - Principles of Programming Languages
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
-
+- [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 

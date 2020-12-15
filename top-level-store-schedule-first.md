@@ -7,7 +7,7 @@
 
 # SOMething
 ```javascript
-https://www.codewars.com/kata/52996b5c99fdcb5f20000004/train/javascript
+// https://www.codewars.com/kata/52996b5c99fdcb5f20000004/train/javascript
 function runoff(voters){
   const getArrayMaximum = (array) => {
     if (array.length === 0) console.error('Array can\'t be empty ');

@@ -361,27 +361,6 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Wednesday
-  - Bicep and tricep
-  - Chin up 5-8RM 5SETS
-  - Easybar skull crusher 5-8RM 3SETS
-  - Wide grip push down(Supernated grip) 5-8RM 3SETS
-  - Easybar Curl 6-8RM 5SETS
-  - Tricep pushdown(Long-head) 4-8RM 3SETS
-  - Incline curl | Pronated Curl  6-8RM 5SETS*2
-  - Dumbell grip hold MAX 1SET
-- Thursday
-  - Back day
-  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
-  - Wide-grip pull up 4-6RM 5SETS
-  - Face pull | Lat pull down 6-8RM 5SETS
-  - W-Y-T raise 6-8RM 3SETS
-- Friday
-  - Off day
-- Saturday
-  - Off day(Abdominal discomfort)
-  - Diet break
-## Control panel
 - Sunday
   - Chest day
     - Strength & Hypertrophy
@@ -434,6 +413,7 @@
   - LC push 6-8RM 5SETS
 - Tuesday
   - Off day
+## Control panel
 - Wednesday
   - Off day
 - Thursday
@@ -453,3 +433,7 @@
     - Bicep curl | Cheated | Drag curl 4-6RM 3SETS
     - Reverse tricep push down 6-8RM 3SETS
   - 30 minutes bike ride
+- Monday
+  - Off day
+- Tuesday
+  - 

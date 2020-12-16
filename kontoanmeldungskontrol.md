@@ -30,15 +30,17 @@
 
 
 Servers von Huang
-101.227.111.51  
+101.227.111.51  w2012s
 administrator/Admin@163.com
 
-101.227.109.232   root/Admin@163.com
+Linux 101.227.109.232   root/Admin@163.com
 
 Unsere Server
 192.168.1.120
 range(1,6)
 
+TightVNC
+cyberpark
 
 
 cyberpark: Cyber-park

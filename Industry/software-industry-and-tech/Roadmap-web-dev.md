@@ -168,7 +168,7 @@
 # Back-end engineering
 ## Genereal
 - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
-  - Progress: 1:37:01/06:19:00
+  - Progress: 1:53:01/06:19:00
 ## Programming language and tools
 ### Go
 ### AJAX

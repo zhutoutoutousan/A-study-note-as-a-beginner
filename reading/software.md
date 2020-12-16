@@ -163,6 +163,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 - Principles of Programming Languages
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
 - [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
+  - Progress: 15/113
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 

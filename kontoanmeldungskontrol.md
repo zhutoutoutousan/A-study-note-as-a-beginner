@@ -1,4 +1,4 @@
-- gg  (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
+- gg  rot-16: (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
 - 163-os  -->N: Ots\[Unterstreichen\]\[tous les jour in numéro\] 
   - Dieses Konto brauchen bestätigt werden durch alles Platforms.
 - 126-mx: rot-13

@@ -5,6 +5,8 @@
     - Full interactive brain model
     - And more
 
+
+
 # General Readiness
 ## Keep up with the modern industrial and technological progress
 ### Technology

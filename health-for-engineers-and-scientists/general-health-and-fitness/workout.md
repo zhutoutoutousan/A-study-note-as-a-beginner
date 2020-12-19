@@ -361,38 +361,6 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Sunday
-  - Chest day
-    - Strength & Hypertrophy
-      - Dumbell bench press(Incline) 6-8RM 5SETS
-      - Dumbell bench press(Flat) 4-6RM 5SETS
-      - LC press 6-8RM 5SETS
-      - HC pull 6-8RM 5SETS
-    - Explosiveness
-      - Clapping push up 8/10-12RM 2SETS
-      - Explosive bench press 8/10-12RM 2SETS
-- Monday
-   - Leg day
-   - Strength & Hypertrophy
-     - Barbell squat  4-6RM 5SETS
-     - Bulgarian split squat  6-8RM 3SETS
-     - 360 SPLIT SQUAT 2RDs
-     - Snatch 4REPS 3SETS
-     - Snatch pull 6REPS 2SETS
-     - Snatch squat 6-8RM 2SETS
-     - Clean and jerk 6REPS 3SETS
-     - Front squat 5/6-8RM 2SETS
-   - Explosiveness
-     - Dumbell squat jump 6-8RM/10RM 2SETS
-     - Roll-up jump 8RM/10RM 2SETS
-- Tuesday
-  - Off day
-- Wednesday
-  - Bicep and tricep
-  - Strength and hypertrophy
-    - Chin-up 6-8RM 5SETS
-- Thursday
-  - Shoulder day
 - Friday
   - Off day
 - Saturday
@@ -442,3 +410,16 @@
   - Dumbbell row 5-8RM 3SETS
   - Face pull | Straight arm pull down 6-8RM 5SETS
   - W-Y-T raise 6-8RM 3SETS
+- Wednesday
+  - Shoulder
+- Thursday
+  - Chest
+- Friday
+  - Off day
+- Saturday
+  - Leg day
+  - Barbell squat  4-6RM 5SETS
+  - Barbell Hip thrust(Box) 6-8RM 5SETS
+  - Bulgarian split squat(Arch back) 6-8RM 3SETS
+  - Dumbell 
+  - Hip band ladder 

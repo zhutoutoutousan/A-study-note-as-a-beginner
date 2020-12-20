@@ -423,3 +423,10 @@
   - Bulgarian split squat(Arch back) 6-8RM 3SETS
   - Dumbell 
   - Hip band ladder 
+- Sunday
+  - Bicep and Tricep
+  - Chin-up 5-8RM 5SETS
+  - Skull-crusher 6-8RM 5SETS
+  - Bicep curl(Cheated -->) --> three directions 3*6RM 5SETS
+  - Tricep pushdown 6-8RM 3SETS
+  - Incline bicep curl | Supernated tricep push down 5SETS

@@ -423,3 +423,5 @@
   - Bulgarian split squat(Arch back) 6-8RM 3SETS
   - Dumbell 
   - Hip band ladder 
+- Sunday
+  - Bicep and tricep

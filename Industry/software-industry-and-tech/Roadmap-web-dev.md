@@ -164,9 +164,10 @@
 ## OS
 ### windows
 - [All available windows commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)
-
+  - [The FASTEST Way To Learn A New Programming Language](https://www.youtube.com/watch?v=PkgYxKs4DZA)
 # Back-end engineering
 ## Genereal
+- [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5s)
 - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - Progress: 1:53:01/06:19:00
 ## Programming language and tools

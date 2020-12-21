@@ -207,7 +207,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
   - Process 1(Follow along)
     - Goal: To quickly get familiar with VR game design
-    - Progress: 149/409
+    - Progress: 157/409
 # Source code study
 - Design and presentation
   - [THREE.JS](https://github.com/mrdoob/three.js/)

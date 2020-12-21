@@ -96,7 +96,7 @@
   - Production-Grade TypeScript
     - [link1](https://frontendmasters.com/courses/production-typescript/)
     - [Repo](https://github.com/mike-north/professional-ts/)
-    - Progress: 24:00/6hrs
+    - Progress: 53:00/6hrs
   - Learn from projects that you are interested in, then look up in the official documents
     - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
 ## Tools, middlewares, and frameworks

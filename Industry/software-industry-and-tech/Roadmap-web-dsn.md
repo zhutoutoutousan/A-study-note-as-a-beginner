@@ -8,3 +8,4 @@
   - Progress: Layout --> Grid 15:00/21:17
 - Full site build
   - [Entry](https://university.webflow.com/courses/full-site-build)
+  - Progress: Site build --> Homepage: testimonials

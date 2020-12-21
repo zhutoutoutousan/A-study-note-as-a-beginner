@@ -20,3 +20,6 @@
 
 # READ PAPER AND IMPLEMENT
 - [What are the must read papers for a beginner in the field of Machine Learning and Artificial Intelligence](https://www.reddit.com/r/MachineLearning/comments/a21d0q/what_are_the_must_read_papers_for_a_beginner_in/)
+- [Comprehension of computer code relies primarily on domain-general executive brain regions](https://evlab.mit.edu/assets/papers/Ivanova_et_al_2020_eLife.pdf)
+  - Reading progress
+  - Implementation progress

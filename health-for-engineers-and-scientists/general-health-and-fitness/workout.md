@@ -432,4 +432,11 @@
   - Incline bicep curl | Supernated tricep push down 5SETS
 - Monday
 - Tuesday
-  - 
+  - Chest day
+  - Olympic weightlifting
+- Wednesday
+  - Back day
+  - Sumo deadlift 2-6RM 5SETS
+  - Chin up | Wide grip pull up 6-8RM 2*3SETS 
+  - Chest supported row 6-8RM 5SETS
+  - Face pull |  Y-T-W raise 6-8RM 5SETS

@@ -4,3 +4,7 @@
 - How do you see you in 10 years?
   - What you can improve?
   - What negative traits or attributes do you want to get rid of?
+
+
+# Useful general tools
+- Screentogif

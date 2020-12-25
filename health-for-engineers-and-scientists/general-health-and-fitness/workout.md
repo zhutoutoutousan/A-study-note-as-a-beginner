@@ -431,6 +431,7 @@
   - Tricep pushdown 6-8RM 3SETS
   - Incline bicep curl | Supernated tricep push down 5SETS
 - Monday
+  - Off day
 - Tuesday
   - Chest day
   - Olympic weightlifting
@@ -440,3 +441,9 @@
   - Chin up | Wide grip pull up 6-8RM 2*3SETS 
   - Chest supported row 6-8RM 5SETS
   - Face pull |  Y-T-W raise 6-8RM 5SETS
+- Thursday
+  - Off day
+- Friday
+  - Shoulder day
+  - Overhead press 4-6RM 5SETS
+  - 

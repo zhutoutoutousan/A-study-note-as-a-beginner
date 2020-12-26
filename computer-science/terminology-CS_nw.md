@@ -2,6 +2,8 @@
 - [Table of Contents](#table-of-contents)
 - [A](#a)
   - [AON](#aon)
+- [B](#b)
+  - [Bandwidth](#bandwidth)
 - [H](#h)
   - [HFC network](#hfc-network)
   - [Host](#host)
@@ -18,6 +20,9 @@
 - Active Optical Networks
 - Household network --> Splitting service --> AON
 - AON is essentially switched Ethernet
+
+# B
+## Bandwidth
 
 # H
 ## HFC network

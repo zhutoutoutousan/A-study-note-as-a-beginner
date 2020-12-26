@@ -12,3 +12,11 @@
 # Setting up a home electronic lab
 ## Equipments
 ## Budget
+
+
+# `Oscilloscope DIY Kit`
+## Schematics study
+- 
+## PCB study
+- Before soldering
+- After soldering

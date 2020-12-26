@@ -361,27 +361,6 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Friday
-  - Off day
-- Saturday
-  - 40 minutes bike ride
-- Sunday
-  - Back day
-  - Sumo deadlift | Conventional deadlift 4-6RM 3 * 2SETS
-  - Wide-grip pull up | Chin-up 4-6RM 6SETS
-  - Dumbbell row 5-8RM 3SETS
-  - Face pull | Straight arm pull down 6-8RM 5SETS
-  - W-Y-T raise 6-8RM 3SETS
-- Monday
-  - Chest day
-  - Incline Dumbbell bench press | Flat Dumbbell bench press 4-6RM 5SETS*2
-  - Dumbbell fly 8-12RM 3SETS
-  - Equipment crossover 6-8RM 3SETS
-  - HC pull 6-8RM 5SETS
-  - LC push 6-8RM 5SETS
-- Tuesday
-  - Off day
-## Control panel
 - Wednesday
   - Off day
 - Thursday
@@ -442,4 +421,11 @@
   - Face pull |  Y-T-W raise 6-8RM 5SETS
 - Thursday
   - Off day
+## Control panel
 - Friday
+  - Shoulder day(Light)
+- Saturday
+  - Leg day
+    - Squat  4-6RM 5SETS
+- Sunday
+  - Bicep and tricep

@@ -5,12 +5,9 @@
   - [Assertion](#assertion)
   - [Associative array](#associative-array)
 - [B](#b)
-  - [Bandwidth](#bandwidth)
   - [Base station](#base-station)
 - [C](#c)
   - [Cache locality](#cache-locality)
-  - [Call stack](#call-stack)
-  - [Cell phone tower](#cell-phone-tower)
   - [Cellular automaton](#cellular-automaton)
   - [Chronology](#chronology)
   - [CMTS](#cmts)
@@ -105,12 +102,9 @@
 - [Assertion (software development)](https://en.wikipedia.org/wiki/Assertion_(software_development))
 ## Associative array
 # B
-## Bandwidth
 ## Base station
 # C
 ## Cache locality
-## Call stack
-## Cell phone tower
 ## Cellular automaton
 - [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 ## Chronology

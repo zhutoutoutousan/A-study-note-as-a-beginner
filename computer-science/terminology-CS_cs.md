@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [C](#c)
+  - [Call stack](#call-stack)
   - [Concurrency](#concurrency)
   - [Context switch](#context-switch)
 - [F](#f)
@@ -23,6 +24,7 @@
   - [Virtual memory](#virtual-memory)
 
 # C
+## Call stack
 ## Concurrency
 ## Context switch
 - A context switch is a procedure that a computer's CPU follows to change from one task(or process) to another while ensuring that the tasks do not conflict.

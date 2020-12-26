@@ -440,3 +440,6 @@
   - Chin up | Wide grip pull up 6-8RM 2*3SETS 
   - Chest supported row 6-8RM 5SETS
   - Face pull |  Y-T-W raise 6-8RM 5SETS
+- Thursday
+  - Off day
+- Friday

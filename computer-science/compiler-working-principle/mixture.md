@@ -18,3 +18,12 @@
     - Why do some linker-related errors not appear until run time?
   - Avoiding security holes
     - Buffer overflow vulnerability
+
+
+# OutlineA
+- Context
+  - Different forms of language translators
+  - A high level overview  of the structure of a typical compiler
+  - The trends in programming languages and machine architecture that are shaping compilers.
+  - Observations on the relationship between compiler design and computer-science theory
+  - An outline of the applications of compiler technology

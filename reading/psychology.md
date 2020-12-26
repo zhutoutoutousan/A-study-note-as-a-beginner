@@ -40,6 +40,9 @@
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
     - Process 1:(Language-study-oriented)
       - Progress: 8/125 - Para 1
+# Mind Control
+- Disrupted: My misadventure in the start-up bubble
+
 
 # Jungian Psychology
 - The Handbook of Jungian Psychology

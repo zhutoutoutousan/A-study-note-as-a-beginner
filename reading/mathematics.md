@@ -73,8 +73,9 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
 # Probability theory
 - Probability Theory: The Logic of Science
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
-
-
+  - Progress: 33/758
+- [Probability theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
+- [Probability and measure](https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf)
 # Set theory
 - A book of Set Theory - C.C.Pinter
   - [Link1](http://matematicas.uis.edu.co/adrialba/sites/default/files/SetTheoryDover-%20Charles%20C%20Pinter.pdf)

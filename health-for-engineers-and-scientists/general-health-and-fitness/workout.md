@@ -429,3 +429,4 @@
     - Squat  4-6RM 5SETS
 - Sunday
   - Bicep and tricep
+- Monday

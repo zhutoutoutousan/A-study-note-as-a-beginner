@@ -430,4 +430,11 @@
 - Sunday
   - Bicep and tricep
 - Monday
-  - 
+  - ?
+- Tuesday
+  - Chest day
+  - Barbell benchpress 4-6RM 5SETS
+  - Incline dumbbell press  6-8RM 5SETS
+  - HC press 6-8RM 5SETS
+  - LC press 6-8RM 5SETS
+  - Pylo push-up 10/12RM 3SETS

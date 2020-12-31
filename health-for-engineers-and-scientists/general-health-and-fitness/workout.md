@@ -438,3 +438,5 @@
   - HC press 6-8RM 5SETS
   - LC press 6-8RM 5SETS
   - Pylo push-up 10/12RM 3SETS
+- Wednesday
+  - 45 min bike ride

@@ -33,6 +33,8 @@ Complete course:
 
 
 # Data Structure and Algorithms
+- Interesting materials
+  - [DEFLATE COMPRESSION ALGORITHM](http://pnrsolution.org/Datacenter/Vol4/Issue1/58.pdf)
 - Read the book and implement in C
   - [TheAlgorithmsC - github](https://github.com/TheAlgorithms/C)
 ## Visualization

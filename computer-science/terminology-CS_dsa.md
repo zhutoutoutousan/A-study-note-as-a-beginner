@@ -8,3 +8,7 @@
 - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI&t=12s)
 - Q: 
   - What's its difference between memoization
+
+# B
+## Brotli
+- [](http://www.cs.uu.nl/docs/vakken/gr/2015/slides/lecture4%20-%20guest%20lecture%20shaders.pdf)

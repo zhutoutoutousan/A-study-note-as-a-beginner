@@ -361,71 +361,16 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Wednesday
-  - Off day
-- Thursday
-  - ?
 - Friday
-  - Leg
-- Saturday
-  - Shoulder
-- Sunday
-  - Core + Bicep & Tricep
-  - Core
-    - Hanging knee raise | Band crunch down 6-8RM 5SETS
-    - Ab wheel 3SETS
-    - Lateral band raise 6-8RM 3SETS
-    - Band scapular protraction 3SETS
-  - Bicep & Tricep
-    - Bicep curl | Cheated | Drag curl 4-6RM 3SETS
-    - Reverse tricep push down 6-8RM 3SETS
-  - 30 minutes bike ride
-- Monday
-  - Off day
-- Tuesday
   - Back day
-  - Sumo deadlift 4-6RM 5SETS
-  - Wide-grip pull up | Chin-up 4-6RM 6SETS
-  - Dumbbell row 5-8RM 3SETS
-  - Face pull | Straight arm pull down 6-8RM 5SETS
-  - W-Y-T raise 6-8RM 3SETS
-- Wednesday
-  - Shoulder
-- Thursday
-  - Chest
-- Friday
-  - Off day
 - Saturday
-  - Leg day
-  - Barbell squat  4-6RM 5SETS
-  - Barbell Hip thrust(Box) 6-8RM 5SETS
-  - Bulgarian split squat(Arch back) 6-8RM 3SETS
-  - Dumbell 
-  - Hip band ladder 
+  - Overhead press 4-6RM 5SETS 
+  - Side lateral raise  6-8RM 5SETS
+  - Dual reverse fly 5-8RM 5SETS
+  - Jerk and clean (Front squat) 5REPS 5SETS
+  - Snatch(Overhead squat)  3REPS 5SETS
 - Sunday
-  - Bicep and Tricep
-  - Chin-up 5-8RM 5SETS
-  - Skull-crusher 6-8RM 5SETS
-  - Bicep curl(Cheated -->) --> three directions 3*6RM 5SETS
-  - Tricep pushdown 6-8RM 3SETS
-  - Incline bicep curl | Supernated tricep push down 5SETS
-- Monday
-- Tuesday
-  - Chest day
-  - Olympic weightlifting
-- Wednesday
-  - Back day
-  - Sumo deadlift 2-6RM 5SETS
-  - Chin up | Wide grip pull up 6-8RM 2*3SETS 
-  - Chest supported row 6-8RM 5SETS
-  - Face pull |  Y-T-W raise 6-8RM 5SETS
-- Thursday
   - Off day
 ## Control panel
-- Friday
-  - Shoulder day(Light)
-- Saturday
-  - Leg day
-    - Squat  4-6RM 5SETS
-- Sunday
+- Monday
   - Bicep and tricep

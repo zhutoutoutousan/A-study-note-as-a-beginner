@@ -28,6 +28,7 @@
     - [Hiring freeze](#hiring-freeze)
     - [Hunger marketing 饥饿营销](#hunger-marketing-饥饿营销)
   - [I](#i)
+    - [Invitation](#invitation)
     - [IPO](#ipo)
   - [L](#l)
     - [Liquidity](#liquidity)
@@ -53,6 +54,8 @@
     - [Überleben](#überleben)
   - [V](#v)
     - [Value](#value)
+  - [Y](#y)
+    - [引税](#引税)
   - [Uncategorized](#uncategorized)
     - [内容分发模式](#内容分发模式)
 # Alphabetical
@@ -116,6 +119,9 @@
 - *饥饿营销是小米首创并发扬光大的。小米1和小米2时代是高性能低价格的代名词，当时大部分智能手机都卖3000以上，小米只卖1999，物超所值，人人抢购。小米还善于将这种饥饿感放大，开放售卖前让用户预约。小米早年一直宣称不是刻意搞饥饿营销，而是产量不足，用户需求又太高，不得已而为之。无论真假，事实是每次小米手机开放购买，用不了几分钟就被抢光。另外，小米其实也是小批量生产，观察市场反馈，根据需求再次扩大生产，可以说是中国企业「精益创业」的最早实践者。*  --- [小米10周年：变与不变- Nolan Chen Yi](https://www.linkedin.com/feed/news/%E5%B0%8F%E7%B1%B310%E5%91%A8%E5%B9%B4%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%98-4188993/)
 
 ## I
+### Invitation
+- Business invitation
+- [招商](https://wiki.mbalib.com/wiki/%E6%8B%9B%E5%95%86)
 ### IPO
 - IPO: Initial Public Offering
 - [wiki](https://en.wikipedia.org/wiki/Initial_public_offering)
@@ -169,6 +175,9 @@
 - Value is the monetary, material, or assessed worth of an asset, good, or service.
 - [Investopaedia](https://www.investopedia.com/terms/v/value.asp#:~:text=Value%20is%20the%20monetary%2C%20material,asset%2C%20good%2C%20or%20service.)
 
+## Y
+### 引税
+- [MBA](https://wiki.mbalib.com/zh-tw/%E5%BC%95%E7%A8%8E)
 
 ## Uncategorized
 ### 内容分发模式

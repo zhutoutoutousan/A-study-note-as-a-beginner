@@ -25,14 +25,6 @@
 - Advanced engineering mathematics - Erwin kreyszig  
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
   - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
-  - Progress(Thourough approach: Stage 1): 0/1283
-    - ODES and Laplace transform(1-255): 0/255
-    - Linear algebra, Vector Calculus: 265/256-473
-      - Numeric linear algebra(sec 20.1-20.5) can be studied immediately after the study of this
-    - Fourier Analysis: 
-    - PDE
-    - Complex Analysis
-    - Probability and Statistics
 
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)
@@ -40,14 +32,8 @@
 - Advanced calculus - L.H.Loomis
   - [link1](http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
 
-t[n] = t[n] + 2 * n -2
-t[n-1] = t[n-1] + 2 * (n-1) - 2
-
-- 高等数学 同济大学
-  - [Link1 - 上册](https://www.academia.edu/35115212/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6_%E7%AC%AC7%E7%89%88_%E4%B8%8A%E5%86%8C_%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6.pdf)
-    - Need to download :(
-    - !!!(private)Search for 7__.pdf.pdf locally
-
+- Discrete mathematics
+  - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 # Geometry & Topology
 - Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf)
@@ -55,6 +41,8 @@ t[n-1] = t[n-1] + 2 * (n-1) - 2
     - Progress: 21/461
 - Topology for the working mathematician
   - [link1](https://www.math.ru.nl/~mueger/topology.pdf)
+
+
 
 # Mathematical analysis
 ## General

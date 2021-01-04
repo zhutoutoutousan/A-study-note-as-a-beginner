@@ -1,6 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Career](#career)
+- [Game development](#game-development)
+  - [High-level design](#high-level-design)
+  - [Back-end for game-development](#back-end-for-game-development)
 - [Full-stack engineering](#full-stack-engineering)
   - [Software architecture](#software-architecture)
     - [PaaS](#paas)
@@ -52,6 +55,19 @@
 - [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList/blob/master/README.md)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/)
 - [frontend-study-resource](https://github.com/sankincn/frontend-study-resource)
+
+# Game development
+## High-level design
+- [Critical success factors to improve the game development process from a developer’s perspective](https://arxiv.org/ftp/arxiv/papers/1801/1801.04293.pdf)
+  - Difference between traditional software development and game software development
+    - [What went wrong? A survey of problems in game development](https://dl.acm.org/doi/10.1145/1486508.1486521)
+    - [How Is Video Game Development Different from Software Development in Open Source?](https://fpalomba.github.io/pdf/Conferencs/C28.pdf)
+- [游戏开发入门如何点亮技术树？](https://gitbook.cn/books/5bb0c13b6045817d35b98a34/index.html)
+## Back-end for game-development
+- [How to write a C# backend for a Unity game using Firebase and Google’s Cloud Run](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
+- [Unity - UNet](https://docs.unity3d.com/cn/2018.4/Manual/UNetLobby.html)
+  - [Short review of two UNET alternatives](https://www.reddit.com/r/Unity3D/comments/axoyk2/short_review_of_two_unet_alternatives/)
+  - [UNet Deprecation FAQs](https://support.unity.com/hc/en-us/articles/360001252086-UNet-Deprecation-FAQ)
 # Full-stack engineering
 ## Software architecture
 - [Wiki](https://en.wikipedia.org/wiki/Software_architecture)

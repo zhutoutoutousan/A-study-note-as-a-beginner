@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Communication](#communication)
+  - [中文](#中文)
 - [Speech](#speech)
   - [Training grounds](#training-grounds)
     - [Online platform](#online-platform)
@@ -50,6 +52,11 @@
   - [Dramatic presentation](#dramatic-presentation)
   - [Leadership manifestation readiness](#leadership-manifestation-readiness)
 - [Mindset](#mindset)
+
+# Communication
+## 中文
+- 社论
+- 央媒 副板
 
 # Speech
 ## Training grounds

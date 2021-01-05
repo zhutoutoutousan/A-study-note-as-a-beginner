@@ -374,3 +374,5 @@
 ## Control panel
 - Monday
   - Bicep and tricep
+- Tuesday
+  - Leg day

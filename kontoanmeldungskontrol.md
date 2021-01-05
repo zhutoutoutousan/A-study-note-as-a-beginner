@@ -30,6 +30,7 @@
 
 - IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`
 
+TightNVC-->Ot5@1 --> NULL
 
 Servers von Huang
 101.227.111.51  

@@ -102,6 +102,7 @@
 - [Frontendmaster - Build your own programming language](https://frontendmasters.com/courses/programming-language/)
   - Progress：
 ### C++
+- [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
 - [Code-It-Yourself! Tetris - Programming from Scratch (Quick and Simple C++)](https://www.youtube.com/watch?v=8OK8_tHeCIA)
 ### JavaScript and TypeScript
 - JavaScript

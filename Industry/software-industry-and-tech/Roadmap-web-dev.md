@@ -179,6 +179,7 @@
 
 
 # DevOps
+- [Windows PowerShell cheatsheet](https://gist.github.com/prograhammer/cfe97697419d0b5b19ed)
 ## OS
 ### windows
 - [All available windows commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)

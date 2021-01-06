@@ -202,8 +202,11 @@ is useful.
 
 
 # Operating system working principle
-
-
+- [Operating system concepts](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
+  - Progress: 5/982
+- CentOS 
+  - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
+    - Progress:
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

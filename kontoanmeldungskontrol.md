@@ -33,9 +33,11 @@
 TightNVC-->Ot5@1 --> NULL
 
 Servers von Huang
-101.227.111.51  
-administrator/Admin@163.com
-
+- 101.227.111.51  winsv_2012
+  - administrator/Admin@163.com
+- 10.1.1.14
+  - root/inkDeep2021
+  - 175.102.18.48 --> CentOS
 
 Unsere Server
 192.168.1.120

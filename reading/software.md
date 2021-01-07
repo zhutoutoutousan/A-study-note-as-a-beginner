@@ -222,6 +222,9 @@ is useful.
     - Goal: To quickly get familiar with VR game design
     - Progress: 157/409
 # Source code study
+- DevOps
+  - How does `sh` work?
+    - [Simplified Bourne Shell](https://github.com/DarkZeratul/Bourne-Shell)
 - Design and presentation
   - [THREE.JS](https://github.com/mrdoob/three.js/)
     - Status: This tool is related with my aspiration and work

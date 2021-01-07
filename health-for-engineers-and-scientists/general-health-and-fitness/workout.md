@@ -376,3 +376,7 @@
   - Bicep and tricep
 - Tuesday
   - Leg day
+- Wednesday
+  - Off day
+- Thursday
+  - Chest day

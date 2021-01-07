@@ -44,7 +44,8 @@
 - 新华日报
 - 搜狐新闻
 - 解放日报
-
+- 人民日报
+  - [Entry](http://paper.people.com.cn/)
 ### Indepedent
 - GuanchaNews观察者网
 - Yuan's Multiverse科技袁人

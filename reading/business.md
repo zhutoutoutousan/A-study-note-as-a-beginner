@@ -29,3 +29,8 @@
 
 
 
+
+# Strategic planning
+- OGSM
+  - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
+- [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)

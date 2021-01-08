@@ -16,6 +16,8 @@
 - [Operating system working principle](#operating-system-working-principle)
 - [Software Engineering](#software-engineering)
 - [Site-reliability Engineering](#site-reliability-engineering)
+  - [General](#general)
+  - [System administration](#system-administration)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
 
@@ -212,7 +214,14 @@ is useful.
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 
 # Site-reliability Engineering
+## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
+## System administration
+- [Windows server administration fundamentals](https://docentinrete.files.wordpress.com/2012/05/manuale-2008-98-365-windowsserver.pdf)
+  - This is too basic, read it only if you really have a ton of time :)
+- [Configuring Advanced Windoes server 2012 guide](https://ptgmedia.pearsoncmg.com/images/9780735674257/samplepages/9780735674257.pdf)
+  - Very good for getting hands dirty and solve problems quick!
+  - Progress:
 # Game development
 - C# all books
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)

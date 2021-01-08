@@ -379,4 +379,9 @@
 - Wednesday
   - Off day
 - Thursday
+  - Off day(For excessive intellectual activities)
+- Fridays
   - Chest day
+  - Barbell bench press 4-6RM | 6-8RM 5+2SETS
+  - Fixed machine press 6-8RM 3SETS
+  - 

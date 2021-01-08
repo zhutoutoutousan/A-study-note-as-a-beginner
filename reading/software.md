@@ -208,7 +208,7 @@ is useful.
   - Progress: 5/982
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
-    - Progress: 62/530
+    - Progress: 72/530
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

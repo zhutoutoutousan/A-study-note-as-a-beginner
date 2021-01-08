@@ -384,4 +384,6 @@
   - Chest day
   - Barbell bench press 4-6RM | 6-8RM 5+2SETS
   - Fixed machine press 6-8RM 3SETS
-  - 
+  - Incline dumbbell press 6-8RM 5SETS
+  - HC press 6-8RM 5SETS
+  - LC press 6-8RM 5SETS

@@ -209,6 +209,7 @@ is useful.
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
     - Progress: 72/530
+    - `grep` is very important, learn those patterns from time to time
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

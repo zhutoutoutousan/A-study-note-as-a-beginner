@@ -18,13 +18,25 @@ public as aasd {
 }
 ```
 
-```lua
+```c
+#include <stdio.h>
+// aasdasd
 
 ```
 
 ```javascript
 let a = 5;
 const fuck = document.getElementById('2');
+```
 
+```php
+<?php>
+$asdf = 5
+<?>
+```
+
+```html
+<html>
+</html>
 
 ```

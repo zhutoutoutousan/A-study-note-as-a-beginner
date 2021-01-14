@@ -212,6 +212,7 @@ is useful.
     - `grep` is very important, learn those patterns from time to time
     - Concerning the booting process, I'd better not tamper with it like it's nothin'  2021/1/11
     - Hard drive configuration is currently too risky for your current level of knowledge, try some later  2021/1/12
+    - For remote desktop control configuration, configuring `XDMCP`, `X` is a must
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

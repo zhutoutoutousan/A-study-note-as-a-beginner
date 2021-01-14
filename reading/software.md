@@ -208,14 +208,16 @@ is useful.
   - Progress: 5/982
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
-    - Progress: 115/530
+    - Progress: 133/530
     - `grep` is very important, learn those patterns from time to time
     - Concerning the booting process, I'd better not tamper with it like it's nothin'  2021/1/11
     - Hard drive configuration is currently too risky for your current level of knowledge, try some later  2021/1/12
+    - For remote desktop control configuration, configuring `XDMCP`, `X` is a must
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
-
+- Basics of Software Engineering Experimentation
+  - [link](http://www.grise.upm.es/docs/Basics_of_Software_Engineering_Experimentation.pdf)
 # Site-reliability Engineering
 ## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)

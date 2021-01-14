@@ -69,7 +69,7 @@
   - *An Open Letter to the Reader* deserves reading multiple times in that it serves as a guide.
     - Put yourself in an investigator's shoes
   - Progress 1(Reading for pleasure until developing interest) 
-    - Process 1: 38/621
+    - Process 1: 41/621
       - I had no interest in the **Introduction** chapter, I barely know the guy. So just save it for later.
   - Progress 2(Read when in a psychologically agitated state that boost movotivation to read)
 # History

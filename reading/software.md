@@ -193,7 +193,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 - GNU - GCC
   - [Show me the code](https://github.com/gcc-mirror/gcc)
 - Compilers Working Principle, Techniques, & Tools --- A.V.Aho
-  - Progress: 37/1035
+  - Progress: 41/1035
   - Talk is cheap, work with GNU - GCC and try to build one
   - [Link1](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
   - Prerequisites:

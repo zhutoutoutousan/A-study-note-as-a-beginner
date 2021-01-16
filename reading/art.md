@@ -5,3 +5,6 @@
 # Game design
 - Core Techniques and Algorithms in game programming
   - [Link1](http://index-of.co.uk/Algorithms/Core%20Techniques%20and%20Algorithms%20in%20Game%20Programming.pdf)
+
+# Music orchestration
+- [Linux midi orchestration](http://www.schaffter.ca/pdf/linux-midi-orchestration.pdf)

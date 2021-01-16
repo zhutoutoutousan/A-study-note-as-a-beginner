@@ -364,8 +364,16 @@
 ## Control panel
 - Saturday
   - Leg day
+  	- Barbell squat 4-6RM 5SETS
+	- Bulgarian Split squat 6-8RM 5SETS
+		- Weak leg first
   - Quad
+  	- Leg press 5-8RM 5SETS
+	- Leg raise 5-8RM 3SETS
   - Glutes
+	- Barbell glute bridge 2SETS
   - Ab
+  	- Kneeling cable crunch 2SETS
   - Lower back
+  	- Kettlebell swing 2SETS 15REPS
 

@@ -1,0 +1,1 @@
+- [Maps of Dust IR Emission for Use in Estimation of Reddening and CMBR Foregrounds](https://arxiv.org/pdf/astro-ph/9710327.pdf)

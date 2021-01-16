@@ -1,0 +1,2 @@
+# Uncategorized
+- [A bioelectric neural interface towards intuitive prosthetic control for amputees](https://www.researchgate.net/publication/345274827_A_bioelectric_neural_interface_towards_intuitive_prosthetic_control_for_amputees)

@@ -361,29 +361,11 @@
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
-- Friday
-  - Back day
-- Saturday
-  - Overhead press 4-6RM 5SETS 
-  - Side lateral raise  6-8RM 5SETS
-  - Dual reverse fly 5-8RM 5SETS
-  - Jerk and clean (Front squat) 5REPS 5SETS
-  - Snatch(Overhead squat)  3REPS 5SETS
-- Sunday
-  - Off day
 ## Control panel
-- Monday
-  - Bicep and tricep
-- Tuesday
+- Saturday
   - Leg day
-- Wednesday
-  - Off day
-- Thursday
-  - Off day(For excessive intellectual activities)
-- Fridays
-  - Chest day
-  - Barbell bench press 4-6RM | 6-8RM 5+2SETS
-  - Fixed machine press 6-8RM 3SETS
-  - Incline dumbbell press 6-8RM 5SETS
-  - HC press 6-8RM 5SETS
-  - LC press 6-8RM 5SETS
+  - Quad
+  - Glutes
+  - Ab
+  - Lower back
+

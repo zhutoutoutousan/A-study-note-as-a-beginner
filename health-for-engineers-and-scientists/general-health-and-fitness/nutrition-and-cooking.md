@@ -147,3 +147,23 @@
 - Potato mash
 - Oatmeal
   - [Recipe set 1](https://www.youtube.com/watch?v=dvWVaN3a6ao)
+
+# Control panel
+- Current equipments
+  - 2 Lokals
+  - 10 Lokals(On the way)
+- Current Ingredients
+  - Chicken 1kg
+  - Bacon 5 servings
+  - Eggs plenty
+  - Parsley
+  - Cream 1L
+  - No-carb watery syrup
+  - Whole-grain bread * 8 loaves
+- Plans
+  - Saturday
+  - Sunday
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday

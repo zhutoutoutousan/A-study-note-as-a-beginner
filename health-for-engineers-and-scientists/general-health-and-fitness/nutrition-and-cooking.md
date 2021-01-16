@@ -148,10 +148,16 @@
 - Oatmeal
   - [Recipe set 1](https://www.youtube.com/watch?v=dvWVaN3a6ao)
 
+
+
+
 # Control panel
 - Current equipments
-  - 2 Lokals
-  - 10 Lokals(On the way)
+  - Processor
+  - Cooker
+  - Container
+    - 2 Lokals
+    - 10 Lokals(On the way)
 - Current Ingredients
   - Chicken 1kg
   - Bacon 5 servings
@@ -160,10 +166,70 @@
   - Cream 1L
   - No-carb watery syrup
   - Whole-grain bread * 8 loaves
+  - Onion?
+  - Ginger?
+  - Chili?
+  - Green peas?
+  - Squash?
+  - Tomatos?
+  - Spinach?
+- Current appetizers
+  - Pepper powder
+  - Onion ginger powder
+  - Coconut milk?
 - Plans
   - Saturday
+    - Breakfast
+      - Omlette + bacon + beans
+    - Lunch
+      - None
+    - Dinner
+      - Protein shake
+      - Takeout
+      - Chicken curry noodle
+        - [Gordon Ramsay Shows How To Make An Easy Curry At Home | Ramsay in 10](https://www.youtube.com/watch?v=87gx9-8ksJU)
+        - Required ingredients
+          - Red onion
+          - Ginger
+          - Chilli chicken(Chopped)
+          - Fresh frozen peas
+          - Coconut milk? --> Cream
+          - Olive oil
+          - Squash?
+          - (Parsley)
+          - Tomatos
+          - Spinach?
+      - Cheese burger 
+        - bacon+onion ginger powder
   - Sunday
+    - Breakfast
+    - Lunch
+    - Dinner
   - Monday
+    - Breakfast
+    - Lunch
+    - Dinner  
   - Tuesday
+    - Breakfast
+    - Lunch
+    - Dinner  
   - Wednesday
+    - Breakfast
+    - Lunch
+    - Dinner  
   - Thursday
+   - Breakfast
+    - Lunch
+    - Dinner 
+  - Friday
+    - Breakfast
+    - Lunch
+    - Dinner  
+  - Saturday
+    - Breakfast
+    - Lunch
+    - Dinner  
+  - Sunday
+    - Breakfast
+    - Lunch
+    - Dinner

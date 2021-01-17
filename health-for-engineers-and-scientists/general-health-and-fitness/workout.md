@@ -376,4 +376,79 @@
   	- Kneeling cable crunch 2SETS
   - Lower back
   	- Kettlebell swing 2SETS 15REPS
-
+- Sunday
+  - Arm day(BT)
+    - Chin up 6SETS 6-8RM 
+  - Bicep
+    - Dumbell compound curl 6-8RM*3 5SETS
+  - Tricep
+    - Skull crusher 4-6RM 5SETS
+    - Cobra pushup MAX*3SETS
+    - Reverse grip curl 8-10RM 3SETS*2 (Single grip)
+  - Delts
+    - Side lateral raise 6-8RM 3SETS
+    - Reverse fly 6-8RM 3SETS
+- Monday
+  - Off day
+- Tuesday
+  - Back day(With bicep)
+    - Sumo deadlift 4-6RM 5SETS
+  - Lats
+    - Pull-up | Wide grip 4-6RM 5SETS
+    - Front-lever 2TRIES
+    - Chest-supported row 6RM- 5SETS
+  - Upper back
+    - Band Y raise 3*2SETS
+    - Band rotate 3*2SETS
+  - Mid back
+    - Pendaley row 6-8RM 2SETS
+  - Bicep
+    - Incline curl | Spider curl 2SETS
+- Wednesday
+  - Chest day + Tricep
+    - Barbell benchpress 4-6RM 5SETS
+  - Upper chest
+    - Incline dumbell press 6RM- 5SETS
+  - Outer chest
+    - (Balcony)Low crossover 5RM 3SETS
+  - Inner chest
+    - Fly 5RM 3SETS
+  - Lower chest
+    - LC press 5SETS
+  - Tricep
+    - Short grip bench press 3SETS
+- Thursday
+  - Off day
+- Friday
+  - Shoulder day + Chest
+    - Overhead press 4-6RM 5SETS
+  - Mid-delts
+    - Side lateral raise 6-8RM 5SETS
+    - (Finisher)Eccentric pussy raise
+  - Rear-delts
+    - Reverse fly | Band fly 3*2SETS
+  - Chest
+    - Dumbell bench press 6-8RM 3SETS
+    - Lower fly 6-8RM 3SETS
+    - HC press 6-8RM 3SETS
+- Saturday
+  - Olympic weightlifting + Ab
+    - Conventional deadlift 5REPS
+    - Front-squat 5REPS
+  - Snatch *3SETS
+    - 5REPS
+    - 5TRIES
+    - 5REPS Snatch squat
+  - Jerk and clean 3SETS
+    - 5REPS
+    - 5REPS Front squat
+  - Obliques
+    - Side rotation(Explosive) 4-6RM 3SETS*2
+  - Lower ab
+    - Pause knee raise 8REPS 3SETS
+  - Finisher
+    - Box dumbell step up 6/10RM 3SETS 
+- Sunday
+  - Off day
+- Monday
+  - Off day

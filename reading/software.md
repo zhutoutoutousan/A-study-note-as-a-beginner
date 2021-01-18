@@ -10,6 +10,7 @@
   - [Java](#java)
 - [Data structure and algorithms](#data-structure-and-algorithms)
 - [Programming language principle & paradigm](#programming-language-principle--paradigm)
+- [Web testing and automation](#web-testing-and-automation)
 - [Computer security](#computer-security)
 - [Full-stack development](#full-stack-development)
 - [Computer networking](#computer-networking)
@@ -148,6 +149,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
 # Programming language principle & paradigm
 - Functional programming in JavaScript 24/274
+
+# Web testing and automation
+- [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
 
 # Computer security
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 

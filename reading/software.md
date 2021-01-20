@@ -152,7 +152,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 
 # Web testing and automation
 - [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
-
+  - Progress
 # Computer security
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
@@ -176,7 +176,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Progress: 15/113
 - Postgres: The First Experience
   - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
-  - Progress:
+  - Progress
+    - Mobile Termux
+      - Progress: 38
+      - LOCKED: Require your ability to `root` an Android device
+    - PuTTY
+    - Windows
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 

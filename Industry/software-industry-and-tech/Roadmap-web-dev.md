@@ -1,43 +1,55 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Career](#career)
-- [Game development](#game-development)
-  - [High-level design](#high-level-design)
-  - [Back-end for game-development](#back-end-for-game-development)
-- [Full-stack engineering](#full-stack-engineering)
-  - [Software architecture](#software-architecture)
-    - [PaaS](#paas)
-    - [CMS](#cms)
-  - [Database](#database)
-  - [API](#api)
-- [Front-end engineering](#front-end-engineering)
-  - [UI](#ui)
-    - [CSS](#css)
-  - [Performance](#performance)
-  - [Tools](#tools)
-    - [Chrome DevTools](#chrome-devtools)
-  - [Programming language](#programming-language)
-    - [C++](#c)
-    - [JavaScript and TypeScript](#javascript-and-typescript)
-  - [Tools, middlewares, and frameworks](#tools-middlewares-and-frameworks)
-    - [Quick business cycle](#quick-business-cycle)
-  - [Testing](#testing)
-  - [Production](#production)
-    - [Bundling](#bundling)
-    - [Performance](#performance-1)
-    - [JavaScript/TypeScript](#javascripttypescript)
-- [DevOps](#devops)
-  - [OS](#os)
-    - [windows](#windows)
-- [Back-end engineering](#back-end-engineering)
-  - [Genereal](#genereal)
-  - [Programming language and tools](#programming-language-and-tools)
-    - [Go](#go)
-    - [AJAX](#ajax)
-    - [Node.js](#nodejs)
-    - [Python](#python)
+- [General](#general)
+  - [Career](#career)
+  - [Game development](#game-development)
+    - [High-level design](#high-level-design)
+    - [Back-end for game-development](#back-end-for-game-development)
+  - [Full-stack engineering](#full-stack-engineering)
+    - [Software architecture](#software-architecture)
+      - [PaaS](#paas)
+      - [CMS](#cms)
+    - [Database](#database)
+    - [API](#api)
+  - [Front-end engineering](#front-end-engineering)
+    - [UI](#ui)
+      - [CSS](#css)
+    - [Performance](#performance)
+    - [Tools](#tools)
+      - [Chrome DevTools](#chrome-devtools)
+    - [Programming language](#programming-language)
+      - [C++](#c)
+      - [JavaScript and TypeScript](#javascript-and-typescript)
+    - [Tools, middlewares, and frameworks](#tools-middlewares-and-frameworks)
+      - [Quick business cycle](#quick-business-cycle)
+    - [Testing](#testing)
+    - [Production](#production)
+      - [Bundling](#bundling)
+      - [Performance](#performance-1)
+      - [JavaScript/TypeScript](#javascripttypescript)
+  - [DevOps](#devops)
+    - [OS](#os)
+      - [windows](#windows)
+  - [Back-end engineering](#back-end-engineering)
+    - [Genereal](#genereal)
+    - [Programming language and tools](#programming-language-and-tools)
+      - [Go](#go)
+      - [AJAX](#ajax)
+      - [Node.js](#nodejs)
+      - [Python](#python)
+- [Development-application-specific](#development-application-specific)
+  - [UI](#ui-1)
+  - [Toolchain](#toolchain)
+  - [Admin](#admin)
+  - [Backend-frontend](#backend-frontend)
+- [Business-application-specific](#business-application-specific)
+  - [E-commerce](#e-commerce)
+  - [Entertainment](#entertainment)
 
-# Career
+
+# General
+
+## Career
 - [Code interview university](https://github.com/jwasham/coding-interview-university)
   - This dude is a badass, self-studied for 8 months and got to the Amazon
 - [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
@@ -56,55 +68,55 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map/)
 - [frontend-study-resource](https://github.com/sankincn/frontend-study-resource)
 
-# Game development
-## High-level design
+## Game development
+### High-level design
 - [Critical success factors to improve the game development process from a developer’s perspective](https://arxiv.org/ftp/arxiv/papers/1801/1801.04293.pdf)
   - Difference between traditional software development and game software development
     - [What went wrong? A survey of problems in game development](https://dl.acm.org/doi/10.1145/1486508.1486521)
     - [How Is Video Game Development Different from Software Development in Open Source?](https://fpalomba.github.io/pdf/Conferencs/C28.pdf)
 - [游戏开发入门如何点亮技术树？](https://gitbook.cn/books/5bb0c13b6045817d35b98a34/index.html)
-## Back-end for game-development
+### Back-end for game-development
 - [How to write a C# backend for a Unity game using Firebase and Google’s Cloud Run](https://medium.com/firebase-developers/how-to-write-a-c-backend-for-a-unity-game-using-firebase-and-googles-cloud-run-adebf79a57f)
 - [Unity - UNet](https://docs.unity3d.com/cn/2018.4/Manual/UNetLobby.html)
   - [Short review of two UNET alternatives](https://www.reddit.com/r/Unity3D/comments/axoyk2/short_review_of_two_unet_alternatives/)
   - [UNet Deprecation FAQs](https://support.unity.com/hc/en-us/articles/360001252086-UNet-Deprecation-FAQ)
-# Full-stack engineering
-## Software architecture
+## Full-stack engineering
+### Software architecture
 - [Wiki](https://en.wikipedia.org/wiki/Software_architecture)
 - Express
 - [Entry](https://frontendmasters.com/books/front-end-handbook/2019/)
 - Fullstack for front-end - frontendmaster
   - [link1](https://frontendmasters.com/courses/fullstack-v2/introduction/)
   - Progress: 1hrs42min/6hrs19min
-### PaaS
+#### PaaS
 - Heroku
   - [Study entry](https://devcenter.heroku.com/)
     - [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-### CMS
-## Database
+#### CMS
+### Database
 - [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 - MongoDB
-## API
+### API
 - [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
 - Axios
 
-# Front-end engineering
-## UI
-### CSS
-## Performance
+## Front-end engineering
+### UI
+#### CSS
+### Performance
 - Udacity: Website Performance Optimization
   - [link](https://www.youtube.com/watch?v=GNAENzKdciQ&list=PLAwxTw4SYaPmKmNX-INgcxQWf30KuWa_A)
   - Progress: 4/75
 
-## Tools
-### Chrome DevTools
-## Programming language
+### Tools
+#### Chrome DevTools
+### Programming language
 - [Frontendmaster - Build your own programming language](https://frontendmasters.com/courses/programming-language/)
   - Progress：
-### C++
+#### C++
 - [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
 - [Code-It-Yourself! Tetris - Programming from Scratch (Quick and Simple C++)](https://www.youtube.com/watch?v=8OK8_tHeCIA)
-### JavaScript and TypeScript
+#### JavaScript and TypeScript
 - JavaScript
   - Tutorials
     - [JavaScript tutorial](https://github.com/javascript-tutorial)
@@ -116,8 +128,8 @@
     - Progress: 53:00/6hrs
   - Learn from projects that you are interested in, then look up in the official documents
     - [xmind-viewer](https://github.com/xmindltd/xmind-viewer/tree/master/src)
-## Tools, middlewares, and frameworks
-### Quick business cycle
+### Tools, middlewares, and frameworks
+#### Quick business cycle
 - Vue.js
   - Vue JS Essentials with Vuex and Vue Router
     - [Link](https://www.udemy.com/course/vue-js-course/learn/lecture/10219482?start=30#overview)
@@ -162,15 +174,15 @@
       - Regular recap on the **Introduction** section can be useful to quickly back u up after some breaks
       - Progress: Calling Pet API  3:43:25/5.5hrs
         - Hook in different components: 2:26hr
-## Testing
+### Testing
 - Jest
 - [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho)
   - Progress: 8:22/57:18
 
-## Production
-### Bundling
-### Performance
-### JavaScript/TypeScript
+### Production
+#### Bundling
+#### Performance
+#### JavaScript/TypeScript
 - The Good Parts of JavaScript and the Web
   - [Link 1](https://frontendmasters.com/courses/)
 - TypeScript 3 Fundamentals, v2
@@ -178,21 +190,21 @@
   - Progress: /4hrs
 
 
-# DevOps
+## DevOps
 - [Windows PowerShell cheatsheet](https://gist.github.com/prograhammer/cfe97697419d0b5b19ed)
-## OS
-### windows
+### OS
+#### windows
 - [All available windows commands](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup)
   - [The FASTEST Way To Learn A New Programming Language](https://www.youtube.com/watch?v=PkgYxKs4DZA)
-# Back-end engineering
-## Genereal
+## Back-end engineering
+### Genereal
 - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=5s)
 - [Full Stack for Front-End Engineers, v2](https://frontendmasters.com/courses/fullstack-v2/)
   - Progress: 1:53:01/06:19:00
-## Programming language and tools
-### Go
-### AJAX
-### Node.js
+### Programming language and tools
+#### Go
+#### AJAX
+#### Node.js
 - [Node.js Masterclass](https://github.com/trekhleb/nodejs-master-class)
   - This repository contains the homework assignment for Node.js Master Class that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS with no NPM or 3rd-party libraries
 - [Api design node.js](https://frontendmasters.com/courses/api-design-nodejs-v3/)
@@ -203,4 +215,30 @@
         - No need to run through the code
       - Study for being more competent using express
     - [github repo](https://github.com/FrontendMasters/api-design-node-v3)
-### Python
+#### Python
+
+# Development-application-specific
+## UI
+- [Ant-design-vue](https://antdv.com/docs/vue/introduce-cn/)
+  - ant-design-vue 是 Ant Design 的 Vue 实现，组件的风格与 Ant Design 保持同步, 目前支持 Vue 3.0 的 2.0.0 测试版 已发布。
+- Vant 3.0
+  - [Vant 3.0](https://vant-contrib.gitee.io/vant/v3/)
+  - 轻量、可靠的移动端 Vue 组件库。
+- [Element Plus](https://element-plus.org/#/zh-CN)
+  - 一套为开发者、设计师和产品经理准备的基于 Vue 3.0 的桌面端组件库。
+## Toolchain
+- [Vue3](https://vue3js.cn/)
+## Admin
+- [基于 ant-design-vue，typescript，vue3.0，vite 实现的 vue3 风格的后台管理系统](https://github.com/anncwb/vue-vben-admin)
+- [基于 vue3.0 的开源 admin 项目](https://github.com/chuzhixin/vue-admin-beautiful)
+## Backend-frontend
+- [基于 Vue3.0 Composition Api 快速构建实战项目](https://github.com/Wscats/vue-cli)
+
+
+# Business-application-specific
+## E-commerce
+- [基于 vue3.0.0 ，vant3.0.0，vue-router4.0.0-0,vuex^4.0.0-0,vue-cli3，mockjs，仿京东淘宝的，移动端 H5电商平台](https://github.com/GitHubGanKai/vue3-jd-h5)
+- [newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统](https://github.com/newbee-ltd/newbee-mall-vue3-app)
+
+## Entertainment
+- [Vue3 + TypeScript 开发的电影预告片 webAPP](https://github.com/lhz960904/movie-trailer)

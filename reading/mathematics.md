@@ -34,6 +34,8 @@
 
 - Discrete mathematics
   - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+  - Discrete Mathematics for computer scientists
+    - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
 # Geometry & Topology
 - Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf)

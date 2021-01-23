@@ -1,3 +1,27 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Overall education](#overall-education)
+- [Computer system and OS](#computer-system-and-os)
+- [Computer networking](#computer-networking)
+  - [Online course progress track](#online-course-progress-track)
+    - [Youtube channels](#youtube-channels)
+      - [PowerCert Animated Videos](#powercert-animated-videos)
+- [Online streaming](#online-streaming)
+- [Compiler design](#compiler-design)
+  - [Online resource](#online-resource)
+- [Building your roadmap](#building-your-roadmap)
+- [Data Structure and Algorithms](#data-structure-and-algorithms)
+  - [P.O.I](#poi)
+  - [Visualization](#visualization)
+  - [Implementation Training](#implementation-training)
+    - [C](#c)
+    - [JavaScript](#javascript)
+    - [Go](#go)
+    - [Python](#python)
+- [Cryptology](#cryptology)
+  - [P.O.I](#poi-1)
+- [Computer graphics](#computer-graphics)
+
 # Overall education
 - [OSSU](https://github.com/ossu/computer-science)
 - [fromthetransistor](https://github.com/geohot/fromthetransistor)
@@ -34,10 +58,15 @@ Complete course:
 
 
 # Data Structure and Algorithms
+
 - Interesting materials
   - [DEFLATE COMPRESSION ALGORITHM](http://pnrsolution.org/Datacenter/Vol4/Issue1/58.pdf)
 - Read the book and implement in C
   - [TheAlgorithmsC - github](https://github.com/TheAlgorithms/C)
+
+## P.O.I
+- Clifford Stein
+  - [Front-page](http://www.columbia.edu/~cs2035/)
 ## Visualization
 - [Data Structure Visualizations - CS USFCA](https://www.cs.usfca.edu/~galles/visualization/)
 - [Github - algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)

@@ -419,7 +419,7 @@
     - Short grip bench press 3SETS
 - Thursday
   - Off day
-- Friday
+- Friday  1/24+
   - Shoulder day + Chest
     - Overhead press 4-6RM 5SETS
   - Mid-delts
@@ -431,7 +431,7 @@
     - Dumbell bench press 6-8RM 3SETS
     - Lower fly 6-8RM 3SETS
     - HC press 6-8RM 3SETS
-- Saturday
+- Saturday 1/23+
   - Olympic weightlifting + Ab
     - Conventional deadlift 5REPS
     - Front-squat 5REPS

@@ -152,7 +152,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
 
 # Web testing and automation
 - [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
-
+  - Progress
 # Computer security
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
@@ -176,7 +176,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Progress: 15/113
 - Postgres: The First Experience
   - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
-  - Progress:
+  - Progress
+    - Mobile Termux
+      - Progress: 38
+      - LOCKED: Require your ability to `root` an Android device
+    - PuTTY - 174
+    - Windows
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 
@@ -219,12 +224,13 @@ is useful.
   - Progress: 5/982
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
-    - Progress: 181/530
+    - Progress: 200/530
     - `grep` is very important, learn those patterns from time to time
     - Concerning the booting process, I'd better not tamper with it like it's nothin'  2021/1/11
     - Hard drive configuration is currently too risky for your current level of knowledge, try some later  2021/1/12
     - Learn how to manage `yum`
     - For remote desktop control configuration, configuring `XDMCP`, `X` is a must
+    - The Basic security part is sort of deprecated
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

@@ -231,6 +231,7 @@
 ## Admin
 - [基于 ant-design-vue，typescript，vue3.0，vite 实现的 vue3 风格的后台管理系统](https://github.com/anncwb/vue-vben-admin)
 - [基于 vue3.0 的开源 admin 项目](https://github.com/chuzhixin/vue-admin-beautiful)
+  - [这个](https://chu1204505056.gitee.io/admin-pro/#/vab/iframe)Iframe有点契合方向 1/23/2021
 ## Backend-frontend
 - [基于 Vue3.0 Composition Api 快速构建实战项目](https://github.com/Wscats/vue-cli)
 

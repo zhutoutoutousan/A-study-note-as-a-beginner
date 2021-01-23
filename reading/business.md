@@ -1,3 +1,14 @@
+# Industry
+## Contact
+- [Fundamentals of Supply Chain Management](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/121631/BUS5116.Lu.Fundamentals.Supply.Chain.Mgmt.pdf)
+
+## Inwards
+- [UTILIZATION OF ENTERPRISE RESOURCE
+PLANNING TOOLS BY SMALL TO
+MEDIUM SIZE CONSTRUCTION
+ORGANIZATIONS: A DECISION-MAKING
+MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
+
 # Economics basics
 
 ## Reading progress
@@ -26,9 +37,6 @@
   - Война и мир
   - Unbroken - Laura Hillenbrand
   - Boyd - Robert Coram
-
-
-
 
 # Strategic planning
 - OGSM

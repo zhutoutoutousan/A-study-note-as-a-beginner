@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Overall education](#overall-education)
+- [Computing theory](#computing-theory)
 - [Computer system and OS](#computer-system-and-os)
 - [Computer networking](#computer-networking)
   - [Online course progress track](#online-course-progress-track)
@@ -26,6 +27,9 @@
 - [OSSU](https://github.com/ossu/computer-science)
 - [fromthetransistor](https://github.com/geohot/fromthetransistor)
 - [Digital ACM library](https://dl.acm.org/)
+
+# Computing theory
+- [Theory of Computation at Columbia](https://theory.cs.columbia.edu/)
 # Computer system and OS
 - [CrystalDiskMark](https://github.com/hiyohiyo/CrystalDiskMark)
 - [GNU](https://www.gnu.org/)

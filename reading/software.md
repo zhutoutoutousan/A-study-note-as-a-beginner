@@ -181,7 +181,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Mobile Termux
       - Progress: 38
       - LOCKED: Require your ability to `root` an Android device
-    - PuTTY - 174
+    - PuTTY - 55/174
     - Windows
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)

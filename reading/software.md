@@ -183,6 +183,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - LOCKED: Require your ability to `root` an Android device
     - PuTTY - 55/174
     - Windows
+- Database Design - 2nd Edition
+  - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 - Computer networking: A Top-Down Approach 29/856

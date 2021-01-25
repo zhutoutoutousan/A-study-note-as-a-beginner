@@ -148,6 +148,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - Goal: Have a quick recap of mathematical background
       - Progress: 1170 Tackling math questions
         - 1170: A.1-2: To resume, search `series.md`
+  - Process 2
+    - Goal: Quick Grasp of B-tree
+    - Progress: 481-
 # Programming language principle & paradigm
 - Functional programming in JavaScript 24/274
 
@@ -169,6 +172,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - CompTIA Security+ Exam Guide
     - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
 # Full-stack development
+- Golang bundle
+  - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
 - Getting MEAN with Mongo, Express, Angular, and Node 0/?
   - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
 - Principles of Programming Languages

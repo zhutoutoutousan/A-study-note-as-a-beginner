@@ -17,6 +17,7 @@
 - Discours sur l'origine et les fondements de l'inégalité parmi les hommes --- Jean-Jacques Rousseau
   - [Link1](https://philosophie.cegeptr.qc.ca/wp-content/documents/Discours-sur-lin%C3%A9galit%C3%A9-1754.pdf)
   - Require at least **French B2** to initiate efficient reading | Your level: B1 
+  - Progress: 5/95
 - Η Δημοκρατία
   - Requires at least **Greek B2 level** to unlock | Your level: A1
 

@@ -231,13 +231,14 @@ is useful.
   - Progress: 5/982
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
-    - Progress: 214/530
+    - Progress: 239/530
     - `grep` is very important, learn those patterns from time to time
     - Concerning the booting process, I'd better not tamper with it like it's nothin'  2021/1/11
     - Hard drive configuration is currently too risky for your current level of knowledge, try some later  2021/1/12
     - Learn how to manage `yum`
     - For remote desktop control configuration, configuring `XDMCP`, `X` is a must
     - The Basic security part is sort of deprecated
+    - Skipped for `SELinux` for its interference with `httpd`
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

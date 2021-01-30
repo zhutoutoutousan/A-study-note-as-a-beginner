@@ -3,7 +3,15 @@
 # Macro-psychology
 
 # Everything in-between
-
+- Introduction to Human Behavioral Biology
+  - [link1](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+  - Progress
+    - Introduction: 17:30/57:14
+    - Behavioral Evolution
+    - ...
+  - Points
+    - Categorical thinking has its limitations
+      - People tend to lose it when the pre-assumed pattern is not expected during real-life situations
 # P.O.I
 - **Jorden B. Peterson**
   - [Psychology 430H: Self-Deception](https://www.jordanbpeterson.com/classes/self-deception/)

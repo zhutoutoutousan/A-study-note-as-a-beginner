@@ -15,6 +15,9 @@
 # Biomedical engineering
 - Introduction to Biomedical Engineering - J.D. Enderle, J.D. Bronzino
   - [link1](http://diliev.com/Home/Emo/%D0%A1%D0%95%D0%9C%D0%95%D0%A1%D0%A2%D0%AA%D0%A0%208/%D0%A3%D0%9C%D0%94%D0%9E/%D0%BF%D1%80%D0%B9%20%D0%B4%D1%80%D0%B6/prj/Introduction%20to%20Biomedical%20Engineering%203rd%20(Elsevier,%202012).pdf)
+  - Progress: 19/1270
+- Principle of neural design
+  - [link1](http://www.rctn.org/bruno/public/papers/%5BSterling%5D%20Principles%20of%20Neural%20Design.pdf)
 # Neuroscience
 - An Introduction To Human Neuroanatomy PPT
   - [link1](https://hbtrc.mclean.harvard.edu/pdf/about/HBTRC-Neuroanatomy-2014.1.pdf)
@@ -25,5 +28,5 @@
 
 - Principles of Neural Science
   - [link1](http://www.gbv.de/dms/hebis-darmstadt/toc/89892356.pdf)
-
+  - [link2](http://www.nepsy.szote.u-szeged.hu/seminar/downloads-3/files/Kandel.pdf)
 

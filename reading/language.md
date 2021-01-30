@@ -9,3 +9,23 @@
 - 50 Writing Tools
   - [link1](https://dcripe.files.wordpress.com/2014/06/50-writing-tools.pdf)
 - Chicago Manual of Style
+
+# Certificate
+- DELF
+  - 法语B1 DELF高分突破
+    - Progress
+      - Page:
+      - Vocabulaire
+      - Lire
+      - Ecouter
+      - Ecrire
+      - Parler
+      - Resource
+        - `CD/DVD chez Joe Tan`
+- 德语“德福”模拟试题及解析
+  - Vorgang
+    - Page:
+    - Wörterspan
+    - Leseverstehen
+    - Höreverstehen
+    - Schriftliche ausgabe

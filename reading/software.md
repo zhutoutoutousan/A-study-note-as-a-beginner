@@ -228,10 +228,10 @@ is useful.
 
 # Operating system working principle
 - [Operating system concepts](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
-  - Progress: 5/982
+  - Progress: 24/982
 - CentOS 
   - [Foundations of CentOS Linux](https://doc.lagout.org/operating%20system%20/linux/Foundations%20of%20CentOS%20Linux.pdf)
-    - Progress: 255/530
+    - Progress: 332/530
     - `grep` is very important, learn those patterns from time to time
     - Concerning the booting process, I'd better not tamper with it like it's nothin'  2021/1/11
     - Hard drive configuration is currently too risky for your current level of knowledge, try some later  2021/1/12
@@ -239,6 +239,7 @@ is useful.
     - For remote desktop control configuration, configuring `XDMCP`, `X` is a must
     - The Basic security part is sort of deprecated
     - Skipped for `SELinux` for its interference with `httpd`
+    - Kind of sloppy when skimming through `postgresql`, skipped for `mysql`
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)

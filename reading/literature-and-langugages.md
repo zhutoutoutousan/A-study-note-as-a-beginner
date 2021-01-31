@@ -12,6 +12,9 @@
   - Requires at least **Russian B1 level** to initiate online search for e-books | Your level: Lower A2
 - Entry to Russian Literature
   - [Библиотека](https://ilibrary.ru/)
+- Don Quijote de la Mancha
+  - [link1](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
+  - [x] Require Spanish Level **B1**
 # Language
 ## Latin
 - Oxford Latin Course

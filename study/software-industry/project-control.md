@@ -1,167 +1,37 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Priority-project control](#priority-project-control)
-  - [In two months](#in-two-months)
-  - [In two years](#in-two-years)
-  - [In five years](#in-five-years)
-- [Timeline-project control](#timeline-project-control)
-- [Personal website](#personal-website)
-  - [Front-page](#front-page)
+- [Place to put your shit](#place-to-put-your-shit)
+  - [Personal website](#personal-website)
+- [Basic coding practice](#basic-coding-practice)
+  - [Chess game](#chess-game)
     - [Progress](#progress)
-    - [Design](#design)
-      - [UI](#ui)
-      - [Functionality](#functionality)
-    - [Tech-stack](#tech-stack)
-  - [Blog-page](#blog-page)
+    - [Reference materials](#reference-materials)
+  - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
     - [Progress](#progress-1)
-      - [UI](#ui-1)
-      - [Functionality](#functionality-1)
+    - [Tech-stack](#tech-stack)
+    - [Reference materials](#reference-materials-1)
+  - [Web crawler of German Websites](#web-crawler-of-german-websites)
+    - [Design](#design)
+      - [Functionality](#functionality)
     - [Tech-stack](#tech-stack-1)
-  - [Resource](#resource)
-- [Front-end portfolio](#front-end-portfolio)
-  - [Progress](#progress-2)
-  - [Items](#items)
-- [Chess game](#chess-game)
-  - [Progress](#progress-3)
-  - [Reference materials](#reference-materials)
-- [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
-  - [Progress](#progress-4)
-  - [Tech-stack](#tech-stack-2)
-  - [Reference materials](#reference-materials-1)
-- [Problem solving proficiency](#problem-solving-proficiency)
-  - [Algorithm and Data Structure familiarity](#algorithm-and-data-structure-familiarity)
-    - [Leetcode training](#leetcode-training)
-  - [General language proficiency](#general-language-proficiency)
-    - [CodeWar training](#codewar-training)
-    - [Hackerrank training](#hackerrank-training)
-- [Interview questions](#interview-questions)
-  - [Basic JavaScript/HTML/CSS](#basic-javascripthtmlcss)
-  - [Vue, React.js inner working principle](#vue-reactjs-inner-working-principle)
-  - [Networking, browser](#networking-browser)
-  - [Development pattern/Teamwork](#development-patternteamwork)
-- [Web crawler of German Websites](#web-crawler-of-german-websites)
-  - [Design](#design-1)
-    - [Functionality](#functionality-2)
-  - [Tech-stack](#tech-stack-3)
-  - [Reference materials](#reference-materials-2)
-- [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
-  - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-    - [Functionality](#functionality-3)
-  - [P.O.I](#poi)
-  - [Reference](#reference)
-
-# Priority-project control
-## In two months
-1. Personal front page
-   1. Calculator(In a tab)
-   2. Navbar
-2. Personal blog page 
-3. Chess game
-4. Algorithm visualizer in Vue
-5. Problem solving efficiencies
-6. Interview
-## In two years
-1. DeepSTUDYcity
-2. Web crawler for German websites
-## In five years
-1. DeepSTUDYcity(4d+AR/VR)
-# Timeline-project control
-```
-April -...--------------------------------------------------------------> October  
-xxxxxxx...August-----------------------September--------------------------->|  
-                                                              /|\
-                                                               |  U R here
-```
-- First stage mark: **FST**
+    - [Reference materials](#reference-materials-2)
+  - [A full-stack vocabulary trainer](#a-full-stack-vocabulary-trainer)
+- [Immersive experience + Erudition/Geek](#immersive-experience--eruditiongeek)
+  - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
+    - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
+      - [Functionality](#functionality-1)
+    - [P.O.I](#poi)
+    - [Reference](#reference)
 
 
+# Place to put your shit
+## Personal website
+- Don't get all that fancy on the front page.
 
-# Personal website
+# Basic coding practice
 
-## Front-page
+## Chess game
 ### Progress
-- Study the example
-  - [Portfolio](https://github.com/realmartinzane/portfolio)
-  - Progress
-    - Finish Vue.js course
-- Redesign its style
-  - Accumulate some ideas
-- Get familiar with its elements
-- Website Construction
-- Learn server hosting
-  - This guy used ```github.io```
-  - How about you use ```Hikaru```
-    - [x] Finished getting started guide
-  - Check back-end --> PaaS section for static site hosting(AWS) 
-    - Consider hosting your original lottery game
-- Learn MongoDB
-- Website Construction
-- Learn server hosting
-
-### Design
-#### UI
-- Just like the first example in the **resource** section
-#### Functionality
-### Tech-stack
-- [ ] Vue
-  - [ ] Series of courses on your note: **Roadmap-web**
-
-## Blog-page
-### Progress
-- Vue course(Frontend master)
-- Complete learning Vuepress
-- If Vuepress is not good
-  - [How To Build A Markdown Blog Using Node.js, Express, And MongoDB](https://www.youtube.com/watch?v=1NrHkjlWVhM&t=924s)
-#### UI
-- [ ] Generated by Vuepress
-#### Functionality
-- [ ] Multi-level NavBar <--> Vuepress configuration
-- [ ] Render TeX Math equations <--> Vuepress configuration 
-  - [ ] Try [vuepress official plugins](https://vuepress.github.io/en/plugins/mathjax/#using-presets)
-### Tech-stack
-- [ ] VuePress
-  - [ ] Get familiar with [Vuepress doc](https://vuepress.vuejs.org/guide/markdown.html#links)
-  - [ ] Play around with Vuepress
-    - [ ] [VuePress Tutorial - Learn how to use VuePress for a Documentation Site (Beginner)](https://www.youtube.com/watch?v=5Kqyhu_eIcw) 0:00/24:03
-- [ ] CSS
-  - [ ] Customized style if needed
-- [ ] HTML
-  - [ ] Customized layout if needed
-
-## Resource
-- [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
-  - 3:30 [Entry](https://github.com/realmartinzane/portfolio)
-- [7 Tips for a Better Design Portfolio - WITH EXAMPLES](https://www.youtube.com/watch?v=lPGM-GgIqmo)
-
-# Front-end portfolio
-## Progress
-- Create Serving
-## Items 
-- Site
-- Components
-  - Lottery game
-    - Serving
-  - [x] Accordian
-  - Autocomplete
-  - [x] Vanilla JS calculator
-    - [x] HTML layout
-    - [x] Layout style
-    - [x] CSS animation
-    - [x] Logic
-    - [ ] Furthur troubleshoot
-  - Vue Calculator
-    - [x] Project setup
-    - [ ] Can proceed Vue.js course without finishing it first
-  - [x] Carousel
-  - Drop-down-menu
-  - Expanding-search-bar
-  - Icon bar
-  - Pagination
-  - [x] Responsive navbar
-  - toast-notification
-
-# Chess game
-## Progress
 - [x] Chessboard
 - [ ] Game mechanics
   - [ ] When you win, the game is stuck 
@@ -186,7 +56,7 @@ xxxxxxx...August-----------------------September--------------------------->|
   - [ ] Choose mode
   - [ ] Networking
 
-## Reference materials
+### Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
 - [Online-chess](https://github.com/Aveek-Saha/Online-Chess)
@@ -194,57 +64,37 @@ xxxxxxx...August-----------------------September--------------------------->|
 - [Online-chess](https://github.com/kevinAlbs/Chess)
   - Node.js
   - 
-# Pathfinding algorithm visualizer
-## Progress
+## Pathfinding algorithm visualizer
+### Progress
 - Learn to design the UI
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
 - Go through the React Tutorial
 
-## Tech-stack
+### Tech-stack
 - [ ] React
   - [ ] React tutorial
     - [ ] tic-tac-tok game
       - [ ] [Official walkthrough](https://reactjs.org/tutorial/tutorial.html)
     - [ ] Concepts
       - [ ] [Official guide](https://reactjs.org/docs/hello-world.html)
-## Reference materials
+### Reference materials
 - Clement mihailescu --> Original Vanilla-Js project
   - [Github Repo](https://github.com/clementmihailescu/Pathfinding-Visualizer)
 
-
-
-# Problem solving proficiency
-## Algorithm and Data Structure familiarity
-- Basic training: See mental model in data structure and algorithms
-### Leetcode training
-- Leetcode most interviewed questions
-
-
-
-
-## General language proficiency
-### CodeWar training
-- Very addictive
-- Fun
-- Should do it from time to time
-### Hackerrank training
-# Interview questions
-## Basic JavaScript/HTML/CSS
-## Vue, React.js inner working principle
-## Networking, browser
-## Development pattern/Teamwork
-
-# Web crawler of German Websites
-## Design
-### Functionality
-## Tech-stack
+## Web crawler of German Websites
+### Design
+#### Functionality
+### Tech-stack
 - React
-## Reference materials
+### Reference materials
 
+## A full-stack vocabulary trainer
+- Use `d3.js` for data visualization
 
-# 3D/VR personal knowledge base
-## Application --> Mindmap + Flashcard
-### Functionality
+# Immersive experience + Erudition/Geek
+## 3D/VR personal knowledge base
+### Application --> Mindmap + Flashcard
+#### Functionality
 - AI
   - Graph algorithm
 - Multiplayer
@@ -260,9 +110,10 @@ xxxxxxx...August-----------------------September--------------------------->|
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the br
 
-## P.O.I
+### P.O.I
 - Zhu Xiao Wei
   - [front-page](https://coolerzxw.github.io/)
 
-## Reference
+### Reference
 - [xmind-viewer](https://github.com/xmindltd/xmind-viewer)
+

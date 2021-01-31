@@ -5,5 +5,6 @@
 # N
 ## Nihilism
 - [Nihilism](https://en.wikipedia.org/wiki/Nihilism#Kierkegaard)
+
 # P
 ## Post-modernism

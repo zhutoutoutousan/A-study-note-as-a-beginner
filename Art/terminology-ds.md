@@ -30,14 +30,11 @@
 
 
 # L
-## Languendo.
-## Legato
-## Leggierissimo volante
+
 ## Letterboxing
 - [Letterboxing (filming)](https://en.wikipedia.org/wiki/Letterboxing_(filming))
 ## loco.
-## Loading gates 装载门
-- (game)
+
 # O
 ## OpenGL
 
@@ -70,10 +67,3 @@
 # Y 
 ## Yaw
 - [WIKI](https://en.wikipedia.org/wiki/Yaw_(rotation))
-# CH
-雅诗兰黛
-
-# Uncategorized
-- Mainstream
-- AWS
-- 东航

@@ -62,7 +62,7 @@
 
 # Record: 1/31/2021
 ## Physical condition
-- Weightlifting
+- [x] Weightlifting
 
 ## Language skills
 - [x] DeHelper/FrHelper

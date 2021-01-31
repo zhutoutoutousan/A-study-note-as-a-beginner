@@ -66,7 +66,7 @@
 
 ## Language skills
 - [x] DeHelper/FrHelper
-- Academic + Commercial writing
+- [x] Academic + Commercial writing
   - Skim through all `terminology` section
 - DELF - 2 pgs_v
 - TestDaf - 2 pgs_v
@@ -100,7 +100,7 @@
 
 ## Electronics
 - Current project
-
+  - Finish 10 soldering components
 ## Career driven
 - Teamplay
 - Neuroengineering

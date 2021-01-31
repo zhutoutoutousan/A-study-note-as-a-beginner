@@ -13,13 +13,10 @@
 # Certificate
 - DELF
   - 法语B1 DELF高分突破
-    - Progress
-      - Page:
-      - Vocabulaire
-      - Lire
-      - Ecouter
-      - Ecrire
-      - Parler
+    - Process 1
+      - Goal: First get a sense of what the book is about
+        - Read the French-Chinese instruction
+        - Keep an eye out for `online resources`
       - Resource
         - `CD/DVD chez Joe Tan`
 - 德语“德福”模拟试题及解析

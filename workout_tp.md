@@ -68,8 +68,20 @@
 - [x] DeHelper/FrHelper
 - [x] Academic + Commercial writing
   - Skim through all `terminology` section
-- DELF - 2 pgs_v
-- TestDaf - 2 pgs_v
+- [x] DELF - 2 pgs_v
+- [x] TestDaf - Leseverstehen Bearbeitung 1
+  - Antworten
+    1. D
+    2. I
+    3. G
+    4. `I` F
+    5. I
+    6. E
+    7. `B` A
+    8. `F` I
+    9. `I` B.
+    10. H
+  - Next practice would be the vocabulary study
 - App phase
   - Japanese - 2 Lvs
   - Korean
@@ -84,7 +96,7 @@
 
 
 ## Problem solving skills
-- Codewar - 1
+- [x] Codewar - 1
 - Leetcode - 1
 
 ## Coding and development
@@ -104,3 +116,4 @@
 ## Career driven
 - Teamplay
 - Neuroengineering
+

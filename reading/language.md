@@ -17,6 +17,7 @@
       - Goal: First get a sense of what the book is about
         - Read the French-Chinese instruction
         - Keep an eye out for `online resources`
+      - Progress: 12/187
       - Resource
         - `CD/DVD chez Joe Tan`
 - 德语“德福”模拟试题及解析

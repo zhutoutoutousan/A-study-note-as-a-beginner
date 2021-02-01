@@ -253,7 +253,7 @@ is useful.
 ## System administration
 - [Windows server administration fundamentals](https://docentinrete.files.wordpress.com/2012/05/manuale-2008-98-365-windowsserver.pdf)
   - This is too basic, read it only if you really have a ton of time :)
-- [Configuring Advanced Windoes server 2012 guide](https://ptgmedia.pearsoncmg.com/images/9780735674257/samplepages/9780735674257.pdf)
+- [Configuring Advanced Windowes server 2012 guide](https://ptgmedia.pearsoncmg.com/images/9780735674257/samplepages/9780735674257.pdf)
   - [link1](http://docshare04.docshare.tips/files/27083/270837810.pdf)
   - Very good for getting hands dirty and solve problems quick!
   - Progress:

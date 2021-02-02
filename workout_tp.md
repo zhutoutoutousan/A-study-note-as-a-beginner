@@ -97,7 +97,7 @@
 
 ## Problem solving skills
 - [x] Codewar - 1
-- Leetcode - 1
+- [x] Leetcode - 1
 
 ## Coding and development
 - Webflow

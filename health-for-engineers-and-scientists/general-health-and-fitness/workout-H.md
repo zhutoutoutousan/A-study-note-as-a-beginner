@@ -397,5 +397,14 @@
     - Sumo deadlift 4-6RM 5SETS
     - Pull up 4-6RM 5SETS
     - Chest supported row 4-6RM 5SETS
+  - Stright arm strength
+    - Band pull down 4-6RM 5SETS
+    - Front lever 3 TRIES
+  - Middle back
+    - Landmine row 6-8RM 5SETS
+    - Y band raise 6-8RM 3SETS
+    - L band rotation 6-8RM 3SETS
+  - Bicep
+    - Dumbell compound curl 6-8RM 3SETS
 - Sunday
   - Chest day 

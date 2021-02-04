@@ -186,7 +186,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Mobile Termux
       - Progress: 38
       - LOCKED: Require your ability to `root` an Android device
-    - PuTTY - 72/174
+    - PuTTY - 74/174
       - P69: You can challenge yourself by using a larger database
     - Windows
 - Database Design - 2nd Edition

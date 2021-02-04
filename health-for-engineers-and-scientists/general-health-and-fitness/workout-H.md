@@ -362,40 +362,11 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Tuesday
-  - 40 minutes bike ride
-- Wednesday
-  - Arm day
-  - Bicep
-    - Weighted Chin-up 5-8RM 5SETS
-    - Dumbell compound curl 6-8RM 5SETS
-  - Tricep
-    - Skull crusher | Close grip Bench press 5-8RM 5SETS
-    - Cobra push up 3SETS
-  - Ab
-    - Knee up 3SETS
-    - Kneel down 3SETS
 - Thursday
-  - Leg day
-  - Leg
-    - Squat 4-6RM 5SETS
-    - Bulgarian split squat 5-8RM 5SETS
-  - Glutes
-    - Glute raise 6-8RM 5SETS
-  - Adductors && Abductors
-    - Band raise 3SETS
-    - Dumbell slide squat 2SETS
-  - Stability and Ab
-    - Box step up 3SETS
-  - Explosiveness
-    - Roll up jump 2SETS
 - Friday
-  - Off day
 - Saturday
-  - Back day
-  - Compound 
-    - Sumo deadlift 4-6RM 5SETS
-    - Pull up 4-6RM 5SETS
-    - Chest supported row 4-6RM 5SETS
 - Sunday
-  - Chest day 
+- Monday
+- Tuesday
+- Wednesday
+- Thursday

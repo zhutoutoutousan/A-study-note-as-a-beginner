@@ -172,10 +172,16 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - CompTIA Security+ Exam Guide
     - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
 # Full-stack development
-- Golang bundle
-  - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
-- Getting MEAN with Mongo, Express, Angular, and Node 0/?
-  - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
+- Front-end
+  - Getting MEAN with Mongo, Express, Angular, and Node 0/?
+    - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
+
+- Middleware
+  - Golang bundle
+    - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
+- Database
+  - Application
+    - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
 - Principles of Programming Languages
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
 - [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)

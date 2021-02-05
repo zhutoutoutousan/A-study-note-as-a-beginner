@@ -4,37 +4,40 @@
   - [In two months](#in-two-months)
   - [In two years](#in-two-years)
   - [In five years](#in-five-years)
-- [Personal website](#personal-website)
-  - [Front-page](#front-page)
-  - [Blog-page](#blog-page)
-- [Front-end portfolio](#front-end-portfolio)
-- [Chess game](#chess-game)
-  - [Reference materials](#reference-materials)
-  - [What is learned](#what-is-learned)
-- [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
-- [Problem solving proficiency](#problem-solving-proficiency)
-- [Interview questions](#interview-questions)
-- [Study web crawler design](#study-web-crawler-design)
-  - [Design](#design)
-    - [Functionality](#functionality)
-  - [Tech-stack](#tech-stack)
-  - [Reference materials](#reference-materials-1)
-- [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
-  - [Progress](#progress)
-  - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
-    - [Functionality](#functionality-1)
-  - [Debate space](#debate-space)
-    - [Why](#why)
-    - [Contexts to investigate](#contexts-to-investigate)
-    - [Pro](#pro)
-    - [Against](#against)
-  - [Reference](#reference)
-- [Relaxation box](#relaxation-box)
-  - [Basic idea](#basic-idea)
-  - [Context](#context)
-  - [Debate space](#debate-space-1)
-    - [Pro](#pro-1)
-    - [Against](#against-1)
+- [Money-making projects](#money-making-projects)
+- [Enterprise level projects](#enterprise-level-projects)
+- [Personal Projects](#personal-projects)
+  - [Personal website](#personal-website)
+    - [Front-page](#front-page)
+    - [Blog-page](#blog-page)
+  - [Front-end portfolio](#front-end-portfolio)
+  - [Chess game](#chess-game)
+    - [Reference materials](#reference-materials)
+    - [What is learned](#what-is-learned)
+  - [Pathfinding algorithm visualizer](#pathfinding-algorithm-visualizer)
+  - [Problem solving proficiency](#problem-solving-proficiency)
+  - [Interview questions](#interview-questions)
+  - [Study web crawler design](#study-web-crawler-design)
+    - [Design](#design)
+      - [Functionality](#functionality)
+    - [Tech-stack](#tech-stack)
+    - [Reference materials](#reference-materials-1)
+  - [3D/VR personal knowledge base](#3dvr-personal-knowledge-base)
+    - [Progress](#progress)
+    - [Application --> Mindmap + Flashcard](#application----mindmap--flashcard)
+      - [Functionality](#functionality-1)
+    - [Debate space](#debate-space)
+      - [Why](#why)
+      - [Contexts to investigate](#contexts-to-investigate)
+      - [Pro](#pro)
+      - [Against](#against)
+    - [Reference](#reference)
+  - [Relaxation box](#relaxation-box)
+    - [Basic idea](#basic-idea)
+    - [Context](#context)
+    - [Debate space](#debate-space-1)
+      - [Pro](#pro-1)
+      - [Against](#against-1)
 
 # Priority-project control
 ## In two months
@@ -52,8 +55,17 @@
 ## In five years
 1. DeepSTUDYcity(4d+AR/VR)
 
-# Personal website
-## Front-page
+# Money-making projects
+- Hecheng Luo: HTML5 project
+
+
+# Enterprise level projects
+
+
+# Personal Projects
+
+## Personal website
+### Front-page
 - [x] Study the example
   - [x] [Portfolio](https://github.com/realmartinzane/portfolio)
   - [x] Vue
@@ -65,7 +77,7 @@
     - [ ] [Are you writing responsive CSS the wrong way?](https://www.youtube.com/watch?v=0ohtVzCSHqs)
   - [ ] Learn Responsive frameworks
   - [ ] Learn Nuxt.js(Server side rendering)
-## Blog-page
+### Blog-page
 - [x] VuePress
   - [x] Not suitable
 - [x] [Jr Developer Portfolios - The good and bad #grindreel](https://www.youtube.com/watch?v=q0bca-LnDhY&t=3s)
@@ -80,12 +92,12 @@
   - [ ] Problems
     - [ ] Limited directory nesting depth
 - [wiki.js]
-# Front-end portfolio
+## Front-end portfolio
 - [x] Initial design
 - [ ] Documents
 - [ ] Issues
   - [ ] For mobiles, the media query is not good
-# Chess game
+## Chess game
 - [x] Chessboard
 - [ ] Game mechanics
   - [ ] When you win, the game is stuck 
@@ -132,7 +144,7 @@
     - [ ] [Bulletproof node.js project architecture](https://softwareontheroad.com/ideal-nodejs-project-structure/)
   - [ ] Class
     - [ ] [Frontend Master course](https://frontendmasters.com/courses/api-design-nodejs-v3/)
-## Reference materials
+### Reference materials
 - Code bullet --> Chess AI
   - [I created an AI to Play Chess](https://www.youtube.com/watch?v=DZfv0YgLJ2Q)
 - [Online-chess](https://github.com/Aveek-Saha/Online-Chess)
@@ -140,14 +152,14 @@
 - [Online-chess](https://github.com/kevinAlbs/Chess)
   - Node.js
 
-## What is learned
+### What is learned
 - Be careful with multiple logical operators
 ```
 a || b && c 
 a || (b && c)
 ```
 
-# Pathfinding algorithm visualizer
+## Pathfinding algorithm visualizer
 - [ ] Tutorial
   - [ ] [Sorting Visualizer Tutorial (software engineering project)](https://www.youtube.com/watch?v=pFXYym4Wbkc)
   - [ ] [Pathfinding](https://www.youtube.com/watch?v=msttfIHHkak&t=1010s)
@@ -166,13 +178,13 @@ a || (b && c)
       - [ ] [Official guide](https://reactjs.org/docs/hello-world.html)
 
 
-# Problem solving proficiency
+## Problem solving proficiency
 - Leetcode
 - Codewar
 - javascript-algorithm
 
 
-# Interview questions
+## Interview questions
 - [ ] Gather some link website and put it here
 
 
@@ -182,12 +194,12 @@ a || (b && c)
 
 
 
-# Study web crawler design
-## Design
-### Functionality
-## Tech-stack
+## Study web crawler design
+### Design
+#### Functionality
+### Tech-stack
 - React
-## Reference materials
+### Reference materials
 - Projects
   - [TweetScraper - github](https://github.com/jonbakerfish/TweetScraper)
   - [Crawlab](https://github.com/crawlab-team/crawlab)
@@ -195,10 +207,10 @@ a || (b && c)
   - tikazyq(github)
 
 
-# 3D/VR personal knowledge base
-## Progress
-## Application --> Mindmap + Flashcard
-### Functionality
+## 3D/VR personal knowledge base
+### Progress
+### Application --> Mindmap + Flashcard
+#### Functionality
 - AI
   - Graph algorithm
 - Multiplayer
@@ -214,18 +226,18 @@ a || (b && c)
   - Where you can swim in the oceans of your knowledge bank
   - With BCI interface directly interacting with the brain
 
-## Debate space
-### Why
+### Debate space
+#### Why
 - Of all YouTube videos, 99 percent of the video got less than 10 views. If you got an idea, 99% of your thought efforts should be geared towards debunking this idea by proving them invalid even with all available deviations or alternative routes.
 - Only through hundreds and thousands of debates trying their best effort to tear down the idea can any idea that could survive be anything more than invalid.
 - Talk to more people is essential --> 李开复-->3D浏览器，结果没有市场 --> 实用性创新
-### Contexts to investigate
+#### Contexts to investigate
 - Marketing ecosystem
 - Business ecosystem/landscape
-### Pro
+#### Pro
 - If the functionality of the product can be scaled to fit themselves towards different groups/classes of social groups/individuals, we can charge a variety of prices to different groups to maximize the profit
 - The tools we use for a study framework is more or less for a certain group of people and is either too complex/inaccessible to other groups of people. 
-### Against
+#### Against
 - Readiness
   - Your technical skills is not enough
   - You don't have enough reputation and ability to set up a team
@@ -250,20 +262,20 @@ a || (b && c)
     - Evernote
     - Xmind
   - If this product for some reasons is public, can it survive?
-## Reference
+### Reference
 - [xmind-viewer](https://github.com/xmindltd/xmind-viewer)
 - [Flashcard](https://github.com/jwasham/computer-science-flash-cards)
 - [Node flashcard](https://github.com/ashwanikumar04/flash-cards)
 
-# Relaxation box
-## Basic idea
+## Relaxation box
+### Basic idea
 - If there is a 'box' with the size of a telephone booth where you can find a massage chair with noise-free headset and oxygen generator. I wouldn't mind going to that place during lunch break.
   - In every department store, coffee cafeteria where those white-collar people likes to rest.
 
-## Context
-## Debate space
-### Pro
-### Against
+### Context
+### Debate space
+#### Pro
+#### Against
 - Seems too costly, u sure it could be profitable?
   - Require basic knowledge of **how a business runs and the cash flow works** for further discussion
 - Could you figure out a reservation system? 'Cause if this stuff exists, we don't want those people to be fixed. It should be optimized.

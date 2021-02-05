@@ -363,10 +363,19 @@
 ### State storage
 ## Control panel
 - Thursday
+  - Shoulder day + 
+  - Compound
+    - Overhead press 4-6RM 5SETS
 - Friday
+  - 30 mins Bike ride
 - Saturday
+  - Chest day
 - Sunday
+  - Leg day
 - Monday
+  - 30 min Bike ride
 - Tuesday
+  - Arm day
 - Wednesday
+  - Back day
 - Thursday

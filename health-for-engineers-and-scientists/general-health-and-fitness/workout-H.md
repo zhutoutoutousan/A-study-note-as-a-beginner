@@ -366,6 +366,14 @@
   - Shoulder day + 
   - Compound
     - Overhead press 4-6RM 5SETS
+    - Clean 3 TRIES
+  - Mid delts
+    - Side lateral raise 6-8RM 5SETS
+  - Rear delts
+    - Reverse fly 6-8RM 5SETS
+  - Explosiveness
+    - Landmine Push 6-8RM 3SETS
+    - Medicine ball throw 6-8RM 3SETS
 - Friday
   - 30 mins Bike ride
 - Saturday

@@ -376,14 +376,29 @@
     - Medicine ball throw 6-8RM 3SETS
 - Friday
   - Chest day
+  - Compound
+    - Barbell bench press 4-6RM 5SETS
+    - Incline dumbell press 6-8RM | LC press 5SETS
+  - Upper/Lower chest
+    - HC press 6-8RM 5SETS
+    - Machine flyes 6-8RM 5SETS
+  - Tricep
+    - Skull crushers 6-8RM 3SETS
+  - Cardio
+    - 20 minutes bike ride
 - Saturday
   - 30 mins Bike ride
 - Sunday
-  - Leg day
+  - Leg day + Bicep
+  - Compound
+    - Squat 4-6RM 5SETS
+    - Bulgarian split squat | Pistol squat 6-8RM 3SETS
+  - Glutes
+    - Hip hinge 6-8RM 5SETS
 - Monday
   - 30 min Bike ride
 - Tuesday
-  - Arm day
+  - Arm day + Tricep
 - Wednesday
-  - Back day
+  - Back day + 
 - Thursday

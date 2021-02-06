@@ -321,3 +321,5 @@ is useful.
 # Industry application
 - 微信公众平台应用开发实战
   - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
+- HTML 5 Mobile Development Cookbook
+  - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)

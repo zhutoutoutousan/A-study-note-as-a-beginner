@@ -22,6 +22,7 @@
   - [System administration](#system-administration)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
+- [Industry application](#industry-application)
 
 # IT architecture
 - 企业IT架构转型之道:阿里巴巴中台战略思想与架构实战
@@ -316,3 +317,7 @@ is useful.
 - Browser working principle
   - Chromium
 - Game development
+
+# Industry application
+- 微信公众平台应用开发实战
+  - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)

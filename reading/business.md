@@ -10,8 +10,6 @@ ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
 # Economics basics
-
-## Reading progress
 - Introduction to Economics - John V. Van Sickle
   - [link1](https://mises-media.s3.amazonaws.com/Introduction%20to%20Economics_5.pdf)
 - Principle of Economics - RICE college
@@ -28,6 +26,11 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
       - Progress: 29/389
 - TOGAF
   - Check your `baidunetdisk`
+
+# Enterprise architecture
+- TOGAF
+  - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
+
 # Business mindset
 - Strategy
   - 孙子兵法
@@ -42,3 +45,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
+
+# Business investment
+- 价值 - 张磊
+  - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
+    - Progress: 74

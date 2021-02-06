@@ -375,9 +375,9 @@
     - Landmine Push 6-8RM 3SETS
     - Medicine ball throw 6-8RM 3SETS
 - Friday
-  - 30 mins Bike ride
-- Saturday
   - Chest day
+- Saturday
+  - 30 mins Bike ride
 - Sunday
   - Leg day
 - Monday

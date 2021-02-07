@@ -387,7 +387,7 @@
   - Cardio
     - 20 minutes bike ride
 - Saturday
-  - 30 mins Bike ride
+  - Off day
 - Sunday
   - Leg day + Bicep
   - Compound
@@ -395,6 +395,7 @@
     - Bulgarian split squat | Pistol squat 6-8RM 3SETS
   - Glutes
     - Hip hinge 6-8RM 5SETS
+  - 30 mins Bike ride
 - Monday
   - 30 min Bike ride
 - Tuesday

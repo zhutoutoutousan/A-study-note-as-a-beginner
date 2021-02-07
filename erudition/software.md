@@ -152,6 +152,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Process 2
     - Goal: Quick Grasp of B-tree
     - Progress: 481-
+- LeetCode Cookbook Analysis in Go
+  - [link1](https://books.halfrost.com/leetcode/)
 # Programming language principle & paradigm
 - Functional programming in JavaScript 24/274
 

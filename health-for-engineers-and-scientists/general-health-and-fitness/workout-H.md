@@ -393,8 +393,13 @@
   - Compound
     - Squat 4-6RM 5SETS
     - Bulgarian split squat | Pistol squat 6-8RM 3SETS
+  - Quads
+    - Leg press 6-8RM 5SETS
   - Glutes
     - Hip hinge 6-8RM 5SETS
+  - Explosiveness
+    - Depth jump 8/10REPS 3SETS
+    - Kneel up Vertical | Side  8/10REPS 3SETS
   - 30 mins Bike ride
 - Monday
   - 30 min Bike ride

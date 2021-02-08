@@ -182,6 +182,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
 - Middleware
   - Golang bundle
     - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
+  - Programming in Go: Creating Application for the 21st Century
+    - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
+    - Progress: 25/493
 - Database
   - Application
     - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)

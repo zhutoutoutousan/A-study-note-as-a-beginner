@@ -52,4 +52,4 @@ range(1,6)
 
 - aws
   - EC2 Instance
-    - 
+    - (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] - R17

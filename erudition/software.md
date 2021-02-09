@@ -329,3 +329,4 @@ is useful.
 - HTML 5 Mobile Development Cookbook
   - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
   - Progress: 25
+- HTML5移动Web+Vue.js应用开发实战

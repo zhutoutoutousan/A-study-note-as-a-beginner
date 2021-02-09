@@ -406,5 +406,6 @@
 - Tuesday
   - Arm day + Tricep
 - Wednesday
-  - Back day + 
+  - Back day + Rear&Mid delts
 - Thursday
+  - 30 min Bike ride

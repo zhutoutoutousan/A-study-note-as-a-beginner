@@ -17,4 +17,4 @@
   - Knowledge enrichment
     - Introduction to statistical machine learning
       - [link1](http://kioloa08.mlss.cc/files/hutter1.pdf)
-  - Progress
+  - Progress: 2/16

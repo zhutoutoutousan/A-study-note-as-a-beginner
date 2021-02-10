@@ -53,6 +53,9 @@
   - Papers
 - Demonic Males
 ## General
+- Chaos Making new Science
+  - [link1](http://vattay.web.elte.hu/lectures/ChaosTheory/James%20Gleick%20-%20Chaos.%20Making%20a%20new%20science.pdf)
+  - [Chaos Theory](http://vattay.web.elte.hu/lectures/ChaosTheory/)
 - The Social Animal - E.Aronson
   - [Link1](https://khanahmadli.files.wordpress.com/2019/01/the-social-animal.pdf)
   - **Related reading**

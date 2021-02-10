@@ -184,6 +184,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
   - Programming in Go: Creating Application for the 21st Century
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
+    - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
     - Progress: 25/493
 - Database
   - Application

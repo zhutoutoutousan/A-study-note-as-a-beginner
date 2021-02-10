@@ -70,6 +70,7 @@
   - Read `How to Write` 10pgs
 - [ ] DELF - 2 pgs_v
 - [ ] TestDaf - Leseverstehen Bearbeitung 1 Vocabulary
+- Interpretation
 - App phase
   - [x] Japanese - 2 Lvs
 - Reading phase
@@ -92,13 +93,22 @@
   - Website development
 - Observable
   - d3.js
+    - Osmosis
 - Projects
+- Backend development
+  - Postgresql
+    - [ ] Book 5pgs
+    - Osmosis
+  - Golang
+    - [ ] Book 20pgs
+    - Osmosis
 ## Hacking
 - CTF
   - Wifi
 
 ## Erudition
-- None
+- James Gleick - Chaos
+  - [ ] 20 pgs
 ## Electronics
 - Current project
   - [ ] Finish 10 soldering components

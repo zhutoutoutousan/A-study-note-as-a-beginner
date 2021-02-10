@@ -8,3 +8,6 @@
 
 # Music orchestration
 - [Linux midi orchestration](http://www.schaffter.ca/pdf/linux-midi-orchestration.pdf)
+
+# Screen design
+- [Design Engineering Handbook](https://drive.google.com/file/d/1Jo_hVub2ZOkvmvcXn5FR-TCEQB3gg9JA/view?usp=sharing)

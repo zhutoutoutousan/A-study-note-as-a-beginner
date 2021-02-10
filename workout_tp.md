@@ -8,7 +8,7 @@
 - [Erudition](#erudition)
 - [Electronics](#electronics)
 - [Career driven](#career-driven)
-- [Record: 2/10/2021](#record-2102021)
+- [Record: 2/10/2021-2/11/2021](#record-2102021-2112021)
   - [Physical condition](#physical-condition-1)
   - [Language skills](#language-skills-1)
   - [Problem solving skills](#problem-solving-skills-1)
@@ -60,7 +60,7 @@
 - Teamplay
 - Neuroengineering
 
-# Record: 2/10/2021
+# Record: 2/10/2021-2/11/2021
 ## Physical condition
 - [ ] Weightlifting
 
@@ -68,7 +68,8 @@
 - [x] DeHelper/FrHelper
 - [ ] Academic + Commercial writing
   - Read `How to Write` 10pgs
-- [ ] DELF - 2 pgs_v
+- [x] DELF - 2 pgs_v
+  - Vocabulary for the next training
 - [ ] TestDaf - Leseverstehen Bearbeitung 1 Vocabulary
 - Interpretation
 - App phase

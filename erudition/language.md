@@ -20,6 +20,9 @@
       - Progress: 12/187
       - Resource
         - `CD/DVD chez Joe Tan`
+    - Process 2
+      - Goal: Reading section
+      - Progress: 19/18-19
 - 德语“德福”模拟试题及解析
   - Vorgang
     - Page:

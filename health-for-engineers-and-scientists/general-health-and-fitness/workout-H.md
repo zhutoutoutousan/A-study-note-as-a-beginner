@@ -404,7 +404,18 @@
 - Monday
   - 30 min Bike ride
 - Tuesday
-  - Arm day + Tricep
+  - Arm day + Chest
+  - Compound
+    - Chin-up  4-6RM 5SETS
+    - Compound Bicep curl  6-8RM 5SETS 
+  - Tricep
+    - Skull crusher 6-8RM 5SETS
+    - Tricep push down 6-8RM 3SETS
+  - Bicep
+    - Incline curl | Spider curl 6-8RM 3SETS
+  - Chest
+    - Incline dumbbell press 6-8RM 3SETS
+    - LC press 6-8RM 3SETS
 - Wednesday
   - Back day + Rear&Mid delts
 - Thursday

@@ -13,6 +13,7 @@
 - Warren Buffet
 # The way to learn economics
 
+
 ## Pick up where you marked as *study it later*
 - 8月11日晚，小米公司创始人雷军在北京小米科技园篮球馆举办了一场小米十周年主题演讲。(2020)
 

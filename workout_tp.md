@@ -127,13 +127,13 @@
 - Neuroengineering
 
 
-# Record: 2/8/2021
+# Record: 2/10/2021
 ## Physical condition
 - [x] Weightlifting
 
 ## Language skills
 - [x] DeHelper/FrHelper
-- [x] Academic + Commercial writing
+- [ ] Academic + Commercial writing
   - Skim through all `terminology` section
 - [x] DELF - 2 pgs_v
 - [x] TestDaf - Leseverstehen Bearbeitung 1

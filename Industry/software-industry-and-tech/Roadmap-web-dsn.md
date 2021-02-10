@@ -9,3 +9,7 @@
 - Full site build
   - [Entry](https://university.webflow.com/courses/full-site-build)
   - Progress: Site build --> Homepage: testimonials
+
+# Figma
+- [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
+  - 02:07/1:26:20

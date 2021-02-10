@@ -174,6 +174,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - [Github - study notes](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
   - CompTIA Security+ Exam Guide
     - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
+- Aircrack-ng book
+  - [link1](http://www2.aircrack-ng.org/hiexpo/aircrack-ng_book_v1.pdf)
 # Full-stack development
 - Front-end
   - Getting MEAN with Mongo, Express, Angular, and Node 0/?

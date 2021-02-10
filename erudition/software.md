@@ -22,7 +22,7 @@
   - [System administration](#system-administration)
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
-- [Industry application](#industry-application)
+- [Front-end development](#front-end-development)
 
 # IT architecture
 - 企业IT架构转型之道:阿里巴巴中台战略思想与架构实战
@@ -262,6 +262,9 @@ is useful.
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 - Basics of Software Engineering Experimentation
   - [link](http://www.grise.upm.es/docs/Basics_of_Software_Engineering_Experimentation.pdf)
+
+
+
 # Site-reliability Engineering
 ## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
@@ -324,10 +327,15 @@ is useful.
   - Chromium
 - Game development
 
-# Industry application
+# Front-end development
 - 微信公众平台应用开发实战
   - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
 - HTML 5 Mobile Development Cookbook
   - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
   - Progress: 25
 - HTML5移动Web+Vue.js应用开发实战
+- You don't know JS
+  - [link1](https://drive.google.com/file/d/1j4duc5npkyXlgEZigos3iuxFxKtFJf8H/view?usp=sharing)
+  - Process 1
+    - Approach: Osmosis
+    - Progress:  9/87

@@ -362,61 +362,11 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Thursday
-  - Shoulder day + 
-  - Compound
-    - Overhead press 4-6RM 5SETS
-    - Clean 3 TRIES
-  - Mid delts
-    - Side lateral raise 6-8RM 5SETS
-  - Rear delts
-    - Reverse fly 6-8RM 5SETS
-  - Explosiveness
-    - Landmine Push 6-8RM 3SETS
-    - Medicine ball throw 6-8RM 3SETS
-- Friday
-  - Chest day
-  - Compound
-    - Barbell bench press 4-6RM 5SETS
-    - Incline dumbell press 6-8RM | LC press 5SETS
-  - Upper/Lower chest
-    - HC press 6-8RM 5SETS
-    - Machine flyes 6-8RM 5SETS
-  - Tricep
-    - Skull crushers 6-8RM 3SETS
-  - Cardio
-    - 20 minutes bike ride
-- Saturday
-  - Off day
-- Sunday
-  - Leg day + Bicep
-  - Compound
-    - Squat 4-6RM 5SETS
-    - Bulgarian split squat | Pistol squat 6-8RM 3SETS
-  - Quads
-    - Leg press 6-8RM 5SETS
-  - Glutes
-    - Hip hinge 6-8RM 5SETS
-  - Explosiveness
-    - Depth jump 8/10REPS 3SETS
-    - Kneel up Vertical | Side  8/10REPS 3SETS
-  - 30 mins Bike ride
-- Monday
-  - 30 min Bike ride
-- Tuesday
-  - Arm day + Chest
-  - Compound
-    - Chin-up  4-6RM 5SETS
-    - Compound Bicep curl  6-8RM 5SETS 
-  - Tricep
-    - Skull crusher 6-8RM 5SETS
-    - Tricep push down 6-8RM 3SETS
-  - Bicep
-    - Incline curl | Spider curl 6-8RM 3SETS
-  - Chest
-    - Incline dumbbell press 6-8RM 3SETS
-    - LC press 6-8RM 3SETS
-- Wednesday
-  - Back day + Rear&Mid delts
-- Thursday
-  - 30 min Bike ride
+- Gyms closed, motherfxxker
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17

@@ -1,1 +1,0 @@
-- Complete Lingodeer training first

@@ -1,76 +1,27 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Physical condition](#physical-condition)
-- [Language skills](#language-skills)
-- [Problem solving skills](#problem-solving-skills)
-- [Coding and development](#coding-and-development)
-- [Hacking](#hacking)
-- [Erudition](#erudition)
-- [Electronics](#electronics)
-- [Career driven](#career-driven)
-- [Record: 2/10/2021-2/11/2021](#record-2102021-2112021)
-  - [Physical condition](#physical-condition-1)
-  - [Language skills](#language-skills-1)
-  - [Problem solving skills](#problem-solving-skills-1)
-  - [Coding and development](#coding-and-development-1)
-  - [Hacking](#hacking-1)
-  - [Erudition](#erudition-1)
-  - [Electronics](#electronics-1)
-  - [Career driven](#career-driven-1)
+- [2/10/2021-2/11/2021](#2102021-2112021)
+  - [Physical condition](#physical-condition)
+  - [Language skills](#language-skills)
+  - [Problem solving skills](#problem-solving-skills)
+  - [Coding and development](#coding-and-development)
+  - [Hacking(Optional)](#hackingoptional)
+  - [Erudition(Optional)](#eruditionoptional)
+  - [Electronics(Optional)](#electronicsoptional)
+  - [Career driven(Optional)](#career-drivenoptional)
 
-
-# Physical condition
-- Weightlifting
-
-# Language skills
-- DeHelper/FrHelper
-- Academic + Commercial writing
-  - Skim through all `terminology` section
-- DELF
-- TestDaf
-- App phase
-  - Japanese
-  - Korean
-  - Russian
-- Reading phase
-  - Italian
-    - 5 words/d
-  - Spanish
-- Typing phase
-  - Russian
-
-
-# Problem solving skills
-- Codewar
-- Leetcode
-
-# Coding and development
-- d3.js
-
-# Hacking
-- CTF
-
-# Erudition
-- Reading section
-
-# Electronics
-- Current project
-
-# Career driven
-- Teamplay
-- Neuroengineering
-
-# Record: 2/10/2021-2/11/2021
+# 2/10/2021-2/11/2021
 ## Physical condition
 - [ ] Weightlifting
 
 ## Language skills
 - [x] DeHelper/FrHelper
-- [ ] Academic + Commercial writing
-  - Read `How to Write` 10pgs
+- [x] Academic + Commercial writing
+  - [x] Read `How to Write` 1CH
 - [x] DELF - 2 pgs_v
   - Vocabulary for the next training
-- [ ] TestDaf - Leseverstehen Bearbeitung 1 Vocabulary
+- [x] TestDaf - Leseverstehen Bearbeitung 1 Vocabulary
+  - Move on to the next exercise  next
 - Interpretation
 - App phase
   - [x] Japanese - 2 Lvs
@@ -78,13 +29,21 @@
   - Italian
     - [ ] 5 words - Don Quijote
   - Spanish
-    - [ ] 5 words - Il Principe
+    - [X] 5 words - Il Principe
 - Typing phase
-  - Russian - 1
+  - [x] Russian - 1
 
 
 ## Problem solving skills
 - [ ] Codewar - 1
+  - [ ] [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9/train/javascript)
+    - [ ] [Multiply large numbers represented as strings](https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/)
+      - [ ] [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
+        - [Cpp types](https://en.cppreference.com/w/cpp/language/types)
+        - [Left Shift and Right Shift Operators in C/C++](https://www.geeksforgeeks.org/left-shift-right-shift-operators-c-cpp/)
+        - [More elegant solution for multiple bit shifts](https://stackoverflow.com/questions/12606743/more-elegant-solution-for-multiple-bit-shifts)
+    - [x] [Find the missing digit x from the given expression](https://www.geeksforgeeks.org/find-the-missing-digit-x-from-the-given-expression/)
+      - [x] Codeplayground --> Problem solving
 - [ ] Leetcode - 1
 
 ## Coding and development
@@ -97,6 +56,9 @@
   - d3.js
     - Osmosis
 - Projects
+- Frontend development
+  - Js
+    - [ ] Book u don't no js 15pgs
 - Backend development
   - Postgresql
     - [ ] Book 5pgs
@@ -104,17 +66,19 @@
   - Golang
     - [ ] Book 20pgs
     - Osmosis
-## Hacking
+## Hacking(Optional)
 - CTF
-  - Wifi
+  - [ ] Wifi-hacking
+  - [ ] Book: Aircrack 10pgs
 
-## Erudition
+## Erudition(Optional)
 - James Gleick - Chaos
   - [ ] 20 pgs
-## Electronics
+## Electronics(Optional)
 - Current project
   - [ ] Finish 10 soldering components
-## Career driven
+  - [ ] Get PYZQ up and running
+## Career driven(Optional)
 - Teamplay
 - Neuroengineering
   - [ ] Website studieren

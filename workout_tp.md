@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [2/10/2021-2/11/2021](#2102021-2112021)
-  - [Physical condition](#physical-condition)
+  - [Physical condition(Daily)](#physical-conditiondaily)
   - [Language skills](#language-skills)
   - [Problem solving skills](#problem-solving-skills)
   - [Coding and development](#coding-and-development)
@@ -11,11 +11,11 @@
   - [Career driven(Optional)](#career-drivenoptional)
 
 # 2/10/2021-2/11/2021
-## Physical condition
-- [ ] Weightlifting
+## Physical condition(Daily)
+- [x] Weightlifting
 
 ## Language skills
-- [x] DeHelper/FrHelper
+- [x] DeHelper/FrHelper (Daily)
 - [x] Academic + Commercial writing
   - [x] Read `How to Write` 1CH
 - [x] DELF - 2 pgs_v
@@ -42,11 +42,15 @@
         - [Cpp types](https://en.cppreference.com/w/cpp/language/types)
         - [Left Shift and Right Shift Operators in C/C++](https://www.geeksforgeeks.org/left-shift-right-shift-operators-c-cpp/)
         - [More elegant solution for multiple bit shifts](https://stackoverflow.com/questions/12606743/more-elegant-solution-for-multiple-bit-shifts)
+        - [Bitwise Operations tutorial #1 | XOR, Shift, Subsets](https://www.youtube.com/watch?v=xXKL9YBWgCY)
     - [x] [Find the missing digit x from the given expression](https://www.geeksforgeeks.org/find-the-missing-digit-x-from-the-given-expression/)
       - [x] Codeplayground --> Problem solving
 - [ ] Leetcode - 1
 
 ## Coding and development
+- Basics(Optional)
+  - Learn C the hard way
+    - 3 trainings
 - Website development
   - Website design
     - Practice `Invision studio`
@@ -55,7 +59,14 @@
 - Observable
   - d3.js
     - Osmosis
+  - three.js
 - Projects
+  - Workout calendar
+    - [API](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
+    - Vue3.0
+    - Web design
+    - Mobile design
+      - Book read --> You know what
 - Frontend development
   - Js
     - [ ] Book u don't no js 15pgs

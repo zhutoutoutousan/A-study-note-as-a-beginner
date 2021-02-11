@@ -19,6 +19,10 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)
   - [Link2](https://profesores.virtual.uniandes.edu.co/~isis1404/dokuwiki/lib/exe/fetch.php?media=bibliografia:9_business_model_generation.pdf)
+
+## Product Management
+- The product manager's handbook
+  - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
 ## Project Management
 - Project Management for Dummies
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)

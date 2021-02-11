@@ -31,7 +31,7 @@
       - Band HC press - to failure 2SETS
     - Superset
       - Incline pylo pushup - to failure 2SETS
-      - Band LC press
+      - Band LC press - to failure 2SETS
       - Twisting pushup - to failure 2SETS
   - Cardio
     - 1hr Bike ride

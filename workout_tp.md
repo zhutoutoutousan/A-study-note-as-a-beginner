@@ -69,7 +69,7 @@
       - Book read --> You know what
 - Frontend development
   - Js
-    - [ ] Book u don't no js 15pgs
+    - [x] Book u don't no js 15pgs
 - Backend development
   - Postgresql
     - [ ] Book 5pgs

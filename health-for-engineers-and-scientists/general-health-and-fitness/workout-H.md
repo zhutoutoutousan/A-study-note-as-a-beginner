@@ -45,6 +45,11 @@
     - Weighted dip 6-8RM 5SETS
     - Pancake pushup | Mod Planche | Diamond 6-8RM 3SETS
   - Front delts
+    - Mule push up | Handstand press -to-failure 3SETS
+  - Mid delts
+    - Plank fly -to-failure 3SETS
+  - Rear delts
+    - Cross -to-failure  3SETS
 - 13
   - Off
   - Cardio

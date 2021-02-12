@@ -14,10 +14,15 @@
     - [Coloro](#coloro)
   - [D](#d)
     - [Desiderare](#desiderare)
+  - [E](#e)
+    - [Escogitare](#escogitare)
+    - [Esperienza](#esperienza)
   - [I](#i)
     - [Incontro](#incontro)
   - [V](#v)
-    - [Vegghiare](#vegghiare)
+    - [Vedere](#vedere)
+    - [vegliare](#vegliare)
+    - [Volto](#volto)
 # State
 - Reading *Il principe*
 
@@ -58,11 +63,24 @@
 ### Desiderare
 - to want, wish for
 - RTFM
+## E
+### Escogitare
+- https://dictionary.cambridge.org/us/dictionary/italian-english/escogitare
+- https://www.the-conjugation.com/italian/verb/escogitare.php
+### Esperienza
+- https://dictionary.cambridge.org/us/dictionary/italian-english/esperienza
 
 ## I
 ### Incontro
 - meeting, encounter
 
 ## V
-### Vegghiare
+### Vedere
+- https://dictionary.cambridge.org/us/dictionary/italian-english/vedere
+- https://www.the-conjugation.com/italian/verb/desiderare.php
+
+### vegliare
 - watch over
+
+### Volto
+- https://dictionary.cambridge.org/us/dictionary/italian-english/volto

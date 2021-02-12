@@ -24,7 +24,7 @@
   - Move on to the next exercise  next
 - Interpretation
 - App phase(Daily)
-  - [ ] Japanese - 2 Lvs
+  - [x] Japanese - 2 Lvs
 - Reading phase
   - Italian
     - [ ] 5 words - Don Quijote
@@ -43,7 +43,10 @@
           - Fourier transform methods
 
 - [ ] Leetcode - 1
-
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+    - Cpp
+      - [C++ - vector](https://en.cppreference.com/w/cpp/container/vector)
+    - Golang
 ## Coding and development
 - Basics(Optional)
   - Learn C the hard way

@@ -14,7 +14,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link1](https://mises-media.s3.amazonaws.com/Introduction%20to%20Economics_5.pdf)
 - Principle of Economics - RICE college
   - [link1](https://cnx.org/contents/aWGdK2jw@11.347:JgDXaOLP@11/Introduction)
-
+- The economics of money, banking and financial markets - Mishkin, Frederic S.
 # Business model
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)

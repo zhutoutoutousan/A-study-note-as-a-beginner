@@ -51,15 +51,27 @@
   - Rear delts
     - Cross -to-failure  3SETS
   - Cardio
-    - 30 minutes car ride
+    - 30 minutes bike ride
 - 13
   - Off
   - Cardio
+    - 1hr bike ride
 - 14
-  - Shoulder
+  - Shoulder - Back
+  - Front delts
+    - Mule push up | Handstand press -to-failure 3SETS
+  - Mid delts
+    - Plank fly -to-failure 3SETS
+  - Rear delts
+    - Cross -to-failure  3SETS
+  - Lats
+    - Slide pull --to-failure 3SETS
+  - Mid-back
+    - Lying push --to-failure 3SETS
+  - Lower-back
+    - Superman --to-failure 3SETS
 - 15
   - Leg
 - 16
   - Off
-  - Cardio
 - 17

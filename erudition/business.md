@@ -23,6 +23,16 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 ## Product Management
 - The product manager's handbook
   - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
+- Stanford Online Product Management Courses CS183F
+  - How to Get Users and Grow - Alex Schultz - CS183F
+    - [link1](https://www.youtube.com/watch?v=URiIsrdplbo&list=PLy23U2Hszonu2CoIvREPFEJ6SswwjGYMY)
+    - Progress：9:50/49:21
+    - Style: Osmosis
+- The Art of Product Management with Sachin Rekhi (ENG’05 W’05)
+  - [link](https://www.youtube.com/watch?v=huTSPanUlQM)
+  - Progress: 9:14/1:07:05
+  - Product manager
+    - Product managers **drive** the `vision`, `strategy`, `design`, and `execution` of their product.
 ## Project Management
 - Project Management for Dummies
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)

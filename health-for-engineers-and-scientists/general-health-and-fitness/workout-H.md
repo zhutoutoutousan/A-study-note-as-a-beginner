@@ -50,6 +50,8 @@
     - Plank fly -to-failure 3SETS
   - Rear delts
     - Cross -to-failure  3SETS
+  - Cardio
+    - 30 minutes car ride
 - 13
   - Off
   - Cardio

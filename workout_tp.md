@@ -27,7 +27,7 @@
   - [x] Japanese - 2 Lvs
 - Reading phase
   - Italian
-    - [ ] 5 words - Don Quijote
+    - [x] 5 words - Don Quijote
   - Spanish
     - [X] 5 words - Il Principe
 - Typing phase

@@ -186,6 +186,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Goal: Osmosis
     - Progress: 178/178-359
 # Full-stack development
+- System design
+  - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
+
 - Front-end
   - Getting MEAN with Mongo, Express, Angular, and Node 0/?
     - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
@@ -269,6 +272,8 @@ is useful.
     - Kind of sloppy when skimming through `postgresql`, skipped for `mysql`
     - `Directory Service` and `NIS` is kind of important, but skipped at 2021/2/1 for lack of needs
     - Skimmed `Kernel` section for lack of dire needs
+
+
 # Software Engineering
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
@@ -287,6 +292,8 @@ is useful.
   - [link1](http://docshare04.docshare.tips/files/27083/270837810.pdf)
   - Very good for getting hands dirty and solve problems quick!
   - Progress:
+
+
 # Game development
 - C# all books
   - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
@@ -295,6 +302,8 @@ is useful.
   - Process 1(Follow along)
     - Goal: To quickly get familiar with VR game design
     - Progress: 157/409
+
+
 # Source code study
 - DevOps
   - How does `sh` work?

@@ -70,8 +70,11 @@
     - Lying push --to-failure 3SETS
   - Lower-back
     - Superman --to-failure 3SETS
+  - Cardio
+    - 30 min bike ride
 - 15
   - Leg
 - 16
-  - Off
+  - Cardio
+    - 1hr bike ride
 - 17

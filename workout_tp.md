@@ -40,6 +40,8 @@
     - [ ] [Multiply large numbers represented as strings](https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/)
       - [ ] [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
         - [Multiplication algorithm](https://en.wikipedia.org/wiki/Multiplication_algorithm)
+          - [Fast Multiplication: From Grade-School Multiplication To Karatsuba's Algorithm](https://www.youtube.com/watch?v=-dfsxsiGoC8)
+            - Progress: 1:34/34:09
           - Fourier transform methods
 
 - [ ] Leetcode - 1
@@ -62,12 +64,15 @@
   - three.js
     - Osmosis
 - Projects
-  - Workout calendar
-    - [API](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
-    - Vue3.0
-    - Web design
-    - Mobile design
-      - Book read --> You know what
+  - Practice projects
+    - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU)
+  - Personal projects
+    - Workout calendar
+      - [API](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
+      - Vue3.0
+      - Web design
+      - Mobile design
+        - Book read --> You know what
 - Frontend development
   - Js
     - [x] Book u don't no js 15pgs
@@ -76,6 +81,8 @@
     - [ ] Book 5pgs
       - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
         - Progress: 2:29/4:19:33
+        - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+          - Progress:
     - Osmosis
   - Golang
     - [ ] Book 20pgs

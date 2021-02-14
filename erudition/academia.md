@@ -13,3 +13,4 @@
 - 50 Writing Tools
   - [link1](https://dcripe.files.wordpress.com/2014/06/50-writing-tools.pdf)
 - Chicago Manual of Style
+- [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)

@@ -80,7 +80,7 @@
   - Postgresql
     - [ ] Book 5pgs
       - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
-        - Progress: 2:29/4:19:33
+        - Progress: 10:29/4:19:33
         - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
           - Progress:
     - Osmosis

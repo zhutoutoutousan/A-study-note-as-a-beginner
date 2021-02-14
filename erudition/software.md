@@ -188,6 +188,11 @@ Dude, is it really a good idea to learn a programming language through piles of 
 # Full-stack development
 - System design
   - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
+    - Progress: 25:47/1:40:24
+    - Points of software system
+      - Availability
+      - Reliability
+      - Managability
 
 - Front-end
   - Getting MEAN with Mongo, Express, Angular, and Node 0/?
@@ -215,6 +220,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - LOCKED: Require your ability to `root` an Android device
     - PuTTY - 74/174
       - P69: You can challenge yourself by using a larger database
+      - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+        - Progress: 2:14/18:18
     - Windows
 - Database Design - 2nd Edition
   - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)

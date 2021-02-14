@@ -5,6 +5,8 @@
     - [Algebraic geometry](#algebraic-geometry)
   - [B](#b)
     - [Birch Conjecture](#birch-conjecture)
+  - [E](#e)
+    - [Envelope](#envelope)
   - [N](#n)
     - [Normal](#normal)
   - [S](#s)
@@ -36,6 +38,13 @@
 - `NEST_OV_1`
   - [Trefoil](https://en.wikipedia.org/wiki/Trefoil_knot)
     - [Parametric equation](https://en.wikipedia.org/wiki/Parametric_equation)
+## E
+### Envelope
+- [root](https://en.wikipedia.org/wiki/Envelope_(mathematics))
+  - [Infinitesimal](https://en.wikipedia.org/wiki/Infinitesimal)
+    - [Surreal number](https://en.wikipedia.org/wiki/Surreal_number)
+    - [Hyperreal number](https://en.wikipedia.org/wiki/Hyperreal_number)
+    - [Transcendental law of homogeneity](https://en.wikipedia.org/wiki/Transcendental_law_of_homogeneity)
 
 ## N
 ### Normal

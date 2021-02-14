@@ -12,6 +12,7 @@
 - [Number theory](#number-theory)
 - [Graph theory](#graph-theory)
 - [Math puzzles and problems](#math-puzzles-and-problems)
+- [P.O.I](#poi)
 - [Minor resources](#minor-resources)
 - [Paper and personal research](#paper-and-personal-research)
 # General mathematics
@@ -114,6 +115,14 @@
   - [link1](https://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
 # Math puzzles and problems
 - [A problem book in real analysis](http://websitem.karatekin.edu.tr/user_files/farukpolat/files/probookmathanal1.pdf)
+
+
+# P.O.I
+- Gottfried Wilhelm Leibniz
+  - Leibnizens mathematische Schriften
+    - [link](https://www.wilbourhall.org/pdfs/Leibnizens_mathematische_Schriften_VOL_VII.pdf)
+    - Require at least **Latin** C1 level to unlock
+    - FUCK Leibniz
 
 # Minor resources
 

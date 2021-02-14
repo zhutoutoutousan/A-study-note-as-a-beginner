@@ -59,11 +59,11 @@
 - 14
   - Shoulder - Back
   - Front delts
-    - Mule push up | Handstand press -to-failure 3SETS
+    - Mule push up | Handstand press -to-failure 5SETS
   - Mid delts
-    - Plank fly -to-failure 3SETS
+    - Plank fly -to-failure 5SETS
   - Rear delts
-    - Cross -to-failure  3SETS
+    - Cross -to-failure  5SETS
   - Lats
     - Slide pull --to-failure 3SETS
   - Mid-back

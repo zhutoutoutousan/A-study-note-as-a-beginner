@@ -4,17 +4,24 @@
 - Jordan B. Peterson
 # Everything in-between
 - Introduction to Human Behavioral Biology
-  - [link1](https://www.youtube.com/watch?v=NNnIGh9g6fA)
-  - Progress
-    - Introduction: 22:33/57:14
-    - Behavioral Evolution
-    - ...
-  - Points
-    - Categorical thinking has its limitations
-      - People tend to lose it when the pre-assumed pattern is not expected during real-life situations
-        - Trade-off between seeing the big picture and being able to clearly identify the boundries 
-  - Behavioral psychology questions
-    - Why do chicken sometimes act sexually solicitively
+  - 1: Introduction to Human Behavioral Biology
+    - [link1](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+    - Progress
+      - [x] Completed
+    - Points
+      - Categorical thinking has its limitations
+        - People tend to lose it when the pre-assumed pattern is not expected during real-life situations
+          - Trade-off between seeing the big picture and being able to clearly identify the boundries 
+    - Behavioral psychology questions
+      - Why do chicken sometimes act sexually solicitively
+  - 2: Behavioral Evolution
+    - [link1](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE)
+    - Progress: 19:07/1:36:57
+    - Points
+      - Interesting idea: Animal acts to maximize **its** overall possibility of **its** gene heritage
+        - When sometimes happened to fit the suspicious hypothesis that animal acts for the benefit of its species
+          - P.O.I
+            - V. C. Wynne-Edwards(Zoologist xD really?): The dude that invented that naiive idea of altruistic, sacrificial assumption of animal nature, --> according to the lecturer, some of its supporting materials are misleading
 # P.O.I
 - **Jorden B. Peterson**
   - [Psychology 430H: Self-Deception](https://www.jordanbpeterson.com/classes/self-deception/)

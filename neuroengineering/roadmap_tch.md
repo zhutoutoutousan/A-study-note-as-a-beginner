@@ -1,6 +1,10 @@
 # Community(!Important)
 - [NeuroTechX](https://neurotechx.com/)
   - Serving as the current main resource for learning
+  - Intro into BCI
+    - Intro to Brain Computer Interface
+      - [link](http://learn.neurotechedu.com/introtobci/#references)
+      - Progress: `...fNIRS measures the changes in blood flow as fMRI, but...`
 # Neuroscience
 - [BrainFacts](https://www.brainfacts.org/)
   - Where you can learn
@@ -9,6 +13,8 @@
     - And more
 
 # Tech
+- [BCI System](https://github.com/lslemon/BCI-System-on-Chip)
+- [Islemon](https://github.com/lslemon)
 ## FPGA
 - [入行十年，我总结了这份FPGA学习路线：搞定这四点，你也能轻松进阶](https://www.youtube.com/watch?v=VwW-l2t9fEI)
   - HDLBits is very good for learning HDL language

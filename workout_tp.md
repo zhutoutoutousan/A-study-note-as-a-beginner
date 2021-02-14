@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [2/10/2021-2/12/2021](#2102021-2122021)
+- [2/10/2021-2/13/2021](#2102021-2132021)
   - [Physical condition(Daily)](#physical-conditiondaily)
   - [Language skills](#language-skills)
   - [Problem solving skills](#problem-solving-skills)
@@ -10,7 +10,7 @@
   - [Electronics(Optional)](#electronicsoptional)
   - [Career driven(Optional)](#career-drivenoptional)
 
-# 2/10/2021-2/12/2021
+# 2/10/2021-2/13/2021
 ## Physical condition(Daily)
 - [ ] Workout
 
@@ -74,6 +74,8 @@
 - Backend development
   - Postgresql
     - [ ] Book 5pgs
+      - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+        - Progress: 2:29/4:19:33
     - Osmosis
   - Golang
     - [ ] Book 20pgs
@@ -82,7 +84,6 @@
 - CTF
   - [ ] Wifi-hacking
   - [ ] Book: Aircrack 10pgs
-
 ## Erudition(Optional)
 - James Gleick - Chaos
   - [ ] 20 pgs
@@ -91,7 +92,7 @@
   - [ ] Finish 10 soldering components
   - [ ] Get PYZQ up and running
 ## Career driven(Optional)
-- Teamplay
+- Business
 - Neuroengineering
-  - [ ] Website studieren
+  - [x] Website studieren
 

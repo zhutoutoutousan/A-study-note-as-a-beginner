@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [AI](#ai)
 - [IT architecture](#it-architecture)
 - [Computer system](#computer-system)
 - [Computer graphics](#computer-graphics)
@@ -23,6 +24,10 @@
 - [Game development](#game-development)
 - [Source code study](#source-code-study)
 - [Front-end development](#front-end-development)
+
+# AI
+- Learn Python The Hard Way
+  - [link1](https://drive.google.com/file/d/1VZm6qXP4KBwQD0wbkjfhduAWBvXBXu0v/view?usp=sharing)
 
 # IT architecture
 - 企业IT架构转型之道:阿里巴巴中台战略思想与架构实战
@@ -86,7 +91,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - I coded in C before and got a taste first-hand
   - I want to be a better programmer
 - Learn C the HARD WAY
-  - [link1](https://users.elis.ugent.be/~jrvdnbro/learn_c_the_hard_way.pdf)
+  - [link1](https://github.com/XWHQSJ/ebooks/blob/master/Cpp/C/Learn%20C%20the%20Hard%20Way.pdf)
+  - [link2](https://drive.google.com/file/d/1JlZRbvdh32LHEWbmw5kVBINPgJkAGb0j/view?usp=sharing)
   - Goals
     - Learn about *rigorous defensive programming*
   - Interesting points:
@@ -340,6 +346,9 @@ is useful.
   - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
   - Progress: 25
 - HTML5移动Web+Vue.js应用开发实战
+  - Process 1
+    - Goal: Have a general grasp of knowledge in Chinese
+    - Style: Hit and run, till feeling very comfortable
 - You don't know JS
   - [link1](https://drive.google.com/file/d/1j4duc5npkyXlgEZigos3iuxFxKtFJf8H/view?usp=sharing)
   - Process 1

@@ -32,6 +32,14 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Höreverstehen
     - Schriftliche ausgabe
 
+## Business psychology
+- Psychology section
+- The Gene - An intimate history - Siddhartha Mukherjee
+
+## Public relations
+- The new rules of marketing & PR
+  - 
+
 # Economics basics
 - Introduction to Economics - John V. Van Sickle
   - [link1](https://mises-media.s3.amazonaws.com/Introduction%20to%20Economics_5.pdf)

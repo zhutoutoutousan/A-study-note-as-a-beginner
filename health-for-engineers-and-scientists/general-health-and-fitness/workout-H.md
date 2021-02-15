@@ -77,8 +77,8 @@
   - Pistol squat --to-failure 5SETS
   - Bridge march --to-failure 5SETS
   - Bodyweight swing --to-failure 5SETS
-  - Adductor raise --to-failure 5SETS
-  - Abductor slide --to-failure 5SETS
+  - Adductor raise --to-failure 3SETS
+  - Abductor slide --to-failure 3SETS
   - Reverse lunge --to-failure 3SETS
   - Jump squats --to-failure 2SETS
   - Never-ending squat --to-failure 1SET

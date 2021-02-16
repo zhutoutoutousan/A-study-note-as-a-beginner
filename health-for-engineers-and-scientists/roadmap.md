@@ -16,6 +16,10 @@
 - [Physiopedia](https://www.physio-pedia.com/)
 - [CHEST journal](https://journal.chestnet.org/)
 
+# Talent level assessment
+- [ASSETS AND MODES OF IDENTIFICATION AND DEVELOPMENT OF TALENTED STUDENT-ATHLETES IN SELECTED SPORT DISCIPLINES IN KENYAN UNIVERSITIES](https://ir-library.ku.ac.ke/bitstream/handle/123456789/11954/Assets%20and%20modes%20of%20identification%20and%20development%20of%20talented%20student%20athletes%20in%20selected%20sport%20disciplines%20in%20Kenyan%20Universities.pdf?sequence=2&isAllowed=y)
+- [Giftedness and Talent in Sport](https://link.springer.com/chapter/10.1007%2F978-1-4020-6162-2_37)
+- 运动选材学
 # Training
 ## Integration with engineering/science-dominated lifestyle
 ## Training programming

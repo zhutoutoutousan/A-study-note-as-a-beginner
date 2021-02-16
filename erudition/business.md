@@ -9,36 +9,48 @@ MEDIUM SIZE CONSTRUCTION
 ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
-# Inter-cultural relationship
+## Consistent effective information flow
+- YouTube Channels
+- Media influencer
+
+# International business
+
+## International business management
+- International business management
+  - [link](http://jnujprdistance.com/assets/lms/LMS%20JNU/MBA/MBA%20-%20Marketing%20Management/Sem%20IV/International%20Business%20Management/International%20Business%20Management.pdf)
 
 ## Basic language skills
-- DELF
-  - 法语B1 DELF高分突破
-    - Process 1
-      - Goal: First get a sense of what the book is about
-        - Read the French-Chinese instruction
-        - Keep an eye out for `online resources`
-      - Progress: 12/187
-      - Resource
-        - `CD/DVD chez Joe Tan`
-    - Process 2
-      - Goal: Reading section
-      - Progress: 19/18-19
-- 德语“德福”模拟试题及解析
-  - Vorgang
-    - Page:
-    - Wörterspan
-    - Leseverstehen
-    - Höreverstehen
-    - Schriftliche ausgabe
-
+- English
+- Spanish
+- French
+  - DELF
+    - 法语B1 DELF高分突破
+      - Process 1
+        - Goal: First get a sense of what the book is about
+          - Read the French-Chinese instruction
+          - Keep an eye out for `online resources`
+        - Progress: 12/187
+        - Resource
+          - `CD/DVD chez Joe Tan`
+      - Process 2
+        - Goal: Reading section
+        - Progress: 19/18-19
+- German
+  - 德语“德福”模拟试题及解析
+    - Vorgang
+      - Page:
+      - Wörterspan
+      - Leseverstehen
+      - Höreverstehen
+      - Schriftliche ausgabe
+- Arabic
 ## Business psychology
 - Psychology section
 - The Gene - An intimate history - Siddhartha Mukherjee
 
 ## Public relations
 - The new rules of marketing & PR
-  - 
+
 
 # Economics basics
 - Introduction to Economics - John V. Van Sickle
@@ -90,6 +102,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
+
 
 # Business investment
 - 价值 - 张磊

@@ -225,7 +225,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Windows
 - Database Design - 2nd Edition
   - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
-  - Progress: 44/136
+  - Progress: 63/136
   - Recommended review all of those concepts every time you read it again before embarking where you left last time
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)

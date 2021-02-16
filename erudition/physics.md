@@ -26,8 +26,8 @@
   - Process 1(Wactch for fun)
     - Progress: 5:24/9hrs
     - 5:24 Think point: How does a wave passing two portals form three distributions?
-
-
+- Quantum Computation and Quantum Information
+  - [link](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 # Interest-oriented reading
 ## Quantum entanglement
 - [Quantum entanglement - R.Horodecki](https://arxiv.org/pdf/quant-ph/0702225.pdf)

@@ -54,6 +54,10 @@
   - Learn C the hard way
     - 3 trainings
 - Website development
+  - Front-end coding basics
+    - Web Dev Simplified series
+      - Drag and drop
+        - [How To Build Sortable Drag & Drop With Vanilla Javascript](https://www.youtube.com/watch?v=jfYWwQrtzzY)
   - Website design
     - Practice `Invision studio`
     - `web-dsn` courses

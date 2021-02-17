@@ -21,4 +21,4 @@
 
 # Figma
 - [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
-  - 20:20/1:26:20
+  - 32:30/1:26:20

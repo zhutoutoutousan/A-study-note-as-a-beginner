@@ -58,6 +58,8 @@
     - Web Dev Simplified series
       - Drag and drop
         - [How To Build Sortable Drag & Drop With Vanilla Javascript](https://www.youtube.com/watch?v=jfYWwQrtzzY)
+      - Extension
+        - [How To Create And Deploy A VSCode Extension](https://www.youtube.com/watch?v=q5V4T3o3CXE)
   - Website design
     - Practice `Invision studio`
     - `web-dsn` courses

@@ -66,6 +66,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 ## Product Management
 - The product manager's handbook
   - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
+  - Progress: 8/302
 - Stanford Online Product Management Courses CS183F
   - How to Get Users and Grow - Alex Schultz - CS183F
     - [link1](https://www.youtube.com/watch?v=URiIsrdplbo&list=PLy23U2Hszonu2CoIvREPFEJ6SswwjGYMY)
@@ -81,12 +82,11 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
     - Process(For occupational survival)
       - Progress: 29/389
-- TOGAF
-  - Check your `baidunetdisk`
 
 # Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
+  - Progress: 8/322
 
 # Business mindset
 - Strategy

@@ -73,7 +73,8 @@
   - Practice projects
     - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU)
   - Personal projects
-    - Workout calendar
+    - [ ] Workout calendar
+    - [ ] Product management
       - [API](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
       - Vue3.0
       - Web design
@@ -84,9 +85,7 @@
     - [x] Book u don't no js 15pgs
 - Backend development
   - Postgresql
-    - [ ] Book 5pgs
-      - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
-        - Progress: 10:29/4:19:33
+    - [x] Book 5pgs
         - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
           - Progress:
     - Osmosis

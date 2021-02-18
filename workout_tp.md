@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [2/10/2021-2/13/2021](#2102021-2132021)
+- [2/10/2021-2/16/2021](#2102021-2162021)
   - [Physical condition(Daily)](#physical-conditiondaily)
   - [Language skills](#language-skills)
   - [Problem solving skills](#problem-solving-skills)
@@ -10,7 +10,7 @@
   - [Electronics(Optional)](#electronicsoptional)
   - [Career driven(Optional)](#career-drivenoptional)
 
-# 2/10/2021-2/13/2021
+# 2/10/2021-2/16/2021
 ## Physical condition(Daily)
 - [ ] Workout
 
@@ -51,12 +51,19 @@
   - Learn C the hard way
     - 3 trainings
 - Website development
+  - Front-end coding basics
+    - Web Dev Simplified series
+      - Drag and drop
+        - [How To Build Sortable Drag & Drop With Vanilla Javascript](https://www.youtube.com/watch?v=jfYWwQrtzzY)
+      - Extension
+        - [How To Create And Deploy A VSCode Extension](https://www.youtube.com/watch?v=q5V4T3o3CXE)
   - Website design
     - Practice `Invision studio`
     - `web-dsn` courses
   - Website development
 - Observable
   - d3.js
+    - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
     - Osmosis
   - three.js
     - Osmosis
@@ -64,7 +71,8 @@
   - Practice projects
     - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU)
   - Personal projects
-    - Workout calendar
+    - [ ] Workout calendar
+    - [ ] Product management
       - [API](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
       - Vue3.0
       - Web design
@@ -75,22 +83,22 @@
     - [x] Book u don't no js 15pgs
 - Backend development
   - Postgresql
-    - [ ] Book 5pgs
-      - [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
-        - Progress: 10:29/4:19:33
+    - [x] Book 5pgs
         - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
           - Progress:
     - Osmosis
   - Golang
     - [ ] Book 20pgs
     - Osmosis
+  - Golang+Postgresql
+    - [Go database/sql tutorial](http://go-database-sql.org/)
 ## Hacking(Optional)
 - CTF
   - [ ] Wifi-hacking
   - [ ] Book: Aircrack 10pgs
 ## Erudition(Optional)
 - James Gleick - Chaos
-  - [ ] 20 pgs
+  - [ ] 5/20 pgs
 ## Electronics(Optional)
 - Current project
   - [ ] Finish 10 soldering components

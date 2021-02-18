@@ -15,6 +15,8 @@
 - Don Quijote de la Mancha
   - [link1](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
   - [x] Require Spanish Level **B1**
+- La Sombra del Viento
+  - [link](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
 # Language
 ## Latin
 - Oxford Latin Course

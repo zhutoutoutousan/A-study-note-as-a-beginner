@@ -66,6 +66,7 @@
   - Website development
 - Observable
   - d3.js
+    - [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
     - Osmosis
   - three.js
     - Osmosis
@@ -98,7 +99,7 @@
   - [ ] Book: Aircrack 10pgs
 ## Erudition(Optional)
 - James Gleick - Chaos
-  - [ ] 20 pgs
+  - [ ] 5/20 pgs
 ## Electronics(Optional)
 - Current project
   - [ ] Finish 10 soldering components

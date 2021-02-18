@@ -29,4 +29,5 @@
 - Principles of Neural Science
   - [link1](http://www.gbv.de/dms/hebis-darmstadt/toc/89892356.pdf)
   - [link2](http://www.nepsy.szote.u-szeged.hu/seminar/downloads-3/files/Kandel.pdf)
-
+# Hardware
+- [PYNQ] (https://pynq.readthedocs.io/_/downloads/en/v2.5/pdf/)

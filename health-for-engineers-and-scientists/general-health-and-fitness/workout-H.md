@@ -17,75 +17,14 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Gyms closed, motherfxxker
-- 11
-  - Chest(Home)
-    - Superset
-      - Archer pushup  - to failure 3SETS
-      - Band adduction - to failure 3SETS
-    - Superset
-      - Band HC press - to failure 2SETS
-      - Banded pushup - to failure  2SETS
-    - Superset
-      - Decline wall pushup - to failure 2SETS
-      - Band HC press - to failure 2SETS
-    - Superset
-      - Incline pylo pushup - to failure 2SETS
-      - Band LC press - to failure 2SETS
-      - Twisting pushup - to failure 2SETS
-  - Cardio
-    - 1hr Bike ride
-- 12
-  - Arm(Home)
-  - Bicep
-    - Weighted chinup 6-8RM 5SETS
-    - Bicep chinnup -toFailure 2SETS
-    - Negative bicep hang 1TRY
-  - Tricep
-    - Weighted dip 6-8RM 5SETS
-    - Pancake pushup | Mod Planche | Diamond 6-8RM 3SETS
-  - Front delts
-    - Mule push up | Handstand press -to-failure 3SETS
-  - Mid delts
-    - Plank fly -to-failure 3SETS
-  - Rear delts
-    - Cross -to-failure  3SETS
-  - Cardio
-    - 30 minutes bike ride
-- 13
-  - Off
-  - Cardio
-    - 1hr bike ride
-- 14
-  - Shoulder - Back
-  - Front delts
-    - Mule push up | Handstand press -to-failure 5SETS
-  - Mid delts
-    - Plank fly -to-failure 5SETS
-  - Rear delts
-    - Cross -to-failure  5SETS
-  - Lats
-    - Slide pull --to-failure 3SETS
-  - Mid-back
-    - Lying push --to-failure 3SETS
-  - Lower-back
-    - Superman --to-failure 3SETS
-  - Cardio
-    - 30 min bike ride
-- 15
-  - Leg
-  - Pistol squat --to-failure 5SETS
-  - Bridge march --to-failure 5SETS
-  - Bodyweight swing --to-failure 5SETS
-  - Adductor raise --to-failure 3SETS
-  - Abductor slide --to-failure 3SETS
-  - Reverse lunge --to-failure 3SETS
-  - Jump squats --to-failure 2SETS
-  - Never-ending squat --to-failure 1SET
-  - Hamstring RDL --to-failure 1SET
-  - Reverse creeping lunge 1SET
-  - Sprinter pylo lunge 2SETS
-- 16
-  - Cardio
-    - 1hr bike ride
-- 17
+- Thursday
+  - Leg day
+  - Barbell squat 4-6RM 5SETS
+  - 
+- Friday
+- Saturday
+- Sunday
+- Monday
+- Tuesday
+- Wednesday
+- Thursday

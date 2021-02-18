@@ -93,6 +93,8 @@
   - Golang
     - [ ] Book 20pgs
     - Osmosis
+  - Golang+Postgresql
+    - [Go database/sql tutorial](http://go-database-sql.org/)
 ## Hacking(Optional)
 - CTF
   - [ ] Wifi-hacking

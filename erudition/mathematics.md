@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [General mathematics](#general-mathematics)
+- [Guidance](#guidance)
+- [Engineering Mathematics](#engineering-mathematics)
 - [Geometry & Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
   - [General](#general)
@@ -15,13 +16,18 @@
 - [P.O.I](#poi)
 - [Minor resources](#minor-resources)
 - [Paper and personal research](#paper-and-personal-research)
-# General mathematics
+
+# Guidance
+- [How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU&t=23s)
+# Engineering Mathematics
 
 - Calculus - G. Strang
   - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
   - Can be helpful to APS
   - Process 1(Study for APS): 35/671
   - This book introduces calculus with some interesting examples
+
+
 
 - Advanced engineering mathematics - Erwin kreyszig  
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
@@ -51,6 +57,7 @@
 
 # Mathematical analysis
 ## General
+- [The Real Analysis Lifesaver](http://assets.press.princeton.edu/chapters/s10825.pdf)
 - [Introduction to Mathematical analysis](https://maths-people.anu.edu.au/~john/Assets/Lecture%20Notes/B21H_97.pdf)
 - [Analysis I - Terence Tao](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
 - [Analysis II Terence Tao](https://github.com/WMX567/Math-learning/blob/master/Analysis%20II%20Terence%20Tao.pdf)

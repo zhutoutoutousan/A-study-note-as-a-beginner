@@ -18,9 +18,20 @@
 ### State storage
 ## Control panel
 - Thursday
-  - Leg day
-  - Barbell squat 4-6RM 5SETS
-  - 
+  - Arm day + Shoulder
+  - Bicep
+    - Weighted chin up | Compound curl 6-8RM 5SETS
+    - Incline curl | Spider curl 6-8RM 3SETS
+  - Tricep
+    - Skull crusher 6-8RM 5SETS
+    - Reverse push down 6-8RM 3SETS
+  - Front-delts
+    - Overhead press 6-8RM 3SETS
+  - Side delts
+    - Side lateral raise 6-8RM 3SETS
+  - Rear delts
+    - Reverse fly 6-8RM 3SETS
+  - 10 minutes Ride
 - Friday
 - Saturday
 - Sunday

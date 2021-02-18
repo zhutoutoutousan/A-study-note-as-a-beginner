@@ -40,10 +40,7 @@
     - [ ] [Multiply large numbers represented as strings](https://www.geeksforgeeks.org/multiply-large-numbers-represented-as-strings/)
       - [ ] [Multiply two strings](https://practice.geeksforgeeks.org/problems/multiply-two-strings/1)
         - [Multiplication algorithm](https://en.wikipedia.org/wiki/Multiplication_algorithm)
-          - [Fast Multiplication: From Grade-School Multiplication To Karatsuba's Algorithm](https://www.youtube.com/watch?v=-dfsxsiGoC8)
-            - Progress: 1:34/34:09
-          - Fourier transform methods
-
+        
 - [ ] Leetcode - 1
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
     - Cpp

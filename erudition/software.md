@@ -187,12 +187,16 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Progress: 178/178-359
 # Full-stack development
 - System design
+  - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
+    - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
   - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
-    - Progress: 25:47/1:40:24
+    - Progress: 33:56/1:40:24
     - Points of software system
       - Availability
       - Reliability
       - Managability
+    - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
+      - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
 
 - Front-end
   - Getting MEAN with Mongo, Express, Angular, and Node 0/?

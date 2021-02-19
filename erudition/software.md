@@ -209,6 +209,14 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
     - Progress: 33/493
+  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
+    - Progress: 19:50/6:39:57
+  - Go for JavaScript Developers
+    - [link](https://frontendmasters.com/courses/go-for-js-devs/)
+  - Golang projects
+    - Go Todolist
+      - [Go Todo list](https://github.com/shiniao/gtodo)
+    - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
 - Database
   - Application
     - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)

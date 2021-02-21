@@ -100,7 +100,9 @@
 - CTF
   - [ ] Wifi-hacking
   - [ ] Book: Aircrack 10pgs
-- Making music using
+- Computer Music Production
+  - [Computer Music Production for Beginners Part 1: The Essentials](https://rolandcorp.com.au/blog/computer-music-production-for-beginners-part-1)
+  - Choosing DAW
 ## Erudition(Optional)
 - James Gleick - Chaos
   - [ ] 5/20 pgs

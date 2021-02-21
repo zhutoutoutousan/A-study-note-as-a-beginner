@@ -44,7 +44,13 @@
   - Chest day
   - Compound
     - Flat bench press 4-6RM 5SETS
-    - 
+    - Incline dumbell press 6-8RM 5SETS
+    - Machine press 6-8RM 5SETS
+  - Inner pec
+    - Machine fly 6-8RM 3SETS
+    - LC press 6-8RM 5SETS
+  - Cardio
+    - 30 minutes cycling
 - Monday
 - Tuesday
 - Wednesday

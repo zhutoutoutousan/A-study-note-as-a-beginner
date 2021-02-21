@@ -33,23 +33,18 @@
     - Reverse fly 6-8RM 3SETS
   - 10 minutes Ride
 - Friday
-<<<<<<< HEAD
-  - Off day
-=======
   - Off day due to extreme mental fatigue
->>>>>>> db998af576806330c2b4eaff417595b663e6c1ee
 - Saturday
   - Leg day
   - Compound
     - Squat 4-6RM 5SETS
-<<<<<<< HEAD
-    - Bulgarian split squat 4-6RM 5SETS
-=======
     - Bulgarian split squat 6-8RM 5SETS
     - Leg press 4-6RM 5SETS
-  - Glutes
->>>>>>> db998af576806330c2b4eaff417595b663e6c1ee
 - Sunday
+  - Chest day
+  - Compound
+    - Flat bench press 4-6RM 5SETS
+    - 
 - Monday
 - Tuesday
 - Wednesday

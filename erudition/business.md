@@ -9,48 +9,39 @@ MEDIUM SIZE CONSTRUCTION
 ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
-## Consistent effective information flow
-- YouTube Channels
-- Media influencer
-
-# International business
-
-## International business management
-- International business management
-  - [link](http://jnujprdistance.com/assets/lms/LMS%20JNU/MBA/MBA%20-%20Marketing%20Management/Sem%20IV/International%20Business%20Management/International%20Business%20Management.pdf)
+# Inter-cultural relationship
 
 ## Basic language skills
-- English
-- Spanish
-- French
-  - DELF
-    - 法语B1 DELF高分突破
-      - Process 1
-        - Goal: First get a sense of what the book is about
-          - Read the French-Chinese instruction
-          - Keep an eye out for `online resources`
-        - Progress: 12/187
-        - Resource
-          - `CD/DVD chez Joe Tan`
-      - Process 2
-        - Goal: Reading section
-        - Progress: 19/18-19
-- German
-  - 德语“德福”模拟试题及解析
-    - Vorgang
-      - Page:
-      - Wörterspan
-      - Leseverstehen
-      - Höreverstehen
-      - Schriftliche ausgabe
-- Arabic
+- DELF
+  - 法语B1 DELF高分突破
+    - Process 1
+      - Goal: First get a sense of what the book is about
+        - Read the French-Chinese instruction
+        - Keep an eye out for `online resources`
+      - Progress: 12/187
+      - Resource
+        - `CD/DVD chez Joe Tan`
+    - Process 2
+      - Goal: Reading section
+      - Progress: 19/18-19
+- 德语“德福”模拟试题及解析
+  - Vorgang
+    - Page:
+    - Wörterspan
+    - Leseverstehen
+    - Höreverstehen
+    - Schriftliche ausgabe
+
+
+
 ## Business psychology
 - Psychology section
 - The Gene - An intimate history - Siddhartha Mukherjee
-
+- Group dynamics
+  - 
 ## Public relations
 - The new rules of marketing & PR
-
+  - 
 
 # Economics basics
 - Introduction to Economics - John V. Van Sickle
@@ -66,7 +57,6 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 ## Product Management
 - The product manager's handbook
   - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
-  - Progress: 8/302
 - Stanford Online Product Management Courses CS183F
   - How to Get Users and Grow - Alex Schultz - CS183F
     - [link1](https://www.youtube.com/watch?v=URiIsrdplbo&list=PLy23U2Hszonu2CoIvREPFEJ6SswwjGYMY)
@@ -82,11 +72,12 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
     - Process(For occupational survival)
       - Progress: 29/389
+- TOGAF
+  - Check your `baidunetdisk`
 
 # Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
-  - Progress: 8/322
 
 # Business mindset
 - Strategy
@@ -102,7 +93,6 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
-
 
 # Business investment
 - 价值 - 张磊

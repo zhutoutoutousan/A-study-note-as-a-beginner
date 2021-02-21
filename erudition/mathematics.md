@@ -60,6 +60,9 @@
 - [The Real Analysis Lifesaver](http://assets.press.princeton.edu/chapters/s10825.pdf)
 - [Introduction to Mathematical analysis](https://maths-people.anu.edu.au/~john/Assets/Lecture%20Notes/B21H_97.pdf)
 - [Analysis I - Terence Tao](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
+  - Process 1:
+    - Goal: Just for fun
+    - Progress: 11/366
 - [Analysis II Terence Tao](https://github.com/WMX567/Math-learning/blob/master/Analysis%20II%20Terence%20Tao.pdf)
 # Linear algebra
 - Linear Algebra Done Right

@@ -1,8 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [2/10/2021-2/16/2021](#2102021-2162021)
+- [2/10/2021-2/20/2021](#2102021-2202021)
   - [Physical condition(Daily)](#physical-conditiondaily)
   - [Language skills](#language-skills)
+  - [Strategic development and visions](#strategic-development-and-visions)
   - [Problem solving skills](#problem-solving-skills)
   - [Coding and development](#coding-and-development)
   - [Hacking(Optional)](#hackingoptional)
@@ -10,9 +11,9 @@
   - [Electronics(Optional)](#electronicsoptional)
   - [Career driven(Optional)](#career-drivenoptional)
 
-# 2/10/2021-2/16/2021
+# 2/10/2021-2/20/2021
 ## Physical condition(Daily)
-- [ ] Workout
+- [x] Workout
 
 ## Language skills
 - [x] DeHelper/FrHelper (Daily)
@@ -32,6 +33,9 @@
     - [X] 5 words - Il Principe
 - Typing phase
   - [x] Russian - 1
+
+## Strategic development and visions
+- System design
 
 
 ## Problem solving skills
@@ -96,6 +100,9 @@
 - CTF
   - [ ] Wifi-hacking
   - [ ] Book: Aircrack 10pgs
+- Computer Music Production
+  - [Computer Music Production for Beginners Part 1: The Essentials](https://rolandcorp.com.au/blog/computer-music-production-for-beginners-part-1)
+  - Choosing DAW
 ## Erudition(Optional)
 - James Gleick - Chaos
   - [ ] 5/20 pgs

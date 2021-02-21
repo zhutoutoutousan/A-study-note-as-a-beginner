@@ -1,6 +1,9 @@
+# Forum
+- [Hackaday](https://hackaday.com/)
+- [DEFCON](https://www.defcon.org/)
 # Resource
 - Computerphile
-- [douxiang tech - github](https://github.com/TophantTechnology)
+  - [douxiang tech - github](https://github.com/TophantTechnology)
 
 
 # Get some knowledge :)

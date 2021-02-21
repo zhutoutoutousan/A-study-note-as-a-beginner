@@ -54,9 +54,24 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)
   - [Link2](https://profesores.virtual.uniandes.edu.co/~isis1404/dokuwiki/lib/exe/fetch.php?media=bibliografia:9_business_model_generation.pdf)
 
+## Product development
+- [NPD process](https://www.openadr.org/assets/sce%20product%20development%20process%20-%20public.pdf)
 ## Product Management
 - The product manager's handbook
   - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
+  - Progress: 15/302
+  - Learning techniques you need to develop
+    - Real-world cases showing product management in action
+    - hands on worksheets for the planning process
+    - checklists at the end of each chapter for evaluating progress at every critical stage
+  - Buffer zone for new concepts
+    - BHAGs
+  - Interesting points
+    - Whatever marketing strategies can't work without solid organizational structure hand-in-hand
+      - `product management structure`
+        - product managers oversee a set of defined products or services that face different competitors and different customer constraints than many or all of the other products and services in the company
+        - Some companies could even 
+    
 - Stanford Online Product Management Courses CS183F
   - How to Get Users and Grow - Alex Schultz - CS183F
     - [link1](https://www.youtube.com/watch?v=URiIsrdplbo&list=PLy23U2Hszonu2CoIvREPFEJ6SswwjGYMY)
@@ -97,4 +112,4 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 # Business investment
 - 价值 - 张磊
   - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
-    - Progress: 74
+    - Progress: 83/388

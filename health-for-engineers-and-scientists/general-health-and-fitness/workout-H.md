@@ -49,8 +49,8 @@
   - Inner pec
     - Machine fly 6-8RM 3SETS
     - LC press 6-8RM 5SETS
-
 - Monday
+  - 1hr bike ride
 - Tuesday
 - Wednesday
 - Thursday

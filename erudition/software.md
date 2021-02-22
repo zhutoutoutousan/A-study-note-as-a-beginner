@@ -237,7 +237,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Windows
 - Database Design - 2nd Edition
   - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
-  - Progress: 63/136
+  - Progress: 82/136
   - Recommended review all of those concepts every time you read it again before embarking where you left last time
   - Key points
     - Basic concepts and terminologies
@@ -245,6 +245,10 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - P.O.I
     - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
       - The pioneer of relational database
+  - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
+    - Require more `osmosis`
+  - Same for `Normalization` 
+  - P90-\$ skipped for overlap with `Postgresql`
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 - Computer networking: A Top-Down Approach 29/856

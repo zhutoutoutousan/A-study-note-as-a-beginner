@@ -1,4 +1,0 @@
-# Canvas
-# SVG
-
-# Resources

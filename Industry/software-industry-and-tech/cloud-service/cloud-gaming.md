@@ -1,3 +1,0 @@
-# Known Companies
-- Stadia
-- Vectordash???

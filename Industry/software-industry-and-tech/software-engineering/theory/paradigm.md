@@ -1,1 +1,0 @@
-- [The Experimental Paradigm in Software Engineering](https://www.cs.umd.edu/~basili/publications/chapters/C17.pdf)

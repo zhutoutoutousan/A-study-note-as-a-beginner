@@ -230,8 +230,10 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Mobile Termux
       - Progress: 38
       - LOCKED: Require your ability to `root` an Android device
-    - PuTTY - 74/174
+    - PuTTY - 174/174
       - P69: You can challenge yourself by using a larger database
+      - P76-174 Problem solving skills
+        - You can learn any time, for your condition in 2021/2/23, it's good enough.
       - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
         - Progress: 2:14/18:18
     - Windows
@@ -245,10 +247,16 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - P.O.I
     - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
       - The pioneer of relational database
-  - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
-    - Require more `osmosis`
-  - Same for `Normalization` 
-  - P90-\$ skipped for overlap with `Postgresql`
+  - Reading style
+    - Print the `ER diagram` if you want to review those practice 
+  - Reading stamps
+    - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
+      - Require more `osmosis`
+    - Same for `Normalization` 
+    - P90-\$ skipped for overlap with `Postgresql`
+  - More skills
+    - Performance tunning
+      - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 - Computer networking: A Top-Down Approach 29/856

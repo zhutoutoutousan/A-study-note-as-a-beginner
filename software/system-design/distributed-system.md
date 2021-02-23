@@ -1,0 +1,1 @@
+- [如果面试官再问你消息队列，就把这篇甩给他！](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247486851&idx=1&sn=6fbb9a1b03165772b7892d153c42963d&chksm=fcf4d24ecb835b58822ea77ae8561e9b85b5c66c03a34a35c47bd72489ed89ce19f455c4a5ec&scene=21#wechat_redirect)

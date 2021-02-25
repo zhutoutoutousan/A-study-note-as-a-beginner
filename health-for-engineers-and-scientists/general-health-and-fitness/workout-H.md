@@ -66,4 +66,9 @@
   - Rear delts
     - Reverse fly 6-8RM 3SETS
 - Wednesday
+  - Off day * 2
 - Thursday
+  - Back day
+  - Compound
+    - Sumo deadlift 4-6RM 5SETS
+    - 

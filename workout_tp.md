@@ -23,16 +23,20 @@
 ## Strategic development and visions
 
 ## Problem solving skills
-- Leetcode
+- Job shift
+  - Leetcode
 ## Coding and development
-- JavaScript
-- Vue.js
-- React.js
-- Fullstack
-- Mobile dev
-- d3.js 
-- three.js
-- Unity WebGL
+- Job shift
+  - Change your resume
+  - Prepare your projects
+    - JavaScript
+    - Vue.js
+    - React.js
+    - Fullstack
+    - Mobile dev
+    - d3.js 
+    - three.js
+    - Unity WebGL
 ## Hacking&Music(Optional)
 
 ## Erudition(Optional)

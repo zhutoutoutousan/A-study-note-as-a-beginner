@@ -28,15 +28,26 @@
 ## Coding and development
 - Job shift
   - Change your resume
+    - Structure
+    - Projects
   - Prepare your projects
+    - Site
+      - Blog
     - JavaScript
+      - JavaScript Chess-AI
     - Vue.js
+      - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
     - React.js
+      - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
     - Fullstack
+      - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU&t=14s)
     - Mobile dev
+      - [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://www.youtube.com/watch?v=_CBYbEGvxYY)
     - d3.js 
+      - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://www.youtube.com/watch?v=2LhoCfjm8R4&t=1s)
     - three.js
-    - Unity WebGL
+      - Use Vue and React to refactor this
+        - [Reference](https://threejsfundamentals.org/threejs/lessons/threejs-scenegraph.html#toc)
 ## Hacking&Music(Optional)
 
 ## Erudition(Optional)

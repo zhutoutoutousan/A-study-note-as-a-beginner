@@ -17,7 +17,7 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Thursday
+- Saturday
   - Arm day + Shoulder
   - Bicep
     - Weighted chin up | Compound curl 6-8RM 5SETS

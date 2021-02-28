@@ -23,6 +23,8 @@
           - P.O.I
             - V. C. Wynne-Edwards(Zoologist xD really?): The dude that invented that naiive idea of altruistic, sacrificial assumption of animal nature, --> according to the lecturer, some of its supporting materials are misleading
 # P.O.I
+- Robert Plomin
+  - For: Genetics influence on intelligence
 - **Jorden B. Peterson**
   - [Psychology 430H: Self-Deception](https://www.jordanbpeterson.com/classes/self-deception/)
 - **Carl Jung**

@@ -17,58 +17,19 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Saturday
-  - Arm day + Shoulder
-  - Bicep
-    - Weighted chin up | Compound curl 6-8RM 5SETS
-    - Incline curl | Spider curl 6-8RM 3SETS
-  - Tricep
-    - Skull crusher 6-8RM 5SETS
-    - Reverse push down 6-8RM 3SETS
-  - Front-delts
-    - Overhead press 6-8RM 3SETS
-  - Side delts
-    - Side lateral raise 6-8RM 3SETS
-  - Rear delts
-    - Reverse fly 6-8RM 3SETS
-  - 10 minutes Ride
-- Friday
-  - Off day due to extreme mental fatigue
-- Saturday
-  - Leg day
-  - Compound
-    - Squat 4-6RM 5SETS
-    - Bulgarian split squat 6-8RM 5SETS
-    - Leg press 4-6RM 5SETS
 - Sunday
-  - Chest day
-  - Compound
-    - Flat bench press 4-6RM 5SETS
-    - Incline dumbell press 6-8RM 5SETS
-    - Machine press 6-8RM 5SETS
-  - Inner pec
-    - Machine fly 6-8RM 3SETS
-    - LC press 6-8RM 5SETS
-- Monday
-  - 1hr bike ride
-- Tuesday
-  - Arm day
-  - Bicep
-    - Weighted chin up | Compound curl 6-8RM 5SETS
-    - Incline curl | Spider curl 6-8RM 3SETS
-  - Tricep
-    - Skull crusher 6-8RM 5SETS
-    - Reverse push down 6-8RM 3SETS
-  - Front-delts
-    - Overhead press 6-8RM 3SETS
-  - Side delts
-    - Side lateral raise 6-8RM 3SETS
-  - Rear delts
-    - Reverse fly 6-8RM 3SETS
-- Wednesday
-  - Off day * 2
-- Thursday
-  - Back day
-  - Compound
-    - Sumo deadlift 4-6RM 5SETS
+  - Shoulder
+    - Compound
+      - Overhead press 4-6RM 5SETS
+    - Mid delts
+      - Side lateral raise 6-8RM 5SETS
+    - Rear delts
+      - Reverse fly 6-8RM 5SETS
     - 
+  - 30 min bike ride(To Sauna)
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday

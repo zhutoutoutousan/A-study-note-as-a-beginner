@@ -39,6 +39,8 @@
       - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
     - React.js
       - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+      - Authentication in Golang with JWTs
+        - [link](https://auth0.com/blog/authentication-in-golang/)
     - Fullstack
       - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU&t=14s)
     - Mobile dev

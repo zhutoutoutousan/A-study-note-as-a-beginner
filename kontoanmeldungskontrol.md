@@ -1,55 +1,50 @@
-- gg  ROT-16 - (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
-- ms ROT-20 -gg
-
-- 163-os  -->N: Ots\[Unterstreichen\]\[tous les jour in numéro\] 
-  - Dieses Konto brauchen bestätigt werden durch alles Platforms.
-- 126-mx: rot-13
-- 126-am
-- gm- am
-- gm- inkdeeps --- Gründige 126 sequenz
-
-- gh - ROT-13 (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
-
-- Prevent Aliyun Account stealing
-  - [Always use this portal](https://www.aliyun.com/)
-  - Sicherheitshinweise
-    - Beschützungsfrage
-      - Beschreibung(CH):(CH): null
 
 
-- ADPS
-  - Ansprüchesvoll
-    - Kein Name oder email Anschritt
-  - (Spitzname)-Cheng\[Kleinbuchstaben\]S\[System > großgeschrieben\]567$\[ROT-13\(PS-[Kleinbuchstaben]\)\]
+- Persönlich
+  - gg  ROT-16 - (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
+  - ms ROT-20 -gg
+  - 163-os  -->N: Ots\[Unterstreichen\]\[tous les jour in numéro\] 
+    - Dieses Konto brauchen bestätigt werden durch alles Platforms.
+  - 126-mx: rot-13
 
-- u3d: 
-
-
-- IDs: inkdeeps@inkdeeps.com
-  - Email: !#@$#%132435IDs
-
-- IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`
-
-TightNVC-->Ot5@1 --> NULL
-
-Servers von Huang
-- 101.227.111.51  winsv_2012
-  - administrator/Admin@163.com --> WeltweitAmSicheresten$pswort@163.com --> R13
-- 10.1.1.14
-  - root/inkDeep2021
-  - http://175.102.179.134/ ???
-  - 175.102.18.48 --> CentOS
-
-Unsere Server
-192.168.1.120
-
-wf Cyber-park
-
-range(1,6)
+- Entwicklung
+  - gh - ROT-13 (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\]
 
 
 
+- Bildung
+  - ADPS
+    - Ansprüchesvoll
+      - Kein Name oder email Anschritt
+    - (Spitzname)-Cheng\[Kleinbuchstaben\]S\[System > großgeschrieben\]567$\[ROT-13\(PS-[Kleinbuchstaben]\)\]
 
-- aws
-  - EC2 Instance
-    - (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] - R17
+
+
+- Unternehmen
+  - IDs
+    - wf Cyber-park
+      - range(1,6)
+    - Unsere Server
+      - 192.168.1.120
+    - Servers von Huang
+      - 101.227.111.51  winsv_2012
+        - administrator/Admin@163.com --> WeltweitAmSicheresten$pswort@163.com --> R13
+      - 10.1.1.14
+        - root/inkDeep2021
+        - http://175.102.179.134/ ???
+        - 175.102.18.48 --> CentOS
+      - TightNVC-->Ot5@1 --> NULL
+    - IDs: inkdeeps@inkdeeps.com
+      - Email: !#@$#%132435IDs
+    - IDs-os: o.s@Ids.com --> (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] --> ROT-16 --> crop to `length = 16`
+    - gm- inkdeeps --- Gründige 126 sequenz
+
+- Wirtschaft
+  - Raum
+    - namelos.xyz
+      - Anmeldungskonto: GoDaddy -> amz@g
+      - Betrieblicheemail: tian.shao@namelos
+  - Wesen
+    - aws
+      - EC2 Instance
+        - (Spitzname)-O\[Kleinbuchstaben\]S\[System > großgeschrieben\]567@gm\[Kleinbuchstaben\] - R17

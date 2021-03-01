@@ -1,13 +1,11 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Periodized plans](#periodized-plans)
-  - [asdasd](#asdasd)
   - [How to make plans](#how-to-make-plans)
     - [State storage](#state-storage)
   - [Control panel](#control-panel)
 
 # Periodized plans
-## asdasd
 ## How to make plans
 - Basics
   - Health state
@@ -17,19 +15,69 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Sunday
-  - Shoulder
+- Tuesday
+  - Shoulder + Olympic weightlift
     - Compound
       - Overhead press 4-6RM 5SETS
     - Mid delts
       - Side lateral raise 6-8RM 5SETS
     - Rear delts
       - Reverse fly 6-8RM 5SETS
-    - 
-  - 30 min bike ride(To Sauna)
-- Monday
-- Tuesday
+      - Band reverse fly 6-8RM 3SETS
+    - Snatch
+      - Full 5TRIES 3SETS
+      - Squat 3TRIES 3SETS
+      - High pull 5REPS/8REPS 3SETS
+    - Jerk and clean
+      - Full 5TRIES 3SETS
+      - Squat 3TRIES 3SETS
+      - Power press 5REPS/8REPS 3SETS
 - Wednesday
+  - Leg day
+  - Compound
+    - Barbell squat 4-6RM 5SETS
+    - Bulgarian split squat 6-8RM 5SETS
+    - Leg press 5RM 5SETS
+  - Glutes and Stability
+    - Box step up 6-8RM 3SETS
+  - Explosiveness
+    - Roll-up jump 10REPS 2SETS
+    - Dumbell jump 10REPS 2SETS
 - Thursday
+  - Off day
 - Friday
+  - Arm day
+    - Bicep
+      - Weighted chin-up 4-6RM 5SETS
+      - Compound dumbell curl 4-6RM 5SETS
+    - Tricep
+      - Skull crusher 4-6RM 5SETS
+      - Tricep pushaway 6-8RM 5SETS
+    - Shoulder
+      - Overhead press 6-8RM 3SETS
+      - Side lateral raise 6-8RM 3SETS
+      - Reverse fly 6-8RM 3SETS
+  - 30 min bike ride
 - Saturday
+  - Off day
+- Sunday
+  - Back day
+  - Compound
+    - Sumo deadlift 4-6RM 5SETS
+    - Pull-up 4-6RM 5SETS
+  - Lats
+    - Chest-supported row 6-8RM 5SETS
+    - Front-lever | Lat pull down 6-8RM 5SETS
+  - Mid-back
+    - Y-T-W raise MAX 5SETS
+- Monday
+  - Chest day
+  - Compound
+    - Bench press 4-6RM 5SETS
+    - Supported press 6-8RM 3SETS
+  - Upper chest
+    - Incline dumbell press 6-8RM 5SETS
+  - Lower chest
+    - LC press 6-8RM 5SETS
+  - Explosiveness
+    - Plank version 10REPS 3SETS

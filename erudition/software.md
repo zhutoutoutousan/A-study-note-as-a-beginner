@@ -83,6 +83,7 @@
       - Lay a solid mathematic background for game developing
     - Progress: Just started
 - [WebGL - Up and Running](http://www.dominictran.com/pdf/WebGL.Up.and.Running.Aug.2012.Oreilly.pdf)
+  - Progress: 21/231
 - [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
 # Programming language proficiency
 Dude, is it really a good idea to learn a programming language through piles of books? 
@@ -208,7 +209,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Programming in Go: Creating Application for the 21st Century
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
-    - Progress: 33/493
+    - Progress: 39/493
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57
   - Go for JavaScript Developers

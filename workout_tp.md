@@ -37,6 +37,7 @@
       - JavaScript Chess-AI
     - Vue.js
       - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+      - Vue+Mobile Weibo Application
     - React.js
       - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
       - Authentication in Golang with JWTs
@@ -47,6 +48,7 @@
       - [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://www.youtube.com/watch?v=_CBYbEGvxYY)
     - d3.js 
       - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://www.youtube.com/watch?v=2LhoCfjm8R4&t=1s)
+        - Progress: 15:49
     - three.js
       - Use Vue and React to refactor this
         - [Reference](https://threejsfundamentals.org/threejs/lessons/threejs-scenegraph.html#toc)

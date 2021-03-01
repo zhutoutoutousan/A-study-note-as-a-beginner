@@ -2,3 +2,15 @@
 - REUTERS GRAPHICS
   - [link](https://graphics.reuters.com/)
 - TheUpshot
+- The Pudding
+- FiveThirtyEight
+- Culture
+- FLOWINGDATA
+- DATA IS BEAUTIFUL
+- KANTAR Information is Beautiful
+- QUARTZ - data visualization
+- The Economist - Graphic Detail
+- Reddit: Data is Beautiful
+- #dataviz twitter
+- Blockbuilder search
+- Observable

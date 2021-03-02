@@ -21,7 +21,7 @@
   - [x] Japanese - 2 Lvs
 
 ## Strategic development and visions
-
+- Revise your `mubu`
 ## Problem solving skills
 - Job shift
   - Leetcode
@@ -36,14 +36,18 @@
         - [sandbox](https://github.com/taniarascia/sandbox)
     - JavaScript
       - JavaScript Chess-AI
+        - React
+        - OAuth
     - Vue.js
-      - [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+      - [基于 ant-design-vue，typescript，vue3.0，vite 实现的 vue3 风格的后台管理系统](https://github.com/anncwb/vue-vben-admin)
+      - [基于 vue3.0.0 ，vant3.0.0，vue-router4.0.0-0,vuex^4.0.0-0,vue-cli3，mockjs，仿京东淘宝的，移动端 H5电商平台](https://github.com/GitHubGanKai/vue3-jd-h5)
       - Vue+Mobile Weibo Application
     - React.js
-      - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+      - [Code 15 React Projects - Co mplete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
       - Authentication in Golang with JWTs
         - [link](https://auth0.com/blog/authentication-in-golang/)
     - Fullstack
+      - [基于 Vue3.0 Composition Api 快速构建实战项目](https://github.com/Wscats/vue-cli)
       - [PERN Stack Course - Build a Yelp clone (Postgres, Express, React, Node.js)](https://www.youtube.com/watch?v=J01rYl9T3BU&t=14s)
     - Mobile dev
       - [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://www.youtube.com/watch?v=_CBYbEGvxYY)

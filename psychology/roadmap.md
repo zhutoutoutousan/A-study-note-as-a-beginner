@@ -1,7 +1,11 @@
 # Micro-psychology
 
 # Macro-psychology
-- Jordan B. Peterson
+- P.O.I
+  - Jordan B. Peterson
+- S.O.I
+  - Engineering psychology
+  - Cognitive engineering
 # Everything in-between
 - Introduction to Human Behavioral Biology
   - 1: Introduction to Human Behavioral Biology

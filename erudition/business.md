@@ -87,8 +87,9 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
     - Process(For occupational survival)
       - Progress: 29/389
-- TOGAF
-  - Check your `baidunetdisk`
+- PMBOK
+  - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
+  - Progress: 3/574
 
 # Enterprise architecture
 - TOGAF

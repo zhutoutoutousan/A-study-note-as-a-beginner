@@ -104,7 +104,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - Война и мир
   - Unbroken - Laura Hillenbrand
   - Boyd - Robert Coram
-
+  - Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think
+    - [link](http://ak.sbmu.ac.ir/uploads/Fact_Fullness_Hans_Rosling.pdf)
 # Strategic planning
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)

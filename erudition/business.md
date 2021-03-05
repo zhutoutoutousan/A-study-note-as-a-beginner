@@ -96,6 +96,10 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
 
 # Business mindset
+- Cognition
+  - 法家
+    - 《韩非子》
+      - [link](https://downloads.freemdict.com/100G_Super_Big_Collection/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%9B%BD%E5%AD%A6/%E9%9F%A9%E9%9D%9E%E5%AD%90%E5%A4%B9%E6%B3%A8%20%20%E7%99%B8%E5%B7%B3%E4%B8%89%E6%9C%88.pdf)
 - Strategy
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs

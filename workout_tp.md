@@ -43,7 +43,7 @@
       - [基于 vue3.0.0 ，vant3.0.0，vue-router4.0.0-0,vuex^4.0.0-0,vue-cli3，mockjs，仿京东淘宝的，移动端 H5电商平台](https://github.com/GitHubGanKai/vue3-jd-h5)
       - Vue+Mobile Weibo Application
     - React.js
-      - [Code 15 React Projects - Co mplete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+      - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
       - Authentication in Golang with JWTs
         - [link](https://auth0.com/blog/authentication-in-golang/)
     - Fullstack

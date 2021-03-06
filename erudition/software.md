@@ -190,6 +190,12 @@ Dude, is it really a good idea to learn a programming language through piles of 
 - System design
   - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
     - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
+    - Process 1
+      - Style: Osmosis
+      - PROGRESS: 36/834
+      - Training
+        - P27
+          - Sample system for application to General Exercises
   - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
     - Progress: 33:56/1:40:24
     - Points of software system

@@ -81,3 +81,4 @@
     - LC press 6-8RM 5SETS
   - Explosiveness
     - Plank version 10REPS 3SETS
+

@@ -128,6 +128,7 @@
 ## Server
 ## API
 - [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
+  - Progress: 50:24/2:19:32
 ## Middleware
 ## Handler
 ## OS

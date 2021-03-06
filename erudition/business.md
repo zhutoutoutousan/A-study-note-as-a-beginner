@@ -87,14 +87,19 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
     - Process(For occupational survival)
       - Progress: 29/389
-- TOGAF
-  - Check your `baidunetdisk`
+- PMBOK
+  - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
+  - Progress: 3/574
 
 # Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
 
 # Business mindset
+- Cognition
+  - 法家
+    - 《韩非子》
+      - [link](https://downloads.freemdict.com/100G_Super_Big_Collection/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%9B%BD%E5%AD%A6/%E9%9F%A9%E9%9D%9E%E5%AD%90%E5%A4%B9%E6%B3%A8%20%20%E7%99%B8%E5%B7%B3%E4%B8%89%E6%9C%88.pdf)
 - Strategy
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs
@@ -103,7 +108,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - Война и мир
   - Unbroken - Laura Hillenbrand
   - Boyd - Robert Coram
-
+  - Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think
+    - [link](http://ak.sbmu.ac.ir/uploads/Fact_Fullness_Hans_Rosling.pdf)
 # Strategic planning
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)

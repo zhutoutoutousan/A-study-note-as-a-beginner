@@ -42,8 +42,11 @@
       - [基于 ant-design-vue，typescript，vue3.0，vite 实现的 vue3 风格的后台管理系统](https://github.com/anncwb/vue-vben-admin)
       - [基于 vue3.0.0 ，vant3.0.0，vue-router4.0.0-0,vuex^4.0.0-0,vue-cli3，mockjs，仿京东淘宝的，移动端 H5电商平台](https://github.com/GitHubGanKai/vue3-jd-h5)
       - Vue+Mobile Weibo Application
+      - vue-calendar
+        - [v-calendar](https://github.com/vuetifyjs/vuetify/tree/master/packages/docs/src/examples/v-calendar)
     - React.js
       - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+        - Progress: 14:50/9:07:47
       - Authentication in Golang with JWTs
         - [link](https://auth0.com/blog/authentication-in-golang/)
     - Fullstack

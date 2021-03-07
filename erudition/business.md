@@ -53,7 +53,12 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)
   - [Link2](https://profesores.virtual.uniandes.edu.co/~isis1404/dokuwiki/lib/exe/fetch.php?media=bibliografia:9_business_model_generation.pdf)
-
+- How to write a business plan?
+  - [link](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/BUSINESS%20PLAN%20How%20To%20Write%20A%20Business%20Plan,%207th%20Edition.pdf)
+  - Process 1
+    - Goal: Get an idea
+    - Style: Osmosis
+    - Progress: 20/275
 ## Product development
 - [NPD process](https://www.openadr.org/assets/sce%20product%20development%20process%20-%20public.pdf)
 ## Product Management
@@ -100,6 +105,9 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - 法家
     - 《韩非子》
       - [link](https://downloads.freemdict.com/100G_Super_Big_Collection/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E5%B7%A5%E5%85%B7%E4%B9%A6/%E5%9B%BD%E5%AD%A6/%E9%9F%A9%E9%9D%9E%E5%AD%90%E5%A4%B9%E6%B3%A8%20%20%E7%99%B8%E5%B7%B3%E4%B8%89%E6%9C%88.pdf)
+  - 李宗吾
+    - 《厚黑学》
+      - [link](http://bobzhang.dscloud.me/Calibre_Library_zi5/Li%20Zong%20Wu/Hou%20Hei%20Xue%20%28210%29/Hou%20Hei%20Xue%20-%20Li%20Zong%20Wu.pdf)
 - Strategy
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs

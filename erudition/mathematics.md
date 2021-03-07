@@ -63,6 +63,9 @@
   - Process 1:
     - Goal: Just for fun
     - Progress: 11/366
+  - Process 2
+    - Goal: Get familiar with Mathematical logics
+    - Progress: 323/320-366
 - [Analysis II Terence Tao](https://github.com/WMX567/Math-learning/blob/master/Analysis%20II%20Terence%20Tao.pdf)
 # Linear algebra
 - Linear Algebra Done Right

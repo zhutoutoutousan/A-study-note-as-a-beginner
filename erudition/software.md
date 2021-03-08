@@ -199,11 +199,19 @@ Dude, is it really a good idea to learn a programming language through piles of 
         - P27
           - Sample system for application to General Exercises
   - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
-    - Progress: 33:56/1:40:24
+    - Progress: 56:46/1:40:24
     - Points of software system
       - Availability
       - Reliability
       - Managability
+    - Distributed system
+    - Performance metrics for system design
+    - Back of the envelope math
+    - Horizontal and vertical scaling
+    - Load balancers
+    - Caching
+    - Database design and scaling
+    - Interview question
     - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
       - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
 
@@ -217,7 +225,7 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Programming in Go: Creating Application for the 21st Century
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
-    - Progress: 39/493
+    - Progress: 57/493
     - Skipped for `Practice 1.5` for it is too confusing
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57

@@ -61,16 +61,6 @@
 - Saturday
   - Off day
 - Sunday
-  - Back day
-  - Compound
-    - Sumo deadlift 4-6RM 5SETS
-    - Pull-up 4-6RM 5SETS
-  - Lats
-    - Chest-supported row 6-8RM 5SETS
-    - Front-lever | Lat pull down 6-8RM 5SETS
-  - Mid-back
-    - Y-T-W raise MAX 5SETS
-- Monday
   - Chest day
   - Compound
     - Bench press 4-6RM 5SETS
@@ -82,3 +72,13 @@
   - Explosiveness
     - Plank version 10REPS 3SETS
 
+- Monday
+  - Back day
+  - Compound
+    - Sumo deadlift 4-6RM 5SETS
+    - Pull-up 4-6RM 5SETS
+  - Lats
+    - Chest-supported row 6-8RM 5SETS
+    - Front-lever | Lat pull down 6-8RM 5SETS
+  - Mid-back
+    - Y-T-W raise MAX 5SETS

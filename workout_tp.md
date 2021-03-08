@@ -40,6 +40,7 @@
             - Progress: 39:38
       - React Native workout app
         - [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://www.youtube.com/watch?v=_CBYbEGvxYY)
+        - [Code](https://github.com/benawad/react-native-web-series)
       - React 15 projects
         - [link](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=923s)
         - [code](https://github.com/john-smilga/react-projects)
@@ -50,7 +51,8 @@
         - Blog
           - [sandbox](https://github.com/taniarascia/sandbox)
       - React+WebGL
-
+      - IoT for Legrand
+        - [mongo-express](https://github.com/mongo-express/mongo-express/releases/tag/0.29.10)
 
 ## Hacking&Music(Optional)
 

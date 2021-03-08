@@ -34,6 +34,7 @@
     - Current active projects in your Resume
       - Vue+Gin
         - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin/tree/master/web)
+        - Progress: Axios api
       - Bundle
         - d3 bundle
           - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://www.youtube.com/watch?v=2LhoCfjm8R4&t=1s)

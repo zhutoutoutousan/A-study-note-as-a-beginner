@@ -38,8 +38,11 @@
         - d3 bundle
           - [Data Visualization with D3, JavaScript, React - Full Course [2021]](https://www.youtube.com/watch?v=2LhoCfjm8R4&t=1s)
             - Progress: 39:38
-      - React workout app
+      - React Native workout app
         - [React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web](https://www.youtube.com/watch?v=_CBYbEGvxYY)
+      - React 15 projects
+        - [link](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=923s)
+        - [code](https://github.com/john-smilga/react-projects)
       - JavaScript Chess-AI
         - React
         - OAuth

@@ -45,6 +45,11 @@
       - React 15 projects
         - [link](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=923s)
         - [code](https://github.com/john-smilga/react-projects)
+        - API list
+          - [api list](https://www.cmswire.com/information-management/15-api-management-platforms-that-make-the-short-list/)
+        - Birthday reminder
+          - plus d3.js map 
+            - API: https://rapidapi.com/astronomyapi-astronomyapi-default/api/astronomy
       - JavaScript Chess-AI
         - React
         - OAuth

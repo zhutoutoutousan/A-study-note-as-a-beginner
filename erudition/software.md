@@ -13,7 +13,7 @@
 - [Programming language principle & paradigm](#programming-language-principle--paradigm)
 - [Web testing and automation](#web-testing-and-automation)
 - [Computer security](#computer-security)
-- [Full-stack development](#full-stack-development)
+- [Software development](#software-development)
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
@@ -188,7 +188,9 @@ Dude, is it really a good idea to learn a programming language through piles of 
   - Process 1 
     - Goal: Osmosis
     - Progress: 178/178-359
-# Full-stack development
+# Software development
+- Software project management - Bob Hughes
+  - [link](https://www.kornev-online.net/ITIL/Mcgraw.Hill.Software_Project_Management_2nd_Edition.pdf)
 - System design
   - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
     - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)

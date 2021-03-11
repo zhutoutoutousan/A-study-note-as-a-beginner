@@ -28,8 +28,11 @@
 ## Coding and development
 - Job shift
   - Change your resume
-    - Structure
     - Projects
+      - 
+    - Better your English Resume structure
+      - https://zety.com/blog/front-end-developer-resume-example
+    - Find multiple ways for your pdf resume to work
   - Prepare your projects
     - Current active projects in your Resume
       - Vue+Gin

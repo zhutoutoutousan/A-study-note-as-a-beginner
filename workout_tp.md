@@ -34,7 +34,7 @@
       - https://zety.com/blog/front-end-developer-resume-example
     - Find multiple ways for your pdf resume to work
   - Prepare your projects
-    - Current active projects in your Resume
+    - Current active projects in your Resume  
       - Vue+Gin
         - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin/tree/master/web)
         - Progress: Axios api

@@ -61,7 +61,8 @@
       - React+WebGL
       - IoT for Legrand
         - [mongo-express](https://github.com/mongo-express/mongo-express/releases/tag/0.29.10)
-
+  - Understand GraphQL
+    - https://github.com/graphql-go/graphql
 ## Hacking&Music(Optional)
 
 ## Erudition(Optional)

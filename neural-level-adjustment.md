@@ -2,7 +2,7 @@
 - This section is designed for you to stored the neural pattern, capacity that you want to to strengthen using customized training that you designed for yourself to increase your performance the next time you perform that intellectual task.
 - You should describe as in detail as possible what new neural pattern you have formed to make a certain intellectual task more efficient for active retrieval.
 - You should link those trainings to specific academic or engineering performance, and monitor the before-after results to see whether the game you designed works or not
-a
+
 
 # Random observation
 - If you read stuffs, and you create a picture attached to it, you will consume more energy but obtain more agility.

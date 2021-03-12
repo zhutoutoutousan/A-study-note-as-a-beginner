@@ -29,7 +29,6 @@
 - Job shift
   - Change your resume
     - Projects
-      - 
     - Better your English Resume structure
       - https://zety.com/blog/front-end-developer-resume-example
     - Find multiple ways for your pdf resume to work

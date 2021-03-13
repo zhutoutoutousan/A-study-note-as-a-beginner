@@ -3,27 +3,26 @@
 - [AI](#ai)
 - [IT architecture](#it-architecture)
 - [Computer system](#computer-system)
+- [Computer networking](#computer-networking)
+- [Compiler working principle and design](#compiler-working-principle-and-design)
+- [Operating system working principle](#operating-system-working-principle)
+- [Data structure and algorithms](#data-structure-and-algorithms)
 - [Computer graphics](#computer-graphics)
-- [Programming language proficiency](#programming-language-proficiency)
+- [Computer security](#computer-security)
+- [System design](#system-design)
+- [Software project management](#software-project-management)
+- [Front-end development](#front-end-development)
+- [Back-end development](#back-end-development)
+- [DevOps](#devops)
+  - [General](#general)
+  - [System administration](#system-administration)
+- [Game development](#game-development)
+- [Testing and automation](#testing-and-automation)
+- [Programming language](#programming-language)
   - [C](#c)
   - [C++](#c-1)
   - [JavaScript](#javascript)
   - [Java](#java)
-- [Data structure and algorithms](#data-structure-and-algorithms)
-- [Programming language principle & paradigm](#programming-language-principle--paradigm)
-- [Web testing and automation](#web-testing-and-automation)
-- [Computer security](#computer-security)
-- [Software development](#software-development)
-- [Computer networking](#computer-networking)
-- [Compiler working principle and design](#compiler-working-principle-and-design)
-- [Operating system working principle](#operating-system-working-principle)
-- [Software Engineering](#software-engineering)
-- [Site-reliability Engineering](#site-reliability-engineering)
-  - [General](#general)
-  - [System administration](#system-administration)
-- [Game development](#game-development)
-- [Source code study](#source-code-study)
-- [Front-end development](#front-end-development)
 
 # AI
 - Learn Python The Hard Way
@@ -73,210 +72,8 @@
   - Why bother reading this book
     - Like duh
   - [Configuring C/C++ debugging - Vscode](https://code.visualstudio.com/docs/cpp/launch-json-reference)
-   
 
-# Computer graphics
-- Mathematics for 3D Game Programming and Computer Graphics 
-  - [link](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
-  - AFTER READING
-    - You would probably more ready for developing a professional-quality 3D graphics engine
-  - Progress 1
-    - Goal
-      - Lay a solid mathematic background for game developing
-    - Progress: Just started
-- [WebGL - Up and Running](http://www.dominictran.com/pdf/WebGL.Up.and.Running.Aug.2012.Oreilly.pdf)
-  - Progress: 21/231
-- [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
-# Programming language proficiency
-Dude, is it really a good idea to learn a programming language through piles of books? 
-## C
-- Motivation
-  - I coded in C before and got a taste first-hand
-  - I want to be a better programmer
-- Learn C the HARD WAY
-  - [link1](https://github.com/XWHQSJ/ebooks/blob/master/Cpp/C/Learn%20C%20the%20Hard%20Way.pdf)
-  - [link2](https://drive.google.com/file/d/1JlZRbvdh32LHEWbmw5kVBINPgJkAGb0j/view?usp=sharing)
-  - Goals
-    - Learn about *rigorous defensive programming*
-  - Interesting points:
-    - *C is broken, It is full of design choices that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
-      - unrestricted, wild use of pointers 
-      - severely broken NUL terminated strings
-  - Process 1:(Learn when you have some spare time and interest)
-    - Progress: 19/660
-- C book
-  - [link1](https://publications.gbdirect.co.uk/c_book/)
-## C++
-- Motivation:
-  - Chromium V8 is written in C++, how come you don't have any familiarity with it?
-  - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
-- C++ Primer
-  - [link1 - legit](http://index-of.es/C++/Addison.Wesley.C++%20Primer.By.Stanley%20B.%20Lippman.pdf)
-    - Process 1:
-      - Goal: C++ is sexy, I want to fuck her
-      - Progress: 25/1069
-        - research `iostream`
-        - Setup envinronment for vscode
-          - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
-        - Video tutorial aids
-          - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
-            - Progress: 10:21/10:28:14
-            - Tools: Visual Studio
-    - Process 2:
-      - Goal: Learn to work with U3D or UE4 developer as a Front-end developer
-      - Progress: 25/1069
-  - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
-  - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
-## JavaScript
-- Motivations
-  - Currently no need for motivations 
-  - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
-## Java
-- Motivations:
-  - Practice data structrure on Hackerrank videos
-- Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
-  - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
-    - Pretty slow to load
-  - Process 1:
-    - Goals
-      - Getting to know the basic syntax
-      - Follow along the programming environment setting
-    - SKIMMED: 43-54
-      - The features of Java, recommended start reading after having worked with Java for some time
-    - Follow along 64- 
-      - This phase should be pleasant and fast
 
-# Data structure and algorithms
-- Introduction to Algorithms 3rd Edition: 0-55/1313
-  - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
-  - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
-  - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-  - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
-  - Process 1
-    - Goal: Have a genearl 
-    - Process 1.1: 1164-
-      - Goal: Have a quick recap of mathematical background
-      - Progress: 1170 Tackling math questions
-        - 1170: A.1-2: To resume, search `series.md`
-  - Process 2
-    - Goal: Quick Grasp of B-tree
-    - Progress: 481-
-- LeetCode Cookbook Analysis in Go
-  - [link1](https://books.halfrost.com/leetcode/)
-# Programming language principle & paradigm
-- Functional programming in JavaScript 24/274
-
-# Web testing and automation
-- [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
-  - Progress
-# Computer security
-- FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
-  -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
-  -  Require use of ```mathematica```
-  - Process 1(Mathematical background):
-    - Progress 1: 343/343-471
-  - Process 2(Reading for pleasure) 14/503
-    - Require at least finishing one book of elementary number theory to proceed or study the appendix
-- CompTIA Network+ Certification Study Guide
-  - [Link1](http://index-of.es/Varios-2/Comptia%20Network+.pdf)
-- CompTIA Security+
-  - [Github - study notes](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
-  - CompTIA Security+ Exam Guide
-    - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
-- Aircrack-ng book
-  - [link1](http://www2.aircrack-ng.org/hiexpo/aircrack-ng_book_v1.pdf)
-  - Process 1 
-    - Goal: Osmosis
-    - Progress: 178/178-359
-# Software development
-- Software project management - Bob Hughes
-  - [link](https://www.kornev-online.net/ITIL/Mcgraw.Hill.Software_Project_Management_2nd_Edition.pdf)
-- System design
-  - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
-    - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
-    - Process 1
-      - Style: Osmosis
-      - PROGRESS: 36/834
-      - Training
-        - P27
-          - Sample system for application to General Exercises
-  - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
-    - Progress: 56:46/1:40:24
-    - Points of software system
-      - Availability
-      - Reliability
-      - Managability
-    - Distributed system
-    - Performance metrics for system design
-    - Back of the envelope math
-    - Horizontal and vertical scaling
-    - Load balancers
-    - Caching
-    - Database design and scaling
-    - Interview question
-    - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
-      - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
-
-- Front-end
-  - Getting MEAN with Mongo, Express, Angular, and Node 0/?
-    - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
-
-- Middleware
-  - Golang bundle
-    - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
-  - Programming in Go: Creating Application for the 21st Century
-    - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
-    - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
-    - Progress: 57/493
-    - Skipped for `Practice 1.5` for it is too confusing
-  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
-    - Progress: 19:50/6:39:57
-  - Go for JavaScript Developers
-    - [link](https://frontendmasters.com/courses/go-for-js-devs/)
-  - Golang projects
-    - Go Todolist
-      - [Go Todo list](https://github.com/shiniao/gtodo)
-    - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
-- Database
-  - Application
-    - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
-- Principles of Programming Languages
-  - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
-- [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
-  - Progress: 15/113
-- Postgres: The First Experience
-  - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
-  - Progress
-    - Mobile Termux
-      - Progress: 38
-      - LOCKED: Require your ability to `root` an Android device
-    - PuTTY - 174/174
-      - P69: You can challenge yourself by using a larger database
-      - P76-174 Problem solving skills
-        - You can learn any time, for your condition in 2021/2/23, it's good enough.
-      - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
-        - Progress: 2:14/18:18
-    - Windows
-- Database Design - 2nd Edition
-  - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
-  - Progress: 82/136
-  - Recommended review all of those concepts every time you read it again before embarking where you left last time
-  - Key points
-    - Basic concepts and terminologies
-    - P54: ER graph is very important, make sure you make no misunderstandings
-  - P.O.I
-    - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
-      - The pioneer of relational database
-  - Reading style
-    - Print the `ER diagram` if you want to review those practice 
-  - Reading stamps
-    - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
-      - Require more `osmosis`
-    - Same for `Normalization` 
-    - P90-\$ skipped for overlap with `Postgresql`
-  - More skills
-    - Performance tunning
-      - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
 # Computer networking
 - [10 Best Computer Networking Books for Beginners & Experts](https://www.networkstraining.com/best-computer-networks-textbooks/)
 - Computer networking: A Top-Down Approach 29/856
@@ -331,81 +128,97 @@ is useful.
     - Skimmed `Kernel` section for lack of dire needs
 
 
-# Software Engineering
+
+# Data structure and algorithms
+- Introduction to Algorithms 3rd Edition: 0-55/1313
+  - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+  - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
+  - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
+  - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
+  - Process 1
+    - Goal: Have a genearl 
+    - Process 1.1: 1164-
+      - Goal: Have a quick recap of mathematical background
+      - Progress: 1170 Tackling math questions
+        - 1170: A.1-2: To resume, search `series.md`
+  - Process 2
+    - Goal: Quick Grasp of B-tree
+    - Progress: 481-
+- LeetCode Cookbook Analysis in Go
+  - [link1](https://books.halfrost.com/leetcode/)
+
+
+# Computer graphics
+- Mathematics for 3D Game Programming and Computer Graphics 
+  - [link](http://canvas.projekti.info/ebooks/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics,%20Third%20Edition.pdf)
+  - AFTER READING
+    - You would probably more ready for developing a professional-quality 3D graphics engine
+  - Progress 1
+    - Goal
+      - Lay a solid mathematic background for game developing
+    - Progress: Just started
+- [WebGL - Up and Running](http://www.dominictran.com/pdf/WebGL.Up.and.Running.Aug.2012.Oreilly.pdf)
+  - Progress: 21/231
+- [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
+  - Progress
+# Computer security
+- FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
+  -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
+  -  Require use of ```mathematica```
+  - Process 1(Mathematical background):
+    - Progress 1: 343/343-471
+  - Process 2(Reading for pleasure) 14/503
+    - Require at least finishing one book of elementary number theory to proceed or study the appendix
+- CompTIA Network+ Certification Study Guide
+  - [Link1](http://index-of.es/Varios-2/Comptia%20Network+.pdf)
+- CompTIA Security+
+  - [Github - study notes](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
+  - CompTIA Security+ Exam Guide
+    - [link1](https://keyhannet.com/wp-content/uploads/2018/11/Wm.-Arthur-Conklin_-Gregory-White-CompTIA-Security-All-in-One-Exam-Guide-Exam-SY0-501-2017-McGraw-Hill.pdf)
+- Aircrack-ng book
+  - [link1](http://www2.aircrack-ng.org/hiexpo/aircrack-ng_book_v1.pdf)
+  - Process 1 
+    - Goal: Osmosis
+    - Progress: 178/178-359
+
+# System design
+- System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
+  - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
+  - Process 1
+    - Style: Osmosis
+    - PROGRESS: 36/834
+    - Training
+      - P27
+        - Sample system for application to General Exercises
+- [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
+  - Progress: 56:46/1:40:24
+  - Points of software system
+    - Availability
+    - Reliability
+    - Managability
+  - Distributed system
+  - Performance metrics for system design
+  - Back of the envelope math
+  - Horizontal and vertical scaling
+  - Load balancers
+  - Caching
+  - Database design and scaling
+  - Interview question
+  - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
+    - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
+
+
+
+# Software project management
+- Software project management - Bob Hughes
+  - [link](https://www.kornev-online.net/ITIL/Mcgraw.Hill.Software_Project_Management_2nd_Edition.pdf)
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
-- Basics of Software Engineering Experimentation
-  - [link](http://www.grise.upm.es/docs/Basics_of_Software_Engineering_Experimentation.pdf)
 
-
-
-# Site-reliability Engineering
-## General
-- [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
-## System administration
-- [Windows server administration fundamentals](https://docentinrete.files.wordpress.com/2012/05/manuale-2008-98-365-windowsserver.pdf)
-  - This is too basic, read it only if you really have a ton of time :)
-- [Configuring Advanced Windowes server 2012 guide](https://ptgmedia.pearsoncmg.com/images/9780735674257/samplepages/9780735674257.pdf)
-  - [link1](http://docshare04.docshare.tips/files/27083/270837810.pdf)
-  - Very good for getting hands dirty and solve problems quick!
-  - Progress:
-
-
-# Game development
-- C# all books
-  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
-- The C# Player’s Guide
-  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
-  - Process 1(Follow along)
-    - Goal: To quickly get familiar with VR game design
-    - Progress: 157/409
-
-
-# Source code study
-- DevOps
-  - How does `sh` work?
-    - [Simplified Bourne Shell](https://github.com/DarkZeratul/Bourne-Shell)
-- Design and presentation
-  - [THREE.JS](https://github.com/mrdoob/three.js/)
-    - Status: This tool is related with my aspiration and work
-    - Progress: Fast progress
-      - Process 1: PerspectiveCamera
-        - [PerspectiveCamera](https://github.com/mrdoob/three.js/blob/master/src/cameras/PerspectiveCamera.js)
-      - Process 2: Front page
-        - [FRONTPAGE](https://github.com/mrdoob/three.js/)
-- Operating system
-  - Linux
-    - [Linux - github](https://github.com/eiiches/linux) 
-    - Status: Looking around, get familiar with it first
-      - Is there any close resource for reference?
-- Front-end
-  - Bootstrap
-    - Status: On
-      - Process 1: Study dependencies(package.json)
-        - Meteor
-          - [Build A Meteor.js App In 45 Minutes - Traversy Media](https://www.youtube.com/watch?v=9494-2E4riQ)
-            - Progress
-              - Code-playground follow along
-      - Process 2: Study project architecture
-  - Vue 
-    - [vue-next - github](https://github.com/vuejs/vue-next)
-    - Status: Motivated, look around first
-  - React
-    - [react - github](https://github.com/facebook/react)
-    - Status: Not yet
-- Knowledge base
-  - Raneto
-    - [Portal](https://github.com/gilbitron/Raneto)
-    - Status: Studying as shown in those processes
-    - Process 1: Study dependencies for more project management proficiencies
-    - Process 2: Get the hang of the project architecture
-      - [ ] Study task: Study Dan Abramov's mental model of JavaScript Modules
-    - Process 3: Study to give an idea how to solve the nested directories problem
-- Browser working principle
-  - Chromium
-- Game development
 
 # Front-end development
+- Getting MEAN with Mongo, Express, Angular, and Node 0/?
+  - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
 - 微信公众平台应用开发实战
   - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
 - HTML 5 Mobile Development Cookbook
@@ -420,3 +233,152 @@ is useful.
   - Process 1
     - Approach: Osmosis
     - Progress:  22/87
+
+# Back-end development
+- Middle language
+  - Golang bundle
+    - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
+  - Programming in Go: Creating Application for the 21st Century
+    - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
+    - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
+    - Progress: 57/493
+    - Skipped for `Practice 1.5` for it is too confusing
+  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
+    - Progress: 19:50/6:39:57
+  - Go for JavaScript Developers
+    - [link](https://frontendmasters.com/courses/go-for-js-devs/)
+  - Golang projects
+    - Go Todolist
+      - [Go Todo list](https://github.com/shiniao/gtodo)
+    - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
+- Database
+  - Application
+    - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
+  - [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
+    - Progress: 15/113
+  - Postgres: The First Experience
+    - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
+    - Progress
+      - Mobile Termux
+        - Progress: 38
+        - LOCKED: Require your ability to `root` an Android device
+      - PuTTY - 174/174
+        - P69: You can challenge yourself by using a larger database
+        - P76-174 Problem solving skills
+          - You can learn any time, for your condition in 2021/2/23, it's good enough.
+        - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+          - Progress: 2:14/18:18
+      - Windows
+  - Database Design - 2nd Edition
+    - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
+    - Progress: 82/136
+    - Recommended review all of those concepts every time you read it again before embarking where you left last time
+    - Key points
+      - Basic concepts and terminologies
+      - P54: ER graph is very important, make sure you make no misunderstandings
+    - P.O.I
+      - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+        - The pioneer of relational database
+    - Reading style
+      - Print the `ER diagram` if you want to review those practice 
+    - Reading stamps
+      - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
+        - Require more `osmosis`
+      - Same for `Normalization` 
+      - P90-\$ skipped for overlap with `Postgresql`
+    - More skills
+      - Performance tunning
+        - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
+- API
+  - Basics of Software Engineering Experimentation
+    - [link](http://www.grise.upm.es/docs/Basics_of_Software_Engineering_Experimentation.pdf)
+  - GraphQL Api design - Mathias Biehl
+  - REST API Design Rulebook - O'Reilley
+    - [link](https://github.com/indrabasak/Books/blob/master/REST%20API%20Design%20Rulebook.pdf)
+
+
+# DevOps
+## General
+- [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
+## System administration
+- [Windows server administration fundamentals](https://docentinrete.files.wordpress.com/2012/05/manuale-2008-98-365-windowsserver.pdf)
+  - This is too basic, read it only if you really have a ton of time :)
+- [Configuring Advanced Windowes server 2012 guide](https://ptgmedia.pearsoncmg.com/images/9780735674257/samplepages/9780735674257.pdf)
+  - [link1](http://docshare04.docshare.tips/files/27083/270837810.pdf)
+  - Very good for getting hands dirty and solve problems quick!
+  - Progress:
+
+# Game development
+- C# all books
+  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
+- The C# Player’s Guide
+  - [github](https://github.com/Sheisback/Free-CSharp-Books/tree/master/book)
+  - Process 1(Follow along)
+    - Goal: To quickly get familiar with VR game design
+    - Progress: 157/409
+
+# Testing and automation
+- [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
+
+# Programming language
+Dude, is it really a good idea to learn a programming language through piles of books? 
+- Principles of Programming Languages
+  - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
+## C
+- Motivation
+  - I coded in C before and got a taste first-hand
+  - I want to be a better programmer
+- Learn C the HARD WAY
+  - [link1](https://github.com/XWHQSJ/ebooks/blob/master/Cpp/C/Learn%20C%20the%20Hard%20Way.pdf)
+  - [link2](https://drive.google.com/file/d/1JlZRbvdh32LHEWbmw5kVBINPgJkAGb0j/view?usp=sharing)
+  - Goals
+    - Learn about *rigorous defensive programming*
+  - Interesting points:
+    - *C is broken, It is full of design choices that made sense in the 1970s but make zero sense now. ... it's the most difficult language to write securely.*
+      - unrestricted, wild use of pointers 
+      - severely broken NUL terminated strings
+  - Process 1:(Learn when you have some spare time and interest)
+    - Progress: 19/660
+- C book
+  - [link1](https://publications.gbdirect.co.uk/c_book/)
+## C++
+- Motivation:
+  - Chromium V8 is written in C++, how come you don't have any familiarity with it?
+  - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
+- C++ Primer
+  - [link1 - legit](http://index-of.es/C++/Addison.Wesley.C++%20Primer.By.Stanley%20B.%20Lippman.pdf)
+    - Process 1:
+      - Goal: C++ is sexy, I want to fuck her
+      - Progress: 25/1069
+        - research `iostream`
+        - Setup envinronment for vscode
+          - [How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=77v-Poud_io)
+        - Video tutorial aids
+          - [C++ Programming All-in-One Tutorial Series (10 HOURS!)](https://www.youtube.com/watch?v=_bYFu9mBnr4)
+            - Progress: 10:21/10:28:14
+            - Tools: Visual Studio
+    - Process 2:
+      - Goal: Learn to work with U3D or UE4 developer as a Front-end developer
+      - Progress: 25/1069
+  - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
+  - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
+## JavaScript
+- Motivations
+  - Currently no need for motivations 
+  - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
+- Functional programming in JavaScript 24/274
+## Java
+- Motivations:
+  - Practice data structrure on Hackerrank videos
+- Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
+  - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
+    - Pretty slow to load
+  - Process 1:
+    - Goals
+      - Getting to know the basic syntax
+      - Follow along the programming environment setting
+    - SKIMMED: 43-54
+      - The features of Java, recommended start reading after having worked with Java for some time
+    - Follow along 64- 
+      - This phase should be pleasant and fast
+

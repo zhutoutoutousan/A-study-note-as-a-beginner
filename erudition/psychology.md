@@ -42,7 +42,8 @@
       - Progress: 8/125 - Para 1
 # Mind Control
 - Disrupted: My misadventure in the start-up bubble
-
+- Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?
+- Dignity at Work: Eliminate Bullying and Create a Positive Working Environment
 
 # Jungian Psychology
 - The Handbook of Jungian Psychology

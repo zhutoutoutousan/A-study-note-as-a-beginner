@@ -18,7 +18,18 @@
 - Thursday
   - Leg day
 - Friday
-  - Shoulder day
+  - Shoulder + Chest
+    - Compound
+      - Overhead press 4-6RM 5SETS
+    - Mid delts
+      - Side lateral raise 6-8RM 5SETS
+    - Rear delts
+      - Reverse fly 6-8RM 5SETS
+    - Chest
+      - Barbell bench press 4-6RM 5SETS
+      - Incline dumbell press 6-8RM 3SETS
+      - LC press 6-8RM 3SETS
+      - 
 - Saturday
   - Off day
 - Sunday

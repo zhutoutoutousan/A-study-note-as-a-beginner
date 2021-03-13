@@ -295,7 +295,10 @@ is useful.
   - GraphQL Api design - Mathias Biehl
   - REST API Design Rulebook - O'Reilley
     - [link](https://github.com/indrabasak/Books/blob/master/REST%20API%20Design%20Rulebook.pdf)
-
+  - JWT handbook
+    - [link](https://github.com/indrabasak/Books/blob/master/jwt-handbook.pdf)
+  - Production ready microservices
+    - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
 # DevOps
 ## General

@@ -29,11 +29,13 @@
       - Barbell bench press 4-6RM 5SETS
       - Incline dumbell press 6-8RM 3SETS
       - LC press 6-8RM 3SETS
-      - 
 - Saturday
   - Off day
 - Sunday
   - Arm day Bicep and Shoulder
+    - Bicep
+    - Tricep
+    - Shoulder
 - Monday
   - Back day
 - Tuesday

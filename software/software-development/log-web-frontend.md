@@ -1,3 +1,11 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [2021/3/8](#202138)
+  - [How to deal with fonts - Fonts](#how-to-deal-with-fonts---fonts)
+  - [Get some generic pattern - CSS React.js Vue.js](#get-some-generic-pattern---css-reactjs-vuejs)
+- [2021/3/15](#2021315)
+  - [`[vite] Internal server error: URI malformed` when loading](#vite-internal-server-error-uri-malformed-when-loading)
+
 # 2021/3/8
 ## How to deal with fonts - Fonts
 Another day of enduring the stupid BOSS and relatively intermediate colleagues, I was looking for a convenient way to deal with stupid customized fonts in the web, and here's what I found:
@@ -133,3 +141,6 @@ p {
 
 
 ```
+
+# 2021/3/15
+## `[vite] Internal server error: URI malformed` when loading

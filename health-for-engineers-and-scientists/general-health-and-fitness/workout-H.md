@@ -34,6 +34,7 @@
 - Sunday
   - Arm day Bicep and Shoulder
     - Bicep
+      - Weighted chin-up 4-6RM 5SETS
     - Tricep
     - Shoulder
 - Monday

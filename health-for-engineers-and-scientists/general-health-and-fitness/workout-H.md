@@ -34,8 +34,11 @@
 - Sunday
   - Arm day Bicep and Shoulder
     - Bicep
+      - Weighted Chin-up 4-6RM 5SETS
+      - 
     - Tricep
     - Shoulder
+      - Overhead press 4-6RM 5SETS
 - Monday
   - Back day
 - Tuesday

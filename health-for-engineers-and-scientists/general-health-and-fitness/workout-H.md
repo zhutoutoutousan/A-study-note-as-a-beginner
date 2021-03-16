@@ -35,10 +35,13 @@
   - Arm day Bicep and Shoulder
     - Bicep
       - Weighted Chin-up 4-6RM 5SETS
-      - 
+      - Bicep compound curl 6-8RM 5SETS
     - Tricep
+      - Skull crusher 4-6RM 5SETS
+      - Tricep pushaway 6-8RM 5SETS
     - Shoulder
       - Overhead press 4-6RM 5SETS
+      - Side lateral raise 6-8RM 3SETS
 - Monday
   - Back day
 - Tuesday

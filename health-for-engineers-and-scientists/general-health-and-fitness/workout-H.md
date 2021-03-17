@@ -39,6 +39,9 @@
     - Shoulder
 - Monday
   - Back day
+  - Compound
+    - Sumo deadlift 4-6RM 5SETS
+    - 
 - Tuesday
   - Off day
 - Wednesday

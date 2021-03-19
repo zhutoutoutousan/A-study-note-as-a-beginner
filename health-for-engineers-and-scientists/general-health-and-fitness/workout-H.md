@@ -53,7 +53,15 @@
     - Bicep compound curl 6-8RM 3SETS
 - Tuesday
   - Off day
+  - Extended one day for nerve pain in the back
 - Wednesday
   - Tricep and shoulder
+  - Compound
+    - Skull crusher 4-6RM 5SETS
+    - Tricep pushaway 6-8RM 5SETS
+    - Closed grip dumbell press 6-8RM 3SETS
+  - Shoulder
+    - Compound
+      - Overhead press 6-8RM 3SETS
 - Thursday
   - Chest day

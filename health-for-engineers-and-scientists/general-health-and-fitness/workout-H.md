@@ -63,5 +63,7 @@
   - Shoulder
     - Compound
       - Overhead press 6-8RM 3SETS
+      - Side lateral raise 6-8RM 3SETS
+      - Reverse fly 6-8RM 3SETS
 - Thursday
   - Chest day

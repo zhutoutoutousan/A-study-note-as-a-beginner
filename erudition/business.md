@@ -113,6 +113,15 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs
 - Mentality
+  - L'etranger
+    - [link1](https://www.anthropomada.com/bibliotheque/CAMUS-Letranger.pdf)
+    - It's better to first know about what the book is about prior to devling into the world of French.
+    - Progress(50% understanding) 11/97
+      - Just skimming forward, learn the plot, look up words in the dictionary as I please
+    - Progress(80% understanding) 10/97
+    - Progress(100% understanding): 1/97
+      - Should probably not do that
+
   - 人間失格 - 太宰治
     - [link](https://tatsu-zine.com/samples/aozora/ningen_shikkaku.pdf)
   - Man's Search for Meaning - Viktor Frankyl

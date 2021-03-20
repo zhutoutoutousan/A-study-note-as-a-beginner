@@ -113,6 +113,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs
 - Mentality
+  - 人間失格 - 太宰治
+    - [link](https://tatsu-zine.com/samples/aozora/ningen_shikkaku.pdf)
   - Man's Search for Meaning - Viktor Frankyl
   - Война и мир
   - Unbroken - Laura Hillenbrand

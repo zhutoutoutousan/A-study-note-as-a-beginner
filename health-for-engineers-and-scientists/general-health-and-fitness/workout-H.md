@@ -70,3 +70,8 @@
   - Chest
     - Barbell bench press 4-6RM 5SETS
     - Incline dumbell press 6-8RM 5SETS
+    - Supported Chess press 6-8RM 5SETS
+    - LC press 6-8RM 5SETS
+  - Bicep
+    - Chin up 6-8RM 3SETS
+    - Dumbell compound curl 6-8RM 3SETS

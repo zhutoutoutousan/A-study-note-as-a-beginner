@@ -11,5 +11,6 @@
        - [damn RED](https://www.reddit.com/r/techsupport/comments/el61wq/what_is_loid_configuration_in_routers/)
      - What is `PON`?
        - [Manual](https://en.wikipedia.org/wiki/Passive_optical_network)
+   - Those SDN interface currently couldn't tell me shit about unlocking the wireless isolation...Umm, maybe try doing some research about its manufacturer `fiberhome`? Get to know a bit more about how router works? Or it is not even the problem with the isolation, just my another instance of ignorance?
    - Here's some information I dug up
      - [Can I use a wired and wireless device on the same network?](https://pc.net/helpcenter/answers/wired_and_wireless_network)

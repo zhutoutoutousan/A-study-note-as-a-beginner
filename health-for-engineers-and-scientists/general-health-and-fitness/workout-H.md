@@ -66,4 +66,7 @@
       - Side lateral raise 6-8RM 3SETS
       - Reverse fly 6-8RM 3SETS
 - Thursday
-  - Chest day
+  - Chest + Bicep
+  - Chest
+    - Barbell bench press 4-6RM 5SETS
+    - Incline dumbell press 6-8RM 5SETS

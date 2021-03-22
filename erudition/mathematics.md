@@ -62,7 +62,7 @@
 - [Analysis I - Terence Tao](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
   - Process 1:
     - Goal: Just for fun
-    - Progress: 11/366
+    - Progress: 15/366
   - Process 2
     - Goal: Get familiar with Mathematical logics
     - Progress: 323/320-366
@@ -72,6 +72,7 @@
 - Linear Algebra Done Wrong
   - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
   - *Rigorous* proof, formal definitions
+  - Progress: 12/284
 
 # Logic
 - Introduction to Mathematical Logic 0/447

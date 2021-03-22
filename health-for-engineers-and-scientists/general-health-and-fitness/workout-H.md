@@ -15,63 +15,13 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Thursday
-  - Leg day
-- Friday
-  - Shoulder + Chest
-    - Compound
-      - Overhead press 4-6RM 5SETS
-    - Mid delts
-      - Side lateral raise 6-8RM 5SETS
-    - Rear delts
-      - Reverse fly 6-8RM 5SETS
-    - Chest
-      - Barbell bench press 4-6RM 5SETS
-      - Incline dumbell press 6-8RM 3SETS
-      - LC press 6-8RM 3SETS
-- Saturday
-  - Off day
-- Sunday
-  - Arm day Bicep and Shoulder
-    - Bicep
-      - Weighted Chin-up 4-6RM 5SETS
-      - Bicep compound curl 6-8RM 5SETS
-    - Tricep
-      - Skull crusher 4-6RM 5SETS
-      - Tricep pushaway 6-8RM 5SETS
-    - Shoulder
-      - Overhead press 4-6RM 5SETS
-      - Side lateral raise 6-8RM 3SETS
 - Monday
-  - Back day + Bicep
-    - Compound
-      - Sumo deadlift 4-6RM 5SETS
-      - Wide grip pull-up 6-8RM 5SETS
-      - Chest-supported row 6-8RM 5SETS
-    - Straight arm push-down 6-8RM 5SETS
-    - W-T-Y raise 6-8RM 5SETS
-    - Bicep compound curl 6-8RM 3SETS
+  - Off day for illness
 - Tuesday
-  - Off day
-  - Extended one day for nerve pain in the back
+  - 30 minutes bike ride
 - Wednesday
-  - Tricep and shoulder
-  - Compound
-    - Skull crusher 4-6RM 5SETS
-    - Tricep pushaway 6-8RM 5SETS
-    - Closed grip dumbell press 6-8RM 3SETS
-  - Shoulder
-    - Compound
-      - Overhead press 6-8RM 3SETS
-      - Side lateral raise 6-8RM 3SETS
-      - Reverse fly 6-8RM 3SETS
+  - Bicep and tricep
 - Thursday
-  - Chest + Bicep
-  - Chest
-    - Barbell bench press 4-6RM 5SETS
-    - Incline dumbell press 6-8RM 5SETS
-    - Supported Chess press 6-8RM 5SETS
-    - LC press 6-8RM 5SETS
-  - Bicep
-    - Chin up 6-8RM 3SETS
-    - Dumbell compound curl 6-8RM 3SETS
+  - Shoulder + Chest
+- Friday
+  - Off day

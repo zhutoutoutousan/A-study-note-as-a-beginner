@@ -21,7 +21,12 @@
   - 30 minutes bike ride
 - Wednesday
   - Bicep and tricep
+  - Compound
+    - Weighted chin up
 - Thursday
   - Shoulder + Chest
 - Friday
   - Off day
+- Saturday
+- Sunday
+- Monday

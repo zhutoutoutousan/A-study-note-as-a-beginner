@@ -1,4 +1,10 @@
-
+# Content of Shit
+- [Content of Shit](#content-of-shit)
+- [marzipano Circle CI setup error](#marzipano-circle-ci-setup-error)
+  - [2021/3/21](#2021321)
+  - [2021/3/23](#2021323)
+  - [- https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse](#--httpsstackoverflowcomquestions8553957how-to-release-localhost-from-error-listen-eaddrinuse)
+- [testem](#testem)
 # marzipano Circle CI setup error
 ## 2021/3/21
 ```
@@ -30,4 +36,21 @@ Unhandled rejection Error: spawn rm ENOENT
 
 And then if I try to do it again, it would report `Error: listen EADDRINUSE`
 
-News: 2021/3/23: I discovered that the directory `/scripts/*`, all the files in there were **linux code**, so it might not support windows development environment
+---
+
+News: 2021/3/23: 
+I discovered that the directory `/scripts/*`, all the files in there were **linux code**, so it might not support windows development environment
+
+I tried `kali linux` in WSL after failing in `w10` in the same environment, it reports the same `EADDRINUSE` error    
+
+
+If I visit localhost:7357, it says `testem` uses this port to run tests
+
+Now browsing through those shit
+- https://github.com/testem/testem
+- https://github.com/testem/testem/issues/199
+- https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse
+---
+
+
+# testem

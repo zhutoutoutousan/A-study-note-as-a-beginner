@@ -20,9 +20,17 @@
 - Tuesday
   - 30 minutes bike ride
 - Wednesday
-  - Bicep and tricep
+  - Bicep and tricep + Chest
   - Compound
-    - Weighted chin up
+    - Weighted chin-up 4-6RM 5SETS
+    - Compound curl 6-8RM 5SETS
+  - Tricep
+    - Skull crusher 4-6RM 5SETS
+    - Tricep pushaway 6-8RM 5SETS
+  - Chest
+    - Dumbell bench press 6-8RM 3SETS
+    - Incline dumbell press 6-8RM 3SETS
+    - LC press 6-8RM 3SETS
 - Thursday
   - Shoulder + Chest
 - Friday

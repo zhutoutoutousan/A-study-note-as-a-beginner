@@ -180,7 +180,8 @@ is useful.
   - Process 1 
     - Goal: Osmosis
     - Progress: 178/178-359
-
+- Reversing: Secrets of Reverse Engineering
+  - [link](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)
 # System design
 - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)

@@ -183,7 +183,7 @@ is useful.
 - Reversing: Secrets of Reverse Engineering
   - [link](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)
   - Focuses on binary reverse engineering
-  - Progress: 25/620
+  - Progress: 35/620
 # System design
 - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
@@ -246,6 +246,9 @@ is useful.
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
     - Progress: 57/493
     - Skipped for `Practice 1.5` for it is too confusing
+    - It's really a stupid idea to just type along, knock it off, dude.. Just watch and copy, just like you started learning Spanish when already fluent in English
+      - This book is reaaaally poor organized man
+    - Source code: https://github.com/book-source/goeg
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57
   - Go for JavaScript Developers

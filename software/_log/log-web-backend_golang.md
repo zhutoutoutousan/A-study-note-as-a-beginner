@@ -13,3 +13,9 @@ Blog says:
 
 Extended reading:
 - https://medium.com/the-andela-way/gopls-language-server-setup-for-go-projects-3ee79dcac123
+
+# 2021/3/26
+## Entering Greek words in vim when using `golang`
+Too much of a fxxking hassle, maybe when I reaaaally have the time
+- http://www.alecjacobson.com/weblog/?p=443
+- https://www.reddit.com/r/vim/comments/4cuodz/vim_tip_2_entering_greekmath_symbols_using_vim/

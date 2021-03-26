@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Guidance](#guidance)
+- [Basic tooling](#basic-tooling)
 - [Engineering Mathematics](#engineering-mathematics)
 - [Geometry & Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
@@ -19,6 +20,11 @@
 
 # Guidance
 - [How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU&t=23s)
+
+# Basic tooling
+- GNU Octave
+- Jupyter Notebook
+
 # Engineering Mathematics
 
 - Calculus - G. Strang

@@ -244,11 +244,17 @@ is useful.
   - Programming in Go: Creating Application for the 21st Century
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
-    - Progress: 57/493
-    - Skipped for `Practice 1.5` for it is too confusing
-    - It's really a stupid idea to just type along, knock it off, dude.. Just watch and copy, just like you started learning Spanish when already fluent in English
-      - This book is reaaaally poor organized man
-    - Source code: https://github.com/book-source/goeg
+    - Process 1
+      - Style and goals
+        - Just reading, don't test code
+      - Progress: 57/493
+      - Skipped for `Practice 1.5` for it is too confusing
+      - It's really a stupid idea to just type along, knock it off, dude.. Just watch and copy, just like you started learning Spanish when already fluent in English
+        - This book is reaaaally poor organized man
+    - Process 2
+      - Style and goals
+        - Just test code
+      - Source code: https://github.com/book-source/goeg
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57
   - Go for JavaScript Developers

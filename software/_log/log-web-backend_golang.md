@@ -19,3 +19,6 @@ Extended reading:
 Too much of a fxxking hassle, maybe when I reaaaally have the time
 - http://www.alecjacobson.com/weblog/?p=443
 - https://www.reddit.com/r/vim/comments/4cuodz/vim_tip_2_entering_greekmath_symbols_using_vim/
+
+## go: cannot find main module, but found .git config to create a module there, run: go mod
+

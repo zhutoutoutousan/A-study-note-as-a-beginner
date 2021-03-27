@@ -42,7 +42,14 @@
     - Incline bench press 6-8RM 5SETS
     - LC press 6-8RM 5SETS
 - Friday
-  - Off day
+  - Leg day
+  - Barbell squat 4-6RM 5SETS
+  - Bulgarian split squat 6-8RM 5SETS
+  - Leg press 4-6RM 5SETS
+  - Roll-up jump 2SETS
 - Saturday
+  - Off day
 - Sunday
+  - Back day
 - Monday
+  - Chest day

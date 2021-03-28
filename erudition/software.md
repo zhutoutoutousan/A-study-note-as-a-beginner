@@ -183,7 +183,7 @@ is useful.
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
   - Process 1
     - Style: Osmosis
-    - PROGRESS: 39/834
+    - PROGRESS: 42/834
     - P39: Additional reading
     - Training
       - P27

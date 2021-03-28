@@ -26,13 +26,8 @@
 - Job shift
   - Leetcode
 ## Coding and development
-- Job shift
-  - Change your resume
-    - Projects
-    - Better your English Resume structure
-      - https://zety.com/blog/front-end-developer-resume-example
-    - Find multiple ways for your pdf resume to work
-  - Prepare your projects
+- Career progressing(In your spare time)
+  - Better your projects
     - Current active projects in your Resume  
       - Vue+Gin
         - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin/tree/master/web)

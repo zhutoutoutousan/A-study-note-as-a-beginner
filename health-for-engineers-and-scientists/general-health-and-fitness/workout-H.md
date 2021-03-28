@@ -50,7 +50,6 @@
 - Saturday
   - Off day
 - Sunday
-<<<<<<< HEAD
   - Arm day Bicep and Shoulder
     - Bicep
       - Weighted Chin-up 4-6RM 5SETS
@@ -75,8 +74,6 @@
 - Wednesday
   - Tricep and shoulder
 - Thursday
-=======
   - Back day
 - Monday
->>>>>>> 0d186c7f792d801b0c8c14bd4d29baa6cc8fa002
   - Chest day

@@ -1,0 +1,1 @@
+# I think my way of thinking is more like exploring ontology

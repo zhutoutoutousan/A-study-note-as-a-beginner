@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Guidance](#guidance)
+- [Basic tooling](#basic-tooling)
 - [Engineering Mathematics](#engineering-mathematics)
 - [Geometry & Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
@@ -19,6 +20,11 @@
 
 # Guidance
 - [How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU&t=23s)
+
+# Basic tooling
+- GNU Octave
+- Jupyter Notebook
+
 # Engineering Mathematics
 
 - Calculus - G. Strang
@@ -62,7 +68,7 @@
 - [Analysis I - Terence Tao](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
   - Process 1:
     - Goal: Just for fun
-    - Progress: 11/366
+    - Progress: 15/366
   - Process 2
     - Goal: Get familiar with Mathematical logics
     - Progress: 323/320-366
@@ -72,6 +78,7 @@
 - Linear Algebra Done Wrong
   - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
   - *Rigorous* proof, formal definitions
+  - Progress: 12/284
 
 # Logic
 - Introduction to Mathematical Logic 0/447

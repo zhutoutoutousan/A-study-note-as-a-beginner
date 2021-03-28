@@ -180,7 +180,10 @@ is useful.
   - Process 1 
     - Goal: Osmosis
     - Progress: 178/178-359
-
+- Reversing: Secrets of Reverse Engineering
+  - [link](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)
+  - Focuses on binary reverse engineering
+  - Progress: 35/620
 # System design
 - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
@@ -241,8 +244,17 @@ is useful.
   - Programming in Go: Creating Application for the 21st Century
     - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
     - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
-    - Progress: 57/493
-    - Skipped for `Practice 1.5` for it is too confusing
+    - Process 1
+      - Style and goals
+        - Just reading, don't test code
+      - Progress: 57/493
+      - Skipped for `Practice 1.5` for it is too confusing
+      - It's really a stupid idea to just type along, knock it off, dude.. Just watch and copy, just like you started learning Spanish when already fluent in English
+        - This book is reaaaally poor organized man
+    - Process 2
+      - Style and goals
+        - Just test code
+      - Source code: https://github.com/book-source/goeg
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57
   - Go for JavaScript Developers

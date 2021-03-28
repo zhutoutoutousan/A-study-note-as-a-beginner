@@ -50,6 +50,33 @@
 - Saturday
   - Off day
 - Sunday
+<<<<<<< HEAD
+  - Arm day Bicep and Shoulder
+    - Bicep
+      - Weighted Chin-up 4-6RM 5SETS
+      - Bicep compound curl 6-8RM 5SETS
+    - Tricep
+      - Skull crusher 4-6RM 5SETS
+      - Tricep pushaway 6-8RM 5SETS
+    - Shoulder
+      - Overhead press 4-6RM 5SETS
+      - Side lateral raise 6-8RM 3SETS
+- Monday
+  - Back day + Bicep
+    - Compound
+      - Sumo deadlift 4-6RM 5SETS
+      - Wide grip pull-up 6-8RM 5SETS
+      - Chest-supported row 6-8RM 5SETS
+    - Straight arm push-down 6-8RM 5SETS
+    - W-T-Y raise 6-8RM 5SETS
+    - Bicep compound curl 6-8RM 3SETS
+- Tuesday
+  - Off day
+- Wednesday
+  - Tricep and shoulder
+- Thursday
+=======
   - Back day
 - Monday
+>>>>>>> 0d186c7f792d801b0c8c14bd4d29baa6cc8fa002
   - Chest day

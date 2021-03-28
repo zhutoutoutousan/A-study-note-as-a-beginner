@@ -73,6 +73,9 @@
     - Goal: Get familiar with Mathematical logics
     - Progress: 323/320-366
 - [Analysis II Terence Tao](https://github.com/WMX567/Math-learning/blob/master/Analysis%20II%20Terence%20Tao.pdf)
+- Combinatorics
+  - [Combinatorics: The Art of Counting](https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf)
+    - Progress: 11/325
 # Linear algebra
 - Linear Algebra Done Right
 - Linear Algebra Done Wrong

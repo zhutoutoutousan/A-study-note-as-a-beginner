@@ -136,14 +136,8 @@ is useful.
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
   - Process 1
-    - Goal: Have a genearl 
-    - Process 1.1: 1164-
-      - Goal: Have a quick recap of mathematical background
-      - Progress: 1170 Tackling math questions
-        - 1170: A.1-2: To resume, search `series.md`
-  - Process 2
-    - Goal: Quick Grasp of B-tree
-    - Progress: 481-
+    - Progress: 90/86-
+    - Style: Work with `Jupyter`, `GNU Octave`, train along with `leetcode`
 - LeetCode Cookbook Analysis in Go
   - [link1](https://books.halfrost.com/leetcode/)
 
@@ -189,7 +183,8 @@ is useful.
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)
   - Process 1
     - Style: Osmosis
-    - PROGRESS: 36/834
+    - PROGRESS: 39/834
+    - P39: Additional reading
     - Training
       - P27
         - Sample system for application to General Exercises

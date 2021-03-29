@@ -177,7 +177,7 @@ is useful.
 - Reversing: Secrets of Reverse Engineering
   - [link](https://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf)
   - Focuses on binary reverse engineering
-  - Progress: 35/620
+  - Progress: 46/620
 # System design
 - System Analysis, Design, and Development - CONCEPTS, PRINCIPLES, AND PRACTICES
   - [link](https://www.zu.edu.jo/UploadFile/Library/E_Books/Files/LibraryFile_12159_26.pdf)

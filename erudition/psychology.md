@@ -39,7 +39,7 @@
   - Psychologie des foules
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
     - Process 1:(Language-study-oriented)
-      - Progress: 8/125 - Last para
+      - Progress: 9/125 - First para
 # Mind Control
 - Disrupted: My misadventure in the start-up bubble
 - Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?

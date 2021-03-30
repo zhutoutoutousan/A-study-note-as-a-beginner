@@ -1,9 +1,10 @@
 # 2021/3/29
 ## Codewar --> Make a fxxking CPU
 Why is this piece of shit problem taking so much time?
+2021/3/30 Why is this so tiring, I need a break every time I make some effort
 ```javascript
 // https://www.codewars.com/kata/54c1bf903f0696f04600068b/train/javascript
-
+// There's something wrong with your function code, check carefully
 /*
 a
 50
@@ -25,7 +26,6 @@ stack
 15
 25
 */
-
 function Machine(cpu) {
   
     const splitByFirstSpace = /(.+?)\s(.+)/;
@@ -42,34 +42,79 @@ function Machine(cpu) {
       const hasMultipleVar = string => /\,/.test(string);  
       const splitMultipleVar = string => string.split(/\s*\,/);
       const isArray = suspect => Array.isArray(suspect); 
-      const isNumber = suspect => suspect >= '0' && suspect <= '9'; 
+      const isNumber = suspect => parseInt(suspect) === parseInt(suspect);
       
       let instructionType;
       let instructionOperand;
       [instructionType, instructionOperand] = instructionParser(instruction);
-
+      
       let counter = 0;
       let pointer = 0;
       
-      if(hasMultipleVar(instructionOperand)) {
-        instructionOperand = splitMultipleVar(instructionOperand);
-      }
+//       if(hasMultipleVar(instructionOperand)) {
+//         instructionOperand = splitMultipleVar(instructionOperand);
+//       }
+      
+      const operationEntityR = isArray(instructionOperand) ? splitMultipleVar(instructionOperand) : 
+                              isNumber(instructionOperand) ? parseInt(instructionOperand) :
+                              cpu.readReg('a');
+      
+      console.log(instructionOperand)
       
       switch(instructionType) {
-          // Sorted by usage frequency
+          // -----------------Stack Operations-----------------
           case 'push':
-            cpu.writeStack(parseInt(instructionOperand))
+            cpu.writeStack(operationEntityR);
           break;
-          case 'add':
-            for (let i = 0; i < instructionOperand[0]; i++) {
-              counter += isNumber(instructionOperand[0]) ? cpu.popStack() : parseInt(instructionOperand[0]);  
+          case 'pop':
+            if (!instructionOperand[1]) {
+              cpu.popstack();
+              break;
+            } 
+            cpu.writeReg(instructionOperand[1], cpu.popstack());
+          break;
+          case 'pushr':
+            for (let i = 97; i <= 100; i++) {
+              cpu.writeStack(cpu.readReg(String.fromCharCode(i)));  
             }
-            cpu.writeReg(instructionOperand[1] ? instructionOperand[1] : 'a', counter);
-            counter = 0;
+          break;
+          case 'pushrr':
+            for (let i = 100; i <= 97; i--) {
+              cpu.writeStack(cpu.readReg(String.fromCharCode(i)));  
+            }
+          break;
+          case 'popr':
+//             if (!instructionOperand[1]) {
+//               cpu.popstack();
+//               break;
+//             } 
+//             cpu.writeReg(instructionOperand[1], cpu.popstack());
+          break;
+          case 'mov':
+            cpu.writeReg(instructionOperand[1],
+                         parseInt(isNumber(instructionOperand[0]) ? instructionOperand[0] :
+                         cpu.readReg(instructionOperand[0])));
+          break;
+          
+          // -----------------Stack Operations-----------------
+          case 'add':
+              for (let i = 0; i < operationEntityR; i++) {
+                counter += cpu.popStack();
+              }
+              cpu.writeReg('a', counter);
+              counter = 0;  
+          break;
+          case 'adda':
+            counter += cpu.readReg('a');
+            cpu.writeStack(cpu.readReg('a'));
+            for (let i = 0; i < instructionOperand; i++) {
+              counter += cpu.popStack()  
+            }
+            cpu.writeReg(instructionOperand[1] ? `${instructionOperand[1]}` : 'a', counter);
           break;
           case 'sub':
             let comparisonArray = [];
-            for (let i = 0; i < instructionOperand; i++) {
+            for (let i = 0; i < operationEntityR; i++) {
               comparisonArray = [cpu.popStack(), ...comparisonArray];
               pointer += 1;
               if(comparisonArray[0] >= counter) {
@@ -77,7 +122,7 @@ function Machine(cpu) {
                 pointer = 0;
               }
             }
-            for (let j = 0; j < instructionOperand; j++) {
+            for (let j = 0; j < operationEntityR; j++) {
               if(pointer !== j) {
                 counter -= comparisonArray[j];
               } 
@@ -86,7 +131,7 @@ function Machine(cpu) {
           break;
           case 'mul':
             counter = 1;
-            for (let i = 0; i < instructionOperand; i++) {
+            for (let i = 0; i < operationEntityR; i++) {
               counter *= cpu.popStack()  
             }
             cpu.writeReg('a', counter);
@@ -102,6 +147,27 @@ function Machine(cpu) {
             }
             cpu.writeReg(instructionOperand[1] ? instructionOperand[1] : 'a', counter);
             counter = 0;
+          break;
+          case 'and':
+              for (let i = 0; i < operationEntityR; i++) {
+                counter &= cpu.popStack();
+              }
+              cpu.writeReg('a', counter);
+              counter = 0;  
+          break;
+          case 'or':
+              for (let i = 0; i < operationEntityR; i++) {
+                counter |= cpu.popStack();
+              }
+              cpu.writeReg('a', counter);
+              counter = 0;  
+          break;
+          case 'xor':
+              for (let i = 0; i < operationEntityR; i++) {
+                counter ^= cpu.popStack();
+              }
+              cpu.writeReg('a', counter);
+              counter = 0;  
           break;
           case 'div':
             let divisionArray = [];
@@ -139,36 +205,7 @@ function Machine(cpu) {
             }
             cpu.writeReg(instructionOperand[1] ? instructionOperand[1] : 'a', counter);
           break;
-          case 'adda':
-            counter += cpu.readReg('a');
-            cpu.writeStack(cpu.readReg('a'));
-            for (let i = 0; i < instructionOperand; i++) {
-              counter += cpu.popStack()  
-            }
-            cpu.writeReg(instructionOperand[1] ? `${instructionOperand[1]}` : 'a', counter);
-          break;
-          case 'pushr':
-            for (let i = 97; i <= 100; i++) {
-              cpu.writeStack(cpu.readReg(String.fromCharCode(i)));  
-            }
-          break;
-          case 'pushrr':
-            for (let i = 100; i <= 97; i--) {
-              cpu.writeStack(cpu.readReg(String.fromCharCode(i)));  
-            }
-          break;
-          case 'pop':
-            if (!instructionOperand[1]) {
-              cpu.popstack();
-              break;
-            } 
-            cpu.writeReg(instructionOperand[1], cpu.popstack());
-          break;
-          case 'mov':
-            cpu.writeReg(instructionOperand[1],
-                         parseInt(isNumber(instructionOperand[0]) ? instructionOperand[0] :
-                         cpu.readReg(instructionOperand[0])));
-          break;
+
       }
       
 
@@ -177,5 +214,4 @@ function Machine(cpu) {
     return { exec }
     
 }
-
 ```

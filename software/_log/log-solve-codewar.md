@@ -40,7 +40,7 @@ function Machine(cpu) {
   
     function exec(instruction) {
       const splitMultipleVar = string => string.split(/\s*\,/);
-      const hasMultipleVar = suspect => Array.isArray(JSON.parse('['+suspect+']')); 
+      const hasMultipleVar = suspect => /\[[0-9,]+[0-9]*\]/.test(suspect); 
       const isNumber = suspect => parseInt(suspect) === parseInt(suspect);
       
       let instructionType;
@@ -50,15 +50,13 @@ function Machine(cpu) {
       let counter = 0;
       let pointer = 0;
       
-//       if(hasMultipleVar(instructionOperand)) {
-//         instructionOperand = splitMultipleVar(instructionOperand);
-//       }
       console.log(instructionOperand)
       const operationEntityR = hasMultipleVar(instructionOperand) ? splitMultipleVar(instructionOperand) : 
                               isNumber(instructionOperand) ? parseInt(instructionOperand) :
                               cpu.readReg('a');
       
-      console.log(typeof instructionOperand);
+      console.log(typeof operationEntityR);
+      console.log( operationEntityR);
       
       switch(instructionType) {
           // -----------------Stack Operations-----------------

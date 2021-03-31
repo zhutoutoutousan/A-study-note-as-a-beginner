@@ -15,65 +15,21 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Monday
-  - Off day for illness
-- Tuesday
-  - 30 minutes bike ride
 - Wednesday
-  - Bicep and tricep + Chest
+  - Chest day
   - Compound
-    - Weighted chin-up 4-6RM 5SETS
-    - Compound curl 6-8RM 5SETS
-  - Tricep
-    - Skull crusher 4-6RM 5SETS
-    - Tricep pushaway 6-8RM 5SETS
-  - Chest
-    - Dumbell bench press 6-8RM 3SETS
-    - Incline dumbell press 6-8RM 3SETS
-    - LC press 6-8RM 3SETS
-- Thursday
-  - Shoulder + Chest
-  - Shoulder
-    - Overhead press 4-6RM 5SETS
-    - Side lateral raise 6-8RM 5SETS
-    - Reverse fly 6-8RM 5SETS
-  - Chest
     - Bench press 4-6RM 5SETS
-    - Incline bench press 6-8RM 5SETS
-    - LC press 6-8RM 5SETS
-- Friday
-  - Leg day
-  - Barbell squat 4-6RM 5SETS
-  - Bulgarian split squat 6-8RM 5SETS
-  - Leg press 4-6RM 5SETS
-  - Roll-up jump 2SETS
-- Saturday
-  - Off day
-- Sunday
-  - Arm day Bicep and Shoulder
-    - Bicep
-      - Weighted Chin-up 4-6RM 5SETS
-      - Bicep compound curl 6-8RM 5SETS
-    - Tricep
-      - Skull crusher 4-6RM 5SETS
-      - Tricep pushaway 6-8RM 5SETS
-    - Shoulder
-      - Overhead press 4-6RM 5SETS
-      - Side lateral raise 6-8RM 3SETS
-- Monday
-  - Back day + Bicep
-    - Compound
-      - Sumo deadlift 4-6RM 5SETS
-      - Wide grip pull-up 6-8RM 5SETS
-      - Chest-supported row 6-8RM 5SETS
-    - Straight arm push-down 6-8RM 5SETS
-    - W-T-Y raise 6-8RM 5SETS
-    - Bicep compound curl 6-8RM 3SETS
-- Tuesday
-  - Off day
-- Wednesday
-  - Tricep and shoulder
+    - Incline dumbell press 6-8RM 5SETS
+  - Chest fly 6-8RM 5SETS
+  - LC press 6-8RM 5SETS
+  - 30 minutes bike ride
 - Thursday
   - Back day
+- Friday
+  - Off day
+- Saturday
+  - Arm day
+- Sunday
+  - Shoulder day
 - Monday
-  - Chest day
+  - Off day

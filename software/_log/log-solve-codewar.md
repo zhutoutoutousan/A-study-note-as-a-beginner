@@ -39,9 +39,8 @@ function Machine(cpu) {
     }    
   
     function exec(instruction) {
-      const hasMultipleVar = string => /\,/.test(string);  
       const splitMultipleVar = string => string.split(/\s*\,/);
-      const isArray = suspect => Array.isArray(suspect); 
+      const hasMultipleVar = suspect => Array.isArray(JSON.parse('['+suspect+']')); 
       const isNumber = suspect => parseInt(suspect) === parseInt(suspect);
       
       let instructionType;
@@ -54,12 +53,12 @@ function Machine(cpu) {
 //       if(hasMultipleVar(instructionOperand)) {
 //         instructionOperand = splitMultipleVar(instructionOperand);
 //       }
-      
-      const operationEntityR = isArray(instructionOperand) ? splitMultipleVar(instructionOperand) : 
+      console.log(instructionOperand)
+      const operationEntityR = hasMultipleVar(instructionOperand) ? splitMultipleVar(instructionOperand) : 
                               isNumber(instructionOperand) ? parseInt(instructionOperand) :
                               cpu.readReg('a');
       
-      console.log(instructionOperand)
+      console.log(typeof instructionOperand);
       
       switch(instructionType) {
           // -----------------Stack Operations-----------------
@@ -129,6 +128,25 @@ function Machine(cpu) {
             }
             cpu.writeReg('a', counter);
           break;
+          case 'suba':
+            let subaArray = [cpu.readReg('a')];
+            cpu.writeStack(subaArray[0]);
+            counter = cpu.readReg('a');
+            for (let i = 0; i < instructionOperand[0]; i++) {
+              subaArray = [cpu.popStack(), ...subaArray];
+              pointer += 1;
+              if(subaArray[0] >= counter) {
+                counter = subaArray[0];
+                pointer = 0;
+              }
+            }
+            for (let j = 0; j < instructionOperand[0]; j++) {
+              if(pointer !== j) {
+                counter -= subaArray[j];
+              } 
+            }
+            cpu.writeReg(instructionOperand[1] ? instructionOperand[1] : 'a', counter);
+          break;
           case 'mul':
             counter = 1;
             for (let i = 0; i < operationEntityR; i++) {
@@ -186,25 +204,7 @@ function Machine(cpu) {
             }
             cpu.writeReg('a', counter);
           break;
-          case 'suba':
-            let subaArray = [cpu.readReg('a')];
-            cpu.writeStack(subaArray[0]);
-            counter = cpu.readReg('a');
-            for (let i = 0; i < instructionOperand[0]; i++) {
-              subaArray = [cpu.popStack(), ...subaArray];
-              pointer += 1;
-              if(subaArray[0] >= counter) {
-                counter = subaArray[0];
-                pointer = 0;
-              }
-            }
-            for (let j = 0; j < instructionOperand[0]; j++) {
-              if(pointer !== j) {
-                counter -= subaArray[j];
-              } 
-            }
-            cpu.writeReg(instructionOperand[1] ? instructionOperand[1] : 'a', counter);
-          break;
+
 
       }
       

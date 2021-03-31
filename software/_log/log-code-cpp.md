@@ -48,3 +48,8 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
   Shadow gap:              cc
 ==30==ABORTING
 ```
+
+# 2021/3/31
+## std::erase under the hood
+Maybe later, today I just sort of want to log it and leave it without doing anything:) How naughty~
+https://blog.csdn.net/TINA_DD/article/details/111937139

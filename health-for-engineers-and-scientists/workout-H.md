@@ -25,6 +25,8 @@
   - 30 minutes bike ride
 - Thursday
   - Back day
+  - Compound
+    - Sumo deadlift 4-6RM 5SETS
 - Friday
   - Off day
 - Saturday

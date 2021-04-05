@@ -26,6 +26,17 @@
 2021/4/5 did some stupid research
 
 - [Strengthening spatial reasoning: elucidating the attentional and neural mechanisms associated with mental rotation skill development](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00211-y)
+  - Process 1
+    - Goal: Just have a vague sense of training spatial intelligence
+    - Subprocess
+      - [Oculomotor nerve](https://en.wikipedia.org/wiki/Oculomotor_nerve#:~:text=The%20oculomotor%20nerve%20is%20the,and%20that%20raise%20the%20eyelid.)
+      - z-score
+        - [Standard score](https://en.wikipedia.org/wiki/Standard_score)
+          - [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)
+          - [Mean](https://en.wikipedia.org/wiki/Mean#Population_and_sample_means)
+          - [Statistical population](https://en.wikipedia.org/wiki/Statistical_population)
+          - [Normalization](https://en.wikipedia.org/wiki/Normalization_(statistics))
+          - [t-statistic](https://en.wikipedia.org/wiki/T-statistic)
 
 #### Clarity
 #### Capacity

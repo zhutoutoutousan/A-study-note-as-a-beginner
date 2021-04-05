@@ -22,9 +22,14 @@
 ### Vocabulary span
 #### Visualized logic relationship
 ## Spatial intelligence
+
+2021/4/5
+
 #### Clarity
 #### Capacity
 #### Agility
+
+
 
 
 
@@ -41,3 +46,21 @@
     - Advanced: Try to visualize how it runs with clarity
 
 
+# Nootropics
+I've got a few at my side for daily consumption
+- L-Theanine 茶氨酸
+  - Maybe have soothing effect
+  - Countereffects the anxiety induced by caffeine
+  - 1 Capsule per day, taken in the morning
+- Citicoline 胞磷胆碱
+- 乙酰左旋肉碱
+- Creatine + Taurine
+- Rhodiola 红景天提取物
+- Caffeine
+- 菊粉
+- Ginko extract
+- Tumeric culcumin
+
+
+I know somethin' else natural that may work
+- 婆罗米提取物 

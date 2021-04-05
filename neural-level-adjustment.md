@@ -23,7 +23,9 @@
 #### Visualized logic relationship
 ## Spatial intelligence
 
-2021/4/5
+2021/4/5 did some stupid research
+
+- [Strengthening spatial reasoning: elucidating the attentional and neural mechanisms associated with mental rotation skill development](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00211-y)
 
 #### Clarity
 #### Capacity

@@ -32,6 +32,8 @@
     - Face pull 6-8RM 3SETS
   - Tuesday
     - Bicep + Tricep
+    - Compound
+      - Weighted chin-up 4-6RM 5SETS
   - Wednesday
     - Off day
   - Thursday

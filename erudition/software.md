@@ -156,6 +156,7 @@ is useful.
 - [Learning Three.js: Thee JavaScript 3D Library for WebGL](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/java/Learning%20Three.js-%20The%20JavaScript%203D%20Library%20for%20WebGL.pdf)
   - Progress
 # Computer security
+- 信息安全精进课 - 吴翰清
 - FUNDAMENTALS OF CRYPTOLOGY A Professional Reference and Interactive Tutorial: 
   -  [Link1](https://www.hyperelliptic.org/tanja/teaching/cryptoI13/cryptodict.pdf)
   -  Require use of ```mathematica```
@@ -163,6 +164,8 @@ is useful.
     - Progress 1: 343/343-471
   - Process 2(Reading for pleasure) 14/503
     - Require at least finishing one book of elementary number theory to proceed or study the appendix
+- Complete A+ Guide to IT Hardware and Software
+  - [link](https://drive.google.com/file/d/1XW12oHf6nF-IfG4qO3fR3WiebJtRDURE/view?usp=sharing)
 - CompTIA Network+ Certification Study Guide
   - [Link1](http://index-of.es/Varios-2/Comptia%20Network+.pdf)
 - CompTIA Security+
@@ -231,7 +234,8 @@ is useful.
   - Process 1
     - Approach: Osmosis
     - Progress:  22/87
-
+- High Performance Browser Networking
+  - [link1](https://github.com/varunkashyapks/Books/blob/master/High-Performance-Browser-Networking-Ilya-Grigorik.pdf)
 # Back-end development
 - Middle language
   - Golang bundle

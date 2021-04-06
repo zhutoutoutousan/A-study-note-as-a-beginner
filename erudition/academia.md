@@ -14,3 +14,5 @@
   - [link1](https://dcripe.files.wordpress.com/2014/06/50-writing-tools.pdf)
 - Chicago Manual of Style
 - [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+  - Progress: 22:02
+  - Writing is not about conveying information, but changing people's ideas

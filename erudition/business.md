@@ -100,6 +100,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 # Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
+  - Process 1
+    - Style: Osmosis
 
 # Business mindset
 - Cognition

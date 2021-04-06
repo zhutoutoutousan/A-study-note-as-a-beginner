@@ -11,6 +11,7 @@
 - [Computer security](#computer-security)
 - [System design](#system-design)
 - [Software project management](#software-project-management)
+- [Full-stack in-depth](#full-stack-in-depth)
 - [Front-end development](#front-end-development)
 - [Back-end development](#back-end-development)
 - [DevOps](#devops)
@@ -216,6 +217,14 @@ is useful.
 - Design Patterns Elements of Reusable Object-Oriented Software
   - [link](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 
+# Full-stack in-depth
+- High Performance Browser Networking
+  - [link1](https://github.com/varunkashyapks/Books/blob/master/High-Performance-Browser-Networking-Ilya-Grigorik.pdf)
+  - I can't address more of the importance of reading this book as a front-end engineer, this is definitely a go-to book if you wanna be a good  front-end engineer
+- Web Application Architecture Principles, protocols and practices
+  - [link](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Web-Application-Architecture-Principles-Protocols-and-Practices.pdf)
+  - Another good book to have better view of how everything works together
+
 
 # Front-end development
 - Getting MEAN with Mongo, Express, Angular, and Node 0/?
@@ -234,8 +243,7 @@ is useful.
   - Process 1
     - Approach: Osmosis
     - Progress:  22/87
-- High Performance Browser Networking
-  - [link1](https://github.com/varunkashyapks/Books/blob/master/High-Performance-Browser-Networking-Ilya-Grigorik.pdf)
+
 # Back-end development
 - Middle language
   - Golang bundle

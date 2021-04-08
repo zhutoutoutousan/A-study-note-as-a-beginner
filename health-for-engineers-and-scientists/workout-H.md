@@ -46,6 +46,14 @@
     - Off day
   - Thursday
     - Leg day
+    - Compound
+      - Squat 4-6RM 5SETS
+      - Bulgarian split squat 6-8RM 5SETS
+      - Leg press 4-6RM 5SETS
+    - Snatch 3TRIES 5SETS
+    - Clean and Jerk 3TRIES 5SETS
+    - Roll up jump 5TRIES
+    - Dumbell jump 5SETS
   - Friday
     - Shoulder day
   - Saturday

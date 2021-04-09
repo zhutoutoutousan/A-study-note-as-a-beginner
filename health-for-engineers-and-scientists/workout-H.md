@@ -56,6 +56,9 @@
     - Dumbell jump 5SETS
   - Friday
     - Shoulder day
+      - Overhead press 4-6RM 5SETS
+      - Side lateral raise 6-8RM 5SETS
+      - Reverse fly 6-8RM 5SETS
   - Saturday
     - Off day
   - Sunday

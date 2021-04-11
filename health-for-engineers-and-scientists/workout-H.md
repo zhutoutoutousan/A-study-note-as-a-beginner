@@ -62,9 +62,18 @@
   - Saturday
     - Off day
   - Sunday
-    - Back day
-  - Monday
     - Chest day
-
+    - Compound
+      - Bench press 4-6RM 5SETS
+      - Incline dumbell press 6-8RM 5SETS
+      - Supported press 6-8RM 5SETS
+    - LC press 6-8RM 5SETS
+    - Skull crusher 6-8RM 3SETS
+    - Pushdown 6-8RM 3SETS
+    - Reverse push down 6-8RM 3SETS
+  - Monday
+    - Back day
+    - Comound
+      - Sumo deadlift 4-6RM 5SETS
 - Block 2(Effort + Volume)
 - Block 3(Deload)

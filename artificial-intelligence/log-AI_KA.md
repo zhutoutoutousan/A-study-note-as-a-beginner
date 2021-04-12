@@ -21,3 +21,6 @@ Lbhe ercbeg fubhyq or ersrerapr hfvat gur PHUneineq nccebnpu naq abg rkprrq 500 
 - https://www.cs.vu.nl/~guus/papers/Schreiber13a.pdf
 - https://archive.org/details/knowledgeacquisi0000brul/page/n3/mode/2up
 - https://www.sciencedirect.com/science/article/abs/pii/S1042814389800032
+- https://www.researchgate.net/publication/222685978_Knowledge_acquisition_for_expert_systems_in_accounting_and_financial_problem_domains
+- [Knowledge acquisition for expert systems in accounting and financial
+problem domains](https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0950705102000266?via%3Dihub)

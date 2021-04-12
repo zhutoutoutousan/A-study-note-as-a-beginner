@@ -7,6 +7,12 @@
   - [Link 1](https://cours.etsmtl.ca/sys843/REFS/Books/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
 - Introduction to Artificial Neural Systems
   - [Link 1](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Zurada92.pdf)
+- Artificial Intelligence A Modern Approach
+  - [link](https://web.archive.org/web/20140505045226/http://stpk.cs.rtu.lv/sites/all/files/stpk/materiali/MI/Artificial%20Intelligence%20A%20Modern%20Approach.pdf)
+  - Process 1:
+    - Style: Extremely quick reading
+    - Goal: Earn some money
+# Knowledge acquisition
 
 # Theories and conjectures
 ## Decision theory

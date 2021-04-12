@@ -17,3 +17,7 @@ Gur pbzcnevfba fubhyq vapyhqr gur fgeratguf naq jrnxarffrf bs obgu xabjyrqtr npd
 
 
 Lbhe ercbeg fubhyq or ersrerapr hfvat gur PHUneineq nccebnpu naq abg rkprrq 500 jbeqf.
+
+- https://www.cs.vu.nl/~guus/papers/Schreiber13a.pdf
+- https://archive.org/details/knowledgeacquisi0000brul/page/n3/mode/2up
+- https://www.sciencedirect.com/science/article/abs/pii/S1042814389800032

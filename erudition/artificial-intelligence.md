@@ -1,3 +1,7 @@
+# Quick reference
+- Machine Learning Cheat Sheet: Classical equations, diagrams and tricks in machine learning
+  - [link1](https://media-exp1.licdn.com/dms/document/C4E1FAQF49EZJeYystA/feedshare-document-pdf-analyzed/0/1618381867518?e=1618480800&v=beta&t=W5qTopVeR5DxQ0J_8P4Zcgnc4y2vRb-GFpaftZwTaq0)
+  - [link2](https://github.com/soulmachine/machine-learning-cheat-sheet)
 # General grasp
 - Neural Networks and Learning Machines
   - [Link 1](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)

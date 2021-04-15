@@ -75,5 +75,11 @@
     - Back day
     - Comound
       - Sumo deadlift 4-6RM 5SETS
+      - Wide grip pull-up 6-8RM 5SETS
+      - Chest supported row 6-8RM 5SETS
+    - Straight arm pull up 6-8RM 5SETS
+    - W-T-Y raise 6-8RM 5SETS
+    - Bicep
+      - Bicep compound curl 6-8RM 3SETS
 - Block 2(Effort + Volume)
 - Block 3(Deload)

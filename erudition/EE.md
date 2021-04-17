@@ -46,3 +46,7 @@
 ## SMPS
 - Switch node power supply handbook
   - [Link 1](https://doc.xdevs.com/docs/_Books/Switchmode%20Power%20Supply%20Handbook.pdf)
+
+
+# DSP and MC
+- [Raspberrypi beginners guide](https://magpi.raspberrypi.org/books/beginners-guide-4th-ed)

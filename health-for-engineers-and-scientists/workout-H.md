@@ -15,71 +15,26 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Utilizing block technique
-  - [How I Coached My Client To A 405 Lb Bench (My Best Bench Press Tips)](https://www.youtube.com/watch?v=rlF0uYMfCyA)
-- Block 1(Frequency technique)
-
-  - Monday
-    - Chest day + Shoulder
-    - Compound
-      - Barbell bench press 4-6RM 5SETS
-      - Incline dumbell press 6-8RM 5SETS
-    - LC press 4-6RM
-    - Supported chest press 6-8RM 3SETS
-    - Overhead press 4-6RM 3SETS
-    - Side lateral raise 6-8RM 3SETS
+- Deload week(Leg and deadlift All 5RMS+)
+- Saturday
+  - Shoulder + Tricep
+  - Shoulder
+    - Overhead press 4-6RM 5SETS
+    - Side lateral raise(Slow, Controlled) 6-8RM 5SETS
     - Reverse fly 6-8RM 5SETS
-    - Face pull 6-8RM 3SETS
-  - Tuesday
-    - Bicep + Tricep
-    - Compound
-      - Weighted chin-up 4-6RM 5SETS
-      - Dumbell compound curl 6-8RM 5SETS
-    - Tricep
-      - Skull crusher 4-6RM 5SETS
-      - Tricep pushaway 6-8RM 5SETS
-    - Shoulder
-      - Overhead press 6RM 3SETS
-      - Side lateral raise 6-8RM 3SETS
-      - Reverse fly 6-8RM 3SETS
-  - Wednesday
-    - Off day
-  - Thursday
-    - Leg day
-    - Compound
-      - Squat 4-6RM 5SETS
-      - Bulgarian split squat 6-8RM 5SETS
-      - Leg press 4-6RM 5SETS
-    - Snatch 3TRIES 5SETS
-    - Clean and Jerk 3TRIES 5SETS
-    - Roll up jump 5TRIES
-    - Dumbell jump 5SETS
-  - Friday
-    - Shoulder day
-      - Overhead press 4-6RM 5SETS
-      - Side lateral raise 6-8RM 5SETS
-      - Reverse fly 6-8RM 5SETS
-  - Saturday
-    - Off day
-  - Sunday
-    - Chest day
-    - Compound
-      - Bench press 4-6RM 5SETS
-      - Incline dumbell press 6-8RM 5SETS
-      - Supported press 6-8RM 5SETS
-    - LC press 6-8RM 5SETS
-    - Skull crusher 6-8RM 3SETS
-    - Pushdown 6-8RM 3SETS
-    - Reverse push down 6-8RM 3SETS
-  - Monday
-    - Back day
-    - Comound
-      - Sumo deadlift 4-6RM 5SETS
-      - Wide grip pull-up 6-8RM 5SETS
-      - Chest supported row 6-8RM 5SETS
-    - Straight arm pull up 6-8RM 5SETS
-    - W-T-Y raise 6-8RM 5SETS
-    - Bicep
-      - Bicep compound curl 6-8RM 3SETS
-- Block 2(Effort + Volume)
-- Block 3(Deload)
+  - Tricep
+    - Skull crusher 6-8RM 5SETS
+    - Tricep pushaway 6-8RM 5SETS
+    - Tricep dumbell press 6-8RM 3SETS
+- Sunday
+  - Chest + Bicep
+- Monday
+  - Off day
+- Tueday
+  - Leg day
+- Wednesday
+  - 
+- Thursday
+- Friday
+- Saturday
+- Sunday

@@ -30,7 +30,11 @@
   - Chest + Bicep
   - Chest
     - Barbell bench press 4-6RM 5SETS
-    - 
+    - Incline dumbell press 6-8RM 5SETS
+    - LC press 6-8RM 5SETS
+  - Bicep
+    - Weighted chin-up 4-6RM 3SETS
+    - Dumbell compound curl 6-8RM 3SETS
 - Monday
   - Off day
 - Tueday

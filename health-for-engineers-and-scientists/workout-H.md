@@ -28,6 +28,9 @@
     - Tricep dumbell press 6-8RM 3SETS
 - Sunday
   - Chest + Bicep
+  - Chest
+    - Barbell bench press 4-6RM 5SETS
+    - 
 - Monday
   - Off day
 - Tueday

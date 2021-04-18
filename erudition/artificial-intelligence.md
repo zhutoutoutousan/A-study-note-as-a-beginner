@@ -2,6 +2,8 @@
 - Machine Learning Cheat Sheet: Classical equations, diagrams and tricks in machine learning
   - [link1](https://media-exp1.licdn.com/dms/document/C4E1FAQF49EZJeYystA/feedshare-document-pdf-analyzed/0/1618381867518?e=1618480800&v=beta&t=W5qTopVeR5DxQ0J_8P4Zcgnc4y2vRb-GFpaftZwTaq0)
   - [link2](https://github.com/soulmachine/machine-learning-cheat-sheet)
+- Data Science: Cheat Sheet
+  - [link1](https://media-exp1.licdn.com/dms/document/C4E1FAQEc48I5NLjr9g/feedshare-document-pdf-analyzed/0/1618562112923?e=1618797600&v=beta&t=zRdUBrkkOhxVAkp3omm-ErM-jJqQNlDnT6_lAP3HZAk)
 # General grasp
 - Neural Networks and Learning Machines
   - [Link 1](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)

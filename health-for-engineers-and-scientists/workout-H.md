@@ -38,10 +38,14 @@
 - Monday
   - Off day
 - Tueday
-  - Leg day
+  - Squat day
 - Wednesday
-  - 
+  - Deadlift day
 - Thursday
+  - Off day
 - Friday
+  - Arm day
 - Saturday
+  - Bench press day
 - Sunday
+  - Shoulder day

@@ -39,6 +39,11 @@
   - Off day
 - Tueday
   - Squat day
+    - Barbell squat 4-6RM 5SETS
+    - Bulgarian split squat 6-8RM 5SETS
+    - Leg press 4-6RM 5SETS
+    - Full front squat 5RM 3SETS
+    - Deadlift 6RM 3SETS
 - Wednesday
   - Deadlift day
 - Thursday

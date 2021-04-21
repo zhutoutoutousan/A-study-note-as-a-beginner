@@ -44,13 +44,14 @@
     - Leg press 4-6RM 5SETS
     - Full front squat 5RM 3SETS
     - Deadlift 6RM 3SETS
+    - Bench press 6RM 3SETS
 - Wednesday
-  - Deadlift day
+  - Bench press day
 - Thursday
   - Off day
 - Friday
   - Arm day
 - Saturday
-  - Bench press day
+  - Deadlift day
 - Sunday
   - Shoulder day

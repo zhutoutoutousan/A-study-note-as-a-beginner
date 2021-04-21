@@ -55,3 +55,7 @@
     - Alvin Roth
 - Essentials of game theory
   - [link1](http://physics.ujep.cz/~jskvor/KVM/TeorieHer/shoham.pdf)
+
+# Specific research
+- 数据分析与知识发现 2021 第2期
+  - 特定舆情的意见领袖挖掘和关键传播路径预测

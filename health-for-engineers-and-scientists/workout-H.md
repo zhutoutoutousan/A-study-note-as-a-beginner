@@ -47,6 +47,9 @@
     - Bench press 6RM 3SETS
 - Wednesday
   - Bench press day
+  - Compound
+  - Barbell bench press 4-6RM 5SETS
+  - 
 - Thursday
   - Off day
 - Friday

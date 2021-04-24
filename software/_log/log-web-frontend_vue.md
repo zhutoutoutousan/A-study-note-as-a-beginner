@@ -446,3 +446,5 @@ For a newbie like me, it could be misleading that I might start to think `scoped
 # 2021/4/25
 ## How do you manage SHIT LOADS OF API calls in Vue lifecycle?
 - [vue 定时 (自定义时间) 调用接口【详解】](https://blog.csdn.net/weixin_43970743/article/details/103731289)
+
+## What does `let self = this` mean? Why you should use it?

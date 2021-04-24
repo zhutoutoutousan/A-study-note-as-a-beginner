@@ -38,8 +38,9 @@
 - Gustave Le Bon
   - Psychologie des foules
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
-    - Process 1:(Language-study-oriented)
-      - Progress: 9/125 - Second para line 4
+    - Process 1
+      - Suitable language level nearly reached, increase reading speed
+      - Progress: 11/125 - para 4
 # Mind Control
 - Disrupted: My misadventure in the start-up bubble
 - Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?

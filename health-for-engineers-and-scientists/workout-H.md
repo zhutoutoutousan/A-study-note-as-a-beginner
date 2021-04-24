@@ -9,6 +9,9 @@
 # STUPID PROBLEMS
 - Muscle discomfort in calves
   - [Creatine, Muscle Cramping and Muscle Tightness](http://www.andersenchiro.com/Creatine,%20Muscle%20Cramping%20and%20Muscle%20Tightness.htm)
+  - Consider L-THEANINE + Caffeine Combination as the alternative for Creatine for a month as cold turkey 
+    - DO IT AS SOON AS U FINISH PREWORKOUT
+    - FIRST, stop taking creatine in the morning
 
 
 # Periodized plans
@@ -53,11 +56,12 @@
     - Bench press 6RM 3SETS
 - Wednesday
   - Deadlift day
-  - 
 - Thursday
-  - Off day
-- Friday
   - Arm day
+  - Shoulder
+  - Tricep
+  - Bicep
+- Friday
 - Saturday
   - Bench press day
   - Compound

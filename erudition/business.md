@@ -9,6 +9,10 @@ MEDIUM SIZE CONSTRUCTION
 ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
+# Industry oriented
+## Factory
+- 工厂设备精细化管理手册(第2版) - 弗布克(forbook)
+  - Why is it so fxxxking  hard to find a free e-book online?
 # Inter-cultural relationship
 
 ## Basic language skills

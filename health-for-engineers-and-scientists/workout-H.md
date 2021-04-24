@@ -48,8 +48,13 @@
 - Wednesday
   - Bench press day
   - Compound
-  - Barbell bench press 4-6RM 5SETS
-  - 
+    - Barbell bench press 4-6RM 5SETS
+    - Incline dumbell press 6-8RM 5SETS
+  - LC press 6-8RM 5SETS
+  - Overhead press 6-8RM 3SETS
+  - Side lateral raise 6-8RM 5SETS
+  - Dumbell fly 6-8RM 3SETS
+  - Skull crusher 4-6RM 3SETS
 - Thursday
   - Off day
 - Friday

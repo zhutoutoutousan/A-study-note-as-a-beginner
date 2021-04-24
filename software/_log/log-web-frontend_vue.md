@@ -8,3 +8,6 @@ I was asked yet another question that I certainly not able to answer in an elega
 ## Property or method xxx is not defined on the instance but ...
 
 Fxxk, just a typo
+
+# 2021/4/23
+## Understanding of Vue Lifecycle

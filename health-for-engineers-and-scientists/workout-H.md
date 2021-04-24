@@ -48,8 +48,10 @@
 - Wednesday
   - Bench press day
   - Compound
-  - Barbell bench press 4-6RM 5SETS
-  - 
+    - Barbell bench press 4-6RM 5SETS
+    - Dumbell incline press 6-8RM 5SETS
+  - LC press 6-8RM 5SETS
+  - Barbell bench press 6RM 3SETS
 - Thursday
   - Off day
 - Friday

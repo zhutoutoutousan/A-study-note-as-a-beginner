@@ -442,3 +442,7 @@ Sometimes, during hot reload debugging process, when I changed the style to `sco
 For a newbie like me, it could be misleading that I might start to think `scoped` doesn't work as I think it should be
 
 - [从vue-loader源码分析CSS Scoped的实现](https://juejin.cn/post/6844903949900742670)
+
+# 2021/4/25
+## How do you manage SHIT LOADS OF API calls in Vue lifecycle?
+- [vue 定时 (自定义时间) 调用接口【详解】](https://blog.csdn.net/weixin_43970743/article/details/103731289)

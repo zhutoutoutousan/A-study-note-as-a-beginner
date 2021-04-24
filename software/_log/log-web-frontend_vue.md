@@ -8,3 +8,12 @@ I was asked yet another question that I certainly not able to answer in an elega
 ## Property or method xxx is not defined on the instance but ...
 
 Fxxk, just a typo
+
+# 2021/4/23
+## Understanding of Vue Lifecycle and its integration with complex website projects
+
+# 2021/4/24
+## Why does `Could not read property *** of undefined` keep occuring?
+I have met with this problem more than ten times just ten days after I joined my new company, can you do sth about that?
+
+## Why shouldn't you use inline style in big Vue projects?

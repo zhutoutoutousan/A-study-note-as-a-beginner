@@ -46,6 +46,12 @@
     - Deadlift 6RM 3SETS
     - Bench press 6RM 3SETS
 - Wednesday
+  - Deadlift day
+- Thursday
+  - Off day
+- Friday
+  - Arm day
+- Saturday
   - Bench press day
   - Compound
     - Barbell bench press 4-6RM 5SETS
@@ -55,11 +61,5 @@
   - Side lateral raise 6-8RM 5SETS
   - Dumbell fly 6-8RM 3SETS
   - Skull crusher 4-6RM 3SETS
-- Thursday
-  - Off day
-- Friday
-  - Arm day
-- Saturday
-  - Deadlift day
 - Sunday
   - Shoulder day

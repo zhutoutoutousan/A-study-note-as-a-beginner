@@ -1,9 +1,15 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [STUPID PROBLEMS](#stupid-problems)
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
     - [State storage](#state-storage)
   - [Control panel](#control-panel)
+
+# STUPID PROBLEMS
+- Muscle discomfort in calves
+  - [Creatine, Muscle Cramping and Muscle Tightness](http://www.andersenchiro.com/Creatine,%20Muscle%20Cramping%20and%20Muscle%20Tightness.htm)
+
 
 # Periodized plans
 ## How to make plans
@@ -47,6 +53,7 @@
     - Bench press 6RM 3SETS
 - Wednesday
   - Deadlift day
+  - 
 - Thursday
   - Off day
 - Friday

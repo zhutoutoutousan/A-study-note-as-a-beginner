@@ -12,7 +12,8 @@
   - Consider L-THEANINE + Caffeine Combination as the alternative for Creatine for a month as cold turkey 
     - DO IT AS SOON AS U FINISH PREWORKOUT
     - FIRST, stop taking creatine in the morning
-
+  - MY CASE:
+    - After going cold turkey on creatine intake, the sense of tenderness in my left calf has been relieved
 
 # Periodized plans
 ## How to make plans
@@ -26,4 +27,23 @@
 ## Control panel
 - Saturday
   - Shoulder + Tricep
-  - 
+  - Overhead press 4-6RM 5SETS
+  - Side lateral raise 6-8RM 8SETS
+  - Reverse fly 6-8RM 6SETS
+  - Skull crusher 4-6RM 5SETS
+  - Tricep pushaway 6-8RM 5SETS
+  - Close grip bench press 6-8RM 3SETS
+- Sunday
+  - Leg day
+- Monday
+  - Off day
+- Tuesday
+  - Chest day
+- Wednesday
+  - Back day
+- Thursday 
+  - Off day
+- Friday
+  - Arm day
+- Saturday
+  - Leg day

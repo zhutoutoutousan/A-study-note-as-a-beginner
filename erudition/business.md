@@ -55,7 +55,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - The foundations of business - 6th edition
 
 # Business
-## Business model
+## Plan
+### Business model
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)
   - [Link2](https://profesores.virtual.uniandes.edu.co/~isis1404/dokuwiki/lib/exe/fetch.php?media=bibliografia:9_business_model_generation.pdf)
@@ -65,9 +66,24 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Goal: Get an idea
     - Style: Osmosis
     - Progress: 20/275
-## Product development
+
+## Resource
+
+### Business investment
+#### Investment
+- 价值 - 张磊
+  - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
+    - Progress: 83/388
+
+#### Finance
+- Personal finance
+  - Resource: [有哪些理财的书值得推荐？](https://www.zhihu.com/question/19984574)
+  - A Handbook for Personal Financial Management
+    - [link](https://core.ac.uk/download/pdf/80993438.pdf)
+## Execution
+### Product development
 - [NPD process](https://www.openadr.org/assets/sce%20product%20development%20process%20-%20public.pdf)
-## Product Management
+### Product Management
 - The product manager's handbook
   - [link1](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_2/PRODUCTION%20MANAGEMENTThe%20Product%20Managers%20Handbook%20-%20The%20Complete%20Product%20Management%20Resource.%5B20.pdf)
   - Progress: 15/302
@@ -93,7 +109,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - Progress: 9:14/1:07:05
   - Product manager
     - Product managers **drive** the `vision`, `strategy`, `design`, and `execution` of their product.
-## Project Management
+### Project Management
 - Project Management for Dummies
   - [link1](http://ce.sharif.edu/courses/90-91/1/ce428-1/resources/root/ebooksclub.org__Project_Management_For_Dummies__3rd_Edition.pdf)
     - Process(For occupational survival)
@@ -101,13 +117,14 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - PMBOK
   - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
   - Progress: 3/574
-## Enterprise architecture
+## Management
+### Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
   - Process 1
     - Style: Osmosis
-
-## Business mindset
+## Ability
+### Business mindset
 - Cognition
   - 法家
     - 《韩非子》
@@ -137,18 +154,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - Boyd - Robert Coram
   - Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think
     - [link](http://ak.sbmu.ac.ir/uploads/Fact_Fullness_Hans_Rosling.pdf)
-## Strategic planning
+### Strategic planning
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
-
-## Business investment
-### Investment
-- 价值 - 张磊
-  - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
-    - Progress: 83/388
-
-### Finance
-- Personal finance
-  - A Handbook for Personal Financial Management
-    - [link](https://core.ac.uk/download/pdf/80993438.pdf)

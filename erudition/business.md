@@ -9,12 +9,11 @@ MEDIUM SIZE CONSTRUCTION
 ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
-# Industry oriented
-## Factory
+## Industry branch
+### Factory
 - 工厂设备精细化管理手册(第2版) - 弗布克(forbook)
   - Why is it so fxxxking  hard to find a free e-book online?
-# Inter-cultural relationship
-
+# People
 ## Basic language skills
 - DELF
   - 法语B1 DELF高分突破
@@ -36,25 +35,27 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Höreverstehen
     - Schriftliche ausgabe
 
-
-
 ## Business psychology
 - Psychology section
 - The Gene - An intimate history - Siddhartha Mukherjee
 - Group dynamics
-  - 
+
 ## Public relations
 - The new rules of marketing & PR
-  - 
 
-# Economics basics
+# Money
+
+## Economy
+
 - Introduction to Economics - John V. Van Sickle
   - [link1](https://mises-media.s3.amazonaws.com/Introduction%20to%20Economics_5.pdf)
 - Principle of Economics - RICE college
   - [link1](https://cnx.org/contents/aWGdK2jw@11.347:JgDXaOLP@11/Introduction)
 - The economics of money, banking and financial markets - Mishkin, Frederic S.
 - The foundations of business - 6th edition
-# Business model
+
+# Business
+## Business model
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)
   - [Link2](https://profesores.virtual.uniandes.edu.co/~isis1404/dokuwiki/lib/exe/fetch.php?media=bibliografia:9_business_model_generation.pdf)
@@ -100,14 +101,13 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - PMBOK
   - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
   - Progress: 3/574
-
-# Enterprise architecture
+## Enterprise architecture
 - TOGAF
   - [link](https://drive.google.com/file/d/1A_uFZl2GWM5STLFl-KCkVOVf-sl5BMTP/view?usp=sharing)
   - Process 1
     - Style: Osmosis
 
-# Business mindset
+## Business mindset
 - Cognition
   - 法家
     - 《韩非子》
@@ -115,10 +115,11 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - 李宗吾
     - 《厚黑学》
       - [link](http://bobzhang.dscloud.me/Calibre_Library_zi5/Li%20Zong%20Wu/Hou%20Hei%20Xue%20%28210%29/Hou%20Hei%20Xue%20-%20Li%20Zong%20Wu.pdf)
+- Vision
+  - [Rich dad Poor dad](http://fop86.com/Rich%20Dad%20Poor%20Dad/Rich%20Dad%20Poor%20Dad.pdf)
 - Strategy
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs
-- Mentality
   - L'etranger
     - [link1](https://www.anthropomada.com/bibliotheque/CAMUS-Letranger.pdf)
     - It's better to first know about what the book is about prior to devling into the world of French.
@@ -136,12 +137,18 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - Boyd - Robert Coram
   - Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think
     - [link](http://ak.sbmu.ac.ir/uploads/Fact_Fullness_Hans_Rosling.pdf)
-# Strategic planning
+## Strategic planning
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
 
-# Business investment
+## Business investment
+### Investment
 - 价值 - 张磊
   - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
     - Progress: 83/388
+
+### Finance
+- Personal finance
+  - A Handbook for Personal Financial Management
+    - [link](https://core.ac.uk/download/pdf/80993438.pdf)

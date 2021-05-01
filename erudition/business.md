@@ -117,6 +117,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
       - [link](http://bobzhang.dscloud.me/Calibre_Library_zi5/Li%20Zong%20Wu/Hou%20Hei%20Xue%20%28210%29/Hou%20Hei%20Xue%20-%20Li%20Zong%20Wu.pdf)
 - Vision
   - [Rich dad Poor dad](http://fop86.com/Rich%20Dad%20Poor%20Dad/Rich%20Dad%20Poor%20Dad.pdf)
+    - Progress: 18/241
 - Strategy
   - 孙子兵法
   - The Art of War for the Business Warrior: Strategy for Entrepreneurs
@@ -128,7 +129,6 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Progress(80% understanding) 10/97
     - Progress(100% understanding): 1/97
       - Should probably not do that
-
   - 人間失格 - 太宰治
     - [link](https://tatsu-zine.com/samples/aozora/ningen_shikkaku.pdf)
   - Man's Search for Meaning - Viktor Frankyl

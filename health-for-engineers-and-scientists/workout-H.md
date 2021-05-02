@@ -50,7 +50,6 @@
   - Bulgarian split squat 6-8RM 3SETS
   - Dumbell squat jump 8-12RM 2SETS
 - Monday
-  - Off day
   - With brothers
   - Bicep and Chest
 - Tuesday

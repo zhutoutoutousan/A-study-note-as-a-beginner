@@ -1,10 +1,16 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [\[NEW QUEST\]: QUANTIFY YOUR PATH TO STRENGTH](#new-quest-quantify-your-path-to-strength)
 - [STUPID PROBLEMS](#stupid-problems)
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
     - [State storage](#state-storage)
   - [Control panel](#control-panel)
+
+# \[NEW QUEST\]: QUANTIFY YOUR PATH TO STRENGTH
+- You've been training strength, hypertrophy for almost two years, and you have some progress but not optimized, now the power has been decided that you should find a way to quantify your progress so it becomes more controllable and tangible. Do your thing.
+- Resource
+  - [The Perfect Pull Workout (PUSH | PULL | LEGS)](https://www.youtube.com/watch?v=IOl42YpK_Es)
 
 # STUPID PROBLEMS
 - Muscle discomfort in calves

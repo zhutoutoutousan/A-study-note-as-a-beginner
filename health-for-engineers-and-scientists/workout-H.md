@@ -41,6 +41,14 @@
   - Close grip bench press 6-8RM 3SETS
 - Sunday
   - Leg day
+  - Compound
+    - Barbell squat 3-5RM 5SETS
+    - Leg press 4-6RM 8SETS
+  - Olympic
+    - Jerk and squat 5/8RM 5SETS
+    - Deadlift 5RM 5SETS
+  - Bulgarian split squat 6-8RM 3SETS
+  - Dumbell squat jump 8-12RM 2SETS
 - Monday
   - Off day
 - Tuesday

@@ -51,8 +51,10 @@
   - Dumbell squat jump 8-12RM 2SETS
 - Monday
   - Off day
+  - With brothers
+  - Bicep and Chest
 - Tuesday
-  - Chest day
+  - Off day
 - Wednesday
   - Back day
 - Thursday 

@@ -16,4 +16,4 @@
    1. 对工具的能力边界缺乏认知, 玩的不够, 有时候能用Z方法快速解决的, 但是俺不造, 用了A方法, 费时费事质量不高
    2. 团队合作节奏方面的零认知, 经验缺, 这个得一路滚
 
-Verdict: Carry on, control your primitive desire in a more effective way, you really should replace hanging in brothels or pursuing erotic experience in Massage lounge spending thousands of Yuan. Dabble in something else, maybe finance and investment. I'm glad that you are at least not buying that consumerism bullshit. Hustle dude. Keep an open mind.
+Verdict: Carry on, control your primitive desire in a more effective way, you really should replace hanging in brothels or pursuing erotic experience in Massage lounge spending thousands of Yuan WITH Dabbling in something else, maybe finance and investment. I'm glad that you are at least not buying that consumerism bullshit. Hustle dude. Keep an open mind.

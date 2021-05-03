@@ -60,3 +60,10 @@ setTimeout(function() {
 
 Something about Timsort
 - [Wiki](https://en.wikipedia.org/wiki/Timsort#:~:text=Timsort%20is%20a%20hybrid%20stable,in%20the%20Python%20programming%20language.)
+
+
+Something weird about `Array.prototype.sort`
+- In `leetcode` Array.sort() of \[-1,0,1,2,-1,-4\] returns \[-1,-1,-4,0,1,2\] which is actually not sorted, WTH did that happen
+  - You have to pass a callback to it
+    - But why do you need to pass a callback?
+- https://dmitripavlutin.com/javascript-array-sort-numbers/ 

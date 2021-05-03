@@ -56,6 +56,9 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 
 # Business
 ## Plan
+### Planning
+- [Handbook of Business Planning](https://www.businesspowertools.com/download/Handbook%20of%20Business%20Planning.pdf)
+- [The Business Plan - How to Win Your Investors’ Confidence](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/BUSINESS%20PLAN%20The%20Business%20Plan.pdf)
 ### Business model
 - Business Model Generation - A.Osterwalder & Y.Pigneur
   - [Link1](https://tudelft.openresearch.net/image/2015/10/28/business_model_generation.pdf)

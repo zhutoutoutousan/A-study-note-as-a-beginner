@@ -19,5 +19,10 @@
 Verdict: Carry on, control your primitive desire in a more effective way, you really should replace hanging in brothels or pursuing erotic experience in Massage lounge spending thousands of Yuan WITH Dabbling in something else, maybe finance and investment. I'm glad that you are at least not buying that consumerism bullshit. Hustle dude. Keep an open mind.
 
 MM:小脑图 --> 咱每月每周是不是得策划下~ 每天是否聪明的过无所谓, 至少以月 周为单位得聪明点儿把
+PS:有些商业策划的书, 不造对聪明值是否有影响...
+- [Handbook of Business Planning](https://www.businesspowertools.com/download/Handbook%20of%20Business%20Planning.pdf)
+- [The Business Plan - How to Win Your Investors’ Confidence](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/BUSINESS%20PLAN%20The%20Business%20Plan.pdf)
+
+
 https://mubu.com/app/edit/home/270nk6ktGUw
 https://share.mubu.com/doc/NjeiNyXaCM

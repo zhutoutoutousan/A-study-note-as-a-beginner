@@ -40,6 +40,15 @@
   - Tricep pushaway 6-8RM 5SETS
   - Close grip bench press 6-8RM 3SETS
 - Sunday
+ -  Off day(forced)
+- Monday
+  - With brothers
+  - Bicep and Chest
+- Tuesday
+  - Arm day
+- Wednesday
+  - Off day
+- Thursday 
   - Leg day
   - Compound
     - Barbell squat 3-5RM 5SETS
@@ -49,16 +58,9 @@
     - Deadlift 5RM 5SETS
   - Bulgarian split squat 6-8RM 3SETS
   - Dumbell squat jump 8-12RM 2SETS
-- Monday
-  - With brothers
-  - Bicep and Chest
-- Tuesday
-  - Off day
-- Wednesday
-  - Back day
-- Thursday 
-  - Off day
 - Friday
-  - Arm day
+  - Back day
 - Saturday
-  - Leg day
+  - Off day
+
+--> leg day next

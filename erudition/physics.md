@@ -21,6 +21,20 @@
   - [link1](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.940.269&rep=rep1&type=pdf)
 - Engineering Mechanics STATICS - R.C. Hibbeler
   - [link1](http://civilittee-hu.com/uploads/1/Static/book14th.pdf)
+  - Process 1
+    - Goal: With the goal and the attempted problems unbeknownst to me, yet I need to pass that stupid test, a bit of reading might help after all
+    - Style: Read it like a novel
+    - Resource
+      - Source the problem set solution
+    - Progress: 90/706
+    - Quick links
+      - Exercises: 1~P37
+      - Problems that you should dabble
+        - Problem set 2~P45-P54 --> notations
+        - Exp 2.10~P80~2.13 
+  - Process 2
+    - Goal: Quickly identify the points of interest
+    - Style skimming
 - Engineering Mechanics DYNAMICS - R.C. Hibbeler
   - [link1](http://xn--webducation-dbb.com/wp-content/uploads/2019/01/engineering_mechanics_-_dynamics_12th_edition_rc_hibbeler.pdf)
 # Electrodynamics

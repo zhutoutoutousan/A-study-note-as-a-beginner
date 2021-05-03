@@ -13,6 +13,16 @@
 - Physics for Scientists and Engineers - Serway Jewett
   - [Link1](https://sciold.ui.ac.ir/~sjalali/book/physics_serway.pdf) - 6th edition
   - [Link2](https://jsnegroup.net/data/GENERALPHYSICS(2)-Book_9thedition-Bookphy1019th-civilianteam.pdf) - 9th edition
+
+# Engineering mechanics
+- A Course Material on Engineering Mechanics
+  - [link1](http://www.sasurieengg.com/e-course-material/I-year-E-course-material-II-sem/11.GE6253%20ENGG_MECHANICS.pdf)
+- Design of Structural Mechanisms
+  - [link1](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.940.269&rep=rep1&type=pdf)
+- Engineering Mechanics STATICS - R.C. Hibbeler
+  - [link1](http://civilittee-hu.com/uploads/1/Static/book14th.pdf)
+- Engineering Mechanics DYNAMICS - R.C. Hibbeler
+  - [link1](http://xn--webducation-dbb.com/wp-content/uploads/2019/01/engineering_mechanics_-_dynamics_12th_edition_rc_hibbeler.pdf)
 # Electrodynamics
 - Electromagnetic Field Theory Bo Thide
   - [Link1](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/EMFT_Book.pdf)

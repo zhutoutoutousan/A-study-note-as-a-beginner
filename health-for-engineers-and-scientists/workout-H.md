@@ -46,6 +46,11 @@
   - Bicep and Chest
 - Tuesday
   - Arm day
+  - Bicep
+    - Weighted chin-up 4-6RM 5SETS
+    - Dumbell compound curl 6RM 5SETS
+  - Tricep
+  - Shoulder
 - Wednesday
   - Off day
 - Thursday 

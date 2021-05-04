@@ -23,7 +23,10 @@ Also, play around with TypeScript, Golang and Vite! --> gin-vue-admin
 3. 搞点事情, 迅速扫视下下边这几个ui框架的源码, 花点时间用图文形式描述一下其架构
 4. 读点TOGAF和COMTIA 了解下IT架构和IT策划
 5. 干活工具: three.js --> 搞个全栈游戏吧~ 理论基础: 计算机图形学的书~ 技术基础: WebGL读点书吧
+
+---
 6. 树莓派玩完一本书呗~
+7. Codewar, Leetcode继续撸铁呗
 
 # 2021/5/3
 

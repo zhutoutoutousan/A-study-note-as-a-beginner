@@ -15,6 +15,13 @@
   - [Link2](https://jsnegroup.net/data/GENERALPHYSICS(2)-Book_9thedition-Bookphy1019th-civilianteam.pdf) - 9th edition
 
 # Engineering mechanics
+- Structural and Stress Analysis
+  - [link](http://www.pacificcrn.com/Upload/file/201702/22/20170222180627_91221.pdf)
+  - Process 1
+    - Goal: Prepare for some stupid exam
+    - Style
+      - Read through with understanding, save and skip a chapter as soon as you feel too overwhelmed
+    - Progress: 28/756
 - A Course Material on Engineering Mechanics
   - [link1](http://www.sasurieengg.com/e-course-material/I-year-E-course-material-II-sem/11.GE6253%20ENGG_MECHANICS.pdf)
 - Design of Structural Mechanisms

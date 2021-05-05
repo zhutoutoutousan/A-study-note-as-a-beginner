@@ -322,6 +322,8 @@ is useful.
     - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
 # DevOps
+- Pro Git
+  - [link](https://git-scm.com/book/en/v2)
 ## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
 ## System administration

@@ -21,7 +21,16 @@
     - Goal: Prepare for some stupid exam
     - Style
       - Read through with understanding, save and skip a chapter as soon as you feel too overwhelmed
-    - Progress: 28/756
+    - Progress: 55/756
+  - Process 2
+    - Goal: Understand Complex methods
+  - Process 3
+    - Goal: Understand Stress and Strain
+    - Progress: 163-
+  - Process MAX
+    - Give your revise spreadsheet link
+- Fundamentals of machine theory and mechanisms 
+  - [link](http://alvarestech.com/temp/RoboAseaIRB6S2-Fiat/CinematicaExemplosManuaisConfigurador-DH-EMC/FundamentosdeCinematica%20eFinamicaMecanismos.pdf)
 - A Course Material on Engineering Mechanics
   - [link1](http://www.sasurieengg.com/e-course-material/I-year-E-course-material-II-sem/11.GE6253%20ENGG_MECHANICS.pdf)
 - Design of Structural Mechanisms
@@ -44,6 +53,7 @@
     - Style skimming
 - Engineering Mechanics DYNAMICS - R.C. Hibbeler
   - [link1](http://xn--webducation-dbb.com/wp-content/uploads/2019/01/engineering_mechanics_-_dynamics_12th_edition_rc_hibbeler.pdf)
+- Design of machinery: an introduction to the synthesis and analysis of mechanisms and machines
 # Electrodynamics
 - Electromagnetic Field Theory Bo Thide
   - [Link1](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/EMFT_Book.pdf)

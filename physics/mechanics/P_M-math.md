@@ -13,5 +13,11 @@ https://www.continuummechanics.org/basicmath.html
       - [Structural load](https://en.wikipedia.org/wiki/Structural_load)
     - Strain
       - [wiki](https://en.wikipedia.org/wiki/Deformation_(physics))
+      - Partial derivative of matrix
+        - https://mathinsight.org/derivative_matrix
+          - https://mathinsight.org/differentiability_multivariable_definition
+          - https://mathinsight.org/partial_derivative_introduction
+          - https://mathinsight.org/differentiability_multivariable_subtleties
+          - https://mathinsight.org/differentiability_multivariable_definition
   - Some experience from geometry deduction
     - Draw big diagrams with clarity, mark as much information as you can

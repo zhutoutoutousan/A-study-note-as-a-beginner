@@ -53,7 +53,9 @@
   - Shoulder
 - Wednesday
   - Off day
-- Thursday 
+- Thursday
+  - Back day 
+- Friday
   - Leg day
   - Compound
     - Barbell squat 3-5RM 5SETS
@@ -63,8 +65,6 @@
     - Deadlift 5RM 5SETS
   - Bulgarian split squat 6-8RM 3SETS
   - Dumbell squat jump 8-12RM 2SETS
-- Friday
-  - Back day
 - Saturday
   - Off day
 

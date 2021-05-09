@@ -28,6 +28,7 @@ Also, play around with TypeScript, Golang and Vite! --> gin-vue-admin
    3. Iview
 4. 读点TOGAF和COMTIA 了解下IT架构和IT策划
 5. 干活工具: three.js --> 搞个全栈游戏吧~ 理论基础: 计算机图形学的书~ 技术基础: WebGL读点书吧
+   1. https://blog.csdn.net/niuge8905/article/details/104366954
 
 ---
 6. 树莓派玩完一本书呗~

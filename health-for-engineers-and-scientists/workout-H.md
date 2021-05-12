@@ -32,32 +32,28 @@
 ### State storage
 ## Control panel
 - Sunday
- -  Off day(forced)
-- Monday
-  - With brothers
-  - Bicep and Chest
-- Tuesday
-  - Arm day
-  - Bicep
-    - Weighted chin-up 4-6RM 5SETS
-    - Dumbell compound curl 6RM 5SETS
-  - Tricep
-  - Shoulder
-- Wednesday
-  - Off day
-- Thursday
-  - Back day 
-- Friday
   - Leg day
-  - Compound
-    - Barbell squat 3-5RM 5SETS
-    - Leg press 4-6RM 8SETS
-  - Olympic
-    - Jerk and squat 5/8RM 5SETS
-    - Deadlift 5RM 5SETS
-  - Bulgarian split squat 6-8RM 3SETS
-  - Dumbell squat jump 8-12RM 2SETS
-- Saturday
+  - Barbell squat 4-6RM 5SETS
+  - Leg press 5RM 5SETS
+  - Bulgarian split squat 6-8RM 5SETS
+  - Front-squat 6-8RM 3SETS
+  - Barbell squat 6RM 3SETS
+- Monday
+  - Off day due to working overtime
+- Tuesday
+  - Shoulder + Bicep + Tricep
+  - Overhead press 4-6RM 5SETS
+  - Side lateral raise 6-8RM 5SETS
+  - Reverse fly 6-8RM 5SETS
+- Wednesday
+  - Chest day
+  - Barbell bench press 4-6RM 5SETS
+  - 
+- Thursday
   - Off day
-
---> leg day next
+- Friday
+  - Back day
+- Saturday
+  - Arm day(Tricep)
+- Sunday
+  - Off day

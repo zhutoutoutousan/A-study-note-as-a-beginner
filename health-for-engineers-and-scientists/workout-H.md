@@ -48,11 +48,16 @@
 - Wednesday
   - Chest day
   - Barbell bench press 4-6RM 5SETS
-  - 
 - Thursday
   - Off day
 - Friday
   - Back day
+  - Sumo deadlift 4-6RM 5SETS
+  - Wide grip pull-up 6-8RM 5SETS
+  - Chest supported row 6-8RM 5SETS
+  - Front-lever(tucked) 5SETS
+  - Front-pull 5SETS
+  - W-T-Y raise 5SETS
 - Saturday
   - Arm day(Tricep)
 - Sunday

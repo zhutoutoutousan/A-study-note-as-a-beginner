@@ -1,8 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [置顶](#置顶)
+- [Archived](#archived)
 - [2021/5/3](#202153)
-# 置顶
+# Archived
 - 习惯(尝试) 2021/5/3-2021/6/3
   - 编程早读(预计会枯燥死~ 听点小姐姐音乐)
     - TypeScript cheatsheet
@@ -35,7 +35,7 @@ Also, play around with TypeScript, Golang and Vite! --> gin-vue-admin
    1. https://blog.csdn.net/niuge8905/article/details/104366954
 
 ---
-6. 树莓派玩完一本书呗~
+
 7. Codewar, Leetcode继续撸铁呗
 
 # 2021/5/3

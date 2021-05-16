@@ -1,12 +1,19 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [Software](#software)
-  - [Hacking&Music(Optional)](#hackingmusicoptional)
-  - [Erudition(Optional)](#eruditionoptional)
-  - [Electronics(Optional)](#electronicsoptional)
-  - [Career driven(Optional)](#career-drivenoptional)
+- [Dashboard](#dashboard)
+- [Software](#software)
+- [Hacking&Music(Optional)](#hackingmusicoptional)
+- [Erudition(Optional)](#eruditionoptional)
+- [Electronics(Optional)](#electronicsoptional)
+- [Career driven(Optional)](#career-drivenoptional)
 
-## Software
+# Dashboard
+https://mubu.com/app/edit/home/270nk6ktGUw
+https://share.mubu.com/doc/NjeiNyXaCM
+
+
+
+# Software
 - Problem solving skills
   - Leetcode
   - Codewars
@@ -14,31 +21,25 @@
    1. Element-ui
    2. Ant-design
    3. Iview
+   4. *Compiler working principle*
 - Web3D
   - three.js full-stack game
   - Mathematics basics
     - Analysis(Terrace Tao)
     - Statistics(Logic of Science)
     - Engineering Mathematics
+  - Computer graphics
+  - BIMFACE
+    - [BIMFACE tutorial](https://jzkt.fwxgx.com/courses/4958/videos/15289/play)
+      - Progress: 31:34/52:21
 
-1. 干活工具: three.js --> 搞个全栈游戏吧~ 理论基础: 计算机图形学的书~ 技术基础: WebGL读点书吧
-   1. https://blog.csdn.net/niuge8905/article/details/104366954
+# Hacking&Music(Optional)
 
----
-1. Codewar, Leetcode继续撸铁呗
+# Erudition(Optional)
 
+# Electronics(Optional)
 
-
-
-
-
-## Hacking&Music(Optional)
-
-## Erudition(Optional)
-
-## Electronics(Optional)
-
-## Career driven(Optional)
+# Career driven(Optional)
 - COMPTIA
 - TOGAF
 - Business planning

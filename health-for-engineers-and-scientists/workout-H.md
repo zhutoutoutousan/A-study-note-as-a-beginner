@@ -50,6 +50,12 @@
   - Chest day
 - Sunday
   - Leg day
+  - Barbell squat 4-6RM 5SETS
+  - Leg press 4-6RM 5SETS
+  - Bulgarian split squat 6-8RM 5SETS
+  - Snatch 5SETS
+  - Jerk and clean 5SETS
+  - Front-squat 6RM 5SETS
 - Monday
   - Off day
 - Tuesday

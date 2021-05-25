@@ -29,6 +29,7 @@
     - [JavaScript](#javascript)
     - [Java](#java)
     - [Node.js](#nodejs)
+- [CTF](#ctf)
 - [Software Architecture](#software-architecture)
 
 # AI
@@ -423,6 +424,13 @@ is useful.
 - 深入浅出Node.js
   - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
 
+
+# CTF
+- picoCTF
+  - [picoCTF](https://picoctf.org/resources)
+- Getting Started in CTF: PicoCTF 2017 | Tutorial #1 (CTRL+F)
+  - [link](https://www.youtube.com/watch?v=x-qaeuw74WE&list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY)
+- [Improve Cybersecurity Skills with CTFs - PicoCTF Walkthrough (2018)](https://www.youtube.com/watch?v=uIkxsBgkpj8)
 # Software Architecture
 - The Architecture of Open Source Applications
   - [link](http://aosabook.org/en/index.html) 

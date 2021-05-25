@@ -19,11 +19,17 @@
   - [System administration](#system-administration)
 - [Game development](#game-development)
 - [Testing and automation](#testing-and-automation)
-- [Programming language](#programming-language)
-  - [C](#c)
-  - [C++](#c-1)
-  - [JavaScript](#javascript)
-  - [Java](#java)
+- [PL](#pl)
+- [Tools](#tools)
+  - [Low-Level sophistication](#low-level-sophistication)
+    - [C](#c)
+  - [Game development](#game-development-1)
+    - [C++](#c-1)
+  - [Web Development](#web-development)
+    - [JavaScript](#javascript)
+    - [Java](#java)
+    - [Node.js](#nodejs)
+- [Software Architecture](#software-architecture)
 
 # AI
 - Learn Python The Hard Way
@@ -347,11 +353,12 @@ is useful.
 # Testing and automation
 - [Selenium 2 Testing Tools - Learn to use Selenium testing tools from scratch](http://download.51testing.com/ddimg/uploadsoft/20140715/Selenium_2_Testing_Tools.pdf)
 
-# Programming language
-Dude, is it really a good idea to learn a programming language through piles of books? 
+# PL
 - Principles of Programming Languages
   - [Link1](https://www.cs.bgu.ac.il/~mira/ppl-book-full.pdf)
-## C
+# Tools
+## Low-Level sophistication
+### C
 - Motivation
   - I coded in C before and got a taste first-hand
   - I want to be a better programmer
@@ -368,7 +375,8 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Progress: 42/660
 - C book
   - [link1](https://publications.gbdirect.co.uk/c_book/)
-## C++
+## Game development
+### C++
 - Motivation:
   - Chromium V8 is written in C++, how come you don't have any familiarity with it?
   - [chromium - JavaScript deep dive](https://source.chromium.org/chromium/chromium/src/)
@@ -389,12 +397,14 @@ Dude, is it really a good idea to learn a programming language through piles of 
       - Progress: 25/1069
   - [link2](http://www.charleshouserjr.com/Cplus2.pdf)
   - [link3](http://ptgmedia.pearsoncmg.com/images/9780321714114/samplepages/0321714113.pdf)
-## JavaScript
+
+## Web Development
+### JavaScript
 - Motivations
   - Currently no need for motivations 
   - [The Best Programming Language To Learn In 2020](https://www.youtube.com/watch?v=K7-YFU5GpX4&t=25s)
 - Functional programming in JavaScript 24/274
-## Java
+### Java
 - Motivations:
   - Practice data structrure on Hackerrank videos
 - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
@@ -409,3 +419,10 @@ Dude, is it really a good idea to learn a programming language through piles of 
     - Follow along 64- 
       - This phase should be pleasant and fast
 
+### Node.js
+- 深入浅出Node.js
+  - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
+
+# Software Architecture
+- The Architecture of Open Source Applications
+  - [link](http://aosabook.org/en/index.html) 

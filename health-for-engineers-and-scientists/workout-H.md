@@ -60,5 +60,13 @@
   - Off day
 - Tuesday
   - Arm day
+    - Chin-up 6RM 5SETS
+    - Dumbbell compound curl 6-8RM 5SETS
+    - Barbell cheat curl 5RM 2SETS
+    - Skull crusher 5RM 5SETS
+    - Tricep pushaway 6-8RM 3SETS
+    - Shoulder press 5RM 3SETS
+    - Side lateral raise 6RM 5SETS
+    - Reverse fly 6RM 5SETS
 - Wednesday
   - Back day

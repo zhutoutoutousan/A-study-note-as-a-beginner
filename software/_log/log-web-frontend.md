@@ -10,6 +10,8 @@
     - [Your understandings of Event Queue? - 2021/3/29](#your-understandings-of-event-queue---2021329)
 - [Toolings and frameworks](#toolings-and-frameworks)
   - [Vue](#vue)
+    - [Vite deployment](#vite-deployment)
+      - [`[vite] Internal server error: URI malformed` when loading - 2021/3/15](#vite-internal-server-error-uri-malformed-when-loading---2021315)
     - [Architecture](#architecture)
       - [Understanding of Vue Lifecycle and its integration with complex website projects - 2021/4/23](#understanding-of-vue-lifecycle-and-its-integration-with-complex-website-projects---2021423)
       - [How do you manage SHIT LOADS OF API calls in Vue lifecycle? - 2021/4/25](#how-do-you-manage-shit-loads-of-api-calls-in-vue-lifecycle---2021425)
@@ -26,6 +28,7 @@
       - [Why does `Could not read property *** of undefined` keep occuring? - 2021/4/24](#why-does-could-not-read-property--of-undefined-keep-occuring---2021424)
       - [Why shouldn't you use inline style in big Vue projects? - 2021/4/24](#why-shouldnt-you-use-inline-style-in-big-vue-projects---2021424)
     - [Performance](#performance)
+      - [How to increase `XHR content download time`? - 2021/3/15](#how-to-increase-xhr-content-download-time---2021315)
 # Fundamentals
 ## HTML
 ## CSS
@@ -103,6 +106,8 @@ setTimeout(function() {
 
 # Toolings and frameworks
 ## Vue
+### Vite deployment
+#### `[vite] Internal server error: URI malformed` when loading - 2021/3/15
 ### Architecture
 #### Understanding of Vue Lifecycle and its integration with complex website projects - 2021/4/23
 #### How do you manage SHIT LOADS OF API calls in Vue lifecycle? - 2021/4/25
@@ -129,3 +134,14 @@ I have met with this problem more than ten times just ten days after I joined my
 #### Why shouldn't you use inline style in big Vue projects? - 2021/4/24
 
 ### Performance
+
+#### How to increase `XHR content download time`? - 2021/3/15
+
+**Background**: In Unity 3D WebGL applications, no matter it is about loading `Assetbundle` to the already-rendered scene, or loading the initial scene when user taps on the desk waiting for the loading bar to fill or playing, browsing pre-rendered content, it takes time for Unity 3D `xhr` request to download content
+
+**Goal**:
+
+**Reference materials**:
+
+- [Chapter 15. XMLHttpRequest](https://www.oreilly.com/library/view/high-performance-browser/9781449344757/ch15.html)
+- [Resource Timing](https://www.w3.org/TR/resource-timing/)

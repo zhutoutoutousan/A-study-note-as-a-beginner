@@ -31,42 +31,9 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Wednesday
-  - Arm day
-  - Chinup 4-6RM 5SETS
-  - Dumbbell compound curl 6-8RM 5SETS
-  - Skull crusher 4-6RM 5SETS
-  - Tricep pushaway 6-8RM 3SETS
-  - Tricep pressdown 6-8RM 3SETS
-  - Tricep kickback 6-8RM 3SETS
-  - Overhead press 4-6RM 3SETS
-  - Side lateral raise 6-8RM 5SETS
-  - Reverse fly 6-8RM 3SETS
-- Thursday
-  - Back day
-- Friday
-  - Off day
 - Saturday
-  - Chest day
+  - Shoulder day
 - Sunday
-  - Leg day
-  - Barbell squat 4-6RM 5SETS
-  - Leg press 4-6RM 5SETS
-  - Bulgarian split squat 6-8RM 5SETS
-  - Snatch 5SETS
-  - Jerk and clean 5SETS
-  - Front-squat 6RM 5SETS
-- Monday
   - Off day
-- Tuesday
-  - Arm day
-    - Chin-up 6RM 5SETS
-    - Dumbbell compound curl 6-8RM 5SETS
-    - Barbell cheat curl 5RM 2SETS
-    - Skull crusher 5RM 5SETS
-    - Tricep pushaway 6-8RM 3SETS
-    - Shoulder press 5RM 3SETS
-    - Side lateral raise 6RM 5SETS
-    - Reverse fly 6RM 5SETS
-- Wednesday
-  - Back day
+- Monday
+  - Chest day

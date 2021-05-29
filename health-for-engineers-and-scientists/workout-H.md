@@ -33,7 +33,9 @@
 ## Control panel
 - Saturday
   - Shoulder day
+  - Old shit
 - Sunday
   - Off day
 - Monday
   - Chest day
+  - More old shit

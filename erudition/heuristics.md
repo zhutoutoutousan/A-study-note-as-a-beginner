@@ -44,7 +44,10 @@
 - It probably doesn't work for beginners for its loss of value of being compact
 - Perhaps you should put it into your schedule
 - And you should probably develop your personal cheatsheet, *globally* I mean over the years
-
+- There is an amazing aspect about cheatsheet
+  - If there is an area of field the knowledge structure of which is almost or entirely identical to one that you know inside-out, you can use cheatsheet as the entry instead of experience.(CTRL+C, CTRL+V tada~)
+    - Say you've reached **Spanish C2 level**, you could just use **cheatsheet** to boost your **Portuguese** to reach independent level in the matter of days
+    - We could list more scenarios that resemble the above
 ## Controlled flush of information
 - Control the outlet of information input as to serve for intentive purposes
 # Strange thinking

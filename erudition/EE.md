@@ -49,4 +49,9 @@
 
 
 # DSP and MC
+## Raspberry 4
 - [Raspberrypi beginners guide](https://magpi.raspberrypi.org/books/beginners-guide-4th-ed)
+  - Progress: 248/248
+  - Too easy
+### Hardware
+- [[笔记分享] [Display] MIPI 协议之DSI](https://blog.csdn.net/kris_fei/article/details/77774995)

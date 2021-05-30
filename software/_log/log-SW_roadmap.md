@@ -1,4 +1,8 @@
-# 置顶
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Archived](#archived)
+- [2021/5/3](#202153)
+# Archived
 - 习惯(尝试) 2021/5/3-2021/6/3
   - 编程早读(预计会枯燥死~ 听点小姐姐音乐)
     - TypeScript cheatsheet
@@ -17,15 +21,21 @@
   - ?成果量化?(直觉告诉我无需?)
 
 目前讨论下来现阶段的重点
-1. 搞点事情~ 既然你的德语已经有点ok了, 那就用德语总结一下目前你对git的理解吧!(英语和中文都太熟悉, 就木有什么快感, 不如撸管), 毕竟MM用得到 噢噢噢噢, 对了~ Ernstlich hatten Sie ein Aufgabe, die automatische Git Script zu schreiben, um schneller und sicherer deployment einzuschaffen. Geben Sie einigen Gedenken
+1. According to the book *Pro Git*, draw a pipeline diagram of Git workflow describing how it works by yourself
+   1. Diagram
+   2. Git Automation --> CircleCI TravisCI
 2. Now it's the time for you to give it some thoughts on a bullet-proof Vue admin system structure~
 Also, play around with TypeScript, Golang and Vite! --> gin-vue-admin
 3. 搞点事情, 迅速扫视下下边这几个ui框架的源码, 花点时间用图文形式描述一下其架构
+   1. Element-ui
+   2. Ant-design
+   3. Iview
 4. 读点TOGAF和COMTIA 了解下IT架构和IT策划
 5. 干活工具: three.js --> 搞个全栈游戏吧~ 理论基础: 计算机图形学的书~ 技术基础: WebGL读点书吧
+   1. https://blog.csdn.net/niuge8905/article/details/104366954
 
 ---
-6. 树莓派玩完一本书呗~
+
 7. Codewar, Leetcode继续撸铁呗
 
 # 2021/5/3

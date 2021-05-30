@@ -1,25 +1,3 @@
-# 2021/3/29
-
-## How would you approach the designing process of a single frontend component for any given requirements?
-I was asked yet another question that I certainly not able to answer in an elegant manner. 
-- [Vue优雅设计一个组件](https://juejin.cn/post/6844904050215878663)
-
-# 2021/4/22
-## Property or method xxx is not defined on the instance but ...
-
-Fxxk, just a typo
-
-# 2021/4/23
-## Understanding of Vue Lifecycle and its integration with complex website projects
-
-# 2021/4/24
-## Why does `Could not read property *** of undefined` keep occuring?
-I have met with this problem more than ten times just ten days after I joined my new company, can you do sth about that?
-
-## Why shouldn't you use inline style in big Vue projects?
-
-## Plz upgrade this `timeline` component so that it is perfect
-```vue
 <template>
     <div id="dataTimeline" ref="timeline" v-if="dataList" >
         <div class="timeline" v-if="dataList">
@@ -151,7 +129,6 @@ export default {
         dataList: {
             type:Array,
             default: []
-            // TIAN: ISSUE: 如果这里有default初始化，父组件调用该子组件时会报错: timeItemList未定义
         },
         timelineColor:{ // 组建背景颜色
             type: String,
@@ -167,9 +144,6 @@ export default {
         return parseTime(time, '{y}年{m}月{d} {h}:{i}')
       }
     },
-    created() {
-        // this.docQueryAll();
-    },
     updated() {
       const timeline = this.$refs.timeline
       timeline.style.setProperty('--timelineColor', this.timelineColor)
@@ -184,10 +158,7 @@ export default {
             done();
         },
         handleChangeClick(index) {
-            console.log('This event has been clicked')
-            console.log(index);
             this.currentAlterationIndex = index;
-            // this.drawer = !this.drawer;
         },
         docQueryAll() {
             docQueryAll().then(res => {
@@ -199,20 +170,6 @@ export default {
         },
         handleCheckModel() {
             this.$router.push({path: '/model'})
-
-            // REQUIRES: Cunlong Wu got the API shit
-            // this.$store.dispatch('app/setSingle', this.info.isSingle);
-            // this.$store.dispatch('app/setModelType', this.info.isSingle);
-            // if (this.info.isSingle === 1) {
-            //     //全场模型
-            //     this.$store.dispatch('app/updateVersion', this.info.versionId);
-            // }
-            // //轻量化模型
-            // this.$router.push({
-            //     path: '/model',
-            //     query: { modelCode: this.info.modelCode }
-            // });
-
         }
     }
 }
@@ -435,18 +392,3 @@ export default {
 }
 
 </style>
-
-```
-## Something that I had observed about `scoped`
-Sometimes, during hot reload debugging process, when I changed the style to `scoped`, the page loses its corresponding style, but soon after I reload, everything seems normal.
-For a newbie like me, it could be misleading that I might start to think `scoped` doesn't work as I think it should be
-
-- [从vue-loader源码分析CSS Scoped的实现](https://juejin.cn/post/6844903949900742670)
-
-# 2021/4/25
-## How do you manage SHIT LOADS OF API calls in Vue lifecycle?
-- [vue 定时 (自定义时间) 调用接口【详解】](https://blog.csdn.net/weixin_43970743/article/details/103731289)
-
-## What does `let self = this` mean? Why you should use it?
-
-## Could you explain to me how to use `v-model`  in big vue projects?

@@ -6,6 +6,7 @@
   - [Strategic development and visions](#strategic-development-and-visions)
   - [Problem solving skills](#problem-solving-skills)
   - [Coding and development](#coding-and-development)
+- [2021/5~](#20215)
   - [Hacking&Music(Optional)](#hackingmusicoptional)
   - [Erudition(Optional)](#eruditionoptional)
   - [Electronics(Optional)](#electronicsoptional)
@@ -58,6 +59,23 @@
         - [mongo-express](https://github.com/mongo-express/mongo-express/releases/tag/0.29.10)
   - Understand GraphQL
     - https://github.com/graphql-go/graphql
+
+# 2021/5~
+- Codewars --> Current Kata 
+  - [Counting Change Combinations](https://www.codewars.com/kata/541af676b589989aed0009e7/train/javascript)
+```javascript
+var countChange = function(money, coins) {
+  // your implementation here
+  
+  // Step 1: Rule out all of those elements the value of which is bigger than the sum
+  // Step 2: Sort the array
+  // Step 3: Iteration begins
+      // Stage 1         
+}
+```
+
+
+
 ## Hacking&Music(Optional)
 
 ## Erudition(Optional)

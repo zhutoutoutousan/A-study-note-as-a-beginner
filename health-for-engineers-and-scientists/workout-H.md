@@ -32,40 +32,10 @@
 ### State storage
 ## Control panel
 - Saturday
-  - Shoulder + Tricep
-  - Overhead press 4-6RM 5SETS
-  - Side lateral raise 6-8RM 8SETS
-  - Reverse fly 6-8RM 6SETS
-  - Skull crusher 4-6RM 5SETS
-  - Tricep pushaway 6-8RM 5SETS
-  - Close grip bench press 6-8RM 3SETS
+  - Shoulder day
+  - Old shit
 - Sunday
- -  Off day(forced)
+  - Off day
 - Monday
-  - With brothers
-  - Bicep and Chest
-- Tuesday
-  - Arm day
-  - Bicep
-    - Weighted chin-up 4-6RM 5SETS
-    - Dumbell compound curl 6RM 5SETS
-  - Tricep
-  - Shoulder
-- Wednesday
-  - Off day
-- Thursday 
-  - Leg day
-  - Compound
-    - Barbell squat 3-5RM 5SETS
-    - Leg press 4-6RM 8SETS
-  - Olympic
-    - Jerk and squat 5/8RM 5SETS
-    - Deadlift 5RM 5SETS
-  - Bulgarian split squat 6-8RM 3SETS
-  - Dumbell squat jump 8-12RM 2SETS
-- Friday
-  - Back day
-- Saturday
-  - Off day
-
---> leg day next
+  - Chest day
+  - More old shit

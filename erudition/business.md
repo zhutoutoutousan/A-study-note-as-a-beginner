@@ -13,8 +13,19 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 ### Factory
 - 工厂设备精细化管理手册(第2版) - 弗布克(forbook)
   - Why is it so fxxxking  hard to find a free e-book online?
-# People
-## Basic language skills
+# Skills
+## Analysis
+- Framework
+  - The thinker's guide to analytic thinking
+    - [link](http://ulms.com.au/wp-content/uploads/2018/02/Analytic-Thinking.pdf)
+  - The Miniature Guide to Critical Thinking Concepts and Tools
+    - [link](https://web.iitd.ac.in/~nkurur/2015-16/IIsem/cml522/CriticalThinking.pdf)
+- Extensions
+  - Analytical Skills for AI and Data Science: Building Skills for an AI-Driven Enterprise
+  - People Skills for Analytical Thinkers
+  - Thinking in Systems
+    - [link](https://wtf.tw/ref/meadows.pdf)
+## Language
 - DELF
   - 法语B1 DELF高分突破
     - Process 1
@@ -34,14 +45,17 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Leseverstehen
     - Höreverstehen
     - Schriftliche ausgabe
-
-## Business psychology
+## People
 - Psychology section
 - The Gene - An intimate history - Siddhartha Mukherjee
 - Group dynamics
 
 ## Public relations
 - The new rules of marketing & PR
+
+## Mindsets
+- Thinking like a lawyer
+  - [link](https://codolc.com/books/Thinking_Like_a_Lawyer.pdf)
 
 # Money
 

@@ -34,6 +34,14 @@
 - A Guide to the Good Life: The Ancient Art of Stoic Joy
 - Solving Mathematical Problems: A Personal Perspective
 - 12 Rules for Life: An Antidote to Chaos --- J. B. Peterson
+
+# Methodologies
+## Cheatsheets
+- It seems that you cheatsheet methods corresponds to **WHAT WORKS WHEN LEARNING LANGUAGES** as a intermediate or advanced learner
+- It probably doesn't work for beginners for its loss of value of being compact
+- Perhaps you should put it into your schedule
+- And you should probably develop your personal cheatsheet, *globally* I mean over the years
+
 # Strange thinking
 - Is there a negative frequency?
   - [wiki](https://en.wikipedia.org/wiki/Negative_frequency)

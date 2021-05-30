@@ -48,6 +48,7 @@
   - If there is an area of field the knowledge structure of which is almost or entirely identical to one that you know inside-out, you can use cheatsheet as the entry instead of experience.(CTRL+C, CTRL+V tada~)
     - Say you've reached **Spanish C2 level**, you could just use **cheatsheet** to boost your **Portuguese** to reach independent level in the matter of days
     - We could list more scenarios that resemble the above
+- The opinionated saying that **anyone has his own way of learning** could be effectively challenged and profitted by coming up with a solution that identifies the feasibility of CTRL+C & CTRL+V process by a verified muti-dimentional matching algorithm
 ## Controlled flush of information
 - Control the outlet of information input as to serve for intentive purposes
 # Strange thinking

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Roadmap](#roadmap)
+- [Niche fxxking techniques](#niche-fxxking-techniques)
 - [Study style(Academic)](#study-styleacademic)
   - [From my perspective](#from-my-perspective)
   - [The science behind learning](#the-science-behind-learning)
@@ -100,6 +101,23 @@
 - [The map of physics](https://www.youtube.com/watch?v=ZihywtixUYo)
 - [The map of Chemistry](https://www.youtube.com/watch?v=P3RXtoYCW4M)
 - [The map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+
+# Niche fxxking techniques
+Got a smart dude sharing a way to capture book progress in an elegant and effective way
+It sort of goes like this:
+Book:
+- Chapter  Timestamp1 Timestamp2 ...
+  - Sub sessions Timestamp1 Timestamp2
+  - blablabla
+- blablabla
+
+Colored Timestamp text shows the performance assessment of the active recall session
+
+
+
+
+
+
 # Study style(Academic)
 ## From my perspective
 - Top-down approach is probably for me. Top represents something I'm drawn to. Many universities use Bottom-up approach, which I think is confusing, deflating and ineffective.

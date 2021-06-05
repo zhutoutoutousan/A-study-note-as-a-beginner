@@ -9,6 +9,9 @@
   - [x] Require Spanish Level **B1**
 - La Sombra del Viento
   - [link](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
+
+# Drama
+- [Die Technik des Dramas ](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
 # Language
 ## Latin
 - Oxford Latin Course

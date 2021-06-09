@@ -213,3 +213,7 @@ function Machine(cpu) {
     
 }
 ```
+
+# 2021/6/10
+## Recover a secret string from random triplets
+- Found a hashtable-like solution, create

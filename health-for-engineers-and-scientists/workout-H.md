@@ -31,3 +31,18 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
+- Wednesday
+  - Arm day
+  - Bicep + Tricep + Mid delts
+- Thursday
+  - Leg day
+- Friday
+  - Off day
+- Saturday
+  - Shoulder day
+- Sunday
+  - Back day
+- Monday
+  - Off day
+- Tuesday
+  - Chest day

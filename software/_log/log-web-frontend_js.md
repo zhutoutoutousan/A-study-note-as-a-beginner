@@ -1,3 +1,5 @@
+# Buffer to permanent note
+
 # 2021/6/8
 ## For JavaScript functions, the arguments may be read as an object
 

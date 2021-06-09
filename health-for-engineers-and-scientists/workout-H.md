@@ -31,11 +31,3 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 ### State storage
 ## Control panel
-- Tuesday
-  - Arm day
-  - Same old shit, no time to plan
-- Wednesday
-  - Off day
-- Thursday
-  - Chest day
-  - Same old shit, get money, don't put 2 much time on that

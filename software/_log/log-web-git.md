@@ -1,5 +1,5 @@
 # 2021/6/10
-## Git reading materials bundle --- Read it when you have time
+## Git reading materials bundle --- Read it when you have time to level up
 https://www.google.com/search?q=git+push+and+tags&oq=git+push+and+tags&aqs=chrome.0.0j0i22i30l8j69i64.2183j0j1&sourceid=chrome&ie=UTF-8
 https://stackoverflow.com/questions/5308816/how-to-use-git-merge-squash
 https://git-scm.com/docs/git-rebase
@@ -16,5 +16,6 @@ https://www.google.com/search?q=git+remote+-v&oq=git+remote+-v&aqs=chrome..69i57
 https://stackoverflow.com/questions/9529078/how-do-i-use-git-reset-hard-head-to-revert-to-a-previous-commit
 https://devconnected.com/how-to-git-reset-to-head/#:~:text=To%20hard%20reset%20files%20to,option%20and%20specify%20the%20HEAD.&text=The%20purpose%20of%20the%20%E2%80%9Cgit,before%20HEAD%20and%20so%20on).
 https://www.google.com/search?q=git+reset+--hard+head~&oq=git+reset+--hard+head~&aqs=chrome..69i57j69i64.8079j0j1&sourceid=chrome&ie=UTF-8
-
+https://nvie.com/posts/a-successful-git-branching-model/
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 ## After obtaining a bit more of experience, give a decision tree of operations and git implementation

@@ -35,3 +35,7 @@
   - [link1](http://www.sdkrashen.com/content/books/principles_and_practice.pdf)
 - Fluent forever
   - [Fluent Forever Summary and Review](https://lifeclub.org/books/fluent-forever-gabriel-wyner-review-summary)
+
+# Translation
+- [英语影视剧汉译教程](https://book.douban.com/subject/20428664)
+- [The Translator’s Guide to Chinglish](#T)

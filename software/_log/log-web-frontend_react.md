@@ -43,3 +43,6 @@
 
 ### Endpoint definition
 - Add a few interesting layout and make some interesting api calls
+- Guided view would be good
+  - [api entry](https://randomuser.me/api)
+  - [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)

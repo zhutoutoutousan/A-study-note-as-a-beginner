@@ -40,3 +40,6 @@
 
 ### Some peripheral work
 - UmiJS
+
+### Endpoint definition
+- Add a few interesting layout and make some interesting api calls

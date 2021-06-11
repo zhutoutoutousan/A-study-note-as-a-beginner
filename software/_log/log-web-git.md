@@ -1,3 +1,35 @@
+
+# Buffer to static knowledge store
+
+# 2021/3/18
+## `fatal: unable to access 'https://github.com/jquery/jquery/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443`
+
+### First attempt
+
+- Why did that happen when everything worked fine before?
+  - Could be something wrong with GitHub itself?
+
+**Current solution**:
+```
+git config --global http.sslVerify false
+```
+
+Reference
+- https://blog.csdn.net/ximaiyao1984/article/details/110822578
+
+### Second attempt
+
+More problems: 
+```
+fatal: unable to access 'https://github.com/golang/tools.git/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443
+```
+
+even after disabling sslVerify
+
+**Solution**: `git clone git@github.com:golang/tools.git` currently works fine
+
+**Why**?
+
 # 2021/6/10
 ## Git reading materials bundle --- Read it when you have time to level up
 https://www.google.com/search?q=git+push+and+tags&oq=git+push+and+tags&aqs=chrome.0.0j0i22i30l8j69i64.2183j0j1&sourceid=chrome&ie=UTF-8
@@ -19,3 +51,25 @@ https://www.google.com/search?q=git+reset+--hard+head~&oq=git+reset+--hard+head~
 https://nvie.com/posts/a-successful-git-branching-model/
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 ## After obtaining a bit more of experience, give a decision tree of operations and git implementation
+
+# 2021/6/11
+## Explain key concepts about Git
+- Branch
+- Head
+- Gitflow
+- Hook
+
+## List the difference among `git stage`, `git unstage`, `git stash`, `git add`, `git commit`, `git push`, `git pull`, `git reset`
+- There's no such command as `git stage`???
+  - Use `git add` to stage files
+
+
+
+## List the difference among `git checkout`, `git merge`, `git pull`, `git status`
+
+## List the difference among `git rebase`, `git reset`, `git log`, `git last`
+
+## List all frequent operations of git during difference phase of development lifecycle
+- General
+  - set command alias
+    - `git config --global alias.co checkout`

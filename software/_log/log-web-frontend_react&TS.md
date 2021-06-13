@@ -46,3 +46,6 @@
 - Guided view would be good
   - [api entry](https://randomuser.me/api)
   - [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)
+
+# 2021/6/12
+## Difference between type and interface in TypeScript

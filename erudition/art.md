@@ -5,7 +5,8 @@
 # Game design
 - Core Techniques and Algorithms in game programming
   - [Link1](http://index-of.co.uk/Algorithms/Core%20Techniques%20and%20Algorithms%20in%20Game%20Programming.pdf)
-
+- The art of game design
+  - [link1](https://iums.ac.ir/uploads/%5BJesse_Schell%5D_The_Art_of_Game_Design_A_book_of_l(BookFi).pdf)
 # Music orchestration
 - [Linux midi orchestration](http://www.schaffter.ca/pdf/linux-midi-orchestration.pdf)
 

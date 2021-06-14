@@ -56,6 +56,13 @@
 - Essentials of game theory
   - [link1](http://physics.ujep.cz/~jskvor/KVM/TeorieHer/shoham.pdf)
 
+
+# NLP
+- Natural Language Processing with Python
+  - [link](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)
+- Neuro Linguistic Programming
+  - Neuro Linguistic Programming WorkBook
+    - [link1](https://doc.lagout.org/science/0_Computer%20Science/3_Theory/Neural%20Networks/Neuro%20Linguistic%20Programming%20WorkBook.pdf)
 # Specific research
 - 数据分析与知识发现 2021 第2期
   - 特定舆情的意见领袖挖掘和关键传播路径预测

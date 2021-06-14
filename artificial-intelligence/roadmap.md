@@ -1,12 +1,13 @@
-# Motivation: Why bother?
-## Front-end development
-- [AI will generate a full function React app for you](https://www.linkedin.com/posts/stevenouri_innovation-technology-artificialintelligence-activity-6690963606454042624-u1GG)
+# NLP
+- [NLP研究入门之道](https://github.com/zibuyu/research_tao)
+- [自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
+- https://awesome.dbyun.net/study/details?mid=142&id=6220
+# General skills
+## Theoretical groundwork
 
-# Theoretical groundwork
+## Problem solving skills
 
-# Problem solving skills
-
-# Application
+## Vision
 
 # Resource
 - [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)

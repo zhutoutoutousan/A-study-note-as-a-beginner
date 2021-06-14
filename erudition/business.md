@@ -10,6 +10,8 @@ ORGANIZATIONS: A DECISION-MAKING
 MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequence=1&isAllowed=y)
 
 ## Industry branch
+### Music
+- [All You Need to Know About the Music Business](https://pineapplestream.com/images/Musicbooks/Passman-All%20You%20Need%20To%20Know%20About%20The%20Music%20Business%20(7th%20Edition).pdf)
 ### Factory
 - 工厂设备精细化管理手册(第2版) - 弗布克(forbook)
   - Why is it so fxxxking  hard to find a free e-book online?

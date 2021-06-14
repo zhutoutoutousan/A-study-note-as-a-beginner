@@ -1,7 +1,10 @@
 # NLP
-- [NLP研究入门之道](https://github.com/zibuyu/research_tao)
-- [自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
-- https://awesome.dbyun.net/study/details?mid=142&id=6220
+- [NLP-roadmap](https://github.com/graykode/nlp-roadmap)
+  - Probability and statistics
+- Micellaneous
+  - [NLP研究入门之道](https://github.com/zibuyu/research_tao)
+  - [自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
+  - https://awesome.dbyun.net/study/details?mid=142&id=6220
 # General skills
 ## Theoretical groundwork
 

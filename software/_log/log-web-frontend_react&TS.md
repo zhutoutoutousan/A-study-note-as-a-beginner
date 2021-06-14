@@ -49,3 +49,8 @@
 
 # 2021/6/12
 ## Difference between type and interface in TypeScript
+
+# 2021/6/14
+## Difference between useEffect, useState, useMemom
+
+## Explain to me what React.FC is

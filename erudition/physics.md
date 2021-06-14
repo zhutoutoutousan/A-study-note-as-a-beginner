@@ -47,12 +47,18 @@
       - Exercises: 1~P37
       - Problems that you should dabble
         - Problem set 2~P45-P54 --> notations
-        - Exp 2.10~P80~2.13 
+        - Exp 2.10~P80~2.13
+    - Quick entries
+      - **Progress Specification Sheet**(**PSS**)
+        - Ur supposed to kopieren ein Link hier bitte
+      - Spider gram
+      - Mindmap 
   - Process 2
     - Goal: Quickly identify the points of interest
     - Style skimming
 - Engineering Mechanics DYNAMICS - R.C. Hibbeler
   - [link1](http://xn--webducation-dbb.com/wp-content/uploads/2019/01/engineering_mechanics_-_dynamics_12th_edition_rc_hibbeler.pdf)
+- MACHINES & MECHANISMS - Applied Kinematic Analysis by D.H. Myszka
 - Design of machinery: an introduction to the synthesis and analysis of mechanisms and machines
 # Electrodynamics
 - Electromagnetic Field Theory Bo Thide

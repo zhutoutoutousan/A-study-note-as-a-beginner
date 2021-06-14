@@ -4,6 +4,7 @@
   - [Training DSA for fun, but outputs shitty error... Gonna get to learn some Python 101s](#training-dsa-for-fun-but-outputs-shitty-error-gonna-get-to-learn-some-python-101s)
 - [2021/3/28](#2021328)
   - [ERROR: Could not install packages due to an EnvironmentError](#error-could-not-install-packages-due-to-an-environmenterror)
+- [2021/6/11](#2021611)
 # 2021/03/21
 ## Training DSA for fun, but outputs shitty error... Gonna get to learn some Python 101s
 ```
@@ -25,3 +26,6 @@ Consider using the `--user` option or check the permissions.
 ```
 
 - https://stackoverflow.com/questions/51912999/could-not-install-packages-due-to-an-environmenterror-winerror-5-access-is-de
+
+# 2021/6/11
+- Did some info-gathering shit that for the first time I think really valuable~~~ precise-subtitling

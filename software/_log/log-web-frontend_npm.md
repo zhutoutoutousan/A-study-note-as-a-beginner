@@ -4,6 +4,9 @@
   - [Element-ui中node-gyp安装出错](#element-ui中node-gyp安装出错)
     - [`node-gyp`是啥?](#node-gyp是啥)
     - [解决问题](#解决问题)
+- [2021/6/11](#2021611)
+  - [What does `npm audit fix` do under the hood?](#what-does-npm-audit-fix-do-under-the-hood)
+  - [For `ant-design-pro` project, explain to me what are inside `package.json`](#for-ant-design-pro-project-explain-to-me-what-are-inside-packagejson)
 # 2021/3/17
 
 ## Element-ui中node-gyp安装出错
@@ -32,3 +35,31 @@ Build failed with error code: 7
 - https://github.com/nodejs/node-gyp/issues/2323
 - https://github.com/nodejs/node-gyp/wiki/Updating-npm%27s-bundled-node-gyp
 - It might be compatibility issues between `node-gyp`, `node-sass`, and `node`
+
+
+# 2021/6/11
+## What does `npm audit fix` do under the hood?
+## For `ant-design-pro` project, explain to me what are inside `package.json`
+- Basic package.json structure
+  - name
+  - version
+  - private
+    - ?
+  - description
+  - scripts
+    - Basic local operations
+    - Docker deploy commands
+    - Developer styling rules implementation
+    - Local deployment commands
+    - Testing commands
+    - Template engines and ueber languages
+  - lint-staged
+  - browserlist
+  - dependencies
+  - devDependencies
+  - engines
+    - Node version
+  - checkFiles
+    - ?
+  - create-umi
+  - ?

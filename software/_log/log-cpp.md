@@ -53,3 +53,6 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ## std::erase under the hood
 Maybe later, today I just sort of want to log it and leave it without doing anything:) How naughty~
 https://blog.csdn.net/TINA_DD/article/details/111937139
+
+# 2021/6/13
+## Explain to me what \#include does in cpp

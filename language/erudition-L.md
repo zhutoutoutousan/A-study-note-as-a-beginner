@@ -1,4 +1,19 @@
-# Roman
+# Language basics
+## Latin
+- Oxford Latin Course
+  - [Link1](http://web.lancastercountryday.org/books/latin/OxfordLatin.pdf)
+  - !: Master Latin typewriting first
+## Greek
+- From Zero to Greek
+  - [Link1](http://www.dramata.com/ACL_2008_Zero_to_Greek_workshop.pdf)
+  - Learn Greek typewriting first to unlock fast customized local note taking system
+- Beginner's guide to Arabic
+  - [Link1](https://www.learnarabiconline.com/Beginners_Guide_To_Arabic.pdf)
+
+
+# Translation reference base
+
+## Roman
 - Воскрешение --- Л. Н. Толстой.
   - [Воскресение - Лев Толстой](https://ilibrary.ru/text/1462/index.html)
   - Requires at least **Russian B1 level** to initiate online search for e-books | Your level: Lower A2
@@ -10,19 +25,12 @@
 - La Sombra del Viento
   - [link](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
 
-# Drama
+## Drama
 - [Die Technik des Dramas ](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
-# Language
-## Latin
-- Oxford Latin Course
-  - [Link1](http://web.lancastercountryday.org/books/latin/OxfordLatin.pdf)
-  - !: Master Latin typewriting first
-## Greek
-- From Zero to Greek
-  - [Link1](http://www.dramata.com/ACL_2008_Zero_to_Greek_workshop.pdf)
-  - Learn Greek typewriting first to unlock fast customized local note taking system
-- Beginner's guide to Arabic
-  - [Link1](https://www.learnarabiconline.com/Beginners_Guide_To_Arabic.pdf)
+
+## History
+- Ancient Egypt
+  - The Book of Exodus
 
 # Linguistics
 - Introduction to Linguistics --- Marcus Kracht, UCLA

@@ -175,3 +175,21 @@ p {
 ## Use `@for` to achieve movie-like animation
 - [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
   - Let's say if you were the UI, what parameters shall you discuss with the front-end developer to maximize efficiency?
+
+```css
+/* https://css-tricks.com/loops-css-preprocessors/ */
+.tuna {
+  animation: walk-cycle 1s steps(12) infinite;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-90/tuna_sprite.png) 0 0 no-repeat; 
+  height: 200px;
+  width: 400px;
+  margin: 100px auto 0;
+}
+
+@keyframes walk-cycle {  
+  0% {background-position: 0 0; } 
+  100% {background-position: 0 -2391px; } 
+}
+
+html {text-align: center;}
+```

@@ -10,6 +10,7 @@
   - [Difference between rgba(...) and opacity](#difference-between-rgba-and-opacity)
   - [Describe **Specificity** in CSS](#describe-specificity-in-css)
   - [Use `@for` to achieve movie-like animation](#use-for-to-achieve-movie-like-animation)
+  - [Time for some explicit information flow for CSS positioning](#time-for-some-explicit-information-flow-for-css-positioning)
 
 # 2021/3/8
 ## How to deal with fonts - Fonts
@@ -193,3 +194,13 @@ p {
 
 html {text-align: center;}
 ```
+
+## Time for some explicit information flow for CSS positioning
+https://stackoverflow.com/questions/41656246/image-wont-show-in-a-div
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/In_Flow_and_Out_of_Flow
+https://www.w3.org/wiki/CSS_absolute_and_fixed_positioning?source=post_page---------------------------
+https://www.freecodecamp.org/news/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd/
+https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
+https://www.yorku.ca/nmw/datt1939f19/week03/css_relVSabsVSfixed.html
+https://stackoverflow.com/questions/10656570/wrong-height-of-div-with-img-tag-inside
+https://stackoverflow.com/questions/39168571/image-inside-div-doesnt-show/39168672

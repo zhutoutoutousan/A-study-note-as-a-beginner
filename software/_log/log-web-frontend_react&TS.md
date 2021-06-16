@@ -51,6 +51,9 @@
 ## Difference between type and interface in TypeScript
 
 # 2021/6/14
-## Difference between useEffect, useState, useMemom
+## Difference between useEffect, useState, useMemo
 
 ## Explain to me what React.FC is
+
+# 2021/6/16
+## How would you describe a bulletproof react component?

@@ -8,6 +8,7 @@
   - [Everything you need to know about Icon font](#everything-you-need-to-know-about-icon-font)
   - [List pseudo classes](#list-pseudo-classes)
   - [Difference between rgba(...) and opacity](#difference-between-rgba-and-opacity)
+  - [Describe **Specificity** in CSS](#describe-specificity-in-css)
   - [Use `@for` to achieve movie-like animation](#use-for-to-achieve-movie-like-animation)
 
 # 2021/3/8
@@ -168,6 +169,9 @@ p {
 
 ## Difference between rgba(...) and opacity
 - 本体论: `opacity`是一个属性, `rgba`是颜色属性的值中的一个组成部分
+
+## Describe **Specificity** in CSS
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 ## Use `@for` to achieve movie-like animation
 - [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
   - Let's say if you were the UI, what parameters shall you discuss with the front-end developer to maximize efficiency?

@@ -14,3 +14,7 @@
 # 2021/6/18-
 ## PyTorch Courses
 - [PyTorch for Deep Learning - Full Course / Tutorial](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+  - Logistic Regression: Classifying Images
+  - Feedforward Neural Networks & GPUs
+  - Convolutional Networks and ResNets
+  - Generating images with DC GANs

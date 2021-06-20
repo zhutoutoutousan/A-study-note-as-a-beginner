@@ -57,3 +57,7 @@
 
 # 2021/6/16
 ## How would you describe a bulletproof react component?
+
+# 2021/6/20
+## Starting React Admin from scratch
+- [React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners](https://www.youtube.com/watch?v=aTPkos3LKi8)

@@ -1,3 +1,10 @@
+# Buffer to permanent note
+## Timing resource
+```csv
+_reqid ,_req, _pid,_sub,  _time, _desc
+1, 
+```
+
 # 2021/6/9-2021/6-15
 ## Accelerated learning of React using `ant-design-pro`
 ### Become comfortable with using mockjs for mock-backend

@@ -1,3 +1,10 @@
+# Buffer to permanent note
+## Timing resource
+```csv
+_reqid ,_req, _pid,_sub,  _time, _desc
+1, 
+```
+
 # 2021/6/9-2021/6-15
 ## Accelerated learning of React using `ant-design-pro`
 ### Become comfortable with using mockjs for mock-backend
@@ -49,3 +56,15 @@
 
 # 2021/6/12
 ## Difference between type and interface in TypeScript
+
+# 2021/6/14
+## Difference between useEffect, useState, useMemo
+
+## Explain to me what React.FC is
+
+# 2021/6/16
+## How would you describe a bulletproof react component?
+
+# 2021/6/20
+## Starting React Admin from scratch
+- [React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners](https://www.youtube.com/watch?v=aTPkos3LKi8)

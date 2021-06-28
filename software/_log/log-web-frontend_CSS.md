@@ -3,16 +3,37 @@
 - [2021/3/8](#202138)
   - [How to deal with fonts - Fonts](#how-to-deal-with-fonts---fonts)
   - [Get some generic pattern - CSS React.js Vue.js](#get-some-generic-pattern---css-reactjs-vuejs)
+- [2021/6/16](#2021616)
+  - [How to Zoom on Hover with CSS](#how-to-zoom-on-hover-with-css)
+  - [Everything you need to know about Icon font](#everything-you-need-to-know-about-icon-font)
+  - [List pseudo classes](#list-pseudo-classes)
+  - [Difference between rgba(...) and opacity](#difference-between-rgba-and-opacity)
+  - [Describe **Specificity** in CSS](#describe-specificity-in-css)
+  - [Use `@for` to achieve movie-like animation](#use-for-to-achieve-movie-like-animation)
+  - [Time for some explicit information flow for CSS positioning](#time-for-some-explicit-information-flow-for-css-positioning)
 
 # 2021/3/8
 ## How to deal with fonts - Fonts
 Another day of enduring the stupid BOSS and relatively intermediate colleagues, I was looking for a convenient way to deal with stupid customized fonts in the web, and here's what I found:
 - https://parall.ax/blog/view/3072/tutorial-reducing-the-file-size-of-custom-web-fonts
 
+2021/6/16
+Consider creating a font section to migrate to the permanent note.
+
+
 ## Get some generic pattern - CSS React.js Vue.js
 - [React-admin](https://github.com/marmelab/react-admin)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 I am tired of setting all those bullshit CSS architecture, get some prepared template
+
+2021/6/16
+Let's say, if you were to describe the structure of the global styling that should be put into a project, what would you say?
+- Variable declaration
+  - Use `:root` or `$` in sass
+  - Coloring
+  - Generic transition, radius, shadow, spacing
+- Global styles
+
 
 ```css
 /*
@@ -140,3 +161,46 @@ p {
 
 ```
 
+# 2021/6/16
+## How to Zoom on Hover with CSS
+
+## Everything you need to know about Icon font
+
+## List pseudo classes
+
+## Difference between rgba(...) and opacity
+- 本体论: `opacity`是一个属性, `rgba`是颜色属性的值中的一个组成部分
+
+## Describe **Specificity** in CSS
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+## Use `@for` to achieve movie-like animation
+- [Loops in CSS Preprocessors](https://css-tricks.com/loops-css-preprocessors/)
+  - Let's say if you were the UI, what parameters shall you discuss with the front-end developer to maximize efficiency?
+
+```css
+/* https://css-tricks.com/loops-css-preprocessors/ */
+.tuna {
+  animation: walk-cycle 1s steps(12) infinite;
+  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-90/tuna_sprite.png) 0 0 no-repeat; 
+  height: 200px;
+  width: 400px;
+  margin: 100px auto 0;
+}
+
+@keyframes walk-cycle {  
+  0% {background-position: 0 0; } 
+  100% {background-position: 0 -2391px; } 
+}
+
+html {text-align: center;}
+```
+
+## Time for some explicit information flow for CSS positioning
+https://stackoverflow.com/questions/41656246/image-wont-show-in-a-div
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/In_Flow_and_Out_of_Flow
+https://www.w3.org/wiki/CSS_absolute_and_fixed_positioning?source=post_page---------------------------
+https://www.freecodecamp.org/news/how-to-understand-css-position-absolute-once-and-for-all-b71ca10cd3fd/
+https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
+https://www.yorku.ca/nmw/datt1939f19/week03/css_relVSabsVSfixed.html
+https://stackoverflow.com/questions/10656570/wrong-height-of-div-with-img-tag-inside
+https://stackoverflow.com/questions/39168571/image-inside-div-doesnt-show/39168672

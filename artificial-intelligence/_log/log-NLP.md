@@ -10,3 +10,11 @@
         - 不論組織規模或大或小，對合約關係細節的理解與執行都是很大挑戰，所謂NLP解決方案可以提取公司所有合約中的關鍵訊息，並將其「上下文化」，讓企業中的利益相關者都可以直接了解合約中業務承諾的性質與內容。
   - Ways to start
     - Salesforce NLP courses
+
+# 2021/6/18-
+## PyTorch Courses
+- [PyTorch for Deep Learning - Full Course / Tutorial](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
+  - Logistic Regression: Classifying Images
+  - Feedforward Neural Networks & GPUs
+  - Convolutional Networks and ResNets
+  - Generating images with DC GANs

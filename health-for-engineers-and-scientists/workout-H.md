@@ -4,6 +4,8 @@
 - [STUPID PROBLEMS](#stupid-problems)
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
+  - [Plans](#plans)
+    - [2021/6/28-2021/8/28](#2021628-2021828)
     - [State storage](#state-storage)
   - [Control panel](#control-panel)
 
@@ -29,20 +31,69 @@
   - The contents of last 5 days of training
 - [Macrocycles, Mesocycles and Microcycles: Understanding the 3 Cycles of Periodization](https://www.trainingpeaks.com/blog/macrocycles-mesocycles-and-microcycles-understanding-the-3-cycles-of-periodization/#:~:text=A%20mesocycle%20refers%20to%20a,usually%20a%20week%20of%20training.)
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
+
+## Plans
+### 2021/6/28-2021/8/28
+- Fitness test
+  - Strength
+    - Squat: 160kg
+    - Deadlift: 190kg
+    - Bench press: 100kg
+    - Overhead press: 60kg * 2
+    - Pull-ups: 12 | 3*+30kg
+  - Endurance
+    - Bike ride
+      - 10km
+      - 20km
+      - 30km
+- Goal
+  - Strength
+    - Squat: 160kg * 3
+    - Deadlift: 200kg
+    - Bench press: 120kg
+    - Overhead press: 60kg * 4
+    - Pull-ups: 15 | 3*+30kg
+  - Endurance
+    - Bike ride
+      - 10km
+      - 20km
+      - 30km
+```csv
+# Data
+days, dimension, performance
+1, squat, 140kg * 3
+```
 ### State storage
 ## Control panel
-- Wednesday
-  - Arm day
-  - Bicep + Tricep + Mid delts
-- Thursday
-  - Leg day
-- Friday
-  - Off day
-- Saturday
-  - Shoulder day
-- Sunday
-  - Back day
+- Heads ups
+  - You should change your workout schedule
 - Monday
-  - Off day
+  - Leg day
+  - 10km bike ride
 - Tuesday
+  - Arm day
+  - Tricep
+    - Dumbell pinpress 4-6RM 5SETS
+    - Skull crusher
+    - Kickback
+    - Push away
+    - Wide grip pull back
+  - Bicep
+    - Dumbell compound curl
+  - Shoulder
+    - Landmine push
+    - Olympic snatch
+    - Jerk and clean
+- Wednesday
+  - Off day
+- Thursday
   - Chest day
+- Friday
+  - Back day
+  - 20km bike ride
+- Saturday
+  - Off day
+- Sunday
+  - Off day
+- Monday
+  - Leg day

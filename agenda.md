@@ -1,11 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Dashboard](#dashboard)
+- [General](#general)
 - [Software](#software)
 - [Hacking&Music(Optional)](#hackingmusicoptional)
 - [Erudition(Optional)](#eruditionoptional)
 - [Electronics(Optional)](#electronicsoptional)
-- [Career driven(Optional)](#career-drivenoptional)
+- [Business(Optional)](#businessoptional)
 
 # Dashboard
 - MUBU
@@ -13,40 +14,35 @@
   - https://share.mubu.com/doc/NjeiNyXaCM
 - **CORNERSTONE**
 
+# General
+- Trailhead
 
 # Software
-- Backend
-  - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-    - 4:48/1:49:28
-  - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
-    - 0:05/4:13:03
+- Frontend
+   1. React
+   2. Ant-design Pro
 - Problem solving skills
   - Leetcode
   - Codewars
-- Source code study
-   1. Element-ui
-   2. Ant-design
-   3. Iview
-   4. *Compiler working principle*
-- Web3D
-  - three.js full-stack game
-  - Mathematics basics
-    - Analysis(Terrace Tao)
-    - Statistics(Logic of Science)
-    - Engineering Mathematics
-  - Computer graphics
-  - BIMFACE
-    - [BIMFACE tutorial](https://jzkt.fwxgx.com/courses/4958/videos/15289/play)
-      - Progress: 31:34/52:21
+
+- Backend
+  - Golang
+  - Java
+    - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
+      - 4:48/1:49:28
+    - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
+      - 0:05/4:13:03
+
 
 # Hacking&Music(Optional)
-
-# Erudition(Optional)
-
-# Electronics(Optional)
-
-# Career driven(Optional)
+- PicoCTF
 - COMPTIA
+- Piano and Singing
+# Erudition(Optional)
+- Reading(Les physchology des foules)
+# Electronics(Optional)
+- PYNQ-Z2
+# Business(Optional)
 - TOGAF
 - Business planning
   - [Handbook of Business Planning](https://www.businesspowertools.com/download/Handbook%20of%20Business%20Planning.pdf)

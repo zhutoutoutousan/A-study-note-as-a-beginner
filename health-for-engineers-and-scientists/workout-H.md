@@ -74,16 +74,14 @@ days, dimension, performance
   - Arm day
   - Tricep
     - Dumbell pinpress 4-6RM 5SETS
-    - Skull crusher
-    - Kickback
-    - Push away
-    - Wide grip pull back
+    - Skull crusher 4-6RM 5SETS
+    - Kickback 3SETS
+    - Push away 3SETS
+    - Wide grip pull back 3SETS
   - Bicep
-    - Dumbell compound curl
+    - Dumbell compound curl 5SETS
   - Shoulder
-    - Landmine push
-    - Olympic snatch
-    - Jerk and clean
+    - Landmine push 3SETS
 - Wednesday
   - Off day
 - Thursday

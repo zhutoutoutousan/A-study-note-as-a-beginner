@@ -12,3 +12,4 @@ The best way to elleviate this is going to the hospital and tell the doctor that
     - Bloating after eating
 - Solution
   - Health check at 7/5 for gallbladder and liver issues
+  - Full health check after getting stabilized for main questline

@@ -9,3 +9,6 @@ ffmpeg -i video.mp4 -i audio.m4a -c copy output.mp4
 
 # 2021/6/26
 ## Interest in `ffmpeg`
+
+# 2021/7/2
+## Cut video using `ffmpeg`

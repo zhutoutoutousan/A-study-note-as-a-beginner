@@ -1,3 +1,5 @@
+# Training
+- PicoCTF
 # Forum
 - [Hackaday](https://hackaday.com/)
 - [DEFCON](https://www.defcon.org/)

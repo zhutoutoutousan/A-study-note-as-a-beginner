@@ -52,11 +52,8 @@
   - Udacity: Website Performance Optimization
     - [link](https://www.youtube.com/watch?v=GNAENzKdciQ&list=PLAwxTw4SYaPmKmNX-INgcxQWf30KuWa_A)
     - Progress: 4/75
-- Testing
-  - Jest
-  - [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho)
-    - Progress: 8:22/57:18
-- Automation
+  - Webpack
+
 # Fullstack experience
 - Fullstack for front-end - frontendmaster
   - [link1](https://frontendmasters.com/courses/fullstack-v2/introduction/)

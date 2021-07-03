@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Dashboard](#dashboard)
-- [General](#general)
+- [Career](#career)
 - [Software](#software)
 - [Hacking&Music(Optional)](#hackingmusicoptional)
 - [Erudition(Optional)](#eruditionoptional)
@@ -14,9 +14,10 @@
   - https://share.mubu.com/doc/NjeiNyXaCM
 - **CORNERSTONE**
 
-# General
+# Career
 - Trailhead
-
+- P.
+  - Making friends
 # Software
 - Frontend
    1. React

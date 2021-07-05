@@ -65,33 +65,10 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
-- Heads ups
-  - You should change your workout schedule
 - Monday
-  - Leg day
-  - 10km bike ride
 - Tuesday
-  - Arm day
-  - Tricep
-    - Dumbell pinpress 4-6RM 5SETS
-    - Skull crusher 4-6RM 5SETS
-    - Kickback 3SETS
-    - Push away 3SETS
-    - Wide grip pull back 3SETS
-  - Bicep
-    - Dumbell compound curl 5SETS
-  - Shoulder
-    - Landmine push 3SETS
 - Wednesday
-  - Off day
 - Thursday
-  - Chest day
 - Friday
-  - Back day
-  - 20km bike ride
 - Saturday
-  - Off day
 - Sunday
-  - Off day
-- Monday
-  - Leg day

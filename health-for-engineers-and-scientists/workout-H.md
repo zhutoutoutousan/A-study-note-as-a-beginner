@@ -36,9 +36,9 @@
 ### 2021/6/28-2021/8/28
 - Fitness test
   - Strength
-    - Squat: 160kg
-    - Deadlift: 190kg
-    - Bench press: 100kg
+    - Squat: 160kg Intermediate
+    - Deadlift: 190kg Pre-advanced
+    - Bench press: 100kg Pre-intermediate
     - Overhead press: 60kg * 2
     - Pull-ups: 12 | 3*+30kg
   - Endurance
@@ -65,10 +65,34 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
+- *Texas method
+  - https://www.bilibili.com/read/cv7390570
 - Monday
 - Tuesday
+  - Capacity day
+    - Squat: 5x5 @90% 5 RM --> 145kg
+    - Bench press 5x5 @90% 5RM --> 90kg
+    - Deadlift 5x5 @90% 5RM --> 170kg
+  - 30 minutes bike ride
 - Wednesday
+  - Arm day
+    - Bicep
+    - Tricep
+    - Side & Rear Delts
 - Thursday
+  - Dynamic recovery day
+  - Squat: 3x5 @80-90% of Monday
+  - Bench press: 3x5 @80-90% of last Monday
+  - Accessory lift: 3x10~15
 - Friday
+  - PR day
+  - Squat
+    - 1x5@PR --> 165kg
+  - Deadlift
+    - 1x5@PR --> 195kg
+  - Bench press
+    - 1x5@PR --> 105kg
 - Saturday
+  - Off day
 - Sunday
+  - 1 hour bike ride

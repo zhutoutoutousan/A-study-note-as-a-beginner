@@ -59,3 +59,6 @@ myRegularFunction('a', 'b'); // logs ['c', 'd']
 - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - ERUDITION
   - You Don't know JS
+
+## If I were to swiftly gain back all of the important knowledge of JavaScript Modules, which entries would you say for yourself?
+

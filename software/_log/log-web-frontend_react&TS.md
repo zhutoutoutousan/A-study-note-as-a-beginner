@@ -5,10 +5,15 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 1, 
 ```
 
-# 2021/6/9-2021/6-15
+# 2021/6/9-2021/6-15 | 2021/7/7-
 ## Accelerated learning of React using `ant-design-pro`
 ### Become comfortable with using mockjs for mock-backend
-
+- MirageJS + React
+  - [MirageJS - Easily make a mock API for React](https://www.youtube.com/watch?v=Xw3K6Kk5Npw)
+  - Studying repo
+    - [Repo](https://github.com/miragejs/tutorial/blob/master/src/index.js)
+  - Reading MirageJS documentation
+    - [doc](https://miragejs.com/tutorial/intro/)
 ### Describe the project architecture
 #### Page layout & File structure & Configuration
 - Webpack configuration

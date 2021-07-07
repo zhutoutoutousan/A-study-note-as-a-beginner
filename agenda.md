@@ -15,6 +15,7 @@
 - **CORNERSTONE**
 
 # Career
+- UI/UX translation
 - Trailhead
 - P.
   - Making friends

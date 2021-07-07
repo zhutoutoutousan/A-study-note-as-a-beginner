@@ -73,17 +73,18 @@ days, dimension, performance
     - Squat: 5x5 @90% 5 RM --> 145kg
     - Bench press 5x5 @90% 5RM --> 90kg
     - Deadlift 5x5 @90% 5RM --> 170kg
-  - 30 minutes bike ride
 - Wednesday
-  - Arm day
-    - Bicep
-    - Tricep
-    - Side & Rear Delts
+  - Off day
 - Thursday
   - Dynamic recovery day
-  - Squat: 3x5 @80-90% of Monday
-  - Bench press: 3x5 @80-90% of last Monday
+  - Squat: 3x5 @80-90% of Monday 110kg
+  - Bench press: 3x5 @80-90% of last Monday - 70kg
   - Accessory lift: 3x10~15
+    - Bicep
+    - Shoulder
+    - Tricep
+    - Back
+    - Core
 - Friday
   - PR day
   - Squat
@@ -93,6 +94,6 @@ days, dimension, performance
   - Bench press
     - 1x5@PR --> 105kg
 - Saturday
-  - Off day
-- Sunday
   - 1 hour bike ride
+- Sunday
+  - Off day

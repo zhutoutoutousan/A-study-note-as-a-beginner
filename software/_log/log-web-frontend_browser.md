@@ -2,6 +2,8 @@
 ## about-blank#blocked?
 
 # 2021/6/13-
+- Milestone
+  - 2021/7/7
 ## Chromium V8 one bite at a time
 
 ### What an intermediate level front-end developer should know

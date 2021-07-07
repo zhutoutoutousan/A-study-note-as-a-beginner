@@ -11,6 +11,8 @@
   - [Describe **Specificity** in CSS](#describe-specificity-in-css)
   - [Use `@for` to achieve movie-like animation](#use-for-to-achieve-movie-like-animation)
   - [Time for some explicit information flow for CSS positioning](#time-for-some-explicit-information-flow-for-css-positioning)
+- [2021/7/7](#202177)
+  - [Refreshing CSS](#refreshing-css)
 
 # 2021/3/8
 ## How to deal with fonts - Fonts
@@ -204,3 +206,6 @@ https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
 https://www.yorku.ca/nmw/datt1939f19/week03/css_relVSabsVSfixed.html
 https://stackoverflow.com/questions/10656570/wrong-height-of-div-with-img-tag-inside
 https://stackoverflow.com/questions/39168571/image-inside-div-doesnt-show/39168672
+
+# 2021/7/7
+## Refreshing CSS

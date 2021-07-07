@@ -53,3 +53,9 @@ myRegularFunction('a', 'b'); // logs ['c', 'd']
 - Micro-task
   - Promise, process.nextTick
 - Event-Loop: Macro-task --> Micro-task |(The next round begins)Macro-task
+
+# 2021/7/7
+## Refreshing JavaScript
+- [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- ERUDITION
+  - You Don't know JS

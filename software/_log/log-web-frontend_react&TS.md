@@ -68,3 +68,6 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 # 2021/6/20
 ## Starting React Admin from scratch
 - [React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners](https://www.youtube.com/watch?v=aTPkos3LKi8)
+
+# 2021/7/7
+## React 18 New features

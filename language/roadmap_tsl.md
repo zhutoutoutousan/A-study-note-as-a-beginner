@@ -11,7 +11,10 @@
 
 # Translation basics
 ## Study sites
-- https://language.chinadaily.com.cn/
+- Formal, news
+  - https://language.chinadaily.com.cn/
+- Law
+  - https://flyy.gdufs.edu.cn/
 
 
 # Professional direction

@@ -15,8 +15,10 @@
   - https://language.chinadaily.com.cn/
 - Law
   - https://flyy.gdufs.edu.cn/
-
-
+- Delicacy
+  - http://blog.sina.com.cn/s/blog_831433e10100w40u.html
+- Daily
+  - https://zhuanlan.zhihu.com/p/164673773
 # Professional direction
 ## Supply chain
 - Basic supply chain knowledge

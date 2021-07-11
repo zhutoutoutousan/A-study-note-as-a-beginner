@@ -7,6 +7,12 @@
 
 跟了那个圈子之后，你会跟着这个圈子不断地往上走。
 ```
+
+- Innate language skills
+- Music background
+- Love mathematics
+
+
 ## Think more actively
 
 - [Active vs. Lazy Thinking](https://alexw.substack.com/p/active-vs-lazy-thinking)

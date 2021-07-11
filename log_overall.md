@@ -1,7 +1,9 @@
-# `_enforced-habit`
-- Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style
-- Flow adjustment and reflection only happens before sleep or during R&R
-
+# `_encoded-habit`
+Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state
+# `_enforcing-habit`
+- Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
+- Flow adjustment and reflection only happens before sleep or during R&R 0/21
+- Read 2 articles that are above your current level or outside your recognition everyday  0/21
 # 2021/6/29-2021/8/1
 ## You gonna do something about it man
 清华大学教授李稻葵就曾在一次演讲中说：

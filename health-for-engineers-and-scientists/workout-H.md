@@ -71,7 +71,7 @@ days, dimension, performance
 - Sunday
   - Dynamic recovery day
   - Squat: 3x5 @80-90% of Monday 110kg
-  - Bench press: 3x5 @80-90% of last 
+  - Bench press: 3x5 @80-90% of last  75kg
   - Accessory lift: 3x10~15
     - Bicep
     - Shoulder

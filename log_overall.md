@@ -1,4 +1,4 @@
-# 2021/6/29-
+# 2021/6/29-2021/8/1
 ## You gonna do something about it man
 清华大学教授李稻葵就曾在一次演讲中说：
 
@@ -7,3 +7,9 @@
 
 跟了那个圈子之后，你会跟着这个圈子不断地往上走。
 ```
+## Think more actively
+
+- [Active vs. Lazy Thinking](https://alexw.substack.com/p/active-vs-lazy-thinking)
+
+## Communicate in an effective way
+- [Information Compression](https://alexw.substack.com/p/information-compression)

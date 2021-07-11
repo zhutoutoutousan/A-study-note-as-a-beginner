@@ -59,8 +59,10 @@ _reqid ,_req, _pid,_sub,  _time, _desc
   - [api entry](https://randomuser.me/api)
   - [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc)
 
-# 2021/6/12
+# 2021/6/12-2021/7/10-
 ## Difference between type and interface in TypeScript
+
+## TypeScript Utility Types reading
 
 # 2021/6/14
 ## Difference between useEffect, useState, useMemo

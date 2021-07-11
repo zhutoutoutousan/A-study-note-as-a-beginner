@@ -4,10 +4,21 @@
 - [Create video subtitles with translation using machine learning](https://aws.amazon.com/tw/blogs/machine-learning/create-video-subtitles-with-translation-using-machine-learning/)
 
 # Basic requirements
-- [](https://zhuanlan.zhihu.com/p/342043565)
+- Overview
+  - [](https://zhuanlan.zhihu.com/p/342043565)
+- Textual memory capacity
 
 
-
+# Translation basics
+## Study sites
+- Formal, news
+  - https://language.chinadaily.com.cn/
+- Law
+  - https://flyy.gdufs.edu.cn/
+- Delicacy
+  - http://blog.sina.com.cn/s/blog_831433e10100w40u.html
+- Daily
+  - https://zhuanlan.zhihu.com/p/164673773
 # Professional direction
 ## Supply chain
 - Basic supply chain knowledge
@@ -23,3 +34,5 @@
 - [Onlinetranslator](https://www.onlinedoctranslator.com/zh-CN/)
 
 ## Engineering
+### MemoQ
+### SDL Trados 

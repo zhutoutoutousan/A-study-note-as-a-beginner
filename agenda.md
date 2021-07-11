@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [2021/7/11](#2021711)
 - [Dashboard](#dashboard)
 - [Career](#career)
 - [Software](#software)
@@ -7,6 +8,10 @@
 - [Erudition(Optional)](#eruditionoptional)
 - [Electronics(Optional)](#electronicsoptional)
 - [Business(Optional)](#businessoptional)
+
+
+# 2021/7/11
+Redundant with `log_overall`, consider removing
 
 # Dashboard
 - MUBU

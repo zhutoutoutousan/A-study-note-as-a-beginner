@@ -67,25 +67,18 @@ days, dimension, performance
 ## Control panel
 - *Texas method
   - https://www.bilibili.com/read/cv7390570
-- Monday
-- Tuesday
-  - Capacity day
-    - Squat: 5x5 @90% 5 RM --> 145kg
-    - Bench press 5x5 @90% 5RM --> 90kg
-    - Deadlift 5x5 @90% 5RM --> 170kg
-- Wednesday
-  - Off day
-- Thursday
+
+- Sunday
   - Dynamic recovery day
   - Squat: 3x5 @80-90% of Monday 110kg
-  - Bench press: 3x5 @80-90% of last Monday - 70kg
+  - Bench press: 3x5 @80-90% of last 
   - Accessory lift: 3x10~15
     - Bicep
     - Shoulder
     - Tricep
     - Back
     - Core
-- Friday
+- Monday
   - PR day
   - Squat
     - 1x5@PR --> 165kg
@@ -93,7 +86,15 @@ days, dimension, performance
     - 1x5@PR --> 195kg
   - Bench press
     - 1x5@PR --> 105kg
-- Saturday
   - 1 hour bike ride
-- Sunday
+- Tuesday
+  - 1 hour bike ride
+- Wednesday
+  - Off day
+- Thursday
+  - Capacity day
+    - Squat: 5x5 @90% 5 RM --> 145kg
+    - Bench press 5x5 70%(Injury)/@90% 5RM --> 70(Injury)/90kg 
+    - Deadlift 5x5 @90% 5RM --> 170kg
+- Friday
   - Off day

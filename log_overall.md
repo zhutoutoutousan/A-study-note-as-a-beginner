@@ -10,6 +10,13 @@
 ## Think more actively
 
 - [Active vs. Lazy Thinking](https://alexw.substack.com/p/active-vs-lazy-thinking)
-
+    - How do you identify whether one specific task, activity, project fits the incremental approach or short-term transformational approach?
 ## Communicate in an effective way
 - [Information Compression](https://alexw.substack.com/p/information-compression)
+
+## Minimize time leak & Balance between statics and dynamics
+- Constantly group your activities and projects together to optimize progression
+- If 90% of the tasks in a field is similar, shutdown filtering mechanism and get immersed in that environment till it saturates; Do the dogfeeding at the end in case something is missed
+## The effect of R&R in other places
+- The chance of integrate the subliminal knowledge and skills intake with the core
+- Replenished energy to think and implement matters in a drastically different way

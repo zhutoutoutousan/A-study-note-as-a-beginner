@@ -86,7 +86,6 @@ days, dimension, performance
     - 1x5@PR --> 195kg
   - Bench press
     - 1x5@PR --> 105kg
-  - 1 hour bike ride
 - Tuesday
   - 1 hour bike ride
 - Wednesday

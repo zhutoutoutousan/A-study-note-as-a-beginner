@@ -95,5 +95,6 @@ days, dimension, performance
     - Squat: 5x5 @90% 5 RM --> 145kg
     - Bench press 5x5 70%(Injury)/@90% 5RM --> 70(Injury)/90kg 
     - Deadlift 5x5 @90% 5RM --> 170kg
+  - 20 min bike ride
 - Friday
   - Off day

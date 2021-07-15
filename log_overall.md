@@ -1,12 +1,34 @@
 # `_encoded-habit`
-Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state
+*Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 # `_enforcing-habit`
-- Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
-- Flow adjustment and reflection only happens before sleep or during R&R 0/21
-- Read 2 articles that are above your current level or outside your recognition everyday  0/21
+- Orderly 0/12
+  - Initiate in-depth cleaning of your workspace, living space and personal workspace
+  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
+  - Flow adjustment and reflection only happens before sleep or during R&R 0/21
+- Up-to-date
+  - Spend at least 30 minutes to catch up with the world every day 0/21
 # `_discarded-habit`
 - Same as above
 # `_discarding-habit`
+- Easy to distract 0/21
+  - Chunk your time
+- Messy workplace 0/21
+  - Unstructured Work Email 0/1
+  - Unstructured learning strategy 0/1
+  - Unstructure learning Roadmap 0/1
+
+# Up-to-date habit plan
+## Workbench
+- Methodology
+- Hotspot
+  - 2021/7/14-2021/8/1
+- Media
+  - Foreign
+  - Domestic
+    - Weibo
+    - Bilibili
+    - Sina
+## Log
 
 
 # 2021/6/29-2021/8/1

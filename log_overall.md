@@ -1,17 +1,22 @@
 # `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 # `_enforcing-habit`
-- Orderly 0/12
-  - Initiate in-depth cleaning of your workspace, living space and personal workspace
+- Orderly 0/21
+  - Initiate in-depth cleaning of your professional workspace, living space and personal workspace 0/1
   - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
+    - Time estimation and non-exhaustive feedback
   - Flow adjustment and reflection only happens before sleep or during R&R 0/21
 - Up-to-date
   - Spend at least 30 minutes to catch up with the world every day 0/21
+- Agility 0/21
 # `_discarded-habit`
 - Same as above
 # `_discarding-habit`
-- Easy to distract 0/21
-  - Chunk your time
+- Easy to be distracted 0/21
+  - Rewire your brain
+    - Visualize your current task queue and permitted interrupts
+    - Block unwanted interrupts
+    - If there emerges interrupts you don't know, group it
 - Messy workplace 0/21
   - Unstructured Work Email 0/1
   - Unstructured learning strategy 0/1

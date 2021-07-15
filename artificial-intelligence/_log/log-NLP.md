@@ -18,3 +18,6 @@
   - Feedforward Neural Networks & GPUs
   - Convolutional Networks and ResNets
   - Generating images with DC GANs
+
+## NLP translation
+- [Translation introduction](https://segmentfault.com/a/1190000038333564)

@@ -22,3 +22,9 @@
   - Communication management
 # 2021/7/15-
 ## Time management - How to deal with edge cases in plans
+
+## Energy management - How to deal with edge cases in plans
+- Let's say you're exhausted today and only have 15-60 minutes' concentration left in the tank, you may not even have the energy to make a plan in advance, bring up some example scenarios, what would you do to achieve the most?
+
+
+## How to tell if a plan template is suitable, and how long should it last before some alterations?

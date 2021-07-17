@@ -65,10 +65,13 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
+- Sarm cycle
+  - Off at 7/25
 - *Texas method
   - https://www.bilibili.com/read/cv7390570
-
-- Sunday
+- Friday
+  - Off day
+- Saturday
   - Dynamic recovery day
   - Squat: 3x5 @80-90% of Monday 110kg
   - Bench press: 3x5 @80-90% of last  75kg
@@ -78,7 +81,10 @@ days, dimension, performance
     - Tricep
     - Back
     - Core
-- Monday
+  - 30 minutes bike ride
+- Sunday
+  - Off day
+- Monday 
   - PR day
   - Squat
     - 1x5@PR --> 165kg
@@ -87,14 +93,8 @@ days, dimension, performance
   - Bench press
     - 1x5@PR --> 105kg
 - Tuesday
-  - 1 hour bike ride
+  - 1hr bike ride
 - Wednesday
   - Off day
 - Thursday
-  - Capacity day
-    - Squat: 5x5 @90% 5 RM --> 145kg
-    - Bench press 5x5 70%(Injury)/@90% 5RM --> 70(Injury)/90kg 
-    - Deadlift 5x5 @90% 5RM --> 170kg
-  - 20 min bike ride
 - Friday
-  - Off day

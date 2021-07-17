@@ -217,3 +217,21 @@ function Machine(cpu) {
 # 2021/6/10
 ## Recover a secret string from random triplets
 - Found a hashtable-like solution, create
+
+# 2021/7/17-
+## Leetcode - Merge k sorted lists - Hard
+- Self attempt: Create three pointers, each progression, choose out the minimum, if exists, push the minimum to the list, the rest append later; If no exist, append all unorderedly - 2 minutes
+- Python implementation(U r going 2 do data right?)
+  - Detour into Python Data structure - Quick Recap
+    - https://docs.python.org/3/tutorial/datastructures.html
+      - Adjusting brain signal firing structure 2 min
+        - Extracting pass data
+        - Integrating language learning experience
+        - Building mind tree concerning contents structure
+        - Specifying tree depth and boundries
+        - Done
+        - Inserting purpose reinforcement: Quicker extraction for frequent use
+          - Behaviour changed: Focused --- Resistant of external changes
+      - Intake
+        - Creating rotational-stack model to a list(Counter-clock wise) 4 pop
+      - !BEFORE YOU END YOUR DAY!Personal idea store 4 exporting 

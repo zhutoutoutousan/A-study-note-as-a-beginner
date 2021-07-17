@@ -1,10 +1,11 @@
+# Caveats
+- Search '!BEFORE YOU END YOUR DAY!' when reflecting on yourself at the end of the day for self-integration and idea extraction
 # Behavior
 
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 ## `_enforcing-habit` 3/5
-- Orderly 0/21
-  - Initiate in-depth cleaning of your professional workspace, living space and personal workspace 0/1
+- Orderly 1/21
   - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
     - Time estimation and non-exhaustive feedback
   - Flow adjustment and reflection only happens before sleep or during R&R 0/21
@@ -71,3 +72,11 @@
 - Replenished energy to think and implement matters in a drastically different way
 
 
+## **Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome
+- Software
+  - Doing Leetcode: ?30 min 
+    - Easy
+    - Medium
+    - Hard
+- Language
+  - Load pack: GE 110words, FR 100words, SP 100words: ?min

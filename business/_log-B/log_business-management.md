@@ -28,3 +28,14 @@
 
 
 ## How to tell if a plan template is suitable, and how long should it last before some alterations?
+
+
+## Change management
+- Prosci
+  - [What is change management](https://www.prosci.com/resources/articles/what-is-change-management)
+  - Change management ADKAR
+    - Awareness
+    - Desire
+    - Knowledge
+    - Ability
+    - Reinforcement

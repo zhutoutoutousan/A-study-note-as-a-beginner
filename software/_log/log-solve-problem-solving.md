@@ -233,5 +233,89 @@ function Machine(cpu) {
         - Inserting purpose reinforcement: Quicker extraction for frequent use
           - Behaviour changed: Focused --- Resistant of external changes
       - Intake
-        - Creating rotational-stack model to a list(Counter-clock wise) 4 pop
-      - !BEFORE YOU END YOUR DAY!Personal idea store 4 exporting 
+        - Creating rotational-stack model to a list(Counter-clock wise) 4 pop * 2 Reinforced
+      - Fatigue threshold
+        - Level 1: Pass, 4 better long-term effects
+        - Level 2: Stopped, 
+      - !BEFORE YOU END YOUR DAY! 
+        - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay
+        - Back in to the track * 1
+  - Training - Using Geeksforgeeks
+    - https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/
+    - Fatigue threshold
+      - Level 1: Triggered by OOP python
+      - Level 2: Refactoring python array into list
+        - Rest 4 5 min
+```python
+# https://leetcode.com/problems/merge-k-sorted-lists/
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    # Takes two lists sorted in increasing order
+    # and merge their nodes together to make one
+    # big sorted list. Below function takes
+    # O(Log n) extra space for recursive calls,
+    # but it can be easily modified to work with
+    # same time and O(1) extra space.
+    def SortedMerge(a:ListNode, b:ListNode):
+        
+        result = None
+        
+        # Base cases
+        if (a == None):
+            return(b)
+        elif (b == None):
+            return(a)
+        if (a.val <= b.val):
+            result = a
+            result.next = SortedMerge(a.next, b)
+        else:
+            result = b
+            result.next = SortedMerge(a, b.next)
+            
+        return result
+    
+    
+    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
+        last = len(lists) - 1
+        
+        # Repeat until only one list is left
+        while (last != 0):
+            i = 0
+            j = last
+            
+            # (i, j) forms a pair
+            while (i < j):
+                
+                # Merge List i with List j and store
+                # merged list in List i
+                lists[i] = self.SortedMerge(lists[i], lists[j])
+                
+                # Consider next pair
+                i += 1
+                j -= 1
+                
+                # If all pairs are merged, update last
+                if (i >= j):
+                    last = j
+        return lists[0]
+                
+```
+
+```
+https://blog.csdn.net/weixin_42716620/article/details/82888572
+https://stackoverflow.com/questions/14086830/python-calling-method-in-class
+https://stackoverflow.com/questions/54709025/understanding-positional-arguments-in-python
+
+TypeError: SortedMerge() takes 2 positional arguments but 3 were given
+    lists[i] = self.SortedMerge(lists[i], lists[j])
+Line 45 in mergeKLists (Solution.py)
+    ret = Solution().mergeKLists(param_1)
+Line 74 in _driver (Solution.py)
+    _driver()
+Line 85 in <module> (Solution.py)
+```

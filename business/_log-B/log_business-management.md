@@ -31,6 +31,8 @@
 
 
 ## Change management
+- HRM Lecture
+  - [CHANGE MANAGEMENT 1/2 - HRM Lecture 11](https://www.youtube.com/watch?v=7zRvhFb9UUQ)
 - Prosci
   - [What is change management](https://www.prosci.com/resources/articles/what-is-change-management)
   - Change management ADKAR

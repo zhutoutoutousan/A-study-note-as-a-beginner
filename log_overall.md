@@ -21,6 +21,8 @@
     - Visualize your current task queue and permitted interrupts
     - Block unwanted interrupts
     - If there emerges interrupts you don't know, group it
+  - Dispell distraction source without being cut off
+    - LinkedIn Pop-ups
 - Messy workplace 0/21
   - Unstructured Work Email 0/1
   - Unstructured learning strategy 0/1
@@ -74,9 +76,10 @@
 
 ## **Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome
 - Software
-  - Doing Leetcode: ?30 min 
     - Easy
     - Medium
     - Hard
+      - 2 Hours using Python
+        - Implementation takes longest time
 - Language
   - Load pack: GE 110words, FR 100words, SP 100words: ?min

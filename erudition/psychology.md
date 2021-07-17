@@ -39,8 +39,8 @@
   - Psychologie des foules
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
     - Process 1
-      - Suitable language level nearly reached, increase reading speed
-      - Progress: 11/125 - para 4
+      - Language level reach, initiate serious and fast reading
+      - Progress: 18/125 - para 2
 # Mind Control
 - Disrupted: My misadventure in the start-up bubble
 - Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?

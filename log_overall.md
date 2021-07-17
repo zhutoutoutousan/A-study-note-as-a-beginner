@@ -76,10 +76,13 @@
 
 ## **Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome
 - Software
+  - Leetcode
     - Easy
     - Medium
     - Hard
       - 2 Hours using Python
         - Implementation takes longest time
+  - Coding project
+    - At least 3 hours
 - Language
-  - Load pack: GE 110words, FR 100words, SP 100words: ?min
+  - Load pack: GE 110words, FR 100words, SP 100words: 2-3 hours(When doing other stuffs)

@@ -237,7 +237,7 @@ function Machine(cpu) {
       - Fatigue threshold
         - Level 1: Pass, 4 better long-term effects
         - Level 2: Stopped, 
-      - !BEFORE YOU END YOUR DAY! 
+      - !TRANSFERRED TO OVERALL! 
         - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay
         - Back in to the track * 1
   - Training - Using Geeksforgeeks

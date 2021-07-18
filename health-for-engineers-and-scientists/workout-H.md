@@ -81,7 +81,6 @@ days, dimension, performance
     - Tricep
     - Back
     - Core
-  - 30 minutes bike ride
 - Sunday
   - Off day
 - Monday 
@@ -92,6 +91,7 @@ days, dimension, performance
     - 1x5@PR --> 195kg
   - Bench press
     - 1x5@PR --> 105kg
+  - 30 minutes bike ride
 - Tuesday
   - 1hr bike ride
 - Wednesday

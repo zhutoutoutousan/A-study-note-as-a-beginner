@@ -65,36 +65,15 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
-- *Texas method
+- *Texas method --> Recovery week(Hypertrophy)
   - https://www.bilibili.com/read/cv7390570
-
-- Sunday
-  - Dynamic recovery day
-  - Squat: 3x5 @80-90% of Monday 110kg
-  - Bench press: 3x5 @80-90% of last  75kg
-  - Accessory lift: 3x10~15
-    - Bicep
-    - Shoulder
-    - Tricep
-    - Back
-    - Core
-- Monday
-  - PR day
-  - Squat
-    - 1x5@PR --> 165kg
-  - Deadlift
-    - 1x5@PR --> 195kg
-  - Bench press
-    - 1x5@PR --> 105kg
 - Tuesday
-  - 1 hour bike ride
+  - Arm day
 - Wednesday
-  - Off day
+  - Chest day
 - Thursday
-  - Capacity day
-    - Squat: 5x5 @90% 5 RM --> 145kg
-    - Bench press 5x5 70%(Injury)/@90% 5RM --> 70(Injury)/90kg 
-    - Deadlift 5x5 @90% 5RM --> 170kg
-  - 20 min bike ride
+  - 40 min bike ride
 - Friday
-  - Off day
+  - Leg day
+- Saturday
+  - 1 hour bike ride

@@ -5,6 +5,19 @@
   - [NLP研究入门之道](https://github.com/zibuyu/research_tao)
   - [自然语言处理怎么最快入门？](https://www.zhihu.com/question/19895141)
   - https://awesome.dbyun.net/study/details?mid=142&id=6220
+- P.O.I
+  - Uncategorized fields and specialties
+    - [Christopher Manning](https://nlp.stanford.edu/manning/)
+      - Dan Klein
+        - Percy Liang 
+    - Dan Jurafsky
+    - David Yarowsky
+    - Jason Eisner
+    - Dan Roth
+    - Michael Collins
+    - Julia Hirschberg
+  - Machine translation
+    - Chris Dyer
 # General skills
 ## Theoretical groundwork
 

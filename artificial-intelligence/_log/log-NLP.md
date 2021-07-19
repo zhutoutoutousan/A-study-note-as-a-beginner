@@ -19,6 +19,11 @@
   - Convolutional Networks and ResNets
   - Generating images with DC GANs
 
+<<<<<<< HEAD
 # 2021/7/19-
 ## Paper reading
 https://arxiv.org/pdf/1909.11942.pdf
+=======
+## NLP translation
+- [Translation introduction](https://segmentfault.com/a/1190000038333564)
+>>>>>>> 20301bd94cd7e6b9a9a814418e1ae1970fe4f098

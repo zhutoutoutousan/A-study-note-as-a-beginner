@@ -18,3 +18,7 @@
   - Feedforward Neural Networks & GPUs
   - Convolutional Networks and ResNets
   - Generating images with DC GANs
+
+# 2021/7/19-
+## Paper reading
+https://arxiv.org/pdf/1909.11942.pdf

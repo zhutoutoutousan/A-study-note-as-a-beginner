@@ -1,6 +1,5 @@
 # Customized motivation pool
 清华大学教授李稻葵就曾在一次演讲中说：
-
 ```
 不要犹豫，尽早认准大方向。消灭选择，义无反顾，认准长远，认定自己，然后想方设法找到你要奋斗的那个圈子。
 
@@ -16,8 +15,9 @@
 
 # Caveats
 - Search '!BEFORE YOU END YOUR DAY!' when reflecting on yourself at the end of the day for self-integration and idea extraction
-# Behavior
 
+
+# Behavior
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 ## `_enforcing-habit` 4/5

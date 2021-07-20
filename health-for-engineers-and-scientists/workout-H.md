@@ -65,51 +65,19 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
-<<<<<<< HEAD
-- *Texas method --> Recovery week(Hypertrophy)
+- *Texas method(Switched to hypertrophy due to injury)
   - https://www.bilibili.com/read/cv7390570
+- Sarm cycle
+  - Off at 7/18
+  - On at 8/18
 - Tuesday
   - Arm day
-=======
-- Sarm cycle
-  - Off at 7/25
-- *Texas method
-  - https://www.bilibili.com/read/cv7390570
-- Friday
-  - Off day
-- Saturday
-  - Dynamic recovery day
-  - Squat: 3x5 @80-90% of Monday 110kg
-  - Bench press: 3x5 @80-90% of last  75kg
-  - Accessory lift: 3x10~15
-    - Bicep
-    - Shoulder
-    - Tricep
-    - Back
-    - Core
-- Sunday
-  - Off day
-- Monday 
-  - PR day
-  - Squat
-    - 1x5@PR --> 165kg
-  - Deadlift
-    - 1x5@PR --> 195kg
-  - Bench press
-    - 1x5@PR --> 105kg
-  - 30 minutes bike ride
-- Tuesday
-  - 1hr bike ride
->>>>>>> 20301bd94cd7e6b9a9a814418e1ae1970fe4f098
 - Wednesday
   - Chest day
 - Thursday
-<<<<<<< HEAD
   - 40 min bike ride
 - Friday
   - Leg day
 - Saturday
   - 1 hour bike ride
-=======
 - Friday
->>>>>>> 20301bd94cd7e6b9a9a814418e1ae1970fe4f098

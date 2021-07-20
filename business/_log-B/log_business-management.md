@@ -1,5 +1,6 @@
 # Buffer to permanent note
 ## Personal management
+- Recognition
 - Internal
   - Information & Document management
   - Physical environment management

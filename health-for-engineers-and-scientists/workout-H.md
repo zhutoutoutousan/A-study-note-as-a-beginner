@@ -65,6 +65,12 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
+<<<<<<< HEAD
+- *Texas method --> Recovery week(Hypertrophy)
+  - https://www.bilibili.com/read/cv7390570
+- Tuesday
+  - Arm day
+=======
 - Sarm cycle
   - Off at 7/25
 - *Texas method
@@ -94,7 +100,16 @@ days, dimension, performance
   - 30 minutes bike ride
 - Tuesday
   - 1hr bike ride
+>>>>>>> 20301bd94cd7e6b9a9a814418e1ae1970fe4f098
 - Wednesday
-  - Off day
+  - Chest day
 - Thursday
+<<<<<<< HEAD
+  - 40 min bike ride
 - Friday
+  - Leg day
+- Saturday
+  - 1 hour bike ride
+=======
+- Friday
+>>>>>>> 20301bd94cd7e6b9a9a814418e1ae1970fe4f098

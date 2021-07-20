@@ -21,3 +21,6 @@
 
 ## NLP translation
 - [Translation introduction](https://segmentfault.com/a/1190000038333564)
+
+# 2021/7/20
+- Substring of NLP of interest dicovered: NLU(Natural language understanding)

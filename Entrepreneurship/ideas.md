@@ -26,7 +26,8 @@ It's a simple meditation house with A/C, music, space-shuttle-like massage chair
 
 ### A/C and humidity control
 ### Space-shuttle-massage chair
-
+- MUST BE BUILT HIGH-END WITH STYLE
+  - Or some beggars would come and have a rest
 ## Business
 
 ## Hardware

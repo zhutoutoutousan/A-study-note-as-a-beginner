@@ -78,6 +78,9 @@ days, dimension, performance
   - 40 min bike ride
 - Friday
   - Leg day
+  - Squat 4-6RM 5SETS
+  - Leg press 4-6RM 5SETS
+  - Bulgarian split squat 6-8RM 5SETS
 - Saturday
   - 1 hour bike ride
-- Friday
+- Sunday

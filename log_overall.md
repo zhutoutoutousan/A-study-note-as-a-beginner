@@ -106,7 +106,7 @@
 - Language
   - Load pack: GE 110words, FR 100words, SP 100words: 2-3 hours(When doing other stuffs)
 
-## Creating an efficient, low-mental friction context switch map of strategy
+## Creating an efficient, low-mental friction context switch mapping strategy
 - Overview
   - So, its seems never possible to mimick a complete highly-focused timechunk for uni-lateral or bi-lateral hustles because you have multiple hustles on-going.
   - It's a good chance to train your context switch strategy with heavy loads

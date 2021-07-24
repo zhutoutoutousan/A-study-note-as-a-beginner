@@ -4,6 +4,10 @@
   - Head-first language
   - Head-last language
 - 主被动转换
+
+# Tests
+- CATTI仿真机考: https://www.catticenter.com/cattijkty/1284
+
 # Politics
 - Vocabulary
   - Unswervingly
@@ -33,7 +37,13 @@
   - The poeple is the foundation of a state. When the foundation is strong, the state will be secure
 ## O
 - 欧洲三剑客
+
+## Q
+- 全国政协委员
+  - The Chinese People's Political Consultative Conference(CPPCC)
 ## S
+- 审议
+  - Deliberation and approval - 政府工作报告
 - 实干为要，行胜于言 - Actions count, and actions always speak louder than words.
   - 《2020年李总理答中外记者问》
 ## X
@@ -42,4 +52,4 @@
 ## Y
 - 硬骨头: cracked this "hardest nut"
 ## Z
-- 中国能源结构: China Energy Mix
+- 中国能源结构: China's energy Mix

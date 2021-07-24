@@ -18,6 +18,8 @@
   - 新华社
   - 白皮书
   - 政府工作报告
+    - 2021年政府工作报告(双语版)
+      - [link](https://drive.google.com/file/d/1ibZw5F4Bq7HJFUK5CtR0Qr8B2N-kcpnJ/view?usp=sharing)
   - NPC & CPPCC - 两会
 - Dictionary
   - Cambridge Dictionary
@@ -30,6 +32,11 @@
     - Carbon footprint
 - Translation
   - Most importantly, we should 
+
+# Structures translation strategies
+## I
+- Instead of xxx-ing ..., we...
+  - 不同于...., 我们
 
 # Hot words
 ## C

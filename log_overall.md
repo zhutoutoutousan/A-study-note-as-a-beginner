@@ -120,3 +120,29 @@
   - Software
     - Installation
       - e.g. So ur installing something that might take 30min, 1hr, 5hrs to implement or download due to some reasons, what's the best thing to do?
+        - Troubleshoot & Optimization(Out of scope)
+          - Wait
+            - Short wait(5min-15min) - Something it's better to *waste* time than keep yourself busy just for the sake of it
+              - So if you wait, you'll get bored and restore your creativity(BETTER THIS WAY)
+              - If you switch to another task, you cost 2 more energy expenditure of context switches(NG)
+                - If it's pretty much the same job that requires the same area of knowledge, you can proceed with caution
+            - Longer wait()
+              - Schedule it, and 
+  - Social media
+    - \[Strategy\]Pre-group it
+  - Physical discomfort
+    - OMG, my liver has pain
+    - OMG, my heart doesn't feel well! I'm gonna die if I don't take a rest!
+    - OMG! I have back pain!
+    - OMG! My bowel isn't doing me a favor!
+  - Mental discomfort
+    - OMG! I just got triggered by a gossip!
+    - OMG! I just got chewed upon at workplace!
+  - Plan dysfunction
+    - OMG, I forgot something to put on my schedule!
+    - OMG, I forgot to eat my lunch!
+    - OMG, I forgot to eat my dinner, if not, my HP would drop!  
+  - Information & Event attraction
+    - OMG, this knowledge is so sexy! I want to pursue this lead!
+    - How about taking a walk?
+

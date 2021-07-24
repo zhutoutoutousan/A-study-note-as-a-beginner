@@ -1,6 +1,9 @@
-# This is just a tool
-- This is just a tool
-
+# Coping with self-dysregulation
+**PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
+- Study the problem
+  - [Emotional dysregulation in adults: The influence of rumination and negative secondary appraisals of emotion](https://www.sciencedirect.com/science/article/pii/S0165032720332845)
+  - [What Is Emotional Dysregulation?](https://www.webmd.com/mental-health/what-is-emotional-dysregulation)
+    - Emotional dysregulation is a term used to describe an emotional response that is poorly regulated and does not fall within the traditionally accepted range of emotional reaction
 # Customized motivation pool
 清华大学教授李稻葵就曾在一次演讲中说：
 ```
@@ -24,28 +27,30 @@
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 ## `_enforcing-habit` 4/5
-- Orderly 1/21
-  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 0/21
+- Tranced 1/21
+  - Start your day with enough nootropics and one gamma and alpha binaural beat session - According to your knowledge, it has longer effect than you originally think
+- Orderly 2/21
+  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 2/21
     - Time estimation and non-exhaustive feedback
   - Flow adjustment and reflection only happens before sleep or during R&R 1/21
 - Up-to-date
-  - Spend at least 30 minutes to catch up with the world every day 1/21
-- Agility 0/21
+  - Spend at least 30 minutes to catch up with the world every day 2/21
+- Agility 1/21
   - Keep an eye on those ways to achieve trade-off between plan concentration and agility
-- Problem solver 0/40
+- Problem solver 1/40
 ## `_discarded-habit` 0/_
 - Same as above
 ## `_discarding-habit` 2/5
-- Easy to be distracted 0/21
+- Easy to be distracted 3/21
   - Rewire your brain
     - Visualize your current task queue and permitted interrupts
     - Block unwanted interrupts
     - If there emerges interrupts you don't know, group it
   - Dispell distraction source without being cut off
     - LinkedIn Pop-ups
-- Messy workplace 0/21
-  - Unstructured Work Email 0/1
-  - Unstructured learning strategy 0/1
+- Messy workplace 1/21
+  - Unstructured Work Email 1/1 SOLVED
+  - Unstructured learning strategy 0/1 
   - Unstructure learning Roadmap 0/1
 
 ## Up-to-date habit plan

@@ -142,7 +142,12 @@
     - OMG, I forgot something to put on my schedule!
     - OMG, I forgot to eat my lunch!
     - OMG, I forgot to eat my dinner, if not, my HP would drop!  
+    - Ohh, something IMPORTANT comes up clashing all my schedule, Imma about to spend another day wasted for nothing but still can somehow manage to cheat myself feeling fulfilled
   - Information & Event attraction
     - OMG, this knowledge is so sexy! I want to pursue this lead!
     - How about taking a walk?
-
+    - Ohhh, a really interesting french movie, and French is my gig, how about watch it NOW!
+  - Self-dysregulation
+    - OMG, my life is doing pretty bad!
+    - OMG, some random John/Jane Doe is doing better than I am
+    - OMG, I'm losing my man cards recently

@@ -1,3 +1,19 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Regulartories](#regulartories)
+- [Sources](#sources)
+- [Politics](#politics)
+- [Structures translation strategies](#structures-translation-strategies)
+  - [I](#i)
+- [Hot words](#hot-words)
+  - [C](#c)
+  - [L](#l)
+  - [W](#w)
+    - [](#)
+- [2021/7/8](#202178)
+
+
+
 # Regulartories
 - 语言降维: 说人话
 - 句型逻辑
@@ -42,7 +58,7 @@
 ## C
 - Creating a powerful force that will...
 ## L
-- Loot a burning house
+- Loot a burning house: 乘人之危, 落井下石
 ## W
 - West-east pipeline
 ### 

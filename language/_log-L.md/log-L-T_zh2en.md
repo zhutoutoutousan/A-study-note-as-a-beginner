@@ -1,9 +1,54 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Regulartories](#regulartories)
+- [Sources](#sources)
+- [Tests](#tests)
+- [Politics](#politics)
+- [Basic building blocks](#basic-building-blocks)
+  - [J](#j)
+- [Hot words](#hot-words)
+  - [C](#c)
+  - [D](#d)
+  - [J](#j-1)
+  - [M](#m)
+  - [O](#o)
+  - [Q](#q)
+  - [S](#s)
+  - [X](#x)
+  - [Y](#y)
+  - [Z](#z)
+
+
 # Regulartories
 - 语言降维: 说人话
 - 句型逻辑
   - Head-first language
   - Head-last language
 - 主被动转换
+
+# Sources
+- English equivalent
+  - Human Development Report 20xx
+  - Independent
+  - The Guardian
+  - The economist
+  - Harvard Economy review
+  - Newyork times
+  - Reuters
+  - **United Nations | Annual report**
+- Chinese equivalent
+  - 新闻联播
+  - China daily
+  - 新华社
+  - 白皮书
+  - 政府工作报告
+    - 2021年政府工作报告(双语版)
+      - [link](https://drive.google.com/file/d/1ibZw5F4Bq7HJFUK5CtR0Qr8B2N-kcpnJ/view?usp=sharing)
+  - NPC & CPPCC - 两会
+- Dictionary
+  - Cambridge Dictionary
+  - 成语大字典
+  - 新华字典 - 汉英双语版
 
 # Tests
 - CATTI仿真机考: https://www.catticenter.com/cattijkty/1284
@@ -44,12 +89,14 @@
 ## S
 - 审议
   - Deliberation and approval - 政府工作报告
-- 实干为要，行胜于言 - Actions count, and actions always speak louder than words.
-  - 《2020年李总理答中外记者问》
+- 实干为要，行胜于言 
+  - Actions count, and actions always speak louder than words. - 《2020年李总理答中外记者问》
+- 世界经济深度衰退
+  - a deep global economic recession - 政府工作报告
 ## X
 - 熊市
-
+- 新中国: The People's Republic of China - 政府工作报告
 ## Y
 - 硬骨头: cracked this "hardest nut"
 ## Z
-- 中国能源结构: China's energy Mix
+- 中国能源结构: China's energy mix

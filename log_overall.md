@@ -4,6 +4,12 @@
   - [Emotional dysregulation in adults: The influence of rumination and negative secondary appraisals of emotion](https://www.sciencedirect.com/science/article/pii/S0165032720332845)
   - [What Is Emotional Dysregulation?](https://www.webmd.com/mental-health/what-is-emotional-dysregulation)
     - Emotional dysregulation is a term used to describe an emotional response that is poorly regulated and does not fall within the traditionally accepted range of emotional reaction
+
+
+# Potential destructive elements scope
+- When I started to overcome myself, challenge myself into doing a bit more or resisting my original inertia, I started to feel physically stressed.
+  - I may utilize my medical acumen against changing myself
+
 # Customized motivation pool
 清华大学教授李稻葵就曾在一次演讲中说：
 ```

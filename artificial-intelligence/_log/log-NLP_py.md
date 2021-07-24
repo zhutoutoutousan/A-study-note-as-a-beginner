@@ -4,3 +4,6 @@ https://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-e
 
 ## nltk.download() takes too long
 https://programmersought.com/article/96524119302/
+
+## OOP python online course
+- [Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc)

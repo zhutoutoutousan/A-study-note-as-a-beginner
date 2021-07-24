@@ -218,105 +218,14 @@ function Machine(cpu) {
 ## Recover a secret string from random triplets
 - Found a hashtable-like solution, create
 
-# 2021/7/17-
+# 2021/7/17-2021/8/1
 ## Leetcode - Merge k sorted lists - Hard
-- Self attempt: Create three pointers, each progression, choose out the minimum, if exists, push the minimum to the list, the rest append later; If no exist, append all unorderedly - 2 minutes
-- Python implementation(U r going 2 do data right?)
-  - Detour into Python Data structure - Quick Recap
-    - https://docs.python.org/3/tutorial/datastructures.html
-      - Adjusting brain signal firing structure 2 min
-        - Extracting pass data
-        - Integrating language learning experience
-        - Building mind tree concerning contents structure
-        - Specifying tree depth and boundries
-        - Done
-        - Inserting purpose reinforcement: Quicker extraction for frequent use
-          - Behaviour changed: Focused --- Resistant of external changes
-      - Intake
-        - Creating rotational-stack model to a list(Counter-clock wise) 4 pop * 2 Reinforced
-      - Fatigue threshold
-        - Level 1: Pass, 4 better long-term effects
-        - Level 2: Stopped, 
-      - !TRANSFERRED TO OVERALL! 
-        - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay
-        - Back in to the track * 1
-  - Training - Using Geeksforgeeks
-    - https://www.geeksforgeeks.org/merge-k-sorted-linked-lists/
-    - Fatigue threshold
-      - Level 1: Triggered by OOP python
-      - Level 2: Refactoring python array into list
-        - Rest 4 5 min
-  - 2021/7/24 - Group with python programming book with NLP
-```python
-# https://leetcode.com/problems/merge-k-sorted-lists/
+- Solved in 2021/7/24 
+- Fuck, stupid leetcode requires you to set the val to be an empty string if an empty list is given, WTF
+- Don't delete all of your record, extract something from it dude
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
-class Solution:
-    # Takes two lists sorted in increasing order
-    # and merge their nodes together to make one
-    # big sorted list. Below function takes
-    # O(Log n) extra space for recursive calls,
-    # but it can be easily modified to work with
-    # same time and O(1) extra space.
-    def SortedMerge(a:ListNode, b:ListNode):
-        
-        result = None
-        
-        # Base cases
-        if (a == None):
-            return(b)
-        elif (b == None):
-            return(a)
-        if (a.val <= b.val):
-            result = a
-            result.next = SortedMerge(a.next, b)
-        else:
-            result = b
-            result.next = SortedMerge(a, b.next)
-            
-        return result
-    
-    
-    def mergeKLists(self, lists: List[ListNode]) -> ListNode:
-        last = len(lists) - 1
-        
-        # Repeat until only one list is left
-        while (last != 0):
-            i = 0
-            j = last
-            
-            # (i, j) forms a pair
-            while (i < j):
-                
-                # Merge List i with List j and store
-                # merged list in List i
-                lists[i] = self.SortedMerge(lists[i], lists[j])
-                
-                # Consider next pair
-                i += 1
-                j -= 1
-                
-                # If all pairs are merged, update last
-                if (i >= j):
-                    last = j
-        return lists[0]
-                
-```
+## Leetcode - Permutations
+- Think for your self
+    - Create a tree and use memoization
+    - How many permutations are there?
 
-```
-https://blog.csdn.net/weixin_42716620/article/details/82888572
-https://stackoverflow.com/questions/14086830/python-calling-method-in-class
-https://stackoverflow.com/questions/54709025/understanding-positional-arguments-in-python
-
-TypeError: SortedMerge() takes 2 positional arguments but 3 were given
-    lists[i] = self.SortedMerge(lists[i], lists[j])
-Line 45 in mergeKLists (Solution.py)
-    ret = Solution().mergeKLists(param_1)
-Line 74 in _driver (Solution.py)
-    _driver()
-Line 85 in <module> (Solution.py)
-```

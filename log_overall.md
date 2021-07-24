@@ -1,3 +1,6 @@
+# This is just a tool
+- This is just a tool
+
 # Customized motivation pool
 清华大学教授李稻葵就曾在一次演讲中说：
 ```

@@ -26,11 +26,23 @@
   - [link](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
 
 ## Drama
-- [Die Technik des Dramas ](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
+- [Die Technik des Dramas](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
 
 ## History
 - Ancient Egypt
   - The Book of Exodus
+
+
+## Education
+
+## Politics
+
+## Society
+
+## Literature
+- [To kill a mockingbird](http://giove.isti.cnr.it/demo/eread/Libri/angry/Mockingbird.pdf)
+
+## Science
 
 # Linguistics
 - Introduction to Linguistics --- Marcus Kracht, UCLA

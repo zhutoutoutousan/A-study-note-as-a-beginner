@@ -246,6 +246,7 @@ function Machine(cpu) {
       - Level 1: Triggered by OOP python
       - Level 2: Refactoring python array into list
         - Rest 4 5 min
+  - 2021/7/24 - Group with python programming book with NLP
 ```python
 # https://leetcode.com/problems/merge-k-sorted-lists/
 

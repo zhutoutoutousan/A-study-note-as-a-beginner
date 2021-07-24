@@ -93,17 +93,30 @@
   - Load pack: GE 110words, FR 100words, SP 100words: 2-3 hours(When doing other stuffs)
 
 ## Creating an efficient, low-mental friction context switch map of strategy
-- So, its seems never possible to mimick a complete highly-focused timechunk for uni-lateral or bi-lateral hustles because you have multiple hustles on-going.
-- It's a good chance to train your context switch strategy with heavy loads
-
-
-- English translation 2 Programming
-  - Cycle
-    - Node 1 - Off
-      - 15 minutes powernap with binaural beats
-    - Node 1 - On
-      - Gamma or Alpha BB
-  - Strategy
-    - Physical environments
-    - Mental state
-    - Music
+- Overview
+  - So, its seems never possible to mimick a complete highly-focused timechunk for uni-lateral or bi-lateral hustles because you have multiple hustles on-going.
+  - It's a good chance to train your context switch strategy with heavy loads
+- Generic tools
+  - Binaural beats with music
+    - Alpha
+    - Gamma
+      - Relieving headache for reducing overthinking and boosts concentration
+      - Risk of missing outside information
+      - Ability to work 4hrs+ straight
+      - Cancel energy leak
+  - **You need more than binaural beats to make a sustainable flow esay**
+- Log by types
+  - English translation 2 Programming
+    - Cycle
+      - Node 1 - Off
+        - 15 minutes powernap with binaural beats
+      - Node 1 - On
+        - Gamma or Alpha BB
+    - Strategy
+      - Physical environments
+      - Mental state
+      - Music
+- Distracting factors
+  - Software
+    - Installation
+      - e.g. So ur installing something that might take 30min, 1hr, 5hrs to implement or download due to some reasons, what's the best thing to do?

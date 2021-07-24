@@ -98,6 +98,11 @@
 
 
 - English translation 2 Programming
+  - Cycle
+    - Node 1 - Off
+      - 15 minutes powernap with binaural beats
+    - Node 1 - On
+      - Gamma or Alpha BB
   - Strategy
     - Physical environments
     - Mental state

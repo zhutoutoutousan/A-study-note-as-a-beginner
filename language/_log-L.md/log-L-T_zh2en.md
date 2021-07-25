@@ -6,8 +6,10 @@
 - [Politics](#politics)
 - [Basic building blocks](#basic-building-blocks)
   - [J](#j)
-- [Hot words](#hot-words)
+- [成语](#成语)
   - [C](#c)
+- [Hot words](#hot-words)
+  - [C](#c-1)
   - [D](#d)
   - [J](#j-1)
   - [M](#m)
@@ -67,9 +69,13 @@
 - 以...为基
   - is the foundation/basis of
 
+# 成语
+## C
+- 乘胜追击: follow up a victory with hot pursuit
 
 # Hot words
 ## C
+
 - 春天的故事
 
 ## D

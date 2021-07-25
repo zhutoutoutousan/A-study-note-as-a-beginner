@@ -22,6 +22,18 @@
 ## Study system
 - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay
 - Back in to the track * 1
+```
+PFocmErCpGlEmeC09RwR5w==:
+关键比较notion是自由感, 想怎么改怎么改。折腾了半天发现，实际不太需要截图，视频，声音, 各类图等高大上功能（给个链接就可以替代）。 我觉得比较实用的功能是关键字搜索和centralization，以及用户可自定义知识结构，逻辑，功能, 推荐。能让用户发现记上去的东西不是死的, 而是一个数据节点, 能够与其余数据节点进行互动， 灵动感
+
+PFocmErCpGlEmeC09RwR5w==:
+不是tag功能
+
+PFocmErCpGlEmeC09RwR5w==:
+而是一个有记忆衰退数据, 掌握程度, 知识关系, 实际产出对接物数据的图, 能够根据用户给定目标，给定笔记记录生成的图，智能推荐roadmap
+
+```
+
 
 ## Global strategy dashboard
 

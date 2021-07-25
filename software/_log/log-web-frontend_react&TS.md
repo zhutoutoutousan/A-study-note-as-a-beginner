@@ -108,6 +108,6 @@ error Command failed with exit code 1.
 ```
 
 # 2021/7/25-
-## React source code
+## React source code - Bottom-up
 - https://www.bilibili.com/video/BV1Jv411C7UV?from=search&seid=5828538160773570383
-  - Bookmark: 2-08
+  - Bookmark: 5-0

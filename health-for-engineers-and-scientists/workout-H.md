@@ -71,10 +71,16 @@ days, dimension, performance
   - Off at 7/18
   - On at 8/18
 - Sunday
+  - Arm day
 - Monday
+  - Shoulder day
 - Tuesday
+  - Off day
 - Wednesday
+  - Chest day
 - Thursday
+  - Leg day
 - Friday
+  - Off day
 - Saturday
 - Sunday

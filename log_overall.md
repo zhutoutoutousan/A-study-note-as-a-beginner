@@ -103,9 +103,12 @@
         - Implementation takes longest time
   - Coding project
     - At least 3 hours
+  - Source code reading
+    - Minimum 6 hours for self-study
+    - Minimum 3 hours for guided walkthrough
 - Language
   - Load pack: GE 110words, FR 100words, SP 100words: 2-3 hours(When doing other stuffs)
-
+- BA and Translation training
 ## Creating an efficient, low-mental friction context switch mapping strategy
 - Overview
   - So, its seems never possible to mimick a complete highly-focused timechunk for uni-lateral or bi-lateral hustles because you have multiple hustles on-going.

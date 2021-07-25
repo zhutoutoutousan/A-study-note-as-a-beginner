@@ -70,17 +70,11 @@ days, dimension, performance
 - Sarm cycle
   - Off at 7/18
   - On at 8/18
+- Sunday
+- Monday
 - Tuesday
-  - Arm day
 - Wednesday
-  - Chest day
 - Thursday
-  - 40 min bike ride
 - Friday
-  - Leg day
-  - Squat 4-6RM 5SETS
-  - Leg press 4-6RM 5SETS
-  - Bulgarian split squat 6-8RM 5SETS
 - Saturday
-  - 1 hour bike ride
 - Sunday

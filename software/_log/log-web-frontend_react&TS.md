@@ -78,3 +78,36 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 
 # 2021/7/7
 ## React 18 New features
+
+## React build error
+```
+ OH NOES!  react.production.min.js (umd_prod)
+
+-- PLUGIN_ERROR (scripts/rollup/plugins/closure-plugin) --
+Error: java -jar E:\GitHub\repo-study\react\node_modules\google-closure-compiler-jcompiler.jar --compilation_level=SIMPLE --language_in=ECMASCRIPT_2015 --language_oCMASCRIPT5_STRICT --env=CUSTOM --warning_level=QUIET --apply_input_source_maps=fal-use_types_for_optimization=false --process_common_js_modules=false --rewrite_polys=false --inject_libraries=false --assume_function_wrapper=false --renaming=true -C:\Users\Owen\AppData\Local\Temp\tmp-11004FvRMSW2dDzAO
+
+java.lang.UnsupportedClassVersionError: com/google/javascript/jscomp/CommandLineRu : Unsupported major.minor version 52.0
+        at java.lang.ClassLoader.defineClass1(Native Method)
+        at java.lang.ClassLoader.defineClass(Unknown Source)
+        at java.security.SecureClassLoader.defineClass(Unknown Source)
+        at java.net.URLClassLoader.defineClass(Unknown Source)
+        at java.net.URLClassLoader.access$100(Unknown Source)
+        at java.net.URLClassLoader$1.run(Unknown Source)
+        at java.net.URLClassLoader$1.run(Unknown Source)
+        at java.security.AccessController.doPrivileged(Native Method)
+        at java.net.URLClassLoader.findClass(Unknown Source)
+        at java.lang.ClassLoader.loadClass(Unknown Source)
+        at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+        at java.lang.ClassLoader.loadClass(Unknown Source)
+        at sun.launcher.LauncherHelper.checkAndLoadMain(Unknown Source)
+Exception in thread "main"
+
+
+    at Process.ChildProcess._handlecripts\rollup\plugins\closure-plugin.js:16:16      at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+error Command failed with exit code 1.
+```
+
+# 2021/7/25-
+## React source code
+- https://www.bilibili.com/video/BV1Jv411C7UV?from=search&seid=5828538160773570383
+  - Bookmark: 2-08

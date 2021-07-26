@@ -98,6 +98,7 @@ Alternative translation
 
 ## D
 - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
+- 独具特色的文化魅力
 ## J
 - 君子之国 先礼后兵
 - 价格优势
@@ -122,6 +123,8 @@ Alternative translation
   - Actions count, and actions always speak louder than words. - 《2020年李总理答中外记者问》
 - 世界经济深度衰退
   - a deep global economic recession - 政府工作报告
+- 山水岭田，湖草沙丁 - Network News Broadcast
+- 生灵草木，万水千山 - Network News Broadcast
 ## W
 - 围追堵截: Encirclement
 ## X

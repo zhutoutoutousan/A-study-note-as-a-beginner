@@ -70,17 +70,21 @@ days, dimension, performance
 - Sarm cycle
   - Off at 7/18
   - On at 8/18
-- Sunday
-  - Arm day
+
 - Monday
-  - Shoulder day
+  - Arm day
+    - Bicep
+    - Tricep
+    - Forearm
 - Tuesday
-  - Off day
+  - Shoulder day
+  - F
 - Wednesday
-  - Chest day
 - Thursday
-  - Leg day
+  - Chest day
 - Friday
-  - Off day
+  - Leg day
 - Saturday
+  - Off day
 - Sunday
+  - 

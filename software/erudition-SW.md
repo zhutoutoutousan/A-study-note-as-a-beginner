@@ -30,6 +30,7 @@
     - [Node.js](#nodejs)
 - [CTF](#ctf)
 - [Software Architecture](#software-architecture)
+- [Software testing](#software-testing)
 - [Development Project](#development-project)
 
 
@@ -433,6 +434,9 @@ is useful.
 # Software Architecture
 - The Architecture of Open Source Applications
   - [link](http://aosabook.org/en/index.html) 
+
+# Software testing
+- Lessons Learned in Software Testing
 
 
 # Development Project 

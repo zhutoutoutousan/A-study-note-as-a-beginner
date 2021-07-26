@@ -8,6 +8,7 @@
 - [Hot words](#hot-words)
   - [A](#a)
   - [C](#c)
+  - [F](#f)
   - [L](#l)
   - [M](#m)
   - [W](#w)
@@ -62,6 +63,10 @@
   - [Anthropocene - National Geographic](https://www.nationalgeographic.org/encyclopedia/anthropocene/)
 ## C
 - Creating a powerful force that will...
+
+## F
+- fiscal year:财年
+  - [Fiscal year - wiki](https://en.wikipedia.org/wiki/Fiscal_year)
 ## L
 - Loot a burning house: 乘人之危, 落井下石
 

@@ -66,7 +66,10 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 
 # 2021/6/14
 ## Difference between useEffect, useState, useMemo
-
+- Please extract information from it
+  - [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k&t=797s)
+  - [ntermediate React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=6s0OVdoo4Q4&t=15s)
+  - [Beginner React.js Coding Interview (ft. Clément Mihailescu)](https://www.youtube.com/watch?v=gnkrDse9QKc&t=753s)
 ## Explain to me what React.FC is
 
 # 2021/6/16

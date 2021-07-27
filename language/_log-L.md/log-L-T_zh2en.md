@@ -14,17 +14,24 @@
   - [A](#a)
   - [C](#c-1)
   - [D](#d)
+  - [F](#f)
   - [G](#g)
+  - [H](#h)
   - [J](#j-1)
+  - [L](#l)
   - [M](#m)
   - [O](#o)
   - [Q](#q-1)
   - [S](#s)
+  - [T](#t)
+  - [V](#v)
   - [W](#w)
   - [X](#x)
   - [Y](#y)
   - [Z](#z)
 - [Long sentences translation](#long-sentences-translation)
+  - [Rules of reference](#rules-of-reference)
+  - [Instances](#instances)
 
 
 # Regulartories
@@ -105,14 +112,42 @@ Alternative translation
 ## D
 - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
 - 独具特色的文化魅力
+- 达成...(指标)
+  - register
+  - enjoy
+  - achieve
+  - with
+- 大水漫灌
+  - [2016政府工作报告中的20个金句](https://language.chinadaily.com.cn/2016-03/05/content_23749785.htm)
+    - 我们不搞“大水漫灌”式的强刺激，而是持续推动结构性改革。
+    - Rather than adopting strong stimulus policies that would have an economy-wide impact, we continued to move forward with structural reform.
+  - [不让市场缺钱 又坚决不搞“大水漫灌”](http://www.xinhuanet.com/2020-11/27/c_1126791383.htm)
+
+## F
+- 放宽市场准入
+  - Broaden market access
 ## G
 - 供给侧结构性改革 : Supply-side structural reform
 - 改革开放
   - China's reform and opening up
+## H
+- 后遗症
+  - sequela
 ## J
-- 君子之国 先礼后兵
-- 价格优势
+- 经济
+  - 激发市场活力
+    - boost the vitality of the market
+- 文化
+  - 君子之国 先礼后兵
+- 市场
+  - 价格优势
+
+## L 
+- 量化宽松
+  - Quantitative easing
+  - QE
 ## M
+- 贸易保护主义: Trade protectionism
 - 民粹主义
 - 民族主义
 - 民惟邦本, 本固邦宁
@@ -137,6 +172,14 @@ Alternative translation
   - a deep global economic recession - 政府工作报告
 - 山水岭田，湖草沙丁 - Network News Broadcast
 - 生灵草木，万水千山 - Network News Broadcast
+
+## T
+- 同心协力
+  - With strong and united effort
+  - We pressed ahead as one
+  - Jointly effort
+
+## V
 ## W
 - 围追堵截: Encirclement
 ## X
@@ -149,6 +192,10 @@ Alternative translation
 
 
 # Long sentences translation
+## Rules of reference
+- 逻辑性
+  - 增译
+## Instances
 - 面对突如其来的新冠肺炎疫情、世界经济
 深度衰退等多重严重冲击,在以习近平同志为核心的党中央坚强领导下,全国各
 族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经

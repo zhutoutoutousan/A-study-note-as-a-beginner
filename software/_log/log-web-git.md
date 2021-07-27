@@ -73,3 +73,9 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - General
   - set command alias
     - `git config --global alias.co checkout`
+
+# 2021/7/27
+## Actions?
+So you switched to (HEAD detached at origin/develop), in order to have a quick grasp of the project, what should you do?
+
+## Let's say you are starting working with a new team, what questions about git would you ask them?

@@ -7,21 +7,24 @@
 - [Politics](#politics)
 - [Basic building blocks](#basic-building-blocks)
   - [J](#j)
+  - [Q](#q)
 - [成语](#成语)
   - [C](#c)
 - [Hot words](#hot-words)
   - [A](#a)
   - [C](#c-1)
   - [D](#d)
+  - [G](#g)
   - [J](#j-1)
   - [M](#m)
   - [O](#o)
-  - [Q](#q)
+  - [Q](#q-1)
   - [S](#s)
   - [W](#w)
   - [X](#x)
   - [Y](#y)
   - [Z](#z)
+- [Long sentences translation](#long-sentences-translation)
 
 
 # Regulartories
@@ -84,7 +87,9 @@ Alternative translation
 ## J
 - 以...为基
   - is the foundation/basis of
-
+## Q
+- 取得了重大进展
+  - ...major headway has been made in...
 # 成语
 ## C
 - 乘胜追击: follow up a victory with hot pursuit
@@ -99,6 +104,9 @@ Alternative translation
 ## D
 - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
 - 独具特色的文化魅力
+## G
+- 改革开放
+  - China's reform and opening up
 ## J
 - 君子之国 先礼后兵
 - 价格优势
@@ -115,6 +123,8 @@ Alternative translation
 - 全国政协
   - The Chinese People's Political Consultative Conference(CPPCC)
 ## S
+- 社会主义现代化建设
+  - Socialist modernization drive
 - 三星堆
   - [神秘三星堆被玩坏了，是时候刷一波相关的英文表达啦！](https://zhuanlan.zhihu.com/p/359793996)
 - 审议
@@ -134,3 +144,12 @@ Alternative translation
 - 硬骨头: cracked this "hardest nut"
 ## Z
 - 中国能源结构: China's energy mix
+
+
+# Long sentences translation
+- 面对突如其来的新冠肺炎疫情、世界经济
+深度衰退等多重严重冲击,在以习近平同志为核心的党中央坚强领导下,全国各
+族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经
+济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
+交出一份人民满意、世界瞩目、可以载入史册的答卷。
+  - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.

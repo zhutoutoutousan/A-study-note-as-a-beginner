@@ -135,6 +135,9 @@ PFocmErCpGlEmeC09RwR5w==:
       - Cancel energy leak
   - **You need more than binaural beats to make a sustainable flow esay**
 - Log by types
+  - Programming to Online courses
+    - Cycle
+      - 15 min rest
   - English translation 2 Programming
     - Cycle
       - Node 1 - Off

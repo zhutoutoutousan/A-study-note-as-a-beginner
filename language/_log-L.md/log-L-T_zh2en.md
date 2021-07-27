@@ -141,7 +141,7 @@ Alternative translation
   - 君子之国 先礼后兵
 - 市场
   - 价格优势
-
+- 机制建设
 ## L 
 - 量化宽松
   - Quantitative easing
@@ -160,6 +160,8 @@ Alternative translation
 - 全国政协
   - The Chinese People's Political Consultative Conference(CPPCC)
 ## S
+- 上善若水，水利万物而不争
+  - The supreme good is like water; waternurtures all living things
 - 社会主义现代化建设
   - Socialist modernization drive
 - 三星堆
@@ -182,6 +184,7 @@ Alternative translation
 ## V
 ## W
 - 围追堵截: Encirclement
+- 务实合作
 ## X
 - 熊市
 - 新中国: The People's Republic of China - 政府工作报告
@@ -189,7 +192,8 @@ Alternative translation
 - 硬骨头: cracked this "hardest nut"
 ## Z
 - 中国能源结构: China's energy mix
-
+- 战略规划
+- 资金支持
 
 # Long sentences translation
 ## Rules of reference

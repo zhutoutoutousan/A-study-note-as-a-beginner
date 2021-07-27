@@ -54,6 +54,7 @@ Alternative translation
   - Reuters
   - **United Nations | Annual report**
 - Chinese equivalent
+  - CGTN
   - 新闻联播
   - China daily
   - 新华社
@@ -105,6 +106,7 @@ Alternative translation
 - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
 - 独具特色的文化魅力
 ## G
+- 供给侧结构性改革 : Supply-side structural reform
 - 改革开放
   - China's reform and opening up
 ## J

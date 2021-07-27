@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5dfb083905a71351",
+        "id": "3a6a268f866381d4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "artificial-intelligence/applications.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artificial-intelligence/applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dfb083905a71351",
+  "active": "3a6a268f866381d4",
   "lastOpenFiles": [
+    "mathematics/terminology-M-POI.md",
+    "csapp.cs.cmu.edu.md",
+    "psychology/micro-psychology/intelligence/intelligence.md",
     "artificial-intelligence/applications.md",
     "physics/roadmap.md"
   ]

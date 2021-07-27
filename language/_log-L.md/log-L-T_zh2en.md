@@ -12,6 +12,7 @@
   - [C](#c)
 - [Hot words](#hot-words)
   - [A](#a)
+  - [B](#b)
   - [C](#c-1)
   - [D](#d)
   - [F](#f)
@@ -22,6 +23,7 @@
   - [M](#m)
   - [O](#o)
   - [Q](#q-1)
+  - [R](#r)
   - [S](#s)
   - [T](#t)
   - [V](#v)
@@ -104,7 +106,8 @@ Alternative translation
 
 # Hot words
 ## A
-
+## B
+- 留得青山在，不怕没柴烧: While there is life, there is hope.
 ## C
 - 常任理事国
 - 春天的故事
@@ -141,11 +144,14 @@ Alternative translation
   - 君子之国 先礼后兵
 - 市场
   - 价格优势
+    - price advantage
 - 机制建设
+  - Institution building
 ## L 
 - 量化宽松
   - Quantitative easing
   - QE
+- 
 ## M
 - 贸易保护主义: Trade protectionism
 - 民粹主义
@@ -159,22 +165,35 @@ Alternative translation
 ## Q
 - 全国政协
   - The Chinese People's Political Consultative Conference(CPPCC)
-## S
-- 上善若水，水利万物而不争
-  - The supreme good is like water; waternurtures all living things
-- 社会主义现代化建设
-  - Socialist modernization drive
-- 三星堆
-  - [神秘三星堆被玩坏了，是时候刷一波相关的英文表达啦！](https://zhuanlan.zhihu.com/p/359793996)
-- 审议
-  - Deliberation and approval - 政府工作报告
-- 实干为要，行胜于言 
-  - Actions count, and actions always speak louder than words. - 《2020年李总理答中外记者问》
-- 世界经济深度衰退
-  - a deep global economic recession - 政府工作报告
-- 山水岭田，湖草沙丁 - Network News Broadcast
-- 生灵草木，万水千山 - Network News Broadcast
 
+## R
+- 人权
+  - Human rights
+## S
+- 古文
+  - 上善若水，水利万物而不争
+    - The supreme good is like water; water nurtures all living things without competing with them
+  - 实干为要，行胜于言 
+    - Actions count, and actions always speak louder than words. - 《2020年李总理答中外记者问》
+  - 山水岭田，湖草沙丁 - Network News Broadcast
+  - 生灵草木，万水千山 - Network News Broadcast
+- 经济
+  - 社会主义现代化建设
+    - Socialist modernization drive
+  - 世界经济深度衰退
+    - a deep global economic recession - 政府工作报告
+- 文化
+  - 三星堆
+    - [神秘三星堆被玩坏了，是时候刷一波相关的英文表达啦！](https://zhuanlan.zhihu.com/p/359793996)
+- 通用
+  - 审议
+    - Deliberation and approval - 政府工作报告
+  - 实实在在
+    - tangible
+    - real
+    - true
+    - genuine
+- 未分类
 ## T
 - 同心协力
   - With strong and united effort
@@ -185,15 +204,24 @@ Alternative translation
 ## W
 - 围追堵截: Encirclement
 - 务实合作
+  - practical cooperation
 ## X
+- 新四大发明
 - 熊市
 - 新中国: The People's Republic of China - 政府工作报告
 ## Y
+- 以卵击石 
+  - Throw a staw against the wind
+    - [英文成语轻松说第136期:以卵击石](http://www.kekenet.com/kouyi/201501/352505.shtml)
 - 硬骨头: cracked this "hardest nut"
+- 源头活水
+  - A new fountain of strength
 ## Z
 - 中国能源结构: China's energy mix
 - 战略规划
+  - Strategic planning
 - 资金支持
+  - Financial support
 
 # Long sentences translation
 ## Rules of reference

@@ -18,6 +18,9 @@
 跟了那个圈子之后，你会跟着这个圈子不断地往上走。
 ```
 
+人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。 ——罗曼.罗兰
+
+
 # Idea pool
 ## Study system
 - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay

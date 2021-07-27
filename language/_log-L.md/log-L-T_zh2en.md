@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Agenda](#agenda)
 - [Regulartories](#regulartories)
 - [Work](#work)
 - [Sources](#sources)
@@ -34,7 +35,12 @@
 - [Long sentences translation](#long-sentences-translation)
   - [Rules of reference](#rules-of-reference)
   - [Instances](#instances)
+- [Log](#log)
+  - [2021/7/27](#2021727)
+    - [It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)](#it-seems-like-you-were-focusing-too-much-on-notetaking-but-not-focusing-on-the-memorizing-and-structuring-process-of-the-audio-textconsecutive-interpreting)
 
+# Agenda
+- As you are getting finished with CATTI, you can gradually migrate it to the permanent note instead of *log*
 
 # Regulartories
 - 语言降维: 说人话
@@ -113,6 +119,8 @@ Alternative translation
 - 春天的故事
 
 ## D
+- 砥砺前行，攻坚克难
+  - forge ahead and overcome/surmount difficulties
 - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
 - 独具特色的文化魅力
 - 达成...(指标)
@@ -140,6 +148,8 @@ Alternative translation
 - 经济
   - 激发市场活力
     - boost the vitality of the market
+  - 经济运行保持在合理区间&增译
+    - The main economic **indicators** were kept within an appropriate range
 - 文化
   - 君子之国 先礼后兵
 - 市场
@@ -151,7 +161,7 @@ Alternative translation
 - 量化宽松
   - Quantitative easing
   - QE
-- 
+  - [MBA](https://wiki.mbalib.com/wiki/%E9%87%8F%E5%8C%96%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96)
 ## M
 - 贸易保护主义: Trade protectionism
 - 民粹主义
@@ -165,7 +175,10 @@ Alternative translation
 ## Q
 - 全国政协
   - The Chinese People's Political Consultative Conference(CPPCC)
-
+- 全面建设小康社会
+  - building a moderately prosperous society in all respects
+- 全面胜利
+  - a decisive victory
 ## R
 - 人权
   - Human rights
@@ -209,7 +222,10 @@ Alternative translation
 - 新四大发明
 - 熊市
 - 新中国: The People's Republic of China - 政府工作报告
+- 下行压力: downward pressure
 ## Y
+- 严峻形势: 
+  - challenging ... environment
 - 以卵击石 
   - Throw a staw against the wind
     - [英文成语轻松说第136期:以卵击石](http://www.kekenet.com/kouyi/201501/352505.shtml)
@@ -234,3 +250,11 @@ Alternative translation
 济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
 交出一份人民满意、世界瞩目、可以载入史册的答卷。
   - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.
+
+# Log
+## 2021/7/27
+### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)
+- Note is only the subsidiary of your store, don't overdo it
+- [口译学习中脑记和笔记的关系？](https://www.zhihu.com/question/29384761/answer/95369892)
+- [交替传译中的笔记分析](https://www.zz-news.com/com/dangdaijiaoyuluntan/news/itemid-94541.html)
+- [交替传译](http://www.dioenglish.com/wiki/index.php?doc-view-9988)

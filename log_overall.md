@@ -109,6 +109,8 @@ PFocmErCpGlEmeC09RwR5w==:
 
 
 ## **Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome
+学习要集中去学，连续去学，但不同的学习内容的最小连续
+
 - Software
   - Leetcode
     - Easy

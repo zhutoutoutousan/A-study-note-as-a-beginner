@@ -79,3 +79,6 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 So you switched to (HEAD detached at origin/develop), in order to have a quick grasp of the project, what should you do?
 
 ## Let's say you are starting working with a new team, what questions about git would you ask them?
+
+# 2021/7/28
+## One time full reading flow of git

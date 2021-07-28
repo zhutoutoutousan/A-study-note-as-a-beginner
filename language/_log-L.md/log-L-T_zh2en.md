@@ -138,6 +138,7 @@ Alternative translation
 - 放宽市场准入
   - Broaden market access
 ## G
+- 高质量发展的动力系统
 - 供给侧结构性改革 : Supply-side structural reform
 - 改革开放
   - China's reform and opening up
@@ -150,6 +151,7 @@ Alternative translation
     - boost the vitality of the market
   - 经济运行保持在合理区间&增译
     - The main economic **indicators** were kept within an appropriate range
+  - 经济发展的空间结构
 - 文化
   - 君子之国 先礼后兵
 - 市场
@@ -163,6 +165,7 @@ Alternative translation
   - QE
   - [MBA](https://wiki.mbalib.com/wiki/%E9%87%8F%E5%8C%96%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96)
 ## M
+- 命运共同体
 - 贸易保护主义: Trade protectionism
 - 民粹主义
 - 民族主义
@@ -173,12 +176,15 @@ Alternative translation
 - 欧洲三剑客
 
 ## Q
-- 全国政协
-  - The Chinese People's Political Consultative Conference(CPPCC)
-- 全面建设小康社会
-  - building a moderately prosperous society in all respects
-- 全面胜利
-  - a decisive victory
+- 政治
+  - 全国政协
+    - The Chinese People's Political Consultative Conference(CPPCC)
+  - 全面胜利
+    - a decisive victory
+- 经济
+  - 全面建设小康社会
+    - building a moderately prosperous society in all respects
+- 区域协调发展
 ## R
 - 人权
   - Human rights
@@ -195,6 +201,7 @@ Alternative translation
     - Socialist modernization drive
   - 世界经济深度衰退
     - a deep global economic recession - 政府工作报告
+
 - 文化
   - 三星堆
     - [神秘三星堆被玩坏了，是时候刷一波相关的英文表达啦！](https://zhuanlan.zhihu.com/p/359793996)
@@ -224,6 +231,8 @@ Alternative translation
 - 新中国: The People's Republic of China - 政府工作报告
 - 下行压力: downward pressure
 ## Y
+- 因地制宜
+  - suit one's measures to local conditions
 - 严峻形势: 
   - challenging ... environment
 - 以卵击石 

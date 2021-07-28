@@ -38,8 +38,8 @@
   - Strength
     - Squat: 160kg Intermediate
     - Deadlift: 190kg Pre-advanced
-    - Bench press: 100kg Pre-intermediate
-    - Overhead press: 60kg * 2
+    - Bench press: 100kg Pre-intermediate * 2
+    - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
   - Endurance
     - Bike ride
@@ -80,6 +80,7 @@ days, dimension, performance
   - Shoulder day
   - F
 - Wednesday
+  - Off day
 - Thursday
   - Chest day
 - Friday

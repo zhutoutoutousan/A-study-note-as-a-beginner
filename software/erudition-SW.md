@@ -269,6 +269,8 @@ is useful.
       - Style and goals
         - Just test code
       - Source code: https://github.com/book-source/goeg
+  - Building microservices in Go
+    - [link](https://github.com/diptomondal007/GoLangBooks/blob/master/building-microservices-go.pdf)
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
     - Progress: 19:50/6:39:57
   - Go for JavaScript Developers

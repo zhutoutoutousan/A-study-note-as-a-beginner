@@ -2,6 +2,8 @@
 ## Sources
 - 2020微博娱乐白皮书
   - [2020微博娱乐白皮书发布：聚全平台之力共助行业发展](https://hd.weibo.com/article/view/3882)
+- 粉丝经济4.0白皮书
+  - [link](https://www.shangyexinzhi.com/article/365975.html)
 # 2021/6/22
 ## Knowing what PPL is
 - [Pay per Lead – A Practice of the 90’s or the New Age of SEO?](https://cognitiveseo.com/blog/20222/pay-per-lead-seo/)

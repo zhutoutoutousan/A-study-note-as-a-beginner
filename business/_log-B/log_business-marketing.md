@@ -1,3 +1,7 @@
+# Buffer to permanent note
+## Sources
+- 2020微博娱乐白皮书
+  - [2020微博娱乐白皮书发布：聚全平台之力共助行业发展](https://hd.weibo.com/article/view/3882)
 # 2021/6/22
 ## Knowing what PPL is
 - [Pay per Lead – A Practice of the 90’s or the New Age of SEO?](https://cognitiveseo.com/blog/20222/pay-per-lead-seo/)
@@ -24,3 +28,4 @@
 - Persona
   - https://baike.baidu.com/item/%E6%B8%97%E9%80%8F%E4%B9%8Bc%E5%90%9B
   - https://baike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896
+

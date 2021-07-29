@@ -5,6 +5,7 @@
   - This could affect your attitude and needs towards notetaking as *interpretation* and rigorous verbal reasoning are being integrated into your future career
     - Note can be messy, but it must serve as a well-structured information highway with maximum throughput and minimum styling
       - Timely Brain-note engagements are also important
+        - You should fill the gaps between pillars, without doing so, your note will gradually become useless
   - 学习过程
     - 探查过程
       - 探查哪种神经刺激通路能够满足以下要求

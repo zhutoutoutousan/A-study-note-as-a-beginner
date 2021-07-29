@@ -22,6 +22,7 @@
   - [J](#j-1)
   - [L](#l)
   - [M](#m)
+  - [N](#n)
   - [O](#o)
   - [Q](#q-1)
   - [R](#r)
@@ -108,7 +109,7 @@ Alternative translation
   - ...major headway has been made in...
 # 成语
 ## C
-- 乘胜追击: follow up a victory with hot pursuit
+- 乘(chéng)胜追击: follow up a victory with hot pursuit
 
 # Hot words
 ## A
@@ -137,11 +138,15 @@ Alternative translation
 ## F
 - 放宽市场准入
   - Broaden market access
+- 符合...人的利益
+  - Suits ...'s best interests
 ## G
 - 高质量发展的动力系统
 - 供给侧结构性改革 : Supply-side structural reform
 - 改革开放
   - China's reform and opening up
+- 国务院常务会议
+  - 
 ## H
 - 后遗症
   - sequela
@@ -172,6 +177,8 @@ Alternative translation
 - 民惟邦本, 本固邦宁
   - 只有以百姓为国家的根本，根本稳固了，国家就安宁了
   - The poeple is the foundation of a state. When the foundation is strong, the state will be secure
+## N
+- 牛年
 ## O
 - 欧洲三剑客
 
@@ -247,7 +254,11 @@ Alternative translation
   - Strategic planning
 - 资金支持
   - Financial support
-
+- 经济
+  - 行业
+    - 畜牧业
+      - 猪周期
+        - [『小红说』猪肉价格大跌，聊聊投资中的周期](https://finance.sina.com.cn/money/fund/jjzl/2021-06-24/doc-ikqcfnca2992976.shtml)
 # Long sentences translation
 ## Rules of reference
 - 逻辑性

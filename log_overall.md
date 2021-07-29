@@ -1,3 +1,29 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Coping with self-dysregulation](#coping-with-self-dysregulation)
+- [Potential destructive elements scope](#potential-destructive-elements-scope)
+- [Customized motivation pool](#customized-motivation-pool)
+- [Idea pool](#idea-pool)
+  - [Study system](#study-system)
+  - [Global strategy dashboard](#global-strategy-dashboard)
+- [Caveats](#caveats)
+- [Behavior](#behavior)
+  - [`_encoded-habit`](#_encoded-habit)
+  - [`_enforcing-habit` 4/5](#_enforcing-habit-45)
+  - [`_discarded-habit` 0/_](#_discarded-habit-0_)
+  - [`_discarding-habit` 2/5](#_discarding-habit-25)
+  - [Up-to-date habit plan](#up-to-date-habit-plan)
+    - [Workbench](#workbench)
+    - [Log](#log)
+- [Logs](#logs)
+  - [2021/6/29-2021/8/1](#2021629-202181)
+    - [Think more actively](#think-more-actively)
+    - [Communicate in an effective way](#communicate-in-an-effective-way)
+    - [Minimize time leak & Balance between statics and dynamics](#minimize-time-leak--balance-between-statics-and-dynamics)
+    - [The effect of R&R in other places](#the-effect-of-rr-in-other-places)
+  - [**Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome](#accurate-time-chunk-allocation-data-based-on-self-tested-conclusions-to-reach-optimal-outcome)
+  - [Creating an efficient, low-mental friction context switch mapping strategy](#creating-an-efficient-low-mental-friction-context-switch-mapping-strategy)
+  - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem
@@ -188,3 +214,5 @@ PFocmErCpGlEmeC09RwR5w==:
     - OMG, my life is doing pretty bad!
     - OMG, some random John/Jane Doe is doing better than I am
     - OMG, I'm losing my man cards recently
+    - Existential crysis :)
+## In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?

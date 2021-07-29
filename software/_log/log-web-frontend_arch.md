@@ -8,3 +8,7 @@ I was asked yet another question that I certainly not able to answer in an elega
 # 2021/6/11
 ## A keen sense of life-cycle
 - [Comparison of life cycle between vue and react](https://programmersought.com/article/76314025698/)
+
+# 2021/7/29
+## Request for updating your knowledge of front-end architecture - A bit more organized
+- [前端项目架构小结](https://juejin.cn/post/6844903475613007886)

@@ -14,3 +14,13 @@
   - I thought there would be more info like viewer info in it
 
 ## Big question here, in what way is ATHLEAN-X successful as a business? Why is it successful?
+
+# 2021/7/29
+## Start learning MCN
+- Source
+  - [萌娘百科](https://zh.moegirl.org.cn/)
+- IP analysis
+- https://www.zhihu.com/question/457540116
+- Persona
+  - https://baike.baidu.com/item/%E6%B8%97%E9%80%8F%E4%B9%8Bc%E5%90%9B
+  - https://baike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896

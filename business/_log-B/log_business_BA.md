@@ -1,3 +1,9 @@
+# Buffer to permanent note
+## Channels
+- [商业新知](https://www.shangyexinzhi.com/)
+## Fan economics
+- [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
+
 # 2021/7/24
 ## Business analyst courses
 - [Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=f9DzS6NdgwU)
@@ -30,3 +36,6 @@
           - 唱吧，收费 按摩椅，3D眼镜租赁等新业态尚未引入
       - 减少成本
         - 减少固定成本：房租和设备等均为长线成本，难以降低
+
+# 2021/7/30
+## 

@@ -10,3 +10,10 @@
 
 # 2021/7/13
 ## Why doesn't Wechat have task feature?
+- U STUPID PIECE OF SHIT FROM 2021/7/30
+
+
+# 2021/7/30
+## If you want to block foreign users from accessing certain language materials without giving users the credential, what would you do?
+- Backend
+- Front-end

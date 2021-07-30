@@ -72,6 +72,7 @@ Alternative translation
 - Chinese equivalent
   - CGTN
   - 新闻联播
+  - Beijing Review
   - China daily
   - 新华社
   - 白皮书

@@ -24,6 +24,7 @@
   - [**Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome](#accurate-time-chunk-allocation-data-based-on-self-tested-conclusions-to-reach-optimal-outcome)
   - [Creating an efficient, low-mental friction context switch mapping strategy](#creating-an-efficient-low-mental-friction-context-switch-mapping-strategy)
   - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
+- [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem
@@ -46,6 +47,7 @@
 
 人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。 ——罗曼.罗兰
 
+有所成就的人，都有一个共性，就是逻辑 - Ray Dalio
 
 # Idea pool
 ## Study system
@@ -216,3 +218,7 @@ PFocmErCpGlEmeC09RwR5w==:
     - OMG, I'm losing my man cards recently
     - Existential crysis :)
 ## In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?
+
+# Temperary stack for agile task insertion without pre-planning
+- Test node-dlc
+ 

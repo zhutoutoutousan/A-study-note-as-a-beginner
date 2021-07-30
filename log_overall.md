@@ -25,6 +25,7 @@
   - [Creating an efficient, low-mental friction context switch mapping strategy](#creating-an-efficient-low-mental-friction-context-switch-mapping-strategy)
   - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
 - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
+- [ITS NOT A GOD DAMN PRISON, don't lose your focus while getting with the context](#its-not-a-god-damn-prison-dont-lose-your-focus-while-getting-with-the-context)
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem
@@ -73,20 +74,22 @@ PFocmErCpGlEmeC09RwR5w==:
 
 
 # Behavior
+- NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 ## `_enforcing-habit` 4/5
-- Tranced 1/21
+- Tranced 3/21
   - Start your day with enough nootropics and one gamma and alpha binaural beat session - According to your knowledge, it has longer effect than you originally think
-- Orderly 2/21
-  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 2/21
+- Orderly 4/21
+  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 3/21
     - Time estimation and non-exhaustive feedback
   - Flow adjustment and reflection only happens before sleep or during R&R 1/21
-- Up-to-date
-  - Spend at least 30 minutes to catch up with the world every day 2/21
-- Agility 1/21
-  - Keep an eye on those ways to achieve trade-off between plan concentration and agility
-- Problem solver 1/40
+- Up-to-date 4/21
+  - Spend at least 30 minutes to catch up with the world every day 3/21
+  - \[STATUS\]: Getting better with the reinforcement of simultaneous translation training
+- Agility 2/21
+  - Keep an eye on those ways to achieve trade-off between **plan concentration and agility**
+- Problem solver 3/40
 ## `_discarded-habit` 0/_
 - Same as above
 ## `_discarding-habit` 2/5
@@ -220,5 +223,11 @@ PFocmErCpGlEmeC09RwR5w==:
 ## In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?
 
 # Temperary stack for agile task insertion without pre-planning
+&TODO
 - Test node-dlc
  
+
+# ITS NOT A GOD DAMN PRISON, don't lose your focus while getting with the context
+- A look into overplanning that sabotages your efficiency
+  - Plz be sagatious enough to tell it from the momentum or stress force from the status quo, or an imaginary one that is usually caused by some degree of self-destructive thinking i.e. self-dysregulation, the resolution of which is drastically different from alternating the core behavioural pattern
+- Scenarios that it may do you good to do exactly the opposite - Overcomplicate everything

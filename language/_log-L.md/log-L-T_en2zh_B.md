@@ -14,7 +14,13 @@
 
 ## L
 - Litigation exposure
+  - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
+  - [Litigation risk analysis](https://en.wikipedia.org/wiki/Litigation_risk_analysis)
 
 ## R
 - Regulatory exposure
 - Reputational exposure
+
+# Accounting
+## _
+- [重要會計用語中英對照](https://www.ardf.org.tw/html/tifrs1001115.pdf)

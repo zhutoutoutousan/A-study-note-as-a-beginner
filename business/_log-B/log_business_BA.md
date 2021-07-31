@@ -13,7 +13,8 @@
 ### Fitness
 - 2019-2020中国健身房市场发展白皮书 - 德勤
   - [link](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-2019-2020-china-gym-market-development-white-paper-zh-201118.pdf)
-- [健康中国行动（2019—2030年）](https://www.tjh.com.cn/plmnhytf12f3/1/1111/%E5%8C%BB%E6%94%B9%E4%B8%93%E6%A0%8F/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8A%A8%EF%BC%882019%E2%80%942030%E5%B9%B4%EF%BC%89.pdf)
+- [健康中国行动
+- （2019—2030年）](https://www.tjh.com.cn/plmnhytf12f3/1/1111/%E5%8C%BB%E6%94%B9%E4%B8%93%E6%A0%8F/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8A%A8%EF%BC%882019%E2%80%942030%E5%B9%B4%EF%BC%89.pdf)
 # 2021/7/24
 ## Business analyst courses
 - [Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=f9DzS6NdgwU)
@@ -47,5 +48,6 @@
       - 减少成本
         - 减少固定成本：房租和设备等均为长线成本，难以降低
 
-# 2021/7/30
-## 
+# 2021/7/31-
+## Roadmap
+- [数据分析师必备的9大技能，大多数人只知道一半](https://database.51cto.com/art/201910/604538.htm)

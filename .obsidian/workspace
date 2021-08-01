@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "73efef3cb5fc1950",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a6a268f866381d4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6846febf6205e332",
+    "type": "split",
+    "children": [
+      {
+        "id": "591634c53a6e2df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f466e8cb2f02b91e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a60719085e26d818",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8297a1ddd72afa63",
+    "type": "split",
+    "children": [
+      {
+        "id": "73fce143862a1fd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85388091bc3dac5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a6a268f866381d4",
+  "lastOpenFiles": [
+    "mathematics/terminology-M-POI.md",
+    "csapp.cs.cmu.edu.md",
+    "psychology/micro-psychology/intelligence/intelligence.md",
+    "artificial-intelligence/applications.md",
+    "physics/roadmap.md"
+  ]
+}

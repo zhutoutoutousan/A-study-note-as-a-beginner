@@ -12,6 +12,7 @@
 - [Heuristic](#heuristic)
   - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
 - [Iconic files for demonstration](#iconic-files-for-demonstration)
+- [Useful tools](#useful-tools)
 
 
 # Explore the definition of **study framework**
@@ -149,7 +150,6 @@
       - Vimium
         - Once installed, press F to show all page elements and its shortcut
         - Use these shortcut to quickly access the page without touching the mouse
-
 # Heuristic
 - **DISCLAIMER** As a self-explanatory title, these contents only serve as references
 ## When exactly is optimal for framework activation?
@@ -191,3 +191,6 @@
   - [Software](./reading/software.md)
 - Chaos
   - Actually all of those above were entirely chaos several months ago. Order is obtained from all those chaos by default.
+
+# Useful tools
+- [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)

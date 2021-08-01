@@ -22,6 +22,15 @@
   - [link](https://cloudmega.ga/?books5&k=B08C2KM7NR&b=books&d=21-06-24&l=VisitedAll&fsig=9fb36e9&dm=ZHBzLmFhcy5vcmc=)
 - Fastbook
   - [fastbook](https://github.com/fastai/fastbook)
+
+# Programming
+- Learn Python The Hard Way
+  - [link1](https://drive.google.com/file/d/1VZm6qXP4KBwQD0wbkjfhduAWBvXBXu0v/view?usp=sharing)
+  - Bookmark:
+  - Review: This book is deprecated and used Python2 syntax, it's better to address the part you felt no so familiar with and use the Internet to fill the rest
+  - Areas to work on
+    - Escape sequences
+    - I/O
 # NLP
 - NLP with Python
   - [link](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf)

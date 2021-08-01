@@ -38,8 +38,8 @@
   - Strength
     - Squat: 160kg Intermediate
     - Deadlift: 190kg Pre-advanced
-    - Bench press: 100kg Pre-intermediate
-    - Overhead press: 60kg * 2
+    - Bench press: 100kg Pre-intermediate * 2
+    - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
   - Endurance
     - Bike ride
@@ -70,18 +70,28 @@ days, dimension, performance
 - Sarm cycle
   - Off at 7/18
   - On at 8/18
-- Tuesday
+
+- Monday
   - Arm day
+    - Bicep
+    - Tricep
+    - Forearm
+- Tuesday
+  - Shoulder day
+  - F
 - Wednesday
-  - Chest day
+  - Off day
 - Thursday
-  - 40 min bike ride
+  - Chest day
 - Friday
   - Leg day
-  - Squat 4-6RM 5SETS
-  - Leg press 4-6RM 5SETS
-  - Bulgarian split squat 6-8RM 5SETS
 - Saturday
+<<<<<<< HEAD
   - 1 hour bike ride
 - Sunday
   - Back day
+=======
+  - Off day
+- Sunday
+  - 
+>>>>>>> 6a32a6a6148fc5e0393a2518a3de2ef32ee8dbc5

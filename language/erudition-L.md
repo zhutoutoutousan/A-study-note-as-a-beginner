@@ -26,12 +26,28 @@
   - [link](http://www.daemcopiapo.cl/Biblioteca/Archivos/7_6253.pdf)
 
 ## Drama
-- [Die Technik des Dramas ](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
+- [Die Technik des Dramas](http://docplayer.org/23284737-Gustav-freytag-die-technik-des-dramas.html)
 
 ## History
 - Ancient Egypt
   - The Book of Exodus
 
+
+## Education
+
+## Politics
+
+## Society
+
+## Literature
+- [To kill a mockingbird](http://giove.isti.cnr.it/demo/eread/Libri/angry/Mockingbird.pdf)
+
+## Science
+
+# Economics
+- The Wealth of the Nations
+  - [CH](https://drive.google.com/file/d/1GRPuF3bB2uMhfKqYf2-FXB0yeW6dbbaa/view?usp=sharing)
+  - [EN](https://www.ibiblio.org/ml/libri/s/SmithA_WealthNations_p.pdf)
 # Linguistics
 - Introduction to Linguistics --- Marcus Kracht, UCLA
     - [link1](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)

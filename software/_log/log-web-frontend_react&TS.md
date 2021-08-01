@@ -78,3 +78,7 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 
 # 2021/7/7
 ## React 18 New features
+
+# 2021/7/23-
+## React source code reading
+- https://github.com/numbbbbb/read-react-source-code/blob/master/02-how-render-works.md

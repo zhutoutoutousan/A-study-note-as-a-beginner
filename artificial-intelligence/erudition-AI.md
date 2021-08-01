@@ -85,3 +85,6 @@
 # Specific research
 - 数据分析与知识发现 2021 第2期
   - 特定舆情的意见领袖挖掘和关键传播路径预测
+
+# DS & A
+- [Bandit algorithm](https://ece.iisc.ac.in/~aditya/E1245_Online_Prediction_Learning_F2018/lattimore-szepesvari18bandit-algorithms.pdf)

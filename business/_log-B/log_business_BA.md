@@ -1,4 +1,6 @@
 # Buffer to permanent note
+## Fact check
+- [Factly](https://factly.in/)
 ## Industry study
 ### Channels
 - [商业新知](https://www.shangyexinzhi.com/)
@@ -52,6 +54,7 @@
       - 增加收入
         - 增加票房收入
           - 上座率已超行业平均水平，除非扩建，否则很难提升
+            - How to determine the average performance? How to get the data?
         - **增加广告，小卖部等非票房收入**
           - 唱吧，收费 按摩椅，3D眼镜租赁等新业态尚未引入
       - 减少成本

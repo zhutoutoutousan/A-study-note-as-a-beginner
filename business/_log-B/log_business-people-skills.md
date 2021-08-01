@@ -36,3 +36,9 @@
 - 有人说: 每个人都有自己的方式，你说?
   - 的确，情绪管理有私人的部分。但是我们讨论的情绪管理部分涉及到了多方合作, 而且我们已经就话题范围一再缩减以照顾到你的感受
 - 什么样的说话的方式既照顾到了别人的情绪，也照顾到了自己的情绪？
+
+
+# 2021/8/1
+## The Tao of Craftiness
+- Ploy strategy
+  - How to instill the intended picture of *unringed bell* in the actual recognition system of the increasingly smart and well-informed persons while *the bell is already rung*

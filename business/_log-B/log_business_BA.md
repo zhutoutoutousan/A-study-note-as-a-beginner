@@ -3,13 +3,22 @@
 ### Channels
 - [商业新知](https://www.shangyexinzhi.com/)
 - [未来智库](https://www.vzkoo.com/)
+- [墨天轮](https://www.modb.pro/)
 ### Fan economics
 - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
 ### Eating
 - 2021中国餐饮产业生态白皮书
   - [《2021中国餐饮产业生态白皮书》发布，一文读完关键信息](https://www.163.com/dy/article/G6E1N1HR05118O92.html)
 - 2021中国餐饮加盟行业白皮书
+### IT
+- 艾瑞咨询-2021年低代码行业研究报告：化繁为简
 
+### Business
+- 2021年中国协同办公市场研究报告
+### Advisory
+
+### Trade
+- 2021年中国跨境海淘行业白皮书
 ### Fitness
 - 2019-2020中国健身房市场发展白皮书 - 德勤
   - [link](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-2019-2020-china-gym-market-development-white-paper-zh-201118.pdf)

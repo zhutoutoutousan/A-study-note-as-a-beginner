@@ -29,6 +29,7 @@
       - [Why shouldn't you use inline style in big Vue projects? - 2021/4/24](#why-shouldnt-you-use-inline-style-in-big-vue-projects---2021424)
     - [Performance](#performance)
       - [How to increase `XHR content download time`? - 2021/3/15](#how-to-increase-xhr-content-download-time---2021315)
+- [2021/8/2](#202182)
 # Fundamentals
 ## HTML
 ## CSS
@@ -145,3 +146,6 @@ I have met with this problem more than ten times just ten days after I joined my
 
 - [Chapter 15. XMLHttpRequest](https://www.oreilly.com/library/view/high-performance-browser/9781449344757/ch15.html)
 - [Resource Timing](https://www.w3.org/TR/resource-timing/)
+
+# 2021/8/2
+- 小视频在view中播放, 不在view中不播放

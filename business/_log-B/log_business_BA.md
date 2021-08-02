@@ -6,12 +6,19 @@
 - [商业新知](https://www.shangyexinzhi.com/)
 - [未来智库](https://www.vzkoo.com/)
 - [墨天轮](https://www.modb.pro/)
-### Fan economics
-- [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
-### Eating
-- 2021中国餐饮产业生态白皮书
-  - [《2021中国餐饮产业生态白皮书》发布，一文读完关键信息](https://www.163.com/dy/article/G6E1N1HR05118O92.html)
-- 2021中国餐饮加盟行业白皮书
+
+### Daily matters
+- 吃
+  - 2021中国餐饮产业生态白皮书
+    - [《2021中国餐饮产业生态白皮书》发布，一文读完关键信息](https://www.163.com/dy/article/G6E1N1HR05118O92.html)
+  - 2021中国餐饮加盟行业白皮书
+- 喝
+  - 2015-2020年中国瓶装水市场调查及投资咨询报告
+- 拉
+- 撒
+- 买?
+- 玩
+  - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
 ### IT
 - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
 

@@ -21,6 +21,12 @@ To transcend these barriers, simulation neuroscience was born. It is arguably th
 ```
 ## ?Maybe?
 
+## Mobile in-air sleep chamber
+- [Filling an Air Mattress With Helium to See if I Can Float!](https://www.youtube.com/watch?v=7bP8lSiHy6Q)
+- [Lifting a Man with Helium Balloons? | I Didn't Know That](https://www.youtube.com/watch?v=3N-LGBdLaJ8)
+  - Not possible for lack of boyant force
+
 ## Spontaneous mindset reinforcement - Startup mindset
 - Y combinator
   - [Kevin Hale - How to Evaluate Startup Ideas](https://www.youtube.com/watch?v=DOtCl5PU8F0)
+

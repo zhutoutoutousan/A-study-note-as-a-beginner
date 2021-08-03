@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent note](#buffer-to-permanent-note)
+  - [Basic data to store into your top-tier memory](#basic-data-to-store-into-your-top-tier-memory)
   - [Information gathering](#information-gathering)
     - [Fact check](#fact-check)
     - [Industry study](#industry-study)
@@ -20,6 +21,10 @@
     - [Roadmap](#roadmap)
   - [2021/8/3](#202183)
 # Buffer to permanent note
+## Basic data to store into your top-tier memory
+- First answer me a question, what's the meaning of its existance?
+- 行业利润率对比
+  - [人均$400刀一顿米其林，吃货钱都花在哪儿了？| 聊聊餐饮行业  - 3-39](https://www.youtube.com/watch?v=JFETIGpijx4)
 ## Information gathering
 ### Fact check
 - [Factly](https://factly.in/)

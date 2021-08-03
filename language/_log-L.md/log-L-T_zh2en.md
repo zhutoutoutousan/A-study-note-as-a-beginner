@@ -227,7 +227,8 @@ Alternative translation
   - With strong and united effort
   - We pressed ahead as one
   - Jointly effort
-
+- 团块世代
+  - [団塊の世代](https://zh.wikipedia.org/wiki/%E5%9C%98%E5%A1%8A%E4%B8%96%E4%BB%A3)
 ## V
 ## W
 - 围追堵截: Encirclement

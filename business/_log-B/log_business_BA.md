@@ -1,32 +1,35 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent note](#buffer-to-permanent-note)
-  - [Fact check](#fact-check)
-  - [Industry study](#industry-study)
-    - [Channels](#channels)
-    - [Daily matters](#daily-matters)
-    - [IT](#it)
-    - [Business](#business)
-    - [Advisory](#advisory)
-    - [Trade](#trade)
-    - [Fitness](#fitness)
-    - [Manufacturing](#manufacturing)
-    - [Pharmaceutical](#pharmaceutical)
-- [2021/7/24](#2021724)
-  - [Business analyst courses](#business-analyst-courses)
-- [2021/7/31-](#2021731-)
-  - [Roadmap](#roadmap)
-- [2021/8/3](#202183)
+  - [Information gathering](#information-gathering)
+    - [Fact check](#fact-check)
+    - [Industry study](#industry-study)
+      - [Channels](#channels)
+      - [Daily matters](#daily-matters)
+      - [IT](#it)
+      - [Business](#business)
+      - [Advisory](#advisory)
+      - [Trade](#trade)
+      - [Fitness](#fitness)
+      - [Manufacturing](#manufacturing)
+      - [Pharmaceutical](#pharmaceutical)
+- [log](#log)
+  - [2021/7/24](#2021724)
+    - [Business analyst courses](#business-analyst-courses)
+  - [2021/7/31-](#2021731-)
+    - [Roadmap](#roadmap)
+  - [2021/8/3](#202183)
 # Buffer to permanent note
-## Fact check
+## Information gathering
+### Fact check
 - [Factly](https://factly.in/)
-## Industry study
-### Channels
+### Industry study
+#### Channels
 - [商业新知](https://www.shangyexinzhi.com/)
 - [未来智库](https://www.vzkoo.com/)
 - [墨天轮](https://www.modb.pro/)
 
-### Daily matters
+#### Daily matters
 - 吃
   - 2021中国餐饮产业生态白皮书
     - [《2021中国餐饮产业生态白皮书》发布，一文读完关键信息](https://www.163.com/dy/article/G6E1N1HR05118O92.html)
@@ -38,24 +41,25 @@
 - 买?
 - 玩
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
-### IT
+#### IT
 - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
 
-### Business
+#### Business
 - 2021年中国协同办公市场研究报告
-### Advisory
+#### Advisory
 
-### Trade
+#### Trade
 - 2021年中国跨境海淘行业白皮书
-### Fitness
+#### Fitness
 - 2019-2020中国健身房市场发展白皮书 - 德勤
   - [link](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-2019-2020-china-gym-market-development-white-paper-zh-201118.pdf)
 - [健康中国行动（2019—2030年）](https://www.tjh.com.cn/plmnhytf12f3/1/1111/%E5%8C%BB%E6%94%B9%E4%B8%93%E6%A0%8F/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%8A%A8%EF%BC%882019%E2%80%942030%E5%B9%B4%EF%BC%89.pdf)
 
-### Manufacturing
-### Pharmaceutical
-# 2021/7/24
-## Business analyst courses
+#### Manufacturing
+#### Pharmaceutical
+# log
+## 2021/7/24
+### Business analyst courses
 - [Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=f9DzS6NdgwU)
   - Bookmark: 1:08
 - [商业分析师技能课](https://www.bilibili.com/video/BV1Ky4y1B733?from=search&seid=2082325064489175330)
@@ -88,12 +92,12 @@
       - 减少成本
         - 减少固定成本：房租和设备等均为长线成本，难以降低
 
-# 2021/7/31-
-## Roadmap
+## 2021/7/31-
+### Roadmap
 - [数据分析师必备的9大技能，大多数人只知道一半](https://database.51cto.com/art/201910/604538.htm)
 
 
-# 2021/8/3
+## 2021/8/3
 - Discovered knowledge structure anchor
   - [BABOK](https://book.akij.net/eBooks/2018/September/5b8a80dd494ce/BABOK_Guide_v3_Member.pdf)
     - Bookmark: 1

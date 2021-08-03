@@ -16,6 +16,7 @@
   - [Business analyst courses](#business-analyst-courses)
 - [2021/7/31-](#2021731-)
   - [Roadmap](#roadmap)
+- [2021/8/3](#202183)
 # Buffer to permanent note
 ## Fact check
 - [Factly](https://factly.in/)
@@ -90,3 +91,12 @@
 # 2021/7/31-
 ## Roadmap
 - [数据分析师必备的9大技能，大多数人只知道一半](https://database.51cto.com/art/201910/604538.htm)
+
+
+# 2021/8/3
+- Discovered knowledge structure anchor
+  - [BABOK](https://book.akij.net/eBooks/2018/September/5b8a80dd494ce/BABOK_Guide_v3_Member.pdf)
+    - Bookmark: 1
+- Certification milestone dicovered
+  - CBAP
+  - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)

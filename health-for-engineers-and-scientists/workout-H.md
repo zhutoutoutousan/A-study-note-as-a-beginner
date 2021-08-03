@@ -88,6 +88,5 @@ days, dimension, performance
   - 1 hour bike ride
 - Sunday
   - Back day
-  - Off day
 - Sunday
-  - 
+  - Off day

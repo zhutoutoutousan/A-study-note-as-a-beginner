@@ -5,6 +5,8 @@
 - [2021/8/4](#202184)
   - [工作流程](#工作流程)
   - [需求](#需求)
+    - [重构](#重构)
+    - [视频](#视频)
   - [Fundamentals](#fundamentals)
     - [HTML](#html)
     - [CSS](#css)
@@ -46,8 +48,11 @@
 - [工作流程盘点 | 前端人的认知升级](http://article.docway.net/details?id=603371984da5fa7d6084dfd1)
 
 ## 需求
+### 重构
+### 视频
 - 不挡脸弹幕
   - [B站的不挡脸弹幕是怎么实现的？](https://www.zhihu.com/question/282164361)
+    - [body-pix](https://github.com/tensorflow/tfjs-models/tree/master/body-pix)
     - [Data URI](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
 ## Fundamentals
 ### HTML

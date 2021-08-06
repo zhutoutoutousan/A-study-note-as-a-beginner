@@ -64,4 +64,7 @@
 ## Let's say that you have 24 project-like sessions going on, how would you manage them
 - The right tool
   - For your current case, you're using cornerstone and calendar, so you need to sync it
-- Group them with long-term, mid-term and short-term
+- Techniques
+  - Group them with long-term, mid-term and short-term
+- Difficulties
+  - Your plans and development is distributed, interface must be established

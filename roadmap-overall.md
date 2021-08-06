@@ -8,3 +8,7 @@
 
 # Useful general tools
 - Screentogif
+
+
+# _Temporary space for AWS Associate Developer
+- [How I Passed the AWS Certified Developer Associate Exam](https://www.freecodecamp.org/news/how-i-passed-the-aws-certified-developer-associate-exam/)

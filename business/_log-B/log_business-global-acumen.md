@@ -9,3 +9,7 @@
     - Political situation
     - Informtion situation
   - After one day of reading news can you update the global map in your head?
+
+- Training materials
+  - MBA智库
+  - Global geology knowledge

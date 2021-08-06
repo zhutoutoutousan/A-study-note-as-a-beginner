@@ -1,3 +1,16 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Buffer to permanent note](#buffer-to-permanent-note)
+  - [Personal management](#personal-management)
+- [2021/7/15-](#2021715-)
+  - [Time management - How to deal with edge cases in plans](#time-management---how-to-deal-with-edge-cases-in-plans)
+  - [Energy management - How to deal with edge cases in plans](#energy-management---how-to-deal-with-edge-cases-in-plans)
+  - [How to tell if a plan template is suitable, and how long should it last before some alterations?](#how-to-tell-if-a-plan-template-is-suitable-and-how-long-should-it-last-before-some-alterations)
+  - [Change management](#change-management)
+    - [Questions](#questions)
+    - [Learning](#learning)
+- [2021/8/6](#202186)
+  - [Let's say that you have 24 project-like sessions going on, how would you manage them](#lets-say-that-you-have-24-project-like-sessions-going-on-how-would-you-manage-them)
 # Buffer to permanent note
 ## Personal management
 - Recognition
@@ -46,3 +59,9 @@
     - Knowledge
     - Ability
     - Reinforcement
+
+# 2021/8/6
+## Let's say that you have 24 project-like sessions going on, how would you manage them
+- The right tool
+  - For your current case, you're using cornerstone and calendar, so you need to sync it
+- Group them with long-term, mid-term and short-term

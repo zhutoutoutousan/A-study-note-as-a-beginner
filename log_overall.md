@@ -25,7 +25,7 @@
   - [Creating an efficient, low-mental friction context switch mapping strategy](#creating-an-efficient-low-mental-friction-context-switch-mapping-strategy)
   - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
 - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
-- [ITS NOT A GOD DAMN PRISON, don't lose your focus while getting with the context](#its-not-a-god-damn-prison-dont-lose-your-focus-while-getting-with-the-context)
+- [Changing yourself from within](#changing-yourself-from-within)
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem
@@ -227,7 +227,5 @@ PFocmErCpGlEmeC09RwR5w==:
 - Test node-dlc
  
 
-# ITS NOT A GOD DAMN PRISON, don't lose your focus while getting with the context
-- A look into overplanning that sabotages your efficiency
-  - Plz be sagatious enough to tell it from the momentum or stress force from the status quo, or an imaginary one that is usually caused by some degree of self-destructive thinking i.e. self-dysregulation, the resolution of which is drastically different from alternating the core behavioural pattern
-- Scenarios that it may do you good to do exactly the opposite - Overcomplicate everything
+# Changing yourself from within
+https://www.kancloud.cn/luofei614/programmer_talk_life/107489

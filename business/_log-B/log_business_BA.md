@@ -25,6 +25,12 @@
 - First answer me a question, what's the meaning of its existance?
 - 行业利润率对比
   - [人均$400刀一顿米其林，吃货钱都花在哪儿了？| 聊聊餐饮行业  - 3-39](https://www.youtube.com/watch?v=JFETIGpijx4)
+
+- Search entry
+  - Dowjones
+  - Standard & Poor's ratings services
+    - McGRAW HILL FINANCIAL
+  - 纽交所
 ## Information gathering
 ### Fact check
 - [Factly](https://factly.in/)

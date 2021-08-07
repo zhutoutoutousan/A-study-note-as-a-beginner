@@ -1,3 +1,38 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Industry](#industry)
+  - [Contact](#contact)
+  - [Inwards](#inwards)
+  - [Industry branch](#industry-branch)
+    - [Music](#music)
+    - [Factory](#factory)
+- [Skills](#skills)
+  - [Analysis](#analysis)
+  - [Language](#language)
+  - [People](#people)
+  - [Public relations](#public-relations)
+  - [Mindsets](#mindsets)
+- [Money](#money)
+  - [Economy](#economy)
+- [Business](#business)
+  - [Plan](#plan)
+    - [Planning](#planning)
+    - [Business model](#business-model)
+  - [Resource](#resource)
+    - [Business investment](#business-investment)
+      - [Investment](#investment)
+      - [Finance](#finance)
+  - [Execution](#execution)
+    - [Product development](#product-development)
+    - [Product Management](#product-management)
+    - [Project Management](#project-management)
+  - [Management](#management)
+    - [Enterprise architecture](#enterprise-architecture)
+  - [Ability](#ability)
+    - [Business mindset](#business-mindset)
+    - [Strategic planning](#strategic-planning)
+- [Uncategorized](#uncategorized)
+
 # Industry
 ## Contact
 - [Fundamentals of Supply Chain Management](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/121631/BUS5116.Lu.Fundamentals.Supply.Chain.Mgmt.pdf)
@@ -178,3 +213,6 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - OGSM
   - [Strategic planning that works: The ArchPoint OGSM Model](http://www.sosbiz.biz/1/upload/ogsm_strategicplanning.pdf)
 - [Strategic planning - Complete Guide](https://onstrategyhq.com/wp-content/uploads/2016/04/CompleteGuide.pdf)
+
+# Uncategorized
+- Commanding Heights: Resources

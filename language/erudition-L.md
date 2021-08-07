@@ -9,6 +9,9 @@
   - Learn Greek typewriting first to unlock fast customized local note taking system
 - Beginner's guide to Arabic
   - [Link1](https://www.learnarabiconline.com/Beginners_Guide_To_Arabic.pdf)
+## Ancient Chinese
+- 增广贤文
+  - http://club.ntu.edu.tw/~davidhsu/New-Davidhome/05-david-book/DAVIDBOOK/CHINESE/002david-new-book2/ZENGGUANG.pdf
 
 
 # Translation reference base

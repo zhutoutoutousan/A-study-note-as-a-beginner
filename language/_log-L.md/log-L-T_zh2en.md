@@ -70,16 +70,19 @@ Alternative translation
   - Reuters
   - **United Nations | Annual report**
 - Chinese equivalent
-  - CGTN
-  - 新闻联播
-  - Beijing Review
-  - China daily
-  - 新华社
-  - 白皮书
-  - 政府工作报告
-    - 2021年政府工作报告(双语版)
-      - [link](https://drive.google.com/file/d/1ibZw5F4Bq7HJFUK5CtR0Qr8B2N-kcpnJ/view?usp=sharing)
-  - NPC & CPPCC - 两会
+  - Global
+    - CGTN
+    - 新闻联播
+    - Beijing Review
+    - China daily
+    - 新华社
+    - 白皮书
+    - 政府工作报告
+      - 2021年政府工作报告(双语版)
+        - [link](https://drive.google.com/file/d/1ibZw5F4Bq7HJFUK5CtR0Qr8B2N-kcpnJ/view?usp=sharing)
+    - NPC & CPPCC - 两会
+  - Chinese culture
+    - [Chinese Mysteries](https://mysticalone.weebly.com/)
 - Dictionary
   - Cambridge Dictionary
   - 成语大字典

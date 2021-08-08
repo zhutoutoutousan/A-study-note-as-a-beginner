@@ -246,6 +246,8 @@ Alternative translation
 - 熊市
 - 新中国: The People's Republic of China - 政府工作报告
 - 下行压力: downward pressure
+- 行政区划
+  - [行政区划](https://zh.wikipedia.org/wiki/%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92)
 ## Y
 - 因地制宜
   - suit one's measures to local conditions
@@ -269,6 +271,10 @@ Alternative translation
       - 猪周期
         - [『小红说』猪肉价格大跌，聊聊投资中的周期](https://finance.sina.com.cn/money/fund/jjzl/2021-06-24/doc-ikqcfnca2992976.shtml)
 - Politics
+  - 行政区划: Administrative division
+    - 自治区
+      - AAR, Autonomous Administrative Region
+      - [自治区](https://zh.wikipedia.org/zh-hans/%E8%87%AA%E6%B2%BB%E5%8C%BA)
   - 中国共产党中央委员会: The central committee of the communist party of china | ?CPC Central Committee 
 # Long sentences translation
 ## Rules of reference
@@ -287,7 +293,6 @@ Alternative translation
   - Memorize the target language transcript
   - Direct interpreting
   - Consecutive interpreting
-  - Shadow reading
 # Log
 ## 2021/7/27-
 ### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)

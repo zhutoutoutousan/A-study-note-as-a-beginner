@@ -138,6 +138,8 @@ Example
 ## A
 ## B
 - 留得青山在，不怕没柴烧: While there is life, there is hope.
+- Bu3Piao4
+  - Pay upon arrival
 ## C
 - 常任理事国
 - 春天的故事

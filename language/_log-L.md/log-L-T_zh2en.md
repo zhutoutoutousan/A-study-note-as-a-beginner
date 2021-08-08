@@ -2,10 +2,11 @@
 - [Table of Contents](#table-of-contents)
 - [Agenda](#agenda)
 - [Regulartories](#regulartories)
-- [Work](#work)
-- [Sources](#sources)
+- [Resource](#resource)
 - [Tests](#tests)
-- [Politics](#politics)
+- [Long sentences translation](#long-sentences-translation)
+  - [Rules of reference](#rules-of-reference)
+- [Memory training ground](#memory-training-ground)
 - [Basic building blocks](#basic-building-blocks)
   - [J](#j)
   - [Q](#q)
@@ -33,9 +34,6 @@
   - [X](#x)
   - [Y](#y)
   - [Z](#z)
-- [Long sentences translation](#long-sentences-translation)
-  - [Rules of reference](#rules-of-reference)
-  - [Instances](#instances)
 - [Log](#log)
   - [2021/7/27-](#2021727-)
     - [It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)](#it-seems-like-you-were-focusing-too-much-on-notetaking-but-not-focusing-on-the-memorizing-and-structuring-process-of-the-audio-textconsecutive-interpreting)
@@ -57,12 +55,8 @@
 - 勤查字典
 - 影子跟读
 - Word-family
-# Work
-Alternative translation
 
-
-
-# Sources
+# Resource
 - English equivalent
   - Human Development Report 20xx
     - [2020](http://hdr.undp.org/en/2020-report#:~:text=The%202020%20Human%20Development%20Report%20%28HDR%29%20doubles%20down,has%20become%20a%20dominant%20force%20shaping%20the%20planet.)
@@ -99,14 +93,35 @@ Alternative translation
 # Tests
 - CATTI仿真机考: https://www.catticenter.com/cattijkty/1284
 
-# Politics
-- Vocabulary
-  - Unswervingly
+# Long sentences translation
+## Rules of reference
+- 逻辑性
+  - 增译
 
-- Translation
-  - 中方发起(了)“全球数据安全(的)倡议", 希望同各方加强数字治理合作，共同构建和平，安全，开放，合作，有序的网络空间
-    - In a bid to do = with an attempt to achieve or get something
-      - China **has** put forward the (Global) *Initiative*(**on** Data Security) in the hope of enhancing
+
+# Memory training ground
+- Here is where you can record, track and improve your overall brain-heavy skills
+  
+Example
+
+- 面对突如其来的新冠肺炎疫情、世界经济
+深度衰退等多重严重冲击,在以习近平同志为核心的党中央坚强领导下,全国各
+族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经
+济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
+交出一份人民满意、世界瞩目、可以载入史册的答卷。
+  - Interpretation with the transcript
+    - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.
+  - Memorize the source language
+    - 40%/1m * 1
+  - Memorize the target language transcript
+  - Direct interpreting
+  - Consecutive interpreting
+
+
+- 中方发起(了)“全球数据安全(的)倡议", 希望同各方加强数字治理合作，共同构建和平，安全，开放，合作，有序的网络空间
+  - In a bid to do = with an attempt to achieve or get something
+    - China **has** put forward the (Global) *Initiative*(**on** Data Security) in the hope of enhancing
+
 
 # Basic building blocks
 ## J
@@ -128,21 +143,26 @@ Alternative translation
 - 春天的故事
 
 ## D
-- 砥砺前行，攻坚克难
-  - forge ahead and overcome/surmount difficulties
-- 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
-- 独具特色的文化魅力
-- 达成...(指标)
-  - register
-  - enjoy
-  - achieve
-  - with
-- 大水漫灌
-  - [2016政府工作报告中的20个金句](https://language.chinadaily.com.cn/2016-03/05/content_23749785.htm)
-    - 我们不搞“大水漫灌”式的强刺激，而是持续推动结构性改革。
-    - Rather than adopting strong stimulus policies that would have an economy-wide impact, we continued to move forward with structural reform.
-  - [不让市场缺钱 又坚决不搞“大水漫灌”](http://www.xinhuanet.com/2020-11/27/c_1126791383.htm)
-
+- Expression
+  - 砥砺前行，攻坚克难
+    - forge ahead and overcome/surmount difficulties
+  - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
+  - 独具特色的文化魅力
+  - 达成...(指标)
+    - register
+    - enjoy
+    - achieve
+    - with
+  - 大水漫灌
+    - [2016政府工作报告中的20个金句](https://language.chinadaily.com.cn/2016-03/05/content_23749785.htm)
+      - 我们不搞“大水漫灌”式的强刺激，而是持续推动结构性改革。
+      - Rather than adopting strong stimulus policies that would have an economy-wide impact, we continued to move forward with structural reform.
+    - [不让市场缺钱 又坚决不搞“大水漫灌”](http://www.xinhuanet.com/2020-11/27/c_1126791383.htm)
+- Politics
+  - Political Structure
+    - 第一书记
+      - [第一书记](https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E4%B9%A6%E8%AE%B0_(%E4%B8%AD%E5%9B%BD))
+        - Memory training: Memorize all of those names according to the province name in 3 minutes
 ## F
 - 放宽市场准入
   - Broaden market access
@@ -178,6 +198,7 @@ Alternative translation
   - QE
   - [MBA](https://wiki.mbalib.com/wiki/%E9%87%8F%E5%8C%96%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96)
 ## M
+- 民主集中制
 - 命运共同体
 - 贸易保护主义: Trade protectionism
 - 民粹主义
@@ -260,6 +281,8 @@ Alternative translation
 - 源头活水
   - A new fountain of strength
 ## Z
+- General
+  - 座谈会: Symposium
 - 中国能源结构: China's energy mix
 - 战略规划
   - Strategic planning
@@ -276,23 +299,8 @@ Alternative translation
       - AAR, Autonomous Administrative Region
       - [自治区](https://zh.wikipedia.org/zh-hans/%E8%87%AA%E6%B2%BB%E5%8C%BA)
   - 中国共产党中央委员会: The central committee of the communist party of china | ?CPC Central Committee 
-# Long sentences translation
-## Rules of reference
-- 逻辑性
-  - 增译
-## Instances
-- 面对突如其来的新冠肺炎疫情、世界经济
-深度衰退等多重严重冲击,在以习近平同志为核心的党中央坚强领导下,全国各
-族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经
-济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
-交出一份人民满意、世界瞩目、可以载入史册的答卷。
-  - Interpretation with the transcript
-    - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.
-  - Memorize the source language
-    - 40%/1m * 1
-  - Memorize the target language transcript
-  - Direct interpreting
-  - Consecutive interpreting
+
+
 # Log
 ## 2021/7/27-
 ### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)
@@ -303,12 +311,14 @@ Alternative translation
 - [交替传译](http://www.dioenglish.com/wiki/index.php?doc-view-9988)
 
 #### Memory
-- [翻译官们如何在翻译中处理两种语言](https://www.youtube.com/watch?v=cXNTArhA0Jg)
-- [Improve Memory | Consecutive Interpreting](https://www.youtube.com/watch?v=tKQn9ZQc9V8)
-- [Memory training in consecutive interpreting](https://www.youtube.com/watch?v=8IQPtNO8xfg)
-- [Consecutive without notes](https://www.youtube.com/watch?v=e3joM5ZrRgA)
-- [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY)
-- [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8&t=71s)
+- Information flow example
+  - [翻译官们如何在翻译中处理两种语言](https://www.youtube.com/watch?v=cXNTArhA0Jg)
+  - [Improve Memory | Consecutive Interpreting](https://www.youtube.com/watch?v=tKQn9ZQc9V8)
+  - [Memory training in consecutive interpreting](https://www.youtube.com/watch?v=8IQPtNO8xfg)
+  - [Consecutive without notes](https://www.youtube.com/watch?v=e3joM5ZrRgA)
 
+  - [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8&t=71s)
+- Sample training
+  - [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY) - 4-47
 ## 2021/8/8-
 ### Structure your daily workout

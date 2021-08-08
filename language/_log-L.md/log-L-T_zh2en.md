@@ -37,8 +37,12 @@
   - [Rules of reference](#rules-of-reference)
   - [Instances](#instances)
 - [Log](#log)
-  - [2021/7/27](#2021727)
+  - [2021/7/27-](#2021727-)
     - [It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)](#it-seems-like-you-were-focusing-too-much-on-notetaking-but-not-focusing-on-the-memorizing-and-structuring-process-of-the-audio-textconsecutive-interpreting)
+      - [Note taking](#note-taking)
+      - [Memory](#memory)
+  - [2021/8/8-](#202188-)
+    - [Structure your daily workout](#structure-your-daily-workout)
 
 # Agenda
 - As you are getting finished with CATTI, you can gradually migrate it to the permanent note instead of *log*
@@ -264,6 +268,8 @@ Alternative translation
     - 畜牧业
       - 猪周期
         - [『小红说』猪肉价格大跌，聊聊投资中的周期](https://finance.sina.com.cn/money/fund/jjzl/2021-06-24/doc-ikqcfnca2992976.shtml)
+- Politics
+  - 中国共产党中央委员会: The central committee of the communist party of china | ?CPC Central Committee 
 # Long sentences translation
 ## Rules of reference
 - 逻辑性
@@ -274,12 +280,30 @@ Alternative translation
 族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经
 济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
 交出一份人民满意、世界瞩目、可以载入史册的答卷。
-  - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.
-
+  - Interpretation with the transcript
+    - Facing the severe combined impact of a sudden coronavirus epidemic and a deep global economic recession, we the Chinese people of all ethnic groups, under the strong leadership of the Central Committee of the Communist Party of China with Comrade Xi Jinping at its core, responded with tremendous tenacity.
+  - Memorize the source language
+    - 40%/1m * 1
+  - Memorize the target language transcript
+  - Direct interpreting
+  - Consecutive interpreting
+  - Shadow reading
 # Log
-## 2021/7/27
+## 2021/7/27-
 ### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)
+#### Note taking
 - Note is only the subsidiary of your store, don't overdo it
 - [口译学习中脑记和笔记的关系？](https://www.zhihu.com/question/29384761/answer/95369892)
 - [交替传译中的笔记分析](https://www.zz-news.com/com/dangdaijiaoyuluntan/news/itemid-94541.html)
 - [交替传译](http://www.dioenglish.com/wiki/index.php?doc-view-9988)
+
+#### Memory
+- [翻译官们如何在翻译中处理两种语言](https://www.youtube.com/watch?v=cXNTArhA0Jg)
+- [Improve Memory | Consecutive Interpreting](https://www.youtube.com/watch?v=tKQn9ZQc9V8)
+- [Memory training in consecutive interpreting](https://www.youtube.com/watch?v=8IQPtNO8xfg)
+- [Consecutive without notes](https://www.youtube.com/watch?v=e3joM5ZrRgA)
+- [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY)
+- [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8&t=71s)
+
+## 2021/8/8-
+### Structure your daily workout

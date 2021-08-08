@@ -36,18 +36,23 @@
     - Networking
     - Gym
     - Translation
-    - BA
+      - BA  
   - **Stoic by Productivity**
     - *A busy schedule*: Make every day a fight against the clock
 - Intent
   - Significant growth in technical dexterity and acumen
   - Increased career mobility
   - Deflect the effect of self-dysregulation while improving mobility and composure
+- Reward
+  - Translation certificate
+  - Increased technical ability
+  - Increased recognition of 
 - Risk
   - Unappreciated burnout
     - Reduced by focus-item adjustment
     - Rapport by love for tech
   - *Cave man*: Reduced networking rapport
+  - *Rigidity*: 
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem

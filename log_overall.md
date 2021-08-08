@@ -1,12 +1,13 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [**Temporary effect**](#temporary-effect)
 - [Coping with self-dysregulation](#coping-with-self-dysregulation)
 - [Potential destructive elements scope](#potential-destructive-elements-scope)
 - [Customized motivation pool](#customized-motivation-pool)
 - [Idea pool](#idea-pool)
   - [Study system](#study-system)
   - [Global strategy dashboard](#global-strategy-dashboard)
-- [Caveats](#caveats)
+  - [Massage depot](#massage-depot)
 - [Behavior](#behavior)
   - [`_encoded-habit`](#_encoded-habit)
   - [`_enforcing-habit` 4/5](#_enforcing-habit-45)
@@ -26,6 +27,27 @@
   - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
 - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
 - [Changing yourself from within](#changing-yourself-from-within)
+
+# **Temporary effect**
+- The overall evaluation of the whole situation is complete on 2021/8/8
+- Effect
+  - **Focused**
+    - React development
+    - Networking
+    - Gym
+    - Translation
+    - BA
+  - **Stoic by Productivity**
+    - *A busy schedule*: Make every day a fight against the clock
+- Intent
+  - Significant growth in technical dexterity and acumen
+  - Increased career mobility
+  - Deflect the effect of self-dysregulation while improving mobility and composure
+- Risk
+  - Unappreciated burnout
+    - Reduced by focus-item adjustment
+    - Rapport by love for tech
+  - *Cave man*: Reduced networking rapport
 # Coping with self-dysregulation
 **PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
 - Study the problem
@@ -69,9 +91,8 @@ PFocmErCpGlEmeC09RwR5w==:
 
 ## Global strategy dashboard
 
-# Caveats
-- Search '!BEFORE YOU END YOUR DAY!' when reflecting on yourself at the end of the day for self-integration and idea extraction
-
+## Massage depot
+- According to the former negative input, we might need a booking system for each user
 
 # Behavior
 - NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
@@ -88,23 +109,23 @@ PFocmErCpGlEmeC09RwR5w==:
   - Spend at least 30 minutes to catch up with the world every day 3/21
   - \[STATUS\]: Getting better with the reinforcement of simultaneous translation training
 - Agility 2/21
-  - Keep an eye on those ways to achieve trade-off between **plan concentration and agility**
+  - Keep an eye on those ways to achieve trade-off between **plan concentration and agility*
 - Problem solver 3/40
 ## `_discarded-habit` 0/_
 - Same as above
 ## `_discarding-habit` 2/5
-- Easy to be distracted 3/21
+- Easy to be distracted 4/21
   - Rewire your brain
     - Visualize your current task queue and permitted interrupts
     - Block unwanted interrupts
     - If there emerges interrupts you don't know, group it
   - Dispell distraction source without being cut off
     - LinkedIn Pop-ups
-- Messy workplace 1/21
+- Messy workplace 2/21
   - Unstructured Work Email 1/1 SOLVED
-  - Unstructured learning strategy 0/1 
-  - Unstructure learning Roadmap 0/1
-
+  - Unstructured learning strategy 5/100 
+  - Unstructure learning Roadmap 10/100
+- **Intertwining and Ambiguity of trivials and major tasks** 0/21
 ## Up-to-date habit plan
 ### Workbench
 - Methodology
@@ -140,7 +161,7 @@ PFocmErCpGlEmeC09RwR5w==:
 
 
 ## **Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome
-学习要集中去学，连续去学，但不同的学习内容的最小连续
+学习要集中去学，连续去学，但不同的学习内容的最小连续interval, how to determine
 
 - Software
   - Leetcode
@@ -157,6 +178,7 @@ PFocmErCpGlEmeC09RwR5w==:
 - Language
   - Load pack: GE 110words, FR 100words, SP 100words: 2-3 hours(When doing other stuffs)
 - BA and Translation training
+  - Translating video: 
 ## Creating an efficient, low-mental friction context switch mapping strategy
 - Overview
   - So, its seems never possible to mimick a complete highly-focused timechunk for uni-lateral or bi-lateral hustles because you have multiple hustles on-going.

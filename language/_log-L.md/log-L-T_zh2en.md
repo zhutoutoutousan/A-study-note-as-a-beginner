@@ -104,7 +104,7 @@
   
 Example
 
-- 面对突如其来的新冠肺炎疫情、世界经济
+- *2021-8-8* 面对突如其来的新冠肺炎疫情、世界经济
 深度衰退等多重严重冲击,在以习近平同志为核心的党中央坚强领导下,全国各
 族人民顽强拼搏,疫情防控取得重大战略成果,在全球主要经济体中唯一实现经
 济正增长,脱贫攻坚战取得全面胜利,决胜全面建成小康社会取得决定性成就,
@@ -116,12 +116,27 @@ Example
   - Memorize the target language transcript
   - Direct interpreting
   - Consecutive interpreting
-
-
 - 中方发起(了)“全球数据安全(的)倡议", 希望同各方加强数字治理合作，共同构建和平，安全，开放，合作，有序的网络空间
   - In a bid to do = with an attempt to achieve or get something
     - China **has** put forward the (Global) *Initiative*(**on** Data Security) in the hope of enhancing
 
+- *2021-8-8* 在艰辛的抗疫历程中,党中央始终坚持人民至上、生命至上,习近平总书记亲自指挥、亲自部署,各方持续努力,不断巩固防控成果。我们针对疫情形势变化,及时调整防控策略,健全常态化防控机制,有效处置局部地区聚集性疫情,最大限度保护了人民生命安全和身体健康,为恢复生产生活秩序创造必要条件。
+  - Interpretation with the transcript *2021-8-8*
+    - Throughout this fierce battle against Covid-19, the CPC Central Committee
+  put protecting the people and human life above everything else, with
+  General Secretary Xi Jinping personally taking charge and making response
+  decisions.Thanks to the tireless efforts of all of us, our gains in controlling
+  Covid-19 were continuously consolidated. In response to evolving epidemic
+  dynamics, we made well-timed adjustments to our response approaches. We
+  improved routine control mechanisms and effectively suppressed several
+  local outbreaks of the epidemic. With these actions, we protected the health
+  and safety of the people to the greatest extent possible, and created the
+  conditions for returning to normal life and work. 
+  - Memorize the source language through reading
+    - 70%/2m
+  - Memorize the target language transcript
+  - Direct interpreting
+  - Consecutive interpreting#BOOKMARK
 
 # Basic building blocks
 ## J
@@ -146,6 +161,8 @@ Example
 
 ## D
 - Expression
+  - 党中央始终坚持人民至上、生命至上
+    - The CPC Central Committee put protecting the people and human life above everything else
   - 砥砺前行，攻坚克难
     - forge ahead and overcome/surmount difficulties
   - 大道不孤，天下一家: We are not alone on the Great Way and the whole world is one family
@@ -181,6 +198,9 @@ Example
 - 后遗症
   - sequela
 ## J
+- 通用
+  - 及时调整
+    - We made well-timed adjustments
 - 经济
   - 激发市场活力
     - boost the vitality of the market
@@ -283,8 +303,10 @@ Example
 - 源头活水
   - A new fountain of strength
 ## Z
-- General
+- 通用
   - 座谈会: Symposium
+- 结构
+  - 最大限度: to the greatest extent possible
 - 中国能源结构: China's energy mix
 - 战略规划
   - Strategic planning
@@ -296,6 +318,8 @@ Example
       - 猪周期
         - [『小红说』猪肉价格大跌，聊聊投资中的周期](https://finance.sina.com.cn/money/fund/jjzl/2021-06-24/doc-ikqcfnca2992976.shtml)
 - Politics
+  - 行政职能
+    - 总书记: General Secretary
   - 行政区划: Administrative division
     - 自治区
       - AAR, Autonomous Administrative Region

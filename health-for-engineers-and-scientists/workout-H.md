@@ -72,21 +72,15 @@ days, dimension, performance
   - On at 8/18
 - Monday
   - Arm day
-    - Bicep
-    - Tricep
-    - Forearm
+  - Bicep
+  - Tricep
+  - Shoulder
 - Tuesday
-  - Shoulder day
-  - F
+  - Chest day
 - Wednesday
   - Off day
 - Thursday
-  - Chest day
+  - 
 - Friday
-  - Leg day
 - Saturday
-  - 1 hour bike ride
 - Sunday
-  - Back day
-- Sunday
-  - Off day

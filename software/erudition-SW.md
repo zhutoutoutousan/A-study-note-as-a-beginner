@@ -234,17 +234,23 @@ is useful.
 
 
 # Front-end development
-- Getting MEAN with Mongo, Express, Angular, and Node 0/?
-  - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
-- 微信公众平台应用开发实战
-  - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
-- HTML 5 Mobile Development Cookbook
-  - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
-  - Progress: 25
-- HTML5移动Web+Vue.js应用开发实战
-  - Process 1
-    - Goal: Have a general grasp of knowledge in Chinese
-    - Style: Hit and run, till feeling very comfortable
+- Flow
+  - Getting MEAN with Mongo, Express, Angular, and Node 0/?
+    - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
+  - 微信公众平台应用开发实战
+    - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
+  - HTML 5 Mobile Development Cookbook
+    - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
+    - Progress: 25
+  - HTML5移动Web+Vue.js应用开发实战
+    - Process 1
+      - Goal: Have a general grasp of knowledge in Chinese
+      - Style: Hit and run, till feeling very comfortable
+- Framework
+  - React
+    - Learning React
+      - [link](https://drive.google.com/file/d/1sxI3pyh_eHO_Hn1O8daIy06W5hLIequQ/view?usp=sharing)
+    - React Deep Dive 
 - You don't know JS
   - [link1](https://drive.google.com/file/d/1j4duc5npkyXlgEZigos3iuxFxKtFJf8H/view?usp=sharing)
   - Process 1
@@ -332,8 +338,14 @@ is useful.
     - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
 # DevOps
-- Pro Git
+- &READING& Pro Git
   - [link](https://git-scm.com/book/en/v2)
+  - Booktrail: 
+    - -1.3
+      - Undoing things
+      - 3.1 Branching
+        - Checksum
+          - [Hash function](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8)
 ## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
 ## System administration

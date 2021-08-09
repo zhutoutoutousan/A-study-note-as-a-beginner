@@ -1,5 +1,27 @@
-
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Buffer to static knowledge store](#buffer-to-static-knowledge-store)
+- [2021/3/18](#2021318)
+  - [`fatal: unable to access 'https://github.com/jquery/jquery/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443`](#fatal-unable-to-access-httpsgithubcomjqueryjquery-openssl-ssl_connect-connection-was-reset-in-connection-to-githubcom443)
+    - [First attempt](#first-attempt)
+    - [Second attempt](#second-attempt)
+- [2021/6/10](#2021610)
+  - [Git reading materials bundle --- Read it when you have time to level up](#git-reading-materials-bundle-----read-it-when-you-have-time-to-level-up)
+  - [After obtaining a bit more of experience, give a decision tree of operations and git implementation](#after-obtaining-a-bit-more-of-experience-give-a-decision-tree-of-operations-and-git-implementation)
+- [2021/6/11](#2021611)
+  - [Explain key concepts about Git](#explain-key-concepts-about-git)
+  - [List the difference among `git stage`, `git unstage`, `git stash`, `git add`, `git commit`, `git push`, `git pull`, `git reset`](#list-the-difference-among-git-stage-git-unstage-git-stash-git-add-git-commit-git-push-git-pull-git-reset)
+  - [List the difference among `git checkout`, `git merge`, `git pull`, `git status`](#list-the-difference-among-git-checkout-git-merge-git-pull-git-status)
+  - [List the difference among `git rebase`, `git reset`, `git log`, `git last`](#list-the-difference-among-git-rebase-git-reset-git-log-git-last)
+  - [List all frequent operations of git during difference phase of development lifecycle](#list-all-frequent-operations-of-git-during-difference-phase-of-development-lifecycle)
+- [2021/7/27](#2021727)
+  - [Actions?](#actions)
+  - [Let's say you are starting working with a new team, what questions about git would you ask them?](#lets-say-you-are-starting-working-with-a-new-team-what-questions-about-git-would-you-ask-them)
+- [2021/8/9-](#202189-)
+  - [Intense visualization effort of git workflow](#intense-visualization-effort-of-git-workflow)
 # Buffer to static knowledge store
+
+
 
 # 2021/3/18
 ## `fatal: unable to access 'https://github.com/jquery/jquery/': OpenSSL SSL_connect: Connection was reset in connection to github.com:443`
@@ -80,5 +102,36 @@ So you switched to (HEAD detached at origin/develop), in order to have a quick g
 
 ## Let's say you are starting working with a new team, what questions about git would you ask them?
 
-# 2021/7/28
-## One time full reading flow of git
+
+# 2021/8/9-
+## Intense visualization effort of git workflow
+- Context
+  - Thanks to the *interpretation memory training effort*, now you have realized that you can retain your heightened mental state by specific set of actions mentioned in *@neural-level-adjustment*
+  - Now it seems like you have increased demands of clear and agile visualization of git workflow and command, so let's put your **hightened mental state** to the test
+- Context feedback(Come back and fill it later)
+  - Which works
+  - Which doesn't work
+- Lack of feedback mechanism
+  - That's a lot of info and sufficient change of information re-stimulation opportunities with good reasons, we can incorporate repetition mechanisms to mitigate the risk of burnout and pedantic rigidity
+- Quick links
+  - Search &READING& Pro Git
+- Visualization elements
+  - Anchors
+    - pointer
+    - snapshot
+    - container
+    - commit
+    - Branch
+    - repository
+      - *blobs*
+    - ?
+      - root project tree
+  - Status
+    - Staged
+    - Commited
+  - Links
+- Command-visualization connection
+  - git add
+- Functional routine pathway
+- #YourActionsMatter Bullshitting doesn't count, now, today, 2021/8/9, you must write your own mental model in draw.io and send it to your partner
+

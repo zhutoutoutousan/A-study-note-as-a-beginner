@@ -32,3 +32,5 @@ https://www.suse.com/support/kb/doc/?id=000018152
 - Worked Solution
   - Windows 10: Navigate to `C:\Program Files\nodejs\node_modules\npm`, there's an `.npmrc` file that set the prefix to `${APPDATA}\npm`, but `APPDATA` doesn't exist, so it showed `EISDIR` error. Just delete it 
 - Discovering: There's another one `.npmrc` in ...APPDATA\roaming\npm\etc
+
+# 2021/8/9

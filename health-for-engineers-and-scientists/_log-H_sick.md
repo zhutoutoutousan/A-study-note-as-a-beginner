@@ -13,6 +13,13 @@ The best way to elleviate this is going to the hospital and tell the doctor that
 - Solution
   - Health check at 7/5 for gallbladder and liver issues
   - Full health check after getting stabilized for main questline
-
+- Reason
+  - Side effect of SARMS
 # 2021/8/2
 ## Extreme Lasting Headache
+- Relieved by a 3-day rest and a series of self-support
+# 2021/8/9
+## Folliculitis in your armpit
+- Problems
+  - Hard to concentrate for some pain in the armpit
+- Recovered in 3 days by applying antibiotics

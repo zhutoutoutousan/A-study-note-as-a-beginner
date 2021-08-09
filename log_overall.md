@@ -25,8 +25,9 @@
   - [**Accurate** time chunk allocation data based on self-tested conclusions to reach optimal outcome](#accurate-time-chunk-allocation-data-based-on-self-tested-conclusions-to-reach-optimal-outcome)
   - [Creating an efficient, low-mental friction context switch mapping strategy](#creating-an-efficient-low-mental-friction-context-switch-mapping-strategy)
   - [In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?](#in-every-learning-context-youll-face-the-ever-occuring-problems-with-the-knowledge-structure-reform-with-the-upgrade-of-your-vision-how-to-make-the-reform-process-more-efficient)
-- [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
-- [Changing yourself from within](#changing-yourself-from-within)
+  - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
+  - [Changing yourself from within](#changing-yourself-from-within)
+  - [Trival changes that might change your future](#trival-changes-that-might-change-your-future)
 
 # **Temporary effect**
 - The overall evaluation of the whole situation is complete on 2021/8/8
@@ -37,8 +38,10 @@
     - Gym
     - Translation
       - BA  
+    - \#YourActionsMatter
   - **Stoic by Productivity**
-    - *A busy schedule*: Make every day a fight against the clock
+    - *Extreme concentration*: *Thanks to your translation course*  Use your visualization technique
+    - *Flexible schedule*: Use a flexible schedule to compensate your concentration to avoid burnout
 - Intent
   - Significant growth in technical dexterity and acumen
   - Increased career mobility
@@ -249,10 +252,17 @@ PFocmErCpGlEmeC09RwR5w==:
     - Existential crysis :)
 ## In every learning context, you'll face the ever-occuring problems with the knowledge structure reform with the upgrade of your vision, how to make the reform process more efficient?
 
-# Temperary stack for agile task insertion without pre-planning
+
+## Temperary stack for agile task insertion without pre-planning
 &TODO
 - Test node-dlc
  
 
-# Changing yourself from within
+## Changing yourself from within
 https://www.kancloud.cn/luofei614/programmer_talk_life/107489
+
+## Trival changes that might change your future
+- After browsing, don't forget to wrap it up to solidate the new node in your brain, INPUT, OUTPUT, ONTOLOGY
+  - Visualize and put it in your graph
+- Your previous reading habits was adding Progress, but a reading trail is more comprehensive, change it!
+- You can be unstructured when pursuing 

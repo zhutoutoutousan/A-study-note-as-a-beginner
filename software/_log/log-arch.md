@@ -17,3 +17,11 @@
 ## If you want to block foreign users from accessing certain language materials without giving users the credential, what would you do?
 - Backend
 - Front-end
+
+# 2021/8/9
+## SSO design 
+- Basics
+  - [单点登录](https://zh.wikipedia.org/wiki/%E5%96%AE%E4%B8%80%E7%99%BB%E5%85%A5)
+- Functions
+- Concerns
+  - Covert Redirect

@@ -82,11 +82,9 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 # 2021/7/7
 ## React 18 New features
 
-<<<<<<< HEAD
 # 2021/7/23-
 ## React source code reading
 - https://github.com/numbbbbb/read-react-source-code/blob/master/02-how-render-works.md
-=======
 ## React build error
 ```
  OH NOES!  react.production.min.js (umd_prod)
@@ -119,4 +117,5 @@ error Command failed with exit code 1.
 ## React source code - Bottom-up
 - https://www.bilibili.com/video/BV1Jv411C7UV?from=search&seid=5828538160773570383
   - Bookmark: 5-0
->>>>>>> 6a32a6a6148fc5e0393a2518a3de2ef32ee8dbc5
+## React ecosystem - On-the-fly bottom up
+https://github.com/ReactTraining

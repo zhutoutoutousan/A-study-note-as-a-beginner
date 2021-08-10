@@ -16,8 +16,9 @@
   - [List all frequent operations of git during difference phase of development lifecycle](#list-all-frequent-operations-of-git-during-difference-phase-of-development-lifecycle)
 - [2021/7/27](#2021727)
   - [Actions?](#actions)
-  - [Let's say you are starting working with a new team, what questions about git would you ask them?](#lets-say-you-are-starting-working-with-a-new-team-what-questions-about-git-would-you-ask-them)
+  - [A few quick ways to get going](#a-few-quick-ways-to-get-going)
 - [2021/8/9-](#202189-)
+  - [Git branch management](#git-branch-management)
   - [Intense visualization effort of git workflow](#intense-visualization-effort-of-git-workflow)
 # Buffer to static knowledge store
 
@@ -100,10 +101,13 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 ## Actions?
 So you switched to (HEAD detached at origin/develop), in order to have a quick grasp of the project, what should you do?
 
-## Let's say you are starting working with a new team, what questions about git would you ask them?
-
+## A few quick ways to get going
+- [How do I check out a remote Git branch?](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch)
 
 # 2021/8/9-
+## Git branch management
+- Naming conventions
+  - [Git Branching Naming Convention: Best Practices](https://codingsight.com/git-branching-naming-convention-best-practices/)
 ## Intense visualization effort of git workflow
 - Context
   - Thanks to the *interpretation memory training effort*, now you have realized that you can retain your heightened mental state by specific set of actions mentioned in *@neural-level-adjustment*

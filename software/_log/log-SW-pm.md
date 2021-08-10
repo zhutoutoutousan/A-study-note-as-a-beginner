@@ -15,3 +15,7 @@
 ## In which direction does project management challenge your intelligence most?
 - ?
   - Internal Gantt graph for quick decision making
+
+
+## Front-end teamwork and management
+- [前端进阶之路：如何高质量完成产品需求开发](https://www.cnblogs.com/chyingp/p/how-to-finish-a-product-requirement-with-high-quality.html)

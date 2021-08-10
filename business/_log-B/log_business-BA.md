@@ -52,7 +52,10 @@ Ok, makes sense 2021-7-8
     - [《2021中国餐饮产业生态白皮书》发布，一文读完关键信息](https://www.163.com/dy/article/G6E1N1HR05118O92.html)
   - 2021中国餐饮加盟行业白皮书
 - 喝
+  - [中国酒业新闻网](http://www.cnwinenews.com/)
   - 2015-2020年中国瓶装水市场调查及投资咨询报告
+  - 2020中国葡萄酒市场白皮书
+    - [link](http://www.cnwinenews.com/html/2021/putaojiu_0405/123561.html)
 - 拉
 - 撒
 - 买?

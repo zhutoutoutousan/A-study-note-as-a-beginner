@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Teamwork](#teamwork)
 - [IT architecture](#it-architecture)
 - [Computer system](#computer-system)
 - [Computer networking](#computer-networking)
@@ -35,6 +36,14 @@
 
 
 - MIGRATION ON GOING, DISINTEGRATE 2 ALL OTHER SECTIONS
+- Single depth is not enough, consider nesting after getting more experience
+
+
+# Teamwork
+- [The Art of Agile Development](https://poetiosity.files.wordpress.com/2011/04/art_of_agile_development.pdf)
+- [Agile handbook](http://agilehandbook.com/agile-handbook.pdf)
+
+
 # IT architecture
 - 企业IT架构转型之道:阿里巴巴中台战略思想与架构实战
   - [link1](https://github.com/edagarli/Collection-books/blob/master/%E4%BC%81%E4%B8%9AIT%E6%9E%B6%E6%9E%84%E8%BD%AC%E5%9E%8B%E4%B9%8B%E9%81%93:%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%B8%AD%E5%8F%B0%E6%88%98%E7%95%A5%E6%80%9D%E6%83%B3%E4%B8%8E%E6%9E%B6%E6%9E%84%E5%AE%9E%E6%88%98.pdf)
@@ -341,11 +350,13 @@ is useful.
 - &READING& Pro Git
   - [link](https://git-scm.com/book/en/v2)
   - Booktrail: 
-    - -1.3
+    - S-1.6
       - Undoing things
       - 3.1 Branching
         - Checksum
           - [Hash function](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8)
+    - 1.6-2.1
+      - 2.1
 ## General
 - [Site Reliability Engineering - How google runs production systems](https://iamfaith.github.io/leetcode/index/Site.Reliability.Engineering.2016.3.pdf)
 ## System administration

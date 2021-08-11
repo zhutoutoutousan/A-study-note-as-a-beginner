@@ -1,4 +1,22 @@
 
+# Buffer to permanent note
+## Front-end component design
+### Drawer
+https://cloud.tencent.com/developer/article/1710272
+- Common requirements
+  - 能控制抽屉是否可见
+  - 能手动配置抽屉的关闭按钮
+  - 能控制抽屉的打开方向
+  - 关闭抽屉时是否销毁里面的子元素(这个问题是5>  工作中频繁遇到的问题)
+  - 指定 Drawer 挂载的 HTML 节点, 可以将抽屉挂载在任何元素上
+  - 点击蒙层可以控制是否允许关闭抽屉
+  - 能控制遮罩层的展示
+  - 能自定义抽屉弹出层样式
+  - 可以设置抽屉弹出层宽度
+  - 能控制弹出层层级
+  - 能控制抽屉弹出方向(上下左右)
+  - 点击关闭按钮时能提供回调供开发者进行相关操作
+- Samples
 # 2021-5-26
 ## How would you approach the designing process of a single frontend component for any given requirements?
 I was asked yet another question that I certainly not able to answer in an elegant manner. 
@@ -8,7 +26,7 @@ I was asked yet another question that I certainly not able to answer in an elega
 # 2021/6/11
 ## A keen sense of life-cycle
 - [Comparison of life cycle between vue and react](https://programmersought.com/article/76314025698/)
-
+  - How is it applied during dev or achitecture design?
 # 2021/6/18-
 ## AWS
 
@@ -18,11 +36,6 @@ I was asked yet another question that I certainly not able to answer in an elega
 
 ### Questions
 - Pricing and budget calculation for a system
-
-# 2021/7/13
-## Why doesn't Wechat have task feature?
-- U STUPID PIECE OF SHIT FROM 2021/7/30
-
 
 
 # 2021/7/29

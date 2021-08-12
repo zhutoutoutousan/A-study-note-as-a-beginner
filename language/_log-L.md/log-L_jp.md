@@ -1,0 +1,1 @@
+[kanji 2 hiragana](https://j-talk.com/wvqjmcp)

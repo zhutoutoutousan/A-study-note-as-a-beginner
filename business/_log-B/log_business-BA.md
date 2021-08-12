@@ -7,6 +7,7 @@
     - [Industry study](#industry-study)
       - [Channels](#channels)
       - [Daily matters](#daily-matters)
+      - [Medical](#medical)
       - [IT](#it)
       - [Education](#education)
       - [Transportation](#transportation)
@@ -61,6 +62,14 @@ Ok, makes sense 2021-7-8
 - 买?
 - 玩
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
+
+#### Medical
+- 2021年 中国医药CXO（研发及生产外包服务）行业概览
+  - [link](https://pdf.dfcfw.com/pdf/H3_AP202105281494438090_1.pdf?1622197908000.pdf)
+  - M&A ROIC
+  - WACC
+- 艾瑞咨询
+  - [中国医药产业互联网白皮书2020](http://qccdata.qichacha.com/ReportData/PDF/cf34194ceb3e70b088b576b88c3be61c.pdf)
 #### IT
 - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
 #### Education

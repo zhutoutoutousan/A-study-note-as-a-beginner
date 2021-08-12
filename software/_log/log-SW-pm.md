@@ -1,3 +1,7 @@
+# Buffer to permanent note
+## Learning site
+- [人人都是产品经理](http://www.woshipm.com/)
+
 # 2021/7/11- 
 ## Integration of S-PM
 - [Software Project Management - Why it's Different!](https://www.youtube.com/watch?v=TYBVAvWkG6M)
@@ -19,3 +23,7 @@
 
 ## Front-end teamwork and management
 - [前端进阶之路：如何高质量完成产品需求开发](https://www.cnblogs.com/chyingp/p/how-to-finish-a-product-requirement-with-high-quality.html)
+
+# 2021/8/12
+## 需求分析
+http://www.woshipm.com/pmd/720052.html

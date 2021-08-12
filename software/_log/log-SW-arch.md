@@ -2,7 +2,7 @@
 # Buffer to permanent note
 ## Front-end component design
 ### Drawer
-https://cloud.tencent.com/developer/article/1710272
+- https://cloud.tencent.com/developer/article/1710272
 - Common requirements
   - 能控制抽屉是否可见
   - 能手动配置抽屉的关闭按钮
@@ -55,3 +55,17 @@ I was asked yet another question that I certainly not able to answer in an elega
 - Concerns
   - Covert Redirect
 
+## Scheduled event for web app
+-  Easier for backend
+
+## Software Localization and Globalization
+- Language
+  - Basics
+    - https://chenhuijing.com/blog/chinese-web-typography/
+    - https://www.w3.org/International/
+    - https://juejin.cn/post/6844904032121815054#heading-9
+  - Frameworks
+    - Alibaba - Kiwi
+      - [link](https://github.com/alibaba/kiwi)
+- Time
+- Currency

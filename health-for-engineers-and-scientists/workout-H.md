@@ -72,6 +72,9 @@ days, dimension, performance
   - On at 8/18
 - Sunday
   - Arm day
+  - Bicep
+  - Tricep
+  - Shoulder
 - Monday
   - Back day
 - Tuesday
@@ -79,4 +82,4 @@ days, dimension, performance
 - Wednesday
   - Off day
 - Thursday
-  - 5*5
+  - Texas method kick-start

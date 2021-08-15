@@ -23,3 +23,26 @@ The best way to elleviate this is going to the hospital and tell the doctor that
 - Problems
   - Hard to concentrate for some pain in the armpit
 - Recovered in 3 days by applying antibiotics
+
+# 2021/8/15
+## Brain-fog slowing down all operations
+- Symptom
+  - Sense of grogginess
+  - Persistent
+    - Present even after having coffee
+    - Devastating effect on the workout and planning phase
+    - Following guilt, self-conscious and self-dysregulation imminent
+- Solution
+  - *Robot 1 ready*: Now it's not the time for you to think, plan, or manage, but just making it happen
+  - *Tranced*: Give gammar binaural beats
+    - Instant boost of perceived energy
+  - *Music time*: Give your favourite music, bluetooth earphone
+  - *Nootropic junkie*: Time for some kick-ass shit
+  - *Well-hydrated*: Water.... Lots of water...
+  - *Orderly*: Cleaning up the room always feels good
+  - *Deep breath*: Oxygen in, wastes out
+  - *Clumsy*: Don't strain your liver
+  - *Drooling*: Why waste all that energy to leave people with good impressions?
+  - *Single-threaded*: Multi-tasking isn't that sexy at this time
+  - *Open your window*: Oxygen in, CO2 out
+  - *Shock therapy*: *Sometimes doing some insanely-demanding intellectual work during your grogginess can clear away fake fatigues*

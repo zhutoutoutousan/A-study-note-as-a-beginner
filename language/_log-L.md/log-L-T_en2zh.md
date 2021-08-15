@@ -14,6 +14,9 @@
   - [M](#m)
   - [W](#w)
   - [Z](#z)
+- [Log](#log)
+  - [Correct use of english and chinese punctuations](#correct-use-of-english-and-chinese-punctuations)
+  - [Training - 2021/8/15 --> to be revised --> Done in 30 minutes](#training---2021815----to-be-revised----done-in-30-minutes)
 
 
 
@@ -80,3 +83,16 @@
 - West-east pipeline
 ## Z
 - Zoonotic pathogen: 人畜共患病病原体 - HDR 2020
+
+
+
+# Log
+## Correct use of english and chinese punctuations
+
+## Training - 2021/8/15 --> to be revised --> Done in 30 minutes
+- In barely one generation we've moved from exulting in the time-saving devices that have so expanded our lives to trying to get away from them --- often in order to make more time. The more ways we have to connect, the more many of us seem desperate to unplug. Like teenagers, we appear to have gone from knowing nothing about the world to knowing too much all but overnight.
+  - 短短一代人的时间，我们从被用来节省时间的各类设备中解脱出来，曾经它们如此拓展了我们的生活，而如今我们为了节省更多时间而远离它们。社交的方式越多, 我们脱离社交的急迫感就越强。我们如同一群年轻人, 一夜之间从不闻天下事飞跃到了知识过载的状态。
+- The average American tenager sends or receives 75 text messages a day. Since luxury, as any economist will tell you, is a function of scarcity, the children of tomorrow will crave nothing more than freedom, if only for a short while, from all the blinking machines, streaming videos and scrolling headlines that leave them feeling empty and too full all at once
+  - 一个普通美国青年人平均每天收到75条信息。在经济学家们的口中, 奢侈源于稀有。未来的孩子们不渴求太多，只是需要那短暂的自由, 能从那些频闪的机器，直播视频, 滚动头版之类空虚而充实之物中解脱出来。
+- The urgency of slowing down --- to find the time and space to think --- is nothing new, of course, and wiser souls have always reminded us that the more attention we pay to the moment, the less time and energy we have to place it in some larger context. "Distraction is the only thing that consoles us for our miseries." the French philosopher Blaise Pascal wrote in the 17th century, "and yet it is itself the greatest of our miseries." He also famously remarked that all of man's problems come from his inability to sit quietly in a room alone.
+  - 慢下来 --- 找寻思考的时间和空间的急切渴求并不新鲜，那些智者常言，越关注当下，对于大局投入的精力就越少。“分心是唯一可以抚慰我们苦难的东西。”，17世纪法国哲学家布莱斯·帕斯卡尔如此写道，“然而它本身也是我们最大的苦难”。他提出过一个有名的观点：“人的问题在于无法在一个房间中静坐”。

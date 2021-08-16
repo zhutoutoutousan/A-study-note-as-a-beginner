@@ -42,7 +42,7 @@
 # Teamwork
 - [The Art of Agile Development](https://poetiosity.files.wordpress.com/2011/04/art_of_agile_development.pdf)
 - [Agile handbook](http://agilehandbook.com/agile-handbook.pdf)
-
+- [Refactoring: Improving the Design of Existing Code](http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf)
 
 # IT architecture
 - 企业IT架构转型之道:阿里巴巴中台战略思想与架构实战

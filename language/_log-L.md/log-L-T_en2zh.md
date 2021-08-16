@@ -88,7 +88,9 @@
 
 # Log
 ## Correct use of english and chinese punctuations
-
+https://language.moe.gov.tw/001/upload/files/site_content/m0001/hau/h10.htm
+http://blog.sina.com.cn/s/blog_5f3583e90100kp9i.html
+https://zh.wikipedia.org/wiki/%E7%A0%B4%E6%8A%98%E5%8F%B7
 ## Training - 2021/8/15 --> to be revised --> Done in 30 minutes
 - In barely one generation we've moved from exulting in the time-saving devices that have so expanded our lives to trying to get away from them --- often in order to make more time. The more ways we have to connect, the more many of us seem desperate to unplug. Like teenagers, we appear to have gone from knowing nothing about the world to knowing too much all but overnight.
   - 短短一代人的时间，我们从被用来节省时间的各类设备中解脱出来，曾经它们如此拓展了我们的生活，而如今我们为了节省更多时间而远离它们。社交的方式越多, 我们脱离社交的急迫感就越强。我们如同一群年轻人, 一夜之间从不闻天下事飞跃到了知识过载的状态。

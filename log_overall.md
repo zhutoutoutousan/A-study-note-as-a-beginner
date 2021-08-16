@@ -80,6 +80,8 @@
 
 有所成就的人，都有一个共性，就是逻辑 - Ray Dalio
 
+情商和智商缺了哪个都会被随时出局。但这并不代表你要改变自己去一味迎合别人的文化和口味，只要能找到自己的USP（Unique selling proposition），始终带着一颗谦卑和真诚的心，相信到哪里运气都不会太差。 - Whoever
+
 # Idea pool
 ## Study system
 - Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay

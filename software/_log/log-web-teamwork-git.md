@@ -8,7 +8,7 @@
 - [2021/6/10](#2021610)
   - [Git reading materials bundle --- Read it when you have time to level up](#git-reading-materials-bundle-----read-it-when-you-have-time-to-level-up)
   - [After obtaining a bit more of experience, give a decision tree of operations and git implementation](#after-obtaining-a-bit-more-of-experience-give-a-decision-tree-of-operations-and-git-implementation)
-- [2021/6/11](#2021611)
+- [2021/6/11 | 2021/8/16-](#2021611--2021816-)
   - [Explain key concepts about Git](#explain-key-concepts-about-git)
   - [List the difference among `git stage`, `git unstage`, `git stash`, `git add`, `git commit`, `git push`, `git pull`, `git reset`](#list-the-difference-among-git-stage-git-unstage-git-stash-git-add-git-commit-git-push-git-pull-git-reset)
   - [List the difference among `git checkout`, `git merge`, `git pull`, `git status`](#list-the-difference-among-git-checkout-git-merge-git-pull-git-status)
@@ -20,6 +20,7 @@
 - [2021/8/9-](#202189-)
   - [Git branch management](#git-branch-management)
   - [Intense visualization effort of git workflow](#intense-visualization-effort-of-git-workflow)
+  - [OMG, I accidentally discarded changes of tons of features](#omg-i-accidentally-discarded-changes-of-tons-of-features)
 # Buffer to static knowledge store
 
 
@@ -75,7 +76,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 ## After obtaining a bit more of experience, give a decision tree of operations and git implementation
 
-# 2021/6/11
+# 2021/6/11 | 2021/8/16-
 ## Explain key concepts about Git
 - Branch
 - Head
@@ -139,3 +140,4 @@ So you switched to (HEAD detached at origin/develop), in order to have a quick g
 - Functional routine pathway
 - #YourActionsMatter Bullshitting doesn't count, now, today, 2021/8/9, you must write your own mental model in draw.io and send it to your partner
 
+## OMG, I accidentally discarded changes of tons of features

@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [CFA test(After 5yrs of exp in tech)](#cfa-testafter-5yrs-of-exp-in-tech)
+- [CPA test](#cpa-test)
 - [Industry](#industry)
   - [Contact](#contact)
   - [Inwards](#inwards)
@@ -32,6 +34,14 @@
     - [Business mindset](#business-mindset)
     - [Strategic planning](#strategic-planning)
 - [Uncategorized](#uncategorized)
+
+# CFA test(After 5yrs of exp in tech)
+- Resource
+  - https://m.cfa.cn/cfa-book/4629.html
+  - https://www.zhihu.com/question/24016485
+- Corporate finance
+
+# CPA test
 
 # Industry
 ## Contact

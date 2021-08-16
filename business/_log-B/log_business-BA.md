@@ -6,6 +6,7 @@
     - [Fact check](#fact-check)
     - [Industry study](#industry-study)
       - [Channels](#channels)
+      - [Capital](#capital)
       - [Daily matters](#daily-matters)
       - [Medical](#medical)
       - [IT](#it)
@@ -25,6 +26,7 @@
   - [2021/7/31-](#2021731-)
     - [Roadmap](#roadmap)
   - [2021/8/3](#202183)
+    - [Starting forming a plan](#starting-forming-a-plan)
 # Buffer to permanent note
 ## Basic data to store into your top-tier memory ?WTF?-2021-7-8
 - First answer me a question, what's the meaning of its existance?
@@ -46,7 +48,8 @@ Ok, makes sense 2021-7-8
 - [商业新知](https://www.shangyexinzhi.com/)
 - [未来智库](https://www.vzkoo.com/)
 - [墨天轮](https://www.modb.pro/)
-
+#### Capital
+- 2020年VC／PE机构薪酬与运营机制调查研究报告
 #### Daily matters
 - 吃
   - 2021中国餐饮产业生态白皮书
@@ -139,9 +142,12 @@ Ok, makes sense 2021-7-8
 
 
 ## 2021/8/3
-- Discovered knowledge structure anchor
+### Starting forming a plan
+- Business analyst
+  - Discovered knowledge structure anchor
   - [BABOK](https://book.akij.net/eBooks/2018/September/5b8a80dd494ce/BABOK_Guide_v3_Member.pdf)
     - Bookmark: 1
-- Certification milestone dicovered
+  - Certification milestone dicovered
   - CBAP
   - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
+- CFA

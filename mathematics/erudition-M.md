@@ -91,7 +91,10 @@
 # Probability theory
 - Probability Theory: The Logic of Science
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
-  - Progress: 43/758
+  - Process
+    - Goal - *Waste some time*: It doesn't hurt just to waste some time of your life, does it?
+    - Bookmark: 43/758
+    - *Invoked*: 9min - 2021/8/17
 - [Probability theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 - [Probability and measure](https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf)
 # Set theory

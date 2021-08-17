@@ -69,3 +69,6 @@ I was asked yet another question that I certainly not able to answer in an elega
       - [link](https://github.com/alibaba/kiwi)
 - Time
 - Currency
+
+## UML diagram course
+- [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)

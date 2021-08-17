@@ -27,3 +27,9 @@
 # 2021/8/12
 ## 需求分析
 http://www.woshipm.com/pmd/720052.html
+
+# 2021/8/17
+## REQ: A chip function in MUI 1.5.1
+- Transparent, left right
+- TIME LIMIT: 30min
+- Kundemieren vorhandende Komponenten oder eine neue Komponent fertigzumachen?

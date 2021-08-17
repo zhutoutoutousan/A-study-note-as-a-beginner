@@ -13,6 +13,8 @@
   - [Time for some explicit information flow for CSS positioning](#time-for-some-explicit-information-flow-for-css-positioning)
 - [2021/7/7](#202177)
   - [Refreshing CSS](#refreshing-css)
+- [2021/8/17](#2021817)
+  - [Building mental model and use case pathway for CSS units](#building-mental-model-and-use-case-pathway-for-css-units)
 
 # 2021/3/8
 ## How to deal with fonts - Fonts
@@ -209,3 +211,9 @@ https://stackoverflow.com/questions/39168571/image-inside-div-doesnt-show/391686
 
 # 2021/7/7
 ## Refreshing CSS
+
+# 2021/8/17
+## Building mental model and use case pathway for CSS units
+https://www.jianshu.com/p/82f02af17e78
+https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/
+https://www.cnblogs.com/nyw1983/p/12257411.html

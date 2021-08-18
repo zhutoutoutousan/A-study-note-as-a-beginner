@@ -76,5 +76,9 @@ I was asked yet another question that I certainly not able to answer in an elega
 ## About Front-end development efficiency
 - Low Code platform
   - [Baidu - amis](https://baidu.github.io/amis/zh-CN/docs/concepts/schema?page=1)
+  - [低代码](https://aisuda.github.io/amis-editor-demo/)
+  - http://www.ayqy.net/blog/low-code-frontend/
+  - https://www.infoq.cn/article/azghhkh5xxtmrdlc6ffc
+  - https://github.com/taowen/awesome-lowcode
 - Mindset
   - [谈谈「前端开发效率」](https://developer.huawei.com/consumer/cn/forum/topic/0201480384466380067)

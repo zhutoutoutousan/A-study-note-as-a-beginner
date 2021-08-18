@@ -4,3 +4,7 @@
 - https://www.zhihu.com/question/55696779
 
 ## 什么是一专多能型人才?互联网如何定义一专多能型人才? 
+
+# 2021/8/18
+## Learning logic basics, rules and fallacies
+- [Logical fallacies are like landmines; easy to overlook until you find them the hard way.](https://thebestschools.org/magazine/15-logical-fallacies-know/)

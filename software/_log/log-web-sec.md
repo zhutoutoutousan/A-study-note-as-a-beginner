@@ -34,3 +34,11 @@ https://www.suse.com/support/kb/doc/?id=000018152
 - Discovering: There's another one `.npmrc` in ...APPDATA\roaming\npm\etc
 
 # 2021/8/9
+
+# 2021/8/18
+## Hack Wechat
+- http://www.360doc.com/content/17/0529/19/30119560_658272534.shtml
+- file:///C:/Users/Administrator/Downloads/futureinternet-10-00114.pdf
+- JSON escape
+- [如何利用Python网络爬虫抓取微信朋友圈的动态（上）](https://cloud.tencent.com/developer/news/205148)
+- [如何利用Python网络爬虫爬取微信朋友圈动态-附代码（下）](https://cloud.tencent.com/developer/news/208973)

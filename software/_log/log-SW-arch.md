@@ -72,3 +72,9 @@ I was asked yet another question that I certainly not able to answer in an elega
 
 ## UML diagram course
 - [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+
+## About Front-end development efficiency
+- Low Code platform
+  - [Baidu - amis](https://baidu.github.io/amis/zh-CN/docs/concepts/schema?page=1)
+- Mindset
+  - [谈谈「前端开发效率」](https://developer.huawei.com/consumer/cn/forum/topic/0201480384466380067)

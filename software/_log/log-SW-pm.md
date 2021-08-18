@@ -26,10 +26,15 @@
 
 # 2021/8/12
 ## 需求分析
-http://www.woshipm.com/pmd/720052.html
+- 小子, 自己建立一个需求池, 并且把实战经验加上去
+- http://www.woshipm.com/pmd/720052.html
 
-# 2021/8/17
+# 2021/8/17-
 ## REQ: A chip function in MUI 1.5.1
 - Transparent, left right
 - TIME LIMIT: 30min
 - Kundemieren vorhandende Komponenten oder eine neue Komponent fertigzumachen?
+
+
+## PM course
+- [PMP® Certification Full Course - Learn PMP Fundamentals in 12 Hours | PMP® Training Videos | Edureka](https://www.youtube.com/watch?v=vzqDTSZOTic)

@@ -40,7 +40,6 @@
     - Gym
     - Translation
       - BA  
-    - \#YourActionsMatter
   - **Stoic by Productivity**
     - *Extreme concentration*: *Thanks to your translation course*  Use your visualization technique
     - *Flexible schedule*: Use a flexible schedule to compensate your concentration to avoid burnout
@@ -69,7 +68,6 @@
 # Potential destructive elements scope
 - When I started to overcome myself, challenge myself into doing a bit more or resisting my original inertia, I started to feel physically stressed.
   - I may utilize my medical acumen against changing myself
-
 # Customized motivation pool
 清华大学教授李稻葵就曾在一次演讲中说：
 ```
@@ -83,6 +81,8 @@
 有所成就的人，都有一个共性，就是逻辑 - Ray Dalio
 
 情商和智商缺了哪个都会被随时出局。但这并不代表你要改变自己去一味迎合别人的文化和口味，只要能找到自己的USP（Unique selling proposition），始终带着一颗谦卑和真诚的心，相信到哪里运气都不会太差。 - Whoever
+
+只是大脑工作的话，你不会感到疲劳，你之所以疲劳是因为你思考遇到难点时沮丧的心理和所做的那些动作，比如皱眉，用手摸头等造成的 - Whoever
 
 # Idea pool
 ## Study system
@@ -107,6 +107,7 @@ PFocmErCpGlEmeC09RwR5w==:
 - According to the former negative input, we might need a booking system for each user
 
 # Behavior
+- 2021/8/19: The habit stuff is very good, but if you're working hard and outside your comfort zone, you don't have the energy for that, how do you solve this problem?
 - NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*

@@ -80,5 +80,11 @@ I was asked yet another question that I certainly not able to answer in an elega
   - http://www.ayqy.net/blog/low-code-frontend/
   - https://www.infoq.cn/article/azghhkh5xxtmrdlc6ffc
   - https://github.com/taowen/awesome-lowcode
-- Mindset
+- Mindset & Efficiency
   - [谈谈「前端开发效率」](https://developer.huawei.com/consumer/cn/forum/topic/0201480384466380067)
+  - [程序员如何将一天变成28小时](https://segmentfault.com/a/1190000017317109?sort=votes)
+  - https://www.cnblogs.com/Zachary-Fan/p/Eliminate.html
+- Questions
+  - You: About to burnout
+    - You: You need to be more efficient
+    - You: ?

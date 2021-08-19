@@ -119,3 +119,13 @@ error Command failed with exit code 1.
   - Bookmark: 5-0
 ## React ecosystem - On-the-fly bottom up
 https://github.com/ReactTraining
+
+## New questions
+```javascript
+// 作用域
+const style = (theme) => {
+  class1: {
+    /*{...}*/
+  }
+}
+```

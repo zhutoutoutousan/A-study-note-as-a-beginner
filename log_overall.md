@@ -28,6 +28,8 @@
   - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
   - [Changing yourself from within](#changing-yourself-from-within)
   - [Trival changes that might change your future](#trival-changes-that-might-change-your-future)
+- [2021/8/19](#2021819)
+  - [Some random thoughts about past career choice](#some-random-thoughts-about-past-career-choice)
 
 # **Temporary effect**
 - The overall evaluation of the whole situation is complete on 2021/8/8
@@ -268,3 +270,7 @@ https://www.kancloud.cn/luofei614/programmer_talk_life/107489
   - Visualize and put it in your graph
 - Your previous reading habits was adding Progress, but a reading trail is more comprehensive, change it!
 - You can be unstructured when pursuing 
+
+# 2021/8/19
+## Some random thoughts about past career choice
+I want to build my image, and realize it

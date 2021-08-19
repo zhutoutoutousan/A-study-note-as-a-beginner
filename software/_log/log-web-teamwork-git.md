@@ -21,6 +21,7 @@
   - [Git branch management](#git-branch-management)
   - [Intense visualization effort of git workflow](#intense-visualization-effort-of-git-workflow)
   - [OMG, I accidentally discarded changes of tons of features](#omg-i-accidentally-discarded-changes-of-tons-of-features)
+  - [A more concentrated reading](#a-more-concentrated-reading)
 # Buffer to static knowledge store
 
 
@@ -141,3 +142,8 @@ So you switched to (HEAD detached at origin/develop), in order to have a quick g
 - #YourActionsMatter Bullshitting doesn't count, now, today, 2021/8/9, you must write your own mental model in draw.io and send it to your partner
 
 ## OMG, I accidentally discarded changes of tons of features
+
+## A more concentrated reading
+https://www.ruanyifeng.com/blog/2012/07/git.html
+https://sandofsky.com/workflow/git-workflow/
+https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html

@@ -70,16 +70,9 @@ days, dimension, performance
 - Sarm cycle
   - Off at 7/18
   - On at 8/18
-- Sunday
-  - Arm day
-  - Bicep
-  - Tricep
-  - Shoulder
-- Monday
-  - Back day
-- Tuesday
-  - Off day
-- Wednesday
-  - Off day
 - Thursday
   - Texas method kick-start
+  - Squat 145KG 5*5
+  - Bench press: 5*5 95KG 
+  - Deadlift: 5*5 170KG
+  - Overhead press: 5*5 60KG

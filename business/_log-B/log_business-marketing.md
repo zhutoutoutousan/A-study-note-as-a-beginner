@@ -31,3 +31,8 @@
   - https://baike.baidu.com/item/%E6%B8%97%E9%80%8F%E4%B9%8Bc%E5%90%9B
   - https://baike.baidu.com/item/%E8%90%A7%E7%82%8E/5808896
 
+# 2021/8/19
+## Making video
+- Making a makeshift swift workload
+  - FXhome --> HitFilm editor
+  - GoPro Quik: Video + Bilder bearbeiten

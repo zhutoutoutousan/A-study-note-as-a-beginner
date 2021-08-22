@@ -42,3 +42,8 @@ https://www.suse.com/support/kb/doc/?id=000018152
 - JSON escape
 - [如何利用Python网络爬虫抓取微信朋友圈的动态（上）](https://cloud.tencent.com/developer/news/205148)
 - [如何利用Python网络爬虫爬取微信朋友圈动态-附代码（下）](https://cloud.tencent.com/developer/news/208973)
+
+# 2021/8/23-
+## Mobile hacking
+- [Remotely Control Any Phone](https://www.youtube.com/watch?v=2_26Ndtt0xU)
+  - L3MON

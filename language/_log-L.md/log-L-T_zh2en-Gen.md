@@ -285,6 +285,9 @@ Example
 - 务实合作
   - practical cooperation
 ## X
+- 现代化
+  - [【收藏向·合集】温铁军解构现代化](https://www.youtube.com/watch?v=-a1LHpZoxs0)
+    - Bookmark: 29:04/1-34-13
 - 新四大发明
 - 熊市
 - 新中国: The People's Republic of China - 政府工作报告

@@ -6,4 +6,4 @@
 # 2021/8/10
 ## Assisted source code reading
 - Redux
-  - https://github.com/chyingp/redux-source-insight
+  - https://github.com/chyingp/redux-source-insight[[log-basicskillz]]

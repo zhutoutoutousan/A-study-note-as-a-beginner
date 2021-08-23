@@ -13,3 +13,5 @@
 # Web automation
 ## Automation tools
 ### Selenium
+
+![[Pasted image 20210824025207.png]]

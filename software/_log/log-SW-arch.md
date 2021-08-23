@@ -1,14 +1,15 @@
 
 # Buffer to permanent note
 ## Front-end component design
-### Button
-### Layout
-### Form
-### Drawer
+### Button: 按钮
+### Layout: 布局
+### Form: 表单
+### Drawer: 抽屉
 - https://cloud.tencent.com/developer/article/1710272
 - https://juejin.cn/post/6844904061615996942
-- Common requirements
-  - 能控制抽屉是否可见
+- 个人组件源码链接
+- Common requirements: 常见需求
+  - Visibility control:能控制抽屉是否可见
   - 能手动配置抽屉的关闭按钮
   - 能控制抽屉的打开方向
   - 关闭抽屉时是否销毁里面的子元素(这个问题是5>  工作中频繁遇到的问题)
@@ -101,7 +102,25 @@ I was asked yet another question that I certainly not able to answer in an elega
 ## 接到需求后, 你是怎么安排技术实现顺序的, 哪些需求是和开发设计有关的? 哪些是不需要过度思考的?
 
 ## 前端沟通经验
+- ju人的肩膀
+  - [UI设计师都是怎么样跟前端沟通的？](https://www.zhihu.com/question/337861437)
 - 前端如何与UI沟通?
+  - 基本技巧
+    - 非暴力沟通
+      - [Nonviolent Communication](https://classroommanagementcem.weebly.com/uploads/4/3/2/5/4325801/nvc_language_of_life_chapters_1-5.pdf)
+      - https://www.cnvc.org/sites/default/files/NVCInstructionGuide_Jiva_.pdf
+  - 前端方面
+    - **动效, 开发时间成本库**
+      - 建议采用幕布等
+    - 设计稿标注、测量工具?
+  - UI方面
+    - 标注稿
+      - 设计标注稿
+      - 设计规范
+        - 色值规范
+        - 字体规范
+      - 样式总结
+      - 尺寸标定
 - 前端如何与PM沟通?
 - 前端如何与前端沟通?
 - 前端如何与后端沟通?

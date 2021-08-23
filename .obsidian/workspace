@@ -4,12 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6a268f866381d4",
+        "id": "c63a81eea1176fdf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "mathematics/terminology-M_num.md",
+            "mode": "source"
+          }
+        },
+        "group": "464e5d4b487fe8dc"
+      },
+      {
+        "id": "bb0fe2dd0dcef41e",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "mathematics/terminology-M_num.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": true,
+              "showAttachments": true,
+              "hideUnresolved": true,
+              "collapse-color-groups": false,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.0000000000000013,
+              "close": true
+            }
+          }
+        },
+        "group": "464e5d4b487fe8dc"
       }
     ],
     "direction": "vertical"
@@ -65,12 +105,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mathematics/terminology-M_num.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -82,12 +123,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a6a268f866381d4",
+  "active": "c63a81eea1176fdf",
   "lastOpenFiles": [
-    "mathematics/terminology-M-POI.md",
-    "csapp.cs.cmu.edu.md",
-    "psychology/micro-psychology/intelligence/intelligence.md",
-    "artificial-intelligence/applications.md",
-    "physics/roadmap.md"
+    "mathematics/terminology-M_num.md",
+    "mathematics/terminology-M_lg.md",
+    "mathematics/terminology-M_geo.md",
+    "mathematics/terminology-M_sta.md",
+    "mathematics/terminology-M.md",
+    "mathematics/_log/log-M_comb.md",
+    "mathematics/_log/log-M_pro.md",
+    "software/foundations-and-supports/_index_software_foundations-and-supports.md",
+    "mathematics/_index_mathematics.md",
+    "mathematics/_log/Untitled.md"
   ]
 }

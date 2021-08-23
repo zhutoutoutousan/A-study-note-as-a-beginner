@@ -1,1 +1,5 @@
-{}
+{
+  "attachmentFolderPath": "engineering",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

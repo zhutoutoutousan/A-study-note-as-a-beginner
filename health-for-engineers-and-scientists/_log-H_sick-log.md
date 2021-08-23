@@ -3,13 +3,15 @@
 - [2021/4/29](#2021429)
   - [Got some serious bacterial infection](#got-some-serious-bacterial-infection)
 - [2021/6/29](#2021629)
-  - [Damn, digestive system complained again](#damn-digestive-system-complained-again)
+  - [Digestive system complaint](#digestive-system-complaint)
 - [2021/8/2](#202182)
   - [Extreme Lasting Headache](#extreme-lasting-headache)
 - [2021/8/9](#202189)
   - [Folliculitis in your armpit](#folliculitis-in-your-armpit)
 - [2021/8/15 - 2021/8/17](#2021815---2021817)
   - [Brain-fog slowing down all operations](#brain-fog-slowing-down-all-operations)
+- [2021/8/22-2021/8/23](#2021822-2021823)
+  - [Brain fatigue and accompanying inflammation](#brain-fatigue-and-accompanying-inflammation)
 
 # 2021/4/29
 ## Got some serious bacterial infection
@@ -17,7 +19,7 @@
 - The best way to elleviate this is going to the hospital and tell the doctor that I have that fxxking muscle cramp, because surely I don't have any meds for this.
 - 2021/8/17: Now, all things considered, I think remote work works best for you
 # 2021/6/29
-## Damn, digestive system complained again
+## Digestive system complaint
 - Problems
   - Possible bacterial infection mainly in the digestive system
     - Sign of fever
@@ -85,3 +87,10 @@
     - *Cut the clutter in your schedule*
     - *Caffein cold turkey*: This weekend
       - What if *workload* spikes?
+
+# 2021/8/22-2021/8/23
+## Brain fatigue and accompanying inflammation
+- Brain Fatigue
+  - Acne
+  - Folliocolitis
+- Partially relieved by reducing to minimum effort

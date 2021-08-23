@@ -68,11 +68,26 @@ days, dimension, performance
 - *Texas method(Switched to hypertrophy due to injury)
   - https://www.bilibili.com/read/cv7390570
 - Sarm cycle
-  - Off at 7/18
   - On at 8/18
+  - Off at 9/3
 - Thursday
   - Texas method kick-start
   - Squat 145KG 5*5
   - Bench press: 5*5 95KG 
   - Deadlift: 5*5 170KG
   - Overhead press: 5*5 60KG
+- Saturday-Sunday
+  - Off day due to fatigue
+- Monday
+  - Dynamic recovery day
+  - Squat: 3x5 @80~90% of Monday 
+  - Bench press: 3x5  @80~90% of Monday 
+  - Accessory lift 3x10-15
+    - Formarm
+      - https://www.youtube.com/watch?v=i-lrx9h-qv0
+    - Quad & Glutes
+    - Core
+- Tueday
+  - Off day
+- Wednesday
+  - PR DAY 5

@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Agenda](#agenda)
 - [Regulartories](#regulartories)
+- [Customized Note System](#customized-note-system)
 - [Resource](#resource)
 - [Tests](#tests)
 - [Long sentences translation](#long-sentences-translation)
@@ -55,6 +56,10 @@
 - 勤查字典
 - 影子跟读
 - Word-family
+
+# Customized Note System
+- Plz, watch some note system video if you have time for reference
+- Using symbol *&*
 
 # Resource
 - English equivalent
@@ -158,6 +163,13 @@ Example
 ## C
 - 常任理事国
 - 春天的故事
+- 城市 &ct
+  - 资源枯竭型城市
+  - 直辖市
+  - 计划单列市
+  - 省会城市
+  - 普通地级市
+  - 县级市
 
 ## D
 - Expression
@@ -214,6 +226,9 @@ Example
     - price advantage
 - 机制建设
   - Institution building
+- 宗教
+  - 烧香拜佛: Burn incense and worship the gods?
+  - 敬香
 ## L 
 - 量化宽松
   - Quantitative easing

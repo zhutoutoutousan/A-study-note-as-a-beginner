@@ -1,8 +1,12 @@
 
 # Buffer to permanent note
 ## Front-end component design
+### Button
+### Layout
+### Form
 ### Drawer
 - https://cloud.tencent.com/developer/article/1710272
+- https://juejin.cn/post/6844904061615996942
 - Common requirements
   - 能控制抽屉是否可见
   - 能手动配置抽屉的关闭按钮
@@ -17,6 +21,9 @@
   - 能控制抽屉弹出方向(上下左右)
   - 点击关闭按钮时能提供回调供开发者进行相关操作
 - Samples
+- log
+  - 2021/8/23
+    - 根据上述的common requirements, 采用mui 1.5.1, React 16, 你如何设计代码结构和周围页面组件的结构?
 # 2021-5-26
 ## How would you approach the designing process of a single frontend component for any given requirements?
 I was asked yet another question that I certainly not able to answer in an elegant manner. 
@@ -82,9 +89,21 @@ I was asked yet another question that I certainly not able to answer in an elega
   - https://github.com/taowen/awesome-lowcode
 - Mindset & Efficiency
   - [谈谈「前端开发效率」](https://developer.huawei.com/consumer/cn/forum/topic/0201480384466380067)
+    - Trial & Error
+      - Can you answer what time in a day would you perform better?
   - [程序员如何将一天变成28小时](https://segmentfault.com/a/1190000017317109?sort=votes)
   - https://www.cnblogs.com/Zachary-Fan/p/Eliminate.html
 - Questions
   - You: About to burnout
     - You: You need to be more efficient
     - You: ?
+
+## 接到需求后, 你是怎么安排技术实现顺序的, 哪些需求是和开发设计有关的? 哪些是不需要过度思考的?
+
+## 前端沟通经验
+- 前端如何与UI沟通?
+- 前端如何与PM沟通?
+- 前端如何与前端沟通?
+- 前端如何与后端沟通?
+- 前端如何与运维沟通?
+- 前端如何与测试沟通?

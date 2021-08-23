@@ -1,9 +1,51 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Buffer to permanent note](#buffer-to-permanent-note)
+  - [Timing resource](#timing-resource)
+  - [Style](#style)
+- [2021/6/9-2021/6-15 | 2021/7/7-](#202169-20216-15--202177-)
+  - [Accelerated learning of React using `ant-design-pro`](#accelerated-learning-of-react-using-ant-design-pro)
+    - [Become comfortable with using mockjs for mock-backend](#become-comfortable-with-using-mockjs-for-mock-backend)
+    - [Describe the project architecture](#describe-the-project-architecture)
+      - [Page layout & File structure & Configuration](#page-layout--file-structure--configuration)
+      - [Networking and API calls(Frontend)](#networking-and-api-callsfrontend)
+      - [Front-end life-cycle(as detailed as possible)](#front-end-life-cycleas-detailed-as-possible)
+      - [Back-end(No nitty gritties required)](#back-endno-nitty-gritties-required)
+      - [Git collaboration](#git-collaboration)
+      - [Deployment(Docker, workflow required)](#deploymentdocker-workflow-required)
+    - [Dependencies](#dependencies)
+    - [Some peripheral work](#some-peripheral-work)
+    - [Endpoint definition](#endpoint-definition)
+- [2021/6/12-2021/7/10-](#2021612-2021710-)
+  - [Difference between type and interface in TypeScript](#difference-between-type-and-interface-in-typescript)
+  - [TypeScript Utility Types reading](#typescript-utility-types-reading)
+- [2021/6/14](#2021614)
+  - [Difference between useEffect, useState, useMemo](#difference-between-useeffect-usestate-usememo)
+  - [Explain to me what React.FC is](#explain-to-me-what-reactfc-is)
+- [2021/6/16](#2021616)
+  - [How would you describe a bulletproof react component?](#how-would-you-describe-a-bulletproof-react-component)
+- [2021/6/20](#2021620)
+  - [Starting React Admin from scratch](#starting-react-admin-from-scratch)
+- [2021/7/7](#202177)
+  - [React 18 New features](#react-18-new-features)
+- [2021/7/25-](#2021725-)
+  - [React source code - Bottom-up](#react-source-code---bottom-up)
+  - [React ecosystem - On-the-fly bottom up](#react-ecosystem---on-the-fly-bottom-up)
+  - [New questions](#new-questions)
+- [2021/8/23](#2021823)
+- [ARCHIVED](#archived)
+  - [2021/7/23-](#2021723-)
+    - [React source code reading](#react-source-code-reading)
+    - [React build error](#react-build-error)
 # Buffer to permanent note
 ## Timing resource
 ```csv
 _reqid ,_req, _pid,_sub,  _time, _desc
 1, 
 ```
+## Style
+- Adding `_` in non-lifecycle methods name 
+  - Why?
 
 # 2021/6/9-2021/6-15 | 2021/7/7-
 ## Accelerated learning of React using `ant-design-pro`
@@ -82,10 +124,32 @@ _reqid ,_req, _pid,_sub,  _time, _desc
 # 2021/7/7
 ## React 18 New features
 
-# 2021/7/23-
-## React source code reading
+
+# 2021/7/25-
+## React source code - Bottom-up
+- https://www.bilibili.com/video/BV1Jv411C7UV?from=search&seid=5828538160773570383
+  - Bookmark: 5-0
+## React ecosystem - On-the-fly bottom up
+https://github.com/ReactTraining
+
+## New questions
+```javascript
+// 作用域
+const style = (theme) => {
+  class1: {
+    /*{...}*/
+  }
+}
+```
+
+# 2021/8/23
+
+
+# ARCHIVED
+## 2021/7/23-
+### React source code reading
 - https://github.com/numbbbbb/read-react-source-code/blob/master/02-how-render-works.md
-## React build error
+### React build error
 ```
  OH NOES!  react.production.min.js (umd_prod)
 
@@ -111,21 +175,4 @@ Exception in thread "main"
 
     at Process.ChildProcess._handlecripts\rollup\plugins\closure-plugin.js:16:16      at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
 error Command failed with exit code 1.
-```
-
-# 2021/7/25-
-## React source code - Bottom-up
-- https://www.bilibili.com/video/BV1Jv411C7UV?from=search&seid=5828538160773570383
-  - Bookmark: 5-0
-## React ecosystem - On-the-fly bottom up
-https://github.com/ReactTraining
-
-## New questions
-```javascript
-// 作用域
-const style = (theme) => {
-  class1: {
-    /*{...}*/
-  }
-}
 ```

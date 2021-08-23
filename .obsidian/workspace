@@ -4,52 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c63a81eea1176fdf",
+        "id": "e134eb4a471ac380",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mathematics/terminology-M_num.md",
+            "file": "neural-level-adjustment.md",
             "mode": "source"
           }
         },
-        "group": "464e5d4b487fe8dc"
+        "group": "edc5e93d7e5080c1"
       },
       {
-        "id": "bb0fe2dd0dcef41e",
+        "id": "e612da368a50d0e3",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "mathematics/terminology-M_num.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": true,
-              "showAttachments": true,
-              "hideUnresolved": true,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.0000000000000013,
-              "close": true
-            }
-          }
+          "type": "graph",
+          "state": {}
         },
-        "group": "464e5d4b487fe8dc"
+        "group": "edc5e93d7e5080c1"
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#meaning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +58,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277
   },
   "right": {
     "id": "8297a1ddd72afa63",
@@ -105,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics/terminology-M_num.md",
+                "file": "neural-level-adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c63a81eea1176fdf",
+  "active": "e612da368a50d0e3",
   "lastOpenFiles": [
-    "mathematics/terminology-M_num.md",
-    "mathematics/terminology-M_lg.md",
-    "mathematics/terminology-M_geo.md",
-    "mathematics/terminology-M_sta.md",
-    "mathematics/terminology-M.md",
-    "mathematics/_log/log-M_comb.md",
-    "mathematics/_log/log-M_pro.md",
-    "software/foundations-and-supports/_index_software_foundations-and-supports.md",
-    "mathematics/_index_mathematics.md",
-    "mathematics/_log/Untitled.md"
+    "neural-level-adjustment.md",
+    "health-for-engineers-and-scientists/_index_health.md",
+    "health-for-engineers-and-scientists/terminology-H_ck.md",
+    "business/_log-B/_index-business-log.md",
+    "language/terminology-L.md",
+    "language/_log-L.md/_index_language-log.md",
+    "software/software-development/app_data-visualization.md",
+    "business/roadmap.md",
+    "business/erudition-business.md",
+    "business/_index_business.md"
   ]
 }

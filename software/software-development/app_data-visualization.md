@@ -11,7 +11,7 @@
 - QUARTZ - data visualization
 - The Economist - Graphic Detail
 - Reddit: Data is Beautiful
-- #dataviz twitter
+- twitter
 - Blockbuilder search
 - Observable
 - VizHub

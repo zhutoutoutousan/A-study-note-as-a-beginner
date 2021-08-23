@@ -12,7 +12,7 @@
 - Require more academic reading for human intelligence for structural improvement
 ## Quantitative intelligence
 ### Visual aids
-
+#meaning 
 ## Verbal intelligence
 - P.O.I
   - Jordan B. Peterson

@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e134eb4a471ac380",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "neural-level-adjustment.md",
-            "mode": "source"
-          }
-        },
-        "group": "edc5e93d7e5080c1"
-      },
-      {
-        "id": "e612da368a50d0e3",
+        "id": "56fdba53a756ed6a",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        },
-        "group": "edc5e93d7e5080c1"
+        }
       }
     ],
     "direction": "vertical"
@@ -49,13 +36,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meaning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c70f0fcad2887985",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neural-level-adjustment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +81,36 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80441061205182cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "722780076d0f3df7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d515f518f405dd7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -97,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e612da368a50d0e3",
+  "active": "56fdba53a756ed6a",
   "lastOpenFiles": [
-    "neural-level-adjustment.md",
-    "health-for-engineers-and-scientists/_index_health.md",
-    "health-for-engineers-and-scientists/terminology-H_ck.md",
-    "business/_log-B/_index-business-log.md",
-    "language/terminology-L.md",
-    "language/_log-L.md/_index_language-log.md",
-    "software/software-development/app_data-visualization.md",
-    "business/roadmap.md",
-    "business/erudition-business.md",
-    "business/_index_business.md"
+    "mathematics/terminology-M.md",
+    "business/_log-B/log_business-management.md",
+    "software/_log/_index_software-log_web-frontend.md",
+    "language/vocabulary-store(2term-base)/general-vocabulary-it.md",
+    "anthropology/router.md",
+    "neuroengineering/fundamentals-of-neuroscience/notes/brain-disease.md",
+    "computer-science/mental-model-CS.md",
+    "computer-science/data-structure-and-algorithms/_archived-problem-set.md",
+    "2021-08-24.md",
+    "politics/event-study/poverty-and-famine.md"
   ]
 }

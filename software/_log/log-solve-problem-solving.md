@@ -229,3 +229,39 @@ function Machine(cpu) {
     - Create a tree and use memoization
     - How many permutations are there?
 
+# 2021/8/25-
+## Vigenère Cipher Helper
+```javascript
+// https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3/train/javascript
+function VigenèreCipher(key, abc) {
+  const returnValue = function(str) {
+    return str.charCodeAt(0) <= 90 && str.charCodeAt(0) >= 65 ? str.charCodeAt(0) - 'A'.charCodeAt(0) 
+                                                            : str.charCodeAt(0) - 'a'.charCodeAt(0) 
+  }
+  const fillkey = function (key, abc) {
+    let resultString = '';
+    while(resultString.length <= abc.length) {
+      resultString += key;
+    }
+    return resultString.substring(0, abc.length);
+  }
+  this.encode = function (str) {
+    return str.split('').map((el,index) => {
+      console.log( fillkey(key,str)[index].charCodeAt(0))
+      console.log(((returnValue(el)  + fillkey(key,str)[index].charCodeAt(0)) % 26))
+      return String.fromCharCode(((returnValue(el)  + fillkey(key,str)[index].charCodeAt(0)) % 26));
+    }).join('')
+  };
+  this.decode = function (str) {
+    return str.split('').map((el,index) => {
+      return (returnValue(el) - fillkey(key,str)[index].charCodeAt(0) + 26) % 26;
+    })
+  };
+}
+```
+
+## Burrows-Wheeler-Transformation
+```javascript
+// https://www.codewars.com/kata/54ce4c6804fcc440a1000ecb/train/javascript
+
+```

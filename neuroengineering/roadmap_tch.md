@@ -56,3 +56,5 @@
 
 ## Interest into human mental fatigue
 - [Mental fatigue caused by prolonged cognitive load associated with sympathetic hyperactivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3113724/)
+
+[A Beginner’s Guide to Brain-Computer Interface and Convolutional Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948)

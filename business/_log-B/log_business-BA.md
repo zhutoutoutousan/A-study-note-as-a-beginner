@@ -27,6 +27,8 @@
     - [Roadmap](#roadmap)
   - [2021/8/3](#202183)
     - [Starting forming a plan](#starting-forming-a-plan)
+  - [2021/8/24](#2021824)
+    - [做遗忘曲线+Obsidian+...的竞品分析](#做遗忘曲线obsidian的竞品分析)
 # Buffer to permanent note
 ## Basic data to store into your top-tier memory ?WTF?-2021-7-8
 - First answer me a question, what's the meaning of its existance?
@@ -151,3 +153,15 @@ Ok, makes sense 2021-7-8
   - CBAP
   - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
 - CFA
+
+
+## 2021/8/24
+### 做遗忘曲线+Obsidian+...的竞品分析
+- 如何做竞品分析?
+  - [5个方面分析：如何做出一份高质量的竞品分析报告？](http://www.woshipm.com/evaluating/1050725.html)
+- 潜在竞品?
+  - [艾宾浩斯复习笔记](http://www.abhsreview.com/)
+  - Obsidian
+  - Notion
+  - https://www.besta.com.tw/zh-tw/Home/index
+    - https://patentimages.storage.googleapis.com/42/68/10/0ce0ef56cceabb/CN1728121A.pdf

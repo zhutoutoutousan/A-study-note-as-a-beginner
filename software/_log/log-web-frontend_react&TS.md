@@ -37,6 +37,9 @@
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
     - [React build error](#react-build-error)
+
+#dailyreview
+
 # Buffer to permanent note
 ## Timing resource
 ```csv

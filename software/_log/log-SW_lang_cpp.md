@@ -1,3 +1,5 @@
+#considerrename
+
 # 2021/3/30
 ## Something about pointer
 - It's like, if without asteroid, it's address. If with, then fetch the variable.

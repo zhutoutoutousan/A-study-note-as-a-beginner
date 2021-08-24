@@ -10,4 +10,3 @@
 - Warren Buffet
 # The way to learn economics
 
-#YourActionsMatter 

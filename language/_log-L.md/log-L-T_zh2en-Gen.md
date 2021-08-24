@@ -43,6 +43,8 @@
   - [2021/8/8-](#202188-)
     - [Structure your daily workout](#structure-your-daily-workout)
 
+#dailyreview
+
 # Agenda
 - As you are getting finished with CATTI, you can gradually migrate it to the permanent note instead of *log*
 
@@ -366,3 +368,11 @@ Example
   - [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY) - 4-47
 ## 2021/8/8-
 ### Structure your daily workout
+### Discovering consecutive interpreting note-taking resource
+- [NOTE-TAKING FOR CONSecutive interpreting a short course]()
+- https://www.jostrans.org/issue26/art_chen.pdf
+- http://www.someya-net.com/01-Tsuyaku/Reading/Rozan.pdf
+- https://www.imiaweb.org/uploads/pages/228_7..pdf
+- https://www.imiaweb.org/uploads/pages/228_4.pdf
+- https://core.ac.uk/download/15644408.pdf
+- [学习交替传译 口译笔记的5个步骤](https://zhuanlan.zhihu.com/p/105160630)

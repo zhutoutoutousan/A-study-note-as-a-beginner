@@ -1,5 +1,7 @@
 # Buffer to permanent note
 
+#dailyreview
+
 # 2021/5/30
 ## Vue source code study - AST part
 - Resource

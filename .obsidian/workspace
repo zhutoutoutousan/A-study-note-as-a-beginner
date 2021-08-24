@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "56fdba53a756ed6a",
+        "id": "ec69b0c8020b15a5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "log_overall.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "log_overall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "log_overall.md"
+              }
             }
           },
           {
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "log_overall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56fdba53a756ed6a",
+  "active": "ec69b0c8020b15a5",
   "lastOpenFiles": [
-    "mathematics/terminology-M.md",
-    "business/_log-B/log_business-management.md",
-    "software/_log/_index_software-log_web-frontend.md",
-    "language/vocabulary-store(2term-base)/general-vocabulary-it.md",
-    "anthropology/router.md",
-    "neuroengineering/fundamentals-of-neuroscience/notes/brain-disease.md",
-    "computer-science/mental-model-CS.md",
-    "computer-science/data-structure-and-algorithms/_archived-problem-set.md",
+    "log_overall.md",
+    "_index.md",
     "2021-08-24.md",
-    "politics/event-study/poverty-and-famine.md"
+    "business/_index_business.md",
+    "health-for-engineers-and-scientists/workout-H.md",
+    "language/_log-L.md/log-L-T_zh2en-Gen.md",
+    "language/_log-L.md/log-L-T_en2zh.md",
+    "software/_log/log-web-frontend_react&TS.md",
+    "software/foundations-and-supports/web-front_vue.md",
+    "software/_log/_index_software-log.md"
   ]
 }

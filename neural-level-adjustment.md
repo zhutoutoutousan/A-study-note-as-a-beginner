@@ -1,3 +1,5 @@
+#dailyreview
+
 # Introduction
 - This section is designed for you to stored the neural pattern, capacity that you want to to strengthen using customized training that you designed for yourself to increase your performance the next time you perform that intellectual task.
 - You should describe as in detail as possible what new neural pattern you have formed to make a certain intellectual task more efficient for active retrieval.
@@ -12,7 +14,6 @@
 - Require more academic reading for human intelligence for structural improvement
 ## Quantitative intelligence
 ### Visual aids
-#meaning 
 ## Verbal intelligence
 - P.O.I
   - Jordan B. Peterson

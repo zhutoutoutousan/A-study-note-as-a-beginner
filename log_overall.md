@@ -31,6 +31,8 @@
 - [2021/8/19](#2021819)
   - [Some random thoughts about past career choice](#some-random-thoughts-about-past-career-choice)
 
+#dailyreview
+
 # **Temporary effect**
 - The overall evaluation of the whole situation is complete on 2021/8/8
 - Effect

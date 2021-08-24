@@ -139,7 +139,7 @@ So you switched to (HEAD detached at origin/develop), in order to have a quick g
 - Command-visualization connection
   - git add
 - Functional routine pathway
-- #YourActionsMatter Bullshitting doesn't count, now, today, 2021/8/9, you must write your own mental model in draw.io and send it to your partner
+-  Bullshitting doesn't count, you must write your own mental model in draw.io and send it to your partner
 
 ## OMG, I accidentally discarded changes of tons of features
 

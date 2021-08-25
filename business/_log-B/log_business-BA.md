@@ -29,6 +29,7 @@
     - [Starting forming a plan](#starting-forming-a-plan)
   - [2021/8/24](#2021824)
     - [做遗忘曲线+Obsidian+...的竞品分析](#做遗忘曲线obsidian的竞品分析)
+  - [2021/8/25](#2021825)
 # Buffer to permanent note
 ## Basic data to store into your top-tier memory ?WTF?-2021-7-8
 - First answer me a question, what's the meaning of its existance?
@@ -148,11 +149,15 @@ Ok, makes sense 2021-7-8
 - Business analyst
   - Discovered knowledge structure anchor
   - [BABOK](https://book.akij.net/eBooks/2018/September/5b8a80dd494ce/BABOK_Guide_v3_Member.pdf)
-    - Bookmark: 1
+    - Process 1
+      - Goal: Reading it like a novel, osmosis
   - Certification milestone dicovered
-  - CBAP
-  - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
-- CFA
+    - CBAP
+      - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
+    - CFA
+  - The art of pricing - How to find the hidden profits to grow your business
+    - [zh](https://wenku.so.com/d/a948d027e7914ac32445ebd42783baae)
+    - [en]()
 
 
 ## 2021/8/24
@@ -165,3 +170,5 @@ Ok, makes sense 2021-7-8
   - Notion
   - https://www.besta.com.tw/zh-tw/Home/index
     - https://patentimages.storage.googleapis.com/42/68/10/0ce0ef56cceabb/CN1728121A.pdf
+
+## 2021/8/25

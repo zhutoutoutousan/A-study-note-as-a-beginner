@@ -12,6 +12,8 @@
   - [Brain-fog slowing down all operations](#brain-fog-slowing-down-all-operations)
 - [2021/8/22-2021/8/23](#2021822-2021823)
   - [Brain fatigue and accompanying inflammation](#brain-fatigue-and-accompanying-inflammation)
+- [2021/8/25](#2021825)
+  - [Something serious about your circadium rhythum disruption](#something-serious-about-your-circadium-rhythum-disruption)
 
 # 2021/4/29
 ## Got some serious bacterial infection
@@ -94,3 +96,43 @@
   - Acne
   - Folliocolitis
 - Partially relieved by reducing to minimum effort
+
+# 2021/8/25
+## Something serious about your circadium rhythum disruption
+```
+PFocmErCpGlEmeC09RwR5w==:
+最近几天我觉得自己有点问题, 晚上睡不着, 几本React, 翻译, BABOK可以看一晚上, 第二天照常工作, 也不累。 就看了backlog management, 就是Drip我对于每个work item用onenote记了backlog, 对每个需求进行分解并估点, 然后列出目前老框架升级前后的不同UI组件开发成本, 设计自由度比较和版本更新影响范围
+
+T:
+这个很严重了好伐
+
+T:
+你先休息下 争取这几天不要看react书
+
+T:
+我睡前一个小时从不看书 而且窗边也不放书 看多了会失眠 对身体不好
+
+T:
+你不能一直满负荷运转 
+
+T:
+一张一弛 文武之道也
+
+PFocmErCpGlEmeC09RwR5w==:
+之前正常, 就这两天可以调整过来。 嗯嗯我就不放枕边书了
+```
+
+Do it first#dailyreview
+- Clean up your bed before sleeping
+- Resolve your mental knots
+  - Anxiety, imposter syndrome 40%
+    - --> human needs rests
+  - Curious and eager to learn 60%
+    - --> focus on what matters
+
+Why it is serious
+- It may not if you work as freelance, having all the time developing your own projects, but it's the imbalance that is serious
+- Projects works on a strict time span, it's better to be predictable to others
+
+After you did it and got everything back to normal, answer this question:
+- This kind of event has happened a few times back in the university, and 5-8 times in the 2 year time span, so how would you prevent this from happening now  and stay professional?

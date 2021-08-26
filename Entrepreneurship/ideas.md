@@ -15,6 +15,9 @@
     - [Store books](#store-books)
   - [Related software](#related-software)
 
+
+#emergingidea
+
 # Verification of ideas
 - You may not need to come up with an idea or a companssion that last for some time and then just start a project on your own
 - You can just browse over GitHub to find relevant tools and choose the best one to contribute to

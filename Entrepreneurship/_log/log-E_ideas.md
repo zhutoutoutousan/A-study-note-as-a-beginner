@@ -1,3 +1,7 @@
+# Table of Contents
+
+#emergingidea
+
 # 2021/7/20-
 ## Not likely to profit
 ### Data structure, random process, how mind works
@@ -30,3 +34,9 @@ To transcend these barriers, simulation neuroscience was born. It is arguably th
 - Y combinator
   - [Kevin Hale - How to Evaluate Startup Ideas](https://www.youtube.com/watch?v=DOtCl5PU8F0)
 
+
+
+
+MBA智库百科，基于时间线的新闻展示可以放到世界地图展示, 然后根据世界统计数据的类型做一个tooltip方便决策
+
+自动驾驶可伸缩"轮椅"

@@ -156,12 +156,14 @@ Ok, makes sense 2021-7-8
       - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
     - CFA
   - The art of pricing - How to find the hidden profits to grow your business
+    - #activereading
     - [zh](https://wenku.so.com/d/a948d027e7914ac32445ebd42783baae)
-    - [en]()
+    - [en](http://pdfpremiumfree.com/download/the-art-of-pricing-how-to-find-the-hidden-profits-to-grow-your-business-pdf/)
+      - Unavailable unless getting sign up with a credit card
 
 
 ## 2021/8/24
-### 做遗忘曲线+Obsidian+...的竞品分析
+### 做遗忘曲线+Obsidian+...的竞品分析#emergingidea
 - 如何做竞品分析?
   - [5个方面分析：如何做出一份高质量的竞品分析报告？](http://www.woshipm.com/evaluating/1050725.html)
 - 潜在竞品?

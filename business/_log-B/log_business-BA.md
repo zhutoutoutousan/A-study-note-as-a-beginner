@@ -28,7 +28,7 @@
   - [2021/8/3](#202183)
     - [Starting forming a plan](#starting-forming-a-plan)
   - [2021/8/24](#2021824)
-    - [做遗忘曲线+Obsidian+...的竞品分析](#做遗忘曲线obsidian的竞品分析)
+    - [做遗忘曲线+Obsidian+...的竞品分析#emergingidea](#做遗忘曲线obsidian的竞品分析emergingidea)
   - [2021/8/25](#2021825)
 # Buffer to permanent note
 ## Basic data to store into your top-tier memory ?WTF?-2021-7-8
@@ -155,6 +155,11 @@ Ok, makes sense 2021-7-8
     - CBAP
       - [10 business analyst certifications to advance your analytics career](https://www.cio.com/article/3269514/6-business-analyst-certifications-to-advance-your-analytics-career.html)
     - CFA
+      - Entry Level
+        - Can be hacked by cramming
+    - CPA
+      - Entry level
+        - Can be hacked by cramming
   - The art of pricing - How to find the hidden profits to grow your business
     - #activereading
     - [zh](https://wenku.so.com/d/a948d027e7914ac32445ebd42783baae)

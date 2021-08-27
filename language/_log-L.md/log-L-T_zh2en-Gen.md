@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Mind palace for translation](#mind-palace-for-translation)
 - [Agenda](#agenda)
 - [Regulartories](#regulartories)
 - [Customized Note System](#customized-note-system)
@@ -42,8 +43,15 @@
       - [Memory](#memory)
   - [2021/8/8-](#202188-)
     - [Structure your daily workout](#structure-your-daily-workout)
+    - [Discovering consecutive interpreting note-taking resource](#discovering-consecutive-interpreting-note-taking-resource)
 
 #dailyreview
+# Mind palace for translation
+- 中国地理
+  - http://www.gov.cn/test/2005-05/25/content_591.htm
+- 中国行政区域
+- 中国政治结构
+
 
 # Agenda
 - As you are getting finished with CATTI, you can gradually migrate it to the permanent note instead of *log*

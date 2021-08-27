@@ -37,6 +37,8 @@
   - Reuters
   - **United Nations | Annual report**
   - The Atlantic
+  - UN
+    - https://www.un.org/sg/en
 - Chinese equivalent
   - 新闻联播
   - China daily
@@ -90,6 +92,9 @@
 
 
 # Log
+- https://virtualspeech.com/blog/average-speaking-rate-words-per-minute
+
+
 ## Correct use of english and chinese punctuations
 https://language.moe.gov.tw/001/upload/files/site_content/m0001/hau/h10.htm
 http://blog.sina.com.cn/s/blog_5f3583e90100kp9i.html

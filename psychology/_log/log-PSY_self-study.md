@@ -17,6 +17,10 @@ Like a plushie
 ```
 
 ## Concerning your so-called gaymification
-- I think you're not actually transforming into a gay, it's just a part of you is trying to gain some paternal support and guidance that throughout your life you never ever had. It is sad to be born into a family where no emotional support or career guidance is present and on the contrary, they actually needs emotional support for their own tragedies while slowing everybody else down as if it is the like it should be. But this is a test for your resolve, a test for you to overcome such great, inappreciated, impossible-to-overcome challenges.
-- Strive and thrive, there's no immediate medicine for this, you might just act strange in front of some males whom you think would fill some of your thirst for a paternal figure while not jeopardizing your own career pathway, but, passing a certain threshold, like you're successful, you've found your path, you achieved F.I.R.E. All of those will wash off after a few years' concentration, improvement, and hard work.
-- Keep your eyes on the prize
+- I think you're not actually transforming into a gay, it's just a part of you is trying to gain some paternal support and guidance --- *a sense of cathartic feeling of being guided by a father of wisdom and power*, or a twisted version that can partially satisfy this --- that throughout your life you never ever had. It is sad to be born into a family where no emotional support or career guidance is present and on the contrary, they actually needs emotional support for their own tragedies while slowing everybody else down as if it is the the way it should be. But this is a test for your resolve, a test for you to overcome such great, inappreciated, impossible-to-overcome challenges.
+- Strive and thrive, there's no immediate medicine for this, you might just act strange in front of some males whom you think would fill some of your thirst for a paternal figure while not jeopardizing your own career pathway(*At least you are not that stupid*), but, passing a certain threshold, like you're successful, you've found your path, you achieved F.I.R.E. All of those will wash off after a few years' concentration, improvement, and hard work.
+- Keep your eyes on the prize, keep talking to others even with the risk of showing your personal ... *quirk*. I know you can keep that at bay.
+
+```
+If your family is dragging you down and overpricing their contribution, which it happens right now like leeches on your skin with a bit of moral highground. During the process of gaining a proper stance, you need to salvage what really matters in the later stage of your life.
+```

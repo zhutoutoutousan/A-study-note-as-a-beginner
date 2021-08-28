@@ -24,3 +24,48 @@ Like a plushie
 ```
 If your family is dragging you down and overpricing their contribution, which it happens right now like leeches on your skin with a bit of moral highground. During the process of gaining a proper stance, you need to salvage what really matters in the later stage of your life.
 ```
+
+
+# 2021/8/28
+## Dopamine gradient pathway log to create a personal 4-D pathway map for efficient and timely pathway stimulation
+#emergingidea
+### Collecting data
+```json
+{
+    _id: '1',
+    time: "2021-8-28-22-15",
+    path: [
+        [
+            'music_jazz',
+            'music_binaural',
+            'work_low-impact-translation'
+        ]
+    ],
+    context: {
+        // ?
+    }
+}
+
+```
+
+### Collecting communication
+```
+PF:
+the context is actually used to serve as training data
+
+i:
+Oh yes
+
+PF:
+like, mental status, a snapshot of overall description
+
+PF:
+so you input a context, like {energy: 9, someComplexDescriptionForNLP: 'I had a rough day at work, and I have 2 tests ahead...' //...}
+
+PF:
+Then it will give you a dopamine pathway: {1: 'Do this', 2: 'Do that later', 3: 'Do it for 30 minutes' //...}
+
+PF:
+Which will maximize the integral of dopamine, seretonin, or whatchamacallit during this timeframe
+
+```

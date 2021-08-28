@@ -14,6 +14,9 @@
   - [Brain fatigue and accompanying inflammation](#brain-fatigue-and-accompanying-inflammation)
 - [2021/8/25](#2021825)
   - [Something serious about your circadium rhythum disruption](#something-serious-about-your-circadium-rhythum-disruption)
+- [2021/8/28](#2021828)
+  - [Folliculitis lasting from 8/9, time for a visit to the hospital](#folliculitis-lasting-from-89-time-for-a-visit-to-the-hospital)
+  - [Must clear up the room and get everything recharged this weekend](#must-clear-up-the-room-and-get-everything-recharged-this-weekend)
 
 # 2021/4/29
 ## Got some serious bacterial infection
@@ -136,3 +139,10 @@ Why it is serious
 
 After you did it and got everything back to normal, answer this question:
 - This kind of event has happened a few times back in the university, and 5-8 times in the 2 year time span, so how would you prevent this from happening now  and stay professional?
+
+
+# 2021/8/28
+## Folliculitis lasting from 8/9, time for a visit to the hospital
+- Your Folliculitis has been lasting for 19 days, time to visit the doctor to see what's going on.
+
+## Must clear up the room and get everything recharged this weekend

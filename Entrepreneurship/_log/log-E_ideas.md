@@ -40,3 +40,24 @@ To transcend these barriers, simulation neuroscience was born. It is arguably th
 MBA智库百科，基于时间线的新闻展示可以放到世界地图展示, 然后根据世界统计数据的类型做一个tooltip方便决策
 
 自动驾驶可伸缩"轮椅"
+
+## Input: I want this certain dopamine pathway --> Output: The best restaurant for you
+#emergingidea#maximizedopaminepathway
+### Communication collection
+```
+PFocmErCpGlEmeC09RwR5w==:
+Hmmm, let's say, the feeling and story for me would be, |----late-studied-worked-up---| -----Department store_play-games------>----> Home ------with-in-10-km-------> | A place with jazz, music sort | -----> Some steak protein, with mushroom soup, some topplings | ---> Enjoy music, dim light, contemplate on something | ---> Bund sightseeing | ------> Back home~
+
+PFocmErCpGlEmeC09RwR5w==:
+This pathway works well for me at this time stamp
+
+```
+
+### Data collection
+```json
+// how to define dopamine pathway with data
+{
+  
+}
+
+```

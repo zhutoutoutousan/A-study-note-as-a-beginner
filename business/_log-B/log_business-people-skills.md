@@ -42,3 +42,6 @@
 ## The Tao of Craftiness
 - Ploy strategy
   - How to instill the intended picture of *unringed bell* in the actual recognition system of the increasingly smart and well-informed persons while *the bell is already rung*
+
+# 2021/8/28
+## Simple restaurant invitation planning

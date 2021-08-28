@@ -17,6 +17,7 @@
 - [Log](#log)
   - [Correct use of english and chinese punctuations](#correct-use-of-english-and-chinese-punctuations)
   - [2021/8/24 Partial review of Shanghai advanced interpretation test(1)](#2021824-partial-review-of-shanghai-advanced-interpretation-test1)
+  - [2021/8/28 Mock Test](#2021828-mock-test)
 
 #dailyreview
 
@@ -24,6 +25,9 @@
 - 语言降维: 说人话
 - 句型逻辑
 - 主被动转换
+
+
+
 # Sources
 - Know your sources
   - [美国各大主流媒体的政治立场是什么，也就是他们各支持哪个党派？](https://www.zhihu.com/question/21723509)
@@ -48,6 +52,8 @@
     - 2021年政府工作报告(双语版)
       - [link](https://drive.google.com/file/d/1ibZw5F4Bq7HJFUK5CtR0Qr8B2N-kcpnJ/view?usp=sharing)
   - NPC & CPPCC - 两会
+- Simultatenous interpretation
+  - [洛杉矶华人资讯网How视频 《實時翻譯》](https://www.youtube.com/watch?v=jVzULYjjG8c)
 - Dictionary
   - Cambridge Dictionary
   - 成语大字典
@@ -132,3 +138,5 @@ https://zh.wikipedia.org/wiki/%E7%A0%B4%E6%8A%98%E5%8F%B7
       - Not familiar with economy description
       - Not familiar with social description
     - II
+
+## 2021/8/28 Mock Test

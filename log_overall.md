@@ -30,6 +30,8 @@
   - [Trival changes that might change your future](#trival-changes-that-might-change-your-future)
 - [2021/8/19](#2021819)
   - [Some random thoughts about past career choice](#some-random-thoughts-about-past-career-choice)
+- [2021/8/29](#2021829)
+  - [A new way to organize yourself as a nerd with most agility and focusness](#a-new-way-to-organize-yourself-as-a-nerd-with-most-agility-and-focusness)
 
 #dailyreview
 
@@ -277,3 +279,9 @@ https://www.kancloud.cn/luofei614/programmer_talk_life/107489
 # 2021/8/19
 ## Some random thoughts about past career choice
 I want to build my image, and realize it
+
+# 2021/8/29
+## A new way to organize yourself as a nerd with most agility and focusness
+- Fill your calendar with items within that time frame as a reference for decision making, then use your brain when implementing.
+  - JBP: I probably planning every minute
+  - This will activate your dynamic planning pathway instead of imprisoning yourself with deadlines and immutable time chunk. You will be constantly evaluating the situation and making changes as you see fit but with a clear vision of the current situation and what to do

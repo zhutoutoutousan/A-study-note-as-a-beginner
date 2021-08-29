@@ -271,6 +271,7 @@ PFocmErCpGlEmeC09RwR5w==:
 https://www.kancloud.cn/luofei614/programmer_talk_life/107489
 
 ## Trival changes that might change your future
+#emerginghabit#lifechanger
 - After browsing, don't forget to wrap it up to solidate the new node in your brain, INPUT, OUTPUT, ONTOLOGY
   - Visualize and put it in your graph
 - Your previous reading habits was adding Progress, but a reading trail is more comprehensive, change it!
@@ -282,6 +283,7 @@ I want to build my image, and realize it
 
 # 2021/8/29
 ## A new way to organize yourself as a nerd with most agility and focusness
+#emerginghabit#lifechanger
 - Fill your calendar with items within that time frame as a reference for decision making, then use your brain when implementing.
   - JBP: I probably planning every minute
   - This will activate your dynamic planning pathway instead of imprisoning yourself with deadlines and immutable time chunk. You will be constantly evaluating the situation and making changes as you see fit but with a clear vision of the current situation and what to do

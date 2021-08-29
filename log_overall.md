@@ -4,8 +4,6 @@
 - [Coping with self-dysregulation](#coping-with-self-dysregulation)
 - [Potential destructive elements scope](#potential-destructive-elements-scope)
 - [Customized motivation pool](#customized-motivation-pool)
-- [Idea pool](#idea-pool)
-  - [Study system](#study-system)
   - [Global strategy dashboard](#global-strategy-dashboard)
   - [Massage depot](#massage-depot)
 - [Behavior](#behavior)
@@ -33,7 +31,7 @@
 - [2021/8/29](#2021829)
   - [A new way to organize yourself as a nerd with most agility and focusness](#a-new-way-to-organize-yourself-as-a-nerd-with-most-agility-and-focusness)
 
-
+\\
 
 #dailyreview
 #considerdisperse
@@ -91,22 +89,6 @@
 
 只是大脑工作的话，你不会感到疲劳，你之所以疲劳是因为你思考遇到难点时沮丧的心理和所做的那些动作，比如皱眉，用手摸头等造成的 - Whoever
 
-# Idea pool
-## Study system
-- Idea: Taking the table of contents as tree input, which contains the relations, you input your goal, it recommends your learning order with respect to your memory and skills decay
-- Back in to the track * 1
-```
-PFocmErCpGlEmeC09RwR5w==:
-关键比较notion是自由感, 想怎么改怎么改。折腾了半天发现，实际不太需要截图，视频，声音, 各类图等高大上功能（给个链接就可以替代）。 我觉得比较实用的功能是关键字搜索和centralization，以及用户可自定义知识结构，逻辑，功能, 推荐。能让用户发现记上去的东西不是死的, 而是一个数据节点, 能够与其余数据节点进行互动， 灵动感
-
-PFocmErCpGlEmeC09RwR5w==:
-不是tag功能
-
-PFocmErCpGlEmeC09RwR5w==:
-而是一个有记忆衰退数据, 掌握程度, 知识关系, 实际产出对接物数据的图, 能够根据用户给定目标，给定笔记记录生成的图，智能推荐roadmap
-
-```
-
 
 ## Global strategy dashboard
 
@@ -114,14 +96,16 @@ PFocmErCpGlEmeC09RwR5w==:
 - According to the former negative input, we might need a booking system for each user
 
 # Behavior
+- 2021-8-28: This is good, what works should stick
 - 2021/8/19: The habit stuff is very good, but if you're working hard and outside your comfort zone, you don't have the energy for that, how do you solve this problem?
+  - Good idea, but after some time of osmosis, i tink it shouldn't be a problem
 - NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
 ## `_encoded-habit`
 *Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
 ## `_enforcing-habit` 4/5
-- Tranced 3/21
+- Tranced 4/21
   - Start your day with enough nootropics and one gamma and alpha binaural beat session - According to your knowledge, it has longer effect than you originally think
-- Orderly 4/21
+- Orderly 7/21
   - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 3/21
     - Time estimation and non-exhaustive feedback
   - Flow adjustment and reflection only happens before sleep or during R&R 1/21
@@ -134,15 +118,15 @@ PFocmErCpGlEmeC09RwR5w==:
 ## `_discarded-habit` 0/_
 - Same as above
 ## `_discarding-habit` 2/5
-- Easy to be distracted 4/21
+- Easy to be distracted 6/21
   - Rewire your brain
     - Visualize your current task queue and permitted interrupts
     - Block unwanted interrupts
     - If there emerges interrupts you don't know, group it
   - Dispell distraction source without being cut off
     - LinkedIn Pop-ups
-- Messy workplace 2/21
-  - Unstructured Work Email 1/1 SOLVED
+- Messy workplace 4/21
+  - Unstructured Work Email 1/1 SOLVED --> ANOTHER PROBLEM
   - Unstructured learning strategy 5/100 
   - Unstructure learning Roadmap 10/100
 - **Intertwining and Ambiguity of trivials and major tasks** 0/21

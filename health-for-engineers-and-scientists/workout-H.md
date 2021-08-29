@@ -68,18 +68,7 @@ days, dimension, performance
 - *Texas method(Powerlifting during SARM cycle on, Hypertrophy during SARM cycle off)
   - https://www.bilibili.com/read/cv7390570
 - Sarm cycle
-  - On at 8/18
-  - Off at 9/3
-- Thursday
-  - Squat 145KG 5*5
-  - Bench press: 5*5 95KG 
-  - Deadlift: 5*5 170KG
-  - Overhead press: 5*5 60KG
-- Friday
-  - Offday
-- Saturday
-  - Dynamic recovery
-- Sunday
-  - Off day
+  - On at 10/3
 - Monday
-  - PR day
+  - Chest day
+- Tuesday

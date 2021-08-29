@@ -33,8 +33,11 @@
 - [2021/8/29](#2021829)
   - [A new way to organize yourself as a nerd with most agility and focusness](#a-new-way-to-organize-yourself-as-a-nerd-with-most-agility-and-focusness)
 
-#dailyreview
 
+
+#dailyreview
+#considerdisperse
+- This section is getting bulky, consider evaluate its content and disperse to different sections
 # **Temporary effect**
 - The overall evaluation of the whole situation is complete on 2021/8/8
 - Effect

@@ -1,5 +1,5 @@
 # 2021/8/29
-## Some Apps
+## Some Apps for building a framework to kickstart your language learning experience - Learn any languages
 - Most languages
   - Lingodeer
     - GR, FR, SP, CH, JP, IT, AR, VM, RS

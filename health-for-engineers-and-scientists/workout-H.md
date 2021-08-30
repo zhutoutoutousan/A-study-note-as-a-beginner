@@ -67,9 +67,12 @@ days, dimension, performance
 ## Control panel
 - *Texas method(Powerlifting during SARM cycle on, Hypertrophy during SARM cycle off)
   - https://www.bilibili.com/read/cv7390570
+- **Hypertrophy**
 - Sarm cycle
   - On at 10/3
 - Monday
   - Chest day
+  - Bench press 3-4RM 5SETS
+  - Incline bench press 4-6RM 5SETS
 - Tuesday
   - 

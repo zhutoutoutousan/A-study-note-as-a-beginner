@@ -30,6 +30,8 @@
   - [Some random thoughts about past career choice](#some-random-thoughts-about-past-career-choice)
 - [2021/8/29](#2021829)
   - [A new way to organize yourself as a nerd with most agility and focusness](#a-new-way-to-organize-yourself-as-a-nerd-with-most-agility-and-focusness)
+- [2021/8/30](#2021830)
+  - [A centralized map-based note: A-study-note-as-a-coder](#a-centralized-map-based-note-a-study-note-as-a-coder)
 
 \\
 
@@ -274,3 +276,8 @@ I want to build my image, and realize it
 - Fill your calendar with items within that time frame as a reference for decision making, then use your brain when implementing.
   - JBP: I probably planning every minute
   - This will activate your dynamic planning pathway instead of imprisoning yourself with deadlines and immutable time chunk. You will be constantly evaluating the situation and making changes as you see fit but with a clear vision of the current situation and what to do
+
+
+# 2021/8/30
+## A centralized map-based note: A-study-note-as-a-coder
+#emerginghabit#lifechanger

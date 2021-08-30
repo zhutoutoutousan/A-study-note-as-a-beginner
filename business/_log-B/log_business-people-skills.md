@@ -45,3 +45,8 @@
 
 # 2021/8/28
 ## Simple restaurant invitation planning
+
+# 2021/8/30
+## Law School 
+- University of Virginia School of Law
+  - [Managing Client Relationships as an Investment Banker, Lawyer or Consultant](https://www.youtube.com/watch?v=z8kqCIxXTEw)

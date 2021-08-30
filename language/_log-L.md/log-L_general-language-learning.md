@@ -1,4 +1,12 @@
 # 2021/8/29
+## P.O.I
+- Steve Kaufmann
+- Stephen Krashen
+## Basic principle
+- [如何学习语言：输入假说（为什么大多数方法没有效果）](https://www.youtube.com/watch?v=J_EQDtpYSNM&t=523s)
+- [True bilingualism - Lourdes De Rioja](https://www.youtube.com/watch?v=TC7ccUf8QmY)
+  - Christopher Thiéry, honorary President of AIIC, talks about true bilingualism.
+- [Steve Kaufmann - lingosteve](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ)
 ## Some Apps for building a framework to kickstart your language learning experience - Learn any languages
 - Most languages
   - Lingodeer

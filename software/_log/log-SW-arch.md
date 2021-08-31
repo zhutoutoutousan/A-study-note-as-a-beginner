@@ -1,5 +1,18 @@
-
 # Buffer to permanent note
+
+## How-to
+
+#emergingidea#automation ---> Tools for software decision making
+- Package update ---> Ask
+  - Get package dependency
+    - https://npmgraph.js.org/
+  - Check package
+  - Recurring act 2
+- Recurring act 1
+
+- REFERENCE:
+  - Introduction to Software Engineering
+
 ## Front-end component design
 ### Button: 按钮
 ### Layout: 布局

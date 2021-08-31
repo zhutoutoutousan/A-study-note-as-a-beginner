@@ -10,7 +10,8 @@
 - [True bilingualism - Lourdes De Rioja](https://www.youtube.com/watch?v=TC7ccUf8QmY)
   - Christopher Thiéry, honorary President of AIIC, talks about true bilingualism.
 - [Steve Kaufmann - lingosteve](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ)
-
+- *Language is a tool, not an art for perfection*
+  - [The Best Way to Learn Japanese with George Trombley of@Learn Japanese From Zero!](https://www.youtube.com/watch?v=n71mas6OuAY)
 
 # 2021/8/29-
 ## User story

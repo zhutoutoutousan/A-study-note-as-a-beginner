@@ -44,6 +44,10 @@
 
 # Overview
 - [An introduction to Software Engineering](http://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf)
+  - Process 1
+    - Read it like a novel
+    - Bookmark: 27
+      - Read on
 - [软件工程的最大难题](https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
 # Teamwork
 - [The Art of Agile Development](https://poetiosity.files.wordpress.com/2011/04/art_of_agile_development.pdf)

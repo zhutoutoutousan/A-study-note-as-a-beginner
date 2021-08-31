@@ -32,7 +32,8 @@
   - [React source code - Bottom-up](#react-source-code---bottom-up)
   - [React ecosystem - On-the-fly bottom up](#react-ecosystem---on-the-fly-bottom-up)
   - [New questions](#new-questions)
-- [2021/8/23](#2021823)
+- [2021/8/23-2021-9/1](#2021823-2021-91)
+  - [In which scenario did `ComponentDidUpdate()` trigger](#in-which-scenario-did-componentdidupdate-trigger)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -145,7 +146,20 @@ const style = (theme) => {
 }
 ```
 
-# 2021/8/23
+# 2021/8/23-2021-9/1
+
+## In which scenario did `ComponentDidUpdate()` trigger
+
+
+
+
+
+
+
+
+
+
+
 
 
 # ARCHIVED
@@ -179,3 +193,4 @@ Exception in thread "main"
     at Process.ChildProcess._handlecripts\rollup\plugins\closure-plugin.js:16:16      at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
 error Command failed with exit code 1.
 ```
+

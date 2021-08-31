@@ -81,4 +81,8 @@ days, dimension, performance
   - LC Press 6-8RM 7SETS
   - Cardio ---> 实时翻译
 - Tuesday
-  - 
+  - Arm day
+- Wednesday
+  - Off day
+- Thursday
+- Friday

@@ -182,7 +182,7 @@ After you did it and got everything back to normal, answer this question:
     - Go to hospital as mentioned earlier
   - Cut the psychological root
     - Upgrade your overall action-reaction system for seamless interactions with dysfunctional family members
-      - More diplomatic, eloquent skills
+      - More diplomatic, refined eloquency skills
       - Manipulation of information flow, the act of feigning might be useful in deflecting hostility and malicious intents
       - Know the needs and traits of each dysfunctional family member for further mitigations
         - Limited, controlled satisfaction of acting irresponsibly
@@ -190,3 +190,8 @@ After you did it and got everything back to normal, answer this question:
       - Deflect hostility with bold stance and air-tight rapport/status quo
       - Show of indulgence and competency to gear people's view towards the ground truth
     - Increased social-economic independence from original dysfunctional family overtime
+- What did you do works?
+  - **I did 15 minutes of meditation with great music, it worked very well.**
+    - I know this pattern, it indicates that your main problem comes from folliculitis and insomnia
+      - For folli, don't move too much and let the tissue heal itself which relieves insomnia
+      - For insomnia-induced sleep deprivation, 15 minutes meditation is just what you need

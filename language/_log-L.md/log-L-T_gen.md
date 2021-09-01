@@ -50,3 +50,8 @@
   - Part B: Listening Comprehension
     - Scored a bit worse
 
+- What now
+  - Next level training on the go
+    - Review the previous mock test with consecutive interpretation and simultaneous interpretation with respect to its content
+    - Use the note system you developed
+      - READ THE BOOK DUDE!

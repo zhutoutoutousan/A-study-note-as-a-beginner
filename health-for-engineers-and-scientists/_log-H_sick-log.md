@@ -19,6 +19,8 @@
   - [Must clear up the room and get everything recharged this weekend](#must-clear-up-the-room-and-get-everything-recharged-this-weekend)
 - [2021/9/1](#202191)
   - [Mental health episode striking occupying hours](#mental-health-episode-striking-occupying-hours)
+- [2021/9/2](#202192)
+  - [Discovering makeshift remedy for your pain due to Folliculitis](#discovering-makeshift-remedy-for-your-pain-due-to-folliculitis)
 
 #thehealthmatters
 
@@ -195,3 +197,7 @@ After you did it and got everything back to normal, answer this question:
     - I know this pattern, it indicates that your main problem comes from folliculitis and insomnia
       - For folli, don't move too much and let the tissue heal itself which relieves insomnia
       - For insomnia-induced sleep deprivation, 15 minutes meditation is just what you need
+
+# 2021/9/2
+## Discovering makeshift remedy for your pain due to Folliculitis
+- 西瓜霜 dulls the pain a bit

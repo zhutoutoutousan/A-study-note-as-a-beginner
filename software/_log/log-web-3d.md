@@ -7,3 +7,10 @@
 - IT策划: 收集资料, 提供对于Web3D, BIM等服务提供商的自己的见解
   - [Information technology planning](https://en.wikipedia.org/wiki/Information_technology_planning)
 https://mubu.com/app/edit/home/7DxN68G5D8w
+
+# 2021/9/2
+## Kickstart of self-learning Web 3D
+- Scaffold
+  - react-three-fiber
+- Design Tool: https://spline.design/
+- Brainstorming Tool:  https://www.invisionapp.com/studio

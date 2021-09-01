@@ -17,6 +17,10 @@
 - [2021/8/28](#2021828)
   - [Folliculitis lasting from 8/9, time for a visit to the hospital](#folliculitis-lasting-from-89-time-for-a-visit-to-the-hospital)
   - [Must clear up the room and get everything recharged this weekend](#must-clear-up-the-room-and-get-everything-recharged-this-weekend)
+- [2021/9/1](#202191)
+  - [Mental health episode striking occupying hours](#mental-health-episode-striking-occupying-hours)
+
+#thehealthmatters
 
 # 2021/4/29
 ## Got some serious bacterial infection
@@ -146,3 +150,43 @@ After you did it and got everything back to normal, answer this question:
 - Your Folliculitis has been lasting for 19 days, time to visit the doctor to see what's going on.
 
 ## Must clear up the room and get everything recharged this weekend
+
+# 2021/9/1
+## Mental health episode striking occupying hours 
+- Context
+  - **Folliculitis, acute pain in the armpit**
+    - **Insomnia induced by folliculitis**
+  - Dysfunctional family episodes, as ususal
+    - Can be mitigated with gradual independence and confidence build up
+- Behaviour in concern
+  - Self-destructive mental pathway build-up
+    - Self-loathing
+    - Self-pity
+- Why it is serious
+  - It is occupying you hours with which you can focus on
+    - Interpretation skills
+      - Simultaneous interpretation
+      - Consecutive interpretation
+      - Languages
+    - Geek's course
+      - three.js
+      - Computer vision
+      - DS&A
+- What can you do to greatly reduce the possibility of occurence and minimize it's effect duration?
+  - **Physical remedie comes first**
+    - Possible main reasons: Insomnia, muscle pain, open wounds, GI tract discomfort
+      - Jordan B. Peterson: Usually, some seemly psychological episodes are just physical problems
+    - **When in this state, immediately take specific, potent actions to hijack the process**
+      - Binaural beats
+      - Meditation
+    - Go to hospital as mentioned earlier
+  - Cut the psychological root
+    - Upgrade your overall action-reaction system for seamless interactions with dysfunctional family members
+      - More diplomatic, eloquent skills
+      - Manipulation of information flow, the act of feigning might be useful in deflecting hostility and malicious intents
+      - Know the needs and traits of each dysfunctional family member for further mitigations
+        - Limited, controlled satisfaction of acting irresponsibly
+        - Bantering manner to deflect their own disorders
+      - Deflect hostility with bold stance and air-tight rapport/status quo
+      - Show of indulgence and competency to gear people's view towards the ground truth
+    - Increased social-economic independence from original dysfunctional family overtime

@@ -91,6 +91,8 @@
 
 只是大脑工作的话，你不会感到疲劳，你之所以疲劳是因为你思考遇到难点时沮丧的心理和所做的那些动作，比如皱眉，用手摸头等造成的 - Whoever
 
+名句是一种改变身体激素及心理状态以改变自身当前行为的工具, 不是提升认知的最佳途径。 - Me
+
 *You need a sentence to deflect negative thought patterns of comparing yourself to others, with a dysfunctional family doing exactly that considered. It needs to inject counter measures to cancel out your biological reactions so more mental energy can be guided to valuable actions*
 
 ## Global strategy dashboard

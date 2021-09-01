@@ -39,7 +39,7 @@
   - Strength
     - Squat: 160kg Intermediate
     - Deadlift: 190kg Pre-advanced
-    - Bench press: 100kg Pre-intermediate * 2
+    - Bench press: 100kg Pre-intermediate * 3
     - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
   - Endurance
@@ -84,6 +84,8 @@ days, dimension, performance
 - Tuesday
   - Off day due to Folliculitis
 - Wednesday
-  - Off day
+  - Off day due to combined mental and physical conditions
 - Thursday
+  - Arm day
 - Friday
+  - Back day

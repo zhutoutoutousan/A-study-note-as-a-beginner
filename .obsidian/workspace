@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_ENTRY.md",
+            "file": "software/_index_software.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_ENTRY.md",
+                "file": "software/_index_software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_ENTRY.md"
+                "file": "software/_index_software.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_ENTRY.md",
+                "file": "software/_index_software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +129,7 @@
   },
   "active": "3184d08e1c87a6a7",
   "lastOpenFiles": [
+    "software/_index_software.md",
     "_ENTRY.md",
     "ENTRY.md",
     "README 1.md",
@@ -137,7 +138,6 @@
     "Day-24] Vue.js [使用vue-router做登入判斷，以及結合後端server.md",
     "log_overall.md",
     "software/_log/log-web-frontend-teamplay.md",
-    "psychology/_log/log-PSY_self-study.md",
-    "language/_log-L.md/log-L-T_en2zh-CI.md"
+    "psychology/_log/log-PSY_self-study.md"
   ]
 }

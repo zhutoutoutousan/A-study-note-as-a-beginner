@@ -33,6 +33,7 @@
 - [Sports periodization](https://en.wikipedia.org/wiki/Sports_periodization#:~:text=The%20microcycle%20is%20generally%20up,representing%20a%20year%20or%20two.)
 
 ## Plans
+#thehealthmatters
 ### 2021/6/28-2021/8/28
 - Fitness test
   - Strength
@@ -81,7 +82,7 @@ days, dimension, performance
   - LC Press 6-8RM 7SETS
   - Cardio ---> 实时翻译
 - Tuesday
-  - Arm day
+  - Off day due to Folliculitis
 - Wednesday
   - Off day
 - Thursday

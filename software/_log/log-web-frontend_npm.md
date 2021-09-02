@@ -7,6 +7,8 @@
 - [2021/6/11](#2021611)
   - [What does `npm audit fix` do under the hood?](#what-does-npm-audit-fix-do-under-the-hood)
   - [For `ant-design-pro` project, explain to me what are inside `package.json`](#for-ant-design-pro-project-explain-to-me-what-are-inside-packagejson)
+- [2021/9/3](#202193)
+  - [```RUNNING SCRIPT DISABLED```](#running-script-disabled)
 # 2021/3/17
 
 ## Element-ui中node-gyp安装出错
@@ -63,3 +65,18 @@ Build failed with error code: 7
     - ?
   - create-umi
   - ?
+
+# 2021/9/3
+## ```RUNNING SCRIPT DISABLED```
+```
+yarn : Die Datei "C:\Users\Administrator\AppData\Roaming\npm\yarn.ps1" kann nicht geladen werden, da die Ausführung
+von Skripts auf diesem System deaktiviert ist. Weitere Informationen finden Sie unter "about_Execution_Policies"
+(https:/go.microsoft.com/fwlink/?LinkID=135170).
+In Zeile:1 Zeichen:1
++ yarn create umi
++ ~~~~
+    + CategoryInfo          : Sicherheitsfehler: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+```
+
+https://www.c-sharpcorner.com/article/how-to-fix-ps1-can-not-be-loaded-because-running-scripts-is-disabled-on-this-sys/

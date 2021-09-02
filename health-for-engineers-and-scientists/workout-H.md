@@ -86,6 +86,9 @@ days, dimension, performance
 - Wednesday
   - Off day due to combined mental and physical conditions
 - Thursday
-  - Arm day
+  - Off day
 - Friday
+  - Off day
+- PENDING DUE TO PHYSICAL CONDITIONS
+  - Arm day
   - Back day

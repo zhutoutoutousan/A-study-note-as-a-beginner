@@ -2,9 +2,15 @@
 ## P.O.I
 - Steve Kaufmann
 - Stephen Krashen
+- Richard Simcott
+
 
 ## M.O.I
 - TPRS method
+
+## Resource
+- High-quality Chinese-Multi language resources
+  - [FIX - Subtitles](http://www.zimuxia.cn/portfolio/)
 ## Basic principle
 - [如何学习语言：输入假说（为什么大多数方法没有效果）](https://www.youtube.com/watch?v=J_EQDtpYSNM&t=523s)
 - [True bilingualism - Lourdes De Rioja](https://www.youtube.com/watch?v=TC7ccUf8QmY)

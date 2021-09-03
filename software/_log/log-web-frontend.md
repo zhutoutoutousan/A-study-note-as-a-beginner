@@ -25,6 +25,9 @@
     - [重构](#重构)
     - [视频](#视频)
   - [如何融入开发团队](#如何融入开发团队)
+  - [localStorage有没有定时销毁机制? 哪个异步持久性机制可以实现定时销毁? ---> SSO](#localstorage有没有定时销毁机制-哪个异步持久性机制可以实现定时销毁-----sso)
+  - [自动完成机制在数据量很大时会出现什么问题? 怎么解决？是前端还是后端还是都有?](#自动完成机制在数据量很大时会出现什么问题-怎么解决是前端还是后端还是都有)
+  - [建立一个前端需求池, 并且每个需求对应一个各类实现方法, 自测用例, 沟通常见技巧, 和未来低代码的对接模式](#建立一个前端需求池-并且每个需求对应一个各类实现方法-自测用例-沟通常见技巧-和未来低代码的对接模式)
 
 
 # 2021/8/4-
@@ -71,3 +74,17 @@
     - [Data URI](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Basics_of_HTTP/Data_URIs)
 
 ## 如何融入开发团队
+
+## localStorage有没有定时销毁机制? 哪个异步持久性机制可以实现定时销毁? ---> SSO
+#techquestionsthatmattersnow
+## 自动完成机制在数据量很大时会出现什么问题? 怎么解决？是前端还是后端还是都有?
+#techquestionsthatmattersnow
+- [antd的自动补全select多选标签的在数据量很大的时候会出现渲染卡顿该如何解决?](https://segmentfault.com/q/1010000018045524)
+- [使用 Redis 实现自动补全功能](https://segmentfault.com/a/1190000002712454)
+- [记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案](https://database.51cto.com/art/201902/592522.htm)
+
+## 建立一个前端需求池, 并且每个需求对应一个各类实现方法, 自测用例, 沟通常见技巧, 和未来低代码的对接模式
+#techquestionsthatmattersnow
+
+--> 觉得UI, frontend, backend, BA是需求池的scope, 目前就是前端+PM角度
+--> Github --> frontend-requirement-pools

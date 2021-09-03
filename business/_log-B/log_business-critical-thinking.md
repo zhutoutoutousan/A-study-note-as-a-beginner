@@ -8,3 +8,6 @@
 # 2021/8/18
 ## Learning logic basics, rules and fallacies
 - [Logical fallacies are like landmines; easy to overlook until you find them the hard way.](https://thebestschools.org/magazine/15-logical-fallacies-know/)
+
+# 2021/9/3
+## 实际世界要比墨菲定律复杂, 那墨菲定律提出的目的何在?

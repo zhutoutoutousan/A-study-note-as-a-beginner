@@ -53,3 +53,7 @@ https://www.suse.com/support/kb/doc/?id=000018152
 - [记录一次腾讯云服务器进挖矿病毒的事故](https://www.cnblogs.com/-wenli/p/13447361.html)
 - [腾讯云服务器遭入侵，安装挖矿木马病毒2](https://blog.csdn.net/u014520797/article/details/117409362)
 - [警惕Linux挖矿木马SystemMiner通过SSH爆破入侵攻击](https://blog.csdn.net/qq_36949713/article/details/104670220?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-7.essearch_pc_relevant&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-7.essearch_pc_relevant)
+
+## Safety procedures
+- [Git加密存储文件](https://www.mikesay.com/2020/12/16/git-encrypt-file-in-repository/)
+- https://docs.github.com/cn/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization

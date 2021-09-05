@@ -57,3 +57,6 @@ https://www.suse.com/support/kb/doc/?id=000018152
 ## Safety procedures
 - [Git加密存储文件](https://www.mikesay.com/2020/12/16/git-encrypt-file-in-repository/)
 - https://docs.github.com/cn/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization
+- A new secure and operational-efficient way to store your accounts and passwords
+- 靠谱的密码强度测试
+  - https://strength.buyaocha.com/

@@ -74,21 +74,17 @@ days, dimension, performance
     - Overloading set: 3SETS/WEEK
 - Sarm cycle
   - On at 10/3
-- Monday
-  - Chest day
-  - Bench press 3-4RM 5SETS
-  - Incline bench press 4-6RM 6SETS
-  - Fly 6-8RM 6SETS
-  - LC Press 6-8RM 7SETS
-  - Cardio ---> 实时翻译
-- Tuesday
-  - Off day due to Folliculitis
-- Wednesday
-  - Off day due to combined mental and physical conditions
-- Thursday
-  - Off day
-- Friday
-  - Off day
-- PENDING DUE TO PHYSICAL CONDITIONS
+- Sunday
   - Arm day
+  - Bicep
+    - Weighted chin-up 4-6RM 5SETS
+    - Compound curl 6-8RM 5SETS
+    - 21 curl 2SETS
+  - Tricep
+    - Skullcrusher 4-6RM 5SETS
+    - Push away 6-8RM 5SETS
+    - Kick back 6-8RM 3SETS
+  - Shoulder
+    - Side lateral raise 6-8RM 3SETS
+- Monday
   - Back day

@@ -139,3 +139,8 @@ I was asked yet another question that I certainly not able to answer in an elega
 - 前端如何与后端沟通?
 - 前端如何与运维沟通?
 - 前端如何与测试沟通?
+
+## Trying docker, stuck on tutorial
+```
+
+```

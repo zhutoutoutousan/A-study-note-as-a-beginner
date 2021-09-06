@@ -46,4 +46,6 @@
 ## Something that will significantly boost your language skills when binging on YouTube videos
 - [YouTube Double Lines subtitles - Chrome Extension](https://chrome.google.com/webstore/detail/youtube-dual-subtitles/hkbdddpiemdeibjoknnofflfgbgnebcm/related?hl=zh-CN)
 - RTFM
+- Habit
+  - For every video you watch on YouTube, use double language subtitle
 - End

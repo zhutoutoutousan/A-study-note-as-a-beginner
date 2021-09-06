@@ -22,6 +22,9 @@
   - [Intense visualization effort of git workflow](#intense-visualization-effort-of-git-workflow)
   - [OMG, I accidentally discarded changes of tons of features](#omg-i-accidentally-discarded-changes-of-tons-of-features)
   - [A more concentrated reading](#a-more-concentrated-reading)
+- [2021/9/6](#202196)
+  - [When should you use shallow-copy clone?](#when-should-you-use-shallow-copy-clone)
+  - [When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?](#when-and-why-should-you-use-degit-why-it-doesnt-support-windows-well-is-there-any-alternative)
 # Buffer to static knowledge store
 
 
@@ -147,3 +150,8 @@ So you switched to (HEAD detached at origin/develop), in order to have a quick g
 https://www.ruanyifeng.com/blog/2012/07/git.html
 https://sandofsky.com/workflow/git-workflow/
 https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html
+
+
+# 2021/9/6
+## When should you use shallow-copy clone?
+## When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?

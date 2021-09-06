@@ -11,6 +11,8 @@
     - [Learning](#learning)
 - [2021/8/6](#202186)
   - [Let's say that you have 24 project-like sessions going on, how would you manage them](#lets-say-that-you-have-24-project-like-sessions-going-on-how-would-you-manage-them)
+- [2021/9/6](#202196)
+  - [Discovering quantitative management](#discovering-quantitative-management)
 # Buffer to permanent note
 ## Personal management
 - Recognition
@@ -68,3 +70,10 @@
   - Group them with long-term, mid-term and short-term
 - Difficulties
   - Your plans and development is distributed, interface must be established
+
+
+# 2021/9/6
+## Discovering quantitative management
+- [quantitative-techniques-for-management](https://gtumbanotes.files.wordpress.com/2011/06/quantitative-techniques-for-management.pdf)
+- [Quantitative Methods for Management](https://ddceutkal.ac.in/Syllabus/MBA-BOOK/Quantitative-Methods-Management.pdf)
+- [Introduction to Quantitative Management](https://www.tandfonline.com/doi/abs/10.1080/00401706.1969.10490697?journalCode=utch20)

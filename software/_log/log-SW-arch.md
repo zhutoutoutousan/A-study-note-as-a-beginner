@@ -13,6 +13,10 @@
 - REFERENCE:
   - Introduction to Software Engineering
 
+## Front-end Project Architecture
+- React project structure
+  - [A Better Way to Structure React Projects](https://www.freecodecamp.org/news/a-better-way-to-structure-react-projects/)
+
 ## Front-end component design
 ### Button: 按钮
 ### Layout: 布局
@@ -144,3 +148,8 @@ I was asked yet another question that I certainly not able to answer in an elega
 ```
 
 ```
+
+## 技术债务分析和治理手段咨询
+- [技术债治理的四条原则](https://insights.thoughtworks.cn/managing-technical-debt/)
+- [The Future of Managing Technical Debt]()
+- [Managing Software Debt: Building for Inevitable Change]()

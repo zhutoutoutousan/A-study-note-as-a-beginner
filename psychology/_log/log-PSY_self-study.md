@@ -69,3 +69,10 @@ PF:
 Which will maximize the integral of dopamine, seretonin, or whatchamacallit during this timeframe
 
 ```
+
+# 2021/9/6
+## sakinorva Personality test
+
+(grant) function type	ISTP
+myers function type	INTP
+myers-briggs type	INTJ

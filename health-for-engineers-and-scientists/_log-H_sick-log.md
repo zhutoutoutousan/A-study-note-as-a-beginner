@@ -23,6 +23,7 @@
   - [Discovering makeshift remedy for your pain due to Folliculitis](#discovering-makeshift-remedy-for-your-pain-due-to-folliculitis)
 - [2021/9/7](#202197)
   - [Possible Hidradenitis suppurativa](#possible-hidradenitis-suppurativa)
+  - [Vague pain on upper-right side abdomin](#vague-pain-on-upper-right-side-abdomin)
 
 #thehealthmatters
 
@@ -187,6 +188,7 @@ After you did it and got everything back to normal, answer this question:
   - Cut the psychological root
     - Upgrade your overall action-reaction system for seamless interactions with dysfunctional family members
       - More diplomatic, refined eloquency skills
+        - Focused on dealing with *double-edged*, *standoff-ish*, *envy*, *covet-oriented*, *High social dominance orientation* subjects
       - Manipulation of information flow, the act of feigning might be useful in deflecting hostility and malicious intents
       - Know the needs and traits of each dysfunctional family member for further mitigations
         - Limited, controlled satisfaction of acting irresponsibly
@@ -208,3 +210,20 @@ After you did it and got everything back to normal, answer this question:
 ## Possible Hidradenitis suppurativa
 - Book a hospital session
 - https://www.uptodate.com/contents/zh-Hans/hidradenitis-suppurativa-management
+- Things that you can do now
+  - Anti-inflammatory diet
+    - AVOID
+      - brewer’s yeast e.g.  pizza dough, cake, beer
+    - USE
+      - anti-inflammatory foods
+        - green tea
+        - cinnamon
+      - Tea tree oil
+      - Turmeric
+      - Aloe vera
+      - Natural deodorant
+      - Loose-fitting clothes
+      - Apple cider vinegar
+## Vague pain on upper-right side abdomin
+- Pending health check requirements, waiting for addressing
+- Possible too much gas in the GI tract, but medical check recommended

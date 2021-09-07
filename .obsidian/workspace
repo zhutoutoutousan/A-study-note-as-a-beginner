@@ -7,11 +7,8 @@
         "id": "3184d08e1c87a6a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "health-for-engineers-and-scientists/_index_health.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "health-for-engineers-and-scientists/_index_health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "health-for-engineers-and-scientists/_index_health.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "health-for-engineers-and-scientists/_index_health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +122,15 @@
   },
   "active": "3184d08e1c87a6a7",
   "lastOpenFiles": [
+    "health-for-engineers-and-scientists/Untitled.md",
+    "health-for-engineers-and-scientists/_log-H_beginners-fitness.md",
     "health-for-engineers-and-scientists/_index_health.md",
+    "health-for-engineers-and-scientists/_log-H_beginners-fitness 1.md",
+    "health-for-engineers-and-scientists/_log-H_beginners.md",
+    "health-for-engineers-and-scientists/_log-H_beginners-retrospect.md",
+    "health-for-engineers-and-scientists/terminology-H_ck.md",
     "health-for-engineers-and-scientists/_log-H_workout-kickstart-retrospect.md",
     "_ENTRY.md",
-    "software/_index_software.md",
-    "ENTRY.md",
-    "README 1.md",
-    "README.md",
-    "_index.md",
-    "Day-24] Vue.js [使用vue-router做登入判斷，以及結合後端server.md",
-    "log_overall.md"
+    "software/_index_software.md"
   ]
 }

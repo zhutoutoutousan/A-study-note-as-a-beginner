@@ -8,6 +8,8 @@
   - Fitnessblender
   - ATHLEAN-X
   - Greg Doucette
+  - Jeff Nippard
+  - Shredded Sports Science
 - Entertainment & Information
   - Buff Dude
 - Advanced --> Pro
@@ -15,9 +17,9 @@
   - mountaindog1(R.I.P)
   - Eddie Hall
   - Alan Thrall
-  - ...
-## Maybe-not / Scam / Sell-out influencers
+  - Renaissance Periodization
+## Maybe-not  influencers
 - V-SHRED
 - Chloe Ting
   - Workout could be good, but not nutrition advice
-- Barry Jizzleberry
+- Barry Jizzleberry 1

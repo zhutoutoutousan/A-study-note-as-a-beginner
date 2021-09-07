@@ -1,6 +1,10 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [\[NEW QUEST\]: QUANTIFY YOUR PATH TO STRENGTH](#new-quest-quantify-your-path-to-strength)
+- [Beginner's guide](#beginners-guide)
+  - [Before you hire a personal trainer](#before-you-hire-a-personal-trainer)
+  - [Good influencers - Red-pill-ish](#good-influencers---red-pill-ish)
+  - [Maybe-not  influencers](#maybe-not--influencers)
 - [STUPID PROBLEMS](#stupid-problems)
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
@@ -13,6 +17,33 @@
 - You've been training strength, hypertrophy for almost two years, and you have some progress but not optimized, now the power has been decided that you should find a way to quantify your progress so it becomes more controllable and tangible. Do your thing.
 - Resource
   - [The Perfect Pull Workout (PUSH | PULL | LEGS)](https://www.youtube.com/watch?v=IOl42YpK_Es)
+
+
+# Beginner's guide
+## Before you hire a personal trainer
+- [Top 10 Signs of a Bad Trainer - 10 Things to Consider When Choosing a Personal Trainer](https://www.youtube.com/watch?v=AVg8qX0Xgt4&t=252s)
+## Good influencers - Red-pill-ish
+- Entertainment
+  - Infiniteelgintensity
+- Quality Information
+  - Fitnessblender
+  - ATHLEAN-X
+  - Greg Doucette
+  - Jeff Nippard
+  - Shredded Sports Science
+- Entertainment & Information
+  - Buff Dude
+- Advanced --> Pro
+  - Brian Shaw
+  - mountaindog1(R.I.P)
+  - Eddie Hall
+  - Alan Thrall
+  - Renaissance Periodization
+## Maybe-not  influencers
+- V-SHRED
+- Chloe Ting
+  - Workout could be good, but not nutrition advice
+- Barry Jizzleberry 1
 
 # STUPID PROBLEMS
 - Muscle discomfort in calves

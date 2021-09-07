@@ -1,3 +1,6 @@
+# Ordering
+- [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q&t=12s)
+
 # New shit
 - [How to Read Mathematics](https://web.stonehill.edu/compsci/History_Math/math-read.htm)
 
@@ -30,9 +33,6 @@
 # Arithmetics
 - [Sequence and Series: An introduction to Mathematical Analysis](http://people.math.harvard.edu/~engelwar/MathS305/Sequences%20and%20Series%20Text%20abridged.pdf)
  
-
-
-
 # The number theory
 ## B.O.I
 - The Theory of the Riemann Zeta Function --- Titchmarsh 

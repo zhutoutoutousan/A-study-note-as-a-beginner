@@ -88,3 +88,7 @@ days, dimension, performance
     - Side lateral raise 6-8RM 3SETS
 - Monday
   - Back day
+- Tuesday
+  - Off day
+- Wednesday
+  - 

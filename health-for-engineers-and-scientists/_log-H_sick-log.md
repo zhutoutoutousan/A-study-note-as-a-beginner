@@ -21,6 +21,8 @@
   - [Mental health episode striking occupying hours](#mental-health-episode-striking-occupying-hours)
 - [2021/9/2](#202192)
   - [Discovering makeshift remedy for your pain due to Folliculitis](#discovering-makeshift-remedy-for-your-pain-due-to-folliculitis)
+- [2021/9/7](#202197)
+  - [Possible Hidradenitis suppurativa](#possible-hidradenitis-suppurativa)
 
 #thehealthmatters
 
@@ -201,3 +203,8 @@ After you did it and got everything back to normal, answer this question:
 # 2021/9/2
 ## Discovering makeshift remedy for your pain due to Folliculitis
 - 西瓜霜 dulls the pain a bit
+
+# 2021/9/7
+## Possible Hidradenitis suppurativa
+- Book a hospital session
+- https://www.uptodate.com/contents/zh-Hans/hidradenitis-suppurativa-management

@@ -188,7 +188,7 @@ After you did it and got everything back to normal, answer this question:
   - Cut the psychological root
     - Upgrade your overall action-reaction system for seamless interactions with dysfunctional family members
       - More diplomatic, refined eloquency skills
-        - Focused on dealing with *double-edged*, *standoff-ish*, *envy*, *covet-oriented*, *High social dominance orientation* subjects
+        - Focused on dealing with *double-edged*, *standoff-ish*, *envy*, *covet-oriented*, *Over-reached social dominance orientation* subjects
       - Manipulation of information flow, the act of feigning might be useful in deflecting hostility and malicious intents
       - Know the needs and traits of each dysfunctional family member for further mitigations
         - Limited, controlled satisfaction of acting irresponsibly

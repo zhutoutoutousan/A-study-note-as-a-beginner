@@ -76,3 +76,20 @@ Which will maximize the integral of dopamine, seretonin, or whatchamacallit duri
 (grant) function type	ISTP
 myers function type	INTP
 myers-briggs type	INTJ
+
+
+# 2021/9/10
+## More tools and materials for self-awareness build-up
+- Caveat: Don't read it if you're functional. If you feel down, you will have the spur and the urge to soak in all these knowledge without feeling a waste of time
+
+- [自我意识](https://wiki.mbalib.com/wiki/%E8%87%AA%E6%88%91%E6%84%8F%E8%AF%86)
+- Social comparison theory
+  - [社会比较理论](https://wiki.mbalib.com/wiki/%E7%A4%BE%E4%BC%9A%E6%AF%94%E8%BE%83%E7%90%86%E8%AE%BA)
+  - Social Comparison Theory: Self-Evaluation and Group Life
+    - [Frequent Social Comparisons and Destructive Emotions and Behaviors: The Dark Side of Social Comparisons](https://lyariv.mycpanel.princeton.edu/papers/DarkSide1.pdf)
+    - [SOCIAL COMPARISON PROCESSES IN ORGANIZATIONS](https://espace.library.uq.edu.au/data/UQ_131558/Social_comparison.pdf?Expires=1631277831&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=PvPN9O0scvBf9YJIXnYz2Vnysl4lM9wLO0nCSjPFiBj7tUzZJ-htp49N1INwl6ak4bMI1ESQL9nPHcEGzKnt9Q~S6e9N7duhe6aRagU5AkZ4aYvUM0wBgwTholnZVRJZArz9DhHlMp1Iw30J-DAmpkJtyJtuNqfNTP7VYLCyRfbjFGH1xj~rMxwQaCTR~5fHtDAuhq1GxrKt-tOcidiNb-I7YqBue~0A5p56yEaEtE-JlY2iWjCYqHs4RnC055NjzSBcgkroxTKXx8Kdfa~lGEGqYmA37v-aY3IPaDOb~Bud04KSF8JCjlK-TVGgp9IRaCeMWkBCd2eiTj0FeLsfWA__)
+    - [Social comparison in identity theory](http://rsp-lab11.ucr.edu/Papers/14a.pdf)
+- Cognitive dissonance theory
+  - Leon Festinger
+  - https://minddevlab.yale.edu/sites/default/files/files/The%20origins%20of%20cognitive%20dissonance.pdf
+  - [A theory of social comparison processes](https://www2.psych.ubc.ca/~schaller/528Readings/Festinger1954.pdf)

@@ -124,6 +124,6 @@ days, dimension, performance
 - Wednesday
   - Chest day
 - Thursday
-  - Leg day
-- Friday
   - Off day
+- Friday
+  - Leg day

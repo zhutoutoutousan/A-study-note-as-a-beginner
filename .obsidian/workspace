@@ -7,8 +7,11 @@
         "id": "3184d08e1c87a6a7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#emerginghabit",
+                "query": "tag:#dailyreview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,15 +129,15 @@
   },
   "active": "3184d08e1c87a6a7",
   "lastOpenFiles": [
-    "health-for-engineers-and-scientists/Untitled.md",
-    "health-for-engineers-and-scientists/_log-H_beginners-fitness.md",
-    "health-for-engineers-and-scientists/_index_health.md",
-    "health-for-engineers-and-scientists/_log-H_beginners-fitness 1.md",
-    "health-for-engineers-and-scientists/_log-H_beginners.md",
-    "health-for-engineers-and-scientists/_log-H_beginners-retrospect.md",
-    "health-for-engineers-and-scientists/terminology-H_ck.md",
-    "health-for-engineers-and-scientists/_log-H_workout-kickstart-retrospect.md",
+    "language/_log-L.md/log-L-T_zh2en-Gen.md",
+    "language/_log-L.md/log-L-T_zh2en_B-M.md",
+    "language/_log-L.md/log-L-T_zh2en_B.md",
+    "language/_log-L.md/log-L-T_en2zh_B.md",
+    "language/_log-L.md/log-L-T_en2zh.md",
+    "log_overall.md",
+    "overall.md",
+    "Untitled.md",
     "_ENTRY.md",
-    "software/_index_software.md"
+    "health-for-engineers-and-scientists/Untitled.md"
   ]
 }

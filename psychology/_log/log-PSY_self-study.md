@@ -1,3 +1,16 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [2021/8/25](#2021825)
+  - [Can you explain to me the psychological pathway of you speaking like that](#can-you-explain-to-me-the-psychological-pathway-of-you-speaking-like-that)
+  - [Concerning your so-called gaymification](#concerning-your-so-called-gaymification)
+- [2021/8/28](#2021828)
+  - [Dopamine gradient pathway log to create a personal 4-D pathway map for efficient and timely pathway stimulation](#dopamine-gradient-pathway-log-to-create-a-personal-4-d-pathway-map-for-efficient-and-timely-pathway-stimulation)
+    - [Collecting data](#collecting-data)
+    - [Collecting communication](#collecting-communication)
+- [2021/9/6](#202196)
+  - [sakinorva Personality test](#sakinorva-personality-test)
+- [2021/9/10](#2021910)
+  - [More tools and materials for self-awareness build-up](#more-tools-and-materials-for-self-awareness-build-up)
 # 2021/8/25
 ## Can you explain to me the psychological pathway of you speaking like that
 ```
@@ -73,8 +86,8 @@ Which will maximize the integral of dopamine, seretonin, or whatchamacallit duri
 # 2021/9/6
 ## sakinorva Personality test
 
-(grant) function type	ISTP
-myers function type	INTP
+(grant) function type	ISTP  
+myers function type	INTP  
 myers-briggs type	INTJ
 
 
@@ -93,3 +106,8 @@ myers-briggs type	INTJ
   - Leon Festinger
   - https://minddevlab.yale.edu/sites/default/files/files/The%20origins%20of%20cognitive%20dissonance.pdf
   - [A theory of social comparison processes](https://www2.psych.ubc.ca/~schaller/528Readings/Festinger1954.pdf)
+
+---
+If you have read through these, answer me some questions:
+- How would you change to achieve your own value?
+- How would you fine tune your inner mechanisms?

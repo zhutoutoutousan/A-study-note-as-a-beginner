@@ -127,3 +127,5 @@ days, dimension, performance
   - Off day
 - Friday
   - Leg day
+- Saturday
+  - Shoulder day

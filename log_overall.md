@@ -26,128 +26,26 @@
   - [Temperary stack for agile task insertion without pre-planning](#temperary-stack-for-agile-task-insertion-without-pre-planning)
   - [Changing yourself from within](#changing-yourself-from-within)
   - [Trival changes that might change your future](#trival-changes-that-might-change-your-future)
-- [2021/8/19](#2021819)
-  - [Some random thoughts about past career choice](#some-random-thoughts-about-past-career-choice)
 - [2021/8/29](#2021829)
   - [A new way to organize yourself as a nerd with most agility and focusness](#a-new-way-to-organize-yourself-as-a-nerd-with-most-agility-and-focusness)
 - [2021/8/30](#2021830)
   - [A centralized map-based note: A-study-note-as-a-coder](#a-centralized-map-based-note-a-study-note-as-a-coder)
+- [2021/9/11](#2021911)
 
 \\
 
 #dailyreview
 #considerdisperse
 - This section is getting bulky, consider evaluate its content and disperse to different sections
-# **Temporary effect**
-- The overall evaluation of the whole situation is complete on 2021/8/8
-- Effect
-  - **Focused**
-    - React development
-    - Networking
-    - Gym
-    - Translation
-      - BA  
-  - **Stoic by Productivity**
-    - *Extreme concentration*: *Thanks to your translation course*  Use your visualization technique
-    - *Flexible schedule*: Use a flexible schedule to compensate your concentration to avoid burnout
-- Intent
-  - Significant growth in technical dexterity and acumen
-  - Increased career mobility
-  - Deflect the effect of self-dysregulation while improving mobility and composure
-- Reward
-  - Translation certificate
-  - Increased technical ability
-  - Increased recognition of 
-- Risk
-  - Unappreciated burnout
-    - Reduced by focus-item adjustment
-    - Rapport by love for tech
-  - *Cave man*: Reduced networking rapport
-  - *Rigidity*: 
-# Coping with self-dysregulation
-**PROBLEM**:It seems that you're constantly suffering from self-dysregulation and in the mean time paying the price for the consequences of twisted or degraded social performance, let's set up a workbench and deal with this issue
-- Study the problem
-  - [Emotional dysregulation in adults: The influence of rumination and negative secondary appraisals of emotion](https://www.sciencedirect.com/science/article/pii/S0165032720332845)
-  - [What Is Emotional Dysregulation?](https://www.webmd.com/mental-health/what-is-emotional-dysregulation)
-    - Emotional dysregulation is a term used to describe an emotional response that is poorly regulated and does not fall within the traditionally accepted range of emotional reaction
 
 
-# Potential destructive elements scope
-- When I started to overcome myself, challenge myself into doing a bit more or resisting my original inertia, I started to feel physically stressed.
-  - I may utilize my medical acumen against changing myself
-# Customized motivation pool
-清华大学教授李稻葵就曾在一次演讲中说：
-```
-不要犹豫，尽早认准大方向。消灭选择，义无反顾，认准长远，认定自己，然后想方设法找到你要奋斗的那个圈子。
 
-跟了那个圈子之后，你会跟着这个圈子不断地往上走。
-```
-
-人们常觉得准备的阶段是在浪费时间，只有当真正机会来临，而自己没有能力把握的时候，才能觉悟自己平时没有准备才是浪费了时间。 ——罗曼.罗兰
-
-有所成就的人，都有一个共性，就是逻辑 - Ray Dalio
-
-情商和智商缺了哪个都会被随时出局。但这并不代表你要改变自己去一味迎合别人的文化和口味，只要能找到自己的USP（Unique selling proposition），始终带着一颗谦卑和真诚的心，相信到哪里运气都不会太差。 - Whoever
-
-只是大脑工作的话，你不会感到疲劳，你之所以疲劳是因为你思考遇到难点时沮丧的心理和所做的那些动作，比如皱眉，用手摸头等造成的 - Whoever
-
-名句是一种改变身体激素及心理状态以改变自身当前行为的工具, 不是提升认知的最佳途径。 - Me
-
-*You need a sentence to deflect negative thought patterns of comparing yourself to others, with a dysfunctional family doing exactly that considered. It needs to inject counter measures to cancel out your biological reactions so more mental energy can be guided to valuable actions*
-
+# ?
 ## Global strategy dashboard
 
 ## Massage depot
 - According to the former negative input, we might need a booking system for each user
 
-# Behavior
-- 2021-8-28: This is good, what works should stick
-- 2021/8/19: The habit stuff is very good, but if you're working hard and outside your comfort zone, you don't have the energy for that, how do you solve this problem?
-  - Good idea, but after some time of osmosis, i tink it shouldn't be a problem
-- NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
-## `_encoded-habit`
-*Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
-## `_enforcing-habit` 4/5
-- Tranced 4/21
-  - Start your day with enough nootropics and one gamma and alpha binaural beat session - According to your knowledge, it has longer effect than you originally think
-- Orderly 7/21
-  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 3/21
-    - Time estimation and non-exhaustive feedback
-  - Flow adjustment and reflection only happens before sleep or during R&R 1/21
-- Up-to-date 4/21
-  - Spend at least 30 minutes to catch up with the world every day 3/21
-  - \[STATUS\]: Getting better with the reinforcement of simultaneous translation training
-- Agility 2/21
-  - Keep an eye on those ways to achieve trade-off between **plan concentration and agility*
-- Problem solver 3/40
-## `_discarded-habit` 0/_
-- Same as above
-## `_discarding-habit` 2/5
-- Easy to be distracted 6/21
-  - Rewire your brain
-    - Visualize your current task queue and permitted interrupts
-    - Block unwanted interrupts
-    - If there emerges interrupts you don't know, group it
-  - Dispell distraction source without being cut off
-    - LinkedIn Pop-ups
-- Messy workplace 4/21
-  - Unstructured Work Email 1/1 SOLVED --> ANOTHER PROBLEM
-  - Unstructured learning strategy 5/100 
-  - Unstructure learning Roadmap 10/100
-- **Intertwining and Ambiguity of trivials and major tasks** 0/21
-## Up-to-date habit plan
-### Workbench
-- Methodology
-- Hotspot
-  - 2021/7/14-2021/8/1
-- Media
-  - Foreign
-  - Domestic
-    - Weibo
-    - Bilibili
-    - Sina
-- Ur chrome bookmark
-### Log
 
 # Logs
 
@@ -269,13 +167,9 @@ https://www.kancloud.cn/luofei614/programmer_talk_life/107489
 - Your previous reading habits was adding Progress, but a reading trail is more comprehensive, change it!
 - You can be unstructured when pursuing 
 
-# 2021/8/19
-## Some random thoughts about past career choice
-I want to build my image, and realize it
-
 # 2021/8/29
 ## A new way to organize yourself as a nerd with most agility and focusness
-#emerginghabit#lifechanger
+#considersolidify
 - Fill your calendar with items within that time frame as a reference for decision making, then use your brain when implementing.
   - JBP: I probably planning every minute
   - This will activate your dynamic planning pathway instead of imprisoning yourself with deadlines and immutable time chunk. You will be constantly evaluating the situation and making changes as you see fit but with a clear vision of the current situation and what to do
@@ -283,4 +177,62 @@ I want to build my image, and realize it
 
 # 2021/8/30
 ## A centralized map-based note: A-study-note-as-a-coder
-#emerginghabit#lifechanger
+
+# 2021/9/11
+- You're like when you're hitting the point that something you're good at is challenged, and you need to put in the work and sophisticated, delicated, immersive efforts, you chickened out with plenty of well-put-together and convincing excuses. *e.g. So I'm good at this, how about I work on my weaknesses? If I need to be more entrepreneurial, I need to learn a lot of stuffs* And it is hammering your self-progression and it's doing it now. So, what are you going to do about it?
+  - There's more to it, it has a point, the urge is there in a more sophisticated logic graph, but the threshold has some entropy attached to it so it makes decisive and radical change somewhat discouraging and risky
+  - It's a good point, you need to dig more about this as you progress
+  - QUESTIONS:
+    - To what level, **tree depth** does this apply to your life? Do you have a hiearchy of this,, image for your life?
+
+
+
+
+# Behavior(Consider Archive)
+- 2021-8-28: This is good, what works should stick
+- 2021/8/19: The habit stuff is very good, but if you're working hard and outside your comfort zone, you don't have the energy for that, how do you solve this problem?
+  - Good idea, but after some time of osmosis, i tink it shouldn't be a problem
+- NEW: Your 21-day habit-forming plan, the 21 doesn't represent 1 day, but a vague sense of momentum. Don't be too pedantic *by your intuition*
+## `_encoded-habit`
+*Any enforcing habit that has exceeded 21-day streak will be moved here and is no longer in a enforced state*
+## `_enforcing-habit` 4/5
+- Tranced 4/21
+  - Start your day with enough nootropics and one gamma and alpha binaural beat session - According to your knowledge, it has longer effect than you originally think
+- Orderly 7/21
+  - Before you go on your day, pre-vision your activities with attention to time, quality, and  & Immersive style 3/21
+    - Time estimation and non-exhaustive feedback
+  - Flow adjustment and reflection only happens before sleep or during R&R 1/21
+- Up-to-date 4/21
+  - Spend at least 30 minutes to catch up with the world every day 3/21
+  - \[STATUS\]: Getting better with the reinforcement of simultaneous translation training
+- Agility 2/21
+  - Keep an eye on those ways to achieve trade-off between **plan concentration and agility*
+- Problem solver 3/40
+## `_discarded-habit` 0/_
+- Same as above
+## `_discarding-habit` 2/5
+- Easy to be distracted 6/21
+  - Rewire your brain
+    - Visualize your current task queue and permitted interrupts
+    - Block unwanted interrupts
+    - If there emerges interrupts you don't know, group it
+  - Dispell distraction source without being cut off
+    - LinkedIn Pop-ups
+- Messy workplace 4/21
+  - Unstructured Work Email 1/1 SOLVED --> ANOTHER PROBLEM
+  - Unstructured learning strategy 5/100 
+  - Unstructure learning Roadmap 10/100
+- **Intertwining and Ambiguity of trivials and major tasks** 0/21
+## Up-to-date habit plan
+### Workbench
+- Methodology
+- Hotspot
+  - 2021/7/14-2021/8/1
+- Media
+  - Foreign
+  - Domestic
+    - Weibo
+    - Bilibili
+    - Sina
+- Ur chrome bookmark
+### Log

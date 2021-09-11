@@ -19,3 +19,16 @@
 
 # 2021/7/29
 ## How to evaluate your depth of expertise and convey it orally to achieve success?
+
+# 2021/9/12
+## How to impromptu a speech purely inside your head
+- Hardcore
+  - Logical pool, brainstorming pool
+    - How to make it clear and precise, how to increase its capacity and process rate
+      - It depends on recursive process rate of each sub-nodes, some may take tremendous amount of effort to increase
+    - How to make it stick for longer period of time?
+  - Visualize using Video editing tool, push in your chunks, then play
+- Experience-based
+  - Scenario-Structure connection
+  - Increase sense of time
+    - Can be easily gained by experience instead of deliberate training

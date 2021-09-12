@@ -123,14 +123,22 @@ I know somethin' else natural that may work
         - Timely vacation would give you enough time to adjust
     - Risk of burnout if the energy flow or motive flow flatline
     - New self-dysregulation pathway
-      - *Self fact-shaming*: *Look at you, all that effort in vain*; *Look at you,just admit that you have low IQ already*; *Look at you, just admit that you are dumb already*; *战术上勤奋, 战略上懒惰*; *Look at you, all that effort and you're still not earning billions*
-        - Wording pathway: *Consumerism*, *Nagging*, *Shame by unilateral comparison*, *Zero-sum thinking*
-        - *Existential*: *Come on, you will starve in the street*
+      - Types gallery
+        - *Self fact-shaming*: *Look at you, all that effort in vain*; 
+        - *Fluster*: *Look at you,just admit that you have low IQ already*; 
+        - *Fluster with savageness* *Look at you, just admit that you are dumb already*; 
+        - *Quip*: *战术上勤奋, 战略上懒惰*; 
+        - *Prophecy*: *The likes of you will never move up*
+        - *Cthulhu*: *Well...*
+        - *Shame by comparison*: *Look at you, all that effort and you're still not earning billions*; 
+          - Wording pathway: *Consumerism*, *Nagging*, *Shame by unilateral comparison*, *Zero-sum thinking*
+        - *Existential internalization*: *Come on, you will starve in the street*
           - Searching for crisis logic subconsciously, if none, this self-dysregulation attempt will fail. If so, await for a trigger for outbreak, lose resolve if triggered
-      - *External fact-shaming*: *Just think about the Cthulhu*
-      - *Envy*: *He's/She's doing everything better than I am!*
-      - *Self-doubt*: *Why all that effort? Thoses geniuses already had a way start*
-      - *Over-independant*: *Don't ask for help, I can handle it*
+        - *External fact-shaming*: *Just think about the Cthulhu*
+        - *Envy*: *He's/She's doing everything better than I am!*
+        - *Self-doubt*: *Why all that effort? Thoses geniuses already had a way start*
+        - *Over-independant*: *Don't ask for help, I can handle it*
+        - *Baffled*: *Thinking too much? Just take the negativity and manifest it in the real world to end yourself already!*
   - Fast retain pathway(High mental-effort threshold activities with instant feedback)
     - Mock interpretation 
   - Self-rapport and motivations

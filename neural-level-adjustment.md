@@ -1,13 +1,41 @@
-#dailyreview
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Random observation](#random-observation)
+- [Current structure for intelligence training](#current-structure-for-intelligence-training)
+  - [Quantitative intelligence](#quantitative-intelligence)
+    - [Visual aids](#visual-aids)
+  - [Verbal intelligence](#verbal-intelligence)
+    - [Agility](#agility)
+    - [Mental Capacity](#mental-capacity)
+    - [Vocabulary span](#vocabulary-span)
+      - [Visualized logic relationship](#visualized-logic-relationship)
+  - [Spatial intelligence](#spatial-intelligence)
+      - [Clarity](#clarity)
+      - [Capacity](#capacity)
+      - [Agility](#agility-1)
+- [Workouts and trainings](#workouts-and-trainings)
+  - [Workout plans](#workout-plans)
+  - [Training](#training)
+- [Nootropics](#nootropics)
+- [Log](#log)
+  - [2021/8/9](#202189)
+  - [2021/9/12](#2021912)
 
+
+
+
+#dailyreview
 # Introduction
-- This section is designed for you to stored the neural pattern, capacity that you want to to strengthen using customized training that you designed for yourself to increase your performance the next time you perform that intellectual task.
+- This section is designed for you to store the neural pattern, capacity that you want to to strengthen using customized training that you designed for yourself to increase your performance the next time you perform that intellectual task.
+  - 2021/9/12: Now there seems more to it
 - You should describe as in detail as possible what new neural pattern you have formed to make a certain intellectual task more efficient for active retrieval.
 - You should link those trainings to specific academic or engineering performance, and monitor the before-after results to see whether the game you designed works or not
 
 
 # Random observation
 - If you read stuffs, and you create a picture attached to it, you will consume more energy but obtain more agility.
+  - 2021-9-12: links to experience of legendary conference interpretors
 
 
 # Current structure for intelligence training
@@ -95,8 +123,8 @@ I know somethin' else natural that may work
         - Timely vacation would give you enough time to adjust
     - Risk of burnout if the energy flow or motive flow flatline
     - New self-dysregulation pathway
-      - *Self fact-shaming*: *Look at you, all that effort in vain*
-        - Wording pathway: *Consumerism*, *Nagging*
+      - *Self fact-shaming*: *Look at you, all that effort in vain*; *Look at you,just admit that you have low IQ already*; *Look at you, just admit that you are dumb already*; *战术上勤奋, 战略上懒惰*; *Look at you, all that effort and you're still not earning billions*
+        - Wording pathway: *Consumerism*, *Nagging*, *Shame by unilateral comparison*, *Zero-sum thinking*
         - *Existential*: *Come on, you will starve in the street*
           - Searching for crisis logic subconsciously, if none, this self-dysregulation attempt will fail. If so, await for a trigger for outbreak, lose resolve if triggered
       - *External fact-shaming*: *Just think about the Cthulhu*
@@ -106,3 +134,8 @@ I know somethin' else natural that may work
   - Fast retain pathway(High mental-effort threshold activities with instant feedback)
     - Mock interpretation 
   - Self-rapport and motivations
+
+## 2021/9/12
+- How to locate your functions of the area in your brain where you have pain, experiment it with only using that part of the brain function area without the ache to get more feedback
+  - [Build a mental model of brain functioning area](https://www.google.com/search?q=brain+area+function&sxsrf=AOaemvIjho7sr-TN03_0a4au-d8g5-Aw5w:1631432928461&tbm=isch&source=iu&ictx=1&fir=EDHbNAbsNmP6iM%252CNI6_NFgPv-dtUM%252C_&vet=1&usg=AI4_-kSYaQBw1ny5UDb4UUkOTgreFZBPug&sa=X&sqi=2&ved=2ahUKEwiCvrOh-fjyAhVjFVkFHSzpBQYQ9QF6BAgbEAE&biw=1745&bih=852#imgrc=EDHbNAbsNmP6iM)
+  - [Brain mapping](https://www.pinterest.co.uk/pin/550213279449562131/)

@@ -86,8 +86,8 @@
   - Exercise:
     - Write down a tree of $N$ depth, each contains a piece of code. Try to remember it as fast as you can
     - Advanced: Try to visualize how it runs with clarity
-
-
+- Spatial rotation
+  - Just search for a dice graph and memorize it until you can virtually rotate it around with ease
 # Nootropics
 I've got a few at my side for daily consumption
 - L-Theanine 茶氨酸

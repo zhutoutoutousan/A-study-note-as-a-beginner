@@ -1,7 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Outbound space](#outbound-space)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Basic data to store into your top-tier memory ?WTF?-2021-7-8](#basic-data-to-store-into-your-top-tier-memory-wtf-2021-7-8)
+  - [Basic model](#basic-model)
   - [Information gathering](#information-gathering)
     - [Fact check](#fact-check)
     - [Industry study](#industry-study)
@@ -20,6 +22,7 @@
       - [Pharmaceutical](#pharmaceutical)
       - [New Industry](#new-industry)
       - [Translation](#translation)
+  - [Supportive Tools](#supportive-tools)
 - [log](#log)
   - [2021/7/24](#2021724)
     - [Business analyst courses](#business-analyst-courses)
@@ -28,8 +31,12 @@
   - [2021/8/3](#202183)
     - [Starting forming a plan](#starting-forming-a-plan)
   - [2021/8/24](#2021824)
-    - [做遗忘曲线+Obsidian+...的竞品分析#emergingidea](#做遗忘曲线obsidian的竞品分析emergingidea)
+    - [做遗忘曲线+Obsidian+...的竞品分析#ideasandinnovations](#做遗忘曲线obsidian的竞品分析ideasandinnovations)
   - [2021/8/25](#2021825)
+
+# Outbound space
+#NewTech-BusinessAnalyst
+
 # Buffer to permanent note
 ## Basic data to store into your top-tier memory ?WTF?-2021-7-8
 - First answer me a question, what's the meaning of its existance?
@@ -43,6 +50,11 @@
   - 纽交所
 
 Ok, makes sense 2021-7-8
+
+## Basic model
+- 杠杆模型
+- 各类博弈模型
+
 ## Information gathering
 ### Fact check
 - [Factly](https://factly.in/)
@@ -51,6 +63,9 @@ Ok, makes sense 2021-7-8
 - [商业新知](https://www.shangyexinzhi.com/)
 - [未来智库](https://www.vzkoo.com/)
 - [墨天轮](https://www.modb.pro/)
+- [36Kr](https://www.36kr.com/)
+  - 让一部分人先看到未来
+- Hackernews
 #### Capital
 - 2020年VC／PE机构薪酬与运营机制调查研究报告
 #### Daily matters
@@ -77,7 +92,13 @@ Ok, makes sense 2021-7-8
 - 艾瑞咨询
   - [中国医药产业互联网白皮书2020](http://qccdata.qichacha.com/ReportData/PDF/cf34194ceb3e70b088b576b88c3be61c.pdf)
 #### IT
-- 艾瑞咨询-2021年低代码行业研究报告：化繁为简
+- 低代码
+  - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
+- RPA
+  - 艾瑞咨询-一叶知秋: 中国RPA行业研究报告 2020
+    - [link](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/10/14/b4939256-8cbf-441b-8faa-b1819970a0b9.pdf)
+    - New words
+      - 刘易斯拐点
 #### Education
 - 全球教育智能化报告 - 德勤
   - [link](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-global-development-of-ai-based-education-zh-191108.pdf)
@@ -98,6 +119,8 @@ Ok, makes sense 2021-7-8
 
 #### Manufacturing
 #### Pharmaceutical
+- 看病
+  - [丁香园论坛](https://www.dxy.cn/)
 #### New Industry
 #### Translation
 - Active
@@ -105,6 +128,10 @@ Ok, makes sense 2021-7-8
   - [国内高层次翻译人才稀缺现状及分析](http://www.xinhuanet.com/talking/20140723a/index.htm)
 - Archive
   - [中国翻译行业市场与译员现状分析](https://www.tjxz.cc/24067) !2014 --> 7yrs 
+
+## Supportive Tools
+- Big data, Python, Data mining, NLP --> Insight
+
 # log
 ## 2021/7/24
 ### Business analyst courses
@@ -168,7 +195,7 @@ Ok, makes sense 2021-7-8
 
 
 ## 2021/8/24
-### 做遗忘曲线+Obsidian+...的竞品分析#emergingidea
+### 做遗忘曲线+Obsidian+...的竞品分析#ideasandinnovations
 - 如何做竞品分析?
   - [5个方面分析：如何做出一份高质量的竞品分析报告？](http://www.woshipm.com/evaluating/1050725.html)
 - 潜在竞品?

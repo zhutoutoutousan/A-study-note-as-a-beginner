@@ -24,4 +24,4 @@ https://speakerhubhq.medium.com/your-speech-pace-guide-to-speeding-and-slowing-d
 - [Consecutive Interpreting Practice (EN to EN)](https://www.youtube.com/watch?v=kENtzH8QyfA)
 
 
-#emergingidea Obsidian: Automatic uploading neuro pathway
+#ideasandinnovations Obsidian: Automatic uploading neuro pathway

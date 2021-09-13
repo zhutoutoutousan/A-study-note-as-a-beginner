@@ -17,7 +17,7 @@
   - [Related software](#related-software)
 
 
-#emergingidea
+#ideasandinnovations
 
 # Verification of ideas
 - You may not need to come up with an idea or a companssion that last for some time and then just start a project on your own

@@ -48,6 +48,9 @@
     - Read it like a novel
     - Bookmark: 27
       - Read on
+- SWEBOK
+  - [SWEBOK](https://cs.fit.edu/~kgallagher/Schtick/Serious/SWEBOKv3.pdf)
+  - [SWEBOK Guide](http://cs.joensuu.fi/tSoft/dokumentit/Trial_Version1_00_SWEBOK_Guide.pdf)
 - [软件工程的最大难题](https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)
 # Teamwork
 - [The Art of Agile Development](https://poetiosity.files.wordpress.com/2011/04/art_of_agile_development.pdf)

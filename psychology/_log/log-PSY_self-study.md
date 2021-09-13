@@ -41,7 +41,7 @@ If your family is dragging you down and overpricing their contribution, which it
 
 # 2021/8/28
 ## Dopamine gradient pathway log to create a personal 4-D pathway map for efficient and timely pathway stimulation
-#emergingidea
+#ideasandinnovations
 ### Collecting data
 ```json
 {

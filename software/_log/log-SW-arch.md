@@ -2,7 +2,7 @@
 
 ## How-to
 
-#emergingidea#automation ---> Tools for software decision making
+#ideasandinnovations#automation ---> Tools for software decision making
 - Package update ---> Ask
   - Get package dependency
     - https://npmgraph.js.org/
@@ -150,6 +150,19 @@ I was asked yet another question that I certainly not able to answer in an elega
 ```
 
 ## 技术债务分析和治理手段咨询
-- [技术债治理的四条原则](https://insights.thoughtworks.cn/managing-technical-debt/)
-- [The Future of Managing Technical Debt]()
-- [Managing Software Debt: Building for Inevitable Change]()
+- 认知&方法
+  - [技术债治理的四条原则](https://insights.thoughtworks.cn/managing-technical-debt/)
+  - [The Future of Managing Technical Debt]()
+  - [Managing Software Debt: Building for Inevitable Change]()
+  - [如何避免和偿还技术债务？如何选择现在避免还是以后偿还？](https://www.zhihu.com/question/30295973)
+  - [技术债务（Technical debt）的产生原因及衡量解决](https://cloud.tencent.com/developer/article/1614019)
+    - Sonarqube
+  - [技术债是什么、怎么还？你想知道的都在这一篇文章里了！](https://cloud.tencent.com/developer/article/1800704)
+  - [有效解决技术负债问题](https://www.cnblogs.com/sweetXiaoma/p/12599517.html)
+  - [技术债务（Technical debt）的产生原因及衡量解决](https://www.cnblogs.com/daodaotest/p/12460594.html)
+  - [技术债务下篇（双十一版） 感悟篇](http://www.shinescrum.com/news_and_events/--127)
+  - [后浪该如何处理技术债务？](https://zhuanlan.zhihu.com/p/147730978)
+- log
+  - 2021/9/13: 一个项目前端样式采用一个自研框架(侵入性较强), 另一个开源框架, 两个互相矛盾, you?
+    - Resource
+      - [要不要用公司内部的自研框架](https://www.jianshu.com/p/cfa5e2ee0d65)

@@ -1,19 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [**Temporary effect**](#temporary-effect)
-- [Coping with self-dysregulation](#coping-with-self-dysregulation)
-- [Potential destructive elements scope](#potential-destructive-elements-scope)
-- [Customized motivation pool](#customized-motivation-pool)
+- [?](#)
   - [Global strategy dashboard](#global-strategy-dashboard)
   - [Massage depot](#massage-depot)
-- [Behavior](#behavior)
-  - [`_encoded-habit`](#_encoded-habit)
-  - [`_enforcing-habit` 4/5](#_enforcing-habit-45)
-  - [`_discarded-habit` 0/_](#_discarded-habit-0_)
-  - [`_discarding-habit` 2/5](#_discarding-habit-25)
-  - [Up-to-date habit plan](#up-to-date-habit-plan)
-    - [Workbench](#workbench)
-    - [Log](#log)
 - [Logs](#logs)
   - [2021/6/29-2021/8/1](#2021629-202181)
     - [Think more actively](#think-more-actively)
@@ -31,6 +20,16 @@
 - [2021/8/30](#2021830)
   - [A centralized map-based note: A-study-note-as-a-coder](#a-centralized-map-based-note-a-study-note-as-a-coder)
 - [2021/9/11](#2021911)
+- [Behavior(Consider Archive)](#behaviorconsider-archive)
+  - [`_encoded-habit`](#_encoded-habit)
+  - [`_enforcing-habit` 4/5](#_enforcing-habit-45)
+  - [`_discarded-habit` 0/_](#_discarded-habit-0_)
+  - [`_discarding-habit` 2/5](#_discarding-habit-25)
+  - [Up-to-date habit plan](#up-to-date-habit-plan)
+    - [Workbench](#workbench)
+    - [Log](#log)
+  - [2021/9/13-2021/9/19](#2021913-2021919)
+    - [Experiment with yourself - Stricter routine FOR A WEEK](#experiment-with-yourself---stricter-routine-for-a-week)
 
 \\
 
@@ -236,3 +235,13 @@ https://www.kancloud.cn/luofei614/programmer_talk_life/107489
     - Sina
 - Ur chrome bookmark
 ### Log
+
+
+## 2021/9/13-2021/9/19
+### Experiment with yourself - Stricter routine FOR A WEEK
+- Before
+  - You know what, just look at your previous logs and you will know the state you were
+- Routine
+  - Rigorous strict timeline
+  - Morning running
+  - Hard switch

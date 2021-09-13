@@ -1,7 +1,7 @@
 # Buffer to permanent note
 ## Tools
 - [实时代码协作工具](https://zhuanlan.zhihu.com/p/128080741)
-#emergingidea
+#ideasandinnovations
 代码协作-->看到各个成员的branch状态， 同屏键入, 把电竞的节奏带入开发中
 
 # 2021/7/29

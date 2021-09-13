@@ -34,6 +34,8 @@
   - [New questions](#new-questions)
 - [2021/8/23-2021-9/1](#2021823-2021-91)
   - [In which scenario did `ComponentDidUpdate()` trigger](#in-which-scenario-did-componentdidupdate-trigger)
+- [2021/9/13-](#2021913-)
+  - [A quick grasp of `react-router-dom`](#a-quick-grasp-of-react-router-dom)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -146,15 +148,13 @@ const style = (theme) => {
 }
 ```
 
-# 2021/8/23-2021-9/1
+# 2021/8/23-2021-9/1 
 
 ## In which scenario did `ComponentDidUpdate()` trigger
 
 
-
-
-
-
+# 2021/9/13-
+## A quick grasp of `react-router-dom`
 
 
 

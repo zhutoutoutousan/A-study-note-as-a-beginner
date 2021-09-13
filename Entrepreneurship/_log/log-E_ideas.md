@@ -1,6 +1,6 @@
 # Table of Contents
 
-#emergingidea
+#ideasandinnovations
 
 # 2021/7/20-
 ## Not likely to profit
@@ -42,7 +42,7 @@ MBA智库百科，基于时间线的新闻展示可以放到世界地图展示, 
 自动驾驶可伸缩"轮椅"
 
 ## Input: I want this certain dopamine pathway --> Output: The best restaurant for you
-#emergingidea#maximizedopaminepathway
+#ideasandinnovations#maximizedopaminepathway
 ### Communication collection
 ```
 PFocmErCpGlEmeC09RwR5w==:

@@ -32,7 +32,7 @@
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
-#emergingidea 
+#ideasandinnovations 
 #automation
 #maximizedopaminepathway 
 #activereading 

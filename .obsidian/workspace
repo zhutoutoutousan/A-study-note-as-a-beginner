@@ -7,11 +7,8 @@
         "id": "3184d08e1c87a6a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "language/_log-L.md/log-L-T_zh2en-Gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

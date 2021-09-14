@@ -8,3 +8,4 @@
   - Hard switch
 - Cancelled
   - You're actually pushing yourself to the limit on the daily basis, you can try this for fun after you're over 35s, don't take your youth for fun
+  - There is one thing that's valuable: Force yourself to sleep

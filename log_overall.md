@@ -237,11 +237,3 @@ https://www.kancloud.cn/luofei614/programmer_talk_life/107489
 ### Log
 
 
-## 2021/9/13-2021/9/19
-### Experiment with yourself - Stricter routine FOR A WEEK
-- Before
-  - You know what, just look at your previous logs and you will know the state you were
-- Routine
-  - Rigorous strict timeline
-  - Morning running
-  - Hard switch

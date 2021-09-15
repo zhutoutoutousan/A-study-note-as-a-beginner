@@ -189,9 +189,13 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Process(For occupational survival)
       - Progress: 29/389
 - PMBOK
-  - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
-  - Progress: 17/574
-
+  - 6th Edition
+    - [link](http://faspa.ir/wp-content/uploads/2017/09/PMBOK6-2017.pdf)
+    - Progress: 17/574
+  - 7th Edition
+    - [link](https://drive.google.com/file/d/1PVd0vW0coowJ73zdOZcZQyyfzQWF9BF-/view?usp=sharing)
+    - [Download Entry](https://knowdemia.com/download/pmbok-7th-edition-pdf/#)
+    - [Ricardo Vargas Explains the PMBOK® Guide 7th Edition Published by PMI](https://www.youtube.com/watch?v=HVlrxOQoSUw)
 ## Management
 ### Enterprise architecture
 - TOGAF

@@ -5,6 +5,7 @@
   - [Basic data to store into your top-tier memory ?WTF?-2021-7-8](#basic-data-to-store-into-your-top-tier-memory-wtf-2021-7-8)
   - [Basic model](#basic-model)
   - [Information gathering](#information-gathering)
+    - [Data collection](#data-collection)
     - [Fact check](#fact-check)
     - [Industry study](#industry-study)
       - [Channels](#channels)
@@ -56,6 +57,7 @@ Ok, makes sense 2021-7-8
 - 各类博弈模型
 
 ## Information gathering
+### Data collection
 ### Fact check
 - [Factly](https://factly.in/)
 ### Industry study
@@ -66,6 +68,7 @@ Ok, makes sense 2021-7-8
 - [36Kr](https://www.36kr.com/)
   - 让一部分人先看到未来
 - Hackernews
+- [产业研究报告网](http://www.chinairr.org/)
 #### Capital
 - 2020年VC／PE机构薪酬与运营机制调查研究报告
 #### Daily matters
@@ -80,6 +83,9 @@ Ok, makes sense 2021-7-8
     - [link](http://www.cnwinenews.com/html/2021/putaojiu_0405/123561.html)
 - 拉
 - 撒
+- 行
+  - 汽车
+    - 
 - 买?
 - 玩
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)

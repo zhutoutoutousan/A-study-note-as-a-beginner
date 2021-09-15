@@ -1,4 +1,14 @@
 # Buffer to permanent note
+#considerrestructure
+
+## Knowledge structure construction
+- Static resource
+  - 架构师的自我修炼 技术，架构和未来
+- Dynamic Resource
+  - Social media
+    - 知乎
+      - [阿里巴巴淘系技术](https://www.zhihu.com/org/a-li-ba-ba-tao-xi-ji-zhu)
+
 
 ## How-to
 
@@ -72,7 +82,7 @@ I was asked yet another question that I certainly not able to answer in an elega
 - Backend
 - Front-end
 
-# 2021/8/9
+# 2021/8/9-2021/10/9
 ## SSO design 
 - Basics
   - [单点登录](https://zh.wikipedia.org/wiki/%E5%96%AE%E4%B8%80%E7%99%BB%E5%85%A5)
@@ -166,3 +176,27 @@ I was asked yet another question that I certainly not able to answer in an elega
   - 2021/9/13: 一个项目前端样式采用一个自研框架(侵入性较强), 另一个开源框架, 两个互相矛盾, you?
     - Resource
       - [要不要用公司内部的自研框架](https://www.jianshu.com/p/cfa5e2ee0d65)
+
+## 大量图片的前后端管理
+- 上传图片后如何不依赖后端回显
+  - [上传图片后如何不依赖后端回显？你可能需要indexedDB存储技术](https://juejin.cn/post/6965657746477678629)
+- 存储技术
+  - 方法
+    - 图片以二进制形式直接存储在数据库中
+    - 数据库中保存图片路径
+      - 域名问题 --> cdn加速
+    - 关于图片进行云存储(cdn加速)
+  - REF
+    - [关于图片或者文件在数据库的存储方式归纳](https://www.cnblogs.com/wangtao_20/p/3440570.html)
+    - [图片上传系统在淘系中的实践](https://zhuanlan.zhihu.com/p/349409189)
+    - [单台服务器中如何存放几千万张图片？](https://www.zhihu.com/question/20518854)
+- 问题
+  - [记一次 base64 图片存储引发后端查询接口性能断崖式下降问题全程解析](https://cloud.tencent.com/developer/article/1682909)
+## 你所参与的业务是什么?
+
+
+## create-react-app定制
+https://zhuanlan.zhihu.com/p/96103181
+https://www.pluralsight.com/guides/how-to-load-svg-with-react-and-webpack
+https://github.com/timarney/react-app-rewired
+https://github.com/arackaf/customize-cra

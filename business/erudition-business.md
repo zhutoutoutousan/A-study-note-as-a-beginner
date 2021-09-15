@@ -138,7 +138,17 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - 价值 - 张磊
   - [link](https://drive.google.com/file/d/1xQccrkOvgpjmM7Q9BcRt0WJBGGro_Kc4/view?usp=sharing)
     - Progress: 83/388
-
+  - 做研究的基础和根本
+    - 深入研究
+      - 研究深
+        - 和创业者(经历剧烈变化的那段时间)打交道, 参与到伟大企业成长过程中
+      - 研究透
+    - 长期研究
+      - 关键时点
+      - 关键变化
+    - 独立研究
+      - 独特视角
+      - 数据洞察
 #### Finance
 - Personal finance
   - Resource: [有哪些理财的书值得推荐？](https://www.zhihu.com/question/19984574)

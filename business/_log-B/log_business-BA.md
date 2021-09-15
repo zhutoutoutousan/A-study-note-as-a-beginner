@@ -138,12 +138,13 @@ Ok, makes sense 2021-7-8
 - [Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=f9DzS6NdgwU)
   - Bookmark: 1:08
 - [商业分析师技能课](https://www.bilibili.com/video/BV1Ky4y1B733?from=search&seid=2082325064489175330)
-  - \[Bookmark\]: P1 1-1 5:17
+  - \[Bookmark\]: P1 1-1 16-55
   - 如何将老板的问题明确为可以实施的行动
     - 麦肯锡的咨询顾问如何用7\(+2\)步解决问题
       - 明确界定问题
         - 七步成诗法
           - 1. 界定问题
+            - SMART原则
           - 2. 将问题分解成议题
           - 3. 去除不重要的议题（优先排序）
           - 4. 制定详细的工作计划，搜集数据
@@ -165,7 +166,8 @@ Ok, makes sense 2021-7-8
           - 唱吧，收费 按摩椅，3D眼镜租赁等新业态尚未引入
       - 减少成本
         - 减少固定成本：房租和设备等均为长线成本，难以降低
-
+- [麦肯锡·行业分析课程](https://www.bilibili.com/video/BV1b54y1p7LW/?spm_id_from=333.788.recommend_more_video.1)
+- [7周成为数据分析师](https://www.bilibili.com/video/BV1mk4y127uP/?spm_id_from=333.788.recommend_more_video.0)
 ## 2021/7/31-
 ### Roadmap
 - [数据分析师必备的9大技能，大多数人只知道一半](https://database.51cto.com/art/201910/604538.htm)

@@ -16,7 +16,10 @@
       - Communication
   - 2021-9-14-15-38~2021-9-14-15-57
     - PLANNED
-          - STATUS: Drawer development
-          - USING: MirageJS, ReactJS, MaterialUI, react-router-dom
+      - STATUS: Drawer development
+      - USING: MirageJS, ReactJS, MaterialUI, react-router-dom
     - ACTUAL:
       - Communication
+  - 2021-9-14-15-57~2021-9-14-17-46
+    - PLANNED
+      - 

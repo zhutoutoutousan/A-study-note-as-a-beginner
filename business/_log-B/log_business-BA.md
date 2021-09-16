@@ -66,7 +66,8 @@ Ok, makes sense 2021-7-8
 - [未来智库](https://www.vzkoo.com/)
 - [墨天轮](https://www.modb.pro/)
 - [36Kr](https://www.36kr.com/)
-  - 让一部分人先看到未来
+  - *让一部分人先看到未来*
+  - ToB行业头条
 - Hackernews
 - [产业研究报告网](http://www.chinairr.org/)
 #### Capital
@@ -99,7 +100,19 @@ Ok, makes sense 2021-7-8
   - [中国医药产业互联网白皮书2020](http://qccdata.qichacha.com/ReportData/PDF/cf34194ceb3e70b088b576b88c3be61c.pdf)
 #### IT
 - 低代码
-  - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
+  - 行业研究报告
+    - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
+      - [link](https://bbs.huaweicloud.com/forum/thread-126881-1-1.html)
+    - [头豹研究院 - 2019年中国软件开发服务行业市场研究](https://pdf.dfcfw.com/pdf/H3_AP202009141411958848_1.pdf?1600105019000.pdf)
+    - [葡萄城·低代码的核心观点](http://www.cniteyes.com/index.php?app=widget&mod=ShowDocument&act=view&attach_id=8334&type=pdf)
+    - [海比研究院 2021年中国低代码/无代码市场研究报告](http://www.soft6.com/statics/202101/19/1611108758.pdf)
+    - [D-T 2020中国低代码平台指数测评报告](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/12/30/2f8fa3eb-bcb3-4953-9950-3cff058523aa.pdf)
+  - 媒体
+    - 36Kr
+      - [爆火的低代码，能解决的问题只有「一个」](https://www.36kr.com/p/1072550784775046)
+- aPaaS
+  - [2015 - 2025年中国集成开发环境即服务市场深度调查与发展前景研究报告](https://zhuanlan.zhihu.com/p/311112369)
+  - [2021年中国APaaS应用及选型研究报告](https://m.thepaper.cn/baijiahao_11763148)
 - RPA
   - 艾瑞咨询-一叶知秋: 中国RPA行业研究报告 2020
     - [link](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/10/14/b4939256-8cbf-441b-8faa-b1819970a0b9.pdf)

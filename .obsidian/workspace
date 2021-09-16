@@ -7,8 +7,11 @@
         "id": "3184d08e1c87a6a7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "business/_log-B/log_business-BA.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "business/_log-B/log_business-BA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "business/_log-B/log_business-BA.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "business/_log-B/log_business-BA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +129,7 @@
   },
   "active": "3184d08e1c87a6a7",
   "lastOpenFiles": [
+    "business/_log-B/log_business-BA.md",
     "language/_log-L.md/log-L-T_zh2en-Gen.md",
     "language/_log-L.md/log-L-T_zh2en_B-M.md",
     "language/_log-L.md/log-L-T_zh2en_B.md",
@@ -130,7 +138,6 @@
     "log_overall.md",
     "overall.md",
     "Untitled.md",
-    "_ENTRY.md",
-    "health-for-engineers-and-scientists/Untitled.md"
+    "_ENTRY.md"
   ]
 }

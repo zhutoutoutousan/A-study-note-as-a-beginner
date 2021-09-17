@@ -13,10 +13,11 @@
       - [Capital](#capital)
       - [Daily matters](#daily-matters)
       - [Medical](#medical)
+      - [Business](#business)
       - [IT](#it)
       - [Education](#education)
       - [Transportation](#transportation)
-      - [Business](#business)
+      - [Business](#business-1)
       - [Advisory](#advisory)
       - [Trade](#trade)
       - [Fitness](#fitness)
@@ -100,6 +101,12 @@ Ok, makes sense 2021-7-8
 - 买?
 - 玩
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
+- 学
+  - Why
+  - What
+  - How: 工具
+    - 知识存储
+      - [wolai](wolai.com)
 
 #### Medical
 - 2021年 中国医药CXO（研发及生产外包服务）行业概览
@@ -108,6 +115,9 @@ Ok, makes sense 2021-7-8
   - WACC
 - 艾瑞咨询
   - [中国医药产业互联网白皮书2020](http://qccdata.qichacha.com/ReportData/PDF/cf34194ceb3e70b088b576b88c3be61c.pdf)
+
+#### Business
+- 企业知识库&学习型组织
 #### IT
 - 2B
   - 低代码

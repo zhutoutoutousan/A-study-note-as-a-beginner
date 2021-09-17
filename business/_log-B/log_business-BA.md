@@ -111,6 +111,8 @@ Ok, makes sense 2021-7-8
 #### IT
 - 2B
   - 低代码
+    - STATUS: Maybe not a good idea to follow up Mobile, focus on web now
+      - Mobile sets UX bar higher, which is harder
     - 行业研究报告
       - 艾瑞咨询-2021年低代码行业研究报告：化繁为简
         - [link](https://bbs.huaweicloud.com/forum/thread-126881-1-1.html)

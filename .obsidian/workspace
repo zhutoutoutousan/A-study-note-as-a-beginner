@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "business/_log-B/log_business-BA.md",
+            "file": "business/_log-B/log_business-consulting.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "business/_log-B/log_business-BA.md",
+                "file": "business/_log-B/log_business-consulting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "business/_log-B/log_business-BA.md"
+                "file": "business/_log-B/log_business-consulting.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "business/_log-B/log_business-BA.md",
+                "file": "business/_log-B/log_business-consulting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +129,7 @@
   },
   "active": "3184d08e1c87a6a7",
   "lastOpenFiles": [
+    "business/_log-B/log_business-consulting.md",
     "business/_log-B/log_business-BA.md",
     "language/_log-L.md/log-L-T_zh2en-Gen.md",
     "language/_log-L.md/log-L-T_zh2en_B-M.md",
@@ -137,7 +138,6 @@
     "language/_log-L.md/log-L-T_en2zh.md",
     "log_overall.md",
     "overall.md",
-    "Untitled.md",
-    "_ENTRY.md"
+    "Untitled.md"
   ]
 }

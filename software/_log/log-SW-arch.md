@@ -149,10 +149,14 @@ I was asked yet another question that I certainly not able to answer in an elega
       - 样式总结
       - 尺寸标定
 - 前端如何与PM沟通?
+  - Technical backlog??
 - 前端如何与前端沟通?
 - 前端如何与后端沟通?
+  - [我和后端因为接口吵起来啦，还列了 5 锅罪](https://mp.weixin.qq.com/s/xbkVTv1DX1NZfEedp3biSw)
 - 前端如何与运维沟通?
+  - ??
 - 前端如何与测试沟通?
+  - ??
 
 ## Trying docker, stuck on tutorial
 ```

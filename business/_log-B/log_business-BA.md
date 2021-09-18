@@ -79,6 +79,7 @@ Ok, makes sense 2021-7-8
 - #ideasandinnovations BABOK, PMBOK, SWEBOK... --> 人类智慧结晶数据化, 社群化
   - Implementation: Website, APP
   - How about you write something
+  - 框架是智慧结晶, 树叶是案例, 案例可以推动框架的升级, 双向影响
 #### Capital
 - 2020年VC／PE机构薪酬与运营机制调查研究报告
 #### Daily matters
@@ -107,6 +108,8 @@ Ok, makes sense 2021-7-8
   - How: 工具
     - 知识存储
       - [wolai](wolai.com)
+        - [WOLAI，不仅仅是全能笔记软件 NOTION 的 “中国版”](https://x1g.la/wolai-cn.html)
+      - notion
 
 #### Medical
 - 2021年 中国医药CXO（研发及生产外包服务）行业概览

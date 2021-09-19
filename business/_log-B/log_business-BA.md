@@ -37,7 +37,7 @@
     - [Starting forming a plan](#starting-forming-a-plan)
   - [2021/8/24](#2021824)
     - [做遗忘曲线+Obsidian+...的竞品分析#ideasandinnovations](#做遗忘曲线obsidian的竞品分析ideasandinnovations)
-  - [2021/8/25](#2021825)
+  - [2021/9/18](#2021918)
 
 # Outbound space
 #NewTech-BusinessAnalyst
@@ -66,15 +66,20 @@ Ok, makes sense 2021-7-8
 - [Factly](https://factly.in/)
 ### Industry study
 #### Channels
-- [商业新知](https://www.shangyexinzhi.com/)
-- [未来智库](https://www.vzkoo.com/)
-- [墨天轮](https://www.modb.pro/)
-- [36Kr](https://www.36kr.com/)
-  - *让一部分人先看到未来*
-  - ToB行业头条
-- Hackernews
-- [产业研究报告网](http://www.chinairr.org/)
-- [疯狂BP](http://www.nutsbp.com/)
+- 商业洞见
+  - [商业新知](https://www.shangyexinzhi.com/)
+  - [未来智库](https://www.vzkoo.com/)
+  - [墨天轮](https://www.modb.pro/)
+  - [36Kr](https://www.36kr.com/)
+    - *让一部分人先看到未来*
+    - ToB行业头条
+  - Hackernews
+  - [产业研究报告网](http://www.chinairr.org/)
+- 资源库
+  - [疯狂BP](http://www.nutsbp.com/)
+  - [EmojiAll - 表情包查询](https://www.emojiall.com/zh-hans)
+  - 云盘私库
+    - [2021-8-18白皮书compilation](https://pan.baidu.com/s/14pUe-hfeWjmzFBsS9P-4_A) n07m
 #### Human development level
 - #ideasandinnovations BABOK, PMBOK, SWEBOK... --> 人类智慧结晶数据化, 社群化
   - Implementation: Website, APP
@@ -101,6 +106,8 @@ Ok, makes sense 2021-7-8
     - 
 - 买?
 - 玩
+  - 社交
+    
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
 - 学
   - Why
@@ -122,6 +129,8 @@ Ok, makes sense 2021-7-8
 #### Business
 - 企业知识库&学习型组织
 #### IT
+- AI
+  - 中国新一代人工智能科技产业发展报告(2021)
 - 2B
   - 低代码
     - STATUS: Maybe not a good idea to follow up Mobile, focus on web now
@@ -151,6 +160,7 @@ Ok, makes sense 2021-7-8
 #### Education
 - 全球教育智能化报告 - 德勤
   - [link](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/technology-media-telecommunications/deloitte-cn-tmt-global-development-of-ai-based-education-zh-191108.pdf)
+- 国家单位教育体系研究
 #### Transportation
 - [特斯拉2021-Q1财报看点深度分享](https://www.youtube.com/watch?v=yovWPlbQ0sE)
   - Anything?
@@ -268,4 +278,7 @@ Ok, makes sense 2021-7-8
   - https://www.besta.com.tw/zh-tw/Home/index
     - https://patentimages.storage.googleapis.com/42/68/10/0ce0ef56cceabb/CN1728121A.pdf
 
-## 2021/8/25
+## 2021/9/18
+- #ideasandinnovations 吃喝玩乐的app, 能不能让用户自己构建一个时间线故事(user/tour story), 然后新增人等
+  - 有时候我计划了一个地方, 我需要根据这个地方搜索附近
+  - 类似google hangout?

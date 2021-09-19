@@ -9,3 +9,5 @@
   - This could serve as an entry for you to enter the academic world
   - Read those big circle papers first
 - [Quanta Magazine - YouTube](https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg)
+- [Aminer](https://www.aminer.cn/)
+  - AI read science

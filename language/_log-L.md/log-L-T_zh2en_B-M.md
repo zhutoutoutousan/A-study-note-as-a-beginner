@@ -6,3 +6,7 @@
 
 # J
 - 竞争同质化
+
+# S
+- 私域流量
+  - https://wiki.mbalib.com/wiki/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F

@@ -201,6 +201,6 @@ I was asked yet another question that I certainly not able to answer in an elega
 
 ## create-react-app定制
 https://zhuanlan.zhihu.com/p/96103181
-https://www.pluralsight.com/guides/how-to-load-svg-with-react-and-webpack
-https://github.com/timarney/react-app-rewired
+https://www.pluralsight.com/guides/how-to-load-svg-with-react-and-webpack  
+https://github.com/timarney/react-app-rewired    
 https://github.com/arackaf/customize-cra

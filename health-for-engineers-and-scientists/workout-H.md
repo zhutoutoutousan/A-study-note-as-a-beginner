@@ -126,6 +126,6 @@ days, dimension, performance
 - Thursday
   - Off day
 - Friday
-  - Leg day
-- Saturday
   - Shoulder day
+- Saturday
+  - Leg day

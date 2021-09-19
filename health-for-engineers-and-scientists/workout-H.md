@@ -80,10 +80,10 @@
       - 30km
 - Goal
   - Strength
-    - Squat: 160kg * 3
-    - Deadlift: 200kg
-    - Bench press: 120kg
-    - Overhead press: 60kg * 4
+    - Squat: 200kg
+    - Deadlift: 250kg
+    - Bench press: 140kg
+    - Overhead press: 100kg
     - Pull-ups: 15 | 3*+30kg
   - Endurance
     - Bike ride
@@ -106,26 +106,8 @@ days, dimension, performance
 - Sarm cycle
   - On at 10/3
 - Sunday
-  - Arm day
-  - Bicep
-    - Weighted chin-up 4-6RM 5SETS
-    - Compound curl 6-8RM 5SETS
-    - 21 curl 2SETS
-  - Tricep
-    - Skullcrusher 4-6RM 5SETS
-    - Push away 6-8RM 5SETS
-    - Kick back 6-8RM 3SETS
-  - Shoulder
-    - Side lateral raise 6-8RM 3SETS
-- Monday
-  - Back day
-- Tuesday
-  - Off day
-- Wednesday
-  - Chest day
-- Thursday
-  - Off day
-- Friday
-  - Shoulder day
-- Saturday
   - Leg day
+  - Barbell squat
+  - Leg press
+  - Bulgarian split squat
+- Monday

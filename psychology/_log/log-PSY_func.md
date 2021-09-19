@@ -4,6 +4,7 @@
     - [金童综合症](https://www.youtube.com/watch?v=JkSGP3Sk14U)
       - First-line nested sophistication
         - `Fake it until you make it`
+          - Betting on `debt-credit-productivity` leverage
       - Second-line nested sophistication
       - Third-line nested sophistication
     - [The psychology of narcissism - W. Keith Campbell](https://www.youtube.com/watch?v=arJLy3hX1E8)

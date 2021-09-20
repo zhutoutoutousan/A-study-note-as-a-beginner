@@ -111,3 +111,11 @@ days, dimension, performance
   - Leg press
   - Bulgarian split squat
 - Monday
+  - Arm day
+    - Weighted pull-up 5RM 5SETS
+    - Compound curl 6-8RM 5SETS
+  - Bicep
+    - Skull crusher 4-6RM 5SETS
+  - Tricep
+- Tuesday
+  - Off day

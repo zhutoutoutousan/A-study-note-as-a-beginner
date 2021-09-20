@@ -2,13 +2,18 @@
 ## Roadmap establishment
 - [互联网运营如何入门，如何自学？有哪些职位？](https://www.zhihu.com/question/270989134)
 
-## Native acumen
+## Native acumen - Brain gym
 - 在商场, 地铁, 马路等环境, 收集各种常人不会关注的信息, 并进行整合
   - 商场
     - Perception: 在2秒内得出视野内商场有多少人
       - 估算出其客流量
     - Orientation:
-      - 给出商场地形图, 在最快时间于大脑构建空间图像
+      - 给出商场地形图, 在最快时间于大脑构建空间图像, 并能随意旋转, 寻路
+        - 地理模型
+        - 消防模型
+        - 强弱电模型
+        - 建筑材料模型
+        - 面积模型
 - 上海房租地价地图 - mind palace
 - 上海交通地图 - mind palace
 ## Knowledge structure & Erudition

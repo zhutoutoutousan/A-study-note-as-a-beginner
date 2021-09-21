@@ -100,10 +100,27 @@
   - AWS Cloud
     - Progress
   - Consultant skills
-      - Please explain to me why you want to be a consultant, be specific  
+      - Please explain to me why you want to be a consultant, be specific
+      - Native skills
+        - Travel rigor
+        - Political rigor
+        - Financial rigor
   - Language skills as USP
   - 没有, 非常好
 - 策略
   - 目前你的信息收集据直觉已接近饱和, it's time for you to present to your mentor
   - 找导师, 展示一下现在的棋局是怎么样的, 然后咨询一下接下来的几步棋怎么下。 如何用简短的语言把棋局态势描述清楚很重要, 但不要花太久时间
+
+- Jordan B. Peterson
+  - X年后, 你想成为的人的人物画像
+  - X年后, 你不想成为的人的人物画像
+  - X年后, 最差情况你成为的人的人物画像
+  - X年后, 最好情况你成为的人的人物画像
+
+- 输出
+  - 我希望这一阶段的思考的最终交付物是
+    - 清晰的中短期规划, 可执行, 能够输出价值
+
+- WARNING
+  - 一个问题想好, 结束, 不要想着自己做着之后会很牛逼啥的自我陶醉, 经最近几个月的实际表现观察,自我陶醉状态的激素状态并不能对后续工作和思考产生任何正面因素, 反而会劫持大脑奖励系统形成成瘾的恶性循环
 ## Output system  

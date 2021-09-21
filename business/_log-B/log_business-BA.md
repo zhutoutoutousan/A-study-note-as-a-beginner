@@ -25,9 +25,11 @@
       - [Pharmaceutical](#pharmaceutical)
       - [New Industry](#new-industry)
       - [Translation](#translation)
+      - [Talents](#talents)
   - [Supportive Tools](#supportive-tools)
-- [Business outputs](#business-outputs)
-  - [Writing](#writing)
+  - [Business outputs](#business-outputs)
+    - [Writing](#writing)
+  - [Information flow](#information-flow)
 - [log](#log)
   - [2021/7/24](#2021724)
     - [Business analyst courses](#business-analyst-courses)
@@ -188,12 +190,16 @@ Ok, makes sense 2021-7-8
 - Archive
   - [中国翻译行业市场与译员现状分析](https://www.tjxz.cc/24067) !2014 --> 7yrs 
 
+#### Talents
+- [2018-2024年中国人才市场行业市场行情动态及未来发展趋势报告](https://www.chyxx.com/research/201711/586817.html)
+  - Not available due to IP restrictions
+
 ## Supportive Tools
 - Big data, Python, Data mining, NLP --> Insight
 
 
-# Business outputs
-## Writing
+## Business outputs
+### Writing
 - General
 - 产品白皮书
   - [如何写产品白皮书](http://www.woshipm.com/it/4236846.html)
@@ -203,6 +209,9 @@ Ok, makes sense 2021-7-8
 - 商业计划书(Business Proposal)
   - [MBA智库](https://wiki.mbalib.com/wiki/%E5%95%86%E4%B8%9A%E8%AE%A1%E5%88%92%E4%B9%A6)
   - [伞友干货：BP（商业计划书）写作攻略](https://www.jianshu.com/p/4835505ac73b)
+
+## Information flow
+- [2020年中国商业发展趋势汇总](https://zhuanlan.zhihu.com/p/100761719)
 # log
 ## 2021/7/24
 ### Business analyst courses

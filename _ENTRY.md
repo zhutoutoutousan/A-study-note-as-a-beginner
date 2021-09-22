@@ -227,3 +227,7 @@
 
 # Useful tools
 - [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
+
+K
+r16 N
+Westerngitaar

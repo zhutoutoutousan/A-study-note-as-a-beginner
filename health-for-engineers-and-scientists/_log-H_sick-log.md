@@ -24,6 +24,8 @@
 - [2021/9/7](#202197)
   - [Possible Hidradenitis suppurativa](#possible-hidradenitis-suppurativa)
   - [Vague pain on upper-right side abdomin](#vague-pain-on-upper-right-side-abdomin)
+- [2021/9/22](#2021922)
+  - [WARNING: Eat your breakfast in time](#warning-eat-your-breakfast-in-time)
 
 #thehealthmatters
 
@@ -227,3 +229,7 @@ After you did it and got everything back to normal, answer this question:
 ## Vague pain on upper-right side abdomin
 - Pending health check requirements, waiting for addressing
 - Possible too much gas in the GI tract, but medical check recommended
+
+# 2021/9/22
+## WARNING: Eat your breakfast in time
+This is the warning from your second-line psychological infrastructure. Plz address this problem in a timely manner

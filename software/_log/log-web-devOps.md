@@ -14,3 +14,14 @@
 # 2021/5/25
 ## How to keep-alive SSH connection
 - [How to Keep Alive SSH Sessions](https://patrickmn.com/aside/how-to-keep-alive-ssh-sessions/)
+
+# 2021/9/22
+- Learning Azure
+  - Documents
+    - https://docs.microsoft.com/en-us/azure/devops/organizations/projects/project-vision-status?view=azure-devops
+    - https://docs.microsoft.com/en-us/azure/devops/cli/?view=azure-devops
+  - Tutorials
+    - General
+      - DevOps Engineering Course for Beginners --link
+      - [DevOps Full Course | Learn DevOps In 10 Hours | DevOps Tutorial For Beginners | DevOps | Simplilearn](https://www.youtube.com/watch?v=5KtRF4NuUWE)
+    - Azure

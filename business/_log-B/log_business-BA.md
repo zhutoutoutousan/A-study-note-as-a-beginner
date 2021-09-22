@@ -64,6 +64,7 @@ Ok, makes sense 2021-7-8
 
 ## Information gathering
 ### Data collection
+- [KDF](https://kdf.ai/)
 ### Fact check
 - [Factly](https://factly.in/)
 ### Industry study
@@ -107,9 +108,9 @@ Ok, makes sense 2021-7-8
   - 汽车
     - 
 - 买?
+  - [90后人群消费趋势研究报告](http://www.invest-data.com/eWebEditor/uploadfile/2019102016541697033330.pdf)
 - 玩
   - 社交
-    
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
 - 学
   - Why
@@ -119,7 +120,8 @@ Ok, makes sense 2021-7-8
       - [wolai](wolai.com)
         - [WOLAI，不仅仅是全能笔记软件 NOTION 的 “中国版”](https://x1g.la/wolai-cn.html)
       - notion
-
+- 人
+  - [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019%E8%85%BE%E8%AE%AF00%E5%90%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/)
 #### Medical
 - 2021年 中国医药CXO（研发及生产外包服务）行业概览
   - [link](https://pdf.dfcfw.com/pdf/H3_AP202105281494438090_1.pdf?1622197908000.pdf)
@@ -131,6 +133,8 @@ Ok, makes sense 2021-7-8
 #### Business
 - 企业知识库&学习型组织
 #### IT
+- Uncategorized
+  - CPS
 - AI
   - 中国新一代人工智能科技产业发展报告(2021)
 - 2B
@@ -193,6 +197,8 @@ Ok, makes sense 2021-7-8
 #### Talents
 - [2018-2024年中国人才市场行业市场行情动态及未来发展趋势报告](https://www.chyxx.com/research/201711/586817.html)
   - Not available due to IP restrictions
+
+
 
 ## Supportive Tools
 - Big data, Python, Data mining, NLP --> Insight

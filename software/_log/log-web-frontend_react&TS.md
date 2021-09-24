@@ -167,7 +167,7 @@ const style = (theme) => {
   - Previous Vue, element-ui project experience
 - 2021-7-10~2021-8-1
   - 1 hr a week
-  - Learning Consulting basic knowledge and training
+  - Learning Work-related basic knowledge and training
 - 2021-8-1~2021-9-1
   - Getting a project, made contact with project structure
   - Getting with the syntax, began internalization

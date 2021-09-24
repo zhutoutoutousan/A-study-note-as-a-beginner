@@ -185,9 +185,25 @@ const style = (theme) => {
   - Increased confidence on more desirable changes
   - Increased confidence on trying multiple tools
   - Mock
+  - 穴脉打通: 
+    - Webpack
+      - create-react-app
+        - react-rewire
+          - Loader
+    - 项目结构
+      - CSS in JS
+    - Mock
+    - React
+      - 生命周期
+      - Hook
+      - Class/函数组件
+      - JSX
+      - 组件通信?
+    - MUI
+    - Official Kit
 - Now
   - Now it's the chance to maximize the first productivity and confidence surge, allocate more time on React to make it stick
-
+  - A frontend backlog with clear and in-depth insight of project progression imminent --> Google Sheet
 - How to accelerate this process when learning a new framework next time?
   - Know your place
     - Average time for developers with Vue experience

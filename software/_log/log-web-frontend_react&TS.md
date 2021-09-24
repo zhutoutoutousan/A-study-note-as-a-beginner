@@ -198,7 +198,7 @@ const style = (theme) => {
   - Strategy
     - Maybe just read through the document more
     - It is natural process
-    - 菜是原罪, 每天不要浪费时间流下泪的菜水, 想办法变得less菜
+    - 菜是原罪, 但每天不要浪费时间流下泪的菜水, 想办法变得less菜
 
 ```
 越用会发现越多的坑。最开始可能是 createClass 和 ES6 Class 转换、组件生命周期的使用、事件处理函数的传递、设计模块间的引用关系、使用 npm 上的第三方组件等

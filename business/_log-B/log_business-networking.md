@@ -1,3 +1,15 @@
+# Buffer to permanent notes
+- Appearance
+  - Outfit
+    - Clothing
+    - Haircut
+  - Hygiene
+  - Habit
+    - Body language
+    - Wording
+      - Tonal
+- Empathy
+  - Characteristics and nuances of Cognition frameworks of people from different backgrounds
 # 2021/6/16
 ## How to show others that you are open to suggestions and capable of ruling out defense mechanisms
 
@@ -54,3 +66,13 @@
 # 2021/9/23
 ## Effective Social Media Operation
 - Wechaty Chatbot
+
+# 2021/9/24
+## How to answer other people's questions
+- Make sure you understand other people's questions
+  - *Here's my understanding of your question: ... Is that correct?*
+- Elaborate and extrapolate the question
+  - Don't over-complicate things
+  - *So, here's what I'm thinking...*
+- Re-mention the question, and wrap-it up the deduction and draw a summary, action items and closing words
+  - *To wrap it up, ...*

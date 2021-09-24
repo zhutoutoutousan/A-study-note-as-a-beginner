@@ -105,17 +105,19 @@ days, dimension, performance
     - Overloading set: 3SETS/WEEK
 - Sarm cycle
   - On at 10/3
-- Sunday
-  - Leg day
-  - Barbell squat
-  - Leg press
-  - Bulgarian split squat
-- Monday
+- Friday
+  - Back day
+  - Deadlift 4-6RM 5SETS
+  - Weighted Pull-up 4-6RM 5SETS
+  - Front lever 5 TRIES
+  - Chest supported row 4-6RM 5SETS
+  - W-T-Y raise 6-8RM 5SETS
+- Saturday
   - Arm day
-    - Weighted pull-up 5RM 5SETS
-    - Compound curl 6-8RM 5SETS
-  - Bicep
-    - Skull crusher 4-6RM 5SETS
-  - Tricep
-- Tuesday
+- Sunday
   - Off day
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday

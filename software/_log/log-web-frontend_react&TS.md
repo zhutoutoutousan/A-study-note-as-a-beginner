@@ -36,6 +36,8 @@
   - [In which scenario did `ComponentDidUpdate()` trigger](#in-which-scenario-did-componentdidupdate-trigger)
 - [2021/9/13-](#2021913-)
   - [A quick grasp of `react-router-dom`](#a-quick-grasp-of-react-router-dom)
+- [2021/7/10-2021/9/24](#2021710-2021924)
+  - [A journey to React and Material-UI: Fighting Imposter Syndrome](#a-journey-to-react-and-material-ui-fighting-imposter-syndrome)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -158,9 +160,55 @@ const style = (theme) => {
 
 
 
+# 2021/7/10-2021/9/24
+## A journey to React and Material-UI: Fighting Imposter Syndrome
+- Before 2021-7/10
+  - Played around React for a few months with demo projects
+  - Previous Vue, element-ui project experience
+- 2021-7-10~2021-8-1
+  - 1 hr a week
+  - Learning Consulting basic knowledge and training
+- 2021-8-1~2021-9-1
+  - Getting a project, made contact with project structure
+  - Getting with the syntax, began internalization
+- 2021-9-1~2021-9-24
+  - Struggling phase, minimum output
+  - Getting with agile, frontend backlog
+  - Requirement analysis
+  - Work-related stuffs
+- 2021-9-24~
+  - Read official doc with less mental effort
+  - First productivity surge of internalization
+  - Accelerated development
+  - Internalized image of project structure and component design
+  - Webpack rewired configuration
+  - Increased confidence on more desirable changes
+  - Increased confidence on trying multiple tools
+  - Mock
+- Now
+  - Now it's the chance to maximize the first productivity and confidence surge, allocate more time on React to make it stick
 
+- How to accelerate this process when learning a new framework next time?
+  - Know your place
+    - Average time for developers with Vue experience
+      - Anecdotal
+        - 3 days
+        - A few months
+        - 3-6 months
+  - Strategy
+    - Maybe just read through the document more
+    - It is natural process
+    - 菜是原罪, 每天不要浪费时间流下泪的菜水, 想办法变得less菜
 
+```
+越用会发现越多的坑。最开始可能是 createClass 和 ES6 Class 转换、组件生命周期的使用、事件处理函数的传递、设计模块间的引用关系、使用 npm 上的第三方组件等
 
+等真正做项目了，就更多了， Webpack 的配置、与 jQuery 系组件的整合、引入 Sass 、 Redux 的各种坑（ react-redux 、对于 Immutable 的理解、设计 MiddleWare 等）， API 的设计、 react-router 的层次结构设计，异步加载，权限管理等
+
+除非已经有现成的项目可以参考，否则我认为楼上的各位觉得几天到一周就能 “学会”，太过于乐观了（或者说站在已经“学会”的上帝视角来看是不准确的）
+
+React 本身不难，难就难在全家桶的整合，以及如何构建项目。
+```
 
 # ARCHIVED
 ## 2021/7/23-

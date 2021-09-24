@@ -1,4 +1,5 @@
 # Buffer to permanent notes
+## Points to consider
 - Appearance
   - Outfit
     - Clothing
@@ -62,6 +63,8 @@
 ## Law School 
 - University of Virginia School of Law
   - [Managing Client Relationships as an Investment Banker, Lawyer or Consultant](https://www.youtube.com/watch?v=z8kqCIxXTEw)
+2021/9/24: As this section is getting more and more important, consider
+
 
 # 2021/9/23
 ## Effective Social Media Operation
@@ -76,3 +79,9 @@
   - *So, here's what I'm thinking...*
 - Re-mention the question, and wrap-it up the deduction and draw a summary, action items and closing words
   - *To wrap it up, ...*
+
+## How to position your body when listening to others?
+
+## How to establish Initial contact?
+- Simulate & Inquire
+  - Sense of Priority

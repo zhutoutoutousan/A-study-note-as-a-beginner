@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Career](#career)
+  - [Developer](#developer)
+  - [References](#references)
 - [Software engineering](#software-engineering)
 - [Fullstack experience](#fullstack-experience)
 - [Front-end development](#front-end-development)
@@ -27,6 +29,8 @@
   - [Entertainment](#entertainment)
 
 # Career 
+## Developer
+## References
 - Long-term memory stimulation
   - [Front-end handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
   - [Frontend-study-resource](https://github.com/sankincn/frontend-study-resource)
@@ -143,11 +147,6 @@
           - No need to run through the code
         - Study for being more competent using express
       - [github repo](https://github.com/FrontendMasters/api-design-node-v3)
-
-
-
-
-
 
 # Projects
 ## UI

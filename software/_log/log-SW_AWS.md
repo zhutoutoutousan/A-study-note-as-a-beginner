@@ -17,7 +17,7 @@ https://www.brainscape.com/subjects/aws-certified-solutions-architect
 https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 #  Guided Video
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
-	- Bookmark: 29-45/11-58-36
+	- Bookmark: 41-46/11-58-36
 
 
 
@@ -60,5 +60,17 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - User ARN
 - CloudFormation
 - VPC
-
+- Blue/Green Deployment
+- In-Place Deployment
+- Route 53
+  - Resources
+    - [AWS Route 53 Introduction](https://www.youtube.com/watch?v=10JKpg-eqZU)
+      - 1-53
+  - Concepts
+    - DNS
+      - AWS common record
+        - A: URL to IP
+        - AAAA
+        - CNAME
+        - Alias
 ## Toddler learning to walk

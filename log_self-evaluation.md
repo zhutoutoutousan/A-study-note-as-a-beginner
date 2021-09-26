@@ -126,3 +126,9 @@
     - 有一个类似的神经回路： Jordan B. Peterson的future prosepecting program是帮助确定目标的, 这个思维过程容易形成自我陶醉, 有时间可以在psychology section里边做下永久根除该神经回路的方法
     - PR(公共关系), 运营文案, 人际沟通也是自我陶醉神经回路及激素状态的主要触发点, 也需要有高效的心理调整策略
 ## Output system  
+
+
+```
+Points to consider
+
+```

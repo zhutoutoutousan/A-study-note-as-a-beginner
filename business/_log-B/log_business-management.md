@@ -13,6 +13,10 @@
   - [Let's say that you have 24 project-like sessions going on, how would you manage them](#lets-say-that-you-have-24-project-like-sessions-going-on-how-would-you-manage-them)
 - [2021/9/6](#202196)
   - [Discovering quantitative management](#discovering-quantitative-management)
+- [2021/9/25-](#2021925-)
+  - [Agility system for the most pressing scenarios](#agility-system-for-the-most-pressing-scenarios)
+  - [Signs of a great plan](#signs-of-a-great-plan)
+  - [Facts to support an effective plan making](#facts-to-support-an-effective-plan-making)
 # Buffer to permanent note
 ## Personal management
 - Recognition
@@ -77,3 +81,17 @@
 - [quantitative-techniques-for-management](https://gtumbanotes.files.wordpress.com/2011/06/quantitative-techniques-for-management.pdf)
 - [Quantitative Methods for Management](https://ddceutkal.ac.in/Syllabus/MBA-BOOK/Quantitative-Methods-Management.pdf)
 - [Introduction to Quantitative Management](https://www.tandfonline.com/doi/abs/10.1080/00401706.1969.10490697?journalCode=utch20)
+
+# 2021/9/25-
+## Agility system for the most pressing scenarios
+## Signs of a great plan
+- YES
+  - TODOs are compact, challenging but not overwhelming
+  - With the pre-exerted effort of the big picture, during execution phase, less concerns will be geared towards the second thoughts when not needed
+- NO
+  - The plan is not achievable, it is destined to fail, but it will free you of those proactive attitude
+
+## Facts to support an effective plan making
+- How much sleep do you usually need? In what condition? Will it shift?
+  - 2021-9-26
+    - 10-00

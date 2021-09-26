@@ -16,10 +16,15 @@
 ## F
 - FY - Fiscal year : 财年
 
+## G
+- 隔行如隔山: Difference in profession makes one feel worlds apart
+
 ## L
 - Litigation exposure
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
   - [Litigation risk analysis](https://en.wikipedia.org/wiki/Litigation_risk_analysis)
+
+
 
 ## M
 - Mkt cap: (Market Capital)
@@ -27,6 +32,10 @@
 ## R
 - Regulatory exposure
 - Reputational exposure
+
+## S
+- Skin in the game
+  - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
 
 # Accounting
 ## _
@@ -45,3 +54,4 @@
   - Thesaurus
     - EBITD
     - EBIT
+

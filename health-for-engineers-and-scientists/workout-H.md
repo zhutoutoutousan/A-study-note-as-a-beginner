@@ -69,8 +69,8 @@
 - Fitness test
   - Strength
     - Squat: 160kg Intermediate
-    - Deadlift: 190kg Pre-advanced
-    - Bench press: 105kg Pre-intermediate * 1
+    - Deadlift: 200kg Pre-advanced
+    - Bench press: 110kg Pre-intermediate * 1
     - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
   - Endurance
@@ -97,6 +97,8 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
+- Falling off the wagon about nutrition?
+  - Use `myfitnesspal`
 - *Texas method(Powerlifting during SARM cycle on, Hypertrophy during SARM cycle off)
   - https://www.bilibili.com/read/cv7390570
 - **Hypertrophy**
@@ -113,7 +115,15 @@ days, dimension, performance
   - Chest supported row 4-6RM 5SETS
   - W-T-Y raise 6-8RM 5SETS
 - Saturday
-  - Arm day
+  - Shoulder day
+  - Tricep
+    - Skull crusher 4-6RM 5SETS
+    - Close grip bench press 6-8RM 5SETS
+    - Tricep pushaway 4-6RM 5SETS
+    - Wide push-up 6-8RM 5SETS
+  - Shoulder
+    - Overhead press 4-6RM 5SETS
+    - Side lateral 
 - Sunday
   - Off day
 - Monday

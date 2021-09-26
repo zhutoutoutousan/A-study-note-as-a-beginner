@@ -11,6 +11,16 @@
       - Tonal
 - Empathy
   - Characteristics and nuances of Cognition frameworks of people from different backgrounds
+
+## Hardcore intellectual attributes
+- Distrubuted graph of networking
+  - Ultimate version
+    - Detailed background
+    - Detailed relationship
+    - Face-entity connection
+    - Value-priority-based weighting system
+  - Ref: Game - Orwell
+
 # 2021/6/16
 ## How to show others that you are open to suggestions and capable of ruling out defense mechanisms
 
@@ -77,9 +87,26 @@
 - Elaborate and extrapolate the question
   - Don't over-complicate things
   - *So, here's what I'm thinking...*
-- Re-mention the question, and wrap-it up the deduction and draw a summary, action items and closing words
+- **Re-mention the question**, and wrap-it up the deduction and draw a summary, action items and closing words
   - *To wrap it up, ...*
 
+YOUR PROBLEM 你的问题:
+- 2021-9-24
+  - Scenario
+    - M: Why don't Chinese say no to a product instead of directly refusing, like 'Yes, it's good, but...'
+    - **You: Oh, the level of inequality of China is high, and the soul of the ...people are...**
+    - M: **You didn't answer my question...Let's try again**
+    - You: Because we don't want to hurt other's feelings...We want to show that we have high EQ, which is regarded as competitiveness in our society...
+    - M: That's better
+  - Analysis:
+    - Lack of Communication Training
+    - Root
+      - Evading: Legacy psychological disorder: Vulerable Narscissism
+        - Cure
+          - How would your Unique Selling Point contribute to the value chains to the social machine? Will that be unique for long?
+            - Proof?
+            - This root would take some time to be lifted
+            - Lifting this root will make networking efforts significantly smoother
 ## How to position your body when listening to others?
 
 ## How to establish Initial contact?

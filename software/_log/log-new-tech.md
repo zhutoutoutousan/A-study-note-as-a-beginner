@@ -127,4 +127,9 @@
   - [试用链接](https://www.genexus.com/en/products/genexus/try-genexus)
 
 ### Zoho Creator
-- 
+
+
+
+# 2021/9/24
+## E2E test platforms
+https://www.katalon.com/resources-center/blog/end-to-end-e2e-testing/

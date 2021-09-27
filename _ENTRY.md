@@ -46,7 +46,7 @@
 #thehealthmatters
 
 #techquestionsthatmattersnow
-
+#distributedmindsetmanagement
 
 # Explore the definition of **study framework**
 ## Basic idea

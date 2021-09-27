@@ -130,6 +130,8 @@
 ## API
 - [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
   - Progress: 50:24/2:19:32
+  - `curl` command internalization
+    - [API curl tips](https://puppet.com/docs/puppetdb/5.2/api/query/curl.html)
 ## Middleware
 ## Handler
 ## OS

@@ -1,8 +1,10 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent note](#buffer-to-permanent-note)
-  - [Timing resource](#timing-resource)
   - [Style](#style)
+  - [In-depth reading](#in-depth-reading)
+  - [Mental model](#mental-model)
+    - [Event](#event)
 - [2021/6/9-2021/6-15 | 2021/7/7-](#202169-20216-15--202177-)
   - [Accelerated learning of React using `ant-design-pro`](#accelerated-learning-of-react-using-ant-design-pro)
     - [Become comfortable with using mockjs for mock-backend](#become-comfortable-with-using-mockjs-for-mock-backend)
@@ -38,6 +40,7 @@
   - [A quick grasp of `react-router-dom`](#a-quick-grasp-of-react-router-dom)
 - [2021/7/10-2021/9/24](#2021710-2021924)
   - [A journey to React and Material-UI: Fighting Imposter Syndrome](#a-journey-to-react-and-material-ui-fighting-imposter-syndrome)
+- [2021/9/27-](#2021927-)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -46,14 +49,23 @@
 #dailyreview
 
 # Buffer to permanent note
-## Timing resource
-```csv
-_reqid ,_req, _pid,_sub,  _time, _desc
-1, 
-```
+
 ## Style
 - Adding `_` in non-lifecycle methods name 
   - Why?
+
+## In-depth reading
+- Material-UI next --> Drawer
+
+## Mental model
+### Event
+- Event trigger
+  - Parent to child
+    - Class
+    - Func
+  - Child to Parent
+  - To sibling
+  - To a specific almost irrevalent component
 
 # 2021/6/9-2021/6-15 | 2021/7/7-
 ## Accelerated learning of React using `ant-design-pro`
@@ -225,6 +237,12 @@ const style = (theme) => {
 
 React 本身不难，难就难在全家桶的整合，以及如何构建项目。
 ```
+
+# 2021/9/27-
+- 精通react/vue组件设计
+
+
+
 
 # ARCHIVED
 ## 2021/7/23-

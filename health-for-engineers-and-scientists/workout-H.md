@@ -127,6 +127,7 @@ days, dimension, performance
 - Sunday
   - Off day
 - Monday
+  - Chest day
 - Tuesday
 - Wednesday
 - Thursday

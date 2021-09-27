@@ -25,3 +25,8 @@
       - DevOps Engineering Course for Beginners --link
       - [DevOps Full Course | Learn DevOps In 10 Hours | DevOps Tutorial For Beginners | DevOps | Simplilearn](https://www.youtube.com/watch?v=5KtRF4NuUWE)
     - Azure
+
+# 2021/9/26
+## curl 500 proxy error
+- [完美解决V2RAY碰到500 Internal Privoxy Error问题](https://www.obodizhu.com/online/v2ray-fix-500-internal-privoxy-error.html)
+- [curl抽风了什么网站都是500](https://juejin.cn/post/6844903901133701134)

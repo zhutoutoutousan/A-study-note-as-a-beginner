@@ -196,6 +196,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - [link](https://drive.google.com/file/d/1PVd0vW0coowJ73zdOZcZQyyfzQWF9BF-/view?usp=sharing)
     - [Download Entry](https://knowdemia.com/download/pmbok-7th-edition-pdf/#)
     - [Ricardo Vargas Explains the PMBOK® Guide 7th Edition Published by PMI](https://www.youtube.com/watch?v=HVlrxOQoSUw)
+      - Videomark: 48-57/1-36-39
+      - Spanish/English double subtitle
 ## Management
 ### Enterprise architecture
 - TOGAF

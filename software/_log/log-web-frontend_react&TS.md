@@ -41,6 +41,8 @@
 - [2021/7/10-2021/9/24](#2021710-2021924)
   - [A journey to React and Material-UI: Fighting Imposter Syndrome](#a-journey-to-react-and-material-ui-fighting-imposter-syndrome)
 - [2021/9/27-](#2021927-)
+  - [Component design imminent](#component-design-imminent)
+  - [Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`](#difference-between-componentwillreceiveprops-and-getderivedstatefromprops)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -239,8 +241,12 @@ React 本身不难，难就难在全家桶的整合，以及如何构建项目�
 ```
 
 # 2021/9/27-
+
+## Component design imminent
 - 精通react/vue组件设计
 
+
+## Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`
 
 
 

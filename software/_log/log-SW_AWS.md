@@ -5,10 +5,10 @@
   - [Cramming](#cramming)
   - [Guided Video](#guided-video)
   - [Extensive materials ONLY TO LOOK AT](#extensive-materials-only-to-look-at)
-- [2021/8/27- Phase 1: Osmosis, Image construction, Initial intuition establishment](#2021827--phase-1-osmosis-image-construction-initial-intuition-establishment)
-  - [Toddler learning to speak](#toddler-learning-to-speak)
-  - [Toddler learning to walk](#toddler-learning-to-walk)
 - [Log](#log)
+  - [2021/8/27- General Learning - Phase 1: Osmosis, Image construction, Initial intuition establishment](#2021827--general-learning---phase-1-osmosis-image-construction-initial-intuition-establishment)
+    - [Toddler learning to speak](#toddler-learning-to-speak)
+    - [Toddler learning to walk](#toddler-learning-to-walk)
   - [2021/9/27-2021/10/17 AWS Developer Associate Attestation](#2021927-20211017-aws-developer-associate-attestation)
     - [Paradigm 1: 2021/9/27-2021/10/7](#paradigm-1-2021927-2021107)
       - [Kickstart](#kickstart)
@@ -45,8 +45,11 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - Blue/Green Deployments on AWS
 
 
-# 2021/8/27- Phase 1: Osmosis, Image construction, Initial intuition establishment
-## Toddler learning to speak
+# Log
+
+## 2021/8/27- General Learning - Phase 1: Osmosis, Image construction, Initial intuition establishment
+- This is context-oriented way to learn. If used for attestations, only allocate 20% of your time and energy
+### Toddler learning to speak
 - sns topics
 - EB 
   - EBS volume
@@ -87,10 +90,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
         - AAAA
         - CNAME
         - Alias
-## Toddler learning to walk
+### Toddler learning to walk
 
-
-# Log
 ## 2021/9/27-2021/10/17 AWS Developer Associate Attestation
 
 ### Paradigm 1: 2021/9/27-2021/10/7
@@ -98,9 +99,11 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - The power has been decided that you shall take your attestation on 2021/10/17
 
 #### Mindset adjustment
+#distributedmindsetmanagement
 - Texas Poker: Commit yourself 切断后路全身投入
   - Enough composure
   - Enough alignment with self and pre-vision of growth path
+  - If you can't even adopt and internalize the ability to use this mindset to empower yourself and clear out a path, then you really have no business working as a consultant
 - Up-tight risk control
   - Manage all parts of your time to ensure a full commitment with minimum risk
 #### Resources
@@ -112,7 +115,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - No clash with TestDaf 11/9
   - No clash with CATTI 11/9
 - Mindset
-- 
+  - Pending project schedule
 #### Planning phase 
 - Learn from others
   - [AWS Certified Developer Associate考试经验分享](https://www.douban.com/note/769295318/)
@@ -126,7 +129,12 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - Cramming
       - Ways derived
 
+- Daily action items
+  - 2hr plan
+    1. **Flashcard**
+    2. 
 #### **Imperative feedback-supported deliverables imminent**
 - Scheduled Mock Tests
   - 2021/9/30
-  - 
+  - Next Mock Tests
+  - 4-6 Mock Tests pending

@@ -17,6 +17,8 @@
       - [Current risk](#current-risk)
       - [Planning phase](#planning-phase)
       - [**Imperative feedback-supported deliverables imminent**](#imperative-feedback-supported-deliverables-imminent)
+  - [Attestation logistics](#attestation-logistics)
+    - [Mock tests](#mock-tests)
 
 # Buffer to permanent note
 
@@ -119,7 +121,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 #### Planning phase 
 - Learn from others
   - [AWS Certified Developer Associate考试经验分享](https://www.douban.com/note/769295318/)
-
+    - This dude took 
 - INTJ personality triggered
   - Prevision of daily allocated time
   - Prevision of daily study style
@@ -130,11 +132,21 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - Ways derived
 
 - Daily action items
-  - 2hr plan
+  - 2hr+ plan
     1. **Flashcard**
-    2. 
+      - [ ] Install `brainscape` into your mobile
+      - [ ] Group it with workout session
+        - Currently, during workout, in normal circumstances you must not leave the gym
+      - [ ] 
+    2. Video
+  - More plan
+    - Use it when you sense risk, consult your coach
 #### **Imperative feedback-supported deliverables imminent**
 - Scheduled Mock Tests
   - 2021/9/30
-  - Next Mock Tests
-  - 4-6 Mock Tests pending
+  - Next Mock Test
+  - 6-8 Mock Tests pending
+
+## Attestation logistics
+### Mock tests
+- [Examtopics](https://www.examtopics.com/)

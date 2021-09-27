@@ -42,6 +42,7 @@
 ## Top priority(limited to 3)
 #awsattestation
 #reactinternalization
+#rigorouscareerrelatedengagement
 ## Secondary priority
 #techquestionsthatmattersnow
 #dailyreview 

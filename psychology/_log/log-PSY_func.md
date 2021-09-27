@@ -8,3 +8,5 @@
       - Second-line nested sophistication
       - Third-line nested sophistication
     - [The psychology of narcissism - W. Keith Campbell](https://www.youtube.com/watch?v=arJLy3hX1E8)
+
+## Gatsby Effect, be aware as you progress and commit yourself

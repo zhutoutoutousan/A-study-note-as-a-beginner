@@ -2,6 +2,13 @@
 - [Table of Contents](#table-of-contents)
 - [Links](#links)
 - [Hashtags](#hashtags)
+  - [Top priority(limited to 3)](#top-prioritylimited-to-3)
+  - [Secondary priority](#secondary-priority)
+  - [Third priority](#third-priority)
+  - [Self-transformation](#self-transformation)
+  - [Supportive](#supportive)
+  - [Structural re-shape](#structural-re-shape)
+  - [Unranked](#unranked)
 - [Explore the definition of **study framework**](#explore-the-definition-of-study-framework)
   - [Basic idea](#basic-idea)
   - [Integration from great gaming experiences](#integration-from-great-gaming-experiences)
@@ -32,21 +39,29 @@
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
+## Top priority(limited to 3)
+#awsattestation
+#reactinternalization
+## Secondary priority
+#techquestionsthatmattersnow
+#dailyreview 
 #ideasandinnovations 
+## Third priority
+#sidequest 
+## Self-transformation
+#lifechanger 
+#emerginghabit 
+#activereading 
+#distributedmindsetmanagement
+## Supportive
+#thehealthmatters
 #automation
 #maximizedopaminepathway 
-#activereading 
-#considermerge 
-#sidequest 
-#dailyreview 
+## Structural re-shape
 #considerdisperse 
-#emerginghabit 
-#lifechanger 
+#considermerge 
 #considerrename 
-#thehealthmatters
-
-#techquestionsthatmattersnow
-#distributedmindsetmanagement
+## Unranked
 
 # Explore the definition of **study framework**
 ## Basic idea

@@ -93,7 +93,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ### Toddler learning to walk
 
 ## 2021/9/27-2021/10/17 AWS Developer Associate Attestation
-
+#awsattestation
 ### Paradigm 1: 2021/9/27-2021/10/7
 #### Kickstart
 - The power has been decided that you shall take your attestation on 2021/10/17

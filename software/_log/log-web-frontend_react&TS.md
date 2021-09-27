@@ -244,7 +244,7 @@ React 本身不难，难就难在全家桶的整合，以及如何构建项目�
 
 ## Component design imminent
 - 精通react/vue组件设计
-
+#reactinternalization
 
 ## Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`
 

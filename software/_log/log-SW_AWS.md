@@ -19,7 +19,8 @@
       - [**Imperative feedback-supported deliverables imminent**](#imperative-feedback-supported-deliverables-imminent)
   - [Attestation logistics](#attestation-logistics)
     - [Quick info retain](#quick-info-retain)
-    - [Mock tests](#mock-tests)
+    - [Main resource](#main-resource)
+  - [Current Strategy](#current-strategy)
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
 
 # Buffer to permanent note
@@ -253,12 +254,22 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ### Quick info retain
 - Linux Academy
 - AWS Learning Library
-- 
-### Mock tests
-- Knowledgehut
-  - [link](https://www.knowledgehut.com/practice-tests/)
-- [Examtopics](https://www.examtopics.com/)
-  - 404 as of 2021/9/28
+### Main resource
+- Input queue
+  - [AWS Certified Developer Associate Exam Study Guide [DVA-C01]](https://ravikirans.com/aws-certified-developer-associate-exam-study-guide/)
+  - [备战 AWS Certification 考试](https://aws.amazon.com/cn/certification/certification-prep/?src=certification-faqs)
+- Mock tests
+  - Knowledgehut
+    - [link](https://www.knowledgehut.com/practice-tests/)
+  - [Examtopics](https://www.examtopics.com/)
+    - 404 as of 2021/9/28
+- Card decks
+  - Cram
+    - [Basics card deck](https://www.cram.com/flashcards/aws-certified-developer-associate-course-7634708)
+  - Quizlet
+    - [AWS Certified Developer Associate 2021 Study Guide - Quizlet](https://quizlet.com/570090385/aws-certified-developer-associate-2021-study-guide-flash-cards/)
+  - Brainscape
+    - 
 - Downloaded Questions Set
   - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
     - 22% Deployment 14.3Q
@@ -269,8 +280,32 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
     - 12% Monitoring and Troubleshooting 7.8Q
   - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing)
   - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing)
+  - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 
-
+## Current Strategy
+- 抓大头
+  - 目标: Flashcard以可控可量化的形式迅速构建知识框架和试题认知, 击破80%的考试基础
+  - Brainscape
+    - **Exam Pro Flashcard**
+    - **2019 Test**
+  - Quizlet
+    - **2021 AWS Developer Associate Study Guide**
+- 构建框架
+  - 在Mock Test和Flashcard学习过程中以markdown bullet形式梳理知识结构
+- 两天一考, 实时反馈
+  - Knowledgehut
+  - 官方模考
+- 方向矫正, 查漏补缺
+  - [2021考点](https://d1.awsstatic.com/zh_CN/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
+  - [备战 AWS Certification 考试 - 查找考试指南、样题和其他备考资源](https://aws.amazon.com/cn/certification/certification-prep/?src=certification-faqs)
+    - 考试指南和样题
+    - AWS相关培训
+    - 白皮书相关问题(Flashcard master之后速读)
+    - **学习提示: 重点查看以下常见问题**
+      - **Amazon Simple Queue Service || Amazon DynamoDB || Amazon ElastiCache || Amazon Kinesis || AWS Lambda || Amazon API Gateway || AWS Elastic Beanstalk || AWS Identity and Access Management || AWS Key Management Service**
+    - 官方模考
+- 追踪动向
+  - Examtopics 2021题库
 ## Temporary Question-oriented connection store
 - Requirements - Hybrid
   - Low Latency

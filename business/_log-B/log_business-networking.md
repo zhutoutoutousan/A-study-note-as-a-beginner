@@ -112,3 +112,8 @@ YOUR PROBLEM 你的问题:
 ## How to establish Initial contact?
 - Simulate & Inquire
   - Sense of Priority
+
+
+# 2021/9/28
+## When being asked to answer questions, you have a tendency NOT to answer EXACTLY what people want?
+- This question is currently beneign, but will manifest when put under specific situations

@@ -304,7 +304,7 @@ is useful.
   - Building microservices in Go
     - [link](https://github.com/diptomondal007/GoLangBooks/blob/master/building-microservices-go.pdf)
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
-    - Progress: 19:50/6:39:57
+    - Progress: 21:26/6:39:57
   - Go for JavaScript Developers
     - [link](https://frontendmasters.com/courses/go-for-js-devs/)
   - Golang projects

@@ -26,6 +26,8 @@
   - [Vague pain on upper-right side abdomin](#vague-pain-on-upper-right-side-abdomin)
 - [2021/9/22](#2021922)
   - [WARNING: Eat your breakfast in time](#warning-eat-your-breakfast-in-time)
+- [2021/9/28](#2021928)
+  - [Sore in temperal lobe of the brain](#sore-in-temperal-lobe-of-the-brain)
 
 #thehealthmatters
 
@@ -233,3 +235,10 @@ After you did it and got everything back to normal, answer this question:
 # 2021/9/22
 ## WARNING: Eat your breakfast in time
 This is the warning from your second-line psychological infrastructure. Plz address this problem in a timely manner
+
+# 2021/9/28
+## Sore in temperal lobe of the brain
+- Gastroscopy reserved, awaiting assignment
+- Headache, sore feeling in the temperal lobe of the brain
+- Hidradenitis suppurativa recovered
+- Less GI tract complaints

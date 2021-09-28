@@ -43,6 +43,7 @@
 - [2021/9/27-](#2021927-)
   - [Component design imminent](#component-design-imminent)
   - [Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`](#difference-between-componentwillreceiveprops-and-getderivedstatefromprops)
+  - [React+Material UI+Grid的溢出问题](#reactmaterial-uigrid的溢出问题)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -248,8 +249,13 @@ React 本身不难，难就难在全家桶的整合，以及如何构建项目�
 
 ## Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`
 
-
-
+## React+Material UI+Grid的溢出问题
+#devproblemsfacing
+ 
+- 嵌套网格布局导致 UI 溢出/中断
+- 使用网格间距的材料UI React会使容器溢出
+- https://www.debugcn.com/article/50163145.html
+- https://bleepcoder.com/cn/material-components-web/246207043/nested-grid-layouts-cause-ui-to-overflow-break
 # ARCHIVED
 ## 2021/7/23-
 ### React source code reading

@@ -18,6 +18,7 @@
       - [Planning phase](#planning-phase)
       - [**Imperative feedback-supported deliverables imminent**](#imperative-feedback-supported-deliverables-imminent)
   - [Attestation logistics](#attestation-logistics)
+    - [Quick info retain](#quick-info-retain)
     - [Mock tests](#mock-tests)
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
 
@@ -154,14 +155,13 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - ASG
   - [AWS Auto Scaling Groups Introduction](https://www.youtube.com/watch?v=jvMoWjsP7Pk)
 - AMI
-
+- RDS Read Replica
 - User ARN
 - CloudFormation
 - VPC
 - Single zone implementation
 - Deployment types
   - Blue/Green Deployment
-
 - AWS EMR
 ### Toddler learning to walk
 - *Talk the talk, but walk carefully*: Walking takes time, effort and your youth, tred very carefully if you really want to test your walk
@@ -188,14 +188,24 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - OneNote --> Please migrate to this temp space as resource pool for reference
 
 #### Current risk
+- INTJ
+  - HIGH RISK: *Good job! All the effort for nothing*: OMG!!! I overslept!!!
+    - Solved by creating this whateveritis
+  - MEDIUM RISK: *Why should I need help from others?*
+  - LOW RISK: *What date should I take the test again?*
 - Schedule clashing
   - May clash with projects
   - No clash with TestDaf 11/9
   - No clash with CATTI 11/9
-- Mindset
   - Pending project schedule
+- Mindset
+  - LOW RISK: Legacy personal idiosyncracy as blockages
+    - *Scholar's Arrogance*: *老夫以修身为己任, 安得以证书为逐物乎?*
+      - Solved by creating migratable knowledge store to shun this quirk
+      - Through years' working experience, the mindset is deprecated, but some behavioural patterns might stick around
+  - LOW RISK: *Numb*: *I always eat deadlines for breakfast, before it arrives*
 - Exam readiness: *Mexico is way up there, and you're down here*
-  - Shock therapy test reveals estimated failure if no effort is exerted
+  - HIGH RISK: Shock therapy test reveals estimated failure if no effort is exerted
   - Requires efforts that you might need to clear up more time for the exam
 #### Planning phase 
 - Shock therapy: Take the test first: 2021/9/28
@@ -240,6 +250,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - 6-8 Mock Tests pending
 
 ## Attestation logistics
+### Quick info retain
+- Linux Academy
+- AWS Learning Library
+- 
 ### Mock tests
 - Knowledgehut
   - [link](https://www.knowledgehut.com/practice-tests/)

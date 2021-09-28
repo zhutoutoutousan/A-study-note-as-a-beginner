@@ -129,6 +129,7 @@ days, dimension, performance
 - Monday
   - Chest day
 - Tuesday
+  - Off day due to headache
 - Wednesday
 - Thursday
 - Friday

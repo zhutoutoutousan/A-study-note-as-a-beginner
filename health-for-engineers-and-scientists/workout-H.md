@@ -131,5 +131,6 @@ days, dimension, performance
 - Tuesday
   - Off day due to headache
 - Wednesday
+  - Arm day
 - Thursday
 - Friday

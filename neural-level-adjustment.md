@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+- [Context](#context)
 - [Random observation](#random-observation)
 - [Current structure for intelligence training](#current-structure-for-intelligence-training)
   - [Quantitative intelligence](#quantitative-intelligence)
@@ -32,7 +33,11 @@
 - You should describe as in detail as possible what new neural pattern you have formed to make a certain intellectual task more efficient for active retrieval.
 - You should link those trainings to specific academic or engineering performance, and monitor the before-after results to see whether the game you designed works or not
 
-
+# Context
+- 2021
+  - [智力的结构及功能磁共振成像研究进展](http://rs.yiigle.com/CN115902202104/1316260.htm)
+    - Parieto-frontal integration theory，P-FIT
+    - Possible deprecation of neural efficiency theory
 # Random observation
 - If you read stuffs, and you create a picture attached to it, you will consume more energy but obtain more agility.
   - 2021-9-12: links to experience of legendary conference interpretors

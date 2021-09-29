@@ -26,3 +26,5 @@
 名句是一种改变身体激素及心理状态以改变自身当前行为的工具, 不是提升认知的最佳途径。 - Me
 
 *You need a sentence to deflect negative thought patterns of comparing yourself to others, with a dysfunctional family doing exactly that considered. It needs to inject counter measures to cancel out your biological reactions so more mental energy can be guided to valuable actions*
+
+"Wer ein Warum hat zu leben, erträgt fast jedes Wie." ---Friedrich Nietzsche

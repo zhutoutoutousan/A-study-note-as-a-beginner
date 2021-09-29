@@ -44,10 +44,10 @@
 #reactinternalization
 #rigorouscareerrelatedengagement
 ## Secondary priority
-#devproblemsfacing
-#techquestionsthatmattersnow
-#dailyreview 
-#ideasandinnovations 
+#devproblemsfacing  
+#techquestionsthatmattersnow  
+#dailyreview  
+#ideasandinnovations : 仅用于投石问路, 如此项消耗时间精力超过5%, 启动Save and quit
 ## Third priority
 #sidequest 
 ## Self-transformation

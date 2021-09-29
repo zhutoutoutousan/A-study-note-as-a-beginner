@@ -1,5 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Buffer to permanent notes](#buffer-to-permanent-notes)
+  - [How to get away from being hospitalized under increasingly extreme conditions and workload?](#how-to-get-away-from-being-hospitalized-under-increasingly-extreme-conditions-and-workload)
+  - [Brain - Task mapping](#brain---task-mapping)
 - [2021/4/29](#2021429)
   - [Got some serious bacterial infection](#got-some-serious-bacterial-infection)
 - [2021/6/29](#2021629)
@@ -24,13 +27,27 @@
 - [2021/9/7](#202197)
   - [Possible Hidradenitis suppurativa](#possible-hidradenitis-suppurativa)
   - [Vague pain on upper-right side abdomin](#vague-pain-on-upper-right-side-abdomin)
+- [2021/9/9](#202199)
+  - [**Involuntary Pass-out**](#involuntary-pass-out)
+- [2021/9/11](#2021911)
+  - [**Involuntary Pass-out**](#involuntary-pass-out-1)
 - [2021/9/22](#2021922)
   - [WARNING: Eat your breakfast in time](#warning-eat-your-breakfast-in-time)
-- [2021/9/28](#2021928)
+- [2021/9/23](#2021923)
+  - [**Involuntary Pass-out**](#involuntary-pass-out-2)
+- [2021/9/28-2021/9/29](#2021928-2021929)
   - [Sore in temperal lobe of the brain](#sore-in-temperal-lobe-of-the-brain)
+  - [Sleep deprivation starts to manifest](#sleep-deprivation-starts-to-manifest)
 
 #thehealthmatters
 
+# Buffer to permanent notes
+## How to get away from being hospitalized under increasingly extreme conditions and workload?
+- According to the data collected, working from home lifestyle can reduce the chance of infection as the workload typically shuns the immune system and increase the risk of exposure, as shown in 2021/4
+
+## Brain - Task mapping
+- Prefrontal Cortex
+  - Deciding where to hang out with friends
 # 2021/4/29
 ## Got some serious bacterial infection
 - Got some tips for the serious abdominal pain when taking some drugs to counter-effect the high fever: The pain is most likely caused by serious muscle cramp, which pretty much always happens when you have severe bacterial infection. 
@@ -228,17 +245,34 @@ After you did it and got everything back to normal, answer this question:
       - Natural deodorant
       - Loose-fitting clothes
       - Apple cider vinegar
+
+
 ## Vague pain on upper-right side abdomin
 - Pending health check requirements, waiting for addressing
 - Possible too much gas in the GI tract, but medical check recommended
 
+# 2021/9/9
+## **Involuntary Pass-out**
+
+# 2021/9/11
+## **Involuntary Pass-out**
 # 2021/9/22
 ## WARNING: Eat your breakfast in time
 This is the warning from your second-line psychological infrastructure. Plz address this problem in a timely manner
 
-# 2021/9/28
+# 2021/9/23
+## **Involuntary Pass-out**
+
+# 2021/9/28-2021/9/29
 ## Sore in temperal lobe of the brain
 - Gastroscopy reserved, awaiting assignment
 - Headache, sore feeling in the temperal lobe of the brain
 - Hidradenitis suppurativa recovered
 - Less GI tract complaints
+
+## Sleep deprivation starts to manifest
+- Increased whole-body inflammation level
+  - Acne
+  - Cyst
+- Brain fog
+- I highly doubt that all those pain you have during the sleep deprivation period are nerve pains due to the increase inflammation level 

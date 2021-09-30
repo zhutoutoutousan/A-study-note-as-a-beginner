@@ -4,8 +4,6 @@ https://speakerhubhq.medium.com/your-speech-pace-guide-to-speeding-and-slowing-d
 ## Shadow Reading(English)
 ## Mock conference translation
 - [5 Tips for Practicing Consecutive Interpreting](https://www.youtube.com/watch?v=ttHYtsmT18g)
-
-
 - [Practice of consecutive interpreting especially designed for English foreign language students.](https://www.youtube.com/watch?v=UuebgikyKRs)
   - 2021-8-17
     - 弱: 气候变化话题的中文表达

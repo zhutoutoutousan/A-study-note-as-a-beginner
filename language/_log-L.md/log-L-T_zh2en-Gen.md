@@ -208,14 +208,15 @@ Example
 - 放宽市场准入
   - Broaden market access
 - 符合...人的利益
-  - Suits ...'s best interests
+  - Suits ...'s **best**? interests
 ## G
 - 高质量发展的动力系统
 - 供给侧结构性改革 : Supply-side structural reform
 - 改革开放
   - China's reform and opening up
 - 国务院常务会议
-  - 
+  - State Council executive meeting
+  - *wiki*
 ## H
 - 后遗症
   - sequela
@@ -257,6 +258,7 @@ Example
 - 牛年
 ## O
 - 欧洲三剑客
+  - [和剑桥牛津并称的"欧洲三剑客"，原来在这！](https://zhuanlan.zhihu.com/p/39500387)
 
 ## Q
 - 政治
@@ -272,6 +274,54 @@ Example
 - 人权
   - Human rights
 ## S
+- 战争
+  - 三十六计: 36 Strategies
+    - 胜战： Winning engagement
+      - 瞒天过海: ?
+      - 围魏救赵: ?
+      - 借刀杀人: ?
+      - 以逸待劳: ?
+      - 趁火打劫: ?
+      - 声东击西: ?
+    - 敌战: Pre-Engagement
+      - 无中生有
+      - 暗度陈仓
+      - 隔岸观火
+      - 笑里藏刀
+      - 李代桃僵
+      - 顺手牵羊
+    - 攻战: In-Engagement
+      - 打草惊蛇
+      - 借尸还魂
+      - 调虎离山
+        - Luring the tiger out of his den
+      - 欲擒故纵
+      - 抛砖引玉
+      - 擒贼擒王
+    - 混战: Heat of Engagement
+      - 釜底抽薪
+        - Pull the plug
+        - [wiki](https://zh.wikipedia.org/wiki/%E9%87%9C%E5%BA%95%E6%8A%BD%E8%96%AA)
+        - [「釜底抽薪」英文能怎麼翻譯？翻譯真的很特別](https://twgreatdaily.com/3p7g1W0BMH2_cNUgDRw3.html)
+      - 浑水摸鱼
+      - 金蝉脱壳
+      - 关门捉贼
+      - 远交近攻
+      - 假途伐虢
+    - 并战：?
+      - 偷梁换柱
+      - 指桑骂槐
+      - 假痴不颠
+      - 上屋抽梯
+      - 树上开花
+      - 反客为主
+    - 败战: Losing engagement
+      - 美人计
+      - 空城计
+      - 反间计
+      - 苦肉计
+      - 连环计
+      - 走为上
 - 古文
   - 上善若水，水利万物而不争
     - The supreme good is like water; water nurtures all living things without competing with them

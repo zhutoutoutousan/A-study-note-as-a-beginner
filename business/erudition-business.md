@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [CFA test(After 5yrs of exp in tech)](#cfa-testafter-5yrs-of-exp-in-tech)
-- [CPA test](#cpa-test)
+- [CPA(After 5yrs of exp in tech)](#cpaafter-5yrs-of-exp-in-tech)
 - [Industry](#industry)
   - [Contact](#contact)
   - [Inwards](#inwards)
@@ -41,8 +41,17 @@
   - https://www.zhihu.com/question/24016485
 - Corporate finance
 
-# CPA test
-
+# CPA(After 5yrs of exp in tech)
+- 审计
+- 公司战略与风险管理
+- 税法
+- 经济法
+- 财务成本管理
+- 会计
+  - 官方考试教材(Not applicable now)
+  - 会计学原理
+    - Fundamental Accounting Principles 25th edition
+      - Get a free e-book if you got the time, but not now 2021/9/30
 # Industry
 ## Contact
 - [Fundamentals of Supply Chain Management](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/121631/BUS5116.Lu.Fundamentals.Supply.Chain.Mgmt.pdf)

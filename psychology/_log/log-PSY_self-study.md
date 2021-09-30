@@ -11,6 +11,8 @@
   - [sakinorva Personality test](#sakinorva-personality-test)
 - [2021/9/10](#2021910)
   - [More tools and materials for self-awareness build-up](#more-tools-and-materials-for-self-awareness-build-up)
+- [2021/9/29](#2021929)
+- [2021/9/30](#2021930)
 # 2021/8/25
 ## Can you explain to me the psychological pathway of you speaking like that
 ```
@@ -111,3 +113,10 @@ myers-briggs type	INTJ
 If you have read through these, answer me some questions:
 - How would you change to achieve your own value?
 - How would you fine tune your inner mechanisms?
+
+# 2021/9/29
+- Friendship Compatibility data collection
+  - ENFP: +2
+
+# 2021/9/30
+- Distributed Dunning-Kruger effect graph for different context under a variety of sampling rate

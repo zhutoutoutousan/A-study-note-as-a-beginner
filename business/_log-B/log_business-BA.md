@@ -61,7 +61,8 @@ Ok, makes sense 2021-7-8
 ## Basic model
 - 杠杆模型
 - 各类博弈模型
-
+- 2C
+  - 记下人的日常可Group不可Group的行为
 ## Information gathering
 ### Data collection
 - [KDF](https://kdf.ai/)

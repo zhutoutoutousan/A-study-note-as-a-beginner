@@ -315,3 +315,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - Hybrid - Solution
   - Low Latency, Highly consistent traffic, Low cost, Willing to accept slow traffic in the event of primary failure
   - Provision a Direct Connect connection to an AWS region using a Direct Connect partner. Provision a VPN connection as a backup in the event of Direct Connect connection failure.
+
+
+
+
+- [How I Passed the AWS Certified Developer Associate Exam](https://www.freecodecamp.org/news/how-i-passed-the-aws-certified-developer-associate-exam/)
+
+

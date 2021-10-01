@@ -129,8 +129,16 @@ days, dimension, performance
 - Monday
   - Chest day
 - Tuesday
-  - Off day due to headache
+  - **Off day due to headache**
 - Wednesday
-  - Arm day
+  - **Off day due to headache**
 - Thursday
+  - **Off day due to headache**
 - Friday
+  - Arm day
+- Saturday
+  - Leg day
+- Sunday
+  - Back day
+- Monday
+- Tuesday

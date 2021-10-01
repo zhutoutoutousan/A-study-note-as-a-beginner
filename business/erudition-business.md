@@ -50,8 +50,10 @@
 - 会计
   - 官方考试教材(Not applicable now)
   - 会计学原理
+    - [会计学原理 - 清华大学出版社](http://www.tup.com.cn/upload/books/yz/070722-01.pdf)
     - Fundamental Accounting Principles 25th edition
       - Get a free e-book if you got the time, but not now 2021/9/30
+  - [Introduction to Corporate Finance - FREE Course](https://www.youtube.com/watch?v=5eGRi66iUfU)
 # Industry
 ## Contact
 - [Fundamentals of Supply Chain Management](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/121631/BUS5116.Lu.Fundamentals.Supply.Chain.Mgmt.pdf)

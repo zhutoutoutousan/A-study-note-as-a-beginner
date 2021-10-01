@@ -38,6 +38,8 @@
 - [2021/9/28-2021/9/29](#2021928-2021929)
   - [Sore in temperal lobe of the brain](#sore-in-temperal-lobe-of-the-brain)
   - [Sleep deprivation starts to manifest](#sleep-deprivation-starts-to-manifest)
+- [2021/10/1](#2021101)
+  - [Remenant headache](#remenant-headache)
 
 #thehealthmatters
 
@@ -276,3 +278,26 @@ This is the warning from your second-line psychological infrastructure. Plz addr
   - Cyst
 - Brain fog
 - I highly doubt that all those pain you have during the sleep deprivation period are nerve pains due to the increase inflammation level 
+
+# 2021/10/1
+## Remenant headache
+- Overall swollen feeling
+  - Possible caffeind withdrawl
+- Solutions
+    - Avoiding words, pictures or ideas from jumping out of your brain
+- Actions
+  - Surgical dose-down: 
+    - No brain-consuming work
+      - Simultaneous interpretation
+      - Consecutive interpretation
+      - Deciding what to do in an analytical manner
+        - Just do it and save the progress
+      - Playing games in your third or fourth language
+        - Only play games in your first language
+    - Reserved work
+      - AWS flashcard
+      - Translation
+      - Coding
+      - Hacking
+      - Language vocabulary training
+  - 

@@ -276,11 +276,12 @@ Example
 ## S
 - 战争
   - 三十六计: 36 Strategies
-    - 胜战： Winning engagement
+    - 胜战：Winning engagement
       - 瞒天过海: ?
       - 围魏救赵: ?
       - 借刀杀人: ?
-      - 以逸待劳: ?
+      - 以逸待劳
+        - Await the Exhausted Enemy at Your Ease
       - 趁火打劫: ?
       - 声东击西: ?
     - 敌战: Pre-Engagement
@@ -322,6 +323,8 @@ Example
       - 苦肉计
       - 连环计
       - 走为上
+      - Peripheral
+        - 功亏一篑: Just lacking the last basketful of effort
 - 古文
   - 上善若水，水利万物而不争
     - The supreme good is like water; water nurtures all living things without competing with them

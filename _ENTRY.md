@@ -51,8 +51,8 @@
 ## Third priority
 #sidequest 
 ## Self-transformation
-#lifechanger 
-#emerginghabit 
+#selftransformation
+#behaviourchange 
 #activereading 
 #distributedmindsetmanagement
 ## Supportive

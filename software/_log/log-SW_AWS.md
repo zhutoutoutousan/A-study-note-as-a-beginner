@@ -22,6 +22,7 @@
     - [Main resource](#main-resource)
   - [Current Strategy](#current-strategy)
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
+- [Test records and adjustments](#test-records-and-adjustments)
 
 # Buffer to permanent note
 
@@ -127,10 +128,11 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 
 
 **Below are what you know what you don't know a bit and can't categorize**
-
+- GetQueueAttributes
+- Hash-and-range key
 - KMS
 - AWS Simple Workflow
-
+- RRS
 - sns topics
 - EB 
   - EBS volume
@@ -322,3 +324,26 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - [How I Passed the AWS Certified Developer Associate Exam](https://www.freecodecamp.org/news/how-i-passed-the-aws-certified-developer-associate-exam/)
 
 
+# Test records and adjustments
+- Shock therapy test 2021/9/28
+  - Scored 4 out of 60
+- Test done on 2021/10/2
+  - Scored 20 our of 60
+    - Goal: 45+
+  - Current preparation effort
+    - Just flashcards and mock tests, sometimes accompanied with YouTube videos for context
+  - Improvements achieved
+    - Increased familiarity with Abbr.
+    - Increased sense of architecture
+    - Basic feeling of those questions
+    - Having enough time to finish the test
+  - Action
+    - More effort allocated to flashcards to solidify the notion
+      - Desired state
+        - 100% Mastery level of flashcards
+          - 6% per day --> Possible heavy workload
+    - Starting to take down those questions you've got wrong 
+      - Intuition: This may not be a good idea
+  - Trend
+    - Linearly speaking: With 4 days you scored 16 more, it is estimated that you will pass the test with current effort level, but more data needs to be collected
+- Next Test: 2021/10/4

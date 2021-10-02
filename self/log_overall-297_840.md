@@ -160,7 +160,7 @@
 https://www.kancloud.cn/luofei614/programmer_talk_life/107489
 
 ## Trival changes that might change your future
-#emerginghabit#lifechanger
+#behaviourchange#selftransformation
 - After browsing, don't forget to wrap it up to solidate the new node in your brain, INPUT, OUTPUT, ONTOLOGY
   - Visualize and put it in your graph
 - Your previous reading habits was adding Progress, but a reading trail is more comprehensive, change it!

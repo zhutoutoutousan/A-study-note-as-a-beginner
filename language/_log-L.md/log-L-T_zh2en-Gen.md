@@ -320,6 +320,8 @@ Example
       - 美人计
       - 空城计
       - 反间计
+        - sowing discord among the enemy
+        - [反间计用英语怎么说](http://m.spiiker.com/study-res/communication/78749009.html)
       - 苦肉计
       - 连环计
       - 走为上

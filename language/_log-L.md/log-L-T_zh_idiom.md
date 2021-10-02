@@ -5,3 +5,9 @@
   - en
     - Friendly fire
     - [俗语大全之大水冲倒龙王庙](http://www.wentidayi.com/changyong/993.shtml)
+
+# W
+- 无规矩不成方圆
+  - en
+    - Nothing can be accomplished without norms or standards
+      - INTJ: Oh my god, dude, please, who the hell just acclaimed this stupid word?

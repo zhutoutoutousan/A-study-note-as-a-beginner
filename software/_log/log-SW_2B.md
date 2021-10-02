@@ -1,4 +1,6 @@
 # 2021/9/27
+
+
 ## Informatica study
 - [Informatica Tutorial | Learn Informatica In 60 Minutes | Informatica PowerCenter Training | Edureka](https://www.youtube.com/watch?v=3scD3llibJA)
   - Videomark: 4-03/58:57

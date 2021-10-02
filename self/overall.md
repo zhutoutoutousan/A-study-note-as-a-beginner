@@ -28,3 +28,5 @@
 *You need a sentence to deflect negative thought patterns of comparing yourself to others, with a dysfunctional family doing exactly that considered. It needs to inject counter measures to cancel out your biological reactions so more mental energy can be guided to valuable actions*
 
 "Wer ein Warum hat zu leben, erträgt fast jedes Wie." ---Friedrich Nietzsche
+
+"Vision without execution is hallucination" --- Thomas A. Edison

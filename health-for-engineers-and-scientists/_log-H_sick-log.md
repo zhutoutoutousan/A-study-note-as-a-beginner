@@ -40,6 +40,8 @@
   - [Sleep deprivation starts to manifest](#sleep-deprivation-starts-to-manifest)
 - [2021/10/1](#2021101)
   - [Remenant headache](#remenant-headache)
+- [2021/10/2](#2021102)
+  - [Dysfunction hangover interval duration after commencing an abrupt resting session due to public holidays](#dysfunction-hangover-interval-duration-after-commencing-an-abrupt-resting-session-due-to-public-holidays)
 
 #thehealthmatters
 
@@ -300,4 +302,16 @@ This is the warning from your second-line psychological infrastructure. Plz addr
       - Coding
       - Hacking
       - Language vocabulary training
-  - 
+# 2021/10/2
+## Dysfunction hangover interval duration after commencing an abrupt resting session due to public holidays
+- First: Why the hell should there be a public holiday that is out of my control?
+- 2021/9/30-18-30~2021/10/2-1-30
+  - 1 day, 7 hours
+    - Your goal will be: Reduce it to 0 day, 20 hours
+- So you're basically going to be dysfunctional for 2 days
+  - Mischievous behaviours that is basically personal idiosyncracy the inner psychological mechanism of which is trivial to talk about as long as you disengage with the public scope for an effective, independent drainage of this psychic energy stream therein
+- 2021/10/2-16-13
+  - Executive system reboot
+  - Caffeine intake reluctance level reduced
+  - Headache resolved with caffeine
+  - Planning system reboot and functional

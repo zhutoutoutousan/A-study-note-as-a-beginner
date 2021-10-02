@@ -259,5 +259,19 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - [Amusing Ourselves to Death](https://quote.ucsd.edu/childhood/files/2013/05/postman-amusing.pdf)
 - [Walter Lippmann - Public Opinion](https://monoskop.org/images/b/bf/Lippman_Walter_Public_Opinion.pdf)
   - #activereading
-  - Goal: Internalize
-  - Bookmark
+  - Process 1
+    - Goal: Internalize
+    - Bookmark: 21/233
+      - I hate it when the writer starts with a story xD, then I know I wouldn't get away with bite-sized effort, damn!
+    - Public Opinion System
+      - Analysis
+        - Theory
+        - Layers
+        - Building blocks
+        - Networking
+        - Driving force
+        - Monitoring system
+        - Manipulation system
+      - Observation
+        - Practice
+          - Start with a small system first

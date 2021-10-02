@@ -30,3 +30,9 @@
 ## curl 500 proxy error
 - [完美解决V2RAY碰到500 Internal Privoxy Error问题](https://www.obodizhu.com/online/v2ray-fix-500-internal-privoxy-error.html)
 - [curl抽风了什么网站都是500](https://juejin.cn/post/6844903901133701134)
+
+# 2021/10/1
+## Past effort encapsulation
+- [Fundamental of IT - Complete Course || IT course for Beginners](https://www.youtube.com/watch?v=awLnur5Yt9o&t=4094s)
+  - Videomark?: 1-08-14/3-49-16
+- [System administration complete course from beginner to advanced | IT administrator full course](https://www.youtube.com/watch?v=1DvTwuByjo0&t=7s)

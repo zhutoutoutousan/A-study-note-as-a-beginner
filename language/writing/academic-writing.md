@@ -1,2 +1,3 @@
 - [Writing Academic English for Beginner 🔴 Full Course 🔴 FREE](https://www.youtube.com/watch?v=rIZ1vuk_c5Y)
   - Progress: 18:01/1:51:05
+- [A helpful guide to writing an essay - Jordan B. Peterson](https://docs.google.com/viewer?url=http://jordanbpeterson.com/wp-content/uploads/2018/02/Essay_Writing_Guide.docx)

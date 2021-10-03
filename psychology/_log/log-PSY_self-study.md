@@ -117,6 +117,6 @@ If you have read through these, answer me some questions:
 # 2021/9/29
 - Friendship Compatibility data collection
   - ENFP: +2/2
-  - INFJ: +0/1
+  - INFJ: 0/1
 # 2021/9/30
 - Distributed Dunning-Kruger effect graph for different context under a variety of sampling rate

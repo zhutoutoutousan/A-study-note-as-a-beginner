@@ -26,3 +26,4 @@
       - We know that Abby likes everyone that Bess likes, and we know that Abby does not like Dana. Therefore, Bess must not like Dana either.(If Bess did like Dana, then Abby would like her as well.) At the same time, we know that Bess likes Cody or Dana. Consequently, since Bess does not like Dana, she must like Cody.
         - Visualized in 5 seconds as a graph
       - Michigan Lease Termination Clause 13-51
+    - Logical deduction

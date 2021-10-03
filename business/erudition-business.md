@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [CFA test(After 5yrs of exp in tech)](#cfa-testafter-5yrs-of-exp-in-tech)
 - [CPA(After 5yrs of exp in tech)](#cpaafter-5yrs-of-exp-in-tech)
+- [Insight](#insight)
 - [Industry](#industry)
   - [Contact](#contact)
   - [Inwards](#inwards)
@@ -54,6 +55,9 @@
     - Fundamental Accounting Principles 25th edition
       - Get a free e-book if you got the time, but not now 2021/9/30
   - [Introduction to Corporate Finance - FREE Course](https://www.youtube.com/watch?v=5eGRi66iUfU)
+# Insight
+- [Game Theory for Applied Economists](https://is.muni.cz/el/1431/jaro2013/M9302/um/39389090/Gibbons.pdf)
+
 # Industry
 ## Contact
 - [Fundamentals of Supply Chain Management](https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/121631/BUS5116.Lu.Fundamentals.Supply.Chain.Mgmt.pdf)

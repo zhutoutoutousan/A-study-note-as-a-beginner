@@ -107,16 +107,19 @@ days, dimension, performance
     - Overloading set: 3SETS/WEEK
 - Sarm cycle
   - On at 10/3
+  - Off at 10/20
 - Cut cycle
   - Until BW down to 90
-- Friday
+  - **Nutrition monitoring enabled**
+    - Normally disabled to leave extra overhead for software and language sections
+- Monday
   - Back day
   - Deadlift 4-6RM 5SETS
   - Weighted Pull-up 4-6RM 5SETS
   - Front lever 5 TRIES
   - Chest supported row 4-6RM 5SETS
   - W-T-Y raise 6-8RM 5SETS
-- Saturday
+- Tuesday
   - Shoulder day
   - Tricep
     - Skull crusher 4-6RM 5SETS
@@ -126,22 +129,8 @@ days, dimension, performance
   - Shoulder
     - Overhead press 4-6RM 5SETS
     - Side lateral 
-- Sunday
-  - Off day
-- Monday
-  - Chest day
-- Tuesday
-  - **Off day due to headache**
 - Wednesday
-  - **Off day due to headache**
-- Thursday
-  - **Off day due to headache**
-- Friday
-  - Arm day
-- Saturday
-  - Leg day
-- Sunday
   - Off day
-- Monday
-  - Back day
-- Tuesday
+  - Swimming
+- Thursday
+  - Chest day

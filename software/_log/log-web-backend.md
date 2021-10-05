@@ -1,3 +1,7 @@
+# Reading
+- [deep-into-node](https://yjhjstz.gitbooks.io/deep-into-node/content/chapter1/chapter1-0.html)
+  - Sitemark:  V8 concept
+
 # 2021/3/18
 ## Fxxking FQ blocking Golang Vscode download
 Solution: Enable `Golang language server` for Vscode
@@ -22,3 +26,11 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 
 ## go: cannot find main module, but found .git config to create a module there, run: go mod
 
+# 2021/5/30
+## Starting Swagger UI on CentOS built on top of `express`
+- [entry](https://www.npmjs.com/package/swagger-ui-express)
+
+- Problems
+  - Requires nodejs >= 12.0.0
+
+# 2021/10/6

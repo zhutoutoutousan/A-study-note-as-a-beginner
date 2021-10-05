@@ -1,3 +1,6 @@
+# Portals
+- [鹿十七：31个英语翻译兼职平台（18国内+13国外）+102个副业赚钱平台汇总](https://zhuanlan.zhihu.com/p/266553719)
+
 # 2021/6/11- Whatever the next stage you define
 ## Portfolio construction
 - Elements of dramatic presentation for translation

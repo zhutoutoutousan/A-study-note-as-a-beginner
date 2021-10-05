@@ -107,6 +107,8 @@ days, dimension, performance
     - Overloading set: 3SETS/WEEK
 - Sarm cycle
   - On at 10/3
+- Cut cycle
+  - Until BW down to 90
 - Friday
   - Back day
   - Deadlift 4-6RM 5SETS
@@ -139,6 +141,7 @@ days, dimension, performance
 - Saturday
   - Leg day
 - Sunday
-  - Back day
+  - Off day
 - Monday
+  - Back day
 - Tuesday

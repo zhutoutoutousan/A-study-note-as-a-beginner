@@ -3,7 +3,7 @@
 - Steve Kaufmann
 - Stephen Krashen
 - Richard Simcott
-
+- Luca Lampariello
 
 ## M.O.I
 - TPRS method

@@ -344,6 +344,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - Desired state
         - 100% Mastery level of flashcards
           - 6% per day --> Possible heavy workload
+            - **2021/10/7**: ENTJ/INTJ - Dude, your current mastery level is 12.7%, which is subpar, do it better to catch up with the number or GET DEMOLISHED
     - Starting to take down those questions you've got wrong 
       - Intuition: This may not be a good idea
   - Trend

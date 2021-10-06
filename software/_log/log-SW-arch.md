@@ -204,3 +204,12 @@ https://zhuanlan.zhihu.com/p/96103181
 https://www.pluralsight.com/guides/how-to-load-svg-with-react-and-webpack  
 https://github.com/timarney/react-app-rewired    
 https://github.com/arackaf/customize-cra
+
+# 2021/10/6
+## Requirement - Tech solution connection
+- Requirements
+  - Do something like swapping out a Component to go to different screens, but you don’t want to go to the effort of creating a separate Component that’s going to be very similar (Re-using lots of code) and don’t want to change the URL
+    - React state with browser history
+      - https://medium.com/@harryjamesuk/react-state-with-browser-history-223117f6ac61
+
+## Is it possible to use both `withRouter` and `withStyles`?

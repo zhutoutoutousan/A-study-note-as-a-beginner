@@ -42,6 +42,8 @@
   - [Remenant headache](#remenant-headache)
 - [2021/10/2](#2021102)
   - [Dysfunction hangover interval duration after commencing an abrupt resting session due to public holidays](#dysfunction-hangover-interval-duration-after-commencing-an-abrupt-resting-session-due-to-public-holidays)
+- [2021/10/6](#2021106)
+  - [Found the main factor of GI tract compaint](#found-the-main-factor-of-gi-tract-compaint)
 
 #thehealthmatters
 
@@ -315,3 +317,7 @@ This is the warning from your second-line psychological infrastructure. Plz addr
   - Caffeine intake reluctance level reduced
   - Headache resolved with caffeine
   - Planning system reboot and functional
+
+# 2021/10/6
+## Found the main factor of GI tract compaint
+- Dude, you just ate too much to alleviate the stress, since the food variety goes up and nutrition becomes easier to control with precision, there may be fewer compaints in the future

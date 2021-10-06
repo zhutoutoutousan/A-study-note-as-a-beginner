@@ -28,8 +28,6 @@
   - [How would you describe a bulletproof react component?](#how-would-you-describe-a-bulletproof-react-component)
 - [2021/6/20](#2021620)
   - [Starting React Admin from scratch](#starting-react-admin-from-scratch)
-- [2021/7/7](#202177)
-  - [React 18 New features](#react-18-new-features)
 - [2021/7/25-](#2021725-)
   - [React source code - Bottom-up](#react-source-code---bottom-up)
   - [React ecosystem - On-the-fly bottom up](#react-ecosystem---on-the-fly-bottom-up)
@@ -44,6 +42,10 @@
   - [Component design imminent](#component-design-imminent)
   - [Difference between `componentWillReceiveProps` and `getDerivedStateFromProps`](#difference-between-componentwillreceiveprops-and-getderivedstatefromprops)
   - [React+Material UI+Grid的溢出问题](#reactmaterial-uigrid的溢出问题)
+- [2021/10/6-](#2021106-)
+  - [Internalization Emergency](#internalization-emergency)
+  - [`this.props.state.location` undefined](#thispropsstatelocation-undefined)
+  - [结合函数柯里化理解`material-ui`和`react-router-dom`之中组件封装的例子](#结合函数柯里化理解material-ui和react-router-dom之中组件封装的例子)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -143,10 +145,6 @@
 # 2021/6/20
 ## Starting React Admin from scratch
 - [React Admin Dashboard Tutorial | React Admin Panel Design Course for Beginners](https://www.youtube.com/watch?v=aTPkos3LKi8)
-
-# 2021/7/7
-## React 18 New features
-
 
 # 2021/7/25-
 ## React source code - Bottom-up
@@ -256,6 +254,21 @@ React 本身不难，难就难在全家桶的整合，以及如何构建项目�
 - 使用网格间距的材料UI React会使容器溢出
 - https://www.debugcn.com/article/50163145.html
 - https://bleepcoder.com/cn/material-components-web/246207043/nested-grid-layouts-cause-ui-to-overflow-break
+
+# 2021/10/6-
+## Internalization Emergency
+- **router official**
+- **Redux official**
+- https://www.jianshu.com/p/77467c15a0ce
+- https://www.jianshu.com/p/f7bd56878401
+## `this.props.state.location` undefined
+https://medium.com/@harryjamesuk/react-state-with-browser-history-223117f6ac61
+
+## 结合函数柯里化理解`material-ui`和`react-router-dom`之中组件封装的例子
+```javascript
+// ...
+export default withStyles(styles)(withRouter(Component))
+```
 # ARCHIVED
 ## 2021/7/23-
 ### React source code reading

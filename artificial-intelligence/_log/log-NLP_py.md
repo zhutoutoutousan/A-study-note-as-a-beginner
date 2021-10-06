@@ -7,3 +7,10 @@ https://programmersought.com/article/96524119302/
 
 ## OOP python online course
 - [Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc)
+
+# 2021/10/6
+## PyTorch Course
+- [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M)
+
+## Web Scraping
+- [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0)

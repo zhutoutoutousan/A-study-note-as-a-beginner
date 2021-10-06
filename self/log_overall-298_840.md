@@ -21,3 +21,28 @@
 ### Shadow layer
 - Not enough tools
 
+
+# 2021/10/6
+## Reoccuring patterns: Limbo of Combos
+- Start date
+  - Very early in your life
+- Combos
+  - Analysis by paralysis 
+  - Genuine Incompetence *Distributed deep-nesting onion-structured higher-order D&K effect*
+    - Genuine-incompetence-induced Communication/Technical Debts
+  - Local public opinion landscape build-up
+    - Black-box
+    - Limited manifestation
+  - False Incompetence
+    - False-incompetence-induced Communication/Technical Debts
+  - Information Overflow  
+  - Multi-directions 
+  - New alient information queueing up
+- Insight
+  - You're in the limbo of all those combos firing alltogether, and this will persist until some of the elements, either your ability, your familiarity, information, direction of clarity, networking is **INSANELY STRONG AND MARKETABLE** that can compensate all those forces - 先有鸡还是现有蛋, 至少要有其中之一
+  - During this phase, keeping oneself alive is important, yo-yoing among these states are normal for overall-insufficiency, stop self-consuming and focus on the present
+  - Communication-debt will be accumulated and requires advanced efforts to compensate
+- Mindset
+  - Focus on what can be changed
+  - For recognizing what can't be changed but still needs to be addressed, don't let the analysis take up more than 5% of your energy
+  - All things considered, it's perfectly normal, nothing serious, no need to panic

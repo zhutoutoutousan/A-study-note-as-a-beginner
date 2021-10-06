@@ -117,3 +117,9 @@ YOUR PROBLEM 你的问题:
 # 2021/9/28
 ## When being asked to answer questions, you have a tendency NOT to answer EXACTLY what people want?
 - This question is currently beneign, but will manifest when put under specific situations
+
+# 2021/10/6
+## 沟通债的分析和解决
+- Background
+  - Due to your multi-lateral on-going operations, the communication debt has emerged to the surface and will serve as accumulating **Powder Keg** if that pressure is not relieved in an elegant, precise and timely manner
+- 关键点破冰

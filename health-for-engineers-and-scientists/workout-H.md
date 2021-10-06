@@ -119,7 +119,7 @@ days, dimension, performance
   - Front lever 5 TRIES
   - Chest supported row 4-6RM 5SETS
   - W-T-Y raise 6-8RM 5SETS
-- Tuesday
+- Wednesday
   - Shoulder day
   - Tricep
     - Skull crusher 4-6RM 5SETS
@@ -129,8 +129,8 @@ days, dimension, performance
   - Shoulder
     - Overhead press 4-6RM 5SETS
     - Side lateral 
-- Wednesday
+- Thursday
   - Off day
   - Swimming
-- Thursday
+- Friday
   - Chest day

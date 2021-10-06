@@ -125,7 +125,9 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - Message queue
   - AWS SQS
     - 60s ~ 2 wks msg-->queue 
-
+- AWS Cognito
+  - [AWS Cognito | Amazon Cognito | AWS Tutorial for Beginners | AWS Training | Edureka](https://www.youtube.com/watch?v=jTu--LpjA18&t=27s)
+    - Video mark: 11-36
 
 **Below are what you know what you don't know a bit and can't categorize**
 - GetQueueAttributes

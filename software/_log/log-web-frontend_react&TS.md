@@ -46,6 +46,9 @@
   - [Internalization Emergency](#internalization-emergency)
   - [`this.props.state.location` undefined](#thispropsstatelocation-undefined)
   - [结合函数柯里化理解`material-ui`和`react-router-dom`之中组件封装的例子](#结合函数柯里化理解material-ui和react-router-dom之中组件封装的例子)
+  - [一个项目里边React哪些情况用函数式组件? 哪些情况用类组件? 需不需要分离功能/表示组件?](#一个项目里边react哪些情况用函数式组件-哪些情况用类组件-需不需要分离功能表示组件)
+  - [React under the hood](#react-under-the-hood)
+  - [react-router-dom中, 我想通过路由传值, 但是不想通过url的形式, 而且用户刷新之后数据不丢失](#react-router-dom中-我想通过路由传值-但是不想通过url的形式-而且用户刷新之后数据不丢失)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -257,6 +260,9 @@ React 本身不难，难就难在全家桶的整合，以及如何构建项目�
 
 # 2021/10/6-
 ## Internalization Emergency
+- Front-end Back-end Debugging
+  - cURL
+  - Postman
 - **router official**
 - **Redux official**
 - https://www.jianshu.com/p/77467c15a0ce
@@ -269,6 +275,15 @@ https://medium.com/@harryjamesuk/react-state-with-browser-history-223117f6ac61
 // ...
 export default withStyles(styles)(withRouter(Component))
 ```
+## 一个项目里边React哪些情况用函数式组件? 哪些情况用类组件? 需不需要分离功能/表示组件? 
+- https://www.codenong.com/46648493/
+
+## React under the hood
+- [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+
+## react-router-dom中, 我想通过路由传值, 但是不想通过url的形式, 而且用户刷新之后数据不丢失
+- Link+to:state可以不通过url形式, 但是刷新后数据丢失
+  - Redux+React router?
 # ARCHIVED
 ## 2021/7/23-
 ### React source code reading

@@ -213,6 +213,8 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - [Ricardo Vargas Explains the PMBOK® Guide 7th Edition Published by PMI](https://www.youtube.com/watch?v=HVlrxOQoSUw)
       - Videomark: 48-57/1-36-39
       - Spanish/English double subtitle
+  - Gantt Chart drawing
+    - [How to create Ultimate Excel Gantt Chart for Project Management (with Smart Dependency Engine)](https://www.youtube.com/watch?v=OizqFlMtZLQ)
 ## Management
 ### Enterprise architecture
 - TOGAF

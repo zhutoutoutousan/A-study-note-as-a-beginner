@@ -349,4 +349,4 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - Intuition: This may not be a good idea
   - Trend
     - Linearly speaking: With 4 days you scored 16 more, it is estimated that you will pass the test with current effort level, but more data needs to be collected
-- Next Test: 2021/10/4
+- Next Test: 2021/10/8 Mastery Level: 30%

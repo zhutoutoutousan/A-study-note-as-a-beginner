@@ -46,4 +46,4 @@
 # 2021/10/1
 - Business Intelligence, Data Warehousing --> Created temp node of application TOGETHER WITH --- Cloud
 ## Concourse study
-
+- [Introduction to CONCOURSE CI/CD](https://www.youtube.com/watch?v=JYtJdY_OVLw)

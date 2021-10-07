@@ -320,4 +320,9 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 
 # 2021/10/6
 ## Found the main factor of GI tract compaint
+- Symptom
+  - Bloating
+  - Spasm in the large intestine
 - Dude, you just ate too much to alleviate the stress, since the food variety goes up and nutrition becomes easier to control with precision, there may be fewer compaints in the future
+- 2021/10/7
+  - Discovered low calcium consumption judging from daily nutrition input

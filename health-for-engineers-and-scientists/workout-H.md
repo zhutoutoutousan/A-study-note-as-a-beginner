@@ -131,6 +131,7 @@ days, dimension, performance
     - Side lateral 
 - Thursday
   - Off day
-  - Swimming
 - Friday
   - Chest day
+- Saturday
+  - Armday

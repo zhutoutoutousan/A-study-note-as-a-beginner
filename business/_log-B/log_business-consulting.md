@@ -37,6 +37,8 @@
 - [物流信息](http://www.tl-hnu.cn/)
 ### 美国政经地商媒业文科人知识图谱mind palace构建 --- For Consulting
 2021-9-18: I think a long-term commitment into this will pay off good, your brain seems to be adept at creating images, but making it stick in a framework that will empower your clear vision takes lots of work, start here sir.
+
+- 美国州的缩写
 ### PM-BA-SWE-IND
 
 

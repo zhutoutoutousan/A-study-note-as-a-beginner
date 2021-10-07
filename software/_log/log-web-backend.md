@@ -37,4 +37,3 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 ## Points to consider
 - 参数校验
 - 硬删除/软删除
-- 防误触

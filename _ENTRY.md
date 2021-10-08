@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Links](#links)
+- [Value --> As one person](#value----as-one-person)
 - [Hashtags](#hashtags)
   - [Top priority(limited to 3)](#top-prioritylimited-to-3)
   - [Secondary priority](#secondary-priority)
@@ -35,6 +36,11 @@
 [[_index_health]]
 [[_index_business]]
 [[_index_language]]
+
+# Value --> As one person
+- 解决个人大局和细节之间的凌波地狱问题
+- 解决个人大局, 战略, 系统, 未知, 未来, 人性之混乱深渊, 自然之混乱深渊, 现实分析, 细节分析, 需求分析, 自我分析, 业务分析, 行为规划, 工具使用, 技能发展, 技能追踪, 心理管理, 深入研究等诸多因素之间的整体高效可持续平衡发展问题
+- 解决个人分布式长时段细节和表现的连接问题
 
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states

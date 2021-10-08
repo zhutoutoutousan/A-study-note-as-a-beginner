@@ -133,5 +133,9 @@ days, dimension, performance
   - Off day
 - Friday
   - Chest day
+  - Barbell bench press 4-6RM 5SETS
+  - Incline bench press 4-6RM 5SETS
+  - LC press 6-8RM 5SETS
+  - Chest fly 6-8RM 5SETS
 - Saturday
   - Armday

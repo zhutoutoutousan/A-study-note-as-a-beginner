@@ -64,5 +64,15 @@
   - [Fluent Forever Summary and Review](https://lifeclub.org/books/fluent-forever-gabriel-wyner-review-summary)
 
 # Translation
+## Core
+- 英汉翻译简明教程 - 外语教学和研究出版社
+  - *Papercover*
+  - Emphasis
+    - Economy
+  - Process 1
+    - Bookmark: 66
+    - Lesson 7
+      - Para 2
+## Supportive
 - [英语影视剧汉译教程](https://book.douban.com/subject/20428664)
 - [The Translator’s Guide to Chinglish](#T)

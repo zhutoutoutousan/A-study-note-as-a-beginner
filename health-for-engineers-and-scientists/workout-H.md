@@ -70,7 +70,7 @@
   - Strength
     - Squat: 160kg Intermediate
     - Deadlift: 200kg Pre-advanced
-    - Bench press: 100kg Pre-intermediate * 3
+    - Bench press: 105kg Pre-intermediate * 1
     - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
   - Endurance
@@ -138,4 +138,8 @@ days, dimension, performance
   - LC press 6-8RM 5SETS
   - Chest fly 6-8RM 5SETS
 - Saturday
+- Sunday
   - Armday
+  - Bicep
+  - Tricep
+  - Shoulder

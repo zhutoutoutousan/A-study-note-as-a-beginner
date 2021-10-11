@@ -158,10 +158,21 @@ Ok, makes sense 2021-7-8
     - [2021年中国APaaS应用及选型研究报告](https://m.thepaper.cn/baijiahao_11763148)
     - #ideasandinnovations 提案,设计，运营, 开发一站式平台
   - RPA
-    - 艾瑞咨询-一叶知秋: 中国RPA行业研究报告 2020
-      - [link](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/10/14/b4939256-8cbf-441b-8faa-b1819970a0b9.pdf)
-      - New words
-        - 刘易斯拐点
+    - Resource
+      - 艾瑞咨询-一叶知秋: 中国RPA行业研究报告 2020
+        - [link](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/10/14/b4939256-8cbf-441b-8faa-b1819970a0b9.pdf)
+        - New words
+          - 刘易斯拐点
+    - 玩家
+      - Automation Anywhere(AA)
+      - Blue Prism
+      - EdgeVerve Systems
+      - Kofax
+      - NICE
+      - Pegasystems
+      - UiPath
+      - WorkFusion
+      - ...
 - 2C
 - 2G
 - Human Development

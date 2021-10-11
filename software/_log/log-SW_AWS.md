@@ -4,7 +4,7 @@
   - [Context](#context)
   - [Cramming](#cramming)
   - [Guided Video](#guided-video)
-  - [Extensive materials ONLY TO LOOK AT](#extensive-materials-only-to-look-at)
+  - [Extensive materials not for associate](#extensive-materials-not-for-associate)
 - [Log](#log)
   - [2021/8/27- General Learning - Phase 1: Osmosis, Image construction, Initial intuition establishment](#2021827--general-learning---phase-1-osmosis-image-construction-initial-intuition-establishment)
     - [Toddler learning to speak](#toddler-learning-to-speak)
@@ -36,11 +36,11 @@ https://www.brainscape.com/subjects/aws-certified-solutions-architect
 https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ##  Guided Video
 - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
-	- Bookmark: 41-46/11-58-36
+	- Bookmark: 42-36/11-58-36
 
 
 
-## Extensive materials ONLY TO LOOK AT 
+## Extensive materials not for associate
 - Architecting for the cloud aws best practices whitepaper 2020
 - Practicing Continuous Integration and Continuous Delivery on AWS Accelerating Software Delivery with DevOps
   - https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
@@ -56,13 +56,15 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ## 2021/8/27- General Learning - Phase 1: Osmosis, Image construction, Initial intuition establishment
 - This is context-oriented way to learn. If used for attestations, only allocate 20% of your time and energy, and can be only triggered by exam needs
 ### Toddler learning to speak
-- Compute Services
-  - AWS Lamda
+- Building blocks
+  - AWS Lamda Function
   - AWS Lightsail
   - AWS Outposts
   - AWS EC2
     - Instance Type
       - RDS instance
+- App Service
+  - AWS EB
 - Database
   - AWS Simple Query Service
   - AWS DynamoDB
@@ -112,7 +114,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - DNS
         - AWS common record
           - A: URL to IP
-          - AAAA
+          - AAAA: Domain Name to IP
+            - [AAAA Records](https://support.dnsimple.com/articles/aaaa-record/)
           - CNAME
           - Alias
             - It is not possible to have capital letters as a part of the alias name
@@ -187,6 +190,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - Enough composure
   - Enough alignment with self and pre-vision of growth path
   - If you can't even adopt and internalize the ability to use this mindset to empower yourself and clear out a path, then you really have no business working as a consultant
+  - 2021/10/9: Create a second-line sophistication to this mind-set to prevent core damage and encapsulate this neural change
 - Up-tight risk control
   - Manage all parts of your time to ensure a full commitment with minimum risk
 #### Resources
@@ -196,6 +200,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - INTJ
   - HIGH RISK: *Good job! All the effort for nothing*: OMG!!! I overslept!!!
     - Solved by creating this whateveritis
+    - Triggered: 2021/10/9
+      - Second-line sophistication triggered
+        - Callousness applied
+        - Stoicism applied
   - MEDIUM RISK: *Why should I need help from others?*
   - LOW RISK: *What date should I take the test again?*
 - Schedule clashing
@@ -241,8 +249,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - Daily action items
   - 2hr+ plan
     1. **Flashcard**
-      - [ ] Install `brainscape` into your mobile
-      - [ ] Group it with workout session
+      - [x] Install `brainscape` into your mobile
+      - [x] Group it with workout session
         - Currently, during workout, in normal circumstances you must not leave the gym
       - [ ] 
     2. Video

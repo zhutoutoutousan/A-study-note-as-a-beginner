@@ -14,3 +14,5 @@ https://programmersought.com/article/96524119302/
 
 ## Web Scraping
 - [Web Scraping with Python - Beautiful Soup Crash Course](https://www.youtube.com/watch?v=XVv6mJpFOb0)
+  - For: NVH paper
+    - Data analysis

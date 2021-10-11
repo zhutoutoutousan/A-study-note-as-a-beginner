@@ -38,3 +38,10 @@
 
 ## PM course
 - [PMP® Certification Full Course - Learn PMP Fundamentals in 12 Hours | PMP® Training Videos | Edureka](https://www.youtube.com/watch?v=vzqDTSZOTic)
+
+
+# 2021/10/11
+## 你错误地估计了开发耗时, 请描述一下不同开发时段发现该问题时的处理方案
+- 首先思维是及时止损思维, 情绪背景肯定是负面的
+  - 专业而不失诚意的表达歉意
+  - 也许在2023-2035年你可以用经验来回答这个问题

@@ -18,6 +18,10 @@
 - 产品
   - 激活转化
 
+# M
+- 马赛克理论
+  - [CFA一级中文解读：马赛克理论和投资调查报告](https://zhuanlan.zhihu.com/p/151705041)
+
 # W
 - 无形资产: Intangible Assets
 

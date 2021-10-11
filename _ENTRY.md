@@ -40,9 +40,11 @@
 # Value --> As one person
 - 保证量变的单位质量和配套基础设施建设, 为高质质变做准备
   - 解决个人大局和细节之间的凌波地狱问题
-  - 解决个人大局, 战略, 系统, 未知, 未来, 人性之混乱深渊, 自然之混乱深渊, 现实分析, 细节分析, 需求分析, 自我分析, 业务分析, 行为规划, 工具使用, 技能发展, 技能追踪, 心理管理, 深入研究等诸多因素之间的整体高效可持续平衡发展问题
+  - 解决个人大局, 战略, 系统, 未知, 未来, 人性之混乱深渊, 自然之混乱深渊, 现实分析, 细节分析, 需求分析, 自我分析, 业务分析, 行为规划, 工具使用, 技能发展, 技能追踪, 心理管理, 健康管理, 深入研究等诸多因素之间的整体高效可持续平衡发展问题
   - 解决个人分布式超长时段细节管理,分布式表现管理和分布式遗忘管理的连接存储问题: *思考,快与慢*
-
+- 当前未实现痛点 --> Individual
+  - 能够不改动原有模式同时实现移动端和PC端的交互编辑
+  - PDF链接的流畅阅读工具
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
@@ -71,7 +73,7 @@
 #considermerge 
 #considerrename 
 ## Unranked
-
+#possibleacademiadirection
 # Explore the definition of **study framework**
 ## Basic idea
 - Theoretical

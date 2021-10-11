@@ -52,7 +52,15 @@
 - 量变质变不是二元论, 可以看成人类的循环系统, 有关毛细量变(毛细血管)和毛细质变(毛细中枢)的汇聚迭代周期的维护常常被忽略
 - 以Public Opinion为导向, Vanity为驱动力的量变质变论和Doable Ground Truth有一定距离, 存在作为管理和影响力工具
   - Unverified argument created by intuition
+  - 那如果该命题为真, 那么能否以多维度的方式描述该*距离*及其主要影响哪些因素?
 
 ## 四象限方法的实际应用
 - 你需要一个工具，在**任何情况**下可以在四象限任务池中加入任务序列
   - Brain: Impossible, your brain is toast
+
+## 你不仅需要可见的Chunked Task, 在工作过程中也要有On-the-fly chunk
+- Micro On-the-flight Chunking mechanism
+  - 不需要Pomodoro, 做一个task的时候, 根据自己实际情况在大脑缓存中定一个毛细指标并建立简易的低占空比监控机制, 在毛细指标达成之后进行微休息]
+    - How does it help
+      - 极大地增加工作的engagement level
+      - 极大地增加了Fact-based Flashcard有关的任务的效率和工作积极性

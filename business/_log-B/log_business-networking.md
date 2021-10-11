@@ -123,3 +123,7 @@ YOUR PROBLEM 你的问题:
 - Background
   - Due to your multi-lateral on-going operations, the communication debt has emerged to the surface and will serve as accumulating **Powder Keg** if that pressure is not relieved in an elegant, precise and timely manner
 - 关键点破冰
+
+# 2021/10/11
+## How to respond to compliments and how to give compliments?
+You're terrible at this, how to make a change?

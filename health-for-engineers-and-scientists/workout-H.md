@@ -112,34 +112,6 @@ days, dimension, performance
   - Until BW down to 90
   - **Nutrition monitoring enabled**
     - Normally disabled to leave extra overhead for software and language sections
-- Monday
-  - Back day
-  - Deadlift 4-6RM 5SETS
-  - Weighted Pull-up 4-6RM 5SETS
-  - Front lever 5 TRIES
-  - Chest supported row 4-6RM 5SETS
-  - W-T-Y raise 6-8RM 5SETS
-- Wednesday
-  - Shoulder day
-  - Tricep
-    - Skull crusher 4-6RM 5SETS
-    - Close grip bench press 6-8RM 5SETS
-    - Tricep pushaway 4-6RM 5SETS
-    - Wide push-up 6-8RM 5SETS
-  - Shoulder
-    - Overhead press 4-6RM 5SETS
-    - Side lateral 
-- Thursday
-  - Off day
-- Friday
-  - Chest day
-  - Barbell bench press 4-6RM 5SETS
-  - Incline bench press 4-6RM 5SETS
-  - LC press 6-8RM 5SETS
-  - Chest fly 6-8RM 5SETS
-- Saturday
-- Sunday
-  - Armday
-  - Bicep
-  - Tricep
-  - Shoulder
+- Montag
+  - Leg day
+  - Barbell Squat

@@ -4,6 +4,7 @@
 - That's the point of recording this, 在没有时间休息和自省的时候, 给未来的复盘和后续规划提供足够的数据, usually, how your life's been treating you is that it never gives you total commitment into almost anything and all of those holidays are not even close to get yourself settle down. To couteract this deficiency, this section of notes have been created as a data vault for future transformation
 
 # State description
+- Good idea, but not enough tools, energy or time to specify
 ## Prospecting state
 ## Planning state
 ## Networking state
@@ -15,6 +16,7 @@
 ### Executive layer
 ### Coordination layer
 ### Entanglement layer
+- PMP certificate desired preparation not yet established
 ### Core layer
 ### Subconscious layer
 - Not enough tools

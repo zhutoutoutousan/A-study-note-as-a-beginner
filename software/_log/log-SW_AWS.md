@@ -353,8 +353,14 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
         - 100% Mastery level of flashcards
           - 6% per day --> Possible heavy workload
             - **2021/10/7**: ENTJ/INTJ - Dude, your current mastery level is 12.7%, which is subpar, do it better to catch up with the number or GET DEMOLISHED
+            - **2021/10/11**: Dude, your current mastery level is 38.7%, which is subpar, do it better to catch up with the number or GET DEMOLISHED
+              - Shun ENTJ part for mental contingency maneuver
+              - Contingency plan imminent
+              - Mock test imminent
+              - Underlying manifestation of current illness imminent
+              - Evidence shows that you can complete 30% a day with insane schedule and more coffee applied
     - Starting to take down those questions you've got wrong 
       - Intuition: This may not be a good idea
   - Trend
     - Linearly speaking: With 4 days you scored 16 more, it is estimated that you will pass the test with current effort level, but more data needs to be collected
-- Next Test: 2021/10/8 Mastery Level: 30%
+- Next Test: 2021/10/12 Mastery Level: 60%

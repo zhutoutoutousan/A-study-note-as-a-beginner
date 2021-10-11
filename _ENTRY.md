@@ -44,14 +44,14 @@
   - 解决个人分布式超长时段细节管理,分布式表现管理和分布式遗忘管理的连接存储问题: *思考,快与慢*
 - 当前未实现痛点 --> Individual
   - 能够不改动原有模式同时实现移动端和PC端的交互编辑
-  - PDF链接的流畅阅读工具
+  - PDF链接的流畅阅读工
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
 ## Top priority(limited to 3)
-#awsattestation
-#reactinternalization
-#rigorouscareerrelatedengagement
+#awsattestation  
+#reactinternalization  
+#rigorouscareerrelatedengagement  
 ## Secondary priority
 #devproblemsfacing  
 #techquestionsthatmattersnow  
@@ -60,20 +60,22 @@
 ## Third priority
 #sidequest 
 ## Self-transformation
-#selftransformation
-#behaviourchange 
-#activereading 
-#distributedmindsetmanagement
+#selftransformation  
+#behaviourchange  
+#activereading  
+#distributedmindsetmanagement 
+#activetraining
+#inactivetraining
 ## Supportive
 #thehealthmatters
 #automation
 #maximizedopaminepathway 
 ## Structural re-shape
-#considerdisperse 
-#considermerge 
-#considerrename 
+#considerdisperse  
+#considermerge  
+#considerrename  
 ## Unranked
-#possibleacademiadirection
+#possibleacademiadirection: Data of inner drives for picking the master major
 # Explore the definition of **study framework**
 ## Basic idea
 - Theoretical

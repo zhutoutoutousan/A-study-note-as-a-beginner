@@ -17,6 +17,11 @@
 - 创新化生存：如何将不安的焦虑转化为创作的动力
 
 # Presentation
+## PPT 101
+- 效率
+  - [Sketch2PPT](?)
+- 观感
+  - [PPT的层次感](https://mp.weixin.qq.com/s/nb-BdyDH_F6aFdY0FzKNMg)
 - 如何利用Google Slides/PPT有结构地描述某一创新? 有木有实例可以参考?
   - ?   
 - 如何了解自己的Presentation的效果?

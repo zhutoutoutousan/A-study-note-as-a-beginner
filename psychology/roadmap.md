@@ -3,6 +3,7 @@
 # Macro-psychology
 - P.O.I
   - Jordan B. Peterson
+  - Abraham Maslow
 - S.O.I
   - Engineering psychology
   - Cognitive engineering

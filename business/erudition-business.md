@@ -215,6 +215,9 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
       - Spanish/English double subtitle
   - Gantt Chart drawing
     - [How to create Ultimate Excel Gantt Chart for Project Management (with Smart Dependency Engine)](https://www.youtube.com/watch?v=OizqFlMtZLQ)
+  - PMP Temp Attestation preparation space
+    - Experience
+      - [获取PMP证书需要多长时间？](https://www.jianshu.com/p/29cb583d66f3)
 ## Management
 ### Enterprise architecture
 - TOGAF

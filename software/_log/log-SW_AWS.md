@@ -318,6 +318,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
     - 官方模考
 - 追踪动向
   - Examtopics 2021题库
+    - Examtopics AWS被清空问题解决方案
+      - Waybackmachine
+        1. 登入[waybackmachine](https://archive.org/web/)
+        2. 在搜索框输入https://www.examtopics.com/exams/amazon/
 ## Temporary Question-oriented connection store
 - Requirements - Hybrid
   - Low Latency
@@ -359,8 +363,14 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
               - Mock test imminent
               - Underlying manifestation of current illness imminent
               - Evidence shows that you can complete 30% a day with insane schedule and more coffee applied
+              - 尝试降低大脑内强制自动运行的网络仿真重建系统和计划系统的运行overhead
+        - Video knowledge enrichment w1=0.3 , knowledge structure internalization w2=0.4, exam state internalization w3=0.3
     - Starting to take down those questions you've got wrong 
       - Intuition: This may not be a good idea
   - Trend
     - Linearly speaking: With 4 days you scored 16 more, it is estimated that you will pass the test with current effort level, but more data needs to be collected
 - Next Test: 2021/10/12 Mastery Level: 60%
+  - Studying over normal schedule imminent
+- **Gradually-shorter INTERVAL MOCK TESTS**: As mastery level and fill-the-gaps video learning goes, the interval between two mock test will become shorter and shorter until the efficiency of the feedback loop reaches the singularity as the internalization level peaks, then try to calculate the maintenance interval 
+- **Failsafe mechanism**: If you fail, you will get the valuable data gained for future adjustments
+- Contingency plan

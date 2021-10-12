@@ -112,6 +112,7 @@ days, dimension, performance
   - Until BW down to 90
   - **Nutrition monitoring enabled**
     - Normally disabled to leave extra overhead for software and language sections
+  - 2021/10/12: Nutrition monitoring impossible for increased uncertainty of daily workload
 - Montag
   - Leg day
   - Barbell Squat

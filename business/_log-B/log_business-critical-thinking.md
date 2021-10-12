@@ -27,3 +27,9 @@
         - Visualized in 5 seconds as a graph
       - Michigan Lease Termination Clause 13-51
     - Logical deduction
+
+# 2021/10/13
+## Plymouth model for critical thinking
+https://www.plymouth.ac.uk/uploads/production/document/path/1/1710/Critical_Thinking.pdf
+
+https://www.plymouth.ac.uk/uploads/production/document/path/1/1713/Model_To_Generate_Critical_Thinking.pdf

@@ -163,6 +163,8 @@ Ok, makes sense 2021-7-8
         - [link](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2020/10/14/b4939256-8cbf-441b-8faa-b1819970a0b9.pdf)
         - New words
           - 刘易斯拐点
+    - RPA移动端自动化应用2C
+      - #ideasandinnovations
     - 玩家
       - Automation Anywhere(AA)
       - Blue Prism

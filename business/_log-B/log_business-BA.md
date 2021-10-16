@@ -113,7 +113,14 @@ Ok, makes sense 2021-7-8
   - [90后人群消费趋势研究报告](http://www.invest-data.com/eWebEditor/uploadfile/2019102016541697033330.pdf)
 - 玩
   - 社交
+  - Fan圈
+    - 流量黑洞性质
+      - 纯欲风
   - [2020《粉丝经济4.0白皮书》完整版 | 附下载](https://www.shangyexinzhi.com/article/365975.html)
+  - 数据分析平台
+    - [新抖数据](https://xd.newrank.cn/home/index)
+    - 飞瓜智投
+      - 主播数据: 主播轮班带货数据拆解难和复盘难
 - 学
   - Why
   - What

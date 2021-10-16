@@ -113,9 +113,7 @@ days, dimension, performance
   - **Nutrition monitoring enabled**
     - Normally disabled to leave extra overhead for software and language sections
   - 2021/10/12: Nutrition monitoring impossible for increased uncertainty of daily workload
+    - 2021/10/16 Becomes increasingly impossible for more unexpected life events
 - Due to the recent *boosted chaos*, it is suggested that you add medium-paced running into the workout session
-- Montag
-  - Leg day
-  - Barbell Squat
-- Dienstag
+- Samstag
   - 

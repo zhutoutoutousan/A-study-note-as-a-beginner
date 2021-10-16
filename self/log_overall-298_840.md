@@ -4,7 +4,9 @@
 - That's the point of recording this, 在没有时间休息和自省的时候, 给未来的复盘和后续规划提供足够的数据, usually, how your life's been treating you is that it never gives you total commitment into almost anything and all of those holidays are not even close to get yourself settle down. To couteract this deficiency, this section of notes have been created as a data vault for future transformation
 
 # 直觉主线曲 - On-demand Self-manipulation only
-- *这两个月, 重大的考试都是在你精神崩溃, 身心疲劳, 事务繁杂, 时间紧迫, 无任何精神支持的情况下以Pre-built Mental, intellectual infrastructure强行突破的过程* --- 2021/10/16
+- *这两个月, 重大的考试都是在你精神崩溃, 身心疲劳, 事务繁杂, 时间紧迫, 无任何精神支持, 仅有部分外在引导的情况下以Pre-built Mental, intellectual infrastructure强行突破的过程* --- 2021/10/16
+- 你的人生目标是要对自身进行充分的数据分析, 直觉分析, 等各种分析, 并和咨询师进行讨论之后决定的; 现实的Mobility可以向职业咨询师进行外包
+- *虽然TED说的好, 你必须准备好模拟考才能考好每一次人生的考试, 但根据近几个月的数据, 你必须做好'没做好准备'以有限的准备与所谓信念强行上场的准备; 并建立高效心理设施来减少每次战斗后的心理内耗并投入更多精力用于变更管理; 根据4月份来积累的数据, 以自身之战线之长, 后勤系统之庞杂, 分析需求队列之长 不可能做到以准备充足的状态去应对每一个挑战, 但至少以60%准备情况去应对是可以做到的*
 
 # State description
 - Good idea, but not enough tools, energy or time to specify
@@ -69,3 +71,6 @@
     - How does it help
       - 极大地增加工作的engagement level
       - 极大地增加了Fact-based Flashcard有关的任务的效率和工作积极性
+
+# 2021/10/16
+## 如何将不同的人类情感转化成逻辑单元? 并高效预测行为模式?

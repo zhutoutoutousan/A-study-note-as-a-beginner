@@ -116,4 +116,5 @@ days, dimension, performance
     - 2021/10/16 Becomes increasingly impossible for more unexpected life events
 - Due to the recent *boosted chaos*, it is suggested that you add medium-paced running into the workout session
 - Samstag
-  - 
+  - Back day
+- STATUS: No big lifts for this week

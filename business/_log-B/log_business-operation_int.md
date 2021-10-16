@@ -25,11 +25,14 @@
 ## Roadmap establishment
 - [互联网运营如何入门，如何自学？有哪些职位？](https://www.zhihu.com/question/270989134)
 
-## Books
+## Erudition
 - Positioning: The Battle for Your Mind
   - [en-ver](https://www.yourhomeworksolutions.com/wp-content/uploads/edd/2016/10/20160124032608positioning_the_battle_for_your_mind_.pdf)
     - Bookmark: 9/100
   - [zh-ver](https://zydemo.github.io/public/pdf/%E5%AE%9A%E4%BD%8D.pdf)
+
+- 抖音短视频全攻略
+- 抖音短视频运营全攻略
 
 ## 策划一次狼人杀
 

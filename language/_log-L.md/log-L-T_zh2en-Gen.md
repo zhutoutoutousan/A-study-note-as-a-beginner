@@ -327,6 +327,8 @@ Example
       - 走为上
       - Peripheral
         - 功亏一篑: Just lacking the last basketful of effort
+    - 补充
+      - 杀人诛心: Torture a man's heart rather than sever his body
 - 古文
   - 上善若水，水利万物而不争
     - The supreme good is like water; water nurtures all living things without competing with them

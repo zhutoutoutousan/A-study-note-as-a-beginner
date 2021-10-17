@@ -57,7 +57,7 @@
 # 2021/10/11
 ## 有关毛细质变的捕捉及广播应用问题
 - 量变质变不是二元论, 可以看成人类的循环系统, 有关毛细量变(毛细血管)和毛细质变(毛细中枢)的汇聚迭代周期的维护常常被忽略
-- 以Public Opinion为导向, Vanity为驱动力的量变质变论和Doable Ground Truth有一定距离, 存在作为管理和影响力工具
+- 以Public Opinion为导向, Vanity/Social dominance orientation为驱动力的量变质变论和Doable Ground Truth有一定距离, 存在作为管理和影响力工具
   - Unverified argument created by intuition
   - 那如果该命题为真, 那么能否以多维度的方式描述该*距离*及其主要影响哪些因素?
 
@@ -68,6 +68,8 @@
 ## 你不仅需要可见的Chunked Task, 在工作过程中也要有On-the-fly chunk
 - Micro On-the-flight Chunking mechanism
   - 不需要Pomodoro, 做一个task的时候, 根据自己实际情况在大脑缓存中定一个毛细指标并建立简易的低占空比监控机制, 在毛细指标达成之后进行微休息]
+    - 2021/10/17
+      - Pomodoro适合高混乱度, 难以量化的工作
     - How does it help
       - 极大地增加工作的engagement level
       - 极大地增加了Fact-based Flashcard有关的任务的效率和工作积极性
@@ -146,7 +148,8 @@
               - 结局描述可以是文字描述，可以是定性描述，可以是定量描述。不管采用哪种描述方法，只要能够帮助我们做出精明决策即可，没有必要必须量化和精确。
           - 风险承受力
             - ...
-          - Setting up an independent section on Decision
+          - ...
+          - INFORMATION OVERFLOW: Setting up an independent section on Decision
         - [张一鸣：如何用模型思维做决策 ](https://www.sohu.com/a/434053131_99922069)
         - [张一鸣：多元思维模型如何帮助我们做决策？](https://www.niaogebiji.com/article-31649-1.html)
         - [人生决策模型，你有吗？](https://www.jianshu.com/p/bd9007e684cd)
@@ -154,8 +157,12 @@
       - 针对性书籍
         - #activereading
         - 人生成长奠基石丛书
-        - Principles: life and work
+        - Principles: life and work  原则
           - [link](http://xqdoc.imedao.com/153ac69641721b3faf7ab545.pdf)
     - 建立
       - 就目前你的世界观, 技能树, 方向, 结合上述待学习的内容, 给出五年发展的大方向, 三年发展的小方向, 一年内的计划落地具体方案
+      - Social/Public Opinion也是重要的参考资料
+        - *Mathematical problems, or puzzles, are important to real mathematics (like solving real-life problems), just as fables, stories and anecdotes are important to the young in understanding real life.* - Terence Tao
   - PMP的学习
+    - 见Cornerstone, 建立备考周期, 2022/3考试
+    - 备考同时内化所学principle

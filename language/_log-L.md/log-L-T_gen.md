@@ -1,4 +1,5 @@
 # log
+Consider move the exam transcript to other sections
 ## 2021/8/24 Partial review of Shanghai advanced interpretation test(1) Score: 92.5+?*5(150)/300 --> Expectation: 220+
 - Section 1
   - **Part A: Spot dictation(30m)** Score: 25.5/30
@@ -55,3 +56,8 @@
     - Review the previous mock test with consecutive interpretation and simultaneous interpretation with respect to its content
     - Use the note system you developed
       - READ THE BOOK DUDE!
+
+# English Vocabulary | Beyond C2
+## S
+- Shrewdness
+  - the quality of being astute or sharp in practical matters

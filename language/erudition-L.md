@@ -44,7 +44,8 @@
 
 ## Literature
 - [To kill a mockingbird](http://giove.isti.cnr.it/demo/eread/Libri/angry/Mockingbird.pdf)
-
+- Candide - Voltaire
+  - [link](https://www.ebooksgratuits.com/blackmask/voltaire_candide.pdf)
 ## Science
 
 # Economics

@@ -43,6 +43,7 @@
 - Corporate finance
 
 # CPA(After 5yrs of exp in tech)
+#attestationcontrol
 - 审计
 - 公司战略与风险管理
 - 税法
@@ -209,7 +210,20 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
     - Progress: 17/574
   - 7th Edition
     - [link](https://drive.google.com/file/d/1PVd0vW0coowJ73zdOZcZQyyfzQWF9BF-/view?usp=sharing)
+    - Bookmark: 30/370
+      - Style: Osmosis
+        - You've got five months until the test is up and plenty of flashcard resources
     - [Download Entry](https://knowdemia.com/download/pmbok-7th-edition-pdf/#)
+    - Metadata
+      - Digital Solution Platform
+        - [PMIstandards+](https://standardsplus.pmi.org/login)
+      - Difference from 6th Edition
+        - While effective in supporting good practice, process-based standards are prescriptive by their very nature. With project management evolving more rapidly than ever before, the process-based orientation of past editions cannot be maintained in a manner conducive to reflecting the full value delivery landscape. Therefore, this edition shifts to a principles-based standard to support effective project management and to focus more on intended outcomes rather than deliverables.
+        - Nothing in this edition of The Standard for Project Management or A Guide to the Project Management Body of Knowledge negates alignment with the process-based approach of past editions
+        - Another significant change with this edition of the PMBOK® Guide is a systems view of project management.
+        - Digital solution platform 
+    - Pending action
+      - Digital solution platform: PMIstandards+
     - [Ricardo Vargas Explains the PMBOK® Guide 7th Edition Published by PMI](https://www.youtube.com/watch?v=HVlrxOQoSUw)
       - Videomark: 48-57/1-36-39
       - Spanish/English double subtitle
@@ -218,6 +232,12 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
   - PMP Temp Attestation preparation space
     - Experience
       - [获取PMP证书需要多长时间？](https://www.jianshu.com/p/29cb583d66f3)
+        - 一般来说，备考周期为3个月，也就是我们至少需要提前3个月准备考试，上培训班。从具体时间分配上，建议每天抽1-2个小时来看PMBOK(PMP官方教材)，到考试至少通读3遍，每天坚持做题看书，坚持3个月的时间，~~以及通过培训老师的专业指导、传授经验及系统讲解，基本顺利通过考试不成问题~~。
+
+作者：光环国际
+链接：https://www.jianshu.com/p/29cb583d66f3
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ## Management
 ### Enterprise architecture
 - TOGAF

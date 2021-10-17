@@ -49,7 +49,7 @@
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
 ## Top priority(limited to 3)
-#awsattestation  
+#attestationcontrol  
 #reactinternalization  
 #rigorouscareerrelatedengagement  
 ## Secondary priority
@@ -66,6 +66,7 @@
 #distributedmindsetmanagement 
 #activetraining
 #inactivetraining
+#fundamentallifeskill
 ## Supportive
 #thehealthmatters
 #automation

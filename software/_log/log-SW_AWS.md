@@ -174,7 +174,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ### Toddler learning to walk
 - *Talk the talk, but walk carefully*: Walking takes time, effort and your youth, tred very carefully if you really want to test your walk
 ## 2021/9/27-2021/10/17 AWS Developer Associate Attestation
-#awsattestation
+#attestationcontrol
 ### Paradigm 1: 2021/9/27-2021/10/7
 #### Kickstart
 - The power has been decided that you shall take your attestation on 2021/10/17
@@ -322,6 +322,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - Waybackmachine
         1. 登入[waybackmachine](https://archive.org/web/)
         2. 在搜索框输入https://www.examtopics.com/exams/amazon/
+        3. 可见不同
 ## Temporary Question-oriented connection store
 - Requirements - Hybrid
   - Low Latency

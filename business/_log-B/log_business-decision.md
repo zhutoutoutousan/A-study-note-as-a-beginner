@@ -2,8 +2,8 @@
 #activereading
 #fundamentallifeskill
 - Smart choices: A practical guide to making better decisions
-    - [link](https://media.oiipdf.com/pdf/e2137f32-55d6-42e3-ae7f-c539cec5b292.pdf)
-    - Bookmark: 9/152
+  - [link](https://media.oiipdf.com/pdf/e2137f32-55d6-42e3-ae7f-c539cec5b292.pdf)
+  - Bookmark: 9/152
 # Motivation
 - *往日不可追, 来者犹可谏*
 

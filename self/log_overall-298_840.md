@@ -163,6 +163,16 @@
       - 就目前你的世界观, 技能树, 方向, 结合上述待学习的内容, 给出五年发展的大方向, 三年发展的小方向, 一年内的计划落地具体方案
       - Social/Public Opinion也是重要的参考资料
         - *Mathematical problems, or puzzles, are important to real mathematics (like solving real-life problems), just as fables, stories and anecdotes are important to the young in understanding real life.* - Terence Tao
+          - Be sagatious to distinguish discrimination-or-prejudice-packed trash talk from genuine description or advisory
   - PMP的学习
     - 见Cornerstone, 建立备考周期, 2022/3考试
     - 备考同时内化所学principle
+  - 断舍离
+    - 目前你已经报考了超出你管理能力之外的考试, 如果强行开始准备, 会有burnout的风险
+      - 确定哪些考试是必过
+        - AWS 2021/10-2021/11
+        - PMP 2021/3
+      - 哪些考试不过也无所谓, 关键在于收集自身表现的数据
+        - 翻译资格证相关考试
+        - 语言能力相关考试
+      - 去除无效焦虑, 割舍低优先程度的effort

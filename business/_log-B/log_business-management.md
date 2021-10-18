@@ -17,6 +17,8 @@
   - [Agility system for the most pressing scenarios](#agility-system-for-the-most-pressing-scenarios)
   - [Signs of a great plan](#signs-of-a-great-plan)
   - [Facts to support an effective plan making](#facts-to-support-an-effective-plan-making)
+- [2021/10/18](#20211018)
+  - [各国文化习俗特性假期对于项目影响的时间掐点](#各国文化习俗特性假期对于项目影响的时间掐点)
 # Buffer to permanent note
 ## Personal management
 - Recognition
@@ -95,3 +97,23 @@
 - How much sleep do you usually need? In what condition? Will it shift?
   - 2021-9-26
     - 10-00
+
+# 2021/10/18
+## 各国文化习俗特性假期对于项目影响的时间掐点
+- Why bother?
+  - 这个问题无法规避, 就算小空间内可以强行power through, 但跨国团队必须要有这个意识
+- 中国丧葬文化
+  - 未来发展
+    - [殡葬的“古”与“今”](http://wzmz.wenzhou.gov.cn/art/2019/10/29/art_1240385_39524864.html)
+    - 我们的去向：全球化语境下的中国“城乡关系”书写
+    - [传统火葬制度会被淘汰吗？武汉已在推行新制度，网友：很难接受](https://new.qq.com/omn/20210806/20210806A00PTH00.html)
+  - 做七
+    - [wiki](https://zh.wikipedia.org/wiki/%E5%81%9A%E4%B8%83)
+    - 头七 --> 死亡日+6
+      - 一天
+      - 必须?
+  - 二七 --> 死亡日+13
+    - 半天?
+    - 可选
+  - 三七 --> 死亡日+20
+- 印度丧葬文化

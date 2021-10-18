@@ -73,6 +73,7 @@
     - Bench press: 105kg Pre-intermediate * 1
     - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
+    - Barbell curl: 25kg * 2
   - Endurance
     - Bike ride
       - 10km
@@ -118,3 +119,9 @@ days, dimension, performance
 - Samstag
   - Back day
 - STATUS: No big lifts for this week
+- Sunday
+  - Arm day
+- Monday
+  - Off day
+- Tuesday
+  - 

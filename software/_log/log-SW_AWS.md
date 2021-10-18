@@ -23,6 +23,7 @@
   - [Current Strategy](#current-strategy)
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
 - [Test records and adjustments](#test-records-and-adjustments)
+- [2021/10/17](#20211017)
 
 # Buffer to permanent note
 
@@ -288,6 +289,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
     - 26% Security 17Q
       - Q225 P75
     - 30% Development with AWS Services 19.5Q
+      -  DB
+         -  Q1 P4
     - 10% Refactoring 6.5Q
     - 12% Monitoring and Troubleshooting 7.8Q
   - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing)
@@ -375,3 +378,36 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - **Gradually-shorter INTERVAL MOCK TESTS**: As mastery level and fill-the-gaps video learning goes, the interval between two mock test will become shorter and shorter until the efficiency of the feedback loop reaches the singularity as the internalization level peaks, then try to calculate the maintenance interval 
 - **Failsafe mechanism**: If you fail, you will get the valuable data gained for future adjustments
 - Contingency plan
+
+# 2021/10/17
+- 基本认知
+  - Ted: 考试分数基本与模考readiness成正比
+- Mock test on 2021/10/17
+  - Scored 23 out of 60
+  - Flashcard readiness: 62.3%
+    - Plateau on the first card deck
+- Actions
+  - According to the blindpoints, and perform diff algorithm between two card sets, fill the blindpoints first
+- Blindpoints
+  - EC2 instance specifications and provisions
+    - T2 burstable performance instance
+    - t2.nano instance + spot instance
+    - ...
+  - DynamoDB
+    - Commands and docs
+      - DescribeTable
+      - BatchGetItem
+  - ASG
+  - AZ
+    - EC2+EBS
+  - EMR
+  - NAT, MAC, IP, Public IP, Private IP, VPC, Subnet, Elastic IP, ASG all firing together
+- 状态总结
+  - 目前通过Flashcard的学习接近Plateau, 但是还没有接近, 还是有些小片知识盲点(一个Card deck本身的盲点导致), 所以第二个Card deck目前就可以开始了
+    - 对标考试中的事实题, 争取做到事实题不掉分
+  - 目前对于概念的架构认知和实操的需求逐渐增大
+    - 架构实操题, 争最多分
+    - 连点成面, 基于考试题所涉及重要结点阅读官方文档
+      - 官方文档: 连点成面
+      - 在Flashcard,题库, 官方考纲中养成的知识点敏感度内化用于官方文档的注意力分配
+  - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期

@@ -70,7 +70,7 @@
   - Strength
     - Squat: 160kg Intermediate
     - Deadlift: 200kg Pre-advanced
-    - Bench press: 105kg Pre-intermediate * 1
+    - Bench press: 110kg Pre-intermediate * 1
     - Overhead press: 60kg * 3
     - Pull-ups: 12 | 3*+30kg
     - Barbell curl: 25kg * 2
@@ -124,4 +124,6 @@ days, dimension, performance
 - Monday
   - Off day
 - Tuesday
-  - 
+  - Off day due to Schtupido Chinese Traditions
+- Wednesday
+  - Chest day

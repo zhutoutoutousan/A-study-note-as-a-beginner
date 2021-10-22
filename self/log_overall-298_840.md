@@ -73,7 +73,8 @@
     - How does it help
       - 极大地增加工作的engagement level
       - 极大地增加了Fact-based Flashcard有关的任务的效率和工作积极性
-
+- 2021/10/18
+  - This is so FXXKING useful
 # 2021/10/16
 ## 如何将不同的人类情感转化成逻辑单元? 并高效预测行为模式?对其决策模型有何影响?
 ## 关键能力缺失
@@ -176,3 +177,15 @@
         - 翻译资格证相关考试
         - 语言能力相关考试
       - 去除无效焦虑, 割舍低优先程度的effort
+  - Discovery of existing concurrent decision systems - 2021/10/21
+    - Jordan B. Peterson Future authoring program
+    - Daily-action-oriented decision system
+      - Hedonism lurking
+# Thinking about the mind-action connection of project management state
+- Going over all the tree-structured nodes and mental gantt charts in your head of various projects, either occupational, or personal, after a while, i.e. 15 minutes, everything will come to a singularity, at this point, the brain will be able to manage all those process in a clear and logical manner
+  - How to reduce the time of entering this state?
+- Entering this state has sacrifices, your body will enter a chronic depleting state, regular health check management required
+
+# Structuring and Mobility
+- Transform chaos to the building blocks in a day
+- Group the high-chaos task together for multi-tasking

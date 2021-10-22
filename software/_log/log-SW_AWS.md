@@ -24,6 +24,7 @@
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
 - [Test records and adjustments](#test-records-and-adjustments)
 - [2021/10/17](#20211017)
+- [经验总结](#经验总结)
 
 # Buffer to permanent note
 
@@ -411,3 +412,19 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - 官方文档: 连点成面
       - 在Flashcard,题库, 官方考纲中养成的知识点敏感度内化用于官方文档的注意力分配
   - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期
+
+
+
+
+
+# 经验总结
+- 阶段一
+  - 游戏化
+  - Context Coverage高
+- 阶段二
+  - 集中复习
+- 阶段三
+  - 保持状态
+  - 针对性
+- 阶段四
+  - Engagement state terminated

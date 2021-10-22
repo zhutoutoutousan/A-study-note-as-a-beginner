@@ -50,6 +50,12 @@
   - [React under the hood](#react-under-the-hood)
   - [react-router-dom中, 我想通过路由传值, 但是不想通过url的形式, 而且用户刷新之后数据不丢失](#react-router-dom中-我想通过路由传值-但是不想通过url的形式-而且用户刷新之后数据不丢失)
 - [2021/10/10](#20211010)
+- [2021/10/12-2021/10/20](#20211012-20211020)
+  - [Life was here to take you away](#life-was-here-to-take-you-away)
+- [2021/10/20](#20211020)
+  - [Reboot](#reboot)
+  - [The console throws errors when defining a button in `material-ui v1` tab](#the-console-throws-errors-when-defining-a-button-in-material-ui-v1-tab)
+  - [`Attempted import error: ...is nort exported`](#attempted-import-error-is-nort-exported)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -288,6 +294,29 @@ export default withStyles(styles)(withRouter(Component))
 
 # 2021/10/10
 - Ant Design Three --> 
+
+# 2021/10/12-2021/10/20
+## Life was here to take you away
+- Lots of changes went on, got cold turkey on React for a while
+- This kind of gaps happen from time to time, this time it is recorded
+
+# 2021/10/20
+## Reboot
+## The console throws errors when defining a button in `material-ui v1` tab
+#frontenddevtimeacumen: Button in a Tab
+Start Time: 2021-10-20-16-19
+End Time: 2021-10-20-16-26
+Duration: 7 min
+Solution: Encapsulate the component in a function of the relevant 
+```javascript
+const ButtonInTabs = (a, b, c) => (
+  <Button>...
+  </Button>
+)
+```
+
+## `Attempted import error: ...is nort exported`
+If you use `withStyles` in mui, don't import with parenthesis
 
 # ARCHIVED
 ## 2021/7/23-

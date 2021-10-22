@@ -7,11 +7,8 @@
         "id": "3184d08e1c87a6a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "business/_log-B/log_business-BA.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "business/_log-B/log_business-BA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "business/_log-B/log_business-BA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "business/_log-B/log_business-BA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

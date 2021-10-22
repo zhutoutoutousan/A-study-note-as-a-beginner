@@ -3,6 +3,7 @@
 - [Links](#links)
 - [Value --> As one person](#value----as-one-person)
 - [Hashtags](#hashtags)
+  - [Naturally drawn to](#naturally-drawn-to)
   - [Top priority(limited to 3)](#top-prioritylimited-to-3)
   - [Secondary priority](#secondary-priority)
   - [Third priority](#third-priority)
@@ -48,11 +49,21 @@
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
+## Naturally drawn to
+- #3dwebdevelopment
+- #gamelocalization
+  - Playing games 
+- #languagesacquisition
+- #research
+- #IT
 ## Top priority(limited to 3)
 #attestationcontrol  
-#reactinternalization  
 #rigorouscareerrelatedengagement  
+#frontenddevtimeacumen
+  - Since working at the front-end, periodically collect the requirements, implementation, time, communication information for future mapping system
+  - This is pure heuristics, find a way to generalize it
 ## Secondary priority
+#reactinternalization
 #devproblemsfacing  
 #techquestionsthatmattersnow  
 #dailyreview  

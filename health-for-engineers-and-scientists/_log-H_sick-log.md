@@ -47,6 +47,8 @@
 - [2021/10/13](#20211013)
   - [Involuntary pass-out during mid-day](#involuntary-pass-out-during-mid-day)
   - [Hearing](#hearing)
+- [2021/10/21](#20211021)
+  - [Hearing loss reoccurs](#hearing-loss-reoccurs)
 
 #thehealthmatters
 
@@ -334,3 +336,7 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 # 2021/10/13
 ## Involuntary pass-out during mid-day
 ## Hearing
+
+# 2021/10/21
+## Hearing loss reoccurs
+- It seems like if you are faced with some radically alient situations, your hearing problem will reoccur, it has become a chronic problem, please raise its priority level

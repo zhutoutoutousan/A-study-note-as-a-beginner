@@ -188,7 +188,6 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
       - `product management structure`
         - product managers oversee a set of defined products or services that face different competitors and different customer constraints than many or all of the other products and services in the company
         - Some companies could even 
-    
 - Stanford Online Product Management Courses CS183F
   - How to Get Users and Grow - Alex Schultz - CS183F
     - [link1](https://www.youtube.com/watch?v=URiIsrdplbo&list=PLy23U2Hszonu2CoIvREPFEJ6SswwjGYMY)
@@ -284,6 +283,7 @@ MODEL](https://drum.lib.umd.edu/bitstream/handle/1903/8087/umi-umd-5251.pdf?sequ
 - Commanding Heights: Resources
 - 我与地坛
 - 压力下的角逐
+- The Lean Startup - Eric. Ries
 - 美国生活中的反智主义
 - [Amusing Ourselves to Death](https://quote.ucsd.edu/childhood/files/2013/05/postman-amusing.pdf)
 - [Walter Lippmann - Public Opinion](https://monoskop.org/images/b/bf/Lippman_Walter_Public_Opinion.pdf)

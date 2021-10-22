@@ -41,6 +41,8 @@
     - [做遗忘曲线+Obsidian+...的竞品分析#ideasandinnovations](#做遗忘曲线obsidian的竞品分析ideasandinnovations)
   - [2021/9/18](#2021918)
   - [2021/10/8](#2021108)
+  - [2021/10/21](#20211021)
+    - [Free version: Tableau Public](#free-version-tableau-public)
 
 # Outbound space
 #NewTech-BusinessAnalyst
@@ -331,3 +333,6 @@ Ok, makes sense 2021-7-8
   - https://k.sina.cn/article_6381527871_17c5e633f0010031op.html?from=tech\
     - 产品经理起源于1927年，宝洁公司的佳美香皂产品与象牙香皂直接竞争，尽管宝洁公司使用各种策略，但销量一直起不来，很难与象牙香皂竞争。经过分析，宝洁公司发现公司内同类产品的市场、销售、广告、品牌等是由不同的人负责，在人力与资源成本方面造成了极大的浪费，同时没有形成合力，更不能够全面的服务客户，于是规划出产品经理这个角色来承担同一品牌的所有工作。
     - 后来产品经理被引入到互联网领域，具体指产品经理根据用户的需求，创造产品方案，再通过技术、商业模式，推动开发出相应的产品，组织、安排、协调、主导产品全生命周期的工作。
+
+## 2021/10/21
+### Free version: Tableau Public

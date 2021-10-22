@@ -403,6 +403,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
     - EC2+EBS
   - EMR
   - NAT, MAC, IP, Public IP, Private IP, VPC, Subnet, Elastic IP, ASG all firing together
+- Structured Video track
+  - EC2
+  - SNS
+  - ...
 - 状态总结
   - 目前通过Flashcard的学习接近Plateau, 但是还没有接近, 还是有些小片知识盲点(一个Card deck本身的盲点导致), 所以第二个Card deck目前就可以开始了
     - 对标考试中的事实题, 争取做到事实题不掉分

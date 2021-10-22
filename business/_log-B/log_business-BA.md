@@ -43,6 +43,7 @@
   - [2021/10/8](#2021108)
   - [2021/10/21](#20211021)
     - [Free version: Tableau Public](#free-version-tableau-public)
+    - [Input dump](#input-dump)
 
 # Outbound space
 #NewTech-BusinessAnalyst
@@ -336,3 +337,7 @@ Ok, makes sense 2021-7-8
 
 ## 2021/10/21
 ### Free version: Tableau Public
+
+### Input dump
+《如何根据数以千计的用户洞察，做出最佳的产品决策》
+http://www.woshipm.com/pd/5185278.html

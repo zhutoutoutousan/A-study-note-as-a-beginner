@@ -12,3 +12,8 @@
 
 # 2021/10/22
 ## XY Platform practice
+- Forum & Tools
+  - 闲赚网 
+    - [link](https://www.yuxianxian.com/)
+- Local ecosystem
+- Subculture type

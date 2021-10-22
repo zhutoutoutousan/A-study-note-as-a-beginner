@@ -127,3 +127,9 @@ days, dimension, performance
   - Off day due to Schtupido Chinese Traditions
 - Wednesday
   - Chest day
+- Thursday
+  - Off day due to abnormal state
+- Friday
+  - Back day(NO BIG LIFTS STUPID)
+- Saturday
+  - 

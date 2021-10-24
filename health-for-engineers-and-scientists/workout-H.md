@@ -107,29 +107,8 @@ days, dimension, performance
     - MRV: Chest 12SETS/WEEK
     - Overloading set: 3SETS/WEEK
 - Sarm cycle
-  - On at 10/3
-  - Off at 10/20
-- Cut cycle
-  - Until BW down to 90
-  - **Nutrition monitoring enabled**
-    - Normally disabled to leave extra overhead for software and language sections
-  - 2021/10/12: Nutrition monitoring impossible for increased uncertainty of daily workload
-    - 2021/10/16 Becomes increasingly impossible for more unexpected life events
-- Due to the recent *boosted chaos*, it is suggested that you add medium-paced running into the workout session
-- Samstag
-  - Back day
-- STATUS: No big lifts for this week
-- Sunday
-  - Arm day
-- Monday
-  - Off day
-- Tuesday
-  - Off day due to Schtupido Chinese Traditions
-- Wednesday
-  - Chest day
-- Thursday
-  - Off day due to abnormal state
-- Friday
-  - Back day(NO BIG LIFTS STUPID)
-- Saturday
+  - Currently off 
+- Recovery and cutting
+  - Time: 2021-10-24~2021-12-15
+  - Only hypertrophy and cutting exercise
   - 

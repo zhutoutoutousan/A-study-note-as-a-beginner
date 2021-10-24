@@ -114,6 +114,7 @@ Ok, makes sense 2021-7-8
     - 
 - 买?
   - [90后人群消费趋势研究报告](http://www.invest-data.com/eWebEditor/uploadfile/2019102016541697033330.pdf)
+  - 中国消费2030展望 - Morgan Stanley
 - 玩
   - 社交
   - Fan圈
@@ -249,7 +250,7 @@ Ok, makes sense 2021-7-8
 - [Business Analyst Full Course In 2 Hours | Business Analyst Training For Beginners | Simplilearn](https://www.youtube.com/watch?v=f9DzS6NdgwU)
   - Bookmark: 1:08
 - [商业分析师技能课](https://www.bilibili.com/video/BV1Ky4y1B733?from=search&seid=2082325064489175330)
-  - \[Bookmark\]: P1 1-1 16-55
+  - \[Videomark\]: 1-2 0-0
   - 如何将老板的问题明确为可以实施的行动
     - 麦肯锡的咨询顾问如何用7\(+2\)步解决问题
       - 明确界定问题

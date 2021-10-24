@@ -1,3 +1,6 @@
+# Innate attribute development plan
+- [狼人杀超详入门攻略（原创）](https://zhuanlan.zhihu.com/p/25384935)
+
 # 2021/7/21
 ## 未来的社会需要的工程应用型人才是一专多能还是精于一业？
 - Think 4 urself

@@ -25,3 +25,9 @@
         - 5: Accelerated test/Pure reading before test
         - After you finish it, spend no more overhead for this test
       - Whatever double-subtitle video you watch on YouTube, set it to German
+
+
+# 2021/10/24
+## Major adjustments due to fundamental circadian rhythm disruption
+- Break an entire test to different pieces, record each pieces in chunks
+- Shift the major prep logistics to YouTube and Apps

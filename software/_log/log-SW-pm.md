@@ -38,7 +38,7 @@
 
 ## PM course
 - [PMP® Certification Full Course - Learn PMP Fundamentals in 12 Hours | PMP® Training Videos | Edureka](https://www.youtube.com/watch?v=vzqDTSZOTic)
-
+  - [项目管理师pmp报考条件](http://www.51xingjy.com/jiaoyu/5232.html)
 
 # 2021/10/11
 ## 你错误地估计了开发耗时, 请描述一下不同开发时段发现该问题时的处理方案

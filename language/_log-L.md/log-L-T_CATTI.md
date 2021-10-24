@@ -17,3 +17,7 @@
 - Policy
   - Old-age support
     - [CATTI真题：2019-06-二笔-汉译英-自己养老](https://zhuanlan.zhihu.com/p/70105855)
+
+# 2021/10/24
+## Major adjustments due to fundamental circadian rhythm disruption
+- Break an entire test to different pieces, record each pieces in chunks

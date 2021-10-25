@@ -49,6 +49,9 @@
   - [Hearing](#hearing)
 - [2021/10/21](#20211021)
   - [Hearing loss reoccurs](#hearing-loss-reoccurs)
+- [2021/10/24](#20211024)
+  - [Brain fog + Hangover + Oversleep + Total weekend plan disruption](#brain-fog--hangover--oversleep--total-weekend-plan-disruption)
+  - [NOTE: Complete your Hidradenitis suppurativa and Otitis media hospital inquiry and gastroscopy for it's been delayed for too long](#note-complete-your-hidradenitis-suppurativa-and-otitis-media-hospital-inquiry-and-gastroscopy-for-its-been-delayed-for-too-long)
 
 #thehealthmatters
 
@@ -340,3 +343,12 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 # 2021/10/21
 ## Hearing loss reoccurs
 - It seems like if you are faced with some radically alient situations, your hearing problem will reoccur, it has become a chronic problem, please raise its priority level
+
+# 2021/10/24
+## Brain fog + Hangover + Oversleep + Total weekend plan disruption
+
+## NOTE: Complete your Hidradenitis suppurativa and Otitis media hospital inquiry and gastroscopy for it's been delayed for too long
+- Additional hospital visit plan required under current unforgiving schedule, need to power through
+#thehealthmatters
+- Now at least those liquid in your right ear is still extractable 
+- It's better if you can do it in one set

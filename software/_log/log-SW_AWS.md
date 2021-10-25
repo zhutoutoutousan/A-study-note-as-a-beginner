@@ -24,6 +24,7 @@
   - [Temporary Question-oriented connection store](#temporary-question-oriented-connection-store)
 - [Test records and adjustments](#test-records-and-adjustments)
 - [2021/10/17](#20211017)
+- [2021/10/24-](#20211024-)
 - [经验总结](#经验总结)
 
 # Buffer to permanent note
@@ -402,6 +403,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - AZ
     - EC2+EBS
   - EMR
+
   - NAT, MAC, IP, Public IP, Private IP, VPC, Subnet, Elastic IP, ASG all firing together
 - Structured Video track
   - EC2
@@ -418,8 +420,28 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期
 
 
-
-
+# 2021/10/24- 
+- 2021/10/25
+  - Flashcard readiness: 74.3%
+  - AWS Exam Pro: 4.9%
+- Video operation simulation plan
+  - Metadata
+    - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
+  - EC2
+  - SNS
+  - SES
+  - IAM
+  - CF
+  - Security
+  - X-Ray
+  - SQS
+  - Lamda function
+  - Database(RDS, DynamoDB)
+  - VPC
+  - Route 53
+  - EBS
+  - CW
+  - Storage(S3, EBS, EFS, Cloudfront...)
 
 # 经验总结
 - 阶段一

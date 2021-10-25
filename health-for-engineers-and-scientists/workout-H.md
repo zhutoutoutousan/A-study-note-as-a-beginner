@@ -111,4 +111,34 @@ days, dimension, performance
 - Recovery and cutting
   - Time: 2021-10-24~2021-12-15
   - Only hypertrophy and cutting exercise
-  - 
+    - Only bench press is permitted
+  - Solution to: *I don't even have the energy to make a daily workout plan* --> Preset plan template
+    - Arm
+      - Bicep
+        - Weighted Chinup
+        - Dumbbell compound curl
+      - Tricep
+        - Skull crusher/Push away
+        - 
+      - Shoulder
+    - Chest
+      - Bench press
+      - Incline bench press
+      - LC press
+      - Fly
+    - Shoulder
+      - Sit press
+      - Lateral raise
+      - Reverse fly
+      - Landmine thrush
+    - Back(Lower back recovery)
+      - Weighted pull-up
+      - 
+    - Leg(Lower back recovery)
+    - Cutting
+      - Cycling
+      - Running
+- Sunday
+  - Off due to possible infection
+- Monday
+  - Armday

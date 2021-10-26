@@ -53,6 +53,7 @@
 - #3dwebdevelopment
 - #gamelocalization
   - Playing games 
+- #gamedevelopment
 - #languagesacquisition
 - #research
 - #IT

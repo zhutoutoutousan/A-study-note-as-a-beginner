@@ -97,3 +97,5 @@
 
 # Micro-psychology
 - [The Defense Mechanism Manual](https://web.williams.edu/Psychology/Faculty/Cramer/Defense%20Mechanisms.pdf)
+
+# Sociology

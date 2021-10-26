@@ -119,8 +119,9 @@ days, dimension, performance
         - Dumbbell compound curl
       - Tricep
         - Skull crusher/Push away
-        - 
       - Shoulder
+        - Lateral raise
+        - Reverse fly
     - Chest
       - Bench press
       - Incline bench press
@@ -142,3 +143,5 @@ days, dimension, performance
   - Off due to possible infection
 - Monday
   - Armday
+- Tuesday
+  - Chest day

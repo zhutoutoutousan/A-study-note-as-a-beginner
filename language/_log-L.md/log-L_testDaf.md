@@ -31,3 +31,18 @@
 ## Major adjustments due to fundamental circadian rhythm disruption
 - Break an entire test to different pieces, record each pieces in chunks
 - Shift the major prep logistics to YouTube and Apps
+
+## Mock Test Results Store
+- Test 1
+  - Leseverstehen
+    - Lesetext 1
+      - 9/10
+    - Lesetext 2
+      - 6/10
+    - Lesetext 3
+      - 8/10
+    - Ergebnis: TDN 4
+  - Hörverstehen
+- Test 2
+
+- Test 3

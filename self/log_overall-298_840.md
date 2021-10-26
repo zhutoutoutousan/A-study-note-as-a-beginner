@@ -66,15 +66,19 @@
   - Brain: Impossible, your brain is toast
 
 ## 你不仅需要可见的Chunked Task, 在工作过程中也要有On-the-fly chunk
+#selftransformation
 - Micro On-the-flight Chunking mechanism
   - 不需要Pomodoro, 做一个task的时候, 根据自己实际情况在大脑缓存中定一个毛细指标并建立简易的低占空比监控机制, 在毛细指标达成之后进行微休息]
     - 2021/10/17
       - Pomodoro适合高混乱度, 难以量化的工作
+        - 2021/10/26: 同意
     - How does it help
       - 极大地增加工作的engagement level
       - 极大地增加了Fact-based Flashcard有关的任务的效率和工作积极性
 - 2021/10/18
   - This is so FXXKING useful
+- 2021/10/26
+  - According to the real data this month, this is an effective method, move it to the permanent store 
 # 2021/10/16
 ## 如何将不同的人类情感转化成逻辑单元? 并高效预测行为模式?对其决策模型有何影响?
 ## 关键能力缺失
@@ -184,8 +188,18 @@
 # Thinking about the mind-action connection of project management state
 - Going over all the tree-structured nodes and mental gantt charts in your head of various projects, either occupational, or personal, after a while, i.e. 15 minutes, everything will come to a singularity, at this point, the brain will be able to manage all those process in a clear and logical manner
   - How to reduce the time of entering this state?
+  - 2021/10/26: WTF? This should be the norm
 - Entering this state has sacrifices, your body will enter a chronic depleting state, regular health check management required
 
 # Structuring and Mobility
 - Transform chaos to the building blocks in a day
 - Group the high-chaos task together for multi-tasking
+
+
+# 2021/10/26
+- Some major changes imminent, mindset shift and adjustments required, more advanced project management skills required
+- Operation skills requires proactive, delicated social interactions, which poses greater challenge due to your innate psychological structure 
+  - Short-term memory & Sensory | Feeling demanding tasks
+    - Pre-built mental structure can compensate intellectual deficiency
+  - MOMENTUM is KEY
+

@@ -134,7 +134,6 @@ days, dimension, performance
       - Landmine thrush
     - Back(Lower back recovery)
       - Weighted pull-up
-      - 
     - Leg(Lower back recovery)
     - Cutting
       - Cycling

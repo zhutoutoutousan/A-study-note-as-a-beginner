@@ -43,3 +43,4 @@
 
 # 2021/10/26
 ## Questionnaire design --> Sociology Theory & Methods --> Implementation
+- #socialresearchmethods

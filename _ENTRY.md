@@ -58,9 +58,10 @@
 - #research
 - #IT
 ## Top priority(limited to 3)
-#attestationcontrol  
-#rigorouscareerrelatedengagement  
-#frontenddevtimeacumen
+- #attestationcontrol  
+- #rigorouscareerrelatedengagement   
+  - #socialresearchmethods
+- #frontenddevtimeacumen
   - Since working at the front-end, periodically collect the requirements, implementation, time, communication information for future mapping system
   - This is pure heuristics, find a way to generalize it
 ## Secondary priority

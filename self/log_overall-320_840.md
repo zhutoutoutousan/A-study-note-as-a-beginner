@@ -8,3 +8,6 @@
     - Finland
     - Sweden
     - Germany
+
+
+Check: #possibleacademiadirection for choosing major

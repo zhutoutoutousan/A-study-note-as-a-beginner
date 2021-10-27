@@ -144,3 +144,5 @@ days, dimension, performance
   - Armday
 - Tuesday
   - Chest day
+- Wednesday
+  - 

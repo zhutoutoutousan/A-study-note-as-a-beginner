@@ -1,4 +1,11 @@
 # What is innovation?
+- Your explanation
+  - 2021/10/27: 创新的科学是复杂科学, 创新的工程是系统工程, 创新的...
+    - 投资人眼中的创新
+    - 消费者眼中的创新
+    - 企业家眼中的创新
+
+
 - [创新系统 - MBA](https://wiki.mbalib.com/wiki/%E7%B3%BB%E7%BB%9F%E5%88%9B%E6%96%B0)
 - [技术创新是个系统工程](https://www.edu.cn/ke_yan_yu_fa_zhan/special_topic/zbwjt/201611/t20161110_1466475.shtml)
   - 那既然创新是个系统工程, 那么创新主要包含哪些系统? 各个系统的个体特性, 交互特性, 网络时空图及内在运动原理可以描述一下吗?

@@ -3,7 +3,9 @@
 
 # Erudition
 - 技术社会学
-- [](http://socialbigdata.cn/css/course/doc/%E6%8A%80%E6%9C%AF%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
+- [Socialbigdata](http://socialbigdata.cn/css/course/doc/%E6%8A%80%E6%9C%AF%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
+- 钢铁，病菌和枪炮
+
 
 # 2021/10/26
 This section is created now exclusively to provide low-level knowledge and context support for making a good questionnaire

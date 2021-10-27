@@ -428,6 +428,9 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - Metadata
     - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
   - EC2
+    - [AWS EC2 Tutorial For Beginners | What Is AWS EC2? | AWS EC2 Tutorial | AWS Training | Simplilearn](https://www.youtube.com/watch?v=8TlukLu11Yo)
+      - Videomark: 4-16/22-16
+      - Engagement boost: German subtitle, simultaneous interpretation
   - SNS
   - SES
   - IAM

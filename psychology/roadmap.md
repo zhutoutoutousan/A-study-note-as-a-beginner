@@ -27,6 +27,9 @@
         - When sometimes happened to fit the suspicious hypothesis that animal acts for the benefit of its species
           - P.O.I
             - V. C. Wynne-Edwards(Zoologist xD really?): The dude that invented that naiive idea of altruistic, sacrificial assumption of animal nature, --> according to the lecturer, some of its supporting materials are misleading
+    - 19 Aggression III
+      - [link](https://www.youtube.com/watch?v=EtVfoIkVSu8)
+      - Videomark: 5-13
 # P.O.I
 - Robert Plomin
   - For: Genetics influence on intelligence

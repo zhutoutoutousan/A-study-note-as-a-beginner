@@ -52,6 +52,8 @@
 - [2021/10/24](#20211024)
   - [Brain fog + Hangover + Oversleep + Total weekend plan disruption](#brain-fog--hangover--oversleep--total-weekend-plan-disruption)
   - [NOTE: Complete your Hidradenitis suppurativa and Otitis media hospital inquiry and gastroscopy for it's been delayed for too long](#note-complete-your-hidradenitis-suppurativa-and-otitis-media-hospital-inquiry-and-gastroscopy-for-its-been-delayed-for-too-long)
+- [2021/10/28](#20211028)
+  - [REMINDER on Colonoscopy, Hidradenitis suppurativa surgery arrangement, and Otitis media](#reminder-on-colonoscopy-hidradenitis-suppurativa-surgery-arrangement-and-otitis-media)
 
 #thehealthmatters
 
@@ -352,3 +354,8 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 #thehealthmatters
 - Now at least those liquid in your right ear is still extractable 
 - It's better if you can do it in one set
+
+
+# 2021/10/28
+## REMINDER on Colonoscopy, Hidradenitis suppurativa surgery arrangement, and Otitis media 
+- You had Intestine cancer family history, check for Lynch syndrome

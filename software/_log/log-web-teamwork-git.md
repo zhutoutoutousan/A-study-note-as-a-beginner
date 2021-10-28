@@ -25,6 +25,7 @@
 - [2021/9/6](#202196)
   - [When should you use shallow-copy clone?](#when-should-you-use-shallow-copy-clone)
   - [When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?](#when-and-why-should-you-use-degit-why-it-doesnt-support-windows-well-is-there-any-alternative)
+- [](#)
 # Buffer to static knowledge store
 
 
@@ -155,3 +156,5 @@ https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html
 # 2021/9/6
 ## When should you use shallow-copy clone?
 ## When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?
+
+# 

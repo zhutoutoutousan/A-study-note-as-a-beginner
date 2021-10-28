@@ -316,6 +316,14 @@ is useful.
     - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
   - [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
     - Progress: 15/113
+  - Fundamentals of Database Systems Seventh Edition
+    - #activereading
+    - [link1](https://www.auhd.site/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
+    - Process 1
+      - Goal
+        - This human being is currently insane, therefore, there is no goal available
+    - Bookmark: 14/1273
+    - Style: Osmosis
   - Postgres: The First Experience
     - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
     - Progress

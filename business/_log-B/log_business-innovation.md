@@ -22,7 +22,9 @@
 # Erudition
 #activereading
 - 创新化生存：如何将不安的焦虑转化为创作的动力
-
+- The INNOVATOR'S DNA
+- WIRED to CREATE: Unraveling the Mysteries of the Creative Mind
+- The Runaway Species: Now human creativity remakes the world
 # Presentation
 ## PPT 101
 - 效率
@@ -32,3 +34,9 @@
 - 如何利用Google Slides/PPT有结构地描述某一创新? 有木有实例可以参考?
   - ?   
 - 如何了解自己的Presentation的效果?
+
+
+# Random thoughts
+- Idea能不能数据化? 数据化之后, 每个idea之间的杂交裂变逻辑是什么样的？
+- 如何定义糟糕的idea? 有哪些包含顶级的idea的资源?
+- 假如目前你的大脑综合实力$A$所对应的创意集为$B$, 然后在该世界中能够对$B$形成*降维打击*的创意集为$C$, 其对应大脑集为$D$, 总结$C$及$D$与$A$,$B$的不同

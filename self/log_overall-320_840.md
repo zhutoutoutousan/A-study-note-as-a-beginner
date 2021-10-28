@@ -9,5 +9,8 @@
     - Sweden
     - Germany
 
+- 2021/10/28: There's a problem with your further study, by some substrains of local public opinion system, gaining tag of *having studied abroad* will level the playing field favorably by a small margin, however, judging by these a few months' experience, you will always discover the fact of deprecation and misplacement in your previous educational system and will try your best to deviate and achieve a new balance, if you do that, will that happen again?
+  - Intuition: No, because you built this, a lot of those touchy-feelies are starting to be negligible
+
 
 Check: #possibleacademiadirection for choosing major

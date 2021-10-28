@@ -1,3 +1,39 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Re-structure note](#re-structure-note)
+- [直觉主线曲 - On-demand Self-manipulation only](#直觉主线曲---on-demand-self-manipulation-only)
+- [State description](#state-description)
+  - [Prospecting state](#prospecting-state)
+  - [Planning state](#planning-state)
+  - [Networking state](#networking-state)
+  - [Capability state](#capability-state)
+  - [Behavioural state](#behavioural-state)
+  - [Health State](#health-state)
+  - [Psychological State](#psychological-state)
+    - [Manifestation layer](#manifestation-layer)
+    - [Executive layer](#executive-layer)
+    - [Coordination layer](#coordination-layer)
+    - [Entanglement layer](#entanglement-layer)
+    - [Core layer](#core-layer)
+    - [Subconscious layer](#subconscious-layer)
+    - [Shadow layer](#shadow-layer)
+- [2021/10/6](#2021106)
+  - [Reoccuring patterns: Limbo of Combos](#reoccuring-patterns-limbo-of-combos)
+- [2021/10/11](#20211011)
+  - [有关毛细质变的捕捉及广播应用问题](#有关毛细质变的捕捉及广播应用问题)
+  - [四象限方法的实际应用](#四象限方法的实际应用)
+  - [你不仅需要可见的Chunked Task, 在工作过程中也要有On-the-fly chunk](#你不仅需要可见的chunked-task-在工作过程中也要有on-the-fly-chunk)
+- [2021/10/16](#20211016)
+  - [如何将不同的人类情感转化成逻辑单元? 并高效预测行为模式?对其决策模型有何影响?](#如何将不同的人类情感转化成逻辑单元-并高效预测行为模式对其决策模型有何影响)
+  - [关键能力缺失](#关键能力缺失)
+- [Thinking about the mind-action connection of project management state](#thinking-about-the-mind-action-connection-of-project-management-state)
+- [Structuring and Mobility](#structuring-and-mobility)
+- [2021/10/26](#20211026)
+- [2021/10/28-](#20211028-)
+  - [An observation of your reoccuring insanity state that happens all over your life](#an-observation-of-your-reoccuring-insanity-state-that-happens-all-over-your-life)
+
+# Re-structure note
+
 - Assuming you're going to exist in this space for 70 years, that will be 840 months, this is approximately 297th month since your kickstart of the sentient state
 - Clean-slate mechanism for every month's snapshot of overall state has been established, which created this structure
 
@@ -203,3 +239,23 @@
     - Pre-built mental structure can compensate intellectual deficiency
   - MOMENTUM is KEY
 
+
+
+# 2021/10/28- 
+## An observation of your reoccuring insanity state that happens all over your life
+- Entering insanity state, now it is very good time to record what changes you have during this normal insanity state of yours
+- On-state trigger elements
+- Insanity state requires these few elements
+  - This entity has no continuous imperative co-influence flow with other systems
+    - $workfromhome
+  - The information density reaches singularity
+    - A sense of systems reaching singularity
+- Manifestations
+  - Being obsessed with thinking, reading, writing, coding
+  - Forgetting workout, eating, sleeping etc.
+- Comments
+  - This is double-edged sword
+- Duration
+- Off state trigger elements
+- Physical changes
+  - Ostisis media

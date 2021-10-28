@@ -8,3 +8,6 @@
 #possibleacademiadirection: Complexity Science
 
 What is Complexity Science
+
+## New words
+- Universal of discourse

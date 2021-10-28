@@ -176,6 +176,7 @@ Ok, makes sense 2021-7-8
           - 刘易斯拐点
     - RPA移动端自动化应用2C
       - #ideasandinnovations
+        - \[RANDOM THOUGHTS\]: 语言认证具有沉重感, 建立一个轻量跨国界语言能力认证平台
     - 玩家
       - Automation Anywhere(AA)
       - Blue Prism

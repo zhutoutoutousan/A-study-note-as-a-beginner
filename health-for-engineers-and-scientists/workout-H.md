@@ -145,4 +145,6 @@ days, dimension, performance
 - Tuesday
   - Chest day
 - Wednesday
-  - 
+  - Off day
+- Thursday
+  - Off day due to entering insanity state

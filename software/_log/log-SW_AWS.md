@@ -25,7 +25,7 @@
 - [Test records and adjustments](#test-records-and-adjustments)
 - [2021/10/17](#20211017)
 - [2021/10/24-](#20211024-)
-- [经验总结](#经验总结)
+- [经验总结(draft)](#经验总结draft)
 
 # Buffer to permanent note
 
@@ -446,7 +446,13 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - CW
   - Storage(S3, EBS, EFS, Cloudfront...)
 
-# 经验总结
+- 2021/10/29
+  - WARNING: entering insanity state due to prolonged sleep deprivation, sapio-masochism trait
+    - Set a hard re-set
+
+
+
+# 经验总结(draft)
 - 阶段一
   - 游戏化
   - Context Coverage高

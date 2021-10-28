@@ -322,8 +322,9 @@ is useful.
     - Process 1
       - Goal
         - This human being is currently insane, therefore, there is no goal available
-    - Bookmark: 14/1273
+    - Bookmark: 40/1273
     - Style: Osmosis
+    - Solutional manual: P14
   - Postgres: The First Experience
     - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
     - Progress

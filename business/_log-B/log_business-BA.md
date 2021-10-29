@@ -93,6 +93,8 @@ Ok, makes sense 2021-7-8
   - Implementation: Website, APP
   - How about you write something
   - 框架是智慧结晶, 树叶是案例, 案例可以推动框架的升级, 双向影响
+  - INSERTED: 开源托管平台excel导出, 排列组合, 判断联合逻辑是否成立, 裂变产生新物种
+  - INSERTED: Windows/Mac关机时自动记录打开的窗口, 重启时自动打开
 #### Capital
 - 2020年VC／PE机构薪酬与运营机制调查研究报告
 #### Daily matters

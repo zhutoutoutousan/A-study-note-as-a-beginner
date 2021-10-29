@@ -1,3 +1,6 @@
+# Law, regulatories, compliance acumen construction kickstart
+- Law, regulatories, compliance acumen construction kickstart
+
 # 2021/10/27-
 ## Text-heavy law material reading
 - 中华人民共和国著作权法

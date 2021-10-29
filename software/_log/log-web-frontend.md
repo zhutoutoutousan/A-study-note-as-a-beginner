@@ -30,6 +30,8 @@
   - [建立一个前端需求池, 并且每个需求对应一个各类实现方法, 自测用例, 沟通常见技巧, 和未来低代码的对接模式](#建立一个前端需求池-并且每个需求对应一个各类实现方法-自测用例-沟通常见技巧-和未来低代码的对接模式)
 - [2021/10/10](#20211010)
   - [Jest documentation reading](#jest-documentation-reading)
+- [2021/10/29](#20211029)
+  - [前端开发如何调试大屏/巨屏/拼接屏?](#前端开发如何调试大屏巨屏拼接屏)
 
 
 # 2021/8/4-
@@ -96,3 +98,6 @@
 ## Jest documentation reading
 Triggered by ant-design-three e2e test
 https://jestjs.io/zh-Hans/docs/asynchronous
+
+# 2021/10/29
+## 前端开发如何调试大屏/巨屏/拼接屏?

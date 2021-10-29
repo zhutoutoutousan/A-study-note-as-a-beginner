@@ -1,3 +1,13 @@
+# Resource pool
+- LOI Liang Yang
+- [PicoCTF](https://picoctf.org/resources)
+- https://owasp.org/www-project-webgoat/
+- Lab env
+  - http://201.191.205.60/webgoat.net/Default.aspx
+
+# Browser exploitation
+- beefproject
+
 # 2021/3/19
 ## Router Password Kracker: Specified router is not looking for (BASIC/DIGEST) Authentication
 - Maybe I should learn more about this at my spare time~

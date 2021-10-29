@@ -28,3 +28,13 @@ https://arxiv.org/pdf/1909.11942.pdf
 # 2021/7/20
 - Substring of NLP of interest dicovered: NLU(Natural language understanding)
 
+
+# 2021/10/29-
+## Begin context osmosis phase
+- NLP Zero to Hero - Tensorflow 
+  - [x] Part 1
+    - [Natural Language Processing - Tokenization (NLP Zero to Hero - Part 1)](https://www.youtube.com/watch?v=fNxaJsNG3-s)
+  - [x] Part 2
+  - [ ] Part 3
+    - [link](https://www.youtube.com/watch?v=Y_hzMnRXjhI)
+      - Videomark: 0-29

@@ -49,8 +49,21 @@
 
 
 # Mechanical Engineering & Design
-
-
+- Motive: Your innate passion for putting tremendous amount of time doing mathematics, electrical engineering, mechanical design and start-up is shunned by the unfavourable ordering of your life progression and uncontrollable skill set, add this section and ready your future revisit at the second stage of your life
+  - Stay strong, stay striving and STAY HEALTHY, the desired life of yours is waiting for you
+    - Or you can just leave this to your descendants ;P 
+- Roadmap
+  - AUTOCAD/Solideworks
+  - 机械原理
+  - 机械制图
+  - 理论力学
+  - 材料力学
+  - 工程材料
+  - 机械设计
+  - 机械制造工艺学
+  - 液压气动
+  - 自动控制原理
+  - 电工电子学
 # DSP and MC
 ## Raspberry 4
 - [Raspberrypi beginners guide](https://magpi.raspberrypi.org/books/beginners-guide-4th-ed)

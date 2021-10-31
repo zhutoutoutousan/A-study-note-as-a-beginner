@@ -43,6 +43,8 @@
   - Steve Kauffman's osmosis technique
 - Phase 3
   - Cultural integration
+- Phase 4
+  - Performance-oriented effort
 ## Something that will significantly boost your language skills when binging on YouTube videos
 - Double subtitles
   - PC/Tablets

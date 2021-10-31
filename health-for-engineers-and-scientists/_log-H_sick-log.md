@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent notes](#buffer-to-permanent-notes)
+  - [Common disorder counteract strategy](#common-disorder-counteract-strategy)
+    - [IBS](#ibs)
   - [How to get away from being hospitalized under increasingly extreme conditions and workload?](#how-to-get-away-from-being-hospitalized-under-increasingly-extreme-conditions-and-workload)
   - [Brain - Task mapping](#brain---task-mapping)
 - [2021/4/29](#2021429)
@@ -58,6 +60,14 @@
 #thehealthmatters
 
 # Buffer to permanent notes
+## Common disorder counteract strategy
+### IBS
+- [ ] Early age Colonscopy to initate 0 polips state, rule out colon cancer and confirm IBS state
+- Medication
+  - 马来酸曲美布汀
+- [ ] Stress control
+
+
 ## How to get away from being hospitalized under increasingly extreme conditions and workload?
 - According to the data collected, working from home lifestyle can reduce the chance of infection as the workload typically shuns the immune system and increase the risk of exposure, as shown in 2021/4
 

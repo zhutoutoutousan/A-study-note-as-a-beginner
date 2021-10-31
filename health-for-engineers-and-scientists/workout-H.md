@@ -138,13 +138,5 @@ days, dimension, performance
     - Cutting
       - Cycling
       - Running
-- Sunday
-  - Off due to possible infection
-- Monday
-  - Armday
-- Tuesday
-  - Chest day
-- Wednesday
-  - Off day
-- Thursday
-  - Off day due to entering insanity state
+- Saturday
+  - Arm day

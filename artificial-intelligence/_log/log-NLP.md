@@ -38,3 +38,10 @@ https://arxiv.org/pdf/1909.11942.pdf
   - [ ] Part 3
     - [link](https://www.youtube.com/watch?v=Y_hzMnRXjhI)
       - Videomark: 0-29
+
+
+- Framework play
+  - [polyglot](https://polyglot.readthedocs.io/en/latest/)
+
+- Paper reading
+  - [Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning](https://arxiv.org/pdf/1605.03832.pdf)

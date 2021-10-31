@@ -285,19 +285,6 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
     - [AWS Certified Developer Associate 2021 Study Guide - Quizlet](https://quizlet.com/570090385/aws-certified-developer-associate-2021-study-guide-flash-cards/)
   - Brainscape
     - 
-- Downloaded Questions Set
-  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
-    - 22% Deployment 14.3Q
-    - 26% Security 17Q
-      - Q225 P75
-    - 30% Development with AWS Services 19.5Q
-      -  DB
-         -  Q1 P4
-    - 10% Refactoring 6.5Q
-    - 12% Monitoring and Troubleshooting 7.8Q
-  - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing)
-  - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing)
-  - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
 
 ## Current Strategy
 - 抓大头
@@ -424,12 +411,12 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - 2021/10/25
   - Flashcard readiness: 74.3%
   - AWS Exam Pro: 4.9%
-- Video operation simulation plan
+- Video operation simulation plan(Watering)
   - Metadata
     - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
   - EC2
     - [AWS EC2 Tutorial For Beginners | What Is AWS EC2? | AWS EC2 Tutorial | AWS Training | Simplilearn](https://www.youtube.com/watch?v=8TlukLu11Yo)
-      - Videomark: 4-16/22-16
+      - Videomark: 12-54/22-16
       - Engagement boost: German subtitle, simultaneous interpretation
   - SNS
   - SES
@@ -438,6 +425,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - Security
   - X-Ray
   - SQS
+    - [SNS And SQS Deep Dive | SNS Vs SQS | Standard Vs FIFO | Use Cases](https://www.youtube.com/watch?v=LzFuXvhA5xk)
+      - Videomark: 2-22/15-04
   - Lamda function
   - Database(RDS, DynamoDB)
   - VPC
@@ -449,6 +438,70 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - 2021/10/29
   - WARNING: entering insanity state due to prolonged sleep deprivation, sapio-masochism trait
     - Set a hard re-set
+
+
+-  2021/10/30
+   - Status report
+     - Watering system established
+     - Question set re-discovered
+   - Downloaded Questions Set
+     - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
+       - Navigation
+         - Sweepmark: Q6/260
+         - Search mark: QX - Ctrl+F--> Question X
+       - Weight system
+         - 22% Deployment 14.3Q
+         - 26% Security 17Q
+           - Q225 P75
+         - 30% Development with AWS Services 19.5Q
+           - 10% Refactoring 6.5Q
+           - 12% Monitoring and Troubleshooting 7.8Q
+
+       - Question Overview
+         - Spaced Repetition Level 1
+           - App
+             - EBS
+               - **Q110**
+                 - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
+             - CF
+               - Q258
+                 - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+           - Database
+             -  DB
+                -  Q1 P4
+             -  Dynamo DB
+                -  Q4
+           -  Storage
+              -  S3
+                 -  Q2
+           -  Notification
+              -  SQS
+                 -  Q3
+                 -  Q5
+           -  Authentication
+              -  IAM
+                 -  Q260
+                    -  IAM resources are all global; there is no regional constraint
+           -  Instance
+              -  EC2
+                 -  **Q6**
+                    -  [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+                       -  Docmark: Install LAMP on Amazon Linux 2
+                 -  Q202
+                    - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
+        - Spaced Repetition Level 2
+
+     - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing)
+       - Sweepmark: Q1/60
+         - S1
+           - S3
+             - Q1
+     - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing)
+       - Sweepmark: Q1/10
+     - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+       - Sweepmark: Q1/10
+       - ASM
+         - Q1
 
 
 

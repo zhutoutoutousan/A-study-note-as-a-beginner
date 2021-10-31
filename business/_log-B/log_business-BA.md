@@ -74,7 +74,7 @@ Ok, makes sense 2021-7-8
 - [Factly](https://factly.in/)
 ### Industry study
 #### Channels
-- 商业洞见
+- 商业洞见 --> TODO: 按靠谱程度排名
   - [商业新知](https://www.shangyexinzhi.com/)
   - [未来智库](https://www.vzkoo.com/)
   - [墨天轮](https://www.modb.pro/)

@@ -1,3 +1,15 @@
+# Information source
+- [QAStack](https://qastack.cn/)
+
+
+# Re-structure plan
+- Integrate AWS into this note as soon as you get the Pro certificate
+
+
+# PASS AUF!
+Q|JiS#j[4)2kGWC _13
+
+
 # 2021/2/24
 ## 云服务器上CentOS可视化
 - [云服务器上centOS可视化](https://blog.csdn.net/qq_37666178/article/details/88071108)
@@ -36,3 +48,21 @@
 - [Fundamental of IT - Complete Course || IT course for Beginners](https://www.youtube.com/watch?v=awLnur5Yt9o&t=4094s)
   - Videomark?: 1-08-14/3-49-16
 - [System administration complete course from beginner to advanced | IT administrator full course](https://www.youtube.com/watch?v=1DvTwuByjo0&t=7s)
+
+# 2021/10/31
+## 阿里云 - 实例最佳选型
+- [选型最佳实践](https://help.aliyun.com/document_detail/58291.html)
+  - 阿里云 - ECS doc阅读
+    - Docmark: 动态与公告
+
+- Learning to speak - Context: Tencent Cloud
+  - ICMP
+  - ICMPV6
+  - CAM角色
+  - 置放群组
+
+## 腾讯云中, 按量计费的实例关机后是否还继续算钱
+- 关机不收费
+
+## 通过Powershell连接Windows实例
+- [如何使用命令行界面连接到Windows服务器？（CLI）](https://qastack.cn/server/429426/how-can-i-connect-to-a-windows-server-using-a-command-line-interface-cli)

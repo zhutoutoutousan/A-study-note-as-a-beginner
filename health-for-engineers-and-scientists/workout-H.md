@@ -18,7 +18,6 @@
 - Resource
   - [The Perfect Pull Workout (PUSH | PULL | LEGS)](https://www.youtube.com/watch?v=IOl42YpK_Es)
 
-
 # Beginner's guide
 ## Before you hire a personal trainer
 - [Top 10 Signs of a Bad Trainer - 10 Things to Consider When Choosing a Personal Trainer](https://www.youtube.com/watch?v=AVg8qX0Xgt4&t=252s)
@@ -147,3 +146,4 @@ days, dimension, performance
   - Shoulder day
   - 2km running
 - Monday
+  - Off day

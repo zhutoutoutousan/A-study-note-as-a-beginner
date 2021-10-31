@@ -406,19 +406,22 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - 在Flashcard,题库, 官方考纲中养成的知识点敏感度内化用于官方文档的注意力分配
   - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期
 
-
 # 2021/10/24- 
 - 2021/10/25
-  - Flashcard readiness: 74.3%
-  - AWS Exam Pro: 4.9%
-- Video operation simulation plan(Watering)
+  - Flashcard readiness
+    - Associate 2019: 85%
+    - Exam Pro: 5.3%
+- Polyfill
   - Metadata
     - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
+    - If a newly encountered question is already at the spaced repetition level 5 in your brain, poitner move to the next and don't apend it at all
   - EC2
     - [AWS EC2 Tutorial For Beginners | What Is AWS EC2? | AWS EC2 Tutorial | AWS Training | Simplilearn](https://www.youtube.com/watch?v=8TlukLu11Yo)
       - Videomark: 12-54/22-16
       - Engagement boost: German subtitle, simultaneous interpretation
   - SNS
+    - [documentation](https://docs.aws.amazon.com/sns/latest/dg/welcome-features.html)
+      - Docmark: Features and capabilities
   - SES
   - IAM
   - CF
@@ -430,6 +433,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - Lamda function
   - Database(RDS, DynamoDB)
   - VPC
+    - [AWS DOC - VPC FAQ](https://aws.amazon.com/vpc/faqs/)
   - Route 53
   - EBS
   - CW
@@ -438,8 +442,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 - 2021/10/29
   - WARNING: entering insanity state due to prolonged sleep deprivation, sapio-masochism trait
     - Set a hard re-set
-
-
+  - 2021/10/31 Insanity state end
 -  2021/10/30
    - Status report
      - Watering system established
@@ -447,7 +450,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
    - Downloaded Questions Set
      - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
        - Navigation
-         - Sweepmark: Q6/260
+         - Sweepmark: Q10/260
          - Search mark: QX - Ctrl+F--> Question X
        - Weight system
          - 22% Deployment 14.3Q
@@ -456,13 +459,14 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
          - 30% Development with AWS Services 19.5Q
            - 10% Refactoring 6.5Q
            - 12% Monitoring and Troubleshooting 7.8Q
-
        - Question Overview
          - Spaced Repetition Level 1
            - App
              - EBS
                - **Q110**
                  - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
+                   - Furthuer reading
+                     - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
              - CF
                - Q258
                  - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
@@ -475,13 +479,20 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
               -  S3
                  -  Q2
            -  Notification
+              -  SNS
               -  SQS
                  -  Q3
                  -  Q5
+                 -  Q10
+                    - Queue names are limited to 80 characters and queue names must be unique within an AWS account
            -  Authentication
               -  IAM
                  -  Q260
                     -  IAM resources are all global; there is no regional constraint
+           -  Networking
+              -  VPS
+                 -  **Q9**
+                    -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
            -  Instance
               -  EC2
                  -  **Q6**
@@ -490,20 +501,21 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                  -  Q202
                     - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
         - Spaced Repetition Level 2
-
-     - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing)
+        - Spaced Repetition Level 3
+          - SNS
+             - Q251
+               - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+     - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
        - Sweepmark: Q1/60
          - S1
            - S3
              - Q1
-     - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing)
+     - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing) - Might as well treat it like a test?
        - Sweepmark: Q1/10
-     - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf)
+     - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf) - Might as well treat it like a test?
        - Sweepmark: Q1/10
        - ASM
          - Q1
-
-
 
 # 经验总结(draft)
 - 阶段一

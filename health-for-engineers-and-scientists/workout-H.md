@@ -135,8 +135,15 @@ days, dimension, performance
     - Back(Lower back recovery)
       - Weighted pull-up
     - Leg(Lower back recovery)
+      - Bulgarian split squat
+      - Leg press
+    - Core
     - Cutting
       - Cycling
       - Running
 - Saturday
   - Arm day
+- Sunday
+  - Shoulder day
+  - 2km running
+- Monday

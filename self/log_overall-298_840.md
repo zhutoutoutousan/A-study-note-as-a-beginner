@@ -259,3 +259,4 @@
 - Off state trigger elements
 - Physical changes
   - Ostisis media
+- 2021/10/31: Insanity state end

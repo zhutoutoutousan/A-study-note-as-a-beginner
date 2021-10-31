@@ -133,16 +133,13 @@
 - GNU - GCC
   - [Show me the code](https://github.com/gcc-mirror/gcc)
 - Compilers Working Principle, Techniques, & Tools --- A.V.Aho
-  - Progress: 54/1035
-    - Fast reading
-  - Talk is cheap, work with GNU - GCC and try to build one
+  - Progress: 55/1035
+    - Style: Osmosis
   - [Link1](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
-  - Prerequisites:
-    - The reader should possess some \computer-science sophistication," including
-at least a second course on programming, and courses in data structures and
-discrete mathematics. Knowledge of several different programming languages
-is useful.
-
+  - Lab item
+    - GNU - GCC
+  - Definitions for attention
+    - The static-scope rules
 
 # Operating system working principle
 - [Operating system concepts](http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf)
@@ -322,7 +319,7 @@ is useful.
     - Process 1
       - Goal
         - This human being is currently insane, therefore, there is no goal available
-    - Bookmark: 40/1273
+    - Bookmark: 43/1273
     - Style: Osmosis
     - Solutional manual: P14
   - Postgres: The First Experience
@@ -373,7 +370,8 @@ is useful.
     - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
 # DevOps
-- &READING& Pro Git
+- Pro Git
+  - #activereading
   - [link](https://git-scm.com/book/en/v2)
   - Booktrail: 
     - S-1.6

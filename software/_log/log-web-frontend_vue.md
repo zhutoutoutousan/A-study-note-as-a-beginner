@@ -1,7 +1,5 @@
 # Buffer to permanent note
-
 #dailyreview
-
 # 2021/5/30
 ## Vue source code study - AST part
 - Resource
@@ -17,3 +15,10 @@
 # 2021/7/21
 ## Reading therapy
 - https://github.com/cuixiaorui/tetris-vue3
+
+# 2021/10/31-
+## Three + Vue3 + --> trois.js
+- Vue3 doc
+  - Doc sweep mark
+- Vue3 source code
+  - Source code mark

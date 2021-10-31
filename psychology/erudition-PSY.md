@@ -99,3 +99,10 @@
 - [The Defense Mechanism Manual](https://web.williams.edu/Psychology/Faculty/Cramer/Defense%20Mechanisms.pdf)
 
 # Sociology
+- [THE BASIC LAWS OF HUMAN STUPIDITY](http://gandalf.fee.urv.cat/professors/AntonioQuesada/Curs1920/Cipolla_laws.pdf)
+  - Discussion 
+    - [关于愚蠢的五大基本定律](https://zhuanlan.zhihu.com/p/80041319)
+  - Related reading
+    - Madame Bovary
+      - [en](https://beq.ebooksgratuits.com/vents/Flaubert-Bovary.pdf)
+      - [fr](https://www.stmarys-ca.edu/sites/default/files/attachments/files/Madame_Bovary.pdf)

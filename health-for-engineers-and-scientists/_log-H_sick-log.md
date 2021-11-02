@@ -66,7 +66,17 @@
 - Medication
   - 马来酸曲美布汀
 - [ ] Stress control
-
+- Long term solution
+  - [5 Simple Steps to Cure IBS without Drugs](https://www.youtube.com/watch?v=z_S8YX6PY6s)
+  - IgG food sensitivity test
+  - Anti-spasm
+    - Trimebutine(on-demand)
+      - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
+  - Clear out bowel bacteria then regrow
+    - Diosmectite 6 weeks
+      - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
+    - Probiotics
+      - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
 
 ## How to get away from being hospitalized under increasingly extreme conditions and workload?
 - According to the data collected, working from home lifestyle can reduce the chance of infection as the workload typically shuns the immune system and increase the risk of exposure, as shown in 2021/4
@@ -369,3 +379,8 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 # 2021/10/28
 ## REMINDER on Colonoscopy, Hidradenitis suppurativa surgery arrangement, and Otitis media 
 - You had Intestine cancer family history, check for Lynch syndrome
+- Update from 2021/11/2
+  - \[BUG IN THE WORLD\]**Colonoscopy requires paperwork, damn**
+  - Hidradenitis suppurativa recovering, surgery session adjourned
+  - Otitis media symptom is not observable, hearing recovered
+  - IBS treatment by bowel bacteria recomposition, anti-spasm drugs etc..

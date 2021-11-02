@@ -1,6 +1,9 @@
 # Information source
 - [QAStack](https://qastack.cn/)
 
+# Security
+- RDP
+  - [内网渗透｜基于文件传输的 RDP 反向攻击](https://www.wangan.com/p/7fygf7c8abb0b427)
 
 # Re-structure plan
 - Integrate AWS into this note as soon as you get the Pro certificate
@@ -49,7 +52,7 @@ Q|JiS#j[4)2kGWC _13
   - Videomark?: 1-08-14/3-49-16
 - [System administration complete course from beginner to advanced | IT administrator full course](https://www.youtube.com/watch?v=1DvTwuByjo0&t=7s)
 
-# 2021/10/31
+# 2021/10/31-
 ## 阿里云 - 实例最佳选型
 - [选型最佳实践](https://help.aliyun.com/document_detail/58291.html)
   - 阿里云 - ECS doc阅读
@@ -66,3 +69,8 @@ Q|JiS#j[4)2kGWC _13
 
 ## 通过Powershell连接Windows实例
 - [如何使用命令行界面连接到Windows服务器？（CLI）](https://qastack.cn/server/429426/how-can-i-connect-to-a-windows-server-using-a-command-line-interface-cli)
+
+
+## Windows Server - Add some client features
+- Install something without using Internet Explorer
+  - [在 Windows Server 上使用Powershell 一键安装 Chrome](https://www.dengnz.com/2019/07/04/%E5%9C%A8-windows-server-%E4%B8%8A%E4%BD%BF%E7%94%A8powershell-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-chrome/)

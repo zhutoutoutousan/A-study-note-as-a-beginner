@@ -1,12 +1,20 @@
 # Knowledge source
 - [清华大学科技社会, 计算科学](http://socialbigdata.cn/css/index.html)
 
+# P.O.I
+
+
 # Erudition
 - 技术社会学
 - [Socialbigdata](http://socialbigdata.cn/css/course/doc/%E6%8A%80%E6%9C%AF%E7%A4%BE%E4%BC%9A%E5%AD%A6%E6%95%99%E5%AD%A6%E5%A4%A7%E7%BA%B2.pdf)
 - 钢铁，病菌和枪炮
-
-
+- 天演论 --- 严复
+- China  and Charles Darwin
+- 现今世界大势论
+- 中国现代思想中的唯科学主义
+- The Origin of Species By means of natural selection --- Charles Darwin
+  - Community
+    - [你穷是因为你不努力？社会达尔文主义的谬误何在？- 刘羽丰](https://nanduguancha.blog.caixin.com/archives/232922)
 # 2021/10/26
 This section is created now exclusively to provide low-level knowledge and context support for making a good questionnaire
 
@@ -20,3 +28,4 @@ This section is created now exclusively to provide low-level knowledge and conte
 https://en.wikipedia.org/wiki/Technological_determinism
 
 
+## Darwinism, Social Darwinism, Neo Darwinsim

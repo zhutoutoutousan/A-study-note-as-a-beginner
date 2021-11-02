@@ -12,6 +12,9 @@
     - [ ] Videomark: 1-46
     - Why is the starting column after adding object in blender shows less?
 
+- Advanced
+  - Recreate scene from a photo
+    - [Create a Subway in Blender in 20 minutes](https://www.youtube.com/watch?v=nb6rSMAooDs)
 ### Basic operations internalization
 - Blender hotkeys: Optimize as soon as you start
   - [Blender For Dummies Cheat Sheet](https://www.dummies.com/web-design-development/blender/blender-for-dummies-cheat-sheet/)
@@ -24,3 +27,4 @@
 
 # 2021/10/31
 ## I always find it hard to describe exactly what problem I am facing because it is hard to articulate the exact name of that very UI component
+

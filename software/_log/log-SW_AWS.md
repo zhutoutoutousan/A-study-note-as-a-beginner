@@ -407,10 +407,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
   - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期
 
 # 2021/10/24- 
-- 2021/10/25
+- 2021/11/2
   - Flashcard readiness
-    - Associate 2019: 85%
-    - Exam Pro: 5.3%
+    - Associate 2019: 88.2% --> Reaching Plateau
+    - Exam Pro: 14.1%
 - Polyfill
   - Metadata
     - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
@@ -447,10 +447,19 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
    - Status report
      - Watering system established
      - Question set re-discovered
+   - Tools(Beyond exam)
+     - [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html)
+   - Doc Reading Progress
+     - [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
+     - [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+     - [AWS Dynamodb](https://aws.amazon.com/dynamodb/)
+     - [AWS EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+     - [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html)
+     - 
    - Downloaded Questions Set
      - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
        - Navigation
-         - Sweepmark: Q10/260
+         - Sweepmark: Q30/260
          - Search mark: QX - Ctrl+F--> Question X
        - Weight system
          - 22% Deployment 14.3Q
@@ -467,14 +476,23 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                  - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
                    - Furthuer reading
                      - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
+               - Q16
              - CF
+               - Q25
                - Q258
                  - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
            - Database
-             -  DB
+             - General
                 -  Q1 P4
-             -  Dynamo DB
+             - Dynamo DB
                 -  Q4
+                -  Q19
+                   -  DynamoDB has seamless scalability with no table size limits and unlimited storage,
+                -  Q26
+                   - Global secondary index -- an index with a hash and range key that can be different from those on the table.
+                   - TODO: Store the concepts here
+             - RDS
+               - Q20
            -  Storage
               -  S3
                  -  Q2
@@ -485,14 +503,31 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                  -  Q5
                  -  Q10
                     - Queue names are limited to 80 characters and queue names must be unique within an AWS account
+                  - Q13
+                    - The SQS message retention period is configurable and can be set anywhere from 1 minute to 2 weeks. The default is 4 days and once the message retention limit is reached your messages will be automatically deleted.
+                  - Q18
+                    - A message can be stored in the Simple Queue Service (SQS) from 1 minute up to a maximum of 14 days.
+                  - Q23
+                    - With Amazon SQS version 2008-01-01, the maximum message size for both SOAP and Query requests is 8KB
+                  - Q29
+             - SWF
+               - Q14
            -  Authentication
+              -  ASG
+                 -  Q15
+                 -  **Q30** 
               -  IAM
+                 -  **Q17**
+                    -  The IAM policy is never region specific.
+                 -  Q27
                  -  Q260
                     -  IAM resources are all global; there is no regional constraint
            -  Networking
               -  VPS
                  -  **Q9**
                     -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
+                 -  **Q24**
+
            -  Instance
               -  EC2
                  -  **Q6**
@@ -500,7 +535,16 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                        -  Docmark: Install LAMP on Amazon Linux 2
                  -  Q202
                     - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
+                 -  **Q22**
+           - Solution
+             - Q28
         - Spaced Repetition Level 2
+          - Networking
+             -  **Q11**
+                -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+                   - [IP addresses per network interface per instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI)
+                - [IPv4, CIDR, and VPC Subnets Made Simple!](https://www.youtube.com/watch?v=z07HTSzzp3o)
+                   - Videomark: 8-30/23-46
         - Spaced Repetition Level 3
           - SNS
              - Q251

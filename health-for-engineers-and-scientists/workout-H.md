@@ -133,6 +133,9 @@ days, dimension, performance
       - Landmine thrush
     - Back(Lower back recovery)
       - Weighted pull-up
+      - Chest supported row
+      - W-T-Y raise
+      - One-arm pull down
     - Leg(Lower back recovery)
       - Bulgarian split squat
       - Leg press
@@ -143,7 +146,8 @@ days, dimension, performance
 - Saturday
   - Arm day
 - Sunday
-  - Shoulder day
-  - 2km running
+  - Shoulder day  
 - Monday
-  - Off day
+  - 2km running
+- Tuesday
+  - 

@@ -63,7 +63,9 @@
 Ok, makes sense 2021-7-8
 
 ## Basic model
-- 杠杆模型
+- 经济杠杆模型
+- 战略杠杆模型
+  - [创新思维模型课程笔记——战略杠杆模型](https://zhuanlan.zhihu.com/p/353080407)
 - 各类博弈模型
 - 2C
   - 记下人的日常可Group不可Group的行为

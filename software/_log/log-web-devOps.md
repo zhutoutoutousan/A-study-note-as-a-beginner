@@ -1,6 +1,9 @@
 # Information source
 - [QAStack](https://qastack.cn/)
 
+# Erudition
+- 内网渗透测试：初探远程桌面的安全问题
+
 # Security
 - RDP
   - [内网渗透｜基于文件传输的 RDP 反向攻击](https://www.wangan.com/p/7fygf7c8abb0b427)

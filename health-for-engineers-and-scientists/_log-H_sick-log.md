@@ -74,10 +74,13 @@
       - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
   - Clear out bowel bacteria then regrow
     - Diosmectite 6 weeks
-      - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
+      - \[SELF-TREATMENT-ACTIVE\]: 15 minutes after meal Off at 12/10
     - Probiotics
-      - \[SELF-TREATMENT-ACTIVE\]: Off at 12/10
-
+      - \[SELF-TREATMENT-ACTIVE\]: 30 minutes after meal Lactobacillus  Off at 12/10
+    - Fiber
+      - \[SELF-TREATMENT-ACTIVE\]: Green powder - during meal Off at 12/10
+- Updates
+  - 2021/11/3: Bloating, abnormal bowel movement diminishes after 2 days, even under the same amount of mental stress
 ## How to get away from being hospitalized under increasingly extreme conditions and workload?
 - According to the data collected, working from home lifestyle can reduce the chance of infection as the workload typically shuns the immune system and increase the risk of exposure, as shown in 2021/4
 

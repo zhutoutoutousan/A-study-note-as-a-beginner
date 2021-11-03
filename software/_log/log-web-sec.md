@@ -70,3 +70,6 @@ https://www.suse.com/support/kb/doc/?id=000018152
 - A new secure and operational-efficient way to store your accounts and passwords
 - 靠谱的密码强度测试
   - https://strength.buyaocha.com/
+
+# 2021/11/2
+## Any way to extract information from `wxid`?

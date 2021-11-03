@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "73efef3cb5fc1950",
+    "id": "8ec42a530c179f81",
     "type": "split",
     "children": [
       {
-        "id": "3184d08e1c87a6a7",
+        "id": "eedb9f081c8ad4d5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Heuristics/PUA.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "8297a1ddd72afa63",
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heuristics/PUA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Heuristics/PUA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heuristics/PUA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3184d08e1c87a6a7",
+  "active": "eedb9f081c8ad4d5",
   "lastOpenFiles": [
     "Heuristics/PUA.md",
     "business/_log-B/log_business-BA.md",

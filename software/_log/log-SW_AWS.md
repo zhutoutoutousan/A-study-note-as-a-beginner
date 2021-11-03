@@ -448,6 +448,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
      - Watering system established
      - Question set re-discovered
    - Tools(Beyond exam)
+     - Method: You can integrate your fast reading skills connecting as much dots as you can in one go
      - [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html)
    - Doc Reading Progress
      - [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
@@ -455,7 +456,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
      - [AWS Dynamodb](https://aws.amazon.com/dynamodb/)
      - [AWS EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
      - [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html)
-     - 
+     - [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/)
+     - [AWS Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
    - Downloaded Questions Set
      - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
        - Navigation
@@ -469,14 +471,33 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
            - 10% Refactoring 6.5Q
            - 12% Monitoring and Troubleshooting 7.8Q
        - Question Overview
-         - Spaced Repetition Level 1
-           - App
+         - Spaced Repetition Level 1 --> Duh: **Leaving a tag attached to each question is much more efficient**
+           - Scaling
+             - Auto Scaling
+               - Q64
+           - Tools
+             - AWS CLI
+               - **Q62**
+           - Functional
+             - Lamda
+             - SWF
+               - Q60
+               - Q70
+           - Integrated application
              - EBS
                - **Q110**
                  - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
                    - Furthuer reading
                      - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
                - Q16
+               - Q31
+               - **Q37**
+                 - [Device names on Windows instances](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/device_naming.html)
+                 - And linux?
+               - **Q43**
+               - **Q52**
+               - Q66
+               - Q67
              - CF
                - Q25
                - Q258
@@ -491,13 +512,21 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                 -  Q26
                    - Global secondary index -- an index with a hash and range key that can be different from those on the table.
                    - TODO: Store the concepts here
+                 - Q35
+                   - In DynamoDB, a secondary index is a data structure that contains a subset of attributes from a table, along with an alternate key to support Query operations.
              - RDS
                - Q20
+               - Q61
            -  Storage
               -  S3
                  -  Q2
+                 -  **Q33**
+              -  SimpleDB
+              -  AWS RRS
+                 -  Q68
            -  Notification
               -  SNS
+                 -  Q57
               -  SQS
                  -  Q3
                  -  Q5
@@ -510,16 +539,45 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                   - Q23
                     - With Amazon SQS version 2008-01-01, the maximum message size for both SOAP and Query requests is 8KB
                   - Q29
+                  - Q34
+                    - Can different components read the same queue concurrently?
+                      - There's no need
+                  - Q39
+                    - Amazon SQS stands for Simple Queue Services, and provides a cost-effective way to decouple the components of your application through an asynchronous message queue service
+                  - **Q42**
+                  - Q48
+                    - AWS reserve the right to delete a queue if none of the following requests have been issued against the queue for more than 30 consecutive days
+                  - Q54
+                  - **Q65**
+                    - X.509 Certificate
              - SWF
                - Q14
            -  Authentication
               -  ASG
                  -  Q15
                  -  **Q30** 
+              -  ACL
+                 -  Q56
+                    -  The only recommended use case for the S3 bucket ACL is to grant the write permission to the Amazon S3 Log Delivery group to write access log objects to the user's bucket.
               -  IAM
                  -  **Q17**
                     -  The IAM policy is never region specific.
+                       -  What if I want it to be?
+                          -  Is there any use case?
+                          -  If so, how to do it?
                  -  Q27
+                 -  **Q32**
+                 -  Q40
+                    -  [ ] Look at other options
+                    -  [ ] Look at docs
+                 -  **Q41**
+                 -  Q44
+                 -  Q47
+                 -  Q49
+                    -  The statement is the main element of the IAM policy and it is a must for a policy. Elements such as condition, version and ID are not required.
+                 -  Q51
+                 -  Q53
+                 -  Q55
                  -  Q260
                     -  IAM resources are all global; there is no regional constraint
            -  Networking
@@ -527,7 +585,11 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                  -  **Q9**
                     -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
                  -  **Q24**
-
+              - ELB
+                - **Q38**
+                - Q69
+              - Route 58
+                - **Q58**
            -  Instance
               -  EC2
                  -  **Q6**
@@ -536,8 +598,14 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
                  -  Q202
                     - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
                  -  **Q22**
+                 -  **Q50**
            - Solution
-             - Q28
+             - **Q28**
+           - IaaC
+             - CF
+               - Q59
+           - Security
+             - Q46
         - Spaced Repetition Level 2
           - Networking
              -  **Q11**

@@ -150,4 +150,7 @@ days, dimension, performance
 - Monday
   - 2km running
 - Tuesday
-  - 
+  - Off day due to gym closed
+- Wednesday
+  - Back(Lower back recovery)
+  - 2.2km running

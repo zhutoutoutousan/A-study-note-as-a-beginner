@@ -139,6 +139,9 @@ Ok, makes sense 2021-7-8
       - notion
 - 人
   - [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019%E8%85%BE%E8%AE%AF00%E5%90%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/)
+    - Schwartz理论
+- 媒
+  - [2018-2019中国数字出版产业年度报告](https://books.google.nl/books?id=SbEXEAAAQBAJ&pg=PT167&lpg=PT167&dq=%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5101&source=bl&ots=leF5BZbpvH&sig=ACfU3U0tfc699fd8Kxd8EyIdfewBS57FTQ&hl=en&sa=X&ved=2ahUKEwjmyojMs_zzAhXLGewKHc3QCtIQ6AF6BAgdEAM#v=onepage&q=%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5101&f=false)
 #### Medical
 - 2021年 中国医药CXO（研发及生产外包服务）行业概览
   - [link](https://pdf.dfcfw.com/pdf/H3_AP202105281494438090_1.pdf?1622197908000.pdf)

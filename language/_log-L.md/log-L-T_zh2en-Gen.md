@@ -9,6 +9,7 @@
 - [Long sentences translation](#long-sentences-translation)
   - [Rules of reference](#rules-of-reference)
 - [Memory training ground](#memory-training-ground)
+- [Simultaneous interpretation training ground](#simultaneous-interpretation-training-ground)
 - [Basic building blocks](#basic-building-blocks)
   - [J](#j)
   - [Q](#q)
@@ -116,7 +117,8 @@
 
 # Memory training ground
 - Here is where you can record, track and improve your overall brain-heavy skills
-  
+- 2021/11/6: Memorizing these stuffs won't benefit you in an optimal way
+
 Example
 
 - *2021-8-8* 面对突如其来的新冠肺炎疫情、世界经济
@@ -153,7 +155,13 @@ Example
   - Direct interpreting
   - Consecutive interpreting#BOOKMARK
 
+# Simultaneous interpretation training ground
+- History
+  - [【1080P Chi-Eng Sub】第一集：中华道路【中国通史 | General History of China】](https://www.youtube.com/watch?v=CTRvs6bW6CQ)
+    - Video sweep mark: 3-42/45-00
+
 # Basic building blocks
+
 ## J
 - 以...为基
   - is the foundation/basis of
@@ -165,10 +173,11 @@ Example
 - 乘(chéng)胜追击: follow up a victory with hot pursuit
 
 # Hot words
+- 2021/11/6: You see the problem here, without the use of the video, and gamified training, these stale data are just libraries and is infrequently visited
 ## A
 ## B
 - 留得青山在，不怕没柴烧: While there is life, there is hope.
-- Bu3Piao4
+- 补票
   - Pay upon arrival
 ## C
 - 常任理事国

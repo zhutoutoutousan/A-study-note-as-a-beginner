@@ -137,8 +137,10 @@ days, dimension, performance
       - W-T-Y raise
       - One-arm pull down
     - Leg(Lower back recovery)
+      - Squat 6-8RM only
       - Bulgarian split squat
-      - Leg press
+      - Uni-lateral Leg press
+      - Hip hinge
     - Core
     - Cutting
       - Cycling
@@ -153,4 +155,10 @@ days, dimension, performance
   - Off day due to gym closed
 - Wednesday
   - Back(Lower back recovery)
+- Thursday
+  - Off day
+- Friday
+  - Off day due to fatigue
+- Saturday
   - 2.2km running
+  - Leg day

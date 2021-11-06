@@ -32,7 +32,7 @@
 ## Erudition
 - Positioning: The Battle for Your Mind
   - [en-ver](https://www.yourhomeworksolutions.com/wp-content/uploads/edd/2016/10/20160124032608positioning_the_battle_for_your_mind_.pdf)
-    - Bookmark: 9/100
+    - Bookmark: 12/100
   - [zh-ver](https://zydemo.github.io/public/pdf/%E5%AE%9A%E4%BD%8D.pdf)
 - 抖音短视频全攻略
 - 抖音企业号实战运营全攻略
@@ -41,7 +41,7 @@
   - [link](https://drive.google.com/file/d/1gr0P0VIZiyr8j1gAFThBk-x1QlQNb0M-/view?usp=sharing)
 - 抖音短视频运营全攻略
   - http://www.shua882.com/article/101.html
-
+- 抖音短视频运营全攻略 内容创作+特效拍摄+后期制作+吸粉引流+流量变现 抖音视频制作教程书
 
 
 # Archive

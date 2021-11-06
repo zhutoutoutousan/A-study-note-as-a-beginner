@@ -157,8 +157,6 @@
   - [For vscode utility](./software-industry/software-engineering/generic-tools/vscode.md)
 - Explore
 
-![Pansyass-bullshit](pansy-ass-bullshit.jpg)
-
 ## Mobile
 - Install GitHub app
 - View the project
@@ -189,7 +187,9 @@
   - Store for frequent thinking
     - For storing the questions that you want to think over when pinching a loaf or wandering around
 - Utilities(Under construction)
-
+- Log
+  - Typical blog functionality, direct interface
+  - Buffer to the knowledge store
 
 # *Gameplay* controls
 - Open the project
@@ -248,6 +248,7 @@
     - Build a multi-dimensional "hashmap" for future skimming
   - Quick training progress restoration
 # Iconic files for demonstration
+- 2021/11/4 These are deprecated
 - Top level state restoration
   - [link](./store-for-top-level-state.md)
   - Store the ideas, random thoughts, unsolved mathematic/data structure and algorithms questions for future return

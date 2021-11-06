@@ -1,5 +1,10 @@
 #dailyreview
 
+# Resource
+- Lawya International Translation
+  - [金融：48 条期货英文术语词汇释义](http://www.szlawya.com/html/flyy/165.html)
+
+
 # C
 - 操盘能力
 - 经济

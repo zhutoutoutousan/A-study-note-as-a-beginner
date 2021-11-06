@@ -1,5 +1,3 @@
-http://wap.cfa.gfedu.com/news/application/npage_1193_22644.shtml
-
 - This section only exists in the kickstart phase, and will be migrated to a stand-alone unit after gaining enough years of experience
 
 
@@ -12,3 +10,9 @@ Asset Allocation
 
 ## Toddler's learning words
 - Balance sheet equation
+
+
+# 2021/11/6
+## Video tutorial phase
+- [Learn Accounting in 1 HOUR First Lesson: Debits and Credits](https://www.youtube.com/watch?v=ii91oi0OpXM)
+  - Videomark: 6-03/22-05

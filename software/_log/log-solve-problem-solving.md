@@ -1,3 +1,27 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Logistics](#logistics)
+- [2021/3/29](#2021329)
+  - [Codewar --> Make a fxxking CPU](#codewar----make-a-fxxking-cpu)
+- [2021/6/10](#2021610)
+  - [Recover a secret string from random triplets](#recover-a-secret-string-from-random-triplets)
+- [2021/7/17-2021/8/1](#2021717-202181)
+  - [Leetcode - Merge k sorted lists - Hard](#leetcode---merge-k-sorted-lists---hard)
+  - [Leetcode - Permutations](#leetcode---permutations)
+- [2021/8/25-](#2021825-)
+  - [Vigenère Cipher Helper](#vigenère-cipher-helper)
+  - [Burrows-Wheeler-Transformation](#burrows-wheeler-transformation)
+  - [Catching Car Mileage Numbers - SOLVED](#catching-car-mileage-numbers---solved)
+  - [Make a spiral](#make-a-spiral)
+
+# Logistics
+- Testing platform
+  - Jest
+  - Mocha
+- Debugging of Node.js using vscode
+  - [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
+    - Docmark
+
 # 2021/3/29
 ## Codewar --> Make a fxxking CPU
 Why is this piece of shit problem taking so much time?
@@ -263,5 +287,111 @@ function VigenèreCipher(key, abc) {
 ## Burrows-Wheeler-Transformation
 ```javascript
 // https://www.codewars.com/kata/54ce4c6804fcc440a1000ecb/train/javascript
+
+```
+
+
+## Catching Car Mileage Numbers - SOLVED
+```javascript
+
+function isInteresting(number, awesomePhrases) {
+    // 0: Not interesting
+    // 1: +- 2
+    // 2: Interesting
+      
+    console.log(awesomePhrases)
+      
+    // interesting helper functions
+    const followedByAllZeros = num =>{
+      console.log(num)
+      debugger
+      return  Array(num.toString().length - 1).fill('0').join('') === num.toString().slice(1)
+    } 
+    
+    const hasSameNumber = (num) => {
+      for (let i = 0; i < num.toString().length; i++) {
+        if(num.toString()[i] !== num.toString()[0]) return false
+      }
+      return true
+    }
+    
+    const isSequential = (num) => {
+        const incre = '012345678901'
+        const decre = '098765432109'
+        return incre.includes(num.toString()) || decre.includes(num.toString())
+    }
+    
+    const isPalindrome = (num) => {
+      const numString = num.toString()
+      let left = 0;
+      let right = numString.length - 1;
+      while(left < right) {
+        if(numString[left] !== numString[right]) return false
+        left += 1
+        right -= 1
+      }
+      return true 
+    }
+    
+    const inAwesomePhrase = (num, arr) => {
+      if(!arr) return false
+      for (let i = 0; i < arr.length; i++) {
+        if(num === arr[i]) return true
+      } 
+      return false
+    }
+    
+    const errorCheck = num => num > 97 && num <= 1000000000
+    const _isInteresting = (num, arr) => errorCheck(number) && followedByAllZeros(num) || hasSameNumber(num) || isSequential(num) || isPalindrome(num) || inAwesomePhrase(num, arr) 
+    const almostInteresting = (num, arr) => errorCheck(number) && _isInteresting(num + 1, arr) || _isInteresting(num + 2, arr) || _isInteresting(num - 1, arr) || _isInteresting(num - 2, arr) 
+    
+    
+    // driver
+    if(!errorCheck(number)) return 0
+    if(number === 99 || number === 98 || number === 109) return 1
+    if(_isInteresting(number, awesomePhrases)) {
+      return 2
+    }
+    else if(almostInteresting(number, awesomePhrases)){
+      return 1
+    }
+    else {
+      return 0
+    }
+}
+```
+
+```javascript
+// TEST CODE REFERENCE: Very good to write test codes
+function isInteresting(number, awesomePhrases) {
+  var tests = [
+    function(n) { return /^\d00+$/.test(n); },
+    function(n) { return /^(\d)\1+$/.test(n); },
+    function(n) { return RegExp(n).test(1234567890); },
+    function(n) { return RegExp(n).test(9876543210); },
+    function(n) { return n + '' == (n + '').split('').reverse().join(''); },
+    function(n) { return awesomePhrases.some(function(p) { return p == n; }); }
+  ];
+  
+  var interesting = 0;
+  tests.some(function(test) {
+    if (number > 99 && test(number))
+      return interesting = 2;
+    else if ((number > 98 && test(number + 1)) || (number > 97 && test(number + 2)))
+      interesting = 1;
+  });
+  return interesting;
+}
+```
+
+## Make a spiral
+- Mathematics of a spiral
+  - [wiki](https://en.wikipedia.org/wiki/Spiral)
+    - [Archimedean spiral](https://en.wikipedia.org/wiki/Archimedean_spiral)
+    - [Angular velocity](https://en.wikipedia.org/wiki/Angular_velocity)
+    - [Why do prime numbers make these spirals? | Dirichlet’s theorem](https://www.youtube.com/watch?v=EK32jo7i5LQ)
+
+```javascript
+// https://www.codewars.com/kata/534e01fbbb17187c7e0000c6/train/javascript
 
 ```

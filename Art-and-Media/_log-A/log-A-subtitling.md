@@ -1,4 +1,8 @@
 # Tools
+- 1sj
+- 剪映
+
+
 - 自动对齐时间轴
   - [huiyingzimu](https://huiyingzimu.com/txt-align/)
   - [自动生成字幕时间戳（自动打轴）工具](https://zhuanlan.zhihu.com/p/137173994)
@@ -13,4 +17,3 @@
 
 
 # 2021/10/26
-- 

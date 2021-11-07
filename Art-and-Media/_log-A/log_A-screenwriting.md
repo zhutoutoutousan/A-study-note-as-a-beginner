@@ -10,6 +10,12 @@
 # Innate acumen
 - 欢乐喜剧人
 
+
+# Erudition
+- Screenplay: The Foundations of Screenwriting
+  - [link](https://drive.google.com/file/d/1PbQFROtwCdragy0cM0Eb5qpCazveFNJl/view?usp=sharing)
+
+
 # 2021/11/5
 ## Tutorial mark
 - [【編劇教學】劇本對白怎麼寫？對白的三種形式｜東默農的編劇實戰教室](https://www.youtube.com/watch?v=foasgJyNBdQ)
@@ -37,3 +43,10 @@ Buddha by Kontekst https://soundcloud.com/kontekstmusic
 Creative Commons — Attribution 3.0 Unported— CC BY 3.0 
 http://creativecommons.org/licenses/b...
 Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
+
+
+# 2021/11/8
+## Tutorial track
+- Celtx
+  - [Celtx Basics](https://support.celtx.com/hc/en-us/sections/203714857-The-Basics)
+    - Num 2

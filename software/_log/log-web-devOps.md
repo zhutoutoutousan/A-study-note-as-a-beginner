@@ -1,3 +1,10 @@
+# Azure Certification
+- [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
+  - Videomark: 0-40
+- [Azure Administrator Certification (AZ-104) - Full Course to PASS the Exam](https://www.youtube.com/watch?v=10PbGbTUSAg)
+  - Videomark： 3-49
+
+
 # Information source
 - [QAStack](https://qastack.cn/)
 

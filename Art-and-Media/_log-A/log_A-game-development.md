@@ -8,10 +8,11 @@
 - [Blender Beginner Tutorial - Blender Guru](https://www.youtube.com/watch?v=TPrnSACiTJ4)
   - Style: Follow along
   - [x] part 1
-  - [ ] [Part 2](https://www.youtube.com/watch?v=RaT-uG5wgUw&t=71s)
-    - [ ] Videomark: 1-46
+  - [x] [Part 2](https://www.youtube.com/watch?v=RaT-uG5wgUw&t=71s)
+    - [x] Videomark: 1-46
     - Why is the starting column after adding object in blender shows less?
-
+  - [x] [Part 3](https://www.youtube.com/watch?v=R2qjqqfkH6E)
+  - [ ] [Part 4, Level 1: Modelling - Blender Beginner Tutorial](https://www.youtube.com/watch?v=jmSgsaNSQ6s)
 - Advanced
   - Recreate scene from a photo
     - [Create a Subway in Blender in 20 minutes](https://www.youtube.com/watch?v=nb6rSMAooDs)
@@ -19,6 +20,7 @@
 - Blender hotkeys: Optimize as soon as you start
   - [Blender For Dummies Cheat Sheet](https://www.dummies.com/web-design-development/blender/blender-for-dummies-cheat-sheet/)
     - [How to Move the Camera in Blender](https://www.youtube.com/watch?v=4HAHY4bWe_E)
+- [1-29](https://www.youtube.com/watch?v=R2qjqqfkH6E)
 - Operation --> Execution connection
   - Select an object and place it in the center of the view
     - Period key --> Number pad

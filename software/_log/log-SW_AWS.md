@@ -476,6 +476,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
       - X-ray Anatomy: 3-00-33
     - ACM
     - Route53
+      - Videosweepmark: 3-31-25
     - API/SDK/CLI
     - KMS
     - Cognito
@@ -519,7 +520,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
 ## Question sets
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
-     - Sweepmark: 100/260 --> 38%
+     - Sweepmark: 110/260 --> 42%
      - Search mark: QX - Ctrl+F--> Question X
    - Weight system
      - 22% Deployment 14.3Q
@@ -549,7 +550,10 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
          - Q60
          - Q70
      - Integrated application
-       - EBS
+        - CF
+         - Q59
+         - Q104
+       - EB(MOVE EBS TO EC2)
          - **Q71**
          - **Q110**
            - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
@@ -568,6 +572,8 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
          - **Q76**
            - Docmark
          - Q94
+         - Q101
+         - Q109
        - CF
          - Q25
          - Q258
@@ -590,12 +596,14 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
              - Docmark
            - Q93
              - Currently, in DynamoDB, an index cannot be modified once it is created.
+           - **Q105**
        - RDS
          - Q20
          - Q61
          - **Q95**
            - Docmark
          - Q98
+         - Q102
      -  Storage
         -  S3
            -  Q2
@@ -646,7 +654,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
         -  ACL
            -  Q56
               -  The only recommended use case for the S3 bucket ACL is to grant the write permission to the Amazon S3 Log Delivery group to write access log objects to the user's bucket.
-        -  IAM
+        - IAM
            -  **Q17**
               -  The IAM policy is never region specific.
                  -  What if I want it to be?
@@ -669,6 +677,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
            -  Q91
               -  Docmark
            -  Q97
+           -  Q107
            -  Q260
               -  IAM resources are all global; there is no regional constraint
      -  Networking
@@ -685,11 +694,12 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
           - **Q87**
           - **Q96**
           - **Q99**
+          - **Q106**
         - Route 58
           - **Q58**
           - **Q75**
      -  Instance
-        -  EC2
+        - EC2 & EBS
            -  **Q6**
               -  [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
                  -  Docmark: Install LAMP on Amazon Linux 2
@@ -699,11 +709,11 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
            -  **Q50**
            -  Q82
               -  To help manage EC2 instances as well as their usage in a better way, the user can tag the instances. The tags are metadata assigned by the user which consists of a key and a value. One resource can have a maximum of 10 tags.
+           -  Q103
+           -  Q108
+           -  **Q110**
      - Solution
        - **Q28**
-     - IaaC
-       - CF
-         - Q59
      - Security
        - Q46
     - Networking

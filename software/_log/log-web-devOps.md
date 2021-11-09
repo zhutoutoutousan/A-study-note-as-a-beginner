@@ -1,3 +1,6 @@
+# Cloud computing general
+- [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=2LaAJq1lB1Q)
+
 # Azure Certification
 - [Microsoft Azure Fundamentals Certification Course (AZ-900) - Pass the exam in 3 hours!](https://www.youtube.com/watch?v=NKEFWyqJ5XA)
   - Videomark: 0-40

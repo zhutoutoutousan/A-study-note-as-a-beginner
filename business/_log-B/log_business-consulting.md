@@ -5,7 +5,6 @@
 - [StrategyU](https://strategyu.co/)
   - [McKinsey Problem Solving: Six steps to solve any problem and tell a persuasive story](https://strategyu.co/mckinsey-structured-problem-solving-secrets/)
 - [Consultant's Mind](https://www.consultantsmind.com/)
-
 - [(Book)The MCKinsey Way](http://csinvesting.org/wp-content/uploads/2012/07/the_mckinsey_way.pdf)
 
 ## Hardcore Mind Palaces(Long-term)

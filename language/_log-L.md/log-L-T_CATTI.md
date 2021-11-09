@@ -42,3 +42,6 @@
 # 2021/10/24
 ## Major adjustments due to fundamental circadian rhythm disruption
 - Break an entire test to different pieces, record each pieces in chunks
+
+# 2021/11/8
+## TRANSFORMATIONAL ACTION IMMINENT: Notebook system creation imminent

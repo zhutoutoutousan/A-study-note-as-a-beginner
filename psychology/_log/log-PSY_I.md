@@ -1,3 +1,6 @@
+# Modern intelligence 101
+- [g-factor](https://www.csus.edu/indiv/c/christoc/242a/chc%20definitions.pdf)
+
 # 2021/7/28
 ## Current hypothesis on IQ
 - Neural efficiency theory
@@ -28,5 +31,7 @@
 
 
 # 2021/11/5
-## 
+## More inputs
 - [总拿智商低为自己找借口？IQ测试其实是伪科学](https://www.36kr.com/p/1723635449857)
+- [Exploring the relationship between video game expertise and fluid intelligence](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186621)
+  - Well, at least that's one reason for you to re-install LOL and play it sparingly at least

@@ -1,6 +1,15 @@
 # Resource
 - [每位编剧都应具备的编剧工具](https://www.socreate.it/zh/%E5%8D%9A%E5%AE%A2/%E5%89%A7%E6%9C%AC%E5%88%9B%E4%BD%9C/%E6%AF%8F%E4%BD%8D%E7%BC%96%E5%89%A7%E9%83%BD%E5%BA%94%E5%85%B7%E5%A4%87%E7%9A%84%E7%BC%96%E5%89%A7%E5%B7%A5%E5%85%B7)
 
+# Motivation
+- Good screenwriting --?--> User Story
+
+# Learn from the best
+- [50 of the best screenplays to read and download in every genre.](https://www.scriptreaderpro.com/best-screenplays-to-read/)
+  - Comedy
+  - Drama
+    - [Jerry Maguire](https://thescriptsavant.com/pdf/JerryMaguire.pdf)
+
 # Scriptwriting tools
 - celtx
   - Free
@@ -22,7 +31,8 @@
 - [戲劇的三大要素：衝突、焦點、變化｜《編劇入門》線上課程免費試看 ｜東默農的編劇實戰教室](https://www.youtube.com/watch?v=ZpiM8ExeL9g)
 - 一步一步學編劇 - 帶你寫出5分鐘微電影
   - [第四單元：創意與靈感如何產生？](https://www.youtube.com/watch?v=mfh8GiIdNpg)
-
+- [【編劇教學】如何讓故事高潮迭起？故事的結構鋪排｜東默農的編劇實戰教室](https://www.youtube.com/watch?v=yjBcg3EURuE)
+  - Videomark: 10-15
 ## A day in the life xxx series
 - University
   - Structure

@@ -145,20 +145,19 @@ days, dimension, performance
     - Cutting
       - Cycling
       - Running
-- Saturday
-  - Arm day
-- Sunday
-  - Shoulder day  
-- Monday
-  - 2km running
-- Tuesday
-  - Off day due to gym closed
-- Wednesday
-  - Back(Lower back recovery)
-- Thursday
-  - Off day
-- Friday
-  - Off day due to fatigue
-- Saturday
-  - 2.2km running
-  - Leg day
+- Montag
+  - Arm
+- Dienstag
+  - Back
+- Mittwoch
+  - Off
+  - 2.4km run
+- Donnerstag
+  - Chest
+- Freitag
+  - Leg
+- Samtag
+  - Off
+  - 2.4km run
+- Sonntag
+  - Arm

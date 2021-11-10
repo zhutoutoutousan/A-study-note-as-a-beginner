@@ -1,3 +1,18 @@
+# Main active resource
+- Short film
+  - [Fixing Common Short Film Mistakes](https://www.youtube.com/watch?v=nlxX1rS_-MU)
+  - [My screenwriting process for a 1-minute short film](https://www.youtube.com/watch?v=TJetFEeaKEg)
+- [The Fundamentals Of Screenwriting Course](https://www.youtube.com/watch?v=v3QsRuqz49I&list=PLWeCOIXQgiV5fqxfHdQWhEM3nXk-99zu3)
+  - [ ] How to Structure Your Screenplay
+    - Videomark: 5-00
+    - Syn Field's Paradigm
+      - Story Circle
+        - The Rhythm of Biology
+          - You --> Need --> Go --> Search --> Find --> Take --> Return --> Change
+
+# Career fitness analysis
+- [The MBTI Types and What They Can Learn About Writing](https://media.royalroads.ca/media/Library/writingcentre/PDF_files/The_MBTI_Types_and_What_They_Can_Learn.pdf)
+- Initial verdict as of 2021/11/9: Match level 90%
 # Resource
 - [每位编剧都应具备的编剧工具](https://www.socreate.it/zh/%E5%8D%9A%E5%AE%A2/%E5%89%A7%E6%9C%AC%E5%88%9B%E4%BD%9C/%E6%AF%8F%E4%BD%8D%E7%BC%96%E5%89%A7%E9%83%BD%E5%BA%94%E5%85%B7%E5%A4%87%E7%9A%84%E7%BC%96%E5%89%A7%E5%B7%A5%E5%85%B7)
 
@@ -9,6 +24,7 @@
   - Comedy
   - Drama
     - [Jerry Maguire](https://thescriptsavant.com/pdf/JerryMaguire.pdf)
+      - [ ] Watch the movie for once
 
 # Scriptwriting tools
 - celtx
@@ -60,3 +76,18 @@ Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
 - Celtx
   - [Celtx Basics](https://support.celtx.com/hc/en-us/sections/203714857-The-Basics)
     - Num 2
+
+
+## Literature-vocabulary
+### D
+- Bridges
+  - Drawbridge
+### H
+- Tools
+  - Hew
+### M
+- Ancient relics
+  - Moat
+
+## Literature training
+### How to describe a bed?

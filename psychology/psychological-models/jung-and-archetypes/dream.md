@@ -1,3 +1,13 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [This one](#this-one)
+  - [2020](#2020)
+    - [August](#august)
+    - [September](#september)
+    - [October](#october)
+  - [2021](#2021)
+    - [November](#november)
+
 # This one
 ## 2020
 ### August
@@ -22,3 +32,9 @@
   - I only sleeped for 4 hours but I feel damn good. Probably on the premise of taking 9 grams of coffee powder later.
   - This dream has something to do with the german version of 'history' --- 'Verlauf', but I can't quite recollect it.
   - The only feelings I got is the urge to understand under the hood how Discrete Fast Fourier Transform algorithm works. And all those training I had in codewar, the pleasure of solving a problem by typing the codes comes back.
+
+## 2021
+### November
+- 9
+  - I remembered that I was contacted by a kidnapper that my beloved half was in a flooded cyberpunk style city
+  - But when I arrived just by flying without any equipment, I saw some toy cities, when I came into one of the window, those rooms were pretty homy

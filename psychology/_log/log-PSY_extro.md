@@ -25,6 +25,7 @@
 # MBTI
 - 人群分布模型及个人观察
   - Not enough sample points to reach meaningful conclusions
+- Barnum-effect-based second-line sophistication 
 - Identification techniques
 - ESFJ - Consul 执政官
   - 2/12%

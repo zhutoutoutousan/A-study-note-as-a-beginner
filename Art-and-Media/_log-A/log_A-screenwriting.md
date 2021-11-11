@@ -29,6 +29,7 @@
 # Scriptwriting tools
 - celtx
   - Free
+- Studiobinder
 - Hartchart
   - Character emotion graph
   - 90 USD/yr

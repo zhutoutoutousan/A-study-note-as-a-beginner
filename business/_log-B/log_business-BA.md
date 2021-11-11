@@ -79,6 +79,48 @@
 
 Ok, makes sense 2021-7-8
 
+- ## Data entry
+- ①公开的数据：
+- 国家数据：http://data.stats.gov.cn/index.htm
+- CEIC：http://www.ceicdata.com/zh-hans
+- wind（万得）：http://www.wind.com.cn/
+- 搜数网：http://www.soshoo.com/
+- 中国统计信息网：http://www.tjcn.org/
+- 亚马逊aws：http://aws.amazon.com/cn/datasets/?nc1=h_ls
+- figshare：https://figshare.com/
+- github：https://github.com/caesar0301/awesome-public- datasets
+- ②数据交易平台
+- 优易数据：http://www.youedata.com/
+- 数据堂：http://www.datatang.com/
+- ③网络指数
+- 百度指数：http://index.baidu.com/
+- 阿里指数：https://alizs.taobao.com/
+- 艾瑞咨询：http://www.iresearch.com.cn/
+- 友盟指数：http://www.umeng.com/
+- 爱奇艺指数：http://index.iqiyi.com/
+- 猫眼专业版：http://piaofang.maoyan.com/
+- ④网络采集器
+- 火车采集器：http://www.locoy.com/
+- 八爪鱼：http://www.bazhuayu.com/
+- 集搜客：http://www.gooseeker.com/
+- ⑤第三方数据分析
+- 友盟：http://www.umeng.com/
+- growingIO：https://www.growingio.com/
+- ⑥我常用的
+- 极光大数据：https://www.jiguang.cn/
+- ⑦app数据
+- 七麦数据：https://www.qimai.cn/
+- 易观数据：https://www.analysys.cn/
+- ⑧小程序数据：
+- 阿拉丁小程序统计平台：
+- https://www.aldwx.com/
+- http://www.aldzs.com/
+- 知微数据：
+- http://www.zhiweidata.com/
+- ⑨公众号数据平台
+- 清博指数：
+- http://www.gsdata.cn/
+
 ## Basic model
 - 经济杠杆模型
 - 战略杠杆模型

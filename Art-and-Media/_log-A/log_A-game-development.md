@@ -12,7 +12,10 @@
     - [x] Videomark: 1-46
     - Why is the starting column after adding object in blender shows less?
   - [x] [Part 3](https://www.youtube.com/watch?v=R2qjqqfkH6E)
-  - [ ] [Part 4, Level 1: Modelling - Blender Beginner Tutorial](https://www.youtube.com/watch?v=jmSgsaNSQ6s)
+  - [x] [Part 4, Level 1: Modelling - Blender Beginner Tutorial](https://www.youtube.com/watch?v=jmSgsaNSQ6s)
+  - [ ] [Part 5, Level 1: Sculpting - Blender Beginner Tutorial](https://www.youtube.com/watch?v=6OTX3ZdYvEA)
+    - Videomark: 2-12
+  - [ ] [Part 7, Level 1: Materials - Blender Beginner Tutorial](https://www.youtube.com/watch?v=5lr8QnR5WWU)
 - Advanced
   - Recreate scene from a photo
     - [Create a Subway in Blender in 20 minutes](https://www.youtube.com/watch?v=nb6rSMAooDs)

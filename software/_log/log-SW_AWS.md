@@ -574,6 +574,7 @@ https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
          - Q94
          - Q101
          - Q109
+         - Q111
        - CF
          - Q25
          - Q258

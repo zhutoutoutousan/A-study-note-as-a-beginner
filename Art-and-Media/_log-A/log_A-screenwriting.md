@@ -92,3 +92,6 @@ Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
 
 ## Literature training
 ### How to describe a bed?
+### How to describe a room?
+- First, why the fxxk should I learn how to describe a room?
+- [Writing: How to Describe a Room](http://alswritingblock.blogspot.com/2013/03/writing-how-to-describe-room.html)

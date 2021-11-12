@@ -10,3 +10,31 @@ Flow state, during flow state, overall status log is bascially impossible if the
       - Ipx up bvupnbuf uijt qspdftt gps qspwjtjpofe kvtu-jo-ujnf besfobmjo cpptu?
       - Jt uifsf puifs sftpvsdft uibu dbo hfofsbuf uif tjnjmbs besfobmjo cpptu?
   - Qpttjcmf besfobmjo sfmfbtf po jnqbdu, cftu vtbhf pg ju sfnbjot up cf efwfmpqqfe
+
+# *The world hits yet another cosmos-negligible entity ferosciously in one of the stupidest way to the public eye, eliminating all the escape pathway from the Medusa, the stone eyes, running the evergoing search algorithm for vulnerability with that --- benevolous gaze*
+- A new combo of challenge?
+  - Pinched nerve
+  - CATTI
+  - Translation exercise
+- Real challenge, or false challenge?
+  - Verdict: It's a false challenge
+  - Source: The dysfunctional mental energy build-up is approaching its threshold
+- Problem shifted: How to let off *steam* in the most efficient way available?
+  - Top priority
+    - Nerve pain --> Sleep
+    - CATTI unreadiness
+      - Mental shift and solidification: Failing is totally acceptable
+    - Overall plan adaptation
+      - Arrange workload and ordering
+    - Quick reflection on the current state
+  - Second priority
+    - Dysfunctional mental sectors
+      - Sense of weakness
+      - Self-dyshumanization(Only the part that is in the way of efficiency)
+    - Concentrated inter-human interaction with minimal effort of low ROI
+  - Third priority
+    - No existential problems a.k.a forced mate in sight
+- Action
+  - Sleep it off
+  - Show up in CATTI with the purpose of logging the biological state descriptors of stoicism
+  - Rigorous planning and ordering emminent

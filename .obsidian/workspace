@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "eedb9f081c8ad4d5",
+        "id": "7ca39561e87052a6",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -121,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eedb9f081c8ad4d5",
+  "active": "7ca39561e87052a6",
   "lastOpenFiles": [
     "Heuristics/PUA.md",
     "business/_log-B/log_business-BA.md",

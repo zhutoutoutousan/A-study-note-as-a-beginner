@@ -17,3 +17,6 @@
     - [link](https://www.yuxianxian.com/)
 - Local ecosystem
 - Subculture type
+
+## Obsidian + three.js + Plugin + GitHub engagement + Site
+- [Obsidian Publish](https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Publish)

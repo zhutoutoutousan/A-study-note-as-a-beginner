@@ -1,3 +1,8 @@
+# Basics
+- [“article”及编、章、节、条、款、项、目的翻译](https://legaltranz.com/archives/4284)
+
+# Source
+- [Legaltranz](https://legaltranz.com/)
 # 2021/7/8
 ## Wei3 yue1 jin1
 https://flyy.gdufs.edu.cn/info/1063/2255.htm

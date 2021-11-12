@@ -56,6 +56,8 @@
   - [NOTE: Complete your Hidradenitis suppurativa and Otitis media hospital inquiry and gastroscopy for it's been delayed for too long](#note-complete-your-hidradenitis-suppurativa-and-otitis-media-hospital-inquiry-and-gastroscopy-for-its-been-delayed-for-too-long)
 - [2021/10/28](#20211028)
   - [REMINDER on Colonoscopy, Hidradenitis suppurativa surgery arrangement, and Otitis media](#reminder-on-colonoscopy-hidradenitis-suppurativa-surgery-arrangement-and-otitis-media)
+- [2021/11/12](#20211112)
+  - [Pinched a nerve](#pinched-a-nerve)
 
 #thehealthmatters
 
@@ -387,3 +389,8 @@ This is the warning from your second-line psychological infrastructure. Plz addr
   - Hidradenitis suppurativa recovering, surgery session adjourned
   - Otitis media symptom is not observable, hearing recovered
   - IBS treatment by bowel bacteria recomposition, anti-spasm drugs etc..
+
+# 2021/11/12
+## Pinched a nerve
+- Apply painkiller
+- Nerve pinch is kind of serious, and could knock one out for days, immediate measure should be taken as normal painkiller doesn't work

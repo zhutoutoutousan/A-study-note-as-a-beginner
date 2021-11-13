@@ -132,3 +132,10 @@
 Points to consider
 
 ```
+
+# 2021/11/13
+## Discovered performance concerns
+- *Why should I keep an eye on the policy when I can spend months to make a spider bot to get that for me?*: If a related policy suddenly changes, sometimes you will be too preoccupied in your own flow that you will miss the opportunity
+  - Affected
+    - Any on-site-related work
+  - Not affected

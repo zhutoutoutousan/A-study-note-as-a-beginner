@@ -150,14 +150,15 @@ days, dimension, performance
 - Dienstag
   - Back
 - Mittwoch
-  - Off
+  - Off due to Abnormal state
   - 2.4km run
 - Donnerstag
-  - Chest
+  - Off due to abnormal state
 - Freitag
-  - Leg
+  - Off due to abnormal state
 - Samtag
-  - Off
+  - Chest
   - 2.4km run
 - Sonntag
-  - Arm
+  - Leg
+- Montag

@@ -21,10 +21,20 @@
 
 # Erudition
 #activereading
-- 创新化生存：如何将不安的焦虑转化为创作的动力
-- The INNOVATOR'S DNA
-- WIRED to CREATE: Unraveling the Mysteries of the Creative Mind
-- The Runaway Species: Now human creativity remakes the world
+- Innovation principle
+  - 创新化生存：如何将不安的焦虑转化为创作的动力
+- HCD design
+  - Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation
+  - [Field Guide to Human-Centered Design_IDEOorg](https://drive.google.com/file/d/1TFnpB7Ng9ZLBHVzgLgPwzY0743ihEc7m/view?usp=sharing)
+  - [HCD Toolkit](https://www3.nd.edu/~mbloom/ID/Archive/IDEOHCDToolkit.pdf)
+    - Process 1
+      - Bookmark: 11/105
+      - Style: Osmosis
+- Mindset
+  - The INNOVATOR'S DNA
+  - WIRED to CREATE: Unraveling the Mysteries of the Creative Mind
+  - The Runaway Species: Now human creativity remakes the world
+  - The Lean Startup
 # Presentation
 ## PPT 101
 - 效率

@@ -90,6 +90,7 @@
 #considerrename  
 ## Unranked
 #possibleacademiadirection: Data of inner drives for picking the master major
+#activeproject
 # Explore the definition of **study framework**
 ## Basic idea
 - Theoretical

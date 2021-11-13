@@ -43,6 +43,8 @@
     - [2021/11/13(Session ajourned)](#20211113session-ajourned)
 
 
+- That's why the system will help you, the world gives you shit by leting stupid shit happen to you, then you have the choice to **SAVE AND QUIT**
+
 # \[Software Project\]: Policy update notifier - In the loop during the sloppiest moment
 #activeproject
 - Build a bot that automatically get the recent news from the test website daily, if it is about the renewed policy of the certain test, notify through email or SMS

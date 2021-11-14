@@ -59,3 +59,6 @@ Flow state, during flow state, overall status log is bascially impossible if the
   - Existential
     - CATTI
       - You can spend a few money like lottery, if it happens that on the test day, you accidentally are able to get up before 9AM and don't need to apply for some stupid medical examination issued overnight
+
+
+- Positivity through powering through

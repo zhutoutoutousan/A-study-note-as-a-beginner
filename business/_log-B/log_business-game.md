@@ -1,9 +1,10 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Kickstart](#kickstart)
+- [Erudition](#erudition)
 - [2021/10/29](#20211029)
-  - [浏览器之争](#浏览器之争)
-  - [杀毒软件之争](#杀毒软件之争)
+  - [浏览器之争 --- 复盘分析](#浏览器之争-----复盘分析)
+  - [杀毒软件之争 --- 复盘分析](#杀毒软件之争-----复盘分析)
 - [2021/11/8-](#2021118-)
   - [Chess](#chess)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field)
@@ -18,9 +19,15 @@
 # Kickstart
 - INTJ-A/INTP-A: I want get the most out of every strategic game round I played
 
+# Erudition
+- COMPETITIVE ADVANTAGE: Creating and Sustaining Superior Peifonnance --- M. E. Porter
+  - [link](http://eprints.stiperdharmawacana.ac.id/56/1/%5BMichael_E._Porter%5D_Competitive_advantage_creatin%28BookFi%29.pdf)
+  - Process 1
+    - Style: Osmosis
+
 # 2021/10/29
-## 浏览器之争
-## 杀毒软件之争
+## 浏览器之争 --- 复盘分析
+## 杀毒软件之争 --- 复盘分析
 
 # 2021/11/8-
 ## Chess

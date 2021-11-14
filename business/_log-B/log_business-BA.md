@@ -7,6 +7,8 @@
   - [Central resource](#central-resource)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Basic data to store into your top-tier memory ?WTF?-2021-7-8](#basic-data-to-store-into-your-top-tier-memory-wtf-2021-7-8)
+  - [Tooling entry](#tooling-entry)
+  - [Data entry](#data-entry)
   - [Basic model](#basic-model)
   - [Information gathering](#information-gathering)
     - [Data collection](#data-collection)
@@ -79,7 +81,11 @@
 
 Ok, makes sense 2021-7-8
 
-- ## Data entry
+## Tooling entry
+- 产业链行业分析系统
+  - [Deloitte](https://www2.deloitte.com/cn/zh/pages/risk/articles/deloitte-smart-product-d-industry-chain.html)
+
+## Data entry
 - ①公开的数据：
 - 国家数据：http://data.stats.gov.cn/index.htm
 - CEIC：http://www.ceicdata.com/zh-hans

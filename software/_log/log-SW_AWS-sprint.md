@@ -61,7 +61,8 @@
 ## Question sets
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
-     - Sweepmark: 130/260 --> 50%
+     - Sweepmark: 170/260 --> 65%
+       - Next: Add weight mark to each question for efficient solification
      - Search mark: QX - Ctrl+F--> Question X
    - Weight system
      - 22% Deployment 14.3Q
@@ -80,6 +81,8 @@
             -  Docmark
          -  **Q100**
             -  Docmark
+         -  **Q133**
+            -  Docmark
      - Tools
        - AWS CLI
          - **Q62**
@@ -95,6 +98,7 @@
         - CF
          - Q59
          - Q104
+         - Q169
        - EB(MOVE EBS TO EC2)
          - **Q71**
          - **Q110**
@@ -119,6 +123,8 @@
          - Q111
        - CF
          - Q25
+         - **Q135**
+           - Docmark
          - Q258
            - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
      - Database
@@ -142,6 +148,14 @@
            - **Q105**
            - Q112
            - Q125
+           - Q136
+           - **Q143**
+           - Q146
+           - **Q152**
+           - Q158
+           - Q161
+           - Q162
+           - Q168
        - RDS
          - Q20
          - Q61
@@ -153,7 +167,7 @@
          - Q128
          - Q130
      -  Storage
-        -  S3
+        - S3
            -  Q2
            -  **Q33**
            -  Q73
@@ -163,6 +177,13 @@
            -  **Q90**
               -  Docmark
            -  Q120
+           -  **Q137**
+              -  Docmark
+           -  Q138
+           -  Q157
+           -  Q163
+              -  Why not B
+           -  Q166
         -  SimpleDB
         -  AWS RRS
            -  Q68
@@ -202,10 +223,14 @@
             - **Q83**
             - Q124
             - Q127
+            - Q155
+            - Q164
+            - Q170
        - SWF
          - Q14
          - Q92
            - Why not use SWF?
+         - Q147
      -  Authentication
         -  ACL
            -  Q56
@@ -237,6 +262,8 @@
            -  Q118
            -  Q122
            -  Q126
+           -  Q131
+           -  Q148
            -  Q260
               -  IAM resources are all global; there is no regional constraint
      -  Networking
@@ -257,6 +284,8 @@
           - **Q106**
           - **Q116**
             - What is a sticky session?
+          - **Q134**
+          - **Q153** E10
         - Route 58
           - **Q58**
           - **Q75**
@@ -277,10 +306,21 @@
            -  Q113
            -  Q115
            -  **Q129**
+           -  **Q140**
+           -  **Q141**
+           -  Q145
+           -  **Q151**
+           -  **Q165**
      - Solution
        - **Q28**
+       - **Q144**
+       - Q149
+       - Q150
+       - Q154
+       - **Q160**
      - Security
        - Q46
+       - Q159
     - Networking
        -  **Q11**
           -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
@@ -288,8 +328,12 @@
           - [IPv4, CIDR, and VPC Subnets Made Simple!](https://www.youtube.com/watch?v=z07HTSzzp3o)
              - Videomark: 8-30/23-46
     - SNS
-       - Q251
-         - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+      - **Q132**
+        - Docmark
+      - Q156
+      - Q167
+      - Q251
+        - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
  - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
    - Sweepmark: Q1/60
      - S1

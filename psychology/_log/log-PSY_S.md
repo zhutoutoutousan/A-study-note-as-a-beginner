@@ -9,3 +9,6 @@
 - Interval
   - Mental outburst 1
     - 2021/10/12
+
+# Gender
+- *Men went after perfection and Women went after wholeness* --- Carl Jung

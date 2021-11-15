@@ -25,6 +25,9 @@
   - [Literature training](#literature-training)
     - [How to describe a bed?](#how-to-describe-a-bed)
     - [How to describe a room?](#how-to-describe-a-room)
+- [\[Artwork\]: Marshmellow biohasard](#artwork-marshmellow-biohasard)
+  - [Ideas](#ideas)
+  - [Tools](#tools)
 
 
 # Brewing place for charactors
@@ -134,3 +137,14 @@ Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
 ### How to describe a room?
 - First, why the fxxk should I learn how to describe a room?
 - [Writing: How to Describe a Room](http://alswritingblock.blogspot.com/2013/03/writing-how-to-describe-room.html)
+
+
+# \[Artwork\]: Marshmellow biohasard
+## Ideas
+- 剪刀手爱德华
+- 理发师陶德
+- 断头谷
+- [如何评价《僵尸新娘》这部动画？](https://www.zhihu.com/question/54824744)
+
+## Tools
+- Celtx

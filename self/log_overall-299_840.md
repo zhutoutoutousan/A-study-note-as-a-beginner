@@ -62,3 +62,9 @@ Flow state, during flow state, overall status log is bascially impossible if the
 
 
 - Positivity through powering through
+
+
+# A good question: Estimate E.T.F
+- 给定时间限制$T$, 需要资源集$B$, 需要对*完成任务A*所需的时间
+
+# *灵视越高, 怪物越强*

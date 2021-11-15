@@ -20,7 +20,7 @@
 - INTJ-A/INTP-A: I want get the most out of every strategic game round I played
 
 # Erudition
-- COMPETITIVE ADVANTAGE: Creating and Sustaining Superior Peifonnance --- M. E. Porter
+- COMPETITIVE ADVANTAGE: Creating and Sustaining Superior Performance --- M. E. Porter
   - [link](http://eprints.stiperdharmawacana.ac.id/56/1/%5BMichael_E._Porter%5D_Competitive_advantage_creatin%28BookFi%29.pdf)
   - Process 1
     - Style: Osmosis
@@ -36,11 +36,8 @@
 - So you played one game of chess, what should you do next to fit in your overall vision?
 
 ### Phase 1: Play 100 games of Blitz 5+3 for initial positioning
-- Progress: 1?/100
-  - Temp
-    - 1
-      - [ ] Analysis sweep
-      - [ ] Minimal context
+- Progress: 3/100
+  - No more than 3 rounds per day
 
 ## LOL
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?

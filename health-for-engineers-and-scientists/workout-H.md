@@ -142,23 +142,21 @@ days, dimension, performance
       - Uni-lateral Leg press
       - Hip hinge
     - Core
+      - Front Lever
+      - Standing Twist
+      - Landmind Thrust
+      - Kneel and bow
+      - Leg raise
     - Cutting
       - Cycling
       - Running
 - Montag
-  - Arm
-- Dienstag
-  - Back
-- Mittwoch
-  - Off due to Abnormal state
-  - 2.4km run
-- Donnerstag
-  - Off due to abnormal state
-- Freitag
-  - Off due to abnormal state
-- Samtag
-  - Chest
-  - 2.4km run
-- Sonntag
-  - Leg
-- Montag
+  - Core
+  - 2.0km running
+- Tuesday
+  - Shoulder
+- Wednesday
+  - Off
+  - 2.2km running
+- Thursday
+  - 

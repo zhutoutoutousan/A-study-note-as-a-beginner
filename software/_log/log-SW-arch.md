@@ -1,9 +1,10 @@
 # Buffer to permanent note
 #considerrestructure
 
-## Knowledge structure construction
+## Erudition
 - Static resource
   - 架构师的自我修炼 技术，架构和未来
+    - Process 1
 - Dynamic Resource
   - Social media
     - 知乎

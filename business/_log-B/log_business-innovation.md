@@ -28,7 +28,7 @@
   - [Field Guide to Human-Centered Design_IDEOorg](https://drive.google.com/file/d/1TFnpB7Ng9ZLBHVzgLgPwzY0743ihEc7m/view?usp=sharing)
   - [HCD Toolkit](https://www3.nd.edu/~mbloom/ID/Archive/IDEOHCDToolkit.pdf)
     - Process 1
-      - Bookmark: 13/105
+      - Bookmark: 18/105
       - Style: Osmosis
       - Methods
         - PRA(Participatory Rural Appraisal)
@@ -36,6 +36,11 @@
           - [行业价值链分析](https://wiki.mbalib.com/wiki/%E8%A1%8C%E4%B8%9A%E4%BB%B7%E5%80%BC%E9%93%BE%E5%88%86%E6%9E%90)
             - Docmark: ...的定义
         - Triangulation
+      - Scenarios
+        - Week-long Deep Dive
+        - Several-months Deep Dive
+        - Activating already-existing knowledge
+        - Complementing existing long-term activities
 - Mindset
   - The INNOVATOR'S DNA
   - WIRED to CREATE: Unraveling the Mysteries of the Creative Mind

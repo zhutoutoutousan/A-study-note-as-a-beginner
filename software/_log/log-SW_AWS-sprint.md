@@ -2,8 +2,10 @@
 # **2021/11/7 - Reallocate resources**
 ## Flashcards
 - Flashcard readiness
- - Associate 2019: 92.3% 
- - Exam Pro: 23.8%
+ - Associate 2019: 96.7% 
+ - Exam Pro: 33.5%
+- Video readiness
+- Question set readiness: 75%
 ## Videos
 - Overall watering and sense of architecture
   - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
@@ -61,7 +63,7 @@
 ## Question sets
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
-     - Sweepmark: 170/260 --> 65%
+     - Sweepmark: 230/260 --> 88%
        - Next: Add weight mark to each question for efficient solification
      - Search mark: QX - Ctrl+F--> Question X
    - Weight system
@@ -83,11 +85,16 @@
             -  Docmark
          -  **Q133**
             -  Docmark
+         -  **Q219**
+            -  Docmark
+         -  **Q220**
+            -  Docmark
      - Tools
-       - AWS CLI
+       - AWS CLI & SDK
          - **Q62**
          - Q72
            - [IAM best practice](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+         - Q177
      - Functional
        - Lamda
        - SWF
@@ -99,6 +106,9 @@
          - Q59
          - Q104
          - Q169
+         - **Q180**
+         - **Q215**
+         - Q225
        - EB(MOVE EBS TO EC2)
          - **Q71**
          - **Q110**
@@ -121,6 +131,8 @@
          - Q101
          - Q109
          - Q111
+         - Q199
+         - 
        - CF
          - Q25
          - **Q135**
@@ -130,7 +142,7 @@
      - Database
        - General
           -  Q1 P4
-       - Dynamo DB
+       - DynamoDB
           -  Q4
           -  Q19
              -  DynamoDB has seamless scalability with no table size limits and unlimited storage,
@@ -156,6 +168,16 @@
            - Q161
            - Q162
            - Q168
+           - **Q171**
+           - **Q173 ?**
+           - **Q183**
+           - Q190
+           - **Q193**
+           - Q195
+           - **Q197**
+           - Q203
+           - **Q206**
+           - Q222
        - RDS
          - Q20
          - Q61
@@ -166,6 +188,10 @@
          - Q119
          - Q128
          - Q130
+         - Q182
+         - Q189
+         - Q208
+         - **Q212**
      -  Storage
         - S3
            -  Q2
@@ -184,18 +210,25 @@
            -  Q163
               -  Why not B
            -  Q166
+           -  Q172
+           -  Q174
+           -  Q194
+           -  Q210
+           -  Q216
         -  SimpleDB
         -  AWS RRS
            -  Q68
+           -  Q229
         -  AWS Glacier
            -  Q121
               -  Docmark
      -  Notification
         -  SES
            -  Q117
+           -  Q192
         -  SNS
            -  Q57
-        -  SQS
+        - SQS
            -  Q3
            -  Q5
            -  Q10
@@ -226,6 +259,9 @@
             - Q155
             - Q164
             - Q170
+            - Q181
+            - Q188
+            - Q201
        - SWF
          - Q14
          - Q92
@@ -264,6 +300,8 @@
            -  Q126
            -  Q131
            -  Q148
+           -  Q187
+           -  **Q217**
            -  Q260
               -  IAM resources are all global; there is no regional constraint
      -  Networking
@@ -274,6 +312,10 @@
            -  **Q77**
               -  Docmark
            -  **Q114**
+           -  Q209
+           -  Q226
+           -  **Q228**
+              -  Docmark
         - ELB
           - **Q38**
           - Q69
@@ -286,6 +328,9 @@
             - What is a sticky session?
           - **Q134**
           - **Q153** E10
+          - Q185
+          - Q186
+          - Q230
         - Route 58
           - **Q58**
           - **Q75**
@@ -311,6 +356,14 @@
            -  Q145
            -  **Q151**
            -  **Q165**
+           -  **Q198**
+           -  Q200
+           -  Q202
+           -  Q204
+           -  **Q211**
+           -  Q218
+     - Availability
+       - Q227 
      - Solution
        - **Q28**
        - **Q144**
@@ -318,9 +371,20 @@
        - Q150
        - Q154
        - **Q160**
+       - **Q179???**
+       - Q221
+       - Q224
+         - Docmark
      - Security
        - Q46
        - Q159
+       - Q175
+       - Q176
+       - Q178
+       - Q191
+    - Billing
+      - Q184
+        - Docmark
     - Networking
        -  **Q11**
           -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
@@ -332,6 +396,7 @@
         - Docmark
       - Q156
       - Q167
+      - Q196
       - Q251
         - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
  - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?

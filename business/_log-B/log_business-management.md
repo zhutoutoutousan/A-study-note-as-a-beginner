@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Erudition](#erudition)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Personal management](#personal-management)
 - [2021/7/15-](#2021715-)
@@ -19,6 +20,9 @@
   - [Facts to support an effective plan making](#facts-to-support-an-effective-plan-making)
 - [2021/10/18](#20211018)
   - [各国文化习俗特性假期对于项目影响的时间掐点](#各国文化习俗特性假期对于项目影响的时间掐点)
+
+# Erudition
+- 现场改善 --- Masaaki Imai
 # Buffer to permanent note
 ## Personal management
 - Recognition

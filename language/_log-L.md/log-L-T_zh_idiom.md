@@ -21,7 +21,7 @@
     - [俗语大全之大水冲倒龙王庙](http://www.wentidayi.com/changyong/993.shtml)
 
 # J
-- 大人虎变，小人革面，君子豹变:A powerful men powers through, while an underdog adapts, but a wise men mend their ways
+- 大人虎变，小人革面，君子豹变:A powerful men powers through, while an underdog adapts, but wise men mend their ways
   - [大人虎变，小人革面，君子豹变 - sohu](https://www.sohu.com/a/216311408_796596)
   - [To improve is to change; to perfect is to change often - Zhihu](https://zhuanlan.zhihu.com/p/29596740)
 

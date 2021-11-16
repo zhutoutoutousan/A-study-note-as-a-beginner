@@ -31,11 +31,37 @@
       - Bookmark: 18/105
       - Style: Osmosis
       - Methods
+        - Design thinking
+          - Process
+            - Empathize
+              - Group Interviews
+              - As-is-Scenario Map
+              - Mind Mapping
+              - Empathy Map
+            - Define
+              - Storyboarding
+              - Personas
+              - Prioritization Matrix
+              - Big Idea Vignettes
+            - Ideate
+              - Timeboxing
+              - Brainstorming
+              - Sketching
+              - Dot voting  
+            - Prototype
+              - Tools
+                - Pencil & Paper
+                - Figma & GoMockingBird
+                - 3D modeling Software
+                - Anything you have available
+              - Questions
+                - What if the initial technical architecture design of the software system is drastically different from the final product? 
+            - Test
         - PRA(Participatory Rural Appraisal)
         - Subsector/Value Chain Analysis
           - [行业价值链分析](https://wiki.mbalib.com/wiki/%E8%A1%8C%E4%B8%9A%E4%BB%B7%E5%80%BC%E9%93%BE%E5%88%86%E6%9E%90)
             - Docmark: ...的定义
-        - Triangulation
+        - Triangulation 
       - Scenarios
         - Week-long Deep Dive
         - Several-months Deep Dive

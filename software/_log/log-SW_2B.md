@@ -48,3 +48,10 @@
 ## Concourse study
 - [Introduction to CONCOURSE CI/CD](https://www.youtube.com/watch?v=JYtJdY_OVLw)
   - Videomark: 7-52/39-22
+
+
+# 2021/11/16
+## FinTech
+- Blockchain
+  - [ ] [Full Roadmap to learn Blockchain development in 2021](https://www.youtube.com/watch?v=ci_AIMCF-HA)
+  - [ ] [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)

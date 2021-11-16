@@ -63,7 +63,7 @@
 ## Question sets
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
-     - Sweepmark: 230/260 --> 88%
+     - Initial Sweepmark: 250/260 --> 96%
        - Next: Add weight mark to each question for efficient solification
      - Search mark: QX - Ctrl+F--> Question X
    - Weight system
@@ -89,6 +89,9 @@
             -  Docmark
          -  **Q220**
             -  Docmark
+         -  Q242
+         -  Q243
+            -  But what about only one AZ?
      - Tools
        - AWS CLI & SDK
          - **Q62**
@@ -109,6 +112,9 @@
          - **Q180**
          - **Q215**
          - Q225
+         - Q231
+         - Q245
+         - Q247
        - EB(MOVE EBS TO EC2)
          - **Q71**
          - **Q110**
@@ -178,6 +184,8 @@
            - Q203
            - **Q206**
            - Q222
+           - Q244
+           - Q250
        - RDS
          - Q20
          - Q61
@@ -192,6 +200,10 @@
          - Q189
          - Q208
          - **Q212**
+         - Q234
+         - Q235
+         - Q248
+         - **Q249**
      -  Storage
         - S3
            -  Q2
@@ -302,6 +314,8 @@
            -  Q148
            -  Q187
            -  **Q217**
+           -  Q233
+           -  **Q241**
            -  Q260
               -  IAM resources are all global; there is no regional constraint
      -  Networking
@@ -316,6 +330,7 @@
            -  Q226
            -  **Q228**
               -  Docmark
+           -  **Q246**
         - ELB
           - **Q38**
           - Q69
@@ -362,6 +377,10 @@
            -  Q204
            -  **Q211**
            -  Q218
+           -  **Q232**
+              -  Docmark
+           -  Q236
+           -  Q240
      - Availability
        - Q227 
      - Solution
@@ -375,6 +394,7 @@
        - Q221
        - Q224
          - Docmark
+       - Q237
      - Security
        - Q46
        - Q159
@@ -397,6 +417,10 @@
       - Q156
       - Q167
       - Q196
+      - **Q238**
+        - Docmark
+      - **Q239**
+        - Docmark
       - Q251
         - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
  - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?

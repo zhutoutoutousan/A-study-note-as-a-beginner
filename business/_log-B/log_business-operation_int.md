@@ -12,6 +12,8 @@
 - [2021/10/26](#20211026)
   - [Questionnaire design --> Sociology Theory & Methods --> Implementation](#questionnaire-design----sociology-theory--methods----implementation)
   - [Roadmap establishment](#roadmap-establishment-1)
+- [2021/11/17](#20211117)
+  - [Google Data Analytics Cert](#google-data-analytics-cert)
 
 
 # Buffer to permanent note
@@ -74,3 +76,9 @@
 
 ## Roadmap establishment
 - [互联网运营如何入门，如何自学？有哪些职位？](https://www.zhihu.com/question/270989134)
+
+
+# 2021/11/17
+## Google Data Analytics Cert
+- [Google Data Analytics Professional Certificate - Full course Part 1 of 7](https://www.youtube.com/watch?v=qZ6TJc5bSKU)
+  - Videomark: 3-21

@@ -152,9 +152,9 @@ days, dimension, performance
       - Running
 - Montag
   - Core
-  - 2.0km running
 - Tuesday
   - Shoulder
+  - 2.0km running
 - Wednesday
   - Off
   - 2.2km running

@@ -1,3 +1,7 @@
+# Channel
+- [Innovation Training](https://www.innovationtraining.org/)
+- [Interaction Design](https://www.interaction-design.org/)
+
 # What is innovation?
 - Your explanation
   - 2021/10/27: 创新的科学是复杂科学, 创新的工程是系统工程, 创新的...
@@ -18,6 +22,9 @@
 
 # How to train your innovation ability?
 - [如何提高自己的创新能力？](https://www.zhihu.com/question/19692933)
+- 2021/11/16 --- By myself
+  - Learn HCD
+    - Experience
 
 # Erudition
 #activereading
@@ -35,17 +42,24 @@
           - Process
             - Empathize
               - Group Interviews
+                - 【Personal obstacle】: INTJ - Why should I drain myself by talking to people? --> Use clear value chain to counteract
               - As-is-Scenario Map
               - Mind Mapping
               - Empathy Map
             - Define
               - Storyboarding
-              - Personas
+              - Persona
+                - How to describe?
+                  - [How to Create Personas for Design Thinking](https://www.innovationtraining.org/create-personas-design-thinking/#:~:text=Design%20thinking%20is%20an%20innovative,customer%2Dcentered%20products%20and%20services.&text=A%20persona%20is%20a%20fictional,of%20your%20service%20or%20product.)
+                - DO
+                  - Simulate the similar Brain activity and Hormonal state
               - Prioritization Matrix
               - Big Idea Vignettes
             - Ideate
               - Timeboxing
               - Brainstorming
+                - Silent Brainstorm
+                  - problems with groupthink and social loafing
               - Sketching
               - Dot voting  
             - Prototype
@@ -55,8 +69,11 @@
                 - 3D modeling Software
                 - Anything you have available
               - Questions
-                - What if the initial technical architecture design of the software system is drastically different from the final product? 
+                - What if the initial technical architecture design of the software system is drastically different from the final product AND THE PROJECT IS ALREADY 2 YEARS IN-FOR-A-POUND?
             - Test
+              - [Stage 5 in the Design Thinking Process: Test](https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test)
+            - ???
+              - Affinity Diagram
         - PRA(Participatory Rural Appraisal)
         - Subsector/Value Chain Analysis
           - [行业价值链分析](https://wiki.mbalib.com/wiki/%E8%A1%8C%E4%B8%9A%E4%BB%B7%E5%80%BC%E9%93%BE%E5%88%86%E6%9E%90)

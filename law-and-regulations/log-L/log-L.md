@@ -1,3 +1,6 @@
+# Erudition
+- A theory of Justice --- John Rawls
+  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
 # Law, regulatories, compliance acumen construction kickstart
 - Law, regulatories, compliance acumen construction kickstart
 

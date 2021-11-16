@@ -24,7 +24,8 @@
   - [link](http://eprints.stiperdharmawacana.ac.id/56/1/%5BMichael_E._Porter%5D_Competitive_advantage_creatin%28BookFi%29.pdf)
   - Process 1
     - Style: Osmosis
-
+- 李诞脱口秀工作手册
+  - [link](https://drive.google.com/file/d/1uxmJyjDEmSEg_s3Iu3l3sA9Hbh_0mWF8/view?usp=sharing)
 # 2021/10/29
 ## 浏览器之争 --- 复盘分析
 ## 杀毒软件之争 --- 复盘分析

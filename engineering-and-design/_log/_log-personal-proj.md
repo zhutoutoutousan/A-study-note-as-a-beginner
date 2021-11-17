@@ -1,0 +1,2 @@
+# Telepresence drone
+- [AWS Compute Blog - Building a Raspberry Pi telepresence robot using serverless: Part 1](https://aws.amazon.com/blogs/compute/building-a-raspberry-pi-telepresence-robot-using-serverless-part-1/)

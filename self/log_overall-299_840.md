@@ -68,3 +68,11 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 给定时间限制$T$, 需要资源集$B$, 需要对*完成任务A*所需的时间
 
 # *灵视越高, 怪物越强*
+
+
+# How to get up and show up in some must-attend-onsite activities when you're getting back to the nocturnal state
+- According to your history of performance, the normal ON state for you is between: 3:00PM~5:00AM(The next day)
+- And due to your innate oblivion and numbness to any type of OMG-I-MISSED-THAT-PARTY, additional procedures need to be taken to prevent **no-show**
+
+# How to flip the nocturnal state
+- This action cannot be achieved at this time

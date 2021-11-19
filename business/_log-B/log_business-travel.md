@@ -29,6 +29,11 @@ https://www.worldtimebuddy.com/
 
 
 # Germany
-## 2021/11/16-
+## General
 ### Transport
 - [Zugfinder](https://www.zugfinder.net/en/start)
+
+# China
+## General
+## Beijing
+- Suppose you have a business trip to Beijing from a starting point $i$, what aspect would you keep in mind to ensure robust travel journey?

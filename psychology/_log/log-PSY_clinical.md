@@ -1,5 +1,12 @@
-# Software Automation Project: Human inner-psychological-structure-to-behaviour mapping simulation based on psychology theory
+# C.O.I
+- 
 
+
+# Software Automation Project: Human inner-psychological-structure-to-behaviour mapping simulation based on psychology theory
+## Tools
+- [Stanford Network Analysis Project](http://snap.stanford.edu/)
+## Sources
+- [移动社交网络仿真环境](https://blog.csdn.net/wxxw1/article/details/107022020)
 # Basic clinical psychology and methodology practice
 
 

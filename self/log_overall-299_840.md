@@ -66,8 +66,36 @@ Flow state, during flow state, overall status log is bascially impossible if the
 
 # A good question: Estimate E.T.F
 - 给定时间限制$T$, 需要资源集$B$, 需要对*完成任务A*所需的时间
+  - 2021/11/19 
+    - [ ] To Software Engineering
+    - 软件量化管理
+      - 数据
+        - [箱线图](https://wiki.mbalib.com/wiki/%E7%AE%B1%E7%BA%BF%E5%9B%BE)
+      - 软件估算
+        - 生产率估算
+        - 工作量估算
+        - 软件成本估算
+        - 开发周期估算
+        - 缺陷估算
+        - 风险估算
+        - 资源估算
+        - 软件规模估算
+          - Concept
+            - [软件项目评估之估算软件项目规模概述](https://cloud.tencent.com/developer/article/1418048#:~:text=%E4%BC%B0%E7%AE%97%E8%BD%AF%E4%BB%B6%E8%A7%84%E6%A8%A1%E6%98%AF%E5%90%8E%E7%BB%AD,%E5%9D%87%E4%B8%BA%E5%8A%9F%E8%83%BD%E7%82%B9%E6%96%B9%E6%B3%95%E3%80%82)
+            - [什么是软件规模估算？](https://zhuanlan.zhihu.com/p/111574031)
+            - [10 种软件规模估算简介](https://toutiao.io/posts/brygb6/preview)
+          - Methods
+            - COMSMIC-FFP
+            - IFPUG
+            - MkII
+            - NESMA
+            - FiSMA
+            - LoC（Lines of Code）
+            - 策划扑克估算
+              - [估算的敏捷方法：策划扑克法](https://blog.csdn.net/bamboolsu/article/details/43939473)
 
-# *灵视越高, 怪物越强*
+
+# *灵视越高, 怪物越强* --> *灵视越高, 可见怪物强的地方越多, 可见怪物越多, 双刃剑*
 
 
 # How to get up and show up in some must-attend-onsite activities when you're getting back to the nocturnal state

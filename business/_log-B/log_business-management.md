@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Source](#source)
 - [Erudition](#erudition)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Personal management](#personal-management)
@@ -21,8 +22,20 @@
 - [2021/10/18](#20211018)
   - [各国文化习俗特性假期对于项目影响的时间掐点](#各国文化习俗特性假期对于项目影响的时间掐点)
 
+# Source
+
 # Erudition
-- 现场改善 --- Masaaki Imai
+- Factory
+  - 现场改善 --- Masaaki Imai
+- Management
+  - CMMI
+    - CMMI High Maturity Hand Book
+      - [link](http://uploads.worldlibrary.net/uploads/pdf/20151101020335cmmi_high_maturity_hand_book_amazon.pdf)
+    - Capability Maturity Model Integration (CMMI) Overview
+      - [link](https://elsmar.com/pdf_files/cmmi-overview05.pdf)
+    - Handbook for Conducting Standard CMMI Appraisal Method for Process Improvement (SCAMPI)
+      - [link](https://resources.sei.cmu.edu/asset_files/Handbook/2005_002_001_14438.pdf)
+    - 以道御术 CMMI 2.0实践指南
 # Buffer to permanent note
 ## Personal management
 - Recognition

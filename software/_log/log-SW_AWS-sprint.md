@@ -33,6 +33,9 @@
       - DynamoDB follow along
     - EC2
     - VPC
+      - Videosweepmark: /7-10-34~7-21-37
+      - NACL
+        - [AWS Network Access Control List - What are its Components?](https://www.knowledgehut.com/tutorials/aws/aws-nacl#:~:text=NACL%20refers%20to%20Network%20Access,moves%20around%20in%20the%20subnets.)
     - ASG
     - VPC Endpoints
     - ELB
@@ -63,7 +66,7 @@
 ## Question sets
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
-     - Initial Sweepmark: 250/260 --> 96%
+     - Initial Sweepmark: 260/260 --> 100%
        - Next: Add weight mark to each question for efficient solification
      - Search mark: QX - Ctrl+F--> Question X
    - Weight system
@@ -115,6 +118,7 @@
          - Q231
          - Q245
          - Q247
+         - Q258
        - EB(MOVE EBS TO EC2)
          - **Q71**
          - **Q110**
@@ -240,6 +244,7 @@
            -  Q192
         -  SNS
            -  Q57
+           -  Q251
         - SQS
            -  Q3
            -  Q5
@@ -381,6 +386,9 @@
               -  Docmark
            -  Q236
            -  Q240
+           -  Q252
+           -  Q256
+           -  Q259
      - Availability
        - Q227 
      - Solution
@@ -395,6 +403,7 @@
        - Q224
          - Docmark
        - Q237
+       - Q257
      - Security
        - Q46
        - Q159
@@ -423,6 +432,7 @@
         - Docmark
       - Q251
         - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+      - Q255
  - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
    - Sweepmark: Q1/60
      - S1

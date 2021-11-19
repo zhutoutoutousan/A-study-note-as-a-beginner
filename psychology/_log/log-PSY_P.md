@@ -11,6 +11,8 @@
       - [Automatic exploitation victim story design](#automatic-exploitation-victim-story-design-2)
     - [Communal Narcissism](#communal-narcissism)
       - [Automatic exploitation victim story design](#automatic-exploitation-victim-story-design-3)
+      - [Case study](#case-study)
+      - [Novel victim journey maps](#novel-victim-journey-maps)
   - [Machiavellianism](#machiavellianism)
   - [Psychopathy](#psychopathy)
 # Dark Triad
@@ -24,6 +26,8 @@
 #### Automatic exploitation victim story design
 ### Communal Narcissism
 #### Automatic exploitation victim story design
+#### Case study
+#### Novel victim journey maps
 
 ## Machiavellianism
 

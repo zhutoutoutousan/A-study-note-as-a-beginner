@@ -159,4 +159,3 @@ days, dimension, performance
   - Off
   - 2.2km running
 - Thursday
-  - 

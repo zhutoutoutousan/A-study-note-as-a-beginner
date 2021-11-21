@@ -30,12 +30,21 @@
     - Secrets Manager
     - DynamoDB
       - DynamoDB
+        - Videosweep:
+        - Acumen training
+          - Provisioned capacity calculator
+            - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/)
+              - [What is DynamoDB TTL?](https://dynobase.dev/dynamodb-ttl/)
       - DynamoDB follow along
     - EC2
     - VPC
-      - Videosweepmark: /7-10-34~7-21-37
+      - Videosweep: 7-10-34~7-22-30
+      - Sweeprecord
+        - [x] First sweep
       - NACL
         - [AWS Network Access Control List - What are its Components?](https://www.knowledgehut.com/tutorials/aws/aws-nacl#:~:text=NACL%20refers%20to%20Network%20Access,moves%20around%20in%20the%20subnets.)
+        - [AWS - Public & Private Instances | NACL DEMO | Network ACL rules](https://www.youtube.com/watch?v=9bXm82AjWWg)
+      - DHCP
     - ASG
     - VPC Endpoints
     - ELB

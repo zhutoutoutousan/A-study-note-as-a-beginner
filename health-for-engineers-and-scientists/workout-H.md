@@ -114,10 +114,15 @@ days, dimension, performance
   - Solution to: *I don't even have the energy to make a daily workout plan* --> Preset plan template
     - Arm
       - Bicep
+        - Cheat curl
         - Weighted Chinup
+        - Incline DB curl
         - Dumbbell compound curl
       - Tricep
         - Skull crusher/Push away
+        - Tricep push down
+        - Wide grip push down
+        - Rocking push down
       - Shoulder
         - Lateral raise
         - Reverse fly
@@ -147,15 +152,15 @@ days, dimension, performance
       - Landmind Thrust
       - Kneel and bow
       - Leg raise
+    - Strength
     - Cutting
       - Cycling
       - Running
+- \[RECOVERY\]: Shoulder
+- \[RECOVERY\]: Strength
+- \[RECOVERY\]: Lower Back
+- Sonntag
+  - Arm+Core
+  - 10km Bike ride+2km running
 - Montag
-  - Core
-- Tuesday
-  - Shoulder
-  - 2.0km running
-- Wednesday
-  - Off
-  - 2.2km running
-- Thursday
+  - 

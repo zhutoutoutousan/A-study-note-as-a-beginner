@@ -10,8 +10,8 @@
 - [Motivation](#motivation)
 - [Learn from the best](#learn-from-the-best)
 - [Scriptwriting tools](#scriptwriting-tools)
-- [Innate acumen](#innate-acumen)
-- [Erudition](#erudition)
+- [](#)
+- [Erudition & Innate acumen](#erudition--innate-acumen)
 - [2021/11/5](#2021115)
   - [Tutorial mark](#tutorial-mark)
   - [A day in the life xxx series](#a-day-in-the-life-xxx-series)
@@ -28,6 +28,8 @@
 - [\[Artwork\]: Marshmellow biohasard](#artwork-marshmellow-biohasard)
   - [Ideas](#ideas)
   - [Tools](#tools)
+
+
 
 
 # Brewing place for charactors
@@ -75,14 +77,17 @@
 - Hartchart
   - Character emotion graph
   - 90 USD/yr
-# Innate acumen
+# 
 - 欢乐喜剧人
 
 
-# Erudition
-- Screenplay: The Foundations of Screenwriting
-  - [link](https://drive.google.com/file/d/1PbQFROtwCdragy0cM0Eb5qpCazveFNJl/view?usp=sharing)
-
+# Erudition & Innate acumen
+- Basics
+  - Screenplay: The Foundations of Screenwriting
+    - [link](https://drive.google.com/file/d/1PbQFROtwCdragy0cM0Eb5qpCazveFNJl/view?usp=sharing)
+- Innovative literature
+  - 三体系列
+    - [三体 II 黑暗森林](https://www.mlook.mobi/files/month_1203/b64c7fd9978aa67d141901d68ca7819e810e2f2d.pdf)
 
 # 2021/11/5
 ## Tutorial mark

@@ -1,3 +1,7 @@
+# Defend
+## Network
+- Disable X-Forwarded-For(XFF) Header
+
 # Resource pool
 - LOI Liang Yang
 - [PicoCTF](https://picoctf.org/resources)

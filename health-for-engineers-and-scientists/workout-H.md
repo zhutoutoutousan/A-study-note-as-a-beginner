@@ -160,7 +160,6 @@ days, dimension, performance
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
 - Sonntag
-  - Arm+Core
-  - 10km Bike ride+2km running
+  - Arm
 - Montag
-  - 
+  - 10km Bike ride+2km running

@@ -2,64 +2,116 @@
 # **2021/11/7 - Reallocate resources**
 ## Flashcards
 - Flashcard readiness
- - Associate 2019: 96.7% 
- - Exam Pro: 33.5%
-- Video readiness
-- Question set readiness: 75%
+ - Associate 2019: 99.6% 
+ - Exam Pro: 65.5%
+- Video readiness: 100%
+- Question set readiness: 100%
+
+## Cheatsheet
+- KMS
+  - [4-14-12](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
 ## Videos
 - Overall watering and sense of architecture
   - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
     - EB
-      - EB 48-09/55-02
-      - EB Follow along 59-03/2-15-39
-    - ECS
-    - Fargate
-    - X-Ray
-      - Videosweepmark: 3-02-19
-      - X-ray Anatomy: 3-00-33
-    - ACM
-    - Route53
+      - EB 
+        - [x] Videosweepmark: 55-02/55-02
+      - EB Follow along 
+        - [ ] Videosweepmark: 1-37-09/2-15-39
+    - [x] ECS
+    - ECS Fargate
+      - ECS Fargate
+        - [x] Videosweepmark: 2-42-45/2-37-23~2-42-45
+      - Follow along
+        - Videosweepmark: 2-42-45/2-42-45~
+    - [x] X-Ray
+      - Cheatsheet
+    - [x] ACM
+    - [x] Route53
       - Videosweepmark: 3-31-25
-    - API/SDK/CLI
+    - [x]  API/SDK/CLI
     - KMS
-    - Cognito
-    - SNS
-    - SQS
-    - Kinesis
-    - Parameter Store
-    - Secrets Manager
+      - [x] Videosweepmark: 4-14-19/4-04-29~4-14-19
+      - KMS - AWS CLI
+        - `aws kms create-key`
+        - `aws kms encrypt`
+        - `aws kms decrypt`
+        - `aws kms re-encrypt`
+        - `aws kms enable-key-rotation`
+      - FIPS 140-2 Level
+        - [wiki](https://en.wikipedia.org/wiki/FIPS_140-2)
+      - RSA
+        - [RSA - Cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+      - HSM(Hardware Security Module)
+    - [x] Cognito
+    - [x] SNS
+    - [x] SQS
+    - [x] Kinesis
+    - [x] Parameter Store
+    - [x] Secrets Manager
     - DynamoDB
       - DynamoDB
-        - Videosweep:
+        - [x] Videosweep: 6-05-46/5-05-21~6-05-46
         - Acumen training
           - Provisioned capacity calculator
             - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/)
               - [What is DynamoDB TTL?](https://dynobase.dev/dynamodb-ttl/)
+        - **Calculating reads: 5-25-28**
+        - DynamoDB - LSI vs GSI: 5-44-46
+        - **DynamoDB Cheatsheet: 5-50-00**
+          - Repetition requirements: 5
+            - [ ] Initial
+            - [ ] REP 1
+          - DynamoDB automatically creates partitions for:
+            - Every 10 GB of Data or
+            - When you exceed RCUS of 3000 of WCUs of 1000 limites for a single partition
+            - When DynamoDB sees a pattern of a hot pattern, it will split that partition in an attempt to fix the issue 
+          - CLI
+            - `get-item`, `put-item`, `update-item`
+            - `batch-get-item`: Single OP --> **16MB**, **100 items**
+            - `batch-write-item`: **16MB**, **25 put or delete**, inividual item: **400KB**
+            - `create-table`,`update-table`,`delete-table`
+            - `transact-get-items`: **25obj**, All:  **4MB**
+            - `transact-write-items`: **25**
+            - `query`
+            - `scan`
       - DynamoDB follow along
-    - EC2
+    - [x] EC2
     - VPC
-      - Videosweep: 7-10-34~7-22-30
+      - [x] Videosweep: 7-10-34~7-22-30
       - Sweeprecord
         - [x] First sweep
+        - [ ] REP * 3
       - NACL
         - [AWS Network Access Control List - What are its Components?](https://www.knowledgehut.com/tutorials/aws/aws-nacl#:~:text=NACL%20refers%20to%20Network%20Access,moves%20around%20in%20the%20subnets.)
         - [AWS - Public & Private Instances | NACL DEMO | Network ACL rules](https://www.youtube.com/watch?v=9bXm82AjWWg)
       - DHCP
-    - ASG
+    - [x] ASG
     - VPC Endpoints
+      - [x] Videosweep: 7-36-02/7-32-39~7-36-02
     - ELB
-    - SG
-    - NACLs
-    - VPC Flow Logs
+      - [x] Videosweep: 7-36-02/7-36-02~7-48-15
+      - Cheatsheet: 7-46-59
+        - Repetition: 3
+        - [ ] Initial
+    - [x] SG
+    - [x] NACLs
+    - [x] VPC Flow Logs
     - IAM
-    - CloudFront
+      - IAM
+        - [x] Videosweep: 8-52-07/8-35-03~8-52-07
+      - IAM Follow Along
+    - [x] CloudFront
     - CloudTrail
     - CloudFormation
-    - CDK
-    - SAM
-    - CI/CD
-    - CodeCommit
+      - [x] Videosweepmark: 10-41-42/9-35-50~10-41-42
+    - [x] CDK
+    - [x] SAM
+    - [x] CI/CD
+    - [x] CodeCommit
     - Docker
+      - [x] Videosweep: 11-10-15/11-02-21~11-10-15
+      - Hardware Virtualization --> Computer Science(Unlock in the next 3+ levels of software sophistication)
     - CodeBuild
     - CodeDeploy
 ## Documents

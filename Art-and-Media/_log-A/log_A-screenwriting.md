@@ -158,3 +158,7 @@ Music promoted by Audio Library https://youtu.be/b6jK2t3lcRs
 
 # 多人协作的文字宇宙社群
 #ideasandinnovations
+
+```
+有木有学天体/物理/digital的人, 我想搞个/在看有木有 "多人协作的文字宇宙社群", 每个人可以自己创造位面, 每个位面有自己的自(gou)圆(pi)其(bu)说(tong)的物理规律 --> 全球参与的"三体"
+```

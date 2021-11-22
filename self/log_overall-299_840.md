@@ -104,3 +104,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
 
 # How to flip the nocturnal state
 - This action cannot be achieved at this time
+- 2021/11/23: It depends
+
+# 2021/11/23
+- Sleep deprivation ends, AWS section should be transformed to

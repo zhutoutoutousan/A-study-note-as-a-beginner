@@ -162,4 +162,5 @@ days, dimension, performance
 - Sonntag
   - Arm
 - Montag
+- Dienstag
   - 10km Bike ride+2km running

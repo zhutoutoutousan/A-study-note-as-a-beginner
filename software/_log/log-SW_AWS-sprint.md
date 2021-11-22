@@ -102,7 +102,7 @@
         - [x] Videosweep: 8-52-07/8-35-03~8-52-07
       - IAM Follow Along
     - [x] CloudFront
-    - CloudTrail
+    - [x] CloudTrail
     - CloudFormation
       - [x] Videosweepmark: 10-41-42/9-35-50~10-41-42
     - [x] CDK
@@ -114,6 +114,11 @@
       - Hardware Virtualization --> Computer Science(Unlock in the next 3+ levels of software sophistication)
     - CodeBuild
     - CodeDeploy
+- Fill in the blanks
+  - [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=14883s)
+    - EBS
+    - S3
+    - SWF
 ## Documents
 - [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
 - [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)

@@ -37,3 +37,11 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 ## Points to consider
 - 参数校验
 - 硬删除/软删除
+
+# 2021/11/23
+## Java Reboot
+- Java
+  - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
+    - 4:48/1:49:28
+  - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
+    - 0:05/4:13:03

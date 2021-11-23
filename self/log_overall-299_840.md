@@ -107,4 +107,10 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 2021/11/23: It depends
 
 # 2021/11/23
-- Sleep deprivation ends, AWS section should be transformed to
+- Sleep deprivation ends, AWS section should be transformed to 
+
+- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出
+  - There is currently no solution available
+  - Upgrading Curiosity management and Research management is mandatory, if the exposure goes up exponentially, paralysis will ensue
+  - WHY THIS IS SERIOUS
+    - A project is time-sensitive, you should evaluate its impact

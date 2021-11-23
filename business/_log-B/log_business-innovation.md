@@ -43,6 +43,8 @@
             - Empathize
               - Group Interviews
                 - 【Personal obstacle】: INTJ - Why should I drain myself by talking to people? --> Use clear value chain to counteract
+                  - It's like, when I talk to people, I don't only perceive their information, I can almost reconstruct their past life in a second, their success and struggle, their happiness and pain, their embarrassement, and their fear, it's that automatic re-construction process that drains myself
+                    - If that's the case, you can try powering through with negative ROI upfront
               - As-is-Scenario Map
               - Mind Mapping
               - Empathy Map

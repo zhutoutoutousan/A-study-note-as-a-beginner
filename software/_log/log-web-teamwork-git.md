@@ -25,7 +25,8 @@
 - [2021/9/6](#202196)
   - [When should you use shallow-copy clone?](#when-should-you-use-shallow-copy-clone)
   - [When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?](#when-and-why-should-you-use-degit-why-it-doesnt-support-windows-well-is-there-any-alternative)
-- [](#)
+- [2021/11/23](#20211123)
+  - [What's the risk of opening two vscode of different git branches of one project and work on git seperately?](#whats-the-risk-of-opening-two-vscode-of-different-git-branches-of-one-project-and-work-on-git-seperately)
 # Buffer to static knowledge store
 
 
@@ -157,4 +158,8 @@ https://www.ruanyifeng.com/blog/2021/05/scaling-problem.html
 ## When should you use shallow-copy clone?
 ## When and why should you use `degit`? Why it doesn't support `windows` well? Is there any alternative?
 
-# 
+# 2021/11/23
+## What's the risk of opening two vscode of different git branches of one project and work on git seperately?
+- [How to open 2 Visual Studio instances, with same Git projects and different branches](https://stackoverflow.com/questions/36687536/how-to-open-2-visual-studio-instances-with-same-git-projects-and-different-bran)
+  - `git worktree`
+    - [doc](https://git-scm.com/docs/git-worktree)

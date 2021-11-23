@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Problem Solving Sources](#problem-solving-sources)
 - [Logistics](#logistics)
 - [2021/3/29](#2021329)
   - [Codewar --> Make a fxxking CPU](#codewar----make-a-fxxking-cpu)
@@ -13,6 +14,14 @@
   - [Burrows-Wheeler-Transformation](#burrows-wheeler-transformation)
   - [Catching Car Mileage Numbers - SOLVED](#catching-car-mileage-numbers---solved)
   - [Make a spiral](#make-a-spiral)
+
+
+# Problem Solving Sources
+- Networking
+  - Education system
+    - Classmates
+    - Teachers
+  - General
 
 # Logistics
 - Testing platform

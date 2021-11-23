@@ -1,9 +1,22 @@
-# Buffer to permanent note
+- Buffer to permanent note
+  - Don't use top-level hashtag from now on
+
+# External Marketing
+## Erudition
+- MBA百科解释
 ## Sources
 - 2020微博娱乐白皮书
   - [2020微博娱乐白皮书发布：聚全平台之力共助行业发展](https://hd.weibo.com/article/view/3882)
 - 粉丝经济4.0白皮书
   - [link](https://www.shangyexinzhi.com/article/365975.html)
+
+# Internal Marketing
+## Erudition
+- MBA百科解释
+- Inside-Out Marketing: How to Create an Internal Marketing Strategy
+  - [link](https://drive.google.com/file/d/1b7ltYILaHugBmeLFAKgx9_GF5E-OQjWG/view?usp=sharing)
+- Precision Marketing: Maximizing Revenue Through Relevance
+  - Bookmark: 
 # 2021/6/22
 ## Knowing what PPL is
 - [Pay per Lead – A Practice of the 90’s or the New Age of SEO?](https://cognitiveseo.com/blog/20222/pay-per-lead-seo/)

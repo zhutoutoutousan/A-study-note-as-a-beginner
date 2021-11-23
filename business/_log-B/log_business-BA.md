@@ -205,14 +205,16 @@ Ok, makes sense 2021-7-8
         - 功能分析 - Meta
           - #considermove
             - 建立一个知识区块, 专门存储: 某一specific产品in general需要的哪些功能, 然后从需求到技术实现, 项目估点一站式数据收集的内容
-          - 基本操作
-          - 基础块
-          - 高级块
-          - 媒体与文件
-          - 进阶操作
-          - 团队协作
-          - 社群建立
-          - 售后服务
+          - 个人一站式笔记类产品
+            - 基本操作
+            - 基础块
+            - 高级块
+            - 媒体与文件
+            - 进阶操作
+            - 团队协作
+            - 社群建立
+            - 售后服务
+          - 协作工具
         - 功能分析
           - Source: Wolai帮助中心
             - 基本操作
@@ -226,8 +228,14 @@ Ok, makes sense 2021-7-8
         - 竞品收集
           - notion
 - 人
-  - [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019%E8%85%BE%E8%AE%AF00%E5%90%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/)
-    - Schwartz理论
+  - CH
+    - 70后
+    - 80后
+      - [中国内地「80后」中产的生活与消费](https://research.hktdc.com/archive/201708/480951_sc_olor2017Aug9_gen.pdf)
+    - 90后
+    - 00后
+      - [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019%E8%85%BE%E8%AE%AF00%E5%90%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/)
+        - Schwartz理论
 - 媒
   - [2018-2019中国数字出版产业年度报告](https://books.google.nl/books?id=SbEXEAAAQBAJ&pg=PT167&lpg=PT167&dq=%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5101&source=bl&ots=leF5BZbpvH&sig=ACfU3U0tfc699fd8Kxd8EyIdfewBS57FTQ&hl=en&sa=X&ved=2ahUKEwjmyojMs_zzAhXLGewKHc3QCtIQ6AF6BAgdEAM#v=onepage&q=%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5101&f=false)
 #### Medical

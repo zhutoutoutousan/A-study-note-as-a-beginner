@@ -15,8 +15,9 @@
 # E
 - 二级市场
 # G
-- 固定资产
-
+- 固定资产盘点
+  - Inventory of Fixed Assets
+    - [固定资产盘点方式系列篇第六篇——资产盘点形式](https://zhuanlan.zhihu.com/p/79428431)
 # K
 
 # J

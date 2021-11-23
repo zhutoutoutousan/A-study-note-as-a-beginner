@@ -96,7 +96,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
 
 
 # *灵视越高, 怪物越强* --> *灵视越高, 可见怪物强的地方越多, 可见怪物越多, 双刃剑*
-
+- \[Cursed\]: *You can't unring the bell, not to yourself*
 
 # How to get up and show up in some must-attend-onsite activities when you're getting back to the nocturnal state
 - According to your history of performance, the normal ON state for you is between: 3:00PM~5:00AM(The next day)
@@ -110,7 +110,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
 ## Upcoming challenges
 - Sleep deprivation ends, AWS section should be transformed to 
 
-- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出, 现有负荷估计为26000%
+- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出, 现有负荷估计为26000% --> 系统性建立自我疗愈机制, 彻底解决高效自我疗愈的落地问题
   - There is currently no solution available
   - Upgrading Curiosity management and Research management is mandatory, if the exposure goes up exponentially, paralysis will ensue
   - WHY THIS IS SERIOUS

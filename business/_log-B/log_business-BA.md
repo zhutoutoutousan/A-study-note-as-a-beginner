@@ -200,8 +200,31 @@ Ok, makes sense 2021-7-8
   - How: 工具
     - 知识存储
       - [wolai](wolai.com)
-        - [WOLAI，不仅仅是全能笔记软件 NOTION 的 “中国版”](https://x1g.la/wolai-cn.html)
-      - notion
+        - 社区曝光度
+          - [WOLAI，不仅仅是全能笔记软件 NOTION 的 “中国版”](https://x1g.la/wolai-cn.html)
+        - 功能分析 - Meta
+          - #considermove
+            - 建立一个知识区块, 专门存储: 某一specific产品in general需要的哪些功能, 然后从需求到技术实现, 项目估点一站式数据收集的内容
+          - 基本操作
+          - 基础块
+          - 高级块
+          - 媒体与文件
+          - 进阶操作
+          - 团队协作
+          - 社群建立
+          - 售后服务
+        - 功能分析
+          - Source: Wolai帮助中心
+            - 基本操作
+            - 基础块
+            - 高级块
+            - 媒体与文件
+            - 进阶操作
+            - 团队协作
+            - 社群建立
+            - 售后服务
+        - 竞品收集
+          - notion
 - 人
   - [2019腾讯00后研究报告](https://cdc.tencent.com/2019/11/01/2019%E8%85%BE%E8%AE%AF00%E5%90%8E%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/)
     - Schwartz理论

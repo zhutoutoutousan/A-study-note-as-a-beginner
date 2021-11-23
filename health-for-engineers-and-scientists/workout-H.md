@@ -162,5 +162,7 @@ days, dimension, performance
 - Sonntag
   - Arm
 - Montag
+  - Off day due to extreme tiredness
 - Dienstag
+  - Back+Leg
   - 10km Bike ride+2km running

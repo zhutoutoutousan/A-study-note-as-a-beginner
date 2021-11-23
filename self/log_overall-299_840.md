@@ -107,10 +107,28 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 2021/11/23: It depends
 
 # 2021/11/23
+## Upcoming challenges
 - Sleep deprivation ends, AWS section should be transformed to 
 
-- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出
+- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出, 现有负荷估计为26000%
   - There is currently no solution available
   - Upgrading Curiosity management and Research management is mandatory, if the exposure goes up exponentially, paralysis will ensue
   - WHY THIS IS SERIOUS
     - A project is time-sensitive, you should evaluate its impact
+  - Solution
+    - **Plan for vacation during which all of the intellectual activities shall stop**
+    - **Socialize with people during this timeframe**
+    - **Play music, canta il bel canto**
+    - GET WELL-STAGED SLEEP
+    - **Travel therapy** --> *Go somewhere far far away*
+      - Require self-planning to ensure the therapeutic effect without unexpected negative effect
+    - **Music therapy**
+      - The last time I tried, it always comes that some methods have reduced effect over time, and if I revisit it again, it will chronically and permanently have that effect ---> Create `therapy` section in `Art & Media` folder
+    - Get a puppy
+      - INTJ & INTP: Not applicable
+    - Get a companion
+      - Current Insane status: Not applicable by significant margin
+
+## **Health check**
+- Please get your health check date settled with upmost attention
+- Log to `sicklog` for furthur integration

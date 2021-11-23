@@ -22,9 +22,9 @@
     - Require **Written Latin C1** level for efficient study.
 
 ## German
-
 - Die Welt als Wille und Vorstellung -- Arthur Schopenhauer
   - [Link1](https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0958-03.pdf)
-
+  - Process 1
+    - Bookmark: 1/826
 - Also sprach Zarathustra -- Friedrich Nietzsche
   - [Link1](http://www.pileface.com/sollers/pdf/Zarathustra.pdf)

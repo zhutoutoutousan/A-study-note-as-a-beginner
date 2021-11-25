@@ -90,6 +90,7 @@
 ## M
 ## W
 - West-east pipeline
+- Vexatious: 无理取闹
 ## Z
 - Zoonotic pathogen: 人畜共患病病原体 - HDR 2020
 

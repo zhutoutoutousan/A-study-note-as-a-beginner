@@ -10,7 +10,7 @@
   - [Self-transformation](#self-transformation)
   - [Supportive](#supportive)
   - [Structural re-shape](#structural-re-shape)
-  - [Unranked](#unranked)
+  - [PLAN FOR THE NEXT STAGE](#plan-for-the-next-stage)
 - [Explore the definition of **study framework**](#explore-the-definition-of-study-framework)
   - [Basic idea](#basic-idea)
   - [Integration from great gaming experiences](#integration-from-great-gaming-experiences)
@@ -43,6 +43,7 @@
   - 解决个人大局和细节之间的凌波地狱问题
   - 解决个人大局, 战略, 系统, 未知, 未来, 人性之混乱深渊, 价值传递之混乱深渊, 自然之混乱深渊, 现实分析, 细节分析, 需求分析, 自我分析, 业务分析, 行为规划, 工具使用, 技能发展, 技能追踪, 心理管理, 健康管理(CRITIAL), 好奇心管理(CRITIAL), 研究欲管理(CRITIAL)等诸多因素之间的整体高效可持续平衡发展问题
   - 解决个人分布式超长时段细节管理,分布式表现管理和分布式遗忘管理的连接存储问题: *思考,快与慢*
+    - Use Case: 某些知识可能会帮到2~40年之后的自己, 而在那个TimeStamp需要在1秒之内调出n年前的研究结论或者记忆
 - 当前未实现痛点 --> Individual
   - 能够不改动原有模式同时实现移动端和PC端的交互编辑
   - PDF链接的流畅阅读工
@@ -57,19 +58,19 @@
 - #languagesacquisition
 - #research
 - #IT
+- #howtheworldworksunderthehood 
 ## Top priority(limited to 3)
-- #attestationcontrol  
 - #rigorouscareerrelatedengagement   
   - #socialresearchmethods
+- #devproblemsfacing  
 - #frontenddevtimeacumen
   - Since working at the front-end, periodically collect the requirements, implementation, time, communication information for future mapping system
   - This is pure heuristics, find a way to generalize it
 ## Secondary priority
-#reactinternalization
-#devproblemsfacing  
-#techquestionsthatmattersnow  
-#dailyreview  
-#ideasandinnovations : 仅用于投石问路, 如此项消耗时间精力超过5%, 启动Save and quit
+- #attestationcontrol  
+- #reactinternalization
+- #dailyreview  
+- #ideasandinnovations : 仅用于投石问路, 如此项消耗时间精力超过5%, 启动Save and quit
 ## Third priority
 #sidequest 
 ## Self-transformation
@@ -88,9 +89,18 @@
 #considerdisperse  
 #considermerge  
 #considerrename  
-## Unranked
-#possibleacademiadirection: Data of inner drives for picking the master major
-#activeproject
+## PLAN FOR THE NEXT STAGE
+- Basic time frame: 30 months
+- #possibleacademiadirection: Data of inner drives for picking the master major
+  - Every moment you find a way to solve the existential problem always end up with being pulled back to the world of research, which is self-explanatory as per 2021/11/24
+  - Prerequisites --> Complexity Science
+    - Existential sophistication
+    - Science sophistication
+      - Mathematics: Higher-order Topology/Network Topology --> To mathematics roadmap
+        - This might become your life-time pursuit at the later stage 
+    - IT sophistication
+    - Language sophistication
+- #activeproject
 # Explore the definition of **study framework**
 ## Basic idea
 - Theoretical

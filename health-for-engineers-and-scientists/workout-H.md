@@ -166,3 +166,7 @@ days, dimension, performance
 - Dienstag
   - Back+Leg
   - 10km Bike ride+2km running
+- Wednesday
+  - ？
+- Donnerstag
+  - Leg+Shoulder

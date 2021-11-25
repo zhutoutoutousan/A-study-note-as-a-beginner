@@ -56,6 +56,8 @@
   - [Reboot](#reboot)
   - [The console throws errors when defining a button in `material-ui v1` tab](#the-console-throws-errors-when-defining-a-button-in-material-ui-v1-tab)
   - [`Attempted import error: ...is nort exported`](#attempted-import-error-is-nort-exported)
+- [2021/11/24](#20211124)
+  - [React如何给龟孙子传事件?](#react如何给龟孙子传事件)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
@@ -318,6 +320,11 @@ const ButtonInTabs = (a, b, c) => (
 ## `Attempted import error: ...is nort exported`
 If you use `withStyles` in mui, don't import with parenthesis
 
+
+# 2021/11/24
+## React如何给龟孙子传事件?
+- Context --> 版本限制? --> 16.3+
+- Debug Note: 类组件和函数组件混用的时候爷爷和龟孙子之间通讯会出现问题  --> 函数定义了let箭头函数就有问题勒
 # ARCHIVED
 ## 2021/7/23-
 ### React source code reading

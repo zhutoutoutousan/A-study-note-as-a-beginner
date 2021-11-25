@@ -1,3 +1,9 @@
+# Erudition
+- Mindset
+  - The Big Short - INSIDE THE DOOMSDAY MACHINE
+    - [Link](https://themodern.farm/studies/The_Big_Short__Inside_the_Doom.pdf)
+
+
 # 2021/7/15-
 ## The Right Order
 - How to find out whether you're doing things in the right order? I mean, all nuances considered

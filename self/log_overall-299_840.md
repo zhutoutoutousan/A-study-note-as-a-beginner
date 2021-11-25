@@ -107,14 +107,15 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 2021/11/23: It depends
 
 # 2021/11/23
-## Upcoming challenges
-- Sleep deprivation ends, AWS section should be transformed to 
+## Upcoming challenges --> You are gradually becoming insane!
+- Sleep deprivation ends, AWS section should be transformed to Minimal Valuable Process for AWS SysOps cert
 
-- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出, 现有负荷估计为26000% --> 系统性建立自我疗愈机制, 彻底解决高效自我疗愈的落地问题
+- \[ALARM\]好奇心管理机制和研究欲管理机制长期处于超负荷状态, 影响正常工作输出, 现有负荷估计为26000% --> 系统性建立自我疗愈机制, 彻底解决高效自我疗愈和好奇心/研究欲的缓存阻断的落地问题
   - There is currently no solution available
   - Upgrading Curiosity management and Research management is mandatory, if the exposure goes up exponentially, paralysis will ensue
   - WHY THIS IS SERIOUS
     - A project is time-sensitive, you should evaluate its impact
+    - I can't tolerate you to easily delve deep into some random philosophical niche nitty-gritty while some major projects are at hand
   - Solution
     - **Plan for vacation during which all of the intellectual activities shall stop**
     - **Socialize with people during this timeframe**

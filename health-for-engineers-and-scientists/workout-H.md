@@ -97,8 +97,6 @@ days, dimension, performance
 ```
 ### State storage
 ## Control panel
-- Falling off the wagon about nutrition?
-  - Use `myfitnesspal`
 - *Texas method(Powerlifting during SARM cycle on, Hypertrophy during SARM cycle off)
   - https://www.bilibili.com/read/cv7390570
 - **Hypertrophy**
@@ -108,6 +106,10 @@ days, dimension, performance
 - Sarm cycle
   - Currently off 
 - Recovery and cutting
+  - STATUS
+    - ATHLEAN-X style
+      - Hypertrophy oriented
+      - PAY ATTENTION TO REP QUALITY
   - Time: 2021-10-24~2021-12-15
   - Only hypertrophy and cutting exercise
     - Only bench press is permitted
@@ -170,3 +172,7 @@ days, dimension, performance
   - ？
 - Donnerstag
   - Leg+Shoulder
+- Friday
+  - Arm+Chest
+- Saturday
+  - Off day

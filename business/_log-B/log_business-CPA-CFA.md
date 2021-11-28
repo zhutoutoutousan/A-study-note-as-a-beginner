@@ -3,6 +3,17 @@
 
 Asset Allocation
 
+
+# Corporate Finance
+- Source
+  - [CFI](https://corporatefinanceinstitute.com/)
+
+## Toddler learning to speak
+- Cross holding: 交叉持股
+  - [Cross Holding](https://corporatefinanceinstitute.com/)
+
+
+
 # 2021/8/27
 ## Kickstart with toddler phase
 - Toddler's cramming

@@ -1,3 +1,12 @@
+# Linux Administration
+
+# Windows Administration
+
+# Python & Golang & Shell Proficiency
+## Python
+## Golang
+## Shell
+
 # 2021/4/3
 ## How to setup Ubuntu as devSpace in an elegant manner
 duh work omitted :)
@@ -11,4 +20,4 @@ Just don't try to delete everything~
 - Or you can just tap window button and drag'n'drop  - 2021/8/?
 # 2021/8/1
 ## `code . --user-dir...` doens't work
-- `code . --user-dir... --no-sandbox` solves the problem for Ubuntu, but why?
+- `code . --user-dir... --no-sandbox` solves the problem for Ubuntu, but why? 

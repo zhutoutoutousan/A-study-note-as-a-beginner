@@ -4,6 +4,9 @@
 - Blender is designed for numberpad keyboard + mouse
 
 # 2021/10/26- 
+## Unity 3D course
+- [Learn Unity - Beginner's Game Development Tutorial](https://www.youtube.com/watch?v=gB1F9G0JXOo)
+
 ## Blender course(long-term)
 - [Blender Beginner Tutorial - Blender Guru](https://www.youtube.com/watch?v=TPrnSACiTJ4)
   - Style: Follow along

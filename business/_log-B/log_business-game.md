@@ -37,7 +37,7 @@
 - So you played one game of chess, what should you do next to fit in your overall vision?
 
 ### Phase 1: Play 100 games of Blitz 5+3 for initial positioning
-- Progress: 3/100
+- Progress: 4/100
   - No more than 3 rounds per day
 
 ## LOL

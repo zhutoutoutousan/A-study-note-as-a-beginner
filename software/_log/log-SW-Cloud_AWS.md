@@ -1,0 +1,516 @@
+
+# **2021/11/7 - Reallocate resources**
+## Flashcards
+- Flashcard readiness
+ - Associate 2019: 99.6% 
+ - Exam Pro: 65.5%
+- Video readiness: 100%
+- Question set readiness: 100%
+
+## Cheatsheet
+- KMS
+  - [4-14-12](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
+## Videos
+- Overall watering and sense of architecture
+  - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
+    - EB
+      - EB 
+        - [x] Videosweepmark: 55-02/55-02
+      - EB Follow along 
+        - [ ] Videosweepmark: 1-37-09/2-15-39
+    - [x] ECS
+    - ECS Fargate
+      - ECS Fargate
+        - [x] Videosweepmark: 2-42-45/2-37-23~2-42-45
+      - Follow along
+        - Videosweepmark: 2-42-45/2-42-45~
+    - [x] X-Ray
+      - Cheatsheet
+    - [x] ACM
+    - [x] Route53
+      - Videosweepmark: 3-31-25
+    - [x]  API/SDK/CLI
+    - KMS
+      - [x] Videosweepmark: 4-14-19/4-04-29~4-14-19
+      - KMS - AWS CLI
+        - `aws kms create-key`
+        - `aws kms encrypt`
+        - `aws kms decrypt`
+        - `aws kms re-encrypt`
+        - `aws kms enable-key-rotation`
+      - FIPS 140-2 Level
+        - [wiki](https://en.wikipedia.org/wiki/FIPS_140-2)
+      - RSA
+        - [RSA - Cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+      - HSM(Hardware Security Module)
+    - [x] Cognito
+    - [x] SNS
+    - [x] SQS
+    - [x] Kinesis
+    - [x] Parameter Store
+    - [x] Secrets Manager
+    - DynamoDB
+      - DynamoDB
+        - [x] Videosweep: 6-05-46/5-05-21~6-05-46
+        - Acumen training
+          - Provisioned capacity calculator
+            - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/)
+              - [What is DynamoDB TTL?](https://dynobase.dev/dynamodb-ttl/)
+        - **Calculating reads: 5-25-28**
+        - DynamoDB - LSI vs GSI: 5-44-46
+        - **DynamoDB Cheatsheet: 5-50-00**
+          - Repetition requirements: 5
+            - [ ] Initial
+            - [ ] REP 1
+          - DynamoDB automatically creates partitions for:
+            - Every 10 GB of Data or
+            - When you exceed RCUS of 3000 of WCUs of 1000 limites for a single partition
+            - When DynamoDB sees a pattern of a hot pattern, it will split that partition in an attempt to fix the issue 
+          - CLI
+            - `get-item`, `put-item`, `update-item`
+            - `batch-get-item`: Single OP --> **16MB**, **100 items**
+            - `batch-write-item`: **16MB**, **25 put or delete**, inividual item: **400KB**
+            - `create-table`,`update-table`,`delete-table`
+            - `transact-get-items`: **25obj**, All:  **4MB**
+            - `transact-write-items`: **25**
+            - `query`
+            - `scan`
+      - DynamoDB follow along
+    - [x] EC2
+    - VPC
+      - [x] Videosweep: 7-10-34~7-22-30
+      - Sweeprecord
+        - [x] First sweep
+        - [ ] REP * 3
+      - NACL
+        - [AWS Network Access Control List - What are its Components?](https://www.knowledgehut.com/tutorials/aws/aws-nacl#:~:text=NACL%20refers%20to%20Network%20Access,moves%20around%20in%20the%20subnets.)
+        - [AWS - Public & Private Instances | NACL DEMO | Network ACL rules](https://www.youtube.com/watch?v=9bXm82AjWWg)
+      - DHCP
+    - [x] ASG
+    - VPC Endpoints
+      - [x] Videosweep: 7-36-02/7-32-39~7-36-02
+    - ELB
+      - [x] Videosweep: 7-36-02/7-36-02~7-48-15
+      - Cheatsheet: 7-46-59
+        - Repetition: 3
+        - [ ] Initial
+    - [x] SG
+    - [x] NACLs
+    - [x] VPC Flow Logs
+    - IAM
+      - IAM
+        - [x] Videosweep: 8-52-07/8-35-03~8-52-07
+      - IAM Follow Along
+    - [x] CloudFront
+    - [x] CloudTrail
+    - CloudFormation
+      - [x] Videosweepmark: 10-41-42/9-35-50~10-41-42
+    - [x] CDK
+    - [x] SAM
+    - [x] CI/CD
+    - [x] CodeCommit
+    - Docker
+      - [x] Videosweep: 11-10-15/11-02-21~11-10-15
+      - Hardware Virtualization --> Computer Science(Unlock in the next 3+ levels of software sophistication)
+    - CodeBuild
+    - CodeDeploy
+- Fill in the blanks
+  - [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=14883s)
+    - EBS
+    - S3
+    - SWF
+## Documents
+- [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
+- [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+- [AWS Dynamodb](https://aws.amazon.com/dynamodb/)
+- [AWS EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+- [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html)
+- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/)
+- [AWS Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
+
+
+## Question sets
+ - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
+   - Navigation
+     - Initial Sweepmark: 260/260 --> 100%
+       - Next: Add weight mark to each question for efficient solification
+     - Search mark: QX - Ctrl+F--> Question X
+   - Weight system
+     - 22% Deployment 14.3Q
+     - 26% Security 17Q
+       - Q225 P75
+     - 30% Development with AWS Services 19.5Q
+       - 10% Refactoring 6.5Q
+       - 12% Monitoring and Troubleshooting 7.8Q
+   - Question Overview
+     - Scaling
+       - Auto Scaling
+         - Q64
+         -  Q15
+         -  **Q30** 
+         -  **Q84**
+            -  Docmark
+         -  **Q100**
+            -  Docmark
+         -  **Q133**
+            -  Docmark
+         -  **Q219**
+            -  Docmark
+         -  **Q220**
+            -  Docmark
+         -  Q242
+         -  Q243
+            -  But what about only one AZ?
+     - Tools
+       - AWS CLI & SDK
+         - **Q62**
+         - Q72
+           - [IAM best practice](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+         - Q177
+     - Functional
+       - Lamda
+       - SWF
+         - Q60
+         - Q70
+         - Q123
+     - Integrated application
+        - CF
+         - Q59
+         - Q104
+         - Q169
+         - **Q180**
+         - **Q215**
+         - Q225
+         - Q231
+         - Q245
+         - Q247
+         - Q258
+       - EB(MOVE EBS TO EC2)
+         - **Q71**
+         - **Q110**
+           - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
+             - Furthuer reading
+               - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
+         - Q16
+         - Q31
+         - **Q37**
+           - [Device names on Windows instances](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/device_naming.html)
+           - And linux?
+         - **Q43**
+         - **Q52**
+         - Q66
+         - Q67
+         - **Q74**
+         - **Q76**
+           - Docmark
+         - Q94
+         - Q101
+         - Q109
+         - Q111
+         - Q199
+         - 
+       - CF
+         - Q25
+         - **Q135**
+           - Docmark
+         - Q258
+           - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+     - Database
+       - General
+          -  Q1 P4
+       - DynamoDB
+          -  Q4
+          -  Q19
+             -  DynamoDB has seamless scalability with no table size limits and unlimited storage,
+          -  Q26
+             - Global secondary index -- an index with a hash and range key that can be different from those on the table.
+             - TODO: Store the concepts here
+           - Q35
+             - In DynamoDB, a secondary index is a data structure that contains a subset of attributes from a table, along with an alternate key to support Query operations.
+           - **Q88**
+             - Docmark
+           - **Q89**
+             - Docmark
+           - Q93
+             - Currently, in DynamoDB, an index cannot be modified once it is created.
+           - **Q105**
+           - Q112
+           - Q125
+           - Q136
+           - **Q143**
+           - Q146
+           - **Q152**
+           - Q158
+           - Q161
+           - Q162
+           - Q168
+           - **Q171**
+           - **Q173 ?**
+           - **Q183**
+           - Q190
+           - **Q193**
+           - Q195
+           - **Q197**
+           - Q203
+           - **Q206**
+           - Q222
+           - Q244
+           - Q250
+       - RDS
+         - Q20
+         - Q61
+         - **Q95**
+           - Docmark
+         - Q98
+         - Q102
+         - Q119
+         - Q128
+         - Q130
+         - Q182
+         - Q189
+         - Q208
+         - **Q212**
+         - Q234
+         - Q235
+         - Q248
+         - **Q249**
+     -  Storage
+        - S3
+           -  Q2
+           -  **Q33**
+           -  Q73
+           -  **Q81**
+              -  Docmark
+           -  Q86
+           -  **Q90**
+              -  Docmark
+           -  Q120
+           -  **Q137**
+              -  Docmark
+           -  Q138
+           -  Q157
+           -  Q163
+              -  Why not B
+           -  Q166
+           -  Q172
+           -  Q174
+           -  Q194
+           -  Q210
+           -  Q216
+        -  SimpleDB
+        -  AWS RRS
+           -  Q68
+           -  Q229
+        -  AWS Glacier
+           -  Q121
+              -  Docmark
+     -  Notification
+        -  SES
+           -  Q117
+           -  Q192
+        -  SNS
+           -  Q57
+           -  Q251
+        - SQS
+           -  Q3
+           -  Q5
+           -  Q10
+              - Queue names are limited to 80 characters and queue names must be unique within an AWS account
+            - Q13
+              - The SQS message retention period is configurable and can be set anywhere from 1 minute to 2 weeks. The default is 4 days and once the message retention limit is reached your messages will be automatically deleted.
+            - Q18
+              - A message can be stored in the Simple Queue Service (SQS) from 1 minute up to a maximum of 14 days.
+            - Q23
+              - With Amazon SQS version 2008-01-01, the maximum message size for both SOAP and Query requests is 8KB
+            - Q29
+            - Q34
+              - Can different components read the same queue concurrently?
+                - There's no need
+            - Q39
+              - Amazon SQS stands for Simple Queue Services, and provides a cost-effective way to decouple the components of your application through an asynchronous message queue service
+            - **Q42**
+            - Q48
+              - AWS reserve the right to delete a queue if none of the following requests have been issued against the queue for more than 30 consecutive days
+            - Q54
+            - **Q65**
+              - X.509 Certificate
+            - Q79
+              - If you delete a queue, you need to wait for at least 60 seconds before creating a queue with the same name.
+            - **Q83**
+            - Q124
+            - Q127
+            - Q155
+            - Q164
+            - Q170
+            - Q181
+            - Q188
+            - Q201
+       - SWF
+         - Q14
+         - Q92
+           - Why not use SWF?
+         - Q147
+     -  Authentication
+        -  ACL
+           -  Q56
+              -  The only recommended use case for the S3 bucket ACL is to grant the write permission to the Amazon S3 Log Delivery group to write access log objects to the user's bucket.
+        - IAM
+           -  **Q17**
+              -  The IAM policy is never region specific.
+                 -  What if I want it to be?
+                    -  Is there any use case?
+                    -  If so, how to do it?
+           -  Q27
+           -  **Q32**
+           -  Q40
+              -  [ ] Look at other options
+              -  [ ] Look at docs
+           -  **Q41**
+           -  Q44
+           -  Q47
+           -  Q49
+              -  The statement is the main element of the IAM policy and it is a must for a policy. Elements such as condition, version and ID are not required.
+           -  Q51
+           -  Q53
+           -  Q55
+           -  Q85
+           -  Q91
+              -  Docmark
+           -  Q97
+           -  Q107
+           -  Q118
+           -  Q122
+           -  Q126
+           -  Q131
+           -  Q148
+           -  Q187
+           -  **Q217**
+           -  Q233
+           -  **Q241**
+           -  Q260
+              -  IAM resources are all global; there is no regional constraint
+     -  Networking
+        -  VPC
+           -  **Q9**
+              -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
+           -  **Q24**
+           -  **Q77**
+              -  Docmark
+           -  **Q114**
+           -  Q209
+           -  Q226
+           -  **Q228**
+              -  Docmark
+           -  **Q246**
+        - ELB
+          - **Q38**
+          - Q69
+          - **Q80**
+          - **Q87**
+          - **Q96**
+          - **Q99**
+          - **Q106**
+          - **Q116**
+            - What is a sticky session?
+          - **Q134**
+          - **Q153** E10
+          - Q185
+          - Q186
+          - Q230
+        - Route 58
+          - **Q58**
+          - **Q75**
+     -  Instance
+        - EC2 & EBS
+           -  **Q6**
+              -  [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+                 -  Docmark: Install LAMP on Amazon Linux 2
+           -  Q202
+              - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
+           -  **Q22**
+           -  **Q50**
+           -  Q82
+              -  To help manage EC2 instances as well as their usage in a better way, the user can tag the instances. The tags are metadata assigned by the user which consists of a key and a value. One resource can have a maximum of 10 tags.
+           -  Q103
+           -  Q108
+           -  **Q110**
+           -  Q113
+           -  Q115
+           -  **Q129**
+           -  **Q140**
+           -  **Q141**
+           -  Q145
+           -  **Q151**
+           -  **Q165**
+           -  **Q198**
+           -  Q200
+           -  Q202
+           -  Q204
+           -  **Q211**
+           -  Q218
+           -  **Q232**
+              -  Docmark
+           -  Q236
+           -  Q240
+           -  Q252
+           -  Q256
+           -  Q259
+     - Availability
+       - Q227 
+     - Solution
+       - **Q28**
+       - **Q144**
+       - Q149
+       - Q150
+       - Q154
+       - **Q160**
+       - **Q179???**
+       - Q221
+       - Q224
+         - Docmark
+       - Q237
+       - Q257
+     - Security
+       - Q46
+       - Q159
+       - Q175
+       - Q176
+       - Q178
+       - Q191
+    - Billing
+      - Q184
+        - Docmark
+    - Networking
+       -  **Q11**
+          -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+             - [IP addresses per network interface per instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI)
+          - [IPv4, CIDR, and VPC Subnets Made Simple!](https://www.youtube.com/watch?v=z07HTSzzp3o)
+             - Videomark: 8-30/23-46
+    - SNS
+      - **Q132**
+        - Docmark
+      - Q156
+      - Q167
+      - Q196
+      - **Q238**
+        - Docmark
+      - **Q239**
+        - Docmark
+      - Q251
+        - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+      - Q255
+ - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
+   - Sweepmark: Q1/60
+     - S1
+       - S3
+         - Q1
+ - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing) - Might as well treat it like a test?
+   - Sweepmark: Q1/10
+ - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf) - Might as well treat it like a test?
+   - Sweepmark: Q1/10
+   - ASM
+     - Q1
+
+
+
+结果: 2021/11/23:  通过了, 部分题还是有点举棋不定; 

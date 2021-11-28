@@ -17,6 +17,11 @@
   - [link](https://drive.google.com/file/d/1b7ltYILaHugBmeLFAKgx9_GF5E-OQjWG/view?usp=sharing)
 - Precision Marketing: Maximizing Revenue Through Relevance
   - Bookmark: 
+
+## Copywriting
+### AI Copywriting Tools
+- [AI自动创作 | 教你如何使用AI实现自动写作，全自动生成文案。使用AI大脑开启自媒体视频无脑创作时代](https://www.youtube.com/watch?v=m319a65yfEs)
+- [我付費測試用 AI 寫產品廣告文案，結果是…](https://www.youtube.com/watch?v=NavHbVBZkBs)
 # 2021/6/22
 ## Knowing what PPL is
 - [Pay per Lead – A Practice of the 90’s or the New Age of SEO?](https://cognitiveseo.com/blog/20222/pay-per-lead-seo/)

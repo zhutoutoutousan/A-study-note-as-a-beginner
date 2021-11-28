@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [React overall ability track dashboard](#react-overall-ability-track-dashboard)
+- [TypeScript overall ability track dashboard](#typescript-overall-ability-track-dashboard)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Style](#style)
   - [In-depth reading](#in-depth-reading)
@@ -58,12 +60,23 @@
   - [`Attempted import error: ...is nort exported`](#attempted-import-error-is-nort-exported)
 - [2021/11/24](#20211124)
   - [React如何给龟孙子传事件?](#react如何给龟孙子传事件)
+  - [React组件传递](#react组件传递)
 - [ARCHIVED](#archived)
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
     - [React build error](#react-build-error)
+- [Appendix](#appendix)
+  - [Quick Code Reference](#quick-code-reference)
 
 #dailyreview
+
+- Confirmed permanent structure
+
+# React overall ability track dashboard
+
+
+# TypeScript overall ability track dashboard
+
 
 # Buffer to permanent note
 
@@ -325,6 +338,55 @@ If you use `withStyles` in mui, don't import with parenthesis
 ## React如何给龟孙子传事件?
 - Context --> 版本限制? --> 16.3+
 - Debug Note: 类组件和函数组件混用的时候爷爷和龟孙子之间通讯会出现问题  --> 函数定义了let箭头函数就有问题勒
+
+
+## React组件传递
+- 子 --> 父
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 把这个人找出来干了
+      - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 把这个人找出来干了
+      - 干掉自己: From Zero to Hero
+- 父 --> 子
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 干掉自己: From Zero to Hero
+- 父 --> 孙
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 干掉自己: From Zero to Hero
+- 孙 --> 父
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 干掉自己: From Zero to Hero
+- 兄弟事件
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 干掉自己: From Zero to Hero
+- 任意远事件
+  - 函数组件 --> 函数组件
+  - 类组件 --> 类组件
+  - 函数组件 --> 类组件
+    - 干掉自己: From Zero to Hero
+  - 类组件 --> 函数组件
+    - 干掉自己: From Zero to Hero
+
+
 # ARCHIVED
 ## 2021/7/23-
 ### React source code reading
@@ -357,3 +419,8 @@ Exception in thread "main"
 error Command failed with exit code 1.
 ```
 
+
+
+
+# Appendix
+## Quick Code Reference

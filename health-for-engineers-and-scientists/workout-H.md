@@ -129,10 +129,13 @@ days, dimension, performance
         - Lateral raise
         - Reverse fly
     - Chest
-      - Bench press
-      - Incline bench press
-      - LC press
-      - Fly
+      - Bench press 5SETS 6-8-10-12
+      - Cable cross over 4SETS-15
+      - Incline bench press 5SETS 6-8-10-12
+      - LOW-HIGH CABLE CROSS OVERS 5SETS 6-8-10-12
+      - Weighted Dips 5SETS 6-8-10-12
+      - HIGH-LOW CABLE CROSS OVERS 5SETS 6-8-10-12-14
+      - Equipment Fly 5SETS 6-8-10-12-14
     - Shoulder
       - Sit press
       - Lateral raise
@@ -149,11 +152,17 @@ days, dimension, performance
       - Uni-lateral Leg press
       - Hip hinge
     - Core
-      - Front Lever
-      - Standing Twist
-      - Landmind Thrust
-      - Kneel and bow
-      - Leg raise
+      - No pad
+        - Front Lever
+        - Hanging X-raise
+        - Standing Twist --> Up down
+        - Oak tree step out --> Slow motion
+        - Sledgehammer swing
+        - Hanging Leg spiral
+      - Pad
+        - Kneel and bow
+        - Tornado chop
+        - Scissor V-ups
     - Strength
     - Cutting
       - Cycling
@@ -173,6 +182,9 @@ days, dimension, performance
 - Donnerstag
   - Leg+Shoulder
 - Friday
-  - Arm+Chest
+  - Arm
 - Saturday
   - Off day
+- Sunday
+  - Chest+Core
+  - 2.2km run

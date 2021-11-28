@@ -10,7 +10,7 @@
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field)
     - [Lichess: How to make the most out of a chess play?](#lichess-how-to-make-the-most-out-of-a-chess-play)
     - [Phase 1: Play 100 games of Blitz 5+3 for initial positioning](#phase-1-play-100-games-of-blitz-53-for-initial-positioning)
-  - [LOL](#lol)
+  - [MOBA](#moba)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-1)
   - [Werewolf-like](#werewolf-like)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-2)
@@ -40,7 +40,7 @@
 - Progress: 4/100
   - No more than 3 rounds per day
 
-## LOL
+## MOBA
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ## Werewolf-like
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?

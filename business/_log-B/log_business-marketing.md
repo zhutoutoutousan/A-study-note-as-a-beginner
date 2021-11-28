@@ -14,7 +14,20 @@
 ## Erudition
 - MBA百科解释
 - Inside-Out Marketing: How to Create an Internal Marketing Strategy
+  - #activereading #readingpriority1
   - [link](https://drive.google.com/file/d/1b7ltYILaHugBmeLFAKgx9_GF5E-OQjWG/view?usp=sharing)
+  - Reading Anchor
+    - Chapter 1 Vision, mission, values, positioning and personality
+    - Chapter 2 Corporate strategy
+    - Chapter 3 Processes, service standards and measures
+    - Chapter 4 Knowledge management
+    - Chapter 5 Internal communication
+    - Chapter 6 HR strategy
+    - Chapter 7 Integrating internal, interactive and external marketing
+  - Process 1
+    - Rationale: 攘外必先安内
+    - Style: Osmosis
+    - Bookmark:
 - Precision Marketing: Maximizing Revenue Through Relevance
   - Bookmark: 
 

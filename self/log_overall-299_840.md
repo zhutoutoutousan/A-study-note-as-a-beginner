@@ -129,6 +129,10 @@ Flow state, during flow state, overall status log is bascially impossible if the
       - INTJ & INTP: Not applicable
     - Get a companion
       - Current Insane status: Not applicable by significant margin
+  - Problem solved
+    - Actual solution: Sleep for 12 hours straight for 2 days
+    - Changes
+      - IBS symptom alleviated
 
 ## **Health check**
 - Please get your health check date settled with upmost attention

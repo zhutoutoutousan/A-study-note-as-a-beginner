@@ -74,13 +74,16 @@
 ## Third priority
 #sidequest 
 ## Self-transformation
-#selftransformation  
-#behaviourchange  
-#activereading  
-#distributedmindsetmanagement 
-#activetraining
-#inactivetraining
-#fundamentallifeskill
+- #selftransformation  
+- #behaviourchange  
+- #activereading  
+  - #readingpriority1
+  - #readingpriority2
+  - #readingpriority3
+- #distributedmindsetmanagement 
+- #activetraining
+- #inactivetraining
+- #fundamentallifeskill
 ## Supportive
 #thehealthmatters
 #automation

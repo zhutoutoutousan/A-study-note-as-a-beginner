@@ -170,21 +170,6 @@ days, dimension, performance
 - \[RECOVERY\]: Shoulder
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
-- Sonntag
-  - Arm
-- Montag
-  - Off day due to extreme tiredness
-- Dienstag
-  - Back+Leg
-  - 10km Bike ride+2km running
-- Wednesday
-  - ？
-- Donnerstag
-  - Leg+Shoulder
-- Friday
-  - Arm
-- Saturday
-  - Off day
-- Sunday
-  - Chest+Core
+- Monday
+  - Core+Leg
   - 2.2km run

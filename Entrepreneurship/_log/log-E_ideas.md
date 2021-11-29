@@ -43,6 +43,10 @@ MBA智库百科，基于时间线的新闻展示可以放到世界地图展示, 
 
 ## Input: I want this certain dopamine pathway --> Output: The best restaurant for you
 #ideasandinnovations#maximizedopaminepathway
+- \[Random Idea\]: 多巴胺刺激性质
+  - 刺激程度gauge
+    - YouTube--> Statistics
+  - Can't unring the bell
 ### Communication collection
 ```
 PFocmErCpGlEmeC09RwR5w==:

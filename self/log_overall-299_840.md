@@ -137,3 +137,20 @@ Flow state, during flow state, overall status log is bascially impossible if the
 ## **Health check**
 - Please get your health check date settled with upmost attention
 - Log to `sicklog` for furthur integration
+
+# 新增课题: 家庭管理
+- 心态调整: 心理账户中的管理体系 --> 新增家庭管理内容
+## 家庭心理管理
+- Dysfunctional分支
+  - Dysfunctional & Blindly destructive成员沟通之攻防博弈关系处理
+    - 全体Dysfunctional分支
+      - 自动化转型探索 --> Life is too short to deal with trivial matters
+  - Basic motivation
+    - THE VOICE OF THE PEOPLE: If you master this art, you will know how to nudge more people outside the ivory tower to get things done
+- Functional分支
+  - For descendents if old man does it well --- you only have one life man
+## 家庭活动管理
+## 家庭事务管理
+
+## 高级家庭管理topic
+### 家庭 + 个人 + 生涯 + 追求 + 江湖 五连击环境下的综合解决方案: Maintaining work-family balance in face of FAMILY+INDIVIDUAL+CAREER+VALUE+THE GAME

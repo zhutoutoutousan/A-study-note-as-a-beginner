@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Main Language Certification Entries](#main-language-certification-entries)
 - [\[Software Project\]: Policy update notifier - In the loop during the sloppiest moment](#software-project-policy-update-notifier---in-the-loop-during-the-sloppiest-moment)
   - [Target website](#target-website)
   - [Reference](#reference)
@@ -44,6 +45,15 @@
 
 
 - That's why the system will help you, the world gives you shit by leting stupid shit happen to you, then you have the choice to **SAVE AND QUIT**
+
+
+# Main Language Certification Entries
+- One-for-all Platforms 
+  - Use cases
+    - Consulting firms - Basic Enablement Wherewithal
+  - LTI
+    - [LTI](https://www.languagetesting.com/)
+
 
 # \[Software Project\]: Policy update notifier - In the loop during the sloppiest moment
 #activeproject

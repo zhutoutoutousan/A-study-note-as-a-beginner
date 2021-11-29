@@ -27,7 +27,7 @@
   - Process 1
     - Rationale: 攘外必先安内
     - Style: Osmosis
-    - Bookmark:
+    - Bookmark: 12/268
 - Precision Marketing: Maximizing Revenue Through Relevance
   - Bookmark: 
 

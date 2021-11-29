@@ -1,5 +1,13 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Study Methods](#study-methods)
+  - [Flashcards](#flashcards)
+  - [Cheatsheet](#cheatsheet)
+  - [Videos](#videos)
+  - [Documents](#documents)
+  - [Training by Questions](#training-by-questions)
 
-# **2021/11/7 - Reallocate resources**
+# Study Methods
 ## Flashcards
 - Flashcard readiness
  - Associate 2019: 99.6% 
@@ -119,6 +127,7 @@
     - EBS
     - S3
     - SWF
+  - [AWS Interview Questions and Answers | Top AWS Interview Questions for Solutions Architect | Edureka](https://www.youtube.com/watch?v=d9siPwxzEVI)
 ## Documents
 - [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
 - [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
@@ -129,7 +138,7 @@
 - [AWS Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
 
 
-## Question sets
+## Training by Questions
  - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
    - Navigation
      - Initial Sweepmark: 260/260 --> 100%
@@ -510,7 +519,3 @@
    - Sweepmark: Q1/10
    - ASM
      - Q1
-
-
-
-结果: 2021/11/23:  通过了, 部分题还是有点举棋不定; 

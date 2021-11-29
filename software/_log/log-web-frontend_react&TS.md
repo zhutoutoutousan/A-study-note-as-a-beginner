@@ -65,6 +65,9 @@
   - [2021/7/23-](#2021723-)
     - [React source code reading](#react-source-code-reading)
     - [React build error](#react-build-error)
+- [2021/11/29](#20211129)
+  - [Wrestle with table components](#wrestle-with-table-components)
+  - [Event Pooling](#event-pooling)
 - [Appendix](#appendix)
   - [Quick Code Reference](#quick-code-reference)
 
@@ -419,8 +422,13 @@ Exception in thread "main"
 error Command failed with exit code 1.
 ```
 
-
-
+# 2021/11/29
+## Wrestle with table components
+- Internalization prerequisite
+  - Low-level basics
+    - HTML Table
+## Event Pooling
+- Why did 
 
 # Appendix
 ## Quick Code Reference

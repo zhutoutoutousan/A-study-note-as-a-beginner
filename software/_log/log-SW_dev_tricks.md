@@ -1,5 +1,4 @@
-# 2021/3/21
-## I am lazy, so I want to connect to my laptop using ssh :) It's sort of cool anyway~！
+# I am lazy, so I want to connect to my laptop using ssh :) It's sort of cool anyway~！
 
 1. Connection refused...
    - Pinging the local address shows `timeout  `

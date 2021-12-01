@@ -171,5 +171,13 @@ days, dimension, performance
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
 - Monday
-  - Core+Leg
-  - 2.2km run
+  - Core
+- Tuesday
+  - Leg
+  - 2.2km run 
+- Wednesday
+  - 10km Bike ride
+- Thursday
+  - Back+Arm
+- Friday
+  - Shoulder+Chest

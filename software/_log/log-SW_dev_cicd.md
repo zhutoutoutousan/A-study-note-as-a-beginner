@@ -4,7 +4,12 @@
   - [2021/3/21](#2021321)
   - [2021/3/23](#2021323)
   - [- https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse](#--httpsstackoverflowcomquestions8553957how-to-release-localhost-from-error-listen-eaddrinuse)
-- [testem](#testem)
+- [2021/11/30-](#20211130-)
+  - [Gitlab & Github Learning](#gitlab--github-learning)
+- [2021/12/1](#2021121)
+  - [SSH error: `debug1: read_passphrase: can't open /dev/tty: No such file or directory`](#ssh-error-debug1-read_passphrase-cant-open-devtty-no-such-file-or-directory)
+
+
 # marzipano Circle CI setup error
 ## 2021/3/21
 ```
@@ -52,5 +57,19 @@ Now browsing through those shit
 - https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse
 ---
 
+# 2021/11/30-
+## Gitlab & Github Learning
+- Side track for consulting
+  - GitLab Technical Certifications
+    - [link](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
+- GitLab Learn
+  - [link](https://about.gitlab.com/learn/)
+  - STATE: Only triggered by your current project need
 
-# testem
+
+# 2021/12/1
+## SSH error: `debug1: read_passphrase: can't open /dev/tty: No such file or directory`
+- [RTFM](https://docs.gitlab.com/ee/ssh/)
+- Attempt
+  - `ssh-agent`
+    - unable to start ssh-agent service, error :1058

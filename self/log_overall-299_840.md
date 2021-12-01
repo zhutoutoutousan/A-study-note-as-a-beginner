@@ -76,6 +76,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
         - 工作量估算
         - 软件成本估算
         - 开发周期估算
+          - FP估算
         - 缺陷估算
         - 风险估算
         - 资源估算
@@ -95,7 +96,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
               - [估算的敏捷方法：策划扑克法](https://blog.csdn.net/bamboolsu/article/details/43939473)
 
 
-# *灵视越高, 怪物越强* --> *灵视越高, 可见怪物强的地方越多, 可见怪物越多, 双刃剑*
+# *灵视越高, 怪物越强* --> *灵视越高, 可见怪物强的地方越多, 可见怪物越多, 双刃剑* --> Even harder: You want to ACTUALLY SOLVE THE PROBLEM
 - \[Cursed\]: *You can't unring the bell, not to yourself*
 
 # How to get up and show up in some must-attend-onsite activities when you're getting back to the nocturnal state
@@ -144,13 +145,39 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - Dysfunctional分支
   - Dysfunctional & Blindly destructive成员沟通之攻防博弈关系处理
     - 全体Dysfunctional分支
-      - 自动化转型探索 --> Life is too short to deal with trivial matters
+      - 自动化转型探索 --> Life is too short to deal with trivial matters, too bad that the god tossed you to this side
   - Basic motivation
-    - THE VOICE OF THE PEOPLE: If you master this art, you will know how to nudge more people outside the ivory tower to get things done
+    - THE VOICE OF THE PEOPLE: If you master this art, you will know how to nudge more people outside the ivory tower to get things done *If that's a consolation*
 - Functional分支
   - For descendents if old man does it well --- you only have one life man
+- Elite分支
 ## 家庭活动管理
 ## 家庭事务管理
 
 ## 高级家庭管理topic
 ### 家庭 + 个人 + 生涯 + 追求 + 江湖 五连击环境下的综合解决方案: Maintaining work-family balance in face of FAMILY+INDIVIDUAL+CAREER+VALUE+THE GAME
+- 抛开综合环境讨论家庭管理/Work-life relationship都是耍流氓
+- Life in itself is hard, the only difference is different people have different exposure level
+- May this be of help to those in the `Frostpunk` state in the future --> TODO: Move to business section
+
+
+# Random thoughts
+- 何为聪明 --> Intelligence, my recognition
+  - WTF is that?
+  - 瞬时感知"聪明"
+    - 生物层
+      - 大脑
+        - --> Psychology section ---> Intelligence
+      - 基因
+    - 心理层
+    - 基础设施层
+      - 认知
+      - 记忆
+      - 经历
+    - 网络传播层
+      - 在某一时间戳$T$中, 以单个结点为认知基点B,其衍生传播结点集$A_B$每个结点子网络以指数衰退积分构成的网络 $A_{B_{\int \infty}}$ 中, 其每个结点及子节点的基础设施层中, "聪明"所对应的行为集$K_I$和目标识别人的行为集$K_T$的匹配度
+        - BRAIN, COME ON! SHUT UP!
+        - --> Unlock after you gained more knowledge of **Set Theory**, **Network Theory** etc..
+    - 商业逻辑层
+    - 全球影响层
+    - 时空迭代域瞬时值

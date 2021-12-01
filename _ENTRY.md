@@ -4,6 +4,7 @@
 - [Value --> As one person](#value----as-one-person)
 - [Hashtags](#hashtags)
   - [Naturally drawn to](#naturally-drawn-to)
+  - [Temporary Event-Based Time-Sensitive information flow cache](#temporary-event-based-time-sensitive-information-flow-cache)
   - [Top priority(limited to 3)](#top-prioritylimited-to-3)
   - [Secondary priority](#secondary-priority)
   - [Third priority](#third-priority)
@@ -59,12 +60,27 @@
 - #research
 - #IT
 - #howtheworldworksunderthehood 
+
+## Temporary Event-Based Time-Sensitive information flow cache
+- [AWS re:Invent 2021 - Keynote with Adam Selipsky](https://www.youtube.com/watch?v=WGA2P_oH5Xc)
+  - Videomark: 1-20-48
+
+
 ## Top priority(limited to 3)
 - #rigorouscareerrelatedengagement   
-  - #socialresearchmethods
+  - Dev
+    - FP method
+    - GitLab & Github & CI\CD
+    - Java Spring Boot
+    - Vue 3
+    - Uniapp
+  - B_Ops
+    - HCD study -->  internalization --> Comprehension & Application **Agile** pipeline
 - #devproblemsfacing  
 - #frontenddevtimeacumen
   - Since working at the front-end, periodically collect the requirements, implementation, time, communication information for future mapping system
+    - 2021/11/30
+      - I've got a way to get the first-hand data, use Google Sheet to log the generic dev-task log
   - This is pure heuristics, find a way to generalize it
 ## Secondary priority
 - #attestationcontrol  

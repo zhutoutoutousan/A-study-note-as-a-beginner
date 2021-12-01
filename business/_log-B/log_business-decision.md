@@ -52,3 +52,6 @@
     - 请尝试从各种心理, 社会, 哲学等角度攻击这一个Composure Measure以激发其变体
       - Jordan B. Peterson: 一个论点, 被进攻数百次之后仍然不破, 方可为成立
 - 前一件事后的马后炮就是下一件事的前车之鉴, 比没有马后炮要好
+  - 这个认知在你的赛道上玩家的渗透率很高, 不值钱, 下面请给出:
+    - 你下了一盘国际象棋, 请仔细阐述如何进行复盘, 并讲述该复盘有什么价值, 有价值的复盘应该有哪些准则
+      - 2021/12/1: This is too damn hard to answer, wait until you in the future to tackle

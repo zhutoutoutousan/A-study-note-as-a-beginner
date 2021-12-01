@@ -45,3 +45,7 @@ https://arxiv.org/pdf/1909.11942.pdf
 
 - Paper reading
   - [Polyglot Neural Language Models: A Case Study in Cross-Lingual Phonetic Representation Learning](https://arxiv.org/pdf/1605.03832.pdf)
+
+# 2021/11/30
+## NLP Long-term development Step-by-step
+- [Natural Language Processing with spaCy & Python - Course for Beginners](https://www.youtube.com/watch?v=dIUTsFT2MeQ)

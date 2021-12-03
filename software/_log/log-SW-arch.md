@@ -1,8 +1,19 @@
 # Buffer to permanent note
 #considerrestructure
 
+
+## Different levels of software engineering branches
+- [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
+
+
 ## Erudition
-- Static resource
+- Basics
+  - [OMG UML](https://www.omg.org/spec/UML/2.2/Superstructure/PDF)
+    - [x] Process 1
+      - Style: Skim
+    - Process 2
+      - Style: Osmosis
+- Methodologies
   - 架构师的自我修炼 技术，架构和未来
     - Process 1
 - Dynamic Resource

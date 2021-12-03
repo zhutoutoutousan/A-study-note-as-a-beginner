@@ -174,10 +174,11 @@ days, dimension, performance
   - Core
 - Tuesday
   - Leg
-  - 2.2km run 
 - Wednesday
-  - 10km Bike ride
 - Thursday
-  - Back+Arm
+  - Back
 - Friday
-  - Shoulder+Chest
+  - 2.2km run 
+  - 10km Bike ride
+- Saturday
+  - Shoulder+Chest+Arm

@@ -58,6 +58,9 @@
   - [REMINDER on Colonoscopy, Hidradenitis suppurativa surgery arrangement, and Otitis media](#reminder-on-colonoscopy-hidradenitis-suppurativa-surgery-arrangement-and-otitis-media)
 - [2021/11/12](#20211112)
   - [Pinched a nerve](#pinched-a-nerve)
+- [2021/12/3](#2021123)
+  - [Neurosis: Cardiac neurosis/Da Costa's syndrome && Gastrointestinal dysfunction](#neurosis-cardiac-neurosisda-costas-syndrome--gastrointestinal-dysfunction)
+  - [Your personality may be too introvert, consider changing?](#your-personality-may-be-too-introvert-consider-changing)
 
 #thehealthmatters
 
@@ -394,3 +397,10 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 ## Pinched a nerve
 - Apply painkiller
 - Nerve pinch is kind of serious, and could knock one out for days, immediate measure should be taken as normal painkiller doesn't work
+
+# 2021/12/3
+## Neurosis: Cardiac neurosis/Da Costa's syndrome && Gastrointestinal dysfunction
+- Is there any way to deflect this while keeping a more insane schedule: Like, why should human, I mean YOU, sleep? 
+
+## Your personality may be too introvert, consider changing?
+- Well, it's a bit complicated problem to tackle

@@ -32,4 +32,30 @@
 - Report back to this sector with re-organized and efficient structure of its management
 
 
-# Random thoughts
+## Random thoughts
+
+
+# 2021/12/3
+## 未来预测可行的性格成长通道
+- INTJ/INTP ---> ENTJ
+  - [x] Workaholic
+    - Yep, on a job or not
+  - Require insanely formidable ability and the correspondant environment
+  - Required work only takes about 20% of mental capacity
+
+## The immediate salvage operation on negative feedback
+- There's a pro inside your reaction mechanism based on your own personality:
+  - You actually gain power and motivation on perceiving negative feedback, both implicit and explicit
+  - During this excited state, you actually get more done than before
+
+## On your off-the-charts curiosity and research desire
+- Ok, I give it up, just let it ramp up, you don't have the desire of *having a life* after all
+
+# 腐败/阴谋的起源: The origin of corruption/plot
+- My opinion
+  - 构成主要因素
+    - 恐惧
+      - 社会羞辱
+      - 死亡
+    - 足够大的风险
+  - 反推技巧

@@ -9,12 +9,13 @@
   - [Chess](#chess)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field)
     - [Lichess: How to make the most out of a chess play?](#lichess-how-to-make-the-most-out-of-a-chess-play)
-    - [Phase 1: Play 100 games of Blitz 5+3 for initial positioning](#phase-1-play-100-games-of-blitz-53-for-initial-positioning)
+    - [Phase 1: Play it out](#phase-1-play-it-out)
   - [MOBA](#moba)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-1)
   - [Werewolf-like](#werewolf-like)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-2)
     - [Approach](#approach)
+  - [Development dynamics](#development-dynamics)
 
 # Kickstart
 - INTJ-A/INTP-A: I want get the most out of every strategic game round I played
@@ -35,14 +36,21 @@
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ### Lichess: How to make the most out of a chess play?
 - So you played one game of chess, what should you do next to fit in your overall vision?
+  - [How To Analyze Your Chess Games](https://www.youtube.com/watch?v=ylpAHvPlafc&t=678s)
+    - **Use engine and re-trace**
+      - During which you memorize those positions
 
-### Phase 1: Play 100 games of Blitz 5+3 for initial positioning
-- Progress: 4/100
-  - No more than 3 rounds per day
-
+### Phase 1: Play it out
+- Blitz positioning
+  - Progress: 5/100
+    - No more than 3 rounds per day
+- Analysis
+  - 1/100
 ## MOBA
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ## Werewolf-like
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ### Approach
 - For this game, it's better to first internalize more of those 
+
+## Development dynamics

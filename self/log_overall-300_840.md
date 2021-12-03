@@ -30,3 +30,6 @@
 
 ## EMERGENCY: Sort out all the workspaces regarding PS, BS_eng, and BS_int
 - Report back to this sector with re-organized and efficient structure of its management
+
+
+# Random thoughts

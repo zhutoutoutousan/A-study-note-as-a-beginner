@@ -10,3 +10,11 @@
     - [The psychology of narcissism - W. Keith Campbell](https://www.youtube.com/watch?v=arJLy3hX1E8)
 
 ## Gatsby Effect, be aware as you progress and commit yourself
+
+# 2021/12/2
+- 沟通心理学
+  - 每个人通过脑内接受一维声音及同步二维视频方式进行沟通时, 可以将每个人的心理结构之接触面想象成齿轮
+    - 其齿轮的不同点
+      - 社会经济状态
+        - 关注点
+        - ...

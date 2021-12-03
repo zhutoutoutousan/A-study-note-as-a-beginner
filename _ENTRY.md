@@ -3,6 +3,7 @@
 - [Links](#links)
 - [Value --> As one person](#value----as-one-person)
 - [Hashtags](#hashtags)
+  - [Interface with other systems](#interface-with-other-systems)
   - [Naturally drawn to](#naturally-drawn-to)
   - [Temporary Event-Based Time-Sensitive information flow cache](#temporary-event-based-time-sensitive-information-flow-cache)
   - [Top priority(limited to 3)](#top-prioritylimited-to-3)
@@ -51,6 +52,8 @@
 # Hashtags
 - Used for storing connections for directly manipulating daily actions and cognitive states
 
+## Interface with other systems
+#OUTBOUND
 ## Naturally drawn to
 - #3dwebdevelopment
 - #gamelocalization
@@ -81,6 +84,7 @@
   - Since working at the front-end, periodically collect the requirements, implementation, time, communication information for future mapping system
     - 2021/11/30
       - I've got a way to get the first-hand data, use Google Sheet to log the generic dev-task log
+        - 其实UI可以参照各大Framework, 这个是设计和程序实现之间的一个interface, 从interface入手进行数据分类
   - This is pure heuristics, find a way to generalize it
 ## Secondary priority
 - #attestationcontrol  
@@ -90,7 +94,7 @@
 ## Third priority
 #sidequest 
 ## Self-transformation
-- #selftransformation  
+- #selftransformation
 - #behaviourchange  
 - #activereading  
   - #readingpriority1

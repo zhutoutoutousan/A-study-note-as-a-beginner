@@ -1,6 +1,8 @@
 # What's this for? --- Ig Nobel Prize
 - [Ig Nobel Prize](https://www.improbable.com/2021-ceremony/winners/)
 
+
+
 # Mathematical approach to describe softness and adorability
 ## Brainstorming
 - 杨氏模量: $E=\frac{\sigma}{\epsilon}$

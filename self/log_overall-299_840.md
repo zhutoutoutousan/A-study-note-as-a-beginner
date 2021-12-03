@@ -165,19 +165,21 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 何为聪明 --> Intelligence, my recognition
   - WTF is that?
   - 瞬时感知"聪明"
-    - 生物层
-      - 大脑
-        - --> Psychology section ---> Intelligence
-      - 基因
-    - 心理层
-    - 基础设施层
-      - 认知
-      - 记忆
-      - 经历
-    - 网络传播层
-      - 在某一时间戳$T$中, 以单个结点为认知基点B,其衍生传播结点集$A_B$每个结点子网络以指数衰退积分构成的网络 $A_{B_{\int \infty}}$ 中, 其每个结点及子节点的基础设施层中, "聪明"所对应的行为集$K_I$和目标识别人的行为集$K_T$的匹配度
-        - BRAIN, COME ON! SHUT UP!
-        - --> Unlock after you gained more knowledge of **Set Theory**, **Network Theory** etc..
-    - 商业逻辑层
-    - 全球影响层
-    - 时空迭代域瞬时值
+    - 某一生物的表象感知层
+      - 生物层
+        - 大脑
+          - --> Psychology section ---> Intelligence
+        - 基因
+      - 心理层
+      - 基础设施层
+        - 认知
+        - 记忆
+        - 经历
+      - 网络传播层
+        - 在某一时间戳$T$中, 以单个结点为认知基点B,其衍生传播结点集$A_B$每个结点子网络以指数衰退积分构成的网络 $A_{B_{\int \infty}}$ 中, 其每个结点及子节点的基础设施层中, "聪明"所对应的行为集$K_I$和目标识别人的行为集$K_T$的匹配度
+          - BRAIN, COME ON! SHUT UP!
+          - Can you build a software app to simulate this process?
+            - --> Unlock after you gained more knowledge of **Set Theory**, **Network Theory** etc..
+      - 商业逻辑层
+      - 全球影响层
+      - 时空迭代域瞬时值

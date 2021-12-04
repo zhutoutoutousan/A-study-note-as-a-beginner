@@ -2,6 +2,12 @@
 
 # Design Acumen
 
+# System Admin Operation
+- [Linux Command Cheatsheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
+- Windows Powershell
+  - [Windows PowerShell Cheatsheet.](https://www.theochem.ru.nl/~pwormer/teachmat/PS_cheat_sheet.html)
+  - [PowerShell Basic Cheat Sheet](http://ramblingcookiemonster.github.io/images/Cheat-Sheets/powershell-basic-cheat-sheet2.pdf)
+  - [Windows PowerShell Commands Cheat Sheet](https://www.comparitech.com/net-admin/powershell-cheat-sheet/)
 # Network Acumen
 - 300 页图解网络.pdf
 
@@ -12,7 +18,7 @@
 - Chrome DevTool
   - Chrome DevTools中文手册
   - Chrome Canary
-
+- [Bash Cheatsheet](https://devhints.io/bash)
 # Simulation source pool
 - [LZONE - Rich cheatsheet ground](https://lzone.de/)
 

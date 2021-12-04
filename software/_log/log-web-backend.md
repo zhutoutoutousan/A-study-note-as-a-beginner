@@ -42,7 +42,7 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 ## Java Reboot
 - Java
   - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-    - 4:48/1:49:28
+    - 8-18/1:49:28
     - RIGID THRESHOLD: start.spring.io --> Create Maven Project
   - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
     - 0:05/4:13:03

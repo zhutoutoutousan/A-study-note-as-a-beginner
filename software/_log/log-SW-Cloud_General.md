@@ -8,7 +8,17 @@
 ## Python
 ## Golang
 ## Shell
-
+- Commands to master
+  - awk
+  - sed
+  - grep
+  - tr
+  - diff
+  - cmp
+  - comm
+  - cron
+- HackerRank Prepare Section
+  - PracticeMark: Arithmetic Operations
 # 2021/4/3
 ## How to setup Ubuntu as devSpace in an elegant manner
 duh work omitted :)

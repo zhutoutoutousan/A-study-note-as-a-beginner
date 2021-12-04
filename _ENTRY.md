@@ -67,7 +67,9 @@
 ## Temporary Event-Based Time-Sensitive information flow cache
 - [AWS re:Invent 2021 - Keynote with Adam Selipsky](https://www.youtube.com/watch?v=WGA2P_oH5Xc)
   - Videomark: 1-20-48
-
+- [AWS re:Invent 2021 - Keynote with Dr. Werner Vogels](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
+  - Videomark: 51-40
+  - Gall's law
 
 ## Top priority(limited to 3)
 - #rigorouscareerrelatedengagement   
@@ -231,15 +233,12 @@
   - Ctrl+R --> \[this repo name\] --> open this project
   - Ctrl+Shift+E --> toggle file system sidebar
   - Ctrl+P \[file name cues\] --> Quickly open a file deeply rooted anywhere
-
-
 - Tab manipulation
   - Toggle split tab: Ctrl+|(shift+\\)
   - ```markdown all in one```--> preview: Ctrl+Shift+V
   - Move tabs in vscode around
     - Select a sub tab: Ctrl+1/2/3/4... 
     - Move a sub tab to the right: Ctrl+Alt+Right/Left
-
 - OS navigation
   - Switch between different virtual desktop
     - W10: Ctrl+win+left/right
@@ -247,8 +246,6 @@
     - Win+tab --> move things around
   - Duplicate workplace to study in another virtual desktop
     - Ctrl+Shift+P >dupli...(autocomplete) 
-
-
 - Note navigation
   - Move to the start/end of the file
     - Ctrl+HOME

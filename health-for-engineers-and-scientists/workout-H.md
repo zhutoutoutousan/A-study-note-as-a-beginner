@@ -178,7 +178,8 @@ days, dimension, performance
 - Thursday
   - Back
 - Friday
-  - 2.2km run 
-  - 10km Bike ride
+  - Off
 - Saturday
   - Shoulder+Chest+Arm
+  - 2.2km run 
+  - 10km Bike ride

@@ -17,11 +17,12 @@
       - [Channels](#channels)
       - [Human development level](#human-development-level)
       - [Capital](#capital)
+      - [Education](#education)
       - [Daily matters](#daily-matters)
       - [Medical](#medical)
       - [Business](#business)
       - [IT](#it)
-      - [Education](#education)
+      - [Education](#education-1)
       - [Transportation](#transportation)
       - [Business](#business-1)
       - [Advisory](#advisory)
@@ -164,6 +165,10 @@ Ok, makes sense 2021-7-8
   - INSERTED: Windows/Mac关机时自动记录打开的窗口, 重启时自动打开
 #### Capital
 - 2020年VC／PE机构薪酬与运营机制调查研究报告
+
+#### Education
+- “双减”背景下，2021年中国教育培训研究报告-前瞻产业研究院-202108
+  - [link](https://drive.google.com/file/d/1F0xtdLcG81DW1oVYI9pl6JTvII6qV_Gs/view?usp=sharing)
 #### Daily matters
 - 吃
   - 供应链

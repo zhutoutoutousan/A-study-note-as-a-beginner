@@ -57,3 +57,7 @@
 - 资本消耗补偿: capital consumption allowance
 - 资金占用成本
 - 资产评估事务所
+- 走账: account transfer
+  - [走账是什么](http://www.zhongjuqifu.com/m/view.php?aid=1195)
+  - [不懂这些就帮朋友公司走账，后果可想过?](https://www.163.com/dy/article/DO7J157A05380UH4.html)
+  - [90%的股东不知道——公司用个人账户走账的法律风险！](http://www.mengjicpa.com/productshow.asp?id=455)

@@ -129,15 +129,10 @@
 - Introduction to Graph Theory - R.J.Wilson
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
   - Process 1(Slow-paced)
-    - Goal
-      - Have a better understanding of graph algorithms
-    - Prerequisites
-      - A basic knowledge of elementary set theory and matrix theory
-      - Further knowledge of abstract algebra is needed for more difficult exercises
-    - Symbols
-      - ```//```: The end of a proof
-      - $|S|$: The number of elements in a set $S$
-    - Progress: 13/180
+    - Goal: Lay the foundation for network theory
+    - Style
+      - Rigorous
+    - Progress: 11/180
 - Graph theory with applications - J.A. Bondy et al.
   - [link1](https://www.zib.de/groetschel/teaching/WS1314/BondyMurtyGTWA.pdf)
 # Math puzzles and problems

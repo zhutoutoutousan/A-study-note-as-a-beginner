@@ -38,11 +38,17 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 - 参数校验
 - 硬删除/软删除
 
-# 2021/11/23
+# 2021/11/23-
 ## Java Reboot
+### Main
 - Java
+  - [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
   - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-    - 8-18/1:49:28
+    - 18:45/1:49:28
     - RIGID THRESHOLD: start.spring.io --> Create Maven Project
   - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
     - 0:05/4:13:03
+### Sub
+
+# 2021/12/6
+## `Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`

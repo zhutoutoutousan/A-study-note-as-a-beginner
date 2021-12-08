@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Erudition](#erudition)
 - [Brewing place for charactors](#brewing-place-for-charactors)
   - [Димитри Раскаров](#димитри-раскаров)
 - [Brewing place for different worlds](#brewing-place-for-different-worlds)
@@ -30,7 +31,9 @@
   - [Tools](#tools)
 - [多人协作的文字宇宙社群](#多人协作的文字宇宙社群)
 
-
+# Erudition
+- 诡秘之主
+  - 2021/12/8: You may have vivid imagination, but now you're focusing on `software` section and project
 
 
 # Brewing place for charactors
@@ -39,6 +42,7 @@
 # Brewing place for different worlds
 ## Marshmellow biohazard
 - Those infected by the virus will turn to a marshmellow
+
 
 
 # Main active resource

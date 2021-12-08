@@ -2,6 +2,12 @@
 - [Table of Contents](#table-of-contents)
 - [Problem Solving Sources](#problem-solving-sources)
 - [Logistics](#logistics)
+- [Leetcode training](#leetcode-training)
+  - [List](#list)
+  - [Tree](#tree)
+  - [Graph](#graph)
+  - [Micellaneous](#micellaneous)
+- [TopCoder training](#topcoder-training)
 - [2021/3/29](#2021329)
   - [Codewar --> Make a fxxking CPU](#codewar----make-a-fxxking-cpu)
 - [2021/6/10](#2021610)
@@ -30,6 +36,18 @@
 - Debugging of Node.js using vscode
   - [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
     - Docmark
+
+# Leetcode training
+- So you use Codewars for non-standardized training, then leetcode will be all about muscle memory, if you get adept at those process, proceed to ACM and TopCoder
+## List
+## Tree
+## Graph
+## Micellaneous
+- 1116. Print Zero Even Odd
+  - c++
+    - [ ] Assisted
+# TopCoder training
+- Unlocked after getting enough proficiency of leetcode and enough foundational knowledge
 
 # 2021/3/29
 ## Codewar --> Make a fxxking CPU

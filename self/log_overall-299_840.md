@@ -159,7 +159,7 @@ Flow state, during flow state, overall status log is bascially impossible if the
 - 抛开综合环境讨论家庭管理/Work-life relationship都是耍流氓
 - Life in itself is hard, the only difference is different people have different exposure level
 - May this be of help to those in the `Frostpunk` state in the future --> TODO: Move to business section
-
+- 自动化家庭管理系统: 不快乐的家庭体验, 快进>>>
 
 # Random thoughts
 - 何为聪明 --> Intelligence, my recognition

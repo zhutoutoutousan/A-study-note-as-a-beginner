@@ -52,3 +52,5 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 
 # 2021/12/6
 ## `Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`
+
+## `Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Unexpected end of stream.`

@@ -59,3 +59,10 @@
       - 死亡
     - 足够大的风险
   - 反推技巧
+
+# Some thoughts
+(Mass Effect 3 EC OST - We Fought As A United Galaxy [Extended Version])
+My life over the last 300 Months is nothing but a process of learning and fighting, I'm cursed and I will never grow up, but it opens another door. When I had a peek, I was immediately fascinated
+
+- 重发现 - 特征: 工作狂
+  - 没有上下班, 双休日的概念

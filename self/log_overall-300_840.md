@@ -66,3 +66,5 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 
 - 重发现 - 特征: 工作狂
   - 没有上下班, 双休日的概念
+
+- 论精细化心理状态控制

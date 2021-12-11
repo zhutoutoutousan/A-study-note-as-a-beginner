@@ -109,14 +109,14 @@
 ## Supportive
 #thehealthmatters
 #automation
-#maximizedopaminepathway 
 ## Structural re-shape
 #considerdisperse  
 #considermerge  
 #considerrename  
 ## PLAN FOR THE NEXT STAGE
 - Basic time frame: 30 months
-- #possibleacademiadirection: Data of inner drives for picking the master major
+
+#possibleacademiadirection: Data of inner drives for picking the master major
   - Every moment you find a way to solve the existential problem always end up with being pulled back to the world of research, which is self-explanatory as per 2021/11/24
   - Prerequisites --> Complexity Science
     - Existential sophistication

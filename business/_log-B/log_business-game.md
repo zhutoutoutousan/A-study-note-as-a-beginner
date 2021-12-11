@@ -42,8 +42,9 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 5/100
+  - Progress: 7/100
     - No more than 3 rounds per day
+      - Container: 2/3
 - Analysis
   - 1/100
 ## MOBA
@@ -54,3 +55,4 @@
 - For this game, it's better to first internalize more of those 
 
 ## Development dynamics
+

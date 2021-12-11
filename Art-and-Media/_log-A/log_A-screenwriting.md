@@ -34,7 +34,8 @@
 # Erudition
 - 诡秘之主
   - 2021/12/8: You may have vivid imagination, but now you're focusing on `software` section and project
-
+- Dune --- Frank Herberts
+  - [link](http://englishonlineclub.com/pdf/Frank%20Herbert's%20-%20Dune%20-%20Part%201%20[EnglishOnlineClub.com].pdf)
 
 # Brewing place for charactors
 ## Димитри Раскаров

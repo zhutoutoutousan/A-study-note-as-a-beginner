@@ -42,11 +42,13 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 7/100
+  - Progress: 8/100
     - No more than 3 rounds per day
-      - Container: 2/3
+      - Container: 3/3 CUTOFF: 2021-12-12
 - Analysis
-  - 1/100
+  - 3/100
+  - No more than 1 round per day
+    - Container: 1/1 CUTOFF: 2021-12-12
 ## MOBA
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ## Werewolf-like

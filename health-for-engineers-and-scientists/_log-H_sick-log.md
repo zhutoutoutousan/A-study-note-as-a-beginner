@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent notes](#buffer-to-permanent-notes)
+  - [Health Check 101](#health-check-101)
   - [Common disorder counteract strategy](#common-disorder-counteract-strategy)
     - [IBS](#ibs)
   - [How to get away from being hospitalized under increasingly extreme conditions and workload?](#how-to-get-away-from-being-hospitalized-under-increasingly-extreme-conditions-and-workload)
@@ -61,10 +62,15 @@
 - [2021/12/3](#2021123)
   - [Neurosis: Cardiac neurosis/Da Costa's syndrome && Gastrointestinal dysfunction](#neurosis-cardiac-neurosisda-costas-syndrome--gastrointestinal-dysfunction)
   - [Your personality may be too introvert, consider changing?](#your-personality-may-be-too-introvert-consider-changing)
+- [2021/12/12](#20211212)
+  - [No more GI tract complaint](#no-more-gi-tract-complaint)
 
 #thehealthmatters
 
 # Buffer to permanent notes
+## Health Check 101
+- [健康体检该怎么选择体检项目？](https://zhuanlan.zhihu.com/p/46202429)
+
 ## Common disorder counteract strategy
 ### IBS
 - [ ] Early age Colonscopy to initate 0 polips state, rule out colon cancer and confirm IBS state
@@ -404,3 +410,8 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 
 ## Your personality may be too introvert, consider changing?
 - Well, it's a bit complicated problem to tackle
+
+# 2021/12/12
+## No more GI tract complaint
+- No vegetable intake --> Maybe you should not take so much vegetables?
+- Reduce the fiber intake, no more fiber if you have the good bacteria in your gut, it's a good way to reduce the GI tract compaint. 

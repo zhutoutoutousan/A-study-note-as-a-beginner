@@ -62,9 +62,14 @@
 
 # Some thoughts
 (Mass Effect 3 EC OST - We Fought As A United Galaxy [Extended Version])
-My life over the last 300 Months is nothing but a process of learning and fighting, I'm cursed and I will never grow up, but it opens another door. When I had a peek, I was immediately fascinated
-
+My life over the last 300 Months is nothing but a process of learning and fighting, I'm cursed and I will never grow up, but it opens another door. When I had a peek, I was immediately fascinated by the whole process of learning and fighting.
 - 重发现 - 特征: 工作狂
   - 没有上下班, 双休日的概念
-
 - 论精细化心理状态控制
+- YOUR Recent misdemeanors in a specific social network domain is HAMMERING your efficiency, THE TIME HAS COME, this is your last chance, next time this system detects any sense of addiction, then Immediate termination should be taken. 
+  - HOW TO IMPLEMENT
+    - Easy, just quit
+    - Furthur compensation for whatever this sort of attraction should be researched, categorized, and nullification procedures shall be executed.
+      - That's a weakness point of meeting the similar-minded people, the novelty of which will somehow trigger your irrational thinking, training needs to be introduced to elliminate this mechanism  
+  - Furthur fortification imminent
+    - Search and Destroy

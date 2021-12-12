@@ -7,7 +7,11 @@
     - https://developer.aliyun.com/article/751767
 ## Gadget
 
-
+# Erudition
+- 面向WebAssembly编程 应用开发方法与实践
+  - Paperback
+    - Bookmark: 5
+    - Emscripten 入门
 
 # 2021/8/20
 ## Google Earth Studio

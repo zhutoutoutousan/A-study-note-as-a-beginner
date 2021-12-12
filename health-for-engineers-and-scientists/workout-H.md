@@ -173,11 +173,13 @@ days, dimension, performance
 - Donnerstag
   - Gehen
 - Freitag
-
-- Sammtag
   - Bank+Bizep
+- Sammtag
+  - Shoulder + Chest Size
   - Laufen 2.2km
 - Sonntag
+  - Off
 - Montag
+  - Chest ALL
 - Dienstag
 - Mittwoch

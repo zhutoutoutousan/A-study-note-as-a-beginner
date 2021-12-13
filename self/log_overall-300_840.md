@@ -73,3 +73,17 @@ My life over the last 300 Months is nothing but a process of learning and fighti
       - That's a weakness point of meeting the similar-minded people, the novelty of which will somehow trigger your irrational thinking, training needs to be introduced to elliminate this mechanism  
   - Furthur fortification imminent
     - Search and Destroy
+
+
+# INTJ to be an Entrepreneur
+- I think, the toughest test for all your life if you want to be an Entrepreneur should be
+  - Be able to genuinely show gratitude to the people you love
+  - Trust the right people
+- Categorize work that is comfortable, not quite comfortable, very incomfortable
+  - Love, addictive
+    - High value
+    - Low value
+  - Can do with little effort
+  - Costly on mental energy
+  - Draining, hate
+

@@ -18,3 +18,4 @@ Some recursive learning
   - [Parametric equation](https://en.wikipedia.org/wiki/Parametric_equation)
     - [Manifold](https://en.wikipedia.org/wiki/Manifold)
       - [Algebraic variety](https://en.wikipedia.org/wiki/Algebraic_variety)
+

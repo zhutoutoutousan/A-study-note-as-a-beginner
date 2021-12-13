@@ -170,16 +170,7 @@ days, dimension, performance
 - \[RECOVERY\]: Shoulder
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
-- Donnerstag
-  - Gehen
-- Freitag
-  - Bank+Bizep
-- Sammtag
-  - Shoulder + Chest Size
-  - Laufen 2.2km
-- Sonntag
-  - Off
 - Montag
-  - Chest ALL
-- Dienstag
-- Mittwoch
+  - Core + Bicep + Tricep
+- Tuesday
+  - 

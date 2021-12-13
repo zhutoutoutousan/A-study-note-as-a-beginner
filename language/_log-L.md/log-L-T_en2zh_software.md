@@ -1,4 +1,6 @@
 # C
+- CTI
+  - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
 - CRM: 客户关系管理
   - _概念
     - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)

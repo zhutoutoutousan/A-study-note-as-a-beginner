@@ -77,13 +77,18 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 
 # INTJ to be an Entrepreneur
 - I think, the toughest test for all your life if you want to be an Entrepreneur should be
+  - Your capability is formidable enough to affect people around
   - Be able to genuinely show gratitude to the people you love
   - Trust the right people
 - Categorize work that is comfortable, not quite comfortable, very incomfortable
   - Love, addictive
     - High value
+      - Language learning
+      - MOBA & Chess - Strategy gaming
     - Low value
   - Can do with little effort
+    - Workout
   - Costly on mental energy
   - Draining, hate
+    - Socializing without clear purpose
 

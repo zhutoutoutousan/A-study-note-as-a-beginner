@@ -173,4 +173,3 @@ days, dimension, performance
 - Montag
   - Core + Bicep + Tricep
 - Tuesday
-  - 

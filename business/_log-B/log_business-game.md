@@ -42,9 +42,9 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 8/100
+  - Progress: 9/100
     - No more than 3 rounds per day
-      - Container: 3/3 CUTOFF: 2021-12-12
+      - Container: 1/3 CUTOFF: 2021-12-14
 - Analysis
   - 3/100
   - No more than 1 round per day

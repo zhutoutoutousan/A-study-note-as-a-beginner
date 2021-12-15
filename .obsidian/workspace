@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heuristics/PUA.md",
+            "file": "business/_log-B/log_business-game.md",
             "mode": "source"
           }
         }
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heuristics/PUA.md",
+                "file": "business/_log-B/log_business-game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heuristics/PUA.md"
+                "file": "business/_log-B/log_business-game.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heuristics/PUA.md",
+                "file": "business/_log-B/log_business-game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +119,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "eb4476dbd874de91",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -130,6 +137,8 @@
   },
   "active": "64c1bb6d3d16b209",
   "lastOpenFiles": [
+    "business/_log-B/log_business-game.md",
+    "business/_log-B/log_business-global-acumen.md",
     "Heuristics/PUA.md",
     "business/_log-B/log_business-BA.md",
     "202109291434.md",
@@ -137,8 +146,6 @@
     "log_overall.md",
     "business/_log-B/log_business-consulting.md",
     "language/_log-L.md/log-L-T_zh2en-Gen.md",
-    "language/_log-L.md/log-L-T_zh2en_B-M.md",
-    "language/_log-L.md/log-L-T_zh2en_B.md",
-    "language/_log-L.md/log-L-T_en2zh_B.md"
+    "language/_log-L.md/log-L-T_zh2en_B-M.md"
   ]
 }

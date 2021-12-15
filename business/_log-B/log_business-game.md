@@ -16,6 +16,7 @@
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-2)
     - [Approach](#approach)
   - [Development dynamics](#development-dynamics)
+- [Appendix](#appendix)
 
 # Kickstart
 - INTJ-A/INTP-A: I want get the most out of every strategic game round I played
@@ -44,7 +45,7 @@
 - Blitz positioning
   - Progress: 9/100
     - No more than 3 rounds per day
-      - Container: 1/3 CUTOFF: 2021-12-14
+      - Container: 1/3 CUTOFF: 2021-12-15
 - Analysis
   - 3/100
   - No more than 1 round per day
@@ -58,3 +59,15 @@
 
 ## Development dynamics
 
+
+
+# Appendix
+```chessboard
+fen: r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R
+```
+
+```chess
+fen: rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR
+flipBoard: true
+lastMove: d7d5
+```

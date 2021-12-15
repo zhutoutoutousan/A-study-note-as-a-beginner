@@ -170,6 +170,7 @@ days, dimension, performance
 - \[RECOVERY\]: Shoulder
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
-- Montag
+- Wednesday
   - Core + Bicep + Tricep
-- Tuesday
+- Thursday
+  - Leg + Shoulder

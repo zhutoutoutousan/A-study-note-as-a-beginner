@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Basic Test Results](#basic-test-results)
 - [2021/8/25](#2021825)
   - [Can you explain to me the psychological pathway of you speaking like that](#can-you-explain-to-me-the-psychological-pathway-of-you-speaking-like-that)
   - [Concerning your so-called gaymification](#concerning-your-so-called-gaymification)
@@ -8,11 +9,18 @@
     - [Collecting data](#collecting-data)
     - [Collecting communication](#collecting-communication)
 - [2021/9/6](#202196)
-  - [sakinorva Personality test](#sakinorva-personality-test)
+  - [Sakinorva Personality test](#sakinorva-personality-test)
 - [2021/9/10](#2021910)
   - [More tools and materials for self-awareness build-up](#more-tools-and-materials-for-self-awareness-build-up)
 - [2021/9/29](#2021929)
 - [2021/9/30](#2021930)
+
+# Basic Test Results
+- Ennegram: 3w4
+- (grant) function type	ISTP  
+- myers function type	INTP  
+- myers-briggs type	INTJ
+
 # 2021/8/25
 ## Can you explain to me the psychological pathway of you speaking like that
 ```
@@ -86,7 +94,7 @@ Which will maximize the integral of dopamine, seretonin, or whatchamacallit duri
 ```
 
 # 2021/9/6
-## sakinorva Personality test
+## Sakinorva Personality test
 
 (grant) function type	ISTP  
 myers function type	INTP  

@@ -1,3 +1,20 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Source](#source)
+- [Self-appointed Course](#self-appointed-course)
+- [Erudition](#erudition)
+  - [Journals](#journals)
+  - [Basics](#basics)
+  - [Science](#science)
+  - [Engineering](#engineering)
+  - [Management](#management)
+- [2021/10/27](#20211027)
+  - [New words](#new-words)
+- [Appendix: Storage ID for maximum effort reading](#appendix-storage-id-for-maximum-effort-reading)
+  - [&MCSCMP](#mcscmp)
+    - [ToC](#toc)
+    - [Tools](#tools)
+
 # Source
 - [集智俱乐部](https://swarma.org)
 - [NEW: COMPLEX SYSTEMS COURSE INITIATIVE](http://www.nichele.eu/complex/index.html)
@@ -27,7 +44,10 @@
       - [link](https://mycourses.aalto.fi/pluginfile.php/938869/mod_resource/content/1/NonLinearAlgebra.pdf)
 - Introduction to Modeling and Analysis of Complex Systems
   - [link](https://anvari.net/5_SA/Complex%20Systems/Modeling%20Complex%20Systems.pdf)
-  - Bookmark
+  - Process 1
+    - Style: Lifetime pursuit --> Down-to-earth approach
+    - Bookmark
+    - Maximum effort reading store ID: &MCSCMP
 - Graph theory --> See Mathematics section
 ## Science
 - Complexity Theory and Organization Science
@@ -52,3 +72,20 @@ What is Complexity Science
 
 ## New words
 - Universal of discourse
+
+
+# Appendix: Storage ID for maximum effort reading
+## &MCSCMP
+- Legend
+  - *\[DATE\], \[INTERNALIZATION PERCENTAGE\], \[PAGE\]*:*2021-12-14, 30, 22*
+- Preliminaries
+  - Introduction - 3
+    - Complex System in a Nutshell - 3
+      - *2021-12-14, 3, 4*
+    - Topical Clusters - 6
+  - Fundamentals of Modeling - 11
+- Chaos - 153
+  - Lyapunov Exponents - 157
+### ToC
+### Tools
+- PyCX

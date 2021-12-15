@@ -1,1 +1,9 @@
-[]
+[
+  "obsidian-chessboard",
+  "dataview",
+  "obsidian-file-path-to-uri",
+  "folder-note-plugin",
+  "obsidian-mind-map",
+  "obsidian-chess",
+  "obsidian-spaced-repetition"
+]

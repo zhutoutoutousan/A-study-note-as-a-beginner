@@ -44,7 +44,7 @@
 - Blitz positioning
   - Progress: 18/100
     - No more than 3 rounds per day
-      - Container: 1/3 CUTOFF: 2021-12-17
+      - Container: 2/3 CUTOFF: 2021-12-17
 - Analysis
   - 3/100
   - No more than 1 round per day
@@ -61,5 +61,3 @@
 - For this game, it's better to first internalize more of those 
 
 ## Development dynamics
-
-

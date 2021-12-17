@@ -46,6 +46,7 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
   - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
     - 18:45/1:49:28
     - RIGID THRESHOLD: start.spring.io --> Create Maven Project
+  - [Java Interview Questions and Answers | Java Tutorial | Java Online Training | Edureka](https://www.youtube.com/watch?v=oYXivKMSEqM)
   - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
     - 0:05/4:13:03
 ### Sub

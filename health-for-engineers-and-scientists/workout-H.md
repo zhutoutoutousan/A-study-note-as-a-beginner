@@ -173,4 +173,7 @@ days, dimension, performance
 - Wednesday
   - Core 
 - Thursday
-  - Leg + + Bicep + Tricep + Shoulder
+  - Leg
+  - 10km bike ride
+- Freitag
+  - Bicep + Tricep + Shoulder

@@ -7,6 +7,10 @@
   - [Digital Image Forensics](https://farid.berkeley.edu/downloads/tutorials/digitalimageforensics.pdf)
   - [A FORENSIC ANALYSIS OF DIGITAL IMAGE CHARACTERISTICS ASSOCIATED TO FLICKR® AND GOOGLE PLUS®](https://www.ucdenver.edu/docs/librariesprovider27/ncmf-docs/theses/lawson_thesis_fall2017.pdf?sfvrsn=844d97b8_2)
   - [An Overview on Image Forensics](https://www.hindawi.com/journals/isrn/2013/496701/)
+
+# Practice Handbook
+- Image Forensics
+  - [picoCTF 2021: Forensics](https://knez.github.io/posts/picoctf-2021-forensics/)
 # Resource pool
 - LOI Liang Yang
 - [PicoCTF](https://picoctf.org/resources)

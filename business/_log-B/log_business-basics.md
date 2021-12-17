@@ -1,6 +1,6 @@
 # Erudition
 - [The Minto Pyramid Principle_ Logic in Writing, Thinking, & Problem solving](https://drive.google.com/file/d/19u_QJYZ_n-sDVwu0-1FtrGipHZd9AJjD/view?usp=sharing)
-  - Bookmark: 18/275
+  - Bookmark: 25/275
   - 联系--图画--记忆的特征
     - 这种记忆的确很有效, 但是需要转化脑位, 脑位切换的过程也有开关损耗
       - 这种开关损耗的本质是采用不常见脑位思考问题的不习惯所带来的心理负担(纸老虎)还是真实存在?
@@ -9,3 +9,5 @@
   - *Controlling the sequence in which you present your ideas is the single most important act necessary to clear writing*
   - Application is king
     - Write down app if u have time
+  - *All of this suggests that the clearest written documents will be those that consistently present their information from the top down, in a pyramidal structure, even though the original thinking will have been done from the bottom up*
+    - If not so, to which layer of corporate, social, interpersonal hierarchy does it start to be NOT HAND-OFF-READY?

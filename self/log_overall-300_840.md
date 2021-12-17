@@ -91,4 +91,11 @@ My life over the last 300 Months is nothing but a process of learning and fighti
   - Costly on mental energy
   - Draining, hate
     - Socializing without clear purpose
+    - Eat my meal
 
+
+
+# I'm in deep pain... And I don't know what it is...
+- F U, you know exactly what it is, you're spreading yourself too thin but somehow you still got formidable composure to maintain this state...being an workaholic after all. And that's a good thing if that's a turnaround
+  - It's irreversable, you already have gone too far in multiple directions, and your brain has been permanently rewired.
+- So that's that then, you just have to endure this pain until it's gone when you step into the next stage of your life, unless the dear god makes a joke with you by granting some deadly disease. 

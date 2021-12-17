@@ -171,6 +171,6 @@ days, dimension, performance
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
 - Wednesday
-  - Core + Bicep + Tricep
+  - Core 
 - Thursday
-  - Leg + Shoulder
+  - Leg + + Bicep + Tricep + Shoulder

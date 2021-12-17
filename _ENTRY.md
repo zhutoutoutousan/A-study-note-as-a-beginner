@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Links](#links)
+- [Renovation](#renovation)
 - [Value --> As one person](#value----as-one-person)
 - [Hashtags](#hashtags)
   - [Interface with other systems](#interface-with-other-systems)
@@ -40,6 +41,9 @@
 [[_index_business]]
 [[_index_language]]
 
+# Renovation
+https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/377
+
 # Value --> As one person
 - 保证量变的单位质量和配套基础设施建设, 为高质质变做准备
   - 解决个人大局和细节之间的凌波地狱问题
@@ -66,10 +70,11 @@
 
 ## Temporary Event-Based Time-Sensitive information flow cache
 - [AWS re:Invent 2021 - Keynote with Adam Selipsky](https://www.youtube.com/watch?v=WGA2P_oH5Xc)
-  - Videomark: 1-20-48
+  - Videomark: 1-23-52
 - [AWS re:Invent 2021 - Keynote with Dr. Werner Vogels](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
   - Videomark: 51-40
   - Gall's law
+
 
 ## Top priority(limited to 3)
 - #rigorouscareerrelatedengagement   

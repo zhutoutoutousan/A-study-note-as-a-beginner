@@ -6,6 +6,7 @@
 ## Integration of S-PM
 - [Software Project Management - Why it's Different!](https://www.youtube.com/watch?v=TYBVAvWkG6M)
 - [Project Management Full Course | Learn Project Management In 8 Hours | Simplilear](https://www.youtube.com/watch?v=uWPIsaYpY7U)
+  - Videomark
   - What is Project Management?
     - Def: f --app--> {knowledge, skills, tools, techniques} (project activities) = project requirements(time, budget)
   - What is a Project?
@@ -37,7 +38,11 @@
 
 
 ## PM course
+- [Project Management Tutorial ( Complete Course )](https://www.youtube.com/watch?v=t7EYicEBfdQ&t=490s)
+  - Videomark: 38-33
+  - Highlight: A bunch of handsome guys
 - [PMP® Certification Full Course - Learn PMP Fundamentals in 12 Hours | PMP® Training Videos | Edureka](https://www.youtube.com/watch?v=vzqDTSZOTic)
+  - Videomark: /11-46-57
   - [项目管理师pmp报考条件](http://www.51xingjy.com/jiaoyu/5232.html)
 
 # 2021/10/11

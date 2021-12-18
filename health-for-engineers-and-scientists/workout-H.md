@@ -114,6 +114,7 @@ days, dimension, performance
   - Only hypertrophy and cutting exercise
     - Only bench press is permitted
   - Solution to: *I don't even have the energy to make a daily workout plan* --> Preset plan template
+  - \[IN EFFECT\]: ATHLEAN-X style
     - Arm
       - Bicep
         - Cheat curl

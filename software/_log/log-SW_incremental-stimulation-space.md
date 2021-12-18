@@ -1,5 +1,14 @@
 - This is a space created delicately to raise your acumen of using any software-related language
 
+# Innate hardcore memory for swift project onboarding
+## Memorization training technique for mental database
+- Phase 1
+  - Fast skim with maximum sense of internal flow state
+    - Temporarily dismiss all external public opinion sensation system for agile build-up
+    - Minimum deliberate memorization effort due to existential restriction
+      - Contingency plan for forced move due to *existential checkmate risk*
+    - Osmosis-oriented
+
 # Design Acumen
 
 # System Admin Operation

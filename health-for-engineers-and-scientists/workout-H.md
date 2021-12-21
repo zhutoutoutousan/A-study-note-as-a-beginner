@@ -171,10 +171,13 @@ days, dimension, performance
 - \[RECOVERY\]: Shoulder
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
+
+- Monday
+  - Chest
+- Tuesday
+  - Leg+Shoulder
 - Wednesday
-  - Core 
+  - 2.5km run
 - Thursday
-  - Leg
-  - 10km bike ride
-- Freitag
-  - Bicep + Tricep + Shoulder
+  - Bicep+Tricep+Core
+- Friday

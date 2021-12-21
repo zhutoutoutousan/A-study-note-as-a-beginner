@@ -99,3 +99,8 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 - F U, you know exactly what it is, you're spreading yourself too thin but somehow you still got formidable composure to maintain this state...being an workaholic after all. And that's a good thing if that's a turnaround
   - It's irreversable, you already have gone too far in multiple directions, and your brain has been permanently rewired.
 - So that's that then, you just have to endure this pain until it's gone when you step into the next stage of your life, unless the dear god makes a joke with you by granting some deadly disease. 
+
+
+# Project Rhythm Caveat
+- Always keep yourself on-the-fly learning, don't assume everyone else has infinite level of sophistication at every dimension, which is one of the mistakes you made
+- Be ready to put information in your brain without tangible backup, which means, putting your skin in the game and put your raw processing speed to the playing field

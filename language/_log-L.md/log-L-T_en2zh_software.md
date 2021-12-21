@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [C](#c)
 - [E](#e)
+- [J](#j)
 - [L](#l)
 - [R](#r)
 - [<](#)
@@ -16,6 +17,8 @@
 # E
 - ERP
 
+# J
+- JPA
 
 # L
 

@@ -15,3 +15,9 @@
   - You're not responsible for other cosmos-negligible entities' inner peace, nor is it too nihislitic to just leave the radiation site behind to actually find a way to leave the future generations with a bit of an artifact, an glimpse to the world and beyond, which is what you truly pursue, if only this existential maneuver can come faster.
 
 Check: #possibleacademiadirection for choosing major
+
+
+# Temp improvement space
+
+- JPA
+  - [link](https://www.javatpoint.com/jpa-introduction)

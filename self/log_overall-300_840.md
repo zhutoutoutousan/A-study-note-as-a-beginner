@@ -104,3 +104,8 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 # Project Rhythm Caveat
 - Always keep yourself on-the-fly learning, don't assume everyone else has infinite level of sophistication at every dimension, which is one of the mistakes you made
 - Be ready to put information in your brain without tangible backup, which means, putting your skin in the game and put your raw processing speed to the playing field
+
+# Temp improvement space
+- Requirement, database, web service, front-end quick grasp plan
+- JPA
+  - [link](https://www.javatpoint.com/jpa-introduction)

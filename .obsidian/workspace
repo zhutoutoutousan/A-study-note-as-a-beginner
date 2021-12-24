@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "business/_log-B/log_business-game.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

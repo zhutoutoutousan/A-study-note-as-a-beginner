@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "engineering",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

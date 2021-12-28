@@ -109,3 +109,71 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 - Requirement, database, web service, front-end quick grasp plan
 - JPA
   - [link](https://www.javatpoint.com/jpa-introduction)
+
+
+# 2021/12/28
+## Stage report
+- Description
+  - French vocabulary enrichment plan near the next stage with 99.4% completion
+    - Next stage will be the comeback of English translation ability
+    - UNLOCK Playing video games in French
+    - Estimated the French level will reach C1 with natural progression in 1-2 years
+  - Full-stack development capability approaching the next surge, supportive opportunities will be required after estimated 1.5 months
+  - PMP readiness correlates with the current engagement
+  - Medical examination required
+
+**Loss of focus due to abrupt vacation**
+
+Solution:
+- Style
+  - Flexible, with care for health
+- Items
+  - Existential
+    - Make sure this part is OK before progressing to the next stage
+  - Daily
+    - Workout
+      - Pure momentum
+  - Software Line
+    - Coding
+      - Side projects
+        - Human Centered Design
+        - Mapped to 3D programming
+    - Code training
+      - Basics
+        - Codewars
+        - Codeforces
+    - 3D programming
+      - Unity
+      - Blender
+    - AWS training
+    - PicoCTF training
+      - Intent: Hacker dream
+    - NEW Python and AI programming
+  - Language Line
+    - Translation training
+    - Continuation of muliple language progression
+  - Business Line
+    - Video Editing
+      - Intent: Useful in many ways
+    - PMP-prep
+      - Existential progression
+    - Networking
+      - Cold calls
+      - Known associates check-up
+      - Social Media presence
+  - Academic Line
+    - Complex System
+      - Usage
+        - Support future academic opportunities
+      - Instance
+        - CMP section
+    - System Engineering
+      - Usage
+        - Support future academic opportunities
+      - Instance
+        - Computer System, a programmer...
+    - Politics & History & Philosphy
+      - Usage
+        - None describable
+        - Might help with Complex System understanding
+      - Tandem with language ability

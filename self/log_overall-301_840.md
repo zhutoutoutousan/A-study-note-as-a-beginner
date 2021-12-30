@@ -1,0 +1,64 @@
+# Temporary task allocation logic for short-term sustanance
+- Use Cornerstone for project control
+
+
+- Style
+  - Flexible, with care for health
+- Method
+  - Use this framework and try for a few days, then you may be up for a good start
+- Items
+  - Existential Line
+    - Make sure this part is OK before progressing to the next stage
+  - Health Line
+    - Workout
+      - Pure momentum
+  - Software Line(AVAILABLE FOR FORGIVABLE BUSINESS CASES)
+    - Coding
+      - Side projects
+        - Human Centered Design
+        - Mapped to 3D programming
+    - Code training
+      - Basics
+        - Codewars
+        - Codeforces
+    - 3D programming
+      - Unity
+      - Blender
+    - AWS training
+    - PicoCTF training
+      - Intent: Hacker dream
+    - NEW Python and AI programming
+  - Language Line(AVAILABLE FOR FORGIVABLE BUSINESS CASES)
+    - Translation training
+    - Translation certification in three months
+    - Continuation of muliple language progression
+  - Business Line
+    - CPA or Knowledge of how money works
+    - Video Editing
+      - Intent: Useful in many ways
+    - PMP-prep
+      - Existential progression
+    - Networking
+      - Cold calls
+      - Known associates check-up
+      - Social Media presence
+  - Academic Line
+    - Complex System
+      - Usage
+        - Support future academic opportunities
+      - Instance
+        - CMP section
+    - System Engineering
+      - Usage
+        - Support future academic opportunities
+      - Instance
+        - Computer System, a programmer...
+        - Database fundamental
+    - Politics & History & Philosphy
+      - Usage
+        - None describable
+        - Might help with Complex System understanding
+      - Tandem with language ability
+
+- Timeline and Gantt chart construction
+  - Try to visualize every time you come back, making a gantt chart is not beneficial

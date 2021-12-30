@@ -127,13 +127,15 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 Solution:
 - Style
   - Flexible, with care for health
+- Method
+  - Use this framework and try for a few days, then you may be up for a good start
 - Items
-  - Existential
+  - Existential Line
     - Make sure this part is OK before progressing to the next stage
-  - Daily
+  - Health Line
     - Workout
       - Pure momentum
-  - Software Line
+  - Software Line(AVAILABLE FOR FORGIVABLE BUSINESS CASES)
     - Coding
       - Side projects
         - Human Centered Design
@@ -149,10 +151,12 @@ Solution:
     - PicoCTF training
       - Intent: Hacker dream
     - NEW Python and AI programming
-  - Language Line
+  - Language Line(AVAILABLE FOR FORGIVABLE BUSINESS CASES)
     - Translation training
+    - Translation certification in three months
     - Continuation of muliple language progression
   - Business Line
+    - CPA or Knowledge of how money works
     - Video Editing
       - Intent: Useful in many ways
     - PMP-prep
@@ -172,8 +176,12 @@ Solution:
         - Support future academic opportunities
       - Instance
         - Computer System, a programmer...
+        - Database fundamental
     - Politics & History & Philosphy
       - Usage
         - None describable
         - Might help with Complex System understanding
       - Tandem with language ability
+
+- Timeline and Gantt chart construction
+  - Try to visualize every time you come back, making a gantt chart is not beneficial

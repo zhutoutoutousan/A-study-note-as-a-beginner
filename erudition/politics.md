@@ -5,6 +5,7 @@
   - [Link1](https://www.azioniparallele.it/images/materiali/Totalitarianism.pdf)
 - Il Principe di Niccolo 
   - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
+    - [Il PRINCIPE di Niccolò MACHIAVELLI: spiegazione FACILE e VELOCE](https://www.youtube.com/watch?v=qZvriwlDPz4)
     - Process 1:(Read for learning italian)
       - Progress: 4/102 `...con gran diligenzia lungamente...`
   - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)

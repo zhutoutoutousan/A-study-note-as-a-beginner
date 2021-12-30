@@ -17,7 +17,3 @@
 Check: #possibleacademiadirection for choosing major
 
 
-# Temp improvement space
-
-- JPA
-  - [link](https://www.javatpoint.com/jpa-introduction)

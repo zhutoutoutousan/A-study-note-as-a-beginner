@@ -41,6 +41,8 @@
 
 # CRUD Encapsulation
 ## Value
+## _Current Block Point
+- What the fuck is the relationship between submitCU and toEdit, doEdit?
 ## Vue.js implementation
 - [Crud - eladmin-web](https://github.com/moxun1639/eladmin-web/tree/master/src/components/Crud)
   - REFERENCE: **moxun1639**(author) - Crud
@@ -115,3 +117,4 @@ File structure tree
 - Wasm
 
 # Data Dictionary
+

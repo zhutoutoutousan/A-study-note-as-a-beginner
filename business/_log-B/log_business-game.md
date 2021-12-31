@@ -10,6 +10,7 @@
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field)
     - [Lichess: How to make the most out of a chess play?](#lichess-how-to-make-the-most-out-of-a-chess-play)
     - [Phase 1: Play it out](#phase-1-play-it-out)
+    - [Phase 2: Establishment of training system of hardcore low-level neural abailities](#phase-2-establishment-of-training-system-of-hardcore-low-level-neural-abailities)
   - [MOBA](#moba)
     - [Why play it in the first place? What's its value? What carry-over effect should it have on what field?](#why-play-it-in-the-first-place-whats-its-value-what-carry-over-effect-should-it-have-on-what-field-1)
   - [Werewolf-like](#werewolf-like)
@@ -42,7 +43,7 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 22/100
+  - Progress: 30/100
     - No more than 3 rounds per day
       - Container: 3/3 CUTOFF: 2021-12-30
 - Analysis
@@ -53,6 +54,10 @@
   - 3/300
   - No more than 3 puzzles per day
     - Container: 3/3 CUTOFF: 2021-12-17
+### Phase 2: Establishment of training system of hardcore low-level neural abailities
+- Blindfold Chess
+  - Chess position Memory
+    - [Art of Memory](https://forum.artofmemory.com/)
 ## MOBA
 ### Why play it in the first place? What's its value? What carry-over effect should it have on what field?
 ## Werewolf-like

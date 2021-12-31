@@ -337,24 +337,26 @@
       - Windows
   - Database Design - 2nd Edition
     - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
-    - Progress: 82/136
-    - Recommended review all of those concepts every time you read it again before embarking where you left last time
-    - Key points
-      - Basic concepts and terminologies
-      - P54: ER graph is very important, make sure you make no misunderstandings
-    - P.O.I
-      - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
-        - The pioneer of relational database
-    - Reading style
-      - Print the `ER diagram` if you want to review those practice 
-    - Reading stamps
-      - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
-        - Require more `osmosis`
-      - Same for `Normalization` 
-      - P90-\$ skipped for overlap with `Postgresql`
-    - More skills
-      - Performance tunning
-        - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
+    - Process 1
+      - Progress: 82/136
+      - Recommended review all of those concepts every time you read it again before embarking where you left last time
+      - Key points
+        - Basic concepts and terminologies
+        - P54: ER graph is very important, make sure you make no misunderstandings
+      - P.O.I
+        - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+          - The pioneer of relational database
+      - Reading style
+        - Print the `ER diagram` if you want to review those practice 
+      - Reading stamps
+        - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
+          - Require more `osmosis`
+        - Same for `Normalization` 
+        - P90-\$ skipped for overlap with `Postgresql`
+      - More skills
+        - Performance tunning
+          - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
+    - Process 2
 - API
   - Architectural Styles and the Design of Network-based Software Architectures
     - [link](http://presentations.t-code.pl/hateoas/fielding_dissertation.pdf)

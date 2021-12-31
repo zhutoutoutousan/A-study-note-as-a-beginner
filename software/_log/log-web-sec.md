@@ -2,6 +2,10 @@
 ## Network
 - Disable X-Forwarded-For(XFF) Header
 
+# Follow-along
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+  - Videomark: 1:00:19
+
 # Necessary Theoretical Erudition
 - Image Forensics
   - [Digital Image Forensics](https://farid.berkeley.edu/downloads/tutorials/digitalimageforensics.pdf)

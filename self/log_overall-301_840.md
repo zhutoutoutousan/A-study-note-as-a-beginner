@@ -1,7 +1,5 @@
 # Temporary task allocation logic for short-term sustanance
 - Use Cornerstone for project control
-
-
 - Style
   - Flexible, with care for health
 - Method
@@ -62,3 +60,14 @@
 
 - Timeline and Gantt chart construction
   - Try to visualize every time you come back, making a gantt chart is not beneficial
+
+# Health is everything
+- Holiday medical check-up plan
+
+# Self-emo
+- I'm going to live the next 539 months of my life with this
+  - You're rather a strange man, even one single minute you're going to make it count
+  - If the level of sophistication of every second you spend is lower than your standard, which is insanely high, then you will feel the pain, sometimes even physically
+  - Every time you speak with another human, if the level of sophistication is lower than the threshold, you will feel extreme pain in your abdomen, every sentence is a great effort
+  - Your act of extrovert is actually based on crafty effort and only available when you are in a state of high energy and have the clear vision of its ROI and the ability to make a difference
+- What should I do?

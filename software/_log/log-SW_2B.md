@@ -1,3 +1,10 @@
+# Blockchain
+## Erudition
+- [Mastering Bitcoin: Programming the Open Blockchain](https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf)
+- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+## Overview
+- [An Introduction to Blockchain - What Does it Mean for the Accounting Profession?](https://www.cpajournal.com/2021/08/18/an-introduction-to-blockchain/)
+- [Blockchain Technology - Investopedia](https://www.investopedia.com/blockchain-technology-4689758)
 # 2021/9/27
 ## Informatica study
 - Why should I even bother?
@@ -6,7 +13,6 @@
     - BI数据运营
     - 懂数据的业务人员
     - 架构师
-
 - [Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka](https://www.youtube.com/watch?v=J326LIUrZM8)
 - [Informatica Tutorial | Learn Informatica In 60 Minutes | Informatica PowerCenter Training | Edureka](https://www.youtube.com/watch?v=3scD3llibJA)
   - Videomark: 4-03/58:57

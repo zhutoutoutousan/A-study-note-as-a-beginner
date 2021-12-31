@@ -173,10 +173,10 @@ days, dimension, performance
 - \[RECOVERY\]: Lower Back
 - Donnerstag
   - Chest
-  - Treadmill 2km
 - Freitag
   - Core+Leg
   - Bike ride 8km
+  - Treadmill 2km
 - Samstag
 - Sonntag
 - Montag

@@ -174,10 +174,10 @@ days, dimension, performance
 - Donnerstag
   - Chest
 - Freitag
-  - Core+Leg
-  - Bike ride 8km
-  - Treadmill 2km
+  - Core
 - Samstag
+  - Leg+Biceps
+  - Bike ride 8km
 - Sonntag
 - Montag
 - Dienstag

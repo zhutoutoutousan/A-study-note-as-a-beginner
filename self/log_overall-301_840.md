@@ -71,3 +71,10 @@
   - Every time you speak with another human, if the level of sophistication is lower than the threshold, you will feel extreme pain in your abdomen, every sentence is a great effort
   - Your act of extrovert is actually based on crafty effort and only available when you are in a state of high energy and have the clear vision of its ROI and the ability to make a difference
 - What should I do?
+  - I'm going to live the next 539 months of my life with this
+
+# 2022/1/1
+- Jesus, I'm back!
+
+# 2021/1/10
+- Health is everything: Health check

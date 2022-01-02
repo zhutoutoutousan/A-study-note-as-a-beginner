@@ -43,17 +43,17 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 32/100
+  - Progress: 33/100
     - No more than 3 rounds per day
-      - Container: 3/3 CUTOFF: 2021-12-30
+      - Container: 1/3 CUTOFF: 2022-1-2
 - Analysis
   - 3/100
   - No more than 1 round per day
     - Container: 1/1 CUTOFF: 2021-12-12
 - Puzzle
-  - 3/300
+  - 12/300
   - No more than 3 puzzles per day
-    - Container: 3/3 CUTOFF: 2021-12-17
+    - Container: 3/3 CUTOFF: 2022-2-1
 ### Phase 2: Establishment of training system of hardcore low-level neural abailities
 - Blindfold Chess
   - Chess position Memory

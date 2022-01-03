@@ -22,6 +22,7 @@
 - INTJ-A/INTP-A: I want get the most out of every strategic game round I played
 
 # Erudition
+- The Honest Truth About Dishonesty: How We Lie to Everyone--Especially Ourselves
 - COMPETITIVE ADVANTAGE: Creating and Sustaining Superior Performance --- M. E. Porter
   - [link](http://eprints.stiperdharmawacana.ac.id/56/1/%5BMichael_E._Porter%5D_Competitive_advantage_creatin%28BookFi%29.pdf)
   - Process 1
@@ -43,9 +44,9 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 33/100
+  - Progress: 34/100
     - No more than 3 rounds per day
-      - Container: 1/3 CUTOFF: 2022-1-2
+      - Container: 1/3 CUTOFF: 2022-1-4
 - Analysis
   - 3/100
   - No more than 1 round per day

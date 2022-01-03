@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Source](#source)
 - [Self-appointed Course](#self-appointed-course)
+- [P.O.I](#poi)
 - [Erudition](#erudition)
   - [Journals](#journals)
   - [Basics](#basics)
@@ -23,7 +24,8 @@
 - Basics of Complex (Physical, Biological, Economical and Social) Systems Modeling and Simulation
 - Master Course on "Advanced Complex Systems Dynamics"
 - Specialisation Course on Complex Systems
-
+# P.O.I
+- Melanie Mitchell
 # Erudition
 ## Journals
 - Complex Adaptive Systems Modeling
@@ -50,6 +52,33 @@
     - Maximum effort reading store ID: &MCSCMP
 - Graph theory --> See Mathematics section
 ## Science
+- [2020年复杂性科学必读经典：入门+进阶书单20本](https://zhuanlan.zhihu.com/p/100552944)
+  - The Emerging Science at the Edge of Order and Chaos
+- Complexity and Criticality - Kim Christensen and Nicholas R. Moloney
+- A New Kind of Science
+  - 荐书语：该书可作为计算理论、元胞自动机、多主体模拟的参考读物。
+- Handbook of Stochastic Methods
+  - [link](http://linux0.unsl.edu.ar/~froma/libros/Gardiner%20(Crispin%20W.%20)%20--%20Handbook%20of%20Stochastic%20Methods%20for%20Physics,%20Chemistry%20and%20the%20Natural%20Sciences%20Springer%20Series%20in%20Synergetics%2013%20%20%20%201994.pdf)
+- Nonlinear dynamics and Chaos - Steven Strogatz
+  - [link](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)
+- Elements of Information Theory
+  - [First Edition](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf)
+  - [Second Edition](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf)
+- 热力学与统计物理学
+- 混沌动力学引论
+- Networks: An Introduction to Network Theory
+  - [link](https://math.bme.hu/~gabor/oktatas/SztoM/Newman_Networks.pdf)
+- Networks, Crowds, and Markets: Reasoning about a Highly Connected World
+  - [link](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+- Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life
+  - [link](https://www.researchgate.net/publication/220694277_Linked_How_Everything_Is_Connected_to_Everything_Else_and_What_It_Means_for_Business_Science_and_Everyday_Life)
+- Hidden Order: How Adaptation Builds Complexity
+- 复杂：一门诞生于秩序与混沌边缘的学科
+- Complexity: A Guided Tour (Melanie Mitchell, 2009)
+- [Understanding Systems Science: A Visual and Integrative Approach]()
+- Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies
+  - [link](https://drive.google.com/file/d/1XVfFTPmsMYVSKxRXXHaoAwXU3mKrOQsf/view?usp=sharing)
+- [The Emerging Science at the Edge of Order and Chaos](https://uberty.org/wp-content/uploads/2017/04/Waldrop-M.-Mitchell-Complexity-The-Emerging-Science-at-Edge-of-Order-and-Chaos.pdf)
 - Complexity Theory and Organization Science
 - Network theory and complexity theory in the context of organization and management sciences
   - [link](https://depot.ceon.pl/bitstream/handle/123456789/18936/Ujwary-Gil_Network%20theory%20and%20complexity%20theory%20in%20the%20context%20of%20organization%20and%20management%20sciences.pdf?sequence=1)

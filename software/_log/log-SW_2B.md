@@ -4,6 +4,7 @@
 - [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 ## Erudition
 - female aisle shell galaxy trim amateur close alone evoke wealth pretty balcony
+- [Behavioral Crypto-Economics: The Challenge and Promise of Blockchain Incentive Design](https://medium.com/lunar-ventures/behavioral-crypto-economics-6d8befbf2175)
 - [Distributed Ledger Technology(DLT) and Blockchain](https://openknowledge.worldbank.org/bitstream/handle/10986/29053/WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf?sequence=5)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
   - Stage 1 Reading Process
@@ -13,6 +14,7 @@
       - Explain to me how blockchain works?
       - The paper dates back to 2008, what changes it has right now?
     - Recursive learning field of concepts
+      - Byzantine fault
       - Poisson distribution
       - Gambler's Ruin problem
       - Binomial Random Walk

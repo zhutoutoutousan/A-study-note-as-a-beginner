@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [前后端沟通踩坑树](#前后端沟通踩坑树)
 - [2021/8/4-](#202184-)
 - [2021/8/2](#202182)
 - [2021/8/4-](#202184--1)
@@ -34,6 +35,12 @@
   - [前端开发如何调试大屏/巨屏/拼接屏?](#前端开发如何调试大屏巨屏拼接屏)
 - [2021/12/6](#2021126)
   - [你run了下`npm i`, 结果`npm audit`显示一堆vulnerability, 其中有两个critical, 你该怎么做?](#你run了下npm-i-结果npm-audit显示一堆vulnerability-其中有两个critical-你该怎么做)
+
+# 前后端沟通踩坑树
+- 传日期
+  - Timestamp
+- 沟通前准备习惯
+  - 看后台接口文档
 
 
 # 2021/8/4-
@@ -107,3 +114,4 @@ https://jestjs.io/zh-Hans/docs/asynchronous
 
 # 2021/12/6
 ## 你run了下`npm i`, 结果`npm audit`显示一堆vulnerability, 其中有两个critical, 你该怎么做?
+

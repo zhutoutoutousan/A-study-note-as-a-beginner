@@ -4,6 +4,7 @@
 - [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
 ## Erudition
 - female aisle shell galaxy trim amateur close alone evoke wealth pretty balcony
+- [An Introduction to Internet Governance](https://www.ncc.gov.ng/docman-main/internet-governance/610-introduction-to-internet-governance/file)
 - [Behavioral Crypto-Economics: The Challenge and Promise of Blockchain Incentive Design](https://medium.com/lunar-ventures/behavioral-crypto-economics-6d8befbf2175)
 - [Distributed Ledger Technology(DLT) and Blockchain](https://openknowledge.worldbank.org/bitstream/handle/10986/29053/WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf?sequence=5)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)

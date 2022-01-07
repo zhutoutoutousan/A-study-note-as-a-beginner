@@ -182,3 +182,4 @@ days, dimension, performance
 - Montag
 - Dienstag
   - Core+Bicep+Tricep
+- Donnerstag

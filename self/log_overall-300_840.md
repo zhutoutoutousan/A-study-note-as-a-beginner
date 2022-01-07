@@ -109,6 +109,7 @@ My life over the last 300 Months is nothing but a process of learning and fighti
 - Requirement, database, web service, front-end quick grasp plan
 - JPA
   - [link](https://www.javatpoint.com/jpa-introduction)
+    - Docmark: JPA Entity Manager
 
 
 # 2021/12/28

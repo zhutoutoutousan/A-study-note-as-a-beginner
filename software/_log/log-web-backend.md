@@ -44,12 +44,18 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 - Java
   - [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
   - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
-    - 18:45/1:49:28
-    - RIGID THRESHOLD: start.spring.io --> Create Maven Project
+    - Process 1
+      - Style: Hands-on
+      - Videomark: 18:45/1:49:28
+    - Process 2
+      - Style: Watch
+      - 33:34/1:49:28
   - [Java Interview Questions and Answers | Java Tutorial | Java Online Training | Edureka](https://www.youtube.com/watch?v=oYXivKMSEqM)
   - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
     - 0:05/4:13:03
 ### Sub
+## Database Design
+- [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=53s)
 
 # 2021/12/6
 ## `Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`

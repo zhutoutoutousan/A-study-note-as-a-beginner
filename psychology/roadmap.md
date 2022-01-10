@@ -21,7 +21,7 @@
       - Why do chicken sometimes act sexually solicitively
   - 2: Behavioral Evolution
     - [link1](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE)
-    - Progress: 19:07/1:36:57
+    - Progress: 20:31/1:36:57
     - Points
       - Interesting idea: Animal acts to maximize **its** overall possibility of **its** gene heritage
         - When sometimes happened to fit the suspicious hypothesis that animal acts for the benefit of its species

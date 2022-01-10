@@ -78,3 +78,13 @@
 
 # 2021/1/10
 - Health is everything: Health check
+
+
+# 2021/1/9
+- Performance improvement plan:
+  - Robust and trustable Self-efficacy
+  - Effective daily routine
+    - 一天计划自己什么时候干什么, 需要多久干完
+    - 对于一些不太会改动的大项可以提前一周将日程排好
+    - 尝试每周开始将自己要做的事情做成一个思维导图, 将每天的工作按照思维导图进行排列
+      - 文档链接: https://www.mubucm.com/doc/61Ml1KSbWgM

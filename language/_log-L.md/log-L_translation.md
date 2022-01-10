@@ -1,6 +1,9 @@
 # Buffer to permanent note
 - Online tools
     - https://metaso.cn/#/?vc=ZH-VOL33C9AC7B
+- Language Material
+  - [Euro](https://webgate.ec.europa.eu/sr/search-speeches)
+
 # 2021/6/15
 ## Lesson learned by some failed translation attempts
 - Lacking game terminology

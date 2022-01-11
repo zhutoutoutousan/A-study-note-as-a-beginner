@@ -21,6 +21,11 @@
   - el-date-picker
     - 调接口显示
       - 回显不显示问题
+        - `$forceInput`不work
+          - Vue DevTool中的v-model值显示Invalid Date
+            - [vue el-date-picker 直接赋值不生效、数据绑定无效](https://www.jianshu.com/p/96c822d14d30)
+            - [vue使用element中的input组件实现传多个值和input回显强制刷新](https://blog.csdn.net/weixin_39277183/article/details/106875427)
+    - 有`value-format`前提想仍想用epoch传入值
   - treeselect
     - 调接口显示
       - 回显不显示问题

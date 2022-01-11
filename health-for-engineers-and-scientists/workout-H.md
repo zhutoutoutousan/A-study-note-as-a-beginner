@@ -137,6 +137,8 @@ days, dimension, performance
       - Weighted Dips 5SETS 6-8-10-12
       - HIGH-LOW CABLE CROSS OVERS 5SETS 6-8-10-12-14
       - Equipment Fly 5SETS 6-8-10-12-14
+      - Underhand DB press
+      - LOW-HIGH CROSSOVER
     - Shoulder
       - Sit press
       - Lateral raise
@@ -175,13 +177,13 @@ days, dimension, performance
   - Back
   - Run 2.5km
 - Montag
+  - Off day due to work
+- Dienstag
   - Chest
   - Bicycle 6km
-- Dienstag
-  - Core+Bicep+Tricep
 - Mittwoch
-  - Leg
+  - Core+Bicep+Tricep
 - Donnerstag
-  - Off
+  - Leg 
 - Freitag
   - Shoulder+Core

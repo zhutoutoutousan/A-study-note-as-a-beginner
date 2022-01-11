@@ -88,3 +88,9 @@
     - 对于一些不太会改动的大项可以提前一周将日程排好
     - 尝试每周开始将自己要做的事情做成一个思维导图, 将每天的工作按照思维导图进行排列
       - 文档链接: https://www.mubucm.com/doc/61Ml1KSbWgM
+    - 如果事情实在是太多, 能不能训练开发部分的记忆区块专门用来做脑内分析记忆?
+# 2021/1/11
+## Experience gained from extremely agile daily efficiency strategy: MAXIMIZE EVERY SECOND
+
+## A closer look to myself
+- *I will achieve my vision, anything that I think aligns with the preparation of the future vision will be executed in a rigorous manner, my innate obliviousness towards social norms and servitude and disguise as a weak individual doesn't collide with my desire to complexity science. I will fulfill my purpose.*

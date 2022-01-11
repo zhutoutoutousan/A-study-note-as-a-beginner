@@ -1,3 +1,7 @@
+# Theoretical Physics
+- Basic Theoretical Physics - A.Owen
+  - [link](http://www.astrosen.unam.mx/~posgrado/libros/krey_basic_theoretical_physics.pdf)
+
 # Material science
 - Semiconductor Physics And Devices
   - [link1](http://www.fulviofrisone.com/attachments/article/403/Semiconductor%20Physics%20And%20Devices%20-%20Donald%20Neamen.pdf)

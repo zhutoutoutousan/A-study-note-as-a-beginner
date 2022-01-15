@@ -14,6 +14,8 @@
   - [More tools and materials for self-awareness build-up](#more-tools-and-materials-for-self-awareness-build-up)
 - [2021/9/29](#2021929)
 - [2021/9/30](#2021930)
+- [2022/1/15](#2022115)
+  - [开放式关系 Open Relationship](#开放式关系-open-relationship)
 
 # Basic Test Results
 - Ennegram: 3w4
@@ -128,3 +130,7 @@ If you have read through these, answer me some questions:
   - INFJ: 0/1
 # 2021/9/30
 - Distributed Dunning-Kruger effect graph for different context under a variety of sampling rate
+
+# 2022/1/15
+## 开放式关系 Open Relationship
+- [如何经营一段开放式关系（open relation）](https://www.zhihu.com/question/56901572)

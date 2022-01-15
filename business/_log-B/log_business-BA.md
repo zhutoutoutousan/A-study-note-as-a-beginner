@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
+- [Erudition](#erudition)
+- [Methodology](#methodology)
 - [Roadmap](#roadmap)
   - [Career](#career)
   - [Qualification](#qualification)
@@ -54,6 +56,14 @@
 
 # Outbound space
 #NewTech-BusinessAnalyst
+
+# Erudition
+- Don't make me think
+  - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)
+- Shipping Greatness: Practical lessons on building and launching outstanding software, learned on the job at Google and Amazon
+  - [link](https://drive.google.com/file/d/1st-3b9W63IKC0RQ4e0Sogw6m-eX20J01/view?usp=sharing)
+# Methodology
+- [【李自然说】如何提高商业认知？商业知识的学习方法](https://www.youtube.com/watch?v=Oi7z2KmgCVs)
 
 # Roadmap
 ## Career

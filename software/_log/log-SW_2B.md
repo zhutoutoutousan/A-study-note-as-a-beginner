@@ -105,3 +105,16 @@
 - Blockchain
   - [ ] [Full Roadmap to learn Blockchain development in 2021](https://www.youtube.com/watch?v=ci_AIMCF-HA)
   - [ ] [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
+
+# 2021/12/1
+## 2B前端踩坑树
+- CRUD封装
+  - crud.js
+    - 同一组件调用多个crud
+    - 后端改字段后crud.js该如何配合
+      - 改defaultForm
+- 数据字典
+- 系统管理
+  - 菜单管理
+  - 权限管理
+  - 后端开发文档

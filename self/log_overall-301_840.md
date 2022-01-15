@@ -94,3 +94,8 @@
 
 ## A closer look to myself
 - *I will achieve my vision, anything that I think aligns with the preparation of the future vision will be executed in a rigorous manner, my innate obliviousness towards social norms and servitude and disguise as a weak individual doesn't collide with my desire to complexity science. I will fulfill my purpose.*
+
+---
+
+# Handling with clients who don't know exactly what they want
+*客户购买产品的目的都是为了帮助自己解决问题，但是很多时候客户连自己都不太清楚他所临的问题。当他自己都需求不明确的时候，他只能想出一些不成熟的东西，却指望产品赶出一个demo看看样子。但是就这样成功的概率很低，所以会导致一遍一遍地改动需求，一直重复这个过程。*

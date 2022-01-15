@@ -6,6 +6,10 @@
 - [GitHub Repositories](https://github.com/orgs/vuejs/repositories)
 
 # 踩坑树
+- Vue常用第三方组件
+  - treeselect
+    - 熟练度
+      - [vue-treeselect](https://vue-treeselect.js.org/)
 - Element-UI
   - el-dialog
     - 操作
@@ -52,6 +56,10 @@
     - @el-input
       - v-model改变后数值不更新
         - [el-input 修改v-model的值，DOM不更新](https://segmentfault.com/q/1010000020135996)
+  - el-calendar
+  - el-table
+    - Element el-table-column宽度设置百分比无效
+      - http://www.noobyard.com/article/p-obgbrdla-kr.html
 # Dev log
 ## 2021/3/17
 ### Uncaught (in promise) RangeError: Maximum call stack size exceeded

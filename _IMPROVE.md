@@ -2,17 +2,24 @@
 - [Table of Contents](#table-of-contents)
 - [Self-education with full connection with publication](#self-education-with-full-connection-with-publication)
   - [Cthulhu's Touch](#cthulhus-touch)
+    - [Non-Certifiable](#non-certifiable)
     - [Certifiable](#certifiable)
   - [Handyman's Toolkit](#handymans-toolkit)
     - [Certifiable](#certifiable-1)
-    - [Non-Certifiable](#non-certifiable)
-  - [Horus's Eye](#horuss-eye)
     - [Non-Certifiable](#non-certifiable-1)
+  - [Horus's Eye](#horuss-eye)
+    - [Non-Certifiable](#non-certifiable-2)
   - [Devil's tongue](#devils-tongue)
     - [Certifiable](#certifiable-2)
+  - [Blood, Money, and humanity](#blood-money-and-humanity)
 
 # Self-education with full connection with publication
 ## Cthulhu's Touch
+### Non-Certifiable
+- Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer
+  - [link](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+  - Videomark: 15-05
+    - Style: German Subtitle
 ### Certifiable
 - Introduction to Complexity Science
   - https://www.coursera.org/learn/complexity/course-inbox
@@ -46,8 +53,10 @@
 ### Non-Certifiable
 - [Intro to Data Science - Crash Course for Beginners](https://www.youtube.com/watch?v=N6BghzuFLIg)
 - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+  - Videomark: 46:02
 ## Devil's tongue
 ### Certifiable
 - Business English: Networking
   - https://www.coursera.org/learn/business-english-intro
 
+## Blood, Money, and humanity

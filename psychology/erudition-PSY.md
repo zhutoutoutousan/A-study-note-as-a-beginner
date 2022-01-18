@@ -40,7 +40,7 @@
     - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
     - Process 1
       - Language level reach, initiate serious and fast reading
-      - Progress: 18/125 - para 2
+      - Progress: 19/125 - *...Parmi les carateres...*
 # Mind Control
 - Disrupted: My misadventure in the start-up bubble
 - Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?

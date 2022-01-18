@@ -173,17 +173,8 @@ days, dimension, performance
 - \[RECOVERY\]: Shoulder
 - \[RECOVERY\]: Strength
 - \[RECOVERY\]: Lower Back
-- Sonntag
-  - Back
-  - Run 2.5km
 - Montag
-  - Off day due to work
+   - 1800/2300 50/180
+   - Walking
 - Dienstag
-  - Chest
-  - Bicycle 6km
-- Mittwoch
-  - Core+Bicep+Tricep
-- Donnerstag
-  - Leg 
-- Freitag
-  - Shoulder+Core
+    - 700/2300 32/180

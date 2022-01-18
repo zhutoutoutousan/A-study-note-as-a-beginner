@@ -18,6 +18,8 @@
 - [P.O.I](#poi)
 - [Minor resources](#minor-resources)
 - [Paper and personal research](#paper-and-personal-research)
+- [Appendix](#appendix)
+  - [M-ITGT001](#m-itgt001)
 
 # Guidance
 - [How to learn pure mathematics on your own: a complete self-study guide](https://www.youtube.com/watch?v=fo-alw2q-BU&t=23s)
@@ -91,10 +93,9 @@
 # Probability theory
 - Probability Theory: The Logic of Science
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
-  - Process
+  - Process 1
     - Goal - *Waste some time*: It doesn't hurt just to waste some time of your life, does it?
-    - Bookmark: 43/758
-    - *Invoked*: 9min - 2021/8/17
+    - Bookmark: 44/758 - 1.16
 - [Probability theory](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 - [Probability and measure](https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf)
 # Set theory
@@ -127,6 +128,7 @@
       - Progress: 20/641
 # Graph theory
 - Introduction to Graph Theory - R.J.Wilson
+  - Label: M-ITGT001
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
   - Process 1(Slow-paced)
     - Goal: Lay the foundation for network theory
@@ -152,3 +154,17 @@
 # Minor resources
 
 # Paper and personal research
+
+# Appendix
+## M-ITGT001
+- _Name: Introduction to Graph Theory - R.J.Wilson
+- 8 Matching, marriage and Menger's theorem
+  - _related
+  - 29 Network flows
+    - _Start: 135
+    - _End: 140
+    - Anchor: 136 *...The study of maximum flows...*
+    - Internalization level:
+    - Supplements
+      - [The Handshaking Dilemma](http://mathonline.wikidot.com/the-handshaking-dilemma)
+        - 40%

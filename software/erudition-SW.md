@@ -34,6 +34,8 @@
 - [Software Architecture](#software-architecture)
 - [Software testing](#software-testing)
 - [Development Project](#development-project)
+- [Appendix](#appendix)
+  - [ITA001](#ita001)
 
 
 - MIGRATION ON GOING, DISINTEGRATE 2 ALL OTHER SECTIONS
@@ -162,6 +164,7 @@
 
 # Data structure and algorithms
 - Introduction to Algorithms 3rd Edition: 0-55/1313
+  - Hash: ITA001
   - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
   - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
@@ -493,3 +496,13 @@
 # Development Project 
 - [Rapid Development: Taming Wild Software Schedules](?)
 
+
+# Appendix
+## ITA001
+- Chapter 1
+- Chapter 2
+- Chapter 3
+- Chapter 4: Divide and Conquer
+  - 4.1 The maximum-subarray equation
+    - Internalization level: 30%
+    - Anchor: 91 ...A solution to...

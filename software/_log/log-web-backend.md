@@ -1,3 +1,35 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Learning Path](#learning-path)
+- [Reading](#reading)
+- [2021/3/18](#2021318)
+  - [Fxxking FQ blocking Golang Vscode download](#fxxking-fq-blocking-golang-vscode-download)
+- [2021/3/26](#2021326)
+  - [Entering Greek words in vim when using `golang`](#entering-greek-words-in-vim-when-using-golang)
+  - [go: cannot find main module, but found .git config to create a module there, run: go mod](#go-cannot-find-main-module-but-found-git-config-to-create-a-module-there-run-go-mod)
+- [2021/5/30](#2021530)
+  - [Starting Swagger UI on CentOS built on top of `express`](#starting-swagger-ui-on-centos-built-on-top-of-express)
+- [2021/10/6](#2021106)
+  - [Points to consider](#points-to-consider)
+- [2021/11/23-](#20211123-)
+  - [Java Reboot](#java-reboot)
+    - [Main](#main)
+    - [Sub](#sub)
+  - [Database Design](#database-design)
+- [2021/12/6](#2021126)
+  - [`Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`](#cannot-invoke-javaxscriptscriptengineevalstring-because-engine-is-null)
+  - [`Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Unexpected end of stream.`](#cannot-get-jedis-connection-nested-exception-is-redisclientsjedisexceptionsjedisconnectionexception-unexpected-end-of-stream)
+
+# Learning Path
+- Engineering
+  - JVM
+  - Multi-threading
+  - MySQL
+- Science Research
+  - [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+- Startups
+  - [How to build a startup](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+  - [Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI](https://www.youtube.com/watch?v=GDa8kZLNhJ4)
 # Reading
 - [deep-into-node](https://yjhjstz.gitbooks.io/deep-into-node/content/chapter1/chapter1-0.html)
   - Sitemark:  V8 concept

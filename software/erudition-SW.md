@@ -34,7 +34,7 @@
 - [Software Architecture](#software-architecture)
 - [Software testing](#software-testing)
 - [Development Project](#development-project)
-- [Appendix](#appendix)
+- [Rigorous Reading Playground](#rigorous-reading-playground)
   - [ITA001](#ita001)
 
 
@@ -170,8 +170,7 @@
   - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
   - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
   - Process 1
-    - Progress: 90/86-
-    - Style: Work with `Jupyter`, `GNU Octave`, train along with `leetcode`
+    - Style: Rigorous --> To exclusive space
 - LeetCode Cookbook Analysis in Go
   - [link1](https://books.halfrost.com/leetcode/)
 
@@ -497,12 +496,19 @@
 - [Rapid Development: Taming Wild Software Schedules](?)
 
 
-# Appendix
+# Rigorous Reading Playground
 ## ITA001
-- Chapter 1
-- Chapter 2
-- Chapter 3
-- Chapter 4: Divide and Conquer
-  - 4.1 The maximum-subarray equation
-    - Internalization level: 30%
-    - Anchor: 91 ...A solution to...
+- Foundations
+  - 1
+  - 2
+  - 3
+  - 4: Divide and Conquer
+    - 4.1 The maximum-subarray equation
+      - _mark: 91
+      - Internalization level: 30%
+      - Anchor: 91 ...A solution to...
+- Graph Algorithms
+  - Maximum Flow
+    - _start: 729
+    - _end:
+    - _mark:

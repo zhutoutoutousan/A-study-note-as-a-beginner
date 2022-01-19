@@ -47,6 +47,8 @@
   - Progress: 47/100
     - No more than 3 rounds per day
       - Container: 3/3 CUTOFF: 2022-1-17
+  - STATE: STOP, resume after endgame improves
+    - [link](https://lichess.org/study/hgfvYYmV)
 - Analysis
   - 4/100
   - No more than 1 round per day

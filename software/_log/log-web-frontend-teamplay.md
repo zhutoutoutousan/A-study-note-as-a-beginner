@@ -2,6 +2,7 @@
 ## Tools
 - [实时代码协作工具](https://zhuanlan.zhihu.com/p/128080741)
 - #ideasandinnovations
+- _LINK: https://drive.google.com/file/d/1QSMHdKjPB5BOzriO4xI5u2CHBMuaoCOD/view?usp=sharing
   - \[Unmanaged Idea\]: 通过爬虫/合作关系/API整合的方式, 收集StackOverflow, StackExchange及各种Community中的BUG和解决方案及可信度pair, 建立一个专门的Bug交流平台, 内置人类编程bug全景图(知识图谱呈现, 点击每个节点可以进入该bug的讨论区), 其中有个人踩过的坑和没踩过的(最终版)
     - 实体
       - 面向企业的解决方案 --> 原始数据积累是个问题

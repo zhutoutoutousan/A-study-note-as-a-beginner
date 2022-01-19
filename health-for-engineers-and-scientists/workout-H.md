@@ -115,6 +115,8 @@ days, dimension, performance
     - Only bench press is permitted
   - Solution to: *I don't even have the energy to make a daily workout plan* --> Preset plan template
   - \[IN EFFECT\]: ATHLEAN-X style
+    - Neck pain workaround
+    - Back pain workaround
     - Arm
       - Bicep
         - Cheat curl
@@ -177,4 +179,9 @@ days, dimension, performance
    - 1800/2300 50/180
    - Walking
 - Dienstag
-    - 700/2300 32/180
+    - 2300/2300 180/180
+- Mittwoch
+  - 1200/2300 60/180
+  - Shoulder recovery
+  - Bike ride 5km
+  - Running: 1.5km

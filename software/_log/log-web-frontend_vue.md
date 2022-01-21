@@ -60,6 +60,8 @@
   - el-table
     - Element el-table-column宽度设置百分比无效
       - http://www.noobyard.com/article/p-obgbrdla-kr.html
+- axios
+    - axios的request封装有时候react的this.props传不进去
 # Dev log
 ## 2021/3/17
 ### Uncaught (in promise) RangeError: Maximum call stack size exceeded

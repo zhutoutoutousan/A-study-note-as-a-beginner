@@ -116,6 +116,8 @@ days, dimension, performance
   - Solution to: *I don't even have the energy to make a daily workout plan* --> Preset plan template
   - \[IN EFFECT\]: ATHLEAN-X style
     - Neck pain workaround
+        - Equipment supported squat
+        - 
     - Back pain workaround
     - Arm
       - Bicep
@@ -151,6 +153,12 @@ days, dimension, performance
       - Chest supported row
       - W-T-Y raise
       - One-arm pull down
+    - Back
+      - Deadlift
+      - Weighted pull-up
+      - Chest supported row
+      - W-T-Y raise
+      - One-arm pull down
     - Leg(Lower back recovery)
       - Squat 6-8RM only
       - Bulgarian split squat
@@ -181,7 +189,16 @@ days, dimension, performance
 - Dienstag
     - 2300/2300 180/180
 - Mittwoch
-  - 1200/2300 60/180
+  - 2000/2300 180/180
   - Shoulder recovery
   - Bike ride 5km
   - Running: 1.5km
+- Donnerstag
+  - 0/2300 0/180 101.7/95
+  - Shoulder
+  - Shoulder recovery
+- Freitag
+  - 1400/2300 130/180
+  - Chest
+- Samtag
+- Sonntag

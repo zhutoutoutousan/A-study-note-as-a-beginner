@@ -12,6 +12,7 @@
   - [Devil's tongue](#devils-tongue)
     - [Certifiable](#certifiable-2)
   - [Blood, Money, and humanity](#blood-money-and-humanity)
+- [Completed](#completed)
 
 # Self-education with full connection with publication
 ## Cthulhu's Touch
@@ -47,6 +48,8 @@
 ### Certifiable
 - Occupation-related Applied AI Technology curriculum
   - Not applicable
+- Udemy - 3D modeling and programming
+  - [Complete Blender Creator: Learn 3D Modelling for Beginners](https://www.udemy.com/course/blendertutorial/)
 - Udemy - Database Design & Development Courses
   - Database
     - [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/)
@@ -68,3 +71,8 @@
   - https://www.coursera.org/learn/business-english-intro
 
 ## Blood, Money, and humanity
+
+
+# Completed
+- Introduction to Blockchain
+  - [link](https://www.coursera.org/learn/blockchain)

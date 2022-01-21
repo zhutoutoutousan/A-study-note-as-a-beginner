@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MB_GIT.md",
+            "file": "health-for-engineers-and-scientists/workout-H.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MB_GIT.md",
+                "file": "health-for-engineers-and-scientists/workout-H.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MB_GIT.md"
+                "file": "health-for-engineers-and-scientists/workout-H.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MB_GIT.md",
+                "file": "health-for-engineers-and-scientists/workout-H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "64c1bb6d3d16b209",
   "lastOpenFiles": [
+    "health-for-engineers-and-scientists/workout-H.md",
     "MB_GIT.md",
     "complexity-and-chaos/log-CMP_roadmap.md",
     "complexity-and-chaos/terminology-CMP.md",
@@ -146,7 +147,6 @@
     "business/_log-B/log_business-BA.md",
     "business/_log-B/log_business-career.md",
     "business/_log-B/log_business-commerce.md",
-    "business/_log-B/log_business-consulting.md",
-    "business/_log-B/log_business-CPA-CFA.md"
+    "business/_log-B/log_business-consulting.md"
   ]
 }

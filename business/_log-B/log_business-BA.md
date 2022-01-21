@@ -57,6 +57,10 @@
 # Outbound space
 #NewTech-BusinessAnalyst
 
+# Lifecycle
+## Marketing research
+- http://www.woshipm.com/user-research/4479469.html
+
 # Erudition
 - Don't make me think
   - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)

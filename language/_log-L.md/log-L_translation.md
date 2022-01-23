@@ -4,6 +4,25 @@
 - Language Material
   - [Euro](https://webgate.ec.europa.eu/sr/search-speeches)
 
+# Erudition
+- Note-taking for consecutive interpreting: A short course
+  - [link](https://drive.google.com/file/d/14BJoz6ddSenk_-EY8aQ3fVwGtJmQzoXL/view?usp=sharing)
+  - Bookmark: 35/240
+  - Active training tasks
+    - Speech structure recognition
+    - Symbol system establishment
+      - Internalization, symbol formalization, neural pathway maturization
+    - Training system BEAWARE
+      - Identifization of wrong training methods
+  - Sub-reading
+    - Writing Great Speeches: Professional Techniques You Can Use - Alan. M. Perlman
+    - CAN I BE A PUBLIC SPEAKER?
+      - [link](http://eprints.umpo.ac.id/4570/1/CAN%20I%20BE%20A%20PUBLIC%20SPEAKER%202ND%20ED.pdf)
+    - Type of speeches
+      - [link](https://www.ndu.edu.lb/Library/Assets/Files/WritingCenter/BusinessCommunicationHandouts/4.6.pdf)
+    - Speechwriting in Perspective: A Brief Guide to Effective and Persuasive Communication
+      - [link](https://sgp.fas.org/crs/misc/98-170.pdf)
+
 # 2021/6/15
 ## Lesson learned by some failed translation attempts
 - Lacking game terminology

@@ -1,6 +1,6 @@
 # Erudition
 - [The Minto Pyramid Principle_ Logic in Writing, Thinking, & Problem solving](https://drive.google.com/file/d/19u_QJYZ_n-sDVwu0-1FtrGipHZd9AJjD/view?usp=sharing)
-  - Bookmark: 25/275
+  - Bookmark: 26/275
   - 联系--图画--记忆的特征
     - 这种记忆的确很有效, 但是需要转化脑位, 脑位切换的过程也有开关损耗
       - 这种开关损耗的本质是采用不常见脑位思考问题的不习惯所带来的心理负担(纸老虎)还是真实存在?

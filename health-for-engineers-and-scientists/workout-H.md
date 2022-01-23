@@ -201,4 +201,7 @@ days, dimension, performance
   - 1400/2300 130/180
   - Chest
 - Samtag
+  - Offday
 - Sonntag
+  - 800/2300 140/180 100.6/95
+  - Leg Day

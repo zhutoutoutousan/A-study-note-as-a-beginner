@@ -87,7 +87,6 @@
     - 一天计划自己什么时候干什么, 需要多久干完
     - 对于一些不太会改动的大项可以提前一周将日程排好
     - 尝试每周开始将自己要做的事情做成一个思维导图, 将每天的工作按照思维导图进行排列
-      - 文档链接: https://www.mubucm.com/doc/61Ml1KSbWgM
     - 如果事情实在是太多, 能不能训练开发部分的记忆区块专门用来做脑内分析记忆?
 # 2021/1/11
 ## Experience gained from extremely agile daily efficiency strategy: MAXIMIZE EVERY SECOND
@@ -99,3 +98,9 @@
 
 # Handling with clients who don't know exactly what they want
 *客户购买产品的目的都是为了帮助自己解决问题，但是很多时候客户连自己都不太清楚他所临的问题。当他自己都需求不明确的时候，他只能想出一些不成熟的东西，却指望产品赶出一个demo看看样子。但是就这样成功的概率很低，所以会导致一遍一遍地改动需求，一直重复这个过程。*
+
+# 2021/1/21
+- On the edge, covered by snow, it feels like as if the water in the air has grown to the size of Dandelion floating around. The sky is glooming gray and bland. Looking down, I see a giant whirlpool the size of a world, but it's glowing white, my ears ringing with the fierce roar of the current. 'What am I waiting for, why am I frozen in place?' says the unknown.
+
+# 2021/1/23
+- Your hyper-active working state is like: Your brain activitity during that state actually makes schedules meaningless, because it's activity level becomes too high for that. You can simply fire multiple works without any extra work induced by context switch. Schedules only works when you're not in that hyper-active state

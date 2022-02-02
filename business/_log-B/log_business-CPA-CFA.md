@@ -3,7 +3,11 @@
 
 Asset Allocation
 
+# Roadmap
+- [CPA Books and Study Guide](https://www.wallstreetmojo.com/cpa-study-guide-books/)
 
+# Erudition
+- [THE CHaRTERED PROFESSIONaL aCCOUNTaNT COMPETENCY MaP Understanding the competencies a candidate must demonstrate to become a CPa](https://drive.google.com/file/d/1iyoMMvG-f0KIPBkdXLNE-CIu_paQA9zN/view?usp=sharing)
 # Corporate Finance
 - Source
   - [CFI](https://corporatefinanceinstitute.com/)

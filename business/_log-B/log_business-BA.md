@@ -1,6 +1,8 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
+- [Lifecycle](#lifecycle)
+  - [Marketing research](#marketing-research)
 - [Erudition](#erudition)
 - [Methodology](#methodology)
 - [Roadmap](#roadmap)

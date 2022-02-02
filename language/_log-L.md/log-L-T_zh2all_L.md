@@ -1,4 +1,9 @@
 Why are human beings so boring that they come up with these bullshit? Don't they have anything better to do in their lives? 
+# C
+- 长恨歌 - 白居易
+  - [全文翻译](https://28utscprojects.wordpress.com/2011/01/15/071/)
+  - 春宵苦短日高起, 从此君王不早朝
+    - [春宵苦短日高起，从此君王不早朝。](http://www.guoxuemeng.com/mingju/426552.html)
 # H
 - 海不辞水, 故能成其大
   - Sp: El mar es vasto, ya que no rechaza las gotas de agua

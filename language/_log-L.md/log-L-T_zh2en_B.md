@@ -11,16 +11,26 @@
   - 财政支出
 - 产品
   - 垂类平台模式
-
+# D
+- 代理商: Agents
 # E
 - 二级市场
+
+# F
+- BUSINESS
+  - 分销模式
+    - 公司型分销模式
+    - 松散型分销模式
+    - 管理型分销模式
 # G
-- 固定资产盘点
-  - Inventory of Fixed Assets
-    - [固定资产盘点方式系列篇第六篇——资产盘点形式](https://zhuanlan.zhihu.com/p/79428431)
+- BUSINESS
+  - 固定资产盘点
+    - Inventory of Fixed Assets
+      - [固定资产盘点方式系列篇第六篇——资产盘点形式](https://zhuanlan.zhihu.com/p/79428431)
 # K
 
 # J
+- 价格倒挂
 - 产品
   - 激活转化
 
@@ -30,14 +40,20 @@
 
 # W
 - 无形资产: Intangible Assets
-
+# O
+- BUSINESS
+  - 经营风险: Operating Risk SYMBOL cycle+'!'
 # P
 - 品牌价值: Brand Value
 
 # S
-- 社会财富
-- 剩余价值
-- 商誉
+- LAW
+  - 所有权: Proprietary rights/ownership
+- MONEY
+  - 社会财富
+  - 剩余价值
+- BUSINESS
+  - 商誉
 
 # T
 - 土地使用权

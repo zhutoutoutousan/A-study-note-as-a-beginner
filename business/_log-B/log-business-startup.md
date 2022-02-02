@@ -5,9 +5,18 @@
 - [From Idea to Startup](https://www.youtube.com/watch?v=byW6l5T4mxs)
   - Videomark: 4-19
 #### Stakeholders
+- Competitions
+  - [Ventureradar - Startup](https://www.ventureradar.com/startup/)
 - VC
-  - [Ernestine Fu: Introduction to Venture Capital](https://www.youtube.com/watch?v=nJjaHcoDfRE)
-    - Videomark: 2-35
+  - 101s
+    - [Ernestine Fu: Introduction to Venture Capital](https://www.youtube.com/watch?v=nJjaHcoDfRE)
+      - Videomark: 2-35
+  - Tools
+    - [ventureradar](https://www.ventureradar.com/)
+#### Documentations
+##### Business Plan
+- [怎样写创业计划书？](https://www.zhihu.com/question/23979557)
+- [怎样写好创业计划书ppt？](https://www.zhihu.com/question/21179623)
 ### Entities
 - Selbsthetzeneessensstoff
 

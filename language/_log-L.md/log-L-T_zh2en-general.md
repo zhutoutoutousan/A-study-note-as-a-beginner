@@ -179,6 +179,8 @@ Example
 - 留得青山在，不怕没柴烧: While there is life, there is hope.
 - 补票
   - Pay upon arrival
+- 宝盖头
+  - Chinese Radical of Treasure Cover 
 ## C
 - 常任理事国
 - 春天的故事

@@ -12,6 +12,7 @@
   - [Devil's tongue](#devils-tongue)
     - [Certifiable](#certifiable-2)
   - [Blood, Money, and humanity](#blood-money-and-humanity)
+    - [Certifiable](#certifiable-3)
 - [Completed](#completed)
 
 # Self-education with full connection with publication
@@ -71,8 +72,9 @@
   - https://www.coursera.org/learn/business-english-intro
 
 ## Blood, Money, and humanity
-
-
+### Certifiable
+- [Introduction to Finance and Accounting Specialization](https://www.coursera.org/specializations/finance-accounting)
+- [Financial Reporting Specialization](https://www.coursera.org/specializations/financial-reporting)
 # Completed
 - Introduction to Blockchain
   - [link](https://www.coursera.org/learn/blockchain)

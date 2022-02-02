@@ -8,3 +8,8 @@
 # Macro and Micro
 - Quantifying causal emergence shows that macro can beat micro
   - [link](https://www.pnas.org/content/110/49/19790)
+  - Paper reading process 1
+    - Papermark:
+    - Recursive learning ground
+      - Discrete System
+        - ENTER any discrete system book available

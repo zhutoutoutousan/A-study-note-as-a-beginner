@@ -1,3 +1,7 @@
+# Erudition
+- Case In Point: Complete Case Interview Preparation, 8th Edition
+  - [link](https://drive.google.com/file/d/1b61dZ9BV7meuwP6gpuygHod-J0UEvHgV/view?usp=sharing)
+
 # Buffer to permanent Note
 ## Roadmap
 - [优秀咨询顾问怎样炼成的](http://www.vsharing.com/k/consulting/2007-1/536926.html)

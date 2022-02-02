@@ -1,13 +1,29 @@
 # Erudition
+- The Unfair Advantage: How You Already Have What It Takes to Succeed
+  - 
 - [The Minto Pyramid Principle_ Logic in Writing, Thinking, & Problem solving](https://drive.google.com/file/d/19u_QJYZ_n-sDVwu0-1FtrGipHZd9AJjD/view?usp=sharing)
   - Bookmark: 26/275
-  - 联系--图画--记忆的特征
-    - 这种记忆的确很有效, 但是需要转化脑位, 脑位切换的过程也有开关损耗
-      - 这种开关损耗的本质是采用不常见脑位思考问题的不习惯所带来的心理负担(纸老虎)还是真实存在?
-        - 如果不存在, 如何降低心理负担?
-        - 如果真实存在, 那么如何调整?
-  - *Controlling the sequence in which you present your ideas is the single most important act necessary to clear writing*
-  - Application is king
-    - Write down app if u have time
-  - *All of this suggests that the clearest written documents will be those that consistently present their information from the top down, in a pyramidal structure, even though the original thinking will have been done from the bottom up*
-    - If not so, to which layer of corporate, social, interpersonal hierarchy does it start to be NOT HAND-OFF-READY?
+  - FROM 2022/1/31:
+    - Watering: Search for similar topic and tandem with logic course
+    - Advanced Watering: Use different choices of advanced tandem for sustainable improvement
+      - META: Search YouTube directly for ENTRIES
+      - Legal Debate
+  - Learned
+    - Rules
+      - DURING WRITING, TEST AGAINST THESE RULES
+        - Ideas at any level in the pyramid must always be summaries of the ideas grouped below them
+        - Ideas in each grouping must always be the same kind of idea
+        - Ideas in each grouping must always be logically ordered
+  - Thoughts
+    - Mental change
+      - 联系--图画--记忆的特征
+        - 这种记忆的确很有效, 但是需要转化脑位, 脑位切换的过程也有开关损耗
+          - 这种开关损耗的本质是采用不常见脑位思考问题的不习惯所带来的心理负担(纸老虎)还是真实存在?
+            - 如果不存在, 如何降低心理负担?
+            - 如果真实存在, 那么如何调整?
+    - Realizing what's important
+      - *Controlling the sequence in which you present your ideas is the single most important act necessary to clear writing*
+      - Application is king
+        - Write down app if u have time
+      - *All of this suggests that the clearest written documents will be those that consistently present their information from the top down, in a pyramidal structure, even though the original thinking will have been done from the bottom up*
+        - If not so, to which layer of corporate, social, interpersonal hierarchy does it start to be NOT HAND-OFF-READY?

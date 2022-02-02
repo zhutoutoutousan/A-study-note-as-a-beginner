@@ -104,3 +104,11 @@
 
 # 2021/1/23
 - Your hyper-active working state is like: Your brain activitity during that state actually makes schedules meaningless, because it's activity level becomes too high for that. You can simply fire multiple works without any extra work induced by context switch. Schedules only works when you're not in that hyper-active state
+- I can't stop...When I look back on what I was working on over the last half a year, everything I have accumulated is pushing me forward. I can't stop.
+
+- **Working wishlist - Being parsimonious for a reason, you still need to spend**
+  - **A pad is getting increasingly useful**
+    - **A product design actually requires that kind of equipment which will probably yield MILLIONS or BILLIONS if you start right now**
+
+# 2021/1/24
+- 对于创新，我的定位应为加速器，不一定要引领团队

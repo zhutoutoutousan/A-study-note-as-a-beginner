@@ -13,7 +13,17 @@
 
 # Erudition
 - 内网渗透测试：初探远程桌面的安全问题
-
+- Pro Git
+  - #activereading
+  - [link](https://git-scm.com/book/en/v2)
+  - Booktrail: 
+    - S-1.6
+      - Undoing things
+      - 3.1 Branching
+        - Checksum
+          - [Hash function](https://zh.wikipedia.org/wiki/%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B8)
+    - 1.6-2.1
+      - 2.1
 # Security
 - RDP
   - [内网渗透｜基于文件传输的 RDP 反向攻击](https://www.wangan.com/p/7fygf7c8abb0b427)
@@ -87,3 +97,7 @@ Q|JiS#j[4)2kGWC _13
 ## Windows Server - Add some client features
 - Install something without using Internet Explorer
   - [在 Windows Server 上使用Powershell 一键安装 Chrome](https://www.dengnz.com/2019/07/04/%E5%9C%A8-windows-server-%E4%B8%8A%E4%BD%BF%E7%94%A8powershell-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85-chrome/)
+
+
+# 2021/3/18
+## How to automate the password entering process using shell?

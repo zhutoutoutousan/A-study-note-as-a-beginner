@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Erudition](#erudition)
 - [后端踩坑树](#后端踩坑树)
 - [Learning Path](#learning-path)
 - [Reading](#reading)
@@ -20,6 +21,113 @@
 - [2021/12/6](#2021126)
   - [`Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`](#cannot-invoke-javaxscriptscriptengineevalstring-because-engine-is-null)
   - [`Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Unexpected end of stream.`](#cannot-get-jedis-connection-nested-exception-is-redisclientsjedisexceptionsjedisconnectionexception-unexpected-end-of-stream)
+
+# Erudition
+- Golang
+  - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
+  - Programming in Go: Creating Application for the 21st Century
+    - [link1](https://github.com/diptomondal007/GoLangBooks/blob/master/Programming%20in%20Go/Programming%20in%20Go.pdf)
+    - [link2](https://drive.google.com/file/d/12Aq0dHcd0ZS7ZXCVuFNdyDekP7D3JjMC/view?usp=sharing)
+    - Process 1
+      - Style and goals
+        - Just reading, don't test code
+      - Progress: 57/493
+      - Skipped for `Practice 1.5` for it is too confusing
+      - It's really a stupid idea to just type along, knock it off, dude.. Just watch and copy, just like you started learning Spanish when already fluent in English
+        - This book is reaaaally poor organized man
+    - Process 2
+      - Style and goals
+        - Just test code
+      - Source code: https://github.com/book-source/goeg
+  - Building microservices in Go
+    - [link](https://github.com/diptomondal007/GoLangBooks/blob/master/building-microservices-go.pdf)
+  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=1181s)
+    - Progress: 21:26/6:39:57
+  - Go for JavaScript Developers
+    - [link](https://frontendmasters.com/courses/go-for-js-devs/)
+  - Golang projects
+    - Go Todolist
+      - [Go Todo list](https://github.com/shiniao/gtodo)
+    - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
+- J2EE
+  - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
+    - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
+      - Pretty slow to load
+    - Process 1:
+      - Goals
+        - Getting to know the basic syntax
+        - Follow along the programming environment setting
+      - SKIMMED: 43-54
+        - The features of Java, recommended start reading after having worked with Java for some time
+      - Follow along 64- 
+        - This phase should be pleasant and fast
+  - Spring in Action
+    - [link](http://index-of.es/Java/Manning%20-%20Spring%20in%20action%20%5BPrerelease%5D.pdf)
+      - Bookmark: 32/472
+  - XDoclet In action
+- Database
+  - Application
+    - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
+  - [Advanced SQL Database Programmers Handbook](http://0d1.cn/dbs/books/SQL%20Server/Rampant.TechPress.Advanced.SQL.Database.Programmer.Handbook.eBook-DDU.pdf)
+    - Progress: 15/113
+  - Fundamentals of Database Systems Seventh Edition
+    - #activereading
+    - [link1](https://www.auhd.site/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
+    - Process 1
+      - Goal
+        - This human being is currently insane, therefore, there is no goal available
+    - Bookmark: 43/1273
+    - Style: Osmosis
+    - Solutional manual: P14
+  - Postgres: The First Experience
+    - [link](https://edu.postgrespro.ru/introbook_v6_en.pdf)
+    - Progress
+      - Mobile Termux
+        - Progress: 38
+        - LOCKED: Require your ability to `root` an Android device
+      - PuTTY - 174/174
+        - P69: You can challenge yourself by using a larger database
+        - P76-174 Problem solving skills
+          - You can learn any time, for your condition in 2021/2/23, it's good enough.
+        - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+          - Progress: 2:14/18:18
+      - Windows
+  - Database Design - 2nd Edition
+    - [link1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/12/CS403-1.10-Database-Design-2nd-Edition-CCBY.pdf)
+    - Process 1
+      - Progress: 82/136
+      - Recommended review all of those concepts every time you read it again before embarking where you left last time
+      - Key points
+        - Basic concepts and terminologies
+        - P54: ER graph is very important, make sure you make no misunderstandings
+      - P.O.I
+        - [Edgar F. Codd](https://en.wikipedia.org/wiki/Edgar_F._Codd)
+          - The pioneer of relational database
+      - Reading style
+        - Print the `ER diagram` if you want to review those practice 
+      - Reading stamps
+        - Not reading thoroughly for P69-P73 as `funcitonal dependencies`
+          - Require more `osmosis`
+        - Same for `Normalization` 
+        - P90-\$ skipped for overlap with `Postgresql`
+      - More skills
+        - Performance tunning
+          - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
+    - Process 2
+- API & Design Pattern
+  - Architectural Styles and the Design of Network-based Software Architectures
+    - [link](http://presentations.t-code.pl/hateoas/fielding_dissertation.pdf)
+    - Progress: 17/180
+  - Basics of Software Engineering Experimentation
+    - [link](http://www.grise.upm.es/docs/Basics_of_Software_Engineering_Experimentation.pdf)
+  - GraphQL Api design - Mathias Biehl
+  - REST API Design Rulebook - O'Reilley
+    - [link](https://github.com/indrabasak/Books/blob/master/REST%20API%20Design%20Rulebook.pdf)
+  - JWT handbook
+    - [link](https://github.com/indrabasak/Books/blob/master/jwt-handbook.pdf)
+  - Production ready microservices
+    - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
+
 
 # 后端踩坑树
 - Backend

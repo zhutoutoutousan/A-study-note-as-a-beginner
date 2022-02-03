@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Erudition](#erudition)
 - [前后端沟通踩坑树](#前后端沟通踩坑树)
 - [2021/8/4-](#202184-)
 - [2021/8/2](#202182)
@@ -35,6 +36,46 @@
   - [前端开发如何调试大屏/巨屏/拼接屏?](#前端开发如何调试大屏巨屏拼接屏)
 - [2021/12/6](#2021126)
   - [你run了下`npm i`, 结果`npm audit`显示一堆vulnerability, 其中有两个critical, 你该怎么做?](#你run了下npm-i-结果npm-audit显示一堆vulnerability-其中有两个critical-你该怎么做)
+
+CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
+
+# Erudition
+- Flow
+  - Getting MEAN with Mongo, Express, Angular, and Node 0/?
+    - [Link1](https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf)
+  - 微信公众平台应用开发实战
+    - [link1](https://drive.google.com/file/d/1zqFLY7wHVA0-l4wxM6dN1oEFfQwPNb1V/view?usp=sharing)
+  - HTML 5 Mobile Development Cookbook
+    - [link1](https://drive.google.com/file/d/1JUUBZvCNI0_rVQb1j8Xkdzoa-LfeemXU/view?usp=sharing)
+    - Progress: 25
+  - HTML5移动Web+Vue.js应用开发实战
+    - Process 1
+      - Goal: Have a general grasp of knowledge in Chinese
+      - Style: Hit and run, till feeling very comfortable
+- Framework
+  - React
+    - Learning React
+      - [link](https://drive.google.com/file/d/1sxI3pyh_eHO_Hn1O8daIy06W5hLIequQ/view?usp=sharing)
+    - React Deep Dive 
+- You don't know JS
+  - [link1](https://drive.google.com/file/d/1j4duc5npkyXlgEZigos3iuxFxKtFJf8H/view?usp=sharing)
+  - Process 1
+    - Approach: Osmosis
+    - Progress:  22/87
+- 深入浅出Node.js
+  - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
+
+
+- Functional programming in JavaScript 24/274
+
+- High Performance Browser Networking
+  - [link1](https://github.com/varunkashyapks/Books/blob/master/High-Performance-Browser-Networking-Ilya-Grigorik.pdf)
+  - I can't address more of the importance of reading this book as a front-end engineer, this is definitely a go-to book if you wanna be a good  front-end engineer
+- Web Application Architecture Principles, protocols and practices
+  - [link](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Web-Application-Architecture-Principles-Protocols-and-Practices.pdf)
+  - Another good book to have better view of how everything works together
+
+
 
 # 前后端沟通踩坑树
 - 传日期

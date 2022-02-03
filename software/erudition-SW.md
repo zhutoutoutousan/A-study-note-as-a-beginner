@@ -42,7 +42,7 @@
 - Single depth is not enough, consider nesting after getting more experience
 
 
-
+CONSIDER FURTHUR DISPERSE IT INTO LOG
 
 # Overview
 - [An introduction to Software Engineering](http://index-of.co.uk/Engineering/Introduction%20to%20Software%20Engineering.pdf)

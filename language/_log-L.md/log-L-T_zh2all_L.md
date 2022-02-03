@@ -1,4 +1,10 @@
 Why are human beings so boring that they come up with these bullshit? Don't they have anything better to do in their lives? 
+# _
+- 英译唐诗三百首
+  - [link](https://28utscprojects.wordpress.com/tang320/)
+- 英譯宋詞三百首
+  - [link](https://28utscprojects.wordpress.com/song310/)
+
 # C
 - 长恨歌 - 白居易
   - [全文翻译](https://28utscprojects.wordpress.com/2011/01/15/071/)

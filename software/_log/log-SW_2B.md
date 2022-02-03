@@ -1,54 +1,60 @@
+# Erudition
+- IS
+  - [MANAGEMENT INFORMATION SYSTEMS ](https://sctevtservices.nic.in/docs/website/pdf/140304.pdf)
+  - [Information Systems](https://www.uky.edu/~gmswan3/777/IS_Book.pdf)
+- Blockchain
+  - female aisle shell galaxy trim amateur close alone evoke wealth pretty balcony
+  - [An Introduction to Internet Governance](https://www.ncc.gov.ng/docman-main/internet-governance/610-introduction-to-internet-governance/file)
+  - [Behavioral Crypto-Economics: The Challenge and Promise of Blockchain Incentive Design](https://medium.com/lunar-ventures/behavioral-crypto-economics-6d8befbf2175)
+  - [Distributed Ledger Technology(DLT) and Blockchain](https://openknowledge.worldbank.org/bitstream/handle/10986/29053/WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf?sequence=5)
+  - [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+    - Stage 1 Reading Process
+      - Papermark: 9/9
+      - Track descriptor:
+      - Questions
+        - Explain to me how blockchain works?
+        - The paper dates back to 2008, what changes it has right now?
+      - Recursive learning field of concepts
+        - Byzantine fault
+        - Poisson distribution
+        - Gambler's Ruin problem
+        - Binomial Random Walk
+          - [Random walk](https://en.wikipedia.org/wiki/Random_walk)
+        - mint
+        - routine escrow mechanisms
+        - Double-spending problem
+          - [Double-Spending - Investopedia](https://www.investopedia.com/terms/d/doublespending.asp)
+            - int level: 60%
+        - Best efforts
+          - int: 20%
+          - [Investopedia](https://www.investopedia.com/terms/b/bestefforts.asp)
+          - IPO(Initial public offerings)
+          - Underwriter
+            - Commission
+              - Gifts of equity
+          - Security offering
+          - \[OPP\]: Firm commitment
+            - int: 50%
+        - Proof-of-work
+          - int: 70%
+          - Distributed ledger --> Blockchain
+  - [Mastering Bitcoin: Programming the Open Blockchain](https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf)
+    - Process 0:
+      - Goal: Scout
+      - Bookmark: 
+    - Process 1:
+      - Bookmark: 20
+      - Goal: Tandem with the coursera course
+  - [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+## Overview
+- [An Introduction to Blockchain - What Does it Mean for the Accounting Profession?](https://www.cpajournal.com/2021/08/18/an-introduction-to-blockchain/)
+- [Blockchain Technology - Investopedia](https://www.investopedia.com/blockchain-technology-4689758)
+
+
 # Blockchain
 ## Resources
 - [Blockchain Research Institute](https://www.blockchainresearchinstitute.org/)
 - [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-## Erudition
-- female aisle shell galaxy trim amateur close alone evoke wealth pretty balcony
-- [An Introduction to Internet Governance](https://www.ncc.gov.ng/docman-main/internet-governance/610-introduction-to-internet-governance/file)
-- [Behavioral Crypto-Economics: The Challenge and Promise of Blockchain Incentive Design](https://medium.com/lunar-ventures/behavioral-crypto-economics-6d8befbf2175)
-- [Distributed Ledger Technology(DLT) and Blockchain](https://openknowledge.worldbank.org/bitstream/handle/10986/29053/WP-PUBLIC-Distributed-Ledger-Technology-and-Blockchain-Fintech-Notes.pdf?sequence=5)
-- [Bitcoin: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
-  - Stage 1 Reading Process
-    - Papermark: 9/9
-    - Track descriptor:
-    - Questions
-      - Explain to me how blockchain works?
-      - The paper dates back to 2008, what changes it has right now?
-    - Recursive learning field of concepts
-      - Byzantine fault
-      - Poisson distribution
-      - Gambler's Ruin problem
-      - Binomial Random Walk
-        - [Random walk](https://en.wikipedia.org/wiki/Random_walk)
-      - mint
-      - routine escrow mechanisms
-      - Double-spending problem
-        - [Double-Spending - Investopedia](https://www.investopedia.com/terms/d/doublespending.asp)
-          - int level: 60%
-      - Best efforts
-        - int: 20%
-        - [Investopedia](https://www.investopedia.com/terms/b/bestefforts.asp)
-        - IPO(Initial public offerings)
-        - Underwriter
-          - Commission
-            - Gifts of equity
-        - Security offering
-        - \[OPP\]: Firm commitment
-          - int: 50%
-      - Proof-of-work
-        - int: 70%
-        - Distributed ledger --> Blockchain
-- [Mastering Bitcoin: Programming the Open Blockchain](https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf)
-  - Process 0:
-    - Goal: Scout
-    - Bookmark: 
-  - Process 1:
-    - Bookmark: 20
-    - Goal: Tandem with the coursera course
-- [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
-## Overview
-- [An Introduction to Blockchain - What Does it Mean for the Accounting Profession?](https://www.cpajournal.com/2021/08/18/an-introduction-to-blockchain/)
-- [Blockchain Technology - Investopedia](https://www.investopedia.com/blockchain-technology-4689758)
 # 2021/9/27
 ## Informatica study
 - Why should I even bother?

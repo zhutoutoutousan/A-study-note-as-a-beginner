@@ -64,8 +64,10 @@
   - [Your personality may be too introvert, consider changing?](#your-personality-may-be-too-introvert-consider-changing)
 - [2021/12/12](#20211212)
   - [No more GI tract complaint](#no-more-gi-tract-complaint)
-- [2022/1/25-2022/1/31](#2022125-2022131)
-  - [Caught a cold](#caught-a-cold)
+- [2022](#2022)
+  - [2022/1/25-2022/1/31](#2022125-2022131)
+    - [Caught a cold](#caught-a-cold)
+    - [2022/2/1-2022/2/7](#202221-202227)
 
 #thehealthmatters
 
@@ -418,6 +420,12 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 - No vegetable intake --> Maybe you should not take so much vegetables?
 - Reduce the fiber intake, no more fiber if you have the good bacteria in your gut, it's a good way to reduce the GI tract compaint. 
 
-# 2022/1/25-2022/1/31
-## Caught a cold
+
+# 2022
+## 2022/1/25-2022/1/31
+### Caught a cold
 - Muscle ache
+
+### 2022/2/1-2022/2/7
+- Fever, headache, runny nose have gone away
+- Weakness, foggy feeling, coughing is still there

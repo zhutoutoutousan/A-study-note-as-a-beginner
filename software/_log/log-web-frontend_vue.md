@@ -1,7 +1,40 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Buffer to permanent note](#buffer-to-permanent-note)
+- [Draft Vue Note](#draft-vue-note)
+- [Vue Sourcecode Reading](#vue-sourcecode-reading)
+  - [Basics](#basics)
+- [Resource](#resource)
+- [前端踩坑树](#前端踩坑树)
+- [Dev log](#dev-log)
+  - [2021/3/17](#2021317)
+    - [Uncaught (in promise) RangeError: Maximum call stack size exceeded](#uncaught-in-promise-rangeerror-maximum-call-stack-size-exceeded)
+- [2021/5/30](#2021530)
+  - [Vue source code study - AST part](#vue-source-code-study---ast-part)
+- [2021/6/9](#202169)
+  - [Understand Vue reactiveness](#understand-vue-reactiveness)
+- [2021/7/21](#2021721)
+  - [Reading therapy](#reading-therapy)
+- [2021/10/31-](#20211031-)
+  - [Three + Vue3 + --> trois.js](#three--vue3-----troisjs)
+
 # Buffer to permanent note
 #dailyreview
 
 - Initiate structured Vue proficiency development plan
+  - 踩坑树可以用来用结构地记录经验
+
+
+# Draft Vue Note
+- 目录
+- Vue基础Entries
+  - Element-ui表单组件基础
+- Vue组件库Entries
+- Vue业务组件设计Entries
+- Vue开发项目流程控制
+- Vue踩坑树
+- Vue源码阅读和分析
+
 
 # Vue Sourcecode Reading
 ## Basics
@@ -14,6 +47,8 @@
 - [GitHub Repositories](https://github.com/orgs/vuejs/repositories)
 
 # 前端踩坑树
+- 业务
+  - 业务逻辑不清导致组件化设计失败
 - Web3D
   - three.js
 - 模板引擎
@@ -23,7 +58,12 @@
     - treeselect
       - 熟练度
         - [vue-treeselect](https://vue-treeselect.js.org/)
+  - 组件化
+    - 复用相同的UI框架的组件，渲染出来的样式/显示不同
+      - [vue项目中遇到复用相同的UI框架的组件，但想要渲染出来的样式不同的解决方案](https://blog.csdn.net/meoncih_/article/details/107649348)
 - UI框架
+  - _General
+    - 多个UI框架之间发生冲突
   - Element-UI
     - el-dialog
       - 操作
@@ -72,6 +112,7 @@
           - [el-input 修改v-model的值，DOM不更新](https://segmentfault.com/q/1010000020135996)
     - el-calendar
     - el-table
+      - table宽度不响应 --> :min-width
       - Element el-table-column宽度设置百分比无效
         - http://www.noobyard.com/article/p-obgbrdla-kr.html
   - Material-UI

@@ -1,5 +1,9 @@
 # B
 - 悲观锁
+
+# F
+- Finite-state machine
+  - [link](https://en.wikipedia.org/wiki/Finite-state_machine)
 # L
 - 逻辑删除
   - [逻辑删除还是物理删除](https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/04.html)

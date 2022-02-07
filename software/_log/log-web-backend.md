@@ -14,6 +14,7 @@
 - [2021/10/6](#2021106)
   - [Points to consider](#points-to-consider)
 - [2021/11/23-](#20211123-)
+  - [SQL](#sql)
   - [Java Reboot](#java-reboot)
     - [Main](#main)
     - [Sub](#sub)
@@ -51,16 +52,17 @@
     - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
 - J2EE
   - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
-    - [Link1](http://ikucukkoc.baun.edu.tr/lectures/EMM3115/Learning_Java.pdf)
+    - [Link1](https://rabinhoosh.com/wp-content/uploads/2020/06/Learning-Java-4th-Edition.pdf)
       - Pretty slow to load
     - Process 1:
-      - Goals
-        - Getting to know the basic syntax
-        - Follow along the programming environment setting
-      - SKIMMED: 43-54
-        - The features of Java, recommended start reading after having worked with Java for some time
-      - Follow along 64- 
-        - This phase should be pleasant and fast
+      - SKIM for reading plan
+        - Bookmark: 1010/1010
+        - Strategy
+          - Skim the basics with quick rhythm
+          - Skim faster when it comes to frontend java, can jump over
+          - Focus on JavaBean
+      - Reading
+        - Bookmark: 66/1010
   - Spring in Action
     - [link](http://index-of.es/Java/Manning%20-%20Spring%20in%20action%20%5BPrerelease%5D.pdf)
       - Bookmark: 32/472
@@ -191,17 +193,17 @@ Too much of a fxxking hassle, maybe when I reaaaally have the time
 - 硬删除/软删除
 
 # 2021/11/23-
+## SQL
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+  - Videomark: 
 ## Java Reboot
 ### Main
 - Java
   - [How To Master Java - Java for Beginners Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
   - [Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ)
     - Process 1
-      - Style: Hands-on
-      - Videomark: 18:45/1:49:28
-    - Process 2
       - Style: Watch
-      - 40:37/1:49:28
+      - 45:17/1:49:28
   - [Java Interview Questions and Answers | Java Tutorial | Java Online Training | Edureka](https://www.youtube.com/watch?v=oYXivKMSEqM)
   - [Advance Java Full Course | Learn Java In 5 Hours | Java Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
     - 0:05/4:13:03

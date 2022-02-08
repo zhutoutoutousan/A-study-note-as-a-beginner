@@ -26,7 +26,7 @@
 - Introduction to Complexity Science
   - https://www.coursera.org/learn/complexity/course-inbox
 - Data Structures and Algorithms Specialization
-  - **Advanced Algorithms and Complexity** <-- ACTIVE
+  - **Advanced Algorithms and Complexity** <-- **ACTIVE**
     - https://www.coursera.org/learn/advanced-algorithms-and-complexity
     - Pick a time to complete in 7 days without rest
       - Preparation time
@@ -56,6 +56,7 @@
     - [The Complete Python/PostgreSQL Course 2.0](https://www.udemy.com/course/complete-python-postgresql-database-course/)
     - [Advanced SQL : SQL Expert Certification Preparation Course](https://www.udemy.com/course/sql-advanced/)
   - AWS
+    - [AWS Serverless with AWS Lambda, API Gateway, Amazon DynamoDB, Step Functions, SAM, the Serverless Framework, CICD & more](https://www.udemy.com/course/aws-lambda-serverless-architecture/learn/lecture/12903132#overview)  -- **ACTIVE**
     - [AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos)](https://www.udemy.com/course/dynamodb/)
 ### Non-Certifiable
 - [DevOps Prerequisites Course - Getting started with DevOps](https://www.youtube.com/watch?v=Wvf0mBNGjXY)

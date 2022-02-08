@@ -1,3 +1,39 @@
+# Study into pre-cooked meal: 预制菜的研究
+## Erudition
+- Food Quality
+  - ISO 9001
+
+- Information buffer
+  - [符合标准，赢得市场 2015 年贸易标准合规报告](https://www.unido.org/sites/default/files/files/2018-04/TSCR_Chinese_2015.pdf)
+  - [新时期食品安全社会共治研究报告](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/consumer-business/deloitte-cn-consumer-food-security-report-zh-200827.pdf)
+  - [食品安全标准的私法效力及其矫正](https://civillaw.com.cn/uploadfile/lmpic/20170526/20170526113047384.pdf)
+  - [建立中国食品安全治理体系](https://gfsc.mars.com/sites/g/files/jydpyr776/files/2020-04/%E5%BB%BA%E7%AB%8B%E4%B8%AD%E5%9B%BD%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%86%E4%BD%93%E7%B3%BB.pdf)
+  - [国际商会反垄断合规工具包](https://iccwbo.org/content/uploads/sites/3/2015/11/ICC-Antitrust-Compliance-Toolkit-MANDARIN.pdf)
+  - [我国食品安全的监管与治理政策研究](https://www.nsfc.gov.cn/csc/20345/20348/pdf/2013/%E6%88%91%E5%9B%BD%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E7%9A%84%E7%9B%91%E7%AE%A1%E4%B8%8E%E6%B2%BB%E7%90%86%E6%94%BF%E7%AD%96%E7%A0%94%E7%A9%B6%E2%80%94%E2%80%94%E7%AC%AC93%E6%9C%9F%E2%80%9C%E5%8F%8C%E6%B8%85%E8%AE%BA%E5%9D%9B%E2%80%9D%E5%AD%A6%E6%9C%AF%E7%BB%BC%E8%BF%B0.pdf)
+  - 食品安全监管与合规：理论、规范与案例
+  - [食品合规管理职业技能等级标准](https://pvc-e7031f9b-6522-11e9-883f-fa163e9e2c22.obs.cn-north-1.myhuaweicloud.com/prod%2Fimage%2F2021-04-02%2F380f7ec011d64405b0aeb0f3bb4ff1e8.pdf)
+## Marketing Research
+### _Information flow
+  - 2020
+    - [自热食品：一人食经济的“后浪”](http://www.199it.com/archives/1057901.html)
+  - 2021
+  - 2022
+### Player research: 玩家洞察
+#### 中国: 莫小仙
+##### 公司实体
+- Management Hierarchy
+  - CHL
+    - 
+##### 公司网站
+##### 公司供应链
+#### 中国: 自嗨锅
+## Supply chain insight: 供应链洞察
+## Staged framework
+- Study into pre-cooked meal
+  - Difference from meal delivery
+  - Difference from homecooked meal
+  - Difference from pre-provisioned meal service overseas
+## Outside idea-hierarchy
 # Start Lifecycle Control Center
 ## Idea Phase
 ### Information Pool
@@ -7,6 +43,7 @@
 #### Stakeholders
 - Competitions
   - [Ventureradar - Startup](https://www.ventureradar.com/startup/)
+  - 
 - VC
   - 101s
     - [Ernestine Fu: Introduction to Venture Capital](https://www.youtube.com/watch?v=nJjaHcoDfRE)

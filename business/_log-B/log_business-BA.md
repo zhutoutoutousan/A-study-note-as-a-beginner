@@ -19,6 +19,7 @@
     - [Data collection](#data-collection)
     - [Fact check](#fact-check)
     - [Industry study](#industry-study)
+      - [Specific](#specific)
       - [Channels](#channels)
       - [Human development level](#human-development-level)
       - [Capital](#capital)
@@ -63,7 +64,6 @@
 # Lifecycle
 ## Marketing research
 - http://www.woshipm.com/user-research/4479469.html
-
 # Tools
 - [PowerPoint Slide Design from Beginner to EXPERT in One Video 🔥100K Special🔥](https://www.youtube.com/watch?v=lxcHLxjkcXQ)
   - Videomark: 4:36
@@ -163,6 +163,7 @@ Ok, makes sense 2021-7-8
 ### Fact check
 - [Factly](https://factly.in/)
 ### Industry study
+#### Specific
 #### Channels
 - 商业洞见 --> TODO: 按靠谱程度排名
   - [商业新知](https://www.shangyexinzhi.com/)

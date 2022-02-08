@@ -13,9 +13,12 @@
 
 # AWS踩坑树
 - AWS API Gateway
+  - Overview CONFUSED
+    - [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
   - Create Model
     - ` Invalid model specified: Validation Result: warnings : [], errors : [Invalid model schema specified. Unsupported keyword(s): [...]`
-
+      - [json-schema.org](http://json-schema.org/learn/getting-started-step-by-step.html)
+  - Hardcode response
 # Erudition
 - [Cloud Services For Dummies, IBM Limited Edition](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf)
 

@@ -21,12 +21,31 @@
 ### Player research: 玩家洞察
 #### 中国: 莫小仙
 ##### 公司实体
+- Business Entity
+  - 灏腾国际贸易（上海）有限公司
+  - 上海莫小仙食品有限公司
 - Management Hierarchy
-  - CHL
-    - 
+  - WZQ
+    - History of Startups
+      - 黄金树
+    - Info
+      - [自热火锅品牌“莫小仙”创始人王正齐：以产品口感为核心，自热火锅市场占有率已达8%！](https://www.nongmaoyi.com/56608.html)
+      - [1](http://fbif.foodtalks.cn/cnsp/60d3d257f2ca31413d6ae5c1/)
 ##### 公司网站
+##### 公司产品
+##### 成功元素
+- 电商分销
+  - 双品牌战略中, 
+###### 产品定位
+###### 目标人群
 ##### 公司供应链
 #### 中国: 自嗨锅
+##### 公司实体
+- Management Hierarchy
+  - CHL
+    - [专访蔡红亮：在百草味上吃过的亏，都在自嗨锅上补回来了 ](https://www.sohu.com/a/471602095_561670)
+##### 公司网站
+##### 公司供应链
 ## Supply chain insight: 供应链洞察
 ## Staged framework
 - Study into pre-cooked meal

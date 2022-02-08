@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
 - [Lifecycle](#lifecycle)
+  - [Brand research](#brand-research)
   - [Marketing research](#marketing-research)
 - [Tools](#tools)
 - [Erudition](#erudition)
@@ -62,6 +63,11 @@
 #NewTech-BusinessAnalyst
 
 # Lifecycle
+## Brand research
+- [CNPP](https://www.cnpp.cn/analysis/)
+  - 品牌研究
+  - 品牌榜单
+  - 品牌大全
 ## Marketing research
 - http://www.woshipm.com/user-research/4479469.html
 # Tools

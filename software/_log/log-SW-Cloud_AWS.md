@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [AWS踩坑树](#aws踩坑树)
 - [Erudition](#erudition)
 - [_resource track](#_resource-track)
 - [Recursive Ransack Effort Track](#recursive-ransack-effort-track)
@@ -9,6 +10,11 @@
     - [Documentation Internalization](#documentation-internalization)
   - [AWS Kinesis](#aws-kinesis)
 - [_ARCHIVED_ contents](#archived-contents)
+
+# AWS踩坑树
+- AWS API Gateway
+  - Create Model
+    - ` Invalid model specified: Validation Result: warnings : [], errors : [Invalid model schema specified. Unsupported keyword(s): [...]`
 
 # Erudition
 - [Cloud Services For Dummies, IBM Limited Edition](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf)
@@ -30,6 +36,7 @@
 ## AWS SAM
 ### Documentation Internalization
 ## AWS Kinesis
+
 
 
 # _ARCHIVED_ contents

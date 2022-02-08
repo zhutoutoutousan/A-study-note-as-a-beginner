@@ -1,4 +1,0 @@
-BOUNDRY:
-    VISUALIZE
-    PIN
-    FIX

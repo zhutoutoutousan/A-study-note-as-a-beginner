@@ -1,5 +1,17 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [B](#b)
+- [E](#e)
+- [F](#f)
+- [L](#l)
+- [S](#s)
+- [T](#t)
+- [X](#x)
+
 # B
 - 悲观锁
+# E
+- Entity
 
 # F
 - Finite-state machine
@@ -20,7 +32,11 @@
 # S
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
-
+# T
+- Turing completeness: 图灵完备
+  - Wiki
+- Turing machine: 图灵机
+  - [Turing Machines Explained - Computerphile](https://www.youtube.com/watch?v=dNRDvLACg5Q)
 # X
 - 线程池
   - [Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)

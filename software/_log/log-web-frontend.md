@@ -1,5 +1,11 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Renovation plan --> 4-5 yrs](#renovation-plan----4-5-yrs)
+- [Knowledge flow](#knowledge-flow)
+  - [Tier-source](#tier-source)
+  - [Tier-1](#tier-1)
+  - [Tier-2](#tier-2)
+  - [Tier-3](#tier-3)
 - [Erudition](#erudition)
 - [前后端沟通踩坑树](#前后端沟通踩坑树)
 - [2021/8/4-](#202184-)
@@ -39,6 +45,20 @@
 
 CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 
+# Renovation plan --> 4-5 yrs
+- As you clarify all of those technical ecosystems, start merging them into one
+
+# Knowledge flow
+## Tier-source
+- [掘金](https://juejin.cn/)
+- Wx Accounts following
+## Tier-1
+- Stew
+  - [前端面试知识点（一）](https://juejin.cn/post/6987549240436195364)
+- Axios
+## Tier-2
+- [V8 编译浅谈](https://juejin.cn/post/7041021350114230285)
+## Tier-3
 # Erudition
 - Flow
   - Getting MEAN with Mongo, Express, Angular, and Node 0/?
@@ -62,9 +82,6 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
   - Process 1
     - Approach: Osmosis
     - Progress:  22/87
-- 深入浅出Node.js
-  - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
-
 
 - Functional programming in JavaScript 24/274
 

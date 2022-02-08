@@ -24,6 +24,12 @@
   - [`Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Unexpected end of stream.`](#cannot-get-jedis-connection-nested-exception-is-redisclientsjedisexceptionsjedisconnectionexception-unexpected-end-of-stream)
 
 # Erudition
+- Node.js
+  - 深入浅出Node.js
+    - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)
+    - Process 1
+      - Style: Read it like a novel
+      - Bookmark: 24/353
 - Golang
   - [GoLangBooks](https://github.com/diptomondal007/GoLangBooks)
   - Programming in Go: Creating Application for the 21st Century

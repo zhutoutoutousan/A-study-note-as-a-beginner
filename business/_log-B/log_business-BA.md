@@ -3,6 +3,7 @@
 - [Outbound space](#outbound-space)
 - [Lifecycle](#lifecycle)
   - [Marketing research](#marketing-research)
+- [Tools](#tools)
 - [Erudition](#erudition)
 - [Methodology](#methodology)
 - [Roadmap](#roadmap)
@@ -63,6 +64,11 @@
 ## Marketing research
 - http://www.woshipm.com/user-research/4479469.html
 
+# Tools
+- [PowerPoint Slide Design from Beginner to EXPERT in One Video 🔥100K Special🔥](https://www.youtube.com/watch?v=lxcHLxjkcXQ)
+  - Videomark: 4:36
+- [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
+  - Videomark: 2:31
 # Erudition
 - Don't make me think
   - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)

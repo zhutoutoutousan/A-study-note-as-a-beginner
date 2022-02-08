@@ -1,10 +1,70 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Information flow](#information-flow)
+  - [Tier-1](#tier-1)
+  - [Tier-2](#tier-2)
+  - [Tier-3](#tier-3)
+- [Buffer to permanent note](#buffer-to-permanent-note)
+  - [2022/2/7 Renovation plan](#202227-renovation-plan)
+    - [Temporary information storage](#temporary-information-storage)
+  - [Different levels of software engineering branches](#different-levels-of-software-engineering-branches)
+  - [Erudition](#erudition)
+  - [How-to](#how-to)
+  - [Front-end Project Architecture](#front-end-project-architecture)
+  - [Front-end component design](#front-end-component-design)
+    - [Button: 按钮](#button-按钮)
+    - [Layout: 布局](#layout-布局)
+    - [Form: 表单](#form-表单)
+    - [Drawer: 抽屉](#drawer-抽屉)
+- [2021-5-26](#2021-5-26)
+  - [How would you approach the designing process of a single frontend component for any given requirements?](#how-would-you-approach-the-designing-process-of-a-single-frontend-component-for-any-given-requirements)
+- [2021/6/11](#2021611)
+  - [A keen sense of life-cycle](#a-keen-sense-of-life-cycle)
+- [2021/6/18-](#2021618-)
+  - [AWS](#aws)
+    - [Kickstart of AWS](#kickstart-of-aws)
+    - [Questions](#questions)
+- [2021/7/29](#2021729)
+  - [Request for updating your knowledge of front-end architecture - A bit more organized](#request-for-updating-your-knowledge-of-front-end-architecture---a-bit-more-organized)
+- [2021/7/30](#2021730)
+  - [If you want to block foreign users from accessing certain language materials without giving users the credential, what would you do?](#if-you-want-to-block-foreign-users-from-accessing-certain-language-materials-without-giving-users-the-credential-what-would-you-do)
+- [2021/8/9-2021/10/9](#202189-2021109)
+  - [SSO design](#sso-design)
+  - [Scheduled event for web app](#scheduled-event-for-web-app)
+  - [Software Localization and Globalization](#software-localization-and-globalization)
+  - [UML diagram course](#uml-diagram-course)
+  - [About Front-end development efficiency](#about-front-end-development-efficiency)
+  - [接到需求后, 你是怎么安排技术实现顺序的, 哪些需求是和开发设计有关的? 哪些是不需要过度思考的?](#接到需求后-你是怎么安排技术实现顺序的-哪些需求是和开发设计有关的-哪些是不需要过度思考的)
+  - [前端沟通经验](#前端沟通经验)
+  - [Trying docker, stuck on tutorial](#trying-docker-stuck-on-tutorial)
+  - [技术债务分析和治理手段咨询](#技术债务分析和治理手段咨询)
+  - [大量图片的前后端管理](#大量图片的前后端管理)
+  - [你所参与的业务是什么?](#你所参与的业务是什么)
+  - [防误触](#防误触)
+  - [create-react-app定制](#create-react-app定制)
+- [2021/10/6](#2021106)
+  - [Requirement - Tech solution connection](#requirement---tech-solution-connection)
+  - [Is it possible to use both `withRouter` and `withStyles`?](#is-it-possible-to-use-both-withrouter-and-withstyles)
+
+# Information flow
+## Tier-1
+- [业务系统组件化开发概述和技术架构设计](http://www.dockerone.com/article/976195)
+- [记一个复杂组件（Filter）的从设计到开发](https://github.com/Nealyang/PersonalBlog/issues/47)
+## Tier-2
+## Tier-3
+
 # Buffer to permanent note
 #considerrestructure
 
+## 2022/2/7 Renovation plan
+- As you delve into Java and Backend, this *architecture* section requires a full-scale renovation
+- Achieve proficiency in both the frontend and backend to unlock this renovation
+
+### Temporary information storage
+- [架构之道：分离业务逻辑和技术细节](https://www.teqng.com/2021/07/31/%E6%9E%B6%E6%9E%84%E4%B9%8B%E9%81%93%EF%BC%9A%E5%88%86%E7%A6%BB%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91%E5%92%8C%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/)
+
 
 ## Different levels of software engineering branches
-- [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
-
 
 ## Erudition
 - Basics
@@ -13,15 +73,21 @@
       - Style: Skim
     - Process 2
       - Style: Osmosis
+  - [Domain-Driven Design - Tackling Complexity in the Heart of Software](https://drive.google.com/file/d/1OT7TLdeQnmQBNUzDxWbeGfmegMuKT2px/view?usp=sharing)
+    - Bookmark: 27/446
+  - [Domain-Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
+  - [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
+  - [Java Design Patterns](https://java-design-patterns.com/)
+- Examples
+  - [Alibaba - COLA](https://github.com/alibaba/COLA)
 - Methodologies
   - 架构师的自我修炼 技术，架构和未来
     - Process 1
 - Dynamic Resource
   - Social media
+  - 
     - 知乎
       - [阿里巴巴淘系技术](https://www.zhihu.com/org/a-li-ba-ba-tao-xi-ji-zhu)
-
-
 ## How-to
 
 #ideasandinnovations#automation ---> Tools for software decision making

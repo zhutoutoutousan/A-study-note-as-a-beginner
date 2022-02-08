@@ -21,9 +21,15 @@
 - 状态
   - 广撒网, 蜻蜓点水
   - 主线剧情推动不力, 剧情发展过于缓慢
+    - Although you don't need that much social economic state and your network doesn't impose too much on reputation and tight trust network, it still seems a bit too slow for your progression in IT skills
 - 原因
   - 由于系统对于每个信息都有其定位, 且都能感知到其价值链
   - 然而一个人一天只有24小时, 一个月只有29~31天
   - 无法倒向任何一个极端, 需要在个中求得一个较优点
 - 行动
   - 定义主线剧情体验及action item
+  - Maybe you can trick yourself into thinking that WHAT WILL WORK is actually not important at all, then according to your habit, you will attack it rigorously
+
+# 对世界残酷的一点的+1认知
+- 从小到大, 如果你学的东西对标的客户群普遍都是非常卷, 那出道的那一天免不了也是非常卷; 然而15岁之前父母能够巧妙掌舵或者对象认知通过量子力学掌握了该原理之后的群体挺少的
+- 在商业真空停留, 可以让人保持一种不卷+有路子的鱼和熊掌兼得的状态, 然而商业生态中的真空泡泡很少

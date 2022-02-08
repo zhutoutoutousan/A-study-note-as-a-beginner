@@ -1,13 +1,29 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Renovation plan --> 4-5 yrs](#renovation-plan----4-5-yrs)
+- [Guided Course Flow (Certifiable)](#guided-course-flow-certifiable)
 - [Knowledge flow](#knowledge-flow)
   - [Tier-source](#tier-source)
   - [Tier-1](#tier-1)
   - [Tier-2](#tier-2)
   - [Tier-3](#tier-3)
 - [Erudition](#erudition)
+- [前端踩坑树](#前端踩坑树)
 - [前后端沟通踩坑树](#前后端沟通踩坑树)
+- [前端开发质量分层](#前端开发质量分层)
+  - [顶配](#顶配)
+    - [环境](#环境)
+    - [定义](#定义)
+      - [MUST DO](#must-do)
+      - [High Priority](#high-priority)
+      - [Medium Priority](#medium-priority)
+      - [Low Priority](#low-priority)
+      - [Can omit](#can-omit)
+      - [DO NOT DO](#do-not-do)
+  - [高配](#高配)
+  - [中配](#中配)
+  - [低配](#低配)
+  - [底配](#底配)
 - [2021/8/4-](#202184-)
 - [2021/8/2](#202182)
 - [2021/8/4-](#202184--1)
@@ -48,6 +64,10 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 # Renovation plan --> 4-5 yrs
 - As you clarify all of those technical ecosystems, start merging them into one
 
+# Guided Course Flow (Certifiable)
+- [Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment](https://www.udemy.com/course/react-redux-tutorial/learn/lecture/4669608#overview) --- ACTIVE
+- [Ultimate guide to Vue 3 Development! Build large scale applications and deploy to production. Go from Zero To Mastery!](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/learn/lecture/25363430#overview) --- ACTIVE
+  - Fastforward for known
 # Knowledge flow
 ## Tier-source
 - [掘金](https://juejin.cn/)
@@ -55,6 +75,7 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 ## Tier-1
 - Stew
   - [前端面试知识点（一）](https://juejin.cn/post/6987549240436195364)
+  - [写给初中级前端的高级进阶指南（万字路线）](https://my.oschina.net/sl1673495/blog/4596572)
 - Axios
 ## Tier-2
 - [V8 编译浅谈](https://juejin.cn/post/7041021350114230285)
@@ -93,12 +114,117 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
   - Another good book to have better view of how everything works together
 
 
+# 前端踩坑树
+- 业务
+- Web3D
+  - three.js
+- 模板引擎
+  - SASS
+- Vue
+  - Vue常用第三方组件
+    - treeselect
+      - 熟练度
+        - [vue-treeselect](https://vue-treeselect.js.org/)
+  - 组件化
+    - 复用相同的UI框架的组件，渲染出来的样式/显示不同
+      - [vue项目中遇到复用相同的UI框架的组件，但想要渲染出来的样式不同的解决方案](https://blog.csdn.net/meoncih_/article/details/107649348)
+- UI框架
+  - _General
+    - 多个UI框架之间发生冲突
+  - Element-UI
+    - el-dialog
+      - 操作
+        - 清空
+          - 最佳实践
+            - [el-dialog关闭后清除校验以及重置数据](https://blog.csdn.net/yangqii/article/details/116761394)
+          - 清空不生效问题
+            - [el-form表单重置resetForm()不生效问题](https://python.iitter.com/other/90830.html)
+            - [ElementUI嵌套Form的Dialog如何重置Form](https://segmentfault.com/a/1190000019733787)
+            - [element-ui 表单清空 resetFields 方法清空表单中的坑](https://blog.csdn.net/weixin_41991501/article/details/81975821?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.no_search_link&utm_relevant_index=5)
+            - 清空后无法输入问题
+              - [前端踩坑（八）（element-ui）使用点击重置后无法输入、输入没有显示](https://blog.csdn.net/TUTsmile/article/details/103598504)
+    - el-date-picker
+      - 调接口显示
+        - 回显不显示问题
+          - `$forceInput`不work
+            - Vue DevTool中的v-model值显示Invalid Date
+              - [vue el-date-picker 直接赋值不生效、数据绑定无效](https://www.jianshu.com/p/96c822d14d30)
+              - [vue使用element中的input组件实现传多个值和input回显强制刷新](https://blog.csdn.net/weixin_39277183/article/details/106875427)
+      - 有`value-format`前提想仍想用epoch传入值
+    - treeselect
+      - 调接口显示
+        - 回显不显示问题
+          - `TypeError: instance.internalValue.slice(...).map is not a function`
+          - `TypeError: instance.internalValue.some is not a function`
+            - [Error in getter for watcher "internalValue": "TypeError: this.forest.selectedNodeIds.filter is not a function](https://issueexplorer.com/issue/riophae/vue-treeselect/441)
+          - `[Vue-Treeselect Warning] Are you meant to dynamically load options? You need to use "loadOptions" prop.`
+          - `Invalid prop: type check failed for prop "loadOptions". Expected Function, got Array`
+    - el-tab
+      - activeNum默认为2问题
+    - el-form
+      - 校验rule出错问题
+      - 表单resetfield无效问题
+      - @el-select
+        - 自动完成
+          - 全部调取
+          - 接口分页懒加载
+            - 不熟悉, 心理负担大
+        - 调接口后不自动选中
+          - 接口返回数据为对象
+            - [element-ui的el-select怎么根据后台返回的value显示对应的label值呢？](https://segmentfault.com/q/1010000012277355)
+        - 返回为数字, 实际需要字符串
+          - [element-ui的el-select怎么根据后台返回的value显示对应的label值呢？](https://segmentfault.com/q/1010000012277355)
+      - @el-input
+        - v-model改变后数值不更新
+          - [el-input 修改v-model的值，DOM不更新](https://segmentfault.com/q/1010000020135996)
+    - el-calendar
+    - el-table
+      - table宽度不响应 --> :min-width
+      - Element el-table-column宽度设置百分比无效
+        - http://www.noobyard.com/article/p-obgbrdla-kr.html
+  - Material-UI
+- AJAX框架
+  - axios
+      - axios的request封装有时候react的this.props传不进去
+- 搞心态套餐树
+  - FE+PM
+    - 上游业务模块可复用组件一坨屎, 排期根据狗屎的传递决策
+  - FE
+    - 菜, 但没菜到不用受苦
+  - BA+PM
+    - 需求更新, 排期不更新
+  - BA
+    - 业务逻辑不清导致组件化设计失败
+  - BE
+    - 老子今天有兴致, 接口就给你返回一亿条
+      - [后端一次给你10万条数据，如何优雅展示，到底考察我什么?](https://juejin.cn/post/7031923575044964389)
+  - TS
+    - 纠结无关细节
+  - PM
+    - 该项目无PM
+  - BA+BE+TS+PM
+    - 跑路
 
 # 前后端沟通踩坑树
 - 传日期
   - Timestamp
 - 沟通前准备习惯
   - 看后台接口文档
+
+# 前端开发质量分层
+## 顶配
+### 环境
+### 定义
+#### MUST DO
+#### High Priority
+#### Medium Priority
+#### Low Priority
+#### Can omit
+#### DO NOT DO
+## 高配
+## 中配
+## 低配
+## 底配
 
 
 # 2021/8/4-

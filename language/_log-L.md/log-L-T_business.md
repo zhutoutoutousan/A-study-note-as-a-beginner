@@ -67,6 +67,8 @@
 - Regulatory exposure
 - Reputational exposure
 # S
+- 商业转载
+  - [怎么区分商业转载跟非商业转载？](https://www.zhihu.com/question/38767946)
 - Skin in the game
   - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
 

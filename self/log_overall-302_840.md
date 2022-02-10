@@ -22,15 +22,30 @@
   - 广撒网, 蜻蜓点水
   - 主线剧情推动不力, 剧情发展过于缓慢
     - Although you don't need that much social economic state and your network doesn't impose too much on reputation and tight trust network, it still seems a bit too slow for your progression in IT skills
+    - 目前主线剧情大致确定了，技术 - 前端，Java后端数据库，AWS三板斧 辅助-pm
+        - 有整体闭环的文字产出（须与ground truth layer保持一致）并保持一段时间之后再找人咨询
 - 原因
-  - 由于系统对于每个信息都有其定位, 且都能感知到其价值链
-  - 然而一个人一天只有24小时, 一个月只有29~31天
+  - 由于系统对于每个信息都有其定位, 且都能感知到其价值链，所以任何信息都可引起兴趣
+  - 然而一个人一天只有24小时, 一个月只有29~31天，你是人，所以时间有限
   - 无法倒向任何一个极端, 需要在个中求得一个较优点
 - 行动
   - 定义主线剧情体验及action item
   - Maybe you can trick yourself into thinking that WHAT WILL WORK is actually not important at all, then according to your habit, you will attack it rigorously
+  - 太过诱惑但确定无即用的知识，争取眼不见为净
 
-# 对世界残酷的一点的+1认知
-- 从小到大, 如果你学的东西对标的客户群普遍都是非常卷, 那出道的那一天免不了也是非常卷; 然而15岁之前父母能够巧妙掌舵或者对象认知通过量子力学掌握了该原理之后的群体挺少的
-  - You're adventageous, if you settle on something firm, then you will seek for something that would tip you right off the edge, but not to the level of *typical domestic hungry downtrodden seeking social economic status for social-dominance-orientation-satisfaction-oriented-programming*, something would cause you to suffer from mental breakdown, but now, everything will be recorded, archived so the future self can see EXACTLY what was going on and improve upon it
+# 对世界的一点的+1认知
+- 如果学的东西对标的客户群普遍都是非常卷, 那出道的那一天免不了也是非常卷; 然而15岁之前其父母能够巧妙掌舵或者对象认知通过神秘力学掌握了该原理并自身掌舵的群体不会超过0.1%
 - 在商业真空停留, 可以让人保持一种不卷+有路子的鱼和熊掌兼得的状态, 然而商业生态中的真空泡泡很少
+    -  Echo from the past: Right here again. You're an empty shell, but what do you choose to fill? When？
+- Ego, Man card, Recognition is the cheapest to lose compared to virtue, drive, and more
+    - Hence, feigning can be used as a tool for cooling down a tough entity while actually being detached so no actual psychological damage is imposed
+    - Chameleon needs more load, each refinement requires adding load until breakdown, if you have achieved too much renown, each breakdown will have exponentially worse effect, so do it when you're still young
+- 对于产品的思考，一开始思考，便无法停止，by 无法停止 I mean 一生
+
+
+- 为什么医院的地板不能像工厂一样，有一条清晰的导航线，每个导航线包含所有该条路线可能通向的地点？
+    - Stem from *Stanley's Parable* game, express pathway to the end of the story
+    - Too many possible ways?
+        - The shear length of the pathway should do the trick?
+            - Mere length will hinder UX by eyesight
+                - A smart combination of road pole and floor 

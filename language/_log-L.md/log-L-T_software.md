@@ -7,6 +7,12 @@
 - [S](#s)
 - [T](#t)
 - [X](#x)
+- [C](#c)
+- [E](#e-1)
+- [J](#j)
+- [L](#l-1)
+- [R](#r)
+- [<](#)
 
 # B
 - 悲观锁
@@ -53,3 +59,28 @@
       - 链接：https://www.jianshu.com/p/14f7fd052f49
       - 来源：简书
       - 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+# C
+- CTI
+  - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
+- CRM: 客户关系管理
+  - _概念
+    - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
+    - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
+# E
+- ERP
+
+# J
+- JPA
+
+# L
+
+# R
+- RSS: 简易信息聚合
+  - [RSS](https://en.wikipedia.org/wiki/RSS)
+  - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
+# <
+- &lt;pk>
+  - [[数据库]SQLServer：什么是主键（PK）和外键（FK）？（图解）
+](https://blog.csdn.net/rookiesx/article/details/51424774)

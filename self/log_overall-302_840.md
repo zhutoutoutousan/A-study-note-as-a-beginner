@@ -32,4 +32,5 @@
 
 # 对世界残酷的一点的+1认知
 - 从小到大, 如果你学的东西对标的客户群普遍都是非常卷, 那出道的那一天免不了也是非常卷; 然而15岁之前父母能够巧妙掌舵或者对象认知通过量子力学掌握了该原理之后的群体挺少的
+  - You're adventageous, if you settle on something firm, then you will seek for something that would tip you right off the edge, but not to the level of *typical domestic hungry downtrodden seeking social economic status for social-dominance-orientation-satisfaction-oriented-programming*, something would cause you to suffer from mental breakdown, but now, everything will be recorded, archived so the future self can see EXACTLY what was going on and improve upon it
 - 在商业真空停留, 可以让人保持一种不卷+有路子的鱼和熊掌兼得的状态, 然而商业生态中的真空泡泡很少

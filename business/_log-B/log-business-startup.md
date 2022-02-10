@@ -1,8 +1,33 @@
+# Prerequisites
+## Erudition
+- Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking
+- The Business Models Handbook: Templates, Theory and Case Studies
+- How To Start A Business Without Any Money
+- Harnish, V: Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0) 
+- Lean Startup
+  - Post a internal-link here
+## For `this entity`
+- 2022/2/10: If you want to do it, so something great, hence root yourself with insane base
+  - What's your EXPERTEE: Extensive experience in `IT system` and formidable `Computer Science Sophistication` and `Software Engineering Sophistication` ---> 5-6 years
+  - DO YOU UNDERSTAND HOW BUSINESS WORKS: Enough money related skills
+  - HAVE YOU DONE THIS BEFORE: Valid-thinking-packed business experience from scratch to medium-sized company
+  - ABOUT YOUR SCIENTIST PLAN: You sure you're not going all-in to delicate yourself into academia someday? 
+    - Since someone who has achieved career success with tremendous effort still got himself a chance to get into academic in his 50s
+  - REASONS NOT TO TRUST YOU
+    - Are you sure you're going to stay single? Since you have seemingly made your choice just like `Arthur Schopenhauer`
+      - If you choose to stay single, how would people trust you to be a person who will commit to anything?
+        - Would you be selfish?
+        - Would you be weak in face of challenges?
+        - Would you fuck it up by not willing to LOST YOUR INDEPENDENCE/COMPOSURE for business survival?
+          - Seems that you're not capable enough to be less rigid in this part
+
+
+
+
 # Study into pre-cooked meal: 预制菜的研究
 ## Erudition
 - Food Quality
   - ISO 9001
-
 - Information buffer
   - [符合标准，赢得市场 2015 年贸易标准合规报告](https://www.unido.org/sites/default/files/files/2018-04/TSCR_Chinese_2015.pdf)
   - [新时期食品安全社会共治研究报告](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/consumer-business/deloitte-cn-consumer-food-security-report-zh-200827.pdf)

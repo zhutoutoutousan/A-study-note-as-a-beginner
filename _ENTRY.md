@@ -42,7 +42,8 @@
 [[_index_language]]
 
 # Renovation
-https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/377
+- Add a comment section for collecting user generated contents
+  - https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/377
 
 # Value --> As one person
 - 保证量变的单位质量和配套基础设施建设, 为高质质变做准备

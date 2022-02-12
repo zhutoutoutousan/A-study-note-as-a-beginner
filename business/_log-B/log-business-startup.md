@@ -6,6 +6,8 @@
 - Harnish, V: Scaling Up: How a Few Companies Make It...and Why the Rest Don't (Rockefeller Habits 2.0) 
 - Lean Startup
   - Post a internal-link here
+- [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://assets.strategyzer.com/assets/resources/business-model-generation-book-preview-2010.pdf&ved=2ahUKEwiV57iT9Pb1AhUAD0QIHaYrA7IQFnoECAsQAQ&usg=AOvVaw18k09LENjoG3BzAkzjqPCI)
+     - Bookmark: 
 ## For `this entity`
 - 2022/2/10: If you want to do it, so something great, hence root yourself with insane base
   - What's your EXPERTEE: Extensive experience in `IT system` and formidable `Computer Science Sophistication` and `Software Engineering Sophistication` ---> 5-6 years
@@ -14,6 +16,7 @@
   - ABOUT YOUR SCIENTIST PLAN: You sure you're not going all-in to delicate yourself into academia someday? 
     - Since someone who has achieved career success with tremendous effort still got himself a chance to get into academic in his 50s
   - REASONS NOT TO TRUST YOU
+    - You have no degree/knowledge/courage/commitment/network/IQ/virtue/skills
     - Are you sure you're going to stay single? Since you have seemingly made your choice just like `Arthur Schopenhauer`
       - If you choose to stay single, how would people trust you to be a person who will commit to anything?
         - Would you be selfish?
@@ -107,3 +110,7 @@
 
 - [Competition is for Losers with Peter Thiel (How to Start a Startup 2014: 5)](https://www.youtube.com/watch?v=3Fx5Q8xGU8k)
   - Videomark: 4-02/50-27
+
+# Random
+http://www.iheima.com/article-144933.html#:~:text=%E6%9E%9C%E7%9C%9F%E5%A6%82%E6%AD%A4%E5%90%97%3F-,%E4%BD%9C%E4%B8%BA%E7%A7%91%E6%8A%80%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%88%9B%E6%96%B0%E8%80%85%E5%92%8C%E5%AF%8C%E6%9C%89,%E5%B9%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E5%88%9B%E6%96%B0%E3%80%82
+https://www.zhihu.com/question/24422160

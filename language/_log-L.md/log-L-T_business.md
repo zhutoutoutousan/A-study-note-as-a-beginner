@@ -3,6 +3,7 @@
 - [Renovation plan](#renovation-plan)
 - [A](#a)
 - [C](#c)
+- [D](#d)
 - [E](#e)
 - [F](#f)
 - [G](#g)
@@ -10,10 +11,9 @@
 - [M](#m)
 - [R](#r)
 - [S](#s)
+- [Z](#z)
 - [Accounting](#accounting)
   - [_](#_)
-- [Accounting](#accounting-1)
-  - [D](#d)
   - [E](#e-1)
 - [H](#h)
 - [J](#j)
@@ -33,8 +33,7 @@
 - [T](#t)
 - [X](#x)
 - [Y](#y)
-- [Z](#z)
-- [C](#c-2)
+- [Z](#z-1)
 - [D](#d-2)
 - [E](#e-3)
 - [F](#f-2)
@@ -49,7 +48,7 @@
 - [T](#t-1)
 - [X](#x-1)
 - [Y](#y-1)
-- [Z](#z-1)
+- [Z](#z-2)
 
 # Renovation plan
 - 将所有语种根据语言行业归类
@@ -62,6 +61,26 @@
 # C
 - Cost overrun: 成本超支
   - [Cost overrun](https://en.wikipedia.org/wiki/Cost_overrun)
+- 操盘能力
+- 经济
+  - 财政支出
+- 产品
+  - 垂类平台模式
+
+# D
+- DCF: Discounted Cash Flow
+  - [Discounted Cash Flow | DCF Model Step by Step Guide](https://www.youtube.com/watch?v=gLULdxrS-CU)
+    - Videomark: 5:12/21:41
+    - EBIT: 息税前利润
+      - [MBA](https://wiki.mbalib.com/wiki/EBIT)
+      - EBIT = 净利润+所得税+利息
+    - Depreciation
+    - Amortization
+    - CapEx
+    - NWC
+- Depreciation: 折旧
+  - [MBA智库百科](https://wiki.mbalib.com/wiki/%E6%8A%98%E6%97%A7)
+
 # E
 - Equity: 股东权益
   - [Wiki - 股东权益](https://zh.wikipedia.org/wiki/%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A)
@@ -70,6 +89,9 @@
 - Flagship shop: 旗舰店
   - [旗舰店](https://wiki.mbalib.com/wiki/%E6%97%97%E8%88%B0%E5%BA%97)
 # G
+- 估值
+  - [Valuation in Four Lessons | Aswath Damodaran | Talks at Google](https://www.youtube.com/watch?v=Z5chrxMuBoo)
+    - Videomark: 3:43/1:01:29
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
 # L
@@ -88,14 +110,12 @@
 - Skin in the game
   - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
 
+# Z
+- 资本结构
+
 # Accounting
 ## _
 - [重要會計用語中英對照](https://www.ardf.org.tw/html/tifrs1001115.pdf)
-
-# Accounting
-## D
-- Depreciation: 折旧
-  - [MBA智库百科](https://wiki.mbalib.com/wiki/%E6%8A%98%E6%97%A7)
 ## E
 - EBITDA: (Earnings Before Interest, Taxes, Depreciation and Amortization)税息折扣及摊销前利润
   - [EBITDA - 定义](https://wiki.mbalib.com/wiki/EBITDA)
@@ -175,6 +195,8 @@
   - 剩余价值
 - BUSINESS
   - 商誉
+  - 商业画布: Business Model Canvas
+    - 
 
 # T
 - 土地使用权
@@ -202,12 +224,6 @@
 
 
 
-# C
-- 操盘能力
-- 经济
-  - 财政支出
-- 产品
-  - 垂类平台模式
 # D
 - 代理商: Agents
 # E

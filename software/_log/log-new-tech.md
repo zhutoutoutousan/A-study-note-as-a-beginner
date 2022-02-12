@@ -1,5 +1,17 @@
 #NewTech-BusinessAnalyst
 
+# Bleeding edge arsenal
+## Frontend
+- Rust
+- Vue3
+- React latest
+- Amber
+## Backend
+- Golang
+## DX
+- API development
+    - Apifox： apifox.cn
+
 # Buffer to permanent note
 ## Source
 - 阿里云开发者社区

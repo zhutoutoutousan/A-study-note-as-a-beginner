@@ -1,14 +1,14 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [B](#b)
+- [C](#c)
 - [E](#e)
 - [F](#f)
+- [H](#h)
 - [L](#l)
 - [S](#s)
 - [T](#t)
 - [X](#x)
-- [C](#c)
-- [E](#e-1)
 - [J](#j)
 - [L](#l-1)
 - [R](#r)
@@ -16,12 +16,26 @@
 
 # B
 - 悲观锁
+# C
+- CTI
+  - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
+- CRM: 客户关系管理
+  - _概念
+    - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
+    - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
+
+
 # E
 - Entity
+- ERP
 
 # F
 - Finite-state machine
   - [link](https://en.wikipedia.org/wiki/Finite-state_machine)
+# H
+- 汇编语言
+  - [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
+
 # L
 - 逻辑删除
   - [逻辑删除还是物理删除](https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/04.html)
@@ -59,17 +73,6 @@
       - 链接：https://www.jianshu.com/p/14f7fd052f49
       - 来源：简书
       - 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
-
-# C
-- CTI
-  - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
-- CRM: 客户关系管理
-  - _概念
-    - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
-    - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
-# E
-- ERP
 
 # J
 - JPA

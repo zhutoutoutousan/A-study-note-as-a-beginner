@@ -60,6 +60,26 @@
 # STATE
 PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data structure for the peripheral part
 
+# 通用运营管理系统后台前端的Vue前端组件设计
+## 常见系统实施模块
+### 面向开发者的效率组件
+#### 接口请求的统一封装 --- 以Crud.js为例
+##### 深入Crud.js源码分析
+### 面向用户的效率组件
+### 登录管理
+### 菜单管理
+### 权限管理
+## 通用前端模块设计
+- 通用商业生命周期
+- 不同行业的生命周期不同之处
+### 销售
+### 签约
+### 开发
+### 维系
+
+# 通用运营管理系统前台前端的Vue前端组件设计
+
+
 # Improvement Space
 - Product Kickstart
   - 1.立项申请书、2.项目考核责任书、3.项目任务书

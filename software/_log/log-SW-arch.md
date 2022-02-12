@@ -75,6 +75,8 @@
       - Style: Osmosis
   - [Domain-Driven Design - Tackling Complexity in the Heart of Software](https://drive.google.com/file/d/1OT7TLdeQnmQBNUzDxWbeGfmegMuKT2px/view?usp=sharing)
     - Bookmark: 27/446
+    - Video sources watering
+        - https://youtube.com/playlist?list=PLw5h0DiJ-9PAMi7yjET_eYzD_mOvU6qvC
   - [Domain-Driven Design Quickly](https://matfrs2.github.io/RS2/predavanja/literatura/Avram%20A,%20Marinescu%20F.%20-%20Domain%20Driven%20Design%20Quickly.pdf)
   - [Component-based software engineering](https://en.wikipedia.org/wiki/Component-based_software_engineering)
   - [Java Design Patterns](https://java-design-patterns.com/)
@@ -85,7 +87,6 @@
     - Process 1
 - Dynamic Resource
   - Social media
-  - 
     - 知乎
       - [阿里巴巴淘系技术](https://www.zhihu.com/org/a-li-ba-ba-tao-xi-ji-zhu)
 ## How-to
@@ -291,3 +292,6 @@ https://github.com/arackaf/customize-cra
       - https://medium.com/@harryjamesuk/react-state-with-browser-history-223117f6ac61
 
 ## Is it possible to use both `withRouter` and `withStyles`?
+
+# 2B前端开发的领域驱动设计及大型项目实践
+- https://juejin.cn/post/6844904002501492744

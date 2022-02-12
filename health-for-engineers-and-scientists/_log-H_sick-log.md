@@ -429,3 +429,6 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 ### 2022/2/1-2022/2/7
 - Fever, headache, runny nose have gone away
 - Weakness, foggy feeling, coughing is still there
+
+## 2022/2/10
+Medical exam and insurance established, awaiting for test results

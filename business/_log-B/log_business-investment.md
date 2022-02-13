@@ -1,3 +1,7 @@
+# Stock
+https://youtu.be/y7iVTTH5tOA
+
+
 # Quantitative investment
 - [bigquant](https://bigquant.com/tutorial/)
 - [robeco](https://www.robeco.com/cn/strategies/)

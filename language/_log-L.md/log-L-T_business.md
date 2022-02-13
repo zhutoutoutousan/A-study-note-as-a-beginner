@@ -89,6 +89,7 @@
 - Flagship shop: 旗舰店
   - [旗舰店](https://wiki.mbalib.com/wiki/%E6%97%97%E8%88%B0%E5%BA%97)
 # G
+- 过账: Posting
 - 估值
   - [Valuation in Four Lessons | Aswath Damodaran | Talks at Google](https://www.youtube.com/watch?v=Z5chrxMuBoo)
     - Videomark: 3:43/1:01:29

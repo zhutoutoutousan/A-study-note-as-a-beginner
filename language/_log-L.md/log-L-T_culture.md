@@ -5,3 +5,8 @@
 # H
 - ٱلتَّقْوِيم ٱلْهِجْرِيّ
   - [Islamic Calendar](https://en.wikipedia.org/wiki/Islamic_calendar)
+
+# Y
+- 易经: I Ching
+  - I Ching or Book of Changes - Richard Wilhelm
+    - [link](https://www.labirintoermetico.com/09IChing/Wilhelm_R_The_I_Ching_or_Book_of_Changes_(abriged).pdf)

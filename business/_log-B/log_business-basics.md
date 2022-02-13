@@ -54,3 +54,6 @@
 - 如果合同这个概念不存在，那如何确保对方不反悔？
 - Persuade me to move
 - Describe your city/country/company in business sense
+- 项目质量的Graceful downgrade如何去定义？
+    - 交流电机的有极调速，无极调速
+    - 有极可以作为抓手

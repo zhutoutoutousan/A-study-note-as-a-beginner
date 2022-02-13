@@ -44,6 +44,9 @@
   - Workout could be good, but not nutrition advice
 - Barry Jizzleberry 1
 
+# A draft for making graceful downgrade strategy for daily workout
+
+
 # STUPID PROBLEMS
 - Muscle discomfort in calves
   - [Creatine, Muscle Cramping and Muscle Tightness](http://www.andersenchiro.com/Creatine,%20Muscle%20Cramping%20and%20Muscle%20Tightness.htm)

@@ -9,9 +9,12 @@
   - [AWS SAM](#aws-sam)
     - [Documentation Internalization](#documentation-internalization)
   - [AWS Kinesis](#aws-kinesis)
+- [2022/2/14](#2022214)
 - [_ARCHIVED_ contents](#archived-contents)
 
 # AWS踩坑树
+- AWS CLI
+  - `aws sts get-caller-identity` simply freezes
 - AWS API Gateway
   - Overview CONFUSED
     - [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
@@ -39,6 +42,11 @@
 ## AWS SAM
 ### Documentation Internalization
 ## AWS Kinesis
+
+# 2022/2/14
+- Win10环境, 黑客如何拿到用户环境变量中的key, 并且找到对应的IAM用户?
+- 我想优雅地在IAM(CLI, Console), root之间切换, 如何做到？
+  - Set command
 
 
 

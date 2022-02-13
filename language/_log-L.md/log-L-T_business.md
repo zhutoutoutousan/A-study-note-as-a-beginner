@@ -7,6 +7,7 @@
 - [E](#e)
 - [F](#f)
 - [G](#g)
+- [H](#h)
 - [L](#l)
 - [M](#m)
 - [R](#r)
@@ -15,7 +16,6 @@
 - [Accounting](#accounting)
   - [_](#_)
   - [E](#e-1)
-- [H](#h)
 - [J](#j)
 - [S](#s-1)
 - [C](#c-1)
@@ -94,6 +94,13 @@
     - Videomark: 3:43/1:01:29
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
+# H
+- Hedge Fund: 对冲基金
+  - [MBA](https://wiki.mbalib.com/wiki/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91)
+- 花式种草
+  - [干货！解析小红书花式种草案例，智鹊网助力品牌实力割粉](https://zhuanlan.zhihu.com/p/54631720)
+
+
 # L
 - Litigation exposure
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
@@ -128,10 +135,6 @@
 
 
 ---
-
-# H
-- 花式种草
-  - [干货！解析小红书花式种草案例，智鹊网助力品牌实力割粉](https://zhuanlan.zhihu.com/p/54631720)
 
 # J
 - 竞争同质化

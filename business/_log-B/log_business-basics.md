@@ -49,3 +49,8 @@
         - If not so, to which layer of corporate, social, interpersonal hierarchy does it start to be NOT HAND-OFF-READY?
       - *Most people when they sit down to write, however have only a hazy notion of their ideas (if that). Nor should they expect much more. You cannot know precisely what you think until you have been forced to symbolize it-either by saying it out loud or by writing it down-and even then the first statement of the idea is likely to be less precise than you can eventually make it.*
         - Take IT for example, as per 2022/2/8, you lack enough experience and thinking-rigor-packed sophistication to make your idea clear and context-rich enough to express using this tool, thus is why this system prompts you to furthur your path to the IT world with not aggressive but rigorous manner
+
+# 2022/2/12
+- 如果合同这个概念不存在，那如何确保对方不反悔？
+- Persuade me to move
+- Describe your city/country/company in business sense

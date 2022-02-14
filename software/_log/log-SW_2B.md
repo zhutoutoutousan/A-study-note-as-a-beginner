@@ -1,6 +1,21 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [STATE](#state)
+- [通用运营管理系统后台前端的Vue前端组件设计](#通用运营管理系统后台前端的vue前端组件设计)
+  - [常见系统实施模块](#常见系统实施模块)
+    - [面向开发者的效率组件](#面向开发者的效率组件)
+      - [接口请求的统一封装 --- 以Crud.js为例](#接口请求的统一封装-----以crudjs为例)
+        - [深入Crud.js源码分析](#深入crudjs源码分析)
+    - [面向用户的效率组件](#面向用户的效率组件)
+    - [登录管理](#登录管理)
+    - [菜单管理](#菜单管理)
+    - [权限管理](#权限管理)
+  - [通用前端模块设计](#通用前端模块设计)
+    - [销售](#销售)
+    - [签约](#签约)
+    - [开发](#开发)
+    - [维系](#维系)
+- [通用运营管理系统前台前端的Vue前端组件设计](#通用运营管理系统前台前端的vue前端组件设计)
 - [Improvement Space](#improvement-space)
 - [Erudition](#erudition)
   - [Overview](#overview)
@@ -47,7 +62,7 @@
       - [相关文档](#相关文档)
       - [上线需求](#上线需求)
     - [Reference](#reference)
-  - [开发](#开发)
+  - [开发](#开发-1)
     - [初始状态确定](#初始状态确定)
       - [uni-app前台](#uni-app前台)
       - [网页端前台](#网页端前台)
@@ -94,6 +109,17 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
 # Erudition
 - Tier-1
   - [Spring Boot 大型线上商城项目实战教程](https://juejin.cn/book/6844733814074245133) --- **ACTIVE**
+    - Process 1
+      - Style
+        - Quadradem with
+          - Java book
+          - Springboot book
+          - newbie-mall
+      - Coursemark:
+        - 5.2 Maven 的安装和配置
+      - Resource
+        - %USUAL_PC_CODING%/spring-newbie-mall
+          - Baiduclouddisk
   - [MySQL 是怎样运行的：从根儿上理解 MySQL](https://juejin.cn/book/6844733769996304392)
 - Tier-2
   - [Redis 深度历险：核心原理与应用实践](https://juejin.cn/book/6844733724618129422)

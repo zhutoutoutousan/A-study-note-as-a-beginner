@@ -4,11 +4,15 @@
 - List the boundry of your COMMITMENT for better management
 - It's time for you to instill **soul** into yourself by COMMITMENT
 # Daily Workout
-
+- Main goal
+    - Maintain or slight increase on muscle mass and strength
+    - 0.4kg weight loss per week
+- Style
+    - Subconscious, clear enough energy for IT part
 # Daily Language Vocabulary Training
 - German
 - French
-
+- Spanish
 # Translation Training for Exam
 # IT Sophistication Improvement Commitment(2022/2/13-2023/2/13)
 ## Origin and basic planning - 2022/2/13
@@ -50,20 +54,28 @@
       - _comment: *Pathetic*
   - Fine-grained planning
     - R & R
-    - [ ] 0:00-0:30 AWS SAM
-    - R & R
-    - 0:30-2:00 System Implementation Training
-    - R & R
+    - [x] 0:00-0:30 AWS SAM
+      - MAJOR TIME Creep: 1:45:00/00:30:00
+        - SAM actually entails knowledge from other AWS modules
+        - Stumbling upon some bugs
+    - [x] R & R
+    - [x] 0:30-2:00 System Implementation Training
+      - [x] SNAPSHOT 1: 1:30/2:00
+        - [x] ADD R & R or PASS OUT
+    - [x] R & R
     - 2:00-3:30 Frontend
-      - 0:00-0:30 Source Code
+      - [x] 0:00-0:30 Source Code
       - 0:30-1:30 Front-end burying point
     - 3:30-4:00 Backend
-    - 4:00-5:00 DP
-    - 5:00- 
+    - 4:00- 
       - _meta: Start on whim
+      - _OCC: 
       - 3D programming
       - Codewars
       - Leetcode
       - Backend
       - NLP
   - Battle report
+    - Well, AWS took way too much time
+    - Must sleep, it's just a start, don't beat yourself to death
+- 2022/2/15

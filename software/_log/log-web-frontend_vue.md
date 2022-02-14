@@ -1,6 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent note](#buffer-to-permanent-note)
+- [Information Pool](#information-pool)
+- [Information Flow](#information-flow)
+- [Guided tutorial into Vue 3](#guided-tutorial-into-vue-3)
 - [Draft Vue Note](#draft-vue-note)
 - [Vue 3 Sourcecode Reading](#vue-3-sourcecode-reading)
   - [Basics](#basics)
@@ -24,7 +27,17 @@
 - Initiate structured Vue proficiency development plan
   - 踩坑树可以用来用结构地记录经验
 
+# Information Pool
+- Cheatsheet
+  - [Cheatsheet Entry](https://www.vuemastery.com/courses-path/intermediate)
 
+# Information Flow
+
+# Guided tutorial into Vue 3
+- Vue 3 Intermediate Path
+  - [link](https://www.vuemastery.com/courses-path/intermediate)
+- Vue 3 Advanced Path
+  - [link](https://www.vuemastery.com/courses-path/intermediate)
 # Draft Vue Note
 - 目录
 - Vue基础Entries

@@ -7,8 +7,8 @@
 
 
 # Erudition
+- 转向：用工程师思维解决商业难题
 - The Unfair Advantage: How You Already Have What It Takes to Succeed
-  - 
 - [The Minto Pyramid Principle_ Logic in Writing, Thinking, & Problem solving](https://drive.google.com/file/d/19u_QJYZ_n-sDVwu0-1FtrGipHZd9AJjD/view?usp=sharing)
   - Bookmark: 29/275
   - FROM 2022/1/31:

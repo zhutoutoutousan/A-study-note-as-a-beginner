@@ -195,6 +195,8 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
     - 需求更新, 排期不更新
   - BA
     - 业务逻辑不清导致组件化设计失败
+    - 需求一天更新十五次, 模块更新十次
+      - [三招七式教你搞定产品经理经常加需求、改需求-多极客编程](https://www.moregeek.xyz/i/150400810346)
   - BE
     - 老子今天有兴致, 接口就给你返回一亿条
       - [后端一次给你10万条数据，如何优雅展示，到底考察我什么?](https://juejin.cn/post/7031923575044964389)
@@ -204,7 +206,6 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
     - 该项目无PM
   - BA+BE+TS+PM
     - 跑路
-
 # 前后端沟通踩坑树
 - 传日期
   - Timestamp

@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Why I should NEVER give up](#why-i-should-never-give-up)
+- [Cram Stew](#cram-stew)
 - [Erudition](#erudition)
 - [后端踩坑树](#后端踩坑树)
 - [Learning Path](#learning-path)
@@ -22,6 +24,17 @@
 - [2021/12/6](#2021126)
   - [`Cannot invoke "javax.script.ScriptEngine.eval(String)" because "engine" is null`](#cannot-invoke-javaxscriptscriptengineevalstring-because-engine-is-null)
   - [`Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Unexpected end of stream.`](#cannot-get-jedis-connection-nested-exception-is-redisclientsjedisexceptionsjedisconnectionexception-unexpected-end-of-stream)
+
+# Why I should NEVER give up
+- 陈华祥
+  - 程序员职场第1课
+  - 职业规划：程序员百万年薪修炼之道
+  - 高级程序员进阶修炼
+  - 项目管理从入门到精通
+  - [全栈工程师为什么越混越困难，看这篇就够了](https://www.163.com/dy/article/FDITRSU00531IGVF.html)
+# Cram Stew 
+- [Spring系列 - 01](https://drive.google.com/file/d/1iS1WNefD7Mr0OEvLgYq1xo-0r821Da4t/view?usp=sharing)
+- [Spring系列 - 02](https://drive.google.com/file/d/1K4PIjOgcvhGc8X6F44nwOUVvnU4R9uuf/view?usp=sharing)
 
 # Erudition
 - Node.js

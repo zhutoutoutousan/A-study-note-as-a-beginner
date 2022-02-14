@@ -13,16 +13,29 @@
 - [_ARCHIVED_ contents](#archived-contents)
 
 # AWS踩坑树
+- AWS VPC
+  - Create Subnet
+    - CIDR Address is not within CIDR Address from VPC
+    - CIDR Address overlaps with existing Subnet CIDR: 10.0.0.0/24
+      - [AWS VPC Create Subnet in with different zone](https://stackoverflow.com/questions/23044317/aws-vpc-create-subnet-in-with-different-zone)
+      - [CIDR Address overlaps with existing Subnet CIDR: 192.168.0.0/16](https://forums.aws.amazon.com/thread.jspa?messageID=954284)
+        - Maybe it clashed with another subnet
 - AWS CLI
-  - `aws sts get-caller-identity` simply freezes
+  - <span style="color:green">aws sts get-caller-identity simply freezes</span>
     - `Failed to connect to proxy URL`
       - [How to Troubleshoot 'Cannot Connect to Proxy' Error - AWS S3](https://stackoverflow.com/questions/52937886/how-to-troubleshoot-cannot-connect-to-proxy-error-aws-s3)
       - Set PAC
         - _meta
-          - It works
+          - **It works**
         - You get caught
           - Treat it like a free hotel
         - Blocked by the BELOVED firewall
+- AWS Lambda
+  - Add trigger
+    - `An error occurred when creating the trigger: The log group provided is reserved for the function logs of the destination function. (Service: AWSLogs; Status Code: 400; Error Code: InvalidParameterException; Request ID:; Proxy: null)`
+  - Integration with VPC
+    - `The provided execution role does not have permissions to call CreateNetworkInterface on EC2`
+    - `We recommend that you choose at least 2 subnets for Lambda to run your functions in high availability mode.`
 - AWS API Gateway
   - Overview CONFUSED
     - [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)

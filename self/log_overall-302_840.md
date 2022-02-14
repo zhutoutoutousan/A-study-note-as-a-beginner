@@ -79,4 +79,4 @@
       - necessary pause for context refill
 
 # About your reluctance to do intense preparation before anything
-- You'd like the scenario that your ability is 
+- You'd like the scenario that your ability is ten times greater than what a work item entails, in a way it's a coward's act

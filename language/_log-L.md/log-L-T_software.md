@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [B](#b)
 - [C](#c)
+- [D](#d)
 - [E](#e)
 - [F](#f)
 - [H](#h)
@@ -26,11 +27,13 @@
     - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
     - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
 
+# D
+- DHCP
 
 # E
 - Entity
 - ERP
-
+- Egress Only Internet Gateways
 # F
 - Finite-state machine
   - [link](https://en.wikipedia.org/wiki/Finite-state_machine)
@@ -52,6 +55,7 @@
     - [不得不说的乐观锁和悲观锁](https://juejin.cn/post/7024337692091482126)
 
 # N
+- NAT Gateway
 - NLTM Proxy
   - [NTLM server](http://ntlmaps.sourceforge.net/)
   - [px - github](https://github.com/genotrance/px)
@@ -80,6 +84,7 @@
   - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
 # V
 - VPC
+  - [Doc](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)
   - [AWS VPC Beginner to Pro](https://www.youtube.com/watch?v=g2JOHLHh4rI&t=3992s)
     - Videomark: 1:03/2:11:41
 

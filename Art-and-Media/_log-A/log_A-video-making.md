@@ -16,3 +16,5 @@
   - Videomark: 1:51
 - [Free Adobe Premiere Pro Essentials Tutorial Course - Video Editing Basics](https://www.youtube.com/watch?v=MqwlW76sFCM)
   - Videomark: 3:26
+
+- [After Effects for Beginners | FREE Mega Course](https://www.youtube.com/watch?v=PWvPbGWVRrU)

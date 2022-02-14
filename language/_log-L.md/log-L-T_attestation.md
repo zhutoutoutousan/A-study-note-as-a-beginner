@@ -1,5 +1,3 @@
-# log
-Consider move the exam transcript to other sections
 ## 2021/8/24 Partial review of Shanghai advanced interpretation test(1) Score: 92.5+?*5(150)/300 --> Expectation: 220+
 - Section 1
   - **Part A: Spot dictation(30m)** Score: 25.5/30
@@ -57,7 +55,30 @@ Consider move the exam transcript to other sections
     - Use the note system you developed
       - READ THE BOOK DUDE!
 
-# English Vocabulary | Beyond C2
-## S
-- Shrewdness
-  - the quality of being astute or sharp in practical matters
+
+### Discovering consecutive interpreting note-taking resource
+- [NOTE-TAKING FOR CONSecutive interpreting a short course]()
+- https://www.jostrans.org/issue26/art_chen.pdf
+- http://www.someya-net.com/01-Tsuyaku/Reading/Rozan.pdf
+- https://www.imiaweb.org/uploads/pages/228_7..pdf
+- https://www.imiaweb.org/uploads/pages/228_4.pdf
+- https://core.ac.uk/download/15644408.pdf
+- [学习交替传译 口译笔记的5个步骤](https://zhuanlan.zhihu.com/p/105160630)
+
+### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)
+#### Note taking
+- Note is only the subsidiary of your store, don't overdo it
+- [口译学习中脑记和笔记的关系？](https://www.zhihu.com/question/29384761/answer/95369892)
+- [交替传译中的笔记分析](https://www.zz-news.com/com/dangdaijiaoyuluntan/news/itemid-94541.html)
+- [交替传译](http://www.dioenglish.com/wiki/index.php?doc-view-9988)
+
+#### Memory
+- Information flow example
+  - [翻译官们如何在翻译中处理两种语言](https://www.youtube.com/watch?v=cXNTArhA0Jg)
+  - [Improve Memory | Consecutive Interpreting](https://www.youtube.com/watch?v=tKQn9ZQc9V8)
+  - [Memory training in consecutive interpreting](https://www.youtube.com/watch?v=8IQPtNO8xfg)
+  - [Consecutive without notes](https://www.youtube.com/watch?v=e3joM5ZrRgA)
+
+  - [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8&t=71s)
+- Sample training
+  - [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY) - 4-47

@@ -15,6 +15,14 @@
 # AWS踩坑树
 - AWS CLI
   - `aws sts get-caller-identity` simply freezes
+    - `Failed to connect to proxy URL`
+      - [How to Troubleshoot 'Cannot Connect to Proxy' Error - AWS S3](https://stackoverflow.com/questions/52937886/how-to-troubleshoot-cannot-connect-to-proxy-error-aws-s3)
+      - Set PAC
+        - _meta
+          - It works
+        - You get caught
+          - Treat it like a free hotel
+        - Blocked by the BELOVED firewall
 - AWS API Gateway
   - Overview CONFUSED
     - [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)

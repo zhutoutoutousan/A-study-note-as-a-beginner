@@ -37,14 +37,6 @@
   - [X](#x)
   - [Y](#y)
   - [Z](#z)
-- [Log](#log)
-  - [2021/7/27-](#2021727-)
-    - [It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)](#it-seems-like-you-were-focusing-too-much-on-notetaking-but-not-focusing-on-the-memorizing-and-structuring-process-of-the-audio-textconsecutive-interpreting)
-      - [Note taking](#note-taking)
-      - [Memory](#memory)
-  - [2021/8/8-](#202188-)
-    - [Structure your daily workout](#structure-your-daily-workout)
-    - [Discovering consecutive interpreting note-taking resource](#discovering-consecutive-interpreting-note-taking-resource)
 
 #dailyreview
 # Mind palace for translation
@@ -421,34 +413,3 @@ Example
       - AAR, Autonomous Administrative Region
       - [自治区](https://zh.wikipedia.org/zh-hans/%E8%87%AA%E6%B2%BB%E5%8C%BA)
   - 中国共产党中央委员会: The central committee of the communist party of china | ?CPC Central Committee 
-
-
-# Log
-## 2021/7/27-
-### It seems like you were focusing too much on notetaking but not focusing on the memorizing and structuring process of the audio text(Consecutive Interpreting)
-#### Note taking
-- Note is only the subsidiary of your store, don't overdo it
-- [口译学习中脑记和笔记的关系？](https://www.zhihu.com/question/29384761/answer/95369892)
-- [交替传译中的笔记分析](https://www.zz-news.com/com/dangdaijiaoyuluntan/news/itemid-94541.html)
-- [交替传译](http://www.dioenglish.com/wiki/index.php?doc-view-9988)
-
-#### Memory
-- Information flow example
-  - [翻译官们如何在翻译中处理两种语言](https://www.youtube.com/watch?v=cXNTArhA0Jg)
-  - [Improve Memory | Consecutive Interpreting](https://www.youtube.com/watch?v=tKQn9ZQc9V8)
-  - [Memory training in consecutive interpreting](https://www.youtube.com/watch?v=8IQPtNO8xfg)
-  - [Consecutive without notes](https://www.youtube.com/watch?v=e3joM5ZrRgA)
-
-  - [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8&t=71s)
-- Sample training
-  - [Consecutive Note Taking-Part 1](https://www.youtube.com/watch?v=y-_5FheanaY) - 4-47
-## 2021/8/8-
-### Structure your daily workout
-### Discovering consecutive interpreting note-taking resource
-- [NOTE-TAKING FOR CONSecutive interpreting a short course]()
-- https://www.jostrans.org/issue26/art_chen.pdf
-- http://www.someya-net.com/01-Tsuyaku/Reading/Rozan.pdf
-- https://www.imiaweb.org/uploads/pages/228_7..pdf
-- https://www.imiaweb.org/uploads/pages/228_4.pdf
-- https://core.ac.uk/download/15644408.pdf
-- [学习交替传译 口译笔记的5个步骤](https://zhuanlan.zhihu.com/p/105160630)

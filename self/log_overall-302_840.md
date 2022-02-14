@@ -77,3 +77,6 @@
     - Energy leak due to 
       - lack of weighing parameters
       - necessary pause for context refill
+
+# About your reluctance to do intense preparation before anything
+- You'd like the scenario that your ability is 

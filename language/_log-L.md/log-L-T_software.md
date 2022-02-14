@@ -6,12 +6,14 @@
 - [F](#f)
 - [H](#h)
 - [L](#l)
+- [N](#n)
+- [P](#p)
 - [S](#s)
 - [T](#t)
-- [X](#x)
 - [J](#j)
-- [L](#l-1)
 - [R](#r)
+- [V](#v)
+- [X](#x)
 - [<](#)
 
 # B
@@ -49,6 +51,18 @@
     - [悲观锁与乐观锁的实现(详情图解)](https://www.modb.pro/db/50596)
     - [不得不说的乐观锁和悲观锁](https://juejin.cn/post/7024337692091482126)
 
+# N
+- NLTM Proxy
+  - [NTLM server](http://ntlmaps.sourceforge.net/)
+  - [px - github](https://github.com/genotrance/px)
+    - Source Code Reading
+      - px.py
+        - Codemark: L95
+
+# P
+- Principle
+  - AWS JSON policy elements: Principal
+    - [doc](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)
 # S
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
@@ -57,6 +71,18 @@
   - Wiki
 - Turing machine: 图灵机
   - [Turing Machines Explained - Computerphile](https://www.youtube.com/watch?v=dNRDvLACg5Q)
+# J
+- JPA
+
+# R
+- RSS: 简易信息聚合
+  - [RSS](https://en.wikipedia.org/wiki/RSS)
+  - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
+# V
+- VPC
+  - [AWS VPC Beginner to Pro](https://www.youtube.com/watch?v=g2JOHLHh4rI&t=3992s)
+    - Videomark: 1:03/2:11:41
+
 # X
 - 线程池
   - [Java线程池实现原理及其在美团业务中的实践](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
@@ -74,15 +100,6 @@
       - 来源：简书
       - 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-# J
-- JPA
-
-# L
-
-# R
-- RSS: 简易信息聚合
-  - [RSS](https://en.wikipedia.org/wiki/RSS)
-  - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
 # <
 - &lt;pk>
   - [[数据库]SQLServer：什么是主键（PK）和外键（FK）？（图解）

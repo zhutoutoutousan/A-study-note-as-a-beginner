@@ -2,10 +2,17 @@
 
 # Bleeding edge arsenal
 ## Frontend
-- Rust
-- Vue3
-- React latest
-- Amber
+- Tier-1
+  - DP
+    - DDD for Frontend
+  - Framework
+    - Vue3
+    - React latest
+  - Language
+    - Rust
+  - 3D
+    - three.js
+    - react-three-fiber
 ## Backend
 - Golang
 ## DX

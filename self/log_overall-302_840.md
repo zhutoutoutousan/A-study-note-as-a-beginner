@@ -80,3 +80,9 @@
 
 # About your reluctance to do intense preparation before anything
 - You'd like the scenario that your ability is ten times greater than what a work item entails, in a way it's a coward's act
+
+# A suddent new recognition of why you're no so happy
+- 2022/2/15: 你不幸福的原因是, 你还没有非常成功地经历过: 筹划, 管理, 落地一件**极其极其极其复杂**的事情, 类似终极智慧挑战
+  - 还有就是入局/建立一个系统能够每天批量经历商业逻辑闭环, 软件工程是个大怪兽, 所以需要有一些平行线程, 能够提前进行一些商业逻辑闭环的训练, 待至软件工程这块成熟之后再加进来
+    - Holy shit, that pretty much concludes why I'm not happy
+    - Horrifying, you're telling the truth, but it's doable

@@ -14,6 +14,13 @@
 - French
 - Spanish
 # Translation Training for Exam
+- Archive Target: Move to Language Attestation section
+## Schedule
+- Test Day: 3/28
+- Project Duration: 6 weeks
+- Shock therapy test scheduling
+## Things to do that can DRASTICALLY CHANGE THE OUTCOME
+## Process Control
 # IT Sophistication Improvement Commitment(2022/2/13-2023/2/13)
 ## Origin and basic planning - 2022/2/13
 - I'm pretty frustrated that French is still the major limiting factor of fully comprehending Les Psychologie des Foules, guess your hunger for specific knowledge and idiosyncrasies of reading in original text have to be satisfied a bit later or slower
@@ -79,3 +86,26 @@
     - Well, AWS took way too much time
     - Must sleep, it's just a start, don't beat yourself to death
 - 2022/2/15
+  - Difficulty
+    - INTENSITY TOO HIGH?
+      - When getting up, I feel like I'm going to faint
+    - What the fxxk should I do now?
+  - Fine-grained planning
+    - [x] R & R
+    - [ ] 0:00-0:30 AWS SAM
+    - [ ] R & R
+    - [ ] 0:30-2:00 System Implementation Training
+    - [ ] R & R
+    - 2:00-3:30 Frontend
+      - [ ] 0:00-0:30 Source Code
+      - [ ] 0:30-1:30 Front-end burying point & DDD
+    - 3:30-4:00 Backend
+    - 4:00- 
+      - 1:00 --> DP
+      - _meta: Start on whim
+      - _OCC: 
+      - 3D programming
+      - Codewars
+      - Leetcode
+      - Backend
+      - NLP

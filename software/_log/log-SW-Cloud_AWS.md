@@ -10,9 +10,13 @@
     - [Documentation Internalization](#documentation-internalization)
   - [AWS Kinesis](#aws-kinesis)
 - [2022/2/14](#2022214)
+- [2022/2/15](#2022215)
 - [_ARCHIVED_ contents](#archived-contents)
 
 # AWS踩坑树
+- AWS Cloudwatch
+  - API Gateway/Lambda出错, Cloudwatch不报错
+    - callback如果500,400,403,404,500,503,504,请求失败等不触发Cloudwatch?
 - AWS VPC
   - Create Subnet
     - CIDR Address is not within CIDR Address from VPC
@@ -69,6 +73,35 @@
 - 我想优雅地在IAM(CLI, Console), root之间切换, 如何做到？
   - Set command
 
+# 2022/2/15
+```javascript
+// Q: 这段代码放哪里?
+// trigger CloudWatch Alarm
+const cloudwatch = new AWS.CloudWatch();
+const params = {
+    MetricData: [
+        {
+            MetricName: 'ImageProcessingError',
+            Dimensions: [
+                {
+                    Name: 'ImageProcessingError',
+                    Value: 'ImageProcessingError'
+                }
+            ],
+            Unit: 'Count',
+            Value: 1
+        }
+    ],
+    Namespace: 'ImageProcessing'
+};
+cloudwatch.putMetricData(params, (err, data) => {
+    if (err) {
+        console.log(err, err.stack);
+    } else {
+        console.log(data);
+    }
+});
+```
 
 
 # _ARCHIVED_ contents

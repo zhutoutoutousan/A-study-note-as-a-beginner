@@ -1,3 +1,7 @@
+# Guided Source
+- Reverse Engineering
+  - [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
+
 # Defend
 ## Network
 - Disable X-Forwarded-For(XFF) Header

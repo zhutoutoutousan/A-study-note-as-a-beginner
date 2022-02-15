@@ -81,7 +81,9 @@
           - Skim faster when it comes to frontend java, can jump over
           - Focus on JavaBean
       - Reading
-        - Bookmark: 66/1010
+        - Bookmark: 81/1010
+          - Pause Point
+            - [Java Interface](https://www.w3schools.com/java/java_interface.asp)
   - Spring in Action
     - [link](http://index-of.es/Java/Manning%20-%20Spring%20in%20action%20%5BPrerelease%5D.pdf)
       - Bookmark: 32/472

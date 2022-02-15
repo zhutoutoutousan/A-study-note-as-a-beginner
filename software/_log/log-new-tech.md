@@ -1,11 +1,14 @@
 #NewTech-BusinessAnalyst
 
-# Bleeding edge arsenal
-## Frontend
+# Bleeding edge arsenal - Pillars of Boundries
+## Use Cases Boundry
+## Technical
+### Frontend
 - Tier-1
   - DP
     - DDD for Frontend
   - Framework
+    - Svelte
     - Vue3
     - React latest
   - Language
@@ -13,11 +16,18 @@
   - 3D
     - three.js
     - react-three-fiber
-## Backend
+### Backend
 - Golang
-## DX
+### DX
 - API development
     - Apifox： apifox.cn
+
+# Frontend DDD design practice and its applications
+## Information gathering
+- Bytedance
+  - [面向未来与浏览器规范的前端DDD架构设计](https://cloud.tencent.com/developer/article/1917775)
+    - [magic-microservices - github](https://github.com/bytedance/magic-microservices)
+  - [domain-driven-design - github](https://github.com/topics/domain-driven-design)
 
 # Buffer to permanent note
 ## Source
@@ -48,9 +58,9 @@
   - Social
     - Discord
     - Github
-
 - Case study: Obsidian
-
+- 2022/2/15
+  - Great question, I don't have the energy to answer it now, but front-end DDD will be added ok?
 
 ## 做一个lowcode平台(LCDP)的分析比较
 - 背景分析

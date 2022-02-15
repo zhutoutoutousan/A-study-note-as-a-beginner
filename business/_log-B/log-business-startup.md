@@ -24,7 +24,8 @@
         - Would you fuck it up by not willing to LOST YOUR INDEPENDENCE/COMPOSURE for business survival?
           - Seems that you're not capable enough to be less rigid in this part
 
-
+# Courses
+- [The Foundations of Entrepreneurship - Full Course](https://www.youtube.com/watch?v=UEngvxZ11sw)
 
 
 # Study into pre-cooked meal: 预制菜的研究

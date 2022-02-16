@@ -135,7 +135,7 @@
           - Steve Kaufmann: vocabulary is king
     - [x] 0:30N-0:00 AWS SAM
     - R & R
-    - 0:00-1:30 DP & React+Ts
+    - 0:00-1:30 React+Ts
     - R & R
     - 1:30-3:00 System Implementation Training
     - R & R
@@ -149,3 +149,6 @@
       - Leetcode
       - Backend
       - NLP
+  - Battle Report
+    - Change occured, don't fret, one year to go
+- 2022/2/17

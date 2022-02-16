@@ -37,10 +37,13 @@
 ## Gadget
 
 # Erudition
-- 面向WebAssembly编程 应用开发方法与实践
-  - Paperback
-    - Bookmark: 5
-    - Emscripten 入门
+- Basics
+  - [开源技术选型手册](https://www.zhihu.com/pub/reader/119951095/chapter/1300024695731736576)
+- New Tech
+  - 面向WebAssembly编程 应用开发方法与实践
+    - Paperback
+      - Bookmark: 5
+      - Emscripten 入门
 
 # 2021/8/20
 ## Google Earth Studio

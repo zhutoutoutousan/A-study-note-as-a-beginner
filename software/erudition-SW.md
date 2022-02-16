@@ -54,7 +54,6 @@ CONSIDER FURTHUR DISPERSE IT INTO LOG
     - Read it like a novel
   - [Post Agile](https://www.youtube.com/watch?v=4OtI6s-rTOE)
 - [Agile handbook](http://agilehandbook.com/agile-handbook.pdf)
-- [Refactoring: Improving the Design of Existing Code](http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf)
 
 
 # IT architecture

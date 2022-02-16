@@ -1,7 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [React overall ability track dashboard](#react-overall-ability-track-dashboard)
-- [TypeScript overall ability track dashboard](#typescript-overall-ability-track-dashboard)
+- [Erudition](#erudition)
 - [Buffer to permanent note](#buffer-to-permanent-note)
   - [Style](#style)
   - [In-depth reading](#in-depth-reading)
@@ -75,12 +74,16 @@
 
 - Confirmed permanent structure
 
-# React overall ability track dashboard
-
-
-# TypeScript overall ability track dashboard
-
-
+# Erudition
+- Fullstack React: The Complete Guide to ReactJS and Friends
+  - [link](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
+  - Process 1
+    - Style
+      - Full-scale brain stimulation of React with passion
+    - Goal
+      - Reboot React stimulus and progress
+  - Process 2
+    - 
 # Buffer to permanent note
 
 ## Style

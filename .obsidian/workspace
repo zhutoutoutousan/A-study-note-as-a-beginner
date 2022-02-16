@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_COMMITMENT.md",
+            "file": "_ENTRY.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_COMMITMENT.md",
+                "file": "_ENTRY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_COMMITMENT.md"
+                "file": "_ENTRY.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_COMMITMENT.md",
+                "file": "_ENTRY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,7 @@
   },
   "active": "64c1bb6d3d16b209",
   "lastOpenFiles": [
+    "_ENTRY.md",
     "_COMMITMENT.md",
     "self/log_overall-302_840.md",
     "self/log_overall-301_840.md",
@@ -146,7 +147,6 @@
     "health-for-engineers-and-scientists/workout-H.md",
     "MB_GIT.md",
     "complexity-and-chaos/log-CMP_roadmap.md",
-    "complexity-and-chaos/terminology-CMP.md",
-    "mathematics/erudition-M.md"
+    "complexity-and-chaos/terminology-CMP.md"
   ]
 }

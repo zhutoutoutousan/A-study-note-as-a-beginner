@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Information Pillar](#information-pillar)
 - [Information flow](#information-flow)
   - [Tier-1](#tier-1)
   - [Tier-2](#tier-2)
@@ -45,6 +46,10 @@
 - [2021/10/6](#2021106)
   - [Requirement - Tech solution connection](#requirement---tech-solution-connection)
   - [Is it possible to use both `withRouter` and `withStyles`?](#is-it-possible-to-use-both-withrouter-and-withstyles)
+- [2B前端开发的领域驱动设计及大型项目实践](#2b前端开发的领域驱动设计及大型项目实践)
+
+# Information Pillar
+- [Martinfowler](https://martinfowler.com/)
 
 # Information flow
 ## Tier-1
@@ -89,8 +94,20 @@
   - Social media
     - 知乎
       - [阿里巴巴淘系技术](https://www.zhihu.com/org/a-li-ba-ba-tao-xi-ji-zhu)
+- [Refactoring: Improving the Design of Existing Code](http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf)
+  - Process 0
+    - Bookmark: 17/337
+    - Goal
+      - 望尽天涯路
+    - Style
+  - Process 1
+    - Prerequisite
+      - Advanced knowledge of Java & Spring Boot
+      - Extensive
+    - Goal
+      - Be of use
+    - Style
 ## How-to
-
 #ideasandinnovations#automation ---> Tools for software decision making
 - Package update ---> Ask
   - Get package dependency

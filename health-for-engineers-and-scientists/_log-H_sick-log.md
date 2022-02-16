@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Health Exam Results](#health-exam-results)
+  - [2022/2/16](#2022216)
 - [Buffer to permanent notes](#buffer-to-permanent-notes)
   - [Health Check 101](#health-check-101)
   - [Common disorder counteract strategy](#common-disorder-counteract-strategy)
@@ -68,8 +70,15 @@
   - [2022/1/25-2022/1/31](#2022125-2022131)
     - [Caught a cold](#caught-a-cold)
     - [2022/2/1-2022/2/7](#202221-202227)
+  - [2022/2/10](#2022210)
 
 #thehealthmatters
+
+# Health Exam Results
+## 2022/2/16
+- High Creatinine
+- High Blood Lipids
+
 
 # Buffer to permanent notes
 ## Health Check 101
@@ -432,3 +441,4 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 
 ## 2022/2/10
 Medical exam and insurance established, awaiting for test results
+

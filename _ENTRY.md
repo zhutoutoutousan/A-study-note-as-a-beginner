@@ -45,7 +45,8 @@
 # Renovation
 - Add a comment section for collecting user generated contents
   - https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/377
-
+- Establish an efficient workflow of diagram archive
+  - [entry](https://drive.google.com/file/d/1nomWRQLKjgCzrn_mC5sbM5fSM3sKxXgF/view?usp=sharing)
 # Value --> As one person
 - 保证量变的单位质量和配套基础设施建设, 为高质质变做准备
   - 解决个人大局和细节之间的凌波地狱问题
@@ -314,6 +315,8 @@
 - Never ever store figures in the repo, URLs with full recognition of copyrights only
   - [Image Citation Guide - UBC](https://copyright.ubc.ca/image-citation-guide/)
   - [Navigating Copyright for Reproduced Images: Part 4. Writing the Copyright Statement](https://blog.apastyle.org/apastyle/2016/01/navigating-copyright-part-4.html)
+
+
 K
 r16 N
 Westerngitaar

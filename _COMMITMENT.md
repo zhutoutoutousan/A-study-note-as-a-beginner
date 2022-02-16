@@ -116,10 +116,11 @@
     - AWS is taking a bit less time, and the progress is getting stabler so you can pretty much estimate the time of completion, but the problem is, it usually is the time you start to be anxious because there is a tangible progress that you can attack your *genious self-image* with
 - 2022/2/16
   - Change
+    - Shuffule the planning items
     - The AWS TimeOverflow problem is caused by `recording time by passed video length`, which excludes the debugging, documentation reading, following along and additional research
       - 30 Minutes passed video length corresponds to 1 hour~1.5hour of AWS osmosis-style learning
   - Recovery
-    - Pitch-black sleeping environment and earlier sleep time is the key to avoid I-am-in-bed-and-awake-the-whole-night for the time being
+    - **Pitch-black sleeping environment and earlier sleep time** is the key to avoid I-am-in-bed-and-awake-the-whole-night for the time being
   - New Mental Procedures
     - FORCING YOURSELF TO GET BACK FROM DISTRACTION 
       - This mental procedure, used to be very strong if enough mental supports are present
@@ -127,8 +128,12 @@
   - Naysaying elements
     - I expect this will emerge after a few days or weeks
   - Fine-grained planning
-    - R & R
-    - 0:30N-0:00 AWS SAM
+    - [x] R & R
+      - Your R & R literally means
+        - Taking a stroll
+        - Language Vocabulary Training
+          - Steve Kaufmann: vocabulary is king
+    - [x] 0:30N-0:00 AWS SAM
     - R & R
     - 0:00-1:30 DP & React+Ts
     - R & R

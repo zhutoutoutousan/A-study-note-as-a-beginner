@@ -158,8 +158,10 @@
         - [Failed to install go tools in China, please help to add cn site. thanks very much](https://github.com/microsoft/vscode-go/issues/3129)
         - [解决golang编译提示dial tcp](https://blog.csdn.net/weixin_37254196/article/details/110823033)
     - Java
-  - Redis
-  - CDN
+  - Scaling
+    - Redis
+  - Accessibility
+    - CDN
   - ...
 # Learning Path
 - Engineering

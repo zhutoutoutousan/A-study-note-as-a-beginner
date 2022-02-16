@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Temp Documentation Memoization Space](#temp-documentation-memoization-space)
 - [AWS踩坑树](#aws踩坑树)
 - [Erudition](#erudition)
 - [_resource track](#_resource-track)
@@ -13,6 +14,11 @@
 - [2022/2/15](#2022215)
 - [_ARCHIVED_ contents](#archived-contents)
 
+# Temp Documentation Memoization Space
+- AWS Lambda function handler in Node.js
+- Amazon API Gateway REST API tutorials
+  - _Handsonmark: Build an API Gateway REST API with Lambda integration
+  - Tutorial: Build a REST API with HTTP non-proxy integration
 # AWS踩坑树
 - AWS Cloudwatch
   - API Gateway/Lambda出错, Cloudwatch不报错

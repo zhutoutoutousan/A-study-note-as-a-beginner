@@ -17,6 +17,8 @@
 - AWS Cloudwatch
   - API Gateway/Lambda出错, Cloudwatch不报错
     - callback如果500,400,403,404,500,503,504,请求失败等不触发Cloudwatch?
+      - throw可以触发报错
+      - 见下文日志代码部分
 - AWS VPC
   - Create Subnet
     - CIDR Address is not within CIDR Address from VPC

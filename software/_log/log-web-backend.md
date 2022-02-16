@@ -70,7 +70,7 @@
       - [Go Todo list](https://github.com/shiniao/gtodo)
     - [gin+vue的前后端分离开源项目](https://studygolang.com/topics/9908)
 - J2EE
-  - Learning Java by Niemeyer Patrick and Leuck Danial: 66/1010
+  - Learning Java by Niemeyer Patrick and Leuck Danial
     - [Link1](https://rabinhoosh.com/wp-content/uploads/2020/06/Learning-Java-4th-Edition.pdf)
       - Pretty slow to load
     - Process 1:
@@ -81,9 +81,7 @@
           - Skim faster when it comes to frontend java, can jump over
           - Focus on JavaBean
       - Reading
-        - Bookmark: 81/1010
-          - Pause Point
-            - [Java Interface](https://www.w3schools.com/java/java_interface.asp)
+        - Bookmark: 152/1010
   - Spring in Action
     - [link](http://index-of.es/Java/Manning%20-%20Spring%20in%20action%20%5BPrerelease%5D.pdf)
       - Bookmark: 32/472

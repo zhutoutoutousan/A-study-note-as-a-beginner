@@ -27,6 +27,7 @@
   - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
 - [Iconic files for demonstration](#iconic-files-for-demonstration)
 - [Useful tools](#useful-tools)
+- [_TEMP: Use of figures](#_temp-use-of-figures)
 # Links
 - Linkage for displaying graph view using Obsidian
 [[agenda]]
@@ -308,6 +309,11 @@
 # Useful tools
 - [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
 
+
+# _TEMP: Use of figures
+- Never ever store figures in the repo, URLs with full recognition of copyrights only
+  - [Image Citation Guide - UBC](https://copyright.ubc.ca/image-citation-guide/)
+  - [Navigating Copyright for Reproduced Images: Part 4. Writing the Copyright Statement](https://blog.apastyle.org/apastyle/2016/01/navigating-copyright-part-4.html)
 K
 r16 N
 Westerngitaar

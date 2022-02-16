@@ -90,16 +90,51 @@
     - INTENSITY TOO HIGH?
       - When getting up, I feel like I'm going to faint
     - What the fxxk should I do now?
+    - NOT ENOUGH SLEEP
   - Fine-grained planning
     - [x] R & R
-    - [ ] 0:00-0:30 AWS SAM
-    - [ ] R & R
-    - [ ] 0:30-2:00 System Implementation Training
+    - [x] 0:00-0:30 AWS SAM
+    - [x] R & R
+    - [x] 0:30-2:00 System Implementation Training
     - [ ] R & R
     - 2:00-3:30 Frontend
       - [ ] 0:00-0:30 Source Code
       - [ ] 0:30-1:30 Front-end burying point & DDD
     - 3:30-4:00 Backend
+    - 4:00- 
+      - 1:00 --> DP
+      - _meta: Start on whim
+      - _OCC: 
+      - 3D programming
+      - Codewars
+      - Leetcode
+      - Backend
+      - NLP
+  - Battle Report
+    - Not good enough, but the second day, I would still be tolerant
+    - For Java I started to real *learning java* like a novel, lots of them are familiar and not so important, so I can progress 100 pages per hour, up until the `bean` part I guess, Spring Boot is more important
+    - AWS is taking a bit less time, and the progress is getting stabler so you can pretty much estimate the time of completion, but the problem is, it usually is the time you start to be anxious because there is a tangible progress that you can attack your *genious self-image* with
+- 2022/2/16
+  - Change
+    - The AWS TimeOverflow problem is caused by `recording time by passed video length`, which excludes the debugging, documentation reading, following along and additional research
+      - 30 Minutes passed video length corresponds to 1 hour~1.5hour of AWS osmosis-style learning
+  - Recovery
+    - Pitch-black sleeping environment and earlier sleep time is the key to avoid I-am-in-bed-and-awake-the-whole-night for the time being
+  - New Mental Procedures
+    - FORCING YOURSELF TO GET BACK FROM DISTRACTION 
+      - This mental procedure, used to be very strong if enough mental supports are present
+      - This entire `_COMMITMENT` section will serve as necessary `mental support` for the time being
+  - Naysaying elements
+    - I expect this will emerge after a few days or weeks
+  - Fine-grained planning
+    - R & R
+    - 0:30N-0:00 AWS SAM
+    - R & R
+    - 0:00-1:30 DP & React+Ts
+    - R & R
+    - 1:30-3:00 System Implementation Training
+    - R & R
+    - 3:00-4:00 Frontend
     - 4:00- 
       - 1:00 --> DP
       - _meta: Start on whim

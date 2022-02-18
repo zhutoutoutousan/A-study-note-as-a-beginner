@@ -78,6 +78,7 @@
 - Fullstack React: The Complete Guide to ReactJS and Friends
   - [link](https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf)
   - Process 1
+    - Bookmark: 38
     - Style
       - Full-scale brain stimulation of React with passion
     - Goal

@@ -21,7 +21,7 @@
 - [Installation](#installation)
   - [PC](#pc)
   - [Mobile](#mobile)
-- [Notebook architecture](#notebook-architecture)
+- [Notebook architecture(DEPRECATED)](#notebook-architecturedeprecated)
 - [*Gameplay* controls](#gameplay-controls)
 - [Heuristic](#heuristic)
   - [When exactly is optimal for framework activation?](#when-exactly-is-optimal-for-framework-activation)
@@ -204,7 +204,10 @@
 ## Mobile
 - Install GitHub app
 - View the project
-# Notebook architecture
+# Notebook architecture(DEPRECATED)
+- _DEPRECATED
+  - Renovation plan
+    - Currently none
 - Root
   - reading
     - Explore the online reading resource and track the  progress both mentally and physicallly

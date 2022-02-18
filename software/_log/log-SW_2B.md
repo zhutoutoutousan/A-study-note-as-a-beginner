@@ -1,11 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [STATE](#state)
-- [通用运营管理系统后台前端的Vue前端组件设计](#通用运营管理系统后台前端的vue前端组件设计)
+- [管理系统后台前端](#管理系统后台前端)
   - [常见系统实施模块](#常见系统实施模块)
     - [面向开发者的效率组件](#面向开发者的效率组件)
       - [接口请求的统一封装 --- 以Crud.js为例](#接口请求的统一封装-----以crudjs为例)
         - [深入Crud.js源码分析](#深入crudjs源码分析)
+      - [前后端代码生成器原理](#前后端代码生成器原理)
     - [面向用户的效率组件](#面向用户的效率组件)
     - [登录管理](#登录管理)
     - [菜单管理](#菜单管理)
@@ -15,21 +16,11 @@
     - [签约](#签约)
     - [开发](#开发)
     - [维系](#维系)
-- [通用运营管理系统前台前端的Vue前端组件设计](#通用运营管理系统前台前端的vue前端组件设计)
 - [Improvement Space](#improvement-space)
-- [Erudition](#erudition)
+- [Erudition & Training](#erudition--training)
   - [Overview](#overview)
 - [Blockchain](#blockchain)
   - [Resources](#resources)
-- [2021/9/27](#2021927)
-  - [Informatica study](#informatica-study)
-  - [Appian study](#appian-study)
-- [2021/10/1](#2021101)
-  - [Concourse study](#concourse-study)
-- [2021/11/16](#20211116)
-  - [FinTech](#fintech)
-- [2021/12/1](#2021121)
-  - [2B前端踩坑树](#2b前端踩坑树)
 - [Mall project practice:商城项目实践](#mall-project-practice商城项目实践)
   - [客户分析: Client Analysis](#客户分析-client-analysis)
   - [文档编写: Documents](#文档编写-documents)
@@ -71,15 +62,27 @@
       - [后台管理后端](#后台管理后端)
     - [进程状态确定(项目管理)](#进程状态确定项目管理)
       - [开发排期](#开发排期)
+- [2021/9/27](#2021927)
+  - [Informatica study](#informatica-study)
+  - [Appian study](#appian-study)
+- [2021/10/1](#2021101)
+  - [Concourse study](#concourse-study)
+- [2021/11/16](#20211116)
+  - [FinTech](#fintech)
+- [2021/12/1](#2021121)
+  - [2B前端踩坑树](#2b前端踩坑树)
 
 # STATE
 PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data structure for the peripheral part
 
-# 通用运营管理系统后台前端的Vue前端组件设计
+# 管理系统后台前端
 ## 常见系统实施模块
 ### 面向开发者的效率组件
 #### 接口请求的统一封装 --- 以Crud.js为例
 ##### 深入Crud.js源码分析
+
+#### 前后端代码生成器原理
+- [Code-Generate 代码生成器](https://github.com/kkzhilu/Code-Generate/tree/master)
 ### 面向用户的效率组件
 ### 登录管理
 ### 菜单管理
@@ -92,9 +95,6 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
 ### 开发
 ### 维系
 
-# 通用运营管理系统前台前端的Vue前端组件设计
-
-
 # Improvement Space
 - Product Kickstart
   - 1.立项申请书、2.项目考核责任书、3.项目任务书
@@ -106,7 +106,7 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
 - Prototype
   - [商城前后端原型、商城prd文档、商城后台管理系统、商城app文档、电商需求文档、限时秒杀、电商平台、促销助力、拼团抽奖、电商文档、prd文档、电商前后端原型、电商原型、Axure电商系统、rp原型](https://blog.csdn.net/baidu_36836080/article/details/113767257)
 
-# Erudition
+# Erudition & Training
 - Tier-1
   - [Spring Boot 大型线上商城项目实战教程](https://juejin.cn/book/6844733814074245133) --- **ACTIVE**
     - Process 1
@@ -120,6 +120,10 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
       - Resource
         - %USUAL_PC_CODING%/spring-newbie-mall
           - Baiduclouddisk
+  - JEECG BOOT 低代码开发平台（前后端分离版本)
+    - [Code link](https://github.com/jeecgboot/jeecg-boot)
+    - [Doc](http://doc.jeecg.com/2043868)
+    - Strategy: After you finish the above Spring Boot training, then you can furthur progress your system implementation using this platform
   - [MySQL 是怎样运行的：从根儿上理解 MySQL](https://juejin.cn/book/6844733769996304392)
 - Tier-2
   - [Redis 深度历险：核心原理与应用实践](https://juejin.cn/book/6844733724618129422)
@@ -180,75 +184,6 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
 ## Resources
 - [Blockchain Research Institute](https://www.blockchainresearchinstitute.org/)
 - [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/)
-# 2021/9/27
-## Informatica study
-- Why should I even bother?
-  - Gain basic recognition of all those work delegations
-    - 商业智能分析师
-    - BI数据运营
-    - 懂数据的业务人员
-    - 架构师
-- [Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka](https://www.youtube.com/watch?v=J326LIUrZM8)
-- [Informatica Tutorial | Learn Informatica In 60 Minutes | Informatica PowerCenter Training | Edureka](https://www.youtube.com/watch?v=3scD3llibJA)
-  - Videomark: 4-03/58:57
-  - Double subtitle
-- [Informatica Tutorial For Beginners | Informatica PowerCenter | Informatica Training | Edureka](https://www.youtube.com/watch?v=u6oLXidGoqs)
-  - Videomark: 14-21/1-39-57
-  - Learning style
-    - Double subtitle: English+French
-    - Osmosis
-  - What business needs
-    - Growth
-  - Difficulties:
-    - Databases like SQL, Oracle... Unstructure data can't be visualized directly
-  - Solution:
-    - Business Intelligence
-  - Micellaneous
-    - Concepts
-      - ETL
-      - Data warehouse
-        - Subsidiaries
-          - Information Processing
-          - Analytical Processing
-          - Data Mining
-        - Definition: *A data warehouse is a single, complete and consistent store of data, obtained from a variety of different sourcecs made available to end users in a way they understand and use in business context* --- Barry Devlin
-          - Business context
-            - ?
-          - P.O.I
-            - Barry Devlin
-  - Carry over effect gained
-    - Increased sense of urgency of learning AWS database, could be helpful for complementary AWS prep phase
-- [Informatica Interview Questions | Informatica Tutorial | Informatica Training | Edureka](https://www.youtube.com/watch?v=GYY7ns8oVhI)
-- [Data Warehouse Interview Questions And Answers | Data Warehouse Tutorial | Edureka](https://www.youtube.com/watch?v=9gOw3joU4a8)
-## Appian study
-- [Appium-Mobile Automation Testing from Scratch in 6hrs | Appium Full Course| Appium Beginner Tutorial](https://www.youtube.com/watch?v=p7CGvFivrts)
-
-
-# 2021/10/1
-- Business Intelligence, Data Warehousing --> Created temp node of application TOGETHER WITH --- Cloud
-## Concourse study
-- [Introduction to CONCOURSE CI/CD](https://www.youtube.com/watch?v=JYtJdY_OVLw)
-  - Videomark: 7-52/39-22
-
-
-# 2021/11/16
-## FinTech
-- Blockchain
-  - [ ] [Full Roadmap to learn Blockchain development in 2021](https://www.youtube.com/watch?v=ci_AIMCF-HA)
-  - [ ] [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
-
-# 2021/12/1
-## 2B前端踩坑树
-- CRUD封装
-  - crud.js
-    - 同一组件调用多个crud
-    - 后端改字段后crud.js该如何配合
-      - 改defaultForm
-- 数据字典
-- 系统管理
-  - 菜单管理
-  - 权限管理
-  - 后端开发文档
 
 
 
@@ -321,3 +256,74 @@ UI设计会出一个UI设计规范，当然我们做产品的也会对产品中�
 - [newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)
 ### 进程状态确定(项目管理)
 #### 开发排期
+
+
+# 2021/9/27
+## Informatica study
+- Why should I even bother?
+  - Gain basic recognition of all those work delegations
+    - 商业智能分析师
+    - BI数据运营
+    - 懂数据的业务人员
+    - 架构师
+- [Data Warehouse Tutorial For Beginners | Data Warehouse Concepts | Data Warehousing | Edureka](https://www.youtube.com/watch?v=J326LIUrZM8)
+- [Informatica Tutorial | Learn Informatica In 60 Minutes | Informatica PowerCenter Training | Edureka](https://www.youtube.com/watch?v=3scD3llibJA)
+  - Videomark: 4-03/58:57
+  - Double subtitle
+- [Informatica Tutorial For Beginners | Informatica PowerCenter | Informatica Training | Edureka](https://www.youtube.com/watch?v=u6oLXidGoqs)
+  - Videomark: 14-21/1-39-57
+  - Learning style
+    - Double subtitle: English+French
+    - Osmosis
+  - What business needs
+    - Growth
+  - Difficulties:
+    - Databases like SQL, Oracle... Unstructure data can't be visualized directly
+  - Solution:
+    - Business Intelligence
+  - Micellaneous
+    - Concepts
+      - ETL
+      - Data warehouse
+        - Subsidiaries
+          - Information Processing
+          - Analytical Processing
+          - Data Mining
+        - Definition: *A data warehouse is a single, complete and consistent store of data, obtained from a variety of different sourcecs made available to end users in a way they understand and use in business context* --- Barry Devlin
+          - Business context
+            - ?
+          - P.O.I
+            - Barry Devlin
+  - Carry over effect gained
+    - Increased sense of urgency of learning AWS database, could be helpful for complementary AWS prep phase
+- [Informatica Interview Questions | Informatica Tutorial | Informatica Training | Edureka](https://www.youtube.com/watch?v=GYY7ns8oVhI)
+- [Data Warehouse Interview Questions And Answers | Data Warehouse Tutorial | Edureka](https://www.youtube.com/watch?v=9gOw3joU4a8)
+## Appian study
+- [Appium-Mobile Automation Testing from Scratch in 6hrs | Appium Full Course| Appium Beginner Tutorial](https://www.youtube.com/watch?v=p7CGvFivrts)
+
+
+# 2021/10/1
+- Business Intelligence, Data Warehousing --> Created temp node of application TOGETHER WITH --- Cloud
+## Concourse study
+- [Introduction to CONCOURSE CI/CD](https://www.youtube.com/watch?v=JYtJdY_OVLw)
+  - Videomark: 7-52/39-22
+
+
+# 2021/11/16
+## FinTech
+- Blockchain
+  - [ ] [Full Roadmap to learn Blockchain development in 2021](https://www.youtube.com/watch?v=ci_AIMCF-HA)
+  - [ ] [Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity](https://www.youtube.com/watch?v=coQ5dg8wM2o)
+
+# 2021/12/1
+## 2B前端踩坑树
+- CRUD封装
+  - crud.js
+    - 同一组件调用多个crud
+    - 后端改字段后crud.js该如何配合
+      - 改defaultForm
+- 数据字典
+- 系统管理
+  - 菜单管理
+  - 权限管理
+  - 后端开发文档

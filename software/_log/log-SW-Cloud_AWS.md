@@ -26,6 +26,7 @@
       - throw可以触发报错
       - 见下文日志代码部分
 - AWS VPC
+  - aws中创建一个公有子网放负载均衡，然后创建一个私有子网放服务器，那么如何可以使负载均衡可以访问服务器呢
   - Create Subnet
     - CIDR Address is not within CIDR Address from VPC
     - CIDR Address overlaps with existing Subnet CIDR: 10.0.0.0/24

@@ -152,3 +152,6 @@
   - Battle Report
     - Change occured, don't fret, one year to go
 - 2022/2/17
+  - Battle Report
+    - So you wondered around, keep your chin up and your brain on
+- 2022/2/18

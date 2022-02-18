@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
+- [Close-loop training](#close-loop-training)
 - [Lifecycle](#lifecycle)
   - [Brand research](#brand-research)
   - [Marketing research](#marketing-research)
@@ -62,6 +63,9 @@
 # Outbound space
 #NewTech-BusinessAnalyst
 
+# Close-loop training
+- 人人都是产品经理中有音频
+
 # Lifecycle
 ## Brand research
 - [CNPP](https://www.cnpp.cn/analysis/)
@@ -76,6 +80,7 @@
 - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
   - Videomark: 2:31
 # Erudition
+- [Good Strategy/Bad Strategy](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4584/1/Good%20Strategy_Bad%20Strategy.pdf)
 - Don't make me think
   - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)
 - Shipping Greatness: Practical lessons on building and launching outstanding software, learned on the job at Google and Amazon

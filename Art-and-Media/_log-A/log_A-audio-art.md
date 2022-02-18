@@ -4,6 +4,7 @@
 - [Italian Artistic Songs](#italian-artistic-songs)
 - [Italian Opera](#italian-opera)
 - [German Artistic Song](#german-artistic-song)
+- [Healing music](#healing-music)
 
 # Why bother
 - This goes unanimous, it can bring you peace, and the last bit of sense of home
@@ -28,3 +29,6 @@
   - Selected Lieder
     - An die Musik
 - Mozart
+
+# Healing music
+- Monroe Institute

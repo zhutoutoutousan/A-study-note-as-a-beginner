@@ -6,9 +6,11 @@
 - [E](#e)
 - [F](#f)
 - [H](#h)
+- [I](#i)
 - [L](#l)
 - [N](#n)
 - [P](#p)
+- [Q](#q)
 - [S](#s)
 - [T](#t)
 - [J](#j)
@@ -41,6 +43,25 @@
 - 汇编语言
   - [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
 
+# I
+- IT Outsourcing: 软件外包
+  - Current Domestic Player
+    - [evget](https://www.evget.com/)
+  - Big Picture
+    - [2021年中国信息技术外包发展趋势研究报告](http://www.devott.com/uploads/File/2021%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%A4%96%E5%8C%85%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
+      - 知识流程外包: Knowledge Process Outsourcing - KPO
+        - [wiki](https://wiki.mbalib.com/wiki/%E7%9F%A5%E8%AF%86%E6%B5%81%E7%A8%8B%E5%A4%96%E5%8C%85)
+  - Knowledge Pool
+    - [软件定制和软件外包的分享](https://www.evget.com/doclib/s/153)
+    - [什么是软件外包？如何有效地外包？ ](https://www.sohu.com/a/301532944_100114651)
+  - Engagement Logic
+    - [软件外包项目避坑指南](http://www.zkhcsoft.com/xinwenzixun/zhishiboke/119.htm)
+    - [如何选个靠谱的软件开发外包服务商](http://www.conjure.com.cn/index/news/news_detail/id/39/type/7.html)
+      - 市场外包力量分类
+        - 廉价外包公司
+        - 复用代码开发
+        - 品质外包公司
+    - [中国软件外包现状对比](https://www.cnblogs.com/wujianming-110117/p/15042335.html)
 # L
 - 逻辑删除
   - [逻辑删除还是物理删除](https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/04.html)
@@ -67,6 +88,11 @@
 - Principle
   - AWS JSON policy elements: Principal
     - [doc](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)
+
+# Q
+- 前后端分离
+  - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)
+  - [作为架构师，你知道前后端分离，有什么优缺点？](https://jishuin.proginn.com/p/763bfbd52c37)
 # S
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)

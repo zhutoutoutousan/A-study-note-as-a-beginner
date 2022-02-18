@@ -155,3 +155,7 @@
   - Battle Report
     - So you wondered around, keep your chin up and your brain on
 - 2022/2/18
+  - Opposing force
+    - I've got a "GOOD IDEA" and I am writing proposal
+      - I am having that typical crazy episode
+  - Delinquency Report

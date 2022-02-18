@@ -89,3 +89,13 @@
 
 # About your mental pressure when something is managed
 - When something is managed, you will feel the pressure and anxiousness because you can clearly see **what level of commitment you need to instill everyday** and sometimes **exactly what to do everyday so as not to fall off the wagon**. Outside this blissful ignorance, comes the dragon of chaos breathing down your neck, yet if you don't enter this realm, you don't get to grow. **The fear of failure** and **overcoming the genuine feeling of weakness in face of the challenge** is what sparks growth, **the wisdom and competency not to overdo it when nobody is pushing** is equally important, be willing to **step out of learned helplessness, tearing down all the numbness regardless of pain and be a child newborn to grow again** awaits for that moment
+
+# 2022/2/18: 对人才模型的新型认知
+- 目前的状态, 你不是*一*型人才, 也不是'I'型人才, 不是'T'型人才, 不是$\pi$型人才, 你是什么?
+  - 你是散点型人才  
+    - 那好, 第一, 这个命题是不是伪命题
+    - 何为散点型人才?
+      - 散点型人才有啥价值?
+    - 你有没有对Ground-Truth level的Context进行rigorous research?
+  - ACTION: 如果你TMD N年之后恰巧对于企业HR的整个运作流程有清晰的认知的话, 请把这些辣鸡加进去
+  - UPDATE: 你有一, 有多个竖杠, 其中有两个竖杠有点深, 然后有很多散点, 散点比正常人要深一点, 有潜在内部逻辑

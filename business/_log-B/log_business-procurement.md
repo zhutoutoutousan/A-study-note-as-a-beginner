@@ -1,3 +1,12 @@
+# Tools & Entries
+- 2C Platform
+  - Taobao
+- 2C Bartering Resource
+  - [现在国内比价网站做得最好的是哪个网站？google购物？](https://www.zhihu.com/question/19602946)
+- 2B Platform
+  - [1688](https://s.1688.com/)
+    - 2022/1/24: Oh my hoooly shit, you did me a DAMN GOOD FAVOR
+
 # Erudition
 - Procurement, Principles & Management (11th edition) –By Peter Bailey, David Farmer, Barry Crocker, David Jesson and David Jones
 - The Procurement and Supply Manager’s Desk Reference – 2nd Edition. By Fred Sollish, John Semanik
@@ -10,8 +19,7 @@
 ## Discovering procurement platforms
 - Made-in-China 中国制造网
   - https://www.made-in-china.com/
-- [1688](https://s.1688.com/)
-  - 2022/1/24: Oh my hoooly shit, you did me a DAMN GOOD FAVOR
+
 - [lazada](https://taobao.lazada.sg/?spm=a26352.15231885.0.0.7de51e62eI0o6e)
 - [M Chinese Alibaba](https://m.chinese.alibaba.com/)
 - Arena?

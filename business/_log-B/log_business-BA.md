@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
+- [商业汇报踩坑树](#商业汇报踩坑树)
 - [Close-loop training](#close-loop-training)
 - [Lifecycle](#lifecycle)
   - [Brand research](#brand-research)
@@ -63,8 +64,24 @@
 # Outbound space
 #NewTech-BusinessAnalyst
 
+# 商业汇报踩坑树
+- 工具使用
+  - Google Doc
+    - 生成目录
+      - 目录自动生成第一个heading 1不包括标号
+        - 标号的'.'后不加空格
+          - 好丑
+    - 生成页签
+      - 页签在第一页生成
+        - Google Doc Help
+          - 没有start with section选项
+  - Google Slides
+    - LOCKED: Unlock with **Adobe ability**
+- 一条龙
+  - 从零到一撰写行业研究报告书
 # Close-loop training
 - 人人都是产品经理中有音频
+  - 通过音频来刺激言语输出神经通路, 补全言语输出及逻辑分析的断层
 
 # Lifecycle
 ## Brand research

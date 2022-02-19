@@ -17,21 +17,31 @@
 - [R](#r)
 - [V](#v)
 - [X](#x)
+- [Y](#y)
 - [<](#)
+
+
 
 # B
 - 悲观锁
 # C
+- Callback
+  - [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
+    - Videomark: 11:11
 - CTI
   - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
 - CRM: 客户关系管理
   - _概念
     - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
     - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
-
+- Constructor Overloading
+  - [Constructor Overloading in Java](https://www.geeksforgeeks.org/constructor-overloading-java/)
 # D
+- Dynamic Programming
+  - [Dynamic Programming in C++](https://www.cprogramming.com/tutorial/computersciencetheory/dp.html)
 - DHCP
-
+- DLL
+  - [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
 # E
 - Entity
 - ERP
@@ -94,6 +104,9 @@
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)
   - [作为架构师，你知道前后端分离，有什么优缺点？](https://jishuin.proginn.com/p/763bfbd52c37)
 # S
+- sed
+  - [Linux Essentials - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)
+    - Videomark: 7:03
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
 # T
@@ -130,6 +143,10 @@
       - 链接：https://www.jianshu.com/p/14f7fd052f49
       - 来源：简书
       - 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+# Y
+- YAML
+  - [What do the &,<<, * mean in this database.yml file?](https://stackoverflow.com/questions/6651275/what-do-the-mean-in-this-database-yml-file)
 
 # <
 - &lt;pk>

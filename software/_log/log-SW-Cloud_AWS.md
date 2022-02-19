@@ -60,6 +60,10 @@
     - ` Invalid model specified: Validation Result: warnings : [], errors : [Invalid model schema specified. Unsupported keyword(s): [...]`
       - [json-schema.org](http://json-schema.org/learn/getting-started-step-by-step.html)
   - Hardcode response
+  - Lambda
+    - Lambda URL - event.queryStringParameter is null
+      - [Cannot access event.queryStringParameters[ ... ][ ... ]](https://github.com/serverless-heaven/serverless-webpack/issues/362)
+      - [Event and queryStringParameters are both empty, when calling a lambda function using API Gateway's Get Request](https://stackoverflow.com/questions/69097546/event-and-querystringparameters-are-both-empty-when-calling-a-lambda-function-u)
 # Erudition
 - [Cloud Services For Dummies, IBM Limited Edition](https://www.ibm.com/cloud-computing/files/cloud-for-dummies.pdf)
 

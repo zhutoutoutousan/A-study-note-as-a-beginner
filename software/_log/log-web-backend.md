@@ -162,6 +162,10 @@
     - Redis
   - Accessibility
     - CDN
+  - Node.js
+    - `SyntaxError: Invalid or unexpected token`
+      - 用Powershell的`Out-File`产生index.js就会报错
+        - Fuck you powershell
   - ...
 # Learning Path
 - Engineering

@@ -20,6 +20,9 @@
   - _Handsonmark: Build an API Gateway REST API with Lambda integration
   - Tutorial: Build a REST API with HTTP non-proxy integration
 # AWS踩坑树
+- AWS IAM
+  - _best-practices
+    - How do you manage AWS Lambda and AWS IAM roles
 - AWS Cloudwatch
   - API Gateway/Lambda出错, Cloudwatch不报错
     - callback如果500,400,403,404,500,503,504,请求失败等不触发Cloudwatch?
@@ -49,6 +52,7 @@
   - Integration with VPC
     - `The provided execution role does not have permissions to call CreateNetworkInterface on EC2`
     - `We recommend that you choose at least 2 subnets for Lambda to run your functions in high availability mode.`
+  - I need to change the name of test event, and I couldn't fxxking do it
 - AWS API Gateway
   - Overview CONFUSED
     - [A Detailed Overview of AWS API Gateway](https://www.alexdebrie.com/posts/api-gateway-elements/)
@@ -115,4 +119,7 @@ cloudwatch.putMetricData(params, (err, data) => {
 
 # _ARCHIVED_ contents
 - The previous contents has been archived for its inconsistency with the current pursuit but yet still reserves reference values
+
+
+
 

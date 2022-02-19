@@ -5,7 +5,7 @@
   - Use this note as a pointer as well as data structure for review actions
 - Note system data structure store
   - [link](https://docs.google.com/spreadsheets/d/1FNx-U2bp2SzM1HaosOeNu_puHVfcStJUfykIs4viFyA/edit?usp=sharing)
-
+- Note-Taking Manual: A Study Guide for Interpreters and Everyone Who Takes Notes
 # 2021/7/28
 - Kick-off courses
   - [Note-taking for consecutive interpretation (Roche on Notes)](https://www.youtube.com/watch?v=1Z-AmvDMDN8)

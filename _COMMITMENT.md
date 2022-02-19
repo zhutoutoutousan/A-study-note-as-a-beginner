@@ -20,6 +20,7 @@
 - Project Duration: 6 weeks
 - Shock therapy test scheduling
 ## Things to do that can DRASTICALLY CHANGE THE OUTCOME
+- Get language politics and economies ready
 ## Process Control
 # IT Sophistication Improvement Commitment(2022/2/13-2023/2/13)
 ## Origin and basic planning - 2022/2/13
@@ -159,3 +160,13 @@
     - I've got a "GOOD IDEA" and I am writing proposal
       - I am having that typical crazy episode
   - Delinquency Report
+  - Fine-grained planning
+    - [] 0:00-1:00 AWS SAM
+
+- 2022/2/19
+  - Fine-grained planning
+      - [] 0:00-10:00 AWS SAM
+        - Great, THE FIRST DAY IN YOUR LIFE WHEN YOU FOCUS ON ONE FXXKING THING
+- 2022/2/20
+  - Fine-grained planning
+      - [] 0:00-10:00 AWS SAM

@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Renovation plan](#renovation-plan)
 - [A](#a)
+- [B](#b)
 - [C](#c)
 - [D](#d)
 - [E](#e)
@@ -10,8 +11,10 @@
 - [H](#h)
 - [L](#l)
 - [M](#m)
+- [N](#n)
 - [R](#r)
 - [S](#s)
+- [Y](#y)
 - [Z](#z)
 - [Accounting](#accounting)
   - [_](#_)
@@ -32,7 +35,7 @@
 - [S](#s-2)
 - [T](#t)
 - [X](#x)
-- [Y](#y)
+- [Y](#y-1)
 - [Z](#z-1)
 - [D](#d-2)
 - [E](#e-3)
@@ -47,7 +50,7 @@
 - [S](#s-3)
 - [T](#t-1)
 - [X](#x-1)
-- [Y](#y-1)
+- [Y](#y-2)
 - [Z](#z-2)
 
 # Renovation plan
@@ -58,6 +61,11 @@
 - Accounting principle： 会计准则
 - Assurance services: 鉴证业务
   - [鉴证业务](https://wiki.mbalib.com/zh-tw/%E9%89%B4%E8%AF%81%E4%B8%9A%E5%8A%A1)
+
+# B
+- Business Model: 商业模型
+  - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
+    - Videomark: 10:07
 # C
 - Cost overrun: 成本超支
   - [Cost overrun](https://en.wikipedia.org/wiki/Cost_overrun)
@@ -84,6 +92,9 @@
 # E
 - Equity: 股东权益
   - [Wiki - 股东权益](https://zh.wikipedia.org/wiki/%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A)
+- Entrepreneur
+  - [Marc Andreessen on Big Breakthrough Ideas and Courageous Entrepreneurs](https://www.youtube.com/watch?v=JYYsXzt1VDc)
+    - Videomark: 20:50
 # F
 - FY - Fiscal year : 财年
 - Flagship shop: 旗舰店
@@ -109,6 +120,10 @@
 # M
 - Mkt cap: (Market Capital)
 
+# N
+- 柠檬市场
+  - [The Market for “Lemons:” Quality Uncertainty and the Market Mechanism](https://sites.duke.edu/econ206_01_s2011/files/2012/05/25Akerlof_Lemons_Debreu.pdf)
+
 # R
 - Regulatory exposure
 - Reputational exposure
@@ -117,6 +132,9 @@
   - [怎么区分商业转载跟非商业转载？](https://www.zhihu.com/question/38767946)
 - Skin in the game
   - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
+
+# Y
+- 一锤子买卖
 
 # Z
 - 资本结构

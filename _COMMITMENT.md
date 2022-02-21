@@ -169,4 +169,9 @@
         - Great, THE FIRST DAY IN YOUR LIFE WHEN YOU FOCUS ON ONE FXXKING THING
 - 2022/2/20
   - Fine-grained planning
-      - [] 0:00-10:00 AWS SAM
+      - [x] 0:00-10:00 AWS SAM
+  - Battle Report
+    - You were in another crazy episode
+- 2022/2/21
+  - Battle Report
+    - Another Crazy episode

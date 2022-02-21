@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [A](#a)
 - [B](#b)
 - [C](#c)
 - [D](#d)
@@ -20,7 +21,9 @@
 - [Y](#y)
 - [<](#)
 
-
+# A
+- Apache VTL
+  - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
 
 # B
 - 悲观锁
@@ -98,7 +101,8 @@
 - Principle
   - AWS JSON policy elements: Principal
     - [doc](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)
-
+- Proof of Concept
+  - [School Of Basics | What is POC | 5 Steps to do Proof of Concept](https://www.youtube.com/watch?v=S05Ha9mTW60)
 # Q
 - 前后端分离
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)
@@ -109,6 +113,10 @@
     - Videomark: 7:03
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
+- Syntax-free Programming
+  - [System Model for Syntax Free Coding](https://ieeexplore.ieee.org/document/8978461)
+  - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
+  - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
 # T
 - Turing completeness: 图灵完备
   - Wiki

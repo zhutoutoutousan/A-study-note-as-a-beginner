@@ -1,6 +1,11 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [STATE](#state)
+- [IT外包项目以大规模代码复用为基本方法实施中的前后端选型](#it外包项目以大规模代码复用为基本方法实施中的前后端选型)
+  - [eladmin](#eladmin)
+    - [掌握进度](#掌握进度)
+    - [优缺点及适合项目](#优缺点及适合项目)
+    - [源码](#源码)
 - [管理系统后台前端](#管理系统后台前端)
   - [常见系统实施模块](#常见系统实施模块)
     - [面向开发者的效率组件](#面向开发者的效率组件)
@@ -74,6 +79,18 @@
 
 # STATE
 PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data structure for the peripheral part
+
+# IT外包项目以大规模代码复用为基本方法实施中的前后端选型
+## eladmin
+### 掌握进度
+### 优缺点及适合项目
+### 源码
+- 前端
+  - [link](https://github.com/moxun1639/eladmin-web)
+- 后端
+  - [link](https://github.com/elunez/eladmin)
+
+
 
 # 管理系统后台前端
 ## 常见系统实施模块

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Temp Documentation Memoization Space](#temp-documentation-memoization-space)
+- [Utility](#utility)
 - [AWS踩坑树](#aws踩坑树)
 - [Erudition](#erudition)
 - [_resource track](#_resource-track)
@@ -19,6 +20,10 @@
 - Amazon API Gateway REST API tutorials
   - _Handsonmark: Build an API Gateway REST API with Lambda integration
   - Tutorial: Build a REST API with HTTP non-proxy integration
+
+# Utility
+- [TEST-CORS](https://www.test-cors.org/)
+
 # AWS踩坑树
 - AWS IAM
   - _best-practices
@@ -47,6 +52,13 @@
           - Treat it like a free hotel
         - Blocked by the BELOVED firewall
 - AWS Lambda
+  - _best-practices
+    - naming tradition for hundreds of functions
+  - Inner Code
+    - Node.js 
+      - Allow multiple CORS origins
+      - `The 'Access-Control-Allow-Origin' header has a value 'https://www.test-cors.org/' that is not equal to the supplied origin`
+        - 多加了个`/`
   - Add trigger
     - `An error occurred when creating the trigger: The log group provided is reserved for the function logs of the destination function. (Service: AWSLogs; Status Code: 400; Error Code: InvalidParameterException; Request ID:; Proxy: null)`
   - Integration with VPC
@@ -61,6 +73,7 @@
       - [json-schema.org](http://json-schema.org/learn/getting-started-step-by-step.html)
   - Hardcode response
   - Lambda
+    - 总觉得API Gateway的调用有点滞后, 经常lambda更新时报event.body为空
     - Lambda URL - event.queryStringParameter is null
       - [Cannot access event.queryStringParameters[ ... ][ ... ]](https://github.com/serverless-heaven/serverless-webpack/issues/362)
       - [Event and queryStringParameters are both empty, when calling a lambda function using API Gateway's Get Request](https://stackoverflow.com/questions/69097546/event-and-querystringparameters-are-both-empty-when-calling-a-lambda-function-u)

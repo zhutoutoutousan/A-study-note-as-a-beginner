@@ -84,7 +84,22 @@
     - Goal
       - Reboot React stimulus and progress
   - Process 2
-    - 
+    - Style
+      - Hands-on Memoization
+    - Goal
+      - Muscle Memory
+    - Hands-on Memoization Store
+  - Process 3
+    - Style
+      - In-depth brain stimulation memoization
+- React工程师修炼指南
+  - Process 1
+    - Style
+      - Hands-on Memoization
+    - Goal
+      - Muscle Memory
+    - Hands-on Memoization Store
+    - Brain Stimulation Memoization Store
 # Buffer to permanent note
 
 ## Style

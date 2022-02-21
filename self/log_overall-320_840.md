@@ -20,3 +20,8 @@ Check: #possibleacademiadirection for choosing major
 
 
 2022-1-16：Whenever you want to start a business, test your ideas, no more second thoughts until you've got a clear message whether the idea works or not once you've started
+
+- Academic Directions
+  - Complexity Science
+  - Social Computing
+  - Data Science

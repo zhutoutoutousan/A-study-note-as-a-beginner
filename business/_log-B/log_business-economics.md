@@ -1,3 +1,6 @@
+# Erudition
+- [薛兆丰经济学讲义](https://cdn.jsdelivr.net/gh/AmbroseRen/test@master/Library/Finance/%E3%80%8A%E8%96%9B%E5%85%86%E4%B8%B0%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AE%B2%E4%B9%89-%E8%96%9B%E5%85%86%E4%B8%B0%E3%80%8B.pdf)
+
 # Data
 - [CEIC](https://www.ceicdata.com/zh-hans/country/china)
 

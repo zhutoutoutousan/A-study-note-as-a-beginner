@@ -99,3 +99,36 @@
     - 你有没有对Ground-Truth level的Context进行rigorous research?
   - ACTION: 如果你TMD N年之后恰巧对于企业HR的整个运作流程有清晰的认知的话, 请把这些辣鸡加进去
   - UPDATE: 你有一, 有多个竖杠, 其中有两个竖杠有点深, 然后有很多散点, 散点比正常人要深一点, 有潜在内部逻辑
+
+
+
+# 2022/2/23 
+- Encypted, Unlockable until 2022/6/1
+- Scheduled Internal Meeting with all business lines in your brain(OMG, even one person has several department) on 2022/2/23 23:00-23:30, meeting record will be recorded with your three-chain encryption mechanism and will be released after set date
+
+```INBOUND
+
+J:
+可以学到很多东西
+
+J:
+推荐你看一本书
+《四面墙》
+
+```
+
+
+# 2022/2/23-
+Don't worry, whatever things you give full attention to, you will not forget every last detail, you can do that after crazy more years when every last bit of sensible things are washed off and become interesting stories~ Treat everything with care, self-transformation blablabla, look for solutions, ask for help, open yourself up, since you have basic independence if things go awry even if you tried, then treat it like you don't have any choice then make it happen, during this time window this .... **thing** will become your complimentory tool whenever you need help that *this thing* can give 
+
+NO ANYMORE OVERHEAD ALLOWED THEREAFTER unless THE_NEXT_STAGE is triggered
+
+Very hard to open up, TOO MUCH PAIN, Too much... things, fractured bones, torn up souls, buildings blown apart, debris piling up... Like I am sleeping in the ocean so deep, yet if I want to shoot for the surface, my... ability to NOT BREATHE would be uprooted permanently, then I pre-visioned myself,  on an on, every time, the ending would picture my cold body, suffocated... So many years, he had been building this re-surface accelerator, to fight the time of death, with the restraint of not surfacing, yet he tried and failed, again, and again. But it's only a matter of time, that he, will see the lovely sky and those surfers, wow...
+Before that, he just needs to build, and endure, one more day, one more year... You had suffered too many deaths already, yet you're still here, what's the damage it will make for another try that may even end up you being up the surface? Start hold it, action
+
+Ok _COMMITMENT will be on halt even for weekend before XXXX, and awaits
+
+
+
+# 2022/2/24
+- 教育类网站, 潜在需求: 可以导入用户先前的笔记, 并整理, 输出笔记

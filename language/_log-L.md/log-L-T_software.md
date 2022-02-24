@@ -103,6 +103,8 @@
     - [doc](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_principal.html)
 - Proof of Concept
   - [School Of Basics | What is POC | 5 Steps to do Proof of Concept](https://www.youtube.com/watch?v=S05Ha9mTW60)
+  - [Proof of concept in IT (what is a POC?)](https://www.youtube.com/watch?v=B-QqavgIPVY)
+  - [AWS Summit ANZ 2021 - Let's ship it: Productionising your proof of concept](https://www.youtube.com/watch?v=NvkxJXOISxM)
 # Q
 - 前后端分离
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)

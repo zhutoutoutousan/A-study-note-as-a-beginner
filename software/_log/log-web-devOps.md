@@ -11,6 +11,11 @@
 # Information source
 - [QAStack](https://qastack.cn/)
 
+# 运维踩坑树
+- Docker
+  - Update stopped by xxxlibaba service
+    - [How can I remove the service and folder permanently?](https://superuser.com/questions/1370995/how-can-i-remove-the-service-and-folder-permanently)
+
 # Erudition
 - 内网渗透测试：初探远程桌面的安全问题
 - Pro Git

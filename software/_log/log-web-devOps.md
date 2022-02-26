@@ -15,7 +15,9 @@
 - Docker
   - Update stopped by xxxlibaba service
     - [How can I remove the service and folder permanently?](https://superuser.com/questions/1370995/how-can-i-remove-the-service-and-folder-permanently)
-
+  - Work with Git bash
+    - `stdin is not a tty`
+      - https://gist.github.com/borekb/cb1536a3685ca6fc0ad9a028e6a959e3
 # Erudition
 - 内网渗透测试：初探远程桌面的安全问题
 - Pro Git

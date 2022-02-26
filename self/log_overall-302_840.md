@@ -130,5 +130,12 @@ Ok _COMMITMENT will be on halt even for weekend before XXXX, and awaits
 
 
 
+
+
+
+
 # 2022/2/24
 - 教育类网站, 潜在需求: 可以导入用户先前的笔记, 并整理, 输出笔记
+
+# 2022/2/26
+- GIVE UP SOMETHING FOR ANOTHER: I give up preparing for the Advanced Interpretation Test Preparation for practicing IT front-end development and more

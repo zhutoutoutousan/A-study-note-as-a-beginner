@@ -2,13 +2,17 @@
 - Reverse Engineering
   - [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
 
+# Erudition & Hands-On
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+  - Videomark: 1:00:19
+- Wireshark数据包分析实战详解
+  - Bookmark: 4
 # Defend
 ## Network
 - Disable X-Forwarded-For(XFF) Header
 
 # Follow-along
-- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
-  - Videomark: 1:00:19
+
 
 # Necessary Theoretical Erudition
 - Image Forensics

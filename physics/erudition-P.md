@@ -1,3 +1,6 @@
+# P.O.I
+- Professor Dave Explains
+
 # Theoretical Physics
 - Basic Theoretical Physics - A.Owen
   - [link](http://www.astrosen.unam.mx/~posgrado/libros/krey_basic_theoretical_physics.pdf)
@@ -76,8 +79,13 @@
 # Quantum Physics
 - [Quantum Physics Full Course | Quantum Mechanics Course](https://www.youtube.com/watch?v=K4BF7MD69_U)
   - Process 1(Wactch for fun)
-    - Progress: 5:24/9hrs
+    - Progress: 11:13/9hrs
     - 5:24 Think point: How does a wave passing two portals form three distributions?
+    - Sub-topics
+      - [Position and Momentum Operators in Quantum Mechanics](https://www.youtube.com/watch?v=cS6A7I-auf4)
+        - Videomark: 5:56
+- Quantum Physics Full Course | Quantum Mechanics Course
+  - https://www.youtube.com/watch?v=hyctIDPRSqY
 - Quantum Computation and Quantum Information
   - [link](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 # Interest-oriented reading

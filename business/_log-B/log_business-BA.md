@@ -85,11 +85,13 @@
 
 # Lifecycle
 ## Brand research
+- Search for *** Industry Landscape on Google, and you will see maps
 - [CNPP](https://www.cnpp.cn/analysis/)
   - 品牌研究
   - 品牌榜单
   - 品牌大全
 ## Marketing research
+
 - http://www.woshipm.com/user-research/4479469.html
 # Tools
 - [PowerPoint Slide Design from Beginner to EXPERT in One Video 🔥100K Special🔥](https://www.youtube.com/watch?v=lxcHLxjkcXQ)

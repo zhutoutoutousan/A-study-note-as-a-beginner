@@ -35,7 +35,7 @@ git commit -am "$commitMessage"
 # if $username is not empty, then upload to github
 if [ -n "$username" ]
 then
-    git push git@github.com:$username/A-study-note-as-a-beginner.git
+    git push git@github.com:$username/$repoName.git
 else
     # Use $repoUrl
     echo "Using current repoUrl: $repoUrl"

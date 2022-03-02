@@ -1,3 +1,7 @@
+# Erudition
+- SonarQube in Action
+  - [link](https://zhjwpku.com/assets/pdf/SonarQube_in_Action.pdf)
+
 # Tutorial Mark
 - Sonarqube Advance Session Aug 2020
   - [Sonarqube Advance Session Aug 2020 Part1 Out 10 | SonarQube Training | Debug.School](https://www.youtube.com/watch?v=b9hTziadXMY&list=PLTCuRW0ikUdOdudqz-z43uJppdq97qvDe)

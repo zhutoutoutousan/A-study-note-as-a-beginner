@@ -31,6 +31,13 @@
 - SonarQube
 - Codecov
 
+# New Tech Ventures
+- Svelte
+- Rust
+  - [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
+    - Videomark: 6:09
+
+
 # Frontend DDD design practice and its applications
 ## Information gathering
 - Bytedance
@@ -53,6 +60,8 @@
     - Paperback
       - Bookmark: 5
       - Emscripten 入门
+
+
 
 # 2021/8/20
 ## Google Earth Studio

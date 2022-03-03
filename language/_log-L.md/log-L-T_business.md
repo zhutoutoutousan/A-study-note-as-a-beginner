@@ -67,6 +67,8 @@
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
 # C
+- Cost centre
+  - https://en.wikipedia.org/wiki/Cost_centre_(business)
 - Cost overrun: 成本超支
   - [Cost overrun](https://en.wikipedia.org/wiki/Cost_overrun)
 - 操盘能力
@@ -107,11 +109,17 @@
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
 # H
-- Hedge Fund: 对冲基金
-  - [MBA](https://wiki.mbalib.com/wiki/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91)
-- 花式种草
-  - [干货！解析小红书花式种草案例，智鹊网助力品牌实力割粉](https://zhuanlan.zhihu.com/p/54631720)
-
+- _Uncategorized
+  - Hedge Fund: 对冲基金
+    - [MBA](https://wiki.mbalib.com/wiki/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91)
+  - 花式种草
+    - [干货！解析小红书花式种草案例，智鹊网助力品牌实力割粉](https://zhuanlan.zhihu.com/p/54631720)
+- Economy
+  - 量化宽松货币政策: Quantitative Easing Monetary Policy
+    - [MBA](https://wiki.mbalib.com/wiki/%E9%87%8F%E5%8C%96%E5%AE%BD%E6%9D%BE%E7%9A%84%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96)
+    - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo)
+    - [Understanding the Fed's "Money Printer" (QE, the Stock Market, and Inflation)](https://www.youtube.com/watch?v=K3lP3BhvnSo)
+      - Videomark: 4-16
 
 # L
 - Litigation exposure

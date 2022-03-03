@@ -1,6 +1,9 @@
 # Erudition
 - SonarQube in Action
   - [link](https://zhjwpku.com/assets/pdf/SonarQube_in_Action.pdf)
+    - Process 1
+      - Goal: Osmosis
+      - Bookmark: 13
 
 # Tutorial Mark
 - Sonarqube Advance Session Aug 2020
@@ -14,3 +17,7 @@
     - [sonar-scanner的使用](https://www.cnblogs.com/Uni-Hoang/p/15207178.html)
   - `the main branch has no lines of code`
     - https://doublejia.site/soanrqube-install/
+- SonarCloud
+  - Integration with Azure DevOps
+    - [SonarCloud integration with Azure Pipeline](https://www.youtube.com/watch?v=rjLqULrhuXI)
+- SonarLint

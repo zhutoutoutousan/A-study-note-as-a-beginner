@@ -37,6 +37,7 @@
 - [Spring系列 - 02](https://drive.google.com/file/d/1K4PIjOgcvhGc8X6F44nwOUVvnU4R9uuf/view?usp=sharing)
 
 # Erudition
+- Flask Web Development, 2nd Edition
 - Node.js
   - 深入浅出Node.js
     - [link](http://blog.songqingbo.cn/pdf/nodejs/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js.pdf)

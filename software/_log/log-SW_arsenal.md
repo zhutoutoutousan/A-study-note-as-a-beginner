@@ -1,5 +1,41 @@
 #NewTech-BusinessAnalyst
 
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Renovation plan](#renovation-plan)
+- [个人软件开发军火库](#个人软件开发军火库)
+- [团队软件开发军火库](#团队软件开发军火库)
+- [Bleeding edge arsenal - Pillars of Boundries](#bleeding-edge-arsenal---pillars-of-boundries)
+  - [Use Cases Boundry](#use-cases-boundry)
+  - [Technical](#technical)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [DX](#dx)
+    - [Q & A](#q--a)
+- [New Tech Ventures](#new-tech-ventures)
+- [Frontend DDD design practice and its applications](#frontend-ddd-design-practice-and-its-applications)
+  - [Information gathering](#information-gathering)
+- [Buffer to permanent note](#buffer-to-permanent-note)
+  - [Source](#source)
+  - [Gadget](#gadget)
+- [Erudition](#erudition)
+- [2021/8/20](#2021820)
+  - [Google Earth Studio](#google-earth-studio)
+- [2021/9/7](#202197)
+  - [3D data visualization](#3d-data-visualization)
+- [2021/9/12](#2021912)
+  - [一个新的技术, 工具发现之后, 你需要做什么工作, 可以预测其发展走向以及use cases, 以及如何最大化其利用价值; 做到什么程度算正好, 什么程度算过头? 灵魂提问: 你做到了什么程度?](#一个新的技术-工具发现之后-你需要做什么工作-可以预测其发展走向以及use-cases-以及如何最大化其利用价值-做到什么程度算正好-什么程度算过头-灵魂提问-你做到了什么程度)
+  - [做一个lowcode平台(LCDP)的分析比较](#做一个lowcode平台lcdp的分析比较)
+    - [Visual LANSA](#visual-lansa)
+    - [GeneXus](#genexus)
+    - [Zoho Creator](#zoho-creator)
+- [2021/9/24](#2021924)
+  - [E2E test platforms](#e2e-test-platforms)
+- [2021/12/25](#20211225)
+  - [Maximize the usage of github copilot](#maximize-the-usage-of-github-copilot)
+
+# Renovation plan
+
 # 个人软件开发军火库
 # 团队软件开发军火库
 
@@ -23,6 +59,12 @@
     - react-three-fiber
 ### Backend
 - Golang
+- Python
+  - Flask
+    - Proficiency A & I
+      - [](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+    - Sub-arsenal
+      - [awesome-flask](https://github.com/mjhea0/awesome-flask)
 ### DX
 - API development
     - Apifox： apifox.cn

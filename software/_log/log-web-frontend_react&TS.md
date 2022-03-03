@@ -100,6 +100,12 @@
       - Muscle Memory
     - Hands-on Memoization Store
     - Brain Stimulation Memoization Store
+    - Bookmark:
+  - Process 2
+    - Style
+      - React Working Principle
+      - P151-...
+    - Bookmark
 # Buffer to permanent note
 
 ## Style

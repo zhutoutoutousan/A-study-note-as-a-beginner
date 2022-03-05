@@ -44,13 +44,15 @@
 
 ### Phase 1: Play it out
 - Blitz positioning
-  - Progress: 47/100
+  - Progress: 60/100
     - No more than 3 rounds per day
       - Container: 3/3 CUTOFF: 2022-1-17
   - STATE: STOP, resume after endgame improves
     - [link](https://lichess.org/study/hgfvYYmV)
 - Analysis
-  - 4/100
+  - 5/100
+  - _meta
+    - [How To Analyze Your Chess Games](https://www.youtube.com/watch?v=ylpAHvPlafc&t=787s)
   - No more than 1 round per day
     - Container: 1/1 CUTOFF: 2022-1-9
 - Puzzle

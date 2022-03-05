@@ -1,0 +1,3 @@
+- Simpler approach
+  - [Udemy Guide](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/learn/lecture/17994047#overview)
+    - Coursemark

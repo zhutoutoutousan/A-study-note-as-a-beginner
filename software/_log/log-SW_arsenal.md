@@ -77,7 +77,10 @@
 - Svelte
 - Rust
   - [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
-    - Videomark: 6:09
+    - Videomark: 7:20
+    - 踩坑树
+      - Powershell has `rustc`, yet vscode terminal doesn't have
+      - Couldn't start client Rust Language Server
 
 
 # Frontend DDD design practice and its applications

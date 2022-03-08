@@ -106,6 +106,16 @@
   - [School Of Basics | What is POC | 5 Steps to do Proof of Concept](https://www.youtube.com/watch?v=S05Ha9mTW60)
   - [Proof of concept in IT (what is a POC?)](https://www.youtube.com/watch?v=B-QqavgIPVY)
   - [AWS Summit ANZ 2021 - Let's ship it: Productionising your proof of concept](https://www.youtube.com/watch?v=NvkxJXOISxM)
+- Python
+  - `repr()`
+    - [Python Tutorial: str() vs repr()](https://www.youtube.com/watch?v=5cvM-crlDvg)
+      - Videomark: 2:51
+  - decorators
+    - [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+      - Videomark: 1:42
+  - `modules`
+    - [What Are Python Modules? | Modules In Python | Python Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=7GXaobCrBb4)
+  - [All Top 40 Python Libraries EXPLAINED in 20 minutes](https://www.youtube.com/watch?v=-29x_deQQus)
 # Q
 - 前后端分离
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)

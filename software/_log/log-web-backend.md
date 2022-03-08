@@ -37,6 +37,15 @@
 - [Spring系列 - 02](https://drive.google.com/file/d/1K4PIjOgcvhGc8X6F44nwOUVvnU4R9uuf/view?usp=sharing)
 
 # Erudition
+- Develop your Taste
+  - [Let's Review Your Backend Code | SHALL WE???](https://www.youtube.com/watch?v=y3bdZY3kS0A)
+- Redis Essentials
+  - [link](https://drive.google.com/file/d/1reHNH1mNiRnTaCFKDLQSR28FJgkQCCMz/view?usp=sharing)
+- Redis in Action
+  - [link](https://pepa.holla.cz/wp-content/uploads/2016/08/Redis-in-Action.pdf)
+  - Process 1
+    - Style: Hands-on
+    - Bookmark: 10
 - Flask Web Development, 2nd Edition
 - Node.js
   - 深入浅出Node.js

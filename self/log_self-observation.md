@@ -139,3 +139,16 @@ Points to consider
   - Affected
     - Any on-site-related work
   - Not affected
+
+
+# 2022/3/8
+Those items up there doesn't seem to be applicable to you, because you have to admit that you're simply not an average John Doe all things considered.
+## CAREER GREEN ZONE
+## CAREER DANGER ZONE
+- Repetitive work with no learning
+- Helping others out of a tussle while the system is not perfect
+- Theory X team setting or Organization
+  - If more than 50% of the overall culture advocates theory X
+- Constant in-office experience
+- Unbalanced intellectual challenge(Too high or too low)
+- Old and obsolete work items

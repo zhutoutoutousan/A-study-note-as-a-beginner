@@ -1,3 +1,17 @@
-- Simpler approach
+# Learn from past experience
+- ARCHIV
+  - _ARCHIVE_log-SW-Cloud_AWS-sprint.md
+- Connect the dots from the Beginning
+  - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
   - [Udemy Guide](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/learn/lecture/17994047#overview)
-    - Coursemark
+    - Memoization field
+    - Coursemark: 14:08
+
+- Know what you are facing
+  - 22% Monitoring and Reporting 14-15 Qs
+  - 8% High Availability 5-6 Qs
+  - 14% Deployment and Provisioning 9-10 Qs
+  - 12% Storage and Data Management 7-8 Qs
+  - 18% Security Compliance 11-12 Qs
+  - 14% Networking 9-10 Qs
+  - 12% Automation and Optimization 7-8 Qs

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [STATE](#state)
+- [Learning field](#learning-field)
 - [IT外包项目以大规模代码复用为基本方法实施中的前后端选型](#it外包项目以大规模代码复用为基本方法实施中的前后端选型)
   - [eladmin](#eladmin)
     - [掌握进度](#掌握进度)
@@ -79,6 +80,9 @@
 
 # STATE
 PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data structure for the peripheral part
+
+# Learning field
+- [Business Intelligence Full Course | Business Intelligence Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Hg8zBJ1DhLQ)
 
 # IT外包项目以大规模代码复用为基本方法实施中的前后端选型
 ## eladmin

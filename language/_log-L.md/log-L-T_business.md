@@ -12,6 +12,7 @@
 - [L](#l)
 - [M](#m)
 - [N](#n)
+- [P](#p)
 - [R](#r)
 - [S](#s)
 - [Y](#y)
@@ -31,7 +32,7 @@
 - [M](#m-1)
 - [W](#w)
 - [O](#o)
-- [P](#p)
+- [P](#p-1)
 - [S](#s-2)
 - [T](#t)
 - [X](#x)
@@ -46,7 +47,7 @@
 - [M](#m-2)
 - [W](#w-1)
 - [O](#o-1)
-- [P](#p-1)
+- [P](#p-2)
 - [S](#s-3)
 - [T](#t-1)
 - [X](#x-1)
@@ -131,6 +132,10 @@
 # N
 - 柠檬市场
   - [The Market for “Lemons:” Quality Uncertainty and the Market Mechanism](https://sites.duke.edu/econ206_01_s2011/files/2012/05/25Akerlof_Lemons_Debreu.pdf)
+
+# P
+- Project Budget
+  - [Creating a Project Budget – A Complete Guide](https://www.proprofsproject.com/blog/creating-a-project-budget/)
 
 # R
 - Regulatory exposure

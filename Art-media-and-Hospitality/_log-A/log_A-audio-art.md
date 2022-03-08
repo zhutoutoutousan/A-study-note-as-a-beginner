@@ -5,6 +5,7 @@
 - [Italian Opera](#italian-opera)
 - [German Artistic Song](#german-artistic-song)
 - [Healing music](#healing-music)
+- [Sound Engineering](#sound-engineering)
 
 # Why bother
 - This goes unanimous, it can bring you peace, and the last bit of sense of home
@@ -32,3 +33,7 @@
 
 # Healing music
 - Monroe Institute
+
+# Sound Engineering
+- [Adobe Audition CC - Beginner To Advanced [Complete Course]](https://www.youtube.com/watch?v=kCx1pzswXSY)
+  - Videomark: 4:16

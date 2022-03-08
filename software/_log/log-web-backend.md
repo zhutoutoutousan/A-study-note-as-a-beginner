@@ -39,6 +39,7 @@
 # Erudition
 - Develop your Taste
   - [Let's Review Your Backend Code | SHALL WE???](https://www.youtube.com/watch?v=y3bdZY3kS0A)
+    - Videomark: 6-39
 - Redis Essentials
   - [link](https://drive.google.com/file/d/1reHNH1mNiRnTaCFKDLQSR28FJgkQCCMz/view?usp=sharing)
 - Redis in Action

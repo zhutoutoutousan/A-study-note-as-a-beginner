@@ -83,6 +83,10 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
 
 # Learning field
 - [Business Intelligence Full Course | Business Intelligence Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=Hg8zBJ1DhLQ)
+  - Process 1
+    - Style: Hands-on
+    - Tools: Excel Office Live, OneDrive Live
+    - Videomark: 16:36
 
 # IT外包项目以大规模代码复用为基本方法实施中的前后端选型
 ## eladmin

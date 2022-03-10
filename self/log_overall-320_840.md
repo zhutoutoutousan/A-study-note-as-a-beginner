@@ -25,3 +25,6 @@ Check: #possibleacademiadirection for choosing major
   - Complexity Science
   - Social Computing
   - Data Science
+
+# Academic at Heart
+- Check your readiness in Academic Engineering section to embark on a new journey

@@ -72,6 +72,9 @@
 - 混沌动力学引论
 - Networks: An Introduction to Network Theory
   - [link](https://math.bme.hu/~gabor/oktatas/SztoM/Newman_Networks.pdf)
+  - Process 1
+    - Style: Life-long pursuit --> Down-to-earth approach
+    - Bookmark: 10
 - Networks, Crowds, and Markets: Reasoning about a Highly Connected World
   - [link](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 - Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life

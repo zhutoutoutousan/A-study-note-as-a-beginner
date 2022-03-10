@@ -116,6 +116,12 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 
 # 前端踩坑树
 - 业务
+- 安全
+  - Kill copycat
+    - 防止用户截屏
+    - 防止用户windows+prtscr
+    - 防止用户使用snipping tool
+    - _example: udemy
 - Web3D
   - three.js
 - 模板引擎

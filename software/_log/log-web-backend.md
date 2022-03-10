@@ -97,6 +97,7 @@
     - [link](http://index-of.es/Java/Manning%20-%20Spring%20in%20action%20%5BPrerelease%5D.pdf)
       - Bookmark: 32/472
   - XDoclet In action
+  - [Java Concurrency In Practice](https://leon-wtf.github.io/doc/java-concurrency-in-practice.pdf)
 - Database
   - Application
     - [制药生产自控设计与CSV验证](http://www.doc88.com/p-3455610720856.html)
@@ -146,6 +147,10 @@
         - Performance tunning
           - [PostgreSQL Performance Tuning Tutorial](https://stackify.com/postgresql-performance-tutorial/)
     - Process 2
+- Distributed System
+  - [2 Hours RabbitMQ Course with NodeJS, Pros & Cons, Cloud RMQ, RMQ vs Kafka, RMQ in Wireshark & MORE!](https://www.youtube.com/watch?v=e03c3CIGtYU)
+    - Videomark: 3:00
+  - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
 - API & Design Pattern
   - Architectural Styles and the Design of Network-based Software Architectures
     - [link](http://presentations.t-code.pl/hateoas/fielding_dissertation.pdf)

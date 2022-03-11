@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "self/log_overall-297_840.md",
+            "file": "academic-engineering/_log/_log-AE-training.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(埋点)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self/log_overall-297_840.md",
+                "file": "academic-engineering/_log/_log-AE-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self/log_overall-297_840.md"
+                "file": "academic-engineering/_log/_log-AE-training.md"
               }
             }
           },
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self/log_overall-297_840.md",
+                "file": "academic-engineering/_log/_log-AE-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +139,15 @@
   },
   "active": "64c1bb6d3d16b209",
   "lastOpenFiles": [
-    "self/log_overall-297_840.md",
-    "self/log_overall-302_840.md",
-    "self/log_overall-303_840.md",
-    "self/log_overall-320_840.md",
-    "self/log_overall-340_804.md",
+    "academic-engineering/_log/_log-AE-training.md",
     "_ENTRY.md",
-    "_COMMITMENT.md",
-    "self/log_overall-301_840.md",
-    "business/_log-B/log_business-software.md",
-    "software/_log/log-SW_2B.md"
+    "software/_log/log-SW-teamplay.md",
+    "software/_log/log-SW-arch.md",
+    "language/_log-L.md/log-L-T_en2zh-CI.md",
+    "self/log_overall-303_840.md",
+    "business/_log-B/log_business-travel.md",
+    "business/_log-B/log_business-RnD.md",
+    "business/_log-B/log_business-innovation.md",
+    "business/_log-B/log_business-BA.md"
   ]
 }

@@ -103,6 +103,7 @@
 - Don't make me think
   - 2rd Edition
     - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)
+      - Bookmark: 18
 - Shipping Greatness: Practical lessons on building and launching outstanding software, learned on the job at Google and Amazon
   - [link](https://drive.google.com/file/d/1st-3b9W63IKC0RQ4e0Sogw6m-eX20J01/view?usp=sharing)
 # P.O.I

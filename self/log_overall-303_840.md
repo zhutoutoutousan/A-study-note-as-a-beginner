@@ -41,6 +41,22 @@
 - Competitions
   - [腾讯文学](https://write.qq.com/?siteid=3)
   - [阿里巴巴文学](http://chrcmp.chinahr.com/views/alwy/read.html)
+- Similar Product
+  - Celtx
 - Context
   - [论人工智能文学创作的“伪突破”](https://wap.cnki.net/touch/web/Dissertation/Article/10511-1019248932.nh.html)
   - [陌生化](https://zh.wikipedia.org/zh-hans/%E9%99%8C%E7%94%9F%E5%8C%96)
+
+- 你TM有idea的时候正常的人类沟通礼仪就全部忘光光了
+
+```
+目前的文学创作工具功能大多注重于“写”，而忽视了写作最重要的一点“想”。该产品能够通过语义分析，实体分析，学习文章的内部逻辑，脉络，并进行及时警告纠正
+
+用户可以自行设定文章类型，如小说，小说三要素作为软件的常量，对后续写作进行规整
+
+然后该产品vision中的killer特点是：文学元宇宙，用户可以自行创建位面，设定其世界观，而世界观会由软件学习，并应用到后续的写作。而同一位面可由全球各个文学爱好者共同参与，于同一规则下进行文学创作。
+
+参考产品：Celtx
+
+关键字：自动化文学创作，在线文学协作，文学元宇宙
+```

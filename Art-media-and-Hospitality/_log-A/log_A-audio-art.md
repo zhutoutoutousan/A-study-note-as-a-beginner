@@ -37,3 +37,15 @@
 # Sound Engineering
 - [Adobe Audition CC - Beginner To Advanced [Complete Course]](https://www.youtube.com/watch?v=kCx1pzswXSY)
   - Videomark: 4:16
+
+
+```
+七大无版权音乐素材下载网站：
+Free BD：https://freepd.com 
+Musopen：https://musopen.org 
+Adobe背景音乐：https://dwz.cn/45hOFsN0 
+爱给网：http://www.aigei.com 
+Jamendo：https://www.jamendo.com 
+国际乐谱库：https://cn.imslp.org 
+Audionautix：http://audionautix.com
+```

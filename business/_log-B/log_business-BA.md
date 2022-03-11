@@ -8,7 +8,7 @@
   - [Marketing research](#marketing-research)
 - [Tools](#tools)
 - [Erudition](#erudition)
-- [Methodology](#methodology)
+- [P.O.I](#poi)
 - [Roadmap](#roadmap)
   - [Career](#career)
   - [Qualification](#qualification)
@@ -101,11 +101,13 @@
 # Erudition
 - [Good Strategy/Bad Strategy](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4584/1/Good%20Strategy_Bad%20Strategy.pdf)
 - Don't make me think
-  - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)
+  - 2rd Edition
+    - [link](https://topuxd.com/wp-content/uploads/2016/07/dont-make-me-think-a-common-sense-approach-to-web-usability-2nd-ed-2005.pdf)
 - Shipping Greatness: Practical lessons on building and launching outstanding software, learned on the job at Google and Amazon
   - [link](https://drive.google.com/file/d/1st-3b9W63IKC0RQ4e0Sogw6m-eX20J01/view?usp=sharing)
-# Methodology
-- [【李自然说】如何提高商业认知？商业知识的学习方法](https://www.youtube.com/watch?v=Oi7z2KmgCVs)
+# P.O.I
+- 李自然
+  - [【李自然说】如何提高商业认知？商业知识的学习方法](https://www.youtube.com/watch?v=Oi7z2KmgCVs)
 
 # Roadmap
 ## Career

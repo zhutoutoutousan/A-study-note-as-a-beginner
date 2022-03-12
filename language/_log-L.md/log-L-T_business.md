@@ -9,6 +9,7 @@
 - [F](#f)
 - [G](#g)
 - [H](#h)
+- [J](#j)
 - [L](#l)
 - [M](#m)
 - [N](#n)
@@ -20,7 +21,7 @@
 - [Accounting](#accounting)
   - [_](#_)
   - [E](#e-1)
-- [J](#j)
+- [J](#j-1)
 - [S](#s-1)
 - [C](#c-1)
 - [D](#d-1)
@@ -28,7 +29,7 @@
 - [F](#f-1)
 - [G](#g-1)
 - [K](#k)
-- [J](#j-1)
+- [J](#j-2)
 - [M](#m-1)
 - [W](#w)
 - [O](#o)
@@ -43,7 +44,7 @@
 - [F](#f-2)
 - [G](#g-2)
 - [K](#k-1)
-- [J](#j-2)
+- [J](#j-3)
 - [M](#m-2)
 - [W](#w-1)
 - [O](#o-1)
@@ -121,6 +122,8 @@
     - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo)
     - [Understanding the Fed's "Money Printer" (QE, the Stock Market, and Inflation)](https://www.youtube.com/watch?v=K3lP3BhvnSo)
       - Videomark: 4-16
+
+# J
 
 # L
 - Litigation exposure

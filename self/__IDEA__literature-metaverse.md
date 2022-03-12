@@ -1,27 +1,3 @@
-# 表情包收藏器 - 效率工具
-- 对于表情包, 打标签
-- 搜索可以按标签搜索
-- 支持各类聊天软件
-
-# I started to understand how one of the faculties back in the university PUAed me
-- Taking social-economic immobility for unwillingness to work hard or intellectual defficiency
-  - Could be another victim pathway added to the psychology section, should be converted logical units for future development of `ground-truth-level social interaction simulation program` for learning Social Computing
-
-
-# 2022/3/11
-- !!!ALARM!!! Estimated burnout in 14-28 days if you don't crop some work items out of your agenda
-  - Your level of craziness is reaching another level that you have never achieved, how the hell are you going to deal with this?
-  - How about, just give in and give your best
-- !!!ALARM!!! Detected immune system compromise
-  - So what are you going to do about it?
-- I had a glipmse towards the difference between evil and goodness
-  - They all look much alike a black hole
-  - CAVEAT: The realms you are in touch with don't have `evil` and `goodness` in their dictionary
-  - The intent of evil is endless consumption, sucking in everything in its path, and to survive as long as it can to suck in more
-  - The intent of goodness is also endless consumption, but it has an end, every goodness has an end, when the end comes, it disperses
-
-
-
 # 文学元宇宙
 #ideasandinnovations
 - Entity
@@ -61,4 +37,15 @@
 关键字：自动化文学创作，在线文学协作，文学元宇宙
 ```
 
-`>>> Idea dispersed to __IDEA__`
+## 元宇宙
+
+### Reference
+- Ame
+  - [Metaverse - wiki](https://en.wikipedia.org/wiki/Metaverse)
+- Euro
+- Asia
+  - [收藏：元宇宙六大技术全景图](https://posts.careerengine.us/p/61ba4f2e7af46520b2419148)
+
+## 文学协作工具
+
+## 文学元宇宙的潜在价值

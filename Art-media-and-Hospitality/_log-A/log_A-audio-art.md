@@ -6,6 +6,9 @@
 - [German Artistic Song](#german-artistic-song)
 - [Healing music](#healing-music)
 - [Sound Engineering](#sound-engineering)
+  - [Basic Tools](#basic-tools)
+  - [Sound Resource](#sound-resource)
+    - [No copyright](#no-copyright)
 
 # Why bother
 - This goes unanimous, it can bring you peace, and the last bit of sense of home
@@ -35,12 +38,18 @@
 - Monroe Institute
 
 # Sound Engineering
+## Basic Tools
 - AU
   - [Adobe Audition CC - Beginner To Advanced [Complete Course]](https://www.youtube.com/watch?v=kCx1pzswXSY)
     - Videomark: 4:16
   - Udemy course
   - Keyboard shortcut
     - [Cheatsheet](https://helpx.adobe.com/mt/audition/using/default-keyboard-shortcuts.html)
+
+## Sound Resource
+### No copyright
+- [Freesound](https://freesound.org/)
+- [Sounds Resource](https://www.sounds-resource.com/)
 ```
 七大无版权音乐素材下载网站：
 Free BD：https://freepd.com 

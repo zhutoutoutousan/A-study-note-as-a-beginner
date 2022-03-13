@@ -87,7 +87,12 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
     - Style: Hands-on
     - Tools: Excel Office Live, OneDrive Live
     - Videomark: 16:36
-
+  - Tricks Excel
+    - Alt + = --> IntelliFill
+    - Alt + Shift + L --> IntelliFilter
+      - Alt + Arrow --> Toggle filter dropdown
+    - Jump to a specific cell
+      - [How To Quickly Jump To A Specific Cell (A1) In Excel?](https://www.extendoffice.com/documents/excel/4440-excel-jump-to-a1-or-a-specific-cell-row-column.html)
 # IT外包项目以大规模代码复用为基本方法实施中的前后端选型
 ## eladmin
 ### 掌握进度

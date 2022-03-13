@@ -124,7 +124,8 @@
       - Videomark: 4-16
 
 # J
-
+- JBR
+  - [Joint Business Partnership: Everything You Need to Know](https://www.upcounsel.com/joint-business-partnership#:~:text=Joint%20Venture%20Agreement%3F-,A%20joint%20business%20partnership%20is%20a%20business%20venture%20taken%20on,of%20value%20of%20some%20sort.)
 # L
 - Litigation exposure
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
@@ -144,6 +145,9 @@
 - Regulatory exposure
 - Reputational exposure
 # S
+- SLA a.k.a Service level Agreement
+  - [What is the difference between a SLA and a KPI?](https://www.youtube.com/watch?v=TRlghvTax2c)
+  - [Service level agreement best practices: How to meet your customer expectations](https://www.youtube.com/watch?v=JEZ_UO4H_p0)
 - 商业转载
   - [怎么区分商业转载跟非商业转载？](https://www.zhihu.com/question/38767946)
 - Skin in the game

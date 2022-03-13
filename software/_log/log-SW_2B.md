@@ -86,7 +86,7 @@ PLEASE FOCUS ON THE FRONT-END DEVELOPMENT PART FIRST WHILE creating the data str
   - Process 1
     - Style: Hands-on
     - Tools: Excel Office Live, OneDrive Live
-    - Videomark: 16:36
+    - Videomark: 30:11
   - Tricks Excel
     - Alt + = --> IntelliFill
     - Alt + Shift + L --> IntelliFilter

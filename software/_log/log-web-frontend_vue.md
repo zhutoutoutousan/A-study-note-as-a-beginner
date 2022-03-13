@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Buffer to permanent note](#buffer-to-permanent-note)
+- [Erudition](#erudition)
 - [Information Pool](#information-pool)
 - [Information Flow](#information-flow)
 - [Guided tutorial into Vue 3](#guided-tutorial-into-vue-3)
@@ -26,6 +27,20 @@
 
 - Initiate structured Vue proficiency development plan
   - 踩坑树可以用来用结构地记录经验
+
+
+# Erudition
+- Vue.js设计与实现
+  - Process 1
+    - Bookmark: 2
+    - Link: Paperback
+    - Global Memoization Space
+      - Preface
+    - Global Structural Refreshment Space
+      - TOC
+    - BULK
+      - Local Structural Refreshment Space
+      - Local Memoization Space
 
 # Information Pool
 - Cheatsheet

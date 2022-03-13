@@ -35,10 +35,12 @@
 - Monroe Institute
 
 # Sound Engineering
-- [Adobe Audition CC - Beginner To Advanced [Complete Course]](https://www.youtube.com/watch?v=kCx1pzswXSY)
-  - Videomark: 4:16
-
-
+- AU
+  - [Adobe Audition CC - Beginner To Advanced [Complete Course]](https://www.youtube.com/watch?v=kCx1pzswXSY)
+    - Videomark: 4:16
+  - Udemy course
+  - Keyboard shortcut
+    - [Cheatsheet](https://helpx.adobe.com/mt/audition/using/default-keyboard-shortcuts.html)
 ```
 七大无版权音乐素材下载网站：
 Free BD：https://freepd.com 

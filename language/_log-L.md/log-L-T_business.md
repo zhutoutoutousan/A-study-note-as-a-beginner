@@ -142,6 +142,8 @@
   - [Creating a Project Budget – A Complete Guide](https://www.proprofsproject.com/blog/creating-a-project-budget/)
 
 # R
+- Real estate developer: 开发商/ 地产发展商
+  - [wiki](https://en.wikipedia.org/wiki/Real_estate_development)
 - Regulatory exposure
 - Reputational exposure
 # S

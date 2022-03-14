@@ -14,3 +14,6 @@ ValueError: check_hostname requires server_hostname`
 - Jupyter Notebook
   - Scipy
   - Numpy
+- Code Quality
+  - `Use List Comprehension instead of`
+    - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)

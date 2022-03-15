@@ -151,7 +151,7 @@
   - [2 Hours RabbitMQ Course with NodeJS, Pros & Cons, Cloud RMQ, RMQ vs Kafka, RMQ in Wireshark & MORE!](https://www.youtube.com/watch?v=e03c3CIGtYU)
     - Videomark: 3:00
   - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
-- API & Design Pattern
+- API design, management & Design Pattern 
   - Architectural Styles and the Design of Network-based Software Architectures
     - [link](http://presentations.t-code.pl/hateoas/fielding_dissertation.pdf)
     - Progress: 17/180
@@ -160,6 +160,8 @@
   - GraphQL Api design - Mathias Biehl
   - REST API Design Rulebook - O'Reilley
     - [link](https://github.com/indrabasak/Books/blob/master/REST%20API%20Design%20Rulebook.pdf)
+  - [The Definitive Guide to API Management](https://cloud.google.com/files/apigee/apigee-definite-guide-to-api-management-ebook.pdf)
+  - [API Testing Guide: An automated approach to API testing transformation](https://docs.broadcom.com/doc/api-testing-guide)
   - JWT handbook
     - [link](https://github.com/indrabasak/Books/blob/master/jwt-handbook.pdf)
   - Production ready microservices

@@ -65,6 +65,7 @@
   - [鉴证业务](https://wiki.mbalib.com/zh-tw/%E9%89%B4%E8%AF%81%E4%B8%9A%E5%8A%A1)
 
 # B
+- Balance sheet equation: 资产负债表方程
 - Business Model: 商业模型
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
@@ -78,7 +79,8 @@
   - 财政支出
 - 产品
   - 垂类平台模式
-
+- Cross holding: 交叉持股
+  - [Cross Holding](https://corporatefinanceinstitute.com/)
 # D
 - DCF: Discounted Cash Flow
   - [Discounted Cash Flow | DCF Model Step by Step Guide](https://www.youtube.com/watch?v=gLULdxrS-CU)

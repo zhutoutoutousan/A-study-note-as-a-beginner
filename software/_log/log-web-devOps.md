@@ -18,6 +18,7 @@
   - Work with Git bash
     - `stdin is not a tty`
       - https://gist.github.com/borekb/cb1536a3685ca6fc0ad9a028e6a959e3
+  - I typed `wsl --shutdown` to downsize vhdx, and now it shows this: $ENTRY_POET_1
 # Erudition
 - 内网渗透测试：初探远程桌面的安全问题
 - Pro Git
@@ -108,3 +109,57 @@ Q|JiS#j[4)2kGWC _13
 
 # 2021/3/18
 ## How to automate the password entering process using shell?
+
+
+# Poet
+## $ENTRY_POET_1
+```
+System.TimeoutException:
+Timeout für den Vorgang wurde überschritten.
+   bei System.IO.Pipes.NamedPipeClientStream.ConnectInternal(Int32 timeout, CancellationToken cancellationToken, Int32 startTime)
+   bei System.Threading.Tasks.Task.Execute()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei HttpOverStream.NamedPipe.NamedPipeDialer.<DialAsync>d__8.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei HttpOverStream.Client.DialMessageHandler.<SendAsync>d__9.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.Core.IPC.Client.<SendAsync>d__5.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.Core\IPC\Client.cs:Zeile 40.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Net.Http.HttpClient.<FinishSendAsyncBuffered>d__58.MoveNext()
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.Core.HttpClientExtensions.<GetJsonAsync>d__0`1.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.Core\HttpClientExtensions.cs:Zeile 16.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.ApiServices.LifecycleClient.<GetDockerStateAsync>d__4.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.Engines\LifecycleClient.cs:Zeile 49.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   bei Docker.Engines.LinuxkitDaemonStartup.<WaitAsync>d__5.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.Engines\LinuxkitDaemonStartup.cs:Zeile 60.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.Engines.WSL2.LinuxWSL2Engine.<DoStartAsync>d__28.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.Engines\WSL2\LinuxWSL2Engine.cs:Zeile 178.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.ApiServices.StateMachines.TaskExtensions.<WrapAsyncInCancellationException>d__0.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.ApiServices\StateMachines\TaskExtensions.cs:Zeile 29.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   bei Docker.ApiServices.StateMachines.StartTransition.<DoRunAsync>d__5.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.ApiServices\StateMachines\StartTransition.cs:Zeile 67.
+--- Ende der Stapelüberwachung vom vorhergehenden Ort, an dem die Ausnahme ausgelöst wurde ---
+   bei System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   bei Docker.ApiServices.StateMachines.StartTransition.<DoRunAsync>d__5.MoveNext() in C:\workspaces\PR-17296\src\github.com\docker\pinata\win\src\Docker.ApiServices\StateMachines\StartTransition.cs:Zeile 92.
+```

@@ -71,12 +71,43 @@
 
 
 # 2022/3/14
-- 觉着你的体内有五种力量在相互打架
-  - 职业经理人/策划统筹者
-  - 创业创新者/商人 & Player & Product
-  - 译员/协调者
-  - 技术人/极客&创客
-  - 学术人/科学家
+- SELF-TRANSFORMATION: FIVE GUYS - WORK AS A TEAM
+  - 觉着你的体内有五种力量在相互打架
+    - 职业经理人/策划统筹者
+      - 2022/3
+        - *NESTED Alternative plan should have at least depth of 3*
+        - *Ensure efficient self-data collection for callibration*
+        - *Everything should be well-documented for effective communication, since you type fast enough as compensation*
+        - *Every process should be automated or at least expedited*
+        - *Don't get hasty, one step at a time, be a realist when it comes to design and implementation*
+        - *SWBOK, PMBOK, TOGAF, SOP in tandem with projects are musts in your path, don't you shy away from it, get with the system*
+        - *Get with the local ecosystem a.k.a politique against all humiliations and occupational deaths, you can't achieve much being a lone wolf, nor can you achieve anything being a helpless child*
+        - *You can't be irresponsible for every one of your actions, think about the value chain, think about the atmosphere, there's gonna be some motto to live up to*
+        - *Don't you abuse someone else's trust, try everything to achieve it or you should be ashamed by your incompetence or misconduct*
+    - 创业创新者/商人 & Player & Product
+      - 2022/3/16
+        - Once you convinced yourself of your idea, you will ditch every last bit of introvert trait
+        - *I'm not afraid of death, actually I love dying for multiple times on a minute basis, and I strive to die at a higher rate then gather every last bit of data possible*
+        - *I'm not afraid of hostilities, actually, it gives me the adrenaline boost, it prompts me to focus on what really matters, sometimes I even actively, subconsiously provoke a hostile environment for self adrenaline boost*
+        - *Strike out regardless if you are ready since you're young*
+        - *Patience, hold your horses until you've thought them through*
+        - *Life is too short for long-term grudges, *
+        - *During rigorous competitions, one should not be constrained by rigid, ecosystem dependent, era & zeitgeitst-variant moral stipulations unless it affects playing field status or tendencies by public opinion system, actually, the methods should be everything but, being a good hacker is a must to get an edge in the game*
+        - *I HATE repetitive work*
+        - *My perceived level of being insufficient has reached yet another level, it's time to ask for help*
+    - 译员/协调者
+      - *I enjoy seeing people from all parts of the world working together as a team*
+      - *I enjoy helping people from drastically different background understand one another*
+    - 技术人/极客&创客
+      - 2022/3
+        - *Patience, think out of the box*
+        - *Always try the new things*
+        - *Engineering practices and appetites are to be enforced to oneself, but un-opinionated towards others*
+        - *What if I piece these things together? What's its business model?*
+    - 学术人/科学家
+      - 2022/3
+        - *The world is but a giant experimenting field*
+        - *Leave the generation with my test data for more insight towards the working principle of this world*
 
 # 亲属/亲密关系网络轮换负反馈多闭环推荐系统, 运作机制, 实现可能及未来展望
 - TO people working in 2200s or later, if you find this idea is useful, please contact me.
@@ -85,3 +116,4 @@
 - 现在进场coding正好, copilot可以擀掉大多数重复无聊炒鸡饭的活, 所有effort直击大脑, 最大化用户体验及价值链关键节点所需apptitude, `未来二十年内感知实际沉没成本比率`降至最低值
   - MAXIMUM Coding
 - 现在进场买入`hegang`式资产正好, the nation won't sit this one out, not forever, we're not BZL
+- Thing is pretty crazy right now, so that motto you had *你的问题不在于想得太多而是做的太少* is starting to get deprecated, I need a better motivation model, maybe you don't know yourself that much, and right now, you can express them in a clearer manner

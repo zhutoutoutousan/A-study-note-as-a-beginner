@@ -80,3 +80,8 @@
 
 # 亲属/亲密关系网络轮换负反馈多闭环推荐系统, 运作机制, 实现可能及未来展望
 - TO people working in 2200s or later, if you find this idea is useful, please contact me.
+
+# 2022/3/16
+- 现在进场coding正好, copilot可以擀掉大多数重复无聊炒鸡饭的活, 所有effort直击大脑, 最大化用户体验及价值链关键节点所需apptitude, `未来二十年内感知实际沉没成本比率`降至最低值
+  - MAXIMUM Coding
+- 现在进场买入`hegang`式资产正好, the nation won't sit this one out, not forever, we're not BZL

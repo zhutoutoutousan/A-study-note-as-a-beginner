@@ -160,10 +160,12 @@
   - GraphQL Api design - Mathias Biehl
   - REST API Design Rulebook - O'Reilley
     - [link](https://github.com/indrabasak/Books/blob/master/REST%20API%20Design%20Rulebook.pdf)
+    - [link2](https://drive.google.com/file/d/1DXlKP4rIi55IqcBUL_spDTcK6KjafOQc/view?usp=sharing)
   - [The Definitive Guide to API Management](https://cloud.google.com/files/apigee/apigee-definite-guide-to-api-management-ebook.pdf)
   - [API Testing Guide: An automated approach to API testing transformation](https://docs.broadcom.com/doc/api-testing-guide)
   - JWT handbook
     - [link](https://github.com/indrabasak/Books/blob/master/jwt-handbook.pdf)
+    - [link2](https://drive.google.com/file/d/1Z84JTbUoRGUxvn7al3jukdCmwJ8AFK93/view?usp=sharing)
   - Production ready microservices
     - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
@@ -184,6 +186,10 @@
     - `SyntaxError: Invalid or unexpected token`
       - 用Powershell的`Out-File`产生index.js就会报错
         - Fuck you powershell
+  - Java
+    - `Syntax error, completing LocalVariableDeclarationStatement`
+    - NumberFormat
+      - `Solution.java:18: error: cannot find symbol`
   - ...
 # Learning Path
 - Engineering

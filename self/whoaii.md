@@ -12,7 +12,7 @@
         - *Get with the local ecosystem a.k.a politique against all humiliations and occupational deaths, you can't achieve much being a lone wolf, nor can you achieve anything being a helpless child*
         - *You can't be irresponsible for every one of your actions, think about the value chain, think about the atmosphere, there's gonna be some motto to live up to*
         - *Don't you abuse someone else's trust, try everything to achieve it or you should be ashamed by your incompetence or misconduct*
-        - *Build up Trust *
+        - *Build up Trust*
     - 创业创新者/商人 & Player & Product
       - 2022/3/16
         - Once you convinced yourself of your idea, you will ditch every last bit of introvert trait
@@ -20,7 +20,7 @@
         - *I'm not afraid of hostilities, actually, it gives me the adrenaline boost, it prompts me to focus on what really matters, sometimes I even actively, subconsiously provoke a hostile environment for self adrenaline boost*
         - *Strike out regardless if you are ready since you're young*
         - *Patience, hold your horses until you've thought them through*
-        - *Life is too short for long-term grudges, *
+        - *Life is too short for long-term grudges*
         - *During rigorous competitions, one should not be constrained by rigid, ecosystem dependent, era & zeitgeitst-variant moral stipulations unless it affects playing field status or tendencies by public opinion system, actually, the methods should be everything but, being a good hacker is a must to get an edge in the game*
         - *I HATE repetitive work*
         - *My perceived level of being insufficient has reached yet another level, it's time to ask for help*

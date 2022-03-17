@@ -115,6 +115,9 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 
 
 # 前端踩坑树
+- 生命周期
+  - 打包
+    - [Vue 包大小优化--从 1.72M 到 94K](https://juejin.cn/post/6929839648542425102)
 - 业务
 - 安全
   - Kill copycat

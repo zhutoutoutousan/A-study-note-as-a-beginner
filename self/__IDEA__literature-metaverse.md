@@ -104,3 +104,6 @@ P:
 这里边有个问题,，，，现代人的写作能力和写作意愿是在进化, 还是在退化
 
 ```
+
+# 技术实现
+https://mp.weixin.qq.com/s/9QtPqvVpgNMo5XVL5rQwjQ

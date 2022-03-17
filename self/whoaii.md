@@ -12,7 +12,7 @@
         - *Get with the local ecosystem a.k.a politique against all humiliations and occupational deaths, you can't achieve much being a lone wolf, nor can you achieve anything being a helpless child*
         - *You can't be irresponsible for every one of your actions, think about the value chain, think about the atmosphere, there's gonna be some motto to live up to*
         - *Don't you abuse someone else's trust, try everything to achieve it or you should be ashamed by your incompetence or misconduct*
-        - *Loyalty, it's to be upheld*
+        - *Build up Trust *
     - 创业创新者/商人 & Player & Product
       - 2022/3/16
         - Once you convinced yourself of your idea, you will ditch every last bit of introvert trait
@@ -36,7 +36,7 @@
     - 学术人/科学家
       - 2022/3
         - *The world is but a giant experimenting field*
-        - *Leave the generation with my test data for more insight towards the working principle of this world*
+        - *Leave the generation with test data for more insight towards the working principle of this world*
 
 - What I've seen over the last few months
   - Due to the five concurrent running people, you can't perform each one to the maximum capacity.

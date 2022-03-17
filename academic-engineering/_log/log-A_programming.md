@@ -10,10 +10,23 @@
       - It really takes forever
     - [Virtualenv and Pip hanging forever](https://stackoverflow.com/questions/40093814/virtualenv-and-pip-hanging-forever)
     - [python利用国内源解决pip install 安装超时问题](https://blog.csdn.net/ezreal_tao/article/details/102142789)
-ValueError: check_hostname requires server_hostname`
+- Uncategorized
+  - `ValueError: check_hostname requires server_hostname`
 - Jupyter Notebook
   - Scipy
   - Numpy
 - Code Quality
   - `Use List Comprehension instead of`
     - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
+- Debugging
+  - `An attempt was made to access a socket in a way forbidden by its access permissions`
+    - a.k.a `OSError: [WinError 10013] Der Zugriff auf einen Socket war aufgrund der Zugriffsrechte des Sockets unzulässig`
+    - Supporting
+      - [OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://github.com/googleworkspace/python-samples/issues/86)
+      - [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/#comment-1821)
+      - [[WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001679940--WinError-10013-An-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions)
+      - [“Error: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions” Code Answer](https://www.codegrepper.com/code-examples/typescript/Error%3A+%5BWinError+10013%5D+An+attempt+was+made+to+access+a+socket+in+a+way+forbidden+by+its+access+permissions)
+        - Sorry, not linux
+    - Solved solutions
+      - You have another app running on the same port
+        - Yep, Svelte app running

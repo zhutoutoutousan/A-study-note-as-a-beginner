@@ -117,3 +117,6 @@
   - MAXIMUM Coding
 - 现在进场买入`hegang`式资产正好, the nation won't sit this one out, not forever, we're not BZL
 - Thing is pretty crazy right now, so that motto you had *你的问题不在于想得太多而是做的太少* is starting to get deprecated, I need a better motivation model, maybe you don't know yourself that much, and right now, you can express them in a clearer manner
+
+# 2022/3/17
+- INTJ Regular Check-in： WTF ru doing? Where the HELL did they come from? Haven't we agreed that we should follow the plan?

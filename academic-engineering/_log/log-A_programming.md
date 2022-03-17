@@ -1,9 +1,14 @@
 # Python 踩坑树
 - Application architecture
   - [理解Flask大型应用结构](https://www.dreamer.im/2019/04/01/flask/%E7%90%86%E8%A7%A3Flask%E5%A4%A7%E5%9E%8B%E5%BA%94%E7%94%A8%E7%BB%93%E6%9E%84/)
+- Venv
+  - Want to duplicate Venv?
 - Flask
   - `pip install flask - raise ValueError("check_hostname requires server_hostname")`
     - Proxy Problem
+  - Auth
+    - `TypeError: Object of type function is not JSON serializable when using flask_jwt_extended int RESTful API`
+      - [TypeError: Object of type function is not JSON serializable when using flask_jwt_extended int RESTful API](https://stackoverflow.com/questions/66200136/typeerror-object-of-type-function-is-not-json-serializable-when-using-flask-jwt)
 - Pip
   - `pip install virtualenv` takes forever
     - `pip install --default-timeout=\{forever\} virtualenv`, then wait forever
@@ -19,14 +24,19 @@
   - `Use List Comprehension instead of`
     - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
 - Debugging
-  - `An attempt was made to access a socket in a way forbidden by its access permissions`
-    - a.k.a `OSError: [WinError 10013] Der Zugriff auf einen Socket war aufgrund der Zugriffsrechte des Sockets unzulässig`
-    - Supporting
-      - [OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://github.com/googleworkspace/python-samples/issues/86)
-      - [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/#comment-1821)
-      - [[WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001679940--WinError-10013-An-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions)
-      - [“Error: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions” Code Answer](https://www.codegrepper.com/code-examples/typescript/Error%3A+%5BWinError+10013%5D+An+attempt+was+made+to+access+a+socket+in+a+way+forbidden+by+its+access+permissions)
-        - Sorry, not linux
-    - Solved solutions
-      - You have another app running on the same port
-        - Yep, Svelte app running
+  - Vscode
+    - Stop point doesn't work
+    - Error messages
+      - `No module named app`
+        - `Remove app.run(debug=TRUE)`
+      - `An attempt was made to access a socket in a way forbidden by its access permissions`
+        - a.k.a `OSError: [WinError 10013] Der Zugriff auf einen Socket war aufgrund der Zugriffsrechte des Sockets unzulässig`
+        - Supporting
+          - [OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://github.com/googleworkspace/python-samples/issues/86)
+          - [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/#comment-1821)
+          - [[WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001679940--WinError-10013-An-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions)
+          - [“Error: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions” Code Answer](https://www.codegrepper.com/code-examples/typescript/Error%3A+%5BWinError+10013%5D+An+attempt+was+made+to+access+a+socket+in+a+way+forbidden+by+its+access+permissions)
+            - Sorry, not linux
+        - Solved solutions
+          - You have another app running on the same port
+            - Yep, Svelte app running

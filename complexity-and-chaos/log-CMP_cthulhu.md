@@ -1,1 +1,2 @@
 - [O Alquimista](https://drummond.gnomio.com/pluginfile.php/77/mod_folder/content/0/Literatura/Paulo%20Coelho/1988%20-%20O%20Alquimista%20-%20Paulo%20Coelho.pdf)
+  - Prerequisite: Requires Portuguese language proficiency

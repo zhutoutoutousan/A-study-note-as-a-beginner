@@ -443,3 +443,4 @@ This is the warning from your second-line psychological infrastructure. Plz addr
 Medical exam and insurance established, awaiting for test results
 
 # 2022/3/17
+Detected suicide tendency

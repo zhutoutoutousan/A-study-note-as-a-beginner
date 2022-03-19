@@ -8,3 +8,7 @@
   - Facts
   - Links
     - [neural-program-comprehension](https://github.com/ALFA-group/neural-program-comprehension)
+
+# P.O.I
+- Paul Nuyujukian
+  - [profile](https://bioengineering.stanford.edu/person/paul-nuyujukian)

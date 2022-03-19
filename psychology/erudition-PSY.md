@@ -31,17 +31,35 @@
         - *The Integration of the Personality* (New York, 1939; London, 1949)
       - Sigmund Freud
         - *Von den Wurzeln des Bewusststeins*(Zurich, 1954)
-      - Language barrier
-        - Some contents require **Greek** level B2 to unlock, suggest start with typewriting
+    - Language barrier
+      - Some contents require **Greek** level B2 to unlock, suggest start with typewriting
 - Carl Rogers
 - Sigmund Freud
 - Gustave Le Bon
   - Psychologie des foules
-    - [link1](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
-    - Process 1
-      - Language level reach, initiate serious and fast reading
-      - Progress: 26/125 - *...riée est la fureur...*
-# Mind Control
+    - TANDEM
+      - [French](https://www.infoamerica.org/documentos_pdf/lebon2.pdf)
+      - [Chinese](http://zsjypt.bj.bcebos.com/qmsb/%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97.pdf)
+        - CRITIC Robert K. Merton
+          - *绝对谈不上完全创新, 严格地说耶不正确;...一本仍然值得一读的书*
+            - ASSUME 该书本身就是乌合之众, as per 2022/3, it may be a pile of junk just like the rest R.I.P-s
+              - And why should you read a pile of junk? --> To learn French-Chinese Translation
+    - P.O.I
+      - Robert K. Merton
+    - UNLOCKED - Language level reached, initiate reading
+      - Minimum requirement: Lower French B2 & Chinese HSK4
+    - Process 1 - TANDEM READING
+      - Bookmark - FRENCH: 26/125 - *...Elles peuvent parcourir successivement la gamme...*
+      - Bookmark - CHINESE: 62/237 JMP 0 "CRITICS"
+    - Process 2 - FUTURE SOFTWARE PROJECT
+      - Automaton software program based on the book
+        - [ ] Previous research
+        - [ ] Key Features
+          - [ ] Individual forms a group, then individual loses the ability to dominate his or her actions
+        - [ ] UML diagram
+        - [ ] Logical diagram
+        - [ ] Python/Svelte Program
+# Conflict Management
 - Disrupted: My misadventure in the start-up bubble
 - Workplace Bullying: What We Know, Who Is to Blame and What Can We Do?
 - Dignity at Work: Eliminate Bullying and Create a Positive Working Environment

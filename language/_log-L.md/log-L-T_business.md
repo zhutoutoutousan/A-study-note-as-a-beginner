@@ -144,6 +144,8 @@
   - [Creating a Project Budget – A Complete Guide](https://www.proprofsproject.com/blog/creating-a-project-budget/)
 
 # R
+- Rank bidding
+  - [MBA](https://wiki.mbalib.com/wiki/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D)
 - Real estate developer: 开发商/ 地产发展商
   - [wiki](https://en.wikipedia.org/wiki/Real_estate_development)
 - Regulatory exposure
@@ -162,7 +164,11 @@
 
 # Z
 - 资本结构
-
+- Zurich Axiom: 苏黎世投机定律
+  - [MBA](https://wiki.mbalib.com/wiki/%E8%8B%8F%E9%BB%8E%E4%B8%96%E6%8A%95%E6%9C%BA%E5%AE%9A%E5%BE%8B#:~:text=%E8%8B%8F%E9%BB%8E%E5%A3%AB%E6%8A%95%E6%9C%BA%E5%AE%9A%E5%BE%8B(Zurich%20Axiom)%E6%98%AF%E6%97%A9%E6%9C%9F%E5%9C%A8%E5%8D%8E%E5%B0%94%E8%A1%97%E8%82%A1%E5%B8%82,%E5%B9%B6%E6%8E%A7%E5%88%B6%E9%A3%8E%E9%99%A9%E7%9A%84%E6%B3%95%E5%88%99%E3%80%82)
+  - Course
+    - [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+      - Videomark: 1:39
 # Accounting
 ## _
 - [重要會計用語中英對照](https://www.ardf.org.tw/html/tifrs1001115.pdf)

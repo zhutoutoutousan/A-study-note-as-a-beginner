@@ -37,6 +37,9 @@
 # Renovation plan
 
 # 个人软件开发军火库
+- 数据库设计
+  - [dbdiagram.io](https://dbdiagram.io/)
+  - [dbdesigner.net](https://www.dbdesigner.net/)
 # 团队软件开发军火库
 
 # Bleeding edge arsenal - Pillars of Boundries

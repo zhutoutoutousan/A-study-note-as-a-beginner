@@ -5,8 +5,11 @@
 # 2021/7/11- 
 ## Integration of S-PM
 - [Software Project Management - Why it's Different!](https://www.youtube.com/watch?v=TYBVAvWkG6M)
+- [Project Management Full Course | Project Management Training | Edureka](https://www.youtube.com/watch?v=PqQqTAu_FiM)
+  - Videomark: 8:05
+  - PIECE OF SHIT, DON'T WATCH CUZ NO DOUBLE SUBTITLE
 - [Project Management Full Course | Learn Project Management In 8 Hours | Simplilear](https://www.youtube.com/watch?v=uWPIsaYpY7U)
-  - Videomark
+  - Videomark: 0:54
   - What is Project Management?
     - Def: f --app--> {knowledge, skills, tools, techniques} (project activities) = project requirements(time, budget)
   - What is a Project?
@@ -17,9 +20,17 @@
   - Key focus areas in Project Management
   - Job Rules in Project Management
   - Project Management Certifications
+- Agile development
+  - [Sprint Plans | Sprint Planning Meeting | Sprint Planning in Agile | Scrum Certification | Edureka](https://www.youtube.com/watch?v=TxUzyDIVjL8)
+    - Videomark: 0:21
+  - [Agile Scrum Full Course In 4 Hours | Agile Scrum Master Training | Agile Training Video |Simplilearn](https://www.youtube.com/watch?v=VFQtSqChlsk)
+    - Videomark:
 ## In which direction does project management challenge your intelligence most?
 - ?
-  - Internal Gantt graph for quick decision making
+  - Internal Project Overview Dashboard
+    - Internal Gantt graph for quick decision making
+    - Internal Task Flow Network with both effort, nested alternative plans, resources, dependencies, probabilities, contraints etc..
+      - Perform on-the-fly probability analysis using probability theory and statistics for quick decision
 
 
 ## Front-end teamwork and management

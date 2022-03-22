@@ -47,6 +47,7 @@
   - [Requirement - Tech solution connection](#requirement---tech-solution-connection)
   - [Is it possible to use both `withRouter` and `withStyles`?](#is-it-possible-to-use-both-withrouter-and-withstyles)
 - [2B前端开发的领域驱动设计及大型项目实践](#2b前端开发的领域驱动设计及大型项目实践)
+- [用户管理系统设计](#用户管理系统设计)
 
 # Information Pillar
 - [Martinfowler](https://martinfowler.com/)
@@ -312,3 +313,9 @@ https://github.com/arackaf/customize-cra
 
 # 2B前端开发的领域驱动设计及大型项目实践
 - https://juejin.cn/post/6844904002501492744
+
+
+# 用户管理系统设计
+- 密码保存
+  - [加盐密码保存的最通用方法是？](https://www.zhihu.com/question/20299384)
+  - [设计安全的账号系统的正确姿势](https://blog.coderzh.com/2016/01/03/security-design/)

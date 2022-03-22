@@ -120,3 +120,7 @@
 
 # 2022/3/17
 - INTJ Regular Check-in： WTF ru doing? Where the HELL did they come from? Haven't we agreed that we should follow the plan?
+
+# 2022/3/22
+- [Evolutionary Psychologist Shares How Women Select Men](https://www.youtube.com/watch?v=LmYs6C8yPq0)
+  - If we could make reproduction independent of human 

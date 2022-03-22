@@ -10,7 +10,7 @@ Asset Allocation
 - ACCA F1
   - Video contents
     - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
-      - Videomark: 1:43
+      - Videomark: 8:39
   - _meta
     - _structure
       - The Business Organization and its Structure

@@ -127,7 +127,32 @@ If you have read through these, answer me some questions:
 # 2021/9/29
 - Friendship Compatibility data collection
   - ENFP: +2/2
-  - INFJ: 0/1
+    - Spiritual friend
+    - We can encourage each other
+  - INFJ: -1
+    - Too sentimental
+    - Shut-in and gets nothing done
+    - Goes back and forth among extremes
+  - INFP: -1
+    - Stupid, gullible, and self-centered
+  - ESFP: 1
+    - Can play with on artistic contexts
+  - ESFJ: -2
+    - Sticks to tradition without discernment
+    - Easily fall victim to collusion or group psychological effect
+  - INTP: +1
+    - Can work together
+  - INTJ: +1
+    - Narcissistic, be could be useful if in the similar realm
+  - ENTJ +1
+    - Can work together
+    - Feel safe and blessful around him or her
+  - ENTP +1
+    - Can work together
+    - Feel safe and blessful around him or her
+  - ESTP: +2
+  - ENFJ: -2
+    - Too self-centered
 # 2021/9/30
 - Distributed Dunning-Kruger effect graph for different context under a variety of sampling rate
 

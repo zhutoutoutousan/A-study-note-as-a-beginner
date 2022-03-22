@@ -3,7 +3,17 @@
   - [理解Flask大型应用结构](https://www.dreamer.im/2019/04/01/flask/%E7%90%86%E8%A7%A3Flask%E5%A4%A7%E5%9E%8B%E5%BA%94%E7%94%A8%E7%BB%93%E6%9E%84/)
 - Venv
   - Want to duplicate Venv?
+  - `RuntimeError: failed to find interpreter for Builtin discover of python_spec='python3.5'`
 - Flask
+  - Version
+    - What's the differnce between `flask_jwt` and `flask_jwt_extended`
+      - Overview
+        - [flask_jwt_extended](https://flask-jwt-extended.readthedocs.io/en/latest/)
+        - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/)https://flask-jwt-extended.readthedocs.io/en/latest/jwt.html#jwt-authentication
+      - Niche differences
+        - `authenticate` and `identity`
+          - [flask_jwt_extended]()
+          - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/jwt.html#jwt-authentication)
   - `pip install flask - raise ValueError("check_hostname requires server_hostname")`
     - Proxy Problem
   - Auth

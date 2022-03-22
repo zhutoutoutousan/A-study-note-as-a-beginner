@@ -77,6 +77,8 @@
           - 没有start with section选项
   - Google Slides
     - LOCKED: Unlock with **Adobe ability**
+    - Copied from Microsoft PPT, element transferred in as groupped elements
+      - Unable to ungroup
 - 一条龙
   - 从零到一撰写行业研究报告书
 # Close-loop training

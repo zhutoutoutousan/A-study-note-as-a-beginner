@@ -14,6 +14,14 @@
         - `authenticate` and `identity`
           - [flask_jwt_extended]()
           - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/jwt.html#jwt-authentication)
+      - @jwt_required has changed to @jwt_required()
+      - @jwt_optional has hanged to @jwt_required(optional=True)
+      - @fresh_jwt_required has changed to @jwt_required(fresh=True)
+      - @refresh_token_required has changed to @jwt_required(refresh=True)
+      - get_raw_jwt() has changed to get_jwt()
+      - user_claims in create_access_token() and create_refresh_token() have been renamed to additional_claims
+      - All occurrences of blacklist have changed to blocklist
+      - Most of the callback functions have changed slightly, so after Lecture 146, have this open beside you: https://flask-jwt-extended.readthedocs.io/en/stable/v4_upgrade_guide/#callback-function-changes
   - `pip install flask - raise ValueError("check_hostname requires server_hostname")`
     - Proxy Problem
   - Auth

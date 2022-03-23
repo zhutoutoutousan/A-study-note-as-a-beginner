@@ -43,6 +43,8 @@
 [[_index_language]]
 
 # Renovation
+- 2022/3/23
+  - All terminology section shall be moved to Language_Translation section
 - Add a comment section for collecting user generated contents
   - https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/377
 - Establish an efficient workflow of diagram archive
@@ -77,7 +79,6 @@
 - [AWS re:Invent 2021 - Keynote with Dr. Werner Vogels](https://www.youtube.com/watch?v=8_Xs8Ik0h1w)
   - Videomark: 51-40
   - Gall's law
-
 
 ## Top priority(limited to 3)
 - #rigorouscareerrelatedengagement   

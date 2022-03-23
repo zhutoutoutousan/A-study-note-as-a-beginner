@@ -1,6 +1,9 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
+- [Scale of Money](#scale-of-money)
+  - [Basic methodologies](#basic-methodologies)
+  - [Instance relevant tree](#instance-relevant-tree)
 - [商业汇报踩坑树](#商业汇报踩坑树)
 - [Close-loop training](#close-loop-training)
 - [Lifecycle](#lifecycle)
@@ -64,21 +67,30 @@
 # Outbound space
 #NewTech-BusinessAnalyst
 
+# Scale of Money
+## Basic methodologies
+## Instance relevant tree
+- $40B
+
 # 商业汇报踩坑树
-- 工具使用
-  - Google Doc
-    - 生成目录
-      - 目录自动生成第一个heading 1不包括标号
-        - 标号的'.'后不加空格
-          - 好丑
-    - 生成页签
-      - 页签在第一页生成
-        - Google Doc Help
-          - 没有start with section选项
-  - Google Slides
-    - LOCKED: Unlock with **Adobe ability**
-    - Copied from Microsoft PPT, element transferred in as groupped elements
-      - Unable to ungroup
+- 在线汇报
+  - 工具使用
+    - Google Doc
+      - 生成目录
+        - 目录自动生成第一个heading 1不包括标号
+          - 标号的'.'后不加空格
+            - 好丑
+      - 生成页签
+        - 页签在第一页生成
+          - Google Doc Help
+            - 没有start with section选项
+    - Google Slides
+      - LOCKED: Unlock with **Adobe ability**
+      - Copied from Microsoft PPT, element transferred in as groupped elements
+        - Unable to ungroup
+- On-site汇报
+  - 硬件问题
+    - 大屏锁死
 - 一条龙
   - 从零到一撰写行业研究报告书
 # Close-loop training

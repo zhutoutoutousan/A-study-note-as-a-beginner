@@ -113,6 +113,9 @@
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
 # H
+- Hotelling model
+  - [Hotelling's Theory](https://www.investopedia.com/terms/h/hotellings-theory.asp)
+  - [Hotelling Model](https://www.eco.uc3m.es/~mmachado/Teaching/OI-I-MEI/slides/4.2.Hotelling%20Model.pdf)
 - _Uncategorized
   - Hedge Fund: 对冲基金
     - [MBA](https://wiki.mbalib.com/wiki/%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91)
@@ -133,6 +136,8 @@
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
   - [Litigation risk analysis](https://en.wikipedia.org/wiki/Litigation_risk_analysis)
 # M
+- McGregor’s Theory
+  - [McGregor’s Theory X vs Theory Y: How to increase performance in your team](https://www.tsw.co.uk/blog/leadership-and-management/mcgregors-theory-x-vs-theory-y/)
 - Mkt cap: (Market Capital)
 
 # N

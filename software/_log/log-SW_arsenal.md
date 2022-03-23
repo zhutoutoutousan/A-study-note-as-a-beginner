@@ -40,6 +40,9 @@
 - 数据库设计
   - [dbdiagram.io](https://dbdiagram.io/)
   - [dbdesigner.net](https://www.dbdesigner.net/)
+- 部署
+  - 域名
+    - 
 # 团队软件开发军火库
 
 # Bleeding edge arsenal - Pillars of Boundries

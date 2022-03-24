@@ -23,8 +23,18 @@ Check: #possibleacademiadirection for choosing major
 
 - Academic Directions
   - Complexity Science
+    - Quatitative Causality
+    - Emergence
+    - Chaos in game
   - Social Computing
+    - Network theory
   - Data Science
+  - Meso Science
+    - Quatitative psychology
+
 
 # Academic at Heart
 - Check your readiness in Academic Engineering section to embark on a new journey
+
+# Startup CEO build-up
+- Either way, you need to migrate

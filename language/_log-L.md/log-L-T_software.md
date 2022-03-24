@@ -94,6 +94,13 @@
 
 # N
 - NAT Gateway
+- News aggregator
+  - [wiki](https://en.wikipedia.org/wiki/News_aggregator)
+  - _child-topics
+    - Web syndication
+      - [wiki](https://en.wikipedia.org/wiki/Web_syndication)
+    - Web feed
+      - [wiki](https://en.wikipedia.org/wiki/Web_feed)
 - NLTM Proxy
   - [NTLM server](http://ntlmaps.sourceforge.net/)
   - [px - github](https://github.com/genotrance/px)

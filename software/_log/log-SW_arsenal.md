@@ -37,12 +37,17 @@
 # Renovation plan
 
 # 个人软件开发军火库
+- 技术调研
+  - Wappalyzer
+- Escaper
+  - Webalizer
 - 数据库设计
   - [dbdiagram.io](https://dbdiagram.io/)
   - [dbdesigner.net](https://www.dbdesigner.net/)
 - 部署
   - 域名
-    - 
+    - Cloudflare
+
 # 团队软件开发军火库
 
 # Bleeding edge arsenal - Pillars of Boundries

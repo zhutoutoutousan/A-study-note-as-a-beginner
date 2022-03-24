@@ -1,4 +1,5 @@
 # Erudition
+- [Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://wangwei1237.github.io/shares/Math-for-Programmers.pdf)
 - [Physics Simulations in Python](https://physics.weber.edu/schroeder/scicomp/PythonManual.pdf)
 - [A Beginner’s Guide to Simulating Dynamical Systems with Python](https://towardsdatascience.com/a-beginners-guide-to-simulating-dynamical-systems-with-python-a29bc27ad9b1)
 # Python 踩坑树
@@ -11,6 +12,7 @@
   - Version
     - What's the differnce between `flask_jwt` and `flask_jwt_extended`
       - Overview
+      - 
         - [flask_jwt_extended](https://flask-jwt-extended.readthedocs.io/en/latest/)
         - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/)https://flask-jwt-extended.readthedocs.io/en/latest/jwt.html#jwt-authentication
       - Niche differences

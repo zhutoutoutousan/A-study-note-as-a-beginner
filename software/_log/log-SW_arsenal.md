@@ -47,7 +47,8 @@
 - 部署
   - 域名
     - Cloudflare
-
+- Python
+  - [Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)
 # 团队软件开发军火库
 
 # Bleeding edge arsenal - Pillars of Boundries

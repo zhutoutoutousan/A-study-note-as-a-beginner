@@ -30,6 +30,8 @@
 - Callback
   - [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
     - Videomark: 11:11
+- Consistent Hashing
+  - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing#:~:text=according%20to%20Wikipedia).-,Consistent%20Hashing%20is%20a%20distributed%20hashing%20scheme%20that%20operates%20independently,without%20affecting%20the%20overall%20system.)
 - CTI
   - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
 - CRM: 客户关系管理
@@ -134,6 +136,8 @@
 - sed
   - [Linux Essentials - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)
     - Videomark: 7:03
+- Sharding
+  - [MongoDB - Sharding](https://www.mongodb.com/docs/manual/sharding/#:~:text=Sharding%20is%20a%20method%20for,capacity%20of%20a%20single%20server.)
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
 - Syntax-free Programming

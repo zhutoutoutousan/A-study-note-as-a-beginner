@@ -1,7 +1,35 @@
-# FROM 2022-2-12 Your Desired Academic Persona
+# Your Desired Academic Persona - M&C
+- _Initiated in 2022/2/12
+- _Refreshed as of 2022/3/26
+- Obsessed with
+  - [ ] Meso Science
+    - [ ] Macro Science
+    - [ ] Micro Science
+    - [ ] _Meso Science
 - Excels in
+  - [ ] Cross-lingual, Cross-cultural communication
+    - [ ] Language sophistication: 20%
+    - [ ] Project Management sophistication
+    - [ ] *Informal* emotional intelligence sophistication
+      - [ ] This could never be achieved for you being an intense son of a bxxxh
+      - [ ] Then you have to use some other levers to bypass it
+        - Altruistic yet badass-by-public-opinion endeavour for primitive hierarchy build-up        
+        - Negotiation techniques
+          - Primitive
+            - Logic
+            - Manipulation
+            - Erudition
+            - Conviction
+            - 
+        - Interpersonal pressure
+        - Group psychological effect
+        - Genuity
+        - Financial blackhole
+        - Commitment
   - [ ] Complex System
-    - [ ] Dynamical System Theory
+    - [ ] Continuous System
+    - [ ] Discrete System
+    - [ ] System Theory
       - _META
         - https://zh.wikipedia.org/wiki/%E5%8A%A8%E5%8A%9B%E7%B3%BB%E7%BB%9F%E7%90%86%E8%AE%BA?oldformat=true
       - [ ] Mathematics basics
@@ -11,8 +39,41 @@
       - [ ] Advanced Algorithm
     - [ ] Causal and emergence
     - [ ] Mathematical Model
+  - [ ] Industry Carry-over Boundry Overview
 - Has a good command of
-  - Social Computing
+  - [ ] Social Computing
+  - [ ] Competitive Programming 
+    - With good software practices
+  - [ ] Software Engineering
+  - TBD
+- Can communicate effectively with people in background, industries of
+  - _industry
+    - Leisure Industry
+  - _role
+    - _G-suite
+    - _c-suite
+      - CEO
+    - _m-suite
+      - a
+    - _s-suite
+      - Developer
+  - _background
+- Is intrinsically weak in
+  - Anything related with physical lab work
+    - CLUMSY Soldering, designing physical circuit with tons of restraint
+      - Might be lifted with enough support
+    - IMPATIENT Doing the bulk of the work with giant lab equipments
+- Is reluctant to do
+  - Anything without coding
+# Exclusive Profiling for future surgical strike-out
+- _meta
+  - Use FDLY for intelligence service
+- Europe
+  - France
+    - University of Notre Dame
+      - Barabási Albert László
+        - [Barabási Lab](https://www.barabasilab.com/)
+
 # Why should there be academic engineering?
 - Automate the information gathering, processing process
 - Minimize and specify the subject-oriented effort to achieve a certain research-oriented/exploration-oriented goal in academia

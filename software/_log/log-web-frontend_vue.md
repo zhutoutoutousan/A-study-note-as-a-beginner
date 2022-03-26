@@ -32,7 +32,7 @@
 # Erudition
 - Vue.js设计与实现
   - Process 1
-    - Bookmark: 2
+    - Bookmark: 6
     - Link: Paperback
     - Global Memoization Space
       - Preface

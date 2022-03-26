@@ -24,7 +24,6 @@
 # A
 - Apache VTL
   - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
-
 # B
 - 悲观锁
 # C
@@ -91,7 +90,6 @@
       - [Atomics, CAS, and Nonblocking Algorithms (Alexey Fyodorov, Russia)](https://www.youtube.com/watch?v=htbPckvO2zQ)
     - [悲观锁与乐观锁的实现(详情图解)](https://www.modb.pro/db/50596)
     - [不得不说的乐观锁和悲观锁](https://juejin.cn/post/7024337692091482126)
-
 # N
 - NAT Gateway
 - News aggregator

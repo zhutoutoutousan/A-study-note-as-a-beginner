@@ -21,6 +21,8 @@
 ### Visual navigation
 - Scroll to top/bottom:    
   - Windows: Home/End
+- Toggle Tab Search
+  - Ctrl+Shift+A
 ### History navigation
 - Reopen recently closed tab: Ctrl + Shift + T
 - Return to the previously opened tab

@@ -17,6 +17,7 @@
 - [R](#r)
 - [S](#s)
 - [Y](#y)
+- [V](#v)
 - [Z](#z)
 - [Accounting](#accounting)
   - [_](#_)
@@ -141,8 +142,9 @@
 - Mkt cap: (Market Capital)
 
 # N
-- 柠檬市场
+- 柠檬市场: Lemon market
   - [The Market for “Lemons:” Quality Uncertainty and the Market Mechanism](https://sites.duke.edu/econ206_01_s2011/files/2012/05/25Akerlof_Lemons_Debreu.pdf)
+  - [Imperfect Competition and Efficiency in Lemons Markets](https://ageconsearch.umn.edu/record/270999/files/twerp_939.pdf)
 
 # P
 - Project Budget
@@ -166,7 +168,9 @@
 
 # Y
 - 一锤子买卖
-
+# V
+- VIE: Variable Interest Entity
+  - [Variable Interest Entity (VIE)](https://www.investopedia.com/terms/v/variable-interest-entity.asp)
 # Z
 - 资本结构
 - Zurich Axiom: 苏黎世投机定律

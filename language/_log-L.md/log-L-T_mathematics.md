@@ -1,4 +1,9 @@
 - Renovation: 
+  - For the love of god, transfer all terminology in mathematics section here
+
+# D
+- Deep Math
+  - [Deep Maths - machine learning and mathematics](https://www.youtube.com/watch?v=wbJQTtjlM_w)
 
 # V
 - Voronoi diagram

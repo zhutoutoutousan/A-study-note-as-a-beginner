@@ -113,6 +113,7 @@
 - [Microsoft Excel Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=Vl0H-qTclOg)
   - Videomark: 2:31
 # Erudition
+- [The Analytics Setup Guidebook - Holistics](https://cdn.holistics.io/guidebook/the-analytics-stack-guidebook.pdf)
 - [Good Strategy/Bad Strategy](http://dspace.vnbrims.org:13000/jspui/bitstream/123456789/4584/1/Good%20Strategy_Bad%20Strategy.pdf)
 - Don't make me think
   - 2rd Edition

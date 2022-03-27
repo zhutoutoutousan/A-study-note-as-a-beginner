@@ -13,6 +13,9 @@ unset tmp
 
 echo Uploading to $username
 
+# Generate random string
+
+
 git add .
 git commit -am "Aktualisierung"
 git push git@github.com:$username/A-study-note-as-a-beginner.git

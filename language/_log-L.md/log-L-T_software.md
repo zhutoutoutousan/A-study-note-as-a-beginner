@@ -58,6 +58,9 @@
 - Entity
 - Enum
   - [A Comprehensive Guide to Using MySQL ENUM](https://www.mysqltutorial.org/mysql-enum/#:~:text=In%20MySQL%2C%20an%20ENUM%20is,Readable%20queries%20and%20output.)
+    - Non-strict SQL mode
+      - [5.1.11 Server SQL Modes](https://dev.mysql.com/doc/refman/8.0/en/sql-mode.html)
+      - [MariaDB - SQL_MODE](https://mariadb.com/kb/en/sql-mode/)
 - ERP
 - Egress Only Internet Gateways
 # F
@@ -135,7 +138,7 @@
   - `repr()`
     - [Python Tutorial: str() vs repr()](https://www.youtube.com/watch?v=5cvM-crlDvg)
       - Videomark: 2:51
-  - decorators
+  - Decorators
     - [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
       - Videomark: 1:42
   - `modules`
@@ -160,6 +163,8 @@
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
 # T
+- Transaction
+  - QUESTION How to implement transaction in Spring Boot
 - Turing completeness: 图灵完备
   - Wiki
 - Turing machine: 图灵机

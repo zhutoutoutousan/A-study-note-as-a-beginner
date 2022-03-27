@@ -9,7 +9,9 @@
 - [H](#h)
 - [I](#i)
 - [L](#l)
+- [M](#m)
 - [N](#n)
+- [O](#o)
 - [P](#p)
 - [Q](#q)
 - [S](#s)
@@ -52,6 +54,8 @@
   - [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
 # E
 - Entity
+- Enum
+  - [A Comprehensive Guide to Using MySQL ENUM](https://www.mysqltutorial.org/mysql-enum/#:~:text=In%20MySQL%2C%20an%20ENUM%20is,Readable%20queries%20and%20output.)
 - ERP
 - Egress Only Internet Gateways
 # F
@@ -92,6 +96,11 @@
       - [Atomics, CAS, and Nonblocking Algorithms (Alexey Fyodorov, Russia)](https://www.youtube.com/watch?v=htbPckvO2zQ)
     - [悲观锁与乐观锁的实现(详情图解)](https://www.modb.pro/db/50596)
     - [不得不说的乐观锁和悲观锁](https://juejin.cn/post/7024337692091482126)
+
+# M
+- Many-to-many
+  - [wiki](https://en.wikipedia.org/wiki/Many-to-many_(data_model))
+  - [Filemaker](https://fmhelp.filemaker.com/help/18/fmp/en/index.html#page/FMP_Help/many-to-many-relationships.html)
 # N
 - NAT Gateway
 - News aggregator
@@ -107,6 +116,10 @@
     - Source Code Reading
       - px.py
         - Codemark: L95
+
+# O
+- One-to-many
+  - [One-to-many (data model)](https://en.wikipedia.org/wiki/One-to-many_(data_model)#:~:text=In%20systems%20analysis%2C%20a%20one,only%20one%20element%20of%20A.)
 
 # P
 - Principle

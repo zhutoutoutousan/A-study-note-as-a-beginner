@@ -1,3 +1,4 @@
+```py
 # Visualize: https://www.geeksforgeeks.org/visualize-graphs-in-python/
 import random
 import matplotlib.pyplot as plt
@@ -39,4 +40,4 @@ if __name__ == "__main__":
     m = int(input())
     network = create_network(n, m)
     draw_network(network)
-
+```

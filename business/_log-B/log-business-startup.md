@@ -115,3 +115,7 @@
 # Random
 http://www.iheima.com/article-144933.html#:~:text=%E6%9E%9C%E7%9C%9F%E5%A6%82%E6%AD%A4%E5%90%97%3F-,%E4%BD%9C%E4%B8%BA%E7%A7%91%E6%8A%80%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%88%9B%E6%96%B0%E8%80%85%E5%92%8C%E5%AF%8C%E6%9C%89,%E5%B9%B6%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E5%88%9B%E6%96%B0%E3%80%82
 https://www.zhihu.com/question/24422160
+
+# Naysayer Pathway Study
+
+![asdas](https://drive.google.com/uc?export=view&id=1rNUezMbKW417hRl--2kAkt66kczzqfaW)

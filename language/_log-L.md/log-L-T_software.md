@@ -43,6 +43,8 @@
 - Constructor Overloading
   - [Constructor Overloading in Java](https://www.geeksforgeeks.org/constructor-overloading-java/)
 # D
+- Database Design
+  - [Design a News Feed System](https://liuzhenglaichn.gitbook.io/system-design/news-feed/design-a-news-feed-system)
 - Defect Density
 - Domain Driven Design
   - [Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=hv-LiKQgN90)

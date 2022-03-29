@@ -14,10 +14,11 @@
 - [O](#o)
 - [P](#p)
 - [Q](#q)
+- [R](#r)
 - [S](#s)
 - [T](#t)
 - [J](#j)
-- [R](#r)
+- [R](#r-1)
 - [V](#v)
 - [X](#x)
 - [Y](#y)
@@ -150,6 +151,8 @@
 - 前后端分离
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)
   - [作为架构师，你知道前后端分离，有什么优缺点？](https://jishuin.proginn.com/p/763bfbd52c37)
+# R
+- Root cause analysis
 # S
 - sed
   - [Linux Essentials - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)

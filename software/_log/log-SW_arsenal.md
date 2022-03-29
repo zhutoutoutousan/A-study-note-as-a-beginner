@@ -43,9 +43,11 @@
     - [dbdiagram.io](https://dbdiagram.io/)
     - [dbdesigner.net](https://www.dbdesigner.net/)
   - Concept Brainstorming
-    - Mubua
+    - Mubu
     - Miro
     - Xmind
+    - Mindmup
+      - Free online alternative for Mubu
 - 知识图谱
   - KgBase
   - Kronograph

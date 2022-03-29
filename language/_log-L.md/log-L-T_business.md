@@ -71,6 +71,8 @@
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
 # C
+- Company
+  - Elon Musk: *A company is an assembly of people, gathered together to create a product or server, and deliver them*
 - Cost centre
   - https://en.wikipedia.org/wiki/Cost_centre_(business)
 - Cost overrun: 成本超支
@@ -97,6 +99,8 @@
   - [MBA智库百科](https://wiki.mbalib.com/wiki/%E6%8A%98%E6%97%A7)
 
 # E
+- ESG
+  - [Environmental, Social, and Governance (ESG) Criteria - Investopedia](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
 - Equity: 股东权益
   - [Wiki - 股东权益](https://zh.wikipedia.org/wiki/%E8%82%A1%E6%9D%B1%E6%AC%8A%E7%9B%8A)
 - Entrepreneur
@@ -158,6 +162,7 @@
 - Regulatory exposure
 - Reputational exposure
 # S
+- Socially responsible investing
 - SLA a.k.a Service level Agreement
   - [What is the difference between a SLA and a KPI?](https://www.youtube.com/watch?v=TRlghvTax2c)
   - [Service level agreement best practices: How to meet your customer expectations](https://www.youtube.com/watch?v=JEZ_UO4H_p0)

@@ -131,3 +131,9 @@
 
 # 2022/3/27
 - Running with 100kg body weight is actually a good idea after all, it will make your ankle, tendon stronger, just you need to give it a bit more time to recover
+
+
+# 2022/3/30
+- UNLOCK: 有Copilot干活, Codeforces, Competitive Programming目前已解锁
+- UNLOCK: 有Copilot干活, 所有数学, 物理, 化学, 计科相关内容目前已解锁, 所有学术方向的effort彻底放开
+- UNLOCK: Long-distance Running is still feasible despite weighing 100kg+

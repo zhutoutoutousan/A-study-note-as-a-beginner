@@ -131,5 +131,3 @@
 
 # 2022/3/27
 - Running with 100kg body weight is actually a good idea after all, it will make your ankle, tendon stronger, just you need to give it a bit more time to recover
-
-- ![asdas](https://drive.google.com/uc?export=view&id=1rNUezMbKW417hRl--2kAkt66kczzqfaW)

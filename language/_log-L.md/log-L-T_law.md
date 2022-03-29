@@ -1,3 +1,8 @@
+# L
+- Legal lots
+  - [What is A Legal Lot and Why is It Important?](https://www.linkedin.com/pulse/what-legal-lot-why-important-christine-schneider/?articleId=6545346013203435520)
+
+
 # Basics
 - [“article”及编、章、节、条、款、项、目的翻译](https://legaltranz.com/archives/4284)
 

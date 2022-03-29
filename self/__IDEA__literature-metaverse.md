@@ -24,7 +24,7 @@
 - Similar Product
   - Celtx
 - Context
-  - [论人工智能文学创作的“伪突破”](https://wap.cnki.net/touch/web/Dissertation/Article/10511-1019248932.nh.html)
+  - [论人工智能文学创作的“伪突破”](https://wap.cnki.net/touch/web/**Dissertation**/Article/10511-1019248932.nh.html)
   - [陌生化](https://zh.wikipedia.org/zh-hans/%E9%99%8C%E7%94%9F%E5%8C%96)
 - 你TM有idea的时候正常的人类沟通礼仪就全部忘光光了
 

@@ -1,9 +1,7 @@
-#NewTech-BusinessAnalyst
-
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Renovation plan](#renovation-plan)
-- [个人软件开发军火库](#个人软件开发军火库)
+- [个人软件开发军火库 - 优选](#个人软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
 - [Bleeding edge arsenal - Pillars of Boundries](#bleeding-edge-arsenal---pillars-of-boundries)
   - [Use Cases Boundry](#use-cases-boundry)
@@ -36,14 +34,26 @@
 
 # Renovation plan
 
-# 个人软件开发军火库
+# 个人软件开发军火库 - 优选
+- 技术设计
+  - Architecture Design
+    - Cloudcraft
+    - Draw.io
+  - Database Design
+    - [dbdiagram.io](https://dbdiagram.io/)
+    - [dbdesigner.net](https://www.dbdesigner.net/)
+  - Concept Brainstorming
+    - Mubua
+    - Miro
+    - Xmind
+- 知识图谱
+  - KgBase
+  - Kronograph
 - 技术调研
   - Wappalyzer
 - Escaper
   - Webalizer
-- 数据库设计
-  - [dbdiagram.io](https://dbdiagram.io/)
-  - [dbdesigner.net](https://www.dbdesigner.net/)
+
 - 部署
   - 域名
     - Cloudflare

@@ -71,6 +71,7 @@
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
 # C
+- Carbon Emission Trading
 - Company
   - Elon Musk: *A company is an assembly of people, gathered together to create a product or server, and deliver them*
 - Cost centre

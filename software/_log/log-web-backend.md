@@ -106,10 +106,11 @@
   - Fundamentals of Database Systems Seventh Edition
     - #activereading
     - [link1](https://www.auhd.site/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
+    - [link2](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
     - Process 1
       - Goal
         - This human being is currently insane, therefore, there is no goal available
-    - Bookmark: 43/1273
+    - Bookmark: 49/1273
     - Style: Osmosis
     - Solutional manual: P14
   - Postgres: The First Experience

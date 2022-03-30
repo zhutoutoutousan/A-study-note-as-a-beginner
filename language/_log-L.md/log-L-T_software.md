@@ -28,6 +28,8 @@
 - Apache VTL
   - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
 # B
+- BGP
+    - [Border Gateway Protocol - wiki](https://en.m.wikipedia.org/wiki/Border_Gateway_Protocol)
 - 悲观锁
 # C
 - Callback

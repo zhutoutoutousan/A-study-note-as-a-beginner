@@ -1,3 +1,6 @@
+# D
+- Decree nisi
+
 # L
 - Legal lots
   - [What is A Legal Lot and Why is It Important?](https://www.linkedin.com/pulse/what-legal-lot-why-important-christine-schneider/?articleId=6545346013203435520)

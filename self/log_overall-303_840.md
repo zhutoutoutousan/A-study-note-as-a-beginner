@@ -133,7 +133,9 @@
 - Running with 100kg body weight is actually a good idea after all, it will make your ankle, tendon stronger, just you need to give it a bit more time to recover
 
 
-# 2022/3/30
-- UNLOCK: 有Copilot干活, Codeforces, Competitive Programming目前已解锁
-- UNLOCK: 有Copilot干活, 所有数学, 物理, 化学, 计科相关内容目前已解锁, 所有学术方向的effort彻底放开
+# 2022/3/30: Holy, didn't know that was possible
+- UNLOCK: 有Google Copilot干活, Codeforces, Competitive Programming目前已解锁
+- UNLOCK: 有Google Copilot干活+Python, 利用LaTeX+Google Copilot的学术写作模式已验证成立, 所有数学, 物理, 化学, 计科相关内容目前已解锁, 所有学术方向的effort彻底放开
+  - 预计开始的感知未来沉没成本降至20年来最低点
+  - Formulas are cheap, couple it with code
 - UNLOCK: Long-distance Running is still feasible despite weighing 100kg+

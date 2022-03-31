@@ -107,3 +107,12 @@ P:
 
 # 技术实现
 https://mp.weixin.qq.com/s/9QtPqvVpgNMo5XVL5rQwjQ
+
+## Image creation
+- [METAHUMAN CREATOR](https://www.unrealengine.com/zh-CN/metahuman-creator)
+## AI plot
+- [AIDungeon](https://play.aidungeon.io/)
+- [Latitude.io](https://latitude.io/#careers)
+## Cloud rendering
+- Unreal Engine
+  - Pixel Streaming

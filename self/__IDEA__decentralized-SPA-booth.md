@@ -9,6 +9,7 @@
   - [User story establishment](#user-story-establishment)
 - [Role model analysis](#role-model-analysis)
   - [Leisure Industry](#leisure-industry)
+    - [B.O.I](#boi)
     - [Leisure Industry 101](#leisure-industry-101)
     - [Main players and Business Model Overview](#main-players-and-business-model-overview)
     - [In-depth Case Study](#in-depth-case-study)
@@ -91,6 +92,10 @@
 # Role model analysis
 
 ## Leisure Industry
+### B.O.I
+- Deep Local
+  - [DEEPLOCAL](https://www.deeplocal.com/)
+
 ### Leisure Industry 101
 - [极具发展潜力：开SPA馆的必要知识](https://www.bantianhong.com/wenhua/content/30511674_b318.html)
 - [极具发展潜力：开SPA馆的必要知识－2](http://blog.sina.com.cn/s/blog_4aae9e5801009oq3.html)

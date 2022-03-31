@@ -29,6 +29,7 @@
 - [E](#e-2)
 - [F](#f-1)
 - [G](#g-1)
+- [I](#i)
 - [K](#k)
 - [J](#j-2)
 - [M](#m-1)
@@ -71,7 +72,7 @@
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
 # C
-- Carbon Emission Trading
+- Carbon Emission Trading: CO2交易
 - Company
   - Elon Musk: *A company is an assembly of people, gathered together to create a product or server, and deliver them*
 - Cost centre
@@ -133,6 +134,7 @@
     - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo)
     - [Understanding the Fed's "Money Printer" (QE, the Stock Market, and Inflation)](https://www.youtube.com/watch?v=K3lP3BhvnSo)
       - Videomark: 4-16
+
 
 # J
 - JBR
@@ -235,8 +237,12 @@
   - 固定资产盘点
     - Inventory of Fixed Assets
       - [固定资产盘点方式系列篇第六篇——资产盘点形式](https://zhuanlan.zhihu.com/p/79428431)
-# K
 
+# I
+- ISO 27001
+# K
+- KT
+  - [How to Choose a KT Theory, Model or Framework](https://medium.com/knowledgenudge/how-to-choose-a-kt-theory-model-or-framework-3e79aa534694)
 # J
 - 价格倒挂
 - 产品

@@ -92,6 +92,12 @@
         - 复用代码开发
         - 品质外包公司
     - [中国软件外包现状对比](https://www.cnblogs.com/wujianming-110117/p/15042335.html)
+- IEC 61850
+- IEEE/ISO/IEC 15288
+  - [ISO/IEC 15288](https://en.wikipedia.org/wiki/ISO/IEC_15288)
+  - [ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes](https://www.iso.org/standard/63711.html)
+- INCOSE
+- ISO
 # L
 - 逻辑删除
   - [逻辑删除还是物理删除](https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/04.html)
@@ -156,7 +162,7 @@
 # R
 - Root cause analysis
 # S
-- sed
+- `sed`
   - [Linux Essentials - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)
     - Videomark: 7:03
 - Sharding
@@ -167,6 +173,8 @@
   - [System Model for Syntax Free Coding](https://ieeexplore.ieee.org/document/8978461)
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
+- System design
+  - [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
 # T
 - Transaction
   - QUESTION How to implement transaction in Spring Boot

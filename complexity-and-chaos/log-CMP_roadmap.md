@@ -75,6 +75,7 @@
   - Process 1
     - Style: Life-long pursuit --> Down-to-earth approach
     - Bookmark: 15
+    - JMP 17 21
 - Networks, Crowds, and Markets: Reasoning about a Highly Connected World
   - [link](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 - Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life

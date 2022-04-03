@@ -316,6 +316,8 @@
   - 固定资产盘点
     - Inventory of Fixed Assets
       - [固定资产盘点方式系列篇第六篇——资产盘点形式](https://zhuanlan.zhihu.com/p/79428431)
+# H
+- 霍特林模型
 # K
 
 # J
@@ -357,6 +359,7 @@
 - 一级市场: Primary Market
 - 业务模式
 # Z
+- 中心地理论
 - 资本家
 - 职能资本家
 - 资本消耗补偿: capital consumption allowance

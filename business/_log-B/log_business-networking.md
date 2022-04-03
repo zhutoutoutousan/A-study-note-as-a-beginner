@@ -26,7 +26,8 @@
 ## Negotiation
 - [The art of negotiation: Six must-have strategies | London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c)
 
-
+# Erudition
+- [The 48 Laws of Power](#)
 
 # 2021/6/16
 ## How to show others that you are open to suggestions and capable of ruling out defense mechanisms

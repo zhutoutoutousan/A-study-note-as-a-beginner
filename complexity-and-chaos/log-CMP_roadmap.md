@@ -74,7 +74,7 @@
   - [link](https://math.bme.hu/~gabor/oktatas/SztoM/Newman_Networks.pdf)
   - Process 1
     - Style: Life-long pursuit --> Down-to-earth approach
-    - Bookmark: 15
+    - Bookmark: 26
     - JMP 17 21
 - Networks, Crowds, and Markets: Reasoning about a Highly Connected World
   - [link](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)

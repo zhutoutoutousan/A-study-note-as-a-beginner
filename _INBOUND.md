@@ -1,3 +1,5 @@
+# Advanced
+- Feedly
 # Flow
 - ACTIVE: Set Dynamic Information Inbound Rule every day for minimum psychological disruption
   - 2022/2/7

@@ -7,9 +7,11 @@
 - French - B2
   - Material Track
     - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 10:22
+      - Videomark: 20:28
       - Questions
         - The meso-science, significance within the diversity and intrinsic homogeneity within human beings
+    - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
+      - Videomark: 0:48
   - POINTER CONDITION
     - TOPIC Law, regulation, justice, politics
     - **DELINQUENCY AVOIDANCE** | **POINTER** before noon
@@ -54,3 +56,8 @@
 
 # 2022/4/3
 - HR市场的简历机制本身就是打教育系统的脸, 未来的企业招聘机制应该是直接通过提炼学生从小到大教育经历所积累的大量数据学习, 给予推荐的报告及参考数据集, 这样就可以更好的提升企业的招聘效率和招聘, 同时也可以更好的提升学生的求职能力。 所以未来教育系统改革的关键在于更细致地收集学生数据和报表生成, 在不同阶段的教育系统进行无缝对接
+
+- 轻度放松: Raining Jazz
+
+# 2022/4/4
+- Reading Mathematics is cheap, create software model code out of it

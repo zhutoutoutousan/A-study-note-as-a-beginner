@@ -9,7 +9,7 @@
 - [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://assets.strategyzer.com/assets/resources/business-model-generation-book-preview-2010.pdf&ved=2ahUKEwiV57iT9Pb1AhUAD0QIHaYrA7IQFnoECAsQAQ&usg=AOvVaw18k09LENjoG3BzAkzjqPCI)
      - Bookmark: 
 ## For `this entity`
-- 2022/2/10: If you want to do it, so something great, hence root yourself with insane base
+- 2022/2/10: If you want to do it, do something great, hence root yourself with insane base
   - What's your EXPERTEE: Extensive experience in `IT system` and formidable `Computer Science Sophistication` and `Software Engineering Sophistication` ---> 5-6 years
   - DO YOU UNDERSTAND HOW BUSINESS WORKS: Enough money related skills
   - HAVE YOU DONE THIS BEFORE: Valid-thinking-packed business experience from scratch to medium-sized company

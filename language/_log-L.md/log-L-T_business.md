@@ -222,6 +222,9 @@
 - 产品
   - 垂类平台模式
 # D
+- Dividend
+  - [Dividend - Investopedia](https://www.investopedia.com/terms/d/dividend.asp)
+  - [股息](https://zh.wikipedia.org/wiki/%E8%82%A1%E6%81%AF)
 - 代理商: Agents
 # E
 - 二级市场

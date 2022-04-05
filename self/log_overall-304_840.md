@@ -7,7 +7,7 @@
 - French - B2
   - Material Track
     - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 20:28
+      - Videomark: 37:09/1:23:22
       - Questions
         - The meso-science, significance within the diversity and intrinsic homogeneity within human beings
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
@@ -22,6 +22,7 @@
         - Read **5 page** of a book in French of your choice with `reverso`      
       - INTENSITY: HIGH
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
+          - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - C1
   - Next stage E.T.A 50 days
   - TOPIC Science, technology, engineering
@@ -50,6 +51,7 @@
     - Tangible actions will ensue if both feasibility and self-assumed win-win scenario is present
     - Gradual encroachment is normal among animals, without attempts of encroachment, there would be no clear sense of boundry, which is not very good for future cooperation contrary to normal human beings' believes.
   - VERDICT One has to take a leap of faith, RISKING LOSING one or more nodes of NETWORK RESOURCE, encroach and then take a step back if boundry is met, to avoid the same. BUT, here is a BIG BUT, you need to keep track of others' boundries, especially business partners, spouse, descendents etc. for evolutive relationship management. For network nodes with malicious intent, the nature of management strategy will be drastically different
+  - You need to work well with ENFJ, ESFP, ESFJ, you need them to grow your business
 
 # 闭环痛苦-收益收割器
 
@@ -61,3 +63,7 @@
 
 # 2022/4/4
 - Reading Mathematics is cheap, create software model code out of it
+
+# First Boss encounter
+## Node.js or Python?
+## System Design

@@ -143,7 +143,9 @@ Points to consider
 
 # 2022/3/8
 Those items up there doesn't seem to be applicable to you, because you have to admit that you're simply not an average John Doe all things considered.
+
 ## CAREER GREEN ZONE
+
 ## CAREER DANGER ZONE
 - Repetitive work with no learning
 - Helping others out of a tussle while the system is not perfect
@@ -152,3 +154,16 @@ Those items up there doesn't seem to be applicable to you, because you have to a
 - Constant in-office experience
 - Unbalanced intellectual challenge(Too high or too low)
 - Old and obsolete work items
+
+# 2022/4/5
+- On narcissism and self-obsorbtion, here's what you've learned
+  - You need to actually listen to their weird story, their pursuit, their struggle
+    - It takes more energy, the preview structure of future ROI has been matured over time, but it's far from enough. So the verdict is: Displacement - Very insufficient, Velocity: Very insufficient, Acceleration: Right direction but not big enough
+    - I get baffled cuz they are talking about something I am not familiar with
+  - I think you're not willing to do it cuz you're growing too fast, actually the growing speed surpass every last bit of educational system you detested can offer. So every minute wasted listening to the sub-optimal person in certain timewindow can be sunken cost in the future, and you have this subconscious plan that you would open up when you're plateauing or face the inevitable wall sooner or later
+    - But in the end you must be a good listener, actually the whole practice of simultaneous interpretation itself is geared towards being a better listener rather than being a professional interpretor cuz you were realizing that being able to listen and transmit value is not a soft skill, it's pretty hard-core
+  - There must be something to do about it, cuz the major blockade is that you don't want to waste even a single second on the wrong person as of every timestamp. Yet on the contrary you're constantly pulling yourself in the opposite direction, the thing itself is a sign already. **Maybe you simply can't tell the optimal from sub-optimal, how about just let it flow for some time? Flow in the opposite direction?**
+    - Can serve as a **STATE** with clear, quantifiable action items or behavioural-level manifestation with certain **END DATE** to experiment with detailed report
+  - It points to some peripheral infrastructure you haven't been maintaining for 20 years or so, like how to casual talk, relationship rigor, conversation flow. Usually you short-circuit it with some other leverages, but time will come that even this must be tackled since outsourcing it to the 2C-level relationship automation and simulation is out of the question for the next 20 years
+  - Whatever action items to determine, lift the actual mental weight
+  - ACTION - TO `self-transformation` section, let's see what can be done about it

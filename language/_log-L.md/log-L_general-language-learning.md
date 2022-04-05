@@ -41,10 +41,12 @@
     - Easy Japanese
 - Phase 2
   - Steve Kauffman's osmosis technique
+  - Duolingo Web Version(NOT MOBILE VERSION) + Reverso
 - Phase 3
   - Cultural integration
 - Phase 4
   - Performance-oriented effort
+  - Dual Subtitle
 ## Something that will significantly boost your language skills when binging on YouTube videos
 - Double subtitles
   - PC/Tablets

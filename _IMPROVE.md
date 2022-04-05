@@ -5,6 +5,7 @@
     - [Non-Certifiable](#non-certifiable)
     - [Certifiable](#certifiable)
   - [Handyman's Toolkit](#handymans-toolkit)
+    - [Paid Improvement platform](#paid-improvement-platform)
     - [Certifiable](#certifiable-1)
     - [Non-Certifiable](#non-certifiable-1)
   - [Horus's Eye](#horuss-eye)
@@ -46,6 +47,9 @@
 - Social and Economic Networks: Models and Analysis
   - https://www.coursera.org/learn/social-economic-networks
 ## Handyman's Toolkit
+### Paid Improvement platform
+- Cloud Academy
+  - Business Entity Affiliation required for full-scale exploitation
 ### Certifiable
 - Occupation-related Applied AI Technology curriculum
   - Not applicable

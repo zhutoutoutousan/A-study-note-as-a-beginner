@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64c1bb6d3d16b209",
+        "id": "a22d280a1431f136",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "academic-engineering/_log/_log-AE-training.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "academic-engineering/_log/_log-AE-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "academic-engineering/_log/_log-AE-training.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "academic-engineering/_log/_log-AE-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +121,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "faf60aad82f18c09",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ]
       }
@@ -137,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "64c1bb6d3d16b209",
+  "active": "a22d280a1431f136",
   "lastOpenFiles": [
+    "neuroengineering/_log/_log-NE-ns.md",
+    "202204051716.md",
     "academic-engineering/_log/_log-AE-training.md",
     "_ENTRY.md",
     "software/_log/log-SW-teamplay.md",
@@ -146,8 +148,6 @@
     "language/_log-L.md/log-L-T_en2zh-CI.md",
     "self/log_overall-303_840.md",
     "business/_log-B/log_business-travel.md",
-    "business/_log-B/log_business-RnD.md",
-    "business/_log-B/log_business-innovation.md",
-    "business/_log-B/log_business-BA.md"
+    "business/_log-B/log_business-RnD.md"
   ]
 }

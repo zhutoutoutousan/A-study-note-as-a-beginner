@@ -67,3 +67,7 @@
 # First Boss encounter
 ## Node.js or Python?
 ## System Design
+
+
+# 2022/4/5
+- You don't need to be confined to bed during meditation, you can meditate during work

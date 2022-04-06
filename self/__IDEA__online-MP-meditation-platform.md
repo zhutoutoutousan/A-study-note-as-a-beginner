@@ -1,4 +1,21 @@
 # Business Requirement
+- APP
+  - Halo + Tinder: 配对模式
+    - 配对好的冥想伙伴, 可以加一些competitive的元素游戏化
+  - 欧陆软件: 法语助手/德语助手/西语助手
+    - 同桌互助取暖的
+- 最终版本最好是Web版的
+
+# Role Models & Potential starter or Collaborators
+- Halo
+- Tinder(Socializing)
+# Competitors
+- 喜马拉雅
+  - 喜马拉雅睡眠
+- 睡眠耳机
+
+# APPENDIX: Interview
+
 ```
 我有个想法, 线上多人冥想平台
 
@@ -15,8 +32,3 @@
 
 #lifecoach
 ```
-
-# Competitors
-- 喜马拉雅
-  - 喜马拉雅睡眠
-- 睡眠耳机

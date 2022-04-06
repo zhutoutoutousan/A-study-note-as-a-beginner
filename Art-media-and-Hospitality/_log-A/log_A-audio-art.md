@@ -60,3 +60,5 @@ Jamendo：https://www.jamendo.com
 国际乐谱库：https://cn.imslp.org 
 Audionautix：http://audionautix.com
 ```
+
+# Law & Regulations

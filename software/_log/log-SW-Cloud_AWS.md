@@ -25,6 +25,8 @@
 - [TEST-CORS](https://www.test-cors.org/)
 
 # AWS踩坑树
+- AWS Elastic Beanstalk
+  - `Cannot setup CodeCommit because there is no Source Control setup, continuing with initialization`
 - AWS IAM
   - _best-practices
     - How do you manage AWS Lambda and AWS IAM roles

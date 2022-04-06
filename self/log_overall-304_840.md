@@ -1,5 +1,10 @@
 - Holy cow, I've made it this far, I ain't out of commission yet
 
+# __STATE__
+## MEDITATED
+- Without meditation, your hyper-active brain will sabotage your efficiency by dragging you around millions of shallow stuffs, tons of startup ideas, shallow digging and research. Were they not shallow, you should've started a company already
+- Before starting deep work, start your meditation and meanwhile put the work item & context into your mind
+
 # STICKY Language progression management
 - Goal
   - The **GOAL** has been lost over the last few years
@@ -7,7 +12,7 @@
 - French - B2
   - Material Track
     - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 37:09/1:23:22
+      - Videomark: 42:34/1:23:22
       - Questions
         - The meso-science, significance within the diversity and intrinsic homogeneity within human beings
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
@@ -71,3 +76,9 @@
 
 # 2022/4/5
 - You don't need to be confined to bed during meditation, you can meditate during work
+
+
+# 2022/4/6
+## FROM NOW ON, meditation is a MUST everyday
+- Without meditation, your hyper-active brain will sabotage your efficiency by dragging you around millions of shallow stuffs, tons of startup ideas, shallow digging and research. Were they not shallow, you should've started a company already
+- Before starting deep work, start your meditation and meanwhile put the work item & context into your mind

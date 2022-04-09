@@ -25,6 +25,9 @@
 - [TEST-CORS](https://www.test-cors.org/)
 
 # AWS踩坑树
+- AWS S3
+  - AWS S3 vs AWS DynamoDB?
+    - [Amazon S3 vs DynamoDB: 5 Critical Differences](https://hevodata.com/learn/amazon-s3-vs-dynamodb/)
 - AWS Elastic Beanstalk
   - `Cannot setup CodeCommit because there is no Source Control setup, continuing with initialization`
 - AWS IAM
@@ -54,6 +57,13 @@
           - Treat it like a free hotel
         - Blocked by the BELOVED firewall
 - AWS Lambda
+  - _how-to
+    - Third Party API --> Lambda --> S3
+      - [How to Pull Data from an API, Using AWS Lambda](https://www.youtube.com/watch?v=iiIcS4FlX0M)
+        - Process 1
+          - Style: Hands-on
+          - Videomark: 6:13
+      - [How to Pull Data from an API, Using AWS Lambda](https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/)
   - _best-practices
     - naming tradition for hundreds of functions
   - Inner Code

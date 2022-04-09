@@ -1,5 +1,6 @@
 # Table of Content
 - [Table of Content](#table-of-content)
+- [Sound Engineering & Production - Onboarding](#sound-engineering--production---onboarding)
 - [Why bother](#why-bother)
 - [Italian Artistic Songs](#italian-artistic-songs)
 - [Italian Opera](#italian-opera)
@@ -9,6 +10,18 @@
   - [Basic Tools](#basic-tools)
   - [Sound Resource](#sound-resource)
     - [No copyright](#no-copyright)
+- [Law & Regulations](#law--regulations)
+
+# Sound Engineering & Production - Onboarding
+- Hardware
+  - MIDI keyboard
+  - Arturia keystep
+  - asio4all
+- Software
+  - ableton.com
+- Sound Source
+  - splice.com
+
 
 # Why bother
 - This goes unanimous, it can bring you peace, and the last bit of sense of home

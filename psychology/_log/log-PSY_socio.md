@@ -30,3 +30,17 @@ https://en.wikipedia.org/wiki/Technological_determinism
 
 
 ## Darwinism, Social Darwinism, Neo Darwinsim
+
+
+# 2022/4/7
+- New Concept
+  - Generational Narcissism, Zeitgeist
+    - Q: Can you map it out its landscape? System input/output characteristics?
+      - LOCKED Required furthur ideation, data visualization skill and more
+      - LOCKED #possibleacademiadirection #possibleacademiadirection_social-computing | Despite your effort over the last few months, you still don't have a clue to describe one's inner psychological structure as a system and determine its modeling integrity, even with Jung, Carl Roger's psychology, I found them, floating in the air, if only were they born in digital age can they come up with some brilliant mathematic model that we can use to model the human mind, their behaviour for automatic corporate HR simulation program. And self-based approach is somewhat invalid due to *You can't unring the bell* problem, and study into others will end up in *You can't determine if others are sentient* philosophical paradox
+    - [Generational Narcissism: A Discussion of Millennial Research](#)
+    - [The Narcissistic Millennial Generation: A Study of Personality Traits and Online Behavior on Facebook](https://link.springer.com/article/10.1007/s10804-018-9321-1)
+      - Process 1
+        - Papermark: ...self-esteem, and online...
+        - __to-ref__
+      - Process 2

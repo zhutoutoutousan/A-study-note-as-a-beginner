@@ -6,6 +6,9 @@ From the figure, we can see that the global language market is growing with Engl
 |<b>The Top 10 Most Spoken Language Worldwide</b>|
 |Ref: Visual Capitalist - https://lnkd.in/esY_xVub  |
 
+
+https://www.visualcapitalist.com/mapped-second-primary-languages-around-the-world/
+
 ## Potential Positions
 
 # Portals

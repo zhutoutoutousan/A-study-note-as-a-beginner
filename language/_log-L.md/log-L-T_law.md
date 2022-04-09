@@ -1,3 +1,7 @@
+# Translation Training
+- [数字协议证书](https://docs.google.com/document/d/1oaQDDXzAFp03x7J0Z6w_qe_HQpeZ3_Y-RAp45tzXiH0/edit?usp=sharing)
+
+
 # C
 - Contempt of court
 # D

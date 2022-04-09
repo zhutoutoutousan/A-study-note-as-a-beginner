@@ -59,6 +59,7 @@
 - Dynamic Programming
   - [Dynamic Programming in C++](https://www.cprogramming.com/tutorial/computersciencetheory/dp.html)
 - DHCP
+- Dummy function
 - DLL
   - [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
 # E
@@ -78,6 +79,7 @@
   - [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
 
 # I
+- IoC: Indicator of Compromise
 - IT Outsourcing: 软件外包
   - Current Domestic Player
     - [evget](https://www.evget.com/)
@@ -182,6 +184,7 @@
 # T
 - Transaction
   - QUESTION How to implement transaction in Spring Boot
+- TTP: Tactics, Technique, and Procedures
 - Turing completeness: 图灵完备
   - Wiki
 - Turing machine: 图灵机

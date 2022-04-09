@@ -12,9 +12,10 @@
 - French - B2
   - Material Track
     - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 42:34/1:23:22
-      - Questions
-        - The meso-science, significance within the diversity and intrinsic homogeneity within human beings
+      - Videomark: 58:30/1:23:22
+      - Staged thought stream
+        - Advice: Keep up with, stay on top of, predict the furute *Zeitgeist* - Empathy
+            - Q+1： The mathematical model of *Zeitgeist*
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 0:48
   - POINTER CONDITION

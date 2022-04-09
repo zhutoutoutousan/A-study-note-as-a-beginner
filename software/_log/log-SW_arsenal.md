@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Shiny Object 踩坑树](#shiny-object-踩坑树)
 - [Renovation plan](#renovation-plan)
 - [个人软件开发军火库 - 优选](#个人软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
@@ -31,6 +32,11 @@
   - [E2E test platforms](#e2e-test-platforms)
 - [2021/12/25](#20211225)
   - [Maximize the usage of github copilot](#maximize-the-usage-of-github-copilot)
+
+
+# Shiny Object 踩坑树
+- Copilot
+  - `一直沉睡, 不造啥时候醒来`
 
 # Renovation plan
 

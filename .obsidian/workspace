@@ -7,7 +7,7 @@
         "id": "a22d280a1431f136",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -53,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,6 +138,8 @@
   },
   "active": "a22d280a1431f136",
   "lastOpenFiles": [
+    "__IDEA__boring-housing-estate.md",
+    "software/foundations-and-supports/_index_software_foundations-and-supports.md",
     "neuroengineering/_log/_log-NE-ns.md",
     "202204051716.md",
     "academic-engineering/_log/_log-AE-training.md",
@@ -146,8 +147,6 @@
     "software/_log/log-SW-teamplay.md",
     "software/_log/log-SW-arch.md",
     "language/_log-L.md/log-L-T_en2zh-CI.md",
-    "self/log_overall-303_840.md",
-    "business/_log-B/log_business-travel.md",
-    "business/_log-B/log_business-RnD.md"
+    "self/log_overall-303_840.md"
   ]
 }

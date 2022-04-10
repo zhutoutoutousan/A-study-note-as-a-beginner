@@ -6,3 +6,8 @@ The vocabulary will be stored on secured drive with only permission to yourself
 The articles the same
 
 Translation contest the same
+
+- Workaround: Use Encoding
+
+# P
+- Polemic

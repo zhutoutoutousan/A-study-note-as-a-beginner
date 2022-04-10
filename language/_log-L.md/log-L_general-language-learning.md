@@ -39,6 +39,8 @@
     - 法语助手
     - 西语助手
     - Easy Japanese
+      - 推荐Web版本
+      - [easyjapanese](https://easyjapanese.net/)
 - Phase 2
   - Steve Kauffman's osmosis technique
   - Duolingo Web Version(NOT MOBILE VERSION) + Reverso

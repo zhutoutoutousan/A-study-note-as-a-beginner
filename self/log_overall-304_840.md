@@ -12,9 +12,9 @@
 - French - B2
   - Material Track
     - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 58:30/1:23:22
+      - Videomark: 1:3:30/1:23:22
       - Staged thought stream
-        - Advice: Keep up with, stay on top of, predict the furute *Zeitgeist* - Empathy
+        - Advice: Keep up with, stay on top of, predict the furute *Zeitgeist* - Empathy --> DO: Transfer to STARTUP 101 and REMOVE
             - Q+1： The mathematical model of *Zeitgeist*
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 0:48

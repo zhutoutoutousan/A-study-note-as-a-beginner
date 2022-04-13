@@ -97,3 +97,7 @@ Audionautix：http://audionautix.com
 ```
 
 # Law & Regulations
+- ACRCloud
+  - https://docs.acrcloud.com/metadata/music
+  - https://docs.acrcloud.com/tutorials/recognize-music
+  - 技术问题: support@acrcloud.com

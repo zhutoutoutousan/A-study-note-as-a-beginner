@@ -28,6 +28,13 @@
 - AWS S3
   - AWS S3 vs AWS DynamoDB?
     - [Amazon S3 vs DynamoDB: 5 Critical Differences](https://hevodata.com/learn/amazon-s3-vs-dynamodb/)
+  - `aws s3 ls` runs forever
+    - [After performing a large deletion operation in Amazon S3, the list command is unresponsive. How do I troubleshoot this?](https://aws.amazon.com/premiumsupport/knowledge-center/s3-troubleshoot-unresponsive-list/)
+      - `aws s3api list-objects-v2 --bucket awsexamplebucket` runs forever
+        - `Failed to connect to proxy URL: "https://127.0.0.1:{FXXKING_PORT}/": getaddrinfo ENOTFOUND}"`
+          - [How to Troubleshoot 'Cannot Connect to Proxy' Error - AWS S3](https://stackoverflow.com/questions/52937886/how-to-troubleshoot-cannot-connect-to-proxy-error-aws-s3)
+            - [Using an HTTP proxy](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-proxy.html)
+              - USE PAC
 - AWS Elastic Beanstalk
   - `Cannot setup CodeCommit because there is no Source Control setup, continuing with initialization`
 - AWS IAM

@@ -11,11 +11,50 @@
   - The *system* runs by itself taking up some energy and overhead of this brain
 - French - B2
   - Material Track
-    - [Robert Greene | The Laws of Human Nature | Talks at Google](https://www.youtube.com/watch?v=KcaVhMt71qE)
-      - Videomark: 1:3:30/1:23:22
-      - Staged thought stream
-        - Advice: Keep up with, stay on top of, predict the furute *Zeitgeist* - Empathy --> DO: Transfer to STARTUP 101 and REMOVE
-            - Q+1： The mathematical model of *Zeitgeist*
+    - Udemy - Time Management Mastery: Do More, Stress Less
+      - Coursetrack: 19%
+      - Thought cache
+        - Pomodoro Interval mapping for optimal interval <--> task\(s\) relationship
+        - The *Obit anus, abit onus* problem --> TRANSFER Attach to `deep work` and REMOVE
+          - Thought source
+            - On Noise - Arthur Schopenhauer
+            - [論噪聲—–叔本華](https://www.soundbox.hk/lun-zao-sheng-shu-ben-hua/)
+            - Why
+              - Carlo M. Cipolla opinion on stupid people
+                - My take: If a node doesn't have enough level of sophistication or due to other reasons, failed to uphold a belief, code of conduct, respect for rules, tangible drive for rational interest(wealth, position, admittance, value) etc., then to this node, their core interest will be the net gain of happiness hormone(Oxytocin, testosterone, seretonin, etc.), the capriscous, obsolete part of human nature and there are millions of indecent ways to short-circuit it thus causing chaos around this node. We see stupid people acting as like they have net loss, but in their minds, that tempoary excretion of happiness hormone may be drug to them to survive the day due to their overtly suffering or mal-education, that sums up to 80% of their world while others only 2%
+          - System design
+            - _meta
+              - usage
+            - Scheduling system design
+              - Role model: CPU kernel
+            - Temporary air-tight customized voluntary echo chamber for maximizing context-heavy, huge-timechunk-demanding tasks
+              - _meta
+                - END_DATE REQUIRED
+                - END_CONDITION REQUIRED
+                - GOAL REQUIRED
+                - RATIONALE TEXT
+                - TEMP-ENGRAINING_BEHAVIOUR 
+                - TEMP-RENOUNCING_BEHAVIOUR
+              - SELF_MANIPULATION Makeshift Echo Chamber system design
+                - INBOUND, WHITELIST
+                - OUTBOUND, WHITELIST
+                - TASK_BOUNDRY, WHITELIST
+              - Facts to consider for PDCA
+                - Every self-created air-tight echo chamber will fatigue and will leave yourself with tolerance after a while, consider create a mapping graph for better echo chamber design for better performance
+            - Rigorous defensive physical disturbance factor reduction methodologies
+              - Tools
+                - Sensory system manipulation
+                  - Audio sensor manipulation
+                    - Meditation
+                    - Vocal Music
+                  - Visual sensor manipulation
+            - Public Opinion System interaction Vaccum-timeframe construction
+            - COMM channel vaccum and non-instant-reply makeshift communication system design
+            - __CONTINGENCY_DESIGN__
+              - _meta
+                - Ontology: A nested decision tree with depth of 3
+        - Aversion strategy
+          - Deliberate sabotage
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 0:48
   - POINTER CONDITION
@@ -83,3 +122,7 @@
 ## FROM NOW ON, meditation is a MUST everyday
 - Without meditation, your hyper-active brain will sabotage your efficiency by dragging you around millions of shallow stuffs, tons of startup ideas, shallow digging and research. Were they not shallow, you should've started a company already
 - Before starting deep work, start your meditation and meanwhile put the work item & context into your mind
+
+# 2022/4/12
+## Work categorization
+- Time Chunk Length Mapping

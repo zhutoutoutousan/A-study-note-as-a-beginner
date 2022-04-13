@@ -222,6 +222,7 @@
   - 财政支出
 - 产品
   - 垂类平台模式
+    - [中国垂类应用流量营销价值洞察](http://pg.jrj.com.cn/acc/Res/CN_RES/INDUS/2021/1/4/9e66b1d8-7a0e-41e0-8b86-2a02aee0f7f3.pdf)
 # D
 - Dividend
   - [Dividend - Investopedia](https://www.investopedia.com/terms/d/dividend.asp)

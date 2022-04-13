@@ -116,7 +116,10 @@
       - [Atomics, CAS, and Nonblocking Algorithms (Alexey Fyodorov, Russia)](https://www.youtube.com/watch?v=htbPckvO2zQ)
     - [悲观锁与乐观锁的实现(详情图解)](https://www.modb.pro/db/50596)
     - [不得不说的乐观锁和悲观锁](https://juejin.cn/post/7024337692091482126)
-
+- Load Balancing
+  - [What is Load Balancing? ⚖️ - Gaurav Sen](https://www.youtube.com/watch?v=K0Ta65OqQkY)
+    - Videomark: 100%
+    - [ ] Prerequisite: Number Theory
 # M
 - Many-to-many
   - [wiki](https://en.wikipedia.org/wiki/Many-to-many_(data_model))
@@ -180,7 +183,13 @@
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
 - System design
-  - [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+  - Tools
+    - [JSON size analyzer](https://www.debugbear.com/json-size-analyzer)
+  - Framework
+    - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+  - Practice
+    - [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+    - [System Design: Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)
 # T
 - Transaction
   - QUESTION How to implement transaction in Spring Boot

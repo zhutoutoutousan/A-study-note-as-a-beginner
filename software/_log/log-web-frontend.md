@@ -115,6 +115,7 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 
 
 # 前端踩坑树
+- _结构优化
 - 生命周期
   - 打包
     - [Vue 包大小优化--从 1.72M 到 94K](https://juejin.cn/post/6929839648542425102)
@@ -129,6 +130,63 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
   - three.js
 - 模板引擎
   - SASS
+- 环境配置
+  - npm :)))
+    - `node-sass` build failed问题
+- 通用框架Best practice的均衡认知模型, 实践模型, 全双工均衡复习刺激及超长时段的均衡反局部最优的解决方案
+  - FP <--> OOP
+    - React
+      - 
+  - 組件通訊
+    - _temp: Conversion material track
+      - [ASDASDAD](https://www.cnblogs.com/jpwz/p/12411804.html)
+      - [30分钟精通十种React组件之间通信的方法](https://segmentfault.com/a/1190000023585646)
+        - Conversion Rate: 30%
+      - [react 中父传子，子传父，以及兄弟组件传参问题](https://segmentfault.com/a/1190000021921627)
+      - [React指子组件向父组件传值（转载整理）](https://juejin.cn/post/6844904019995918350)
+    - 父传子
+      - React
+        - _uncategorized
+        - Available Choices
+          - Props
+          - Context
+          - Portals
+          - Global Variables
+          - Observer Pattern
+          - Redux
+          - Parent Component
+          - Instance Methods
+        - Experience 1
+          - Use Case
+          - Procedures
+            - Step 1
+            - Step 2
+          - Ref
+    - 子传父
+      - React
+        - _uncategorized
+        - Available Choices
+          - Callback Functions
+            - Experience 1
+              - Use Case: Menu Switch
+              - Limitations
+                - Functional Component?
+              - Procedures
+                - Step 1
+                - Step 2
+              - Ref
+          - Event Bubbling
+            - Experience 1
+              - Use Case: Menu Switch
+                - Maybe not, if you want to remember the menu selected
+              - Limitations
+                - Class Component?
+              - Caveat
+                - How to pass variables?
+              - Procedures
+                - Step 1
+                - Step 2
+              - Ref
 - Vue
   - Vue常用第三方组件
     - treeselect

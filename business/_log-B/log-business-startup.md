@@ -1,4 +1,56 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Prerequisites](#prerequisites)
+  - [Start-up 101](#start-up-101)
+    - [Ideation](#ideation)
+    - [Design Thinking](#design-thinking)
+    - [Prototype](#prototype)
+    - [MVP](#mvp)
+  - [Erudition](#erudition)
+  - [For `this entity`](#for-this-entity)
+- [Courses](#courses)
+- [Study into pre-cooked meal: 预制菜的研究](#study-into-pre-cooked-meal-预制菜的研究)
+  - [Erudition](#erudition-1)
+  - [Marketing Research](#marketing-research)
+    - [_Information flow](#_information-flow)
+    - [Player research: 玩家洞察](#player-research-玩家洞察)
+      - [中国: 莫小仙](#中国-莫小仙)
+        - [公司实体](#公司实体)
+        - [公司网站](#公司网站)
+        - [公司产品](#公司产品)
+        - [成功元素](#成功元素)
+          - [产品定位](#产品定位)
+          - [目标人群](#目标人群)
+        - [公司供应链](#公司供应链)
+      - [中国: 自嗨锅](#中国-自嗨锅)
+        - [公司实体](#公司实体-1)
+        - [公司网站](#公司网站-1)
+        - [公司供应链](#公司供应链-1)
+  - [Supply chain insight: 供应链洞察](#supply-chain-insight-供应链洞察)
+  - [Staged framework](#staged-framework)
+  - [Outside idea-hierarchy](#outside-idea-hierarchy)
+- [Start Lifecycle Control Center](#start-lifecycle-control-center)
+  - [Idea Phase](#idea-phase)
+    - [Information Pool](#information-pool)
+      - [Flow and Dynamics](#flow-and-dynamics)
+      - [Stakeholders](#stakeholders)
+      - [Documentations](#documentations)
+        - [Business Plan](#business-plan)
+    - [Entities](#entities)
+- [2021/6/17](#2021617)
+  - [Some reading of start-up 101s](#some-reading-of-start-up-101s)
+- [Random](#random)
+- [Naysayer Pathway Study](#naysayer-pathway-study)
+
 # Prerequisites
+## Start-up 101
+### Ideation
+### Design Thinking
+### Prototype
+### MVP
+- [A Step-by-Step Guide to Build a Minimum Viable Product (MVP)](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
+- [PRD Templates And How To Kickstart Your Product Development With The Right Resources](https://www.techmatch.eu/blog/prd-templates)
+- [Stop Worrying About How To Create A PRD; Read This Instead](https://www.techmatch.eu/blog/how-to-create-a-prd#:~:text=This%20should%20cover%20the%20main,a%20result%20from%20their%20efforts.)
 ## Erudition
 - Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking
 - The Business Models Handbook: Templates, Theory and Case Studies

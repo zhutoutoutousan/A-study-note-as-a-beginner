@@ -64,6 +64,8 @@
 
 # A
 - Accounting principle： 会计准则
+- Annualized rate of return: 年化收益率
+  - [MBA](https://wiki.mbalib.com/zh-tw/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87)
 - Assurance services: 鉴证业务
   - [鉴证业务](https://wiki.mbalib.com/zh-tw/%E9%89%B4%E8%AF%81%E4%B8%9A%E5%8A%A1)
 
@@ -145,11 +147,17 @@
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
   - [Litigation risk analysis](https://en.wikipedia.org/wiki/Litigation_risk_analysis)
 # M
+- Margin Call: 追加保证金通知
+  - [Margin call 是什么意思](https://www.tradesmax.com/component/k2/item/4526-margin-call#:~:text=Margin%20Call%20%E6%84%8F%E6%80%9D%E6%98%AF%E8%BF%BD%E5%8A%A0,%E4%BF%9D%E8%AF%81%E9%87%91%E8%A6%81%E6%B1%82%E7%9A%84%E6%9C%80%E5%B0%8F%E9%99%90%E5%BA%A6%E3%80%82)
 - McGregor’s Theory
   - [McGregor’s Theory X vs Theory Y: How to increase performance in your team](https://www.tsw.co.uk/blog/leadership-and-management/mcgregors-theory-x-vs-theory-y/)
 - Mkt cap: (Market Capital)
-
+- MVP 
+  - Minimal Viable Product
+    - [](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
+  - Minimal Valuable Process
 # N
+- NASBA CPE
 - 柠檬市场: Lemon market
   - [The Market for “Lemons:” Quality Uncertainty and the Market Mechanism](https://sites.duke.edu/econ206_01_s2011/files/2012/05/25Akerlof_Lemons_Debreu.pdf)
   - [Imperfect Competition and Efficiency in Lemons Markets](https://ageconsearch.umn.edu/record/270999/files/twerp_939.pdf)

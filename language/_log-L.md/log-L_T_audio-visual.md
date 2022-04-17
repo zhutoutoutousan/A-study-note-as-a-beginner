@@ -1,5 +1,13 @@
 # SDL Trados Skills Improvement Plan
 MONEY PAID, BITCH, EAT IT
+- Ecosystems
+  - Passolo
+  - Trados Enterprise
+  - Trados Live
+  - Tridion
+  - Tridion Sites
+  - XPP
+  - Language Weaver
 - Lessons
   - [SDL Trados Studio 2019 译员初级01-如何翻译 Word 文档](https://www.youtube.com/watch?v=eLxaA6DhaFA)
 - Results

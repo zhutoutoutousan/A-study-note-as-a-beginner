@@ -10,7 +10,7 @@
     - Germany
 - Why
   - Vague feeling: 我在这个人生阶段感兴趣的东西, 只有少部分中国人在水深火热中坚持或者放弃
-
+- 2022/4/13: 无论是走学术还是创业的路, 你都是要离开目前所处的地区及文化圈的
 - 2021/10/28: There's a problem with your further study, by some substrains of local public opinion system, gaining tag of *having studied abroad* will level the playing field favorably by a small margin, however, judging by these a few months' experience, you will always discover the fact of deprecation and misplacement in your previous educational system and will try your best to deviate and achieve a new balance, if you do that, will that happen again?
   - Intuition: No, because you built this, a lot of those touchy-feelies are starting to be negligible
 - 2021/11/28:

@@ -1,10 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [\[NEW QUEST\]: QUANTIFY YOUR PATH TO STRENGTH](#new-quest-quantify-your-path-to-strength)
+- [2022/4/16 Mind palace for home workout](#2022416-mind-palace-for-home-workout)
 - [Beginner's guide](#beginners-guide)
   - [Before you hire a personal trainer](#before-you-hire-a-personal-trainer)
   - [Good influencers - Red-pill-ish](#good-influencers---red-pill-ish)
   - [Maybe-not  influencers](#maybe-not--influencers)
+- [A draft for making graceful downgrade strategy for daily workout](#a-draft-for-making-graceful-downgrade-strategy-for-daily-workout)
 - [STUPID PROBLEMS](#stupid-problems)
 - [Periodized plans](#periodized-plans)
   - [How to make plans](#how-to-make-plans)
@@ -15,8 +17,21 @@
 
 # \[NEW QUEST\]: QUANTIFY YOUR PATH TO STRENGTH
 - You've been training strength, hypertrophy for almost two years, and you have some progress but not optimized, now the power has been decided that you should find a way to quantify your progress so it becomes more controllable and tangible. Do your thing.
+  - 2022/4/16 UPDATE: There are something far more important than strength training
 - Resource
   - [The Perfect Pull Workout (PUSH | PULL | LEGS)](https://www.youtube.com/watch?v=IOl42YpK_Es)
+
+# 2022/4/16 Mind palace for home workout
+- Desired state
+  - I want you to be able to perform the following workout set without consulting your notes, videos, or else
+- [15 Minute Fat Burning Home Workout (NO EQUIPMENT!)](https://www.youtube.com/watch?v=cfetualiJqs&t=49)
+  - Internalization level: 25%
+  - Cheatsheet internalization level: 5%
+  - Recall pathway: Timestamp
+- Fighttips - Leg agility workout
+  - Internalization level: 50%
+  - Cheatsheet internalization level: 15%
+  - Recall pathway: N/A
 
 # Beginner's guide
 ## Before you hire a personal trainer

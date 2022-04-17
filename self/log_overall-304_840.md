@@ -11,50 +11,96 @@
   - The *system* runs by itself taking up some energy and overhead of this brain
 - French - B2
   - Material Track
-    - Udemy - Time Management Mastery: Do More, Stress Less
-      - Coursetrack: 19%
+    - Udemy - Time Management Mastery: Do More, Stress Less --> MOVE TO `_SCHEDULER` and REMOVE on COMPLETION
+      - Coursetrack: 73%
       - Thought cache
-        - Pomodoro Interval mapping for optimal interval <--> task\(s\) relationship
-        - The *Obit anus, abit onus* problem --> TRANSFER Attach to `deep work` and REMOVE
-          - Thought source
-            - On Noise - Arthur Schopenhauer
-            - [論噪聲—–叔本華](https://www.soundbox.hk/lun-zao-sheng-shu-ben-hua/)
-            - Why
-              - Carlo M. Cipolla opinion on stupid people
-                - My take: If a node doesn't have enough level of sophistication or due to other reasons, failed to uphold a belief, code of conduct, respect for rules, tangible drive for rational interest(wealth, position, admittance, value) etc., then to this node, their core interest will be the net gain of happiness hormone(Oxytocin, testosterone, seretonin, etc.), the capriscous, obsolete part of human nature and there are millions of indecent ways to short-circuit it thus causing chaos around this node. We see stupid people acting as like they have net loss, but in their minds, that tempoary excretion of happiness hormone may be drug to them to survive the day due to their overtly suffering or mal-education, that sums up to 80% of their world while others only 2%
-          - System design
-            - _meta
-              - usage
-            - Scheduling system design
-              - Role model: CPU kernel
-            - Temporary air-tight customized voluntary echo chamber for maximizing context-heavy, huge-timechunk-demanding tasks
-              - _meta
-                - END_DATE REQUIRED
-                - END_CONDITION REQUIRED
-                - GOAL REQUIRED
-                - RATIONALE TEXT
-                - TEMP-ENGRAINING_BEHAVIOUR 
-                - TEMP-RENOUNCING_BEHAVIOUR
-              - SELF_MANIPULATION Makeshift Echo Chamber system design
-                - INBOUND, WHITELIST
-                - OUTBOUND, WHITELIST
-                - TASK_BOUNDRY, WHITELIST
-              - Facts to consider for PDCA
-                - Every self-created air-tight echo chamber will fatigue and will leave yourself with tolerance after a while, consider create a mapping graph for better echo chamber design for better performance
-            - Rigorous defensive physical disturbance factor reduction methodologies
-              - Tools
-                - Sensory system manipulation
-                  - Audio sensor manipulation
-                    - Meditation
-                    - Vocal Music
-                  - Visual sensor manipulation
-            - Public Opinion System interaction Vaccum-timeframe construction
-            - COMM channel vaccum and non-instant-reply makeshift communication system design
-            - __CONTINGENCY_DESIGN__
-              - _meta
-                - Ontology: A nested decision tree with depth of 3
-        - Aversion strategy
-          - Deliberate sabotage
+        - Uncategorized
+          - Next Action Date
+          - Due Date
+          - Status
+        - Aha
+          - Record the context of every valid, effective **save & quit** scenarios for huge-timechunk-demanding, concentration-demanding, context-heavy workload and try to extract the basic principle from it
+        - Principle
+          - Having all information in one place
+            - Build a single trusted system
+              - You need ALL the data in one place to properly prioritize
+                - Context switch between all the proprietary systems(if not yours, it's proprietary to you) are very high
+              - Brain dump interface
+                - List everything in your head
+                - Integrate it with your system
+                - Caveat: Rig them with your internal scheduler
+        - Mindset
+          - Planning is real work
+        - Handle Deviation
+          - Overdue tasks: Banish with style
+            - Reason digging(Fish-bone diagram)
+              - External
+                - Haven't asked *X* for help?
+                - Wrong Environment or hiccups?
+                - Distractions?
+              - Internal
+                - Wrong Tool
+                - Missing capability?
+                - Missing Context?
+            - Reprioritize
+          - Handle Emergencies
+            - Self-imposed emergencies
+              - Internal
+                - Memory related
+              - External
+                - New MUST DO
+                  - Solution: Mutual-understanding-based Leeway
+        - Scheduler
+          - Naysayer analysis and efficienct refute pathway
+            - *Planning itself wastes time*
+            - *Aversion to tooling due to High-IQ complex*
+            - *Completing sxxts without a plan with flying colors sounds very bad-ass, HEIL TO SAVAGERY!*
+          - Mid-day prioritization
+            - Pivot, Inquiry, New Context
+            - Air-tight Check
+          - Planning
+            - _func
+              - Save time
+              - Reduce stress
+            - Beginner
+              - End of week planning
+                - Schedule 20-30 minutes on Friday
+                - Do all the normal steps for end of day planning
+                - Review your system for the following week
+            - Intermediate
+            - Advanced
+              - Human CPU kernel
+        - Nitty-gritty
+          - Must do
+          - Quick hit
+          - Nice to haves
+        - Tools
+          - NEW IDEA relentlessly-centralized project management tool
+          - Decision Matrix
+          - Self A/B Testing
+          - Eisenhower Box
+          - Impract/Difficulty Matrix
+          - Software Engineering/Domain specific prioritization best practices framework
+            - [Prioritization Best Practices](https://drive.google.com/file/d/1svCeQhTHvfCeUwqX1Dh-LNwKRjzVWg8l/view?usp=sharing)
+        - Meso-model
+          - Pomodoro Interval mapping for optimal interval <--> task\(s\) relationship
+        - Important Concepts
+          - Integrators VS Segmentor
+            - 70% of the workforce is identified as integrators, 20% of them don't like that
+            - VERDICT Rigorous Integrator
+              - The final scheduler you have will be close to a CPU kernel, you get the gist
+          - Introvert VS Extrovert
+            - VERDICT Ambivert/Introvert, not the limiting factor
+        - IMPLEMENTATION
+          - CONTEXT
+            - TASK Describe one of your craziest day would be, sort the context with the course context above
+          - IMPROVEMENT
+        - DISCOVERED NET LOSS SOURCE
+          - As a highly rigorous integrator, you want to have a unified system both for work and life, there's a frequent context switch between the two as per now, which contributes to GROUND-TRUTH-LEVEL NET LOSS
+            - For entrepreneurial individuals, the idyllic picture of clear sense of boundry can be just as hard as being productive, unless there's a product that can bridge this chasm
+            - Underlying opportunity: Is there a way to bridge this chasm of systems since 70% of the workforce is identified as integrators
+              - Risk brought along with information flow
+              - Explicitedly Controlled information flow channels
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 0:48
   - POINTER CONDITION
@@ -126,3 +172,13 @@
 # 2022/4/12
 ## Work categorization
 - Time Chunk Length Mapping
+
+
+# 2022/4/14
+## Emotional Intelligence
+- To people you care, you need to spark their empathy, instead of demand their empathy
+
+
+# 2022/4/17
+## Z国人的`爽文情结`及其爱好者的心理弱点探究
+- Related project: REAPER OF PAIN

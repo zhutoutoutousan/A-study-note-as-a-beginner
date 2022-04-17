@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Shiny Object 踩坑树](#shiny-object-踩坑树)
+- [Best practice arsenal](#best-practice-arsenal)
 - [Renovation plan](#renovation-plan)
 - [个人软件开发军火库 - 优选](#个人软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
@@ -38,6 +39,12 @@
 - Copilot
   - `一直沉睡, 不造啥时候醒来`
 
+
+# Best practice arsenal
+- Realworld
+  - [Realworld example apps](https://github.com/gothinkster/realworld)
+
+
 # Renovation plan
 
 # 个人软件开发军火库 - 优选
@@ -61,7 +68,6 @@
   - Wappalyzer
 - Escaper
   - Webalizer
-
 - 部署
   - 域名
     - Cloudflare
@@ -77,6 +83,9 @@
 ## Technical
 ### Frontend
 - Tier-1
+  - PoC
+    - API in 5 seconds
+      - directus
   - Design
     - Draw.io+Vscode Extension
   - DP

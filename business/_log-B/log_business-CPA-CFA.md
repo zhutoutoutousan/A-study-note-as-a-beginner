@@ -10,8 +10,11 @@ Asset Allocation
 - ACCA F1
   - Video contents
     - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
-      - Videomark: 8:39
+      - Videomark: 12:36/12:36
+    - [ACCA F1 - 2 Planning, marketing, organisation structure](https://www.youtube.com/watch?v=3vBll0Vz3ks&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=2)
+      - Video: 0:43/10:30
   - _meta
+    - Style: Osmosis
     - _structure
       - The Business Organization and its Structure
       - Organizational Culture and Stakeholders
@@ -24,6 +27,7 @@ Asset Allocation
       - Recruiting and Developing Effective Employees
 
 # Erudition
+- [ACCA ExPress Notes](https://www.theexpgroup.com/students/free-acca-resources/)
 - [THE CHaRTERED PROFESSIONaL aCCOUNTaNT COMPETENCY MaP Understanding the competencies a candidate must demonstrate to become a CPa](https://drive.google.com/file/d/1iyoMMvG-f0KIPBkdXLNE-CIu_paQA9zN/view?usp=sharing)
 # Corporate Finance
 - Source

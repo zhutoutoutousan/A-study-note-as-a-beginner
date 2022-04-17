@@ -1,7 +1,18 @@
 # 设计踩坑树
 - Figma
+  - Best practices
+    - Component management
+  - How To
+    - Frontend
+    - Responsive layout
+      - Elements
+        - Frame
+      - Core Implementation
+        - Fill Container
+        - Auto Layout
   - How to set a rectangle to back
-
+  - Auto Layout doesn't work when copy and pasting
+- Figma JAM
 # Const source
 - Figma Resource
   - [Resource pool 1](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/learn/lecture/22025346#overview)

@@ -124,6 +124,7 @@
 - Many-to-many
   - [wiki](https://en.wikipedia.org/wiki/Many-to-many_(data_model))
   - [Filemaker](https://fmhelp.filemaker.com/help/18/fmp/en/index.html#page/FMP_Help/many-to-many-relationships.html)
+- MTTR: Mean Time To Repair
 # N
 - NAT Gateway
 - News aggregator
@@ -178,6 +179,7 @@
   - [MongoDB - Sharding](https://www.mongodb.com/docs/manual/sharding/#:~:text=Sharding%20is%20a%20method%20for,capacity%20of%20a%20single%20server.)
 - SSM架构
   - [手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis](https://blog.csdn.net/qq598535550/article/details/51703190)
+- STLC(Software Testing Lifecycle)
 - Syntax-free Programming
   - [System Model for Syntax Free Coding](https://ieeexplore.ieee.org/document/8978461)
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
@@ -206,6 +208,8 @@
   - [RSS](https://en.wikipedia.org/wiki/RSS)
   - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
 # V
+- Validation
+- Verification
 - VPC
   - [Doc](https://docs.aws.amazon.com/vpc/latest/userguide/working-with-vpcs.html)
   - [AWS VPC Beginner to Pro](https://www.youtube.com/watch?v=g2JOHLHh4rI&t=3992s)

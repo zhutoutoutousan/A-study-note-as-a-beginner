@@ -3,6 +3,7 @@
 - [Why I should NEVER give up](#why-i-should-never-give-up)
 - [Cram Stew](#cram-stew)
 - [Erudition](#erudition)
+- [全栈踩坑树](#全栈踩坑树)
 - [后端踩坑树](#后端踩坑树)
 - [Learning Path](#learning-path)
 - [Reading](#reading)
@@ -170,6 +171,17 @@
   - Production ready microservices
     - [link](https://github.com/indrabasak/Books/blob/master/Production-Ready%20Microservices.pdf)
 
+
+# 全栈踩坑树
+- Prioritization
+  - Unsorted
+    - MVP
+    - Sprint Design
+    - Brainstorming
+    - Frontend Development
+      - FD_page-development
+    - Backend Development
+      - Auth
 
 # 后端踩坑树
 - Backend

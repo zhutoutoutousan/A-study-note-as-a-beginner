@@ -71,8 +71,13 @@
 - 部署
   - 域名
     - Cloudflare
+- 灵活环境切换
+  - nvm
 - Python
   - [Best-of Web Development with Python](https://github.com/ml-tooling/best-of-web-python)
+- AI/NLP
+  - Deployment
+    - Stremlit
 - CLI
   - `zsh`
     - `zsh-auto-suggestions`

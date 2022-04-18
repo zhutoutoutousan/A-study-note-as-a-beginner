@@ -133,6 +133,13 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 - 环境配置
   - npm :)))
     - `node-sass` build failed问题
+- 脚手架
+  - `create-react-app`
+    - 尊敬的客户,您用的是windows系统
+      - `core.js Can't find system path`云云
+        - 用git bash, 不要用vscode里的
+      - yarn
+        - 不要用yarn
 - 通用框架Best practice的均衡认知模型, 实践模型, 全双工均衡复习刺激及超长时段的均衡反局部最优的解决方案
   - FP <--> OOP
     - React

@@ -183,6 +183,8 @@
 - `sed`
   - [Linux Essentials - The sed Command](https://www.youtube.com/watch?v=nXLnx8ncZyE)
     - Videomark: 7:03
+- SEPG
+  - Software Engineering Process Group
 - Sharding
   - [MongoDB - Sharding](https://www.mongodb.com/docs/manual/sharding/#:~:text=Sharding%20is%20a%20method%20for,capacity%20of%20a%20single%20server.)
 - SSM架构

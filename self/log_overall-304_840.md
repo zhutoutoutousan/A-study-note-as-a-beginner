@@ -57,6 +57,9 @@
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - A1
   - ON HALT
+  - WHIM Daily Alphabet Recap
+  - Symbol Proficiency
+    - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
   - ON HALT
@@ -115,3 +118,10 @@
 
 # 2022/4/16
 - 也许成熟就是思维认知由C转向B/G的过程吧
+
+
+# 2022/4/19
+- Plug the energy leak: Don't get short-circuited to learning Arabic
+
+# 2022/4/20
+- In the future, a job will be just another form of video game, except that a traditional video game consumes value, but a job as a video game generates value

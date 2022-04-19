@@ -38,7 +38,9 @@
 # Shiny Object 踩坑树
 - Copilot
   - `一直沉睡, 不造啥时候醒来`
-
+- Docker
+  - Docker: WSL 2 integration with distro Ubuntu 20.04 unexpectedly stopped with exit code 1
+    - `The command 'docker' could not be found in this WSL 2 distro. We recommend to activate the WSL integration in Docker Desktop settings.`
 
 # Best practice arsenal
 - Realworld
@@ -60,6 +62,15 @@
         - onPremise2AWS
     - AWS
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
+        - Videomark: 13:09
+  - On-premise
+    - Distributed Solution
+      - Kafka
+      - Spark
+    - Containerized Cluster
+      - Kubernetes
+      - Docker
+        - [playground](https://labs.play-with-docker.com/)
 - 技术设计
   - Architecture Design
     - Cloudcraft

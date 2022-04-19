@@ -40,6 +40,10 @@
 - AWS IAM
   - _best-practices
     - How do you manage AWS Lambda and AWS IAM roles
+    - Batch CLI user management
+      - Profile name management and switching
+      - Tools for batch management?
+      - Where to store the credentials?
 - AWS Cloudwatch
   - API Gateway/Lambda出错, Cloudwatch不报错
     - callback如果500,400,403,404,500,503,504,请求失败等不触发Cloudwatch?

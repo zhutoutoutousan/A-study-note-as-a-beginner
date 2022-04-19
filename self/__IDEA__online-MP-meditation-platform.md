@@ -31,4 +31,13 @@
 有关合规性的问题我没怎么关注, just my two cents
 
 #lifecoach
+
+Mainly at this moment, a lot of people (besides those like you who already had experience with therapeutic soundscape ) has  some sort of insecurities when approached with a sound-oriented “meditative” app 
+
+So my current goal is potentially tone down its therapeutic functionality to something more grounded and relatable to the locals
+
+That’s actually a good point. What do you envision , content -wise, in your ideal 众人冥想community？
+
+My head is blowing off, still got dev work It's like, you have blind matching like tinder (blind match), or you can choose specific group, or guided by professionals/mental health advisor. Just a quick thought, got tons of  stuffs at work
+
 ```

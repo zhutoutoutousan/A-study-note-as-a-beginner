@@ -30,6 +30,14 @@
 # B
 - BGP
     - [Border Gateway Protocol - wiki](https://en.m.wikipedia.org/wiki/Border_Gateway_Protocol)
+- BST
+  - _meta
+    - _struct
+      - Properties
+        - The left subtree of a node contains only nodes with keys lesser than the node’s key.
+        - The right subtree of a node contains only nodes with keys greater than the node’s key.
+        - The left and right subtree each must also be a binary search tree.
+  - [Binary Search Tree - Geeksforgeeks](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 - 悲观锁
 # C
 - Callback

@@ -133,6 +133,8 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 - 环境配置
   - npm :)))
     - `node-sass` build failed问题
+      - self signed certificate
+      - python version --> set python version
 - 脚手架
   - `create-react-app`
     - 尊敬的客户,您用的是windows系统

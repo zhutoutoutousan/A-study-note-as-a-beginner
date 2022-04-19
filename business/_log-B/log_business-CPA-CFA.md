@@ -7,7 +7,7 @@ Asset Allocation
 - [CPA Books and Study Guide](https://www.wallstreetmojo.com/cpa-study-guide-books/)
 
 # Fill her up over coffee break
-- ACCA F1
+- ACCA F1 --> Lent to `log_overall-304_840`
   - Video contents
     - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
       - Videomark: 12:36/12:36

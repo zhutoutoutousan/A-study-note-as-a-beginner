@@ -11,8 +11,28 @@
   - The *system* runs by itself taking up some energy and overhead of this brain
 - French - B2
   - Material Track
+    - ACCA F1 --> Borrowed from section `CFA CPA`
+      - Video contents
+        - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
+          - Videomark: 12:36/12:36
+        - [ACCA F1 - 2 Planning, marketing, organisation structure](https://www.youtube.com/watch?v=3vBll0Vz3ks&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=2)
+          - Video: 0:43/10:30
+      - _meta
+        - Style: Osmosis
+        - _structure
+          - The Business Organization and its Structure
+          - Organizational Culture and Stakeholders
+          - IT in business
+          - Ethics and Corporate Governance
+          - ESG
+          - History and Role of Accounting in Business
+          - Specific Functions of Accounting and Internal Financial Control
+          - Leading and Managing Individuals and Teams
+          - Recruiting and Developing Effective Employees
+    - Being Strategic: Thinking and Acting with Impact
+      - Coursemark: 8.3%
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
-      - Videomark: 0:48
+      - Videomark: 5:14/2:05:53
   - POINTER CONDITION
     - TOPIC Law, regulation, justice, politics
     - **DELINQUENCY AVOIDANCE** | **POINTER** before noon

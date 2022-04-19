@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Prerequisites](#prerequisites)
   - [Start-up 101](#start-up-101)
+    - [Communication](#communication)
     - [Ideation](#ideation)
     - [Design Thinking](#design-thinking)
     - [Prototype](#prototype)
@@ -44,6 +45,10 @@
 
 # Prerequisites
 ## Start-up 101
+### Communication
+- Email Etiquette 101
+  - [16 email etiquette rules for communicating in the workplace](https://front.com/blog/email-etiquette-rules-in-the-workplace)
+  - [Email Etiquette: The Dos and Don’ts of Professional Emails](https://www.businessnewsdaily.com/8262-email-etiquette-tips.html)
 ### Ideation
 ### Design Thinking
 ### Prototype

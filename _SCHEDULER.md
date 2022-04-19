@@ -3,6 +3,8 @@
 ## Minimum Viable Close-loop Communication Component
 ## Save & Quit Criteria Mapping for Context-heavy tasks
 
+# Erudition
+- Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理
 
 # Scheduler Challenges for software developer
 - Software Development 

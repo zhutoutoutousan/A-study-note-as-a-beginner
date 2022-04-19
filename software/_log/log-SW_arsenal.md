@@ -48,6 +48,18 @@
 # Renovation plan
 
 # 个人软件开发军火库 - 优选
+- Startup Toolchain
+  - Ideation
+  - Prototype
+  - MVP
+    - _meta
+      - Migration Cost of Change model
+        - AWS2Azure
+        - Azure2AWS
+        - AWS2onPremise
+        - onPremise2AWS
+    - AWS
+      - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
 - 技术设计
   - Architecture Design
     - Cloudcraft

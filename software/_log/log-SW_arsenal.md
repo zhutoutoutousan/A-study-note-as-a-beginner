@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Shiny Object 踩坑树](#shiny-object-踩坑树)
+- [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
 - [Renovation plan](#renovation-plan)
 - [个人软件开发军火库 - 优选](#个人软件开发军火库---优选)
@@ -42,6 +43,9 @@
   - Docker: WSL 2 integration with distro Ubuntu 20.04 unexpectedly stopped with exit code 1
     - `The command 'docker' could not be found in this WSL 2 distro. We recommend to activate the WSL integration in Docker Desktop settings.`
 
+# Unidentified tools
+- Bridgecrew
+
 # Best practice arsenal
 - Realworld
   - [Realworld example apps](https://github.com/gothinkster/realworld)
@@ -68,9 +72,15 @@
       - Kafka
       - Spark
     - Containerized Cluster
-      - Kubernetes
+      - Kubernetes 
       - Docker
         - [playground](https://labs.play-with-docker.com/)
+  - DL
+    - PyTorch
+    - PaddlePaddle
+  - Load Testing
+    - Locust
+    - BlazeMeter
 - 技术设计
   - Architecture Design
     - Cloudcraft

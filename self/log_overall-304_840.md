@@ -7,16 +7,23 @@
 
 # STICKY Language progression management
 - Goal
+  - New Goal E.T.A 120 days as of 2022/04/20
   - The **GOAL** has been lost over the last few years
+    - Due to fundamental, radical disappointment to the inefficient nature of Humanity as a whole
   - The *system* runs by itself taking up some energy and overhead of this brain
 - French - B2
   - Material Track
+    - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
     - ACCA F1 --> Borrowed from section `CFA CPA`
       - Video contents
         - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
           - Videomark: 12:36/12:36
         - [ACCA F1 - 2 Planning, marketing, organisation structure](https://www.youtube.com/watch?v=3vBll0Vz3ks&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=2)
-          - Video: 0:43/10:30
+          - Videomark: 10:30/10:30
+        - [ACCA F1 - 3 Span of control, scalar chain, (de) centralisation](https://www.youtube.com/watch?v=WKJKPT_TXDg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=3)
+          - Videomark: 6:45/6:45
+        - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
+          - Videomark: 2:25/9:25
       - _meta
         - Style: Osmosis
         - _structure
@@ -53,11 +60,22 @@
   - TOPIC Project, Product, Service
   - TOPIC Innovation
 - Portuguese - A2
+  - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - A1
-  - ON HALT
+  - ON HALT | Energy leak by language addiction
   - WHIM Daily Alphabet Recap
+  - RANDOM The future foundational ability of prospective entrepreneur
+    - MICRO Typing Speed of no less than 200 WPM
+    - MESO | MOBA proficiency
+      - Communication rigor
+      - Politics rigor
+      - Execution rigor
+      - Regulation exploitation rigor
+      - Expertee
+      - Context-driven raw intelligence or pre-built mental facility
+    - MACRO TBD
   - Symbol Proficiency
     - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
@@ -125,3 +143,11 @@
 
 # 2022/4/20
 - In the future, a job will be just another form of video game, except that a traditional video game consumes value, but a job as a video game generates value
+
+
+# Existential Knock
+- Graceful usage drain for protein
+
+# 2022/4/21
+## Enviness Pathway Research
+- Expectation of law of conservation of energy

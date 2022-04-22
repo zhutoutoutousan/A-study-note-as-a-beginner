@@ -1,10 +1,20 @@
 # Community
 - [Hacker](https://www.hacker.org/)
 
-# 安全挖坑树
+# 攻防挖坑树
 - Get all avaialable API endpoint of a site
   - skipfish
 
+# 攻防踩坑树
+- `x-powered-by`
+- Kali
+  - Configuration
+    - Nessus
+      - `System has not been booted with systemd as init system (PID 1). Can't operate.`
+        - [Reason: Your Linux system is not using systemd](https://linuxhandbook.com/system-has-not-been-booted-with-systemd/)
+        - [[3 Fixes] System Has Not Been Booted With Systemd as Init System [Partition Manager]](https://www.partitionwizard.com/partitionmanager/system-not-booted-with-systemd-as-init.html)
+          - [Running Snaps on WSL2 (Insiders only for now)](https://forum.snapcraft.io/t/running-snaps-on-wsl2-insiders-only-for-now/13033)
+    - ProxyChain
 # Guided Source
 - Reverse Engineering
   - [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
@@ -14,6 +24,12 @@
   - Videomark: 1:00:19
 - Wireshark数据包分析实战详解
   - Bookmark: 4
+- Kali Linux渗透测试技术详解 - Paperback
+  - Style: Hands-on
+  - Process 1
+    - Env: Kali WSL2
+    - Bookmark: 42
+      - Stuck On Nessus installation
 # Defend
 ## Network
 - Disable X-Forwarded-For(XFF) Header

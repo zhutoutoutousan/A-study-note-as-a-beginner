@@ -135,6 +135,8 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
     - `node-sass` build failed问题
       - self signed certificate
       - python version --> set python version
+- 软件开发的折旧管理
+  - [substr deprecated](https://stackoverflow.com/questions/52640271/why-is-string-prototype-substr-deprecated)
 - 脚手架
   - `create-react-app`
     - 尊敬的客户,您用的是windows系统

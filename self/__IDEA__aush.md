@@ -10,3 +10,6 @@
 - Step 3: Contact `github copliot` or find API for it
 - Step 4: Integration feasibility study
 - Step 5: Developement and testing
+
+# ALREADY EXIST
+- [posh_codex](https://github.com/rishi255/posh_codex)

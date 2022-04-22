@@ -273,8 +273,9 @@
 # W
 - 无形资产: Intangible Assets
 # O
-- BUSINESS
-  - 经营风险: Operating Risk SYMBOL cycle+'!'
+- 经营风险: Operating Risk SYMBOL cycle+'!'
+- O2O
+  - [Online-To-Offline (O2O) Commerce](https://www.investopedia.com/terms/o/onlinetooffline-commerce.asp#:~:text=Online%2Dto%2Doffline%20(O2O)%20commerce%20identifies%20customers%20in,to%20leave%20the%20online%20space.)
 # P
 - 品牌价值: Brand Value
 
@@ -334,7 +335,7 @@
 # H
 - 霍特林模型
 # K
-
+- Knowledge Staff
 # J
 - 价格倒挂
 - 产品

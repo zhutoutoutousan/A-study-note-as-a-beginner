@@ -23,7 +23,24 @@
         - [ACCA F1 - 3 Span of control, scalar chain, (de) centralisation](https://www.youtube.com/watch?v=WKJKPT_TXDg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=3)
           - Videomark: 6:45/6:45
         - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
-          - Videomark: 2:25/9:25
+          - Videomark: 9:25/9:25
+          - NEW Concept of Interest --> MOVE TO `*-T_business` and REMOVE
+            - Schein's theory on coporate culture
+            - Handy's theory ~
+            - Hofstede's theory ~
+        - [ACCA F1 - 5 Stakeholders](https://www.youtube.com/watch?v=vlxXCfvp568&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=5)
+          - Videomark: 3:46/5:48
+          - WARNING: Time overrun by 46 seconds
+          - CONCERN: Detecting memory-level structural decay, retrievable by just-in-time recap with pre-built/pre-collected structural recall
+            - REFUTED Actions rejected due to Osmosis learning style to learn French with a topic of interest
+          - Basic Terminology Build-up
+            - WARNING Abscence of centralized knowledge structure of business organization, alternative store of sector-based language store for translation won't work for this scenario
+              - ACTION CREATE A makeshift term-base in `CFA-CPA` sector and REMOVE
+              - CONCERN Repetitive work due to redundancy of two systems
+              - VERDICT You learn it now to forget, so it could come to help with future business needs instead of getting pedantic and trapped in sea of concepts and frameworks
+          - NEW C.O.I
+            - Mendelow's Matrix
+              - IDEA Digital Power
       - _meta
         - Style: Osmosis
         - _structure

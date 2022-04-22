@@ -1,0 +1,1 @@
+`I always feel like there is THE RIGHT TRAINING with the right does of gamification, explicit value pathways to stimulate the brain the S.M.A.R.T way`

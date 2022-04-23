@@ -38,3 +38,11 @@ Check: #possibleacademiadirection for choosing major
 
 # Startup CEO build-up
 - Either way, you need to migrate
+- 干好小事所花的精力, 投入, 资源一点也不比干成大事来的少
+  - 常年停留于**干好小事** ain't gonna cut it
+  - 干好小事可以作为干大事的前提, 但是需要有书面的积累
+    - 积累**干好一件事**需要的通用心理状态, 认知, 知识, 技能以及资源是很重要的
+  - Ref: Cloud-driven design
+  - 多年的自我探索和尝试的结果是
+    - 不正常: 不能按正常人的框架来束缚自己
+    - 宿命: 做出改变世界的产品, 建立一个商业帝国

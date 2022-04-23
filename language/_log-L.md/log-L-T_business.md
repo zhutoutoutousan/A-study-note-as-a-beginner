@@ -16,6 +16,7 @@
 - [P](#p)
 - [R](#r)
 - [S](#s)
+- [T](#t)
 - [Y](#y)
 - [V](#v)
 - [Z](#z)
@@ -37,7 +38,7 @@
 - [O](#o)
 - [P](#p-1)
 - [S](#s-2)
-- [T](#t)
+- [T](#t-1)
 - [X](#x)
 - [Y](#y-1)
 - [Z](#z-1)
@@ -53,7 +54,7 @@
 - [O](#o-1)
 - [P](#p-2)
 - [S](#s-3)
-- [T](#t-1)
+- [T](#t-2)
 - [X](#x-1)
 - [Y](#y-2)
 - [Z](#z-2)
@@ -64,6 +65,7 @@
 
 # A
 - Accounting principle： 会计准则
+- Aged Debtor： 债务人账龄
 - Annualized rate of return: 年化收益率
   - [MBA](https://wiki.mbalib.com/zh-tw/%E5%B9%B4%E5%8C%96%E6%94%B6%E7%9B%8A%E7%8E%87)
 - Assurance services: 鉴证业务
@@ -167,6 +169,7 @@
   - [Creating a Project Budget – A Complete Guide](https://www.proprofsproject.com/blog/creating-a-project-budget/)
 
 # R
+- RAID
 - Rank bidding
   - [MBA](https://wiki.mbalib.com/wiki/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D)
 - Real estate developer: 开发商/ 地产发展商
@@ -182,6 +185,10 @@
   - [怎么区分商业转载跟非商业转载？](https://www.zhihu.com/question/38767946)
 - Skin in the game
   - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
+
+# T
+- Trade debtor
+  - [您需要了解的坏账与会计](https://www.yycadvisors.com/accounting-service.html)
 
 # Y
 - 一锤子买卖

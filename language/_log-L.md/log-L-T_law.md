@@ -1,6 +1,25 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Translation Training](#translation-training)
+- [_DICT](#_dict)
+- [C](#c)
+- [D](#d)
+- [L](#l)
+- [M](#m)
+- [P](#p)
+- [R](#r)
+- [Basics](#basics)
+- [Source](#source)
+- [2021/7/8](#202178)
+  - [Wei3 yue1 jin1](#wei3-yue1-jin1)
+- [Law Terms](#law-terms)
+  - [J](#j)
+
 # Translation Training
 - [数字协议证书](https://docs.google.com/document/d/1oaQDDXzAFp03x7J0Z6w_qe_HQpeZ3_Y-RAp45tzXiH0/edit?usp=sharing)
 
+# _DICT
+- [Law Insider](https://www.lawinsider.com/dictionary/)
 
 # C
 - Contempt of court
@@ -21,6 +40,8 @@
 
 # R
 - Recidivism
+- Restricted Entity
+  - [Restricted Entities definition](https://www.lawinsider.com/dictionary/restricted-entities#:~:text=Restricted%20Entities%20means%20any%20chain,Funds)%20of%20any%20such%20company.)
 # Basics
 - [“article”及编、章、节、条、款、项、目的翻译](https://legaltranz.com/archives/4284)
 

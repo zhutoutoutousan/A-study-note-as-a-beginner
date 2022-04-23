@@ -29,18 +29,26 @@
             - Handy's theory ~
             - Hofstede's theory ~
         - [ACCA F1 - 5 Stakeholders](https://www.youtube.com/watch?v=vlxXCfvp568&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=5)
-          - Videomark: 3:46/5:48
-          - WARNING: Time overrun by 46 seconds
-          - CONCERN: Detecting memory-level structural decay, retrievable by just-in-time recap with pre-built/pre-collected structural recall
+          - Videomark: 5:48/5:48
+          - WARNING: Time overrun by 46 seconds --> REMOVE
+          - CONCERN: Detecting memory-level structural decay, retrievable by just-in-time recap with pre-built/pre-collected structural recall --> REMOVE
             - REFUTED Actions rejected due to Osmosis learning style to learn French with a topic of interest
-          - Basic Terminology Build-up
+          - Basic Terminology Build-up --> REMOVE
             - WARNING Abscence of centralized knowledge structure of business organization, alternative store of sector-based language store for translation won't work for this scenario
-              - ACTION CREATE A makeshift term-base in `CFA-CPA` sector and REMOVE
               - CONCERN Repetitive work due to redundancy of two systems
               - VERDICT You learn it now to forget, so it could come to help with future business needs instead of getting pedantic and trapped in sea of concepts and frameworks
           - NEW C.O.I
-            - Mendelow's Matrix
+            - Mendelow's Matrix --> MOVE to `*-T_business` and REMOVE
               - IDEA Digital Power
+        - [ACCA F1 - 6 Committees](https://www.youtube.com/watch?v=Hl17fQ7WfbM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=6)
+          - Videomark: 3:21/3:21
+        - [ACCA F1 - 7 Information systems](https://www.youtube.com/watch?v=uMXdk1UbRRw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=7)
+          - Course Completion: 4%
+          - Videomark: 5:22/8:02
+          - WARNING: Time overrun by 22 seconds
+          - NEW C.O.I
+            - Information system --> TRANSFER TO `-T_software` and REMOVE
+              - A.C.C.U.R.A.T.E
       - _meta
         - Style: Osmosis
         - _structure
@@ -182,7 +190,7 @@
       - 在这个所谓self-coaching笔记里找
   - NEW HABIT: teamplay case study
 - ENTJ | Manager-like personality
-  - 珍惜能在企业内部创业的机会
+  - 珍惜能在企业里参与内部创业的机会
   - 如果在MVP情况下, 不要想着我可以不可以把这个role做到80%或者70%, 如果大家都是接口型, 对你的realm不熟悉, 处于layman level, 或者处于silo型沟通, 或者没有足够时间,或者给予足够信任状态下, 那必须得调动资源把认知范围之内的role做到120%, 处于100%以下是一定会出问题的, 要不是fail to follow-up just in time
     - 不要希望于自我欺骗: 
       1. 别人会把沟通搞定 
@@ -192,6 +200,7 @@
       3. `学习`很重要, 但不要寄希望于自己可以通过`学习`来搞定
         - Reasoning
           1. 管理本身就是一个逐层抽象, 风险信托的过程, 而在执行层中`学习`的对象是一个具象的流程, 学习的结果是流程产出的`效率`和`质量`的提升, 具有高度的执行者可替代性, 那作为执行层的role, 1. 通过沟通协调调动合适的资源, 2. 独立学习, 哪个更有价值? 哪个更能够规避风险? 明显是第一个
+            - SUCCESS Persuasion successful
       4. Mental Dump 
          1. *我不需要去跟进, 跟进了说明自己不牛逼* 
            - 有毛病不?
@@ -199,8 +208,10 @@
          2. *跟进了, 别人会认为自己不牛逼, 太辣鸡*
            - 有毛病不?
          - `( •̀ ω •́ )y`
-           - 1. 我受不鸟惹 xD
+           - 1. 好累啊 xD
            - 2. 我木有经验 (｡･∀･)ﾉﾞ
            - 3. 搞砸了中模板 (((φ(◎ロ◎;)φ)))
 - INTJ/INTP | Thinker-like personality
   - 全自动role-based沟通模型 --> IDEA
+- **CPU**:
+  - We need to find a way to stop yourself from being short-circuited to language learning and to digging in the code base that matters more when your energy level is low. When you're fully recharged, it won't matter.

@@ -153,10 +153,13 @@
 
 # 2022/4/16
 - 也许成熟就是思维认知由C转向B/G的过程吧
+  - 2022/4/23: 间歇性, 可规避性头痛转向持续性, 不可规避性头痛的过程 xD
+    - 通讯协议设计的最佳实践嵌入日常沟通 头痛点+1
 
 
 # 2022/4/19
 - Plug the energy leak: Don't get short-circuited to learning Arabic
+  - Don't you worry, you're gonna fail anyway xD
 
 # 2022/4/20
 - In the future, a job will be just another form of video game, except that a traditional video game consumes value, but a job as a video game generates value
@@ -168,3 +171,36 @@
 # 2022/4/21
 ## Enviness Pathway Research
 - Expectation of law of conservation of energy
+
+# 2022/4/23
+- 最近通过你自己做事的方法我可以总结出你的某些行事风格 --> `business_teamplay`
+  - 通过与国际MVP团队的沟通过程中, 我发现了你某些行事上的问题
+    - Case 1
+    - 可是和UI/UX, SME沟通过程有木有现成框架可以用呀?
+      - Google
+      - 问人
+      - 在这个所谓self-coaching笔记里找
+  - NEW HABIT: teamplay case study
+- ENTJ | Manager-like personality
+  - 珍惜能在企业内部创业的机会
+  - 如果在MVP情况下, 不要想着我可以不可以把这个role做到80%或者70%, 如果大家都是接口型, 对你的realm不熟悉, 处于layman level, 或者处于silo型沟通, 或者没有足够时间,或者给予足够信任状态下, 那必须得调动资源把认知范围之内的role做到120%, 处于100%以下是一定会出问题的, 要不是fail to follow-up just in time
+    - 不要希望于自我欺骗: 
+      1. 别人会把沟通搞定 
+      2. 别人就算把沟通搞定了, 事情也会落实 
+        - 有毛病不?
+        - 怎么做?
+      3. `学习`很重要, 但不要寄希望于自己可以通过`学习`来搞定
+        - Reasoning
+          1. 管理本身就是一个逐层抽象, 风险信托的过程, 而在执行层中`学习`的对象是一个具象的流程, 学习的结果是流程产出的`效率`和`质量`的提升, 具有高度的执行者可替代性, 那作为执行层的role, 1. 通过沟通协调调动合适的资源, 2. 独立学习, 哪个更有价值? 哪个更能够规避风险? 明显是第一个
+      4. Mental Dump 
+         1. *我不需要去跟进, 跟进了说明自己不牛逼* 
+           - 有毛病不?
+           - 怎么做?
+         2. *跟进了, 别人会认为自己不牛逼, 太辣鸡*
+           - 有毛病不?
+         - `( •̀ ω •́ )y`
+           - 1. 我受不鸟惹 xD
+           - 2. 我木有经验 (｡･∀･)ﾉﾞ
+           - 3. 搞砸了中模板 (((φ(◎ロ◎;)φ)))
+- INTJ/INTP | Thinker-like personality
+  - 全自动role-based沟通模型 --> IDEA

@@ -147,7 +147,8 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 - 通用框架Best practice的均衡认知模型, 实践模型, 全双工均衡复习刺激及超长时段的均衡反局部最优的解决方案
   - FP <--> OOP
     - React
-      - 
+      - CSS Scope
+        - [How to make React CSS import component-scoped?](https://stackoverflow.com/questions/47090574/how-to-make-react-css-import-component-scoped)
   - 組件通訊
     - _temp: Conversion material track
       - [ASDASDAD](https://www.cnblogs.com/jpwz/p/12411804.html)

@@ -195,6 +195,8 @@
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
 - System design
+  - Philosophy
+    - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
   - Tools
     - [JSON size analyzer](https://www.debugbear.com/json-size-analyzer)
   - Framework

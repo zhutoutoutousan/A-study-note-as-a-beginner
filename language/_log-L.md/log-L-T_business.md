@@ -9,6 +9,7 @@
 - [F](#f)
 - [G](#g)
 - [H](#h)
+- [I](#i)
 - [J](#j)
 - [L](#l)
 - [M](#m)
@@ -30,7 +31,7 @@
 - [E](#e-2)
 - [F](#f-1)
 - [G](#g-1)
-- [I](#i)
+- [I](#i-1)
 - [K](#k)
 - [J](#j-2)
 - [M](#m-1)
@@ -80,6 +81,10 @@
 - Carbon Emission Trading: CO2交易
 - Company
   - Elon Musk: *A company is an assembly of people, gathered together to create a product or server, and deliver them*
+- Corporate Culture
+  - Schein's theory on coporate culture
+  - Handy's theory ~
+  - Hofstede's theory ~
 - Cost centre
   - https://en.wikipedia.org/wiki/Cost_centre_(business)
 - Cost overrun: 成本超支
@@ -140,6 +145,14 @@
     - [Understanding the Fed's "Money Printer" (QE, the Stock Market, and Inflation)](https://www.youtube.com/watch?v=K3lP3BhvnSo)
       - Videomark: 4-16
 
+# I
+- Information System
+  - A.C.C.U.R.A.T.E
+  - Types
+    - TPS
+    - MIS
+    - DSS
+    - EIS
 
 # J
 - JBR
@@ -274,6 +287,8 @@
   - 激活转化
 
 # M
+- Mendelow's Matrix
+  - IDEA Digital Power
 - 马赛克理论
   - [CFA一级中文解读：马赛克理论和投资调查报告](https://zhuanlan.zhihu.com/p/151705041)
 

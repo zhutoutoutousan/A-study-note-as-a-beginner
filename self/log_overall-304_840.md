@@ -24,31 +24,19 @@
           - Videomark: 6:45/6:45
         - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
           - Videomark: 9:25/9:25
-          - NEW Concept of Interest --> MOVE TO `*-T_business` and REMOVE
-            - Schein's theory on coporate culture
-            - Handy's theory ~
-            - Hofstede's theory ~
         - [ACCA F1 - 5 Stakeholders](https://www.youtube.com/watch?v=vlxXCfvp568&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=5)
           - Videomark: 5:48/5:48
-          - WARNING: Time overrun by 46 seconds --> REMOVE
-          - CONCERN: Detecting memory-level structural decay, retrievable by just-in-time recap with pre-built/pre-collected structural recall --> REMOVE
-            - REFUTED Actions rejected due to Osmosis learning style to learn French with a topic of interest
-          - Basic Terminology Build-up --> REMOVE
-            - WARNING Abscence of centralized knowledge structure of business organization, alternative store of sector-based language store for translation won't work for this scenario
-              - CONCERN Repetitive work due to redundancy of two systems
-              - VERDICT You learn it now to forget, so it could come to help with future business needs instead of getting pedantic and trapped in sea of concepts and frameworks
-          - NEW C.O.I
-            - Mendelow's Matrix --> MOVE to `*-T_business` and REMOVE
-              - IDEA Digital Power
         - [ACCA F1 - 6 Committees](https://www.youtube.com/watch?v=Hl17fQ7WfbM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=6)
           - Videomark: 3:21/3:21
         - [ACCA F1 - 7 Information systems](https://www.youtube.com/watch?v=uMXdk1UbRRw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=7)
           - Course Completion: 4%
-          - Videomark: 5:22/8:02
-          - WARNING: Time overrun by 22 seconds
-          - NEW C.O.I
-            - Information system --> TRANSFER TO `-T_software` and REMOVE
-              - A.C.C.U.R.A.T.E
+          - Videomark: 8:02/8:02
+          - Link
+            - [ACCA - Rulebook](https://www.accaglobal.com/gb/en/about-us/regulation/rulebook.html#:~:text=Updated%20as%20and%20when%20needed,and%20students%2C%20and%20to%20firms.)
+        - [ACCA F1 - 8 Ethics and corporate governance](https://www.youtube.com/watch?v=B7vSsD7LLrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=8)
+          - Videomark: 8:00/11:05
+          - Course Completion Stamp: 4.5%
+          - E.T.C: 6.3 months to ACCA F8 with Osmosis-driven results
       - _meta
         - Style: Osmosis
         - _structure

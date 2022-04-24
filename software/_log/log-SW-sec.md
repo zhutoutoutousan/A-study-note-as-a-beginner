@@ -28,8 +28,9 @@
   - Style: Hands-on
   - Process 1
     - Env: Kali WSL2
-    - Bookmark: 42
-      - Stuck On Nessus installation
+    - Bookmark: 43
+      - Stuck On Proxychain installation
+        - [How to Setup PROXYCHAINS in Kali-Linux by Terminal](https://medium.com/cyberxerx/how-to-setup-proxychains-in-kali-linux-by-terminal-618e2039b663)
 # Defend
 ## Network
 - Disable X-Forwarded-For(XFF) Header

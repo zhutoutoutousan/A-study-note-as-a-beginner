@@ -35,6 +35,9 @@ Check: #possibleacademiadirection for choosing major
 
 # Academic at Heart
 - Check your readiness in Academic Engineering section to embark on a new journey
+- 业余多语言可作为爱好收入
+- 启动`competitive programming`训练计划
+  - TopCoder, Codeforces
 
 # Startup CEO build-up
 - Either way, you need to migrate

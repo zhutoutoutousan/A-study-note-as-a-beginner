@@ -1,4 +1,10 @@
 # Erudition
+- Competitive Programmer’s Handbook - Antti Laaksonen
+  - [link](https://cses.fi/book/book.pdf)
+  - Process 1
+    - Bookmark: 13
+- Guide to Competitive Programming - Antti Laaksonen
+  - [link](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf)
 - [Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://wangwei1237.github.io/shares/Math-for-Programmers.pdf)
 - [Physics Simulations in Python](https://physics.weber.edu/schroeder/scicomp/PythonManual.pdf)
 - [A Beginner’s Guide to Simulating Dynamical Systems with Python](https://towardsdatascience.com/a-beginners-guide-to-simulating-dynamical-systems-with-python-a29bc27ad9b1)

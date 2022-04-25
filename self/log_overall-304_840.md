@@ -31,12 +31,16 @@
         - [ACCA F1 - 7 Information systems](https://www.youtube.com/watch?v=uMXdk1UbRRw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=7)
           - Course Completion: 4%
           - Videomark: 8:02/8:02
-          - Link
+          - Link --> MOVE to `CFA CPA` and REMOVE
             - [ACCA - Rulebook](https://www.accaglobal.com/gb/en/about-us/regulation/rulebook.html#:~:text=Updated%20as%20and%20when%20needed,and%20students%2C%20and%20to%20firms.)
         - [ACCA F1 - 8 Ethics and corporate governance](https://www.youtube.com/watch?v=B7vSsD7LLrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=8)
-          - Videomark: 8:00/11:05
+          - Videomark: 11:05/11:05
           - Course Completion Stamp: 4.5%
           - E.T.C: 6.3 months to ACCA F8 with Osmosis-driven results
+        - [ACCA F1 - 9 Environmental influences](https://www.youtube.com/watch?v=9VkKiNFREQA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=9)
+          - Videomark: 8:05/15:44
+          - Course Completion Stamp: 5.1%
+          - E.T.C: 5.3 months
       - _meta
         - Style: Osmosis
         - _structure
@@ -203,3 +207,14 @@
   - 全自动role-based沟通模型 --> IDEA
 - **CPU**:
   - We need to find a way to stop yourself from being short-circuited to language learning and to digging in the code base that matters more when your energy level is low. When you're fully recharged, it won't matter.
+
+
+# 论逮虾户式边工作边冥想的可能
+- 冥想为什么要有仪式感?
+  - Meditation Fatigue
+    - Cold Turkey Therapy
+- 我一直觉得该方法适合于所有情形
+
+# 2022/4/25
+- 预测型鱼骨图
+- 论极限逮虾户式学习 xD

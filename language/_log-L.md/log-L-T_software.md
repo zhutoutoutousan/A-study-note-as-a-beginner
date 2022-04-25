@@ -6,6 +6,7 @@
 - [D](#d)
 - [E](#e)
 - [F](#f)
+- [G](#g)
 - [H](#h)
 - [I](#i)
 - [L](#l)
@@ -19,6 +20,7 @@
 - [T](#t)
 - [J](#j)
 - [R](#r-1)
+- [U](#u)
 - [V](#v)
 - [X](#x)
 - [Y](#y)
@@ -28,6 +30,8 @@
 - Apache VTL
   - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
 # B
+- Binary Tree Algorithm
+  - [link](https://www.youtube.com/watch?v=fAAZixBzIAI)
 - BGP
     - [Border Gateway Protocol - wiki](https://en.m.wikipedia.org/wiki/Border_Gateway_Protocol)
 - BST
@@ -82,6 +86,10 @@
 # F
 - Finite-state machine
   - [link](https://en.wikipedia.org/wiki/Finite-state_machine)
+
+# G
+- 高并发
+  - [Web开发中，什么级别才算是高并发](https://segmentfault.com/a/1190000010844969#:~:text=%E6%89%80%E4%BB%A5%E6%88%91%E5%BE%97%E5%87%BA%E4%B8%80%E4%B8%AA,%E4%B8%80%E4%B8%AA%E9%AB%98%E5%B9%B6%E5%8F%91%E7%9A%84%E7%B3%BB%E7%BB%9F%E3%80%82)
 # H
 - 汇编语言
   - [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
@@ -197,6 +205,13 @@
 - System design
   - Philosophy
     - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+  - Communications
+    - Sequence Diagram
+      - [How to Make a UML Sequence Diagram](https://www.youtube.com/watch?v=pCK6prSq8aw)
+        - Videomark: 1:14
+    - Usecase Diagram
+    - Class Diagram
+    - Activity Diagram
   - Tools
     - [JSON size analyzer](https://www.debugbear.com/json-size-analyzer)
   - Framework
@@ -219,6 +234,11 @@
 - RSS: 简易信息聚合
   - [RSS](https://en.wikipedia.org/wiki/RSS)
   - [如何使用RSS](https://www.ruanyifeng.com/blog/2006/01/rss.html)
+
+# U
+- UML
+  - [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+    - Videomark: 1:03
 # V
 - Validation
 - Verification

@@ -169,8 +169,10 @@
 - Mkt cap: (Market Capital)
 - MVP 
   - Minimal Viable Product
-    - [](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
+    - [How to build an MVP](https://www.netsolutions.com/insights/how-to-build-an-mvp-minimum-viable-product-a-step-by-step-guide/)
   - Minimal Valuable Process
+  - [五个步骤，实现产品MVP](http://www.woshipm.com/pd/879821.html)
+  - [](https://linguang.tech/post/support)
 # N
 - NASBA CPE
 - 柠檬市场: Lemon market

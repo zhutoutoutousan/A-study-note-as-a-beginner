@@ -218,22 +218,25 @@ CONSIDER FURTHUR DISPERSE IT INTO LOG
       - P27
         - Sample system for application to General Exercises
 - [System Design Course for Beginners](https://www.youtube.com/watch?v=MbjObHmDbZo)
-  - Progress: 56:46/1:40:24
-  - Points of software system
-    - Availability
-    - Reliability
-    - Managability
-  - Distributed system
-  - Performance metrics for system design
-  - Back of the envelope math
-  - Horizontal and vertical scaling
-  - Load balancers
-  - Caching
-  - Database design and scaling
-  - Interview question
-  - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
-    - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
-
+  - Process 1
+    - Progress: 56:46/1:40:24
+    - Points of software system
+      - Availability
+      - Reliability
+      - Managability
+    - Distributed system
+    - Performance metrics for system design
+    - Back of the envelope math
+    - Horizontal and vertical scaling
+    - Load balancers
+    - Caching
+    - Database design and scaling
+    - Interview question
+    - `Back-Of-The-Envelope Calculation` is very important, being able to do quick math the smart way is required
+      - [Back of the Envelope Calculation for System Design Interviews](https://www.codementor.io/@robinpalotai/back-of-the-envelope-calculation-for-system-design-interviews-z4ljbsp5l)
+  - Process 2
+    - Style: As background noise
+    - Progress 56:46/1:40:24
 
 
 # Software project management

@@ -38,9 +38,29 @@
           - Course Completion Stamp: 4.5%
           - E.T.C: 6.3 months to ACCA F8 with Osmosis-driven results
         - [ACCA F1 - 9 Environmental influences](https://www.youtube.com/watch?v=9VkKiNFREQA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=9)
-          - Videomark: 8:05/15:44
+          - Videomark: 15:44/15:44
           - Course Completion Stamp: 5.1%
           - E.T.C: 5.3 months
+        - [ACCA F1 - 10 Role of accounting in business](https://www.youtube.com/watch?v=hr_2ODSa9FE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=10)
+          - Videomark: 10:35/10:35
+          - Course Completion Stamp: 5.7%
+          - E.T.C: 5.23 months
+          - SIMULTANEOUS INTERPRETATION PROGRESSION First time of sensing Synchronization singularity of long French sentences with English and meaning for more than 1 minute non-stop
+          - More thoughts on `Eliza Project` --> MOVE to `Eliza` and REMOVE
+            - Automatic PR attack-defense system
+              - Scan for vulnerabilities of opponent social media and automatically choose the right wording pathway, channel, blocking strategy to maximize reputation and business loss of the business entity **only during the absolute zero-sum game** and maximize reputation and business gain of itself. CLOCK THE OPPONENT TO DEATH
+                - If you get there, is there any simulation software you can come up with?
+          - Flashcard Tool Review
+            - Strategic Flashcard
+              - Pivot points
+              - Structural Stimulation
+            - Flashcard as Information Flow
+              - Context neural-level stimulation threshold reduction
+              - Harder to have sustainable, viable, credible information source
+          - [ACCA F1 - 11 Functions of accounting and internal control](https://www.youtube.com/watch?v=UMvYkEcCVk8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=11)
+            - Videomark: 2:49/7:55
+            - CCS: 6.3%
+            - E.T.C: 5.2 months
       - _meta
         - Style: Osmosis
         - _structure
@@ -70,6 +90,9 @@
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - C1
   - Next stage E.T.A 50 days
+  - Material Track
+    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8)
+      - Videomark: 3:27/1:06:24
   - TOPIC Science, technology, engineering
   - TOPIC Philosophy, psychology, law
 - Spanish - B1
@@ -208,7 +231,6 @@
 - **CPU**:
   - We need to find a way to stop yourself from being short-circuited to language learning and to digging in the code base that matters more when your energy level is low. When you're fully recharged, it won't matter.
 
-
 # 论逮虾户式边工作边冥想的可能
 - 冥想为什么要有仪式感?
   - Meditation Fatigue
@@ -218,3 +240,9 @@
 # 2022/4/25
 - 预测型鱼骨图
 - 论极限逮虾户式学习 xD
+- 常年在死亡的边缘试探
+
+# 2022/4/26
+- Sensing Personality Synthesis Singularity
+- ENTP: *逃不掉的小伙子, 根据你抖M的本质, 你休息完了之后又会开始Masochism Rampage*
+

@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Cache](#cache)
 - [Prerequisites](#prerequisites)
   - [Start-up 101](#start-up-101)
     - [Communication](#communication)
@@ -43,6 +44,11 @@
 - [Random](#random)
 - [Naysayer Pathway Study](#naysayer-pathway-study)
 
+# Cache
+- Simulation software for start-up idea validation
+  - HTH do you simulate Zeitgeist?
+    - Still, a combination of advanced Micro Psychology, Meso Psychology, Micro Psychology, Sociology, Social Computing, Complex System, history of start-up knowledge and proficiency required to fulfill the minimum requirement of meaningful research
+    - Maybe in MOBA or else can you extract some glimpse
 # Prerequisites
 ## Start-up 101
 ### Communication
@@ -57,6 +63,7 @@
 - [PRD Templates And How To Kickstart Your Product Development With The Right Resources](https://www.techmatch.eu/blog/prd-templates)
 - [Stop Worrying About How To Create A PRD; Read This Instead](https://www.techmatch.eu/blog/how-to-create-a-prd#:~:text=This%20should%20cover%20the%20main,a%20result%20from%20their%20efforts.)
 ## Erudition
+- [THE GUIDE TO MINIMUM VIABLE PRODUCTS A Master Collection of Frameworks, Expert Opinions, and Examples](https://drive.google.com/file/d/1bHj5gEP-e_F6qXrH6bpoGkaoPF2KMEqU/view?usp=sharing)
 - Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking
 - The Business Models Handbook: Templates, Theory and Case Studies
 - How To Start A Business Without Any Money

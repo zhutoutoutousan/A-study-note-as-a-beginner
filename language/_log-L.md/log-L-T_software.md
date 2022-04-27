@@ -29,6 +29,7 @@
 # A
 - Apache VTL
   - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
+- ARR: Annual Recurring Revenue
 # B
 - Binary Tree Algorithm
   - [link](https://www.youtube.com/watch?v=fAAZixBzIAI)
@@ -49,6 +50,8 @@
     - Videomark: 11:11
 - Consistent Hashing
   - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing#:~:text=according%20to%20Wikipedia).-,Consistent%20Hashing%20is%20a%20distributed%20hashing%20scheme%20that%20operates%20independently,without%20affecting%20the%20overall%20system.)
+- Cloud Native
+  - Image Layer
 - CTI
   - [Computer telephony integration](https://en.wikipedia.org/wiki/Computer_telephony_integration)
 - CRM: 客户关系管理
@@ -150,6 +153,7 @@
       - [wiki](https://en.wikipedia.org/wiki/Web_syndication)
     - Web feed
       - [wiki](https://en.wikipedia.org/wiki/Web_feed)
+- NFT: Non-fungible token
 - NLTM Proxy
   - [NTLM server](http://ntlmaps.sourceforge.net/)
   - [px - github](https://github.com/genotrance/px)
@@ -202,15 +206,23 @@
   - [System Model for Syntax Free Coding](https://ieeexplore.ieee.org/document/8978461)
   - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
+- SOLID
+    - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID_principles)
+    - [Learn SOLID Principles with CLEAN CODE Examples](https://www.youtube.com/watch?v=_jDNAf3CzeY)
+      - Videomark: 14:15
 - System design
   - Philosophy
     - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
   - Communications
     - Sequence Diagram
       - [How to Make a UML Sequence Diagram](https://www.youtube.com/watch?v=pCK6prSq8aw)
-        - Videomark: 1:14
+        - Videomark: END 1
     - Usecase Diagram
+      - [UML Use Case Diagram Tutorial](https://www.youtube.com/watch?v=zid-MVo7M-E)
+        - Videomark: 0:15
     - Class Diagram
+      - [UML Class Diagram Tutorial](https://www.youtube.com/watch?v=UI6lqHOVHic)
+        - Videomark: END 1
     - Activity Diagram
   - Tools
     - [JSON size analyzer](https://www.debugbear.com/json-size-analyzer)

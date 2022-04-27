@@ -109,7 +109,7 @@
     - NWC
 - Depreciation: 折旧
   - [MBA智库百科](https://wiki.mbalib.com/wiki/%E6%8A%98%E6%97%A7)
-
+- Double Entry Bookkeeping
 # E
 - ESG
   - [Environmental, Social, and Governance (ESG) Criteria - Investopedia](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
@@ -153,7 +153,7 @@
     - MIS
     - DSS
     - EIS
-
+- IFRS
 # J
 - JBR
   - [Joint Business Partnership: Everything You Need to Know](https://www.upcounsel.com/joint-business-partnership#:~:text=Joint%20Venture%20Agreement%3F-,A%20joint%20business%20partnership%20is%20a%20business%20venture%20taken%20on,of%20value%20of%20some%20sort.)
@@ -180,6 +180,10 @@
   - [Imperfect Competition and Efficiency in Lemons Markets](https://ageconsearch.umn.edu/record/270999/files/twerp_939.pdf)
 
 # P
+- PEST Model
+  - Q: Is there a simulation software for this?
+- Porter's 5 forces model
+  - Q: Is there a simulation software for this?
 - Project Budget
   - [Creating a Project Budget – A Complete Guide](https://www.proprofsproject.com/blog/creating-a-project-budget/)
 
@@ -208,6 +212,8 @@
 # Y
 - 一锤子买卖
 # V
+- Veil of ignorance
+  - [Veil-of-ignorance reasoning favors the greater good](https://www.pnas.org/doi/10.1073/pnas.1910125116#:~:text=The%20%E2%80%9Cveil%20of%20ignorance%E2%80%9D%20is,least%20from%20the%20available%20options.)
 - VIE: Variable Interest Entity
   - [Variable Interest Entity (VIE)](https://www.investopedia.com/terms/v/variable-interest-entity.asp)
 # Z

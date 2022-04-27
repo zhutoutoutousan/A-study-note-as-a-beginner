@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [New Tech](#new-tech)
 - [Shiny Object 踩坑树](#shiny-object-踩坑树)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
@@ -35,6 +36,9 @@
 - [2021/12/25](#20211225)
   - [Maximize the usage of github copilot](#maximize-the-usage-of-github-copilot)
 
+
+# New Tech
+- dbforge
 
 # Shiny Object 踩坑树
 - Copilot

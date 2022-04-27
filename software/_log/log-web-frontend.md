@@ -112,7 +112,11 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 - Web Application Architecture Principles, protocols and practices
   - [link](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/07/Web-Application-Architecture-Principles-Protocols-and-Practices.pdf)
   - Another good book to have better view of how everything works together
-
+- React 工程师修炼指南
+- Process 1
+- Style: Osmosis
+- Scope: Log-in Component
+- Bookmark: 38/34+
 
 # 前端踩坑树
 - _结构优化

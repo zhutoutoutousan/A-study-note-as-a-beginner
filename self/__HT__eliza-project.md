@@ -1,0 +1,4 @@
+- More thoughts on `Eliza Project` --> MOVE to `Eliza` and REMOVE
+- Automatic PR attack-defense system
+    - Scan for vulnerabilities of opponent social media and automatically choose the right wording pathway, channel, blocking strategy to maximize reputation and business loss of the business entity **only during the absolute zero-sum game** and maximize reputation and business gain of itself. CLOCK THE OPPONENT TO DEATH
+    - If you get there, is there any simulation software you can come up with?

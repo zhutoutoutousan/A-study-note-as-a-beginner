@@ -46,21 +46,53 @@
           - Course Completion Stamp: 5.7%
           - E.T.C: 5.23 months
           - SIMULTANEOUS INTERPRETATION PROGRESSION First time of sensing Synchronization singularity of long French sentences with English and meaning for more than 1 minute non-stop
-          - More thoughts on `Eliza Project` --> MOVE to `Eliza` and REMOVE
-            - Automatic PR attack-defense system
-              - Scan for vulnerabilities of opponent social media and automatically choose the right wording pathway, channel, blocking strategy to maximize reputation and business loss of the business entity **only during the absolute zero-sum game** and maximize reputation and business gain of itself. CLOCK THE OPPONENT TO DEATH
-                - If you get there, is there any simulation software you can come up with?
-          - Flashcard Tool Review
+          - Flashcard Tool Review --> Possible positions: `_PROCESSING`
             - Strategic Flashcard
               - Pivot points
               - Structural Stimulation
+              - RANDOM THINKING | 对于个体也分2B和2C --> MOVE to `Eliza` and REMOVE
+                - 个人的2C特性
+                - 个人2C及2B中的边界状态研究
+                  - 社会支配欲
+                - 个人的2B特性
+                  - 模糊性: 因为个人的2B地图相对于一个大企业是一个非常小的landscape, 所以其与2C部分的边界会比大型企业模糊得多
+                  - 理智性 a.k.a 精致的利己主义
+                    - 时间敏感度
+                      - 平均冷静时间: ?
+                    - PR黑客属性 - Social Media中有淋漓尽致的体现
+                      - 隐蔽性: 将个人的Dark triad小心谨慎地隐藏在行为举止中, 以达到局部Net happiness hormone generation以及Net happiness hormone generation diversity index地最大化的primitive drive
+                        - Evident in many history lessons
+                    - 社会经济状态发展动力学
+                - `web3`'s role on harvesting mankind wisdom
+              - NEW BOOK | MOVE to `Eliza` and REMOVE
+                - [The moral obligation to be intelligent, and other essays](https://ia600209.us.archive.org/6/items/cu31924022390532/cu31924022390532.pdf)
+                  - Process 1
+                    - Goal: Life is meaningless, how about a party?
+                    - Bookmark: 9/184
+                    - FIRST EXPERIENCE: Screw it, another book full of words and touchy-feelies but not enough models, insights. Pain in the ass to convert it to code, why are human beings so inefficient? Is there a way to hack it for mankind? Oh, Shakesphere, that's going to make it much less efficient, playing with words thinking that it can reflect more on human nature, sorry, I beg to differ
+                    - 2022/4/28: Sorry, not for me as per now, save it, let the *素蟫灰丝时蒙卷轴* run its course
             - Flashcard as Information Flow
               - Context neural-level stimulation threshold reduction
               - Harder to have sustainable, viable, credible information source
           - [ACCA F1 - 11 Functions of accounting and internal control](https://www.youtube.com/watch?v=UMvYkEcCVk8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=11)
-            - Videomark: 2:49/7:55
+            - Videomark: 7:55/7:55
             - CCS: 6.3%
             - E.T.C: 5.2 months
+            - NEW VOCAB | Teeming and lading
+          - [ACCA F1 - 12 Leadership, management and teams](https://www.youtube.com/watch?v=E-fK79U865Y&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=12)
+            - NEW VOCAB
+              - PO treble C
+              - Mintzberg
+              - Drucker
+            - Videomark: 5：00/10:24
+            - CCS: 6.8%
+            - E.T.C: 6.21 months
+            - RANDOM THINKING
+              - Time to redefine *Intelligence*
+                - Macro-Intelligence
+                  - Perceived intelligence
+                - Meso-Intelligence
+                - Micro-Intelligence
       - _meta
         - Style: Osmosis
         - _structure

@@ -118,6 +118,8 @@
 - CLI
   - `zsh`
     - `zsh-auto-suggestions`
+- Hacking
+  - [ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 # 团队软件开发军火库
 
 # Bleeding edge arsenal - Pillars of Boundries

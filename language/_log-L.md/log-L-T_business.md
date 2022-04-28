@@ -119,6 +119,8 @@
   - [Marc Andreessen on Big Breakthrough Ideas and Courageous Entrepreneurs](https://www.youtube.com/watch?v=JYYsXzt1VDc)
     - Videomark: 20:50
 # F
+- FA
+  - [beingfa](https://beingfa.com/tag/startup/)
 - FY - Fiscal year : 财年
 - Flagship shop: 旗舰店
   - [旗舰店](https://wiki.mbalib.com/wiki/%E6%97%97%E8%88%B0%E5%BA%97)

@@ -13,7 +13,7 @@
 - 喜马拉雅
   - 喜马拉雅睡眠
 - 睡眠耳机
-
+- [竞品分析：基于用户体验5要素，分析小睡眠和蜗牛睡眠两款APP](http://www.woshipm.com/evaluating/3771930.html)
 # APPENDIX: Interview
 
 ```

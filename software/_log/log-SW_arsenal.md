@@ -71,6 +71,11 @@
     - AWS
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09
+    - Software Design
+      - PlantUML
+        - [Using PlantUML in VSCode](https://www.youtube.com/watch?v=xkwJ9GwgZJU)
+        - [PlantUml Masterclass Create Sequence Diagram Easily with VS Code | LetsDoCoding](https://www.youtube.com/watch?v=JqJpbNxIK90)
+          - Videomark: 1:02
   - On-premise
     - Distributed Solution
       - Kafka

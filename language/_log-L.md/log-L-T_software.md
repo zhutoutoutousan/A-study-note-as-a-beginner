@@ -78,6 +78,8 @@
 - DLL
   - [What Are DLLs?](https://www.youtube.com/watch?v=4daUujBgQQ8)
 # E
+- Egg Dropping Problem
+  - [The Egg Dropping Problem - Interview Question](https://www.youtube.com/watch?v=o_AJ3VWQMzA)
 - Entity
 - Enum
   - [A Comprehensive Guide to Using MySQL ENUM](https://www.mysqltutorial.org/mysql-enum/#:~:text=In%20MySQL%2C%20an%20ENUM%20is,Readable%20queries%20and%20output.)

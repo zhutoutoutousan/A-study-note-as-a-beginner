@@ -82,9 +82,10 @@
           - [ACCA F1 - 12 Leadership, management and teams](https://www.youtube.com/watch?v=E-fK79U865Y&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=12)
             - NEW VOCAB
               - PO treble C
-              - Mintzberg
-              - Drucker
-            - Videomark: 5：00/10:24
+              - Mintzberg's theory
+              - Drucker's theory
+              - Blake & Mouton's theory
+            - Videomark: 10:24/10:24
             - CCS: 6.8%
             - E.T.C: 6.21 months
             - RANDOM THINKING
@@ -93,6 +94,18 @@
                   - Perceived intelligence
                 - Meso-Intelligence
                 - Micro-Intelligence
+          - [ACCA F1 - 13 Motivating individuals and groups](https://www.youtube.com/watch?v=rSz13mwduxw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=14)
+            - Videomark: 5:10/6:13
+            - NEW VOCAB
+              - Maslow's theory
+              - Herzberg's two factor theory
+            - CRITICAL MOMENT
+              - Your brain is at the critical moment for that you're undergoing another inner system singularity, which you, in the last few months, call it *insane state*, the main theme is that you need to harvest the value coming from the *insane state* as much as possible and somewhat get away with health issues
+                - Damn man, you're losing it, but it's fun
+                - The first object is to elaborate on how to stay up for days or months, energized, and still somehow get away with health issues. HTH did you manage to do that in the past
+                  - B | ESTP, INTP: *Maybe life is not something you should cling onto that much*
+                  - M | INTJ: *You shouldn't get yourself killed so early, you still have so much to accomplish*
+            - ACTION: No INBOUND archiving for now, everything will be cached after just one decision action
       - _meta
         - Style: Osmosis
         - _structure
@@ -121,12 +134,20 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - C1
-  - Next stage E.T.A 50 days
-  - Material Track
+  - Next stage E.T.A 22.5 days
+  - Material Track(HALT)
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8)
       - Videomark: 3:27/1:06:24
-  - TOPIC Science, technology, engineering
+  - Foundations for LIFETIME_PURSUIT
+    - Complexity theory
+      - Related Mathematics
+    - Data Structure & Algorithm
+    - Competitive Programming
+    - Neuroengineering
+    - Software Engineering & System Design
   - TOPIC Philosophy, psychology, law
+    - German philogophy
+      - Fredrick Nitszsche
 - Spanish - B1
   - No change, next stage E.T.A 18 months
   - TOPIC Project, Product, Service
@@ -277,4 +298,6 @@
 # 2022/4/26
 - Sensing Personality Synthesis Singularity
 - ENTP: *逃不掉的小伙子, 根据你抖M的本质, 你休息完了之后又会开始Masochism Rampage*
+
+# 2022/4/29
 

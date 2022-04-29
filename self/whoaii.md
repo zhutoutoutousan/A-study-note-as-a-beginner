@@ -34,7 +34,7 @@
       - 2022/3
         - *Patience, think out of the box*
         - *Always try the new things*
-        - *Engineering practices and appetites are to be enforced to oneself, but un-opinionated towards others...unless they are stupid and beyond the pale*
+        - *Engineering practices and appetites are to be enforced to oneself, but un-opinionated towards others...unless they are stupid and beyond the pale...myself included*
         - *What if I piece these things together? What's its business model?*
     - 学术人/科学家 --> S
       - 2022/3
@@ -48,6 +48,7 @@
 
 # Dynamic Internal struggle analysis --> On the verge of manifestation
 - M
+  - Currently working as main pilot(CPU)
   - PSYCHOTIC, SHADOW, DANGER Ruse, my favorite
     - STEM \{MALIGNANT_NARCISSISM\}
       - NESTED DANGER Future Fortification & Sophistication
@@ -63,13 +64,15 @@
     - And I want to make profit from it
   - PSYCHOTIC, SHADOW, DANGER I love watching competitors die in agony
     - And I want to make profit from it
+  - *你必须跳下悬崖, 并在下落的过程中自己长出翅膀*
   - ESTP
 - T
   - Need a network for connection
     - FULFILLED
   - Why aren't you in another country yet?
-  - INTJ/ISTJ
+  - INTJ
 - G
+  - *I'm happy that I am having an online MOBA video game that generates value, this is the future of efficient resource allocation*
   - ESTP/INTJ/ISTP
 - S
   - Why should I get out of my house?
@@ -79,6 +82,7 @@
 - Goal
   - Prevent more rooms and figures to emerge
   - Minor memory loss
+  - This `tool` will be crutial if you suffer more memory loss due to room changes
 - Tool
   - Writing and socializing helps slow down D.I.D significantly
 - Current level of DID
@@ -87,5 +91,9 @@
   - AT LARGE Entity - Unknown
     - Speaks 14 languages
   - CORE Self
+  - ...To be identified
 
-- Your future AI can't be this... not so decent
+- Your future AI built on top of that can't be this... not so decent
+
+# Self as a system
+- 2022/4/29 Enough for useless, weak, cheap moaning, how would you describe you as a component in your system? Can you code it out?

@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Renovation plan](#renovation-plan)
+- [_INBOUND_CACHE](#_inbound_cache)
 - [A](#a)
 - [B](#b)
 - [C](#c)
@@ -25,7 +26,6 @@
   - [_](#_)
   - [E](#e-1)
 - [J](#j-1)
-- [S](#s-1)
 - [C](#c-1)
 - [D](#d-1)
 - [E](#e-2)
@@ -34,11 +34,12 @@
 - [I](#i-1)
 - [K](#k)
 - [J](#j-2)
+- [L](#l-1)
 - [M](#m-1)
 - [W](#w)
 - [O](#o)
 - [P](#p-1)
-- [S](#s-2)
+- [S](#s-1)
 - [T](#t-1)
 - [X](#x)
 - [Y](#y-1)
@@ -54,7 +55,7 @@
 - [W](#w-1)
 - [O](#o-1)
 - [P](#p-2)
-- [S](#s-3)
+- [S](#s-2)
 - [T](#t-2)
 - [X](#x-1)
 - [Y](#y-2)
@@ -63,7 +64,12 @@
 # Renovation plan
 - 将所有语种根据语言行业归类
 - 逐渐将之前的杂乱数据合并
-
+# _INBOUND_CACHE
+- Job Description
+- Equal opportunities
+- 7-point BAD PIGS
+- Honey and Mumford's theory
+- Teeming and lading
 # A
 - Accounting principle： 会计准则
 - Aged Debtor： 债务人账龄
@@ -198,6 +204,8 @@
 - Regulatory exposure
 - Reputational exposure
 # S
+- 私域流量
+  - https://wiki.mbalib.com/wiki/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F
 - Socially responsible investing
 - SLA a.k.a Service level Agreement
   - [What is the difference between a SLA and a KPI?](https://www.youtube.com/watch?v=TRlghvTax2c)
@@ -244,10 +252,6 @@
 
 # J
 - 竞争同质化
-
-# S
-- 私域流量
-  - https://wiki.mbalib.com/wiki/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F
 
 ---
 
@@ -296,7 +300,19 @@
 - 产品
   - 激活转化
 
+# L
+- Leadership
+  - PO treble C
+  - Mintzberg's theory
+  - Drucker's theory
+  - Blake & Mouton's theory
+
 # M
+- Motivation theory
+  - Maslow's theory
+  - Herzberg's two factor theory
+  - Vroom's Expectancy Model
+  - Extrinsic vs. Intrinsic Rewards
 - Mendelow's Matrix
   - IDEA Digital Power
 - 马赛克理论

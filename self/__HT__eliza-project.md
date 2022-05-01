@@ -1,4 +1,17 @@
-- More thoughts on `Eliza Project` --> MOVE to `Eliza` and REMOVE
+- More thoughts on `Eliza Project`
 - Automatic PR attack-defense system
     - Scan for vulnerabilities of opponent social media and automatically choose the right wording pathway, channel, blocking strategy to maximize reputation and business loss of the business entity **only during the absolute zero-sum game** and maximize reputation and business gain of itself. CLOCK THE OPPONENT TO DEATH
     - If you get there, is there any simulation software you can come up with?
+- RANDOM THINKING
+  - 个人的2C特性
+  - 个人2C及2B中的边界状态研究
+    - 社会支配欲
+  - 个人的2B特性
+    - 模糊性: 因为个人的2B地图相对于一个大企业是一个非常小的landscape, 所以其与2C部分的边界会比大型企业模糊得多
+    - 理智性 a.k.a 精致的利己主义
+      - 时间敏感度
+        - 平均冷静时间: ?
+      - PR黑客属性 - Social Media中有淋漓尽致的体现
+        - 隐蔽性: 将个人的Dark triad小心谨慎地隐藏在行为举止中, 以达到局部Net happiness hormone generation以及Net happiness hormone generation diversity index地最大化的primitive drive
+          - Evident in many history lessons
+      - 社会经济状态发展动力学

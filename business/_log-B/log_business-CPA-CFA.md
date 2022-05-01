@@ -3,6 +3,11 @@
 
 Asset Allocation
 
+# INBOUND CACHE
+- Link --> MOVE to `CFA CPA` and REMOVE
+  - [ACCA - Rulebook](https://www.accaglobal.com/gb/en/about-us/regulation/rulebook.html#:~:text=Updated%20as%20and%20when%20needed,and%20students%2C%20and%20to%20firms.)
+
+
 # Roadmap
 - [CPA Books and Study Guide](https://www.wallstreetmojo.com/cpa-study-guide-books/)
 

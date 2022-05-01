@@ -9,6 +9,7 @@
 - [G](#g)
 - [H](#h)
 - [I](#i)
+- [K](#k)
 - [L](#l)
 - [M](#m)
 - [N](#n)
@@ -125,6 +126,10 @@
   - [ISO/IEC/IEEE 15288:2015 Systems and software engineering — System life cycle processes](https://www.iso.org/standard/63711.html)
 - INCOSE
 - ISO
+
+# K
+- Kafka
+  - [Die Verwandlung - Franz Kafka](https://dl1.cuni.cz/pluginfile.php/908218/mod_resource/content/1/Die%20Verwandlung.pdf)
 # L
 - 逻辑删除
   - [逻辑删除还是物理删除](https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/04.html)
@@ -206,7 +211,7 @@
 - STLC(Software Testing Lifecycle)
 - Syntax-free Programming
   - [System Model for Syntax Free Coding](https://ieeexplore.ieee.org/document/8978461)
-  - [Syntax-free programming ](https://news.ycombinator.com/item?id=420226)
+  - [Syntax-free programming](https://news.ycombinator.com/item?id=420226)
   - [Free-form language](https://en.wikipedia.org/wiki/Free-form_language)
 - SOLID
     - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID_principles)

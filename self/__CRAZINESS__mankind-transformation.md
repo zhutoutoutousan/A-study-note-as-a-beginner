@@ -12,3 +12,9 @@ Uproot the World!
 
 # Education System Transformation
 - HR市场的简历机制本身就是打教育系统的脸, 未来的企业招聘机制应该是直接通过提炼学生从小到大教育经历所积累的大量数据学习, 给予推荐的报告及参考数据集, 这样就可以更好的提升企业的招聘效率和招聘质量, 同时也可以更好的提升学生的求职能力。 所以未来教育系统改革的关键在于更细致地收集学生数据和报表生成, 在不同阶段的教育系统进行无缝对接
+
+
+- RANDOM THINKING | Selection Methods should come from accumulative data handed over by the educational system, sadly, the current system is so abysmal regarding this that all them years, the data point they can hand over are but one single record, time for digital transformation in a do-able educational system in at least one country in this world --> Transfer to `mankind-transformation` and REMOVE
+  - The Tao of *润*
+    - *润*-first search followed by Breath-first search
+- RANDOM THINKING | I get annoyed by those theory bounded by limitation of pre-digital transformation world, yet I still need them to know to what extent their limitations were for conformity purposes and serve as a tool to progress language. I'll be damned if any of their so-calleded *underlying working principle* works. Why do people have to learn from the past? So inefficient. Robots should do them for us, yep, we got FDY --> *I don't know where to put it pal*

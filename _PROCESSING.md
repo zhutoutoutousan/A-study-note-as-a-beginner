@@ -75,3 +75,21 @@ INTENSITY:
             - Ontology: A nested decision tree with depth of 3
       - Aversion strategy
         - Deliberate sabotage
+
+
+
+- Flashcard Tool Review --> Possible positions: `_PROCESSING`
+  - Strategic Flashcard
+    - Pivot points
+    - Structural Stimulation
+      - `web3`'s role on harvesting mankind wisdom
+    - NEW BOOK | MOVE to `Eliza` and REMOVE
+      - [The moral obligation to be intelligent, and other essays](https://ia600209.us.archive.org/6/items/cu31924022390532/cu31924022390532.pdf)
+        - Process 1
+          - Goal: Life is meaningless, how about a party?
+          - Bookmark: 9/184
+          - FIRST EXPERIENCE: Screw it, another book full of words and touchy-feelies but not enough models, insights. Pain in the ass to convert it to code, why are human beings so inefficient? Is there a way to hack it for mankind? Oh, Shakesphere, that's going to make it much less efficient, playing with words thinking that it can reflect more on human nature, sorry, I beg to differ
+          - 2022/4/28: Sorry, not for me as per now, save it, let the *素蟫灰丝时蒙卷轴* run its course
+  - Flashcard as Information Flow
+    - Context neural-level stimulation threshold reduction
+    - Harder to have sustainable, viable, credible information source

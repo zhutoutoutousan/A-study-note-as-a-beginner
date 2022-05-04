@@ -1,3 +1,24 @@
+# IBD_C
+- ACCURATE --> COPY TO `_PROCESSING`, `_INBOUND`, `_OUTBOUND` with metadata `{"source": "ACCA"}`
+  - _meta
+    - `{"source": "ACCA"}`
+  - Accurate
+  - Complete
+  - Cost-beneficial
+  - User-targeted
+  - Relevant
+  - Authoritative
+  - Timely
+  - Easy to use
+- Management accounting
+  - Cost centres
+  - Revenue centres
+  - Profit centres
+  - Investment centres
+- Financial accounting
+- SEARCH: `Information theory` for setting up `erudition`
+  - RELATED: Information circulation theory
+
 # Advanced
 - Feedly
 # Flow

@@ -3,6 +3,11 @@
 ## Minimum Viable Close-loop Communication Component
 ## Save & Quit Criteria Mapping for Context-heavy tasks
 
+# OUTPUT
+- Your own book
+  - Tao of Personal Management & Development Orchestration
+  - Tao of Personal Skillset Orchestration
+
 # Erudition
 - Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理
 
@@ -110,3 +115,37 @@
             - Underlying opportunity: Is there a way to bridge this chasm of systems since 70% of the workforce is identified as integrators
               - Risk brought along with information flow
               - Explicitedly Controlled information flow channels
+
+# Data Structure
+- Cost
+  - _meta
+    - Complex cases?
+  - Directness
+    - Indirect
+    - Direct
+  - Volatility
+    - Fixed
+    - Variable
+  - Hybridity
+    - Mixed
+      - Hi-Lo Method
+        - FLOW | FC Calculation
+          - _meta
+            - Use case
+              - `Extract FC from Quantity-Cost table`
+            - Examples
+            - Self-perceived underlying principle proficiency
+              - value: 15%
+            - Performance proficiency
+              - value: 80%
+            - Experience-theory connection
+              - value: 0%
+          - Retain Pathway
+            - `this`
+            - [Cost Output Relationship in the Long-Run](https://www.youtube.com/watch?v=uVIiOltIrrI)
+              - Videomark: 1:15/30:11
+              - WARNING: MAXIMUM NEST DEPTH REACHED
+        - F.C
+        - V.C
+    - Step
+- Cost Relationship 

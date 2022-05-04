@@ -40,7 +40,6 @@
 - [O](#o)
 - [P](#p-1)
 - [S](#s-1)
-- [T](#t-1)
 - [X](#x)
 - [Y](#y-1)
 - [Z](#z-1)
@@ -56,7 +55,7 @@
 - [O](#o-1)
 - [P](#p-2)
 - [S](#s-2)
-- [T](#t-2)
+- [T](#t-1)
 - [X](#x-1)
 - [Y](#y-2)
 - [Z](#z-2)
@@ -71,6 +70,18 @@
 - Honey and Mumford's theory
 - Teeming and lading
 # A
+- ACCURATE --> COPY TO `_PROCESSING`, `_INBOUND`, `_OUTBOUND` with metadata `{"source": "ACCA"}`
+  - _meta
+    - `{"source": "ACCA"}`
+  - Accurate
+  - Complete
+  - Cost-beneficial
+  - User-targeted
+  - Relevant
+  - Authoritative
+  - Timely
+  - Easy to use
+  - RELATED: Information circulation theory
 - Accounting principle： 会计准则
 - Aged Debtor： 债务人账龄
 - Annualized rate of return: 年化收益率
@@ -80,6 +91,7 @@
 
 # B
 - Balance sheet equation: 资产负债表方程
+- Business Capability
 - Business Model: 商业模型
   - [Harvard i-lab | Startup Secrets: Business Model](https://www.youtube.com/watch?v=K0Eu6cL0BR8)
     - Videomark: 10:07
@@ -117,6 +129,9 @@
   - [MBA智库百科](https://wiki.mbalib.com/wiki/%E6%8A%98%E6%97%A7)
 - Double Entry Bookkeeping
 # E
+- E-Commerce
+  - [E-Commerce 101 for Exporters](https://www.publications.gov.on.ca/store/20170501121/Free_Download_Files/300492.pdf)
+  - [Introduction to E-Commerce: Combining Business and IT](https://irp-cdn.multiscreensite.com/1c74f035/files/uploaded/introduction-to-e-commerce.pdf)
 - ESG
   - [Environmental, Social, and Governance (ESG) Criteria - Investopedia](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
 - Equity: 股东权益
@@ -172,6 +187,8 @@
 # M
 - Margin Call: 追加保证金通知
   - [Margin call 是什么意思](https://www.tradesmax.com/component/k2/item/4526-margin-call#:~:text=Margin%20Call%20%E6%84%8F%E6%80%9D%E6%98%AF%E8%BF%BD%E5%8A%A0,%E4%BF%9D%E8%AF%81%E9%87%91%E8%A6%81%E6%B1%82%E7%9A%84%E6%9C%80%E5%B0%8F%E9%99%90%E5%BA%A6%E3%80%82)
+- Material
+  - `ACCA`
 - McGregor’s Theory
   - [McGregor’s Theory X vs Theory Y: How to increase performance in your team](https://www.tsw.co.uk/blog/leadership-and-management/mcgregors-theory-x-vs-theory-y/)
 - Mkt cap: (Market Capital)
@@ -216,6 +233,10 @@
   - https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)
 
 # T
+- 土地使用权
+- Technical analysis
+  - [Technical Analysis is HARD (until you see this)](https://www.youtube.com/watch?v=lGhFX4Pwj6Y)
+    - Videomark: 3:02
 - Trade debtor
   - [您需要了解的坏账与会计](https://www.yycadvisors.com/accounting-service.html)
 
@@ -338,8 +359,7 @@
   - 商业画布: Business Model Canvas
     - 
 
-# T
-- 土地使用权
+
 # X
 - 信息不对称: Asymmetric information
   - [Asymmetric information theory](https://wiki.mbalib.com/wiki/%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%E7%90%86%E8%AE%BA)

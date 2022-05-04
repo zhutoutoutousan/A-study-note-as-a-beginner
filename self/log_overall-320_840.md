@@ -22,15 +22,10 @@ Check: #possibleacademiadirection for choosing major
 2022-1-16：Whenever you want to start a business, test your ideas, no more second thoughts until you've got a clear message whether the idea works or not once you've started
 
 - Academic Directions
-  - Complexity Science
-    - Quatitative Causality
-    - Emergence
-    - Chaos in game
-  - Social Computing
-    - Network theory
-  - Data Science
-  - Meso Science
-    - Quatitative psychology
+
+- Why you want to leave the current country
+  - Zeitgeist
+    - Radiation: *I believe there are winners and losers, nothing else*
 
 
 # Academic at Heart
@@ -38,6 +33,18 @@ Check: #possibleacademiadirection for choosing major
 - 业余多语言可作为爱好收入
 - 启动`competitive programming`训练计划
   - TopCoder, Codeforces
+- Describe your life time pursuit, what is the one single direction you want to head to if that's the only way
+  - Meso Science
+    - Complexity Science
+      - Quatitative Causality
+      - Emergence
+      - Chaos in game
+    - Social Computing
+      - Network theory
+    - Data Science
+    - Meso Science
+      - [Mesoscience: exploring the common principle at mesoscales](https://academic.oup.com/nsr/article/5/3/321/4084654)
+      - Quatitative psychology
 
 # Startup CEO build-up
 - Either way, you need to migrate
@@ -48,4 +55,4 @@ Check: #possibleacademiadirection for choosing major
   - Ref: Cloud-driven design
   - 多年的自我探索和尝试的结果是
     - 不正常: 不能按正常人的框架来束缚自己
-    - 宿命: 做出改变世界的产品, 建立一个商业帝国
+    - 宿命: 做出改变世界的产品, 建立一个商业帝国/用Mesoscience来改变世界

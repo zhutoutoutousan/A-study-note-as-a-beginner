@@ -32,6 +32,8 @@
   - [The Apache Velocity Project](https://velocity.apache.org/engine/2.0/vtl-reference.html)
 - ARR: Annual Recurring Revenue
 # B
+- Base64
+  - [wiki](https://en.wikipedia.org/wiki/Base64)
 - Binary Tree Algorithm
   - [link](https://www.youtube.com/watch?v=fAAZixBzIAI)
 - BGP
@@ -59,6 +61,9 @@
   - _概念
     - [一文看懂CRM系统是什么意思？](https://zhuanlan.zhihu.com/p/40038216)
     - [漫谈CRM体系化建设5：CRM体系化解决方案](http://www.woshipm.com/pd/653526.html)
+- Constructive algorithm
+  - [Constructive Algorithms](http://www.cs.tau.ac.il/~nachumd/models/CASM.pdf)
+  - [E001 : Board Moves | Codeforces | Constructive Algorithm](https://www.youtube.com/watch?v=lvNyiyobb18&list=PL2q4fbVm1Ik7ALIK6Lu0uhCHYu-RS9m3H)
 - Constructor Overloading
   - [Constructor Overloading in Java](https://www.geeksforgeeks.org/constructor-overloading-java/)
 # D

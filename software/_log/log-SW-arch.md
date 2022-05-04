@@ -95,7 +95,12 @@
   - [Alibaba - COLA](https://github.com/alibaba/COLA)
 - Methodologies
   - 架构师的自我修炼 技术，架构和未来
+   - Paperback
     - Process 1
+      - Style: Random query
+      - Ran 1: 146-151
+      - Ran 2: 220-221
+        - 高可用架构
 - Dynamic Resource
   - Social media
     - 知乎

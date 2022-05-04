@@ -4,6 +4,11 @@
   - The **GOAL** has been lost over the last few years
     - Due to fundamental, radical disappointment to the inefficient nature of Humanity as a whole
   - The *system* runs by itself taking up some energy and overhead of this brain
+  - GOAL FOUND!
+    - International business orchestration
+      - WTF is this?
+      - Holy cow, I really found this stuff
+        - [Business Orchestration: Strategic Leadership in the Era of Digital Convergence](#)
 - French - B2
   - Material Track
     - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
@@ -41,7 +46,6 @@
           - Videomark: 7:55/7:55
           - CCS: 6.3%
           - E.T.C: 5.2 months
-          - NEW VOCAB | 
         - [ACCA F1 - 12 Leadership, management and teams](https://www.youtube.com/watch?v=E-fK79U865Y&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=12)
           - Videomark: 10:24/10:24
           - CCS: 6.8%
@@ -52,53 +56,70 @@
           - Videomark: 9:44/9:44
         - [ACCA F2 - 1 The nature and purpose of management accounting](https://www.youtube.com/watch?v=JGf83N569BA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=15)
           - Videomark: 12:57/12:57
-          - CREATE: `Inbound cache` for `*-T_business`
-            - DONE: `Inbound cache` for `*-T_business`
-            - WARNING: `Inbound cache` requires `metadata` to be optimally restored
-          - NEW VOCAB
-            - ACCURATE --> COPY TO `_PROCESSING`, `_INBOUND`, `_OUTBOUND` with metadata `{"source": "ACCA"}`
-              - Accurate
-              - Complete
-              - Cost-beneficial
-              - User-targeted
-              - Relevant
-              - Authoritative
-              - Timely
-              - Easy to use
-            - Management accounting
-              - Cost centres
-              - Revenue centres
-              - Profit centres
-              - Investment centres
-            - Financial accounting
-            - SEARCH: `Information theory` for setting up `erudition`
-              - RELATED: Information circulation theory
-          - IDEA: XR simultaneous interpretor bot for international students --> CREATE `__IDEA__XR-simultaneous-interpretor-bot-for-international-students`, MOVE TO `!!` and REMOVE
-            - 未来留学的语言需求将会降至: *你能看懂XR眼镜中的同声传译内容并能高效carry over*
-            - *让有talent但是有语言障碍的人尽早博得日物细无声的精髓*
-              - 成本得足够低, compete with cost of language acquisition for academia
-                - 妈泥Hack: *让教授放个屏幕, 卖给校方同声传译软件, 根据在场小朋友的母语分布投个屏不就完惹嘿嘿(●ˇ∀ˇ●)*
-            - *XR眼镜将支持多种字幕同时显示*
-            - *巴别塔·人类之语言的诅咒将会成为过去, 我能看到尽头了*
-            - End-to-Start
-              - *未来上课没有XR的加持那也是net loss啊*
-                - *泡实验室可以evade掉*
-              - *听教授讲课我也要转化成为多语学习机会, 不然太亏了*
-                - *可以选择mutual-understanding-based逃课\[dogge\]*
-            - Prerequisite
-              - *润*
-              - TBD
-            - Reference
-              - [Using the HoloLens Emulator](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-hololens-emulator)
-              - [Future of Extended Reality](https://assets.kpmg/content/dam/kpmg/au/pdf/2022/future-of-XR-white-paper.pdf)
-            - Copilot, what do you think of this idea?
-              - `Copilot: I think it's a good idea`
           - CCS: 8.5%
           - E.T.C: 3.56 months
         - [ACCA F2 - 2 Cost classification, behaviour and purpose](https://www.youtube.com/watch?v=O7qRJLVoOjc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=16)
-          - Videomark: 0:02/9:57
+          - Videomark: 9:57/9:57
           - CCS: 9.1%
-          - $E.T.C=\frac{100\% - CURRENT\_ CCS}{30 \times (CURRENT \_ CCS\_ - LAST \_ CCS)}$ = $\frac{100\% - 9.1\%}{30 \times (9.1\% - 8.5\%)}$ = 5.05 months
+          - $E.T.C=\frac{100\% - CURRENT\_ CCS}{30 \times (CURRENT \_ CCS\_ - LAST \_ CCS)}$ = $\frac{100\% - 9.1\%}{30 \times (9.1\% - 8.5\%)}$ = 5.05 months 
+        - [ACCA F2 - 3 Business maths - regression analysis](https://www.youtube.com/watch?v=7S_9Hti-wt4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=17)
+          - Videomark: 11:33/11:33
+          - CCS：9.7%
+          - E.T.C: 5.02 months
+          - IDEA | MERGE all `education` related IDEAS into `__IDEA__eduverse`
+            - [Forget the metaverse — Labster raises $47m to build the ‘eduverse’](https://sifted.eu/articles/labster-edtech-raise/)
+            - [k20educator](https://www.k20educators.com/)
+          - VOCAB
+            - Regression analysis
+        - [ACCA F2 - 4 Cost accounting techniques](https://www.youtube.com/watch?v=aaF8fI-x11A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=18)
+          - Videomark: 7:58/7:58
+          - CCS: 10.2%
+          - E.T.C: 5.98 months
+          - _meta
+            - REVIEW REQUIRED: 0/5
+            - Basic drive for activating furthur meta data collection and analysis
+              - Could be useful for future meta-analysis for learning
+            - Context Absorbtion: 20%
+              - Symbol Proficiency
+              - Flow Proficiency
+              - Application Proficiency
+          - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
+            - Cost accounting Techniques | STICKY, FOLLOWING entry_hash=`@cost_accounting_techniques`
+              - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
+              - Material
+              - Economic Order Quantity
+                - Data Inputs
+                  - Q: Order quantity
+                  - D: quantity of product demanded annually
+                  - P: purchase cost for one unit
+                  - C: fixed cost per order(not incl. the purchase price)
+                  - H: cost of holding one unit for one year
+                - Total Cost Function
+                - Optimal Order Quantity\($Q*$\)
+              - Context Symbol Store
+                - TC: Total Cost
+                - $P \times D$: Purchase cost
+                - $C \times D/Q$: Ordering cost
+                - $H \times Q/2$: Holding cost
+                - $Q^{*}=\sqrt{\frac{2CD}{H}}$
+              - Absorption Costing
+                - Overhead
+                - Product Cost Unit
+          - LEARNING STRATEGY REFORMATION IMMINENT
+            - How to shoot a balance between `index-based` knowledge structure and `clusterized` knowledge structure?
+              - We can set `_meta` data to reflect its `clusterization`
+              - Something is related to `constructive algorithm` and `clustering`
+                - DELINQUENCY coming from Codeforces
+              - As soon as you enter NEXT STAGE for `German`, the ONHALT state for everything related to mathematics, computer science and engineering will be restarted, that's when you really start to dig into the hardcore stuff
+                - Basically you will just spend the next three years climbing up the `Codeforces` ladder to Red with Copilot leveraging the tedious coding work
+                  - TO UNLOCK Many of your IDEAs and your future auto-generated IDEAs will be more tangible afterwards
+            - KICK START: Knowledge graph
+          - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
+            - Videomark: 2:31/8:45
+            - CCS: 10.8%
+            - E.T.C: 4.95 months
+            - NEW VOCAB
+              - Absorption Costing --clusterized--> entry_hash=`@cost_accounting_techniques`
       - _meta
         - Style: Osmosis
         - _structure
@@ -149,7 +170,13 @@
   - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
-- Arabic - A1
+- Arabic - Lower A2
+  - Typing speed training
+    - Style: In tandem with 
+    - Current typing rate: 2 WPM
+    - Minimum considerable rate: 40 WPM
+    - In tandem viewing keyboard layout
+      - http://www.arabic-keyboard.org/
   - ON HALT | Energy leak by language addiction
   - WHIM Daily Alphabet Recap
   - RANDOM The future foundational ability of prospective entrepreneur
@@ -171,11 +198,58 @@
 - Vietnamese - A2
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
-
-# 2022/5/1
+- Russian - Lower B1
+  - Typing speed training
+    - Style: In tandem with 
+    - Current typing rate: 15 WPM
+    - Minimum considerable rate: 40 WPM
+    - In tandem viewing keyboard layout
+      - https://en.wikipedia.org/wiki/JCUKEN
+- Fly bxxxh Realm
+  - Dutch - N/A
+    - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
+      - Web3
+        - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
+        - remix.ehtereum.org
+        - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
+        - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
+        - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
+        - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
+      - Metaverse
+# STICKY Monthly Micro PIP
+- Work on it, bxxxh
 - Copilot, 新的一月, 你有什么建议吗?
   - `Copilot: 我想把这个项目改成一个简单的项目, 因为我觉得这个项目太难了`
     - 我靠, 知人知心那
       - `Copilot`: `我觉得这个项目太难了`
-        - Interesting
+        - Interesting, 说得对, 第一次迭代你的确没有proactive的砍树
+          - ACTION ITEM
+            - [ ] Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
+              - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
+              - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
+              - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)
+              - [ ] [Software Engineering: How 'simple' is a real KISS solution? (8 Solutions!!)](https://www.youtube.com/watch?v=V4_Ug2LHi04)
+              - [ ] [PEST Analysis](https://www.youtube.com/watch?v=mCdcdf-b8AU)
+              - [ ] Existing PlantUML & UML course - Monitoring
+              - [ ] VERDICT
+                - [ ] How will you apply this knowledge learned?
+                - [ ] What changes it will impose?
+- Micro-PIP of the month: Strategic Thinking - To Business Entity, and to yourself
+  - *At least tell me how you're going to work on it*
+  - Udemy Course
+  - Differentiation: 
+    - Differentiation Worksheet
+      - Identify your most important competitors
+      - How do your competitor differentiate themselves from you
+      - What are the unique resources of distinction your company offers that you don't
+  - Action Items
+    - [ ] Fill the Differentiators and Capabilities Sheet - Navalent
+      - (https://drive.google.com/file/d/1R0tU_K-LYa11Hq-DvSbJHrygVXzKwXD-/view?usp=sharing)
+- Micro-PIP series: What else?
+  - You need a tool to describe and communicate your 
 
+# 2022/5/3
+- COMPLAINT 叔本华 - 论噪音
+  - I hate living with life forms that are noisy and are constantly undergoing *Oxytocin rampage* on the day-to-day basis
+- *你必须跳下悬崖, 并在下落途中自己长出翅膀*
+- One of my many known associates: *没见过像你这么对自己这么狠的人*

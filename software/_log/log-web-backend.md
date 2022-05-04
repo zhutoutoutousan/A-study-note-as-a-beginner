@@ -185,7 +185,7 @@
 
 # 后端踩坑树
 - Backend
-  - Lang
+  - API
     - Go
       - `Installing ... FAILED`
         - [Failed to install go tools in China, please help to add cn site. thanks very much](https://github.com/microsoft/vscode-go/issues/3129)
@@ -203,7 +203,9 @@
     - `Syntax error, completing LocalVariableDeclarationStatement`
     - NumberFormat
       - `Solution.java:18: error: cannot find symbol`
-  - ...
+  - MongoDB
+    - Error connecting to database MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist
+    - Mongo DB Connection - Password contains unescaped characters
 # Learning Path
 - Engineering
   - JVM

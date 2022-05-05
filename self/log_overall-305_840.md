@@ -83,43 +83,51 @@
               - Symbol Proficiency
               - Flow Proficiency
               - Application Proficiency
-          - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
-            - Cost accounting Techniques | STICKY, FOLLOWING entry_hash=`@cost_accounting_techniques`
-              - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
-              - Material
-              - Economic Order Quantity
-                - Data Inputs
-                  - Q: Order quantity
-                  - D: quantity of product demanded annually
-                  - P: purchase cost for one unit
-                  - C: fixed cost per order(not incl. the purchase price)
-                  - H: cost of holding one unit for one year
-                - Total Cost Function
-                - Optimal Order Quantity\($Q*$\)
-              - Context Symbol Store
-                - TC: Total Cost
-                - $P \times D$: Purchase cost
-                - $C \times D/Q$: Ordering cost
-                - $H \times Q/2$: Holding cost
-                - $Q^{*}=\sqrt{\frac{2CD}{H}}$
-              - Absorption Costing
-                - Overhead
-                - Product Cost Unit
-          - LEARNING STRATEGY REFORMATION IMMINENT
-            - How to shoot a balance between `index-based` knowledge structure and `clusterized` knowledge structure?
-              - We can set `_meta` data to reflect its `clusterization`
-              - Something is related to `constructive algorithm` and `clustering`
-                - DELINQUENCY coming from Codeforces
-              - As soon as you enter NEXT STAGE for `German`, the ONHALT state for everything related to mathematics, computer science and engineering will be restarted, that's when you really start to dig into the hardcore stuff
-                - Basically you will just spend the next three years climbing up the `Codeforces` ladder to Red with Copilot leveraging the tedious coding work
-                  - TO UNLOCK Many of your IDEAs and your future auto-generated IDEAs will be more tangible afterwards
-            - KICK START: Knowledge graph
           - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
-            - Videomark: 2:31/8:45
+            - Videomark: 8:45/8:45
             - CCS: 10.8%
             - E.T.C: 4.95 months
-            - NEW VOCAB
-              - Absorption Costing --clusterized--> entry_hash=`@cost_accounting_techniques`
+          - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
+            - Videomark: 4:36/8:43
+            - CCS: 11.4%
+            - E.T.C: 4.92 months
+            - _meta
+              - review_weight: 5/10(1 as default)
+              - retrieval_pathway_store_required: true
+              - clusterized: true
+              - internalization_level: \{userId\}_\{percentage\}
+            - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
+              - Cost accounting Techniques | STICKY, FOLLOWING entry_hash=`@cost_accounting_techniques`
+                - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
+                - Material
+                - Economic Order Quantity
+                  - Data Inputs
+                    - Q: Order quantity
+                    - D: quantity of product demanded annually
+                    - P: purchase cost for one unit
+                    - C: fixed cost per order(not incl. the purchase price)
+                    - H: cost of holding one unit for one year
+                  - Total Cost Function
+                  - Optimal Order Quantity\($Q*$\)
+                - Context Symbol Store
+                  - TC: Total Cost
+                  - $P \times D$: Purchase cost
+                  - $C \times D/Q$: Ordering cost
+                  - $H \times Q/2$: Holding cost
+                  - $Q^{*}=\sqrt{\frac{2CD}{H}}$
+                - Absorption Costing
+                  - Overhead
+                    - [Overhead (business)](https://en.wikipedia.org/wiki/Overhead_(business))
+                  - Product Cost Unit
+                  - Inventory evaluation
+                - Methods of grouping costs
+                  - Contribution
+                  - Marginal Costing
+                    - Budget(normal) production
+                    - Actual production
+                    - Actual sales
+                    - Actual fixed production O/Hs
+                    - Actual SGA costs
       - _meta
         - Style: Osmosis
         - _structure
@@ -167,10 +175,13 @@
   - TOPIC Project, Product, Service
   - TOPIC Innovation
 - Portuguese - A2
+  - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
+  - Initialization of language/meta structrure: 60%
   - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - Lower A2
+  - Initialization of language/meta structrure: 30%
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 2 WPM
@@ -207,6 +218,8 @@
       - https://en.wikipedia.org/wiki/JCUKEN
 - Fly bxxxh Realm
   - Dutch - N/A
+    - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
+    - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
     - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
       - Web3
         - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
@@ -253,3 +266,4 @@
   - I hate living with life forms that are noisy and are constantly undergoing *Oxytocin rampage* on the day-to-day basis
 - *你必须跳下悬崖, 并在下落途中自己长出翅膀*
 - One of my many known associates: *没见过像你这么对自己这么狠的人*
+  - Gamification is the key

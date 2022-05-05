@@ -18,7 +18,15 @@
 - Financial accounting
 - SEARCH: `Information theory` for setting up `erudition`
   - RELATED: Information circulation theory
-
+- LEARNING STRATEGY REFORMATION IMMINENT
+  - How to shoot a balance between `index-based` knowledge structure and `clusterized` knowledge structure?
+    - We can set `_meta` data to reflect its `clusterization`
+    - Something is related to `constructive algorithm` and `clustering`
+      - DELINQUENCY coming from Codeforces
+    - As soon as you enter NEXT STAGE for `German`, the ONHALT state for everything related to mathematics, computer science and engineering will be restarted, that's when you really start to dig into the hardcore stuff
+      - Basically you will just spend the next three years climbing up the `Codeforces` ladder to Red with Copilot leveraging the tedious coding work
+        - TO UNLOCK Many of your IDEAs and your future auto-generated IDEAs will be more tangible afterwards
+  - KICK START: Knowledge graph
 # Encoding
 ```
 BOUNDRY:  

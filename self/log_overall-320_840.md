@@ -22,7 +22,6 @@ Check: #possibleacademiadirection for choosing major
 2022-1-16：Whenever you want to start a business, test your ideas, no more second thoughts until you've got a clear message whether the idea works or not once you've started
 
 - Academic Directions
-
 - Why you want to leave the current country
   - Zeitgeist
     - Radiation: *I believe there are winners and losers, nothing else*
@@ -34,7 +33,7 @@ Check: #possibleacademiadirection for choosing major
 - 启动`competitive programming`训练计划
   - TopCoder, Codeforces
 - Describe your life time pursuit, what is the one single direction you want to head to if that's the only way
-  - Meso Science
+  - Meso Science ---> 过程科学 | 也许只有这个方向能让你激动地热泪盈眶了
     - Complexity Science
       - Quatitative Causality
       - Emergence

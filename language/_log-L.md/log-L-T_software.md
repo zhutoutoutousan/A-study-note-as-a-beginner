@@ -69,7 +69,17 @@
 # D
 - Database Design
   - [Design a News Feed System](https://liuzhenglaichn.gitbook.io/system-design/news-feed/design-a-news-feed-system)
+- Data Consistency
+  - [Data Consistency and Tradeoffs in Distributed Systems](https://www.youtube.com/watch?v=m4q7VkgDWrM)
 - Defect Density
+- Deque
+  - [Deque - Data Structure](https://www.youtube.com/watch?v=5VDQxLAlfu0)
+    - Videomark: 9:16/9:16
+    - _meta
+      - internalization_level: 10%
+- Distributed Caching
+  - [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
+    - Videomark: 2:14/14:03
 - Domain Driven Design
   - [Domain Driven Design Patterns in Python](https://www.youtube.com/watch?v=hv-LiKQgN90)
     - Videomark: 6:13
@@ -223,6 +233,8 @@
     - [Learn SOLID Principles with CLEAN CODE Examples](https://www.youtube.com/watch?v=_jDNAf3CzeY)
       - Videomark: 14:15
 - System design
+  - Hands-on
+    - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   - Philosophy
     - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
   - Communications

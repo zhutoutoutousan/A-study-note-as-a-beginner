@@ -1,3 +1,6 @@
+# STICKY 寻找Purpose的旅程
+- 
+
 # STICKY Language progression management
 - Goal
   - New Goal E.T.A 120 days as of 2022/04/20
@@ -6,6 +9,9 @@
   - The *system* runs by itself taking up some energy and overhead of this brain
   - GOAL FOUND!
     - International business orchestration
+      - Sub-Topics
+        - Businesss Development
+        - Business Analysis
       - WTF is this?
       - Holy cow, I really found this stuff
         - [Business Orchestration: Strategic Leadership in the Era of Digital Convergence](#)
@@ -249,8 +255,17 @@
                 - [ ] What changes it will impose?
 - Micro-PIP of the month: Strategic Thinking - To Business Entity, and to yourself
   - *At least tell me how you're going to work on it*
+  - Working system of an enterprise
+    - Strategic System
+    - Coordinating System
+      - Translate strategy into direction & action
+      - Prioritize & Manage
+    - Operating System
+      - Use resource effectively
+      - Execution
+      - Communicate upward
   - Udemy Course
-  - Differentiation: 
+  - Differentiation:
     - Differentiation Worksheet
       - Identify your most important competitors
       - How do your competitor differentiate themselves from you
@@ -258,6 +273,13 @@
   - Action Items
     - [ ] Fill the Differentiators and Capabilities Sheet - Navalent
       - (https://drive.google.com/file/d/1R0tU_K-LYa11Hq-DvSbJHrygVXzKwXD-/view?usp=sharing)
+    - [ ] [Categorizing Your Work](https://drive.google.com/file/d/1NoE_dX138kRLRBeaJ2axRY1F35MtzSnc/view?usp=sharing)
+      - [ ] Competitive Work
+      - [ ] Competitive-Enabling Work
+      - [ ] Business-Essential Work
+      - [ ] Non-Essential Work
+    - 养成习惯 - 要练到你不这样思考会难受的程度
+      - 先达到如此程度, 再选择可以忘掉
 - Micro-PIP series: What else?
   - You need a tool to describe and communicate your 
 
@@ -265,5 +287,16 @@
 - COMPLAINT 叔本华 - 论噪音
   - I hate living with life forms that are noisy and are constantly undergoing *Oxytocin rampage* on the day-to-day basis
 - *你必须跳下悬崖, 并在下落途中自己长出翅膀*
+  - CPU: You're doing this again and again for years, stop it already
+  - NEW: *我不入地狱, 谁入地狱* - 来自地狱的回响
 - One of my many known associates: *没见过像你这么对自己这么狠的人*
   - Gamification is the key
+
+# 2022/5/5
+- The essense of gamification
+  - Multiple happiness hormone source
+    - When one of them is drained, others will compensate till the reason why one of them is drained gets addressed
+
+# 2022/5/6
+- *So you finally chose `the intellectual dark web` path huh? Good luck*
+  - Soon it will not be dark anymore, it will come to light

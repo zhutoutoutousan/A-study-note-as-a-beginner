@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [New Tech](#new-tech)
-- [Shiny Object 踩坑树](#shiny-object-踩坑树)
+- [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
 - [Renovation plan](#renovation-plan)
@@ -40,13 +40,13 @@
 # New Tech
 - dbforge
 
-# Shiny Object 踩坑树
+# Shiny Object Journey
 - Copilot
   - `一直沉睡, 不造啥时候醒来`
 - Docker
   - Docker: WSL 2 integration with distro Ubuntu 20.04 unexpectedly stopped with exit code 1
     - `The command 'docker' could not be found in this WSL 2 distro. We recommend to activate the WSL integration in Docker Desktop settings.`
-
+- Svelte
 # Unidentified tools
 - Bridgecrew
 
@@ -61,6 +61,9 @@
 - Startup Toolchain
   - Ideation
   - Prototype
+  - Automation
+    - Shutit
+      - [Where X=ShutIt](https://learnxinyminutes.com/docs/shutit/)
   - MVP
     - _meta
       - Migration Cost of Change model

@@ -1,5 +1,6 @@
 # STICKY 寻找Purpose的旅程
-- 
+- [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
+- [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
 
 # STICKY Language progression management
 - Goal
@@ -103,7 +104,7 @@
               - clusterized: true
               - internalization_level: \{userId\}_\{percentage\}
             - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
-              - Cost accounting Techniques | STICKY, FOLLOWING entry_hash=`@cost_accounting_techniques`
+              - Cost accounting Techniques entry_hash=`@cost_accounting_techniques`
                 - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
                 - Material
                 - Economic Order Quantity
@@ -134,6 +135,14 @@
                     - Actual sales
                     - Actual fixed production O/Hs
                     - Actual SGA costs
+          - [ACCA F2 - 7 Job, batch and process costing](https://www.youtube.com/watch?v=ljfZ0IIzvTs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=21)
+            - Videomark: 6:10/10:22
+            - CCS: 12%
+            - E.T.C: 2.44 months
+            - NEW VOCAB 
+              - Batch Costing
+              - Process Costing
+              - FIFO method(Accounting)
       - _meta
         - Style: Osmosis
         - _structure

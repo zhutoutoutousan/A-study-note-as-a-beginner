@@ -55,3 +55,7 @@ Check: #possibleacademiadirection for choosing major
   - 多年的自我探索和尝试的结果是
     - 不正常: 不能按正常人的框架来束缚自己
     - 宿命: 做出改变世界的产品, 建立一个商业帝国/用Mesoscience来改变世界
+      - 目前的商业语言就是在一个封建环境下
+
+# Alternative
+- 多语游戏, 录视频(●ˇ∀ˇ●)

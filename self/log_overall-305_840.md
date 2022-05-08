@@ -95,7 +95,7 @@
             - CCS: 10.8%
             - E.T.C: 4.95 months
           - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
-            - Videomark: 4:36/8:43
+            - Videomark: 8:43/8:43
             - CCS: 11.4%
             - E.T.C: 4.92 months
             - _meta
@@ -125,6 +125,14 @@
                 - Absorption Costing
                   - Overhead
                     - [Overhead (business)](https://en.wikipedia.org/wiki/Overhead_(business))
+                      - Accounting
+                      - Taxes
+                      - Repairs & Maintenance
+                      - Office Supplies
+                      - Human resources
+                      - Rent
+                      - Utilities
+                      - Insurance
                   - Product Cost Unit
                   - Inventory evaluation
                 - Methods of grouping costs
@@ -136,13 +144,122 @@
                     - Actual fixed production O/Hs
                     - Actual SGA costs
           - [ACCA F2 - 7 Job, batch and process costing](https://www.youtube.com/watch?v=ljfZ0IIzvTs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=21)
-            - Videomark: 6:10/10:22
+            - Videomark: 10:22/10:22
             - CCS: 12%
             - E.T.C: 2.44 months
+            - _meta
+              - review_weight: 5/10(1 as default)
+              - retrieval_pathway_store_required: true
+              - clusterized: true
+              - internalization_level: \{userId\}_\{percentage\}
+            - UNDERCURRENT | Accounting `_meta`
+              - Visualization of the balance sheet, income statement and cash flow
+              - Combine with news feeds and global data stored in brain
+              - Visualization of budget categorization
+              - Experience store of budgeting process
+                - Stakeholders
+                - Workflow
+                - Tooling
+                - Information
+            - EXERCISE
+              - Budget re-calibration
             - NEW VOCAB 
               - Batch Costing
               - Process Costing
+                - _cache_meta
+                  - use case
+                    - mass production of identical product
               - FIFO method(Accounting)
+              - Joint products/By-products
+                - Processing path
+                - Point of separation
+                  - Market value
+                    - Expected sales price
+                  - Number of units
+                  - Net realizable value
+              - Quantitative plan for the future
+                - _meta
+                  - use case
+                    - communicate objectives
+                    - motivate employees
+                    - control activites
+                    - evaluate performance 
+              - Scrap value of rejected units
+              - $Average\_ cost\_ per\_ unit = \frac{total\_ cost\_ of\_ inputs - scrap\_ value\_ of\_ rejected\_ units}{no\_ of\_ units\_ of\_ input - normal\_ loss}$
+          - [ACCA F2 - 8 Fixed vs flexible budgets](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+            - Videomark: 10:22/10:22
+            - Budgeting training
+              - [Hubro Business Simulation](https://hubro.education/en/hubro-business-simulation)
+              - [FathomHQ](https://www.fathomhq.com/features)
+            - Budget
+              - [Personal Budget Category](https://www.quicken.com/blog/budget-categories)
+              - [Budgeting, Planning, and Forecasting Software - Wolters Kluwer](https://www.wolterskluwer.com/en-sg/solutions/cch-tagetik/budgeting-planning-apac-ads-lp?utm_medium=Online-Advertising&utm_source=Google-Text&utm_content=Report-Analyst&utm_campaign=OA-AP-BPF-HK-Budgeting-04-2022&utm_adgroup={adgroup}&utm_term=budgeting%20tool&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOeDZqfzOFCggYexeO_uL90VOgvftqSdjmivbFm1cr77wnz7yoFSuxoCfB8QAvD_BwE)
+              - [20 Common Small Business Budget Categories](https://bench.co/blog/accounting/business-budget-categories/)
+            - Budget Categorization
+              - Master budgets
+                - Annual frequency, preferably revised on a regular basis(rolling budget)
+                - Based on organization's objectives, expressed in financial, quantitative and qualitative measures
+              - Operating budgets
+                - Sales budget
+                - Production budget
+                - Ending inventory budget
+                - Direct material budget, Direct labour budget, Factory overhead budget
+                - Cost of Sales budget
+                - R&D budget, Marketing budget, Distribution budget, Customer Service budget, Admin budget
+                - Pro-forma income statement
+              - Financial budget
+                - Capital budget
+                - Cash budget
+                - Pro-forma balance-sheet and pro-forma statement of cash-flows
+          - [ACCA F2 - 9 Basic variance analysis](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+            - Videomark: 10:50/18:51
+            - CCS: 13.1%
+            - E.T.C: 2.63 months
+              - Why did E.T.C half itself?
+                - 脏数据就不要了吧
+            - NEW VOCAB
+              - Cost Card - Absorption costing
+                - _meta
+                  - Retain pathways
+                    - `this`
+                - Direct Materials/labour
+                - Variable/Fixed production O/Hs
+                - _meta
+                  - units
+                    - Adverse(unit)
+                      - `(A)`
+                    - Favorable
+                      - `(F)`?
+                - Variance analysis
+                  - Sales volume variance(Absorption costing)
+                    - `sales_volume_variance_at_standard_margin = budget_sales_price_per_unit - total_production_costs_per_unit`
+                  - Sales volume variance(Marginal costing)
+                    - `sales_volume_variance_at_standard_contribution = budget_sales_price_per_unit -   total_production_costs_per_unit`
+                      - Standard contribution = SP - VC 
+                        - ?VC = `total_production_costs_per_unit - fixed_overhead`
+                        - SP: Sales price per unit
+                        - VC: Variable costs per unit
+                  - Sales price variance
+                  - Material variances
+                    - Material total variance
+                      - Material price variance
+                      - Material usage variance
+                      - ?
+                  - Labour variances
+                    - Labour total variance
+                      - Labour rate variance
+                      - Labour efficiency variance
+                  - Variable O/H variances
+              - OAR: Budgeted Production overhead / Budgeted Activity level
+                - ${actual\_ output}_{units} \times OAR = fixed\_ oh \_ absorbed$
+                - [Overhead absorption definition](https://www.aatcomment.org.uk/learning/study-tips/study-tips-understanding-absorption-costing/#:~:text=OAR%20%3D%20Budgeted%20Production%20overhead%20%2F%20Budgeted%20Activity%20level&text=An%20important%20aspect%20to%20note,overheads%20that%20were%20actually%20absorbed.)
+            - INTERNAL REVOLUTION --> MOVE to `_PROCESSING`
+              - Knowledge-Meta System design
+              - IMPLEMENTATION You need hashtags like #meta-1, #meta-2... to create a link for connecting meta
+              - MANIFESTATION
+                - _meta #meta-1
+                  - _meta #meta-2
+                    - ...
       - _meta
         - Style: Osmosis
         - _structure
@@ -309,3 +426,10 @@
 # 2022/5/6
 - *So you finally chose `the intellectual dark web` path huh? Good luck*
   - Soon it will not be dark anymore, it will come to light
+
+# 2022/5/7
+- Damn, suffering from brain singularity again xD
+
+# 2022/5/8
+- 没有永恒的忠诚, 没有永恒的利益, 只有永恒的梦想
+

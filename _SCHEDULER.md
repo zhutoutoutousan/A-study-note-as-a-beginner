@@ -8,6 +8,24 @@
   - Tao of Personal Management & Development Orchestration
   - Tao of Personal Skillset Orchestration
 
+# Low-Level performance improvement
+- Bymaverse
+  - CPU: *快了, 人类进化快来了*
+  - *人人都是最强大脑*
+  - 大脑训练在不同阶段需要的gamification以及游戏沙盒结构是完全不同的
+    - 用户可以fine-tune自己的游戏规则, 并且可以自定义游戏沙盒结构
+    - 分享机制
+    - Blockchain
+  - 市面上大多数大脑训练, their level of stupidity and disregard for how brain really strengthens itself and create value, what people value and strive for are outrageous.
+  - 大脑健身房训练和输出价值的直接链接及Agile pivot
+    - Role-based progressive brain training with flexible gamification experience
+    - Performance-based brain training with flexible gamification experience
+  - 市场调查: *你是否希望为你定制且你能以一定自由度修改的大脑训练游戏, 它能为你输出什么价值? 能作用于哪些价值链? 如果您能自定义游戏, 您希望从哪些维度自定义游戏? 您希望和那类产品进行graceful carry-over?*
+    - 学术研究人员
+    - 企业从业人员
+      - TRANSITIONING 传统Feudalism+Kafka式结构企业的战略层/运作层/执行层
+      - POST-GREAT_RESIGNATION Web3松散型灵活分配的网络式结构企业中不同filter下不同热点结点
+
 # Erudition
 - Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理
 

@@ -1,0 +1,40 @@
+- Bymaverse
+  - CPU: *快了, 人类进化快来了*
+  - Copywriting
+    - *人人都是最强大脑*
+    - *全年龄段定制*
+    - *打通大脑发展的底层逻辑*
+    - *F U flushcard*
+  - 大脑训练在不同阶段需要的gamification以及游戏沙盒结构是完全不同的
+    - 用户可以fine-tune自己的游戏规则, 并且可以自定义游戏沙盒结构
+    - 分享机制
+    - Blockchain
+  - 市面上大多数大脑训练, their level of stupidity and disregard for how brain really strengthens itself and create value, what people value and strive for are outrageous. 然而MOBA虽然能够训练人的总体智力, 但是缺乏fine-grained, value-driven的训练机制, 并使90%的人口陷入单维度心理怪圈 总体大环境限制了人类总体智力的发展, 在Web3的未来, *Keep them simple, predictable and stupid while developing the loyal*的维稳机制即将坍塌, 需要有企业接盘
+  - 大脑健身房训练和输出价值的直接链接及Agile pivot
+    - Role-based progressive brain training with flexible gamification experience
+    - Performance-based brain training with flexible gamification experience
+  - 市场调查: *你是否希望为你定制且你能以一定自由度修改的大脑训练游戏, 它能为你输出什么价值? 能作用于哪些价值链? 如果您能自定义游戏, 您希望从哪些维度自定义游戏? 您希望和那类产品进行graceful carry-over?*
+    - 学术研究人员
+    - 企业从业人员
+      - PRE-BIG_BANG 传统Feudalism+Kafka式结构企业的战略层/运作层/执行层
+        - 灵活指派, 收集数据, 为企业架构转型做好准备
+      - POST-BIG_BANG Web3松散型灵活分配的网络式结构企业中不同filter下不同热点结点
+        - \_\_CRAZINESS\_\_: Post-bigbang Web3松散型灵活分配的网络式结构企业的架构设计以及其与TOGAF架构的不同之处
+          - Airbnb架构转型的分析
+            - Guys, need some help here.../(ㄒoㄒ)/~~ I donno sxxt
+            - Future PIP for this: TOGAF, Data Analytics, System Engineering, Complex System etc.
+    - 学生党
+    - 转型人员
+    - 投资人
+      - 未来, 无论是风险投资从孩童开始, 会出现一个投资人的metaverse, 名字都想好了, 叫investaverse
+        - 类似产品: Signalhire, rocketreach, etc.
+    - 其余*无sr人群* <。)#)))≦
+  - Data collection and market analysis
+    - Have you R-ed yet?
+      - Talk2'ya la'er after U R-ed
+  - Product
+    - 2C - Browser-first app
+    - 2B - Data shared with interested entities with a price
+      - Neuralink: How and to what direction BCI can help
+  - MVP plan
+    - Talk2'ya la'er after U R-ed

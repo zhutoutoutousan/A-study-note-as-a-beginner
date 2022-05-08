@@ -60,7 +60,11 @@
 # 个人软件开发军火库 - 优选
 - Startup Toolchain
   - Ideation
+    - Miro
   - Prototype
+  - Teamplay
+    - GitLens
+    - vscode-icons
   - Automation
     - Shutit
       - [Where X=ShutIt](https://learnxinyminutes.com/docs/shutit/)

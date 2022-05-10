@@ -1,0 +1,3 @@
+- reverso
+- Lingodeer
+- Duolingo

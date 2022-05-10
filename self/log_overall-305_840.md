@@ -1,7 +1,11 @@
 # STICKY 寻找Purpose的旅程
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
 - [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
-
+- The Goal E.M.Goldratt
+- The Checklist Manifesto - A.Gawande
+- The Practice of Management - P.F. Drucker
+- The Art of Business Value - M. Schwartz
+- Getting Things Done - D. Allen
 # STICKY Language progression management
 - Goal
   - New Goal E.T.A 120 days as of 2022/04/20
@@ -188,6 +192,11 @@
               - $Average\_ cost\_ per\_ unit = \frac{total\_ cost\_ of\_ inputs - scrap\_ value\_ of\_ rejected\_ units}{no\_ of\_ units\_ of\_ input - normal\_ loss}$
           - [ACCA F2 - 8 Fixed vs flexible budgets](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
             - Videomark: 10:22/10:22
+            - _meta
+              - review_weight: 9/10(1 as default)
+              - retrieval_pathway_store_required: true
+              - clusterized: true
+              - internalization_level: \{userId\}_\{percentage\}
             - Budgeting training
               - [Hubro Business Simulation](https://hubro.education/en/hubro-business-simulation)
               - [FathomHQ](https://www.fathomhq.com/features)
@@ -212,7 +221,16 @@
                 - Cash budget
                 - Pro-forma balance-sheet and pro-forma statement of cash-flows
           - [ACCA F2 - 9 Basic variance analysis](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
-            - Videomark: 10:50/18:51
+            - Videomark: 18:51/18:51
+            - _meta
+              - review_weight: 9/10(1 as default)
+                - _meta
+                  - How is *review_weight* reflected on your learning strategy?
+              - retrieval_pathway_store_required: true
+              - multilateral_resource_required: true
+              - clusterized: true
+              - internalization_level: \{userId\}_\{percentage\}
+            - 2022/5/8: **STRATEGIC ADJUSTMENT**: According to the domestic economic/market landscape, the power has been decided that you will put an extra 15 minutes to this endeavour, which accounts for 25 minutes per day for weekend only
             - CCS: 13.1%
             - E.T.C: 2.63 months
               - Why did E.T.C half itself?
@@ -250,6 +268,7 @@
                       - Labour rate variance
                       - Labour efficiency variance
                   - Variable O/H variances
+                  - Fixed O/H variances
               - OAR: Budgeted Production overhead / Budgeted Activity level
                 - ${actual\_ output}_{units} \times OAR = fixed\_ oh \_ absorbed$
                 - [Overhead absorption definition](https://www.aatcomment.org.uk/learning/study-tips/study-tips-understanding-absorption-costing/#:~:text=OAR%20%3D%20Budgeted%20Production%20overhead%20%2F%20Budgeted%20Activity%20level&text=An%20important%20aspect%20to%20note,overheads%20that%20were%20actually%20absorbed.)
@@ -260,6 +279,84 @@
                 - _meta #meta-1
                   - _meta #meta-2
                     - ...
+              - ACTION --> MOVE to `__IDEA__philosophy-as-code` and REMOVE
+                - WTF is this? 哲学作为代码? 数字化哲学? 哲学的数字化转型?
+          - [ACCA F2 - 10 Operating statements & breakeven analysis](https://www.youtube.com/watch?v=St6v1C-nrm0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=24)
+            - _meta
+              - units
+                - Adverse(unit)
+                  - `(A)`
+                - Favorable
+                  - `(F)`?
+              - review_weight: 9/10(1 as default)
+                - _meta
+                  - How is *review_weight* reflected on your learning strategy?
+            - Videomark: 11:11/11:11
+            - CCS: 13.7%
+            - E.T.C: 4.79 months
+            - STRUCT CLUSTER
+              - Acronyms
+                - TC = Total cost
+                - FC = Fixed cost
+                  - = Contribution?
+                - V = Unit Variable cost
+                - T.VC
+                - X = Number of units
+                - TR = Total revenue
+                - SP = Sales price
+                - C = SP - V = Cost per unit
+              - Operating statement based on Marginal costing
+              - Operating statement based on Absorption costing
+              - Short-term decision-making techniques
+                - CVP(Cost-Volume-Profit) Analysis
+                - The breakeven formula
+                  - TC = FC + V * X
+                  - TR = SP * X
+              - Relevant costs, incremental analysis and linear programming
+                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION(destroy_on_first_creation)
+                  - Process 1
+                    - Bookmark: 1/392
+                    - Style: Osmosis
+                      - _meta
+                        - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                        - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                          - _meta
+                            - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                    - Goal: Connect the dots till a whole area just clicks
+                  - Process 2
+                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION
+                - Retain pathway: Your search engine works, right?
+                - $-units graph - V_7:51
+              - Applying incremental analysis in business decision-making
+              - Determining optimal mix of products where there are limiting factors
+          - [ACCA F3 - 1 Elements of financial statements](https://www.youtube.com/watch?v=1gCPkDJa7HU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=25)
+            - Videomark: 2:18/5:39
+            - CCS: 14.3%
+            - E.T.C: 4.76 months
+            - ADJUSTMENT: Any STRUCTS created by furthur study of ACCA will not be directed to `language_translation`, and will be clusterized in `ACCA` section
+            - _meta
+              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                - _meta
+                  - STICKY, FOLLOWING
+                - Process 1
+                  - Bookmark: 1/392
+                  - Style: Osmosis
+                    - _meta
+                      - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                      - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                        - _meta
+                          - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                  - Goal: Connect the dots till a whole area just clicks
+                    - _meta
+                      - And record `average_arial_singularity_time_cost`
+                - Process 2
+              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                - _meta
+                  - STICKY, FOLLOWING
       - _meta
         - Style: Osmosis
         - _structure
@@ -432,4 +529,13 @@
 
 # 2022/5/8
 - 没有永恒的忠诚, 没有永恒的利益, 只有永恒的梦想
+- *孟子曰：“大人者，言不，必信；行不，必果，惟义所在。”*
 
+
+# 2022/5/9
+- *年轻人不按套路出牌真的是太可怕了*
+  - 说的就是自己\[dogge\]
+
+# 2022/5/10
+- *小伙子, 尽量减少多语言的刺激... 如果是写代码的话, 不然每天大脑都严重超载*
+- *I'm scared. I'm scared of myself*

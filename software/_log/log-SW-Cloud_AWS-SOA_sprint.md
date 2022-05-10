@@ -3,10 +3,11 @@
   - _ARCHIVE_log-SW-Cloud_AWS-sprint.md
 - Connect the dots from the Beginning
   - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+    - Videomark: 15:00
+    - Prunning: 0:00-15:00
   - [Udemy Guide](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/learn/lecture/17994047#overview)
     - Memoization field
     - Coursemark: 14:08
-
 - Know what you are facing
   - 22% Monitoring and Reporting 14-15 Qs
   - 8% High Availability 5-6 Qs

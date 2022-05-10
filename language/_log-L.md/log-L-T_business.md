@@ -115,6 +115,8 @@
 - Cross holding: 交叉持股
   - [Cross Holding](https://corporatefinanceinstitute.com/)
 # D
+- 递延资产: Deferred Charges
+  - [MBA智库](https://wiki.mbalib.com/wiki/%E9%80%92%E5%BB%B6%E8%B5%84%E4%BA%A7#:~:text=%E9%80%92%E5%BB%B6%E8%B5%84%E4%BA%A7%E6%98%AF%E6%8C%87,%E8%BF%99%E6%9C%9F%E9%97%B4%E5%88%86%E6%91%8A%E7%9A%84%E8%B4%B9%E7%94%A8%E3%80%82)
 - DCF: Discounted Cash Flow
   - [Discounted Cash Flow | DCF Model Step by Step Guide](https://www.youtube.com/watch?v=gLULdxrS-CU)
     - Videomark: 5:12/21:41
@@ -303,6 +305,8 @@
     - 松散型分销模式
     - 管理型分销模式
 # G
+- 杠杆率
+  - [MBA - 智库](https://wiki.mbalib.com/wiki/%E6%9D%A0%E6%9D%86%E7%8E%87)
 - BUSINESS
   - 固定资产盘点
     - Inventory of Fixed Assets

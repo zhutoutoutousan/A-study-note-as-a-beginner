@@ -67,6 +67,16 @@
         - You get caught
           - Treat it like a free hotel
         - Blocked by the BELOVED firewall
+- AWS EKS
+  - www.ecsworkshop.com
+  - BOOK Cloud Native infrastructure pdf
+  - BOOK Building microservices pdf
+  - The Twelve-factor App
+    - 12factor.net
+  - Open container initiative
+  - Amazon EKS workshop
+- AWS ECS
+  - www.eksworkshop.com
 - AWS Lambda
   - _how-to
     - Third Party API --> Lambda --> S3

@@ -63,6 +63,8 @@
     - Miro
   - Prototype
   - Teamplay
+    - Apifox
+      - ALTER: Mockaroo
     - GitLens
     - vscode-icons
   - Automation
@@ -97,6 +99,8 @@
   - Load Testing
     - Locust
     - BlazeMeter
+- 技术研究
+  - astexplorer
 - 技术设计
   - Architecture Design
     - Cloudcraft

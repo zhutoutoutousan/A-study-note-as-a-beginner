@@ -337,26 +337,100 @@
             - Videomark: 2:18/5:39
             - CCS: 14.3%
             - E.T.C: 4.76 months
+            - Elements of the statement of financial position
+              - Asset
+                - _meta
+                  - assets = equity + liabilities
+                - Opening net assets
+                - Closing net assets=Opening net assets + Total Comprehensive Income in the period + new capital introduced in the period - withdrawls in the period
+              - Liability
+                - Accrual
+              - Equity
+                - _meta
+                  - instance
+                    - Partner's capital & Current account
+            - Elements of the statement of comprehensive income
+              - Income
+                - Total comprehensive income made in the period(a profit will increase net assets)
+                - New capital introduced by the owner(wil always increase net assets)
+                - Withdrawals made in the period a.k.a dividend(will always reduce net assets)
+              - Expense
             - ADJUSTMENT: Any STRUCTS created by furthur study of ACCA will not be directed to `language_translation`, and will be clusterized in `ACCA` section
+          - [ACCA F3 - 2 The business equation](https://www.youtube.com/watch?v=2JBrsCfj_Ic&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=26)
+            - Videomark: 7:57/7:57
+          - [ACCA F3 - 3 Types of business entities](https://www.youtube.com/watch?v=1DY3IWgmGoI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=27)
+            - Videomark: 10:28/10:28
+            - CCS: 15.4%
+            - E.T.C: 4.7 months
+            - \_meta\_\{perceived-depth=MAXIMUM-2\}
+              - CREATE meta_type
+                - Sticky meta
+                - Static meta
+            - Sole traders, partnership and limited companies
+              - PRUNED Furthur storage pruned due to overwhelming retain-pathways and lack of enough `weight`
+              - Differentiation
+                - $2^3 - 1$
+              - SOFP
+                - [Kidbrooke - Balancesheet simulator](https://kidbrooke.com/outrank/balance-sheet-simulator/)
+          - [ACCA F3 - 4 Books of original entry](https://www.youtube.com/watch?v=DxzwFDznjrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=28)
+            - Videomark: 8:35/8:35
+            - CCS: 16.0%
+            - E.T.C: 4.67 months
+            - STRUCT
+              - Book of original entry
+                - _meta
+                  - _category
+                    - _meta
+                      - _category_criteria
+                    - Cash in book
+                    - Cash payments book
+                    - Pretty cash book
+                      - Imprest system
+                    - Sales day book
+                    - Purchases day book
+                    - Journal book
+                    - NEW ERA
+                      - Digital entries
+                        - TBR
+                      - Web3 Entries
+                        - TBR
+                      - Post-Web3
+                  - _instance
+                    - _meta
+                      - _inbound_rules
+                        - Only real cases allowed
+          - [ACCA F3 - 5 Control of petty cash](https://www.youtube.com/watch?v=Bd68xfJ3C6o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=29)
+            - Videomark: 2:00/7:03 
+            - CCS: 16.6%
+            - E.T.C: 4.63 months
             - _meta
               - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
                 - _meta
-                  - STICKY, FOLLOWING
-                - Process 1
-                  - Bookmark: 1/392
-                  - Style: Osmosis
-                    - _meta
-                      - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
-                      - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                  - STICKY, FOLLOWING  
+                    - Process 1
+                      - Bookmark: 11/392
+                      - Style: Osmosis
+                        - _meta 
+                          - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                          - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                            - _meta
+                              - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                      - Goal: Connect the dots till a whole area just clicks
                         - _meta
-                          - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
-                  - Goal: Connect the dots till a whole area just clicks
-                    - _meta
-                      - And record `average_arial_singularity_time_cost`
-                - Process 2
+                          - And record `average_arial_singularity_time_cost`
+                      - Sub-process 1.1
+                        - Scope
+                        - Goal
+                    - Process 2
               - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                - Bookmark: 2/45
                 - _meta
                   - STICKY, FOLLOWING
+                  - RECAP
+                    - position: p1
+                  - STRUCT
+                    - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+
       - _meta
         - Style: Osmosis
         - _structure
@@ -369,8 +443,6 @@
           - Specific Functions of Accounting and Internal Financial Control
           - Leading and Managing Individuals and Teams
           - Recruiting and Developing Effective Employees
-    - Being Strategic: Thinking and Acting with Impact
-      - Coursemark: 8.3%
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 5:14/2:05:53
   - POINTER CONDITION
@@ -410,7 +482,9 @@
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 30%
+  - Initialization of language/meta structrure: 41.5%
+  - Tool
+    - Tone finder
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 2 WPM
@@ -418,8 +492,14 @@
     - In tandem viewing keyboard layout
       - http://www.arabic-keyboard.org/
   - ON HALT | Energy leak by language addiction
+    - 2022/5/13: As the sentence becomes longer, detecting neural-level alternation, new neural pathways are being created, initiate `neural pathway encapsulation mechanism` for future re-use
+      - _meta
+        - *I can't automate this for now*
+        - What...is... neural pathway encapsulation mechanism? Do you have one?
+          - _meta
+            - Do we have a similar counterpart on the *人类共同体* side? Or... *外星人共同体*?
   - WHIM Daily Alphabet Recap
-  - RANDOM The future foundational ability of prospective entrepreneur
+  - RANDOM The future foundational ability of prospective entrepreneur --> MOVE TO `startup` ON NEXT ENCOUNTER
     - MICRO Typing Speed of no less than 200 WPM
     - MESO | MOBA proficiency
       - Communication rigor
@@ -429,7 +509,7 @@
       - Expertee
       - Context-driven raw intelligence or pre-built mental facility
     - MACRO TBD
-  - Symbol Proficiency
+  - Symbol Proficiency --> MOVE TO `language_arsenal` ON NEXT ENCOUNTER
     - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
@@ -443,6 +523,9 @@
     - Style: In tandem with 
     - Current typing rate: 15 WPM
     - Minimum considerable rate: 40 WPM
+    - Tool
+      - Stress finder
+        - [russiangram](https://russiangram.com/)
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
 - Fly bxxxh Realm
@@ -531,7 +614,6 @@
 - 没有永恒的忠诚, 没有永恒的利益, 只有永恒的梦想
 - *孟子曰：“大人者，言不，必信；行不，必果，惟义所在。”*
 
-
 # 2022/5/9
 - *年轻人不按套路出牌真的是太可怕了*
   - 说的就是自己\[dogge\]
@@ -540,3 +622,35 @@
 - *小伙子, 尽量减少多语言的刺激... 如果是写代码的话, 不然每天大脑都严重超载*
 - *I'm scared. I'm scared of myself*
 - 明白了一个人真正成长时候的状态: 薛定谔状态/临界态
+
+## ACTION REQUIRED, STICKY, GLOBAL About your future consolidation of your coding habit that is immediately and increasingly beneficial 
+#GLOBAL
+### Bottom-up README architecture
+- Sub-structures
+  - Changelog
+  - Use case
+
+
+# 2022/5/11
+- Effective role-switch strategy 
+  - Dev2Sales
+
+# 2022/5/12
+- 创立`攻防学`
+  - 黑客攻防学
+  - 实体攻防学
+    - 企业攻防学
+      - 大企业
+        - PR攻防学
+        - 企业架构攻防学
+        - 企业安全攻防学
+        - 供应链攻防学
+    - GJ攻防学
+  - 法律攻防学
+    - [Spotify - 法律攻防](https://open.spotify.com/show/6gscaqbc1EDUuGjvYQw7wL)
+  - 个人攻防学
+- 关于部分对于`基于高不可攀感的优越感高依赖心理态`的人类实体的自动化PUA策略及精细化心灵控制导向的自动化语言输出系统, 结点行为模拟系统的开发可能性探索
+  - DOING COPY to `reaper-of-pain` and `Eliza`
+- 论`Baby商人`的自我修养
+- 我觉得人类总体智力的发展为什么还是太慢的原因是`社会支配欲导向的金字塔型架构`, 猩猩也是这样的社会结构, 如果我们能够打破猩猩的如此的社会结构, 并且给猩猩共同体提供精细化智力发展的解决方案及生理学限制的规避策略, 也许猩猩的IQ能够提升到90-100, 加入劳动力大军
+    - CRAZINESS: Animals as workforce

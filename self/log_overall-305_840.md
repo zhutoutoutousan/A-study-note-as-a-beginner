@@ -6,6 +6,9 @@
 - The Practice of Management - P.F. Drucker
 - The Art of Business Value - M. Schwartz
 - Getting Things Done - D. Allen
+- Educated - Tara Westover 
+# STICKY Mandatory workout planning
+- Since you're slacking off your workout, mandatory workout routine required
 # STICKY Language progression management
 - Goal
   - New Goal E.T.A 120 days as of 2022/04/20
@@ -20,7 +23,7 @@
       - WTF is this?
       - Holy cow, I really found this stuff
         - [Business Orchestration: Strategic Leadership in the Era of Digital Convergence](#)
-- French - B2
+- French - Lower C1
   - Material Track
     - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
     - ACCA F1 --> Borrowed from section `CFA CPA`
@@ -94,323 +97,501 @@
               - Symbol Proficiency
               - Flow Proficiency
               - Application Proficiency
-          - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
-            - Videomark: 8:45/8:45
-            - CCS: 10.8%
-            - E.T.C: 4.95 months
-          - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
-            - Videomark: 8:43/8:43
-            - CCS: 11.4%
-            - E.T.C: 4.92 months
-            - _meta
-              - review_weight: 5/10(1 as default)
-              - retrieval_pathway_store_required: true
-              - clusterized: true
-              - internalization_level: \{userId\}_\{percentage\}
-            - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
-              - Cost accounting Techniques entry_hash=`@cost_accounting_techniques`
-                - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
-                - Material
-                - Economic Order Quantity
-                  - Data Inputs
-                    - Q: Order quantity
-                    - D: quantity of product demanded annually
-                    - P: purchase cost for one unit
-                    - C: fixed cost per order(not incl. the purchase price)
-                    - H: cost of holding one unit for one year
-                  - Total Cost Function
-                  - Optimal Order Quantity\($Q*$\)
-                - Context Symbol Store
-                  - TC: Total Cost
-                  - $P \times D$: Purchase cost
-                  - $C \times D/Q$: Ordering cost
-                  - $H \times Q/2$: Holding cost
-                  - $Q^{*}=\sqrt{\frac{2CD}{H}}$
-                - Absorption Costing
-                  - Overhead
-                    - [Overhead (business)](https://en.wikipedia.org/wiki/Overhead_(business))
-                      - Accounting
-                      - Taxes
-                      - Repairs & Maintenance
-                      - Office Supplies
-                      - Human resources
-                      - Rent
-                      - Utilities
-                      - Insurance
-                  - Product Cost Unit
-                  - Inventory evaluation
-                - Methods of grouping costs
-                  - Contribution
-                  - Marginal Costing
-                    - Budget(normal) production
-                    - Actual production
-                    - Actual sales
-                    - Actual fixed production O/Hs
-                    - Actual SGA costs
-          - [ACCA F2 - 7 Job, batch and process costing](https://www.youtube.com/watch?v=ljfZ0IIzvTs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=21)
-            - Videomark: 10:22/10:22
-            - CCS: 12%
-            - E.T.C: 2.44 months
-            - _meta
-              - review_weight: 5/10(1 as default)
-              - retrieval_pathway_store_required: true
-              - clusterized: true
-              - internalization_level: \{userId\}_\{percentage\}
-            - UNDERCURRENT | Accounting `_meta`
-              - Visualization of the balance sheet, income statement and cash flow
-              - Combine with news feeds and global data stored in brain
-              - Visualization of budget categorization
-              - Experience store of budgeting process
-                - Stakeholders
-                - Workflow
-                - Tooling
-                - Information
-            - EXERCISE
-              - Budget re-calibration
-            - NEW VOCAB 
-              - Batch Costing
-              - Process Costing
-                - _cache_meta
-                  - use case
-                    - mass production of identical product
-              - FIFO method(Accounting)
-              - Joint products/By-products
-                - Processing path
-                - Point of separation
-                  - Market value
-                    - Expected sales price
-                  - Number of units
-                  - Net realizable value
-              - Quantitative plan for the future
+        - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
+          - Videomark: 8:45/8:45
+          - CCS: 10.8%
+          - E.T.C: 4.95 months
+        - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
+          - Videomark: 8:43/8:43
+          - CCS: 11.4%
+          - E.T.C: 4.92 months
+          - _meta
+            - review_weight: 5/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
+            - Cost accounting Techniques entry_hash=`@cost_accounting_techniques`
+              - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
+              - Material
+              - Economic Order Quantity
+                - Data Inputs
+                  - Q: Order quantity
+                  - D: quantity of product demanded annually
+                  - P: purchase cost for one unit
+                  - C: fixed cost per order(not incl. the purchase price)
+                  - H: cost of holding one unit for one year
+                - Total Cost Function
+                - Optimal Order Quantity\($Q*$\)
+              - Context Symbol Store
+                - TC: Total Cost
+                - $P \times D$: Purchase cost
+                - $C \times D/Q$: Ordering cost
+                - $H \times Q/2$: Holding cost
+                - $Q^{*}=\sqrt{\frac{2CD}{H}}$
+              - Absorption Costing
+                - Overhead
+                  - [Overhead (business)](https://en.wikipedia.org/wiki/Overhead_(business))
+                    - Accounting
+                    - Taxes
+                    - Repairs & Maintenance
+                    - Office Supplies
+                    - Human resources
+                    - Rent
+                    - Utilities
+                    - Insurance
+                - Product Cost Unit
+                - Inventory evaluation
+              - Methods of grouping costs
+                - Contribution
+                - Marginal Costing
+                  - Budget(normal) production
+                  - Actual production
+                  - Actual sales
+                  - Actual fixed production O/Hs
+                  - Actual SGA costs
+        - [ACCA F2 - 7 Job, batch and process costing](https://www.youtube.com/watch?v=ljfZ0IIzvTs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=21)
+          - Videomark: 10:22/10:22
+          - CCS: 12%
+          - E.T.C: 2.44 months
+          - _meta
+            - review_weight: 5/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - UNDERCURRENT | Accounting `_meta`
+            - Visualization of the balance sheet, income statement and cash flow
+            - Combine with news feeds and global data stored in brain
+            - Visualization of budget categorization
+            - Experience store of budgeting process
+              - Stakeholders
+              - Workflow
+              - Tooling
+              - Information
+          - EXERCISE
+            - Budget re-calibration
+          - NEW VOCAB 
+            - Batch Costing
+            - Process Costing
+              - _cache_meta
+                - use case
+                  - mass production of identical product
+            - FIFO method(Accounting)
+            - Joint products/By-products
+              - Processing path
+              - Point of separation
+                - Market value
+                  - Expected sales price
+                - Number of units
+                - Net realizable value
+            - Quantitative plan for the future
+              - _meta
+                - use case
+                  - communicate objectives
+                  - motivate employees
+                  - control activites
+                  - evaluate performance 
+            - Scrap value of rejected units
+            - $Average\_ cost\_ per\_ unit = \frac{total\_ cost\_ of\_ inputs - scrap\_ value\_ of\_ rejected\_ units}{no\_ of\_ units\_ of\_ input - normal\_ loss}$
+        - [ACCA F2 - 8 Fixed vs flexible budgets](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+          - Videomark: 10:22/10:22
+          - _meta
+            - review_weight: 9/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - Budgeting training
+            - [Hubro Business Simulation](https://hubro.education/en/hubro-business-simulation)
+            - [FathomHQ](https://www.fathomhq.com/features)
+          - Budget
+            - [Personal Budget Category](https://www.quicken.com/blog/budget-categories)
+            - [Budgeting, Planning, and Forecasting Software - Wolters Kluwer](https://www.wolterskluwer.com/en-sg/solutions/cch-tagetik/budgeting-planning-apac-ads-lp?utm_medium=Online-Advertising&utm_source=Google-Text&utm_content=Report-Analyst&utm_campaign=OA-AP-BPF-HK-Budgeting-04-2022&utm_adgroup={adgroup}&utm_term=budgeting%20tool&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOeDZqfzOFCggYexeO_uL90VOgvftqSdjmivbFm1cr77wnz7yoFSuxoCfB8QAvD_BwE)
+            - [20 Common Small Business Budget Categories](https://bench.co/blog/accounting/business-budget-categories/)
+          - Budget Categorization
+            - Master budgets
+              - Annual frequency, preferably revised on a regular basis(rolling budget)
+              - Based on organization's objectives, expressed in financial, quantitative and qualitative measures
+            - Operating budgets
+              - Sales budget
+              - Production budget
+              - Ending inventory budget
+              - Direct material budget, Direct labour budget, Factory overhead budget
+              - Cost of Sales budget
+              - R&D budget, Marketing budget, Distribution budget, Customer Service budget, Admin budget
+              - Pro-forma income statement
+            - Financial budget
+              - Capital budget
+              - Cash budget
+              - Pro-forma balance-sheet and pro-forma statement of cash-flows
+        - [ACCA F2 - 9 Basic variance analysis](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+          - Videomark: 18:51/18:51
+          - _meta
+            - review_weight: 9/10(1 as default)
+              - _meta
+                - How is *review_weight* reflected on your learning strategy?
+            - retrieval_pathway_store_required: true
+            - multilateral_resource_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - 2022/5/8: **STRATEGIC ADJUSTMENT**: According to the domestic economic/market landscape, the power has been decided that you will put an extra 15 minutes to this endeavour, which accounts for 25 minutes per day for weekend only
+          - CCS: 13.1%
+          - E.T.C: 2.63 months
+            - Why did E.T.C half itself?
+              - 脏数据就不要了吧
+          - NEW VOCAB
+            - Cost Card - Absorption costing
+              - _meta
+                - Retain pathways
+                  - `this`
+              - Direct Materials/labour
+              - Variable/Fixed production O/Hs
+              - _meta
+                - units
+                  - Adverse(unit)
+                    - `(A)`
+                  - Favorable
+                    - `(F)`?
+              - Variance analysis
+                - Sales volume variance(Absorption costing)
+                  - `sales_volume_variance_at_standard_margin = budget_sales_price_per_unit - total_production_costs_per_unit`
+                - Sales volume variance(Marginal costing)
+                  - `sales_volume_variance_at_standard_contribution = budget_sales_price_per_unit -   total_production_costs_per_unit`
+                    - Standard contribution = SP - VC 
+                      - ?VC = `total_production_costs_per_unit - fixed_overhead`
+                      - SP: Sales price per unit
+                      - VC: Variable costs per unit
+                - Sales price variance
+                - Material variances
+                  - Material total variance
+                    - Material price variance
+                    - Material usage variance
+                    - ?
+                - Labour variances
+                  - Labour total variance
+                    - Labour rate variance
+                    - Labour efficiency variance
+                - Variable O/H variances
+                - Fixed O/H variances
+            - OAR: Budgeted Production overhead / Budgeted Activity level
+              - ${actual\_ output}_{units} \times OAR = fixed\_ oh \_ absorbed$
+              - [Overhead absorption definition](https://www.aatcomment.org.uk/learning/study-tips/study-tips-understanding-absorption-costing/#:~:text=OAR%20%3D%20Budgeted%20Production%20overhead%20%2F%20Budgeted%20Activity%20level&text=An%20important%20aspect%20to%20note,overheads%20that%20were%20actually%20absorbed.)
+          - INTERNAL REVOLUTION --> MOVE to `_PROCESSING`
+            - Knowledge-Meta System design
+            - IMPLEMENTATION You need hashtags like #meta-1, #meta-2... to create a link for connecting meta
+            - MANIFESTATION
+              - _meta #meta-1
+                - _meta #meta-2
+                  - ...
+            - ACTION --> MOVE to `__IDEA__philosophy-as-code` and REMOVE
+              - WTF is this? 哲学作为代码? 数字化哲学? 哲学的数字化转型?
+        - [ACCA F2 - 10 Operating statements & breakeven analysis](https://www.youtube.com/watch?v=St6v1C-nrm0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=24)
+          - _meta
+            - units
+              - Adverse(unit)
+                - `(A)`
+              - Favorable
+                - `(F)`?
+            - review_weight: 9/10(1 as default)
+              - _meta
+                - How is *review_weight* reflected on your learning strategy?
+          - Videomark: 11:11/11:11
+          - CCS: 13.7%
+          - E.T.C: 4.79 months
+          - STRUCT CLUSTER
+            - Acronyms
+              - TC = Total cost
+              - FC = Fixed cost
+                - = Contribution?
+              - V = Unit Variable cost
+              - T.VC
+              - X = Number of units
+              - TR = Total revenue
+              - SP = Sales price
+              - C = SP - V = Cost per unit
+            - Operating statement based on Marginal costing
+            - Operating statement based on Absorption costing
+            - Short-term decision-making techniques
+              - CVP(Cost-Volume-Profit) Analysis
+              - The breakeven formula
+                - TC = FC + V * X
+                - TR = SP * X
+            - Relevant costs, incremental analysis and linear programming
+              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
                 - _meta
-                  - use case
-                    - communicate objectives
-                    - motivate employees
-                    - control activites
-                    - evaluate performance 
-              - Scrap value of rejected units
-              - $Average\_ cost\_ per\_ unit = \frac{total\_ cost\_ of\_ inputs - scrap\_ value\_ of\_ rejected\_ units}{no\_ of\_ units\_ of\_ input - normal\_ loss}$
-          - [ACCA F2 - 8 Fixed vs flexible budgets](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
-            - Videomark: 10:22/10:22
-            - _meta
-              - review_weight: 9/10(1 as default)
-              - retrieval_pathway_store_required: true
-              - clusterized: true
-              - internalization_level: \{userId\}_\{percentage\}
-            - Budgeting training
-              - [Hubro Business Simulation](https://hubro.education/en/hubro-business-simulation)
-              - [FathomHQ](https://www.fathomhq.com/features)
-            - Budget
-              - [Personal Budget Category](https://www.quicken.com/blog/budget-categories)
-              - [Budgeting, Planning, and Forecasting Software - Wolters Kluwer](https://www.wolterskluwer.com/en-sg/solutions/cch-tagetik/budgeting-planning-apac-ads-lp?utm_medium=Online-Advertising&utm_source=Google-Text&utm_content=Report-Analyst&utm_campaign=OA-AP-BPF-HK-Budgeting-04-2022&utm_adgroup={adgroup}&utm_term=budgeting%20tool&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOeDZqfzOFCggYexeO_uL90VOgvftqSdjmivbFm1cr77wnz7yoFSuxoCfB8QAvD_BwE)
-              - [20 Common Small Business Budget Categories](https://bench.co/blog/accounting/business-budget-categories/)
-            - Budget Categorization
-              - Master budgets
-                - Annual frequency, preferably revised on a regular basis(rolling budget)
-                - Based on organization's objectives, expressed in financial, quantitative and qualitative measures
-              - Operating budgets
-                - Sales budget
-                - Production budget
-                - Ending inventory budget
-                - Direct material budget, Direct labour budget, Factory overhead budget
-                - Cost of Sales budget
-                - R&D budget, Marketing budget, Distribution budget, Customer Service budget, Admin budget
-                - Pro-forma income statement
-              - Financial budget
-                - Capital budget
-                - Cash budget
-                - Pro-forma balance-sheet and pro-forma statement of cash-flows
-          - [ACCA F2 - 9 Basic variance analysis](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
-            - Videomark: 18:51/18:51
-            - _meta
-              - review_weight: 9/10(1 as default)
+                  - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION(destroy_on_first_creation)
+                - Process 1
+                  - Bookmark: 1/392
+                  - Style: Osmosis
+                    - _meta
+                      - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                      - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                        - _meta
+                          - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                  - Goal: Connect the dots till a whole area just clicks
+                - Process 2
+              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
                 - _meta
-                  - How is *review_weight* reflected on your learning strategy?
-              - retrieval_pathway_store_required: true
-              - multilateral_resource_required: true
-              - clusterized: true
-              - internalization_level: \{userId\}_\{percentage\}
-            - 2022/5/8: **STRATEGIC ADJUSTMENT**: According to the domestic economic/market landscape, the power has been decided that you will put an extra 15 minutes to this endeavour, which accounts for 25 minutes per day for weekend only
-            - CCS: 13.1%
-            - E.T.C: 2.63 months
-              - Why did E.T.C half itself?
-                - 脏数据就不要了吧
+                  - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION
+              - Retain pathway: Your search engine works, right?
+              - $-units graph - V_7:51
+            - Applying incremental analysis in business decision-making
+            - Determining optimal mix of products where there are limiting factors
+        - [ACCA F3 - 1 Elements of financial statements](https://www.youtube.com/watch?v=1gCPkDJa7HU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=25)
+          - Videomark: 2:18/5:39
+          - CCS: 14.3%
+          - E.T.C: 4.76 months
+          - Elements of the statement of financial position
+            - Asset
+              - _meta
+                - assets = equity + liabilities
+              - Opening net assets
+              - Closing net assets=Opening net assets + Total Comprehensive Income in the period + new capital introduced in the period - withdrawls in the period
+            - Liability
+              - Accrual
+            - Equity
+              - _meta
+                - instance
+                  - Partner's capital & Current account
+          - Elements of the statement of comprehensive income
+            - Income
+              - Total comprehensive income made in the period(a profit will increase net assets)
+              - New capital introduced by the owner(wil always increase net assets)
+              - Withdrawals made in the period a.k.a dividend(will always reduce net assets)
+            - Expense
+          - ADJUSTMENT: Any STRUCTS created by furthur study of ACCA will not be directed to `language_translation`, and will be clusterized in `ACCA` section
+        - [ACCA F3 - 2 The business equation](https://www.youtube.com/watch?v=2JBrsCfj_Ic&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=26)
+          - Videomark: 7:57/7:57
+        - [ACCA F3 - 3 Types of business entities](https://www.youtube.com/watch?v=1DY3IWgmGoI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=27)
+          - Videomark: 10:28/10:28
+          - CCS: 15.4%
+          - E.T.C: 4.7 months
+          - \_meta\_\{perceived-depth=MAXIMUM-2\}
+            - CREATE meta_type
+              - Sticky meta
+              - Static meta
+          - Sole traders, partnership and limited companies
+            - PRUNED Furthur storage pruned due to overwhelming retain-pathways and lack of enough `weight`
+            - Differentiation
+              - $2^3 - 1$
+            - SOFP
+              - [Kidbrooke - Balancesheet simulator](https://kidbrooke.com/outrank/balance-sheet-simulator/)
+        - [ACCA F3 - 4 Books of original entry](https://www.youtube.com/watch?v=DxzwFDznjrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=28)
+          - Videomark: 8:35/8:35
+          - CCS: 16.0%
+          - E.T.C: 4.67 months
+          - STRUCT
+            - Book of original entry
+              - _meta
+                - _category
+                  - _meta
+                    - _category_criteria
+                  - Cash in book
+                  - Cash payments book
+                  - Pretty cash book
+                    - Imprest system
+                  - Sales day book
+                  - Purchases day book
+                  - Journal book
+                  - NEW ERA
+                    - Digital entries
+                      - TBR
+                    - Web3 Entries
+                      - TBR
+                    - Post-Web3
+                - _instance
+                  - _meta
+                    - _inbound_rules
+                      - Only real cases allowed
+        - [ACCA F3 - 5 Control of petty cash](https://www.youtube.com/watch?v=Bd68xfJ3C6o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=29)
+          - Videomark: 7:03/7:03 
+          - CCS: 16.6%
+          - E.T.C: 4.63 months
+          - SUPPLEMENT
+            - [简单又容易 || Cash Book & Petty Cash](https://www.youtube.com/watch?v=V5cC9EGViAM)
+          - STRUCT
+            - Imprest system: Controlling petty cash
+              - Voucher
+              - Petty cash management
+        - [ACCA F3 - 6 Rules of double entry - part 1](https://www.youtube.com/watch?v=KLocIPuv4mk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=30)
+          - Videomark: 8:27/8:27
+            - *Giving a harder time to calculate :(*
+          - STRUCT
+            - pre-vocab
+              - SOFP
+              - SOCI
+              - DR
+              - CR
+            - Peripheral
+              - Sundry expenses
+          - _meta_static
+            - Percieved material with effort level 4/10
+              - Practice required
+                - REQUEST DENIED due to difference of learning goal `learning_french`
+            - RISK Subpar intellectual state when consuming this material
+        - [ACCA F3 - 7 Rules of double entry - part 2](https://www.youtube.com/watch?v=hZQi0Tr7mQU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=31)
+          - Videomark: 22:23/22:23
+          - CCS: 17.7%
+          - E.T.C: 2.49 months
+          - NEW VOCAB
+            - Accounting period
+          - _meta_static
+            - Practice
+              - Double-entry bookkeeping mindset
+              - [Double Entry Bookkeeping System Questions and Answers](https://study.com/learn/double-entry-bookkeeping-system-questions-and-answers.html)
+        - [ACCA F3 - 8 Balancing T-accounts](https://www.youtube.com/watch?v=MbVGRmp-d3c&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=32)
+          - Videomark: 5:02/5:02
+          - NEW VOCAB
+            - T-accounts
+        - [ACCA F3 - 9 Capital and revenue expenditure](https://www.youtube.com/watch?v=Ng5ButQYq5s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=33)
+          - Videomark: 9:00/9:00
+          - _meta_composite
+        - [ACCA F3 - 10 Capital and revenue expenditure - example](https://www.youtube.com/watch?v=9RnoQJ3cLyo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=34)
+          - Videomark: 6:09/6:09
+          - CCS: 19.4%
+          - E.T.C: 1.58 months
+          - Practice point
+            - [ ] Recognition of `initial recognized asset` and NCA/Expense
+          - NEW VOCAB
+            - NCA(Natural Capital Accounts/Non-current Assets)
+              - _meta
+                - difference from Expense
+              - [Frequently Asked Questions on Natural Capital Accounting (NCA)](https://www.wavespartnership.org/en/frequently-asked-questions-natural-capital-accounting-nca#:~:text=Natural%20Capital%20Accounts%20(NCA)%20are,%2DEconomic%20Accounts%20(SEEA).)
+                - SEEA
+                - SNA
+        - [ACCA F3 - 11 Intangible assets](https://www.youtube.com/watch?v=qvI3gybrspk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=35)
+          - Videomark: 9:42/9:42
+          - CCS: 20.0%
+          - E.T.C: 4.44 months
+          - NEW VOCAB
+            - Tangible Asset
+              - lease
+            - Intangible asset
+              - lease
+          - _meta_root
+            - Neural-level construction
+              - Network graph visualization
+                - Visualization-related skills needed for efficient progression, if not, apply `minimum cerebral activity`
+        - [ACCA F3 - 12 Inventory accounting](https://www.youtube.com/watch?v=qvI3gybrspk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
+            - Videomark: 8:55/8:55
+            - CCS: 20.5%
+            - E.T.C: 5.3 months
+            - Practice point
+              - Inventory accounting
+                - Two-stage analysis
+                  - Not practical
+                - Simplified analysis
             - NEW VOCAB
-              - Cost Card - Absorption costing
-                - _meta
-                  - Retain pathways
-                    - `this`
-                - Direct Materials/labour
-                - Variable/Fixed production O/Hs
-                - _meta
-                  - units
-                    - Adverse(unit)
-                      - `(A)`
-                    - Favorable
-                      - `(F)`?
-                - Variance analysis
-                  - Sales volume variance(Absorption costing)
-                    - `sales_volume_variance_at_standard_margin = budget_sales_price_per_unit - total_production_costs_per_unit`
-                  - Sales volume variance(Marginal costing)
-                    - `sales_volume_variance_at_standard_contribution = budget_sales_price_per_unit -   total_production_costs_per_unit`
-                      - Standard contribution = SP - VC 
-                        - ?VC = `total_production_costs_per_unit - fixed_overhead`
-                        - SP: Sales price per unit
-                        - VC: Variable costs per unit
-                  - Sales price variance
-                  - Material variances
-                    - Material total variance
-                      - Material price variance
-                      - Material usage variance
-                      - ?
-                  - Labour variances
-                    - Labour total variance
-                      - Labour rate variance
-                      - Labour efficiency variance
-                  - Variable O/H variances
-                  - Fixed O/H variances
-              - OAR: Budgeted Production overhead / Budgeted Activity level
-                - ${actual\_ output}_{units} \times OAR = fixed\_ oh \_ absorbed$
-                - [Overhead absorption definition](https://www.aatcomment.org.uk/learning/study-tips/study-tips-understanding-absorption-costing/#:~:text=OAR%20%3D%20Budgeted%20Production%20overhead%20%2F%20Budgeted%20Activity%20level&text=An%20important%20aspect%20to%20note,overheads%20that%20were%20actually%20absorbed.)
-            - INTERNAL REVOLUTION --> MOVE to `_PROCESSING`
-              - Knowledge-Meta System design
-              - IMPLEMENTATION You need hashtags like #meta-1, #meta-2... to create a link for connecting meta
-              - MANIFESTATION
-                - _meta #meta-1
-                  - _meta #meta-2
-                    - ...
-              - ACTION --> MOVE to `__IDEA__philosophy-as-code` and REMOVE
-                - WTF is this? 哲学作为代码? 数字化哲学? 哲学的数字化转型?
-          - [ACCA F2 - 10 Operating statements & breakeven analysis](https://www.youtube.com/watch?v=St6v1C-nrm0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=24)
-            - _meta
-              - units
-                - Adverse(unit)
-                  - `(A)`
-                - Favorable
-                  - `(F)`?
-              - review_weight: 9/10(1 as default)
-                - _meta
-                  - How is *review_weight* reflected on your learning strategy?
-            - Videomark: 11:11/11:11
-            - CCS: 13.7%
-            - E.T.C: 4.79 months
-            - STRUCT CLUSTER
-              - Acronyms
-                - TC = Total cost
-                - FC = Fixed cost
-                  - = Contribution?
-                - V = Unit Variable cost
-                - T.VC
-                - X = Number of units
-                - TR = Total revenue
-                - SP = Sales price
-                - C = SP - V = Cost per unit
-              - Operating statement based on Marginal costing
-              - Operating statement based on Absorption costing
-              - Short-term decision-making techniques
-                - CVP(Cost-Volume-Profit) Analysis
-                - The breakeven formula
-                  - TC = FC + V * X
-                  - TR = SP * X
-              - Relevant costs, incremental analysis and linear programming
-                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION(destroy_on_first_creation)
-                  - Process 1
-                    - Bookmark: 1/392
-                    - Style: Osmosis
-                      - _meta
-                        - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
-                        - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
-                          - _meta
-                            - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
-                    - Goal: Connect the dots till a whole area just clicks
-                  - Process 2
-                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION
-                - Retain pathway: Your search engine works, right?
-                - $-units graph - V_7:51
-              - Applying incremental analysis in business decision-making
-              - Determining optimal mix of products where there are limiting factors
-          - [ACCA F3 - 1 Elements of financial statements](https://www.youtube.com/watch?v=1gCPkDJa7HU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=25)
-            - Videomark: 2:18/5:39
-            - CCS: 14.3%
-            - E.T.C: 4.76 months
-            - Elements of the statement of financial position
-              - Asset
-                - _meta
-                  - assets = equity + liabilities
-                - Opening net assets
-                - Closing net assets=Opening net assets + Total Comprehensive Income in the period + new capital introduced in the period - withdrawls in the period
-              - Liability
-                - Accrual
-              - Equity
+              - Intangible Assets
+                - IAS 2  
+                - [IAS 38](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ias-38-intangible-assets.pdf)
+                - Development costs
+                - Write-off period
+            - Practice
+              - Categorization
+                - General expense
+                - Research costs
+                - Development expenditure asset
+        - [ACCA F3 - 13 Inventory FIFO AVCO example](https://www.youtube.com/watch?v=8vaNPvEOx3U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=37)
+          - Videomark: 10:21/10:21
+          - CCS: 21.1%
+          - E.T.C: 5.26 months
+          - Practice point
+            - Calculate cost of sales and inventory value
+          - NEW VOCAB
+            - AVCO
+        - [ACCA F3 - 14 Inventory effect of FIFO AVCO on profit](https://www.youtube.com/watch?v=RkZdFKneY6Q&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=38)
+          - Videomark: 5:46/5:46
+          - Practice point
+            - Inventory accounting
+              - FIFO
+              - AVCO
+              - FIFO or AVCO
+        - [ACCA F4GLO - 1. Different Legal Systems](https://www.youtube.com/watch?v=5Nr5tqslY2A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=39)
+          - Videomark: 10:37/10:37
+          - CCS: 22.3%
+          - E.T.C: 4.32 months
+          - STRUCT
+            - Three main systems
+              - Common Law
                 - _meta
                   - instance
-                    - Partner's capital & Current account
-            - Elements of the statement of comprehensive income
-              - Income
-                - Total comprehensive income made in the period(a profit will increase net assets)
-                - New capital introduced by the owner(wil always increase net assets)
-                - Withdrawals made in the period a.k.a dividend(will always reduce net assets)
-              - Expense
-            - ADJUSTMENT: Any STRUCTS created by furthur study of ACCA will not be directed to `language_translation`, and will be clusterized in `ACCA` section
-          - [ACCA F3 - 2 The business equation](https://www.youtube.com/watch?v=2JBrsCfj_Ic&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=26)
-            - Videomark: 7:57/7:57
-          - [ACCA F3 - 3 Types of business entities](https://www.youtube.com/watch?v=1DY3IWgmGoI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=27)
-            - Videomark: 10:28/10:28
-            - CCS: 15.4%
-            - E.T.C: 4.7 months
-            - \_meta\_\{perceived-depth=MAXIMUM-2\}
-              - CREATE meta_type
-                - Sticky meta
-                - Static meta
-            - Sole traders, partnership and limited companies
-              - PRUNED Furthur storage pruned due to overwhelming retain-pathways and lack of enough `weight`
-              - Differentiation
-                - $2^3 - 1$
-              - SOFP
-                - [Kidbrooke - Balancesheet simulator](https://kidbrooke.com/outrank/balance-sheet-simulator/)
-          - [ACCA F3 - 4 Books of original entry](https://www.youtube.com/watch?v=DxzwFDznjrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=28)
-            - Videomark: 8:35/8:35
-            - CCS: 16.0%
-            - E.T.C: 4.67 months
-            - STRUCT
-              - Book of original entry
+                    - UK
+                      - source
+                        - Common law and equity
+                          - _meta
+                            - source
+                              - records of case law
+                              - Statutory law
+                              - EU law
+              - Civil Law
                 - _meta
-                  - _category
-                    - _meta
-                      - _category_criteria
-                    - Cash in book
-                    - Cash payments book
-                    - Pretty cash book
-                      - Imprest system
-                    - Sales day book
-                    - Purchases day book
-                    - Journal book
-                    - NEW ERA
-                      - Digital entries
-                        - TBR
-                      - Web3 Entries
-                        - TBR
-                      - Post-Web3
-                  - _instance
-                    - _meta
-                      - _inbound_rules
-                        - Only real cases allowed
-          - [ACCA F3 - 5 Control of petty cash](https://www.youtube.com/watch?v=Bd68xfJ3C6o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=29)
-            - Videomark: 2:00/7:03 
-            - CCS: 16.6%
-            - E.T.C: 4.63 months
-            - _meta
+                  - instance
+                    - France
+                      - _meta
+                        - source
+                          - constitution
+                          - statutory law
+                          - administrative regulations
+                          - EU law
+              - Sharia Law
+                - Iran
+            - Discernment network
+              - CRIMINAL LAW V CIVIL LAW
+          - LAW VOCAB BUNDLE --> `-T_law`
+            - ?
+              - role of judges
+              - apply the law
+              - less guidance
+              - judicial precedent
+              - Judicial review
+              - Written constitution
+              - presumptions
+              - statutory law
+              - guides and rules
+              - interpretation
+            - Entity
+              - Claimant
+              - Defendant
+            - Discernment unit
+              - _meta
+                - *Is it scalable to carry over to the sea of cases?*
+                - *How it is reflected in smart contracts?*
+                - _meta_root
+                  - Create visualized knowledge graph for direct, refined, efficient brain stimulation pathway with law-related concepts
+                    - PREREQUISITE: Knowledge graph, software development skills, and a good understanding of the law
+                    - RIGGED_ACTION: Search for `legal system visualization` software online, add to `*-law_arsenal`
+              - Action brought by
+              - Action brought against
+              - Burden of proof required
+                - Criminal
+                  - Beyond reasonable doubt
+                - Civil
+                  - Balance of probabilities
+              - Sentence/award determined by
+              - Case described as
+        - [ACCA F4GLO - 2. International Organisations](https://www.youtube.com/watch?v=soEMHMIK71o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=40)
+          - Videomark: 0:01/9:56
+          - CCS: 22.8%
+          - E.T.C: 5.14 months
+          - _meta_following
+              - _meta_escalate
+                - [Accounting Coach](https://www.accountingcoach.com/)
+                  - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                - IFRS
+              - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                - NEW P.O.I - S. M. Bragg
+                - Process 1
+                  - Style: Skimming
+                    - Use pre-trained rigorous visualization brain-state
+                  - Bookmark: 14/256
+                - Process 2
               - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
                 - _meta
                   - STICKY, FOLLOWING  
                     - Process 1
                       - Bookmark: 11/392
                       - Style: Osmosis
-                        - _meta 
+                        - _meta
                           - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
                           - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
                             - _meta
@@ -430,8 +611,20 @@
                     - position: p1
                   - STRUCT
                     - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
-
-      - _meta
+              - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                - _meta
+                  - STICKY, FOLLOWING
+              - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+              - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+              - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                - Bookmark: 13
+              - 18.S096, Financial Mathematics(MIT)
+                - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                  - Videomark: 0:00:00/1:00:29
+                  - _meta_escalate
+                    - MOVE TO `$parent` on COMPLETION of `$parent`
+      - _meta_static
         - Style: Osmosis
         - _structure
           - The Business Organization and its Structure
@@ -456,16 +649,30 @@
       - INTENSITY: HIGH
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
-- German - C1
-  - Next stage E.T.A 22.5 days
+- German - Upper C1
+  - Next stage E.T.A 1d
   - Material Track(HALT)
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8)
       - Videomark: 3:27/1:06:24
+  - Geek's stuff
+    - _meta_escalate
+      - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
+        - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
+  - Comprehensive development path
+    - Web 3.0
+      - **DAO** --> **ACTIVE E.T.A 1d**
+    - Cloud Computing
+      - **AWS SysOps** --> **ACTIVE E.T.A 1d**
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
+      - Codeforces
+        - Constructive Algorithm --> **ACTIVE E.T.A 1d**
+          - [Complete Constructive Problems Practice - Noob to Expert | Topic Stream 5](https://leetcode.com/problems/jump-game-ii/)
+      - LC
+        - Basic training only with video in German-English Subtitles
     - Neuroengineering
     - Software Engineering & System Design
   - TOPIC Philosophy, psychology, law
@@ -475,14 +682,14 @@
   - No change, next stage E.T.A 18 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
-- Portuguese - A2
+- Portuguese - Lower B1
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 60%
+  - Initialization of language/meta structrure: 68.1%
   - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 41.5%
+  - Initialization of language/meta structrure: 51.6%
   - Tool
     - Tone finder
   - Typing speed training
@@ -515,32 +722,52 @@
 - Korean - TOPIK II
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
+- Italian - B1
+  - Topic: Fashion, Luxury, Design,   
 - Vietnamese - A2
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1
   - Typing speed training
     - Style: In tandem with 
-    - Current typing rate: 15 WPM
+    - Current typing rate: 17 WPM
     - Minimum considerable rate: 40 WPM
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
-- Fly bxxxh Realm
-  - Dutch - N/A
-    - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
-    - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
-    - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
-      - Web3
-        - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
-        - remix.ehtereum.org
-        - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
-        - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
-        - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
-        - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
-      - Metaverse
+- Hindi - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - _meta_escalate
+    - WARNING Your language addiction is poking around, waiting for the opportunity to negotiate so that it can spiral out of control
+  - Typing training begins after initialization of language structure
+    - Minimum considerable rate: 40 WPM
+- Dutch - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
+  - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
+  - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
+    - Web3
+      - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
+      - remix.ehtereum.org
+      - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
+      - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
+      - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
+      - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
+    - Metaverse
+- Greek - Lower A1
+  - _meta
+    - topic
+      - anatomy
+      - theoretical science
+    - tool
+      - Duolingo Browser Version
+  - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
 # STICKY Monthly Micro PIP
 - Work on it, bxxxh
 - Copilot, 新的一月, 你有什么建议吗?
@@ -621,7 +848,7 @@
 # 2022/5/10
 - *小伙子, 尽量减少多语言的刺激... 如果是写代码的话, 不然每天大脑都严重超载*
 - *I'm scared. I'm scared of myself*
-- 明白了一个人真正成长时候的状态: 薛定谔状态/临界态
+- 明白了一个人真正成长时候的状态: 薛定谔状 态/临界态
 
 ## ACTION REQUIRED, STICKY, GLOBAL About your future consolidation of your coding habit that is immediately and increasingly beneficial 
 #GLOBAL
@@ -654,3 +881,61 @@
 - 论`Baby商人`的自我修养
 - 我觉得人类总体智力的发展为什么还是太慢的原因是`社会支配欲导向的金字塔型架构`, 猩猩也是这样的社会结构, 如果我们能够打破猩猩的如此的社会结构, 并且给猩猩共同体提供精细化智力发展的解决方案及生理学限制的规避策略, 也许猩猩的IQ能够提升到90-100, 加入劳动力大军
     - CRAZINESS: Animals as workforce
+
+# 2022/5/14
+- I think part of the self-dysregulation is that you are still trying to reserve yourself time to rest, if you ditch that idea and let your brain go rampant you will, contrary to intuition, get better rest
+- 商业论
+  - 价值传递论
+  - 信息流转学
+  - 内外攻防学
+
+# 2022/5/16
+## 大脑防病毒软件的开发及安装
+## Erudition
+## Idea virus
+- The past of virus is seriously deprecated, now, the best form of virus exists in form of pure sound and flickering light, transmitted through air, that is to say, an idea virus
+## Defense strategy
+### *知己*
+- Self-vulnerability scan
+### *知彼*
+- Hacker persona analysis
+  - Lowest-tier
+    - Indian scammers
+  - Mid-tier
+    - Corporate management
+  - High-tier
+    - M&A conspiracy disruptor
+    - Distributed Illuminati Council
+    - Intellectual dark-web
+
+### *行动*
+- Vaccination
+  - IDEA: Idea virus vaccination platform
+    - And lots of `idea hackers` will try their best to hunt it down
+      - Start with a well put-together security team would be great
+- Defense strategy
+  - Decentralized self-imposed composure level manipulation
+- OUTBOUND strategy shift
+  - AFFECT
+    - `_OUTBOUND`
+      - ADD: `_OUTBOUND_FIREWALL`
+
+## Meta
+### _INBOUND **DANGEROUS AREA**
+- Musk's biases
+- Jung's idea of collective unconsciousness and how to extract collective vulnerability for idea virus defense strategy
+
+# 2022/5/17
+- INTERNAL `_PROCESSING` upgrade:
+  - 起始边界特征
+  - 过程证明
+  - 终止边界特征
+
+# 2022/5/18
+## 不累的时候不分心, 真正累的时候才容易分心
+### Meta
+#### On-premise Writing skill
+#stagedoutbound
+
+## YQ模式下远程办公模式的探索
+#stagedoutbound

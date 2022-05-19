@@ -58,10 +58,15 @@
 # Renovation plan
 
 # 个人软件开发军火库 - 优选
+- Lowcode arsenal
+  - Dora
+  - [Low-Code for Freelance Developers & Startups – Tutorial](https://www.youtube.com/watch?v=hDzgO2FB_ms)
 - Startup Toolchain
   - Ideation
     - Miro
   - Prototype
+  - API sharing
+    - [apiary](https://apiary.io/)
   - Teamplay
     - Apifox
       - ALTER: Mockaroo
@@ -99,7 +104,9 @@
   - Load Testing
     - Locust
     - BlazeMeter
-- 技术研究
+- Extension
+  - [mapbox](https://www.mapbox.com/data-products)
+- Tech Deep Dive
   - astexplorer
 - 技术设计
   - Architecture Design

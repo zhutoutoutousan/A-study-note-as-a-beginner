@@ -38,3 +38,7 @@
       - Neuralink: How and to what direction BCI can help
   - MVP plan
     - Talk2'ya la'er after U R-ed
+
+
+# 2022/5/13
+- If we can reduce the cost of context switch through a series of growing, PUGC/USC supported 

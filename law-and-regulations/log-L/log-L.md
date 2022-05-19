@@ -4,7 +4,7 @@
 
 
 # Erudition
-- A theory of Justice --- John Rawls
+- A theory of Justice --- John Rawls --> BORROWED TO `OVERALL`
   - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
   - Bookmark: 13
 # Law, regulatories, compliance acumen construction kickstart

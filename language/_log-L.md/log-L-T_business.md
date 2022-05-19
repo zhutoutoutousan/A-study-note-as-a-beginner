@@ -107,6 +107,7 @@
   - https://en.wikipedia.org/wiki/Cost_centre_(business)
 - Cost overrun: 成本超支
   - [Cost overrun](https://en.wikipedia.org/wiki/Cost_overrun)
+- 长期结构性价值投资
 - 操盘能力
 - 经济
   - 财政支出
@@ -245,6 +246,9 @@
 # Y
 - 一锤子买卖
 # V
+- VAT
+  - [关于对赌协议的签订类型及其利弊分析（建议收藏！）](http://www.invest-data.com/eWebEditor/uploadfile/201903091915263614539.pdf)
+  - [对赌协议](https://zh.wikipedia.org/wiki/%E5%AF%B9%E8%B5%8C%E5%8D%8F%E8%AE%AE#:~:text=%E5%AF%B9%E8%B5%8C%E5%8D%8F%E8%AE%AE%EF%BC%88%E8%8B%B1%E8%AF%AD%EF%BC%9ABet,%E7%9A%84%E8%B5%94%E5%81%BF%E6%88%96%E9%80%80%E5%87%BA%E4%BB%B7%E6%A0%BC%E3%80%82)
 - Veil of ignorance
   - [Veil-of-ignorance reasoning favors the greater good](https://www.pnas.org/doi/10.1073/pnas.1910125116#:~:text=The%20%E2%80%9Cveil%20of%20ignorance%E2%80%9D%20is,least%20from%20the%20available%20options.)
 - VIE: Variable Interest Entity

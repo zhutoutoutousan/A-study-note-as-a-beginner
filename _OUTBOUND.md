@@ -10,8 +10,6 @@
 
 # Inbound policy
 
-
-
 ```
 - ACCURATE --> COPY TO `_PROCESSING`, `_INBOUND`, `_OUTBOUND` with metadata `{"source": "ACCA"}`
   - _meta
@@ -33,3 +31,7 @@
 - SEARCH: `Information theory` for setting up `erudition`
   - RELATED: Information circulation theory
 ```
+
+# Outbound management
+## Outbound Tag Management
+#stagedoutbound 

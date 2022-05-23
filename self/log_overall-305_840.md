@@ -570,14 +570,167 @@
               - Sentence/award determined by
               - Case described as
         - [ACCA F4GLO - 2. International Organisations](https://www.youtube.com/watch?v=soEMHMIK71o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=40)
-          - Videomark: 0:01/9:56
+          - Videomark: 9:56/9:56
           - CCS: 22.8%
           - E.T.C: 5.14 months
+          - International Organizations
+            - _meta
+              - struct
+                - create_time
+                - members
+                  - $2^n-1$
+                - conventions
+                - structure
+                - region
+            - EU
+            - ICC
+              - *Incoterms*
+            - ICA
+              - a.k.a International Court of Arbitration
+            - UN
+            - UNCITRAL
+            - CoE
+              - _meta
+                - discernment
+                  - EU
+            - UNIDROIT
+            - ICJ
+            - OECD
+        - [ACCA F4GLO - 3. International Commercial Arbitration](https://www.youtube.com/watch?v=h3L-bRDwj-k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=41)
+          - Videomark: 8:01/8:01
+          - _meta_escalate
+            - Legal visualization system found --> MOVE TO `law_arsenal`
+              - [Transforming Legal Documents for Visualization and Analysis](https://dl.acm.org/doi/10.1145/3209415.3209424)
+              - [Visualizing Law - A Norm-Graph Visualization Approach based on Semantic Legal Data](https://zenodo.org/record/2543729#.Yoi4jqjP2Uk)
+              - [Visualisation of Law and Legal Process: An Opportunity Missed](https://arxiv.org/ftp/arxiv/papers/2011/2011.00571.pdf)
+                - *I think this is a very important paper*
+              - [Openlawlab - Law visualization](https://www.openlawlab.com/project-topics/illustrated-law-visualizations/)
+              - [Hack for justice visualizing the criminal justice system](https://www.legaltechdesign.com/hack-for-justice-visualizing-the-criminal-justice-system/)
+              - [Openjustice](https://openjustice.doj.ca.gov/)
+                - That is not what I wanted, I want to datatize justice
+          - NEW VOCAB
+            - `law`
+              - arbitration
+        - [ACCA F4GLO - 4. Contracts for International sale of Goods](https://www.youtube.com/watch?v=LPCd4cjfdAQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=42)
+          - Videomark: 11:56/11:56
+          - CCS: 24%
+          - E.T.C: 2.11 months
+          - TOPICS
+            - Buyer's right
+            - Seller's right
+            - The passing of risk
+            - Transportation Documentation
+              - bill of lading
+                - inland
+                - ocean
+                - through
+                - airway
+            - Payment
+              - International bill of exchange
+                - SUBJECT TO | UNICITRAL Convention
+              - International bank transfer
+                - SUBJECT TO | UNICITRAL Model Law
+              - Letter of credit
+                - DIFF Letter of comfort
+            - CISG
+              - Main Rights and Obligatiobns of Buyers and Sellers
+            - Transportation
+              - **incoterms**
+                - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+              - payment
+            - Offer
+              - sufficiently definite
+              - amendments - Counter offer
+                - major ~
+                - minor ~
+        - [ACCA F4GLO - 5. Agency](https://www.youtube.com/watch?v=COwE2XsXXPQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=43)
+          - Videomark: 7:08/7:08
+          - TOPIC
+            - agent
+              - _meta
+                - created_by
+                  - agreement(consent)
+                  - ratification
+                  - operation of law
+                - authority
+                  - Actual authority
+                  - Apparent/ostensible authority 
+                - duties
+                - termination
+                  - death
+                  - insanity
+                  - bankruptcy
+                - model
+                  - UN model
+        - [ACCA F4GLO - 6. Partnerships](https://www.youtube.com/watch?v=vePhe0_rO8k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=44)
+          - Videomark: 6:43/6:43
+          - prerequisite
+            - legal entity
+              - [Business Structure - Choosing the right Structure for your Business](https://www.youtube.com/watch?v=4-yE5JduTIo)
+              - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw)
+          - TOPIC
+            - Limited Partnership
+            - LLP
+        - [ACCA F4GLO - 7. Company Administration](https://www.youtube.com/watch?v=wjNxWD3otx0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=45)
+          - Videomark: 5:08/14:48
+          - _meta
+            - description
+              - Vocab heavy, consider create a use-case-based context field to encapsulate them all
+          - TOPIC
+            - Private and public companies
+            - Company promoters
+              - DISCERNMENT Agent
+            - Company formation
+            - Required Documents
+              - BEFORE CREATE
+                - Registration application
+                - Memorandum of Association
+                - Articles of Association
+                - Statement of proposed company officers
+                - Statement of capital and initial shareholdings
+                - Statement of compliance with Companies Act provisions
+              - BEFORE TRADE
+                - Trading Certificate
+                  - Required documents
+                    - Statement that nominal value of allotted share capital is not less than 50,000 Pounds
+                    - Details of formation expenses, including those made to promoters
+                    - Statement of compliance
+              - Certificate of Incorporation
+            - Name clause
+            - Articles as a Contract
+            - Objects Clause
+            - Share Capital
+            - Loan Capital
+              - debenture
+                - Single debenture
+                - Debenture issued as a series
+                - Debennture stock
+            - Charge
+            - Maintenance of a Company's Capital
+              - Corporate Liquidator 101
+              - Distribution of dividends
+                - PAP
+                - excess of accumulated realised profits over accumulated realised losses
+                - called-up share capital
+                - undistributable reserves
+                - accumulated unrealised losses
+                - declaration of solvency
+        - [ACCA F4GLO - 8. Company Administration](https://www.youtube.com/watch?v=DlYLpR_K-OU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=46)
+          - Videomark; 2:02/12:05
+          - CCS: 26.3%
+          - E.T.C: 2.13 months
+          - KK
+            - Directors
           - _meta_following
               - _meta_escalate
                 - [Accounting Coach](https://www.accountingcoach.com/)
                   - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
                 - IFRS
+              - Brain Groceries
+                - **incoterms**
+                  - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                  - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
               - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
                 - NEW P.O.I - S. M. Bragg
                 - Process 1
@@ -624,6 +777,7 @@
                   - Videomark: 0:00:00/1:00:29
                   - _meta_escalate
                     - MOVE TO `$parent` on COMPLETION of `$parent`
+
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -650,29 +804,99 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
-  - Next stage E.T.A 1d
-  - Material Track(HALT)
+  - _meta_escalate
+    - _meta
+      - related
+        - `bymaverse`
+    - To better accomodate your learning which requires more of your innate neural-level skills and proficiency, create a few more meta-learning supplementaries
+      - Specific-performance-driven Neural-level gamification platform and tracking dashboard
+      - Skill orchestration mapping platform based on knowledge graph
+  - Next stage reached
+    - VERDICT: Additional 15 minutes of budget directed to German learning with simultaneous interpretation style, topic will include: Technology, Coding, Germanic Philosophy, Web3.0(DAO)
+    - DISCERNMENT Harder programming and computer science topic will eventually be directed to **Russian**, theoretical and ancient science/mathematics topics will be directed to **Greek**
+    - PLANNING 5 minute for Competitive Programming(Intermediate and lower) + 5 minute for AWS SysOps(TEMP) + 5 minute `LIFETIME_PURSUIT`(Complexity theory)
+    - WARNING Future discussion on disruptive element e.g. `unexpected language proficiency progression` shall be discussed to avoid major deviations
+  - Material Track(HALT) --> `LIFETIME_PURSUIT` | **HALT**
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8)
       - Videomark: 3:27/1:06:24
-  - Geek's stuff
+  - Coding
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
+  - Puzzle games
+    - Chess
   - Comprehensive development path
     - Web 3.0
-      - **DAO** --> **ACTIVE E.T.A 1d**
+      - **DAO** --> **ACTIVE** QUEUED 
     - Cloud Computing
-      - **AWS SysOps** --> **ACTIVE E.T.A 1d**
+      - **AWS SysOps** --> **ACTIVE**
+        - $udemy_course
+          - _meta_escalate
+            - #bymaverse
+              - Architecture-Console-CLI connection
+                - Similar to Mind-muscle connection
+            - #testtaking
+              - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
+              - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead
+          - CCS: 20.0%/20.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 30%
+          - ETC: 10.7 months --> 10d
+            - Maximum acceptable time: 20 days :]
+              - Implication: 1.5 hours avg per day - *Time to face reality pal!*
+          - TIME OVERRUN AVOIDANCE POLICY(Richtlinien)
+            - 2x speed on vids what is over 0 minute :]
+              - *You must take a leap of faith to risk major time overrun pal!*
+            - OVERWRITE ON CONDITION
+              - Major knowledge point understanding threshold establishment on-contact required
+                - DESTROY ON `click/aha/eureka` state reached
+          - Realm of doubts
+            - SSM Patch Manager
+            - ELB Target Group Attibutes
+            - ADVANCED Flow Hash Algorithm
+          - Style: Shallow Hands-on
+            - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
+            - DO: Picture yourself doing the operation key-stroke-wise is more than enough
+        - *针对云计算的分布式精细化超长期全闭环任督二脉计划* 
+          - For all of your dots, planes, spaces to be connected, you need ONE BIG-AXX PROJECT based on AWS, hopefully to some massive scale, to make them all available for rigourous business context
+            - ERROR: Current overall leverage/wherewithal not enough to lever resources to initiate the plan
+            - ERROR: *I have enough liver complaint already, don't you ever start with this after you have rested*
+            - ERROR: *主动给自己挖坑/找死的高目的性行为需经过大脑战略层的决断之后才能初始化*
+              - 需要M性格 && G && B && T性格的参与讨论
+              - 人类集体无意识/思维载体 a.k.a 大脑之限制性导致的原始legacy性格需要保证届时完全剔除, 并设定expire date保证生理层平衡
+            - ERROR: *适合发展中期的Rip Van Winkle型的/Kafka型的商业实体进行转型*
+            - WARNING: Lacking Project Management Skills and experience
+            - WARNING：Lacking Business knowledge and Experience
+            - WARNING: Technical skills maturity not reached
+              - Cloud native knowledge imperative
+            - VERDICT: Deferred
+        - RANDOM THINKING: 未来的教育系统将会为业界提供人才的digital-twin, 而不是苍白的数字, 所以克隆人也不要了, 我们只需要克隆digital-twin就行了
+          - 未来纯digital-dependant的企业将会fire all staffs, it will be run purely by digital-twins we made out of educational systems
+          - *哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈*
+          - 未来meso-cycle的人类的role be-like将会是: 低创造力工作外包给及其, 中创造力工作外包给digital-twin, 高创造力工作由人类负责, bymaverse致力于BCI及人类总体智力的transformation
+          - WARNING: Brain singularity triggered again, be advised, it is not good for your health
+        - RANDOM THINKING
+          - `knowledge as code`: *F U Books*
+          - `wisdom as code`
+    - Cybersecurity
+      - IDW
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
       - Codeforces
-        - Constructive Algorithm --> **ACTIVE E.T.A 1d**
-          - [Complete Constructive Problems Practice - Noob to Expert | Topic Stream 5](https://leetcode.com/problems/jump-game-ii/)
+        - Constructive Algorithm --> **HALT**
+          - Noob to Expert | Topic Stream
+            - [Complete Dynamic Programming Practice - Noob to Expert | Topic Stream 1](https://www.youtube.com/watch?v=zDEQaDl3cso&list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w&index=1) --> **HALT**
+              - Videomark: 5:02/3:07:28
+              - Problemsetmark
+                - 3-palindrome - Mashup A
+              - Style: Hands-on
+              - Resources
+                - Problemset link
+                - Problem difficulties
       - LC
         - Basic training only with video in German-English Subtitles
+          - DP - MSSP - 5min/10min
     - Neuroengineering
     - Software Engineering & System Design
   - TOPIC Philosophy, psychology, law

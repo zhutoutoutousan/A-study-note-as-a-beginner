@@ -1,4 +1,5 @@
 # STICKY 寻找Purpose的旅程
+## Shelter if you're homeless
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
 - [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
 - The Goal E.M.Goldratt
@@ -7,6 +8,17 @@
 - The Art of Business Value - M. Schwartz
 - Getting Things Done - D. Allen
 - Educated - Tara Westover 
+
+## Build your weapon
+### Learn to write
+- Purpose
+- Q&A Tools for writing
+  - [Hemingway App makes your writing bold and clear](https://hemingwayapp.com/)
+  - [Drivel Defence for Text](http://www.plainenglish.co.uk/drivel-defence-text.html)
+  - [Gunning Fog Index](http://gunning-fog-index.com/)
+  - [The Writer’s Diet](https://writersdiet.com/test/)
+
+### Learn to talk
 # STICKY Mandatory workout planning
 - Since you're slacking off your workout, mandatory workout routine required
 # STICKY Language progression management
@@ -673,7 +685,7 @@
             - Limited Partnership
             - LLP
         - [ACCA F4GLO - 7. Company Administration](https://www.youtube.com/watch?v=wjNxWD3otx0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=45)
-          - Videomark: 5:08/14:48
+          - Videomark: 14:48/14:48
           - _meta
             - description
               - Vocab heavy, consider create a use-case-based context field to encapsulate them all
@@ -717,11 +729,113 @@
                 - accumulated unrealised losses
                 - declaration of solvency
         - [ACCA F4GLO - 8. Company Administration](https://www.youtube.com/watch?v=DlYLpR_K-OU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=46)
-          - Videomark; 2:02/12:05
+          - Videomark; 12:05/12:05
           - CCS: 26.3%
           - E.T.C: 2.13 months
-          - KK
+          - KK(BFS, DFS-on-premise)
             - Directors
+              - Minimum number of directors
+              - Age requirements
+              - Qualification
+              - Disqualification of directors
+                - CDDA court
+              - Category
+                - Executive director
+                - Non-executive director
+                - Managing director(CEO)
+                - Shadow director
+                - Alternate director
+              - Appointment of directors
+                - AGM
+              - Publicity regarding directors
+              - Removal of directors
+              - Duties of directors
+            - Company Secretary
+              - Duties
+                - statutory books
+            - Auditors
+              - rights
+              - duties
+              - resignation
+              - removal
+            - Company Meetings and Resolutions
+              - AGM
+              - GM
+              - CLASS
+        - [ACCA F4GLO - 9. Company Liquidation](https://www.youtube.com/watch?v=sGt3s7akCIE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=47)
+          - Videomark; 7:40/7:40
+          - CCS: 26.8%
+          - E.T.C: 4.88 months
+          - Practice point
+            - Priority for payment *en cas de* liquidation
+            - *Administration as an alternative to liquidation*
+          - STRUCT
+            - Insolvency
+            - Liquidation
+              - Categories
+                - Compulsory liquidation
+                  - may or may not be solvent
+                  - instigating proceedings
+                    - reasons
+                      - instigating proceedings to wind up a company
+                        - ~ is not able to meet its liabilities
+                        - ~ has not started business within 12 months from incorporation
+                        - PLC has failed to obtain a Trading Certificate within 12 months from incorporation
+                        - by order of the court that it would be 'just and equitable'
+                    - self
+                      - official receiver is appointed as liquidator
+                        - [official receiver - wiki](https://en.wikipedia.org/wiki/Official_receiver)
+                      - company employees are automatically dismissed
+                      - ongoing legal actions against the company are halted
+                      - Liquidator takes over power to run company from directors
+                - Voluntary liquidation
+                - Members voluntary
+                  - CONDITION SUFFICIENT
+                    - company must be solvent
+                    - Directors must make a *declaration of solvency*
+                    - requires passing of special resolution(normally)
+                    - Liquidator
+                      - appointed by members
+                      - realises company assets
+                      - reports to final members meeting
+                      - reports to Registrar of Compnaies
+                      - registor report, company dissolved
+                - Creditors voluntary
+                  - company will be insolvent
+            - Priority for Application of Assets on Liquidation
+              - Secured creditor with fixed charge
+              - Liquidator's fees and expenses
+              - Preferential creditors(wages etc. within statutory limits)
+              - Secured creditors with floating charge
+              - Unsecured creditors(pari passu)
+              - Post liquidation interest
+              - Declared but unpaid dividends
+              - Shareholders' capital
+              - Any surplus to shareholders
+            - Company Administration
+              - Objective: Breathing space
+              - Appointment of Administrator
+              - Impact of Administration
+              - Conduct of Administration
+            - Instances(legal)
+              - US Chapter 11 Bankruptcy
+        - [ACCA F4GLO - 10. Fraudulent Behaviour](https://www.youtube.com/watch?v=TuffGNzxurY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=48)
+          - Videomark; 3:20/7:40
+          - CCS: 26.8%
+          - E.T.C: 4.88 months
+          - STRUCT
+            - Insider Dealing
+              - self
+                - definition
+              - dealing
+              - defense
+                - burden of proof: beyond reasonable doubt
+              - penalty
+            - Money laundering
+            - _instance
+              - UK Law
+                - Fradulent trading
+                - Wrongful trading
           - _meta_following
               - _meta_escalate
                 - [Accounting Coach](https://www.accountingcoach.com/)
@@ -777,7 +891,6 @@
                   - Videomark: 0:00:00/1:00:29
                   - _meta_escalate
                     - MOVE TO `$parent` on COMPLETION of `$parent`
-
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -833,12 +946,32 @@
         - $udemy_course
           - _meta_escalate
             - #bymaverse
-              - Architecture-Console-CLI connection
+              - Architecture-Console-CLI connection --> `MOVE TO bymaverse ON COMPLETION`
                 - Similar to Mind-muscle connection
+                - Specific intellectual activity involved
+                  - _meta
+                    - **THIS IS VERY IMPORTANT FOR BYMAVERSE MAPPING!!!**
+                    - pre-requisite
+                      - valid knowledge structure that is proven to be existentially valid
+                    - instance
+                      - Coding
+                      - Intellectual debate
+                      - Mathematical deduction
+                      - Networking rigor, political rigor, business rigor
+                  - **Integration with BCI-based intellectual enhancement/augmentation**
+                    - **Integration with wearables**
+                  - **Network capacity, manipulation**
+                  - **Network-procedural connection**
+                  - **Procedural capacity**
+                    - CPU: *20多年了, 就等著這一天bymaverse的kickstart! 沒白過! F U IQ*
+                      - WARNING: Sensing *brain singularity*, immediate *psychic energy transfer procedure* triggered
             - #testtaking
               - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
               - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead
-          - CCS: 20.0%/20.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 30%
+          - CCS: 40.1%/40.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 50%
+            - **WARNING: Concurrent running of German, English, AWS SysOps context with 2x speed for 1.5 hr daily is exceeding your innate brain processing power, microscopic raw intelligence increment detected, increment pattern & logic encapsulated, future gamification and product design rigged and archived, constant internal system radical re-structuring opportunity trigger point hit, learning effectiveness of AWS SysOps jeopardized, time overrun mitigated but still outstanding**
+              - *2x speed with german subtitle is triggering brain activation which resembles simultaneous interpretation*
+              - ACTION: *keep doin' it, power it through*
           - ETC: 10.7 months --> 10d
             - Maximum acceptable time: 20 days :]
               - Implication: 1.5 hours avg per day - *Time to face reality pal!*
@@ -848,9 +981,27 @@
             - OVERWRITE ON CONDITION
               - Major knowledge point understanding threshold establishment on-contact required
                 - DESTROY ON `click/aha/eureka` state reached
+          - Hard nuts
+            - _meta
+              - STYLE: `test-driven`, flashcard-based
+              - DYNAMIC UNLOCK THRESHOLD: **From physics to cloud**
+            - EBS volume type
+          - _OUTBOUND --> `*-T_software`
+            - NFS
+            - POSIX
+              - [POSIX - Wiki](https://en.wikipedia.org/wiki/POSIX)
           - Realm of doubts
+            - AWS EFS
+              - POSIX
+            - AWS CF
+              - Stack, ChangeSet
+            - AWS Config
             - SSM Patch Manager
-            - ELB Target Group Attibutes
+            - EC2 High Availability & Scalability
+              - ELB Target Group Attibutes
+              - LB Sticky Session
+              - LB EC2 Target Group
+              - ASG Life cycle hook
             - ADVANCED Flow Hash Algorithm
           - Style: Shallow Hands-on
             - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
@@ -874,7 +1025,8 @@
           - 未来meso-cycle的人类的role be-like将会是: 低创造力工作外包给及其, 中创造力工作外包给digital-twin, 高创造力工作由人类负责, bymaverse致力于BCI及人类总体智力的transformation
           - WARNING: Brain singularity triggered again, be advised, it is not good for your health
         - RANDOM THINKING
-          - `knowledge as code`: *F U Books*
+          - `knowledge as code`: *F U Books* --> RELATED: bymaverse
+            - 2022/5/24: Knowledge as Code will automatically gerate mind game for you with set schedule of absorption saturation planning
           - `wisdom as code`
     - Cybersecurity
       - IDW
@@ -903,12 +1055,13 @@
     - German philogophy
       - Fredrick Nitszsche
 - Spanish - B1
-  - No change, next stage E.T.A 18 months
+  - No change, next stage E.T.A 5 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
 - Portuguese - Lower B1
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 68.1%
+  - Initialization of language/meta structrure: 77.5%
+    - *太可怕了... Not that I'm afraid of god. I'm afraid of myself*
   - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
@@ -1101,10 +1254,11 @@
     - [Spotify - 法律攻防](https://open.spotify.com/show/6gscaqbc1EDUuGjvYQw7wL)
   - 个人攻防学
 - 关于部分对于`基于高不可攀感的优越感高依赖心理态`的人类实体的自动化PUA策略及精细化心灵控制导向的自动化语言输出系统, 结点行为模拟系统的开发可能性探索
-  - DOING COPY to `reaper-of-pain` and `Eliza`
+  - DOING COPY to `reaper-of-pain` and `Eliza` DONE
+  - 可以基於這種心裏人格進行自動化PUA系統的設計, 從簡單的範例開始做起
 - 论`Baby商人`的自我修养
 - 我觉得人类总体智力的发展为什么还是太慢的原因是`社会支配欲导向的金字塔型架构`, 猩猩也是这样的社会结构, 如果我们能够打破猩猩的如此的社会结构, 并且给猩猩共同体提供精细化智力发展的解决方案及生理学限制的规避策略, 也许猩猩的IQ能够提升到90-100, 加入劳动力大军
-    - CRAZINESS: Animals as workforce
+  - CRAZINESS: Animals as workforce
 
 # 2022/5/14
 - I think part of the self-dysregulation is that you are still trying to reserve yourself time to rest, if you ditch that idea and let your brain go rampant you will, contrary to intuition, get better rest
@@ -1163,3 +1317,7 @@
 
 ## YQ模式下远程办公模式的探索
 #stagedoutbound
+
+# 2022/5/24
+- 針對ESTJ類型人格的自動化PUA系統的探索
+- Branding as Code

@@ -820,9 +820,7 @@
             - Instances(legal)
               - US Chapter 11 Bankruptcy
         - [ACCA F4GLO - 10. Fraudulent Behaviour](https://www.youtube.com/watch?v=TuffGNzxurY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=48)
-          - Videomark; 3:20/7:40
-          - CCS: 26.8%
-          - E.T.C: 4.88 months
+          - Videomark; 7:40/7:40
           - STRUCT
             - Insider Dealing
               - self
@@ -832,65 +830,201 @@
                 - burden of proof: beyond reasonable doubt
               - penalty
             - Money laundering
+            - Fraudulent Trading
+            - Wrongful Trading
             - _instance
               - UK Law
                 - Fradulent trading
                 - Wrongful trading
-          - _meta_following
-              - _meta_escalate
-                - [Accounting Coach](https://www.accountingcoach.com/)
-                  - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
-                - IFRS
-              - Brain Groceries
-                - **incoterms**
-                  - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
-                  - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
-              - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
-                - NEW P.O.I - S. M. Bragg
-                - Process 1
-                  - Style: Skimming
-                    - Use pre-trained rigorous visualization brain-state
-                  - Bookmark: 14/256
-                - Process 2
-              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+        - [ACCA F5 - 1. Specialist cost](https://www.youtube.com/watch?v=kYETN8w9R6k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=49)
+          - Videomark; 8:37/8:37
+          - CCS: 28%
+          - E.T.C: 4 months
+          - STRUCT
+            - Activity Based Costing(ABC)
+              - _meta
+                - *hard and costly to implement*
+              - OAR
+              - *p.a.* --> per annum
+              - *apportionment*
+            - Target Costing(TC)
+            - Life-cycle Costing
+            - Back-flush Accounting
+            - Throughput accounting
+              - JIT environment
+        - [ACCA F5 - 2. Worked example of costing](https://www.youtube.com/watch?v=Kyyp_viA6Xg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=50)
+          - Videomark; 4:34/4:34
+          - Practice point
+            - Exam application of ABC analysis
+        - [ACCA F5 - 3. Worked example of costing](https://www.youtube.com/watch?v=nyzKneWV3B4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=51)
+          - Videomark; 5:43/5:43
+          - CCS: 29.1%
+          - E.T.C: 2.15 months
+        - [ACCA F5 - 4. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+          - Videomark: 9:31/9:31
+        - [ACCA F5 - 5. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+          - Videomark; 10:03/10:03
+          - Practice point
+            - Costing
+              - $udemy_course
+        - [ACCA F5 - 6. Worked example of costing](https://www.youtube.com/watch?v=lUYAGslqDFQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=54)
+          - Videomark: 10:02/10:02
+          - CCS: 30.8%
+          - E.T.C: 1.35 months
+          - Practice point
+            - Calculating TPAR
+              - Throughput accounting
+        - [ACCA F5 - 7. Decision Making Techniques](https://www.youtube.com/watch?v=nf8B7s98SQI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=55)
+          - Videomark: 10:59/10:59
+          - STRUCT
+            - Relevant costs
+              - relevance
+              - Future
+                - Sunk costs
+                - Commited costs
+              - **CVP Analysis**
+                - **The breakeven formula**
+              - Incremental Analysis
+                - Application in decision making
+              - Linear Programming
+              - Determining optimal mix of products where there are limiting factors
+            - Pricing decisions
+              - **PED(The price elasticity of demand)**
+              - Demand equation： $P=a-bQ$
+            - Total Cost Function: $Y=aX+b$
+          - [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
+            - Videomark: 8:46/8:46
+            - STRUCT
+              - Pricing Strategy
+                - Cost plus
+                - Skimming
+                - Penetration pricing
+                - Premium pricing
+                - Target pricing
+                - Promotional pricing
+                - Perceived value pricing
+                - Value pricing
+                - Product-line pricing
+                - Volume-discounting pricing
+                - Discriminatory pricing
+                - Psychological pricing
+                - Product Bundle Pricing
+                - Complementary product pricing
+                - Relevant cost pricing
+                - Make-buy
+              - Risk and Uncertainty
+                - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
+                - Uncertainty: subjective probability
+                - Expected Value
+              - Sensitivity
+                - Sensitivity analysis
+                - Sensitivity by scenario
+              - Simulation - Monte Cario
+              - **Maximax, maximin, and minimax regret**
+          - [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
+            - Videomark: 8:43/8:43
+            - CCS: 32.5%
+            - E.T.C: 1.32 months
+            - STRUCT
+              - Budget
                 - _meta
-                  - STICKY, FOLLOWING  
-                    - Process 1
-                      - Bookmark: 11/392
-                      - Style: Osmosis
-                        - _meta
-                          - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
-                          - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
-                            - _meta
-                              - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
-                      - Goal: Connect the dots till a whole area just clicks
-                        - _meta
-                          - And record `average_arial_singularity_time_cost`
-                      - Sub-process 1.1
-                        - Scope
-                        - Goal
-                    - Process 2
-              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
-                - Bookmark: 2/45
-                - _meta
-                  - STICKY, FOLLOWING
-                  - RECAP
-                    - position: p1
-                  - STRUCT
-                    - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
-              - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
-                - _meta
-                  - STICKY, FOLLOWING
-              - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
-              - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
-              - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
-                - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
-                - Bookmark: 13
-              - 18.S096, Financial Mathematics(MIT)
-                - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
-                  - Videomark: 0:00:00/1:00:29
-                  - _meta_escalate
-                    - MOVE TO `$parent` on COMPLETION of `$parent`
+                  - definition
+                    - *a budget is a quantitative plan addressing the future*
+                  - category
+                    - fixed
+                    - flexible
+                    - ZBB(Zero-based)
+                    - ABB(Activity-based)
+                    - Incremental
+                  - time-related
+                    - budgetary period
+                - VOCAB
+                  - budgetary control system
+                  - goal congruence
+                - modern bugetary system vs conventional
+                - Quantitative analysis
+                  - High-low method
+                    - --> F2
+                  - Regression analysis
+                    - --> F2
+                  - Learning curves
+                - Behavioural Aspects of Budgeting
+                  - Top-down
+                  - Bottom-up
+                  - Unrealistic
+                  - Overty achievable
+          - [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
+            - Videomark: 1:26/9:23
+            - CCS: 33.1%
+            - E.T.C: 3.71 months
+            - STRUCT
+              - The big picture
+              - Basic Variances and Operating Statements
+                - _instance
+                  - Worked examples
+                    - Cost card
+                    - Budget
+                    - Actual results
+                    - Variance
+                      - Material variances
+                - Variance
+            - _meta_following
+                - _meta_escalate
+                  - [Accounting Coach](https://www.accountingcoach.com/)
+                    - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                  - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+                    - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                  - IFRS
+                - Brain Groceries
+                  - **incoterms**
+                    - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                    - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+                - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                  - NEW P.O.I - S. M. Bragg
+                  - Process 1
+                    - Style: Skimming
+                      - Use pre-trained rigorous visualization brain-state
+                    - Bookmark: 14/256
+                  - Process 2
+                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING  
+                      - Process 1
+                        - Bookmark: 11/392
+                        - Style: Osmosis
+                          - _meta
+                            - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                            - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                              - _meta
+                                - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                        - Goal: Connect the dots till a whole area just clicks
+                          - _meta
+                            - And record `average_arial_singularity_time_cost`
+                        - Sub-process 1.1
+                          - Scope
+                          - Goal
+                      - Process 2
+                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                  - Bookmark: 2/45
+                  - _meta
+                    - STICKY, FOLLOWING
+                    - RECAP
+                      - position: p1
+                    - STRUCT
+                      - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+                - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING
+                - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+                - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+                - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                  - Bookmark: 13
+                - 18.S096, Financial Mathematics(MIT)
+                  - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                    - Videomark: 0:00:00/1:00:29
+                    - _meta_escalate
+                      - MOVE TO `$parent` on COMPLETION of `$parent`
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -905,6 +1039,7 @@
           - Recruiting and Developing Effective Employees
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 5:14/2:05:53
+
   - POINTER CONDITION
     - TOPIC Law, regulation, justice, politics
     - **DELINQUENCY AVOIDANCE** | **POINTER** before noon
@@ -963,15 +1098,15 @@
                   - **Network capacity, manipulation**
                   - **Network-procedural connection**
                   - **Procedural capacity**
-                    - CPU: *20多年了, 就等著這一天bymaverse的kickstart! 沒白過! F U IQ*
-                      - WARNING: Sensing *brain singularity*, immediate *psychic energy transfer procedure* triggered
             - #testtaking
               - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
               - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead
-          - CCS: 40.1%/40.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 50%
+          - CCS: 90.1%/90.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 100%
             - **WARNING: Concurrent running of German, English, AWS SysOps context with 2x speed for 1.5 hr daily is exceeding your innate brain processing power, microscopic raw intelligence increment detected, increment pattern & logic encapsulated, future gamification and product design rigged and archived, constant internal system radical re-structuring opportunity trigger point hit, learning effectiveness of AWS SysOps jeopardized, time overrun mitigated but still outstanding**
               - *2x speed with german subtitle is triggering brain activation which resembles simultaneous interpretation*
               - ACTION: *keep doin' it, power it through*
+                - Gamification policy
+                  - Every 1%, couple with *Hindi alphabet practice*
           - ETC: 10.7 months --> 10d
             - Maximum acceptable time: 20 days :]
               - Implication: 1.5 hours avg per day - *Time to face reality pal!*
@@ -981,16 +1116,41 @@
             - OVERWRITE ON CONDITION
               - Major knowledge point understanding threshold establishment on-contact required
                 - DESTROY ON `click/aha/eureka` state reached
-          - Hard nuts
+          - Static, frequently-used knowledge
             - _meta
               - STYLE: `test-driven`, flashcard-based
               - DYNAMIC UNLOCK THRESHOLD: **From physics to cloud**
+              - *精*
+                - sense of pricing
             - EBS volume type
+            - S3 Storage Classes
+            - Private IP ranges
+            - 5 AWS specific reserved IP addresses for VPC
+            - AWS Provider DNS Server: 169.254.169.253
+          - Network tools
+            - ipaddressguide
           - _OUTBOUND --> `*-T_software`
             - NFS
+            - Port
+              - Defined port
+              - Ephemeral ports
+            - NTP
+            - IGW
             - POSIX
               - [POSIX - Wiki](https://en.wikipedia.org/wiki/POSIX)
+            - IANA
           - Realm of doubts
+            - VPC peering
+            - CIDR
+              - [ipaddressguide](https://www.ipaddressguide.com/cidr)
+            - Database for SysOps
+            - Security and Compliance for SysOps
+                - FIPS 140-2
+            - Ad vanced Storage Section
+              - AWS Snow
+              - AWS FSx
+              - AWS Storage Gateway
+                - Choice of gateway
             - AWS EFS
               - POSIX
             - AWS CF
@@ -1003,6 +1163,7 @@
               - LB EC2 Target Group
               - ASG Life cycle hook
             - ADVANCED Flow Hash Algorithm
+            - Route 53 Resolvers & Hybrid DNS
           - Style: Shallow Hands-on
             - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
             - DO: Picture yourself doing the operation key-stroke-wise is more than enough
@@ -1021,7 +1182,6 @@
             - VERDICT: Deferred
         - RANDOM THINKING: 未来的教育系统将会为业界提供人才的digital-twin, 而不是苍白的数字, 所以克隆人也不要了, 我们只需要克隆digital-twin就行了
           - 未来纯digital-dependant的企业将会fire all staffs, it will be run purely by digital-twins we made out of educational systems
-          - *哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈*
           - 未来meso-cycle的人类的role be-like将会是: 低创造力工作外包给及其, 中创造力工作外包给digital-twin, 高创造力工作由人类负责, bymaverse致力于BCI及人类总体智力的transformation
           - WARNING: Brain singularity triggered again, be advised, it is not good for your health
         - RANDOM THINKING
@@ -1058,10 +1218,10 @@
   - No change, next stage E.T.A 5 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
-- Portuguese - Lower B1
+- Portuguese - B1
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 77.5%
-    - *太可怕了... Not that I'm afraid of god. I'm afraid of myself*
+  - Initialization of language/meta structrure: 100%
+    - ENTERING HIBERNATE MODE
   - ON HALT | Energy leak by short-circuit due to being too easy
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages

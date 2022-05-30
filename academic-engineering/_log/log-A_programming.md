@@ -50,6 +50,7 @@
   - `pip install virtualenv` takes forever
     - `pip install --default-timeout=\{forever\} virtualenv`, then wait forever
       - It really takes forever
+    - [Once and for all, completely solve the problem of slow PIP install](https://developpaper.com/once-and-for-all-completely-solve-the-problem-of-slow-pip-install/)
     - [Virtualenv and Pip hanging forever](https://stackoverflow.com/questions/40093814/virtualenv-and-pip-hanging-forever)
     - [python利用国内源解决pip install 安装超时问题](https://blog.csdn.net/ezreal_tao/article/details/102142789)
 - Uncategorized

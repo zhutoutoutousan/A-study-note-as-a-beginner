@@ -1,4 +1,4 @@
-# STICKY 寻找Purpose的旅程
+# 寻找Purpose的旅程
 ## Shelter if you're homeless
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
 - [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
@@ -19,9 +19,9 @@
   - [The Writer’s Diet](https://writersdiet.com/test/)
 
 ### Learn to talk
-# STICKY Mandatory workout planning
+# Mandatory workout planning
 - Since you're slacking off your workout, mandatory workout routine required
-# STICKY Language progression management
+# Language progression management
 - Goal
   - New Goal E.T.A 120 days as of 2022/04/20
   - The **GOAL** has been lost over the last few years
@@ -960,20 +960,54 @@
             - STRUCT
               - The big picture
               - Basic Variances and Operating Statements
+                - _methods
+                  - absorption costing
+                    - operating statements
+                  - marginal costing
+                    - operating statements
                 - _instance
                   - Worked examples
                     - Cost card
                     - Budget
                     - Actual results
                     - Variance
-                      - Material variances
                 - Variance
+                  - Material variance
+                  - Labour variances
+                    - Labour rate variance
+                    - Labour efficiency variance
+                  - Variable O/H variances
+                    - Variable O/H expenditure variance
+                    - Variable O/H efficiency variance
+                  - Fixed O/H variances
+                    - Fixed O/H expenditure variance
+                      - Marginal costing, absorption costing...
+                    - Fixed O/H volume variance
+                  - Sales volume variance
+                  - Sales price variance
+                  - Mix and yield variance
+                  - Planning and Operational Variances
+                - Behavioural aspect of standard costing
+                - **Non-standard costing**
+          - [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
+            - Videomark: 2:00/10:17
+            - CCS: 33.7%
+            - E.T.C: 3.68 months
+            - STRUCT
+              - The scope of performance measurement
+                - Balanced scorecard
+                  - Financial perspective
+                  - Customer perspective
+                  - International business processes
+                  - Learning and growth
             - _meta_following
                 - _meta_escalate
+                  - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
                   - [Accounting Coach](https://www.accountingcoach.com/)
                     - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
                   - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
                     - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                  - TANDEM WITH **RPA**
                   - IFRS
                 - Brain Groceries
                   - **incoterms**
@@ -1077,117 +1111,7 @@
     - Web 3.0
       - **DAO** --> **ACTIVE** QUEUED 
     - Cloud Computing
-      - **AWS SysOps** --> **ACTIVE**
-        - $udemy_course
-          - _meta_escalate
-            - #bymaverse
-              - Architecture-Console-CLI connection --> `MOVE TO bymaverse ON COMPLETION`
-                - Similar to Mind-muscle connection
-                - Specific intellectual activity involved
-                  - _meta
-                    - **THIS IS VERY IMPORTANT FOR BYMAVERSE MAPPING!!!**
-                    - pre-requisite
-                      - valid knowledge structure that is proven to be existentially valid
-                    - instance
-                      - Coding
-                      - Intellectual debate
-                      - Mathematical deduction
-                      - Networking rigor, political rigor, business rigor
-                  - **Integration with BCI-based intellectual enhancement/augmentation**
-                    - **Integration with wearables**
-                  - **Network capacity, manipulation**
-                  - **Network-procedural connection**
-                  - **Procedural capacity**
-            - #testtaking
-              - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
-              - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead
-          - CCS: 90.1%/90.0% --> NEXT DAY PERCENTAGE REQUIREMENT: 100%
-            - **WARNING: Concurrent running of German, English, AWS SysOps context with 2x speed for 1.5 hr daily is exceeding your innate brain processing power, microscopic raw intelligence increment detected, increment pattern & logic encapsulated, future gamification and product design rigged and archived, constant internal system radical re-structuring opportunity trigger point hit, learning effectiveness of AWS SysOps jeopardized, time overrun mitigated but still outstanding**
-              - *2x speed with german subtitle is triggering brain activation which resembles simultaneous interpretation*
-              - ACTION: *keep doin' it, power it through*
-                - Gamification policy
-                  - Every 1%, couple with *Hindi alphabet practice*
-          - ETC: 10.7 months --> 10d
-            - Maximum acceptable time: 20 days :]
-              - Implication: 1.5 hours avg per day - *Time to face reality pal!*
-          - TIME OVERRUN AVOIDANCE POLICY(Richtlinien)
-            - 2x speed on vids what is over 0 minute :]
-              - *You must take a leap of faith to risk major time overrun pal!*
-            - OVERWRITE ON CONDITION
-              - Major knowledge point understanding threshold establishment on-contact required
-                - DESTROY ON `click/aha/eureka` state reached
-          - Static, frequently-used knowledge
-            - _meta
-              - STYLE: `test-driven`, flashcard-based
-              - DYNAMIC UNLOCK THRESHOLD: **From physics to cloud**
-              - *精*
-                - sense of pricing
-            - EBS volume type
-            - S3 Storage Classes
-            - Private IP ranges
-            - 5 AWS specific reserved IP addresses for VPC
-            - AWS Provider DNS Server: 169.254.169.253
-          - Network tools
-            - ipaddressguide
-          - _OUTBOUND --> `*-T_software`
-            - NFS
-            - Port
-              - Defined port
-              - Ephemeral ports
-            - NTP
-            - IGW
-            - POSIX
-              - [POSIX - Wiki](https://en.wikipedia.org/wiki/POSIX)
-            - IANA
-          - Realm of doubts
-            - VPC peering
-            - CIDR
-              - [ipaddressguide](https://www.ipaddressguide.com/cidr)
-            - Database for SysOps
-            - Security and Compliance for SysOps
-                - FIPS 140-2
-            - Ad vanced Storage Section
-              - AWS Snow
-              - AWS FSx
-              - AWS Storage Gateway
-                - Choice of gateway
-            - AWS EFS
-              - POSIX
-            - AWS CF
-              - Stack, ChangeSet
-            - AWS Config
-            - SSM Patch Manager
-            - EC2 High Availability & Scalability
-              - ELB Target Group Attibutes
-              - LB Sticky Session
-              - LB EC2 Target Group
-              - ASG Life cycle hook
-            - ADVANCED Flow Hash Algorithm
-            - Route 53 Resolvers & Hybrid DNS
-          - Style: Shallow Hands-on
-            - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
-            - DO: Picture yourself doing the operation key-stroke-wise is more than enough
-        - *针对云计算的分布式精细化超长期全闭环任督二脉计划* 
-          - For all of your dots, planes, spaces to be connected, you need ONE BIG-AXX PROJECT based on AWS, hopefully to some massive scale, to make them all available for rigourous business context
-            - ERROR: Current overall leverage/wherewithal not enough to lever resources to initiate the plan
-            - ERROR: *I have enough liver complaint already, don't you ever start with this after you have rested*
-            - ERROR: *主动给自己挖坑/找死的高目的性行为需经过大脑战略层的决断之后才能初始化*
-              - 需要M性格 && G && B && T性格的参与讨论
-              - 人类集体无意识/思维载体 a.k.a 大脑之限制性导致的原始legacy性格需要保证届时完全剔除, 并设定expire date保证生理层平衡
-            - ERROR: *适合发展中期的Rip Van Winkle型的/Kafka型的商业实体进行转型*
-            - WARNING: Lacking Project Management Skills and experience
-            - WARNING：Lacking Business knowledge and Experience
-            - WARNING: Technical skills maturity not reached
-              - Cloud native knowledge imperative
-            - VERDICT: Deferred
-        - RANDOM THINKING: 未来的教育系统将会为业界提供人才的digital-twin, 而不是苍白的数字, 所以克隆人也不要了, 我们只需要克隆digital-twin就行了
-          - 未来纯digital-dependant的企业将会fire all staffs, it will be run purely by digital-twins we made out of educational systems
-          - 未来meso-cycle的人类的role be-like将会是: 低创造力工作外包给及其, 中创造力工作外包给digital-twin, 高创造力工作由人类负责, bymaverse致力于BCI及人类总体智力的transformation
-          - WARNING: Brain singularity triggered again, be advised, it is not good for your health
-        - RANDOM THINKING
-          - `knowledge as code`: *F U Books* --> RELATED: bymaverse
-            - 2022/5/24: Knowledge as Code will automatically gerate mind game for you with set schedule of absorption saturation planning
-          - `wisdom as code`
+      - `AWS SysOps` MOVED TO `SysOps sprint`
     - Cybersecurity
       - IDW
   - Foundations for LIFETIME_PURSUIT
@@ -1305,7 +1229,7 @@
     - tool
       - Duolingo Browser Version
   - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-# STICKY Monthly Micro PIP
+# Monthly Micro PIP
 - Work on it, bxxxh
 - Copilot, 新的一月, 你有什么建议吗?
   - `Copilot: 我想把这个项目改成一个简单的项目, 因为我觉得这个项目太难了`

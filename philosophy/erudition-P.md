@@ -25,7 +25,11 @@
 - Die Welt als Wille und Vorstellung -- Arthur Schopenhauer
   - [Link1](https://www.lernhelfer.de/sites/default/files/lexicon/pdf/BWS-DEU2-0958-03.pdf)
   - Process 1
-    - Bookmark: 1/826
+    - Bookmark: 4/826
+       - _...die es dem Leser zumuthet, welcher Gebildete dieser Zeit
+    - Prerequisites
+      - Über die vierfache Wurzel des Satzes vom zureichenden Grunde
+        - [Aufnahme der Sitzung](https://youtu.be/nWag2iZlxqw)
 - Also sprach Zarathustra -- Friedrich Nietzsche
   - [Link1](http://www.pileface.com/sollers/pdf/Zarathustra.pdf)
 

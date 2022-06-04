@@ -64,7 +64,11 @@
 - Startup Toolchain
   - Ideation
     - Miro
+    - Miro
   - Prototype
+  - Teamplay
+    - GitLens
+    - vscode-icons
   - API sharing
     - [apiary](https://apiary.io/)
   - Teamplay
@@ -90,6 +94,11 @@
         - [Using PlantUML in VSCode](https://www.youtube.com/watch?v=xkwJ9GwgZJU)
         - [PlantUml Masterclass Create Sequence Diagram Easily with VS Code | LetsDoCoding](https://www.youtube.com/watch?v=JqJpbNxIK90)
           - Videomark: 1:02
+    - Frontend
+      - Testing
+        - Enzyme
+          - [Airbnb - Enzyme](https://airbnb.io/projects/enzyme/)
+        - Jest
   - On-premise
     - Distributed Solution
       - Kafka

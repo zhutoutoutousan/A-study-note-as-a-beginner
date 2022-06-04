@@ -235,6 +235,8 @@
 - System design
   - Hands-on
     - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - Auxiliary
+    - [System Design Resources - GitHub](https://github.com/InterviewReady/system-design-resources)
   - Philosophy
     - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
   - Communications

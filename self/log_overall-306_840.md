@@ -1058,10 +1058,18 @@
             - CCS: 34.8%
             - E.T.C: 3.62 months
           - [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
-            - Videomark: 4:00/13:15
+            - Videomark: 13:15/13:15
             - CCS: 35.4%
             - E.T.C: 3.58 months
             - ADJUSTMENT: 10min/day for French learning on weekends
+          - [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
+            - Videomark: 10:07/10:07
+            - CCS: 36%
+            - E.T.C: 3.55 months
+          - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
+            - Videomark: 1:01/9:26
+            - CCS: 36.5%
+            - E.T.C: 4.23 months
             - FOLLOWING, CLUSTERED | Tax
               - Income Tax - Employment Income
                 - Benefit
@@ -1098,7 +1106,13 @@
                     - Method of acquisition
                       - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
                 - Basis of assessment
-                  - current year basis
+                  - Opening Year Rules
+                  - CYB: current year basis
+                  - Period of Account
+                  - Period Assessed
+                  - Ongoing business rules
+                  - Change of accounting date
+                  - Closing year rules
                 - Adjustment of the accounting profit
                 - Tax adjustedd trading profit
                   - Net product per accounts
@@ -1139,6 +1153,20 @@
                       - Office furniture and equipment, Moveable partitioning
                     - Writing Down Allowance(WDA)
                     - Annual Investment Allowance(AIA)
+                    - Motor cars
+                      - purchased on or after 6 April 2009
+                      - purchased before 6 April 2009
+                    - Private use assets
+                      - *for sole traders*
+                      - *companies never have private use assets as they are not suppose to have them in the first place*
+                    - Special Rate Pool
+              - Trading Losses(For sole traders)
+                - Carry forward of trading loss
+                - Offset of loss against total income
+                - Relieving trading losses against chargeable gains
+                - Offset of opening year loss against total income: FIFO
+                - Offset of terminal loss against previous trading profits: LIFO
+
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -1166,6 +1194,7 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
+  - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1 zu bekommen*
   - _meta_escalate
     - _meta
       - related
@@ -1178,20 +1207,44 @@
     - DISCERNMENT Harder programming and computer science topic will eventually be directed to **Russian**, theoretical and ancient science/mathematics topics will be directed to **Greek**
     - PLANNING 5 minute for Competitive Programming(Intermediate and lower) + 5 minute for AWS SysOps(TEMP) + 5 minute `LIFETIME_PURSUIT`(Complexity theory)
     - WARNING Future discussion on disruptive element e.g. `unexpected language proficiency progression` shall be discussed to avoid major deviations
-  - Material Track(HALT) --> `LIFETIME_PURSUIT` | **HALT**
-    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8)
-      - Videomark: 3:27/1:06:24
+  - German input for Listening
+    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/day
+      - Videomark: 8:37/1:06:24
+      - CCS: 12.8%
+      - ETC: 12.5d
+    - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
+      - Videomark: 2:32
+    - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
+    - Daily, Mundane contents --> **ACTIVE** 5min/day
   - Coding
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
+      - Nest.js --> Voluntary 
+      - TypeScript --> Voluntary
+      - Advanced React --> Voluntary
   - Puzzle games
     - Chess
   - Comprehensive development path
     - Web 3.0
-      - **DAO** --> **ACTIVE** QUEUED 
+      - **DAO** --> **ACTIVE** 10min/day
+        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
+          - RULE
+            - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
+          - CCS: 8.7%
+          - ETC: 1.05 months
+          - P.O.I
+            - Stuart Haber & W.Scott Stornetta
+              - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
+          - [Superdatascience](https://www.superdatascience.com/blockchain/)
     - Cloud Computing
-      - `AWS SysOps` MOVED TO `SysOps sprint`
+      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 5min/day
+        - RULE
+          - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
+          - *Hey dude, it aint's the best place to get with GraphQL, so why don't you get over it fast on this one?*
+        - CCS: 48.0%
+        - ETC: 4d
+        - TEMP TIMESTAMP: 0:05
     - Cybersecurity
       - IDW
   - Foundations for LIFETIME_PURSUIT
@@ -1199,6 +1252,9 @@
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
+      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
+        - CCS: 0.4%
+        - ETC: 8.3 months
       - Codeforces
         - Constructive Algorithm --> **HALT**
           - Noob to Expert | Topic Stream
@@ -1218,6 +1274,8 @@
   - TOPIC Philosophy, psychology, law
     - German philogophy
       - Fredrick Nitszsche
+- Italian - B1
+  - TOPIC: Fashion, design, art
 - Spanish - B1
   - No change, next stage E.T.A 5 months
   - TOPIC Project, Product, Service
@@ -1230,10 +1288,10 @@
   - No change on progression logic
   - Next stage comes after achieving C2 level of proficiency on previous languages
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 51.6%
+  - Initialization of language/meta structrure: 60.5%
   - Tool
     - Tone finder
-      - [ادعم مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
+      - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 2 WPM
@@ -1262,11 +1320,13 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
+  - Initialization of language/meta structrure: 29.4%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Italian - B1
-  - Topic: Fashion, Luxury, Design,   
+  - Topic: Fashion, Luxury, Design
 - Vietnamese - A2
+  - Initialization of language/meta structrure: 40.5%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1

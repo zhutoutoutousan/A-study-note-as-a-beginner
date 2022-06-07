@@ -1067,106 +1067,146 @@
             - CCS: 36%
             - E.T.C: 3.55 months
           - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
-            - Videomark: 1:01/9:26
+            - Videomark: 9:26/9:26
             - CCS: 36.5%
             - E.T.C: 4.23 months
+          - [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
+            - Videomark: 9:26/9:26
+            - CCS: 37.1%
+            - E.T.C: 3.49 months
+          - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
+            - Videomark: 2:13/14:39
+            - CCS: 37.7%
+            - E.T.C: 3.46 months
             - FOLLOWING, CLUSTERED | Tax
-              - Income Tax - Employment Income
-                - Benefit
-                - Exempt benefit
-                - Assessable benefit - Living Accommodation
-                - Assessable benefit - motor cars
-                  - Petrol car
-                    - Private fuel
-                    - Private use of vans
-                    - Private use of employer's assets
-                    - Gift of asset - no previous private use
-                    - Gift of asset - after previous private use
-                  - Diesel car
-                  - Electric car
-              - Income Tax - Trading Income
-                - Discernment
-                  - Capital gain Tax
-                - Typical recipients - A personal who is employed by a company receives employment income and not trading income
-                  - A *sole trader*
-                  - Self-employed
-                  - Independant consultant
-                - Badges of trade
-                  - Badges
-                    - Subject matter
-                      - *items that were transacted typically items that are used for trading*
-                    - Frequency of transactions
-                      - *the more often the transaction is undertaken the more likely it is that the item will be trading*
-                    - Length of ownership
-                      - *a shorter period of ownership is more likely to indicate trading*
-                    - Profit motive
-                      - *a clear indication to make a profit may indicate a trading item*
-                    - Supplementary work and marketing
-                      - *additional work undertaken on the items to make them more marketable may indicate trading*
-                    - Method of acquisition
-                      - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
-                - Basis of assessment
-                  - Opening Year Rules
-                  - CYB: current year basis
-                  - Period of Account
-                  - Period Assessed
-                  - Ongoing business rules
-                  - Change of accounting date
-                  - Closing year rules
-                - Adjustment of the accounting profit
-                - Tax adjustedd trading profit
-                  - Net product per accounts
-                    - ADD
-                      - Disallowed expenditure
-                      - Taxable trading income not included in accounts
-                      - ...
-                    - LESS
-                      - Income included within the accounts but not taxable as trading income
-                      - Expenditure not in the accounts but allowable as a trading deduction
-                      - Capital allowances
-                      - ...
-                    - Tax adjusted trading profit
-                - Disallowable expenditure
+              - Individual Tax
+                - Income Tax - Employment Income
+                  - Benefit
+                  - Exempt benefit
+                  - Assessable benefit - Living Accommodation
+                  - Assessable benefit - motor cars
+                    - Petrol car
+                      - Private fuel
+                      - Private use of vans
+                      - Private use of employer's assets
+                      - Gift of asset - no previous private use
+                      - Gift of asset - after previous private use
+                    - Diesel car
+                    - Electric car
+                - Income Tax - Trading Income
+                  - Discernment
+                    - Capital gain Tax
+                  - Typical recipients - A personal who is employed by a company receives employment income and not trading income
+                    - A *sole trader*
+                    - Self-employed
+                    - Independant consultant
+                  - Badges of trade
+                    - Badges
+                      - Subject matter
+                        - *items that were transacted typically items that are used for trading*
+                      - Frequency of transactions
+                        - *the more often the transaction is undertaken the more likely it is that the item will be trading*
+                      - Length of ownership
+                        - *a shorter period of ownership is more likely to indicate trading*
+                      - Profit motive
+                        - *a clear indication to make a profit may indicate a trading item*
+                      - Supplementary work and marketing
+                        - *additional work undertaken on the items to make them more marketable may indicate trading*
+                      - Method of acquisition
+                        - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
+                  - Basis of assessment
+                    - Opening Year Rules
+                    - CYB: current year basis
+                    - Period of Account
+                    - Period Assessed
+                    - Ongoing business rules
+                    - Change of accounting date
+                    - Closing year rules
+                  - Adjustment of the accounting profit
+                  - Tax adjustedd trading profit
+                    - Net product per accounts
+                      - ADD
+                        - Disallowed expenditure
+                        - Taxable trading income not included in accounts
+                        - ...
+                      - LESS
+                        - Income included within the accounts but not taxable as trading income
+                        - Expenditure not in the accounts but allowable as a trading deduction
+                        - Capital allowances
+                        - ...
+                      - Tax adjusted trading profit
+                  - Disallowable expenditure
+                    - _meta
+                      - _instance
+                        - Capital expenditure
+                        - Depreciation or amortization charges
+                        - Appropriation(withdrawl) of funds from the business by the sole trader
+                        - Excessive salary paid to a sole trader's family member
+                        - 3rd party entertaining(note that employee entertaining is allowable)
+                        - The write off a non-trade debt
+                        - Subscriptions that are not related to the trade
+                        - Gifts to customers are disallowable
+                          - _meta
+                            - _exception
+                              - cost less than ￡50 per recipient per year
+                              - The gift is not food, drink, or tobacco
+                - Capital Allowances
                   - _meta
-                    - _instance
-                      - Capital expenditure
-                      - Depreciation or amortization charges
-                      - Appropriation(withdrawl) of funds from the business by the sole trader
-                      - Excessive salary paid to a sole trader's family member
-                      - 3rd party entertaining(note that employee entertaining is allowable)
-                      - The write off a non-trade debt
-                      - Subscriptions that are not related to the trade
-                      - Gifts to customers are disallowable
-                        - _meta
-                          - _exception
-                            - cost less than ￡50 per recipient per year
-                            - The gift is not food, drink, or tobacco
-              - Capital Allowances
-                - _meta
-                  - _self
-                    - *Capital allowances are tax allowable amounts that are calculated according to set specific rules*
-                - *Depreciation is an accounting adjustment*
-                - Plant and Machinery(P&M)
-                  - _meta
-                    - _instance
-                      - Machinery, Vehicles(cars and lorries), Computers(hardware and software)
-                      - Office furniture and equipment, Moveable partitioning
-                    - Writing Down Allowance(WDA)
-                    - Annual Investment Allowance(AIA)
-                    - Motor cars
-                      - purchased on or after 6 April 2009
-                      - purchased before 6 April 2009
-                    - Private use assets
-                      - *for sole traders*
-                      - *companies never have private use assets as they are not suppose to have them in the first place*
-                    - Special Rate Pool
-              - Trading Losses(For sole traders)
-                - Carry forward of trading loss
-                - Offset of loss against total income
-                - Relieving trading losses against chargeable gains
-                - Offset of opening year loss against total income: FIFO
-                - Offset of terminal loss against previous trading profits: LIFO
-
+                    - _self
+                      - *Capital allowances are tax allowable amounts that are calculated according to set specific rules*
+                  - *Depreciation is an accounting adjustment*
+                  - Plant and Machinery(P&M)
+                    - _meta
+                      - _instance
+                        - Machinery, Vehicles(cars and lorries), Computers(hardware and software)
+                        - Office furniture and equipment, Moveable partitioning
+                      - Writing Down Allowance(WDA)
+                      - Annual Investment Allowance(AIA)
+                      - Motor cars
+                        - purchased on or after 6 April 2009
+                        - purchased before 6 April 2009
+                      - Private use assets
+                        - *for sole traders*
+                        - *companies never have private use assets as they are not suppose to have them in the first place*
+                      - Special Rate Pool
+                - Trading Losses(For sole traders)
+                  - Carry forward of trading loss
+                  - Offset of loss against total income
+                  - Relieving trading losses against chargeable gains
+                  - Offset of opening year loss against total income: FIFO
+                  - Offset of terminal loss against previous trading profits: LIFO
+                - Trading Income(For Partnership)
+                  - Loss relief in partnerships
+                  - Furnished holiday lettings(FHL)
+                - Property income
+                  - Property business profits
+                    - Accruals
+                  - Premiums received on the grant of a short lease
+                  - Rent a room relief
+                - Investment Income
+                  - HMRC
+                - Rate of tax on savings income
+                - Dividend Income
+                  - *Go-on-top* Style
+                - Pensions
+                  - Pension schemes
+                    - Occupational pension schemes(certain employees)
+                    - Personal pension schemes(employees, sold traders, and unemployed)
+                  - Method of obtaining relief
+                    - Occupational pension Income
+                    - Personal pension scheme
+                      - Basic rate tax relief
+                      - Higher rate tax relief
+                - National Insurance Contributions(NIC)
+              - Corporation Tax
+                - Context field
+                  - Period of account
+                  - Accounting Period
+                - Corporate Tax Computation
+                  - Trading profits
+                  - Property Income
+                  - Interest Income
+                  - Chargeable gains
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -1181,7 +1221,13 @@
           - Recruiting and Developing Effective Employees
     - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
       - Videomark: 5:14/2:05:53
-
+    - DISCOVERED CAREER PATH
+      - Corporate liquidator
+        - Finantial mathematics
+          - Require HIGH-PROFILE certificates
+      - Risk specialist
+        - Due diligence investigator
+          - Require HIGH-PROFILE certificates
   - POINTER CONDITION
     - TOPIC Law, regulation, justice, politics
     - **DELINQUENCY AVOIDANCE** | **POINTER** before noon
@@ -1194,7 +1240,9 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
-  - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1 zu bekommen*
+  - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
+  - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
+  - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
   - _meta_escalate
     - _meta
       - related
@@ -1207,13 +1255,20 @@
     - DISCERNMENT Harder programming and computer science topic will eventually be directed to **Russian**, theoretical and ancient science/mathematics topics will be directed to **Greek**
     - PLANNING 5 minute for Competitive Programming(Intermediate and lower) + 5 minute for AWS SysOps(TEMP) + 5 minute `LIFETIME_PURSUIT`(Complexity theory)
     - WARNING Future discussion on disruptive element e.g. `unexpected language proficiency progression` shall be discussed to avoid major deviations
-  - German input for Listening
-    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/day
-      - Videomark: 8:37/1:06:24
-      - CCS: 12.8%
-      - ETC: 12.5d
+  - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse
+    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
+      - Videomark: 12:55/1:06:24
+      - CCS: 19.6%
+      - ETC: 13d
+      - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 2:32
+      - Videomark: 8:31/1:01:55
+      - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
+      - UNIX philosophy
+        - DO ONE THING WELL 只做好一事 Mach ein Ding
+        - SIMPLE OUTPUT 说人话 Zusammenarbeiten
+        - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
+        - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **ACTIVE** 5min/day
   - Coding
@@ -1226,24 +1281,46 @@
   - Puzzle games
     - Chess
   - Comprehensive development path
+    - Learn Physics via games - *No more books for physics learning - The time has come*
+      - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+        - DEVIATION: In tandem with **Dutch**
+    - Master Math by Coding in Python
+      - *No German Subtitle available*
+      - Tool: JetBrains - Datalore
+        - [Datalore](https://datalore.jetbrains.com/notebook/)
     - Web 3.0
       - **DAO** --> **ACTIVE** 10min/day
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 8.7%
-          - ETC: 1.05 months
+          - CCS: 9.7%
+          - ETC: 3.01 months
+          - Code
+            - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
+              - SHA256
+                - [SHA 256 | SHA 256 Algorithm Explanation | How SHA 256 Algorithm Works | Cryptography | Simplilearn](https://www.youtube.com/watch?v=nduoUEHrK_4)
+                  - Videomark: 1:34
+          - Tools
+            - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
+          - Books
+            - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
+              - Bookmark Field
+                - Sweep: 10/199
+                - \$C1: 10
+              - Style: Paper-wise Split, Casual
+              - `children`
+                - \$C1: On the Secure Hash Algorithm family
           - P.O.I
             - Stuart Haber & W.Scott Stornetta
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
           - [Superdatascience](https://www.superdatascience.com/blockchain/)
     - Cloud Computing
-      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 5min/day
+      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 10min/day
         - RULE
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Hey dude, it aint's the best place to get with GraphQL, so why don't you get over it fast on this one?*
-        - CCS: 48.0%
-        - ETC: 4d
+        - CCS: 55.0%
+        - ETC: 6.4d
         - TEMP TIMESTAMP: 0:05
     - Cybersecurity
       - IDW
@@ -1253,8 +1330,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 0.4%
-        - ETC: 8.3 months
+        - CCS: 0.7%
+        - ETC: 8.27 months
       - Codeforces
         - Constructive Algorithm --> **HALT**
           - Noob to Expert | Topic Stream

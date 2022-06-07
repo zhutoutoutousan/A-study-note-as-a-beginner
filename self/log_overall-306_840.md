@@ -1240,35 +1240,32 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
-  - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
-  - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
-  - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
+  - *Beeilung!*
+    - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
+    - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
+    - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
   - _meta_escalate
     - _meta
       - related
         - `bymaverse`
     - To better accomodate your learning which requires more of your innate neural-level skills and proficiency, create a few more meta-learning supplementaries
-      - Specific-performance-driven Neural-level gamification platform and tracking dashboard
+      - Specific-performance-driven Neural-level gamification  platform and tracking dashboard
       - Skill orchestration mapping platform based on knowledge graph
-  - Next stage reached
-    - VERDICT: Additional 15 minutes of budget directed to German learning with simultaneous interpretation style, topic will include: Technology, Coding, Germanic Philosophy, Web3.0(DAO)
-    - DISCERNMENT Harder programming and computer science topic will eventually be directed to **Russian**, theoretical and ancient science/mathematics topics will be directed to **Greek**
-    - PLANNING 5 minute for Competitive Programming(Intermediate and lower) + 5 minute for AWS SysOps(TEMP) + 5 minute `LIFETIME_PURSUIT`(Complexity theory)
-    - WARNING Future discussion on disruptive element e.g. `unexpected language proficiency progression` shall be discussed to avoid major deviations
-  - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse
+  - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 12:55/1:06:24
-      - CCS: 19.6%
-      - ETC: 13d
+      - Videomark: 18:01/1:06:24
+      - CCS: 27.2%
+      - ETC: 9.5d
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 8:31/1:01:55
+      - Videomark: 14:01/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
         - SIMPLE OUTPUT 说人话 Zusammenarbeiten
         - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
         - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
+    - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **ACTIVE** 5min/day
   - Coding
@@ -1293,8 +1290,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 9.7%
-          - ETC: 3.01 months
+          - CCS: 10.6%
+          - ETC: 2.98 months
           - Code
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
               - SHA256
@@ -1310,6 +1307,7 @@
               - Style: Paper-wise Split, Casual
               - `children`
                 - \$C1: On the Secure Hash Algorithm family
+            - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
           - P.O.I
             - Stuart Haber & W.Scott Stornetta
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
@@ -1318,10 +1316,10 @@
       - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 10min/day
         - RULE
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - *Hey dude, it aint's the best place to get with GraphQL, so why don't you get over it fast on this one?*
-        - CCS: 55.0%
-        - ETC: 6.4d
-        - TEMP TIMESTAMP: 0:05
+          - *Next.js has troubles settling in windows env, do it on Cloud9*
+        - CCS: 57.8%
+        - ETC: 19d
+        - TEMP TIMESTAMP: 2:27
     - Cybersecurity
       - IDW
   - Foundations for LIFETIME_PURSUIT
@@ -1332,6 +1330,8 @@
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
         - CCS: 0.7%
         - ETC: 8.27 months
+        - TEMP TIMESTAMP: 5:29
+        - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
         - Constructive Algorithm --> **HALT**
           - Noob to Expert | Topic Stream
@@ -1351,21 +1351,32 @@
   - TOPIC Philosophy, psychology, law
     - German philogophy
       - Fredrick Nitszsche
-- Italian - B1
-  - TOPIC: Fashion, design, art
+- Italian - B1 --> ACTIVE, OPTIONAL 3min/day
+  - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
+  - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
+  - TOPIC: Romance, hope, anything irrational, extravagent about human beings
+  - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+    - CCS: 10.8%
+    - TEMP TIMESTAMP: 2:00
+    - Style: Italian, Rigorous, Recap
+      - *You already have a lot of experience, time to be more PEDANTIC for a change!*
+  - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more
+    - CCS: 10.8%
+    - TEMP TIMESTAMP: 2:00
+  - RIGGED HIDDEN CAREER PATH
+    - Musician, Designer(ACCD at older age for sport), Rip Van Winkle
 - Spanish - B1
   - No change, next stage E.T.A 5 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
-- Portuguese - B1
+- Portuguese - B1 --> ACTIVE, OPTIONAL 1min/day
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
   - Initialization of language/meta structrure: 100%
     - ENTERING HIBERNATE MODE
-  - ON HALT | Energy leak by short-circuit due to being too easy
-  - No change on progression logic
-  - Next stage comes after achieving C2 level of proficiency on previous languages
+    - Restarted on 2022/6/7
+  - TOPIC: Copywriting
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 60.5%
+  - Initialization of language/meta structrure: 63.3%
   - Tool
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
@@ -1400,8 +1411,6 @@
   - Initialization of language/meta structrure: 29.4%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
-- Italian - B1
-  - Topic: Fashion, Luxury, Design
 - Vietnamese - A2
   - Initialization of language/meta structrure: 40.5%
   - ON HALT

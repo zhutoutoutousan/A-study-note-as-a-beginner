@@ -29,3 +29,6 @@
 ## Pudding consumption
 - Goal: 1 Novemdecilion pudding
 ## Egg tart consumption
+
+# 发嗲中文产生器
+越南语用来发中文音

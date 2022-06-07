@@ -58,6 +58,7 @@
   - [前端开发如何调试大屏/巨屏/拼接屏?](#前端开发如何调试大屏巨屏拼接屏)
 - [2021/12/6](#2021126)
   - [你run了下`npm i`, 结果`npm audit`显示一堆vulnerability, 其中有两个critical, 你该怎么做?](#你run了下npm-i-结果npm-audit显示一堆vulnerability-其中有两个critical-你该怎么做)
+- [\$1](#1)
 
 CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
 
@@ -211,6 +212,10 @@ CONSIDER MERGING EVERYTHING ELSE INTO THIS PLACE
   - 组件化
     - 复用相同的UI框架的组件，渲染出来的样式/显示不同
       - [vue项目中遇到复用相同的UI框架的组件，但想要渲染出来的样式不同的解决方案](https://blog.csdn.net/meoncih_/article/details/107649348)
+- React
+  - Next.js
+    - \$1
+- Flutter
 - UI框架
   - _General
     - 多个UI框架之间发生冲突
@@ -383,3 +388,18 @@ https://jestjs.io/zh-Hans/docs/asynchronous
 # 2021/12/6
 ## 你run了下`npm i`, 结果`npm audit`显示一堆vulnerability, 其中有两个critical, 你该怎么做?
 
+# \$1
+```
+error - D:udemy-postapp-client\node_modules\next\dist\compiled\regenerator-runtime\runtime.js
+Module build failed: UnhandledSchemeError: Reading from "D:udemy-postapp-client\node_modules\next\dist\compiled\regenerator-runtime\runtime.js" is not handled by plugins (Unhandled scheme).
+Webpack supports "data:" and "file:" URIs by default.
+You may need an additional plugin to handle "d:" URIs.
+error - Error: Cannot find module 'D:\udemy-postapp-client\.next\fallback-build-manifest.json'
+Require stack:
+- D:\udemy-postapp-client\node_modules\next\dist\server\load-components.js
+- D:\udemy-postapp-client\node_modules\next\dist\server\next-server.js
+- D:\udemy-postapp-client\node_modules\next\dist\server\next.js
+- D:\udemy-postapp-client\node_modules\next\dist\server\lib\start-server.js
+- D:\udemy-postapp-client\node_modules\next\dist\cli\next-dev.js
+- D:\udemy-postapp-client\node_modules\next\dist\bin\next
+```

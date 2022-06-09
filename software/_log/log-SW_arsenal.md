@@ -86,6 +86,8 @@
         - Azure2AWS
         - AWS2onPremise
         - onPremise2AWS
+    - Bleeding-edge styling
+      - TailwindCSS
     - AWS
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09

@@ -1075,9 +1075,76 @@
             - CCS: 37.1%
             - E.T.C: 3.49 months
           - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
-            - Videomark: 2:13/14:39
+            - Videomark: 14:39/14:39
             - CCS: 37.7%
             - E.T.C: 3.46 months
+          - [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
+            - Videomark: 8:12/8:12
+            - CCS: 38.2%
+            - E.T.C: 4.12 months
+          - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
+            - Videomark: 3:27/13:35
+            - CCS: 38.8%
+            - E.T.C: 3.4 months
+            - _meta_following
+                - _meta_escalate
+                  - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
+                  - [Accounting Coach](https://www.accountingcoach.com/)
+                    - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                  - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+                    - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                  - TANDEM WITH **RPA**
+                  - IFRS
+                - Brain Groceries
+                  - **incoterms**
+                    - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                    - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+                - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                  - NEW P.O.I - S. M. Bragg
+                  - Process 1
+                    - Style: Skimming
+                      - Use pre-trained rigorous visualization brain-state
+                    - Bookmark: 14/256
+                  - Process 2
+                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING  
+                      - Process 1
+                        - Bookmark: 11/392
+                        - Style: Osmosis
+                          - _meta
+                            - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                            - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                              - _meta
+                                - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                        - Goal: Connect the dots till a whole area just clicks
+                          - _meta
+                            - And record `average_arial_singularity_time_cost`
+                        - Sub-process 1.1
+                          - Scope
+                          - Goal
+                      - Process 2
+                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                  - Bookmark: 2/45
+                  - _meta
+                    - STICKY, FOLLOWING
+                    - RECAP
+                      - position: p1
+                    - STRUCT
+                      - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+                - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING
+                - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+                - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+                - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                  - Bookmark: 13
+                - 18.S096, Financial Mathematics(MIT)
+                  - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                    - Videomark: 0:00:00/1:00:29
+                    - _meta_escalate
+                      - MOVE TO `$parent` on COMPLETION of `$parent`
             - FOLLOWING, CLUSTERED | Tax
               - Individual Tax
                 - Income Tax - Employment Income
@@ -1093,6 +1160,8 @@
                       - Gift of asset - after previous private use
                     - Diesel car
                     - Electric car
+                - Capital Gain Tax(CGT)
+                  - Pro forma for computation of capital gains for individuals
                 - Income Tax - Trading Income
                   - Discernment
                     - Capital gain Tax
@@ -1199,14 +1268,73 @@
                       - Higher rate tax relief
                 - National Insurance Contributions(NIC)
               - Corporation Tax
+                - _key-practice-point
+                  - Corporate tax computation
+                    - Profits below the lower limit
+                    - Profits above the upper limit
+                    - Profits in the marginal relief band
+                      - Short accounting periods
+                      - Associated companies
+                      - Accounting periods that are in the edge zone
+                    - Trading losses
+                      - s393(1) ICTA 1988: Carry forward the loss to offset against future trading income of the same trade
+                      - s393A ICTA 1988: Offset of current year trading loss against current year total profit(before deduction of gift aid)
+                      - *If a current year loss offset has been made and there are losses remaining, unused losses can be carried back and offset against total profits(before deduction of gift aid) of the previous 12 months*
                 - Context field
                   - Period of account
                   - Accounting Period
+                  - Profits chargeable to corporation tax(PCTCT)
+                  - "Profits" = PCTCT + Franked Investment Income(FII)
+                  - FII = Gross dividends received from non associated companies
+                - Discernment field
+                  - Trading Income
+                    - *mainly the same*
+                    - Differences
+                      - No private use asset adjustments, taxed on the employees via the benefit on private use
+                  - Property Income
+                    - Assessed according to the company's accounting period while individual --> tax year
+                    - *Interest on a loan acquired to purchase or improve an investment property is treated under the loan relationship rules unlike individuals who can treat it as a deduction from property Income*
+                  - Interest Income
+                    - Bank interet received in gross with no tax withheld(individual with bank interest net of 20% tax)
+                  - Dividend income
+                    - Not included in PCTCT
+                  - Chargeable gains
+                    - Corporate
+                      - \* Pro forma
+                      - Pay corporation tax on chargeable gains(i.e. the gains are part of PCTCT)
+                      - No annual exemtion
+                      - Indexation Allowance(IA) = $cost_asset \times RPI\_ movement$
+                        - [MBA | Indexation](https://wiki.mbalib.com/zh-tw/%E6%8C%87%E6%95%B0%E5%8C%96)
+                      - Share matching rules
+                    - individual
+                      - Pay Capital Gains Tax(CGT) on the gains and not income tax on the gains
+                      - Annual exemtion
+                      - No Indexation Allowance
+                      - capital gain tax
+                      - Share matching rules
+                  - Gift Aid
+                    - Corporate
+                      - Deducted in PCTCT
+                    - individual
+                      - Extend the basic rate band
                 - Corporate Tax Computation
                   - Trading profits
                   - Property Income
                   - Interest Income
                   - Chargeable gains
+                - Corporate Groups and Overseas Tax Issues
+                  - Corporate Groups
+                    - Associated companies
+                      - _meta
+                        - definition
+                        - implication
+                    - Group loss relief group
+                      - _meta
+                        - definition
+                        - implication
+                  - Overseas Tax Issues
+                    - AHA! *Overseas dividend income is exempt from UK corporation tax*
+                    - Double Tax Relief(DTR)
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -1244,6 +1372,7 @@
     - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
     - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
     - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
+    - *You can either train hard or train long - Jeff Cavaliere | Sie können entweder hart trainieren oder lange trainieren*
   - _meta_escalate
     - _meta
       - related
@@ -1251,20 +1380,34 @@
     - To better accomodate your learning which requires more of your innate neural-level skills and proficiency, create a few more meta-learning supplementaries
       - Specific-performance-driven Neural-level gamification  platform and tracking dashboard
       - Skill orchestration mapping platform based on knowledge graph
+    - *Stupid and redundant language proficiency certifications involves more STUPID, time-wasting, eating-ones-life-while-guilty-free kind of dialogues, you might want to include these* | Only triggered by exam context encounter
+    - *Your progress in German is getting more and more beyond your control and its energy leak is getting more and more obvious, it could just take another few months for it to catch up with you English/Chinese - Your grasp of German is approaching another singularity*
+      - *Echo from the future: A lengendary-level omni, simultaneous business-value-driven interpretor*
+      - *Furthur slow down the German progress by coupling it with French to make space for other tasks*
   - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
+    - _meta
+      - source
+        - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 18:01/1:06:24
-      - CCS: 27.2%
-      - ETC: 9.5d
+      - Videomark: 31:45/1:06:24
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
+        - _meta
+          - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 14:01/1:01:55
+      - Videomark: 24:08/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
         - SIMPLE OUTPUT 说人话 Zusammenarbeiten
         - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
         - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
+      - Zuletztesten zugegebenden Kommandozeilenwerkzeugen --> Zum `*-SW_arsenal` bewegen denn sich zu zerstören wenn es fertig gemacht ist
+        - `gron`
+          - makes JSON greppable, transform JSON into discrete assignments usw.
+          - Anwendungsfällen: APIs with terrible documentation
+          - [gron - github](https://github.com/tomnomnom/gron)
+        - `jc`
+        - `fx`
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **ACTIVE** 5min/day
@@ -1290,8 +1433,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 10.6%
-          - ETC: 2.98 months
+          - CCS: 12.6%
+          - ETC: 2.9! months
           - Code
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
               - SHA256
@@ -1299,7 +1442,7 @@
                   - Videomark: 1:34
           - Tools
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
-          - Books
+          - Books & Articles
             - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
               - Bookmark Field
                 - Sweep: 10/199
@@ -1308,6 +1451,8 @@
               - `children`
                 - \$C1: On the Secure Hash Algorithm family
             - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
+            - The Meaning of Decentralization - Vitalik Buterin
+              - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
           - P.O.I
             - Stuart Haber & W.Scott Stornetta
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
@@ -1317,9 +1462,10 @@
         - RULE
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
-        - CCS: 57.8%
-        - ETC: 19d
-        - TEMP TIMESTAMP: 2:27
+          - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
+        - CCS: 61.7%
+        - ETC: 20.1d
+        - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
   - Foundations for LIFETIME_PURSUIT
@@ -1328,9 +1474,9 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 0.7%
-        - ETC: 8.27 months
-        - TEMP TIMESTAMP: 5:29
+        - CCS: 1.0%
+        - ETC: 11 months
+        - TEMP TIMESTAMP: 11:06
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
         - Constructive Algorithm --> **HALT**
@@ -1423,6 +1569,9 @@
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)
+          - Plus the chrome extension
+      - Noun declension checker
+        - [wiktionary](https://en.wiktionary.org/wiki)
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
 - Hindi - N/A
@@ -1516,3 +1665,8 @@
 
 # 2022/5/29
 - ...Lanugage learning tip: 大idea通过查询式/中断式BFS链接生成(e.g. 希腊语字母, 韩语部首对梵文字母的大脑渗透具有80%复制黏贴之效果), 批量导入过程优化及idea pool, 小idea及毛细优化点完全通过游戏化APP进行流程外包, 过程控制M&C由语言顾问及bymaverse元宇宙平台进行潜意识nudge, 论(语言)天才的批量自动化生成, 覆盖率从亿分之n达到99.999999%, 如何与外星人抗衡...
+
+# 2022/6/8
+- 创业状态: *即使永远处在不识庐山真面目的状态，也时刻都不能有只缘身在此山中的态度*
+- 基于局部非零和博弈胜出集群(e.g. PR胜出)及分布式网络的总体零和博弈思维, 闷声发大财类型人类的自动化PUA策略
+- So you've made a plan, after a few months: Where TF am I? 

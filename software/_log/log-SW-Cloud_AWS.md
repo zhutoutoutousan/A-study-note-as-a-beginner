@@ -25,6 +25,32 @@
 - [TEST-CORS](https://www.test-cors.org/)
 
 # AWS踩坑树
+- AWS Amplify
+  - AWS Cloud9
+    - `node:internal/buffer:959 \ super(bufferOrLength, byteOffset, length);^ \ RangeError: Array buffer allocation failed`
+      - [Does anyone know why I'am getting error during amplify init ? I checked the memory is not full?](https://stackoverflow.com/questions/71984811/does-anyone-know-why-iam-getting-error-during-amplify-init-i-checked-the-memo)
+        - 2022/6/8: It fxxkin' worked！
+    - `amplify init`
+      - `UnrecognizedClientException: The security token included in the request is invalid.`
+      - `Failed to get profile: Profile configuration for 'udemy-amplify-courseuser' is invalid: missing aws_access_key_id, aws_secret_access_key`
+        - Run `amplify configure`
+      - `FATAL ERROR: Reached heap limit Allocation failed - JavaScript heap out of memory`
+        - Try again pal
+      - `npm ERR! nospc There appears to be insufficient space on your system to finish.`
+        - *Consult your brain*
+          - EC2 Modify EC2 Volume Storage
+            - Context
+              - [Amazon EBS pricing](https://aws.amazon.com/ebs/pricing/?nc1=h_ls)
+              - [Amazon EBS Elastic Volumes RTFM](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-modify-volume.html)
+            - _next
+              - `df -h`木有更新?
+                - Reboot EC2 instance
+        - *Consult other brains*
+          - *该充钱了*
+            - [npm ERR! nospc ENOSPC: no space left on device | Stack Overflow](https://stackoverflow.com/questions/57121690/npm-err-nospc-enospc-no-space-left-on-device)
+      - `AWS Amplify, "Error: No credentials" when getting items from AppSync graphql API`
+        - `Module not found: Can't resolve 'aws-crt'`
+          - [NextJS: Build fails with Module not found (webpack) - Github](https://github.com/aws-amplify/amplify-hosting/issues/2427)
 - AWS S3
   - AWS S3 vs AWS DynamoDB?
     - [Amazon S3 vs DynamoDB: 5 Critical Differences](https://hevodata.com/learn/amazon-s3-vs-dynamodb/)

@@ -88,6 +88,8 @@
         - onPremise2AWS
     - Bleeding-edge styling
       - TailwindCSS
+   - Architecture planning
+     - [](https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record)
     - AWS
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09

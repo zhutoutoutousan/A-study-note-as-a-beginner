@@ -892,205 +892,205 @@
               - **PED(The price elasticity of demand)**
               - Demand equation： $P=a-bQ$
             - Total Cost Function: $Y=aX+b$
-          - [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
-            - Videomark: 8:46/8:46
-            - STRUCT
-              - Pricing Strategy
-                - Cost plus
-                - Skimming
-                - Penetration pricing
-                - Premium pricing
-                - Target pricing
-                - Promotional pricing
-                - Perceived value pricing
-                - Value pricing
-                - Product-line pricing
-                - Volume-discounting pricing
-                - Discriminatory pricing
-                - Psychological pricing
-                - Product Bundle Pricing
-                - Complementary product pricing
-                - Relevant cost pricing
-                - Make-buy
-              - Risk and Uncertainty
-                - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
-                - Uncertainty: subjective probability
-                - Expected Value
-              - Sensitivity
-                - Sensitivity analysis
-                - Sensitivity by scenario
-              - Simulation - Monte Cario
-              - **Maximax, maximin, and minimax regret**
-          - [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
-            - Videomark: 8:43/8:43
-            - CCS: 32.5%
-            - E.T.C: 1.32 months
-            - STRUCT
-              - Budget
-                - _meta
-                  - definition
-                    - *a budget is a quantitative plan addressing the future*
-                  - category
-                    - fixed
-                    - flexible
-                    - ZBB(Zero-based)
-                    - ABB(Activity-based)
-                    - Incremental
-                  - time-related
-                    - budgetary period
-                - VOCAB
-                  - budgetary control system
-                  - goal congruence
-                - modern bugetary system vs conventional
-                - Quantitative analysis
-                  - High-low method
-                    - --> F2
-                  - Regression analysis
-                    - --> F2
-                  - Learning curves
-                - Behavioural Aspects of Budgeting
-                  - Top-down
-                  - Bottom-up
-                  - Unrealistic
-                  - Overty achievable
-          - [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
-            - Videomark: 9:23/9:23
-            - CCS: 33.1%
-            - E.T.C: 3.71 months
-            - STRUCT
-              - The big picture
-              - Basic Variances and Operating Statements
-                - _methods
-                  - absorption costing
-                    - operating statements
-                  - marginal costing
-                    - operating statements
-                - _instance
-                  - Worked examples
-                    - Cost card
-                    - Budget
-                    - Actual results
-                    - Variance
-                - Variance
-                  - Material variance
-                  - Labour variances
-                    - Labour rate variance
-                    - Labour efficiency variance
-                  - Variable O/H variances
-                    - Variable O/H expenditure variance
-                    - Variable O/H efficiency variance
-                  - Fixed O/H variances
-                    - Fixed O/H expenditure variance
-                      - Marginal costing, absorption costing...
-                    - Fixed O/H volume variance
-                  - Sales volume variance
-                  - Sales price variance
-                  - Mix and yield variance
-                  - Planning and Operational Variances
-                - Behavioural aspect of standard costing
-                - **Non-standard costing**
-          - [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
-            - Videomark: 10:17/10:17
-            - CCS: 33.7%
-            - E.T.C: 3.68 months
-            - STRUCT
-              - Practice
-                - Residual Income(RI)
-                - EBIT： Earnings before interest and tax
-                - Imputed interest
-                - Drawbacks of RI and ROI
-                - RI & ROI computation
-                  - NBV initial
-                  - Net cash inflow
-                  - Depreciation
-                  - Profit
-                  - Capital charge(10%)
-                  - RI
-                  - ROI
-                - Performance analysis is not for profit organizations and the public sector
-                - External considerations and behavioural aspects
-              - The scope of performance measurement
-                - Balanced scorecard
-                  - Financial perspective
-                  - Customer perspective
-                  - International business processes
-                  - Learning and growth
-                - Fitzgerald and Moon
-                  - Dimensions
-                    - Results
-                    - Determinants
-                  - Standards
-                  - Rewards
-                - Qualitative measures
-                  - KPI
-                  - OKR?
-              - Divisional Performance and Transfer Pricing
-                - Transfer prices
-                  - Market price
-                  - Outlay cost(standard) + opportunity cost to the seller
-                  - Outlay cost(actual) + opportunity cost to the seller
-                  - Outlay cost + notional mark-up
-                  - Production cost(full absorption)
-                  - Best bargain(negotiation between divisions)
-                - Divisional performance and internal(transfer) pricing
-                - Return on Investment(ROI) at the Divisional Level
-                  - $ROI=\frac{net-profit}{capital-employed}$
-          - [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
-            - Videomark: 8:56/8:56
-            - CCS: 34.2%
-            - E.T.C: 4.38 months
-            - STRUCT
-              - Taxation UK
-                - Tax year: 6 April to 5 April
-                - Main taxes
-                  - Income tax
-                  - Corporation tax
-                  - Capital Gains tax(CGT)
-                  - Value Added Tax(VAT)
-                  - National Insurance Contributions(NIC)
-                - Pro-forma Tax Computation
-                  - Personal Allowances
-                  - Personal Age Allowances
-                  - Income Tax Liability
-                  - Income Tax Payable
-          - [ACCA F6UK - 2. Employment income](https://www.youtube.com/watch?v=J4UPebyc2lw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=61)
-            - Videomark: 7:48/7:48
-            - CCS: 34.8%
-            - E.T.C: 3.62 months
-          - [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
-            - Videomark: 13:15/13:15
-            - CCS: 35.4%
-            - E.T.C: 3.58 months
-            - ADJUSTMENT: 10min/day for French learning on weekends
-          - [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
-            - Videomark: 10:07/10:07
-            - CCS: 36%
-            - E.T.C: 3.55 months
-          - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
-            - Videomark: 9:26/9:26
-            - CCS: 36.5%
-            - E.T.C: 4.23 months
-          - [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
-            - Videomark: 9:26/9:26
-            - CCS: 37.1%
-            - E.T.C: 3.49 months
-          - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
-            - Videomark: 14:39/14:39
-            - CCS: 37.7%
-            - E.T.C: 3.46 months
-          - [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
-            - Videomark: 8:12/8:12
-            - CCS: 38.2%
-            - E.T.C: 4.12 months
-          - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
-            - Videomark: 13:35/13:35
-            - CCS: 38.8%
-            - E.T.C: 3.4 months
-          - [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
-            - Videomark: 9:15/9:15
-            - CCS: 39.4%
-            - E.T.C: 2.53 months
-          - [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
+        - [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
+          - Videomark: 8:46/8:46
+          - STRUCT
+            - Pricing Strategy
+              - Cost plus
+              - Skimming
+              - Penetration pricing
+              - Premium pricing
+              - Target pricing
+              - Promotional pricing
+              - Perceived value pricing
+              - Value pricing
+              - Product-line pricing
+              - Volume-discounting pricing
+              - Discriminatory pricing
+              - Psychological pricing
+              - Product Bundle Pricing
+              - Complementary product pricing
+              - Relevant cost pricing
+              - Make-buy
+            - Risk and Uncertainty
+              - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
+              - Uncertainty: subjective probability
+              - Expected Value
+            - Sensitivity
+              - Sensitivity analysis
+              - Sensitivity by scenario
+            - Simulation - Monte Cario
+            - **Maximax, maximin, and minimax regret**
+        - [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
+          - Videomark: 8:43/8:43
+          - CCS: 32.5%
+          - E.T.C: 1.32 months
+          - STRUCT
+            - Budget
+              - _meta
+                - definition
+                  - *a budget is a quantitative plan addressing the future*
+                - category
+                  - fixed
+                  - flexible
+                  - ZBB(Zero-based)
+                  - ABB(Activity-based)
+                  - Incremental
+                - time-related
+                  - budgetary period
+              - VOCAB
+                - budgetary control system
+                - goal congruence
+              - modern bugetary system vs conventional
+              - Quantitative analysis
+                - High-low method
+                  - --> F2
+                - Regression analysis
+                  - --> F2
+                - Learning curves
+              - Behavioural Aspects of Budgeting
+                - Top-down
+                - Bottom-up
+                - Unrealistic
+                - Overty achievable
+        - [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
+          - Videomark: 9:23/9:23
+          - CCS: 33.1%
+          - E.T.C: 3.71 months
+          - STRUCT
+            - The big picture
+            - Basic Variances and Operating Statements
+              - _methods
+                - absorption costing
+                  - operating statements
+                - marginal costing
+                  - operating statements
+              - _instance
+                - Worked examples
+                  - Cost card
+                  - Budget
+                  - Actual results
+                  - Variance
+              - Variance
+                - Material variance
+                - Labour variances
+                  - Labour rate variance
+                  - Labour efficiency variance
+                - Variable O/H variances
+                  - Variable O/H expenditure variance
+                  - Variable O/H efficiency variance
+                - Fixed O/H variances
+                  - Fixed O/H expenditure variance
+                    - Marginal costing, absorption costing...
+                  - Fixed O/H volume variance
+                - Sales volume variance
+                - Sales price variance
+                - Mix and yield variance
+                - Planning and Operational Variances
+              - Behavioural aspect of standard costing
+              - **Non-standard costing**
+        - [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
+          - Videomark: 10:17/10:17
+          - CCS: 33.7%
+          - E.T.C: 3.68 months
+          - STRUCT
+            - Practice
+              - Residual Income(RI)
+              - EBIT： Earnings before interest and tax
+              - Imputed interest
+              - Drawbacks of RI and ROI
+              - RI & ROI computation
+                - NBV initial
+                - Net cash inflow
+                - Depreciation
+                - Profit
+                - Capital charge(10%)
+                - RI
+                - ROI
+              - Performance analysis is not for profit organizations and the public sector
+              - External considerations and behavioural aspects
+            - The scope of performance measurement
+              - Balanced scorecard
+                - Financial perspective
+                - Customer perspective
+                - International business processes
+                - Learning and growth
+              - Fitzgerald and Moon
+                - Dimensions
+                  - Results
+                  - Determinants
+                - Standards
+                - Rewards
+              - Qualitative measures
+                - KPI
+                - OKR?
+            - Divisional Performance and Transfer Pricing
+              - Transfer prices
+                - Market price
+                - Outlay cost(standard) + opportunity cost to the seller
+                - Outlay cost(actual) + opportunity cost to the seller
+                - Outlay cost + notional mark-up
+                - Production cost(full absorption)
+                - Best bargain(negotiation between divisions)
+              - Divisional performance and internal(transfer) pricing
+              - Return on Investment(ROI) at the Divisional Level
+                - $ROI=\frac{net-profit}{capital-employed}$
+        - [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
+          - Videomark: 8:56/8:56
+          - CCS: 34.2%
+          - E.T.C: 4.38 months
+          - STRUCT
+            - Taxation UK
+              - Tax year: 6 April to 5 April
+              - Main taxes
+                - Income tax
+                - Corporation tax
+                - Capital Gains tax(CGT)
+                - Value Added Tax(VAT)
+                - National Insurance Contributions(NIC)
+              - Pro-forma Tax Computation
+                - Personal Allowances
+                - Personal Age Allowances
+                - Income Tax Liability
+                - Income Tax Payable
+        - [ACCA F6UK - 2. Employment income](https://www.youtube.com/watch?v=J4UPebyc2lw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=61)
+          - Videomark: 7:48/7:48
+          - CCS: 34.8%
+          - E.T.C: 3.62 months
+        - [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
+          - Videomark: 13:15/13:15
+          - CCS: 35.4%
+          - E.T.C: 3.58 months
+          - ADJUSTMENT: 10min/day for French learning on weekends
+        - [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
+          - Videomark: 10:07/10:07
+          - CCS: 36%
+          - E.T.C: 3.55 months
+        - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
+          - Videomark: 9:26/9:26
+          - CCS: 36.5%
+          - E.T.C: 4.23 months
+        - [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
+          - Videomark: 9:26/9:26
+          - CCS: 37.1%
+          - E.T.C: 3.49 months
+        - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
+          - Videomark: 14:39/14:39
+          - CCS: 37.7%
+          - E.T.C: 3.46 months
+        - [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
+          - Videomark: 8:12/8:12
+          - CCS: 38.2%
+          - E.T.C: 4.12 months
+        - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
+          - Videomark: 13:35/13:35
+          - CCS: 38.8%
+          - E.T.C: 3.4 months
+        - [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
+          - Videomark: 9:15/9:15
+          - CCS: 39.4%
+          - E.T.C: 2.53 months
+        - [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
             - Videomark: 1:03/9:57
             - CCS: 40%
             - E.T.C: 3.33 months
@@ -1711,3 +1711,6 @@
 - 创业状态: *即使永远处在不识庐山真面目的状态，也时刻都不能有只缘身在此山中的态度*
 - 基于局部非零和博弈胜出集群(e.g. PR胜出)及分布式网络的总体零和博弈思维, 闷声发大财类型人类的自动化PUA策略
 - So you've made a plan, after a few months: Where TF am I? 
+
+# 2022/6/11
+- Hey Stupid! Time to wake up and use Google Calendar to do the planning!

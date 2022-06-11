@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "self/log_overall-305_840.md",
+            "file": "self/log_overall-306_840.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self/log_overall-305_840.md",
+                "file": "self/log_overall-306_840.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self/log_overall-305_840.md"
+                "file": "self/log_overall-306_840.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self/log_overall-305_840.md",
+                "file": "self/log_overall-306_840.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,7 @@
   },
   "active": "a22d280a1431f136",
   "lastOpenFiles": [
+    "self/log_overall-306_840.md",
     "self/log_overall-305_840.md",
     "__IDEA__boring-housing-estate.md",
     "software/foundations-and-supports/_index_software_foundations-and-supports.md",
@@ -154,7 +155,6 @@
     "academic-engineering/_log/_log-AE-training.md",
     "_ENTRY.md",
     "software/_log/log-SW-teamplay.md",
-    "software/_log/log-SW-arch.md",
-    "language/_log-L.md/log-L-T_en2zh-CI.md"
+    "software/_log/log-SW-arch.md"
   ]
 }

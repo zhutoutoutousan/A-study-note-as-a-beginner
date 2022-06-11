@@ -4,9 +4,14 @@
 # 攻防挖坑树
 - Get all avaialable API endpoint of a site
   - skipfish
+- OSINT
+- Maltego
 
 # 攻防踩坑树
 - `x-powered-by`
+- Google Dork Queries
+  - Intitle: webcamxp
+  - filetype:env "DB_PASSWORS"
 - Kali
   - Configuration
     - Nessus

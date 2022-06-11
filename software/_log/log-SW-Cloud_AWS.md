@@ -48,9 +48,22 @@
         - *Consult other brains*
           - *该充钱了*
             - [npm ERR! nospc ENOSPC: no space left on device | Stack Overflow](https://stackoverflow.com/questions/57121690/npm-err-nospc-enospc-no-space-left-on-device)
+    - *起飞!*
       - `AWS Amplify, "Error: No credentials" when getting items from AppSync graphql API`
         - `Module not found: Can't resolve 'aws-crt'`
           - [NextJS: Build fails with Module not found (webpack) - Github](https://github.com/aws-amplify/amplify-hosting/issues/2427)
+          - `/node_modules/aws-crt/dist/native/binding.js Critical dependency: the request of a dependency is an expression`
+            - Check Browser Console to get more insight on the error
+              - [AuthError - Error: Amplify has not been configured correctly](https://stackoverflow.com/questions/63605779/autherror-error-amplify-has-not-been-configured-correctly)
+                - *重来一遍终于好了*
+                  - Lesson learned:
+                    - Amplify Next.js前后端不分离玩具项目最好不要分client文件夹, 不然各种报错
+      - `Unchecked runtime.lastError: The message port closed before a response was received.`
+        - [How to fix 'Unchecked runtime.lastError: The message port closed before a response was received' chrome issue?](https://codehunter.cc/a/vue.js/how-to-fix-unchecked-runtime-lasterror-the-message-port-closed-before-a-response-was-received-chrome-issue)
+    - *一觉醒来系列*
+      - `Provider from pack: TypeError: Cannot read properties of undefined (reading 'length')`
+        - [<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: Unable to snapshot resolve dependencies](https://github.com/vercel/next.js/issues/35872)
+          - *Code works, just find a way to silence it*
 - AWS S3
   - AWS S3 vs AWS DynamoDB?
     - [Amazon S3 vs DynamoDB: 5 Critical Differences](https://hevodata.com/learn/amazon-s3-vs-dynamodb/)

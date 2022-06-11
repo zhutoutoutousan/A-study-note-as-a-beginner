@@ -31,6 +31,7 @@
   - `NEST_OV_1`
     - [Trefoil](https://en.wikipedia.org/wiki/Trefoil_knot)
       - [Parametric equation](https://en.wikipedia.org/wiki/Parametric_equation)
+- Byzantine Fault Tolerance
 # D
 - Deep Math
   - [Deep Maths - machine learning and mathematics](https://www.youtube.com/watch?v=wbJQTtjlM_w)

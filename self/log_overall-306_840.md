@@ -1083,9 +1083,17 @@
             - CCS: 38.2%
             - E.T.C: 4.12 months
           - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
-            - Videomark: 3:27/13:35
+            - Videomark: 13:35/13:35
             - CCS: 38.8%
             - E.T.C: 3.4 months
+          - [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
+            - Videomark: 9:15/9:15
+            - CCS: 39.4%
+            - E.T.C: 2.53 months
+          - [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
+            - Videomark: 1:03/9:57
+            - CCS: 40%
+            - E.T.C: 3.33 months
             - _meta_following
                 - _meta_escalate
                   - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -1146,6 +1154,9 @@
                     - _meta_escalate
                       - MOVE TO `$parent` on COMPLETION of `$parent`
             - FOLLOWING, CLUSTERED | Tax
+              - _practice
+                - Death after a lifetime transfer
+                  - The value of the estate at death
               - Individual Tax
                 - Income Tax - Employment Income
                   - Benefit
@@ -1160,8 +1171,32 @@
                       - Gift of asset - after previous private use
                     - Diesel car
                     - Electric car
+                - Inheritance Tax(IHT)
+                  - Calculation of IHT on Lifetime Transfers
+                    - IHT on CLTs(transfers into a Trust)
+                    - Nil Rate Band(NRB)
+                  - Calculation of IHT as a result of Death
+                    - Taper relief
+                  - _meta
+                    - _on
+                      - *a person dies*
+                      - *certain lifetime transfer*
+                        - Exempt
+                        - Potentially Exempt Transfers(PETs)
+                        - Chargeable Lifetime Transfers(CLTs)
+                  - Transfer of Value, Chargeable Property & Chargeable Person
                 - Capital Gain Tax(CGT)
                   - Pro forma for computation of capital gains for individuals
+                  - Transfer between husband/wife or civil partners
+                    - Not deemed to be transferred value
+                    - Part disposals
+                  - Chattels
+                    - *Could be a nice way*
+                  - Share matching rules
+                  - Reliefs - Principal Private Residence(PPR)
+                    - Deemed occupation
+                  - Reliefs - Entrepreneurs' Relief
+                  - Reliefs - Rollover Relief
                 - Income Tax - Trading Income
                   - Discernment
                     - Capital gain Tax
@@ -1389,12 +1424,12 @@
       - source
         - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 31:45/1:06:24
+      - Videomark: 42:02/1:06:24
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
         - _meta
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 24:08/1:01:55
+      - Videomark: 35:02/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
@@ -1406,10 +1441,15 @@
           - makes JSON greppable, transform JSON into discrete assignments usw.
           - Anwendungsfällen: APIs with terrible documentation
           - [gron - github](https://github.com/tomnomnom/gron)
-        - `jc`
-        - `fx`
+        - `jc`, `fx`, `map`
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
+    - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
+      - Videomark: 11:36/47:07
+    - SOURCE： The Royal Institution
+    - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
+      - Style：Casual, English voiceover, French-German dual-subtitle
+      - Videomark: 4:37/1:00:17
     - Daily, Mundane contents --> **ACTIVE** 5min/day
   - Coding
     - _meta_escalate
@@ -1433,8 +1473,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 12.6%
-          - ETC: 2.9! months
+          - CCS: 13.5%
+          - ETC: 2.88 months
           - Code
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
               - SHA256
@@ -1463,20 +1503,21 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-        - CCS: 61.7%
-        - ETC: 20.1d
+        - CCS: 64.7%
+        - ETC: 35d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
+      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 1.0%
-        - ETC: 11 months
-        - TEMP TIMESTAMP: 11:06
+        - CCS: 1.5%
+        - ETC: 10.9 months
+        - TEMP TIMESTAMP: 0
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
         - Constructive Algorithm --> **HALT**
@@ -1522,7 +1563,7 @@
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 63.3%
+  - Initialization of language/meta structrure: 66.5%
   - Tool
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
@@ -1554,11 +1595,11 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 29.4%
+  - Initialization of language/meta structrure: 32%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 40.5%
+  - Initialization of language/meta structrure: 44.5%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1

@@ -1094,65 +1094,6 @@
             - Videomark: 1:03/9:57
             - CCS: 40%
             - E.T.C: 3.33 months
-            - _meta_following
-                - _meta_escalate
-                  - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
-                  - [Accounting Coach](https://www.accountingcoach.com/)
-                    - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
-                  - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
-                    - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
-                  - TANDEM WITH **RPA**
-                  - IFRS
-                - Brain Groceries
-                  - **incoterms**
-                    - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
-                    - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
-                - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
-                  - NEW P.O.I - S. M. Bragg
-                  - Process 1
-                    - Style: Skimming
-                      - Use pre-trained rigorous visualization brain-state
-                    - Bookmark: 14/256
-                  - Process 2
-                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING  
-                      - Process 1
-                        - Bookmark: 11/392
-                        - Style: Osmosis
-                          - _meta
-                            - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
-                            - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
-                              - _meta
-                                - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
-                        - Goal: Connect the dots till a whole area just clicks
-                          - _meta
-                            - And record `average_arial_singularity_time_cost`
-                        - Sub-process 1.1
-                          - Scope
-                          - Goal
-                      - Process 2
-                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
-                  - Bookmark: 2/45
-                  - _meta
-                    - STICKY, FOLLOWING
-                    - RECAP
-                      - position: p1
-                    - STRUCT
-                      - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
-                - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING
-                - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
-                - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
-                - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
-                  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
-                  - Bookmark: 13
-                - 18.S096, Financial Mathematics(MIT)
-                  - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
-                    - Videomark: 0:00:00/1:00:29
-                    - _meta_escalate
-                      - MOVE TO `$parent` on COMPLETION of `$parent`
             - FOLLOWING, CLUSTERED | Tax
               - _practice
                 - Death after a lifetime transfer
@@ -1370,6 +1311,82 @@
                   - Overseas Tax Issues
                     - AHA! *Overseas dividend income is exempt from UK corporation tax*
                     - Double Tax Relief(DTR)
+                - Value Added Tax(VAT)
+                  - Taxable Person
+                  - Taxable Supply
+                  - Input VAT
+                  - Output VAT
+                  - ?
+                    - Standard rated Supplies
+                    - Zero rated Supplies
+                    - Exempt supplies
+                  - **VAT Registrations requirements**
+                  - Pre-registration expenses
+                  - Tax point
+                  - VAT relief for bad debts
+        - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
+            - Videomark: 1:03/9:57
+            - CCS: 48.5%
+            - E.T.C: 3.33 months
+            - _meta_following
+                - _meta_escalate
+                  - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
+                  - [Accounting Coach](https://www.accountingcoach.com/)
+                    - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                  - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+                    - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                  - TANDEM WITH **RPA**
+                  - IFRS
+                - Brain Groceries
+                  - **incoterms**
+                    - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                    - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+                - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                  - NEW P.O.I - S. M. Bragg
+                  - Process 1
+                    - Style: Skimming
+                      - Use pre-trained rigorous visualization brain-state
+                    - Bookmark: 14/256
+                  - Process 2
+                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING  
+                      - Process 1
+                        - Bookmark: 11/392
+                        - Style: Osmosis
+                          - _meta
+                            - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                            - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                              - _meta
+                                - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                        - Goal: Connect the dots till a whole area just clicks
+                          - _meta
+                            - And record `average_arial_singularity_time_cost`
+                        - Sub-process 1.1
+                          - Scope
+                          - Goal
+                      - Process 2
+                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                  - Bookmark: 2/45
+                  - _meta
+                    - STICKY, FOLLOWING
+                    - RECAP
+                      - position: p1
+                    - STRUCT
+                      - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+                - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                  - _meta
+                    - STICKY, FOLLOWING
+                - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+                - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+                - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                  - Bookmark: 13
+                - 18.S096, Financial Mathematics(MIT)
+                  - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                    - Videomark: 0:00:00/1:00:29
+                    - _meta_escalate
+                      - MOVE TO `$parent` on COMPLETION of `$parent`
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -1424,12 +1441,12 @@
       - source
         - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 42:02/1:06:24
+      - Videomark: 47:13/1:06:24
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
         - _meta
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 35:02/1:01:55
+      - Videomark: 40:03/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
@@ -1442,6 +1459,9 @@
           - Anwendungsfällen: APIs with terrible documentation
           - [gron - github](https://github.com/tomnomnom/gron)
         - `jc`, `fx`, `map`
+        - `xonsh`: python in cmd --> COPY TO `*-SW_arsenal`
+          - *interesting
+        - `xxh`: portable shell with customization following you around
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
@@ -1473,8 +1493,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 13.5%
-          - ETC: 2.88 months
+          - CCS: 15.5%
+          - ETC: 1.41 months
           - Code
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
               - SHA256
@@ -1503,8 +1523,8 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-        - CCS: 64.7%
-        - ETC: 35d
+        - CCS: 67.6%
+        - ETC: 11d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
@@ -1515,8 +1535,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 1.5%
-        - ETC: 10.9 months
+        - CCS: 1.7%
+        - ETC: 17 months
         - TEMP TIMESTAMP: 0
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
@@ -1714,3 +1734,9 @@
 
 # 2022/6/11
 - Hey Stupid! Time to wake up and use Google Calendar to do the planning!
+
+# 2022/6/12-2022/6/30 - It's gonna be a tough one
+- AWS SysOps Exam Prep
+
+# STICKY | 软件特种团队管理
+- 特种团队相当于软件开发团队中的特种部队, 采用最

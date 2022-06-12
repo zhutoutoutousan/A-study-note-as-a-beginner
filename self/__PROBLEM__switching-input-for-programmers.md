@@ -1,0 +1,1 @@
+I have troubles switching from Chinese directly to English and coding input context

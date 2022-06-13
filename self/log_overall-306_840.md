@@ -1325,9 +1325,12 @@
                   - Tax point
                   - VAT relief for bad debts
         - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
-            - Videomark: 1:03/9:57
+            - Videomark: 10:45/31:40
             - CCS: 48.5%
             - E.T.C: 3.33 months
+            - STRUCT
+              - Qualitative characteristics of financial Information
+                - Understandability, Relevance, Reliability
             - _meta_following
                 - _meta_escalate
                   - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -1441,12 +1444,13 @@
       - source
         - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 47:13/1:06:24
+      - Videomark: 52:19/1:06:24
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
         - _meta
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+      - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 40:03/1:01:55
+      - Videomark: 45:16/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
@@ -1462,6 +1466,8 @@
         - `xonsh`: python in cmd --> COPY TO `*-SW_arsenal`
           - *interesting
         - `xxh`: portable shell with customization following you around
+        - `Oh My Posh`
+          - [Oh My Posh](https://ohmyposh.dev)
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
@@ -1493,9 +1499,10 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 15.5%
-          - ETC: 1.41 months
+          - CCS: 16.5%
+          - ETC: 2.78 months
           - Code
+            - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
               - SHA256
                 - [SHA 256 | SHA 256 Algorithm Explanation | How SHA 256 Algorithm Works | Cryptography | Simplilearn](https://www.youtube.com/watch?v=nduoUEHrK_4)
@@ -1503,6 +1510,7 @@
           - Tools
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
           - Books & Articles
+            - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
             - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
               - Bookmark Field
                 - Sweep: 10/199
@@ -1513,6 +1521,7 @@
             - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
             - The Meaning of Decentralization - Vitalik Buterin
               - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+            - Re: Bitcoin P2P e-cash paper
           - P.O.I
             - Stuart Haber & W.Scott Stornetta
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
@@ -1523,8 +1532,8 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-        - CCS: 67.6%
-        - ETC: 11d
+        - CCS: 70.6%
+        - ETC: 15d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
@@ -1535,8 +1544,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 1.7%
-        - ETC: 17 months
+        - CCS: 2%
+        - ETC: 10.8 months
         - TEMP TIMESTAMP: 0
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
@@ -1736,7 +1745,12 @@
 - Hey Stupid! Time to wake up and use Google Calendar to do the planning!
 
 # 2022/6/12-2022/6/30 - It's gonna be a tough one
+## Main theme： How the hell am I going to survive this one?
+- Weight Control Program
+- Micro PIP: Software Estimation(OPTIONAL)
 - AWS SysOps Exam Prep
+  - Count down: 2022/6/27
+- Roll-out
 
 # STICKY | 软件特种团队管理
-- 特种团队相当于软件开发团队中的特种部队, 采用最
+- 特种团队相当于软件开发团队中的特种部队

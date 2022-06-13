@@ -58,6 +58,8 @@
                 - *重来一遍终于好了*
                   - Lesson learned:
                     - Amplify Next.js前后端不分离玩具项目最好不要分client文件夹, 不然各种报错
+                      - There must be some node_modules config that points to the Amplify SDK in the upper directory
+                      - 
       - `Unchecked runtime.lastError: The message port closed before a response was received.`
         - [How to fix 'Unchecked runtime.lastError: The message port closed before a response was received' chrome issue?](https://codehunter.cc/a/vue.js/how-to-fix-unchecked-runtime-lasterror-the-message-port-closed-before-a-response-was-received-chrome-issue)
     - *一觉醒来系列*

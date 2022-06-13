@@ -1,3 +1,10 @@
+# INBOUND cache
+- https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/
+- https://www.pluralsight.com/courses/aws-sysops-admin-preparing-soa-co2-exam-cert?aid=7014Q000002DTf0QAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=US_Dynamic_AWS&utm_content=&utm_term=17335566185&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9CGQAdxcPGg-hxotdv2LOItFfyZg1iR5z0MuRJFYpa70_y--q9L2SBoCp4gQAvD_BwE
+- https://javarevisited.blogspot.com/2020/06/top-5-aws-certified-sysops-admin-associate-certification-exam.html#axzz7VzWjNzpu
+- https://medium.com/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b
+- Examtopics
+  - https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/
 # Learn from past experience
 - ARCHIV
   - _ARCHIVE_log-SW-Cloud_AWS-sprint.md
@@ -16,8 +23,6 @@
   - 18% Security Compliance 11-12 Qs
   - 14% Networking 9-10 Qs
   - 12% Automation and Optimization 7-8 Qs
-
-
 
 # Sprint materials
 - **AWS SysOps** --> **ACTIVE**
@@ -132,3 +137,956 @@
     - `knowledge as code`: *F U Books* --> RELATED: bymaverse
       - 2022/5/24: Knowledge as Code will automatically gerate mind game for you with set schedule of absorption saturation planning
     - `wisdom as code`
+
+
+
+---
+
+
+# **2021/11/7 - Reallocate resources** -- AWS Developer Associate
+## Flashcards
+- Flashcard readiness
+ - Associate 2019: 99.6% 
+ - Exam Pro: 65.5%
+- Video readiness: 100%
+- Question set readiness: 100%
+
+## Cheatsheet
+- KMS
+  - [4-14-12](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
+## Videos
+- Overall watering and sense of architecture
+  - [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
+    - EB
+      - EB 
+        - [x] Videosweepmark: 55-02/55-02
+      - EB Follow along 
+        - [ ] Videosweepmark: 1-37-09/2-15-39
+    - [x] ECS
+    - ECS Fargate
+      - ECS Fargate
+        - [x] Videosweepmark: 2-42-45/2-37-23~2-42-45
+      - Follow along
+        - Videosweepmark: 2-42-45/2-42-45~
+    - [x] X-Ray
+      - Cheatsheet
+    - [x] ACM
+    - [x] Route53
+      - Videosweepmark: 3-31-25
+    - [x]  API/SDK/CLI
+    - KMS
+      - [x] Videosweepmark: 4-14-19/4-04-29~4-14-19
+      - KMS - AWS CLI
+        - `aws kms create-key`
+        - `aws kms encrypt`
+        - `aws kms decrypt`
+        - `aws kms re-encrypt`
+        - `aws kms enable-key-rotation`
+      - FIPS 140-2 Level
+        - [wiki](https://en.wikipedia.org/wiki/FIPS_140-2)
+      - RSA
+        - [RSA - Cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+      - HSM(Hardware Security Module)
+    - [x] Cognito
+    - [x] SNS
+    - [x] SQS
+    - [x] Kinesis
+    - [x] Parameter Store
+    - [x] Secrets Manager
+    - DynamoDB
+      - DynamoDB
+        - [x] Videosweep: 6-05-46/5-05-21~6-05-46
+        - Acumen training
+          - Provisioned capacity calculator
+            - [DynamoDB Pricing Calculator](https://dynobase.dev/dynamodb-pricing-calculator/)
+              - [What is DynamoDB TTL?](https://dynobase.dev/dynamodb-ttl/)
+        - **Calculating reads: 5-25-28**
+        - DynamoDB - LSI vs GSI: 5-44-46
+        - **DynamoDB Cheatsheet: 5-50-00**
+          - Repetition requirements: 5
+            - [ ] Initial
+            - [ ] REP 1
+          - DynamoDB automatically creates partitions for:
+            - Every 10 GB of Data or
+            - When you exceed RCUS of 3000 of WCUs of 1000 limites for a single partition
+            - When DynamoDB sees a pattern of a hot pattern, it will split that partition in an attempt to fix the issue 
+          - CLI
+            - `get-item`, `put-item`, `update-item`
+            - `batch-get-item`: Single OP --> **16MB**, **100 items**
+            - `batch-write-item`: **16MB**, **25 put or delete**, inividual item: **400KB**
+            - `create-table`,`update-table`,`delete-table`
+            - `transact-get-items`: **25obj**, All:  **4MB**
+            - `transact-write-items`: **25**
+            - `query`
+            - `scan`
+      - DynamoDB follow along
+    - [x] EC2
+    - VPC
+      - [x] Videosweep: 7-10-34~7-22-30
+      - Sweeprecord
+        - [x] First sweep
+        - [ ] REP * 3
+      - NACL
+        - [AWS Network Access Control List - What are its Components?](https://www.knowledgehut.com/tutorials/aws/aws-nacl#:~:text=NACL%20refers%20to%20Network%20Access,moves%20around%20in%20the%20subnets.)
+        - [AWS - Public & Private Instances | NACL DEMO | Network ACL rules](https://www.youtube.com/watch?v=9bXm82AjWWg)
+      - DHCP
+    - [x] ASG
+    - VPC Endpoints
+      - [x] Videosweep: 7-36-02/7-32-39~7-36-02
+    - ELB
+      - [x] Videosweep: 7-36-02/7-36-02~7-48-15
+      - Cheatsheet: 7-46-59
+        - Repetition: 3
+        - [ ] Initial
+    - [x] SG
+    - [x] NACLs
+    - [x] VPC Flow Logs
+    - IAM
+      - IAM
+        - [x] Videosweep: 8-52-07/8-35-03~8-52-07
+      - IAM Follow Along
+    - [x] CloudFront
+    - [x] CloudTrail
+    - CloudFormation
+      - [x] Videosweepmark: 10-41-42/9-35-50~10-41-42
+    - [x] CDK
+    - [x] SAM
+    - [x] CI/CD
+    - [x] CodeCommit
+    - Docker
+      - [x] Videosweep: 11-10-15/11-02-21~11-10-15
+      - Hardware Virtualization --> Computer Science(Unlock in the next 3+ levels of software sophistication)
+    - CodeBuild
+    - CodeDeploy
+- Fill in the blanks
+  - [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s&t=14883s)
+    - EBS
+    - S3
+    - SWF
+## Documents
+- [Amazon SWF](https://docs.aws.amazon.com/amazonswf/latest/developerguide/swf-dg-intro-to-swf.html)
+- [AWS EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
+- [AWS Dynamodb](https://aws.amazon.com/dynamodb/)
+- [AWS EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+- [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-whatis-concepts.html)
+- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/)
+- [AWS Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
+
+
+## Question sets
+ - [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing)
+   - Navigation
+     - Initial Sweepmark: 260/260 --> 100%
+       - Next: Add weight mark to each question for efficient solification
+     - Search mark: QX - Ctrl+F--> Question X
+   - Weight system
+     - 22% Deployment 14.3Q
+     - 26% Security 17Q
+       - Q225 P75
+     - 30% Development with AWS Services 19.5Q
+       - 10% Refactoring 6.5Q
+       - 12% Monitoring and Troubleshooting 7.8Q
+   - Question Overview
+     - Scaling
+       - Auto Scaling
+         - Q64
+         -  Q15
+         -  **Q30** 
+         -  **Q84**
+            -  Docmark
+         -  **Q100**
+            -  Docmark
+         -  **Q133**
+            -  Docmark
+         -  **Q219**
+            -  Docmark
+         -  **Q220**
+            -  Docmark
+         -  Q242
+         -  Q243
+            -  But what about only one AZ?
+     - Tools
+       - AWS CLI & SDK
+         - **Q62**
+         - Q72
+           - [IAM best practice](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+         - Q177
+     - Functional
+       - Lamda
+       - SWF
+         - Q60
+         - Q70
+         - Q123
+     - Integrated application
+        - CF
+         - Q59
+         - Q104
+         - Q169
+         - **Q180**
+         - **Q215**
+         - Q225
+         - Q231
+         - Q245
+         - Q247
+         - Q258
+       - EB(MOVE EBS TO EC2)
+         - **Q71**
+         - **Q110**
+           - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
+             - Furthuer reading
+               - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
+         - Q16
+         - Q31
+         - **Q37**
+           - [Device names on Windows instances](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/device_naming.html)
+           - And linux?
+         - **Q43**
+         - **Q52**
+         - Q66
+         - Q67
+         - **Q74**
+         - **Q76**
+           - Docmark
+         - Q94
+         - Q101
+         - Q109
+         - Q111
+         - Q199
+         - 
+       - CF
+         - Q25
+         - **Q135**
+           - Docmark
+         - Q258
+           - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+     - Database
+       - General
+          -  Q1 P4
+       - DynamoDB
+          -  Q4
+          -  Q19
+             -  DynamoDB has seamless scalability with no table size limits and unlimited storage,
+          -  Q26
+             - Global secondary index -- an index with a hash and range key that can be different from those on the table.
+             - TODO: Store the concepts here
+           - Q35
+             - In DynamoDB, a secondary index is a data structure that contains a subset of attributes from a table, along with an alternate key to support Query operations.
+           - **Q88**
+             - Docmark
+           - **Q89**
+             - Docmark
+           - Q93
+             - Currently, in DynamoDB, an index cannot be modified once it is created.
+           - **Q105**
+           - Q112
+           - Q125
+           - Q136
+           - **Q143**
+           - Q146
+           - **Q152**
+           - Q158
+           - Q161
+           - Q162
+           - Q168
+           - **Q171**
+           - **Q173 ?**
+           - **Q183**
+           - Q190
+           - **Q193**
+           - Q195
+           - **Q197**
+           - Q203
+           - **Q206**
+           - Q222
+           - Q244
+           - Q250
+       - RDS
+         - Q20
+         - Q61
+         - **Q95**
+           - Docmark
+         - Q98
+         - Q102
+         - Q119
+         - Q128
+         - Q130
+         - Q182
+         - Q189
+         - Q208
+         - **Q212**
+         - Q234
+         - Q235
+         - Q248
+         - **Q249**
+     -  Storage
+        - S3
+           -  Q2
+           -  **Q33**
+           -  Q73
+           -  **Q81**
+              -  Docmark
+           -  Q86
+           -  **Q90**
+              -  Docmark
+           -  Q120
+           -  **Q137**
+              -  Docmark
+           -  Q138
+           -  Q157
+           -  Q163
+              -  Why not B
+           -  Q166
+           -  Q172
+           -  Q174
+           -  Q194
+           -  Q210
+           -  Q216
+        -  SimpleDB
+        -  AWS RRS
+           -  Q68
+           -  Q229
+        -  AWS Glacier
+           -  Q121
+              -  Docmark
+     -  Notification
+        -  SES
+           -  Q117
+           -  Q192
+        -  SNS
+           -  Q57
+           -  Q251
+        - SQS
+           -  Q3
+           -  Q5
+           -  Q10
+              - Queue names are limited to 80 characters and queue names must be unique within an AWS account
+            - Q13
+              - The SQS message retention period is configurable and can be set anywhere from 1 minute to 2 weeks. The default is 4 days and once the message retention limit is reached your messages will be automatically deleted.
+            - Q18
+              - A message can be stored in the Simple Queue Service (SQS) from 1 minute up to a maximum of 14 days.
+            - Q23
+              - With Amazon SQS version 2008-01-01, the maximum message size for both SOAP and Query requests is 8KB
+            - Q29
+            - Q34
+              - Can different components read the same queue concurrently?
+                - There's no need
+            - Q39
+              - Amazon SQS stands for Simple Queue Services, and provides a cost-effective way to decouple the components of your application through an asynchronous message queue service
+            - **Q42**
+            - Q48
+              - AWS reserve the right to delete a queue if none of the following requests have been issued against the queue for more than 30 consecutive days
+            - Q54
+            - **Q65**
+              - X.509 Certificate
+            - Q79
+              - If you delete a queue, you need to wait for at least 60 seconds before creating a queue with the same name.
+            - **Q83**
+            - Q124
+            - Q127
+            - Q155
+            - Q164
+            - Q170
+            - Q181
+            - Q188
+            - Q201
+       - SWF
+         - Q14
+         - Q92
+           - Why not use SWF?
+         - Q147
+     -  Authentication
+        -  ACL
+           -  Q56
+              -  The only recommended use case for the S3 bucket ACL is to grant the write permission to the Amazon S3 Log Delivery group to write access log objects to the user's bucket.
+        - IAM
+           -  **Q17**
+              -  The IAM policy is never region specific.
+                 -  What if I want it to be?
+                    -  Is there any use case?
+                    -  If so, how to do it?
+           -  Q27
+           -  **Q32**
+           -  Q40
+              -  [ ] Look at other options
+              -  [ ] Look at docs
+           -  **Q41**
+           -  Q44
+           -  Q47
+           -  Q49
+              -  The statement is the main element of the IAM policy and it is a must for a policy. Elements such as condition, version and ID are not required.
+           -  Q51
+           -  Q53
+           -  Q55
+           -  Q85
+           -  Q91
+              -  Docmark
+           -  Q97
+           -  Q107
+           -  Q118
+           -  Q122
+           -  Q126
+           -  Q131
+           -  Q148
+           -  Q187
+           -  **Q217**
+           -  Q233
+           -  **Q241**
+           -  Q260
+              -  IAM resources are all global; there is no regional constraint
+     -  Networking
+        -  VPC
+           -  **Q9**
+              -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
+           -  **Q24**
+           -  **Q77**
+              -  Docmark
+           -  **Q114**
+           -  Q209
+           -  Q226
+           -  **Q228**
+              -  Docmark
+           -  **Q246**
+        - ELB
+          - **Q38**
+          - Q69
+          - **Q80**
+          - **Q87**
+          - **Q96**
+          - **Q99**
+          - **Q106**
+          - **Q116**
+            - What is a sticky session?
+          - **Q134**
+          - **Q153** E10
+          - Q185
+          - Q186
+          - Q230
+        - Route 58
+          - **Q58**
+          - **Q75**
+     -  Instance
+        - EC2 & EBS
+           -  **Q6**
+              -  [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+                 -  Docmark: Install LAMP on Amazon Linux 2
+           -  Q202
+              - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
+           -  **Q22**
+           -  **Q50**
+           -  Q82
+              -  To help manage EC2 instances as well as their usage in a better way, the user can tag the instances. The tags are metadata assigned by the user which consists of a key and a value. One resource can have a maximum of 10 tags.
+           -  Q103
+           -  Q108
+           -  **Q110**
+           -  Q113
+           -  Q115
+           -  **Q129**
+           -  **Q140**
+           -  **Q141**
+           -  Q145
+           -  **Q151**
+           -  **Q165**
+           -  **Q198**
+           -  Q200
+           -  Q202
+           -  Q204
+           -  **Q211**
+           -  Q218
+           -  **Q232**
+              -  Docmark
+           -  Q236
+           -  Q240
+           -  Q252
+           -  Q256
+           -  Q259
+     - Availability
+       - Q227 
+     - Solution
+       - **Q28**
+       - **Q144**
+       - Q149
+       - Q150
+       - Q154
+       - **Q160**
+       - **Q179???**
+       - Q221
+       - Q224
+         - Docmark
+       - Q237
+       - Q257
+     - Security
+       - Q46
+       - Q159
+       - Q175
+       - Q176
+       - Q178
+       - Q191
+    - Billing
+      - Q184
+        - Docmark
+    - Networking
+       -  **Q11**
+          -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+             - [IP addresses per network interface per instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI)
+          - [IPv4, CIDR, and VPC Subnets Made Simple!](https://www.youtube.com/watch?v=z07HTSzzp3o)
+             - Videomark: 8-30/23-46
+    - SNS
+      - **Q132**
+        - Docmark
+      - Q156
+      - Q167
+      - Q196
+      - **Q238**
+        - Docmark
+      - **Q239**
+        - Docmark
+      - Q251
+        - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+      - Q255
+ - [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
+   - Sweepmark: Q1/60
+     - S1
+       - S3
+         - Q1
+ - [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing) - Might as well treat it like a test?
+   - Sweepmark: Q1/10
+ - [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf) - Might as well treat it like a test?
+   - Sweepmark: Q1/10
+   - ASM
+     - Q1
+
+
+
+## Context
+- [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
+  - Progress: 12-19/2-18-18
+
+## Cramming
+https://www.brainscape.com/subjects/aws-certified-developer-associate
+https://www.brainscape.com/subjects/aws-certified-solutions-architect
+https://quizlet.com/199965651/aws-certified-solutions-architect-flashcards/
+##  Guided Video
+- [AWS Certified Developer - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=RrKRN9zRBWs&t=515s)
+
+
+
+
+## Extensive materials not for associate
+- Architecting for the cloud aws best practices whitepaper 2020
+- Practicing Continuous Integration and Continuous Delivery on AWS Accelerating Software Delivery with DevOps
+  - https://d1.awsstatic.com/whitepapers/DevOps/practicing-continuous-integration-continuous-delivery-on-AWS.pdf
+- Microservices on AWS
+- Serverless Architectures with AWS Lambda
+- Optimizing Enterprise Economics with Serverless Architectures
+- Running Containerized Microservices on AWS
+- Blue/Green Deployments on AWS
+
+
+# Log
+
+## 2021/8/27- General Learning - Phase 1: Osmosis, Image construction, Initial intuition establishment
+- This is context-oriented way to learn. If used for attestations, only allocate 20% of your time and energy, and can be only triggered by exam needs
+### Toddler learning to speak
+- Building blocks
+  - AWS Lamda Function
+  - AWS Lightsail
+  - AWS Outposts
+  - AWS EC2
+    - Instance Type
+      - RDS instance
+- App Service
+  - AWS EB
+- Database
+  - AWS Simple Query Service
+  - AWS DynamoDB
+    - Data Type: "Table", a collection of Items; "Items", with Keys and one or more Attribute; and "Attribute", with Name and Value.
+    - Properties
+      - SSD
+        - CONS
+          - I/O performance of WebApp
+    - Parameters
+      - Throughtput level
+        - Change latency: Take anywhere from a few minutes to a few hours.
+  - AWS RDS
+    - Encryption
+      - Encryption can be enabled on RDS instances to encrypt the underlying storage, and this will by default also encrypt snapshots as they are created. However, some additional configuration needs to be made on the client side for this to work.
+    - Deployment
+      - Multi-AZ
+  - AWS S3: Cloud Object Storage
+- Server side
+  - AWS CLI
+- Authentication
+  - AWS IAM
+    - [AWS IAM Tutorial](https://www.youtube.com/watch?v=3y596T1eH_8)
+    - Policy simulator/generator
+    - Alias
+      - https://\[ID\].signin.aws.amazon.com/...
+    - AWS account - IAM
+      - It is not possible to have the same IAM account login URL for separate AWS accounts
+    - Scope: Global
+  - Methods
+    - Access Key
+    - MFA
+    - Certificate
+      - X.509
+- Networking
+  - Protocols
+    - Application layer
+      - HTTP
+        - Header
+          - x-forward-for
+    - Transport layer
+      - TCP
+  - Route 53
+    - Resources
+      - [AWS Route 53 Introduction](https://www.youtube.com/watch?v=10JKpg-eqZU)
+        - 1-53
+    - Concepts
+      - DNS
+        - AWS common record
+          - A: URL to IP
+          - AAAA: Domain Name to IP
+            - [AAAA Records](https://support.dnsimple.com/articles/aaaa-record/)
+          - CNAME
+          - Alias
+            - It is not possible to have capital letters as a part of the alias name
+  - Direct Connect Partner
+  - Storage Gateway
+- Monitoring
+- Log
+- Infrastructure as Code
+  - AWS Cloudformation
+- Message queue
+  - AWS SQS
+    - 60s ~ 2 wks msg-->queue 
+- AWS Cognito
+  - [AWS Cognito | Amazon Cognito | AWS Tutorial for Beginners | AWS Training | Edureka](https://www.youtube.com/watch?v=jTu--LpjA18&t=27s)
+    - Video mark: 11-36
+
+**Below are what you know what you don't know a bit and can't categorize**
+- GetQueueAttributes
+- Hash-and-range key
+- KMS
+- AWS Simple Workflow
+- RRS
+- sns topics
+- EB 
+  - EBS volume
+- opsworks
+- Cw logs
+- host level metrics
+- redshift
+- elasticache nodes
+- **rolling with additional batch**
+- immutable 
+- Elastic Beanstalk
+  - AWS SNS
+  - Health status
+    - ?grey --> Not ready?
+  - Deployment
+    - In-Place Deployment
+- Deployment methods
+  - All at once
+  - Rolling
+  - Rolling with additional batch
+  - Immutable
+  - Blue/Green
+- ASG
+  - [AWS Auto Scaling Groups Introduction](https://www.youtube.com/watch?v=jvMoWjsP7Pk)
+- AMI
+- RDS Read Replica
+- User ARN
+- CloudFormation
+- VPC
+- Single zone implementation
+- Deployment types
+  - Blue/Green Deployment
+- AWS EMR
+### Toddler learning to walk
+- *Talk the talk, but walk carefully*: Walking takes time, effort and your youth, tred very carefully if you really want to test your walk
+## 2021/9/27-2021/10/17 AWS Developer Associate Attestation
+#attestationcontrol
+### Paradigm 1: 2021/9/27-2021/10/7
+#### Kickstart
+- The power has been decided that you shall take your attestation on 2021/10/17
+- Know what you're facing
+  - 22% Deployment 14.3Q
+  - 26% Security 17Q
+  - 30% Development with AWS Services 19.5Q
+  - 10% Refactoring 6.5Q
+  - 12% Monitoring and Troubleshooting 7.8Q
+#### Mindset adjustment
+#distributedmindsetmanagement
+- Texas Poker: Commit yourself 切断后路全身投入
+  - Enough composure
+  - Enough alignment with self and pre-vision of growth path
+  - If you can't even adopt and internalize the ability to use this mindset to empower yourself and clear out a path, then you really have no business working as a consultant
+  - 2021/10/9: Create a second-line sophistication to this mind-set to prevent core damage and encapsulate this neural change
+- Up-tight risk control
+  - Manage all parts of your time to ensure a full commitment with minimum risk
+#### Resources
+- OneNote --> Please migrate to this temp space as resource pool for reference
+
+#### Current risk
+- INTJ
+  - HIGH RISK: *Good job! All the effort for nothing*: OMG!!! I overslept!!!
+    - Solved by creating this whateveritis
+    - Triggered: 2021/10/9
+      - Second-line sophistication triggered
+        - Callousness applied
+        - Stoicism applied
+  - MEDIUM RISK: *Why should I need help from others?*
+  - LOW RISK: *What date should I take the test again?*
+- Schedule clashing
+  - May clash with projects
+  - No clash with TestDaf 11/9
+  - No clash with CATTI 11/9
+  - Pending project schedule
+- Mindset
+  - LOW RISK: Legacy personal idiosyncracy as blockages
+    - *Scholar's Arrogance*: *老夫以修身为己任, 安得以证书为逐物乎?*
+      - Solved by creating migratable knowledge store to shun this quirk
+      - Through years' working experience, the mindset is deprecated, but some behavioural patterns might stick around
+  - LOW RISK: *Numb*: *I always eat deadlines for breakfast, before it arrives*
+- Exam readiness: *Mexico is way up there, and you're down here*
+  - HIGH RISK: Shock therapy test reveals estimated failure if no effort is exerted
+  - Requires efforts that you might need to clear up more time for the exam
+#### Planning phase 
+- Shock therapy: Take the test first: 2021/9/28
+  - Platform
+    - Knowledgehut
+  - Results
+    - Scored 4/60
+    - Estimated failure if you don't do anything
+  - Action
+    - Enrichment of knowledge structure for `toddler` section
+      - Partial review
+      - Partial memory by force
+      - Partial internalization
+    - Daily test
+      - See attestation logistics
+- Learn from others
+  - [AWS Certified Developer Associate考试经验分享](https://www.douban.com/note/769295318/)
+    - This dude took 2 months, so you only have 20 days, so scale up the effort but don't overexert
+- INTJ personality triggered
+  - Prevision of daily allocated time
+  - Prevision of daily study style
+    - Context-oriented way 20%
+      - Only triggered by any operation when doing the Result-oriented way
+    - Result-oriented way 80%
+      - Cramming
+      - Ways derived
+
+- Daily action items
+  - 2hr+ plan
+    1. **Flashcard**
+      - [x] Install `brainscape` into your mobile
+      - [x] Group it with workout session
+        - Currently, during workout, in normal circumstances you must not leave the gym
+      - [ ] 
+    2. Video
+  - More plan
+    - Use it when you sense risk, consult your coach
+#### **Imperative feedback-supported deliverables imminent**
+- Scheduled Mock Tests
+  - 2021/9/30
+  - Next Mock Test
+  - 6-8 Mock Tests pending
+
+## Attestation logistics
+### Quick info retain
+- Linux Academy
+- AWS Learning Library
+### Main resource
+- Input queue
+  - [AWS Certified Developer Associate Exam Study Guide [DVA-C01]](https://ravikirans.com/aws-certified-developer-associate-exam-study-guide/)
+  - [备战 AWS Certification 考试](https://aws.amazon.com/cn/certification/certification-prep/?src=certification-faqs)
+- Mock tests
+  - Knowledgehut
+    - [link](https://www.knowledgehut.com/practice-tests/)
+  - [Examtopics](https://www.examtopics.com/)
+    - 404 as of 2021/9/28
+- Card decks
+  - Cram
+    - [Basics card deck](https://www.cram.com/flashcards/aws-certified-developer-associate-course-7634708)
+  - Quizlet
+    - [AWS Certified Developer Associate 2021 Study Guide - Quizlet](https://quizlet.com/570090385/aws-certified-developer-associate-2021-study-guide-flash-cards/)
+  - Brainscape
+    - 
+
+## Current Strategy
+- 抓大头
+  - 目标: Flashcard以可控可量化的形式迅速构建知识框架和试题认知, 击破80%的考试基础
+  - Brainscape
+    - **Exam Pro Flashcard**
+    - **2019 Test**
+  - Quizlet
+    - **2021 AWS Developer Associate Study Guide**
+- 构建框架
+  - 在Mock Test和Flashcard学习过程中以markdown bullet形式梳理知识结构
+- 两天一考, 实时反馈
+  - Knowledgehut
+  - 官方模考
+- 方向矫正, 查漏补缺
+  - [2021考点](https://d1.awsstatic.com/zh_CN/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
+  - [备战 AWS Certification 考试 - 查找考试指南、样题和其他备考资源](https://aws.amazon.com/cn/certification/certification-prep/?src=certification-faqs)
+    - 考试指南和样题
+    - AWS相关培训
+    - 白皮书相关问题(Flashcard master之后速读)
+    - **学习提示: 重点查看以下常见问题**
+      - **Amazon Simple Queue Service || Amazon DynamoDB || Amazon ElastiCache || Amazon Kinesis || AWS Lambda || Amazon API Gateway || AWS Elastic Beanstalk || AWS Identity and Access Management || AWS Key Management Service**
+    - 官方模考
+- 追踪动向
+  - Examtopics 2021题库
+    - Examtopics AWS被清空问题解决方案
+      - Waybackmachine
+        1. 登入[waybackmachine](https://archive.org/web/)
+        2. 在搜索框输入https://www.examtopics.com/exams/amazon/
+        3. 可见不同
+## Temporary Question-oriented connection store
+- Requirements - Hybrid
+  - Low Latency
+  - Highly consistent traffic
+  - Low cost
+  - Willing to accept slow traffic in the event of primary failure
+- Hybrid - Solution
+  - Low Latency, Highly consistent traffic, Low cost, Willing to accept slow traffic in the event of primary failure
+  - Provision a Direct Connect connection to an AWS region using a Direct Connect partner. Provision a VPN connection as a backup in the event of Direct Connect connection failure.
+
+
+
+
+- [How I Passed the AWS Certified Developer Associate Exam](https://www.freecodecamp.org/news/how-i-passed-the-aws-certified-developer-associate-exam/)
+
+
+# Test records and adjustments
+- Shock therapy test 2021/9/28
+  - Scored 4 out of 60
+- Test done on 2021/10/2
+  - Scored 20 our of 60
+    - Goal: 45+
+  - Current preparation effort
+    - Just flashcards and mock tests, sometimes accompanied with YouTube videos for context
+  - Improvements achieved
+    - Increased familiarity with Abbr.
+    - Increased sense of architecture
+    - Basic feeling of those questions
+    - Having enough time to finish the test
+  - Action
+    - More effort allocated to flashcards to solidify the notion
+      - Desired state
+        - 100% Mastery level of flashcards
+          - 6% per day --> Possible heavy workload
+            - **2021/10/7**: ENTJ/INTJ - Dude, your current mastery level is 12.7%, which is subpar, do it better to catch up with the number or GET DEMOLISHED
+            - **2021/10/11**: Dude, your current mastery level is 38.7%, which is subpar, do it better to catch up with the number or GET DEMOLISHED
+              - Shun ENTJ part for mental contingency maneuver
+              - Contingency plan imminent
+              - Mock test imminent
+              - Underlying manifestation of current illness imminent
+              - Evidence shows that you can complete 30% a day with insane schedule and more coffee applied
+              - 尝试降低大脑内强制自动运行的网络仿真重建系统和计划系统的运行overhead
+        - Video knowledge enrichment w1=0.3 , knowledge structure internalization w2=0.4, exam state internalization w3=0.3
+    - Starting to take down those questions you've got wrong 
+      - Intuition: This may not be a good idea
+  - Trend
+    - Linearly speaking: With 4 days you scored 16 more, it is estimated that you will pass the test with current effort level, but more data needs to be collected
+- Next Test: 2021/10/12 Mastery Level: 60%
+  - Studying over normal schedule imminent
+- **Gradually-shorter INTERVAL MOCK TESTS**: As mastery level and fill-the-gaps video learning goes, the interval between two mock test will become shorter and shorter until the efficiency of the feedback loop reaches the singularity as the internalization level peaks, then try to calculate the maintenance interval 
+- **Failsafe mechanism**: If you fail, you will get the valuable data gained for future adjustments
+- Contingency plan
+
+# 2021/10/17
+- 基本认知
+  - Ted: 考试分数基本与模考readiness成正比
+- Mock test on 2021/10/17
+  - Scored 23 out of 60
+  - Flashcard readiness: 62.3%
+    - Plateau on the first card deck
+- Actions
+  - According to the blindpoints, and perform diff algorithm between two card sets, fill the blindpoints first
+- Blindpoints
+  - EC2 instance specifications and provisions
+    - T2 burstable performance instance
+    - t2.nano instance + spot instance
+    - ...
+  - DynamoDB
+    - Commands and docs
+      - DescribeTable
+      - BatchGetItem
+  - ASG
+  - AZ
+    - EC2+EBS
+  - EMR
+
+  - NAT, MAC, IP, Public IP, Private IP, VPC, Subnet, Elastic IP, ASG all firing together
+- Structured Video track
+  - EC2
+  - SNS
+  - ...
+- 状态总结
+  - 目前通过Flashcard的学习接近Plateau, 但是还没有接近, 还是有些小片知识盲点(一个Card deck本身的盲点导致), 所以第二个Card deck目前就可以开始了
+    - 对标考试中的事实题, 争取做到事实题不掉分
+  - 目前对于概念的架构认知和实操的需求逐渐增大
+    - 架构实操题, 争最多分
+    - 连点成面, 基于考试题所涉及重要结点阅读官方文档
+      - 官方文档: 连点成面
+      - 在Flashcard,题库, 官方考纲中养成的知识点敏感度内化用于官方文档的注意力分配
+  - 模考频率开始增大, 现在不能是一周一考了, 在知识盲点补齐和内化进行的过程中要逐渐减小反馈周期
+
+# 2021/10/24- 
+- 2021/11/2
+  - Flashcard readiness
+    - Associate 2019: 88.2% --> Reaching Plateau --> 92.3% 
+    - Exam Pro: 14.1% --> 23.8%
+- Polyfill
+  - Metadata
+    - Don't shadow its operation in the video in the webpage, the familarity of clicking buttons and switching tabs is not the limiting factor of improvement
+    - If a newly encountered question is already at the spaced repetition level 5 in your brain, poitner move to the next and don't apend it at all
+  - EC2
+    - [AWS EC2 Tutorial For Beginners | What Is AWS EC2? | AWS EC2 Tutorial | AWS Training | Simplilearn](https://www.youtube.com/watch?v=8TlukLu11Yo)
+      - Videomark: 12-54/22-16
+      - Engagement boost: German subtitle, simultaneous interpretation
+  - SNS
+    - [documentation](https://docs.aws.amazon.com/sns/latest/dg/welcome-features.html)
+      - Docmark: Features and capabilities
+  - SES
+  - IAM
+  - CF
+  - Security
+  - X-Ray
+  - SQS
+    - [SNS And SQS Deep Dive | SNS Vs SQS | Standard Vs FIFO | Use Cases](https://www.youtube.com/watch?v=LzFuXvhA5xk)
+      - Videomark: 2-22/15-04
+  - Lamda function
+  - Database(RDS, DynamoDB)
+  - VPC
+    - [AWS DOC - VPC FAQ](https://aws.amazon.com/vpc/faqs/)
+  - Route 53
+  - EBS
+  - CW
+  - Storage(S3, EBS, EFS, Cloudfront...)
+
+- 2021/10/29
+  - WARNING: entering insanity state due to prolonged sleep deprivation, sapio-masochism trait
+    - Set a hard re-set
+  - 2021/10/31 Insanity state end
+-  2021/10/30
+   - Status report
+     - Watering system established
+     - Question set re-discovered
+   - Tools(Beyond exam)
+     - Method: You can integrate your fast reading skills connecting as much dots as you can in one go
+     - [AWS Policy Generator](http://awspolicygen.s3.amazonaws.com/policygen.html)
+
+# 经验总结(draft)
+- 阶段一
+  - 游戏化
+  - Context Coverage高
+- 阶段二
+  - 集中复习
+- 阶段三
+  - 保持状态
+  - 针对性
+- 阶段四
+  - Engagement state terminated

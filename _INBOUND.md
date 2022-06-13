@@ -1,3 +1,6 @@
+# _INBOUND_cache
+https://www.mail-archive.com/
+
 # IBD_C
 - ACCURATE --> COPY TO `_PROCESSING`, `_INBOUND`, `_OUTBOUND` with metadata `{"source": "ACCA"}`
   - _meta

@@ -1325,12 +1325,32 @@
                   - Tax point
                   - VAT relief for bad debts
         - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
-            - Videomark: 10:45/31:40
+            - Videomark: 20:01/31:40
             - CCS: 48.5%
             - E.T.C: 3.33 months
             - STRUCT
               - Qualitative characteristics of financial Information
-                - Understandability, Relevance, Reliability
+                - Understandability, Relevance, Reliability, Comparability
+              - O.O.I
+                - IFRS: International Financial Reporting Standard
+                  - _meta_escalate
+                    - *I think IFRS will be the main theme moving forward*
+                  - [website](https://www.ifrs.org/)
+              - Elements of Financial statments
+                - Alias field
+                  - Balance sheet: Statement of financial position
+                - self
+                  - Asset
+                    - _characteristics
+                      - *never reflected in the ?*
+                    - *A resource that is both controlled by an entity and is expected to produce future economic benefits that will flow to the entity*
+                  - Liability
+                    - *A present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits*
+                  - Equity
+                    - *The residual interest in the assets of the entity after deducting all its liabilities*
+                    - $assets-liabilities=equity=capital+reserves$
+                  - Income
+                    - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
             - _meta_following
                 - _meta_escalate
                   - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -1428,7 +1448,7 @@
     - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
     - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
     - *You can either train hard or train long - Jeff Cavaliere | Sie können entweder hart trainieren oder lange trainieren*
-  - _meta_escalate
+  - _meta_ escalate
     - _meta
       - related
         - `bymaverse`
@@ -1444,13 +1464,18 @@
       - source
         - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 52:19/1:06:24
+      - Videomark: 57:20/1:06:24
+      - NEW VOCAB
+        - [Hindenburg Omen](https://www.investopedia.com/terms/h/hindenburgomen.asp#:~:text=According%20to%20the%20Hindenburg%20Omen,lead%20to%20a%20bear%20market.)
+        - ICBM
+        - Investment Time Horizon
+          - [investopedia](https://www.investopedia.com/terms/t/timehorizon.asp)
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
         - _meta
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
       - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 45:16/1:01:55
+      - Videomark: 50:26/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
@@ -1468,6 +1493,12 @@
         - `xxh`: portable shell with customization following you around
         - `Oh My Posh`
           - [Oh My Posh](https://ohmyposh.dev)
+        - `dust`
+          - Diskzugriffstatistkiken
+        - `lsd`
+          - tree
+        - `goto`
+          - Schnellzugriff auf Ordneren
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
@@ -1499,8 +1530,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 16.5%
-          - ETC: 2.78 months
+          - CCS: 18.4%
+          - ETC: 1.36 months
           - Code
             - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
@@ -1532,8 +1563,8 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-        - CCS: 70.6%
-        - ETC: 15d
+        - CCS: 71.6%
+        - ETC: 28d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
@@ -1544,8 +1575,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 2%
-        - ETC: 10.8 months
+        - CCS: 2.5%
+        - ETC: 6.5 months
         - TEMP TIMESTAMP: 0
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
@@ -1592,7 +1623,7 @@
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 66.5%
+  - Initialization of language/meta structrure: 70.6%
   - Tool
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
@@ -1624,11 +1655,11 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/)
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 32%
+  - Initialization of language/meta structrure: 33.5%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 44.5%
+  - Initialization of language/meta structrure: 48%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1
@@ -1751,6 +1782,9 @@
 - AWS SysOps Exam Prep
   - Count down: 2022/6/27
 - Roll-out
+
+- 什么叫*zh田园*?
+  - 仨核桃俩枣都得有j臣之分
 
 # STICKY | 软件特种团队管理
 - 特种团队相当于软件开发团队中的特种部队

@@ -66,6 +66,10 @@
       - `Provider from pack: TypeError: Cannot read properties of undefined (reading 'length')`
         - [<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: Unable to snapshot resolve dependencies](https://github.com/vercel/next.js/issues/35872)
           - *Code works, just find a way to silence it*
+    - Next.js
+      - `TypeError: Cannot convert undefined or null to object`
+        - [TypeError: Cannot convert undefined or null to object - Typescript & Next.js](https://stackoverflow.com/questions/71054540/typeerror-cannot-convert-undefined-or-null-to-object-typescript-next-js)
+          - For next.js, some router configs like `paths` varaible in `getStaticPaths` actually returns a closure, not a real object :)))
 - AWS S3
   - AWS S3 vs AWS DynamoDB?
     - [Amazon S3 vs DynamoDB: 5 Critical Differences](https://hevodata.com/learn/amazon-s3-vs-dynamodb/)

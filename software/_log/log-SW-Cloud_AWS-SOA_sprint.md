@@ -1,13 +1,12 @@
 # INBOUND cache
-- https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/
+- [Tips for taking an AWS Certification exam with exam labs](https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/)
 - https://www.pluralsight.com/courses/aws-sysops-admin-preparing-soa-co2-exam-cert?aid=7014Q000002DTf0QAG&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=US_Dynamic_AWS&utm_content=&utm_term=17335566185&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9CGQAdxcPGg-hxotdv2LOItFfyZg1iR5z0MuRJFYpa70_y--q9L2SBoCp4gQAvD_BwE
 - https://javarevisited.blogspot.com/2020/06/top-5-aws-certified-sysops-admin-associate-certification-exam.html#axzz7VzWjNzpu
 - https://medium.com/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b
 - Examtopics
   - https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/
 # Learn from past experience
-- ARCHIV
-  - _ARCHIVE_log-SW-Cloud_AWS-sprint.md
+- What worked the most
 - Connect the dots from the Beginning
   - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
     - Videomark: 15:00
@@ -16,14 +15,15 @@
     - Memoization field
     - Coursemark: 14:08
 - Know what you are facing
-  - 22% Monitoring and Reporting 14-15 Qs
-  - 8% High Availability 5-6 Qs
-  - 14% Deployment and Provisioning 9-10 Qs
-  - 12% Storage and Data Management 7-8 Qs
-  - 18% Security Compliance 11-12 Qs
-  - 14% Networking 9-10 Qs
-  - 12% Automation and Optimization 7-8 Qs
-
+  - Questions
+    - 22% Monitoring and Reporting 14-15 Qs
+    - 8% High Availability 5-6 Qs
+    - 14% Deployment and Provisioning 9-10 Qs
+    - 12% Storage and Data Management 7-8 Qs
+    - 18% Security Compliance 11-12 Qs
+    - 14% Networking 9-10 Qs
+    - 12% Automation and Optimization 7-8 Qs
+  - Exam Labs
 # Sprint materials
 - **AWS SysOps** --> **ACTIVE**
   - $udemy_course

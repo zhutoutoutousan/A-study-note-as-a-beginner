@@ -5,7 +5,7 @@
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
 - [Renovation plan](#renovation-plan)
-- [个人软件开发军火库 - 优选](#个人软件开发军火库---优选)
+- [Startup软件开发军火库 - 优选](#startup软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
 - [Bleeding edge arsenal - Pillars of Boundries](#bleeding-edge-arsenal---pillars-of-boundries)
   - [Use Cases Boundry](#use-cases-boundry)
@@ -57,7 +57,10 @@
 
 # Renovation plan
 
-# 个人软件开发军火库 - 优选
+# Startup软件开发军火库 - 优选
+- Mindset
+  - XP
+    - [eXtreme](https://github.com/eXtremeProgramming-cn/www.extremeprogramming.cn/blob/master/content/about-us.md)
 - Lowcode arsenal
   - Dora
   - [Low-Code for Freelance Developers & Startups – Tutorial](https://www.youtube.com/watch?v=hDzgO2FB_ms)

@@ -11,6 +11,7 @@
   - [Pudding consumption](#pudding-consumption)
   - [Egg tart consumption](#egg-tart-consumption)
 - [发嗲中文产生器](#发嗲中文产生器)
+  - [Reference](#reference-1)
 - [São人的日记](#são人的日记)
   - [2022/6/8](#202268)
 
@@ -47,10 +48,13 @@
 # 发嗲中文产生器
 越南语用来发中文音
 
+## Reference
+- [emojitranslate](https://emojitranslate.com/)
+
 # São人的日记
 
 ## 2022/6/8
 - 越南语用来发嗲真的好合适, 是时候创造一个发嗲专用世界语了!
   - 越南语发音
-  - 中文舔狗流
+  - 中文舔狗/贪嗔痴慢疑+discord智障流
   - 韩语发嗲语调

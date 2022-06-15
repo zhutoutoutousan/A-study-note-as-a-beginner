@@ -1325,91 +1325,107 @@
                   - Tax point
                   - VAT relief for bad debts
         - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
-            - Videomark: 20:01/31:40
-            - CCS: 48.5%
-            - E.T.C: 3.33 months
-            - STRUCT
-              - Qualitative characteristics of financial Information
-                - Understandability, Relevance, Reliability, Comparability
-              - O.O.I
-                - IFRS: International Financial Reporting Standard
-                  - _meta_escalate
-                    - *I think IFRS will be the main theme moving forward*
-                  - [website](https://www.ifrs.org/)
-              - Elements of Financial statments
-                - Alias field
-                  - Balance sheet: Statement of financial position
-                - self
-                  - Asset
-                    - _characteristics
-                      - *never reflected in the ?*
-                    - *A resource that is both controlled by an entity and is expected to produce future economic benefits that will flow to the entity*
-                  - Liability
-                    - *A present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits*
-                  - Equity
-                    - *The residual interest in the assets of the entity after deducting all its liabilities*
-                    - $assets-liabilities=equity=capital+reserves$
-                  - Income
-                    - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
-            - _meta_following
+          - Videomark: 31:40/31:40
+          - CCS: 48.5%
+          - E.T.C: 3.33 months
+        - [ACCA F7INT - 2. IAS 1 Presentation of Financial Statements](https://www.youtube.com/watch?v=rvQrJ5KKVzo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=86)
+          - Videomark: 20:01/31:40
+          - CCS: 49.1%
+          - E.T.C: 2.82 months
+          - Conceptual Famework | FOLLOWING
+            - Qualitative characteristics of financial Information
+              - Understandability, Relevance, Reliability, Comparability
+            - O.O.I
+              - IFRS: International Financial Reporting Standard
                 - _meta_escalate
-                  - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
-                  - [Accounting Coach](https://www.accountingcoach.com/)
-                    - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
-                  - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
-                    - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
-                  - TANDEM WITH **RPA**
-                  - IFRS
-                - Brain Groceries
-                  - **incoterms**
-                    - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
-                    - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
-                - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
-                  - NEW P.O.I - S. M. Bragg
-                  - Process 1
-                    - Style: Skimming
-                      - Use pre-trained rigorous visualization brain-state
-                    - Bookmark: 14/256
-                  - Process 2
-                - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING  
-                      - Process 1
-                        - Bookmark: 11/392
-                        - Style: Osmosis
-                          - _meta
-                            - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
-                            - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
-                              - _meta
-                                - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
-                        - Goal: Connect the dots till a whole area just clicks
-                          - _meta
-                            - And record `average_arial_singularity_time_cost`
-                        - Sub-process 1.1
-                          - Scope
-                          - Goal
-                      - Process 2
-                - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
-                  - Bookmark: 2/45
-                  - _meta
-                    - STICKY, FOLLOWING
-                    - RECAP
-                      - position: p1
-                    - STRUCT
-                      - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
-                - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
-                  - _meta
-                    - STICKY, FOLLOWING
-                - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
-                - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
-                - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
-                  - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
-                  - Bookmark: 13
-                - 18.S096, Financial Mathematics(MIT)
-                  - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
-                    - Videomark: 0:00:00/1:00:29
-                    - _meta_escalate
-                      - MOVE TO `$parent` on COMPLETION of `$parent`
+                  - *I think IFRS will be the main theme moving forward*
+                - [website](https://www.ifrs.org/)
+            - Elements of Financial statments
+              - Alias field
+                - Balance sheet: Statement of financial position
+              - self
+                - _meta
+                  - Recognition criteria
+                    - Problem-Toolkit
+                      - Inflation
+                        - IAS 29
+                        - Operating capital maintenance
+                        - Capital maintenance concepts
+                          - Financial capital maintenance
+                          - Operating capital maintenance
+                  - True and fair view
+                    - true and fair override
+                  - Evaluation of assets and profit
+                - Asset
+                  - _characteristics
+                    - *never reflected in the ?*
+                  - *A resource that is both controlled by an entity and is expected to produce future economic benefits that will flow to the entity*
+                - Liability
+                  - *A present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits*
+                - Equity
+                  - *The residual interest in the assets of the entity after deducting all its liabilities*
+                  - $assets-liabilities=equity=capital+reserves$
+                - Income
+                  - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
+          - _meta_following
+              - _meta_escalate
+                - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
+                - [Accounting Coach](https://www.accountingcoach.com/)
+                  - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+                  - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                - TANDEM WITH **RPA**
+                - IFRS
+              - Brain Groceries
+                - **incoterms**
+                  - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                  - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+              - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                - NEW P.O.I - S. M. Bragg
+                - Process 1
+                  - Style: Skimming
+                    - Use pre-trained rigorous visualization brain-state
+                  - Bookmark: 14/256
+                - Process 2
+              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                - _meta
+                  - STICKY, FOLLOWING  
+                    - Process 1
+                      - Bookmark: 11/392
+                      - Style: Osmosis
+                        - _meta
+                          - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                          - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                            - _meta
+                              - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                      - Goal: Connect the dots till a whole area just clicks
+                        - _meta
+                          - And record `average_arial_singularity_time_cost`
+                      - Sub-process 1.1
+                        - Scope
+                        - Goal
+                    - Process 2
+              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                - Bookmark: 2/45
+                - _meta
+                  - STICKY, FOLLOWING
+                  - RECAP
+                    - position: p1
+                  - STRUCT
+                    - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+              - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                - _meta
+                  - STICKY, FOLLOWING
+              - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+              - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+              - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                - Bookmark: 13
+              - 18.S096, Financial Mathematics(MIT)
+                - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                  - Videomark: 0:00:00/1:00:29
+                  - _meta_escalate
+                    - MOVE TO `$parent` on COMPLETION of `$parent`
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -1464,7 +1480,7 @@
       - source
         - media.ccc.de
     - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 57:20/1:06:24
+      - Videomark: 1:02:22/1:06:24
       - NEW VOCAB
         - [Hindenburg Omen](https://www.investopedia.com/terms/h/hindenburgomen.asp#:~:text=According%20to%20the%20Hindenburg%20Omen,lead%20to%20a%20bear%20market.)
         - ICBM
@@ -1475,7 +1491,7 @@
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
       - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
     - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 50:26/1:01:55
+      - Videomark: 55:34/1:01:55
       - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
       - UNIX philosophy
         - DO ONE THING WELL 只做好一事 Mach ein Ding
@@ -1483,6 +1499,10 @@
         - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
         - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
       - Zuletztesten zugegebenden Kommandozeilenwerkzeugen --> Zum `*-SW_arsenal` bewegen denn sich zu zerstören wenn es fertig gemacht ist
+        - _meta
+          - DevOps: `this` --> AWS AMI/Cloudformation
+          - ADD Source - Arsenal mapping: `Leyrer@media.ccc.de` --> Kommandozeilenwerkzeugesmeisterschaft
+          - `this`: Group tools to different categories
         - `gron`
           - makes JSON greppable, transform JSON into discrete assignments usw.
           - Anwendungsfällen: APIs with terrible documentation
@@ -1499,6 +1519,16 @@
           - tree
         - `goto`
           - Schnellzugriff auf Ordneren
+        - `ps` --> `proc`
+        - `bottom`, `btop++`
+        - `googler`
+        - DUMMY: DO XXX in terminal
+        - Read PDF in terminal
+          - `falsisign`
+        - Render markdown in terminal
+          - `glow`
+        - View Images in terminal
+          - `viu`
     - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
     - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
@@ -1530,8 +1560,23 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 18.4%
-          - ETC: 1.36 months
+          - CCS: 19.4%
+          - ETC: 2.68 months
+          - STATE: *Jump over BLOCKER for non-linear progress*
+          - Environment | BLOCKER
+            - [x] Local
+              - [x] Anaconda+Python
+                - Issue --> `踩坑树`
+                  - Anaconda Navigator never opens
+                    - [Windows里Anaconda-Navigator无法打开的解决方案（详细）](https://blog.csdn.net/weixin_42529892/article/details/81503261)
+                      - `ProxyError: Conda cannot proceed due to an error in your proxy configuration.`
+                      - `conda update anaconda-navigator` network problem
+                        - 氵闰
+                        - [x] It will take some time to load it for the first time
+                  - Anaconda Navigator stuck on `Loading user`
+            - [ ] Cloud9
+              - *It just may lead to more issues where I don't even want to deal with :)*
+              - Do it later
           - Code
             - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
@@ -1563,8 +1608,14 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-        - CCS: 71.6%
-        - ETC: 28d
+        - Issue
+          - Next.js + Cloud9 + Appsync
+            - `Unhandled Runtime Error TypeError: require.e is not a function`
+              - sxxt still work, archive it
+            - `ReferenceError: navigator is not defined`
+              - sxxt still work, archive it
+        - CCS: 72.5%
+        - ETC: 27.5d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
@@ -1575,9 +1626,13 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 2.5%
-        - ETC: 6.5 months
+        - CCS: 3%
+        - ETC: 6.46 months
         - TEMP TIMESTAMP: 0
+        - Meso-memory field
+          - Store struct pointer data in heap in C/C++
+            - `p->{Mitglieder}={Wert}; // Scheisse! :3`
+            - `p->(struct {derselber Name} *)malloc(sizeof(struct {derselber Name})); // Du blöder Wichser, fick dich!`
         - [Online GDB](https://www.onlinegdb.com/)
       - Codeforces
         - Constructive Algorithm --> **HALT**

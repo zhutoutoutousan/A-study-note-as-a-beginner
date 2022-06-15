@@ -1,6 +1,11 @@
 # Stock
 https://youtu.be/y7iVTTH5tOA
 
+# Business Entities of Interests
+## A
+- Alphabet Inc. (GOOG)
+  - [Stock](https://finance.yahoo.com/quote/GOOG/)
+
 
 # Quantitative investment
 - [bigquant](https://bigquant.com/tutorial/)

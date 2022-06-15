@@ -152,7 +152,7 @@
 # G
 - 过账: Posting
 - 估值
-  - [Valuation in Four Lessons | Aswath Damodaran | Talks at Google](https://www.youtube.com/watch?v=Z5chrxMuBoo)
+  - [Valuation in Four Lessons | Aswath Damodaran | Talks at Google](https://www.youtube.com/watch?v=Z5chr#xMuBoo)
     - Videomark: 3:43/1:01:29
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
@@ -207,7 +207,8 @@
 - 柠檬市场: Lemon market
   - [The Market for “Lemons:” Quality Uncertainty and the Market Mechanism](https://sites.duke.edu/econ206_01_s2011/files/2012/05/25Akerlof_Lemons_Debreu.pdf)
   - [Imperfect Competition and Efficiency in Lemons Markets](https://ageconsearch.umn.edu/record/270999/files/twerp_939.pdf)
-
+- Nonprofit Overhead
+  - [A Board Member's Guide to Nonprofit Overhead](https://calnonprofits.org/publications/article-archive/423-a-board-member-s-guide-to-nonprofit-overhead)
 # P
 - PEST Model
   - Q: Is there a simulation software for this?

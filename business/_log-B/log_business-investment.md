@@ -1,5 +1,9 @@
+
+
+
 # Stock
 https://youtu.be/y7iVTTH5tOA
+
 
 # Business Entities of Interests
 ## A

@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [_INBOUND_CACHE](#_inbound_cache)
 - [New Tech](#new-tech)
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
@@ -36,6 +37,46 @@
 - [2021/12/25](#20211225)
   - [Maximize the usage of github copilot](#maximize-the-usage-of-github-copilot)
 
+# _INBOUND_CACHE
+- UNIX philosophy
+  - DO ONE THING WELL 只做好一事 Mach ein Ding
+  - SIMPLE OUTPUT 说人话 Zusammenarbeiten
+  - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
+  - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
+- Zuletztesten zugegebenden Kommandozeilenwerkzeugen --> Zum `*-SW_arsenal` bewegen denn sich zu zerstören wenn es fertig gemacht ist 
+  - _meta
+    - DevOps: `this` --> AWS AMI/Cloudformation
+    - ADD Source - Arsenal mapping: `Leyrer@media.ccc.de` --> Kommandozeilenwerkzeugesmeisterschaft
+    - `this`: Group tools to different categories
+  - `gron`
+    - makes JSON greppable, transform JSON into discrete assignments usw.
+    - Anwendungsfällen: APIs with terrible documentation
+    - [gron - github](https://github.com/tomnomnom/gron)
+  - `jc`, `fx`, `map`
+  - `xonsh`: python in cmd --> COPY TO `*-SW_arsenal`
+    - *interesting
+  - `xxh`: portable shell with customization following you around
+  - `Oh My Posh`
+    - [Oh My Posh](https://ohmyposh.dev)
+  - `dust`
+    - Diskzugriffstatistkiken
+  - `lsd`
+    - tree
+  - `goto`
+    - Schnellzugriff auf Ordneren
+  - `ps` --> `proc`
+  - `bottom`, `btop++`
+  - `googler`
+  - FXXK terminator
+    - `fuck`
+  - DUMMY: DO XXX in terminal
+  - Read PDF in terminal
+    - `falsisign`
+  - Render markdown in terminal
+    - `glow`
+  - View Images in terminal
+    - `viu`
+- THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
 
 # New Tech
 - dbforge
@@ -92,7 +133,7 @@
     - Bleeding-edge styling
       - TailwindCSS
    - Architecture planning
-     - [](https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record)
+     - [GitHub - architecture-decision](https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record)
     - AWS
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09

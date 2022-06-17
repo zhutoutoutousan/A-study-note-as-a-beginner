@@ -35,6 +35,71 @@
       - WTF is this?
       - Holy cow, I really found this stuff
         - [Business Orchestration: Strategic Leadership in the Era of Digital Convergence](#)
+- `json/yaml`-inspired neo-human language design | Esperanto for 21st century before full BCI integration
+  - _INBOUND
+    - _INBOUND_CACHE
+      - [Esperanto.design](https://esperanto.design/)
+  - ERROR: Basic linguistic knowledge required
+  - WARNING: Proceeding without linguistic knowledge for initialization
+  - ACCEPTED
+- NEW STANDARD FOR C2+ in current avaialble standard system
+  - _overall
+    - Proficiency described using visualized knowledge graph
+  - Industry-based assessment standard
+  - Academia-based assessment standard
+  - Role-based assessment standard
+  - Vocal & Acoustic assessment standard
+  - Use-case-based assessment standard
+  - Innate linguistic neural-level attribute enhancement
+    - Logical reasoning
+      - Capacity
+    - Symbol stack
+      - Capacity
+      - Agility
+      - Connection store
+        - Writing system
+        - Sequence ordering
+  - Long-term training management update
+- Chinese - Post HSK --> `bymaverse`
+  - _INBOUND
+    - _INBOUND_CACHE
+  - Standardized framework
+    - Industry-based assessment standard
+    - Role-based assessment standard
+    - Use-case-based assessment standard
+    - Vocal & Acoustic assessment standard
+    - Innate linguistic neural-level attribute enhancement
+  - Dialects | Ctrl+C Ctrl+V
+    - Goal
+      - Local BD
+- English - Post C2 --> `bymaverse`
+  - _INBOUND
+    - _INBOUND_CACHE
+  - Industry-based assessment standard
+  - Role-based assessment standard
+  - Use-case-based assessment standard
+  - Vocal & Acoustic assessment standard
+    - Simultaneous speech & reading and integration with other systems
+      - Speed of reading
+    - Maximum number of channels of communication to keep up with
+  - Innate linguistic neural-level attribute enhancement
+    - Context switch stack
+      - _struct
+      - Capacity
+      - Agility
+    - Rigorous procedural/network reasoning
+    - Effective data structure for humans
+      - _method
+        - Retrieval
+          - Visualization a.k.a Mind palace
+      - Network Graph
+        - _methods
+          - Mutation
+            - Rotate
+            - Shuffle
+            - TBD
+          - Connection
+        - Nodes
 - French - Lower C1
   - Material Track
     - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
@@ -1329,12 +1394,98 @@
           - CCS: 48.5%
           - E.T.C: 3.33 months
         - [ACCA F7INT - 2. IAS 1 Presentation of Financial Statements](https://www.youtube.com/watch?v=rvQrJ5KKVzo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=86)
-          - Videomark: 20:01/31:40
-          - CCS: 49.1%
-          - E.T.C: 2.82 months
+          - Videomark: 10:00/20:49
+          - CCS: 49.7%
+          - E.T.C: /
+        - [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
+          - Videomark: 0/32:02
+          - CCS: 49.7%          
           - Conceptual Famework | FOLLOWING
             - Qualitative characteristics of financial Information
               - Understandability, Relevance, Reliability, Comparability
+            - Standards
+              - IAS 1
+                - Components of finantial statements
+                  - Statement of financial position
+                  - Statement of comprehensive income
+                    - Profit and loss statement
+                    - Other comprehensive income
+                  - Statement of changes in equity
+                  - Statement of cash flows
+                  - Comparative data for the previous year for each of the above
+                - Core concepts
+                  - Fair presentation - fair, neutral description of transactions
+                    - Substance over Form
+                  - Going concern - entity assumed to continue trading into the foreseeable future
+                  - Accrual(matching) basis of accounting - match costs with associated revenues and items to the time period incurred
+                  - Consistency of presentation - present similar transactions the same way within the current year and year by year
+                  - Materially and aggregation - no need to present information about immaterial transactions, but aggregate transactions with similar characteristics instead
+                  - Offsetting - offset as little as possible
+                    - Little *net off*
+                - True and fair override
+            - Material Anatomies
+              - Statement of Financial Position
+                - _struct
+                  - _col
+                    - 20x3
+                    - 20x4
+                    - Note
+                  - _row ptr=\$1
+                - Assets ptr=\$1 ~ * === \$1
+                  - Non-current assets
+                    - Property, plant and equipment
+                    - Intangible assets
+                    - Investments in associates
+                    - Biological assets
+                  - Current Assets
+                    - Inventories
+                    - Trade receivables
+                    - Cash and cash equivalents
+                    - Assets held for sale
+                  - Total Assets
+                - EQUITY AND LIABILITIES
+                  - Share capital
+                  - Revaluation reserve
+                  - Retained Earnings
+                  - Other reserves
+                  - Non-controlling interests
+                  - **Total Equity**
+                  - Non-current liabilities
+                    - Financial liabilities
+                    - Deferred tax
+                    - provisions
+                    - Total
+                  - Current liabilities
+                    - Financial liabilities
+              - Statement of Comprehensive Income(SOCI)
+                - revenue
+                - Cost of sales
+                - Gross profit
+                - Other income
+                - Share of profit of associates
+                - Distribution costs
+                - Administrative expenses
+                - Other expenses
+                - Finance costs
+                - **Profit before tax**
+                - Tax expense
+                - Profit from discontinued operations, after tax
+                  - IFRS 5
+                - **Profit for the period**
+                - Other comprehensive income, net of tax
+                  - Property revaluation gains
+                  - Other gains reported directly in equity
+                  - Share of associates' other comprehensive income
+                  - Other comprehensive income for the period, net of tax
+                  - Total comprehensive income for the period
+                - Profit for the period attributable to
+                  - Non-controlling interests
+                  - Owners of the parent
+                - Total comprehensive income for the period attributable To
+                  - Non-controlling interests
+                  - Owners of the parent
+              - Statement of Changes in Equity(SOCE)
+              - SOFP
             - O.O.I
               - IFRS: International Financial Reporting Standard
                 - _meta_escalate
@@ -1479,58 +1630,15 @@
     - _meta
       - source
         - media.ccc.de
-    - [Elon Musk: A future worth getting excited about | TED | Tesla Texas Gigafactory interview](https://www.youtube.com/watch?v=YRvf00NooN8) --> **ACTIVE** 5min/Tag
-      - Videomark: 1:02:22/1:06:24
+    - English --> Deutsch
       - NEW VOCAB
-        - [Hindenburg Omen](https://www.investopedia.com/terms/h/hindenburgomen.asp#:~:text=According%20to%20the%20Hindenburg%20Omen,lead%20to%20a%20bear%20market.)
         - ICBM
-        - Investment Time Horizon
-          - [investopedia](https://www.investopedia.com/terms/t/timehorizon.asp)
       - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
         - _meta
           - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
-      - [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
-    - [Leyrer: Moderne Linux Kommandozeilenwerkzeuge - Edition "Allein zu Haus"](https://www.youtube.com/watch?v=uEEHq6f8RsM)  --> **ACTIVE** 5min/day
-      - Videomark: 55:34/1:01:55
-      - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
-      - UNIX philosophy
-        - DO ONE THING WELL 只做好一事 Mach ein Ding
-        - SIMPLE OUTPUT 说人话 Zusammenarbeiten
-        - DISCARD EARLY 勤扔垃圾 Wirf die Scheiße
-        - USE TOOLS NOT HELP 工具优先 Werzuge kommt zuerst die Hilfe
-      - Zuletztesten zugegebenden Kommandozeilenwerkzeugen --> Zum `*-SW_arsenal` bewegen denn sich zu zerstören wenn es fertig gemacht ist
-        - _meta
-          - DevOps: `this` --> AWS AMI/Cloudformation
-          - ADD Source - Arsenal mapping: `Leyrer@media.ccc.de` --> Kommandozeilenwerkzeugesmeisterschaft
-          - `this`: Group tools to different categories
-        - `gron`
-          - makes JSON greppable, transform JSON into discrete assignments usw.
-          - Anwendungsfällen: APIs with terrible documentation
-          - [gron - github](https://github.com/tomnomnom/gron)
-        - `jc`, `fx`, `map`
-        - `xonsh`: python in cmd --> COPY TO `*-SW_arsenal`
-          - *interesting
-        - `xxh`: portable shell with customization following you around
-        - `Oh My Posh`
-          - [Oh My Posh](https://ohmyposh.dev)
-        - `dust`
-          - Diskzugriffstatistkiken
-        - `lsd`
-          - tree
-        - `goto`
-          - Schnellzugriff auf Ordneren
-        - `ps` --> `proc`
-        - `bottom`, `btop++`
-        - `googler`
-        - DUMMY: DO XXX in terminal
-        - Read PDF in terminal
-          - `falsisign`
-        - Render markdown in terminal
-          - `glow`
-        - View Images in terminal
-          - `viu`
-    - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
-    - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
+    - Deutsch --> English
+      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
+      - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
       - Videomark: 11:36/47:07
     - SOURCE： The Royal Institution
@@ -1555,13 +1663,13 @@
       - *No German Subtitle available*
       - Tool: JetBrains - Datalore
         - [Datalore](https://datalore.jetbrains.com/notebook/)
-    - Web 3.0
+    - **Web 5.0+**
       - **DAO** --> **ACTIVE** 10min/day
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 19.4%
-          - ETC: 2.68 months
+          - CCS: 24.2%
+          - ETC: /
           - STATE: *Jump over BLOCKER for non-linear progress*
           - Environment | BLOCKER
             - [x] Local
@@ -1614,8 +1722,10 @@
               - sxxt still work, archive it
             - `ReferenceError: navigator is not defined`
               - sxxt still work, archive it
-        - CCS: 72.5%
-        - ETC: 27.5d
+        - Prerequisite
+          - *Skipped for MyPost for requiring VTL as prerequisite*
+        - CCS: 74.5%
+        - ETC: 12.75d
         - TEMP TIMESTAMP: 0
     - Cybersecurity
       - IDW
@@ -1626,8 +1736,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 3%
-        - ETC: 6.46 months
+        - CCS: 3.24%
+        - ETC: 13.44 months
         - TEMP TIMESTAMP: 0
         - Meso-memory field
           - Store struct pointer data in heap in C/C++
@@ -1722,6 +1832,9 @@
     - Style: In tandem with 
     - Current typing rate: 17 WPM
     - Minimum considerable rate: 40 WPM
+    - TOPIC | Preparatory --> ACTIVE 2min/day
+      - Мультфильмы Серия - Kids Cartoons
+        - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)
@@ -1730,6 +1843,8 @@
         - [wiktionary](https://en.wiktionary.org/wiki)
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
+    - ?
+      - https://dabkrs.com/p47
 - Hindi - N/A
   - _meta
     - tool

@@ -157,6 +157,8 @@
 - 隔行如隔山: Difference in profession makes one feel worlds apart
 
 # H
+- Hindenberg Omen
+  - [Hindenburg Omen](https://www.investopedia.com/terms/h/hindenburgomen.asp#:~:text=According%20to%20the%20Hindenburg%20Omen,lead%20to%20a%20bear%20market.)
 - Hotelling model
   - [Hotelling's Theory](https://www.investopedia.com/terms/h/hotellings-theory.asp)
   - [Hotelling Model](https://www.eco.uc3m.es/~mmachado/Teaching/OI-I-MEI/slides/4.2.Hotelling%20Model.pdf)
@@ -181,6 +183,8 @@
     - DSS
     - EIS
 - IFRS
+- Investment Time Horizon
+  - [investopedia](https://www.investopedia.com/terms/t/timehorizon.asp)
 # J
 - JBR
   - [Joint Business Partnership: Everything You Need to Know](https://www.upcounsel.com/joint-business-partnership#:~:text=Joint%20Venture%20Agreement%3F-,A%20joint%20business%20partnership%20is%20a%20business%20venture%20taken%20on,of%20value%20of%20some%20sort.)
@@ -304,6 +308,7 @@
 - 二级市场
 
 # F
+- [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 - Financial endowment - 基金
 - BUSINESS
   - 分销模式

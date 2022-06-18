@@ -1394,11 +1394,11 @@
           - CCS: 48.5%
           - E.T.C: 3.33 months
         - [ACCA F7INT - 2. IAS 1 Presentation of Financial Statements](https://www.youtube.com/watch?v=rvQrJ5KKVzo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=86)
-          - Videomark: 10:00/20:49
+          - Videomark: 20:49/20:49
           - CCS: 49.7%
           - E.T.C: /
         - [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
-          - Videomark: 0/32:02
+          - Videomark: 10:39/32:02
           - CCS: 49.7%          
           - Conceptual Famework | FOLLOWING
             - Qualitative characteristics of financial Information
@@ -1665,11 +1665,11 @@
         - [Datalore](https://datalore.jetbrains.com/notebook/)
     - **Web 5.0+**
       - **DAO** --> **ACTIVE** 10min/day
-        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
+        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 15min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 24.2%
-          - ETC: /
+          - CCS: 26.2%
+          - ETC: 37d
           - STATE: *Jump over BLOCKER for non-linear progress*
           - Environment | BLOCKER
             - [x] Local
@@ -1711,11 +1711,12 @@
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
           - [Superdatascience](https://www.superdatascience.com/blockchain/)
     - Cloud Computing
-      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 10min/day
+      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 15min/day
         - RULE
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
+          - *Shallow follow-along after 80% due to VTL language skill required*
         - Issue
           - Next.js + Cloud9 + Appsync
             - `Unhandled Runtime Error TypeError: require.e is not a function`
@@ -1724,9 +1725,13 @@
               - sxxt still work, archive it
         - Prerequisite
           - *Skipped for MyPost for requiring VTL as prerequisite*
-        - CCS: 74.5%
-        - ETC: 12.75d
+        - CCS: 78.4%
+        - ETC: 7.3d
         - TEMP TIMESTAMP: 0
+      - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)
+        - *Contains VTL*
+      - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
+        - Learn AWS The Hard Way
     - Cybersecurity
       - IDW
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
@@ -1736,8 +1741,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 3.24%
-        - ETC: 13.44 months
+        - CCS: 3.5%
+        - ETC: 12.8 months
         - TEMP TIMESTAMP: 0
         - Meso-memory field
           - Store struct pointer data in heap in C/C++
@@ -1789,6 +1794,8 @@
   - TOPIC: Copywriting
 - Arabic - Lower A2
   - Initialization of language/meta structrure: 70.6%
+  - TOPIC: WTF is this?
+    - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
@@ -1830,11 +1837,22 @@
 - Russian - Lower B1
   - Typing speed training
     - Style: In tandem with 
-    - Current typing rate: 17 WPM
+    - Current typing rate: 25 WPM
     - Minimum considerable rate: 40 WPM
     - TOPIC | Preparatory --> ACTIVE 2min/day
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
+          - Videomark: 2:00/31:44
+          - VOCAB\_FIELD \{5\}
+            - _meta
+              - tooling: Reverso + wiktionary + Russiangram
+              - mode: FIFO
+              - capacity: 5
+            - путеводители
+            - ненастоящего
+            - стародавние
+            - предупреждать
+            - средневековом
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)

@@ -4,6 +4,8 @@
 - https://medium.com/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b
 - Examtopics
   - https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/
+    - AWS Cloudtrail
+      - p1q1
 - Whizlab Free Hands-on labs
   - Das einfachste Eishorn ist geeignet
 # Learn from past experience

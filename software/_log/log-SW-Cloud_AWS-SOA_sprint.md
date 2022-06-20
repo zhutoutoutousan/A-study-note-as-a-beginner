@@ -6,6 +6,13 @@
   - https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/
     - AWS Cloudtrail
       - p1q1
+- [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
+  - Sweepmark: Q2
+  - SQS
+    - **Q1**
+      - P2
+  - ELB
+    - Q2
 - Whizlab Free Hands-on labs
   - Das einfachste Eishorn ist geeignet
 # Learn from past experience

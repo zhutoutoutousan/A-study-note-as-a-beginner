@@ -1398,9 +1398,21 @@
           - CCS: 49.7%
           - E.T.C: /
         - [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
-          - Videomark: 10:39/32:02
+          - Videomark: 20:42/32:02
           - CCS: 49.7%          
+        - [ACCA F7INT - 4. Construction Contracts](https://www.youtube.com/watch?v=K2V_ZQtQu3o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=88)
+          - Videomark: 0/21:06
+          - CCS: 50.3%
           - Conceptual Famework | FOLLOWING
+            - _meta
+              - prerequisite
+                - factoring company
+                  - recourse
+                - invoice factoring
+            - VOCAB FIELD
+              - Cost of Capital
+                - [Cost of Capital](https://www.investopedia.com/terms/c/costofcapital.asp#:~:text=Cost%20of%20capital%20represents%20the,preferred%20or%20existing%20capital%20structure.)
+                - [Weighted Average Cost of Capital (WACC)](https://www.investopedia.com/terms/w/wacc.asp)
             - Qualitative characteristics of financial Information
               - Understandability, Relevance, Reliability, Comparability
             - Standards
@@ -1423,6 +1435,17 @@
                   - Offsetting - offset as little as possible
                     - Little *net off*
                 - True and fair override
+              - IAS 18: Revenue
+                - _?
+                  - amortized cost
+                - _technique
+                  - unwinded discount
+                    - _alias
+                      - IAS 17: Rate implicit in the lease?
+                - Recognition of revenue: Goods
+                - Recognition of revenue: services
+                - Valuation of revenue
+                - Bundled sales
             - Material Anatomies
               - Statement of Financial Position
                 - _struct
@@ -1630,21 +1653,23 @@
     - _meta
       - source
         - media.ccc.de
+        - The Royal Institution
     - English --> Deutsch
       - NEW VOCAB
         - ICBM
-      - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
-        - _meta
-          - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> ACTIVE 1min/day
+        - Style：Casual, English voiceover, French-German dual-subtitle
+        - Videomark: 5:37/1:00:17
+        - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
+          - _meta
+            - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+    - Deutsch --> Français
+      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> ACTIVE 1min/day
+        - Videomark: 1:01/1:01:49
     - Deutsch --> English
-      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk)
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
       - Videomark: 11:36/47:07
-    - SOURCE： The Royal Institution
-    - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
-      - Style：Casual, English voiceover, French-German dual-subtitle
-      - Videomark: 4:37/1:00:17
     - Daily, Mundane contents --> **ACTIVE** 5min/day
   - Coding
     - _meta_escalate
@@ -1668,8 +1693,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 15min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 26.2%
-          - ETC: 37d
+          - CCS: 32%
+          - ETC: 17d
           - STATE: *Jump over BLOCKER for non-linear progress*
           - Environment | BLOCKER
             - [x] Local
@@ -1716,7 +1741,7 @@
           - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - *Next.js has troubles settling in windows env, do it on Cloud9*
           - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-          - *Shallow follow-along after 80% due to VTL language skill required*
+          - *Shallow follow-along after 80% due to VTL language skill required with 2x speed*
         - Issue
           - Next.js + Cloud9 + Appsync
             - `Unhandled Runtime Error TypeError: require.e is not a function`
@@ -1725,8 +1750,8 @@
               - sxxt still work, archive it
         - Prerequisite
           - *Skipped for MyPost for requiring VTL as prerequisite*
-        - CCS: 78.4%
-        - ETC: 7.3d
+        - CCS: 87%
+        - ETC: 2d
         - TEMP TIMESTAMP: 0
       - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)
         - *Contains VTL*
@@ -1741,8 +1766,8 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 3.5%
-        - ETC: 12.8 months
+        - CCS: 4%
+        - ETC: 10.6 months
         - TEMP TIMESTAMP: 0
         - Meso-memory field
           - Store struct pointer data in heap in C/C++
@@ -1840,19 +1865,24 @@
     - Current typing rate: 25 WPM
     - Minimum considerable rate: 40 WPM
     - TOPIC | Preparatory --> ACTIVE 2min/day
+      - Уральская рябинушка
+      - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 2:00/31:44
+          - Videomark: 6:00/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
               - mode: FIFO
               - capacity: 5
-            - путеводители
-            - ненастоящего
-            - стародавние
-            - предупреждать
-            - средневековом
+            - путеводители - 20%
+              - [число, падеж](https://www.online-translator.com/conjugation%20and%20declination/russian/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
+            - ненастоящего - 10%
+            - стародавние - 5%
+            - предупреждать - 2%
+            - средневековый - 10%
+        - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
+          - Иван Васильевич меняет профессию
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)
@@ -1970,9 +2000,10 @@
 - AWS SysOps Exam Prep
   - Count down: 2022/6/27
 - Roll-out
-
 - 什么叫*zh田园*?
   - 仨核桃俩枣都得有j臣之分
+  - 君臣之气开始批量涌入下沉市场
+## 
 
 # STICKY | 软件特种团队管理
 - 特种团队相当于软件开发团队中的特种部队

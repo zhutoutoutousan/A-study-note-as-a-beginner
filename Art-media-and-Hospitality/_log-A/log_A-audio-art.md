@@ -2,6 +2,7 @@
 - [Table of Content](#table-of-content)
 - [Sound Engineering & Production - Onboarding](#sound-engineering--production---onboarding)
 - [Why bother](#why-bother)
+- [Russian Songs](#russian-songs)
 - [Italian Artistic Songs](#italian-artistic-songs)
 - [Italian Opera](#italian-opera)
 - [German Artistic Song](#german-artistic-song)
@@ -26,12 +27,28 @@
 - Sound Source
   - splice.com
 
-
+You know, actually when I learn Russian song for the first time, I just don't know how to pronounce the letter 'o', whether
 # Why bother
 - This goes unanimous, it can bring you peace, and the last bit of sense of home
 - Only store those songs that you truly love resonnate with and track your training progress, especially classics you want to practice, you don't want to play those songs that doesn't resonnate with yourself
 - Life is too short to be spent on some music that you don't like
 
+# Russian Songs
+- _meta
+  - source
+    - [Verymuchrussian](https://verymuchrussian.com/russian-songs/)
+- Катюша
+  - [lyrics](https://www.marxists.org/history/ussr/sounds/lyrics/katyusha.htm)
+  - [video](https://www.youtube.com/watch?v=3tXY5K56rY0)
+- Подмосковные Вечера
+- Уральская рябинушка
+  - Subtitled video
+    - [video](https://drive.google.com/file/d/1Ib942rcEZc0A4lOm_Qko24yyfindDQKZ/view?usp=sharing)
+    - [subtitle](https://drive.google.com/file/d/1r2NptOMu-ranzrmqP5YTYpCG6eZ-FScW/view?usp=sharing)
+  - [lyrics](https://lyricstranslate.com/en/%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D1%8F%D0%B1%D0%B8%D0%BD%D1%83%D1%88%D0%BA%D0%B0-urals-rowan.html)
+- [Rauf & Faik - колыбельная (Lyric Video)](https://www.youtube.com/watch?v=tlEAEJKIatc)
+- Коробейники
+  - [Dmitri Hvorostovsky - Korobyeiniki](https://www.youtube.com/watch?v=KV6WxjLBU90)
 # Italian Artistic Songs
 - G. Donizetti
   - [Una furtiva lagrima](https://www.youtube.com/watch?v=h2PXYtmUjQA)

@@ -26,6 +26,11 @@
 
 # AWS踩坑树
 - AWS Amplify
+  - Next.js + Cloud9 + Appsync
+    - `Unhandled Runtime Error TypeError: require.e is not a function`
+      - sxxt still work, archive it
+    - `ReferenceError: navigator is not defined`
+      - sxxt still work, archive it
   - AWS Cloud9
     - `node:internal/buffer:959 \ super(bufferOrLength, byteOffset, length);^ \ RangeError: Array buffer allocation failed`
       - [Does anyone know why I'am getting error during amplify init ? I checked the memory is not full?](https://stackoverflow.com/questions/71984811/does-anyone-know-why-iam-getting-error-during-amplify-init-i-checked-the-memo)

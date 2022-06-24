@@ -138,6 +138,7 @@
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09
     - Software Design
+      - [Diagramm as Code](https://github.com/mingrammer/diagrams)
       - PlantUML
         - [Using PlantUML in VSCode](https://www.youtube.com/watch?v=xkwJ9GwgZJU)
         - [PlantUml Masterclass Create Sequence Diagram Easily with VS Code | LetsDoCoding](https://www.youtube.com/watch?v=JqJpbNxIK90)

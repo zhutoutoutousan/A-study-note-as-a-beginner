@@ -1398,11 +1398,14 @@
           - CCS: 49.7%
           - E.T.C: /
         - [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
-          - Videomark: 20:42/32:02
+          - Videomark: 32:02/32:02
           - CCS: 49.7%          
         - [ACCA F7INT - 4. Construction Contracts](https://www.youtube.com/watch?v=K2V_ZQtQu3o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=88)
-          - Videomark: 0/21:06
+          - Videomark: 21:06/21:06
           - CCS: 50.3%
+        - [ACCA F7INT - 5. Predictive value](https://www.youtube.com/watch?v=LRJWQ_qc2fI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=89)
+          - Videomark: 20:00/33:38
+          - CCS: 50.8%
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1435,6 +1438,29 @@
                   - Offsetting - offset as little as possible
                     - Little *net off*
                 - True and fair override
+              - IAS 8: Predictive Value
+                - VOCAB FIELD
+                  - Restatement
+                    - Accounting Error
+                    - Accounting policy
+                  - Prospective application
+                    - **Accounting estimates**
+                      - *an adjustment of the carrying amount of an asset or a liability, or the amount of the periodic consumption of an asset, that results from the assessment of the present status of, and expected future benefits and obligations associated with, assets and liabilities*
+                    - Financial statements presentation: retrospective application
+                  - Discontinued activities
+                  - Disclosured required
+                    - A single amount on the face of the income statement
+                    - EARNINGS PER SHARE
+                      - PE Ratio
+              - IFRS 5: Non-current assets held for sale and discontinued operations
+                - Purpose
+                - Disposal groups
+              - IAS 11: Construction contracts
+                - VOCAB FIELD
+                  - Markup
+                - **Decision Flow**
+                - Estimating stage of Completion
+                - Approach(6 Steps)
               - IAS 18: Revenue
                 - _?
                   - amortized cost
@@ -1659,18 +1685,21 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> ACTIVE 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - Videomark: 5:37/1:00:17
+        - Videomark: 7:30/1:00:17
+        - Die Theorie der JJ Thompson auf Physik
+          - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
           - _meta
             - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+      - Nest.js
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> ACTIVE 1min/day
-        - Videomark: 1:01/1:01:49
+        - Videomark: 3:05/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
       - Videomark: 11:36/47:07
-    - Daily, Mundane contents --> **ACTIVE** 5min/day
+    - Daily, Mundane contents --> **ACTIVE** 1min/day
   - Coding
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
@@ -1690,11 +1719,11 @@
         - [Datalore](https://datalore.jetbrains.com/notebook/)
     - **Web 5.0+**
       - **DAO** --> **ACTIVE** 10min/day
-        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 15min/day
+        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 32%
-          - ETC: 17d
+          - CCS: 38.8%
+          - ETC: /
           - STATE: *Jump over BLOCKER for non-linear progress*
           - Environment | BLOCKER
             - [x] Local
@@ -1719,6 +1748,7 @@
           - Tools
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
           - Books & Articles
+            - [blockchain.com](https://www.blockchain.com/)
             - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
             - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
               - Bookmark Field
@@ -1736,27 +1766,10 @@
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
           - [Superdatascience](https://www.superdatascience.com/blockchain/)
     - Cloud Computing
-      - AWS AppSync & Amplify with React & GraphQL - Complete Guide --> **ACTIVE** 15min/day
-        - RULE
-          - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - *Next.js has troubles settling in windows env, do it on Cloud9*
-          - *Hey, bxxxh. You're draining my wallet by ramping it up to t2.medium, finish this damn course and terminate it!*
-          - *Shallow follow-along after 80% due to VTL language skill required with 2x speed*
-        - Issue
-          - Next.js + Cloud9 + Appsync
-            - `Unhandled Runtime Error TypeError: require.e is not a function`
-              - sxxt still work, archive it
-            - `ReferenceError: navigator is not defined`
-              - sxxt still work, archive it
-        - Prerequisite
-          - *Skipped for MyPost for requiring VTL as prerequisite*
-        - CCS: 87%
-        - ETC: 2d
-        - TEMP TIMESTAMP: 0
-      - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)
+      - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **HALT for at least 2 weeks**
         - *Contains VTL*
       - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
-        - Learn AWS The Hard Way
+      - Learn AWS The Hard Way
     - Cybersecurity
       - IDW
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
@@ -1765,8 +1778,8 @@
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
-      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **ACTIVE** 5min/day
-        - CCS: 4%
+      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT**
+        - CCS: 4.2%
         - ETC: 10.6 months
         - TEMP TIMESTAMP: 0
         - Meso-memory field
@@ -1817,6 +1830,7 @@
     - ENTERING HIBERNATE MODE
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
+- Finnish - N/A
 - Arabic - Lower A2
   - Initialization of language/meta structrure: 70.6%
   - TOPIC: WTF is this?
@@ -1869,18 +1883,21 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 6:00/31:44
+          - Videomark: 16:00/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
               - mode: FIFO
               - capacity: 5
-            - путеводители - 20%
+            - путеводитель - 80%
               - [число, падеж](https://www.online-translator.com/conjugation%20and%20declination/russian/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
-            - ненастоящего - 10%
-            - стародавние - 5%
-            - предупреждать - 2%
-            - средневековый - 10%
+            - ненастоящий - 60%
+              - Adjective declension
+            - есть - 10%
+            - предупреждать - 75%
+              - Verb conjugation
+            - средневековый - 75%
+              - Adjective declension
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
     - Tool

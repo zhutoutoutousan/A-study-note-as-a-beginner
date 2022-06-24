@@ -49,6 +49,9 @@ You know, actually when I learn Russian song for the first time, I just don't kn
 - [Rauf & Faik - колыбельная (Lyric Video)](https://www.youtube.com/watch?v=tlEAEJKIatc)
 - Коробейники
   - [Dmitri Hvorostovsky - Korobyeiniki](https://www.youtube.com/watch?v=KV6WxjLBU90)
+  - [Singanushiga The Sun Also Rises OST 太阳照常升起](https://www.youtube.com/watch?v=SyCrB_WCCj8)
+    - Russian Version
+      - [Russian version](https://www.youtube.com/watch?v=qFsZbpc3xvg)
 # Italian Artistic Songs
 - G. Donizetti
   - [Una furtiva lagrima](https://www.youtube.com/watch?v=h2PXYtmUjQA)

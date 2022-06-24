@@ -2,17 +2,70 @@
 - [Tips for taking an AWS Certification exam with exam labs](https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/)
 - https://javarevisited.blogspot.com/2020/06/top-5-aws-certified-sysops-admin-associate-certification-exam.html#axzz7VzWjNzpu
 - https://medium.com/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b
-- Examtopics
-  - https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/
-    - AWS Cloudtrail
-      - p1q1
+- [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/)
+  - Sweepmark: Q3
+  - Sweepmark: Q3
+  - AWS Cloudtrail
+    - Q1
+  - Networking
+    - Q2
+  - ELB
+    - Q3
+- Practice Exams: AWS Certified SysOps Administrator Associate --> NOT EFFICIENT
+  - T1
+    - Aurora
+      - **Q1**
+    - Security
+      - **Q2**
+    - CW
+      - Q3
 - [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
-  - Sweepmark: Q2
+  - Sweepmark: Q65
   - SQS
     - **Q1**
-      - P2
+    - Q49
+  - Billing
+    - Q55
+    - Q55
+    - Q70
+  - IAM 
+     - Q25
+  - EC2
+    - Q9
   - ELB
     - Q2
+    - Q14
+    - Q23
+  -  Scalability 
+     - Q3
+  - ASG
+     - Q4
+     - Q40
+  - Availability
+     - Q5
+  - VPC
+     - Q6
+     - Q18
+     - Q33
+  - Security and compliance
+     - Q7
+  - Automation
+     - Q8
+  - CW
+     - Q10
+     - Q28
+     - Q35
+     - Q60
+  - Storage
+     - Q45
+     - Q59
+  - DB
+     - Q13
+     - Q65
+     - Q66
+  - BP
+    - EMR
+      - Q11
 - Whizlab Free Hands-on labs
   - Das einfachste Eishorn ist geeignet
 # Learn from past experience
@@ -21,9 +74,8 @@
   - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
     - Videomark: 15:00
     - Prunning: 0:00-15:00
-  - [Udemy Guide](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/learn/lecture/17994047#overview)
-    - Memoization field
-    - Coursemark: 14:08
+    - Pillars of Obserbility
+      - Videomark: 18:43/18:43~?
 - Know what you are facing
   - Questions
     - 22% Monitoring and Reporting 14-15 Qs
@@ -59,21 +111,6 @@
       - #testtaking
         - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
         - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead
-    - CCS: 100%
-      - **WARNING: Concurrent running of German, English, AWS SysOps context with 2x speed for 1.5 hr daily is exceeding your innate brain processing power, microscopic raw intelligence increment detected, increment pattern & logic encapsulated, future gamification and product design rigged and archived, constant internal system radical re-structuring opportunity trigger point hit, learning effectiveness of AWS SysOps jeopardized, time overrun mitigated but still outstanding**
-        - *2x speed with german subtitle is triggering brain activation which resembles simultaneous interpretation*
-        - ACTION: *keep doin' it, power it through*
-          - Gamification policy
-            - Every 1%, couple with *Hindi alphabet practice*
-    - ETC: 10.7 months --> 10d
-      - Maximum acceptable time: 20 days :]
-        - Implication: 1.5 hours avg per day - *Time to face reality pal!*
-    - TIME OVERRUN AVOIDANCE POLICY(Richtlinien)
-      - 2x speed on vids what is over 0 minute :]
-        - *You must take a leap of faith to risk major time overrun pal!*
-      - OVERWRITE ON CONDITION
-        - Major knowledge point understanding threshold establishment on-contact required
-          - DESTROY ON `click/aha/eureka` state reached
     - Static, frequently-used knowledge
       - _meta
         - STYLE: `test-driven`, flashcard-based
@@ -126,28 +163,6 @@
     - Style: Shallow Hands-on
       - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
       - DO: Picture yourself doing the operation key-stroke-wise is more than enough
-  - *针对云计算的分布式精细化超长期全闭环任督二脉计划* 
-    - For all of your dots, planes, spaces to be connected, you need ONE BIG-AXX PROJECT based on AWS, hopefully to some massive scale, to make them all available for rigourous business context
-      - ERROR: Current overall leverage/wherewithal not enough to lever resources to initiate the plan
-      - ERROR: *I have enough liver complaint already, don't you ever start with this after you have rested*
-      - ERROR: *主动给自己挖坑/找死的高目的性行为需经过大脑战略层的决断之后才能初始化*
-        - 需要M性格 && G && B && T性格的参与讨论
-        - 人类集体无意识/思维载体 a.k.a 大脑之限制性导致的原始legacy性格需要保证届时完全剔除, 并设定expire date保证生理层平衡
-      - ERROR: *适合发展中期的Rip Van Winkle型的/Kafka型的商业实体进行转型*
-      - WARNING: Lacking Project Management Skills and experience
-      - WARNING：Lacking Business knowledge and Experience
-      - WARNING: Technical skills maturity not reached
-        - Cloud native knowledge imperative
-      - VERDICT: Deferred
-  - RANDOM THINKING: 未来的教育系统将会为业界提供人才的digital-twin, 而不是苍白的数字, 所以克隆人也不要了, 我们只需要克隆digital-twin就行了
-    - 未来纯digital-dependant的企业将会fire all staffs, it will be run purely by digital-twins we made out of educational systems
-    - 未来meso-cycle的人类的role be-like将会是: 低创造力工作外包给及其, 中创造力工作外包给digital-twin, 高创造力工作由人类负责, bymaverse致力于BCI及人类总体智力的transformation
-    - WARNING: Brain singularity triggered again, be advised, it is not good for your health
-  - RANDOM THINKING
-    - `knowledge as code`: *F U Books* --> RELATED: bymaverse
-      - 2022/5/24: Knowledge as Code will automatically gerate mind game for you with set schedule of absorption saturation planning
-    - `wisdom as code`
-
 
 
 ---
@@ -665,11 +680,6 @@
    - ASM
      - Q1
 
-
-
-## Context
-- [DevOps Engineering Course for Beginners](https://www.youtube.com/watch?v=j5Zsa_eOXeY)
-  - Progress: 12-19/2-18-18
 
 ## Cramming
 https://www.brainscape.com/subjects/aws-certified-developer-associate

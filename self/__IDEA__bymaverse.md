@@ -42,3 +42,23 @@
 
 # 2022/5/13
 - If we can reduce the cost of context switch through a series of growing, PUGC/USC supported 
+
+
+      - #bymaverse
+        - Architecture-Console-CLI connection --> `MOVE TO bymaverse ON COMPLETION`
+          - Similar to Mind-muscle connection
+          - Specific intellectual activity involved
+            - _meta
+              - **THIS IS VERY IMPORTANT FOR BYMAVERSE MAPPING!!!**
+              - pre-requisite
+                - valid knowledge structure that is proven to be existentially valid
+              - instance
+                - Coding
+                - Intellectual debate
+                - Mathematical deduction
+                - Networking rigor, political rigor, business rigor
+            - **Integration with BCI-based intellectual enhancement/augmentation**
+              - **Integration with wearables**
+            - **Network capacity, manipulation**
+            - **Network-procedural connection**
+            - **Procedural capacity**

@@ -1,10 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [_INBOUND_CACHE](#_inbound_cache)
+- [Security Outsource solutions](#security-outsource-solutions)
 - [New Tech](#new-tech)
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
+- [壮丁采集器](#壮丁采集器)
 - [Renovation plan](#renovation-plan)
 - [Startup软件开发军火库 - 优选](#startup软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
@@ -78,6 +80,10 @@
     - `viu`
 - THE UNIX PHILOSOPHY doug mcllroy bell system technical journal 1978
 
+# Security Outsource solutions
+- PDF 2C Security Solution
+  - [鹏保宝](https://www.pyc.com.cn/)
+
 # New Tech
 - dbforge
 
@@ -95,6 +101,8 @@
 - Realworld
   - [Realworld example apps](https://github.com/gothinkster/realworld)
 
+# 壮丁采集器
+- Hackerrank
 
 # Renovation plan
 

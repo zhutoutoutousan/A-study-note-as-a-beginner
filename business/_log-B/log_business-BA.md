@@ -2,6 +2,9 @@
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
 - [Basic Innate Skills](#basic-innate-skills)
+  - [Business Simulation Games](#business-simulation-games)
+    - [_source](#_source)
+    - [Instances](#instances)
   - [Sense of traffic](#sense-of-traffic)
   - [Sense of money](#sense-of-money)
     - [Scale of Money](#scale-of-money)
@@ -68,9 +71,14 @@
     - [Input dump](#input-dump)
 
 # Outbound space
-#NewTech-BusinessAnalyst
+#NewTech-BusinessAnalyst 
 
 # Basic Innate Skills
+## Business Simulation Games
+### _source
+- [Business simulation game](https://en.wikipedia.org/wiki/Business_simulation_game)
+### Instances
+- [OpenTTD](https://en.wikipedia.org/wiki/OpenTTD)
 ## Sense of traffic
 - _alias
   - *网感*

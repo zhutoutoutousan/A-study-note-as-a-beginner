@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [_INBOUND_CACHE](#_inbound_cache)
 - [A](#a)
 - [B](#b)
 - [C](#c)
@@ -26,6 +27,20 @@
 - [X](#x)
 - [Y](#y)
 - [<](#)
+
+# _INBOUND_CACHE
+- _OUTBOUND --> `*-T_software`
+  - NFS
+  - Port
+    - Defined port
+    - Ephemeral ports
+  - NTP
+  - IGW
+  - ASN: Autonomous System Number
+  - POSIX
+    - [POSIX - Wiki](https://en.wikipedia.org/wiki/POSIX)
+  - IANA
+
 
 # A
 - Apache VTL

@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Temp Documentation Memoization Space](#temp-documentation-memoization-space)
 - [Utility](#utility)
+- [AWS Hands-on tree](#aws-hands-on-tree)
 - [AWS踩坑树](#aws踩坑树)
 - [Erudition](#erudition)
 - [_resource track](#_resource-track)
@@ -24,6 +25,9 @@
 # Utility
 - [TEST-CORS](https://www.test-cors.org/)
 
+
+# AWS Hands-on tree
+- WAITING ON SOA
 # AWS踩坑树
 - AWS Amplify
   - Next.js + Cloud9 + Appsync

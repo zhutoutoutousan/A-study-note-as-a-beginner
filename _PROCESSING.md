@@ -122,3 +122,7 @@ INTENSITY:
   - Flashcard as Information Flow
     - Context neural-level stimulation threshold reduction
     - Harder to have sustainable, viable, credible information source
+
+- #testtaking
+  - For exams from the nebenselementen of which you can extract previous experience, you can simply apply test-driven first
+  - For exams that doens't meet this criteria, rigorously input-output resource gathering should be run instead

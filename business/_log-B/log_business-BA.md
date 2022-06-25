@@ -1,9 +1,12 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Outbound space](#outbound-space)
-- [Scale of Money](#scale-of-money)
-  - [Basic methodologies](#basic-methodologies)
-  - [Instance relevant tree](#instance-relevant-tree)
+- [Basic Innate Skills](#basic-innate-skills)
+  - [Sense of traffic](#sense-of-traffic)
+  - [Sense of money](#sense-of-money)
+    - [Scale of Money](#scale-of-money)
+    - [Basic methodologies](#basic-methodologies)
+    - [Instance relevant tree](#instance-relevant-tree)
 - [商业汇报踩坑树](#商业汇报踩坑树)
 - [Close-loop training](#close-loop-training)
 - [Lifecycle](#lifecycle)
@@ -67,9 +70,15 @@
 # Outbound space
 #NewTech-BusinessAnalyst
 
-# Scale of Money
-## Basic methodologies
-## Instance relevant tree
+# Basic Innate Skills
+## Sense of traffic
+- _alias
+  - *网感*
+- Get rid of the traffic 
+## Sense of money
+### Scale of Money
+### Basic methodologies
+### Instance relevant tree
 - $40B
 
 # 商业汇报踩坑树
@@ -143,7 +152,6 @@
 - First answer me a question, what's the meaning of its existance?
 - 行业利润率对比
   - [人均$400刀一顿米其林，吃货钱都花在哪儿了？| 聊聊餐饮行业  - 3-39](https://www.youtube.com/watch?v=JFETIGpijx4)
-
 - Search entry
   - Dowjones
   - Standard & Poor's ratings services

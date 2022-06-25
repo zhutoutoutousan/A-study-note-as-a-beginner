@@ -1404,8 +1404,11 @@
           - Videomark: 21:06/21:06
           - CCS: 50.3%
         - [ACCA F7INT - 5. Predictive value](https://www.youtube.com/watch?v=LRJWQ_qc2fI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=89)
-          - Videomark: 20:00/33:38
+          - Videomark: 33:38/33:38
           - CCS: 50.8%
+        - [ACCA F7INT - 6. Non current assets, impairment of assets](https://www.youtube.com/watch?v=zeZSgIzHOzk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=90)
+          - Videomark: 0:00/41:03
+          - CCS: 51.4%          
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1452,6 +1455,15 @@
                     - A single amount on the face of the income statement
                     - EARNINGS PER SHARE
                       - PE Ratio
+                  - Changes to ordinary shares in issue
+                    - There will normally be a link between the number of shares in issue, the resource(net asseta) available to management and the profits that can be expected to be made from those assets
+                    - Profits are made throughtout a year, where the number of shares in the SOFP is a snapshot moment in time
+                  - Weighted average number of shares
+                  - Rights issues
+                    - TERP
+                  - **DILUTED EARNINGS PER SHARE**
+                    - IAS 33
+                      - [If converted Method](https://www.youtube.com/watch?v=r7hMQubWks0)
               - IFRS 5: Non-current assets held for sale and discontinued operations
                 - Purpose
                 - Disposal groups
@@ -1685,16 +1697,18 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> ACTIVE 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - Videomark: 7:30/1:00:17
+        - Videomark: 8:32/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
           - _meta
             - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+      - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
+      - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
       - Nest.js
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> ACTIVE 1min/day
-        - Videomark: 3:05/1:01:49
+        - Videomark: 4:43/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
@@ -1722,9 +1736,9 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 38.8%
+          - CCS: 39.8%
           - ETC: /
-          - STATE: *Jump over BLOCKER for non-linear progress*
+          - TEMP TIMESTAMP: 5:00
           - Environment | BLOCKER
             - [x] Local
               - [x] Anaconda+Python
@@ -1883,27 +1897,33 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 16:00/31:44
+          - Videomark: 18:01/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
               - mode: FIFO
               - capacity: 5
-            - путеводитель - 80%
+            - путеводитель - 100% -- Снимать на следующем повороте
               - [число, падеж](https://www.online-translator.com/conjugation%20and%20declination/russian/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
             - ненастоящий - 60%
               - Adjective declension
-            - есть - 10%
+            - быть - 10%
             - предупреждать - 75%
               - Verb conjugation
             - средневековый - 75%
               - Adjective declension
+            - INBOUND CACHE
+              - adj.
+                - образо́ванным
+                - разумным
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
     - Tool
       - Stress finder
         - [russiangram](https://russiangram.com/)
           - Plus the chrome extension
+      - Omni Tool
+        - [russiantools.com](https://www.russiantools.com/)
       - Noun declension checker
         - [wiktionary](https://en.wiktionary.org/wiki)
     - In tandem viewing keyboard layout
@@ -2024,3 +2044,16 @@
 
 # STICKY | 软件特种团队管理
 - 特种团队相当于软件开发团队中的特种部队
+
+
+# 2022/6/25
+- 当你只会一种语言时
+  - 为guo争光! NNS是福报!
+- 当你会两种语言时
+  - 精致生活, 有序竞争
+  - 优雅闲适, 改变世界
+  - 高效, 成熟, 责任
+- 当你会五种语言时
+  - 全球视野, 全球观察, 全球认可
+- 当你会十五种语言时
+  - 我就想在家碎觉觉耶( •̀ ω •́ )y

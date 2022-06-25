@@ -20,13 +20,16 @@
     - CW
       - Q3
 - [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
-  - Sweepmark: Q65
+  - Sweepmark: Q120
   - SQS
     - **Q1**
     - Q49
+    - Q107
   - Billing
     - Q55
     - Q55
+    - Q70
+    - Q86
     - Q70
   - IAM 
      - Q25
@@ -47,6 +50,8 @@
      - Q6
      - Q18
      - Q33
+     - Q118
+     - Q120
   - Security and compliance
      - Q7
   - Automation

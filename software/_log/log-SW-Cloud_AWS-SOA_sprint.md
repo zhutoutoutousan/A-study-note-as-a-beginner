@@ -5,14 +5,19 @@
 
 # A structured mind
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
-  - Videomark: 1:30:21
+  - Videomark: /
   - Prunning: 0:00-15:00
-  - Pillars of Obserbility
-    - Videomark: 18:43/18:43~?
+  - CloudWatch
+    - Videomark: 23:31/18:43~?
+  - VPC
+    - Videomark: 3:53:56/3:48:30-
+    - VPC Endpoints
+    - VPN Gateway
+    - Customer Gateway
   - OpsWorks
-    - VideoSweepMark: 1:30:21/1:28:03~2:21:06
-    - OpsWorks Stacks
-      - Videostamp：1:29:52-
+    - VideoSweepMark: 1:37:55/1:28:03~2:21:06
+  - RDS
+    - Videomark: 9:39:23/9:27:41~10:06:40
 - Know what you are facing
   - Questions
     - 22% Monitoring and Reporting 14-15 Qs
@@ -37,13 +42,91 @@
 - Practice Exams: AWS Certified SysOps Administrator Associate --> NOT EFFICIENT
   - T1
     - Aurora
-      - **Q1**
+      - **Q1** | 80%
     - Security
-      - **Q2**
+      - **Q2** | 90%
+      - Q11
+      - Q38
+      - Q56 AWS Directory service
+      - Q64
+    - AWS Config
+      - Q41
+    - EB
+      - Q42
+      - Q62
+    - ELB
+      - Q28
+      - Q35
+    - EC2
+      - Q20
+      - Q21
+      - Q27
+      - Q40
+      - Q43
+      - Q52
+      - Q53 - AMI sharing
+      - Q57
     - CW
       - Q3
+      - Q7
+      - Q13
+      - Q15
+      - Q29
+      - Q36
+      - Q37
+      - Q39
+      - Q46
+      - Q49
+      - Q59
+    - Disaster Recovery
+      - Q61
+    - VPC
+      - Q22
+      - Q32
+      - Q33
+      - Q44
+      - Q54
+      - Q60
+    - AWS X-Ray
+      - Q45
+    - System Manager
+      - Q4
+    - EventBridge
+      - Q5
+      - **Q6**
+    - IAM
+      - Q8
+      - Q24
+    - Availability
+      - Q17
+    - Billing
+      - Q9
+    - ASG
+      - Q47
+      - Q48
+      - Q58
+    - Disaster Recovery
+      - Q34
+    - Automation
+      - Q10
+      - Q14
+      - Q50 - Change set
+      - Q63
+    - Transformation
+      - Q18
+    - Storage
+      - Q16
+      - Q19
+      - Q30
+      - Q55
+    - CDN
+      - Q31
+    - DB
+      - Q26
+    - Higher level control
+      - Q12
 - [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
-  - Sweepmark: Q215
+  - Sweepmark: Q230
   - SQS
     - **Q1**
     - Q49
@@ -58,11 +141,13 @@
   - IAM 
      - Q25
      - **Q158**
+     - Q230
   - EC2
     - Q9
     - Q168
     - Q179
     - Q186
+    - Q226
   - ELB
     - Q2
     - Q14
@@ -87,6 +172,7 @@
      - Q160
      - **Q171**
      - Q183
+     - Q228
   - Security and compliance
      - Q7
      - Q149
@@ -117,6 +203,7 @@
      - Q207
      - Q217
      - Q220
+     - Q224
   - DB
      - Q13
      - Q65
@@ -126,11 +213,83 @@
   - BP
     - EMR
       - Q11
-- Whizlab Free Hands-on labs
-  - Das einfachste Eishorn ist geeignet
-
+- More 600Q on pbb
+  - Sweepmark: Q40/Q616
+  - Q1~Q100
+    - Security & Compliance
+      - Q1
+      - Q4
+      - Q28
+      - Q29
+      - Q35
+    - Automation
+      - Q2
+    - Availability
+      - Q13
+      - Q20
+      - Q24
+    - Disaster Recovery
+      - Q33
+    - Responsibility Model
+      - Q34
+    - CW
+      - Q21
+      - Q22
+      - Q27
+    - IAM
+      - Q3
+      - Q39 - LDAP
+    - CLI
+      - Q15
+    - EC2
+      - Q5
+    - Billing
+      - **Q6**
+      - Q30
+      - Q36
+    - System Manager
+      - Q7
+    - Service Catalog
+      - Q8
+    - AWS Artifact
+      - Q9
+    - AWS Config
+      - Q10
+    - Storage
+      - Q14
+      - Q23
+    - Scale
+      - Q25
+      - Q31
+    - Transformation
+      - **Q17**
+        - VTL?
+      - **Q18**
+        - CloudHSM
+      - Q40
+        - Direct Connect Gateway
+    - SQS
+      - Q26
+    - VPC
+      - Q12
+      - Q16
+      - Q19
+      - Q32
 # Hands-on Lab
-- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+- _alias
+  - PASS THE EXAM: PTE
+- EC2 Placement Groups - 1
+  - UDM
+- EC2 Instances Launch Types - 1
+  - UDM
+- SSM Parameter Store - 1
+  - UDM
+- Create an RDS Instance
+  - PTE | 9-34-26
+
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Shallow Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+- Ultimate AWS Certified SysOps Administrator Associate 2022
+
 ## Customized Sprint
 - RDS
 - VPC

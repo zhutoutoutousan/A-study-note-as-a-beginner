@@ -1407,7 +1407,7 @@
           - Videomark: 33:38/33:38
           - CCS: 50.8%
         - [ACCA F7INT - 6. Non current assets, impairment of assets](https://www.youtube.com/watch?v=zeZSgIzHOzk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=90)
-          - Videomark: 0:00/41:03
+          - Videomark: 10:00/41:03
           - CCS: 51.4%          
           - Conceptual Famework | FOLLOWING
             - _meta
@@ -1473,6 +1473,28 @@
                 - **Decision Flow**
                 - Estimating stage of Completion
                 - Approach(6 Steps)
+              - IAS 16: Property, Plant and Equipment
+                - IFRS 5
+                - Initial Recognition/classification
+                - Initial valuation
+                  - Include in initial valuation(Dr Non-current asset)
+                    - Transaction costs on purchase, eg legal fees
+                    - Borrowing costs incurred, if this is the policy under IAS 23
+                    - Inwards delivery costs
+                    - Import duties, irrecoverable purchase taxes
+                    - NPV of unavoidable future decomissioning costs under IAS 37
+                    - ...
+                  - Exclude from initial valuation(Dr Expenses)
+                    - Training costs
+                    - Initial inefficiencies and losses during "run in"
+                    - Administration or general overhead costs
+                    - Costs giving benefit for one year or less only
+                    - Any costs due to abnormal losses in purchases, delivery or production as they will not enhance earning capacity
+                    - ...
+                - Write-off period
+                - Impairments
+                - Revaluation
+                - Enhancements
               - IAS 18: Revenue
                 - _?
                   - amortized cost
@@ -1695,7 +1717,7 @@
     - English --> Deutsch
       - NEW VOCAB
         - ICBM
-      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> ACTIVE 1min/day
+      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> HALT 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
         - Videomark: 8:32/1:00:17
         - Die Theorie der JJ Thompson auf Physik
@@ -1707,13 +1729,13 @@
       - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
       - Nest.js
     - Deutsch --> Français
-      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> ACTIVE 1min/day
+      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> HALT 1min/day
         - Videomark: 4:43/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
       - Videomark: 11:36/47:07
-    - Daily, Mundane contents --> **ACTIVE** 1min/day
+    - Daily, Mundane contents --> **HALT** 1min/day
   - Coding
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
@@ -1736,9 +1758,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 39.8%
+          - CCS: 40.8%
           - ETC: /
-          - TEMP TIMESTAMP: 5:00
           - Environment | BLOCKER
             - [x] Local
               - [x] Anaconda+Python
@@ -1761,6 +1782,8 @@
                   - Videomark: 1:34
           - Tools
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
+            - Mining Pool
+              - SLUSH POOL
           - Books & Articles
             - [blockchain.com](https://www.blockchain.com/)
             - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
@@ -1838,7 +1861,7 @@
   - No change, next stage E.T.A 5 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
-- Portuguese - B1 --> ACTIVE, OPTIONAL 1min/day
+- Portuguese - B1 --> HALT, OPTIONAL 1min/day
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
   - Initialization of language/meta structrure: 100%
     - ENTERING HIBERNATE MODE
@@ -1897,7 +1920,7 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 18:01/31:44
+          - Videomark: 20:01/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -1905,16 +1928,14 @@
               - capacity: 5
             - путеводитель - 100% -- Снимать на следующем повороте
               - [число, падеж](https://www.online-translator.com/conjugation%20and%20declination/russian/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
-            - ненастоящий - 60%
-              - Adjective declension
-            - быть - 10%
-            - предупреждать - 75%
+            - образо́ванным
+            - быть - 20%
+            - предупреждать - 80%
               - Verb conjugation
             - средневековый - 75%
               - Adjective declension
             - INBOUND CACHE
               - adj.
-                - образо́ванным
                 - разумным
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию

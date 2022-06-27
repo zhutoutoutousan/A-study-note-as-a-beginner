@@ -1,3 +1,6 @@
+# _PROCESSING
+- BFS
+
 # Prioritization & Tips
 - [Tips for taking an AWS Certification exam with exam labs](https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/)
 - https://javarevisited.blogspot.com/2020/06/top-5-aws-certified-sysops-admin-associate-certification-exam.html#axzz7VzWjNzpu
@@ -8,16 +11,46 @@
   - Videomark: /
   - Prunning: 0:00-15:00
   - CloudWatch
-    - Videomark: 23:31/18:43~?
+    - Videomark: 1:14:16/18:43~1:14:16
+  - Cloudtrail
+    - Videomark: 1:17:29/1:14:16~
+  - OpsWorks
+    - VideoSweepMark: 1:37:55/1:28:03~2:21:06
+  - CloudNetworking
   - VPC
     - Videomark: 3:53:56/3:48:30-
     - VPC Endpoints
     - VPN Gateway
     - Customer Gateway
-  - OpsWorks
-    - VideoSweepMark: 1:37:55/1:28:03~2:21:06
+  - VPC Endpoints
+  - VPC Flow Logs
+  - Service Catalog
+    - Videomark: 4:59:35/4:50:55~4:59:35
+  - NAT
+  - NACL
+  - SG 
+  - Route 53
+  - EC2
+  - SSM
+    - Videomark: 5:49:38/5:40:33~
+  - Parameter Store
+  - Secrets Manager
+  - AMI
+  - ELB
+  - EBS
+  - [x] Storage Gateway
+  - ElastiCache
+  - IAM
+  - S3
+  - Glacier
+  - Snowball
   - RDS
     - Videomark: 9:39:23/9:27:41~10:06:40
+  - DynamoDB
+  - [x] Cloudformation
+    - Videomark: 10:36:53/10:12:11~ 
+  - ECS
+  - EB
 - Know what you are facing
   - Questions
     - 22% Monitoring and Reporting 14-15 Qs
@@ -28,7 +61,41 @@
     - 14% Networking 9-10 Qs
     - 12% Automation and Optimization 7-8 Qs
   - Exam Labs
+  - Troubleshooting
 
+# Static Working Memory Store Field
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+  - 01:03:16 CloudWatch
+  - 01:26:41 CloudTrail
+  - 02:14:48 OpsWorks
+  - 03:51:57 CloudNetworking
+  - 04:03:47 VPC Endpoints
+  - 04:06:37 VPC FlowLogs
+  - 04:58:21 ServiceCatalog
+  - 05:02:30 NAT Gateways
+  - 05:06:32 NACL
+  - 05:12:42 Security Groups
+  - 05:27:32 Route53
+  - 05:38:40 EC2
+  - 06:14:52 SSM
+  - 06:38:47 AMI
+  - 06:50:39 ELB
+  - 07:16:51 ASG
+  - 07:30:11 EBS
+  - 07:38:18 StorageGateway
+  - 07:43:17 ElastiCache
+  - 08:00:50 IAM
+  - 08:46:44 S3
+  - 09:17:50 Glacier
+  - 09:26:00 Snowball
+  - 10:04:37 RDS
+  - 10:10:57 DynamoDB
+  - 11:12:25 CloudFormation
+- VPC
+  - [VPC limits and Pricing](https://www.testpreptraining.com/tutorial/aws-certified-advanced-networking-specialty/vpc-limits-and-pricing/)
+# Troubleshoot space
+- IAM
+  - [Troubleshooting IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot.html)
 # Question Sets
 - [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/)
   - Sweepmark: Q3
@@ -41,14 +108,15 @@
     - Q3
 - Practice Exams: AWS Certified SysOps Administrator Associate --> NOT EFFICIENT
   - T1
+    - Sweepmark: Q42
     - Aurora
-      - **Q1** | 80%
+      - **PQ1** | 80%
     - Security
       - **Q2** | 90%
-      - Q11
-      - Q38
-      - Q56 AWS Directory service
-      - Q64
+      - PQ11
+      - PQ38
+      - PQ56 AWS Directory service
+      - PQ64
     - AWS Config
       - Q41
     - EB
@@ -67,19 +135,22 @@
       - Q53 - AMI sharing
       - Q57
     - CW
-      - Q3
-      - Q7
-      - Q13
-      - Q15
-      - Q29
-      - Q36
-      - Q37
-      - Q39
-      - Q46
-      - Q49
-      - Q59
+      - **Q3** - 70%
+        - StatsD/collectd
+      - PQ7 - 60%
+        - [Common scenarios with the CloudWatch agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-common-scenarios.html)
+      - PQ13
+      - PQ15
+      - PQ29
+      - PQ36
+      - PQ37
+      - PQ39
+      - PQ46
+      - PQ49
+      - PQ59
     - Disaster Recovery
       - Q61
+      - Q4 - 80%
     - VPC
       - Q22
       - Q32
@@ -90,12 +161,11 @@
     - AWS X-Ray
       - Q45
     - System Manager
-      - Q4
     - EventBridge
-      - Q5
-      - **Q6**
+      - Q5 - 100%
+      - **PQ6** - 70%
     - IAM
-      - Q8
+      - Q8 - 60%
       - Q24
     - Availability
       - Q17
@@ -125,14 +195,19 @@
       - Q26
     - Higher level control
       - Q12
+  - T2
+    - Sweepmark: Q31
+    - Storage
+      - Q1
 - [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
-  - Sweepmark: Q230
+  - Sweepmark: COMPLETE
+  - _Q-mark: GD
   - SQS
     - **Q1**
     - Q49
     - Q107
   - Billing
-    - Q55
+    - Q55 - 1
     - Q55
     - Q70
     - Q86
@@ -181,17 +256,17 @@
      - Q8
      - Q143
   - CW/Monitoring
-     - Q10
-     - Q28
-     - Q35
-     - Q60
-     - Q138
-     - Q148
-     - Q153
-     - Q176
-     - Q191
-     - Q211
-     - Q215
+     - GDQ10 - 100%
+     - GDQ28 - 70% 
+     - GDQ35 - 100%
+     - GDQ60 - 50%
+     - GDQ138 - 40%
+     - GDQ148 - 100%
+     - GDQ153
+     - GDQ176
+     - GDQ191
+     - GDQ211
+     - GDQ215
   - Storage
      - Q45
      - Q59
@@ -214,7 +289,7 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q40/Q616
+  - Sweepmark: Q152/Q616
   - Q1~Q100
     - Security & Compliance
       - Q1
@@ -222,12 +297,20 @@
       - Q28
       - Q29
       - Q35
+      - **Q45**
+      - Q47
+      - Q53 - 90%
+      - PBQ51 - 80%
     - Automation
       - Q2
+      - **Q43**
+    - CDN
+      - Q69 - 90%
     - Availability
       - Q13
       - Q20
-      - Q24
+      - Q24 
+      - Q56 - 80%
     - Disaster Recovery
       - Q33
     - Responsibility Model
@@ -236,28 +319,44 @@
       - Q21
       - Q22
       - Q27
+      - Q46
+      - Q52 - 70%
+        - Step and simple scaling policies for AWS EC2 Auto Scaling
     - IAM
       - Q3
       - Q39 - LDAP
     - CLI
       - Q15
+    - STS
+      - Q88 - 90%
     - EC2
       - Q5
-    - Billing
+    - Cost
       - **Q6**
       - Q30
       - Q36
+      - Q57 - 90%
     - System Manager
       - Q7
     - Service Catalog
       - Q8
     - AWS Artifact
       - Q9
+    - Troubleshooting
+      - Q55 - 80%
     - AWS Config
       - Q10
+      - Q50
+      - Q54 
     - Storage
       - Q14
       - Q23
+      - **Q41**
+        - RAID 0 for EBS
+      - **Q44**
+    - ELB
+      - Q42
+        - receeived 0 success singal(s) out of 1
     - Scale
       - Q25
       - Q31
@@ -275,18 +374,40 @@
       - Q16
       - Q19
       - Q32
+      - Q49
 # Hands-on Lab
 - _alias
   - PASS THE EXAM: PTE
-- EC2 Placement Groups - 1
-  - UDM
-- EC2 Instances Launch Types - 1
-  - UDM
-- SSM Parameter Store - 1
-  - UDM
-- Create an RDS Instance
-  - PTE | 9-34-26
-
+  - UDM: Udemy course
+- EC2 Placement Groups
+  - UDM - 80%
+- EC2 Instances Launch Types
+  - UDM - 80%
+- SSM Parameter Store
+  - UDM - 80%
+- RDS
+  - RDS: Create an RDS Instance - 80%
+    - PTE | 9-45-37/9-34-26~9-45-37
+  - RDS: View performance Insights
+    - PTE | 9-46-39/9-45-51~ 
+- CW
+  - CloudWatch Logs
+    - UDM - 70%
+  - CloudWatch Alarms
+    - UDM - 100%
+  - EventBridge
+    - UDM - 50%
+- CF
+  - Create a CF
+    - PTE
+- VPC
+  - VPC Hands On
+    - UDM - 80%
+  - Bastion Hosts
+    - UDM
+  - NAT Gateway
+    - UDM
+  - Subnet Hands On
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Shallow Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
 - Ultimate AWS Certified SysOps Administrator Associate 2022
 
@@ -730,3 +851,6 @@
  - Sweepmark: Q1/10
  - ASM
    - Q1
+
+# Lesson learned
+- Mark **level of understanding by percentage** on encounter

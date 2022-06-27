@@ -6,7 +6,7 @@
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
-- [壮丁采集器](#壮丁采集器)
+- [自动化壮丁采集器](#自动化壮丁采集器)
 - [Renovation plan](#renovation-plan)
 - [Startup软件开发军火库 - 优选](#startup软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
@@ -101,7 +101,7 @@
 - Realworld
   - [Realworld example apps](https://github.com/gothinkster/realworld)
 
-# 壮丁采集器
+# 自动化壮丁采集器
 - Hackerrank
 
 # Renovation plan
@@ -143,6 +143,7 @@
    - Architecture planning
      - [GitHub - architecture-decision](https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record)
     - AWS
+      - VSCodeExtension: AWS Toolkit
       - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
         - Videomark: 13:09
     - Software Design

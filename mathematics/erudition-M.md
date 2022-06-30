@@ -29,25 +29,17 @@
 - Jupyter Notebook
 
 # Engineering Mathematics
-
 - Calculus - G. Strang
   - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
-  - Can be helpful to APS
   - Process 1(Study for APS): 35/671
   - This book introduces calculus with some interesting examples
-
-
-
 - Advanced engineering mathematics - Erwin kreyszig  
   - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
   - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
-
 - Mathematics for Machine Learning
   - [link1](https://mml-book.github.io/book/mml-book.pdf)
-
 - Advanced calculus - L.H.Loomis
   - [link1](http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
-
 - Discrete mathematics
   - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
   - Discrete Mathematics for computer science students
@@ -61,9 +53,6 @@
     - Progress: 21/461
 - Topology for the working mathematician
   - [link1](https://www.math.ru.nl/~mueger/topology.pdf)
-
-
-
 # Mathematical analysis
 ## General
 - [The Real Analysis Lifesaver](http://assets.press.princeton.edu/chapters/s10825.pdf)
@@ -89,7 +78,6 @@
 # Logic
 - Introduction to Mathematical Logic 0/447
   - [link1](https://www.karlin.mff.cuni.cz/~krajicek/mendelson.pdf)
-
 # Probability theory
 - Probability Theory: The Logic of Science
   - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)

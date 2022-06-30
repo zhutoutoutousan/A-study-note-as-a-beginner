@@ -72,6 +72,8 @@
   - Dialects | Ctrl+C Ctrl+V
     - Goal
       - Local BD
+  - TOPIC: Patxxxtism
+  - TOPIC: You have right to remain xxxxx
 - English - Post C2 --> `bymaverse`
   - _INBOUND
     - _INBOUND_CACHE
@@ -100,6 +102,9 @@
             - TBD
           - Connection
         - Nodes
+  - TOPIC | Something that will immediately generate, amplify value, prevent net value loss, maintain healthy value flow to maximum nested dimension possible and more
+    - [GIT: Advanced commands](https://www.udemy.com/course/git-advanced-commands/learn/lecture/8224532#overview)
+      - CCS: 10.2%
 - French - Lower C1
   - Material Track
     - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
@@ -1407,8 +1412,11 @@
           - Videomark: 33:38/33:38
           - CCS: 50.8%
         - [ACCA F7INT - 6. Non current assets, impairment of assets](https://www.youtube.com/watch?v=zeZSgIzHOzk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=90)
-          - Videomark: 10:00/41:03
-          - CCS: 51.4%          
+          - Videomark: 41:03/41:03
+          - CCS: 51.4%
+        - [ACCA F7INT - 7. Provisions](https://www.youtube.com/watch?v=NSu0D18IR1M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=91)
+          - Videomark: 10:09/24:17
+          - CCS: 52%
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1422,6 +1430,8 @@
             - Qualitative characteristics of financial Information
               - Understandability, Relevance, Reliability, Comparability
             - Standards
+              - _sub-vocab
+                - [P&L - Profit and Loss (P&L) Statement](https://www.investopedia.com/terms/p/plstatement.asp)
               - IAS 1
                 - Components of finantial statements
                   - Statement of financial position
@@ -1495,6 +1505,9 @@
                 - Impairments
                 - Revaluation
                 - Enhancements
+                - **Disclosures(IAS 16:73)**
+                - **Borrowing costs: IAS 23**
+                - Profit or loss on disposal of any non-current asset
               - IAS 18: Revenue
                 - _?
                   - amortized cost
@@ -1506,6 +1519,34 @@
                 - Recognition of revenue: services
                 - Valuation of revenue
                 - Bundled sales
+              - IAS 36: Impairment of Assets
+                - External indicators of impairment
+                  - PESTEL
+                - Internal indicators of impairment
+                - Determination of value
+                - Cash generating unit
+                - Reporting impairment losses: individual assets
+                - Reporting impairment losses: cash generating unit
+              - IAS 37: Provisions, contingent liabilities and contingent assets
+                - **Creative accounting even with IAS 37 in effect while getting away with legal obligations ( •̀ ω •́ )y**
+                - Initial valuation(provisions)
+                - Initial valuation(contingent liabilities)
+                - Contingent assets
+                - Provisions and contingent liabilities for individual companies
+              - IAS 38: Intangible Assets
+                - Accounting treatments of three types of asset
+                  - _fields
+                    - Initial Recognition
+                    - Initial valuation
+                    - Amortisation period
+                    - Upward revaluation possible?
+                    - Impairment loss Recognition
+                    - Reversal of impairment losses
+                    - Allowed alternative presentations
+                  - R&D
+                  - Goodwill
+                  - Other intangible non-current assets
+              - IAS 40: Investment Property
             - Material Anatomies
               - Statement of Financial Position
                 - _struct
@@ -1714,12 +1755,16 @@
       - source
         - media.ccc.de
         - The Royal Institution
+    - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 1min/day
+      - Stanford CS224W
+        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+          - Videomark: 2:02/11:54
     - English --> Deutsch
       - NEW VOCAB
         - ICBM
-      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> HALT 1min/day
+      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - Videomark: 8:32/1:00:17
+        - Videomark: 11:34/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
@@ -1727,14 +1772,12 @@
             - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
       - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
       - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-      - Nest.js
+      - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
-      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> HALT 1min/day
-        - Videomark: 4:43/1:01:49
+      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
+        - Videomark: 9:06/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
-    - [React Coding Interview Ft. Clément Mihailescu - German Subtitle](https://www.youtube.com/watch?v=5xf4_Kx7azg)
-      - Videomark: 11:36/47:07
     - Daily, Mundane contents --> **HALT** 1min/day
   - Coding
     - _meta_escalate
@@ -1758,22 +1801,8 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 40.8%
+          - CCS: 43.6%
           - ETC: /
-          - Environment | BLOCKER
-            - [x] Local
-              - [x] Anaconda+Python
-                - Issue --> `踩坑树`
-                  - Anaconda Navigator never opens
-                    - [Windows里Anaconda-Navigator无法打开的解决方案（详细）](https://blog.csdn.net/weixin_42529892/article/details/81503261)
-                      - `ProxyError: Conda cannot proceed due to an error in your proxy configuration.`
-                      - `conda update anaconda-navigator` network problem
-                        - 氵闰
-                        - [x] It will take some time to load it for the first time
-                  - Anaconda Navigator stuck on `Loading user`
-            - [ ] Cloud9
-              - *It just may lead to more issues where I don't even want to deal with :)*
-              - Do it later
           - Code
             - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
@@ -1803,8 +1832,6 @@
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
           - [Superdatascience](https://www.superdatascience.com/blockchain/)
     - Cloud Computing
-      - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **HALT for at least 2 weeks**
-        - *Contains VTL*
       - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
       - Learn AWS The Hard Way
     - Cybersecurity
@@ -1815,9 +1842,17 @@
       - Related Mathematics
     - Data Structure & Algorithm
     - Competitive Programming
-      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT**
+      - _manual-control-override
+        - Advanced React and Redux
+        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 2 videos pro Tag
+          - CCS: 4.2%
+          - Nest.js踩坑树
+            - `Error: Collection "@nestjs/schematics" cannot be resolved.`
+              - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
+                - `yarn global add @nestjs/schematics`+ update
+      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of Nest.js & Advanced React**
         - CCS: 4.2%
-        - ETC: 10.6 months
+        - ETC: /
         - TEMP TIMESTAMP: 0
         - Meso-memory field
           - Store struct pointer data in heap in C/C++
@@ -1847,11 +1882,15 @@
   - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
+  - Business Development For Startups and Tech Companies --> **ACTIVE**
+    - CCS: 1.7%
+  - The Complete Presentation and Public Speaking/Speech Course
   - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
     - CCS: 10.8%
     - TEMP TIMESTAMP: 2:00
     - Style: Italian, Rigorous, Recap
       - *You already have a lot of experience, time to be more PEDANTIC for a change!*
+  - [Advanced Scripting & Tool Making using Windows PowerShell](https://www.udemy.com/course/advanced-scripting-tool-making-using-windows-powershell/learn/lecture/9484740#overview)
   - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more
     - CCS: 10.8%
     - TEMP TIMESTAMP: 2:00
@@ -1867,9 +1906,15 @@
     - ENTERING HIBERNATE MODE
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
+  - TOPIC: WTF?
+    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
+      - CCS: 29.2%
+      - Environment
+        - [x] Cloud9
+      - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - Finnish - N/A
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 70.6%
+  - Initialization of language/meta structrure: 74.3%
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
@@ -1900,17 +1945,17 @@
       - Context-driven raw intelligence or pre-built mental facility
     - MACRO TBD
   - Symbol Proficiency --> MOVE TO `language_arsenal` ON NEXT ENCOUNTER
-    - [Arabic Keyboard](http://www.arabic-keyboard.org/)
+    - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 33.5%
+  - Initialization of language/meta structrure: 34.9%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 48%
+  - Initialization of language/meta structrure: 49.1%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
-- Russian - Lower B1
+- Russian - Lower B1 +
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 25 WPM
@@ -1920,23 +1965,33 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 20:01/31:44
+          - Videomark: 28:01/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
               - mode: FIFO
               - capacity: 5
-            - путеводитель - 100% -- Снимать на следующем повороте
-              - [число, падеж](https://www.online-translator.com/conjugation%20and%20declination/russian/%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
-            - образо́ванным
-            - быть - 20%
-            - предупреждать - 80%
-              - Verb conjugation
-            - средневековый - 75%
-              - Adjective declension
+            - _processing
+              - _inherit
+                - `ROOT_PROCESSING`
+            - **глагол** - 20%
+              - повзрослеть - 20%
+              - быть - 60%
+            - **прилагательное**
+              - образованный - 15%
+              - средневековый - 80%
+                - Adjective declension
+              - разумный - 5%
+            - **наречие**
+            - **существительное**
             - INBOUND CACHE
-              - adj.
-                - разумным
+              - **прилагательное**
+                - взрослый
+              - **глагол**
+                - собираться
+              - **наречие**
+                - разумеется
+              - **существительное**
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
     - Tool

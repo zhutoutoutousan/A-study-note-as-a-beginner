@@ -2,8 +2,8 @@
 - [Table of Contents](#table-of-contents)
 - [Temp Documentation Memoization Space](#temp-documentation-memoization-space)
 - [Utility](#utility)
-- [AWS Hands-on tree](#aws-hands-on-tree)
-- [AWS踩坑树](#aws踩坑树)
+- [AWS Hands-on Tree for World Record Set](#aws-hands-on-tree-for-world-record-set)
+- [AWS Troubleshooting Tree](#aws-troubleshooting-tree)
 - [Erudition](#erudition)
 - [_resource track](#_resource-track)
 - [Recursive Ransack Effort Track](#recursive-ransack-effort-track)
@@ -26,9 +26,48 @@
 - [TEST-CORS](https://www.test-cors.org/)
 
 
-# AWS Hands-on tree
-- WAITING ON SOA
-# AWS踩坑树
+# AWS Hands-on Tree for World Record Set
+- _alias
+  - PASS THE EXAM: PTE
+  - UDM: Udemy course
+- EC2
+  - EC2 Scheduled Event
+    - [ ] EC2::ScheduledTerminate
+      - [AWS Instance Scheduler (Start/Stop EC2 & RDS instances automatically) - Full Real-time Demo.](https://www.youtube.com/watch?v=6d9gBn2Xv8s)
+      - [How do I stop and start my instances using the AWS Instance Scheduler?](https://www.youtube.com/watch?v=nTLEyo2NzUs)
+      - [AWS Instance Scheduler | Step by Step tutorial to Start and Stop EC2 and RDS Instances](https://www.youtube.com/watch?v=oooxZsz0hS4)
+  - EC2 Placement Groups 
+    - UDM - 80%
+  - EC2 Instances Launch Types
+    - UDM - 80%
+- SSM Parameter Store
+  - UDM - 80%
+- RDS
+  - RDS: Create an RDS Instance - 80%
+    - PTE | 9-45-37/9-34-26~9-45-37
+  - RDS: View performance Insights
+    - PTE | 9-46-39/9-45-51~ 
+- CW
+  - CloudWatch Logs
+    - UDM - 70%
+  - CloudWatch Alarms
+    - UDM - 100%
+  - EventBridge
+    - UDM - 50%
+- CF
+  - Create a CF
+    - PTE
+- VPC
+  - VPC Hands On
+    - UDM - 80%
+  - Bastion Hosts
+    - UDM
+  - NAT Gateway
+    - UDM
+  - Subnet Hands On
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Shallow Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+- Ultimate AWS Certified SysOps Administrator Associate 2022
+# AWS Troubleshooting Tree
 - AWS Amplify
   - Next.js + Cloud9 + Appsync
     - `Unhandled Runtime Error TypeError: require.e is not a function`

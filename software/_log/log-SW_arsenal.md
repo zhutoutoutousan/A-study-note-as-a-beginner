@@ -6,7 +6,12 @@
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
-- [自动化壮丁采集器](#自动化壮丁采集器)
+- [壮丁管理](#壮丁管理)
+  - [机器辅助壮丁](#机器辅助壮丁)
+  - [自动化壮丁采集器](#自动化壮丁采集器)
+  - [一体化壮丁效率提升](#一体化壮丁效率提升)
+    - [打字速度](#打字速度)
+    - [通用快捷键使用](#通用快捷键使用)
 - [Renovation plan](#renovation-plan)
 - [Startup软件开发军火库 - 优选](#startup软件开发军火库---优选)
 - [团队软件开发军火库](#团队软件开发军火库)
@@ -101,8 +106,19 @@
 - Realworld
   - [Realworld example apps](https://github.com/gothinkster/realworld)
 
-# 自动化壮丁采集器
+
+# 壮丁管理
+## 机器辅助壮丁
+- GitHub Copilot
+## 自动化壮丁采集器
+- _source
 - Hackerrank
+
+## 一体化壮丁效率提升
+### 打字速度
+### 通用快捷键使用
+- CLI
+  - Clear current: Ctrl+U
 
 # Renovation plan
 

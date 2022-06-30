@@ -852,5 +852,25 @@
  - ASM
    - Q1
 
+# Result Analysis
+## Results
+- tl;dr
+- Certification of failure
+  - [link](https://drive.google.com/file/d/1yqwJjmWqbIJkX2R0tS7eP_Wh_37s4UpD/view?usp=sharing)
+## Cause of failure
+### Too late for starting flashcard
+- Long-term memory doesn't have enough time to kick in for 2 day timeframe
+### Knowledge coverage
+### Crazy schedule
+- 2 days to prepare for the test --> Next time, allocate 3 days
+- Exam dump actually take a lot longer to get with
+### Misinformation of Exam Lab scoring included in the final exam
+- [Misinformation source](https://ivanitlearning.wordpress.com/author/ivanlu986/)
+  - *...of all the AWS certification exam, the sysops admin is the only one which has labs in it, though that presently accounts for just 18% of your total score. ...*
+- [Exam Guide - Misinformation Remedy](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
+- Misplaced preparation: Extra energy diverted to 
+### Imperfect reviewing weight parameter
+#### Material Missed
+- [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
 # Lesson learned
 - Mark **level of understanding by percentage** on encounter

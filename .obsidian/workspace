@@ -7,12 +7,8 @@
         "id": "a22d280a1431f136",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

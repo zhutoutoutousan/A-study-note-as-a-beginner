@@ -1415,8 +1415,11 @@
           - Videomark: 41:03/41:03
           - CCS: 51.4%
         - [ACCA F7INT - 7. Provisions](https://www.youtube.com/watch?v=NSu0D18IR1M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=91)
-          - Videomark: 10:09/24:17
+          - Videomark: 24:17/24:17
           - CCS: 52%
+        - [ACCA F7INT - 8. Financial instruments](https://www.youtube.com/watch?v=--19fuJybzU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=92)
+          - Videomark: 0/23:53
+          - CCS: 52.6%
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1508,6 +1511,17 @@
                 - **Disclosures(IAS 16:73)**
                 - **Borrowing costs: IAS 23**
                 - Profit or loss on disposal of any non-current asset
+              - IAS 17: Leases
+                - Lease
+                  - _interface
+                    - leaser
+                    - leasee
+                  - _category
+                    - Finance Leases
+                    - Operating leases
+                      - NPV
+                  - _effect-network
+                    - SOFP
               - IAS 18: Revenue
                 - _?
                   - amortized cost
@@ -1533,6 +1547,7 @@
                 - Initial valuation(contingent liabilities)
                 - Contingent assets
                 - Provisions and contingent liabilities for individual companies
+                - Discounting and unwinding of provisions
               - IAS 38: Intangible Assets
                 - Accounting treatments of three types of asset
                   - _fields
@@ -1758,13 +1773,33 @@
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 1min/day
       - Stanford CS224W
         - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-          - Videomark: 2:02/11:54
+          - Videomark: 3:09/11:54
+          - BFS source
+            - EmTech
+            - Social innovation
+              - **Social Networks**
+            - FinTech
+              - **Economic networks**
+            - Management
+              - **Communication networks**
+            - Academia
+              - Citation networks
+            - Web 3.0
+              - **Internet**
+            - BCI/ACI
+              - **Network of Neurons**
+            - _underlying-infra
+              - Regulatory networks
+              - **Code Graphs**
+              - **3D Shapes**
+              - Molecules
+              - Scene graphs
     - English --> Deutsch
       - NEW VOCAB
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - Videomark: 11:34/1:00:17
+        - Videomark: 12:34/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
@@ -1775,7 +1810,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 9:06/1:01:49
+        - Videomark: 10:06/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -1801,8 +1836,14 @@
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 43.6%
+          - CCS: 44.7%
           - ETC: /
+          - INBOUND CACHE
+            - Etherscan
+          - Directions?
+            - ASICs design
+              - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
+              - *Could be useful to help out with other Endeavour*
           - Code
             - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
             - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
@@ -1845,8 +1886,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 2 videos pro Tag
-          - CCS: 4.2%
-          - Nest.js踩坑树
+          - CCS: 7.3%
+          - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
                 - `yarn global add @nestjs/schematics`+ update
@@ -1882,8 +1923,8 @@
   - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
-  - Business Development For Startups and Tech Companies --> **ACTIVE**
-    - CCS: 1.7%
+  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
+    - CCS: 3.5%
   - The Complete Presentation and Public Speaking/Speech Course
   - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
     - CCS: 10.8%
@@ -1908,7 +1949,7 @@
   - TOPIC: Copywriting
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 29.2%
+      - CCS: 29.6%
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
@@ -1965,7 +2006,7 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 28:01/31:44
+          - Videomark: 30:01/31:44
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -1975,10 +2016,10 @@
               - _inherit
                 - `ROOT_PROCESSING`
             - **глагол** - 20%
-              - повзрослеть - 20%
-              - быть - 60%
+              - повзрослеть - 30%
+              - быть - 70%
             - **прилагательное**
-              - образованный - 15%
+              - образованный - 20%
               - средневековый - 80%
                 - Adjective declension
               - разумный - 5%

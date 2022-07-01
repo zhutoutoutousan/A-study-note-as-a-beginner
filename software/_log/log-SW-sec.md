@@ -25,10 +25,16 @@
   - [Reverse Engineering Basics](https://www.youtube.com/watch?v=a2EkORFcSZo)
 
 # Erudition & Hands-On
+- _source
+  - [Top 10 Kali Linux Books for Beginners in 2022 || PawanChauhan.com](https://pawanchauhan.com/kali-linux-books-for-beginners/)
 - [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
   - Videomark: 1:00:19
 - Wireshark数据包分析实战详解
   - Bookmark: 4
+- Kali linux revealed: Mastering the Penetration Testing Distribution
+  - [link](https://www.ubuntushop.be/kalirevealed.pdf)
+  - Bookmark field
+    - Sweepmark: 14/344
 - Kali Linux渗透测试技术详解 - Paperback
   - Style: Hands-on
   - Process 1

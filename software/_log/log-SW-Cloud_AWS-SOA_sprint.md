@@ -111,6 +111,7 @@
     - Sweepmark: Q42
     - Aurora
       - **PQ1** | 80%
+        - AWS Directory Service
     - Security
       - **Q2** | 90%
       - PQ11
@@ -289,21 +290,33 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q152/Q616
+  - Sweepmark: Q160/Q616
   - Q1~Q100
     - Security & Compliance
-      - Q1
-      - Q4
-      - Q28
-      - Q29
-      - Q35
-      - **Q45**
-      - Q47
-      - Q53 - 90%
-      - PBQ51 - 80%
+      - Uncategorized
+        - PBQ1
+        - PBQ4
+        - PBQ28
+        - PBQ29
+        - PBQ35
+        - **PBQ45**
+        - Q47
+        - Q53 - 90%
+        - PBQ51 - 80%
+      - MFA
+        - PBQ159
+      - Attack defense
+        - ALB
+          - PBQ157
+      - Sharing
+        - AMI
+          - PBQ154 - 80%
     - Automation
+      - _Docmark
+        - _link
       - Q2
       - **Q43**
+      - Q153
     - CDN
       - Q69 - 90%
     - Availability
@@ -311,6 +324,9 @@
       - Q20
       - Q24 
       - Q56 - 80%
+    - UX
+      - Login
+        - PBQ158 - 80%
     - Disaster Recovery
       - Q33
     - Responsibility Model
@@ -331,7 +347,7 @@
       - Q88 - 90%
     - EC2
       - Q5
-    - Cost
+    - Cost Management
       - **Q6**
       - Q30
       - Q36
@@ -347,13 +363,21 @@
     - AWS Config
       - Q10
       - Q50
-      - Q54 
+      - Q54
+    - Resource Management
+      - Tagging
+        - PBQ156 - 80%
+          - Service Catalog
     - Storage
+      - EFS
+        - PBQ160 - 80%
       - Q14
       - Q23
       - **Q41**
         - RAID 0 for EBS
       - **Q44**
+      - Data Retention
+        - PBQ155 - 80%
     - ELB
       - Q42
         - receeived 0 success singal(s) out of 1
@@ -370,11 +394,13 @@
     - SQS
       - Q26
     - VPC
-      - Q12
-      - Q16
-      - Q19
-      - Q32
-      - Q49
+      - PBQ12
+      - PBQ16
+      - PBQ19
+      - PBQ32
+      - PBQ49
+      - IPV6
+        - PBQ161
 # Hands-on Lab
 - _alias
   - PASS THE EXAM: PTE

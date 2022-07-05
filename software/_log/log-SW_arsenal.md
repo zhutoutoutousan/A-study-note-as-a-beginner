@@ -6,10 +6,12 @@
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
-- [壮丁管理](#壮丁管理)
+- [Multiple Screen](#multiple-screen)
+- [抄作业 & PR攻防 & 掀裙子策略](#抄作业--pr攻防--掀裙子策略)
+- [壮丁集群/分布式壮丁结点管理](#壮丁集群分布式壮丁结点管理)
   - [机器辅助壮丁](#机器辅助壮丁)
   - [自动化壮丁采集器](#自动化壮丁采集器)
-  - [一体化壮丁效率提升](#一体化壮丁效率提升)
+  - [一体化壮丁集群/分布结点效率提升](#一体化壮丁集群分布结点效率提升)
     - [打字速度](#打字速度)
     - [通用快捷键使用](#通用快捷键使用)
 - [Renovation plan](#renovation-plan)
@@ -107,14 +109,21 @@
   - [Realworld example apps](https://github.com/gothinkster/realworld)
 
 
-# 壮丁管理
+# Multiple Screen
+- WindowGrid
+
+# 抄作业 & PR攻防 & 掀裙子策略
+- https://archive.ph/
+- waybackmachine
+
+# 壮丁集群/分布式壮丁结点管理
 ## 机器辅助壮丁
 - GitHub Copilot
 ## 自动化壮丁采集器
 - _source
 - Hackerrank
 
-## 一体化壮丁效率提升
+## 一体化壮丁集群/分布结点效率提升
 ### 打字速度
 ### 通用快捷键使用
 - CLI
@@ -297,6 +306,8 @@
     - Paperback
       - Bookmark: 5
       - Emscripten 入门
+      - https://wasdk.github.io/WasmFiddle/
+      - Udemy - Getting started with WebAssembly & Emscripten
 
 
 

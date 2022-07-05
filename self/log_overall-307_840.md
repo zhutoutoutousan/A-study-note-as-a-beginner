@@ -1,3 +1,22 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [STICKY 寻找Purpose的旅程](#sticky-寻找purpose的旅程)
+  - [Shelter if you're homeless](#shelter-if-youre-homeless)
+  - [Build your weapon](#build-your-weapon)
+    - [Learn to write](#learn-to-write)
+    - [Learn to talk](#learn-to-talk)
+- [STICKY Mandatory workout planning](#sticky-mandatory-workout-planning)
+- [STICKY Language progression management](#sticky-language-progression-management)
+- [STICKY Monthly Micro PIP](#sticky-monthly-micro-pip)
+- [STICKY Full-stack developer Performance Improvement Plan](#sticky-full-stack-developer-performance-improvement-plan)
+- [2022/5/29](#2022529)
+- [2022/6/8](#202268)
+- [2022/6/11](#2022611)
+- [2022/6/12-2022/6/30 - It's gonna be a tough one](#2022612-2022630---its-gonna-be-a-tough-one)
+  - [Main theme： How the hell am I going to survive this one?](#main-theme-how-the-hell-am-i-going-to-survive-this-one)
+- [STICKY | 软件特种团队管理](#sticky--软件特种团队管理)
+- [2022/6/25](#2022625)
+
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
@@ -103,8 +122,10 @@
           - Connection
         - Nodes
   - TOPIC | Something that will immediately generate, amplify value, prevent net value loss, maintain healthy value flow to maximum nested dimension possible and more
-    - [GIT: Advanced commands](https://www.udemy.com/course/git-advanced-commands/learn/lecture/8224532#overview)
-      - CCS: 10.2%
+    - **PRIORITIZATION**
+      - --> `ROOT._PROCESSING`
+    - **MANAGEMENT**
+    - **COLD CALL & EVERYTHING THAT COMES AFTERWARDS**
 - French - Lower C1
   - Material Track
     - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
@@ -1418,8 +1439,14 @@
           - Videomark: 24:17/24:17
           - CCS: 52%
         - [ACCA F7INT - 8. Financial instruments](https://www.youtube.com/watch?v=--19fuJybzU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=92)
-          - Videomark: 0/23:53
+          - Videomark: 23:53/23:53
           - CCS: 52.6%
+        - [ACCA F7INT - 9. Taxation](https://www.youtube.com/watch?v=D8X-lk-UIpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=93)
+          - Videomark: 17:20/17:20
+          - CCS: 53.1%
+        - [ACCA F7INT - 10. Group financial statements incl. associates](https://www.youtube.com/watch?v=0Js78NKBmpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=94)
+          - Videomark: 7:14/26:12
+          - CCS: 53.7%
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1627,12 +1654,43 @@
               - SOFP
               - Finantial Instrument
                 - _doubts
-                  - *Right category?*
+                  - *Right category?* 
+                  - _schema
+                    - _field
+                      - Financial liabilities
+                      - Financial assets
+                    - _attribute
+                      - Examples
+                      - Initial Recognition
+                      - Subsequent measurement
+                      - Gains or losses reported in... 
+                    - _value
+                  - Recognition and derecognition
+                  - Fair value accounting
+                  - Amortized cost
+                    - Debt instrument
+                    - Business model test
+                    - contractual cash flow characteristics test
+                    - Impairments
+                    - **Convertible bonds**
+              - Group financial statements
+                - Substance over Form
+                - Acquisition accounting
+                - Goodwill
+                - Non-controlling interests
+                - Consolidation immediately after M&A
+              - Taxation
+                - Current Tax
+                - Deferred tax
+                - Temporary difference
+                - Permanent difference
             - O.O.I
               - IFRS: International Financial Reporting Standard
                 - _meta_escalate
                   - *I think IFRS will be the main theme moving forward*
                 - [website](https://www.ifrs.org/)
+            - Skills
+              - Calculation of deferred tax liability and SOCI effect
             - Elements of Financial statments
               - Alias field
                 - Balance sheet: Statement of financial position
@@ -1775,9 +1833,15 @@
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 1min/day
       - Stanford CS224W
-        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-          - Videomark: 3:09/11:54
+        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
+          - Videomark: 2:00/20:26
+          - CCS: 3.3%
           - BFS source
+            - _struct
+              - Information/knowledge
+              - Relational structures
+              - Similarity networks
+              - Software
             - EmTech
             - Social innovation
               - **Social Networks**
@@ -1802,7 +1866,8 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 1min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - Videomark: 12:34/1:00:17
+        - CCS: 30%
+        - Videomark: 18:04/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
@@ -1813,7 +1878,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 10:06/1:01:49
+        - Videomark: 14:30/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -1821,9 +1886,6 @@
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
-      - Nest.js --> Voluntary 
-      - TypeScript --> Voluntary
-      - Advanced React --> Voluntary
   - Puzzle games
     - Chess
   - Comprehensive development path
@@ -1837,9 +1899,10 @@
     - **Web 5.0+**
       - **DAO** --> **ACTIVE** 10min/day
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
+          - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 44.7%
+          - CCS: 49.5%
           - ETC: /
           - INBOUND CACHE
             - Etherscan
@@ -1857,8 +1920,11 @@
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
             - Mining Pool
               - SLUSH POOL
+          - Use cases
+            - Chooseing ASICs for Sia
           - Books & Articles
             - [blockchain.com](https://www.blockchain.com/)
+            - An in-depth guide into how the mempool works - Marion Deneuville
             - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
             - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
               - Bookmark Field
@@ -1889,7 +1955,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 2 videos pro Tag
-          - CCS: 7.3%
+          - CCS: 13.9%
+          - E.T.A: 26d
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -1927,7 +1994,35 @@
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 3.5%
+    - CCS: 8.8%
+    - E.T.A: 39d
+    - _meta-escalate
+      - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
+        - Deal with humen being
+          - Take an active interest in your contacts' lives outside of just your working relationship
+          - Be attentive to the relationship(thoughtful emails, gestures etc)
+          - Strive for face time early and often
+        - Scare humen being with numbers
+          - Define metrics before engaging in partner activities
+          - Set up proper monitoring systems and schedule regular reviews
+          - Conduct post-mortems after the partner activity and compile a written analysis of the metrics
+        - Filter out Idiots, Weaklings, Clowns...
+          - Establish in writing the top 1-3 priorities of the BD function, in order of importance
+            - i.e. drive new user signups, drive existing engagement
+          - Consult these priorities before every major decision
+          - Use metrics, perform post-mortems, and test frequently to understand 80/20 of actions(marketer mindset)
+        - Yeah, forgive and forget, *"NAMASTE"*!
+          - Reframe rejection as data collection
+          - Separate your self-worth from the rejection
+          - Anything activity you sense hesitation around should be scheduled(i.e. cold calling)
+        - KISS & SIMP
+          - A fleet of automated templates
+          - Be aware at all times that most people generally opt for the path of least resistance
+          - Build the habit of doing post-mortems that explicitly focus on bottle-neck identification
+            - Where was the compliance breakdown
+  - Music/Composing Theory
+    - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
+    - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
   - The Complete Presentation and Public Speaking/Speech Course
   - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
     - CCS: 10.8%
@@ -1951,12 +2046,49 @@
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
   - TOPIC: WTF?
+    - AWS CloudFormation Master Class v2 [2022]
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 29.6%
+      - CCS: 30.9%
+      - E.T.A: 5.75 months
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
+- _helper-function
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - **\{VERB\}** - \{_percentage\}
+    - **\{ADJECTIVE\}**
+      - SAMPLE_ADJECTIVE
+        - Adjective declension
+    - **\{NOUN\}**
+    - **\{ADVERB\}**
+    - TBD
+    - INBOUND CACHE
+      - \{`self`\}
 - Finnish - N/A
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - **\{VERB\}** - \{_percentage\}
+    - **\{ADJECTIVE\}**
+      - SAMPLE_ADJECTIVE
+        - Adjective declension
+    - **\{NOUN\}**
+    - **\{ADVERB\}**
+    - TBD
+    - INBOUND CACHE
+      - \{`self`\}
 - Arabic - Lower A2
   - Initialization of language/meta structrure: 74.3%
   - TOPIC: WTF is this?
@@ -1970,6 +2102,15 @@
     - Minimum considerable rate: 40 WPM
     - In tandem viewing keyboard layout
       - http://www.arabic-keyboard.org/
+      - [Diacritic Typing](https://www.quora.com/What-is-the-easy-way-to-type-Arabic-with-diacritics-I-want-an-app-or-software-that-can-help-me-to-add-diacritic-on-text)
+        - Shift+Q: Fathah
+        - Shift+A: Kasrah
+        - Shift+E: Dammah
+        - Shift+W: Fathah tanwin
+        - Shift+R: Dammah tanwin
+        - Shift+S: Kasrah tanwin
+        - Shift+X: Sukun
+        - Shift+~: Tasdid
   - ON HALT | Energy leak by language addiction
     - 2022/5/13: As the sentence becomes longer, detecting neural-level alternation, new neural pathways are being created, initiate `neural pathway encapsulation mechanism` for future re-use
       - _meta
@@ -2008,8 +2149,8 @@
       - Уральская рябинушка
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
-        - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 1](https://www.youtube.com/watch?v=hvm69QSgpPM)
-          - Videomark: 30:01/31:44
+        - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
+          - Videomark: 6:00
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -2019,23 +2160,23 @@
               - _inherit
                 - `ROOT_PROCESSING`
             - **глагол** - 20%
-              - повзрослеть - 30%
-              - быть - 70%
+              - повзрослеть - 90%
+              - собираться - 5%
             - **прилагательное**
-              - образованный - 20%
-              - средневековый - 80%
-                - Adjective declension
-              - разумный - 5%
+              - образованный - 80%
+              - разумный - 30%
             - **наречие**
+                - разумеется
             - **существительное**
             - INBOUND CACHE
               - **прилагательное**
                 - взрослый
               - **глагол**
-                - собираться
+                - говорить
               - **наречие**
-                - разумеется
               - **существительное**
+                - милый
+                - сердце
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
     - Tool
@@ -2074,31 +2215,65 @@
       - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
     - Metaverse
 - Greek - Lower A1
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - **\{VERB\}** - \{_percentage\}
+    - **\{ADJECTIVE\}**
+      - SAMPLE_ADJECTIVE
+        - Adjective declension
+    - **\{NOUN\}**
+    - **\{ADVERB\}**
+    - TBD
+    - INBOUND CACHE 5
+      - συντεταγμένη
+      - μπορώ
+      - βλέπω
+      - πλέγμα
+      - τό
   - _meta
     - topic
       - anatomy
       - theoretical science
     - tool
       - Duolingo Browser Version
+    - prerequisite
+      - *With these tools plus simultaneous learning of Greek, the sense of net loss will be finally compensated*
+      - GPT-3
+      - Minerva
+        - [Minerva](https://github.com/dmlc/minerva)
+        - [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/pdf/2206.14858.pdf)
+    - _RULES
+      - Always use Coding/LaTeX-based learning as an initiator, with book + dual-subtitle video as gap filling material for continuous watering
+  - TOPIC Rigorous science
+    - Linear Algebra
+      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
+        - Videomark: 1:19
+    - Mathemathical thinking
+      - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
+- Hebrew - N/A
+  - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
+- Latin - N/A
+
+
 # STICKY Monthly Micro PIP
-- Work on it, bxxxh
-- Copilot, 新的一月, 你有什么建议吗?
-  - `Copilot: 我想把这个项目改成一个简单的项目, 因为我觉得这个项目太难了`
-    - 我靠, 知人知心那
-      - `Copilot`: `我觉得这个项目太难了`
-        - Interesting, 说得对, 第一次迭代你的确没有proactive的砍树
-          - ACTION ITEM
-            - [ ] Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
-              - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
-              - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
-              - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)
-              - [ ] [Software Engineering: How 'simple' is a real KISS solution? (8 Solutions!!)](https://www.youtube.com/watch?v=V4_Ug2LHi04)
-              - [ ] [PEST Analysis](https://www.youtube.com/watch?v=mCdcdf-b8AU)
-              - [ ] Existing PlantUML & UML course - Monitoring
-              - [ ] VERDICT
-                - [ ] How will you apply this knowledge learned?
-                - [ ] What changes it will impose?
+- ACTION ITEM
+  - [ ] Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
+    - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
+    - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
+    - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)
+    - [ ] [Software Engineering: How 'simple' is a real KISS solution? (8 Solutions!!)](https://www.youtube.com/watch?v=V4_Ug2LHi04)
+    - [ ] [PEST Analysis](https://www.youtube.com/watch?v=mCdcdf-b8AU)
+    - [ ] Existing PlantUML & UML course - Monitoring
+    - [ ] VERDICT
+      - [ ] How will you apply this knowledge learned?
+      - [ ] What changes it will impose?
 - Micro-PIP of the month: Strategic Thinking - To Business Entity, and to yourself
   - *At least tell me how you're going to work on it*
   - Working system of an enterprise

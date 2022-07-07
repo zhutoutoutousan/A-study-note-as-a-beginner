@@ -1445,8 +1445,11 @@
           - Videomark: 17:20/17:20
           - CCS: 53.1%
         - [ACCA F7INT - 10. Group financial statements incl. associates](https://www.youtube.com/watch?v=0Js78NKBmpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=94)
-          - Videomark: 7:14/26:12
+          - Videomark: 26:12/26:12
           - CCS: 53.7%
+        - [ACCA F7INT - 11. Statement of cash flows](https://www.youtube.com/watch?v=W_VkDH-Ltyg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=95)
+          - Videomark: 0/10:41
+          - CCS: 54.3%
           - Conceptual Famework | FOLLOWING
             - _meta
               - prerequisite
@@ -1679,11 +1682,23 @@
                 - Goodwill
                 - Non-controlling interests
                 - Consolidation immediately after M&A
+                  - Fair value
+                  - Key Logic
+                  - Pre-acquisition dividends
+                  - Adjustments
+                  - Mid period acquisition
+                  - Intra-group transactions
+                  - Transfer of non-current assets
+                  - Goodwill
+                - Subsequent periods
+                - Consolidated statement of comprehensive income
               - Taxation
                 - Current Tax
                 - Deferred tax
                 - Temporary difference
                 - Permanent difference
+              - Associates
+                - Accounting treatment in the group financial statements
             - O.O.I
               - IFRS: International Financial Reporting Standard
                 - _meta_escalate
@@ -1831,10 +1846,10 @@
       - source
         - media.ccc.de
         - The Royal Institution
-    - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 1min/day
+    - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
         - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
-          - Videomark: 2:00/20:26
+          - Videomark: 9:56/20:26
           - CCS: 3.3%
           - BFS source
             - _struct
@@ -1864,12 +1879,14 @@
     - English --> Deutsch
       - NEW VOCAB
         - ICBM
-      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 1min/day
+      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 30%
-        - Videomark: 18:04/1:00:17
+        - CCS: 35%
+        - Videomark: 23:16/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
+          - INBOUND CACHE
+            - Quantum Vaccum Fluctuations
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
           - _meta
             - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
@@ -1878,7 +1895,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 14:30/1:01:49
+        - Videomark: 16:32/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -1886,7 +1903,7 @@
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
-  - Puzzle games
+  - Puzzle games 
     - Chess
   - Comprehensive development path
     - Learn Physics via games - *No more books for physics learning - The time has come*
@@ -1902,10 +1919,12 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 49.5%
-          - ETC: /
+          - CCS: 51.4%
+          - TEMP TIMESTAMP: 5:00
+          - ETC: 48d
           - INBOUND CACHE
             - Etherscan
+            - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
           - Directions?
             - ASICs design
               - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
@@ -1955,8 +1974,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 2 videos pro Tag
-          - CCS: 13.9%
-          - E.T.A: 26d
+          - CCS: 15.3%
+          - E.T.A: 60.5d
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -1989,13 +2008,46 @@
   - TOPIC Philosophy, psychology, law
     - German philogophy
       - Fredrick Nitszsche
-- Italian - B1 --> ACTIVE, OPTIONAL 3min/day
+- Italian - Lower B2 --> ACTIVE, OPTIONAL 3min/day
   - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
+  - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
+    - VOCAB\_FIELD \{CAPACITY_SETTING\}
+      - _meta
+        - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+        - mode: FIFO
+        - capacity: \{CAPACITY_SETTING\}
+      - _processing
+        - _inherit
+          - `ROOT_PROCESSING`
+      - **\{VERB\}** - \{_percentage\}
+      - **\{ADJECTIVE\}**
+        - SAMPLE_ADJECTIVE
+          - Adjective declension
+      - **\{NOUN\}**
+      - **\{ADVERB\}**
+      - TBD
+      - INBOUND CACHE
+        - \{`self`\}
+    - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
+      - [Il PRINCIPE di Niccolò MACHIAVELLI: spiegazione FACILE e VELOCE](https://www.youtube.com/watch?v=qZvriwlDPz4)
+      - Process 1:(Read for learning italian)
+        - Progress: 4/102 `...con gran diligenzia lungamente...`
+    - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
+    - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
+    - Progress(Slow language learning)
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
     - CCS: 8.8%
     - E.T.A: 39d
+    - TEMP TIMESTAMP: 10:00
+    - Questions set --> `*-business_arsenal`
+      - Partner Market Evaluation
+        - How rich is the market with ideal partners given your integration strategy?
+          - _self
+            - *Come è*
+          - Are there enough meaningful partners to make this growth strategy effective?
+        - 
     - _meta-escalate
       - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
         - Deal with humen being
@@ -2020,6 +2072,13 @@
           - Be aware at all times that most people generally opt for the path of least resistance
           - Build the habit of doing post-mortems that explicitly focus on bottle-neck identification
             - Where was the compliance breakdown
+        - Ideal Partner
+          - Serves this very specific customer
+          - Has this many users/customers
+          - Possess this company DNA
+            - Cultural and working relationship fit
+          - Desires this benefit we can provided(priority)
+          - Will never build this themselves(product integration)
   - Music/Composing Theory
     - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
     - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
@@ -2048,12 +2107,14 @@
   - TOPIC: WTF?
     - AWS CloudFormation Master Class v2 [2022]
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 30.9%
+      - CCS: 31.2%
       - E.T.A: 5.75 months
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function
+  - Efficient International Input for other languages
+    - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35) 
   - VOCAB\_FIELD \{CAPACITY_SETTING\}
     - _meta
       - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
@@ -2090,7 +2151,7 @@
     - INBOUND CACHE
       - \{`self`\}
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 74.3%
+  - Initialization of language/meta structrure: 77.6%
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
@@ -2133,11 +2194,11 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 34.9%
+  - Initialization of language/meta structrure: 35.6%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 49.1%
+  - Initialization of language/meta structrure: 50.2%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1 +
@@ -2150,7 +2211,7 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-          - Videomark: 6:00
+          - Videomark: 8:00
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -2160,23 +2221,24 @@
               - _inherit
                 - `ROOT_PROCESSING`
             - **глагол** - 20%
-              - повзрослеть - 90%
               - собираться - 5%
             - **прилагательное**
               - образованный - 80%
               - разумный - 30%
             - **наречие**
-                - разумеется
+              - разумеется - 80%
             - **существительное**
+              - сердце
             - INBOUND CACHE
               - **прилагательное**
                 - взрослый
               - **глагол**
+                - потренироваться
+                - сделать
                 - говорить
               - **наречие**
               - **существительное**
                 - милый
-                - сердце
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
     - Tool
@@ -2223,16 +2285,19 @@
     - _processing
       - _inherit
         - `ROOT_PROCESSING`
-    - **\{VERB\}** - \{_percentage\}
+    - Verb
+      - μπορώ - 5%
     - **\{ADJECTIVE\}**
       - SAMPLE_ADJECTIVE
         - Adjective declension
     - **\{NOUN\}**
     - **\{ADVERB\}**
-    - TBD
+    - Pronoun
+      - αυτή
     - INBOUND CACHE 5
+      - Verb
+        - ανακαλύπτω
       - συντεταγμένη
-      - μπορώ
       - βλέπω
       - πλέγμα
       - τό
@@ -2253,7 +2318,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 1:19
+        - Videomark: 2:23
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `

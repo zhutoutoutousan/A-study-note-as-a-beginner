@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Tooling](#tooling)
 - [Erudition](#erudition)
 - [Person Profiling](#person-profiling)
   - [Case Analysis](#case-analysis)
@@ -10,6 +11,11 @@
   - [Meta Models](#meta-models-2)
 - [Country Profiling](#country-profiling)
   - [Meta Models](#meta-models-3)
+
+
+# Tooling
+- IBM i2 Analyst's Notebook
+- Maltego
 
 # Erudition
 - Criminal Profiling: An Introduction to Behavioral Evidence Analysis

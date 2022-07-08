@@ -16,6 +16,7 @@
   - [Main theme： How the hell am I going to survive this one?](#main-theme-how-the-hell-am-i-going-to-survive-this-one)
 - [STICKY | 软件特种团队管理](#sticky--软件特种团队管理)
 - [2022/6/25](#2022625)
+- [2022/7/7](#202277)
 
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
@@ -1448,9 +1449,9 @@
           - Videomark: 26:12/26:12
           - CCS: 53.7%
         - [ACCA F7INT - 11. Statement of cash flows](https://www.youtube.com/watch?v=W_VkDH-Ltyg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=95)
-          - Videomark: 0/10:41
+          - Videomark: 10:41/10:41
           - CCS: 54.3%
-          - Conceptual Famework | FOLLOWING
+          - Conceptual Famework
             - _meta
               - prerequisite
                 - factoring company
@@ -1692,6 +1693,18 @@
                   - Goodwill
                 - Subsequent periods
                 - Consolidated statement of comprehensive income
+              - Statement of cash flows
+                - Category
+                  - Operating cash flows
+                  - Financing cash flows
+                  - Investing cash flows
+                - Method
+                  - Direct
+                    - Performa
+                  - Indirect
+                - Critical points
+                  - **Cash operating profits(operating cash flow) - depreciation = Accounting operating profits(PBIT)**
+                  - **PBIT + depreciation = Operating cash flow**
               - Taxation
                 - Current Tax
                 - Deferred tax
@@ -1733,6 +1746,10 @@
                   - $assets-liabilities=equity=capital+reserves$
                 - Income
                   - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
+        - [ACCA F8INT - 1. Audit reports](https://www.youtube.com/watch?v=ZnZFycIm9oY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=96)
+          - Videomark: 0/8:25
+          - CCS: 54.9%
+          - E.T.C: 2.5 months
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -1804,8 +1821,12 @@
           - Specific Functions of Accounting and Internal Financial Control
           - Leading and Managing Individuals and Teams
           - Recruiting and Developing Effective Employees
-    - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
-      - Videomark: 5:14/2:05:53
+    - Political Science Bundle
+      - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
+        - Videomark: 5:14/2:05:53
+      - Power and Politics in Today’s World
+        - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
+          - Videomark: 0:54
     - DISCOVERED CAREER PATH
       - Corporate liquidator
         - Finantial mathematics
@@ -1849,7 +1870,7 @@
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
         - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
-          - Videomark: 9:56/20:26
+          - Videomark: 15:00/20:26
           - CCS: 3.3%
           - BFS source
             - _struct
@@ -1906,6 +1927,14 @@
   - Puzzle games 
     - Chess
   - Comprehensive development path
+    - AI workshop --> ACTIVE ON `Blockchain complete`
+      - GPT-3
+        - Basics
+          - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
+          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA)
+        - Wudao
+      - DALL-E
+        - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
     - Learn Physics via games - *No more books for physics learning - The time has come*
       - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
         - DEVIATION: In tandem with **Dutch**
@@ -1915,13 +1944,13 @@
         - [Datalore](https://datalore.jetbrains.com/notebook/)
     - **Web 5.0+**
       - **DAO** --> **ACTIVE** 10min/day
-        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day
+        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day --> 2X speed & SHALLOW HANDS-ON
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 51.4%
+          - CCS: 53.4%
           - TEMP TIMESTAMP: 5:00
-          - ETC: 48d
+          - ETC: 23d
           - INBOUND CACHE
             - Etherscan
             - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
@@ -1966,6 +1995,7 @@
     - Cybersecurity
       - IDW
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
+      - Learn Ethical Hacking From Scratch - U
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
       - Related Mathematics
@@ -1973,13 +2003,14 @@
     - Competitive Programming
       - _manual-control-override
         - Advanced React and Redux
-        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 2 videos pro Tag
-          - CCS: 15.3%
-          - E.T.A: 60.5d
+        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
+          - CCS: 21.2%
+          - E.T.A: 1.5 months
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
                 - `yarn global add @nestjs/schematics`+ update
+            - `Lodash` cannot call problem
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of Nest.js & Advanced React**
         - CCS: 4.2%
         - ETC: /
@@ -2038,16 +2069,68 @@
     - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
     - Progress(Slow language learning)
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 8.8%
-    - E.T.A: 39d
-    - TEMP TIMESTAMP: 10:00
-    - Questions set --> `*-business_arsenal`
-      - Partner Market Evaluation
-        - How rich is the market with ideal partners given your integration strategy?
-          - _self
-            - *Come è*
-          - Are there enough meaningful partners to make this growth strategy effective?
-        - 
+    - CCS: 5%
+    - E.T.A: 3.2 months
+      - *The calculation method should be based on hours instead of counts*
+    - TEMP TIMESTAMP: /
+    - ? --> `*-business_arsenal`
+      - Predefined metric
+      - Business Partnership
+        - Partner Market Evaluation
+          - How rich is the market with ideal partners given your integration strategy?
+            - _self
+              - Italian
+                - *Come è che questo significa in realtà è capire come è ricco il mercato con i partner ideali data la tua strategia di integrazione*
+            - Are there enough meaningful partners to make this growth strategy effective?
+          - Are these relationships repeatable across partners or are there clear conflict of interests?
+            - _self
+              - Italian
+                - *Vuoi chiedere a te stesso se queste relazioni in questo ricco mercato di partner sono ripetibili tra partner o c'è un conflitto di interessi e ciò che intendo è una brutta relazione con uno di questi partner ideali*
+        - Partner Evaluation
+          - Meaningful, but not the biggest fish in the pond
+            - *Dovrebbero mirare a qualcosa che sia significativo ma non necessariamente il più grande pesce nello stagno*
+            - CUT THE CLUTTER
+          - Goal
+            - To drive growth
+              - *Guidare la crescita*
+            - Obtain understanding about this growth channel
+              - *Ottenere una comprensione di questo canale di crescita*
+            - Achieve verifiable results for a case study
+              - *Raggiungere i risultati incaricati del caso studio*
+            - Social Proof
+              - *Una prova sociale*
+        - Initial Partnership
+          - Friendly companies
+            - Initial buy-in required for momentum and case studies is easier to get from friends
+              - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
+          - Un-friendly companies
+            - Unbiased feedback
+              - *Un feedback imparziale*
+        - Early Partner Evaluation Framework
+          - _alt
+            - 1
+              - Most important metric
+              - Ideal customer and their intent
+              - Partner fit
+          - Size of opportunity
+          - Culture fit(engineering, design, etc)
+          - Track record
+            - Easy to work with or a giant pain?
+        - Parner Evaluation Recon
+          - **Look at their website or articles revealing metrics**
+            - **Model the SOP**
+          - **Try to find people that have worked with them before**
+            - **Partners or clients section on their website**
+          - **Look at past deals and try to get a sense of whether they were successful**
+      - BD Growth Strategy
+        - What route can your company realistically handle at this point?
+          - *Se una via in cui la tua azienda gestisce realisticamente la disciplina, hai abbastanza ingegneri per fare rapporti di prodotto?*
+        - Where do you possess leverage in the market?
+          - *Più basso e per quello che stiamo facendo, dove riusciamo a sfruttare nuovamente il mercato?*
+        - What can you test quickly?
+          - *Vuoi chiederti cosa puoi dirci velocemente?*
+          - And who can you do this with?
+            - *È una persona che potrebbe essere in grado di fare il test in fretta o è qualcuno con una storia di essere incredibilmente lento e davvero difficile da lavorare*
     - _meta-escalate
       - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
         - Deal with humen being
@@ -2107,14 +2190,38 @@
   - TOPIC: WTF?
     - AWS CloudFormation Master Class v2 [2022]
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 31.2%
-      - E.T.A: 5.75 months
+      - CCS: 32.2%
+      - E.T.A: 5.65 months
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
-- _helper-function
+- _helper-function --> `_root_processing-language-meta`
+  - Mindset Field
+    - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
+      - _meta-escalate
+        - *Even this, langaur is not even remotely enough, I want this pattern to propagatema to every last bit of manifested interaction, homeostasis if possible, even every last bit of quark-particle-level movement, ideally, it will creep into the occult realm*
+      - _meta
+        - erudition
+          - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
+            - Bookmark Field --> *In the future, Bookmark Field will be renamed to PROCESSING POINTER FIELD*
+              - Sweep: 20/1736
+              - Pruned: 0-15
+              - Struct: 15/15~18
+  - Save your life: How to fight language learning addiction
+    - **Strategy 0** - Wait until learning curve kicks in
+      - No other language allowed unless there be no environment for other meaningful activities
+      - Current Robbed time consumed by language addiction
+        - 4hours/(day * 8 Languages )
+          - EXPECTATION: 3.8hours NEXT ROUND
+        - `func failSafe(MAXIMUM_ACCEPTABLE_TIME=6)`
+          - *WTF? 6 languages a day?*
+    - Strategy 1 - Above and beyond: Deplete all the language resource in the world
+    - Strategy 2 - Create your own: Esperanto for the future
+    - Strategy 3 - Poison against poison: Coding/intellectual-challenge over language
   - Efficient International Input for other languages
-    - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35) 
+    - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
+    - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
+      - Use System Default Searching and copy, paste from there to do the job without extra keystroke
   - VOCAB\_FIELD \{CAPACITY_SETTING\}
     - _meta
       - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
@@ -2151,7 +2258,7 @@
     - INBOUND CACHE
       - \{`self`\}
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 77.6%
+  - Initialization of language/meta structrure: 77.9%
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
@@ -2194,11 +2301,11 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 35.6%
+  - Initialization of language/meta structrure: 36.2%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 50.2%
+  - Initialization of language/meta structrure: 50.8%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1 +
@@ -2211,7 +2318,7 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-          - Videomark: 8:00
+          - Videomark: 12:00
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -2220,24 +2327,35 @@
             - _processing
               - _inherit
                 - `ROOT_PROCESSING`
-            - **глагол** - 20%
-              - собираться - 5%
+                - lang_ru_processing
+                  - ONCE Conjugation, declension, reflection --> Pattern encoding + Shallow walkthrough
+                  - _self
+                    - `func growTree(self, *args, **kwargs)`
+                    - `func contributeToMeta(self, target, *args, **kwargs)`
+            - STATIC
+              - **личное местоимение**
+                - твой
+            - **глагол**
+              - собираться - 20%
+              - потренироваться
+              - сделать
             - **прилагательное**
-              - образованный - 80%
+              - образованный - 100%
               - разумный - 30%
+              - взрослый
             - **наречие**
-              - разумеется - 80%
             - **существительное**
               - сердце
             - INBOUND CACHE
               - **прилагательное**
-                - взрослый
+                - сложный
               - **глагол**
-                - потренироваться
-                - сделать
+                - понадеяться
+                - управлять
                 - говорить
               - **наречие**
               - **существительное**
+                - лодка
                 - милый
         - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
           - Иван Васильевич меняет профессию
@@ -2285,22 +2403,27 @@
     - _processing
       - _inherit
         - `ROOT_PROCESSING`
-    - Verb
-      - μπορώ - 5%
-    - **\{ADJECTIVE\}**
-      - SAMPLE_ADJECTIVE
-        - Adjective declension
-    - **\{NOUN\}**
-    - **\{ADVERB\}**
-    - Pronoun
-      - αυτή
-    - INBOUND CACHE 5
+    - STATIC
+      - που
+    - VOLATILE
       - Verb
-        - ανακαλύπτω
-      - συντεταγμένη
-      - βλέπω
-      - πλέγμα
-      - τό
+        - μπορώ - 5%
+      - **\{ADJECTIVE\}**
+        - SAMPLE_ADJECTIVE
+          - Adjective declension
+      - **\{NOUN\}**
+      - **\{ADVERB\}**
+      - Pronoun
+        - αυτή
+          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)
+      - INBOUND CACHE 5
+        - Verb
+          - ανακαλύπτω
+          - αντιμετωπίζω
+        - συντεταγμένη
+        - βλέπω
+        - πλέγμα
+        - τό
   - _meta
     - topic
       - anatomy
@@ -2312,13 +2435,14 @@
       - GPT-3
       - Minerva
         - [Minerva](https://github.com/dmlc/minerva)
-        - [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/pdf/2206.14858.pdf)
+        - [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/pdf/2206.14858.pdf) --> **ACTIVE** | END ON EOV
+          - Papermark: *success in a variety*
     - _RULES
       - Always use Coding/LaTeX-based learning as an initiator, with book + dual-subtitle video as gap filling material for continuous watering
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 2:23
+        - Videomark: 5:31/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
@@ -2415,3 +2539,8 @@
   - 全球视野, 全球观察, 全球认可
 - 当你会十五种语言时
   - 我就想在家碎觉觉耶( •̀ ω •́ )y
+
+
+# 2022/7/7
+- Hey man, you're losing it, you're gone!
+- You need to plan a long vacation for all of those patterns to sink into your brain

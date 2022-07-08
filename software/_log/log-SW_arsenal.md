@@ -95,8 +95,8 @@
 - dbforge
 
 # Shiny Object Journey
+- AWS CodeWhisperer
 - Copilot
-  - `一直沉睡, 不造啥时候醒来`
 - Docker
   - Docker: WSL 2 integration with distro Ubuntu 20.04 unexpectedly stopped with exit code 1
     - `The command 'docker' could not be found in this WSL 2 distro. We recommend to activate the WSL integration in Docker Desktop settings.`

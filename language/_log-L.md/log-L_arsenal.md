@@ -9,3 +9,8 @@
     - [Russiangram](https://russiangram.com/)
 
 www.home-for-researchers.com
+
+
+# Translation
+- Russian
+  - [Ruscorpora](https://ruscorpora.ru/)

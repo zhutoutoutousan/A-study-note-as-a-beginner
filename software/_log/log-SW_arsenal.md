@@ -168,9 +168,11 @@
    - Architecture planning
      - [GitHub - architecture-decision](https://github.com/joelparkerhenderson/architecture-decision-record#what-is-an-architecture-decision-record)
     - AWS
-      - VSCodeExtension: AWS Toolkit
-      - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
-        - Videomark: 13:09
+      - Vscode Extension
+        - VSCodeExtension: AWS Toolkit
+        - [Tools for Building Your MVP on AWS](https://www.youtube.com/watch?v=nm56SJW42kI&t=706)
+          - Videomark: 13:09
+        - cfn-lint
     - Software Design
       - [Diagramm as Code](https://github.com/mingrammer/diagrams)
       - PlantUML

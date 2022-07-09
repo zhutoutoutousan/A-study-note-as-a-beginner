@@ -207,7 +207,7 @@
     - **Q1**
     - Q49
     - Q107
-  - Billing
+  - Cost Management
     - Q55 - 1
     - Q55
     - Q70
@@ -290,7 +290,11 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q160/Q616
+  - Sweepmark: Q168/Q616
+  - MARKING TEMPLATE
+    - PBQ
+  - QUEUED ACTIONS
+    - PUMP documents to constant field
   - Q1~Q100
     - Security & Compliance
       - Uncategorized
@@ -324,21 +328,23 @@
       - Q20
       - Q24 
       - Q56 - 80%
-    - UX
-      - Login
-        - PBQ158 - 80%
     - Disaster Recovery
       - Q33
     - Responsibility Model
       - Q34
-    - CW
-      - Q21
-      - Q22
-      - Q27
-      - Q46
-      - Q52 - 70%
+    - Monitoring & Performance
+      - CW
+        - PBQ167
+      - PBQ21
+      - PBQ22
+      - PBQ27
+      - PBQ46
+      - PBQ52 - 70%
         - Step and simple scaling policies for AWS EC2 Auto Scaling
-    - IAM
+    - Identity Management
+      - IAM
+        - Cross account management
+          - PBQ166
       - Q3
       - Q39 - LDAP
     - CLI
@@ -359,15 +365,23 @@
     - AWS Artifact
       - Q9
     - Troubleshooting
+      - Availability - 503
+        - PBQ165 - 50%
       - Q55 - 80%
+      - Performance
+        - Login
+          - PBQ158 - 80%    
     - AWS Config
       - Q10
       - Q50
       - Q54
-    - Resource Management
-      - Tagging
-        - PBQ156 - 80%
-          - Service Catalog
+    - Governance & Management
+      - Resource Management
+        - Tagging
+          - PBQ156 - 80%
+            - Service Catalog
+      - AWS Perosnal Health Dashboard
+        - PBQ164 - 30%
     - Storage
       - EFS
         - PBQ160 - 80%

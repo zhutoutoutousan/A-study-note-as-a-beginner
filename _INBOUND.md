@@ -24,6 +24,8 @@ https://www.mail-archive.com/
 
 # Advanced
 - Feedly
+- JSTOR
+  - [JSTOR](https://www.jstor.org/)
 # Flow
 - ACTIVE: Set Dynamic Information Inbound Rule every day for minimum psychological disruption
   - 2022/2/7

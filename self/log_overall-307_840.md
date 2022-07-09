@@ -1747,9 +1747,49 @@
                 - Income
                   - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
         - [ACCA F8INT - 1. Audit reports](https://www.youtube.com/watch?v=ZnZFycIm9oY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=96)
-          - Videomark: 0/8:25
+          - Videomark: 8:25/8:25
           - CCS: 54.9%
           - E.T.C: 2.5 months
+        - [ACCA F8INT - 2. Ethics](https://www.youtube.com/watch?v=OnQmF_PUCYs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=97)
+          - Videomark: 0/10:01
+          - CCS: 55.4%
+          - E.T.C: 2.47 months
+          - STRUCT_audit | Following
+            - Term field
+              - Title
+              - Addresse
+              - Introductory paragraph
+              - Statement of responsibilities of management
+              - Statement of responsibilities of the auditors
+              - Score paragraph
+              - Opinion
+              - Auditor's signiture
+              - Date of report
+              - Auditor's address
+            - Documentations
+              - ISA 700
+            - Skills
+              - Audit report making
+                - Decision tree
+            - Entity
+              - Modified Audit Reports
+                - _meta
+                  - working definition of materiality
+                    - *transactions and other events are likely to be seen as material in the context of a company's financial statements if their omission, misstatemennt or non-disclosure would matter to a proper understanding of such financial statements on the part of a potential user*
+                - ~ with Unqualified Opinion
+                  - emphasis of mattter
+                    - a separate heading
+                    - positioned after the opinion paragraph
+                    - made clear that the audit opinion is not qualified - start with *Without qualifying our opinion we draw attention to ...*
+                - ~ with qualified opinion
+                  - ISA 700 - Limite on scope, Disagreement
+                  - Material but not pervasive
+                  - Material and pervasive
+            - Role
+              - Independent auditor
+                - ~ must report their opinion in respect of two main issues
+                  - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
+                  - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -1869,9 +1909,9 @@
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
-        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML](https://www.youtube.com/watch?v=aBHC6xzx9YI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
+        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.3 - Choice of Graph Representation​](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3)
           - Videomark: 15:00/20:26
-          - CCS: 3.3%
+          - CCS: 5%
           - BFS source
             - _struct
               - Information/knowledge
@@ -1902,12 +1942,13 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 35%
-        - Videomark: 23:16/1:00:17
+        - CCS: 44.2%
+        - Videomark: 26:16/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
           - INBOUND CACHE
             - Quantum Vaccum Fluctuations
+            - [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems#:~:text=Hamilton%2C%20upon%20whose%20work%20Perelman,Mills%20existence%20and%20mass%20gap.)
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
           - _meta
             - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
@@ -1916,7 +1957,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 16:32/1:01:49
+        - Videomark: 17:32/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -1931,7 +1972,8 @@
       - GPT-3
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
-          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA)
+          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | HANDS-ON 3 min/day**
+            - Videomark: 3:07/1:00:17
         - Wudao
       - DALL-E
         - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
@@ -1948,12 +1990,13 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 53.4%
-          - TEMP TIMESTAMP: 5:00
-          - ETC: 23d
+          - CCS: 55.4%
+          - TEMP TIMESTAMP: 4:00
+          - ETC: 22.5d
           - INBOUND CACHE
             - Etherscan
             - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
+            - SegWit
           - Directions?
             - ASICs design
               - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
@@ -1992,10 +2035,6 @@
     - Cloud Computing
       - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
       - Learn AWS The Hard Way
-    - Cybersecurity
-      - IDW
-      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery
-      - Learn Ethical Hacking From Scratch - U
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
       - Related Mathematics
@@ -2004,8 +2043,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 21.2%
-          - E.T.A: 1.5 months
+          - CCS: 22.6%
+          - E.T.A: 1.72 months
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2068,9 +2107,22 @@
     - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
     - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
     - Progress(Slow language learning)
+  - Competitor liquidation & engulfment: Orchestration & Automation
+    - CS toolkit
+      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 1e/d**
+        - CCS: 0.4%
+    - Financial toolkit
+      - Forensic Accounting
+      - Financial instrument attack
+    - PR toolkit
+      - Case study
+        - ZXG --> MTG
+    - HR toolkit
+    - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 5%
-    - E.T.A: 3.2 months
+    - CCS: 5.3%
+    - TEMP TIMESTAMP: 10
+    - E.T.A: 10.5months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
     - ? --> `*-business_arsenal`
@@ -2101,18 +2153,52 @@
               - *Una prova sociale*
         - Initial Partnership
           - Friendly companies
-            - Initial buy-in required for momentum and case studies is easier to get from friends
-              - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
+            - PROS
+              - Initial buy-in required for momentum and case studies is easier to get from friends
+                - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
+            - SEQUENCE
+              - Determine the companies that you have a warm relationship with that might make sense
+                - *Determinare tutte le società con cui hai relazioni affettuosi*
+              - Before you go about creating a pitch see if you can have a candid conversation about their hierarchy of needs and priorities
+                - *Prima di iniziare a creare un Pitch che tu proponi una soluzione esatta e tutte le cose che vuoi, prendere la mentalità che la cosa migliore che puoi fare inzialmente è semplicemente avere una conversazione sincera per capire davvero se c'è qualche possibilità che le tue aziende lavorino insieme data la loro gerarchia e priorità*
+              - Come back with
+                - Clear value proposition
+                  - *Una chiara proposta di valore*
+                - Frictionless set up
+                  - *Iniziare senza freni*
+                - Agreed-upon process
+                  - *Un processo concordato*
+                - Agreed-upon follow up to next steps
+                  - *Il follow-up specifico ai prossimi passi*
           - Un-friendly companies
-            - Unbiased feedback
-              - *Un feedback imparziale*
+            - PROS
+              - Unbiased feedback
+                - *Un feedback imparziale*
+            - SEQUENCE
+              - A hit list, a list of every prospective partner, client, customer etc
+                - Items
+                  - Company name
+                  - Last day of contact
+                  - Activity(on last day of contact)
+                  - Stakeholder or decision maker
+                  - Email address
+                  - Prioritization mechanism(SOP)
+                - Container
+                  - Sales tracking software(Salesforce, Highrise)
+                  - Stride(low volume, high leverage contacts)
+                  - "Make one yourself for fun"
+                - `Meeting note as code`
+                - Batch Processing SEQUENTIAL
+                  - Start by getting all the companies
+                  - Finding the stakeholder at each company
+                  - Finding the stakeholder's email address and/or phone
         - Early Partner Evaluation Framework
           - _alt
             - 1
               - Most important metric
               - Ideal customer and their intent
               - Partner fit
-          - Size of opportunity
+          - Size of opportunity 
           - Culture fit(engineering, design, etc)
           - Track record
             - Easy to work with or a giant pain?
@@ -2189,13 +2275,26 @@
   - TOPIC: Copywriting
   - TOPIC: WTF?
     - AWS CloudFormation Master Class v2 [2022]
+      - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 32.2%
-      - E.T.A: 5.65 months
+      - CCS: 32.6%
+      - E.T.A: 5.62 months
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
+  - Language addiction analysis
+    - Actual Addiction Manifestation
+      - Action
+        - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
+        - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
+      - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
+      - Duration: 3.5 hours
+      - NEXT Duration target: 3.2 hours ON NEXT DAY
+    - Control technique
+      - Reduce time consumed by learning curve
+      - Reduce time consumed by discipline
+      - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
   - Mindset Field
     - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
       - _meta-escalate
@@ -2318,7 +2417,7 @@
       - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
       - Мультфильмы Серия - Kids Cartoons
         - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-          - Videomark: 12:00
+          - Videomark: 14:00
           - VOCAB\_FIELD \{5\}
             - _meta
               - tooling: Reverso + wiktionary + Russiangram
@@ -2335,12 +2434,13 @@
             - STATIC
               - **личное местоимение**
                 - твой
+              - **Без рубрики**
+                - какой
             - **глагол**
               - собираться - 20%
               - потренироваться
               - сделать
             - **прилагательное**
-              - образованный - 100%
               - разумный - 30%
               - взрослый
             - **наречие**
@@ -2353,6 +2453,7 @@
                 - понадеяться
                 - управлять
                 - говорить
+                - вырастить
               - **наречие**
               - **существительное**
                 - лодка
@@ -2403,27 +2504,37 @@
     - _processing
       - _inherit
         - `ROOT_PROCESSING`
-    - STATIC
-      - που
-    - VOLATILE
-      - Verb
-        - μπορώ - 5%
-      - **\{ADJECTIVE\}**
-        - SAMPLE_ADJECTIVE
-          - Adjective declension
-      - **\{NOUN\}**
-      - **\{ADVERB\}**
+    - STATIC | PPROCESSING\_CAPACITY 1
+      - **ερωτηματικός**
+        - που - 5%
+      - **χωρίς κατηγοριοποίηση**
+    - VOLATILE | PPROCESSING\_CAPACITY 1
+      - **ρήμα**
+        - μπορώ - 10%
+      - **επίθετο**
+      - **ουσιαστικό**
+      - **επίρρημα**
       - Pronoun
         - αυτή
           - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)
       - INBOUND CACHE 5
-        - Verb
+        - **ρήμα**
           - ανακαλύπτω
           - αντιμετωπίζω
-        - συντεταγμένη
-        - βλέπω
-        - πλέγμα
-        - τό
+        - **επίθετο**
+        - **ουσιαστικό**
+        - **επίρρημα**
+        - **χωρίς κατηγοριοποίηση**
+          - συντεταγμένη
+          - βλέπω
+          - πλέγμα
+          - τό
+  - TOPIC Rigorous science
+    - Linear Algebra
+      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
+        - Videomark: 6:47/11:40:18
+    - Mathemathical thinking
+      - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
     - topic
       - anatomy
@@ -2439,17 +2550,10 @@
           - Papermark: *success in a variety*
     - _RULES
       - Always use Coding/LaTeX-based learning as an initiator, with book + dual-subtitle video as gap filling material for continuous watering
-  - TOPIC Rigorous science
-    - Linear Algebra
-      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 5:31/11:40:18
-    - Mathemathical thinking
-      - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
-  - `CREATE TABLE greek.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
 - Hebrew - N/A
   - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
 - Latin - N/A
-
+- Japanese - Upper N4
 
 # STICKY Monthly Micro PIP
 - ACTION ITEM

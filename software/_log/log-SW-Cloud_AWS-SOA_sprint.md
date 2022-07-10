@@ -290,12 +290,22 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q168/Q616
+  - Sweepmark: Q187/Q616
+  - _schema
+    - Monitoring, Logging, and Remediation
+    - Reliability and Business Continuity
+    - Deployment, Provisioning, and Automation
+    - Security and Compliance
+    - Networking and Content Delivery
+    - Cost and Performance Optimization
+    - Labs
   - MARKING TEMPLATE
     - PBQ
   - QUEUED ACTIONS
     - PUMP documents to constant field
   - Q1~Q100
+    - Cost and Performance Optimization
+      - PBQ184 - 60%
     - Security & Compliance
       - Uncategorized
         - PBQ1
@@ -315,32 +325,59 @@
       - Sharing
         - AMI
           - PBQ154 - 80%
-    - Automation
+    - Deployment, Provisioning, and Automation
       - _Docmark
         - _link
-      - Q2
-      - **Q43**
-      - Q153
-    - CDN
-      - Q69 - 90%
-    - Availability
-      - Q13
-      - Q20
-      - Q24 
-      - Q56 - 80%
-    - Disaster Recovery
-      - Q33
-    - Responsibility Model
-      - Q34
+      - CloudFormation
+        - PBQ173 - 60%
+        - PBQ181 - 50%
+      - EC2
+        - PBQ177 - 50%
+      - Troubleshooting
+        - PBQ178 - 60%
+        - Networking
+          - PBQ186
+      - SSL
+        - PBQ187 - 10%
+      - Storage
+        - EFS
+          - PBQ160 - 80%
+        - S3
+          - PBQ179 - 80%
+        - Q14
+        - Q23
+        - **Q41**
+          - RAID 0 for EBS
+        - **Q44**
+        - Data Retention
+          - PBQ155 - 80%
+      - PBQ2
+      - **PBQ43**
+      - PBQ153
+      - Availability
+        - Q13    
+        - CDN
+          - Q69 - 90%
+        - Q20
+        - Q24 
+        - Q56 - 80%
+      - ELB
+        - Q42
+          - receeived 0 success singal(s) out of 1
     - Monitoring & Performance
       - CW
         - PBQ167
-      - PBQ21
-      - PBQ22
-      - PBQ27
-      - PBQ46
-      - PBQ52 - 70%
-        - Step and simple scaling policies for AWS EC2 Auto Scaling
+      - Responsive scaling
+        - PBQ171
+      - VPC Flow Log
+        - PBQ175
+      - Uncategorized
+        - PBQ21
+        - PBQ22
+        - PBQ27
+        - PBQ46
+        - PBQ52 - 70%
+          - Step and simple scaling policies for AWS EC2 Auto Scaling
     - Identity Management
       - IAM
         - Cross account management
@@ -353,17 +390,6 @@
       - Q88 - 90%
     - EC2
       - Q5
-    - Cost Management
-      - **Q6**
-      - Q30
-      - Q36
-      - Q57 - 90%
-    - System Manager
-      - Q7
-    - Service Catalog
-      - Q8
-    - AWS Artifact
-      - Q9
     - Troubleshooting
       - Availability - 503
         - PBQ165 - 50%
@@ -375,26 +401,34 @@
       - Q10
       - Q50
       - Q54
-    - Governance & Management
+    - Governance & Orchestration
+      - Configuration Management - OpsWorks
+        - PBQ172 - 20%
       - Resource Management
-        - Tagging
+        - Cost Management
+          - **Q6**
+          - Q30
+          - Q36
+          - Q57 - 90%
+        - System Manager
+          - Q7
+        - Service Catalog
+          - Q8
+        - AWS Artifact
+          - Q9
+        - Tag management
           - PBQ156 - 80%
             - Service Catalog
-      - AWS Perosnal Health Dashboard
-        - PBQ164 - 30%
-    - Storage
-      - EFS
-        - PBQ160 - 80%
-      - Q14
-      - Q23
-      - **Q41**
-        - RAID 0 for EBS
-      - **Q44**
-      - Data Retention
-        - PBQ155 - 80%
-    - ELB
-      - Q42
-        - receeived 0 success singal(s) out of 1
+        - AWS Perosnal Health Dashboard
+          - PBQ164 - 30%
+        - AWS Trusted Advisor
+          - PBQ170
+          - PBQ182 - 70%
+        - Disaster Recovery
+          - Q33
+      - Responsibility Model
+        - Q34
+
     - Scale
       - Q25
       - Q31
@@ -407,14 +441,22 @@
         - Direct Connect Gateway
     - SQS
       - Q26
-    - VPC
-      - PBQ12
-      - PBQ16
-      - PBQ19
-      - PBQ32
-      - PBQ49
-      - IPV6
-        - PBQ161
+    - Networking & Content Delivery
+      - VPC
+        - NACL configuration
+          - PBQ176 - 20%
+            - Doc: Control traffic to subnets using Network ACLs
+        - VPC Peering
+          - PBQ183
+        - VPC Endpoint
+          - PBQ185 - 20%
+        - PBQ12
+        - PBQ16
+        - PBQ19
+        - PBQ32
+        - PBQ49
+        - IPV6
+          - PBQ161
 # Hands-on Lab
 - _alias
   - PASS THE EXAM: PTE

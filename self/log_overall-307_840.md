@@ -1751,9 +1751,13 @@
           - CCS: 54.9%
           - E.T.C: 2.5 months
         - [ACCA F8INT - 2. Ethics](https://www.youtube.com/watch?v=OnQmF_PUCYs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=97)
-          - Videomark: 0/10:01
+          - Videomark: 10:01/10:01
           - CCS: 55.4%
           - E.T.C: 2.47 months
+        - [ACCA F8INT - 3. Audit Letters](https://www.youtube.com/watch?v=bMrS7NESCNI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=98)
+          - Videomark: /
+          - CCS: 56%
+          - E.T.C: 2.44 months
           - STRUCT_audit | Following
             - Term field
               - Title
@@ -1766,6 +1770,29 @@
               - Auditor's signiture
               - Date of report
               - Auditor's address
+            - Ethics
+              - TOPIC
+                - Technical(professional) competence and due care
+                  - *Compétences professionnelles ou techniques et diligence*
+                - Objectivity must be demonstrated
+                - Professional behaviour must be demonstrated
+                  - *Le comportement professionnel*
+                - Integrity
+                  - *La Intégrité*
+                - Confidentiality
+                  - *La confidentialité*
+              - Threats
+                - Self-interest - e.g. owning shares in a client company
+                  - *L'intérêt personnel - un intérêt financier danes les actions d'une entreprise cliente*
+                - Self-review
+                  - *L'examen même*
+                - Familiarity
+                  - *Familiarité - Famile relation agir en tant qu'auditeur pour accompagner le travail est-ce que le PDG*
+                - Intimidation
+                - Advocacy
+              - Safeguard against threats
+              - Practices
+                - STIPULATIONS ON BRANDING An auditor must proactively publicize integrity behaviour, quasi periodic public ethics challenge
             - Documentations
               - ISA 700
             - Skills
@@ -1909,9 +1936,16 @@
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
-        - [Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.3 - Choice of Graph Representation​](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3)
-          - Videomark: 15:00/20:26
-          - CCS: 5%
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node​](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
+          - Videomark: /
+          - CCS: 6.6%
+          - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
+            - Matrix Graph Visualization
+              - _self
+                - value
+                - equivalent orchestration alternative
+              - Resource
+                - [15:39~](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
           - BFS source
             - _struct
               - Information/knowledge
@@ -1942,8 +1976,8 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 44.2%
-        - Videomark: 26:16/1:00:17
+        - CCS: 50%
+        - Videomark: 30:00/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
           - INBOUND CACHE
@@ -1957,7 +1991,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 17:32/1:01:49
+        - Videomark: 19:00/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -1973,7 +2007,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | HANDS-ON 3 min/day**
-            - Videomark: 3:07/1:00:17
+            - Videomark: 7:01/1:00:17
         - Wudao
       - DALL-E
         - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
@@ -1990,13 +2024,15 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 55.4%
+          - CCS: 59.2%
           - TEMP TIMESTAMP: 4:00
-          - ETC: 22.5d
+          - ETC: 10.7d
           - INBOUND CACHE
+            - Elliptic-curve cryptography
             - Etherscan
             - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
             - SegWit
+              - Understanding Segwit Block Size
           - Directions?
             - ASICs design
               - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
@@ -2043,8 +2079,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 22.6%
-          - E.T.A: 1.72 months
+          - CCS: 24.1%
+          - E.T.A: 1.68 months
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2120,14 +2156,33 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 5.3%
-    - TEMP TIMESTAMP: 10
-    - E.T.A: 10.5months
+    - CCS: 5.8%
+    - TEMP TIMESTAMP: 20
+    - E.T.A: 6.28 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
     - ? --> `*-business_arsenal`
-      - Predefined metric
-      - Business Partnership
+      - SEQUENTIAL Predefined metric
+      - CONCURRENT Business reconissance
+        - Entity Identification & Profiling
+          - Search Engine
+            - Google, Bing, DDG, Яденкс
+          - Personal/Backdoor network 
+          - Competitor Sites(Partners/clients)
+          - The Internet
+            - [similarsites.com](https://www.similarsites.com/)
+            - [Manta](https://www.manta.com/)
+            - LinkedIn
+              - Mining
+                - Existing prospects' previous work histories
+                - Company followers
+                - Company page: people also viewed
+              - Stealth
+                - Signalhire - Could be Stale but `archive-ish`
+                  - API exploitation
+          - Domestic context
+            - *You have the right to shut up*
+      - SEQUENTIAL IF ZERO Business Partnership
         - Partner Market Evaluation
           - How rich is the market with ideal partners given your integration strategy?
             - _self
@@ -2208,7 +2263,7 @@
           - **Try to find people that have worked with them before**
             - **Partners or clients section on their website**
           - **Look at past deals and try to get a sense of whether they were successful**
-      - BD Growth Strategy
+      - CONCURRENT BD Growth Strategy
         - What route can your company realistically handle at this point?
           - *Se una via in cui la tua azienda gestisce realisticamente la disciplina, hai abbastanza ingegneri per fare rapporti di prodotto?*
         - Where do you possess leverage in the market?
@@ -2217,6 +2272,26 @@
           - *Vuoi chiederti cosa puoi dirci velocemente?*
           - And who can you do this with?
             - *È una persona che potrebbe essere in grado di fare il test in fretta o è qualcuno con una storia di essere incredibilmente lento e davvero difficile da lavorare*
+      - SEQUENTIAL Find The Initial Stakeholder
+        - _attitute
+          - Effective
+          - Fast
+          - Non-obstrusiveness when possible
+        - Find that person
+          - Rocketreach
+        - Pre-reaching Hitlist
+          - Entity profiling
+            - Maltego
+              - LinkedIn
+              - Grey Web
+            - Existing Network
+            - Informational cold call
+            - Press release
+            - Social Media
+              - Frontend extensive informational exploitation
+            - Comments section of relevant articles
+            - Former exmployees
+        - TBD
     - _meta-escalate
       - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
         - Deal with humen being
@@ -2277,8 +2352,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 32.6%
-      - E.T.A: 5.62 months
+      - CCS: 32.8%
+      - E.T.A: 11.2 months
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
@@ -2289,8 +2364,8 @@
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 3.5 hours
-      - NEXT Duration target: 3.2 hours ON NEXT DAY
+      - Duration: 2.83 hours
+      - NEXT Duration target: 2.8 hours ON NEXT DAY 
     - Control technique
       - Reduce time consumed by learning curve
       - Reduce time consumed by discipline
@@ -2306,17 +2381,6 @@
               - Sweep: 20/1736
               - Pruned: 0-15
               - Struct: 15/15~18
-  - Save your life: How to fight language learning addiction
-    - **Strategy 0** - Wait until learning curve kicks in
-      - No other language allowed unless there be no environment for other meaningful activities
-      - Current Robbed time consumed by language addiction
-        - 4hours/(day * 8 Languages )
-          - EXPECTATION: 3.8hours NEXT ROUND
-        - `func failSafe(MAXIMUM_ACCEPTABLE_TIME=6)`
-          - *WTF? 6 languages a day?*
-    - Strategy 1 - Above and beyond: Deplete all the language resource in the world
-    - Strategy 2 - Create your own: Esperanto for the future
-    - Strategy 3 - Poison against poison: Coding/intellectual-challenge over language
   - Efficient International Input for other languages
     - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
     - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
@@ -2412,66 +2476,76 @@
     - Style: In tandem with 
     - Current typing rate: 25 WPM
     - Minimum considerable rate: 40 WPM
-    - TOPIC | Preparatory --> ACTIVE 2min/day
-      - Уральская рябинушка
-      - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
-      - Мультфильмы Серия - Kids Cartoons
-        - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-          - Videomark: 14:00
-          - VOCAB\_FIELD \{5\}
-            - _meta
-              - tooling: Reverso + wiktionary + Russiangram
-              - mode: FIFO
-              - capacity: 5
-            - _processing
-              - _inherit
-                - `ROOT_PROCESSING`
-                - lang_ru_processing
-                  - ONCE Conjugation, declension, reflection --> Pattern encoding + Shallow walkthrough
-                  - _self
-                    - `func growTree(self, *args, **kwargs)`
-                    - `func contributeToMeta(self, target, *args, **kwargs)`
-            - STATIC
-              - **личное местоимение**
-                - твой
-              - **Без рубрики**
-                - какой
-            - **глагол**
-              - собираться - 20%
-              - потренироваться
-              - сделать
-            - **прилагательное**
-              - разумный - 30%
-              - взрослый
-            - **наречие**
-            - **существительное**
-              - сердце
-            - INBOUND CACHE
-              - **прилагательное**
-                - сложный
-              - **глагол**
-                - понадеяться
-                - управлять
-                - говорить
-                - вырастить
-              - **наречие**
-              - **существительное**
-                - лодка
-                - милый
-        - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
-          - Иван Васильевич меняет профессию
-    - Tool
-      - Stress finder
-        - [russiangram](https://russiangram.com/)
-          - Plus the chrome extension
-      - Omni Tool
-        - [russiantools.com](https://www.russiantools.com/)
-      - Noun declension checker
-        - [wiktionary](https://en.wiktionary.org/wiki)
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
-    - ?
-      - https://dabkrs.com/p47
+  - TOPIC | Preparatory --> ACTIVE 2min/day
+    - Уральская рябинушка
+    - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
+    - Мультфильмы Серия - Kids Cartoons
+      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
+        - Videomark: 16:10
+        - VOCAB\_FIELD \{5\}
+          - _meta
+            - tooling: Reverso + wiktionary + Russiangram
+            - mode: FIFO
+            - capacity: 5
+          - _processing
+            - _inherit
+              - `ROOT_PROCESSING`
+              - lang_ru_processing
+                - ONCE Conjugation, declension, reflection --> Pattern encoding + Shallow walkthrough
+                - _self
+                  - `func growTree(self, *args, **kwargs)`
+                  - `func contributeToMeta(self, target, *args, **kwargs)`
+          - STATIC
+            - **цифра**
+            - **Союзы**
+              - чем
+            - **личное местоимение**
+              - ты
+                - твой
+              - вы
+            - **Без рубрики**
+              - какой - 3%
+              - весь
+            - 
+          - **глагол**
+            - собираться - 20%
+            - потренироваться - 5%
+            - сделать - 5%
+          - **прилагательное**
+            - разумный - 30%
+            - взрослый
+          - **наречие**
+          - **существительное**
+            - сердце
+          - INBOUND CACHE
+            - **прилагательное**
+              - сложный
+              - корпоративный
+              - высокий
+            - **глагол**
+              - посчитать
+              - понадеяться
+              - управлять
+              - говорить
+              - вырастить
+            - **наречие**
+            - **существительное**
+              - лодка
+              - милый
+      - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
+        - Иван Васильевич меняет профессию
+  - Tool
+    - Stress finder
+      - [russiangram](https://russiangram.com/)
+        - Plus the chrome extension
+    - Omni Tool
+      - [russiantools.com](https://www.russiantools.com/)
+    - Noun declension checker
+      - [wiktionary](https://en.wiktionary.org/wiki)
+  - ?
+    - https://dabkrs.com/p47
 - Hindi - N/A
   - _meta
     - tool
@@ -2510,17 +2584,18 @@
       - **χωρίς κατηγοριοποίηση**
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
-        - μπορώ - 10%
+        - μπορώ - 20%
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
       - Pronoun
         - αυτή
           - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)
-      - INBOUND CACHE 5
+      - INBOUND CACHE ?
         - **ρήμα**
           - ανακαλύπτω
           - αντιμετωπίζω
+          - ξέρω
         - **επίθετο**
         - **ουσιαστικό**
         - **επίρρημα**
@@ -2532,7 +2607,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 6:47/11:40:18
+        - Videomark: 8:29/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

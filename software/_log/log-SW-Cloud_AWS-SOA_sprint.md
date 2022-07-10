@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q187/Q616
+  - Sweepmark: Q210/Q616
   - _schema
     - Monitoring, Logging, and Remediation
     - Reliability and Business Continuity
@@ -306,6 +306,21 @@
   - Q1~Q100
     - Cost and Performance Optimization
       - PBQ184 - 60%
+      - AWS Cost Explorer
+        - PBQ190 - 50%
+        - PBQ201 - 70%
+      - AWS Cost and Usage Report
+    - Reliability and Business Continuity
+      - AWS Organization
+        - PBQ197 - 70%
+      - RDS
+        - PBQ189 - 20%
+        - VPC Flow Log
+          - PBQ204
+      - S3
+        - PBQ200 - 80%
+      - ELB
+        - PBQ208 - 100%
     - Security & Compliance
       - Uncategorized
         - PBQ1
@@ -317,28 +332,84 @@
         - Q47
         - Q53 - 90%
         - PBQ51 - 80%
+      - AWS Secrets Manager
+        - PBQ210
       - MFA
         - PBQ159
+      - EFS
+        - PBQ191 - 80%
       - Attack defense
         - ALB
           - PBQ157
       - Sharing
         - AMI
           - PBQ154 - 80%
-    - Deployment, Provisioning, and Automation
-      - _Docmark
-        - _link
+      - Identity Management
+        - IAM
+          - Cross account management
+            - PBQ166
+          - S3
+            - PBQ194
+        - Q3
+        - Q39 - LDAP    
+      - Governance & Orchestration
+        - Configuration Management - OpsWorks
+          - PBQ172 - 20%
+        - Resource Management
+          - Cost Management
+            - **Q6**
+            - Q30
+            - Q36
+            - Q57 - 90%
+          - System Manager
+            - Q7
+          - Service Catalog
+            - PBQ8
+            - PBQ205
+          - AWS Artifact
+            - Q9
+          - Tag management
+            - PBQ156 - 80%
+              - Service Catalog
+          - AWS Perosnal Health Dashboard
+            - PBQ164 - 30%
+          - AWS Trusted Advisor
+            - PBQ170
+            - PBQ182 - 70%
+          - AWS Organization
+            - PBQ196 - 60%
+            - PBQ207 - 70%
+          - Disaster Recovery
+            - Q33
+        - Responsibility Model
+          - Q34
+    - Deployment, Provisioning, and Automation    
+      - AWS Config
+        - Q10
+        - Q50
+        - Q54
+      - ASG
+        - PBQ193
       - CloudFormation
         - PBQ173 - 60%
         - PBQ181 - 50%
+        - Cloudformation Stackset
+          - PBQ203
       - EC2
         - PBQ177 - 50%
       - Troubleshooting
         - PBQ178 - 60%
         - Networking
           - PBQ186
+      - Route 53
+        - PBQ195 - 20%
+          - Doc: API HealthCheckConfig
       - SSL
         - PBQ187 - 10%
+      - ELB
+        - PBQ188
+      - RDS
+        - PBQ192 - 70%
       - Storage
         - EFS
           - PBQ160 - 80%
@@ -367,8 +438,12 @@
     - Monitoring & Performance
       - CW
         - PBQ167
+        - CloudFront
+          - PBQ206 - 80%
       - Responsive scaling
         - PBQ171
+      - AWS Aurora
+        - PBQ209
       - VPC Flow Log
         - PBQ175
       - Uncategorized
@@ -378,57 +453,12 @@
         - PBQ46
         - PBQ52 - 70%
           - Step and simple scaling policies for AWS EC2 Auto Scaling
-    - Identity Management
-      - IAM
-        - Cross account management
-          - PBQ166
-      - Q3
-      - Q39 - LDAP
     - CLI
       - Q15
     - STS
       - Q88 - 90%
     - EC2
       - Q5
-    - Troubleshooting
-      - Availability - 503
-        - PBQ165 - 50%
-      - Q55 - 80%
-      - Performance
-        - Login
-          - PBQ158 - 80%    
-    - AWS Config
-      - Q10
-      - Q50
-      - Q54
-    - Governance & Orchestration
-      - Configuration Management - OpsWorks
-        - PBQ172 - 20%
-      - Resource Management
-        - Cost Management
-          - **Q6**
-          - Q30
-          - Q36
-          - Q57 - 90%
-        - System Manager
-          - Q7
-        - Service Catalog
-          - Q8
-        - AWS Artifact
-          - Q9
-        - Tag management
-          - PBQ156 - 80%
-            - Service Catalog
-        - AWS Perosnal Health Dashboard
-          - PBQ164 - 30%
-        - AWS Trusted Advisor
-          - PBQ170
-          - PBQ182 - 70%
-        - Disaster Recovery
-          - Q33
-      - Responsibility Model
-        - Q34
-
     - Scale
       - Q25
       - Q31
@@ -441,8 +471,18 @@
         - Direct Connect Gateway
     - SQS
       - Q26
-    - Networking & Content Delivery
+    - Networking & Content Delivery    
+      - Troubleshooting
+        - Availability - 503
+          - PBQ165 - 50%
+        - Q55 - 80%
+        - Performance
+          - Login
+            - PBQ158 - 80%    
       - VPC
+        - NAT
+          - PBQ199
+          - PBQ202
         - NACL configuration
           - PBQ176 - 20%
             - Doc: Control traffic to subnets using Network ACLs

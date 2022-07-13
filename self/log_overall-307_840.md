@@ -1755,9 +1755,21 @@
           - CCS: 55.4%
           - E.T.C: 2.47 months
         - [ACCA F8INT - 3. Audit Letters](https://www.youtube.com/watch?v=bMrS7NESCNI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=98)
-          - Videomark: /
+          - Videomark: 11:07/11:07
           - CCS: 56%
           - E.T.C: 2.44 months
+        - [ACCA F8INT - 4. Audit Risk](https://www.youtube.com/watch?v=WonImpH3ya4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=99)
+          - Videomark: 10:34/10:34
+          - CCS: 56.7%
+          - E.T.C: 2.06 months
+        - [ACCA F8INT - 5. Internal control](https://www.youtube.com/watch?v=PkVlobJ4eHU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=100)
+          - Videomark: /10:01
+          - CCS: 57.1%
+          - E.T.C: 3.575 months
+        - [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)
+          - Videomark: /10:29
+          - CCS: 57.7%
+          - E.T.C: 2.35 months
           - STRUCT_audit | Following
             - Term field
               - Title
@@ -1793,12 +1805,85 @@
               - Safeguard against threats
               - Practices
                 - STIPULATIONS ON BRANDING An auditor must proactively publicize integrity behaviour, quasi periodic public ethics challenge
-            - Documentations
+            - **RISK**
+              - _discernment
+                - EXTERNAL **Business Risk**
+                  - _diff-instance
+                    - _meta
+                      - diff-identification
+                    - Business Risk: *foreign exchange losses reduce company's profitability*
+                    - Audit Risk: *overstatement of profit if foreign exchange losses are not properly recognised*
+                  - _category
+                    - Operational Risk
+                    - Financial Risk
+                    - Compliance Risk
+              - _instance
+                - *if an auditor gave an unqualified opinion, when in fact the company was not a going concern, then shareholders and others placing reliance on this report in making economic decisions relating to their dealings with the company might suffer financial loss*
+              - _category
+                - _consolidation
+                - INHERENT RISK
+                  - _description
+                    - *risk that there may be material errors or misstatements in the client's financial statements, before giving consideration to any internal controls that may have been established*
+                  - _instance
+                    - *in a high tech comapny there is high risk of obsolescent inventory which if not recognised could result in a material overstatement of both profits and asset values*
+                - CONTROL RISK
+                  - _description
+                    - *risk that the client's internal control systems will fail to prevent or detect material errors or misstatements*
+                  - _instance
+                    - *if there's not effective segregation of duties then there is a much higher riskk of employee fraud, without the need for collusion, going undetected*
+                - DETECTION RISK
+                  - _description
+                    - *risk that the auditor's tests and enquiries will fall to detect material errors or misstatements in the transactions and balances reflected in the client's financial statements*
+                  - _instance
+                    - *the detection risk is always greater with a new client because the auditor have had less time to build up their knowledge and understanding of the client's business and the risk to which it is exposed*
+                  - _category
+                    - Sampling risk
+                    - Non-sampling risk
+            - Regulations
+              - ISA 315
+                - _role
+                  - *Identifies and accesses the Risks of Material Misstatement Through Understanding the Entity and Its Environment*
+                - Internal control
+                  - _meta
+                    - _actions
+                      - Detach `this`
+                  - _relation
+                    - IIA
+                      - Definition
+                      - Purpose
+                  - _component
+                    - The control environment
+                    - The entity's risk assessment process
+                    - The information system
+                    - Control activities
+                    - Monitoring of controls
+                  - _practice
+                    - FEATURE PCRAM
+                      - Plan of organisation
+                      - Custody procedures
+                      - Recording procedures
+                      - Authorization procedures
+                      - Management supervision
+                    - STEP
+                      - _meta
+                        - search_engine_term: *Steps in auditor's consideration and approach to a client's internal control systems*
+                        - mental_flowgraph
+                          - [No existing graph, please draw one yourself](#)
+                          - `1 - 2 - 4 ? [5 ? [7 | 4 | $ext]]`
+                            - `$ext`: extended substantive testing
+                            - \[1-7\]: S **BOLD**
+                      - `SEQUENTIAL as S` | S **Ascertain**
+                      - S **Record**
+                      - S **Confirm**
+                      - S **Evaluate**
+                      - S **Test**
+                      - S **Assess**
+                      - S **Design and carry out limited programme of substantive testing**
               - ISA 700
             - Skills
               - Audit report making
                 - Decision tree
-            - Entity
+            - Audit Documents
               - Modified Audit Reports
                 - _meta
                   - working definition of materiality
@@ -1812,6 +1897,32 @@
                   - ISA 700 - Limite on scope, Disagreement
                   - Material but not pervasive
                   - Material and pervasive
+              - Audit letters
+                - _schema
+                  - purpose
+                  - frequency
+                  - content
+                    - _schema
+                      - audit objectives
+                      - management responsibilites
+                      - relevent legislation
+                      - relevant professional standards
+                      - audit procedures
+                      - liaison with internal audit
+                      - risk assessment
+                      - use of experts
+                      - auditor access rights
+                      - auditor/client communications
+                      - deadlines
+                      - reporting format
+                      - fee basis
+                      - dispute settlement procedures
+                      - request for confirmation
+                - _actions
+                  - if directors refuse to provide representation letter
+                - Engagement Letters
+                - Management Letter
+                - Management representation letter
             - Role
               - Independent auditor
                 - ~ must report their opinion in respect of two main issues
@@ -1937,8 +2048,31 @@
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node​](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
-          - Videomark: /
+          - Videomark: 16:13/27:30
           - CCS: 6.6%
+          - INBOUND CACHE
+            - `? --> Mathematics - Graph Theory | INBOUND CACHE`
+              - _meta
+                - CONSTANTS _schema_var
+                  - `$1`
+                    - _schema
+                      - Formula
+                      - Sub-elements
+                      - Relationship
+                      - Use cases
+                      - Syntax
+              - Node Features
+                - Clustering Coefficient
+                  - _schema
+                    - INHERIT `$1`
+              - Node centrality
+                - Closeness centrality
+                - Betweenness centrality
+                - Eigenvector centrality
+                  - _schema
+                    - INHERIT `$1`
+                  - Relationship
+                    - Perron-Frobenius Theorem
           - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
             - Matrix Graph Visualization
               - _self
@@ -1976,8 +2110,8 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 50%
-        - Videomark: 30:00/1:00:17
+        - CCS: 66%
+        - Videomark: 40:00/1:00:17
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
           - INBOUND CACHE
@@ -1991,7 +2125,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 19:00/1:01:49
+        - Videomark: 23:11/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -2006,8 +2140,14 @@
       - GPT-3
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
-          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | HANDS-ON 3 min/day**
-            - Videomark: 7:01/1:00:17
+          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | BLOCKAGE**
+            - Videomark: 13:08/1:00:17
+            - BLOCKAGE
+              - OpenAPI ist im dies Standort nicht verfügbar
+                - [GV](https://www.youtube.com/watch?v=Eu6jwxOEeYM)
+            - Resource
+              - OpenAI
+              - Jarvis API
         - Wudao
       - DALL-E
         - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
@@ -2024,9 +2164,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 59.2%
-          - TEMP TIMESTAMP: 4:00
-          - ETC: 10.7d
+          - CCS: 62.1%
+          - TEMP TIMESTAMP: 10
+          - ETC: 20d
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2079,8 +2219,12 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 24.1%
-          - E.T.A: 1.68 months
+          - CCS: 28.4%
+          - E.T.A: 0.79 months
+          - BLOCKAGE
+            - [x] reinstall `docker`
+            - [x] install `pgAdmin`
+            - [ ] pgAdmin is updating new functionalities
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2146,7 +2290,8 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 1e/d**
-        - CCS: 0.4%
+        - CCS: 3.5%
+        - PENDING: Kali WSL proficiency
     - Financial toolkit
       - Forensic Accounting
       - Financial instrument attack
@@ -2156,9 +2301,9 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 5.8%
-    - TEMP TIMESTAMP: 20
-    - E.T.A: 6.28 months
+    - CCS: 7.6%
+    - TEMP TIMESTAMP: 10
+    - E.T.A: 2.8 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
     - ? --> `*-business_arsenal`
@@ -2237,6 +2382,7 @@
                   - Activity(on last day of contact)
                   - Stakeholder or decision maker
                   - Email address
+                    - Mailtester
                   - Prioritization mechanism(SOP)
                 - Container
                   - Sales tracking software(Salesforce, Highrise)
@@ -2253,7 +2399,7 @@
               - Most important metric
               - Ideal customer and their intent
               - Partner fit
-          - Size of opportunity 
+          - Size of opportunity
           - Culture fit(engineering, design, etc)
           - Track record
             - Easy to work with or a giant pain?
@@ -2291,7 +2437,18 @@
               - Frontend extensive informational exploitation
             - Comments section of relevant articles
             - Former exmployees
-        - TBD
+        - Outreach and Approaching Partners
+          - Initial Pipeline
+            - _timeout-hack
+              - flow strategy
+            - Informational Cold Call Script
+            - Nay-analysis graph
+              - Nay reason 1
+              - Nay reason 2
+                - Counter procedure 1
+                - Counter procedure 2
+          - Target selection
+            - Past stakeholder
     - _meta-escalate
       - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
         - Deal with humen being
@@ -2352,8 +2509,16 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 32.8%
-      - E.T.A: 11.2 months
+      - CCS: 33.2%
+      - E.T.A: 5.56 months
+      - BLOCKAGE --> To `WTF-tree --> AWS` 
+        - [x] Permission problem
+          - Symptom
+            - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
+              - 20%
+            - `AWS SQS not visible in AWS Lambda destination`
+          - Solution
+            - Add `AWSLambdaSQSPollerExecutionRole` to Lambda
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
@@ -2364,9 +2529,11 @@
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 2.83 hours
-      - NEXT Duration target: 2.8 hours ON NEXT DAY 
+      - Duration: 2.7047 hours
+        - Favorable: 0.0104 hours saved
+      - NEXT Duration target: 2.68 hours ON NEXT DAY 
     - Control technique
+      - Asynchronous Blockage removal
       - Reduce time consumed by learning curve
       - Reduce time consumed by discipline
       - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
@@ -2483,7 +2650,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-        - Videomark: 16:10
+        - Videomark: 22:02
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2508,13 +2675,13 @@
             - **Без рубрики**
               - какой - 3%
               - весь
-            - 
           - **глагол**
-            - собираться - 20%
-            - потренироваться - 5%
-            - сделать - 5%
+            - собираться - 50%
+            - потренироваться - 40%
+              - тренироваться - 25%
+            - сделать - 25%
           - **прилагательное**
-            - разумный - 30%
+            - разумный - 40%
             - взрослый
           - **наречие**
           - **существительное**
@@ -2607,7 +2774,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 8:29/11:40:18
+        - Videomark: 12:40/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

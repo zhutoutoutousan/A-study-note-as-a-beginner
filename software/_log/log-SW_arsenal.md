@@ -110,7 +110,7 @@
 
 
 # Multiple Screen
-- WindowGrid
+- WindowGrid- WindowGrid
 
 # 抄作业 & PR攻防 & 掀裙子策略
 - https://archive.ph/
@@ -128,6 +128,8 @@
 ### 通用快捷键使用
 - CLI
   - Clear current: Ctrl+U
+- Vscode 
+  - Find closing tag: Balance ou
 
 # Renovation plan
 

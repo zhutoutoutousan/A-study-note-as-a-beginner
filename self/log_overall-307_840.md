@@ -1763,7 +1763,7 @@
           - CCS: 56.7%
           - E.T.C: 2.06 months
         - [ACCA F8INT - 5. Internal control](https://www.youtube.com/watch?v=PkVlobJ4eHU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=100)
-          - Videomark: /10:01
+          - Videomark: 10:01/10:01
           - CCS: 57.1%
           - E.T.C: 3.575 months
         - [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)

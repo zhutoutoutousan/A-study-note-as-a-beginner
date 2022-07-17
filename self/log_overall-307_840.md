@@ -1767,9 +1767,25 @@
           - CCS: 57.1%
           - E.T.C: 3.575 months
         - [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)
-          - Videomark: /10:29
+          - Videomark: 10:29/10:29
           - CCS: 57.7%
           - E.T.C: 2.35 months
+        - [ACCA F8INT - 7. Audit Evidence](https://www.youtube.com/watch?v=0nyOuxuoB0A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=102)
+          - Videomark: 10:04/10:04
+          - CCS: 58.3%
+          - E.T.C: 2.31 months
+        - [ACCA F8INT - 8. Inventory](https://www.youtube.com/watch?v=ihqrAfpm_Fs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=103)
+          - Videomark: 10:03/10:03
+          - CCS: 58.9%
+          - E.T.C: 2.28 months
+        - [ACCA F8INT - 9. Subsequent Events](https://www.youtube.com/watch?v=j98vluVk93M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=104)
+          - Videomark: 8:40/8:40
+          - CCS: 59.4%
+          - E.T.C: 2.25 months
+        - [ACCA F8INT - 10. Going Concern](https://www.youtube.com/watch?v=WwPgvjLiOZ8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=105)
+          - Videomark: 12:00/12:00
+          - CCS: 60%
+          - E.T.C: 1.21 months
           - STRUCT_audit | Following
             - Term field
               - Title
@@ -1782,6 +1798,23 @@
               - Auditor's signiture
               - Date of report
               - Auditor's address
+            - TEMP_UNSTRUCTURED_CACHE
+              - Internal audit
+              - Inventory
+                - Main auditing concern
+                  - Client Stocktaking
+                    - BEFORE
+                    - DURING
+                    - AFTER
+                  - Valuation of Inventry
+                    - COST
+                    - NET REALIZABLE VALUE
+              - Auditing events
+                - Subsequent event
+                - Adjusting event
+                - Non-adjusting event
+              - Auditing Approach - Proactive Period
+              - Auditing Approach - Reactive Period
             - Ethics
               - TOPIC
                 - Technical(professional) competence and due care
@@ -1857,6 +1890,20 @@
                     - The information system
                     - Control activities
                     - Monitoring of controls
+                  - _env-digital
+                    - _category
+                      - General Controls
+                        - Administration Control
+                        - Systems development controls
+                      - Application Controls
+                    - _SOF
+                      - GENERAL CONTROLS - ADMINISTRATION CONTROLS - **DOFF**
+                      - GENERAL CONTROLS - SYSTEMM DEVELOPMENT CONTROLS - **CAST**
+                      - APPLICATION CONTROLS - **IPOF**
+                    - Alternative audit approaches
+                      - Auditing around the computer
+                      - Auditing through the computer - CAAT
+                      - Auditing with the computer - ITF, SCARF
                   - _practice
                     - FEATURE PCRAM
                       - Plan of organisation
@@ -1879,6 +1926,38 @@
                       - S **Test**
                       - S **Assess**
                       - S **Design and carry out limited programme of substantive testing**
+              - ISA 500
+                - Audit Evidence
+                  - _relationship
+                    - Audit procedures - SOCI
+                      - Inspection of records or documents
+                      - Inspection of tangible assets
+                      - Observation
+                      - Enquity
+                      - Confirmation
+                      - Recalculation
+                      - Reperformance
+                      - Analytical procedures
+                      - _criteria
+                        - *ASSERTIONS RELATING TO TRANSACTIONS AND EVENTS*
+                          - OCCURENCE
+                          - COMPLETENESS
+                          - ACCURACY
+                          - CUT-OFF
+                          - CLASSIFICATION
+                        - *ASSERTION RELATING TO ACCOUNT BALANCES* - SOFP
+                          - EXISTENCE
+                          - RIGHTS AND OBLIGATIONS
+                          - COMPLETENESS
+                          - VALUATION AND ALLOCATION
+                        - *ASSERTION RELATING TO PRESENTATION AND DISCLOSURE* - 
+                          - OCCURENCE AND RIGHTS AND OBLIGATIONS
+                          - COMPLETENESS
+                          - CLASSIFICATION AND UNDERSTANDABILITY
+                          - ACCURACY AND VALUATION
+                  - ?
+                    - SUFFICIENT
+                    - RELEVANT
               - ISA 700
             - Skills
               - Audit report making
@@ -2047,9 +2126,9 @@
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node​](https://www.youtube.com/watch?v=3IS7UhNMQ3U&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
-          - Videomark: 16:13/27:30
-          - CCS: 6.6%
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.2 - Traditional Feature-based Methods: Link​](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
+          - Videomark: 5:30/16:46
+          - CCS: 8.3%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
               - _meta
@@ -2061,18 +2140,60 @@
                       - Relationship
                       - Use cases
                       - Syntax
+                  - _meta-escalate
+                    - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
+                    - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
+              - ?
+                - Link-Level Prediction Task
+                  - Links missing at random
+                  - Links over time
+                    - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{\'}]$) that are predicted to appear in $G[t_1, t_{1}^{\'}]$
+                    - Evaluation
+                      - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
+                      - The top *n* elements of L and count correct edges
+                  - Link Prediction via Proximity
+                    - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
+                      - Videomark: 0:27/52:48
               - Node Features
                 - Clustering Coefficient
                   - _schema
                     - INHERIT `$1`
-              - Node centrality
-                - Closeness centrality
-                - Betweenness centrality
-                - Eigenvector centrality
+                - _category
+                  - Distance-Based Features
+                    - Shortest-path distance between two nodes
+                  - Importance-based features
+                    - _use-case
+                      - Predicting influential nodes in a graph
+                    - Node degree
+                    - Different node centrality measures
+                  - Structure-based features
+                    - _use-case
+                      - Predicting a particular role a node plays in a graph
+                    - Node degree
+                    - Clustering Coefficient
+                    - Graphlet count vector
+                - _relationship
+                  - RELATIONSHIP_PREREQUISITE GraphLet
+                    - _prerequisites
+                      - *Non-isomorphic graph*
+                        - _schema
+                          - INHERIT `$1`
+                      - *Subgraph*
+                        - _schema
+                          - INHERIT `$1`
+                    - _schema
+                      - INHERIT `$1`
+                - Node centrality
+                  - Closeness centrality
+                  - Betweenness centrality
+                  - Eigenvector centrality
+                    - _schema
+                      - INHERIT `$1`
+                    - Relationship
+                      - Perron-Frobenius Theorem
+                - Graph Degree Vector(GDV)
                   - _schema
                     - INHERIT `$1`
-                  - Relationship
-                    - Perron-Frobenius Theorem
           - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
             - Matrix Graph Visualization
               - _self
@@ -2110,11 +2231,25 @@
         - ICBM
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 66%
-        - Videomark: 40:00/1:00:17
+        - CCS: 76%
+        - Videomark: 57:11/1:00:17
+        - DISCOVERED INTEREST
+          - Large Hadron Collider(LHC) design
+            - [Design study of the Large Hadron Collider (LHC) : a multiparticle collider in the LEP tunnel](http://cds.cern.ch/record/220493?ln=en)
+              - Bookmark: 3/219
         - Die Theorie der JJ Thompson auf Physik
           - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
           - INBOUND CACHE
+            - $Z=\int \mathcal{D}(Fields) exp(i\int d^4 x \sqrt{-g} (R-F_{\mu \nu} F^{\mu \nu}-G_{\mu \nu}G^{\mu \nu} - W_{\mu \nu}W^{\mu \nu} + \sum\limits_{i} \bar{\psi}_{i} \bar{\mathcal{D}} \psi_i + \mathcal{D}_\mu H^{+} \mathcal{D}^\mu H - V(H) - \lambda_{ij}\bar{\psi}_i H \psi_j  )$
+              - _edge-cases
+                - BIG BANG - INFLATION
+              - Gravity
+              - Electromagnetism
+              - matter
+              - Strong force
+              - Higgs boson
+              - Weak force
+              - [The Comprehensive LaTeX Symbol List](https://tug.ctan.org/info/symbols/comprehensive/symbols-letter.pdf)
             - Quantum Vaccum Fluctuations
             - [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems#:~:text=Hamilton%2C%20upon%20whose%20work%20Perelman,Mills%20existence%20and%20mass%20gap.)
         - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
@@ -2125,11 +2260,11 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 23:11/1:01:49
+        - Videomark: 27:00/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
-  - Coding
+  - Coding 
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
@@ -2140,11 +2275,10 @@
       - GPT-3
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
-          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | BLOCKAGE**
-            - Videomark: 13:08/1:00:17
+          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
+            - Videomark: 22:15/1:00:17
             - BLOCKAGE
-              - OpenAPI ist im dies Standort nicht verfügbar
-                - [GV](https://www.youtube.com/watch?v=Eu6jwxOEeYM)
+              - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Resource
               - OpenAI
               - Jarvis API
@@ -2164,9 +2298,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 62.1%
-          - TEMP TIMESTAMP: 10
-          - ETC: 20d
+          - CCS: 64%
+          - TEMP TIMESTAMP: /
+          - ETC: 1.33 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2219,12 +2353,17 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 28.4%
-          - E.T.A: 0.79 months
+          - CCS: 30%
+          - E.T.A: 0.79 months | BLOCKAGE
           - BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
-            - [ ] pgAdmin is updating new functionalities
+            - [x] pgAdmin is updating new functionalities
+              - No way
+            - [ ] Nest.js to AWS RDS
+              - [ ] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
+              - [ ] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
+              - [ ] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2290,7 +2429,7 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 1e/d**
-        - CCS: 3.5%
+        - CCS: 4.7%
         - PENDING: Kali WSL proficiency
     - Financial toolkit
       - Forensic Accounting
@@ -2301,11 +2440,18 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 7.6%
-    - TEMP TIMESTAMP: 10
-    - E.T.A: 2.8 months
+    - CCS: 10.5%
+    - TEMP TIMESTAMP: 18
+    - E.T.A: 2.99 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
+    - Erudition
+      - A guide to Making Introduction
+      - The Bandage: Cold Email Formula
+      - Business Development Handbook
+      - The complete guide to writing much better sales emails
+        - [link](https://www.nutshell.com/wp-content/uploads/2019/09/Nutshell_Guide-to-Sales-Emails_1.0.pdf)
+      - [The Human’s Guide To Writing Cold Emails That Don’t Sound Like a Spammy Robot](https://salesfolk.com/img/Human_Guide_Cold_Email.pdf)
     - ? --> `*-business_arsenal`
       - SEQUENTIAL Predefined metric
       - CONCURRENT Business reconissance
@@ -2509,8 +2655,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 33.2%
-      - E.T.A: 5.56 months
+      - CCS: 34.5%
+      - E.T.A: 7.27 months
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
           - Symptom
@@ -2529,9 +2675,10 @@
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 2.7047 hours
-        - Favorable: 0.0104 hours saved
-      - NEXT Duration target: 2.68 hours ON NEXT DAY 
+      - Duration: 2.8/2.43 hours
+        - Adverse: 0.37 hours over time
+          - NOT ACCOUNTED
+      - NEXT Duration target: 2.4 hours ON NEXT DAY
     - Control technique
       - Asynchronous Blockage removal
       - Reduce time consumed by learning curve
@@ -2650,7 +2797,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-        - Videomark: 22:02
+        - Videomark: 31:30
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2665,9 +2812,15 @@
                   - `func growTree(self, *args, **kwargs)`
                   - `func contributeToMeta(self, target, *args, **kwargs)`
           - STATIC
+            - INBOUND_CACHE
+              - Personal pronoun bundle
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 10%
+                - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **цифра**
+            - ?
+              - до
             - **Союзы**
-              - чем
+              - чем - 10%
             - **личное местоимение**
               - ты
                 - твой
@@ -2675,32 +2828,37 @@
             - **Без рубрики**
               - какой - 3%
               - весь
-          - **глагол**
-            - собираться - 50%
-            - потренироваться - 40%
-              - тренироваться - 25%
-            - сделать - 25%
-          - **прилагательное**
-            - разумный - 40%
-            - взрослый
-          - **наречие**
-          - **существительное**
-            - сердце
-          - INBOUND CACHE
-            - **прилагательное**
-              - сложный
-              - корпоративный
-              - высокий
+          - VOLATILE
             - **глагол**
-              - посчитать
-              - понадеяться
-              - управлять
-              - говорить
-              - вырастить
+              - собираться - 80%
+              - потренироваться - 40%
+                - тренироваться - 50%
+              - сделать - 25%
+            - **прилагательное**
+              - разумный - 60%
+              - взрослый - 20%
+              - художественный
             - **наречие**
             - **существительное**
-              - лодка
-              - милый
+              - сердце
+            - INBOUND CACHE
+              - ?
+                - остальные
+              - **прилагательное**
+                - сложный
+                - корпоративный
+                - высокий
+              - **глагол**
+                - посчитать
+                - понадеяться
+                - управлять
+                - говорить
+                - вырастить
+              - **наречие**
+              - **существительное**
+                - лодка
+                - милый
+                - перевод
       - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
         - Иван Васильевич меняет профессию
   - Tool
@@ -2740,6 +2898,8 @@
   - VOCAB\_FIELD \{CAPACITY_SETTING\}
     - _meta
       - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+        - Sample sentences
+          - [Learnwitholiver](https://www.learnwitholiver.com/greek/)
       - mode: FIFO
       - capacity: \{CAPACITY_SETTING\}
     - _processing
@@ -2748,20 +2908,22 @@
     - STATIC | PPROCESSING\_CAPACITY 1
       - **ερωτηματικός**
         - που - 5%
+        - τίς
       - **χωρίς κατηγοριοποίηση**
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
-        - μπορώ - 20%
+        - ανακαλύπτω
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
       - Pronoun
         - αυτή
           - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)
+            - Sitemark: *...αυτά (aftá) — “they” (neutral)...*
       - INBOUND CACHE ?
         - **ρήμα**
-          - ανακαλύπτω
           - αντιμετωπίζω
+          - σχεδιάζω
           - ξέρω
         - **επίθετο**
         - **ουσιαστικό**
@@ -2774,7 +2936,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 12:40/11:40:18
+        - Videomark: 16:45/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
@@ -2885,7 +3047,6 @@
   - 全球视野, 全球观察, 全球认可
 - 当你会十五种语言时
   - 我就想在家碎觉觉耶( •̀ ω •́ )y
-
 
 # 2022/7/7
 - Hey man, you're losing it, you're gone!

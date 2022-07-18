@@ -129,7 +129,7 @@
 - CLI
   - Clear current: Ctrl+U
 - Vscode 
-  - Find closing tag: Balance ou
+  - Find closing tag: Balance out + Keyboard binding Balance ou
 
 # Renovation plan
 

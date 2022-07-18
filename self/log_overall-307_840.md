@@ -2299,7 +2299,7 @@
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
           - CCS: 64%
-          - TEMP TIMESTAMP: /
+          - TEMP TIMESTAMP: 11
           - ETC: 1.33 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
@@ -2958,6 +2958,8 @@
   - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
 - Latin - N/A
 - Japanese - Upper N4
+  - Tool
+    - https://j-talk.com/mqvbpjk
 
 # STICKY Monthly Micro PIP
 - ACTION ITEM

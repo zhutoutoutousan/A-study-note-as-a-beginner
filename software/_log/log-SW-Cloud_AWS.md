@@ -68,6 +68,10 @@
 - [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Shallow Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
 - Ultimate AWS Certified SysOps Administrator Associate 2022
 # AWS Troubleshooting Tree
+- AWS EC2
+  - ?
+    - ENI
+      - `Failed to detach the network interface. API error: "You do not have permission to access the specified resource."`
 - AWS Amplify
   - Next.js + Cloud9 + Appsync
     - `Unhandled Runtime Error TypeError: require.e is not a function`

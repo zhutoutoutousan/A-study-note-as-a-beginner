@@ -2232,7 +2232,7 @@
       - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
         - Style：Casual, English voiceover, French-German dual-subtitle
         - CCS: 76%
-        - Videomark: 57:11/1:00:17
+        - Videomark: 1:00:17/1:00:17
         - DISCOVERED INTEREST
           - Large Hadron Collider(LHC) design
             - [Design study of the Large Hadron Collider (LHC) : a multiparticle collider in the LEP tunnel](http://cds.cern.ch/record/220493?ln=en)
@@ -2428,9 +2428,9 @@
     - Progress(Slow language learning)
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
-      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 1e/d**
+      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 4.7%
-        - PENDING: Kali WSL proficiency
+        - TEMP TIMESTAMP: 5
     - Financial toolkit
       - Forensic Accounting
       - Financial instrument attack
@@ -2441,7 +2441,7 @@
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
     - CCS: 10.5%
-    - TEMP TIMESTAMP: 18
+    - TEMP TIMESTAMP: 28
     - E.T.A: 2.99 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
@@ -2657,6 +2657,7 @@
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
       - CCS: 34.5%
       - E.T.A: 7.27 months
+      - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
           - Symptom
@@ -2796,8 +2797,8 @@
     - Уральская рябинушка
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
-      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 2](https://www.youtube.com/watch?v=CY2_KaMMzSI)
-        - Videomark: 31:30
+      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
+        - Videomark: 1:30
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2814,7 +2815,7 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 10%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 12%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **цифра**
             - ?
@@ -2833,7 +2834,7 @@
               - собираться - 80%
               - потренироваться - 40%
                 - тренироваться - 50%
-              - сделать - 25%
+              - сделать - 50%
             - **прилагательное**
               - разумный - 60%
               - взрослый - 20%
@@ -2856,6 +2857,7 @@
                 - вырастить
               - **наречие**
               - **существительное**
+                - благотворительность
                 - лодка
                 - милый
                 - перевод
@@ -2936,7 +2938,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 16:45/11:40:18
+        - Videomark: 17:45/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

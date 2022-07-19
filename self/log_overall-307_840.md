@@ -1786,7 +1786,7 @@
           - Videomark: 12:00/12:00
           - CCS: 60%
           - E.T.C: 1.21 months
-          - STRUCT_audit | Following
+          - STRUCT_audit
             - Term field
               - Title
               - Addresse
@@ -2007,6 +2007,29 @@
                 - ~ must report their opinion in respect of two main issues
                   - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
                   - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
+        - [ACCA F9 - 1. Financial Management Function](https://www.youtube.com/watch?v=wM4bRVo2SUQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=106)
+          - Videomark: 10:04/14:06
+          - CCS: 60.6
+          - E.T.C: 2.19 months
+          - STRUCT Financial Management | Following
+            - _meta
+              - nature
+              - purpose
+            - Financial Objectives and the Relationship with Corporate Strategy
+            - Shareholders and Impact on Corporate Objectives
+              - Shareholder groups
+                - Shareholders
+                - Lenders
+                - Directors
+                - Employees
+                - Customers
+                - Suppliers
+                - Government
+                - Public
+            - Conflicting stakeholder interests
+            - Agency theory
+            - Influencing managerial behaviour
+            - Scope of strategic performance measures in private sector
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2127,7 +2150,7 @@
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.2 - Traditional Feature-based Methods: Link​](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
-          - Videomark: 5:30/16:46
+          - Videomark: 11:00/16:46
           - CCS: 8.3%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
@@ -2147,7 +2170,7 @@
                 - Link-Level Prediction Task
                   - Links missing at random
                   - Links over time
-                    - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{\'}]$) that are predicted to appear in $G[t_1, t_{1}^{\'}]$
+                    - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
                     - Evaluation
                       - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
                       - The top *n* elements of L and count correct edges
@@ -2161,6 +2184,13 @@
                 - _category
                   - Distance-Based Features
                     - Shortest-path distance between two nodes
+                      - _method
+                        - Captures # neighboring nodes shared between two nodes $v_1$ and $v_2$
+                        - Computing #paths between two nodes
+                      - Common neighbors
+                      - Jaccard's coefficient
+                      - Adamic-Adar index
+                      - Katz index
                   - Importance-based features
                     - _use-case
                       - Predicting influential nodes in a graph
@@ -2227,44 +2257,18 @@
               - Molecules
               - Scene graphs
     - English --> Deutsch
-      - NEW VOCAB
-        - ICBM
-      - [The real building blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg) --> **ACTIVE** 3min/day
-        - Style：Casual, English voiceover, French-German dual-subtitle
-        - CCS: 76%
-        - Videomark: 1:00:17/1:00:17
-        - DISCOVERED INTEREST
-          - Large Hadron Collider(LHC) design
-            - [Design study of the Large Hadron Collider (LHC) : a multiparticle collider in the LEP tunnel](http://cds.cern.ch/record/220493?ln=en)
-              - Bookmark: 3/219
-        - Die Theorie der JJ Thompson auf Physik
-          - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
-          - INBOUND CACHE
-            - $Z=\int \mathcal{D}(Fields) exp(i\int d^4 x \sqrt{-g} (R-F_{\mu \nu} F^{\mu \nu}-G_{\mu \nu}G^{\mu \nu} - W_{\mu \nu}W^{\mu \nu} + \sum\limits_{i} \bar{\psi}_{i} \bar{\mathcal{D}} \psi_i + \mathcal{D}_\mu H^{+} \mathcal{D}^\mu H - V(H) - \lambda_{ij}\bar{\psi}_i H \psi_j  )$
-              - _edge-cases
-                - BIG BANG - INFLATION
-              - Gravity
-              - Electromagnetism
-              - matter
-              - Strong force
-              - Higgs boson
-              - Weak force
-              - [The Comprehensive LaTeX Symbol List](https://tug.ctan.org/info/symbols/comprehensive/symbols-letter.pdf)
-            - Quantum Vaccum Fluctuations
-            - [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems#:~:text=Hamilton%2C%20upon%20whose%20work%20Perelman,Mills%20existence%20and%20mass%20gap.)
-        - Art: Simultandolmetschen mit doppelter Untertitelunterstützung
-          - _meta
-            - *Simultaneous interpretation, even during shadowing stage, can suck massive amount of energy out of your brain that will render it combat ineffective after a week*
+      - _source
+        - Royal Institute
       - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
       - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 27:00/1:01:49
+        - Videomark: 29:00/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
-  - Coding 
+  - Coding
     - _meta_escalate
       - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
         - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
@@ -2276,7 +2280,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 22:15/1:00:17
+            - Videomark: 28:00/1:00:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Resource
@@ -2298,9 +2302,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 64%
+          - CCS: 65%
           - TEMP TIMESTAMP: 11
-          - ETC: 1.33 months
+          - ETC: 1.17 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2364,6 +2368,8 @@
               - [ ] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
               - [ ] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
               - [ ] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
+                - [ ] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
+                  - Videomark: 0:47
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2429,8 +2435,9 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 4.7%
-        - TEMP TIMESTAMP: 5
+        - CCS: 6.7%
+        - Customized Machine Image
+          - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
       - Forensic Accounting
       - Financial instrument attack
@@ -2440,9 +2447,9 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 10.5%
-    - TEMP TIMESTAMP: 28
-    - E.T.A: 2.99 months
+    - CCS: 10.7%
+    - TEMP TIMESTAMP: 38
+    - E.T.A: 14.8 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
     - Erudition
@@ -2655,8 +2662,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 34.5%
-      - E.T.A: 7.27 months
+      - CCS: 34.9%
+      - E.T.A: 5.42 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2676,10 +2683,10 @@
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 2.8/2.43 hours
-        - Adverse: 0.37 hours over time
+      - Duration: 2.6/2.43 hours
+        - Adverse: 0.23 hours over time
           - NOT ACCOUNTED
-      - NEXT Duration target: 2.4 hours ON NEXT DAY
+      - NEXT Duration target: 2.4 hours
     - Control technique
       - Asynchronous Blockage removal
       - Reduce time consumed by learning curve
@@ -2798,7 +2805,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 1:30
+        - Videomark: 3:30
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2831,7 +2838,7 @@
               - весь
           - VOLATILE
             - **глагол**
-              - собираться - 80%
+              - собираться - 100%
               - потренироваться - 40%
                 - тренироваться - 50%
               - сделать - 50%
@@ -2857,6 +2864,7 @@
                 - вырастить
               - **наречие**
               - **существительное**
+                - представле́ния
                 - благотворительность
                 - лодка
                 - милый
@@ -2928,6 +2936,7 @@
           - σχεδιάζω
           - ξέρω
         - **επίθετο**
+          - πραγματικός
         - **ουσιαστικό**
         - **επίρρημα**
         - **χωρίς κατηγοριοποίηση**
@@ -2938,7 +2947,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 17:45/11:40:18
+        - Videomark: 19:00/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

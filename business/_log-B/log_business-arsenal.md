@@ -1,3 +1,6 @@
+# Centralized personal business dashboard
+- https://bloom.sh/
+
 # Presentation
 - 极客汇报体
   - [webslides](https://webslides.tv/#slide=1)
@@ -19,6 +22,8 @@
 # Recruitment
 - [Rocketreach](https://rocketreach.co/)
 - Signalhire
+- Fact check
+  - [Bloom.co](https://bloom.co/)
 # 话术知识图谱
 - 客户对接
   - 如何用一句话介绍公司？

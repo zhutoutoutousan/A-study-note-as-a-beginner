@@ -17,6 +17,7 @@
 - [STICKY | 软件特种团队管理](#sticky--软件特种团队管理)
 - [2022/6/25](#2022625)
 - [2022/7/7](#202277)
+- [2022/7/20](#2022720)
 
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
@@ -2008,9 +2009,14 @@
                   - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
                   - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
         - [ACCA F9 - 1. Financial Management Function](https://www.youtube.com/watch?v=wM4bRVo2SUQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=106)
-          - Videomark: 10:04/14:06
+          - Videomark: 14:06/14:06
           - CCS: 60.6
           - E.T.C: 2.19 months
+        - [ACCA F9 - 2. Financial Management Environment](https://www.youtube.com/watch?v=01OyGCEgJJ4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=107)
+          - Videomark: 12:42/12:42
+        - [ACCA F9 - 3. Working Capital management](https://www.youtube.com/watch?v=R-scVoqyoao&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=108)
+          - CCS: 61.7
+          - E.T.C: 2.12 months
           - STRUCT Financial Management | Following
             - _meta
               - nature
@@ -2027,9 +2033,21 @@
                 - Government
                 - Public
             - Conflicting stakeholder interests
-            - Agency theory
-            - Influencing managerial behaviour
-            - Scope of strategic performance measures in private sector
+              - Agency theory
+              - Influencing managerial behaviour
+              - Scope of strategic performance measures in private sector
+              - Return on investment(ROI/ROCE)
+              - Earning per share(EPS)
+              - Return on Equity
+            - Financial and Other Objectives in Non-for-Profit Organizations
+              - Profit and Not-for-profit organizations
+            - Financial Management Environment
+              - The economic environment for business
+              - The impact of macro-economics
+                - Macro-economic factors
+              - The nature and role of financial markets and institutions
+              - Stock markets
+              - How stock markets operate
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2102,6 +2120,13 @@
           - Leading and Managing Individuals and Teams
           - Recruiting and Developing Effective Employees
     - Political Science Bundle
+      - Agency Theory
+        - Erudition
+          - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
+            - PROCESSING POINTER FIELD
+              - Sweepmark: 20/538
+        - Vids
+          - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
       - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
         - Videomark: 5:14/2:05:53
       - Power and Politics in Today’s World
@@ -2149,9 +2174,9 @@
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.2 - Traditional Feature-based Methods: Link​](https://www.youtube.com/watch?v=4dVwlE9jYxY&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=5)
-          - Videomark: 11:00/16:46
-          - CCS: 8.3%
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph​](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6)
+          - Videomark: 4:00/20:09
+          - CCS: 10%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
               - _meta
@@ -2167,16 +2192,33 @@
                     - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
                     - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
               - ?
-                - Link-Level Prediction Task
-                  - Links missing at random
-                  - Links over time
-                    - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
-                    - Evaluation
-                      - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
-                      - The top *n* elements of L and count correct edges
-                  - Link Prediction via Proximity
-                    - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
-                      - Videomark: 0:27/52:48
+                - Methods
+                  - Kernel Methods
+                    - Graph Kernel
+                      - _meta
+                        - goal
+                          - Design graph feature vector $\phi (G)$
+                        - Key Idea: Bag-of-Words(BoW) for a graph
+                      - Graphlet Kernel
+                      - Weisfeiler-Lehman Kernel
+                      - _proto
+                        - `expandInstance(origin)`
+                    - _supplement
+                      - Stanford CS229
+                        - [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
+                          - PROCESSING POINTER FIELD
+                            - Videomark
+                - Tasks
+                  - Link-Level Prediction Task
+                    - Links missing at random
+                    - Links over time
+                      - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
+                      - Evaluation
+                        - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
+                        - The top *n* elements of L and count correct edges
+                    - Link Prediction via Proximity
+                      - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
+                        - Videomark: 0:27/52:48
               - Node Features
                 - Clustering Coefficient
                   - _schema
@@ -2191,6 +2233,13 @@
                       - Jaccard's coefficient
                       - Adamic-Adar index
                       - Katz index
+                        - _schema
+                          - INHERIT `$1`
+                        - Canonical
+                          - $S_{v_1 v_2} = \sum_{l=1}^{\infty} \beta^l A_{v_1 v_2}^l$
+                        - Closed-form
+                          - $S=\sum_{i=1}^{\infty} \beta^i A^i = (I - \beta A)^{-1} - I$
+                            - $(I - \beta A)^{-1} = \sum_{i=0}^{\infty} \beta^i A^i$ by geometric series of matrices
                   - Importance-based features
                     - _use-case
                       - Predicting influential nodes in a graph
@@ -2202,6 +2251,9 @@
                     - Node degree
                     - Clustering Coefficient
                     - Graphlet count vector
+                  - Distance-based features
+                  - Local Neighborhood overlap
+                  - Global neighborhood overlap
                 - _relationship
                   - RELATIONSHIP_PREREQUISITE GraphLet
                     - _prerequisites
@@ -2224,6 +2276,7 @@
                 - Graph Degree Vector(GDV)
                   - _schema
                     - INHERIT `$1`
+                - Global Neighborhood Overlap
           - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
             - Matrix Graph Visualization
               - _self
@@ -2264,7 +2317,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 29:00/1:01:49
+        - Videomark: 31:20/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -2276,13 +2329,17 @@
     - Chess
   - Comprehensive development path
     - AI workshop --> ACTIVE ON `Blockchain complete`
+      - BLOOM
+        - [huggingface](https://huggingface.co/docs/transformers/model_doc/bloom)
       - GPT-3
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 28:00/1:00:17
+            - Videomark: 34:16/1:00:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
+            - Hands-on source
+              - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
             - Resource
               - OpenAI
               - Jarvis API
@@ -2302,9 +2359,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 65%
+          - CCS: 67%
           - TEMP TIMESTAMP: 11
-          - ETC: 1.17 months
+          - ETC: 1.1 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2369,7 +2426,13 @@
               - [ ] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
               - [ ] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
                 - [ ] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
-                  - Videomark: 0:47
+                  - Videomark: 5:47 BLOCKAGE
+                  - Timelimit: 5/5 min
+                  - `Unable to start the environment. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell. System error: Environment was in state: CREATION_FAILED. Expected environment to be in state: RUNNING. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell.`
+                    - [Configure a VNet to VNet VPN gateway connection using PowerShell](https://www.youtube.com/watch?v=dFh09PyNwDs)
+                      - Videomark: 0:51
+                    - [learning hacking? DON'T make this mistake!! (hide yourself with Kali Linux and ProxyChains)](https://www.youtube.com/watch?v=qsA8zREbt6g)
+                      - Videomark: 0:42
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2435,7 +2498,7 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 6.7%
+        - CCS: 7.1%
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -2447,11 +2510,14 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 10.7%
-    - TEMP TIMESTAMP: 38
-    - E.T.A: 14.8 months
+    - CCS: 11%
+    - TEMP TIMESTAMP: 59
+    - E.T.A: 9.8 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
+    - Tooling
+      - Cold Email
+        - Camtasia, Screenflow, Bcontext
     - Erudition
       - A guide to Making Introduction
       - The Bandage: Cold Email Formula
@@ -2662,8 +2728,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 34.9%
-      - E.T.A: 5.42 months
+      - CCS: 35.6%
+      - E.T.A: 5.36 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2683,10 +2749,10 @@
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 2.6/2.43 hours
-        - Adverse: 0.23 hours over time
+      - Duration: 2.93/2.43 hours
+        - Adverse: 0.5 hours over time
           - NOT ACCOUNTED
-      - NEXT Duration target: 2.4 hours
+      - NEXT Duration target: 2.6 hours
     - Control technique
       - Asynchronous Blockage removal
       - Reduce time consumed by learning curve
@@ -2805,7 +2871,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 3:30
+        - Videomark: 7:00
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2822,7 +2888,7 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 12%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 13%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **цифра**
             - ?
@@ -2833,18 +2899,20 @@
               - ты
                 - твой
               - вы
+            - **глагол**
+              - _schema
+                - по-
             - **Без рубрики**
               - какой - 3%
               - весь
           - VOLATILE
             - **глагол**
-              - собираться - 100%
-              - потренироваться - 40%
-                - тренироваться - 50%
+              - тренироваться - 70%
+                - по- | - 60%
               - сделать - 50%
             - **прилагательное**
               - разумный - 60%
-              - взрослый - 20%
+              - взрослый - 50%
               - художественный
             - **наречие**
             - **существительное**
@@ -2917,6 +2985,7 @@
         - `ROOT_PROCESSING`
     - STATIC | PPROCESSING\_CAPACITY 1
       - **ερωτηματικός**
+        - _mutation
         - που - 5%
         - τίς
       - **χωρίς κατηγοριοποίηση**
@@ -2928,7 +2997,7 @@
       - **επίρρημα**
       - Pronoun
         - αυτή
-          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/)
+          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 5%
             - Sitemark: *...αυτά (aftá) — “they” (neutral)...*
       - INBOUND CACHE ?
         - **ρήμα**
@@ -2938,6 +3007,7 @@
         - **επίθετο**
           - πραγματικός
         - **ουσιαστικό**
+          - άξονας
         - **επίρρημα**
         - **χωρίς κατηγοριοποίηση**
           - συντεταγμένη
@@ -2947,7 +3017,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 19:00/11:40:18
+        - Videomark: 20:15/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
@@ -3064,3 +3134,6 @@
 # 2022/7/7
 - Hey man, you're losing it, you're gone!
 - You need to plan a long vacation for all of those patterns to sink into your brain
+
+# 2022/7/20
+- Why are you still alive?

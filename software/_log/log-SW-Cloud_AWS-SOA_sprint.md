@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q210/Q616
+  - Sweepmark: Q212/Q616
   - _schema
     - Monitoring, Logging, and Remediation
     - Reliability and Business Continuity
@@ -422,9 +422,10 @@
         - **Q44**
         - Data Retention
           - PBQ155 - 80%
-      - PBQ2
-      - **PBQ43**
-      - PBQ153
+      - Uncategorized
+        - PBQ2
+        - **PBQ43**
+        - PBQ153
       - Availability
         - Q13    
         - CDN
@@ -453,24 +454,25 @@
         - PBQ46
         - PBQ52 - 70%
           - Step and simple scaling policies for AWS EC2 Auto Scaling
-    - CLI
-      - Q15
-    - STS
-      - Q88 - 90%
-    - EC2
-      - Q5
-    - Scale
-      - Q25
-      - Q31
-    - Transformation
-      - **Q17**
-        - VTL?
-      - **Q18**
-        - CloudHSM
-      - Q40
-        - Direct Connect Gateway
-    - SQS
-      - Q26
+    - _uncategorized
+      - CLI
+        - Q15
+      - STS
+        - Q88 - 90%
+      - EC2
+        - Q5
+      - Scale
+        - Q25
+        - Q31
+      - Transformation
+        - **Q17**
+          - VTL?
+        - **Q18**
+          - CloudHSM
+        - Q40
+          - Direct Connect Gateway
+      - SQS
+        - Q26
     - Networking & Content Delivery    
       - Troubleshooting
         - Availability - 503
@@ -480,6 +482,8 @@
           - Login
             - PBQ158 - 80%    
       - VPC
+        - SG
+          - PBQ212
         - NAT
           - PBQ199
           - PBQ202
@@ -497,6 +501,8 @@
         - PBQ49
         - IPV6
           - PBQ161
+    - Cost and Performance Optimization
+      - Q213
 # Hands-on Lab
 - _alias
   - PASS THE EXAM: PTE

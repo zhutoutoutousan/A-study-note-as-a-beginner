@@ -2015,9 +2015,14 @@
         - [ACCA F9 - 2. Financial Management Environment](https://www.youtube.com/watch?v=01OyGCEgJJ4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=107)
           - Videomark: 12:42/12:42
         - [ACCA F9 - 3. Working Capital management](https://www.youtube.com/watch?v=R-scVoqyoao&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=108)
+          - Videomark: 15:27/15:27
           - CCS: 61.7
           - E.T.C: 2.12 months
-          - STRUCT Financial Management | Following
+        - [ACCA F9 - 4. Working Capital management (cont)](https://www.youtube.com/watch?v=kUA6KFchhI4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=109)
+          - Videomark: 12:13/12:13
+          - CCS: 62.3
+          - E.T.C: 2.09 months
+          - STRUCT Financial Management
             - _meta
               - nature
               - purpose
@@ -2048,6 +2053,36 @@
               - The nature and role of financial markets and institutions
               - Stock markets
               - How stock markets operate
+            - ?
+              - Working Capital Management
+                - The nature, elements and importance of working capital
+                  - Working Capital = Current assets - current liabilities
+                    - CA
+                      - Cash
+                      - Inventory...
+                    - CL
+                      - Receivables
+                      - Payables...
+                  - Ratio Analysis
+                    - Liquidity ratios
+                      - $Current\, Ratio = \frac{Current\, assets}{Current\, liabilities}$
+                      - $Quick\, Ratio = \frac{Current\, assets - Inventories}{Current\, liabilities}$
+                    - Turnover ratios
+                      - Trade debtors(receivables): $\frac{Trade\, Debtors  \times 365}{Sales}$
+                      - Inventory turnover: $\frac{Inventory \times 365}{COGS}$
+                      - Trade creditors(payables): $\frac{Trade\, Payables \times 365 }{COGS}$
+                - Management of inventories, account receivables, accounts payable and cash
+                  - Economic Order Quantity(EOQ)
+                    - [Economic Order Quantity (EOQ) | Explained With Example](https://www.youtube.com/watch?v=uhMcWdlkWxE)
+                      - Videomark
+                    - [EOQ Economic Order Quantity formula and explanation](https://www.youtube.com/watch?v=AYpjPWmlyHM)
+                    - QDPCH: Order quantity, Quantity of product demanded annually, Purchase cost for one unit, fixed cost per order(not incl. the purchase price), cost of holding one unit for one year
+                  - Assessing the creditworthiness of customers: 5 C's
+                    - Character, Capactity, Capital, Collateral, Condition
+                  - Collection of debts
+                  - Deduction
+                  - Financial implications of different credit policies
+                - Determining work capital needs and funding strategies
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2107,6 +2142,10 @@
                   - Videomark: 0:00:00/1:00:29
                   - _meta_escalate
                     - MOVE TO `$parent` on COMPLETION of `$parent`
+        - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
+          - Videomark: /13:42
+          - CCS: 62.8
+          - E.T.C: 1.13 months
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -2173,9 +2212,12 @@
         - media.ccc.de
         - The Royal Institution
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
+      - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
+        - PROCESSING POINTER FIELD
+          - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph​](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6)
-          - Videomark: 4:00/20:09
+          - Videomark: 12:40/20:09
           - CCS: 10%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
@@ -2192,6 +2234,24 @@
                     - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
                     - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
               - ?
+                - NP-hardness
+                  - _actions
+                    - SEQUENTIAL Create `SPACE` for *Computational complexity theory* if not exists, push to `{SPACE}.INBOUND_CACHE`
+                    - CONCURRENT Create `CONSTANT_SPACE` for proven theorems and push to `{CONSTANT_SPACE}.INBOUND_CACHE | {ACADEMIA}.arsenal`
+                  - Computational complexity theory
+                    - _erudition
+                      - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
+                        - PROCESSING POINTER FIELD
+                          - Booksweepmark: 3/562
+                        - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
+                          - Shor's algorithm
+                            - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
+                            - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
+                              - PROCESSING POINTER FIELD
+                                - Videosweepmark: 
+              - ?
+                - ??
+                  - Weisfeiler-Lehman Kernel
                 - Methods
                   - Kernel Methods
                     - Graph Kernel
@@ -2317,7 +2377,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 31:20/1:01:49
+        - Videomark: 33:20/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -2335,11 +2395,13 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 34:16/1:00:17
+            - Videomark: 40:32/1:00:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
-            - Hands-on source
-              - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
+            - Shallow Hands-on Track
+              - Local Link: `stupid-ai-blogger`
+              - Source
+                - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
             - Resource
               - OpenAI
               - Jarvis API
@@ -2359,9 +2421,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 67%
+          - CCS: 68%
           - TEMP TIMESTAMP: 11
-          - ETC: 1.1 months
+          - ETC: 1.06 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2414,25 +2476,24 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 30%
-          - E.T.A: 0.79 months | BLOCKAGE
-          - BLOCKAGE
+          - CCS: 33.6%
+          - E.T.A: 0.61 months
+          - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
             - [x] pgAdmin is updating new functionalities
               - No way
-            - [ ] Nest.js to AWS RDS
-              - [ ] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
-              - [ ] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
-              - [ ] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
-                - [ ] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
-                  - Videomark: 5:47 BLOCKAGE
+            - [x] Nest.js to AWS RDS
+              - [x] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
+              - [x] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
+              - [x] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
+                - [x] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
+                  - Videomark: 5:47
                   - Timelimit: 5/5 min
-                  - `Unable to start the environment. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell. System error: Environment was in state: CREATION_FAILED. Expected environment to be in state: RUNNING. To retry, refresh the browser or restart by selecting Actions, Restart AWS CloudShell.`
-                    - [Configure a VNet to VNet VPN gateway connection using PowerShell](https://www.youtube.com/watch?v=dFh09PyNwDs)
-                      - Videomark: 0:51
-                    - [learning hacking? DON'T make this mistake!! (hide yourself with Kali Linux and ProxyChains)](https://www.youtube.com/watch?v=qsA8zREbt6g)
-                      - Videomark: 0:42
+                  - [x] Cloud9 
+                    - [x] Connect to RDS
+                    - [x] API testing
+                  - [x] Clean up
           - Nest.js WTF-tree
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
@@ -2470,6 +2531,7 @@
   - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
+  - Music Theory Comprehensive Complete! (Parts 1, 2, & 3)
   - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
     - VOCAB\_FIELD \{CAPACITY_SETTING\}
       - _meta
@@ -2499,6 +2561,10 @@
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 7.1%
+        - BLOCKAGE
+          - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
+            - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
+            - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -2510,11 +2576,12 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 11%
-    - TEMP TIMESTAMP: 59
-    - E.T.A: 9.8 months
+    - CCS: 13.1%
+    - TEMP TIMESTAMP: 10
+    - E.T.A: ?
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
+    - BLOCKAGE: Udemy is down
     - Tooling
       - Cold Email
         - Camtasia, Screenflow, Bcontext
@@ -2728,8 +2795,9 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 35.6%
-      - E.T.A: 5.36 months
+      - CCS: 35.9%
+      - E.T.A: 7.12 months
+      - BLOCKAGE: Udemy is down
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2745,19 +2813,20 @@
 - _helper-function --> `_root_processing-language-meta`
   - Language addiction analysis
     - Actual Addiction Manifestation
+      - _meta-escalate
+        - TARGET: `ROOT_SCHEDULER`
+          - Context: *Root scheduler demands transcript of time consumption of daily reoccuring activities, encapsulate its context field as well as time block in a centralized space for furthur management, experimentation and agile time management*
       - Action
         - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
         - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
       - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-      - Duration: 2.93/2.43 hours
-        - Adverse: 0.5 hours over time
-          - NOT ACCOUNTED
-      - NEXT Duration target: 2.6 hours
+      - Canonical Duration: 2.5~3 Hours
     - Control technique
       - Asynchronous Blockage removal
       - Reduce time consumed by learning curve
       - Reduce time consumed by discipline
       - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
+      - Upgrading `ROOT_SCHEDULER` to unlock more strategies
   - Mindset Field
     - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
       - _meta-escalate
@@ -2871,7 +2940,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 7:00
+        - Videomark: 11:00
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2888,7 +2957,7 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 13%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 18%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **цифра**
             - ?
@@ -2907,8 +2976,8 @@
               - весь
           - VOLATILE
             - **глагол**
-              - тренироваться - 70%
-                - по- | - 60%
+              - тренироваться - 100%
+                - по- | - 100%
               - сделать - 50%
             - **прилагательное**
               - разумный - 60%
@@ -2925,6 +2994,9 @@
                 - корпоративный
                 - высокий
               - **глагол**
+                - необходимость
+                - попробовать
+                - измеряться
                 - посчитать
                 - понадеяться
                 - управлять
@@ -2998,7 +3070,10 @@
       - Pronoun
         - αυτή
           - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 5%
-            - Sitemark: *...αυτά (aftá) — “they” (neutral)...*
+            - Personal Pronouns in Greek | 12%
+            - Demonstrative Pronouns in Greek | 
+            - ...
+            - <span style="color: lime;">(((φ(◎ロ◎;)φ)))</span>
       - INBOUND CACHE ?
         - **ρήμα**
           - αντιμετωπίζω
@@ -3017,7 +3092,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 20:15/11:40:18
+        - Videomark: 22:15/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

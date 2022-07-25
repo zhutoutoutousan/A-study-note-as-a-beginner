@@ -2083,6 +2083,28 @@
                   - Deduction
                   - Financial implications of different credit policies
                 - Determining work capital needs and funding strategies
+        - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
+          - Videomark: 13:42/13:42
+          - CCS: 62.8
+          - E.T.C: 1.13 months
+        - [ACCA F9 - 6. Investment Appraisal (cont)](https://www.youtube.com/watch?v=_oIiKDxRvG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=111)
+          - Videomark: 7:40/14:53
+          - CCS: 63.4
+          - E.T.C: 2.03 months
+          - STRUCT | Audit - Investment Appraisal
+            - Non-discounted cash flow techniques
+              - Payback method
+                - Advantage
+                - Disadvantage
+              - Accounting Rate of Return
+            - Discounted cash flow(DCF) techniques
+              - _supplement
+                - [How to value a company using discounted cash flow (DCF) - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=jfcRUzKZZE8)
+              - The preeminence of cash
+              - Timing and value
+            - Net Present Value(NPV)
+            - Relevant Cash Flows
+            - Internal Rate of Return(IRR)
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2142,10 +2164,6 @@
                   - Videomark: 0:00:00/1:00:29
                   - _meta_escalate
                     - MOVE TO `$parent` on COMPLETION of `$parent`
-        - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
-          - Videomark: /13:42
-          - CCS: 62.8
-          - E.T.C: 1.13 months
       - _meta_static
         - Style: Osmosis
         - _structure
@@ -2163,7 +2181,13 @@
         - Erudition
           - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
             - PROCESSING POINTER FIELD
+              - STRUCT: 7-18
+              - ONCE: 18-20
               - Sweepmark: 20/538
+            - CURIOUSITY OUTREACH FIELD
+              - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
+                - PROCESSING POINTER FIELD
+                  - Videosweepmark: 0:42/1:36:04
         - Vids
           - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
       - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
@@ -2217,7 +2241,7 @@
           - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph​](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6)
-          - Videomark: 12:40/20:09
+          - Videomark: 3:47/20:09
           - CCS: 10%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
@@ -2242,16 +2266,47 @@
                     - _erudition
                       - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
                         - PROCESSING POINTER FIELD
-                          - Booksweepmark: 3/562
+                          - STRUCT FIELD: 5-16
+                            - _meta
+                              - STRUCT_TYPE
+                                - BOOK_CONTENTS
+                                  - _meta
+                                    - INNER_STRUCT_TYPE
+                                      - Canonical Plan of Attack
+                                        - `searchRootProcessing(_this)`
+                                  - Canonical Plan of Attack
+                                    - `searchRootProcessing(_this)`
+                          - Booksweepmark: 8/562
+                        - RTFM FIELD
+                          - Renormalization
+                        - PROFILE FIELD
+                          - Hugh Everett
                         - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
+                          - _meta
+                            - Capacity
+                          - _method
+                            - `detachOnThresholdReached`
                           - Shor's algorithm
                             - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
                             - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
                               - PROCESSING POINTER FIELD
-                                - Videosweepmark: 
+                                - Videosweepmark: 5:13/31:17
+                              - CURIOSITY OUTREACH FIELD | CAPACITY 1 DEPTH 1
+                                - Bell's theorem
+                              - CURIOSITY OUTREACH FIELD CACHE
+                                - EPR Paradox
               - ?
+                - Node embedding
+                  - Zachary's Karate Club network
                 - ??
-                  - Weisfeiler-Lehman Kernel
+                  - ?: Bag-of-colors, efficient way
+                    - Weisfeiler-Lehman Kernel
+                      - Color aggregation
+                      - _relationship
+                        - Graph Neural Networks
+                      - ?
+                        - *K-hop*
+                    - Graphlet Kernel
                 - Methods
                   - Kernel Methods
                     - Graph Kernel
@@ -2377,7 +2432,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 33:20/1:01:49
+        - Videomark: 34:20/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -2395,7 +2450,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 40:32/1:00:17
+            - Videomark: 48:00/1:00:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Shallow Hands-on Track
@@ -2421,9 +2476,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 68%
-          - TEMP TIMESTAMP: 11
-          - ETC: 1.06 months
+          - CCS: 71.8%
+          - TEMP TIMESTAMP
+          - ETC: 1.04 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2476,8 +2531,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 33.6%
-          - E.T.A: 0.61 months
+          - CCS: 35%
+          - E.T.A: 1.44 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -2494,7 +2549,12 @@
                     - [x] Connect to RDS
                     - [x] API testing
                   - [x] Clean up
+            - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
+              - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
+              - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
           - Nest.js WTF-tree
+            - `ERROR [ExceptionHandler] No repository for "TaskRepository" was found. Looks like this entity is not registered in current "default" connection?`
+              - [Custom Repo without extends error: No repository for was found. Looks like this entity is not registered in current "default" connection?](https://stackoverflow.com/questions/63159117/custom-repo-without-extends-error-no-repository-for-was-found-looks-like-this)
             - `Error: Collection "@nestjs/schematics" cannot be resolved.`
               - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
                 - `yarn global add @nestjs/schematics`+ update
@@ -2560,11 +2620,14 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 7.1%
-        - BLOCKAGE
-          - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
-            - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
-            - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
+        - CCS: 9.1%
+        - E.T.A: 2.75 month
+        - [x] BLOCKAGE
+          - [x] Blackscreen problem
+            - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
+            - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
+              - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
+              - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -2576,15 +2639,24 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 13.1%
-    - TEMP TIMESTAMP: 10
-    - E.T.A: ?
+    - CCS: 14.1%
+    - TEMP TIMESTAMP: 30
+    - E.T.A: 5.72 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: /
     - BLOCKAGE: Udemy is down
-    - Tooling
+    - Tooling --> `*-business_arsenal`
       - Cold Email
+        - _category
+          - Template
         - Camtasia, Screenflow, Bcontext
+      - **Follow-up automation**
+        - International
+          - Boomerang
+          - Followup.cc
+        - Domestic
+      - Meeting
+        - Calendly
     - Erudition
       - A guide to Making Introduction
       - The Bandage: Cold Email Formula
@@ -2795,8 +2867,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 35.9%
-      - E.T.A: 7.12 months
+      - CCS: 36.5%
+      - E.T.A: 5.28 months
       - BLOCKAGE: Udemy is down
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
@@ -2813,6 +2885,14 @@
 - _helper-function --> `_root_processing-language-meta`
   - Language addiction analysis
     - Actual Addiction Manifestation
+      - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
+        - 2022/8/1
+        - TEMPLATE
+          - Time consumption report
+          - Energy consumption report
+          - Monthly Performance Improvement Plan
+            - Time consumption reduction plan
+            - Energy consumption reduction plan
       - _meta-escalate
         - TARGET: `ROOT_SCHEDULER`
           - Context: *Root scheduler demands transcript of time consumption of daily reoccuring activities, encapsulate its context field as well as time block in a centralized space for furthur management, experimentation and agile time management*
@@ -2940,7 +3020,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 11:00
+        - Videomark: 15:00
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2957,13 +3037,19 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 18%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 20%
+                  - Personal pronouns | 63%
+                  - Possessive pronouns | 5%
+                  - Demonstrative pronouns | 10%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
+            - **частица**
+              - же - 2%
             - **цифра**
-            - ?
-              - до
-            - **Союзы**
+            - **предлог**
+              - до - 10%
+            - **Союз**
               - чем - 10%
+              - же
             - **личное местоимение**
               - ты
                 - твой
@@ -2976,13 +3062,13 @@
               - весь
           - VOLATILE
             - **глагол**
-              - тренироваться - 100%
-                - по- | - 100%
-              - сделать - 50%
+              - посчитать - 2%
+              - сделать - 90%
             - **прилагательное**
-              - разумный - 60%
+              - разумный - 100%
               - взрослый - 50%
               - художественный
+              - корпоративный
             - **наречие**
             - **существительное**
               - сердце
@@ -2991,13 +3077,12 @@
                 - остальные
               - **прилагательное**
                 - сложный
-                - корпоративный
                 - высокий
               - **глагол**
+                - помочь
                 - необходимость
                 - попробовать
                 - измеряться
-                - посчитать
                 - понадеяться
                 - управлять
                 - говорить
@@ -3069,9 +3154,10 @@
       - **επίρρημα**
       - Pronoun
         - αυτή
-          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 5%
-            - Personal Pronouns in Greek | 12%
-            - Demonstrative Pronouns in Greek | 
+          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 6%
+            - Personal Pronouns in Greek | 15%
+            - Demonstrative Pronouns in Greek | 3%
+            - Interrogative Pronouns in Greek
             - ...
             - <span style="color: lime;">(((φ(◎ロ◎;)φ)))</span>
       - INBOUND CACHE ?
@@ -3092,7 +3178,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 22:15/11:40:18
+        - Videomark: 24:30/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

@@ -290,14 +290,15 @@
     - EMR
       - Q11
 - More 600Q on pbb
-  - Sweepmark: Q212/Q616
+  - Sweepmark: PBQ228/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
     - Reliability and Business Continuity
     - Deployment, Provisioning, and Automation
     - Security and Compliance
     - Networking and Content Delivery
-    - Cost and Performance Optimization
+    - Cost and Performance 
+    - Optimization
     - Labs
   - MARKING TEMPLATE
     - PBQ
@@ -311,8 +312,19 @@
         - PBQ201 - 70%
       - AWS Cost and Usage Report
     - Reliability and Business Continuity
+      - Cross-Account
+        - S3
+          - PBQ216
+      - Third-party Integration
+        - PBQ215
+      - Change Management
+        - AWS Personal Health Dashboard
+          - PBQ220
+          - PBQ226
       - AWS Organization
         - PBQ197 - 70%
+      - Shared Responsibility Model
+        - PBQ221
       - RDS
         - PBQ189 - 20%
         - VPC Flow Log
@@ -345,6 +357,8 @@
         - AMI
           - PBQ154 - 80%
       - Identity Management
+        - Identity federation
+          - PBQ218
         - IAM
           - Cross account management
             - PBQ166
@@ -385,9 +399,10 @@
           - Q34
     - Deployment, Provisioning, and Automation    
       - AWS Config
-        - Q10
-        - Q50
-        - Q54
+        - PBQ10
+        - PBQ50
+        - PBQ54
+        - PBQ227
       - ASG
         - PBQ193
       - CloudFormation
@@ -411,6 +426,8 @@
       - RDS
         - PBQ192 - 70%
       - Storage
+        - EBS
+          - PBQ222
         - EFS
           - PBQ160 - 80%
         - S3
@@ -436,7 +453,10 @@
       - ELB
         - Q42
           - receeived 0 success singal(s) out of 1
-    - Monitoring & Performance
+    - Monitoring & Performance PBMP
+      - AWS Event Bridge
+        - PBQ214
+        - PBQ228
       - CW
         - PBQ167
         - CloudFront
@@ -502,6 +522,8 @@
         - IPV6
           - PBQ161
     - Cost and Performance Optimization
+      - EC2
+        - Q223
       - Q213
 # Hands-on Lab
 - _alias

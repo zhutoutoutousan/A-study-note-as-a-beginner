@@ -18,6 +18,8 @@
 - [2022/6/25](#2022625)
 - [2022/7/7](#202277)
 - [2022/7/20](#2022720)
+- [2022/7/26](#2022726)
+  - [A snapshot of my pain](#a-snapshot-of-my-pain)
 
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
@@ -2083,14 +2085,20 @@
                   - Deduction
                   - Financial implications of different credit policies
                 - Determining work capital needs and funding strategies
+                - ?
+                - Adjusting for risk and uncertainty in investment appraisal
         - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
           - Videomark: 13:42/13:42
           - CCS: 62.8
           - E.T.C: 1.13 months
         - [ACCA F9 - 6. Investment Appraisal (cont)](https://www.youtube.com/watch?v=_oIiKDxRvG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=111)
-          - Videomark: 7:40/14:53
+          - Videomark: 14:53/14:53
           - CCS: 63.4
           - E.T.C: 2.03 months
+        - [ACCA F9 - 7. Investment Appraisal (cont)](https://www.youtube.com/watch?v=G7FskExbZo4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=112)
+          - Videomark: /14:29
+          - CCS: 64
+          - E.T.C: 2 months
           - STRUCT | Audit - Investment Appraisal
             - Non-discounted cash flow techniques
               - Payback method
@@ -2105,6 +2113,8 @@
             - Net Present Value(NPV)
             - Relevant Cash Flows
             - Internal Rate of Return(IRR)
+              - ?
+                - Fisher formula
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2241,7 +2251,7 @@
           - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph​](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6)
-          - Videomark: 3:47/20:09
+          - Videomark: 8:47/20:09
           - CCS: 10%
           - INBOUND CACHE
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
@@ -2450,7 +2460,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 48:00/1:00:17
+            - Videomark: 51:15/1:00:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Shallow Hands-on Track
@@ -2476,9 +2486,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 71.8%
-          - TEMP TIMESTAMP
-          - ETC: 1.04 months
+          - CCS: 72.8%
+          - TEMP TIMESTAMP: 4
+          - ETC: 0.91 months
           - INBOUND CACHE
             - Elliptic-curve cryptography
             - Etherscan
@@ -2531,8 +2541,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 35%
-          - E.T.A: 1.44 months
+          - CCS: 35.7%
+          - E.T.A: 1.41 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -3020,7 +3030,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 15:00
+        - Videomark: 17:00
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -3065,7 +3075,6 @@
               - посчитать - 2%
               - сделать - 90%
             - **прилагательное**
-              - разумный - 100%
               - взрослый - 50%
               - художественный
               - корпоративный
@@ -3298,3 +3307,12 @@
 
 # 2022/7/20
 - Why are you still alive?
+
+# 2022/7/26
+## A snapshot of my pain
+- It's not the boy on the crossroad that I've seen, it's a man, chopped into pieces, each knee deep in multiple main roads and alleys. That boy became a shifter, with multiple people, multiple reality living in the same body from which he can peek into multiple lifelines, multiple lifes. Whether that is real or not, the pain!!! It's always there.
+  - *他不是站在路口, 而是一个身体向无数条路, 无数道门扭曲, 伸展。 无数现实。这时他才意识到, 对他自身来说, 他不需要方向, 他需要一个奇点*
+  - It's too dark! Where am I? Who am I? Where can I get out?
+  - It's this exact moment when he realized, deep down inside, he doesn't need a direction, he needs one single singularity
+- For that he needs necessary sacrifice, he needs to pull himself into reality with the current pain he has, stretch himself even more into darkness, only through greater pain can he finally reach the singularity he is dying for. I believe in powering through, never chickening out
+- Soon, it will manifest, in business context, the story will be writen

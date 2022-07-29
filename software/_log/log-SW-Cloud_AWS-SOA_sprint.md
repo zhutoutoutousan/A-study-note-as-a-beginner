@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb: PB-SWP
-  - Sweepmark: PBQ260/PBQ616
+  - Sweepmark: PBQ261/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
     - Reliability and Business Continuity
@@ -477,6 +477,8 @@
         - PBQ228
       - CW
         - PBQ167
+        - CW Log Group
+          - PBQ261
         - CloudFront
           - PBQ206 - 80%
       - Responsive scaling

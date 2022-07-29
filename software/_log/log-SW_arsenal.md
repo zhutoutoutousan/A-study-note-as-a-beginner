@@ -3,6 +3,7 @@
 - [_INBOUND_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
 - [New Tech](#new-tech)
+- [Networking-related](#networking-related)
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
@@ -93,6 +94,10 @@
 
 # New Tech
 - dbforge
+
+# Networking-related
+- Burp Suite - Community Edition
+- Fiddler
 
 # Shiny Object Journey
 - AWS CodeWhisperer

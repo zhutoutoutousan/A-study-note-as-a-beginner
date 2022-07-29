@@ -98,6 +98,18 @@
   - TOPIC: Patxxxtism
   - TOPIC: You have right to remain xxxxx
 - English - Post C2 --> `bymaverse`
+  - TOPIC | Money --> 5min/d
+    - Trader's path
+      - _source
+        - The Trading Channel 
+      - [The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)](https://www.youtube.com/watch?v=eynxyoKgpng&t=31)
+        - _state
+          - Current Langauge Shuffle: German
+          - Shuffle Frequency: 5 min
+      - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
+        - _state
+          - Current Langauge Shuffle: German
+          - Shuffle Frequency: 5 min
   - _INBOUND
     - _INBOUND_CACHE
   - Industry-based assessment standard
@@ -2087,6 +2099,14 @@
                 - Determining work capital needs and funding strategies
                 - ?
                 - Adjusting for risk and uncertainty in investment appraisal
+                  - Sensitivity analysis
+                  - Scenario analysis
+                - Specific investment decisions(Lease or buy; asset replacement; capital rationing)
+                  - Leasing
+                  - Operating leases
+                  - Finance leases
+                  - Attractiveness of Leasing
+                  - Asset replacement decisions
         - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
           - Videomark: 13:42/13:42
           - CCS: 62.8
@@ -2096,7 +2116,7 @@
           - CCS: 63.4
           - E.T.C: 2.03 months
         - [ACCA F9 - 7. Investment Appraisal (cont)](https://www.youtube.com/watch?v=G7FskExbZo4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=112)
-          - Videomark: /14:29
+          - Videomark: 14:29/14:29
           - CCS: 64
           - E.T.C: 2 months
           - STRUCT | Audit - Investment Appraisal
@@ -2115,6 +2135,35 @@
             - Internal Rate of Return(IRR)
               - ?
                 - Fisher formula
+        - [ACCA F9 - 8. Business Finance](https://www.youtube.com/watch?v=ksB2XyeEgJ0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=113)
+          - Videomark: 13:32/13:32
+          - CCS: 64.5
+          - E.T.C: 2.36 months
+          - STRUCT | Business Finance
+            - ?
+            - ?
+              - IPO(Initial public offering)
+                - **Islamic finance**
+                  - Sharia
+                    - Islamic financial instruments
+                      - مرابحة
+                      -  الإجارة
+                      -  مضاربۃ
+                      -  صكوك
+           - \[4\] Internal sources of finances and dividend policy
+           - Gearing and capital structure considerations
+             - Debt and Equity
+           - Finance for SMEs
+        - [ACCA F9 - 9. Cost of Capital](https://www.youtube.com/watch?v=4Y3Iik-vXq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=114)
+          - Videomark: 3:00/13:54
+          - CCS: 65.1
+          - E.T.C: 1.93 months
+          - STRUCT | Cost of Capital
+            - Source of finance and their relative costs
+            - Determine the cost of equity
+              - Cost of equity
+                - Dividend Discount Model
+                - Capital Asset Pricing Model
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2250,10 +2299,21 @@
         - PROCESSING POINTER FIELD
           - Videomark: 8:20
       - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph​](https://www.youtube.com/watch?v=buzsHTa4Hgs&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=6)
-          - Videomark: 8:47/20:09
-          - CCS: 10%
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.1 - Node Embeddings​](https://www.youtube.com/watch?v=rMq21iY61SE&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=7)
+          - Videomark: 4:02/14:43
+          - CCS: 11.7%
           - INBOUND CACHE
+            - ?
+              - Graph Representation Learning
+                - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
+                  - _meta
+                    - Academic writing technique
+                  - _schema
+                    - _reference
+                    - _prerequisite
+                    - _profiles
+                  - PROCESSING POINTER FIELD
+                    - Papersweepmark: 1/10
             - `? --> Mathematics - Graph Theory | INBOUND CACHE`
               - _meta
                 - CONSTANTS _schema_var
@@ -2460,7 +2520,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 51:15/1:00:17
+            - Videomark: 1:00:48/1:31:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Shallow Hands-on Track
@@ -2472,6 +2532,8 @@
               - Jarvis API
         - Wudao
       - DALL-E
+        - Waitlist
+          - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
         - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
     - Learn Physics via games - *No more books for physics learning - The time has come*
       - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
@@ -2486,13 +2548,15 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 72.8%
+          - CCS: 75.7%
           - TEMP TIMESTAMP: 4
-          - ETC: 0.91 months
+          - ETC: 0.73 months
           - INBOUND CACHE
-            - Elliptic-curve cryptography
-            - Etherscan
-            - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
+            - ?
+              - [ETH Gas Station](https://ethgasstation.info/)
+              - Elliptic-curve cryptography
+              - Etherscan
+              - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
             - SegWit
               - Understanding Segwit Block Size
           - Directions?
@@ -2541,8 +2605,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 35.7%
-          - E.T.A: 1.41 months
+          - CCS: 40.1%
+          - E.T.A: 0.99 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -2559,6 +2623,10 @@
                     - [x] Connect to RDS
                     - [x] API testing
                   - [x] Clean up
+            - [x] NEW BLOCKAGE
+              - [x] `TypeError: this.taskRepository.createTask is not a function`
+            - [x] **OVERRIDE: Shallow Hands-on only with compensation with higher value endeavour**
+              - [x] [Course Code](https://github.com/arielweinberger/nestjs-course-task-management/tree/s3-persistence)
             - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
               - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
               - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
@@ -2630,8 +2698,11 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 9.1%
-        - E.T.A: 2.75 month
+        - CCS: 10.2%
+        - E.T.A: 9.97 month
+        - TEMP_TIMESTAMP: 5
+        - Tools
+          - ipinfo.info
         - [x] BLOCKAGE
           - [x] Blackscreen problem
             - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
@@ -2649,11 +2720,10 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 14.1%
-    - TEMP TIMESTAMP: 30
-    - E.T.A: 5.72 months
+    - CCS: 14.5%
+    - E.T.A: 5.69 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: /
+    - TEMP TIMESTAMP: 32
     - BLOCKAGE: Udemy is down
     - Tooling --> `*-business_arsenal`
       - Cold Email
@@ -2876,10 +2946,9 @@
   - TOPIC: WTF?
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
-    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **1 vid per day | Hands-on if possible**
-      - CCS: 36.5%
-      - E.T.A: 5.28 months
-      - BLOCKAGE: Udemy is down
+    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
+      - CCS: 37.2%
+      - E.T.A: 6.97 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2893,7 +2962,27 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
+  - LASTING STATE
+    - *Rigorously Customized Integration*: For course-bounded Hands-on, if there be more prominent value-generating Hands-on equivalent available, commence override and only preserve the lanugage-learning specific activities 
+    - *Keep the priorities tight*: Due to the increasingly crazier schedule, shrink down all the `meta-depth` for all trees and only preserve **the MOST VALUABLE pathways** and **metas**
+    - TEMPORARY | *Consolidate everything in the brain*: Physical limitations concerning intellectual mobilities are always the main bottleneck for mankind, and the brain is the most powerful organ in the body, leverage the external structured storage and well-trained and well-guided brain to consolidate all the information in the brain, i.e. less writing, more neurological software transformation
+      - **For some local structures, it is mature enough for future neural-level consolidation, amplification, and is ready to be trained to your current limit of intelligence and push it beyond with rigorous meta-digging methods, future actions pending for discussion**
   - Language addiction analysis
+    - Ad-hoc Addiction Control
+      - *You need managed action protocol to trim down time*
+      - Categorization
+        - High Impact | Post-plateau effort
+          - English, Chinese, German
+        - High Impact | Pre-plateau effort
+          - French, Spanish, Portuguese, Japanese
+        - Medium Impact | Post-plateau effort
+        - Medium Impact | Pre-plateau effort
+          - Italian, Russian, Arabic, Korean, Hindi
+        - Low Impact | Post-plateau effort
+        - Low Impact | Pre-plateau effort
+          - Finnish
+      - 2022/7/26
+        - ITALIAN: Half effort
     - Actual Addiction Manifestation
       - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
         - 2022/8/1
@@ -3030,7 +3119,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 17:00
+        - Videomark: 23:16
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -3047,16 +3136,16 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 20%
-                  - Personal pronouns | 63%
-                  - Possessive pronouns | 5%
-                  - Demonstrative pronouns | 10%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 32%
+                  - Personal pronouns | 95%
+                  - Possessive pronouns | 17%
+                  - Demonstrative pronouns | 30%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
-              - же - 2%
+              - же - 70%
             - **цифра**
             - **предлог**
-              - до - 10%
+              - до - 40%
             - **Союз**
               - чем - 10%
               - же
@@ -3075,7 +3164,7 @@
               - посчитать - 2%
               - сделать - 90%
             - **прилагательное**
-              - взрослый - 50%
+              - взрослый - 70%
               - художественный
               - корпоративный
             - **наречие**
@@ -3163,15 +3252,15 @@
       - **επίρρημα**
       - Pronoun
         - αυτή
-          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 6%
-            - Personal Pronouns in Greek | 15%
+          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 8%
+            - Personal Pronouns in Greek | 18%
             - Demonstrative Pronouns in Greek | 3%
             - Interrogative Pronouns in Greek
+            - Indefinite Pronouns in Greek | 5%
             - ...
-            - <span style="color: lime;">(((φ(◎ロ◎;)φ)))</span>
       - INBOUND CACHE ?
         - **ρήμα**
-          - αντιμετωπίζω
+          - αντιμετωπίζω | 5%
           - σχεδιάζω
           - ξέρω
         - **επίθετο**
@@ -3187,7 +3276,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 24:30/11:40:18
+        - Videomark: 27:38/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
@@ -3315,4 +3404,4 @@
   - It's too dark! Where am I? Who am I? Where can I get out?
   - It's this exact moment when he realized, deep down inside, he doesn't need a direction, he needs one single singularity
 - For that he needs necessary sacrifice, he needs to pull himself into reality with the current pain he has, stretch himself even more into darkness, only through greater pain can he finally reach the singularity he is dying for. I believe in powering through, never chickening out
-- Soon, it will manifest, in business context, the story will be writen
+- Soon, it will manifest, in business context, the story will be writen, but I know that I don't want to be just a writer

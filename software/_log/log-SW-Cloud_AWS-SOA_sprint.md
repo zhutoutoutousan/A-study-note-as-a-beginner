@@ -289,8 +289,8 @@
   - BP
     - EMR
       - Q11
-- More 600Q on pbb
-  - Sweepmark: PBQ228/PBQ616
+- More 600Q on pbb: PB-SWP
+  - Sweepmark: PBQ260/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
     - Reliability and Business Continuity
@@ -312,6 +312,9 @@
         - PBQ201 - 70%
       - AWS Cost and Usage Report
     - Reliability and Business Continuity
+      - Storage
+        - EFS
+          - PBQ231
       - Cross-Account
         - S3
           - PBQ216
@@ -321,6 +324,7 @@
         - AWS Personal Health Dashboard
           - PBQ220
           - PBQ226
+          - PBQ252
       - AWS Organization
         - PBQ197 - 70%
       - Shared Responsibility Model
@@ -333,7 +337,7 @@
         - PBQ200 - 80%
       - ELB
         - PBQ208 - 100%
-    - Security & Compliance
+    - Security & Compliance: PB-SC
       - Uncategorized
         - PBQ1
         - PBQ4
@@ -359,11 +363,14 @@
       - Identity Management
         - Identity federation
           - PBQ218
+        - LDAP & SAML
+          - PBQ254
         - IAM
           - Cross account management
             - PBQ166
           - S3
             - PBQ194
+            - PBQ255
         - Q3
         - Q39 - LDAP    
       - Governance & Orchestration
@@ -393,21 +400,30 @@
           - AWS Organization
             - PBQ196 - 60%
             - PBQ207 - 70%
+            - AWS Config
+              - PBQ240
           - Disaster Recovery
             - Q33
         - Responsibility Model
           - Q34
-    - Deployment, Provisioning, and Automation    
+    - Deployment, Provisioning, and Automation
+      - Region, AZ
+        - PBQ243
       - AWS Config
         - PBQ10
         - PBQ50
         - PBQ54
         - PBQ227
+      - Caching
+        - PBQ237
+        - PBQ239
       - ASG
         - PBQ193
       - CloudFormation
         - PBQ173 - 60%
         - PBQ181 - 50%
+        - PBQ230
+        - PBQ253
         - Cloudformation Stackset
           - PBQ203
       - EC2
@@ -453,7 +469,9 @@
       - ELB
         - Q42
           - receeived 0 success singal(s) out of 1
-    - Monitoring & Performance PBMP
+    - Monitoring & Performance PB-MP
+      - AWS Cloudtrail
+        - PBQ257
       - AWS Event Bridge
         - PBQ214
         - PBQ228
@@ -463,6 +481,7 @@
           - PBQ206 - 80%
       - Responsive scaling
         - PBQ171
+        - PBQ256
       - AWS Aurora
         - PBQ209
       - VPC Flow Log

@@ -95,8 +95,10 @@
   - Dialects | Ctrl+C Ctrl+V
     - Goal
       - Local BD
-  - TOPIC: Patxxxtism
-  - TOPIC: You have right to remain xxxxx
+    - Cantonese
+  - TOPIC: \[REDACTED\]
+    - [REDACTED](#)
+      - \[REDACTED\]: \[REDACTED\]
 - English - Post C2 --> `bymaverse`
   - TOPIC | Money --> 5min/d
     - Trader's path
@@ -2160,10 +2162,25 @@
           - E.T.C: 1.93 months
           - STRUCT | Cost of Capital
             - Source of finance and their relative costs
+              - The relationship between Risk and Return
+              - Risk=free rate
             - Determine the cost of equity
               - Cost of equity
                 - Dividend Discount Model
                 - Capital Asset Pricing Model
+                  - $k_e=r_f+(r_m-r_f)\times \beta_e$
+            - Estimate the cost of debt and other capital instruments
+              - Cost of preference shares
+                - Irredeemable
+                - Redeemable
+                  - $P_o = \sum_{x = 0}^{n} \frac{D_x + P_x}{(1+k_p)^x}$
+              - Cost of loan capital(debt)
+              - Impact of taxes
+            - Estimating the overall cost of capital
+              - Average and Marginal Cost of Capital
+              - Weighted average cost of capital(WACC)
+            - Impact of cost of capital on investments
+        - [ACCA F9 - 10. Business Valuations](https://www.youtube.com/watch?v=ugtWxh42Ktk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=115)
           - _meta_following
               - _meta_escalate
                 - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
@@ -2300,9 +2317,33 @@
           - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.1 - Node Embeddings​](https://www.youtube.com/watch?v=rMq21iY61SE&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=7)
-          - Videomark: 4:02/14:43
+          - Videomark: 9:20/14:43
           - CCS: 11.7%
+          - ?
+            -  SVM, Regression
           - INBOUND CACHE
+            - Basics & Prerequisites
+              - Embedding
+                - [Wiki](https://en.wikipedia.org/wiki/Embedding)
+                - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
+                  - _meta
+                    - _parent
+                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
+                - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                - ?
+                  - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
+                - _meta
+                  - _unknown_depth_parent
+                    - General Topology
+                      - RESOURCE POINTER FIELD
+                        - ASYNC MIRRORED | `erudition-M/Topology for the working mathematician`
+                          - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                            - Struct pointer: 3-9
+                            - bookSweepPointer: 11/459
+                          - Supplementary problem solving
+                            - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
+                              - DEPRECATED Videosweepmark: 0:32/8:26
+                            - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
             - ?
               - Graph Representation Learning
                 - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
@@ -2520,7 +2561,7 @@
         - Basics
           - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
           - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 1:00:48/1:31:17
+            - Videomark: 1:07:30/1:31:17
             - BLOCKAGE
               - [x] OpenAPI ist im dies Standort nicht verfügbar
             - Shallow Hands-on Track
@@ -2548,10 +2589,14 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 75.7%
+          - CCS: 76.7%
           - TEMP TIMESTAMP: 4
           - ETC: 0.73 months
           - INBOUND CACHE
+            - **DAO**
+              - **Zachmann framework**
+              - *DAOs, DACs, DAs and More:: An Incomplete Terminology Guide - Vitalik Buterin*
+                - [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
             - ?
               - [ETH Gas Station](https://ethgasstation.info/)
               - Elliptic-curve cryptography
@@ -2605,8 +2650,8 @@
       - _manual-control-override
         - Advanced React and Redux
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 40.1%
-          - E.T.A: 0.99 months
+          - CCS: 41.6%
+          - E.T.A: 0.9 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -2627,6 +2672,8 @@
               - [x] `TypeError: this.taskRepository.createTask is not a function`
             - [x] **OVERRIDE: Shallow Hands-on only with compensation with higher value endeavour**
               - [x] [Course Code](https://github.com/arielweinberger/nestjs-course-task-management/tree/s3-persistence)
+            - [ ] NEW NEW BLOCKAGE
+              - [ ] `$ STAGE=dev nest start --watch - Der Befehl "STAGE" ist entweder falsch geschrieben oder`
             - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
               - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
               - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
@@ -2698,11 +2745,12 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 10.2%
-        - E.T.A: 9.97 month
+        - CCS: 11.0%
+        - E.T.A: 3.71 month
         - TEMP_TIMESTAMP: 5
         - Tools
           - ipinfo.info
+          - whatweb
         - [x] BLOCKAGE
           - [x] Blackscreen problem
             - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
@@ -2720,8 +2768,8 @@
     - HR toolkit
     - MK toolkit
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 14.5%
-    - E.T.A: 5.69 months
+    - CCS: 16.4%
+    - E.T.A: 5.66 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: 32
     - BLOCKAGE: Udemy is down
@@ -2947,8 +2995,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 37.2%
-      - E.T.A: 6.97 months
+      - CCS: 37.5%
+      - E.T.A: 6.94 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2974,7 +3022,7 @@
         - High Impact | Post-plateau effort
           - English, Chinese, German
         - High Impact | Pre-plateau effort
-          - French, Spanish, Portuguese, Japanese
+          - French - 60%, Spanish, Portuguese, Japanese
         - Medium Impact | Post-plateau effort
         - Medium Impact | Pre-plateau effort
           - Italian, Russian, Arabic, Korean, Hindi
@@ -3119,7 +3167,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 23:16
+        - Videomark: 25:16
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -3136,9 +3184,14 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 32%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 45%
                   - Personal pronouns | 95%
-                  - Possessive pronouns | 17%
+                  - Possessive pronouns | 30%
+                    - _memory-helper
+                      - Categorize
+                        - Group 1 - мой, твой
+                        - Group 2 - егó, их
+                        - Group 3 - наш, ваш
                   - Demonstrative pronouns | 30%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
@@ -3253,7 +3306,7 @@
       - Pronoun
         - αυτή
           - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 8%
-            - Personal Pronouns in Greek | 18%
+            - Personal Pronouns in Greek | 25%
             - Demonstrative Pronouns in Greek | 3%
             - Interrogative Pronouns in Greek
             - Indefinite Pronouns in Greek | 5%
@@ -3276,7 +3329,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 27:38/11:40:18
+        - Videomark: 30:00/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

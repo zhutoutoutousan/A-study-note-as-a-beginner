@@ -290,11 +290,35 @@
     - EMR
       - Q11
 - More 600Q on pbb: PB-SWP
-  - Sweepmark: PBQ261/PBQ616
+  - Sweepmark: PBQ276/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
+      - CW
+        - AWS CW Logs
+        - CW Logs Insights
+        - CW Agent
+        - CW Dashboards
+        - Cloudtrail logs
+        - CW Alarms
+      - SNS
+      - Service Quotas
+      - AWS Health Events
+      - AWS EventBridge
+      - AWS System Manager
+      - AWS Config
     - Reliability and Business Continuity
+      - Scalability and elasticity
     - Deployment, Provisioning, and Automation
+      - Deployment & Provisioning
+        - Create and manage Amazon Machine Images(AMIs)
+        - Use CF proficiently
+        - Provision across multiple Regions and accounts
+        - Select deployment scenarios and services
+        - Fix deployment issues
+      - Automation
+        - Automate deployments
+        - Automate patching
+        - Schedule automated tasks
     - Security and Compliance
     - Networking and Content Delivery
     - Cost and Performance 
@@ -311,13 +335,17 @@
         - PBQ190 - 50%
         - PBQ201 - 70%
       - AWS Cost and Usage Report
-    - Reliability and Business Continuity
+    - Reliability and Business Continuity - PB-RBC
+      - CDN
+        - PBQ262
       - Storage
         - EFS
           - PBQ231
       - Cross-Account
         - S3
           - PBQ216
+        - CF
+          - PBQ271
       - Third-party Integration
         - PBQ215
       - Change Management
@@ -361,6 +389,9 @@
         - AMI
           - PBQ154 - 80%
       - Identity Management
+        - Credential Management
+          - KMS
+            - PBQ272
         - Identity federation
           - PBQ218
         - LDAP & SAML
@@ -406,7 +437,9 @@
             - Q33
         - Responsibility Model
           - Q34
-    - Deployment, Provisioning, and Automation
+    - Deployment, Provisioning, and Automation PB-DPA
+      - AWS Code Pipeline
+        - PBQ265
       - Region, AZ
         - PBQ243
       - AWS Config
@@ -424,6 +457,7 @@
         - PBQ181 - 50%
         - PBQ230
         - PBQ253
+        - PBQ266
         - Cloudformation Stackset
           - PBQ203
       - EC2
@@ -477,6 +511,8 @@
         - PBQ228
       - CW
         - PBQ167
+        - Health Check
+          - PBQ263
         - CW Log Group
           - PBQ261
         - CloudFront

@@ -1,26 +1,3 @@
-# Table of Contents
-- [Table of Contents](#table-of-contents)
-- [STICKY 寻找Purpose的旅程](#sticky-寻找purpose的旅程)
-  - [Shelter if you're homeless](#shelter-if-youre-homeless)
-  - [Build your weapon](#build-your-weapon)
-    - [Learn to write](#learn-to-write)
-    - [Learn to talk](#learn-to-talk)
-- [STICKY Mandatory workout planning](#sticky-mandatory-workout-planning)
-- [STICKY Language progression management](#sticky-language-progression-management)
-- [STICKY Monthly Micro PIP](#sticky-monthly-micro-pip)
-- [STICKY Full-stack developer Performance Improvement Plan](#sticky-full-stack-developer-performance-improvement-plan)
-- [2022/5/29](#2022529)
-- [2022/6/8](#202268)
-- [2022/6/11](#2022611)
-- [2022/6/12-2022/6/30 - It's gonna be a tough one](#2022612-2022630---its-gonna-be-a-tough-one)
-  - [Main theme： How the hell am I going to survive this one?](#main-theme-how-the-hell-am-i-going-to-survive-this-one)
-- [STICKY | 软件特种团队管理](#sticky--软件特种团队管理)
-- [2022/6/25](#2022625)
-- [2022/7/7](#202277)
-- [2022/7/20](#2022720)
-- [2022/7/26](#2022726)
-  - [A snapshot of my pain](#a-snapshot-of-my-pain)
-
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
@@ -158,15 +135,14 @@
       - --> `ROOT._PROCESSING`
     - **MANAGEMENT**
     - **COLD CALL & EVERYTHING THAT COMES AFTERWARDS**
-- French - Lower C1
-  - Material Track
-    - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
-    - ACCA F1 --> Borrowed from section `CFA CPA`
+- French - Middle C1
+    - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
-          - Videomark: 12:36/12:36
-        - [ACCA F1 - 2 Planning, marketing, organisation structure](https://www.youtube.com/watch?v=3vBll0Vz3ks&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=2)
+        - [LSBF ACCA F1: Do's and Don'ts](https://www.youtube.com/watch?v=17Y0f0x-TSc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=118)
           - Videomark: 10:30/10:30
+          - CCS: 67.4
+          - ETC: 1.81 months
+          - ACTION: DESTROY ON COMPLETE
         - [ACCA F1 - 3 Span of control, scalar chain, (de) centralisation](https://www.youtube.com/watch?v=WKJKPT_TXDg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=3)
           - Videomark: 6:45/6:45
         - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
@@ -2353,7 +2329,7 @@
           - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.2-Random Walk Approaches for Node Embeddings​](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8)
-          - Videomark: /27:06
+          - Videomark: 5:35/27:06
           - CCS: 13.3%
           - ?
             -  SVM, Regression
@@ -2370,6 +2346,12 @@
                     - _parent
                       - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
                 - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                - ?
+                  - Random Walk
+                    - _self
+                      - Use Cases
+                        - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
+                        - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
                 - ?
                   - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
                 - _meta
@@ -3445,56 +3427,3 @@
 - 一个优秀的UI/UX设计师应具备哪些技能？
 - 一个优秀的人际沟通艺术家应具备哪些技能？
 - 一个优秀的布道者应具备哪些技能？
-
-# 2022/5/29
-- ...Lanugage learning tip: 大idea通过查询式/中断式BFS链接生成(e.g. 希腊语字母, 韩语部首对梵文字母的大脑渗透具有80%复制黏贴之效果), 批量导入过程优化及idea pool, 小idea及毛细优化点完全通过游戏化APP进行流程外包, 过程控制M&C由语言顾问及bymaverse元宇宙平台进行潜意识nudge, 论(语言)天才的批量自动化生成, 覆盖率从亿分之n达到99.999999%, 如何与外星人抗衡...
-
-# 2022/6/8
-- 创业状态: *即使永远处在不识庐山真面目的状态，也时刻都不能有只缘身在此山中的态度*
-- 基于局部非零和博弈胜出集群(e.g. PR胜出)及分布式网络的总体零和博弈思维, 闷声发大财类型人类的自动化PUA策略
-- So you've made a plan, after a few months: Where TF am I? 
-
-# 2022/6/11
-- Hey Stupid! Time to wake up and use Google Calendar to do the planning!
-
-# 2022/6/12-2022/6/30 - It's gonna be a tough one
-## Main theme： How the hell am I going to survive this one?
-- Weight Control Program
-- Micro PIP: Software Estimation(OPTIONAL)
-- AWS SysOps Exam Prep
-  - Count down: 2022/6/27
-- Roll-out
-- 什么叫*zh田园*?
-  - 仨核桃俩枣都得有j臣之分
-  - 君臣之气开始批量涌入下沉市场
-
-# STICKY | 软件特种团队管理
-- 特种团队相当于软件开发团队中的特种部队
-
-# 2022/6/25
-- 当你只会一种语言时
-  - 为guo争光! NNS是福报!
-- 当你会两种语言时
-  - 精致生活, 有序竞争
-  - 优雅闲适, 改变世界
-  - 高效, 成熟, 责任
-- 当你会五种语言时
-  - 全球视野, 全球观察, 全球认可
-- 当你会十五种语言时
-  - 我就想在家碎觉觉耶( •̀ ω •́ )y
-
-# 2022/7/7
-- Hey man, you're losing it, you're gone!
-- You need to plan a long vacation for all of those patterns to sink into your brain
-
-# 2022/7/20
-- Why are you still alive?
-
-# 2022/7/26
-## A snapshot of my pain
-- It's not the boy on the crossroad that I've seen, it's a man, chopped into pieces, each knee deep in multiple main roads and alleys. That boy became a shifter, with multiple people, multiple reality living in the same body from which he can peek into multiple lifelines, multiple lifes. Whether that is real or not, the pain!!! It's always there.
-  - *他不是站在路口, 而是一个身体向无数条路, 无数道门扭曲, 伸展。 无数现实。这时他才意识到, 对他自身来说, 他不需要方向, 他需要一个奇点*
-  - It's too dark! Where am I? Who am I? Where can I get out?
-  - It's this exact moment when he realized, deep down inside, he doesn't need a direction, he needs one single singularity
-- For that he needs necessary sacrifice, he needs to pull himself into reality with the current pain he has, stretch himself even more into darkness, only through greater pain can he finally reach the singularity he is dying for. I believe in powering through, never chickening out
-- Soon, it will manifest, in business context, the story will be writen, but I know that I don't want to be just a writer

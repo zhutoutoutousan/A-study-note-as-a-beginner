@@ -37,3 +37,13 @@ https://www.worldtimebuddy.com/
 ## General
 ## Beijing
 - Suppose you have a business trip to Beijing from a starting point $i$, what aspect would you keep in mind to ensure robust travel journey?
+
+## Suzhou
+### Basics
+- [苏州市 - wiki](https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82)
+
+### INBOUND CACHE
+- [Suzhou - Comprehensive Overview of the City, Pest Analysis and Analysis of Key Industries including Technology, Tourism and Hospitality, Construction and Retail](https://www.marketresearch.com/MarketLine-v3883/Suzhou-Comprehensive-Overview-City-Pest-13487789/)
+- [PEST analysis of !](https://pestleanalysis.com/pest-analysis-of-china/)
+- [Towards sustainable construction through better construction and demolition waste management practices: a SWOT analysis of Suzhou, China](https://www.tandfonline.com/doi/abs/10.1080/15623599.2022.2081406)
+- [Ecological analysis of an emerging urban landscape pattern—desakota: a case study in Suzhou, China](https://link.springer.com/article/10.1007/s10980-006-0024-9)

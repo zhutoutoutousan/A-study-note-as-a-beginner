@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb: PB-SWP
-  - Sweepmark: PBQ276/PBQ616
+  - Sweepmark: PBQ371/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
       - CW
@@ -301,6 +301,8 @@
         - Cloudtrail logs
         - CW Alarms
       - SNS
+      - S3 Event Notification
+        - PBQ364
       - Service Quotas
       - AWS Health Events
       - AWS EventBridge
@@ -308,10 +310,44 @@
       - AWS Config
     - Reliability and Business Continuity
       - Scalability and elasticity
+        - ASG
+          - PBQ349
+        - Lambda
+          - PBQ340
+      - High Availability and resilient environments
+        - High Availability
+          - Health Check
+          - ASG
+          - RDS
+          - EFS, FSx
+      - Fault tolerance
+        - Snapshot and backups
+          - RTO
+          - RPO
+          - Database Restore
+        - Versioning
+        - Lifecyling rules
+        - Cross-region replication
+        - Storage Products
+          - AWS Snowball
+          - AWS EFS
+          - AWS Storage Gateway
+            - Troubleshooting
+              - PBQ361
+      - Backup and restore strategies
+      - Caching
+        - Redis
+        - Memecache
+          - PBQ342
+        - CloudFront
+        - DAX
+        - RDS Read Replicas
+      - Loose coupling
     - Deployment, Provisioning, and Automation
       - Deployment & Provisioning
         - Create and manage Amazon Machine Images(AMIs)
         - Use CF proficiently
+          - PBQ371
         - Provision across multiple Regions and accounts
         - Select deployment scenarios and services
         - Fix deployment issues
@@ -320,15 +356,68 @@
         - Automate patching
         - Schedule automated tasks
     - Security and Compliance
+      - Implement and manage security and compliance policies
+        - AWS SSO
+          - PBQ295
+        - IAM
+          - Validating policies
+          - IAM Access Analyzer
+          - IAM policy simulator
+        - Trust advisor
+        - Multi-account
+          - AWS Control Tower
+        - Multi-region
+          - AWS Organization
+            - PBQ352
+      - Implement data and infrastructure security strategies
+        - Data classification
+          - Encryption at rest
+            - KMS, CloudHSM
+              - PBQ303
+          - Encryption at transit
+            - Certificate manager, VPN
+        - AWS Secrets Manager
+          - Parameter store
+        - Observation and reporting
+          - GuardDuty, Security Hub, Inspector, Amazon Macie
     - Networking and Content Delivery
+      - Imeplementing networking features and connectivity
+        - Amazon VPC configuration
+        - AWS System Manager Session Manager
+        - VPC endpoints
+        - VPC peering
+        - VPNs
+        - AWS WAF
+         - PBQ368
+      -  Implementation of domains, DNS services, and content delivery
+        - Route 53
+        - Hosted zones and records
+        - Route 53 policies
+        - General DNS configurations
+        - Cloudfront
+      - AWS Cloudtrail
+        - PQB283S3
+      - Troubleshooting networking connectivity issues
+        - Evaluate VPC configurations
+        - Collect and evaluate logs for networking and content delivery
+      - Logging resources
+        - VPC flow logs
+        - ELB access logs
+        - CF access logs
     - Cost and Performance 
+      - Cost Allocation Tags Manager
+        - PBQ332
     - Optimization
+    - AWS Billing and Cost Management Console
+      - PBQ336
     - Labs
   - MARKING TEMPLATE
     - PBQ
   - QUEUED ACTIONS
     - PUMP documents to constant field
   - Q1~Q100
+    - ?
+      - PQB277
     - Cost and Performance Optimization
       - PBQ184 - 60%
       - AWS Cost Explorer
@@ -376,6 +465,7 @@
         - Q47
         - Q53 - 90%
         - PBQ51 - 80%
+      - AWS Cloudtrail
       - AWS Secrets Manager
         - PBQ210
       - MFA
@@ -418,6 +508,7 @@
           - Service Catalog
             - PBQ8
             - PBQ205
+            - PBQ282
           - AWS Artifact
             - Q9
           - Tag management
@@ -450,14 +541,19 @@
       - Caching
         - PBQ237
         - PBQ239
+        - PBQ315
       - ASG
         - PBQ193
+        - Lifecycle Hook
+          - PBQ313
       - CloudFormation
         - PBQ173 - 60%
         - PBQ181 - 50%
         - PBQ230
         - PBQ253
         - PBQ266
+        - Cross Account
+          - PBQ301
         - Cloudformation Stackset
           - PBQ203
       - EC2
@@ -569,6 +665,7 @@
             - Doc: Control traffic to subnets using Network ACLs
         - VPC Peering
           - PBQ183
+          - PBQ307
         - VPC Endpoint
           - PBQ185 - 20%
         - PBQ12

@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [Guidance](#guidance)
 - [Basic tooling](#basic-tooling)
+- [?](#)
 - [Engineering Mathematics](#engineering-mathematics)
 - [Geometry & Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
@@ -27,6 +28,9 @@
 # Basic tooling
 - GNU Octave
 - Jupyter Notebook
+
+# ?
+- [Group Theory - J.S.Milne](https://www.jmilne.org/math/CourseNotes/GT.pdf)
 
 # Engineering Mathematics
 - Calculus - G. Strang

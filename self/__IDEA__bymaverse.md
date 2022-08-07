@@ -62,3 +62,7 @@
             - **Network capacity, manipulation**
             - **Network-procedural connection**
             - **Procedural capacity**
+
+- IDEA | MERGE all `education` related IDEAS into `__IDEA__eduverse`
+  - [Forget the metaverse — Labster raises $47m to build the ‘eduverse’](https://sifted.eu/articles/labster-edtech-raise/)
+  - [k20educator](https://www.k20educators.com/)

@@ -90,12 +90,16 @@
         - _source
           - The Trading Channel 
         - Noob's jump: Trading 101
+          - Hands-on
+            - Demo ACC
+              - Strategy Demos
+                - [ ] [The Most Important Rule In Day Trading](https://www.youtube.com/watch?v=HEJBaC4TkvQ)
         - Randomwalk
           - [The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)](https://www.youtube.com/watch?v=eynxyoKgpng&t=31)
             - _state
-              - Current Langauge Shuffle: Barman language
+              - Current Langauge Shuffle: Bhojpuri language
               - Shuffle Frequency: 5 min
-            - PROCESSING POINTER FIELD: 11:00/1:17:34
+            - PROCESSING POINTER FIELD: 37:30/1:17:34
           - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
             - _state
               - Current Langauge Shuffle: German
@@ -138,85 +142,30 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F1: Do's and Don'ts](https://www.youtube.com/watch?v=17Y0f0x-TSc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=118)
-          - Videomark: 10:30/10:30
-          - CCS: 67.4
-          - ETC: 1.81 months
-          - ACTION: DESTROY ON COMPLETE
-        - [ACCA F1 - 3 Span of control, scalar chain, (de) centralisation](https://www.youtube.com/watch?v=WKJKPT_TXDg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=3)
-          - Videomark: 6:45/6:45
-        - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
-          - Videomark: 9:25/9:25
-        - [ACCA F1 - 5 Stakeholders](https://www.youtube.com/watch?v=vlxXCfvp568&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=5)
-          - Videomark: 5:48/5:48
-        - [ACCA F1 - 6 Committees](https://www.youtube.com/watch?v=Hl17fQ7WfbM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=6)
-          - Videomark: 3:21/3:21
-        - [ACCA F1 - 7 Information systems](https://www.youtube.com/watch?v=uMXdk1UbRRw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=7)
-          - Course Completion: 4%
-          - Videomark: 8:02/8:02
-        - [ACCA F1 - 8 Ethics and corporate governance](https://www.youtube.com/watch?v=B7vSsD7LLrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=8)
-          - Videomark: 11:05/11:05
-          - Course Completion Stamp: 4.5%
-          - E.T.C: 6.3 months to ACCA F8 with Osmosis-driven results
-        - [ACCA F1 - 9 Environmental influences](https://www.youtube.com/watch?v=9VkKiNFREQA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=9)
-          - Videomark: 15:44/15:44
-          - Course Completion Stamp: 5.1%
-          - E.T.C: 5.3 months
-        - [ACCA F1 - 10 Role of accounting in business](https://www.youtube.com/watch?v=hr_2ODSa9FE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=10)
-          - Videomark: 10:35/10:35
-          - Course Completion Stamp: 5.7%
-          - E.T.C: 5.23 months
-          - SIMULTANEOUS INTERPRETATION PROGRESSION First time of sensing Synchronization singularity of long French sentences with English and meaning for more than 1 minute non-stop
-        - [ACCA F1 - 11 Functions of accounting and internal control](https://www.youtube.com/watch?v=UMvYkEcCVk8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=11)
-          - Videomark: 7:55/7:55
-          - CCS: 6.3%
-          - E.T.C: 5.2 months
-        - [ACCA F1 - 12 Leadership, management and teams](https://www.youtube.com/watch?v=E-fK79U865Y&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=12)
-          - Videomark: 10:24/10:24
-          - CCS: 6.8%
-          - E.T.C: 6.21 months
-        - [ACCA F1 - 13 Motivating individuals and groups](https://www.youtube.com/watch?v=rSz13mwduxw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=14)
-          - Videomark: 6:13/6:13
-        - [ACCA F1 - 14 Recruitment and development](https://www.youtube.com/watch?v=osrBu8o8Dzw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=14)
-          - Videomark: 9:44/9:44
-        - [ACCA F2 - 1 The nature and purpose of management accounting](https://www.youtube.com/watch?v=JGf83N569BA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=15)
-          - Videomark: 12:57/12:57
-          - CCS: 8.5%
-          - E.T.C: 3.56 months
-        - [ACCA F2 - 2 Cost classification, behaviour and purpose](https://www.youtube.com/watch?v=O7qRJLVoOjc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=16)
-          - Videomark: 9:57/9:57
-          - CCS: 9.1%
-          - $E.T.C=\frac{100\% - CURRENT\_ CCS}{30 \times (CURRENT \_ CCS\_ - LAST \_ CCS)}$ = $\frac{100\% - 9.1\%}{30 \times (9.1\% - 8.5\%)}$ = 5.05 months 
-        - [ACCA F2 - 3 Business maths - regression analysis](https://www.youtube.com/watch?v=7S_9Hti-wt4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=17)
-          - Videomark: 11:33/11:33
-          - CCS：9.7%
-          - E.T.C: 5.02 months
-          - IDEA | MERGE all `education` related IDEAS into `__IDEA__eduverse`
-            - [Forget the metaverse — Labster raises $47m to build the ‘eduverse’](https://sifted.eu/articles/labster-edtech-raise/)
-            - [k20educator](https://www.k20educators.com/)
-          - VOCAB
-            - Regression analysis
-        - [ACCA F2 - 4 Cost accounting techniques](https://www.youtube.com/watch?v=aaF8fI-x11A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=18)
-          - Videomark: 7:58/7:58
-          - CCS: 10.2%
-          - E.T.C: 5.98 months
-          - _meta
-            - REVIEW REQUIRED: 0/5
-            - Basic drive for activating furthur meta data collection and analysis
-              - Could be useful for future meta-analysis for learning
-            - Context Absorbtion: 20%
-              - Symbol Proficiency
-              - Flow Proficiency
-              - Application Proficiency
-        - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
-          - Videomark: 8:45/8:45
-          - CCS: 10.8%
-          - E.T.C: 4.95 months
+        - [LSBF ACCA F3: Dos and Don'ts with Francis Braganza Part 2](https://www.youtube.com/watch?v=NJhA0hCB13A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=124)
+          - Videomark: /9:55
+          - CCS: 70.8%
+          - ETC: 1.62 months
+          - CONVOLUTION | Management Accounting
+            - Main idea
+              - Planning
+              - Control
+              - Decision making
+            - Ingredients
+              - Information
+                - _quality
+                  - Relevance
+                  - Timing
+                  - Cost-effectiveness
+                  - Accuracy
+              - Data
+          - CONVOLUTION | Financial Accounting
+          - ACTION STICKY： Sit for ACCA after Completion
         - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
           - Videomark: 8:43/8:43
           - CCS: 11.4%
           - E.T.C: 4.92 months
-          - _meta
+          - _meta --> **Pending for review on 2022/8/6**
             - review_weight: 5/10(1 as default)
             - retrieval_pathway_store_required: true
             - clusterized: true
@@ -2323,14 +2272,16 @@
       - source
         - media.ccc.de
         - The Royal Institution
+    - Quantum Computing Hands-on
+      - _source
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
       - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
         - PROCESSING POINTER FIELD
           - Videomark: 8:20
       - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.2-Random Walk Approaches for Node Embeddings​](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8)
-          - Videomark: 5:35/27:06
-          - CCS: 13.3%
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.3 - Embedding Entire Graphs​](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9)
+          - Videomark: 6:00/18:03
+          - CCS: 15%
           - ?
             -  SVM, Regression
           - INBOUND CACHE
@@ -2338,6 +2289,24 @@
               - Coding
                 - Shallow Encoding
                   - [DeepWalk](https://github.com/phanein/deepwalk)
+                    - PROCESSING POINTER FIELD
+                      - _meta-escalate
+                        - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace(PRCOESSING_POTINER_FIELD__CODEBASE)`
+                      - _temp
+                        - Active Documents
+                          - Frequency Tier 1
+                            - [venv](https://docs.python.org/3/library/venv.html)
+                          - Frequency Tier 2
+                          - Frequency Tier 3
+                      - Codemarksequence
+                        - [x] Local: `deepwalk`
+                        - [ ] Basic Usage
+                          - [ ] Setup V_ENV for Python
+                        - [ ] Explore Usage
+                      - Codeskimming
+                        - Prerequisites | 2%
+                        - Syntax
+                        - Structural
                   - [node2vec](https://github.com/aditya-grover/node2vec)
               - Embedding
                 - [Wiki](https://en.wikipedia.org/wiki/Embedding)
@@ -2345,15 +2314,35 @@
                   - _meta
                     - _parent
                       - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
+                        - PROCESSING POINTER FIELD
+                          - currentPointer: Prerequisites and Prework - Introduction to Machine Learning Problem Framing
                 - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
                 - ?
                   - Random Walk
+                    - _difficult
+                      - Random Walk Optimization: Negative sampling
+                        - Rigor
+                          - $\mathcal{L} = \sum_{u\isin V} \sum_{v\isin{N_R(u)}} -log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}})$
+                          - $log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}}) \approx log(\sigma(z_{u}^T z_v)) - \sum_{i=1}^k  log(\sigma(z_{u}^{T} z_{n_i})), n_i \sim P_V$
+                            - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)
+                            - CURIOSITY OUTREACH DEPTH LIMIT | 3 && FLAT
+                              - Stochastic gradient descent
+                                - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
+                                - [The Unreasonable Effectiveness of Stochastic Gradient Descent (in 3 minutes)](https://www.youtube.com/watch?v=UmathvAKj80)
+                        - **BLOCKAGE**: `lackOfContextException` Your friend *Brain* has left the chat
+                          - [What is a Random Walk? | Infinite Series](https://www.youtube.com/watch?v=stgYW6M5o4k)
+                          - [Negative Sampling](https://www.youtube.com/watch?v=4PXILCmVK4Q)
                     - _self
                       - Use Cases
                         - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
                         - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
                 - ?
                   - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
+                  - RESOURCE POINTER FIELD
+                    - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
+                      - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                        - Struct pointer: 3-4
+                        - bookSweepPointer: 4/137
                 - _meta
                   - _unknown_depth_parent
                     - General Topology
@@ -2565,7 +2554,7 @@
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 35:20/1:01:49
+        - Videomark: 36:30/1:01:49
     - Deutsch --> English
       - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
     - Daily, Mundane contents --> **HALT** 1min/day
@@ -2577,27 +2566,34 @@
     - Chess
   - Comprehensive development path
     - AI workshop --> ACTIVE ON `Blockchain complete`
-      - BLOOM
+      - _source
         - [huggingface](https://huggingface.co/docs/transformers/model_doc/bloom)
-      - GPT-3
-        - Basics
-          - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
-          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-            - Videomark: 1:11:00/1:31:17
-            - BLOCKAGE
-              - [x] OpenAPI ist im dies Standort nicht verfügbar
-            - Shallow Hands-on Track
-              - Local Link: `stupid-ai-blogger`
-              - Source
-                - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
-            - Resource
-              - OpenAI
-              - Jarvis API
-        - Wudao
-      - DALL-E
-        - Waitlist
-          - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
-        - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
+      - Transformer Models
+        - BLOOM
+        - ?
+          - [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&t=59s)
+        - GPT-3
+          - Basics
+            - [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&t=18s)
+            - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
+            - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
+              - Videomark: 1:31:17/1:31:17
+              - BLOCKAGE
+                - [x] OpenAPI ist im dies Standort nicht verfügbar
+              - Shallow Hands-on Track
+                - Local Link: `stupid-ai-blogger`
+                - Source
+                  - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
+              - Resource
+                - OpenAI
+                - Jarvis API
+              - **ACTION ON COMPLETE**
+                - Update `*-software_arsenal`
+          - Wudao
+        - DALL-E
+          - Waitlist
+            - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
+          - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
     - Learn Physics via games - *No more books for physics learning - The time has come*
       - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
         - DEVIATION: In tandem with **Dutch**
@@ -2606,14 +2602,16 @@
       - Tool: JetBrains - Datalore
         - [Datalore](https://datalore.jetbrains.com/notebook/)
     - **Web 5.0+**
+      - Metaverse
+        - [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c)
       - **DAO** --> **ACTIVE** 10min/day
         - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day --> 2X speed & SHALLOW HANDS-ON
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 77.7%
-          - TEMP TIMESTAMP: 4
-          - ETC: 0.74 months
+          - CCS: 81.5%
+          - TEMP TIMESTAMP: 10
+          - ETC: 0.61 months
           - INBOUND CACHE
             - **DAO**
               - **Zachmann framework**
@@ -2672,9 +2670,12 @@
     - Competitive Programming
       - _manual-control-override
         - Advanced React and Redux
+        - [Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8)
+          - Videomark: 1:54
+          - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 42.3%
-          - E.T.A: 2.7 months
+          - CCS: 46.7%
+          - E.T.A: 2.53 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -2766,12 +2767,31 @@
     - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
     - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
     - Progress(Slow language learning)
+  - Branding, Fashion, Faces
+    - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
+  - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
+    - NPTEL IIT - Consumer Psychology
+      - [CURRENT VIDEO POINTER - Consumer Psychology [Introduction Video]](https://www.youtube.com/watch?v=Dxyz25s17Jg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=1)
+        - PROCESSING POINTER FIELD
+          - Videomark: 1:17/6:27
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 11.5%
-        - E.T.A: 6 month
+        - CCS: 14.2%
+        - E.T.A: 7.15 month
+        - ?
+          - _source
+            - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
         - Tools
+          - _source
+            - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
+            - `osint-tools`
+            - `sherlock`
+              - BLOCKAGE
+                - [ ] \[REDACTED\]
+                  - [ ] `[REDACTED]`
+          - Reconissance
+            - [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
           - ipinfo.info
           - whatweb
         - [x] BLOCKAGE
@@ -2786,15 +2806,23 @@
       - Forensic Accounting
       - Financial instrument attack
     - PR toolkit
+      - Supply chain frisking
+      - Regulation & Compliance investigation
+      - Short Agency collab
       - Case study
         - ZXG --> MTG
+    - Legal toolkit
     - HR toolkit
+      - Forensic Politics
+      - Internal Mutiny: Automation & Orchestration
+        - [Metrics](https://openpsychometrics.org/)
     - MK toolkit
+      - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 23.4%
-    - E.T.A: 5.66 months
+    - CCS: 20.6%
+    - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 10:40
+    - TEMP TIMESTAMP: 4
     - BLOCKAGE: Udemy is down
     - Tooling --> `*-business_arsenal`
       - Cold Email
@@ -3018,8 +3046,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 37.8%
-      - E.T.A: 6.91 months
+      - CCS: 39.9%
+      - E.T.A: 5.01 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -3109,6 +3137,7 @@
     - TBD
     - INBOUND CACHE
       - \{`self`\}
+- Icelandic - N/A
 - Finnish - N/A
   - VOCAB\_FIELD \{CAPACITY_SETTING\}
     - _meta
@@ -3189,8 +3218,8 @@
     - Уральская рябинушка
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
-      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
-        - Videomark: 27:16
+      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
+        - Videomark: 8:00
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -3207,18 +3236,34 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 45%
-                  - Personal pronouns | 99%
-                  - Possessive pronouns | 40%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 50%
+                  - _state
+                    - COLD_TURKEY
+                  - Personal pronouns | **THRESHOLD LEVEL 1** - 1%
+                    - `self.metaDigging(LEVEL=1)` | 2%
+                      - _entity
+                        - `categorize(self)`
+                      - _method
+                        - `activeRecall(self)` | 10%
+                  - Possessive pronouns | 57%
+                    - _warning
+                      - Plateau Counter: 1
                     - _memory-helper
+                      - _tracker
+                        - Depth 1 Percentage: 82%
+                        - Depth 2 Percentage: 11%
                       - Categorize
                         - Group 1 - мой, твой
-                        - Group 2 - егó, их
+                          - Group 1.A - Мужского и Средний род
+                          - Group 1.B - Женского: -ей
+                          - Group 1.C - Множественное число
+                        - Group 2 - егó, их, её
                         - Group 3 - наш, ваш
-                  - Demonstrative pronouns | 32%
+                  - Demonstrative pronouns | 50%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
               - же - 70%
+              - К
             - **цифра**
             - **предлог**
               - до - 40%
@@ -3236,16 +3281,23 @@
               - какой - 3%
               - весь
           - VOLATILE
+            - _state
+              - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
+              - PROCESSING_CAPACITY: 8
+            - _method
+              - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - посчитать - 2%
-              - сделать - 90%
+              - посчитать - 100%
+              - попробовать - 20%
+              - необходимость - 40%
+              - помочь - 40%
             - **прилагательное**
               - взрослый - 70%
-              - художественный
-              - корпоративный
+              - художественный - 40%
+              - корпоративный - 100%
             - **наречие**
             - **существительное**
-              - сердце
+              - сердце - 90%
             - INBOUND CACHE
               - ?
                 - остальные
@@ -3253,9 +3305,6 @@
                 - сложный
                 - высокий
               - **глагол**
-                - помочь
-                - необходимость
-                - попробовать
                 - измеряться
                 - понадеяться
                 - управлять
@@ -3320,6 +3369,26 @@
         - που - 5%
         - τίς
       - **χωρίς κατηγοριοποίηση**
+      - `pronoun`
+        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 14%
+          - Personal Pronouns in Greek | 35%
+            - Subject
+              - Core Table | 35%
+              - Examples | 5%
+            - Object
+              - Core Table
+              - Examples
+            - Possessive form
+              - Core Table
+              - Examples
+          - Demonstrative Pronouns in Greek | 8%
+          - Interrogative Pronouns in Greek | 10%
+          - Indefinite Pronouns in Greek | 5%
+            - Core Table | 20%
+            - Examples | 2%
+          - Relative Pronouns in Greek | 2%
+            - Core Table | 5%
+            - Examples | 1%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
         - ανακαλύπτω
@@ -3328,12 +3397,7 @@
       - **επίρρημα**
       - Pronoun
         - αυτή
-          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 9%
-            - Personal Pronouns in Greek | 25%
-            - Demonstrative Pronouns in Greek | 8%
-            - Interrogative Pronouns in Greek
-            - Indefinite Pronouns in Greek | 5%
-            - ...
+        - _meta
       - INBOUND CACHE ?
         - **ρήμα**
           - αντιμετωπίζω | 5%
@@ -3352,7 +3416,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 31:00/11:40:18
+        - Videomark: 35:40/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

@@ -1,4 +1,4 @@
-# Buffer to permanent notes
+# Meta
 ## Mind palace for travel rigor
 ### Time zone
 https://www.worldtimebuddy.com/
@@ -8,13 +8,14 @@ https://www.worldtimebuddy.com/
 ### Country-wide Travel
 
 ### Global-wide Travel
+
+## Tooling
+- https://wanderlog.com/
+
 # 2021/9/13
 ## Having worked from home for ages, now you're going to recover all the agility and dexterity moving around with complex commuting activities. How to do it in the shortest time possible?
-
-# 2021/9/29
-## Tool mobility
-- Learn anywhere
-
+- 2022/8/1
+  - The answer is simple: YOU CAN'T
 ## Ideas
 - #ideasandinnovations 
   - Travel planning solution
@@ -38,11 +39,16 @@ https://www.worldtimebuddy.com/
 ## Beijing
 - Suppose you have a business trip to Beijing from a starting point $i$, what aspect would you keep in mind to ensure robust travel journey?
 
-## Suzhou
-### Basics
-- [苏州市 - wiki](https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82)
+## Jiangsu Province
+### Nanjing
 
-### INBOUND CACHE
+### Suzhou
+#### Basics
+- [苏州市 - wiki](https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82)
+#### Journal of physical observation
+
+
+#### INBOUND CACHE
 - [Suzhou - Comprehensive Overview of the City, Pest Analysis and Analysis of Key Industries including Technology, Tourism and Hospitality, Construction and Retail](https://www.marketresearch.com/MarketLine-v3883/Suzhou-Comprehensive-Overview-City-Pest-13487789/)
 - [PEST analysis of !](https://pestleanalysis.com/pest-analysis-of-china/)
 - [Towards sustainable construction through better construction and demolition waste management practices: a SWOT analysis of Suzhou, China](https://www.tandfonline.com/doi/abs/10.1080/15623599.2022.2081406)

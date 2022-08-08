@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb: PB-SWP
-  - Sweepmark: PBQ371/PBQ616
+  - Sweepmark: PBQ400/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
       - CW
@@ -315,7 +315,7 @@
         - Lambda
           - PBQ340
       - High Availability and resilient environments
-        - High Availability
+        - High Availability[[]]
           - Health Check
           - ASG
           - RDS
@@ -359,6 +359,8 @@
       - Implement and manage security and compliance policies
         - AWS SSO
           - PBQ295
+        - AWS AD
+          - PBQ385
         - IAM
           - Validating policies
           - IAM Access Analyzer
@@ -384,6 +386,8 @@
       - Imeplementing networking features and connectivity
         - Amazon VPC configuration
         - AWS System Manager Session Manager
+        - Region, AZ, VPC, Subnet, table
+          - PBQ378
         - VPC endpoints
         - VPC peering
         - VPNs
@@ -391,6 +395,7 @@
          - PBQ368
       -  Implementation of domains, DNS services, and content delivery
         - Route 53
+          - PBQ380
         - Hosted zones and records
         - Route 53 policies
         - General DNS configurations
@@ -407,6 +412,10 @@
     - Cost and Performance 
       - Cost Allocation Tags Manager
         - PBQ332
+      - General
+        - PBQ382
+      - How-to
+        - PBQ377
     - Optimization
     - AWS Billing and Cost Management Console
       - PBQ336

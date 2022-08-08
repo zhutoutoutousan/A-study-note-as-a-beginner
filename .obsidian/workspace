@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:soa",
+                "query": "file:LEARN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a22d280a1431f136",
+  "active": "a60719085e26d818",
   "lastOpenFiles": [
     "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
     "self/log_overall-306_840.md",

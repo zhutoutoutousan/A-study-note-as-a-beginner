@@ -149,10 +149,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F4: Introduction to Fraudulent Behaviour](https://www.youtube.com/watch?v=BsV5Y5L4iJI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=125)
-          - Videomark: 6:00/7:32
-          - CCS: 71.4%
-          - ETC: 1.58 months
+        - [LSBF ACCA F5: Introduction to the Paper](https://www.youtube.com/watch?v=BsV5Y5L4iJI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=126)
+          - Videomark: 8:30/11:18
+          - CCS: 72%
+          - ETC: 1.55 months
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -1882,7 +1882,7 @@
           - Videomark: 8:20
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.3 - Embedding Entire Graphs​](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9)
-          - Videomark: 11:00/18:03
+          - Videomark: 16:30/18:03
           - CCS: 15%
           - ?
             -  SVM, Regression
@@ -1939,6 +1939,7 @@
                         - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
                         - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
                   - Learn Walk Embeddings
+                    - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
                 - ?
                   - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
                   - RESOURCE POINTER FIELD
@@ -2212,9 +2213,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 82.5%
-          - TEMP TIMESTAMP: 5
-          - ETC: 0.58 months
+          - CCS: 84.5%
+          - TEMP TIMESTAMP: 3
+          - ETC: 0.5 months
           - INBOUND CACHE
             - **DAO**
               - **Zachmann framework**
@@ -2664,6 +2665,10 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
+  - _manual-override
+    - SOA-CO2 covering English, German, French, Italian, Portuguese
+      - _TTL: 3d
+      - _interval: *Language shuffle per each query*
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
@@ -2812,7 +2817,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 10:14
+        - Videomark: 12:10
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2837,7 +2842,7 @@
                       - _entity
                         - `categorize(self)`
                       - _method
-                        - `activeRecall(self)` | 10%
+                        - `activeRecall(self)` | 12%
                   - Possessive pronouns | 57%
                     - _warning
                       - Plateau Counter: 1
@@ -2880,11 +2885,11 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - попробовать - 100%
               - необходимость - 40%
               - помочь - 40%
+              - измеряться - 30%
             - **прилагательное**
-              - взрослый - 90%
+              - взрослый - 95%
               - художественный - 70%
             - **наречие**
             - **существительное**
@@ -2896,7 +2901,6 @@
                 - сложный
                 - высокий
               - **глагол**
-                - измеряться
                 - понадеяться
                 - управлять
                 - говорить
@@ -2966,7 +2970,7 @@
         - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 14%
           - Personal Pronouns in Greek | 35%
             - Subject
-              - Core Table | 35%
+              - Core Table | 50%
               - Examples | 5%
             - Object
               - Core Table

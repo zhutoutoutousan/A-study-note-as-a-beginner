@@ -3,6 +3,7 @@
 - [_INBOUND_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
 - [New Tech](#new-tech)
+- [AI toolkit](#ai-toolkit)
 - [Networking-related](#networking-related)
 - [Shiny Object Journey](#shiny-object-journey)
 - [Unidentified tools](#unidentified-tools)
@@ -94,6 +95,26 @@
 
 # New Tech
 - dbforge
+
+# AI toolkit
+- GPT-3
+  - Basics
+    - [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&t=18s)
+    - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
+    - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
+      - Videomark: 1:31:17/1:31:17
+      - BLOCKAGE
+        - [x] OpenAPI ist im dies Standort nicht verfügbar
+      - Shallow Hands-on Track
+        - Local Link: `stupid-ai-blogger`
+        - Source
+          - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
+      - Resource
+        - OpenAI
+        - Jarvis API
+      - **ACTION ON COMPLETE**
+        - Update `*-software_arsenal`
+
 
 # Networking-related
 - Burp Suite - Community Edition

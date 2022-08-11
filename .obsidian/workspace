@@ -137,6 +137,14 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "26fb26a095dadc9c",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ]
       }
@@ -145,7 +153,11 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+  "active": "26fb26a095dadc9c",
+=======
   "active": "a60719085e26d818",
+>>>>>>> 66393f91c2025f816471ba72d3a543cad1047c73
   "lastOpenFiles": [
     "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
     "self/log_overall-306_840.md",

@@ -411,6 +411,523 @@ Asset Allocation
       - FIFO
       - AVCO
       - FIFO or AVCO
+- [ACCA F4GLO - 1. Different Legal Systems](https://www.youtube.com/watch?v=5Nr5tqslY2A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=39)
+  - Videomark: 10:37/10:37
+  - CCS: 22.3%
+  - E.T.C: 4.32 months
+  - STRUCT
+    - Three main systems
+      - Common Law
+        - _meta
+          - instance
+            - UK
+              - source
+                - Common law and equity
+                  - _meta
+                    - source
+                      - records of case law
+                      - Statutory law
+                      - EU law
+      - Civil Law
+        - _meta
+          - instance
+            - France
+              - _meta
+                - source
+                  - constitution
+                  - statutory law
+                  - administrative regulations
+                  - EU law
+      - Sharia Law
+        - Iran
+    - Discernment network
+      - CRIMINAL LAW V CIVIL LAW
+  - LAW VOCAB BUNDLE --> `-T_law`
+    - ?
+      - role of judges
+      - apply the law
+      - less guidance
+      - judicial precedent
+      - Judicial review
+      - Written constitution
+      - presumptions
+      - statutory law
+      - guides and rules
+      - interpretation
+    - Entity
+      - Claimant
+      - Defendant
+    - Discernment unit
+      - _meta
+        - *Is it scalable to carry over to the sea of cases?*
+        - *How it is reflected in smart contracts?*
+        - _meta_root
+          - Create visualized knowledge graph for direct, refined, efficient brain stimulation pathway with law-related concepts
+            - PREREQUISITE: Knowledge graph, software development skills, and a good understanding of the law
+            - RIGGED_ACTION: Search for `legal system visualization` software online, add to `*-law_arsenal`
+      - Action brought by
+      - Action brought against
+      - Burden of proof required
+        - Criminal
+          - Beyond reasonable doubt
+        - Civil
+          - Balance of probabilities
+      - Sentence/award determined by
+      - Case described as
+- [ACCA F4GLO - 2. International Organisations](https://www.youtube.com/watch?v=soEMHMIK71o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=40)
+  - Videomark: 9:56/9:56
+  - CCS: 22.8%
+  - E.T.C: 5.14 months
+  - International Organizations
+    - _meta
+      - struct
+        - create_time
+        - members
+          - $2^n-1$
+        - conventions
+        - structure
+        - region
+    - EU
+    - ICC
+      - *Incoterms*
+    - ICA
+      - a.k.a International Court of Arbitration
+    - UN
+    - UNCITRAL
+    - CoE
+      - _meta
+        - discernment
+          - EU
+    - UNIDROIT
+    - ICJ
+    - OECD
+- [ACCA F4GLO - 3. International Commercial Arbitration](https://www.youtube.com/watch?v=h3L-bRDwj-k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=41)
+  - Videomark: 8:01/8:01
+  - _meta_escalate
+    - Legal visualization system found --> MOVE TO `law_arsenal`
+      - [Transforming Legal Documents for Visualization and Analysis](https://dl.acm.org/doi/10.1145/3209415.3209424)
+      - [Visualizing Law - A Norm-Graph Visualization Approach based on Semantic Legal Data](https://zenodo.org/record/2543729#.Yoi4jqjP2Uk)
+      - [Visualisation of Law and Legal Process: An Opportunity Missed](https://arxiv.org/ftp/arxiv/papers/2011/2011.00571.pdf)
+        - *I think this is a very important paper*
+      - [Openlawlab - Law visualization](https://www.openlawlab.com/project-topics/illustrated-law-visualizations/)
+      - [Hack for justice visualizing the criminal justice system](https://www.legaltechdesign.com/hack-for-justice-visualizing-the-criminal-justice-system/)
+      - [Openjustice](https://openjustice.doj.ca.gov/)
+        - That is not what I wanted, I want to datatize justice
+  - NEW VOCAB
+    - `law`
+      - arbitration
+- [ACCA F4GLO - 4. Contracts for International sale of Goods](https://www.youtube.com/watch?v=LPCd4cjfdAQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=42)
+  - Videomark: 11:56/11:56
+  - CCS: 24%
+  - E.T.C: 2.11 months
+  - TOPICS
+    - Buyer's right
+    - Seller's right
+    - The passing of risk
+    - Transportation Documentation
+      - bill of lading
+        - inland
+        - ocean
+        - through
+        - airway
+    - Payment
+      - International bill of exchange
+        - SUBJECT TO | UNICITRAL Convention
+      - International bank transfer
+        - SUBJECT TO | UNICITRAL Model Law
+      - Letter of credit
+        - DIFF Letter of comfort
+    - CISG
+      - Main Rights and Obligatiobns of Buyers and Sellers
+    - Transportation
+      - **incoterms**
+        - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+        - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+      - payment
+    - Offer
+      - sufficiently definite
+      - amendments - Counter offer
+        - major ~
+        - minor ~
+- [ACCA F4GLO - 5. Agency](https://www.youtube.com/watch?v=COwE2XsXXPQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=43)
+  - Videomark: 7:08/7:08
+  - TOPIC
+    - agent
+      - _meta
+        - created_by
+          - agreement(consent)
+          - ratification
+          - operation of law
+        - authority
+          - Actual authority
+          - Apparent/ostensible authority 
+        - duties
+        - termination
+          - death
+          - insanity
+          - bankruptcy
+        - model
+          - UN model
+- [ACCA F4GLO - 6. Partnerships](https://www.youtube.com/watch?v=vePhe0_rO8k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=44)
+  - Videomark: 6:43/6:43
+  - prerequisite
+    - legal entity
+      - [Business Structure - Choosing the right Structure for your Business](https://www.youtube.com/watch?v=4-yE5JduTIo)
+      - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw)
+  - TOPIC
+    - Limited Partnership
+    - LLP
+- [ACCA F4GLO - 7. Company Administration](https://www.youtube.com/watch?v=wjNxWD3otx0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=45)
+  - Videomark: 14:48/14:48
+  - _meta
+    - description
+      - Vocab heavy, consider create a use-case-based context field to encapsulate them all
+  - TOPIC
+    - Private and public companies
+    - Company promoters
+      - DISCERNMENT Agent
+    - Company formation
+    - Required Documents
+      - BEFORE CREATE
+        - Registration application
+        - Memorandum of Association
+        - Articles of Association
+        - Statement of proposed company officers
+        - Statement of capital and initial shareholdings
+        - Statement of compliance with Companies Act provisions
+      - BEFORE TRADE
+        - Trading Certificate
+          - Required documents
+            - Statement that nominal value of allotted share capital is not less than 50,000 Pounds
+            - Details of formation expenses, including those made to promoters
+            - Statement of compliance
+      - Certificate of Incorporation
+    - Name clause
+    - Articles as a Contract
+    - Objects Clause
+    - Share Capital
+    - Loan Capital
+      - debenture
+        - Single debenture
+        - Debenture issued as a series
+        - Debennture stock
+    - Charge
+    - Maintenance of a Company's Capital
+      - Corporate Liquidator 101
+      - Distribution of dividends
+        - PAP
+        - excess of accumulated realised profits over accumulated realised losses
+        - called-up share capital
+        - undistributable reserves
+        - accumulated unrealised losses
+        - declaration of solvency
+- [ACCA F4GLO - 8. Company Administration](https://www.youtube.com/watch?v=DlYLpR_K-OU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=46)
+  - Videomark; 12:05/12:05
+  - CCS: 26.3%
+  - E.T.C: 2.13 months
+  - KK(BFS, DFS-on-premise)
+    - Directors
+      - Minimum number of directors
+      - Age requirements
+      - Qualification
+      - Disqualification of directors
+        - CDDA court
+      - Category
+        - Executive director
+        - Non-executive director
+        - Managing director(CEO)
+        - Shadow director
+        - Alternate director
+      - Appointment of directors
+        - AGM
+      - Publicity regarding directors
+      - Removal of directors
+      - Duties of directors
+    - Company Secretary
+      - Duties
+        - statutory books
+    - Auditors
+      - rights
+      - duties
+      - resignation
+      - removal
+    - Company Meetings and Resolutions
+      - AGM
+      - GM
+      - CLASS
+- [ACCA F4GLO - 9. Company Liquidation](https://www.youtube.com/watch?v=sGt3s7akCIE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=47)
+  - Videomark; 7:40/7:40
+  - CCS: 26.8%
+  - E.T.C: 4.88 months
+  - Practice point
+    - Priority for payment *en cas de* liquidation
+    - *Administration as an alternative to liquidation*
+  - STRUCT
+    - Insolvency
+    - Liquidation
+      - Categories
+        - Compulsory liquidation
+          - may or may not be solvent
+          - instigating proceedings
+            - reasons
+              - instigating proceedings to wind up a company
+                - ~ is not able to meet its liabilities
+                - ~ has not started business within 12 months from incorporation
+                - PLC has failed to obtain a Trading Certificate within 12 months from incorporation
+                - by order of the court that it would be 'just and equitable'
+            - self
+              - official receiver is appointed as liquidator
+                - [official receiver - wiki](https://en.wikipedia.org/wiki/Official_receiver)
+              - company employees are automatically dismissed
+              - ongoing legal actions against the company are halted
+              - Liquidator takes over power to run company from directors
+        - Voluntary liquidation
+        - Members voluntary
+          - CONDITION SUFFICIENT
+            - company must be solvent
+            - Directors must make a *declaration of solvency*
+            - requires passing of special resolution(normally)
+            - Liquidator
+              - appointed by members
+              - realises company assets
+              - reports to final members meeting
+              - reports to Registrar of Compnaies
+              - registor report, company dissolved
+        - Creditors voluntary
+          - company will be insolvent
+    - Priority for Application of Assets on Liquidation
+      - Secured creditor with fixed charge
+      - Liquidator's fees and expenses
+      - Preferential creditors(wages etc. within statutory limits)
+      - Secured creditors with floating charge
+      - Unsecured creditors(pari passu)
+      - Post liquidation interest
+      - Declared but unpaid dividends
+      - Shareholders' capital
+      - Any surplus to shareholders
+    - Company Administration
+      - Objective: Breathing space
+      - Appointment of Administrator
+      - Impact of Administration
+      - Conduct of Administration
+    - Instances(legal)
+      - US Chapter 11 Bankruptcy
+- [ACCA F4GLO - 10. Fraudulent Behaviour](https://www.youtube.com/watch?v=TuffGNzxurY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=48)
+  - Videomark; 7:40/7:40
+  - STRUCT
+    - Insider Dealing
+      - self
+        - definition
+      - dealing
+      - defense
+        - burden of proof: beyond reasonable doubt
+      - penalty
+    - Money laundering
+    - Fraudulent Trading
+    - Wrongful Trading
+    - _instance
+      - UK Law
+        - Fradulent trading
+        - Wrongful trading
+- [ACCA F5 - 1. Specialist cost](https://www.youtube.com/watch?v=kYETN8w9R6k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=49)
+  - Videomark; 8:37/8:37
+  - CCS: 28%
+  - E.T.C: 4 months
+  - STRUCT
+    - Activity Based Costing(ABC)
+      - _meta
+        - *hard and costly to implement*
+      - OAR
+      - *p.a.* --> per annum
+      - *apportionment*
+    - Target Costing(TC)
+    - Life-cycle Costing
+    - Back-flush Accounting
+    - Throughput accounting
+      - JIT environment
+- [ACCA F5 - 2. Worked example of costing](https://www.youtube.com/watch?v=Kyyp_viA6Xg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=50)
+  - Videomark; 4:34/4:34
+  - Practice point
+    - Exam application of ABC analysis
+- [ACCA F5 - 3. Worked example of costing](https://www.youtube.com/watch?v=nyzKneWV3B4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=51)
+  - Videomark; 5:43/5:43
+  - CCS: 29.1%
+  - E.T.C: 2.15 months
+- [ACCA F5 - 4. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+  - Videomark: 9:31/9:31
+- [ACCA F5 - 5. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+  - Videomark; 10:03/10:03
+  - Practice point
+    - Costing
+      - $udemy_course
+- [ACCA F5 - 6. Worked example of costing](https://www.youtube.com/watch?v=lUYAGslqDFQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=54)
+  - Videomark: 10:02/10:02
+  - CCS: 30.8%
+  - E.T.C: 1.35 months
+  - Practice point
+    - Calculating TPAR
+      - Throughput accounting
+- [ACCA F5 - 7. Decision Making Techniques](https://www.youtube.com/watch?v=nf8B7s98SQI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=55)
+  - Videomark: 10:59/10:59
+  - STRUCT
+    - Relevant costs
+      - relevance
+      - Future
+        - Sunk costs
+        - Commited costs
+      - **CVP Analysis**
+        - **The breakeven formula**
+      - Incremental Analysis
+        - Application in decision making
+      - Linear Programming
+      - Determining optimal mix of products where there are limiting factors
+    - Pricing decisions
+      - **PED(The price elasticity of demand)**
+      - Demand equation： $P=a-bQ$
+    - Total Cost Function: $Y=aX+b$
+- [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
+  - Videomark: 8:46/8:46
+  - STRUCT
+    - Pricing Strategy
+      - Cost plus
+      - Skimming
+      - Penetration pricing
+      - Premium pricing
+      - Target pricing
+      - Promotional pricing
+      - Perceived value pricing
+      - Value pricing
+      - Product-line pricing
+      - Volume-discounting pricing
+      - Discriminatory pricing
+      - Psychological pricing
+      - Product Bundle Pricing
+      - Complementary product pricing
+      - Relevant cost pricing
+      - Make-buy
+    - Risk and Uncertainty
+      - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
+      - Uncertainty: subjective probability
+      - Expected Value
+    - Sensitivity
+      - Sensitivity analysis
+      - Sensitivity by scenario
+    - Simulation - Monte Cario
+    - **Maximax, maximin, and minimax regret**
+- [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
+  - Videomark: 8:43/8:43
+  - CCS: 32.5%
+  - E.T.C: 1.32 months
+  - STRUCT
+    - Budget
+      - _meta
+        - definition
+          - *a budget is a quantitative plan addressing the future*
+        - category
+          - fixed
+          - flexible
+          - ZBB(Zero-based)
+          - ABB(Activity-based)
+          - Incremental
+        - time-related
+          - budgetary period
+      - VOCAB
+        - budgetary control system
+        - goal congruence
+      - modern bugetary system vs conventional
+      - Quantitative analysis
+        - High-low method
+          - --> F2
+        - Regression analysis
+          - --> F2
+        - Learning curves
+      - Behavioural Aspects of Budgeting
+        - Top-down
+        - Bottom-up
+        - Unrealistic
+        - Overty achievable
+- [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
+  - Videomark: 9:23/9:23
+  - CCS: 33.1%
+  - E.T.C: 3.71 months
+  - STRUCT
+    - The big picture
+    - Basic Variances and Operating Statements
+      - _methods
+        - absorption costing
+          - operating statements
+        - marginal costing
+          - operating statements
+      - _instance
+        - Worked examples
+          - Cost card
+          - Budget
+          - Actual results
+          - Variance
+      - Variance
+        - Material variance
+        - Labour variances
+          - Labour rate variance
+          - Labour efficiency variance
+        - Variable O/H variances
+          - Variable O/H expenditure variance
+          - Variable O/H efficiency variance
+        - Fixed O/H variances
+          - Fixed O/H expenditure variance
+            - Marginal costing, absorption costing...
+          - Fixed O/H volume variance
+        - Sales volume variance
+        - Sales price variance
+        - Mix and yield variance
+        - Planning and Operational Variances
+      - Behavioural aspect of standard costing
+      - **Non-standard costing**
+- [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
+  - Videomark: 10:17/10:17
+  - CCS: 33.7%
+  - E.T.C: 3.68 months
+  - STRUCT
+    - Practice
+      - Residual Income(RI)
+      - EBIT： Earnings before interest and tax
+      - Imputed interest
+      - Drawbacks of RI and ROI
+      - RI & ROI computation
+        - NBV initial
+        - Net cash inflow
+        - Depreciation
+        - Profit
+        - Capital charge(10%)
+        - RI
+        - ROI
+      - Performance analysis is not for profit organizations and the public sector
+      - External considerations and behavioural aspects
+    - The scope of performance measurement
+      - Balanced scorecard
+        - Financial perspective
+        - Customer perspective
+        - International business processes
+        - Learning and growth
+      - Fitzgerald and Moon
+        - Dimensions
+          - Results
+          - Determinants
+        - Standards
+        - Rewards
+      - Qualitative measures
+        - KPI
+        - OKR?
+    - Divisional Performance and Transfer Pricing
+      - Transfer prices
+        - Market price
+        - Outlay cost(standard) + opportunity cost to the seller
+        - Outlay cost(actual) + opportunity cost to the seller
+        - Outlay cost + notional mark-up
+        - Production cost(full absorption)
+        - Best bargain(negotiation between divisions)
+      - Divisional performance and internal(transfer) pricing
+      - Return on Investment(ROI) at the Divisional Level
+        - $ROI=\frac{net-profit}{capital-employed}$
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:LEARN",
+                "query": "file:soa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,12 +153,9 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "26fb26a095dadc9c",
-=======
-  "active": "a60719085e26d818",
->>>>>>> 66393f91c2025f816471ba72d3a543cad1047c73
+  "active": "a22d280a1431f136",
   "lastOpenFiles": [
+    "Untitled.md",
     "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
     "self/log_overall-306_840.md",
     "self/log_overall-305_840.md",
@@ -167,7 +164,6 @@
     "neuroengineering/_log/_log-NE-ns.md",
     "202204051716.md",
     "academic-engineering/_log/_log-AE-training.md",
-    "_ENTRY.md",
-    "software/_log/log-SW-teamplay.md"
+    "_ENTRY.md"
   ]
 }

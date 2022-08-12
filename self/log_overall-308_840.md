@@ -96,17 +96,45 @@
               - Strategy Demos
                 - [ ] [The Most Important Rule In Day Trading](https://www.youtube.com/watch?v=HEJBaC4TkvQ)
         - Randomwalk
+          - Pedant's hut
+            - _not-verified
+              - Trust level tier 1 of 5
+                - [BIG Problem with Bond Investing Today!!!](https://www.youtube.com/watch?v=1ScT15of0Vo)
+                - [Financial Statements Made Simple (For Investors)](https://www.youtube.com/watch?v=uEjKr_Z92mA)
+              - Trust level tier 3 of 5
+                - [Relationship between bond prices and interest rates | Finance & Capital Markets | Khan Academy](https://www.youtube.com/watch?v=I7FDx4DPapw)
+                - [16. Portfolio Management - MIT OpenCourseWare](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
+            - Bond
+            - Fund
+              - General
+              - ?
+                - Mutual Fund
+            - Forex
+            - Crypto
+              - *Too OG for professeures*
+              - *Primitive social-economic manifestation for Bourgeoisie and above is out of scope for now*
+          - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A)
           - [The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)](https://www.youtube.com/watch?v=eynxyoKgpng&t=31)
             - _state
-              - Current Langauge Shuffle: Norwegian language
+              - Current Langauge Shuffle: Persian
                 - _meta:escalate
                   - **In here, the secret of learning and communicating with aliens may be revealed**
                   - *Fundamentals to understand an alien language: What to do in desparate situations*
                     - _inspiration
                       - *Arrival - 2016*
                     - Language experiment
+                    - Skills
+                      - Be able to determine meaning
+                      - Remember/Log and verify the reoccuring patterns
+                      - Start with `static` first
               - Shuffle Frequency: 5 min
-            - PROCESSING POINTER FIELD: 42:30/1:17:34
+            - PROCESSING POINTER FIELD: 55:00/1:17:34
+            - Candle
+              - 38.2% Candle
+              - Engulfing Candle
+              - Close above/below Candle
+            - Fibonacci Retracement
+              - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
           - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
             - _state
               - Current Langauge Shuffle: German
@@ -149,10 +177,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F5: Introduction to the Paper](https://www.youtube.com/watch?v=BsV5Y5L4iJI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=126)
-          - Videomark: 8:30/11:18
-          - CCS: 72%
-          - ETC: 1.55 months
+        - [LSBF ACCA F6: Introduction to the Paper Part 2](https://www.youtube.com/watch?v=xMBSjgGQ4i0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=128)
+          - Videomark: 1:30/11:18
+          - CCS: 73.7%
+          - ETC: 1.46 months
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -167,524 +195,15 @@
                   - Accuracy
               - Data
           - CONVOLUTION | Financial Accounting
+          - CONVOLUTION | Tax
+            - Trading profits
+            - Capital allowances
+            - Employment income
+            - Property business profits
+            - Investment income
+            - Personal tax computations
+            - National insurance
           - ACTION STICKY： Sit for ACCA after Completion
-        - [ACCA F4GLO - 1. Different Legal Systems](https://www.youtube.com/watch?v=5Nr5tqslY2A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=39)
-          - Videomark: 10:37/10:37
-          - CCS: 22.3%
-          - E.T.C: 4.32 months
-          - STRUCT
-            - Three main systems
-              - Common Law
-                - _meta
-                  - instance
-                    - UK
-                      - source
-                        - Common law and equity
-                          - _meta
-                            - source
-                              - records of case law
-                              - Statutory law
-                              - EU law
-              - Civil Law
-                - _meta
-                  - instance
-                    - France
-                      - _meta
-                        - source
-                          - constitution
-                          - statutory law
-                          - administrative regulations
-                          - EU law
-              - Sharia Law
-                - Iran
-            - Discernment network
-              - CRIMINAL LAW V CIVIL LAW
-          - LAW VOCAB BUNDLE --> `-T_law`
-            - ?
-              - role of judges
-              - apply the law
-              - less guidance
-              - judicial precedent
-              - Judicial review
-              - Written constitution
-              - presumptions
-              - statutory law
-              - guides and rules
-              - interpretation
-            - Entity
-              - Claimant
-              - Defendant
-            - Discernment unit
-              - _meta
-                - *Is it scalable to carry over to the sea of cases?*
-                - *How it is reflected in smart contracts?*
-                - _meta_root
-                  - Create visualized knowledge graph for direct, refined, efficient brain stimulation pathway with law-related concepts
-                    - PREREQUISITE: Knowledge graph, software development skills, and a good understanding of the law
-                    - RIGGED_ACTION: Search for `legal system visualization` software online, add to `*-law_arsenal`
-              - Action brought by
-              - Action brought against
-              - Burden of proof required
-                - Criminal
-                  - Beyond reasonable doubt
-                - Civil
-                  - Balance of probabilities
-              - Sentence/award determined by
-              - Case described as
-        - [ACCA F4GLO - 2. International Organisations](https://www.youtube.com/watch?v=soEMHMIK71o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=40)
-          - Videomark: 9:56/9:56
-          - CCS: 22.8%
-          - E.T.C: 5.14 months
-          - International Organizations
-            - _meta
-              - struct
-                - create_time
-                - members
-                  - $2^n-1$
-                - conventions
-                - structure
-                - region
-            - EU
-            - ICC
-              - *Incoterms*
-            - ICA
-              - a.k.a International Court of Arbitration
-            - UN
-            - UNCITRAL
-            - CoE
-              - _meta
-                - discernment
-                  - EU
-            - UNIDROIT
-            - ICJ
-            - OECD
-        - [ACCA F4GLO - 3. International Commercial Arbitration](https://www.youtube.com/watch?v=h3L-bRDwj-k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=41)
-          - Videomark: 8:01/8:01
-          - _meta_escalate
-            - Legal visualization system found --> MOVE TO `law_arsenal`
-              - [Transforming Legal Documents for Visualization and Analysis](https://dl.acm.org/doi/10.1145/3209415.3209424)
-              - [Visualizing Law - A Norm-Graph Visualization Approach based on Semantic Legal Data](https://zenodo.org/record/2543729#.Yoi4jqjP2Uk)
-              - [Visualisation of Law and Legal Process: An Opportunity Missed](https://arxiv.org/ftp/arxiv/papers/2011/2011.00571.pdf)
-                - *I think this is a very important paper*
-              - [Openlawlab - Law visualization](https://www.openlawlab.com/project-topics/illustrated-law-visualizations/)
-              - [Hack for justice visualizing the criminal justice system](https://www.legaltechdesign.com/hack-for-justice-visualizing-the-criminal-justice-system/)
-              - [Openjustice](https://openjustice.doj.ca.gov/)
-                - That is not what I wanted, I want to datatize justice
-          - NEW VOCAB
-            - `law`
-              - arbitration
-        - [ACCA F4GLO - 4. Contracts for International sale of Goods](https://www.youtube.com/watch?v=LPCd4cjfdAQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=42)
-          - Videomark: 11:56/11:56
-          - CCS: 24%
-          - E.T.C: 2.11 months
-          - TOPICS
-            - Buyer's right
-            - Seller's right
-            - The passing of risk
-            - Transportation Documentation
-              - bill of lading
-                - inland
-                - ocean
-                - through
-                - airway
-            - Payment
-              - International bill of exchange
-                - SUBJECT TO | UNICITRAL Convention
-              - International bank transfer
-                - SUBJECT TO | UNICITRAL Model Law
-              - Letter of credit
-                - DIFF Letter of comfort
-            - CISG
-              - Main Rights and Obligatiobns of Buyers and Sellers
-            - Transportation
-              - **incoterms**
-                - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
-                - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
-              - payment
-            - Offer
-              - sufficiently definite
-              - amendments - Counter offer
-                - major ~
-                - minor ~
-        - [ACCA F4GLO - 5. Agency](https://www.youtube.com/watch?v=COwE2XsXXPQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=43)
-          - Videomark: 7:08/7:08
-          - TOPIC
-            - agent
-              - _meta
-                - created_by
-                  - agreement(consent)
-                  - ratification
-                  - operation of law
-                - authority
-                  - Actual authority
-                  - Apparent/ostensible authority 
-                - duties
-                - termination
-                  - death
-                  - insanity
-                  - bankruptcy
-                - model
-                  - UN model
-        - [ACCA F4GLO - 6. Partnerships](https://www.youtube.com/watch?v=vePhe0_rO8k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=44)
-          - Videomark: 6:43/6:43
-          - prerequisite
-            - legal entity
-              - [Business Structure - Choosing the right Structure for your Business](https://www.youtube.com/watch?v=4-yE5JduTIo)
-              - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw)
-          - TOPIC
-            - Limited Partnership
-            - LLP
-        - [ACCA F4GLO - 7. Company Administration](https://www.youtube.com/watch?v=wjNxWD3otx0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=45)
-          - Videomark: 14:48/14:48
-          - _meta
-            - description
-              - Vocab heavy, consider create a use-case-based context field to encapsulate them all
-          - TOPIC
-            - Private and public companies
-            - Company promoters
-              - DISCERNMENT Agent
-            - Company formation
-            - Required Documents
-              - BEFORE CREATE
-                - Registration application
-                - Memorandum of Association
-                - Articles of Association
-                - Statement of proposed company officers
-                - Statement of capital and initial shareholdings
-                - Statement of compliance with Companies Act provisions
-              - BEFORE TRADE
-                - Trading Certificate
-                  - Required documents
-                    - Statement that nominal value of allotted share capital is not less than 50,000 Pounds
-                    - Details of formation expenses, including those made to promoters
-                    - Statement of compliance
-              - Certificate of Incorporation
-            - Name clause
-            - Articles as a Contract
-            - Objects Clause
-            - Share Capital
-            - Loan Capital
-              - debenture
-                - Single debenture
-                - Debenture issued as a series
-                - Debennture stock
-            - Charge
-            - Maintenance of a Company's Capital
-              - Corporate Liquidator 101
-              - Distribution of dividends
-                - PAP
-                - excess of accumulated realised profits over accumulated realised losses
-                - called-up share capital
-                - undistributable reserves
-                - accumulated unrealised losses
-                - declaration of solvency
-        - [ACCA F4GLO - 8. Company Administration](https://www.youtube.com/watch?v=DlYLpR_K-OU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=46)
-          - Videomark; 12:05/12:05
-          - CCS: 26.3%
-          - E.T.C: 2.13 months
-          - KK(BFS, DFS-on-premise)
-            - Directors
-              - Minimum number of directors
-              - Age requirements
-              - Qualification
-              - Disqualification of directors
-                - CDDA court
-              - Category
-                - Executive director
-                - Non-executive director
-                - Managing director(CEO)
-                - Shadow director
-                - Alternate director
-              - Appointment of directors
-                - AGM
-              - Publicity regarding directors
-              - Removal of directors
-              - Duties of directors
-            - Company Secretary
-              - Duties
-                - statutory books
-            - Auditors
-              - rights
-              - duties
-              - resignation
-              - removal
-            - Company Meetings and Resolutions
-              - AGM
-              - GM
-              - CLASS
-        - [ACCA F4GLO - 9. Company Liquidation](https://www.youtube.com/watch?v=sGt3s7akCIE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=47)
-          - Videomark; 7:40/7:40
-          - CCS: 26.8%
-          - E.T.C: 4.88 months
-          - Practice point
-            - Priority for payment *en cas de* liquidation
-            - *Administration as an alternative to liquidation*
-          - STRUCT
-            - Insolvency
-            - Liquidation
-              - Categories
-                - Compulsory liquidation
-                  - may or may not be solvent
-                  - instigating proceedings
-                    - reasons
-                      - instigating proceedings to wind up a company
-                        - ~ is not able to meet its liabilities
-                        - ~ has not started business within 12 months from incorporation
-                        - PLC has failed to obtain a Trading Certificate within 12 months from incorporation
-                        - by order of the court that it would be 'just and equitable'
-                    - self
-                      - official receiver is appointed as liquidator
-                        - [official receiver - wiki](https://en.wikipedia.org/wiki/Official_receiver)
-                      - company employees are automatically dismissed
-                      - ongoing legal actions against the company are halted
-                      - Liquidator takes over power to run company from directors
-                - Voluntary liquidation
-                - Members voluntary
-                  - CONDITION SUFFICIENT
-                    - company must be solvent
-                    - Directors must make a *declaration of solvency*
-                    - requires passing of special resolution(normally)
-                    - Liquidator
-                      - appointed by members
-                      - realises company assets
-                      - reports to final members meeting
-                      - reports to Registrar of Compnaies
-                      - registor report, company dissolved
-                - Creditors voluntary
-                  - company will be insolvent
-            - Priority for Application of Assets on Liquidation
-              - Secured creditor with fixed charge
-              - Liquidator's fees and expenses
-              - Preferential creditors(wages etc. within statutory limits)
-              - Secured creditors with floating charge
-              - Unsecured creditors(pari passu)
-              - Post liquidation interest
-              - Declared but unpaid dividends
-              - Shareholders' capital
-              - Any surplus to shareholders
-            - Company Administration
-              - Objective: Breathing space
-              - Appointment of Administrator
-              - Impact of Administration
-              - Conduct of Administration
-            - Instances(legal)
-              - US Chapter 11 Bankruptcy
-        - [ACCA F4GLO - 10. Fraudulent Behaviour](https://www.youtube.com/watch?v=TuffGNzxurY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=48)
-          - Videomark; 7:40/7:40
-          - STRUCT
-            - Insider Dealing
-              - self
-                - definition
-              - dealing
-              - defense
-                - burden of proof: beyond reasonable doubt
-              - penalty
-            - Money laundering
-            - Fraudulent Trading
-            - Wrongful Trading
-            - _instance
-              - UK Law
-                - Fradulent trading
-                - Wrongful trading
-        - [ACCA F5 - 1. Specialist cost](https://www.youtube.com/watch?v=kYETN8w9R6k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=49)
-          - Videomark; 8:37/8:37
-          - CCS: 28%
-          - E.T.C: 4 months
-          - STRUCT
-            - Activity Based Costing(ABC)
-              - _meta
-                - *hard and costly to implement*
-              - OAR
-              - *p.a.* --> per annum
-              - *apportionment*
-            - Target Costing(TC)
-            - Life-cycle Costing
-            - Back-flush Accounting
-            - Throughput accounting
-              - JIT environment
-        - [ACCA F5 - 2. Worked example of costing](https://www.youtube.com/watch?v=Kyyp_viA6Xg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=50)
-          - Videomark; 4:34/4:34
-          - Practice point
-            - Exam application of ABC analysis
-        - [ACCA F5 - 3. Worked example of costing](https://www.youtube.com/watch?v=nyzKneWV3B4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=51)
-          - Videomark; 5:43/5:43
-          - CCS: 29.1%
-          - E.T.C: 2.15 months
-        - [ACCA F5 - 4. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
-          - Videomark: 9:31/9:31
-        - [ACCA F5 - 5. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
-          - Videomark; 10:03/10:03
-          - Practice point
-            - Costing
-              - $udemy_course
-        - [ACCA F5 - 6. Worked example of costing](https://www.youtube.com/watch?v=lUYAGslqDFQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=54)
-          - Videomark: 10:02/10:02
-          - CCS: 30.8%
-          - E.T.C: 1.35 months
-          - Practice point
-            - Calculating TPAR
-              - Throughput accounting
-        - [ACCA F5 - 7. Decision Making Techniques](https://www.youtube.com/watch?v=nf8B7s98SQI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=55)
-          - Videomark: 10:59/10:59
-          - STRUCT
-            - Relevant costs
-              - relevance
-              - Future
-                - Sunk costs
-                - Commited costs
-              - **CVP Analysis**
-                - **The breakeven formula**
-              - Incremental Analysis
-                - Application in decision making
-              - Linear Programming
-              - Determining optimal mix of products where there are limiting factors
-            - Pricing decisions
-              - **PED(The price elasticity of demand)**
-              - Demand equation： $P=a-bQ$
-            - Total Cost Function: $Y=aX+b$
-        - [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
-          - Videomark: 8:46/8:46
-          - STRUCT
-            - Pricing Strategy
-              - Cost plus
-              - Skimming
-              - Penetration pricing
-              - Premium pricing
-              - Target pricing
-              - Promotional pricing
-              - Perceived value pricing
-              - Value pricing
-              - Product-line pricing
-              - Volume-discounting pricing
-              - Discriminatory pricing
-              - Psychological pricing
-              - Product Bundle Pricing
-              - Complementary product pricing
-              - Relevant cost pricing
-              - Make-buy
-            - Risk and Uncertainty
-              - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
-              - Uncertainty: subjective probability
-              - Expected Value
-            - Sensitivity
-              - Sensitivity analysis
-              - Sensitivity by scenario
-            - Simulation - Monte Cario
-            - **Maximax, maximin, and minimax regret**
-        - [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
-          - Videomark: 8:43/8:43
-          - CCS: 32.5%
-          - E.T.C: 1.32 months
-          - STRUCT
-            - Budget
-              - _meta
-                - definition
-                  - *a budget is a quantitative plan addressing the future*
-                - category
-                  - fixed
-                  - flexible
-                  - ZBB(Zero-based)
-                  - ABB(Activity-based)
-                  - Incremental
-                - time-related
-                  - budgetary period
-              - VOCAB
-                - budgetary control system
-                - goal congruence
-              - modern bugetary system vs conventional
-              - Quantitative analysis
-                - High-low method
-                  - --> F2
-                - Regression analysis
-                  - --> F2
-                - Learning curves
-              - Behavioural Aspects of Budgeting
-                - Top-down
-                - Bottom-up
-                - Unrealistic
-                - Overty achievable
-        - [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
-          - Videomark: 9:23/9:23
-          - CCS: 33.1%
-          - E.T.C: 3.71 months
-          - STRUCT
-            - The big picture
-            - Basic Variances and Operating Statements
-              - _methods
-                - absorption costing
-                  - operating statements
-                - marginal costing
-                  - operating statements
-              - _instance
-                - Worked examples
-                  - Cost card
-                  - Budget
-                  - Actual results
-                  - Variance
-              - Variance
-                - Material variance
-                - Labour variances
-                  - Labour rate variance
-                  - Labour efficiency variance
-                - Variable O/H variances
-                  - Variable O/H expenditure variance
-                  - Variable O/H efficiency variance
-                - Fixed O/H variances
-                  - Fixed O/H expenditure variance
-                    - Marginal costing, absorption costing...
-                  - Fixed O/H volume variance
-                - Sales volume variance
-                - Sales price variance
-                - Mix and yield variance
-                - Planning and Operational Variances
-              - Behavioural aspect of standard costing
-              - **Non-standard costing**
-        - [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
-          - Videomark: 10:17/10:17
-          - CCS: 33.7%
-          - E.T.C: 3.68 months
-          - STRUCT
-            - Practice
-              - Residual Income(RI)
-              - EBIT： Earnings before interest and tax
-              - Imputed interest
-              - Drawbacks of RI and ROI
-              - RI & ROI computation
-                - NBV initial
-                - Net cash inflow
-                - Depreciation
-                - Profit
-                - Capital charge(10%)
-                - RI
-                - ROI
-              - Performance analysis is not for profit organizations and the public sector
-              - External considerations and behavioural aspects
-            - The scope of performance measurement
-              - Balanced scorecard
-                - Financial perspective
-                - Customer perspective
-                - International business processes
-                - Learning and growth
-              - Fitzgerald and Moon
-                - Dimensions
-                  - Results
-                  - Determinants
-                - Standards
-                - Rewards
-              - Qualitative measures
-                - KPI
-                - OKR?
-            - Divisional Performance and Transfer Pricing
-              - Transfer prices
-                - Market price
-                - Outlay cost(standard) + opportunity cost to the seller
-                - Outlay cost(actual) + opportunity cost to the seller
-                - Outlay cost + notional mark-up
-                - Production cost(full absorption)
-                - Best bargain(negotiation between divisions)
-              - Divisional performance and internal(transfer) pricing
-              - Return on Investment(ROI) at the Divisional Level
-                - $ROI=\frac{net-profit}{capital-employed}$
         - [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
           - Videomark: 8:56/8:56
           - CCS: 34.2%
@@ -1877,18 +1396,26 @@
     - Quantum Computing Hands-on
       - _source
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
+      - Algorithms Course - Graph Theory Tutorial from a Google Engineer
+        - [Link1](https://www.youtube.com/watch?v=09_LlHjoEiY&t=1001s)
+        - PROCESSING POINTER FIELD
+          - Videosweepmark: 22:30/6:44:39
+        - Negative cycle
+          - Bellman-Ford, Floyd-Warshall 
       - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
         - PROCESSING POINTER FIELD
-          - Videomark: 8:20
+          - Videomark: 10:00
       - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.3 - Embedding Entire Graphs​](https://www.youtube.com/watch?v=eliMLfJeu7A&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=9)
-          - Videomark: 16:30/18:03
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
+          - Videomark: 7:30/27:09
           - CCS: 15%
           - ?
             -  SVM, Regression
           - INBOUND CACHE
             - Basics & Prerequisites
               - Coding
+                - Pagerank
+                  - Matrix factorization
                 - Shallow Encoding
                   - [DeepWalk](https://github.com/phanein/deepwalk)
                     - PROCESSING POINTER FIELD
@@ -1915,10 +1442,12 @@
                 - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
                   - _meta
                     - _parent
-                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
+                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
                         - PROCESSING POINTER FIELD
-                          - currentPointer: Prerequisites and Prework - Introduction to Machine Learning Problem Framing
+                          - currentPointer: `currentLink`
                 - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                  - PROCESSING_POINTER_FIELD
+                    - Videosweepmark: 2
                 - ?
                   - Random Walk
                     - _difficult
@@ -1941,7 +1470,6 @@
                   - Learn Walk Embeddings
                     - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
                 - ?
-                  - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
                   - RESOURCE POINTER FIELD
                     - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
                       - ASYNC MIRRORED | PROCESSING POINTER FIELD
@@ -1957,7 +1485,7 @@
                             - bookSweepPointer: 11/459
                           - Supplementary problem solving
                             - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
-                              - DEPRECATED Videosweepmark: 0:32/8:26
+                              - DEPRECATED Videosweepmark: 2:32/8:26
                             - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
             - ?
               - Graph Representation Learning
@@ -2172,27 +1700,16 @@
     - AI workshop --> ACTIVE ON `Blockchain complete`
       - _source
         - [huggingface](https://huggingface.co/docs/transformers/model_doc/bloom)
+          - [Meta-Learning a Dynamical Language Model](https://arxiv.org/abs/1803.10631)
+            - PROCESSING_POINTER_FIELD
+              - _type
+                - Academic Paper
+              - Papersweepmark
       - Transformer Models
         - BLOOM
         - ?
           - [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&t=59s)
         - GPT-3
-          - Basics
-            - [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&t=18s)
-            - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
-            - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
-              - Videomark: 1:31:17/1:31:17
-              - BLOCKAGE
-                - [x] OpenAPI ist im dies Standort nicht verfügbar
-              - Shallow Hands-on Track
-                - Local Link: `stupid-ai-blogger`
-                - Source
-                  - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
-              - Resource
-                - OpenAI
-                - Jarvis API
-              - **ACTION ON COMPLETE**
-                - Update `*-software_arsenal`
           - Wudao
         - DALL-E
           - Waitlist
@@ -2213,9 +1730,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 84.5%
-          - TEMP TIMESTAMP: 3
-          - ETC: 0.5 months
+          - CCS: 86.4%
+          - TEMP TIMESTAMP
+          - ETC: 0.45 months
           - INBOUND CACHE
             - **DAO**
               - **Zachmann framework**
@@ -2243,6 +1760,8 @@
             - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
             - Mining Pool
               - SLUSH POOL
+            - ?
+              - Etherwallet, Remix, Solidity, Ganache
           - Use cases
             - Chooseing ASICs for Sia
           - Books & Articles
@@ -2278,8 +1797,8 @@
           - Videomark: 1:54
           - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 47.4%
-          - E.T.A: 2.5 months
+          - CCS: 48.9%
+          - E.T.A: 2.43 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -2381,8 +1900,9 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 14.6%
-        - E.T.A: 7.11 month
+        - CCS: 15%
+        - E.T.A: 7.08 month + 14d
+        - TEMP_TIMESTAMP: 1
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -2404,6 +1924,11 @@
             - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
+          - [ ] In-depth understanding of TCP & UDP
+            - [ ] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
+              - Videomark: 4:09/1:01:09
+              - CCS: 6.5%
+              - E.T.A: 14d
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -2415,7 +1940,10 @@
       - Short Agency collab
       - Case study
         - ZXG --> MTG
+      - Psychological warfare
     - Legal toolkit
+      - Contract-based Legal Trap embedding
+      - Intertwining checkmate with PR fallback restaints
     - HR toolkit
       - Forensic Politics
       - Internal Mutiny: Automation & Orchestration
@@ -2423,11 +1951,19 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 20.6%
+    - CCS: 21%
     - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 14
-    - BLOCKAGE: Udemy is down
+    - TEMP TIMESTAMP: 4
+    - Pitching
+      - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
+      - STRUCT Pitch Deck
+        - Conveys your value proposition
+        - Disarms concerns
+        - Contains stories
+        - Sprinkles in questions
+        - Has strategic pauses
+        - Provides clear next steps(defined when deck building)
     - Tooling --> `*-business_arsenal`
       - Cold Email
         - _category
@@ -2637,7 +2173,7 @@
   - RIGGED HIDDEN CAREER PATH
     - Musician, Designer(ACCD at older age for sport), Rip Van Winkle
 - Spanish - B1
-  - No change, next stage E.T.A 5 months
+  - No change, next stage E.T.A 2.4 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
 - Portuguese - B1 --> HALT, OPTIONAL 1min/day
@@ -2650,8 +2186,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 40.2%
-      - E.T.A: 4.98 months
+      - CCS: 40.9%
+      - E.T.A: 4.93 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2665,16 +2201,16 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
-  - _manual-override
-    - SOA-CO2 covering English, German, French, Italian, Portuguese
-      - _TTL: 3d
-      - _interval: *Language shuffle per each query*
+  - `ERROR: InternalConductIntegrityException: Duration attribute of ConductName-ItalianStudy exceeds the internal integrity threshold`
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
         - German: \[Inaudible\] ERROR: Too many data points
           - Require upgrade on `INTERNAL_INTUITION`
       - Time consumption
+        - Italian
+          - IV: 28:53
+          - MA_5: 28:53 + ...\{4\}
         - Russian
           - IV: 11:38
           - MA_5: 11:38 + ...\{4\}
@@ -2755,7 +2291,7 @@
     - INBOUND CACHE
       - \{`self`\}
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 77.9%
+  - Initialization of language/meta structrure: 87.5%
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
@@ -2798,11 +2334,11 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 36.2%
+  - Initialization of language/meta structrure: 40.4%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 50.8%
+  - Initialization of language/meta structrure: 57.1%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
 - Russian - Lower B1 +
@@ -2817,7 +2353,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 14:10
+        - Videomark: 18:10
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2834,15 +2370,15 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 50%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 70%
                   - _state
-                    - COLD_TURKEY
-                  - Personal pronouns | **THRESHOLD LEVEL 1** - 1%
+                    - COLD_TURKEY: False
+                  - Personal pronouns | **THRESHOLD LEVEL 1** - 70%
                     - `self.metaDigging(LEVEL=1)` | 2%
                       - _entity
                         - `categorize(self)`
                       - _method
-                        - `activeRecall(self)` | 50%
+                        - `activeRecall(self)` | 80%
                   - Possessive pronouns | 57%
                     - _warning
                       - Plateau Counter: 1
@@ -2857,7 +2393,7 @@
                           - Group 1.C - Множественное число
                         - Group 2 - егó, их, её
                         - Group 3 - наш, ваш
-                  - Demonstrative pronouns | 50%
+                  - Demonstrative pronouns | 90%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
               - же - 70%
@@ -2878,6 +2414,10 @@
             - **Без рубрики**
               - какой - 3%
               - весь
+            - `verb prefix`
+              - не-
+              - с-
+              - по-
           - VOLATILE
             - _state
               - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
@@ -2885,12 +2425,11 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - необходимость - 40%
-              - помочь - 40%
-              - измеряться - 30%
+              - помочь - 45%
+              - измеряться - 50%
             - **прилагательное**
-              - взрослый - 95%
-              - художественный - 70%
+              - взрослый - 100%
+              - художественный - 90%
             - **наречие**
             - **существительное**
               - сердце - 90%
@@ -2961,6 +2500,8 @@
     - STATIC | PPROCESSING\_CAPACITY 1
       - `language.meta.pronciation.callibrate()`
         - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
+          - PROCESSING_POINTER_FIELD: PPF
+            - Videomark: 3:45/27:55
       - **ερωτηματικός**
         - _mutation
         - που - 5%
@@ -2970,7 +2511,7 @@
         - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 14%
           - Personal Pronouns in Greek | 35%
             - Subject
-              - Core Table | 50%
+              - Core Table | 53%
               - Examples | 5%
             - Object
               - Core Table
@@ -3015,7 +2556,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 36:40/11:40:18
+        - Videomark: 40:10/11:40:18
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

@@ -177,8 +177,8 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F6: Introduction to the Paper Part 2](https://www.youtube.com/watch?v=xMBSjgGQ4i0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=128)
-          - Videomark: 1:30/11:18
+        - [LSBF ACCA F6: Dos and Don\'ts](https://www.youtube.com/watch?v=AFsTBrghFhQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=129)
+          - Videomark: 2:00/8:00
           - CCS: 73.7%
           - ETC: 1.46 months
           - CONVOLUTION | Management Accounting
@@ -1791,8 +1791,8 @@
           - Videomark: 1:54
           - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 48.9%
-          - E.T.A: 2.43 months
+          - CCS: 51.8%
+          - E.T.A: 0.53 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1945,10 +1945,10 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 21%
+    - CCS: 23.6%
     - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 4
+    - TEMP TIMESTAMP: 14
     - Pitching
       - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
       - STRUCT Pitch Deck
@@ -2180,7 +2180,7 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 40.9%
+      - CCS: 41.1%
       - E.T.A: 4.93 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
@@ -2347,7 +2347,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 18:10
+        - Videomark: 20:10
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2419,11 +2419,16 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - помочь - 45%
+              - помочь - 50%
               - измеряться - 50%
+              - понадеяться - 50%
+              - управлять - 20%
+              - говорить
+              - вырастить              
             - **прилагательное**
-              - взрослый - 100%
               - художественный - 90%
+              - сложный
+              - высокий              
             - **наречие**
             - **существительное**
               - сердце - 90%
@@ -2431,13 +2436,7 @@
               - ?
                 - остальные
               - **прилагательное**
-                - сложный
-                - высокий
               - **глагол**
-                - понадеяться
-                - управлять
-                - говорить
-                - вырастить
               - **наречие**
               - **существительное**
                 - представле́ния
@@ -2495,7 +2494,7 @@
       - `language.meta.pronciation.callibrate()`
         - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
           - PROCESSING_POINTER_FIELD: PPF
-            - Videomark: 3:45/27:55
+            - Videomark: 5:45/27:55
       - **ερωτηματικός**
         - _mutation
         - που - 5%
@@ -2511,8 +2510,8 @@
               - Core Table
               - Examples
             - Possessive form
-              - Core Table
-              - Examples
+              - Core Table | 5%
+              - Examples | 2%
           - Demonstrative Pronouns in Greek | 8%
             - Core Table | 5%
             - Examples | 2%

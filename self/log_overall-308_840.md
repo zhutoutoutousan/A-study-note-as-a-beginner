@@ -177,10 +177,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F6: Dos and Don\'ts](https://www.youtube.com/watch?v=AFsTBrghFhQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=129)
-          - Videomark: 2:00/8:00
-          - CCS: 73.7%
-          - ETC: 1.46 months
+        - [LSBF ACCA F6: Introduction to Capital Allowance Part 1](https://www.youtube.com/watch?v=GXw1ll-hfJk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=130)
+          - Videomark: 4:00/7:14
+          - CCS: 74.3%
+          - ETC: 1.43 months
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -1401,7 +1401,7 @@
           - Videomark: 10:00
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
-          - Videomark: 7:30/27:09
+          - Videomark: 12:30/27:09
           - CCS: 15%
           - ?
             -  SVM, Regression
@@ -1791,7 +1791,7 @@
           - Videomark: 1:54
           - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 51.8%
+          - CCS: 55.4%
           - E.T.A: 0.53 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
@@ -1945,7 +1945,7 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 23.6%
+    - CCS: 20.3%
     - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: 14
@@ -2180,8 +2180,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 41.1%
-      - E.T.A: 4.93 months
+      - CCS: 41.5%
+      - E.T.A: 3.45 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2347,7 +2347,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 20:10
+        - Videomark: 22:24
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2367,19 +2367,17 @@
                 - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 70%
                   - _state
                     - COLD_TURKEY: False
-                  - Personal pronouns | **THRESHOLD LEVEL 1** - 70%
-                    - `self.metaDigging(LEVEL=1)` | 2%
+                  - Personal pronouns | **THRESHOLD LEVEL 1** - 85%
+                    - `self.metaDigging(LEVEL=1)` | 82%
                       - _entity
                         - `categorize(self)`
                       - _method
-                        - `activeRecall(self)` | 80%
-                  - Possessive pronouns | 57%
-                    - _warning
-                      - Plateau Counter: 1
+                        - `activeRecall(self)` | 90%
+                  - Possessive pronouns | 80%
                     - _memory-helper
                       - _tracker
-                        - Depth 1 Percentage: 82%
-                        - Depth 2 Percentage: 11%
+                        - Depth 1 Percentage: 90%
+                        - Depth 2 Percentage: 30%
                       - Categorize
                         - Group 1 - мой, твой
                           - Group 1.A - Мужского и Средний род
@@ -2387,7 +2385,7 @@
                           - Group 1.C - Множественное число
                         - Group 2 - егó, их, её
                         - Group 3 - наш, ваш
-                  - Demonstrative pronouns | 90%
+                  - Demonstrative pronouns | 95%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
               - же - 70%
@@ -2494,21 +2492,21 @@
       - `language.meta.pronciation.callibrate()`
         - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
           - PROCESSING_POINTER_FIELD: PPF
-            - Videomark: 5:45/27:55
+            - Videomark: 6:45/27:55
       - **ερωτηματικός**
         - _mutation
         - που - 5%
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 14%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 16%
           - Personal Pronouns in Greek | 35%
             - Subject
-              - Core Table | 53%
-              - Examples | 5%
+              - Core Table | 70%
+              - Examples | 25%
             - Object
-              - Core Table
-              - Examples
+              - Core Table | 40%
+              - Examples | 20%
             - Possessive form
               - Core Table | 5%
               - Examples | 2%

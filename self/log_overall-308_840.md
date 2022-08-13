@@ -1949,6 +1949,10 @@
     - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
     - TEMP TIMESTAMP: 14
+    - _prerequisite
+      - How to identify a problem to solve?
+        - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
+        - [Building a Startup is About Solving a Problem - Avni Patel Thompson of Poppy](https://www.youtube.com/watch?v=0W5Jaip5_-g)
     - Pitching
       - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
       - STRUCT Pitch Deck

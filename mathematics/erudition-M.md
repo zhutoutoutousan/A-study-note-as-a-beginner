@@ -107,10 +107,16 @@
 
 # Number theory
 - An introduction to the theory of numbers - G.H. Hardy
-  - [Link1 - Triggers download](http://matematicaeducativa.com/foro/download/file.php?id=369&sid=f36787ea85103053e6302618e8ad2726)
+  - [Link1 - Triggers download](https://www.google.com/url?sa=t&source=web&rct=j&url=https://blngcc.files.wordpress.com/2008/11/hardy-wright-theory_of_numbers.pdf&ved=2ahUKEwiZ_MzDi8b5AhXUDEQIHXIbAVcQFnoECAgQAQ&usg=AOvVaw14XB8P_dXk1yx-5kf73LYJ)
     - Remarks by notation p9/641
       - Recommended going back from time to time
     - First just read, not much grasp of the conceptual structure yet
+    - PROCESSING_POINTER_FIELD
+      - Booksweepmark
+    - _motivation
+      - [Number theory A to Z](https://youtu.be/19SW3P_PRHQ)
+        - PROCESSING_POINTER_FIELD
+          - Videosweepmark: 4:50
     - Process1(Slow reading)
       - Progress: 19/641 
     - Process2(For software problem solving)

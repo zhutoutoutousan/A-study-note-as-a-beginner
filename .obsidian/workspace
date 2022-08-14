@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "8b8d869683e61d87",
+    "id": "83012b86eefc2692",
     "type": "split",
     "children": [
       {
-        "id": "a22d280a1431f136",
+        "id": "1cb90a83da1ec85c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6846febf6205e332",
+    "id": "5c11a89406b90760",
     "type": "split",
     "children": [
       {
-        "id": "591634c53a6e2df1",
+        "id": "a27ec2a460aecbeb",
         "type": "tabs",
         "children": [
           {
-            "id": "f466e8cb2f02b91e",
+            "id": "c437de31696868f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "a60719085e26d818",
+            "id": "35edb6d52327d26e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:LEARN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,69 +46,56 @@
             }
           },
           {
-            "id": "c70f0fcad2887985",
+            "id": "b5a4a4ab6bb2a509",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 300
   },
   "right": {
-    "id": "8297a1ddd72afa63",
+    "id": "3756959cbdcef449",
     "type": "split",
     "children": [
       {
-        "id": "73fce143862a1fd9",
+        "id": "a71b90963cdf8a78",
         "type": "tabs",
         "children": [
           {
-            "id": "b85388091bc3dac5",
+            "id": "a639a84576e96e63",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "80441061205182cb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
-            }
-          },
-          {
-            "id": "722780076d0f3df7",
+            "id": "044e213269dc9aed",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d515f518f405dd7b",
+            "id": "c0d62096b38468f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,7 +106,15 @@
             }
           },
           {
-            "id": "eb4476dbd874de91",
+            "id": "7534060217ba006c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7283eda74da2ed8e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -131,15 +122,7 @@
             }
           },
           {
-            "id": "faf60aad82f18c09",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
-            "id": "26fb26a095dadc9c",
+            "id": "a209662146303772",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -153,21 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "26fb26a095dadc9c",
-=======
-  "active": "a60719085e26d818",
->>>>>>> 66393f91c2025f816471ba72d3a543cad1047c73
-  "lastOpenFiles": [
-    "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
-    "self/log_overall-306_840.md",
-    "self/log_overall-305_840.md",
-    "__IDEA__boring-housing-estate.md",
-    "software/foundations-and-supports/_index_software_foundations-and-supports.md",
-    "neuroengineering/_log/_log-NE-ns.md",
-    "202204051716.md",
-    "academic-engineering/_log/_log-AE-training.md",
-    "_ENTRY.md",
-    "software/_log/log-SW-teamplay.md"
-  ]
+  "active": "a209662146303772",
+  "lastOpenFiles": []
 }

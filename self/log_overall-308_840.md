@@ -177,10 +177,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F6: Introduction to the Paper Part 2](https://www.youtube.com/watch?v=xMBSjgGQ4i0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=128)
-          - Videomark: 1:30/11:18
-          - CCS: 73.7%
-          - ETC: 1.46 months
+        - [LSBF ACCA F6: Introduction to Capital Allowance Part 1](https://www.youtube.com/watch?v=GXw1ll-hfJk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=130)
+          - Videomark: 4:00/7:14
+          - CCS: 74.3%
+          - ETC: 1.43 months
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -1396,16 +1396,12 @@
     - Quantum Computing Hands-on
       - _source
     - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
-      - Algorithms Course - Graph Theory Tutorial from a Google Engineer
-        - [Link1](https://www.youtube.com/watch?v=09_LlHjoEiY&t=1001s)
-        - PROCESSING POINTER FIELD
-          - Videosweepmark: 15:26/6:44:39
       - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
         - PROCESSING POINTER FIELD
-          - Videomark: 8:20
+          - Videomark: 10:00
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
-          - Videomark: 7:30/27:09
+          - Videomark: 12:30/27:09
           - CCS: 15%
           - ?
             -  SVM, Regression
@@ -1440,10 +1436,12 @@
                 - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
                   - _meta
                     - _parent
-                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
+                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
                         - PROCESSING POINTER FIELD
-                          - currentPointer: Prerequisites and Prework - Introduction to Machine Learning Problem Framing
+                          - currentPointer: `currentLink`
                 - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                  - PROCESSING_POINTER_FIELD
+                    - Videosweepmark: 2
                 - ?
                   - Random Walk
                     - _difficult
@@ -1466,12 +1464,23 @@
                   - Learn Walk Embeddings
                     - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
                 - ?
-                  - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
                   - RESOURCE POINTER FIELD
                     - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
                       - ASYNC MIRRORED | PROCESSING POINTER FIELD
                         - Struct pointer: 3-4
                         - bookSweepPointer: 4/137
+                        - _prerequisite
+                          - Abstract Algebra
+                            - [A book of abstract algebra C.C. Pinter](http://www2.math.umd.edu/~jcohen/402/Pinter%20Algebra.pdf)
+                              - PROCESSING POINTER FIELD
+                                - Struct pointer: 5-8
+                                - bookSweepPointer: 23/358
+                              - _motivation
+                              - _prerequisite
+                                - Number theory
+                        - _motivation
+                          - [Group Theory — Introduction to Higher Mathematics](https://www.youtube.com/watch?v=KufsL2VgELo)
+                            - Videosweepmark: 4:41
                 - _meta
                   - _unknown_depth_parent
                     - General Topology
@@ -1482,7 +1491,7 @@
                             - bookSweepPointer: 11/459
                           - Supplementary problem solving
                             - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
-                              - DEPRECATED Videosweepmark: 0:32/8:26
+                              - DEPRECATED Videosweepmark: 2:32/8:26
                             - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
             - ?
               - Graph Representation Learning
@@ -1794,8 +1803,8 @@
           - Videomark: 1:54
           - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 48.9%
-          - E.T.A: 2.43 months
+          - CCS: 55.4%
+          - E.T.A: 0.53 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1948,10 +1957,14 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 21%
+    - CCS: 20.3%
     - E.T.A: 2.4 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 4
+    - TEMP TIMESTAMP: 14
+    - _prerequisite
+      - How to identify a problem to solve?
+        - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
+        - [Building a Startup is About Solving a Problem - Avni Patel Thompson of Poppy](https://www.youtube.com/watch?v=0W5Jaip5_-g)
     - Pitching
       - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
       - STRUCT Pitch Deck
@@ -2183,8 +2196,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 40.9%
-      - E.T.A: 4.93 months
+      - CCS: 41.5%
+      - E.T.A: 3.45 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2350,7 +2363,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 18:10
+        - Videomark: 22:24
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2370,19 +2383,17 @@
                 - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 70%
                   - _state
                     - COLD_TURKEY: False
-                  - Personal pronouns | **THRESHOLD LEVEL 1** - 70%
-                    - `self.metaDigging(LEVEL=1)` | 2%
+                  - Personal pronouns | **THRESHOLD LEVEL 1** - 85%
+                    - `self.metaDigging(LEVEL=1)` | 82%
                       - _entity
                         - `categorize(self)`
                       - _method
-                        - `activeRecall(self)` | 80%
-                  - Possessive pronouns | 57%
-                    - _warning
-                      - Plateau Counter: 1
+                        - `activeRecall(self)` | 90%
+                  - Possessive pronouns | 80%
                     - _memory-helper
                       - _tracker
-                        - Depth 1 Percentage: 82%
-                        - Depth 2 Percentage: 11%
+                        - Depth 1 Percentage: 90%
+                        - Depth 2 Percentage: 30%
                       - Categorize
                         - Group 1 - мой, твой
                           - Group 1.A - Мужского и Средний род
@@ -2390,7 +2401,7 @@
                           - Group 1.C - Множественное число
                         - Group 2 - егó, их, её
                         - Group 3 - наш, ваш
-                  - Demonstrative pronouns | 90%
+                  - Demonstrative pronouns | 95%
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
               - же - 70%
@@ -2422,11 +2433,16 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - помочь - 45%
+              - помочь - 50%
               - измеряться - 50%
+              - понадеяться - 50%
+              - управлять - 20%
+              - говорить
+              - вырастить              
             - **прилагательное**
-              - взрослый - 100%
               - художественный - 90%
+              - сложный
+              - высокий              
             - **наречие**
             - **существительное**
               - сердце - 90%
@@ -2434,13 +2450,7 @@
               - ?
                 - остальные
               - **прилагательное**
-                - сложный
-                - высокий
               - **глагол**
-                - понадеяться
-                - управлять
-                - говорить
-                - вырастить
               - **наречие**
               - **существительное**
                 - представле́ния
@@ -2498,24 +2508,24 @@
       - `language.meta.pronciation.callibrate()`
         - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
           - PROCESSING_POINTER_FIELD: PPF
-            - Videomark: 3:45/27:55
+            - Videomark: 6:45/27:55
       - **ερωτηματικός**
         - _mutation
         - που - 5%
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 14%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 16%
           - Personal Pronouns in Greek | 35%
             - Subject
-              - Core Table | 53%
-              - Examples | 5%
+              - Core Table | 70%
+              - Examples | 25%
             - Object
-              - Core Table
-              - Examples
+              - Core Table | 40%
+              - Examples | 20%
             - Possessive form
-              - Core Table
-              - Examples
+              - Core Table | 5%
+              - Examples | 2%
           - Demonstrative Pronouns in Greek | 8%
             - Core Table | 5%
             - Examples | 2%

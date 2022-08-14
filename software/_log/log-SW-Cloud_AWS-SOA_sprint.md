@@ -290,7 +290,7 @@
     - EMR
       - Q11
 - More 600Q on pbb: PB-SWP
-  - Sweepmark: PBQ559/PBQ616
+  - Sweepmark: PBQ616/PBQ616
   - _schema
     - Monitoring, Logging, and Remediation
       - CW

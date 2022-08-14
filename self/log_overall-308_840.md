@@ -95,6 +95,10 @@
             - Demo ACC
               - Strategy Demos
                 - [ ] [The Most Important Rule In Day Trading](https://www.youtube.com/watch?v=HEJBaC4TkvQ)
+        - Comprehensive Development Path
+          - Get with the terms
+            - [Dictionary - Investopedia](https://www.investopedia.com/financial-term-dictionary-4769738)
+          - Get with the tools
         - Randomwalk
           - Pedant's hut
             - _not-verified
@@ -128,11 +132,14 @@
                       - Remember/Log and verify the reoccuring patterns
                       - Start with `static` first
               - Shuffle Frequency: 5 min
-            - PROCESSING POINTER FIELD: 55:00/1:17:34
+            - PROCESSING POINTER FIELD: 1:00:10/1:17:34
             - Candle
               - 38.2% Candle
               - Engulfing Candle
               - Close above/below Candle
+            - Charter Patterns
+              - Double top
+              - Double bottom
             - Fibonacci Retracement
               - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
           - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)

@@ -177,10 +177,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F6: Introduction to Capital Allowance Part 1](https://www.youtube.com/watch?v=GXw1ll-hfJk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=130)
-          - Videomark: 4:00/7:14
-          - CCS: 74.3%
-          - ETC: 1.43 months
+        - [LSBF ACCA F6: Introduction to Capital Allowance Part 2](https://www.youtube.com/watch?v=PNuxR49L-LA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=131)
+          - Videomark: 7:00/9:07
+          - CCS: 74.8%
+          - ETC: 1.68 months
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -1401,7 +1401,7 @@
           - Videomark: 10:00
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
-          - Videomark: 12:30/27:09
+          - Videomark: 12:30!15:22/27:09
           - CCS: 15%
           - ?
             -  SVM, Regression
@@ -1469,18 +1469,6 @@
                       - ASYNC MIRRORED | PROCESSING POINTER FIELD
                         - Struct pointer: 3-4
                         - bookSweepPointer: 4/137
-                        - _prerequisite
-                          - Abstract Algebra
-                            - [A book of abstract algebra C.C. Pinter](http://www2.math.umd.edu/~jcohen/402/Pinter%20Algebra.pdf)
-                              - PROCESSING POINTER FIELD
-                                - Struct pointer: 5-8
-                                - bookSweepPointer: 23/358
-                              - _motivation
-                              - _prerequisite
-                                - Number theory
-                        - _motivation
-                          - [Group Theory — Introduction to Higher Mathematics](https://www.youtube.com/watch?v=KufsL2VgELo)
-                            - Videosweepmark: 4:41
                 - _meta
                   - _unknown_depth_parent
                     - General Topology

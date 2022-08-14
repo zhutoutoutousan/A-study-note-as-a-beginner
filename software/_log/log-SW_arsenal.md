@@ -3,6 +3,7 @@
 - [_INBOUND_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
 - [New Tech](#new-tech)
+- [Preferences](#preferences)
 - [AI toolkit](#ai-toolkit)
 - [Networking-related](#networking-related)
 - [Shiny Object Journey](#shiny-object-journey)
@@ -95,6 +96,10 @@
 
 # New Tech
 - dbforge
+
+# Preferences
+- Dark mode everywhere
+  - [Chrome force dark mode](https://www.oksheets.com/enable-dark-mode/)
 
 # AI toolkit
 - GPT-3

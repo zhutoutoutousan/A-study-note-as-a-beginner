@@ -1724,9 +1724,11 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 86.4%
+          - CCS: 87.4%
           - TEMP TIMESTAMP
-          - ETC: 0.45 months
+          - ETC: 0.42 months
+          - STATIC
+            - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
           - INBOUND CACHE
             - **DAO**
               - **Zachmann framework**
@@ -1791,7 +1793,7 @@
           - Videomark: 1:54
           - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 55.4%
+          - CCS: 57.6%
           - E.T.A: 0.53 months
           - [x] BLOCKAGE
             - [x] reinstall `docker`
@@ -1894,7 +1896,7 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 15%
+        - CCS: 15.8%
         - E.T.A: 7.08 month + 14d
         - TEMP_TIMESTAMP: 1
         - ?
@@ -1902,6 +1904,7 @@
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
         - Tools
           - _source
+            - [Nmap Cheatsheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
             - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
             - `osint-tools`
             - `sherlock`
@@ -1945,10 +1948,10 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 20.3%
-    - E.T.A: 2.4 months
+    - CCS: 20.5%
+    - E.T.A: 2.33 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 14
+    - TEMP TIMESTAMP: 10
     - _prerequisite
       - How to identify a problem to solve?
         - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
@@ -2184,8 +2187,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 41.5%
-      - E.T.A: 3.45 months
+      - CCS: 42.2%
+      - E.T.A: 2.75 months
       - TEMP_TIMESTAMP
       - BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
@@ -2351,7 +2354,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 22:24
+        - Videomark: 24:40
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2421,15 +2424,17 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - помочь - 50%
-              - измеряться - 50%
-              - понадеяться - 50%
-              - управлять - 20%
+              - помочь - 100%
+              - измеряться - 80%
+              - понадеяться - 60%
+              - управлять - 40%
               - говорить
-              - вырастить              
+              - вырастить
+              - наслать        
             - **прилагательное**
               - художественный - 90%
               - сложный
+              - безошибочный
               - высокий              
             - **наречие**
             - **существительное**
@@ -2496,10 +2501,10 @@
       - `language.meta.pronciation.callibrate()`
         - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
           - PROCESSING_POINTER_FIELD: PPF
-            - Videomark: 6:45/27:55
+            - Videomark: 8:50/27:55
+            - *Maybe opting out, pronounciation only requires verification, which is done already*
       - **ερωτηματικός**
         - _mutation
-        - που - 5%
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
@@ -2521,9 +2526,9 @@
           - Indefinite Pronouns in Greek | 5%
             - Core Table | 20%
             - Examples | 2%
-          - Relative Pronouns in Greek | 2%
-            - Core Table | 5%
-            - Examples | 1%
+          - Relative Pronouns in Greek | 4%
+            - Core Table | 8%
+            - Examples | 3%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
         - ανακαλύπτω

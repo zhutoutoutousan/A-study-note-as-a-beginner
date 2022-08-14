@@ -1401,8 +1401,8 @@
           - Videomark: 10:00
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
-          - Videomark: 12:30!15:22/27:09
           - CCS: 15%
+          - Videomark: 17:30/27:09
           - ?
             -  SVM, Regression
           - INBOUND CACHE

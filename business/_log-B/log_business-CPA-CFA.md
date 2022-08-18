@@ -928,6 +928,295 @@ Asset Allocation
       - Divisional performance and internal(transfer) pricing
       - Return on Investment(ROI) at the Divisional Level
         - $ROI=\frac{net-profit}{capital-employed}$
+- [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
+  - Videomark: 8:56/8:56
+  - CCS: 34.2%
+  - E.T.C: 4.38 months
+  - STRUCT
+    - Taxation UK
+      - Tax year: 6 April to 5 April
+      - Main taxes
+        - Income tax
+        - Corporation tax
+        - Capital Gains tax(CGT)
+        - Value Added Tax(VAT)
+        - National Insurance Contributions(NIC)
+      - Pro-forma Tax Computation
+        - Personal Allowances
+        - Personal Age Allowances
+        - Income Tax Liability
+        - Income Tax Payable
+- [ACCA F6UK - 2. Employment income](https://www.youtube.com/watch?v=J4UPebyc2lw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=61)
+  - Videomark: 7:48/7:48
+  - CCS: 34.8%
+  - E.T.C: 3.62 months
+- [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
+  - Videomark: 13:15/13:15
+  - CCS: 35.4%
+  - E.T.C: 3.58 months
+  - ADJUSTMENT: 10min/day for French learning on weekends
+- [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
+  - Videomark: 10:07/10:07
+  - CCS: 36%
+  - E.T.C: 3.55 months
+- [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
+  - Videomark: 9:26/9:26
+  - CCS: 36.5%
+  - E.T.C: 4.23 months
+- [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
+  - Videomark: 9:26/9:26
+  - CCS: 37.1%
+  - E.T.C: 3.49 months
+- [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
+  - Videomark: 14:39/14:39
+  - CCS: 37.7%
+  - E.T.C: 3.46 months
+- [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
+  - Videomark: 8:12/8:12
+  - CCS: 38.2%
+  - E.T.C: 4.12 months
+- [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
+  - Videomark: 13:35/13:35
+  - CCS: 38.8%
+  - E.T.C: 3.4 months
+- [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
+  - Videomark: 9:15/9:15
+  - CCS: 39.4%
+  - E.T.C: 2.53 months
+- [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
+    - Videomark: 1:03/9:57
+    - CCS: 40%
+    - E.T.C: 3.33 months
+    - FOLLOWING, CLUSTERED | Tax
+      - _practice
+        - Death after a lifetime transfer
+          - The value of the estate at death
+      - Individual Tax
+        - Income Tax - Employment Income
+          - Benefit
+          - Exempt benefit
+          - Assessable benefit - Living Accommodation
+          - Assessable benefit - motor cars
+            - Petrol car
+              - Private fuel
+              - Private use of vans
+              - Private use of employer's assets
+              - Gift of asset - no previous private use
+              - Gift of asset - after previous private use
+            - Diesel car
+            - Electric car
+        - Inheritance Tax(IHT)
+          - Calculation of IHT on Lifetime Transfers
+            - IHT on CLTs(transfers into a Trust)
+            - Nil Rate Band(NRB)
+          - Calculation of IHT as a result of Death
+            - Taper relief
+          - _meta
+            - _on
+              - *a person dies*
+              - *certain lifetime transfer*
+                - Exempt
+                - Potentially Exempt Transfers(PETs)
+                - Chargeable Lifetime Transfers(CLTs)
+          - Transfer of Value, Chargeable Property & Chargeable Person
+        - Capital Gain Tax(CGT)
+          - Pro forma for computation of capital gains for individuals
+          - Transfer between husband/wife or civil partners
+            - Not deemed to be transferred value
+            - Part disposals
+          - Chattels
+            - *Could be a nice way*
+          - Share matching rules
+          - Reliefs - Principal Private Residence(PPR)
+            - Deemed occupation
+          - Reliefs - Entrepreneurs' Relief
+          - Reliefs - Rollover Relief
+        - Income Tax - Trading Income
+          - Discernment
+            - Capital gain Tax
+          - Typical recipients - A personal who is employed by a company receives employment income and not trading income
+            - A *sole trader*
+            - Self-employed
+            - Independant consultant
+          - Badges of trade
+            - Badges
+              - Subject matter
+                - *items that were transacted typically items that are used for trading*
+              - Frequency of transactions
+                - *the more often the transaction is undertaken the more likely it is that the item will be trading*
+              - Length of ownership
+                - *a shorter period of ownership is more likely to indicate trading*
+              - Profit motive
+                - *a clear indication to make a profit may indicate a trading item*
+              - Supplementary work and marketing
+                - *additional work undertaken on the items to make them more marketable may indicate trading*
+              - Method of acquisition
+                - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
+          - Basis of assessment
+            - Opening Year Rules
+            - CYB: current year basis
+            - Period of Account
+            - Period Assessed
+            - Ongoing business rules
+            - Change of accounting date
+            - Closing year rules
+          - Adjustment of the accounting profit
+          - Tax adjustedd trading profit
+            - Net product per accounts
+              - ADD
+                - Disallowed expenditure
+                - Taxable trading income not included in accounts
+                - ...
+              - LESS
+                - Income included within the accounts but not taxable as trading income
+                - Expenditure not in the accounts but allowable as a trading deduction
+                - Capital allowances
+                - ...
+              - Tax adjusted trading profit
+          - Disallowable expenditure
+            - _meta
+              - _instance
+                - Capital expenditure
+                - Depreciation or amortization charges
+                - Appropriation(withdrawl) of funds from the business by the sole trader
+                - Excessive salary paid to a sole trader's family member
+                - 3rd party entertaining(note that employee entertaining is allowable)
+                - The write off a non-trade debt
+                - Subscriptions that are not related to the trade
+                - Gifts to customers are disallowable
+                  - _meta
+                    - _exception
+                      - cost less than ￡50 per recipient per year
+                      - The gift is not food, drink, or tobacco
+        - Capital Allowances
+          - _meta
+            - _self
+              - *Capital allowances are tax allowable amounts that are calculated according to set specific rules*
+          - *Depreciation is an accounting adjustment*
+          - Plant and Machinery(P&M)
+            - _meta
+              - _instance
+                - Machinery, Vehicles(cars and lorries), Computers(hardware and software)
+                - Office furniture and equipment, Moveable partitioning
+              - Writing Down Allowance(WDA)
+              - Annual Investment Allowance(AIA)
+              - Motor cars
+                - purchased on or after 6 April 2009
+                - purchased before 6 April 2009
+              - Private use assets
+                - *for sole traders*
+                - *companies never have private use assets as they are not suppose to have them in the first place*
+              - Special Rate Pool
+        - Trading Losses(For sole traders)
+          - Carry forward of trading loss
+          - Offset of loss against total income
+          - Relieving trading losses against chargeable gains
+          - Offset of opening year loss against total income: FIFO
+          - Offset of terminal loss against previous trading profits: LIFO
+        - Trading Income(For Partnership)
+          - Loss relief in partnerships
+          - Furnished holiday lettings(FHL)
+        - Property income
+          - Property business profits
+            - Accruals
+          - Premiums received on the grant of a short lease
+          - Rent a room relief
+        - Investment Income
+          - HMRC
+        - Rate of tax on savings income
+        - Dividend Income
+          - *Go-on-top* Style
+        - Pensions
+          - Pension schemes
+            - Occupational pension schemes(certain employees)
+            - Personal pension schemes(employees, sold traders, and unemployed)
+          - Method of obtaining relief
+            - Occupational pension Income
+            - Personal pension scheme
+              - Basic rate tax relief
+              - Higher rate tax relief
+        - National Insurance Contributions(NIC)
+      - Corporation Tax
+        - _key-practice-point
+          - Corporate tax computation
+            - Profits below the lower limit
+            - Profits above the upper limit
+            - Profits in the marginal relief band
+              - Short accounting periods
+              - Associated companies
+              - Accounting periods that are in the edge zone
+            - Trading losses
+              - s393(1) ICTA 1988: Carry forward the loss to offset against future trading income of the same trade
+              - s393A ICTA 1988: Offset of current year trading loss against current year total profit(before deduction of gift aid)
+              - *If a current year loss offset has been made and there are losses remaining, unused losses can be carried back and offset against total profits(before deduction of gift aid) of the previous 12 months*
+        - Context field
+          - Period of account
+          - Accounting Period
+          - Profits chargeable to corporation tax(PCTCT)
+          - "Profits" = PCTCT + Franked Investment Income(FII)
+          - FII = Gross dividends received from non associated companies
+        - Discernment field
+          - Trading Income
+            - *mainly the same*
+            - Differences
+              - No private use asset adjustments, taxed on the employees via the benefit on private use
+          - Property Income
+            - Assessed according to the company's accounting period while individual --> tax year
+            - *Interest on a loan acquired to purchase or improve an investment property is treated under the loan relationship rules unlike individuals who can treat it as a deduction from property Income*
+          - Interest Income
+            - Bank interet received in gross with no tax withheld(individual with bank interest net of 20% tax)
+          - Dividend income
+            - Not included in PCTCT
+          - Chargeable gains
+            - Corporate
+              - \* Pro forma
+              - Pay corporation tax on chargeable gains(i.e. the gains are part of PCTCT)
+              - No annual exemtion
+              - Indexation Allowance(IA) = $cost_asset \times RPI\_ movement$
+                - [MBA | Indexation](https://wiki.mbalib.com/zh-tw/%E6%8C%87%E6%95%B0%E5%8C%96)
+              - Share matching rules
+            - individual
+              - Pay Capital Gains Tax(CGT) on the gains and not income tax on the gains
+              - Annual exemtion
+              - No Indexation Allowance
+              - capital gain tax
+              - Share matching rules
+          - Gift Aid
+            - Corporate
+              - Deducted in PCTCT
+            - individual
+              - Extend the basic rate band
+        - Corporate Tax Computation
+          - Trading profits
+          - Property Income
+          - Interest Income
+          - Chargeable gains
+        - Corporate Groups and Overseas Tax Issues
+          - Corporate Groups
+            - Associated companies
+              - _meta
+                - definition
+                - implication
+            - Group loss relief group
+              - _meta
+                - definition
+                - implication
+          - Overseas Tax Issues
+            - AHA! *Overseas dividend income is exempt from UK corporation tax*
+            - Double Tax Relief(DTR)
+        - Value Added Tax(VAT)
+          - Taxable Person
+          - Taxable Supply
+          - Input VAT
+          - Output VAT
+          - ?
+            - Standard rated Supplies
+            - Zero rated Supplies
+            - Exempt supplies
+          - **VAT Registrations requirements**
+          - Pre-registration expenses
+          - Tax point
+          - VAT relief for bad debts
 
 
 

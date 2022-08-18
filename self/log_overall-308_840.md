@@ -99,6 +99,9 @@
           - Get with the terms
             - [Dictionary - Investopedia](https://www.investopedia.com/financial-term-dictionary-4769738)
           - Get with the tools
+            - Broker
+            - View
+              - Script
         - Randomwalk
           - Pedant's hut
             - _not-verified
@@ -118,9 +121,12 @@
               - *Too OG for professeures*
               - *Primitive social-economic manifestation for Bourgeoisie and above is out of scope for now*
           - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A)
-          - [The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)](https://www.youtube.com/watch?v=eynxyoKgpng&t=31)
+          - [The Trading Channel - Daily Dose | Studys Show 96% Of New Traders Will Fail Because Of This One Thing...](https://www.youtube.com/watch?v=G05Ma9i2GAI&t=118s)
+            - Videosweepmark: 11:40
+            - _motivation
+              - *A startup needs (have good eyes to hire) a competent investo-guy*
             - _state
-              - Current Langauge Shuffle: Persian
+              - Current Langauge Shuffle: Basa Jawa
                 - _meta:escalate
                   - **In here, the secret of learning and communicating with aliens may be revealed**
                   - *Fundamentals to understand an alien language: What to do in desparate situations*
@@ -132,20 +138,36 @@
                       - Remember/Log and verify the reoccuring patterns
                       - Start with `static` first
               - Shuffle Frequency: 5 min
-            - PROCESSING POINTER FIELD: 1:00:10/1:17:34
-            - Candle
-              - 38.2% Candle
-              - Engulfing Candle
-              - Close above/below Candle
-            - Charter Patterns
-              - Double top
-              - Double bottom
-            - Fibonacci Retracement
-              - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
-          - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
-            - _state
-              - Current Langauge Shuffle: German
-              - Shuffle Frequency: 5 min
+            - CONVOLUTION | ?
+              - Conceptual framework?
+                - Vocabulary Extension
+                  - STATIC
+                    - Lot
+                    - Spread
+                    - Stop loss - Tradingviews
+                    - Fibonacci Retracement
+                      - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
+                  - VOLATILE
+                - Risk Management
+                  - _mindset
+                    - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
+                  - Risk Capital
+                  - Risk Per Trade
+              - Trading Tools
+                - View
+                  - Candle
+                    - 38.2% Candle
+                    - Engulfing Candle
+                    - Close above/below Candle
+                  - Chart Patterns
+                    - Double top
+                    - Double bottom
+          - Forex
+            - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
+              - _state
+                - Current Langauge Shuffle: German
+                - Shuffle Frequency: 5 min
+          - Future
     - Power
     - Technology
     - Zeitgeist
@@ -184,10 +206,14 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F6: Introduction to Capital Allowance Part 2](https://www.youtube.com/watch?v=PNuxR49L-LA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=131)
-          - Videomark: 7:00/9:07
-          - CCS: 74.8%
-          - ETC: 1.68 months
+        - [LSBF ACCA F7: Introduction to the Paper Part 2](https://www.youtube.com/watch?v=-tQcXrfZCLM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=136)
+          - Videosweepmark: 1:35/7:56
+          - CCS: 77.7%
+          - ETC: 1.23 months
+          - ?
+            - CONVOLUTION | Conceptual Framework
+          - CONVOLUTION | Actual Exam Readiness
+            - [DipIFR CBE new ACCA Exam pattern Full Consolidation question solved](https://www.youtube.com/watch?v=q3fZr4p5m4I)
           - CONVOLUTION | Management Accounting
             - Main idea
               - Planning
@@ -211,295 +237,9 @@
             - Personal tax computations
             - National insurance
           - ACTION STICKY： Sit for ACCA after Completion
-        - [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
-          - Videomark: 8:56/8:56
-          - CCS: 34.2%
-          - E.T.C: 4.38 months
-          - STRUCT
-            - Taxation UK
-              - Tax year: 6 April to 5 April
-              - Main taxes
-                - Income tax
-                - Corporation tax
-                - Capital Gains tax(CGT)
-                - Value Added Tax(VAT)
-                - National Insurance Contributions(NIC)
-              - Pro-forma Tax Computation
-                - Personal Allowances
-                - Personal Age Allowances
-                - Income Tax Liability
-                - Income Tax Payable
-        - [ACCA F6UK - 2. Employment income](https://www.youtube.com/watch?v=J4UPebyc2lw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=61)
-          - Videomark: 7:48/7:48
-          - CCS: 34.8%
-          - E.T.C: 3.62 months
-        - [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
-          - Videomark: 13:15/13:15
-          - CCS: 35.4%
-          - E.T.C: 3.58 months
-          - ADJUSTMENT: 10min/day for French learning on weekends
-        - [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
-          - Videomark: 10:07/10:07
-          - CCS: 36%
-          - E.T.C: 3.55 months
-        - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
-          - Videomark: 9:26/9:26
-          - CCS: 36.5%
-          - E.T.C: 4.23 months
-        - [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
-          - Videomark: 9:26/9:26
-          - CCS: 37.1%
-          - E.T.C: 3.49 months
-        - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
-          - Videomark: 14:39/14:39
-          - CCS: 37.7%
-          - E.T.C: 3.46 months
-        - [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
-          - Videomark: 8:12/8:12
-          - CCS: 38.2%
-          - E.T.C: 4.12 months
-        - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
-          - Videomark: 13:35/13:35
-          - CCS: 38.8%
-          - E.T.C: 3.4 months
-        - [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
-          - Videomark: 9:15/9:15
-          - CCS: 39.4%
-          - E.T.C: 2.53 months
-        - [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
-            - Videomark: 1:03/9:57
-            - CCS: 40%
-            - E.T.C: 3.33 months
-            - FOLLOWING, CLUSTERED | Tax
-              - _practice
-                - Death after a lifetime transfer
-                  - The value of the estate at death
-              - Individual Tax
-                - Income Tax - Employment Income
-                  - Benefit
-                  - Exempt benefit
-                  - Assessable benefit - Living Accommodation
-                  - Assessable benefit - motor cars
-                    - Petrol car
-                      - Private fuel
-                      - Private use of vans
-                      - Private use of employer's assets
-                      - Gift of asset - no previous private use
-                      - Gift of asset - after previous private use
-                    - Diesel car
-                    - Electric car
-                - Inheritance Tax(IHT)
-                  - Calculation of IHT on Lifetime Transfers
-                    - IHT on CLTs(transfers into a Trust)
-                    - Nil Rate Band(NRB)
-                  - Calculation of IHT as a result of Death
-                    - Taper relief
-                  - _meta
-                    - _on
-                      - *a person dies*
-                      - *certain lifetime transfer*
-                        - Exempt
-                        - Potentially Exempt Transfers(PETs)
-                        - Chargeable Lifetime Transfers(CLTs)
-                  - Transfer of Value, Chargeable Property & Chargeable Person
-                - Capital Gain Tax(CGT)
-                  - Pro forma for computation of capital gains for individuals
-                  - Transfer between husband/wife or civil partners
-                    - Not deemed to be transferred value
-                    - Part disposals
-                  - Chattels
-                    - *Could be a nice way*
-                  - Share matching rules
-                  - Reliefs - Principal Private Residence(PPR)
-                    - Deemed occupation
-                  - Reliefs - Entrepreneurs' Relief
-                  - Reliefs - Rollover Relief
-                - Income Tax - Trading Income
-                  - Discernment
-                    - Capital gain Tax
-                  - Typical recipients - A personal who is employed by a company receives employment income and not trading income
-                    - A *sole trader*
-                    - Self-employed
-                    - Independant consultant
-                  - Badges of trade
-                    - Badges
-                      - Subject matter
-                        - *items that were transacted typically items that are used for trading*
-                      - Frequency of transactions
-                        - *the more often the transaction is undertaken the more likely it is that the item will be trading*
-                      - Length of ownership
-                        - *a shorter period of ownership is more likely to indicate trading*
-                      - Profit motive
-                        - *a clear indication to make a profit may indicate a trading item*
-                      - Supplementary work and marketing
-                        - *additional work undertaken on the items to make them more marketable may indicate trading*
-                      - Method of acquisition
-                        - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
-                  - Basis of assessment
-                    - Opening Year Rules
-                    - CYB: current year basis
-                    - Period of Account
-                    - Period Assessed
-                    - Ongoing business rules
-                    - Change of accounting date
-                    - Closing year rules
-                  - Adjustment of the accounting profit
-                  - Tax adjustedd trading profit
-                    - Net product per accounts
-                      - ADD
-                        - Disallowed expenditure
-                        - Taxable trading income not included in accounts
-                        - ...
-                      - LESS
-                        - Income included within the accounts but not taxable as trading income
-                        - Expenditure not in the accounts but allowable as a trading deduction
-                        - Capital allowances
-                        - ...
-                      - Tax adjusted trading profit
-                  - Disallowable expenditure
-                    - _meta
-                      - _instance
-                        - Capital expenditure
-                        - Depreciation or amortization charges
-                        - Appropriation(withdrawl) of funds from the business by the sole trader
-                        - Excessive salary paid to a sole trader's family member
-                        - 3rd party entertaining(note that employee entertaining is allowable)
-                        - The write off a non-trade debt
-                        - Subscriptions that are not related to the trade
-                        - Gifts to customers are disallowable
-                          - _meta
-                            - _exception
-                              - cost less than ￡50 per recipient per year
-                              - The gift is not food, drink, or tobacco
-                - Capital Allowances
-                  - _meta
-                    - _self
-                      - *Capital allowances are tax allowable amounts that are calculated according to set specific rules*
-                  - *Depreciation is an accounting adjustment*
-                  - Plant and Machinery(P&M)
-                    - _meta
-                      - _instance
-                        - Machinery, Vehicles(cars and lorries), Computers(hardware and software)
-                        - Office furniture and equipment, Moveable partitioning
-                      - Writing Down Allowance(WDA)
-                      - Annual Investment Allowance(AIA)
-                      - Motor cars
-                        - purchased on or after 6 April 2009
-                        - purchased before 6 April 2009
-                      - Private use assets
-                        - *for sole traders*
-                        - *companies never have private use assets as they are not suppose to have them in the first place*
-                      - Special Rate Pool
-                - Trading Losses(For sole traders)
-                  - Carry forward of trading loss
-                  - Offset of loss against total income
-                  - Relieving trading losses against chargeable gains
-                  - Offset of opening year loss against total income: FIFO
-                  - Offset of terminal loss against previous trading profits: LIFO
-                - Trading Income(For Partnership)
-                  - Loss relief in partnerships
-                  - Furnished holiday lettings(FHL)
-                - Property income
-                  - Property business profits
-                    - Accruals
-                  - Premiums received on the grant of a short lease
-                  - Rent a room relief
-                - Investment Income
-                  - HMRC
-                - Rate of tax on savings income
-                - Dividend Income
-                  - *Go-on-top* Style
-                - Pensions
-                  - Pension schemes
-                    - Occupational pension schemes(certain employees)
-                    - Personal pension schemes(employees, sold traders, and unemployed)
-                  - Method of obtaining relief
-                    - Occupational pension Income
-                    - Personal pension scheme
-                      - Basic rate tax relief
-                      - Higher rate tax relief
-                - National Insurance Contributions(NIC)
-              - Corporation Tax
-                - _key-practice-point
-                  - Corporate tax computation
-                    - Profits below the lower limit
-                    - Profits above the upper limit
-                    - Profits in the marginal relief band
-                      - Short accounting periods
-                      - Associated companies
-                      - Accounting periods that are in the edge zone
-                    - Trading losses
-                      - s393(1) ICTA 1988: Carry forward the loss to offset against future trading income of the same trade
-                      - s393A ICTA 1988: Offset of current year trading loss against current year total profit(before deduction of gift aid)
-                      - *If a current year loss offset has been made and there are losses remaining, unused losses can be carried back and offset against total profits(before deduction of gift aid) of the previous 12 months*
-                - Context field
-                  - Period of account
-                  - Accounting Period
-                  - Profits chargeable to corporation tax(PCTCT)
-                  - "Profits" = PCTCT + Franked Investment Income(FII)
-                  - FII = Gross dividends received from non associated companies
-                - Discernment field
-                  - Trading Income
-                    - *mainly the same*
-                    - Differences
-                      - No private use asset adjustments, taxed on the employees via the benefit on private use
-                  - Property Income
-                    - Assessed according to the company's accounting period while individual --> tax year
-                    - *Interest on a loan acquired to purchase or improve an investment property is treated under the loan relationship rules unlike individuals who can treat it as a deduction from property Income*
-                  - Interest Income
-                    - Bank interet received in gross with no tax withheld(individual with bank interest net of 20% tax)
-                  - Dividend income
-                    - Not included in PCTCT
-                  - Chargeable gains
-                    - Corporate
-                      - \* Pro forma
-                      - Pay corporation tax on chargeable gains(i.e. the gains are part of PCTCT)
-                      - No annual exemtion
-                      - Indexation Allowance(IA) = $cost_asset \times RPI\_ movement$
-                        - [MBA | Indexation](https://wiki.mbalib.com/zh-tw/%E6%8C%87%E6%95%B0%E5%8C%96)
-                      - Share matching rules
-                    - individual
-                      - Pay Capital Gains Tax(CGT) on the gains and not income tax on the gains
-                      - Annual exemtion
-                      - No Indexation Allowance
-                      - capital gain tax
-                      - Share matching rules
-                  - Gift Aid
-                    - Corporate
-                      - Deducted in PCTCT
-                    - individual
-                      - Extend the basic rate band
-                - Corporate Tax Computation
-                  - Trading profits
-                  - Property Income
-                  - Interest Income
-                  - Chargeable gains
-                - Corporate Groups and Overseas Tax Issues
-                  - Corporate Groups
-                    - Associated companies
-                      - _meta
-                        - definition
-                        - implication
-                    - Group loss relief group
-                      - _meta
-                        - definition
-                        - implication
-                  - Overseas Tax Issues
-                    - AHA! *Overseas dividend income is exempt from UK corporation tax*
-                    - Double Tax Relief(DTR)
-                - Value Added Tax(VAT)
-                  - Taxable Person
-                  - Taxable Supply
-                  - Input VAT
-                  - Output VAT
-                  - ?
-                    - Standard rated Supplies
-                    - Zero rated Supplies
-                    - Exempt supplies
-                  - **VAT Registrations requirements**
-                  - Pre-registration expenses
-                  - Tax point
-                  - VAT relief for bad debts
+            - _motivation
+              - Put to Startup arsenal
+            - [ACCA - Global](https://www.accaglobal.com/hk/en.html)
         - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
           - Videomark: 31:40/31:40
           - CCS: 48.5%
@@ -1409,14 +1149,68 @@
       - Stanford CS224W
         - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
           - CCS: 15%
-          - Videomark: 17:30/27:09
+          - Videomark: 23:06/27:09
           - ?
             -  SVM, Regression
+         - [ ] **MAJOR BLOCKAGE**
+           - [ ] Regain Linear Algebra Intuition with the MOST **COST-EFFECTIVE** and **FORWARD/BACKWARD COMPATIBLE** methods
+             - CONCURRENT Pedant's ransack
+              - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Linear Algebra`
+                - Advanced engineering mathematics - Erwin kreyszig
+                  - _inbound
+                    - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
+                    - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+                  - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                    - Struct pointer
+                    - bookSweepPointer
+                    - linearAlgebraIntuitionRegainPointer: customizedPointer
+                      - _goal
+                        - *Regain Linear Algebra Intuition*
+                      - _relationship
+                        - _prerequisite
+                        - _enablement
+                          - Numeric linear algebra
+                      - _range: 281/1283~?
+                      - _subpointers
+                        - linearAlgebraIntuitionRegainSweepPointer: 281/?
+                        - linearAlgebraIntuitionRegainProblemSolvingPointers
+                          - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
+                            - _note
+                              - *Problem x, y z are good practice materials, others are purely trash and can be omitted*
+                          - linearAlgebraIntuitionRegainProblemSolving\[Section Dummy\]Pointer: ?
+                      - _metrics
+                        - perceivedComprehensiveInternalizationLevel
+                          - *Need specification*
+                      - On-the-fly Brain game
+              - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Discrete Mathematics`
+                - Discrete mathematics
+                  - _inbound
+                      - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+                      - Discrete Mathematics for computer science students
+                        - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
+                          - Progress: 14/344
+                            - Visualizing process
+                  - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                    - Struct pointer
+                    - bookSweepPointer
+             - **Visualization-Procedure-Literacy Confluence**
+               - 3blue1brown
+                 - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
+               - Discrete Mathematics Confluence 
+             - Linear Algebra Example Problems
+               - _macro
+                 - BFS
+               - [ ] [Linear Algebra Example Problems - Intersecting Lines](https://www.youtube.com/watch?v=Fg6B01vEN3U&list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
           - INBOUND CACHE
             - Basics & Prerequisites
               - Coding
                 - Pagerank
+                  - CURIOSITY_CACHE
+                    - [PageRank algorithm, fully explained](https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af)
                   - Matrix factorization
+                  - ?
+                    - The stationary distribution
+                    - Eigenvector Formulation
                 - Shallow Encoding
                   - [DeepWalk](https://github.com/phanein/deepwalk)
                     - PROCESSING POINTER FIELD
@@ -1731,9 +1525,9 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 87.4%
+          - CCS: 91.2%
           - TEMP TIMESTAMP
-          - ETC: 0.42 months
+          - ETC: 9d
           - STATIC
             - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
           - INBOUND CACHE
@@ -1795,13 +1589,36 @@
     - Data Structure & Algorithm
     - Competitive Programming
       - _manual-control-override
-        - Advanced React and Redux
-        - [Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8)
-          - Videomark: 1:54
-          - Self-sales-pitch: **Double subtitle hackathon! Improving German when accidentally honing Next.js and learning Firebase, what are you waiting for?**
+        - **BLACKHOLE**
+          - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
+            - CCS: 0.4%
+            - _state
+              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
+          - Advanced React and Redux
+          - [Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8)
+            - Videomark: 5:00
+            - _motivation
+              - *Duh*
+            - Next.js Cerebral-Muscular Stimulation
+              - PROCESSING_POINTER_FIELD
+                - Documentation
+                  - Next.js
+                  - Nest.js
+                - REDACTED FIELD
+                  - _schema
+                    - `this.inherit(GENERIC_BLACKBOX_DESCRIPTOR)`
+          - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
+            - CCS: 0.9%
+            - _state
+              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
+          - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
+            - CCS: 0.9%
+            - _state
+              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 57.6%
-          - E.T.A: 0.53 months
+          - CCS: 62.7%
+          - E.T.A: 1.77 months
+          - TEMP_TIMESTAMP: 4
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1904,7 +1721,7 @@
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 15.8%
-        - E.T.A: 7.08 month + 14d
+        - E.T.A: 7.08 month + 2d
         - TEMP_TIMESTAMP: 1
         - ?
           - _source
@@ -1929,10 +1746,19 @@
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
           - [ ] In-depth understanding of TCP & UDP
-            - [ ] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-              - Videomark: 4:09/1:01:09
-              - CCS: 6.5%
-              - E.T.A: 14d
+              - [ ] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
+              - Videomark: 35:40/1:01:09
+              - CCS: 50%
+              - E.T.A: 2d
+              - Intuition
+                - Guesswork
+                  - TTL
+                  - Hops
+              - Enhancement
+                - Multi-point debugging
+              - Tooling
+                - [X] Wireshark
+                  - [ ] OPTIONAL Show Delta Time
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -1954,11 +1780,11 @@
         - [Metrics](https://openpsychometrics.org/)
     - MK toolkit
       - Co-ordinated Collusion
-  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
-    - CCS: 20.5%
+  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{5 minuti per quei\}** 
+    - CCS: 20.8%
     - E.T.A: 2.33 months
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 10
+    - TEMP TIMESTAMP: 11:30
     - _prerequisite
       - How to identify a problem to solve?
         - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
@@ -2191,13 +2017,17 @@
     - Restarted on 2022/6/7
   - TOPIC: Copywriting
   - TOPIC: WTF?
+    - [Deep Dive on AWS CloudFormation](https://www.youtube.com/watch?v=KXUsyApAI3Y)
+      - Videosweepmark: 5:30/47:48
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 42.2%
-      - E.T.A: 2.75 months
+      - CCS: 43.2%
+      - E.T.A: 4.73 months
       - TEMP_TIMESTAMP
-      - BLOCKAGE --> To `WTF-tree --> AWS` 
+      - Hands-On ACTIVE
+        - [ ] Image Processing
+      - [x] BLOCKAGE --> To `WTF-tree --> AWS` 
         - [x] Permission problem
           - Symptom
             - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
@@ -2209,13 +2039,23 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
-  - `ERROR: InternalConductIntegrityException: Duration attribute of ConductName-ItalianStudy exceeds the internal integrity threshold`
+  - [x] `ERROR: InternalConductIntegrityException: Duration attribute of ConductName-ItalianStudy exceeds the internal integrity threshold`
+    - RESOLVED *Valid argument, time invested reduced by 5 min*
+    - REMOVE ON NEXT CLK
+  - [x] `ERROR: InternalConductIntegrityException: NatureOfAction attribute of ConductName-GermanStudy contradicts with current conduct item CS224W.__unknown_depth_.linearAlgebra.* - Item does not reflect "Accidentally learning something new while focusing on improving German"`
+    - Resolution(TEMP): Suspend process for 15 days
+    - TTL: 14d
+  - [x] `ERROR: InternalConductIntegrityException: NatureOfAction attribute of ConductName-EnglishStudy contradicts with current conduct item Money.__unknown_depth_.dayTrading.* - Item does not reflect "Accidentally learning something new while focusing on improving English"`
+    - [x] RESOLVED: *Invalid argument, no actions will be taken and error will be marked as resolved and will be deleted in 3 days*
+    - TTL: 3d
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
         - German: \[Inaudible\] ERROR: Too many data points
           - Require upgrade on `INTERNAL_INTUITION`
       - Time consumption
+        - English
+          - IV: 
         - Italian
           - IV: 28:53
           - MA_5: 28:53 + ...\{4\}
@@ -2361,7 +2201,7 @@
     - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
     - Мультфильмы Серия - Kids Cartoons
       - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 24:40
+        - Videomark: 30:30
         - VOCAB\_FIELD \{5\}
           - _meta
             - tooling: Reverso + wiktionary + Russiangram
@@ -2378,28 +2218,38 @@
           - STATIC
             - INBOUND_CACHE
               - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 70%
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 92%
                   - _state
                     - COLD_TURKEY: False
-                  - Personal pronouns | **THRESHOLD LEVEL 1** - 85%
-                    - `self.metaDigging(LEVEL=1)` | 82%
+                  - Personal pronouns | **THRESHOLD LEVEL 1** - 99%
+                    - `self.metaDigging(LEVEL=1)` | 99%
                       - _entity
                         - `categorize(self)`
                       - _method
-                        - `activeRecall(self)` | 90%
-                  - Possessive pronouns | 80%
-                    - _memory-helper
-                      - _tracker
-                        - Depth 1 Percentage: 90%
-                        - Depth 2 Percentage: 30%
-                      - Categorize
-                        - Group 1 - мой, твой
-                          - Group 1.A - Мужского и Средний род
-                          - Group 1.B - Женского: -ей
-                          - Group 1.C - Множественное число
-                        - Group 2 - егó, их, её
-                        - Group 3 - наш, ваш
-                  - Demonstrative pronouns | 95%
+                        - `activeRecall(self)` | 99%
+                  - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
+                    - `self.metaDigging(LEVEL=1)` | 92%
+                      - _entity
+                        - `categorize(self)` | 100%
+                          - _state: DEPRECATED
+                          - Group 1 - мой, твой
+                            - Group 1.A - Мужского и Средний род
+                            - Group 1.B - Женского: -ей
+                            - Group 1.C - Множественное число
+                          - Group 2 - егó, их, её
+                          - Group 3 - наш, ваш
+                      - _method
+                        - `activeRecall(self)` | 30%
+                  - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 2%
+                    - `self.metaDigging(LEVEL=1)` | 0%
+                      - _entity
+                        - `categorize(self)`
+                      - _method
+                        - `activeRecall(self)` | 0%
+                  - Reflective Pronoun
+                    - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
+                  - Reflexive Possessive Pronoun
+                    - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
                 - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
             - **частица**
               - же - 70%
@@ -2431,19 +2281,20 @@
             - _method
               - `unlockStaticColdTurkey(self, *args, **kwargs)`
             - **глагол**
-              - помочь - 100%
-              - измеряться - 80%
-              - понадеяться - 60%
-              - управлять - 40%
-              - говорить
-              - вырастить
-              - наслать        
+              - измеряться - 100%
+              - понадеяться - 70%
+              - управлять - 60%
+              - говорить - 80%
+              - вырастить - 50%
+              - наслать
             - **прилагательное**
-              - художественный - 90%
               - сложный
               - безошибочный
-              - высокий              
+              - действительный
+              - высокий - 20%
             - **наречие**
+              - ?
+                - лучше
             - **существительное**
               - сердце - 90%
             - INBOUND CACHE
@@ -2505,21 +2356,30 @@
       - _inherit
         - `ROOT_PROCESSING`
     - STATIC | PPROCESSING\_CAPACITY 1
-      - `language.meta.pronciation.callibrate()`
-        - [30 Minutes of Greek Conversation Practice - Improve Speaking Skills](https://www.youtube.com/watch?v=Zl9yikUdW1k)
-          - PROCESSING_POINTER_FIELD: PPF
-            - Videomark: 8:50/27:55
-            - *Maybe opting out, pronounciation only requires verification, which is done already*
+      - _methods
+        - `language.meta.pronounciation.callibrate()`
       - **ερωτηματικός**
         - _mutation
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 16%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 17%
           - Personal Pronouns in Greek | 35%
             - Subject
-              - Core Table | 70%
+              - Core Table | 72%
               - Examples | 25%
+                - VOLATILE SCOPED
+                  - _hook
+                    - `destroyOnComplete()`
+                  - ?
+                    - μένουμε
+                    - μένετε
+                    - ξενοδοχείο
+                      - [ΠΗΓΑΜΕ ΣΤΟ ΧΕΙΡΟΤΕΡΟ ΞΕΝΟΔΟΧΕΙΟ ΤΗΣ ΒΟΥΛΓΑΡΙΑΣ ! | ΦΙΛΙΠΠΟΥΠΟΛΗ @Konilo](https://www.youtube.com/watch?v=EuvRr_681bo)
+                        - Videosweepmark: 1:10/23:30
+                        - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
+                  - **ουσιαστικό**
+                    - ξενοδοχείο | 5%
             - Object
               - Core Table | 40%
               - Examples | 20%
@@ -2547,13 +2407,21 @@
         - _meta
       - INBOUND CACHE ?
         - **ρήμα**
-          - αντιμετωπίζω | 5%
+          - αντιμετωπίζω | 10%
+            - [ΗΛΙΑΣΗ! Πώς την αντιμετωπίζω;](https://www.youtube.com/watch?v=FTkjftR5c2Y)
+              - Videosweepmark: 4:00/12:25
+              - Language Pair: German
+            - Conjugation Meta | 10%
+              - Conjugation Table | 10%
+              - Conjugation Examples | 4%
           - σχεδιάζω
           - ξέρω
+          - μένω
         - **επίθετο**
           - πραγματικός
         - **ουσιαστικό**
           - άξονας
+          - ξενοδοχείο
         - **επίρρημα**
         - **χωρίς κατηγοριοποίηση**
           - συντεταγμένη
@@ -2563,7 +2431,9 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 40:10/11:40:18
+        - Videomark: 41:10/11:40:18
+        - Bookpair: TBD
+        - Problem Solving Set Pair: TBD
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta

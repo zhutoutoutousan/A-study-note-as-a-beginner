@@ -1,38 +1,29 @@
 {
   "main": {
-    "id": "83012b86eefc2692",
+    "id": "32700c45a217b632",
     "type": "split",
     "children": [
       {
-        "id": "1cb90a83da1ec85c",
+        "id": "113ab64ae998111b",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
           "type": "empty",
           "state": {}
-=======
-          "type": "markdown",
-          "state": {
-            "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
-            "mode": "source",
-            "source": false
-          }
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5c11a89406b90760",
+    "id": "ad50bed143c1e5fb",
     "type": "split",
     "children": [
       {
-        "id": "a27ec2a460aecbeb",
+        "id": "6b9473246ad9a6af",
         "type": "tabs",
         "children": [
           {
-            "id": "c437de31696868f8",
+            "id": "c9e52909446fd56f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,16 +31,12 @@
             }
           },
           {
-            "id": "35edb6d52327d26e",
+            "id": "1d2f10d798166d48",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-                "query": "file:soa",
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +46,7 @@
             }
           },
           {
-            "id": "b5a4a4ab6bb2a509",
+            "id": "2947a93cd58cd8c8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,23 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "3756959cbdcef449",
+    "id": "50877f0d0d02b852",
     "type": "split",
     "children": [
       {
-        "id": "a71b90963cdf8a78",
+        "id": "27799a84c3c730f1",
         "type": "tabs",
         "children": [
           {
-            "id": "a639a84576e96e63",
+            "id": "23e4ff5f6ab5983a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,36 +84,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "044e213269dc9aed",
-=======
-            "id": "80441061205182cb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md"
-              }
-            }
-          },
-          {
-            "id": "722780076d0f3df7",
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
+            "id": "1e3eca69be9639dc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c0d62096b38468f3",
+            "id": "02a2e7aba25fdcb8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +106,7 @@
             }
           },
           {
-            "id": "7534060217ba006c",
+            "id": "1c94e9e288237e9f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -149,7 +114,7 @@
             }
           },
           {
-            "id": "7283eda74da2ed8e",
+            "id": "6040a6087d91dbb2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -157,7 +122,7 @@
             }
           },
           {
-            "id": "a209662146303772",
+            "id": "676a3037737bc5f9",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -171,22 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "a209662146303772",
+  "active": "676a3037737bc5f9",
   "lastOpenFiles": []
-=======
-  "active": "a22d280a1431f136",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "software/_log/log-SW-Cloud_AWS-SOA_sprint.md",
-    "self/log_overall-306_840.md",
-    "self/log_overall-305_840.md",
-    "__IDEA__boring-housing-estate.md",
-    "software/foundations-and-supports/_index_software_foundations-and-supports.md",
-    "neuroengineering/_log/_log-NE-ns.md",
-    "202204051716.md",
-    "academic-engineering/_log/_log-AE-training.md",
-    "_ENTRY.md"
-  ]
->>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
 }

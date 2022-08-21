@@ -13,7 +13,7 @@
   - 剪映
     - _resource
       - [免費影片剪輯軟體！新手也能輕鬆學會用電腦剪片！一步一步教你如何做出自己的作品！剪接、配樂、變速、轉場、音量調整、自動上字幕等多種強大功能！適合新手使用的剪映電腦版！【剪映教學分享EP1】](https://www.youtube.com/watch?v=Ke43EELMDlM)
-        - Videosweepmark: 1:46
+        - Videosweepmark: 10:00
       - [教学妈妈2021｜剪映电脑专业版2.0教学｜智能抠像教学｜把移动文字放在人像背后｜穿越手机荧幕效果｜穿越文字的视觉效果｜更换背景｜jianying tutorial](https://www.youtube.com/watch?v=afsab27NMVk)
       - [神仙剪輯軟件藏不住了：6步快速入門 剪映電腦版 教學大公開！ ｜ 影片製作 ｜ 剪辑教学](https://www.youtube.com/watch?v=eF-v7sFA_Pg)
     - _blockage_tree

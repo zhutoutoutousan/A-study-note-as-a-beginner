@@ -1,5 +1,6 @@
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
+- The Innovator's Dilemma
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
 - [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
 - The Goal E.M.Goldratt
@@ -121,12 +122,20 @@
               - *Too OG for professeures*
               - *Primitive social-economic manifestation for Bourgeoisie and above is out of scope for now*
           - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A)
-          - [The Trading Channel - Daily Dose | Studys Show 96% Of New Traders Will Fail Because Of This One Thing...](https://www.youtube.com/watch?v=G05Ma9i2GAI&t=118s)
-            - Videosweepmark: 11:40
+          - [Complete TradingView Tutorial - 2022 Edition](https://www.youtube.com/watch?v=Vtrswz8TNks)
+          - ECON 251
+            - [1. Why Finance?](https://www.youtube.com/watch?v=vTs2IQ8OefQ&list=PL3F00F1C2D402D45C)
+          - QT
+            - [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=99s)
+              - Videosweepmark: 9:30/4:33:02
+            - JQ
+              - [JQ](https://www.joinquant.com/)
+          - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=G05Ma9i2GAI&t=118s)
+            - Videosweepmark: 5:55
             - _motivation
               - *A startup needs (have good eyes to hire) a competent investo-guy*
-            - _state
-              - Current Langauge Shuffle: Basa Jawa
+            - _state  
+              - Current Langauge Shuffle: български език
                 - _meta:escalate
                   - **In here, the secret of learning and communicating with aliens may be revealed**
                   - *Fundamentals to understand an alien language: What to do in desparate situations*
@@ -153,6 +162,7 @@
                     - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
                   - Risk Capital
                   - Risk Per Trade
+                  - Overall Risk Exposure
               - Trading Tools
                 - View
                   - Candle
@@ -206,10 +216,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F7: Introduction to the Paper Part 2](https://www.youtube.com/watch?v=-tQcXrfZCLM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=136)
-          - Videosweepmark: 1:35/7:56
-          - CCS: 77.7%
-          - ETC: 1.23 months
+        - [LSBF ACCA F7: Income Statement Question Debrief with Francis Braganza Part 1](https://www.youtube.com/watch?v=mrBiG2By-nM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=139)
+          - Videosweepmark: 2:50
+          - CCS: 79.4%
+          - ETC: 29d
           - ?
             - CONVOLUTION | Conceptual Framework
           - CONVOLUTION | Actual Exam Readiness
@@ -1142,337 +1152,338 @@
         - The Royal Institution
     - Quantum Computing Hands-on
       - _source
-    - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
-      - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
-        - PROCESSING POINTER FIELD
-          - Videomark: 10:00
-      - Stanford CS224W
-        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
-          - CCS: 15%
-          - Videomark: 23:06/27:09
-          - ?
-            -  SVM, Regression
-         - [ ] **MAJOR BLOCKAGE**
-           - [ ] Regain Linear Algebra Intuition with the MOST **COST-EFFECTIVE** and **FORWARD/BACKWARD COMPATIBLE** methods
-             - CONCURRENT Pedant's ransack
-              - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Linear Algebra`
-                - Advanced engineering mathematics - Erwin kreyszig
-                  - _inbound
-                    - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
-                    - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
-                  - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                    - Struct pointer
-                    - bookSweepPointer
-                    - linearAlgebraIntuitionRegainPointer: customizedPointer
-                      - _goal
-                        - *Regain Linear Algebra Intuition*
-                      - _relationship
-                        - _prerequisite
-                        - _enablement
-                          - Numeric linear algebra
-                      - _range: 281/1283~?
-                      - _subpointers
-                        - linearAlgebraIntuitionRegainSweepPointer: 281/?
-                        - linearAlgebraIntuitionRegainProblemSolvingPointers
-                          - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
-                            - _note
-                              - *Problem x, y z are good practice materials, others are purely trash and can be omitted*
-                          - linearAlgebraIntuitionRegainProblemSolving\[Section Dummy\]Pointer: ?
-                      - _metrics
-                        - perceivedComprehensiveInternalizationLevel
-                          - *Need specification*
-                      - On-the-fly Brain game
-              - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Discrete Mathematics`
-                - Discrete mathematics
-                  - _inbound
-                      - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-                      - Discrete Mathematics for computer science students
-                        - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
-                          - Progress: 14/344
-                            - Visualizing process
-                  - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                    - Struct pointer
-                    - bookSweepPointer
-             - **Visualization-Procedure-Literacy Confluence**
-               - 3blue1brown
-                 - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
-               - Discrete Mathematics Confluence 
-             - Linear Algebra Example Problems
-               - _macro
-                 - BFS
-               - [ ] [Linear Algebra Example Problems - Intersecting Lines](https://www.youtube.com/watch?v=Fg6B01vEN3U&list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
-          - INBOUND CACHE
-            - Basics & Prerequisites
-              - Coding
-                - Pagerank
-                  - CURIOSITY_CACHE
-                    - [PageRank algorithm, fully explained](https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af)
-                  - Matrix factorization
-                  - ?
-                    - The stationary distribution
-                    - Eigenvector Formulation
-                - Shallow Encoding
-                  - [DeepWalk](https://github.com/phanein/deepwalk)
-                    - PROCESSING POINTER FIELD
-                      - _meta-escalate
-                        - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace(PRCOESSING_POTINER_FIELD__CODEBASE)`
-                      - _temp
-                        - Active Documents
-                          - Frequency Tier 1
-                            - [venv](https://docs.python.org/3/library/venv.html)
-                          - Frequency Tier 2
-                          - Frequency Tier 3
-                      - Codemarksequence
-                        - [x] Local: `deepwalk`
-                        - [ ] Basic Usage
-                          - [ ] Setup V_ENV for Python
-                        - [ ] Explore Usage
-                      - Codeskimming
-                        - Prerequisites | 2%
-                        - Syntax
-                        - Structural
-                  - [node2vec](https://github.com/aditya-grover/node2vec)
-              - Embedding
-                - [Wiki](https://en.wikipedia.org/wiki/Embedding)
-                - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
-                  - _meta
-                    - _parent
-                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
-                        - PROCESSING POINTER FIELD
-                          - currentPointer: `currentLink`
-                - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
-                  - PROCESSING_POINTER_FIELD
-                    - Videosweepmark: 2
-                - ?
-                  - Random Walk
-                    - _difficult
-                      - Random Walk Optimization: Negative sampling
-                        - Rigor
-                          - $\mathcal{L} = \sum_{u\isin V} \sum_{v\isin{N_R(u)}} -log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}})$
-                          - $log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}}) \approx log(\sigma(z_{u}^T z_v)) - \sum_{i=1}^k  log(\sigma(z_{u}^{T} z_{n_i})), n_i \sim P_V$
-                            - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)
-                            - CURIOSITY OUTREACH DEPTH LIMIT | 3 && FLAT
-                              - Stochastic gradient descent
-                                - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
-                                - [The Unreasonable Effectiveness of Stochastic Gradient Descent (in 3 minutes)](https://www.youtube.com/watch?v=UmathvAKj80)
-                        - **BLOCKAGE**: `lackOfContextException` Your friend *Brain* has left the chat
-                          - [What is a Random Walk? | Infinite Series](https://www.youtube.com/watch?v=stgYW6M5o4k)
-                          - [Negative Sampling](https://www.youtube.com/watch?v=4PXILCmVK4Q)
-                    - _self
-                      - Use Cases
-                        - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
-                        - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
-                  - Learn Walk Embeddings
-                    - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
-                - ?
-                  - RESOURCE POINTER FIELD
-                    - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
-                      - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                        - Struct pointer: 3-4
-                        - bookSweepPointer: 4/137
-                - _meta
-                  - _unknown_depth_parent
-                    - General Topology
-                      - RESOURCE POINTER FIELD
-                        - ASYNC MIRRORED | `erudition-M/Topology for the working mathematician`
-                          - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                            - Struct pointer: 3-9
-                            - bookSweepPointer: 11/459
-                          - Supplementary problem solving
-                            - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
-                              - DEPRECATED Videosweepmark: 2:32/8:26
-                            - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
+    - BLACKHOLE | On DE-FROST
+      - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
+        - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
+          - PROCESSING POINTER FIELD
+            - Videomark: 10:00
+        - Stanford CS224W
+          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
+            - CCS: 15%
+            - Videomark: 23:06/27:09
             - ?
-              - Graph Representation Learning
-                - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
-                  - _meta
-                    - Academic writing technique
-                  - _schema
-                    - _reference
-                    - _prerequisite
-                    - _profiles
-                  - PROCESSING POINTER FIELD
-                    - Papersweepmark: 1/10
-            - `? --> Mathematics - Graph Theory | INBOUND CACHE`
-              - _meta
-                - CONSTANTS _schema_var
-                  - `$1`
-                    - _schema
-                      - Formula
-                      - Sub-elements
-                      - Relationship
-                      - Use cases
-                      - Syntax
-                  - _meta-escalate
-                    - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
-                    - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
-              - ?
-                - NP-hardness
-                  - _actions
-                    - SEQUENTIAL Create `SPACE` for *Computational complexity theory* if not exists, push to `{SPACE}.INBOUND_CACHE`
-                    - CONCURRENT Create `CONSTANT_SPACE` for proven theorems and push to `{CONSTANT_SPACE}.INBOUND_CACHE | {ACADEMIA}.arsenal`
-                  - Computational complexity theory
-                    - _erudition
-                      - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
-                        - PROCESSING POINTER FIELD
-                          - STRUCT FIELD: 5-16
-                            - _meta
-                              - STRUCT_TYPE
-                                - BOOK_CONTENTS
-                                  - _meta
-                                    - INNER_STRUCT_TYPE
-                                      - Canonical Plan of Attack
-                                        - `searchRootProcessing(_this)`
-                                  - Canonical Plan of Attack
-                                    - `searchRootProcessing(_this)`
-                          - Booksweepmark: 8/562
-                        - RTFM FIELD
-                          - Renormalization
-                        - PROFILE FIELD
-                          - Hugh Everett
-                        - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
-                          - _meta
-                            - Capacity
-                          - _method
-                            - `detachOnThresholdReached`
-                          - Shor's algorithm
-                            - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
-                            - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
-                              - PROCESSING POINTER FIELD
-                                - Videosweepmark: 5:13/31:17
-                              - CURIOSITY OUTREACH FIELD | CAPACITY 1 DEPTH 1
-                                - Bell's theorem
-                              - CURIOSITY OUTREACH FIELD CACHE
-                                - EPR Paradox
-              - ?
-                - Node embedding
-                  - Zachary's Karate Club network
-                - ??
-                  - ?: Bag-of-colors, efficient way
-                    - Weisfeiler-Lehman Kernel
-                      - Color aggregation
-                      - _relationship
-                        - Graph Neural Networks
-                      - ?
-                        - *K-hop*
-                    - Graphlet Kernel
-                - Methods
-                  - Kernel Methods
-                    - Graph Kernel
-                      - _meta
-                        - goal
-                          - Design graph feature vector $\phi (G)$
-                        - Key Idea: Bag-of-Words(BoW) for a graph
-                      - Graphlet Kernel
-                      - Weisfeiler-Lehman Kernel
-                      - _proto
-                        - `expandInstance(origin)`
-                    - _supplement
-                      - Stanford CS229
-                        - [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
+              -  SVM, Regression
+           - [ ] **MAJOR BLOCKAGE**
+             - [ ] Regain Linear Algebra Intuition with the MOST **COST-EFFECTIVE** and **FORWARD/BACKWARD COMPATIBLE** methods
+               - CONCURRENT Pedant's ransack
+                - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Linear Algebra`
+                  - Advanced engineering mathematics - Erwin kreyszig
+                    - _inbound
+                      - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
+                      - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+                    - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                      - Struct pointer
+                      - bookSweepPointer
+                      - linearAlgebraIntuitionRegainPointer: customizedPointer
+                        - _goal
+                          - *Regain Linear Algebra Intuition*
+                        - _relationship
+                          - _prerequisite
+                          - _enablement
+                            - Numeric linear algebra
+                        - _range: 281/1283~?
+                        - _subpointers
+                          - linearAlgebraIntuitionRegainSweepPointer: 281/?
+                          - linearAlgebraIntuitionRegainProblemSolvingPointers
+                            - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
+                              - _note
+                                - *Problem x, y z are good practice materials, others are purely trash and can be omitted*
+                            - linearAlgebraIntuitionRegainProblemSolving\[Section Dummy\]Pointer: ?
+                        - _metrics
+                          - perceivedComprehensiveInternalizationLevel
+                            - *Need specification*
+                        - On-the-fly Brain game
+                - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Discrete Mathematics`
+                  - Discrete mathematics
+                    - _inbound
+                        - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+                        - Discrete Mathematics for computer science students
+                          - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
+                            - Progress: 14/344
+                              - Visualizing process
+                    - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                      - Struct pointer
+                      - bookSweepPointer
+               - **Visualization-Procedure-Literacy Confluence**
+                 - 3blue1brown
+                   - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
+                 - Discrete Mathematics Confluence 
+               - Linear Algebra Example Problems
+                 - _macro
+                   - BFS
+                 - [ ] [Linear Algebra Example Problems - Intersecting Lines](https://www.youtube.com/watch?v=Fg6B01vEN3U&list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
+            - INBOUND CACHE
+              - Basics & Prerequisites
+                - Coding
+                  - Pagerank
+                    - CURIOSITY_CACHE
+                      - [PageRank algorithm, fully explained](https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af)
+                    - Matrix factorization
+                    - ?
+                      - The stationary distribution
+                      - Eigenvector Formulation
+                  - Shallow Encoding
+                    - [DeepWalk](https://github.com/phanein/deepwalk)
+                      - PROCESSING POINTER FIELD
+                        - _meta-escalate
+                          - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace(PRCOESSING_POTINER_FIELD__CODEBASE)`
+                        - _temp
+                          - Active Documents
+                            - Frequency Tier 1
+                              - [venv](https://docs.python.org/3/library/venv.html)
+                            - Frequency Tier 2
+                            - Frequency Tier 3
+                        - Codemarksequence
+                          - [x] Local: `deepwalk`
+                          - [ ] Basic Usage
+                            - [ ] Setup V_ENV for Python
+                          - [ ] Explore Usage
+                        - Codeskimming
+                          - Prerequisites | 2%
+                          - Syntax
+                          - Structural
+                    - [node2vec](https://github.com/aditya-grover/node2vec)
+                - Embedding
+                  - [Wiki](https://en.wikipedia.org/wiki/Embedding)
+                  - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
+                    - _meta
+                      - _parent
+                        - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
                           - PROCESSING POINTER FIELD
-                            - Videomark
-                - Tasks
-                  - Link-Level Prediction Task
-                    - Links missing at random
-                    - Links over time
-                      - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
-                      - Evaluation
-                        - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
-                        - The top *n* elements of L and count correct edges
-                    - Link Prediction via Proximity
-                      - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
-                        - Videomark: 0:27/52:48
-              - Node Features
-                - Clustering Coefficient
-                  - _schema
-                    - INHERIT `$1`
-                - _category
-                  - Distance-Based Features
-                    - Shortest-path distance between two nodes
-                      - _method
-                        - Captures # neighboring nodes shared between two nodes $v_1$ and $v_2$
-                        - Computing #paths between two nodes
-                      - Common neighbors
-                      - Jaccard's coefficient
-                      - Adamic-Adar index
-                      - Katz index
-                        - _schema
-                          - INHERIT `$1`
-                        - Canonical
-                          - $S_{v_1 v_2} = \sum_{l=1}^{\infty} \beta^l A_{v_1 v_2}^l$
-                        - Closed-form
-                          - $S=\sum_{i=1}^{\infty} \beta^i A^i = (I - \beta A)^{-1} - I$
-                            - $(I - \beta A)^{-1} = \sum_{i=0}^{\infty} \beta^i A^i$ by geometric series of matrices
-                  - Importance-based features
-                    - _use-case
-                      - Predicting influential nodes in a graph
-                    - Node degree
-                    - Different node centrality measures
-                  - Structure-based features
-                    - _use-case
-                      - Predicting a particular role a node plays in a graph
-                    - Node degree
-                    - Clustering Coefficient
-                    - Graphlet count vector
-                  - Distance-based features
-                  - Local Neighborhood overlap
-                  - Global neighborhood overlap
-                - _relationship
-                  - RELATIONSHIP_PREREQUISITE GraphLet
-                    - _prerequisites
-                      - *Non-isomorphic graph*
-                        - _schema
-                          - INHERIT `$1`
-                      - *Subgraph*
-                        - _schema
-                          - INHERIT `$1`
+                            - currentPointer: `currentLink`
+                  - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                    - PROCESSING_POINTER_FIELD
+                      - Videosweepmark: 2
+                  - ?
+                    - Random Walk
+                      - _difficult
+                        - Random Walk Optimization: Negative sampling
+                          - Rigor
+                            - $\mathcal{L} = \sum_{u\isin V} \sum_{v\isin{N_R(u)}} -log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}})$
+                            - $log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}}) \approx log(\sigma(z_{u}^T z_v)) - \sum_{i=1}^k  log(\sigma(z_{u}^{T} z_{n_i})), n_i \sim P_V$
+                              - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)
+                              - CURIOSITY OUTREACH DEPTH LIMIT | 3 && FLAT
+                                - Stochastic gradient descent
+                                  - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
+                                  - [The Unreasonable Effectiveness of Stochastic Gradient Descent (in 3 minutes)](https://www.youtube.com/watch?v=UmathvAKj80)
+                          - **BLOCKAGE**: `lackOfContextException` Your friend *Brain* has left the chat
+                            - [What is a Random Walk? | Infinite Series](https://www.youtube.com/watch?v=stgYW6M5o4k)
+                            - [Negative Sampling](https://www.youtube.com/watch?v=4PXILCmVK4Q)
+                      - _self
+                        - Use Cases
+                          - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
+                          - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
+                    - Learn Walk Embeddings
+                      - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
+                  - ?
+                    - RESOURCE POINTER FIELD
+                      - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
+                        - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                          - Struct pointer: 3-4
+                          - bookSweepPointer: 4/137
+                  - _meta
+                    - _unknown_depth_parent
+                      - General Topology
+                        - RESOURCE POINTER FIELD
+                          - ASYNC MIRRORED | `erudition-M/Topology for the working mathematician`
+                            - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                              - Struct pointer: 3-9
+                              - bookSweepPointer: 11/459
+                            - Supplementary problem solving
+                              - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
+                                - DEPRECATED Videosweepmark: 2:32/8:26
+                              - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
+              - ?
+                - Graph Representation Learning
+                  - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
+                    - _meta
+                      - Academic writing technique
+                    - _schema
+                      - _reference
+                      - _prerequisite
+                      - _profiles
+                    - PROCESSING POINTER FIELD
+                      - Papersweepmark: 1/10
+              - `? --> Mathematics - Graph Theory | INBOUND CACHE`
+                - _meta
+                  - CONSTANTS _schema_var
+                    - `$1`
+                      - _schema
+                        - Formula
+                        - Sub-elements
+                        - Relationship
+                        - Use cases
+                        - Syntax
+                    - _meta-escalate
+                      - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
+                      - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
+                - ?
+                  - NP-hardness
+                    - _actions
+                      - SEQUENTIAL Create `SPACE` for *Computational complexity theory* if not exists, push to `{SPACE}.INBOUND_CACHE`
+                      - CONCURRENT Create `CONSTANT_SPACE` for proven theorems and push to `{CONSTANT_SPACE}.INBOUND_CACHE | {ACADEMIA}.arsenal`
+                    - Computational complexity theory
+                      - _erudition
+                        - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
+                          - PROCESSING POINTER FIELD
+                            - STRUCT FIELD: 5-16
+                              - _meta
+                                - STRUCT_TYPE
+                                  - BOOK_CONTENTS
+                                    - _meta
+                                      - INNER_STRUCT_TYPE
+                                        - Canonical Plan of Attack
+                                          - `searchRootProcessing(_this)`
+                                    - Canonical Plan of Attack
+                                      - `searchRootProcessing(_this)`
+                            - Booksweepmark: 8/562
+                          - RTFM FIELD
+                            - Renormalization
+                          - PROFILE FIELD
+                            - Hugh Everett
+                          - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
+                            - _meta
+                              - Capacity
+                            - _method
+                              - `detachOnThresholdReached`
+                            - Shor's algorithm
+                              - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
+                              - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
+                                - PROCESSING POINTER FIELD
+                                  - Videosweepmark: 5:13/31:17
+                                - CURIOSITY OUTREACH FIELD | CAPACITY 1 DEPTH 1
+                                  - Bell's theorem
+                                - CURIOSITY OUTREACH FIELD CACHE
+                                  - EPR Paradox
+                - ?
+                  - Node embedding
+                    - Zachary's Karate Club network
+                  - ??
+                    - ?: Bag-of-colors, efficient way
+                      - Weisfeiler-Lehman Kernel
+                        - Color aggregation
+                        - _relationship
+                          - Graph Neural Networks
+                        - ?
+                          - *K-hop*
+                      - Graphlet Kernel
+                  - Methods
+                    - Kernel Methods
+                      - Graph Kernel
+                        - _meta
+                          - goal
+                            - Design graph feature vector $\phi (G)$
+                          - Key Idea: Bag-of-Words(BoW) for a graph
+                        - Graphlet Kernel
+                        - Weisfeiler-Lehman Kernel
+                        - _proto
+                          - `expandInstance(origin)`
+                      - _supplement
+                        - Stanford CS229
+                          - [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
+                            - PROCESSING POINTER FIELD
+                              - Videomark
+                  - Tasks
+                    - Link-Level Prediction Task
+                      - Links missing at random
+                      - Links over time
+                        - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
+                        - Evaluation
+                          - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
+                          - The top *n* elements of L and count correct edges
+                      - Link Prediction via Proximity
+                        - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
+                          - Videomark: 0:27/52:48
+                - Node Features
+                  - Clustering Coefficient
                     - _schema
                       - INHERIT `$1`
-                - Node centrality
-                  - Closeness centrality
-                  - Betweenness centrality
-                  - Eigenvector centrality
+                  - _category
+                    - Distance-Based Features
+                      - Shortest-path distance between two nodes
+                        - _method
+                          - Captures # neighboring nodes shared between two nodes $v_1$ and $v_2$
+                          - Computing #paths between two nodes
+                        - Common neighbors
+                        - Jaccard's coefficient
+                        - Adamic-Adar index
+                        - Katz index
+                          - _schema
+                            - INHERIT `$1`
+                          - Canonical
+                            - $S_{v_1 v_2} = \sum_{l=1}^{\infty} \beta^l A_{v_1 v_2}^l$
+                          - Closed-form
+                            - $S=\sum_{i=1}^{\infty} \beta^i A^i = (I - \beta A)^{-1} - I$
+                              - $(I - \beta A)^{-1} = \sum_{i=0}^{\infty} \beta^i A^i$ by geometric series of matrices
+                    - Importance-based features
+                      - _use-case
+                        - Predicting influential nodes in a graph
+                      - Node degree
+                      - Different node centrality measures
+                    - Structure-based features
+                      - _use-case
+                        - Predicting a particular role a node plays in a graph
+                      - Node degree
+                      - Clustering Coefficient
+                      - Graphlet count vector
+                    - Distance-based features
+                    - Local Neighborhood overlap
+                    - Global neighborhood overlap
+                  - _relationship
+                    - RELATIONSHIP_PREREQUISITE GraphLet
+                      - _prerequisites
+                        - *Non-isomorphic graph*
+                          - _schema
+                            - INHERIT `$1`
+                        - *Subgraph*
+                          - _schema
+                            - INHERIT `$1`
+                      - _schema
+                        - INHERIT `$1`
+                  - Node centrality
+                    - Closeness centrality
+                    - Betweenness centrality
+                    - Eigenvector centrality
+                      - _schema
+                        - INHERIT `$1`
+                      - Relationship
+                        - Perron-Frobenius Theorem
+                  - Graph Degree Vector(GDV)
                     - _schema
                       - INHERIT `$1`
-                    - Relationship
-                      - Perron-Frobenius Theorem
-                - Graph Degree Vector(GDV)
-                  - _schema
-                    - INHERIT `$1`
-                - Global Neighborhood Overlap
-          - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
-            - Matrix Graph Visualization
-              - _self
-                - value
-                - equivalent orchestration alternative
-              - Resource
-                - [15:39~](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
-          - BFS source
-            - _struct
-              - Information/knowledge
-              - Relational structures
-              - Similarity networks
-              - Software
-            - EmTech
-            - Social innovation
-              - **Social Networks**
-            - FinTech
-              - **Economic networks**
-            - Management
-              - **Communication networks**
-            - Academia
-              - Citation networks
-            - Web 3.0
-              - **Internet**
-            - BCI/ACI
-              - **Network of Neurons**
-            - _underlying-infra
-              - Regulatory networks
-              - **Code Graphs**
-              - **3D Shapes**
-              - Molecules
-              - Scene graphs
+                  - Global Neighborhood Overlap
+            - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
+              - Matrix Graph Visualization
+                - _self
+                  - value
+                  - equivalent orchestration alternative
+                - Resource
+                  - [15:39~](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
+            - BFS source
+              - _struct
+                - Information/knowledge
+                - Relational structures
+                - Similarity networks
+                - Software
+              - EmTech
+              - Social innovation
+                - **Social Networks**
+              - FinTech
+                - **Economic networks**
+              - Management
+                - **Communication networks**
+              - Academia
+                - Citation networks
+              - Web 3.0
+                - **Internet**
+              - BCI/ACI
+                - **Network of Neurons**
+              - _underlying-infra
+                - Regulatory networks
+                - **Code Graphs**
+                - **3D Shapes**
+                - Molecules
+                - Scene graphs
     - English --> Deutsch
       - _source
         - Royal Institute
@@ -1506,6 +1517,8 @@
           - [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&t=59s)
         - GPT-3
           - Wudao
+        - Midjourney
+          - [Midjourney](https://www.midjourney.com/home/)
         - DALL-E
           - Waitlist
             - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
@@ -1525,9 +1538,23 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 91.2%
-          - TEMP TIMESTAMP
-          - ETC: 9d
+          - CCS: 93.2%
+          - TEMP TIMESTAMP: 21
+          - ETC: 7d
+          - NEXT STEP
+            - *Too many bullsxxt down there, cut the clutter and preferably add some resource explaning how stuffs learned is related with ESG*
+            - *Convert* `this` *into an active research unit and allocate specified percentage of resource*
+              - `createActiveResearchUnit`
+              - Hypothetical Active Research Unit
+                - _security-group
+                  - _active_search_rule
+                  - _inbound_rule
+                    - ALLOW Feedly
+                    - DENY * UNLESS specified
+                  - _outbound_rule
+                - _inbound_cache
+                  - _unverified
+                    - [The Truth About Bitcoin and the Environmental, Social and Corporate Governance (ESG) Issues.](https://feedly.com/i/entry/hY+KgRSR4TGbySaFL+RAtLVxmnfDPSR0bk6RA8N2hN4=_17acdc5dd47:17698:4158f6f1)
           - STATIC
             - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
           - INBOUND CACHE
@@ -1608,17 +1635,17 @@
                   - _schema
                     - `this.inherit(GENERIC_BLACKBOX_DESCRIPTOR)`
           - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-            - CCS: 0.9%
+            - CCS: 2.4%
             - _state
               - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
           - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
-            - CCS: 0.9%
+            - CCS: 1%
             - _state
               - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 62.7%
-          - E.T.A: 1.77 months
-          - TEMP_TIMESTAMP: 4
+          - CCS: 70.8%
+          - E.T.A: 29.2d
+          - TEMP_TIMESTAMP: 2:30
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1740,25 +1767,27 @@
           - ipinfo.info
           - whatweb
         - [x] BLOCKAGE
-          - [x] Blackscreen problem
+          - [x] Blackscreen problem --> MOVE TO `ANY/kali linux/WTF tree`
             - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
             - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
           - [ ] In-depth understanding of TCP & UDP
               - [ ] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-              - Videomark: 35:40/1:01:09
-              - CCS: 50%
-              - E.T.A: 2d
-              - Intuition
-                - Guesswork
-                  - TTL
-                  - Hops
-              - Enhancement
-                - Multi-point debugging
-              - Tooling
-                - [X] Wireshark
-                  - [ ] OPTIONAL Show Delta Time
+                - Videomark: 51:01/1:01:09
+                - CCS: 83%
+                - Intuition
+                  - Guesswork
+                    - TTL
+                    - Hops
+                - Enhancement
+                  - Multi-point debugging
+                - Tooling
+                  - [X] Wireshark
+                    - [ ] OPTIONAL Show Delta Time
+              - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
+                - _state
+                  - CONCURRENT 50%
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -1781,10 +1810,10 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{5 minuti per quei\}** 
-    - CCS: 20.8%
-    - E.T.A: 2.33 months
+    - CCS: 80%
+    - E.T.A: 20d
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 11:30
+    - TEMP TIMESTAMP: 12
     - _prerequisite
       - How to identify a problem to solve?
         - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
@@ -2010,7 +2039,7 @@
   - No change, next stage E.T.A 2.4 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
-- Portuguese - B1 --> HALT, OPTIONAL 1min/day
+- Portuguese - B1--> Lower B2
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
   - Initialization of language/meta structrure: 100%
     - ENTERING HIBERNATE MODE
@@ -2022,8 +2051,8 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 43.2%
-      - E.T.A: 4.73 months
+      - CCS: 43.8%
+      - E.T.A: 6.26 months
       - TEMP_TIMESTAMP
       - Hands-On ACTIVE
         - [ ] Image Processing
@@ -2039,15 +2068,9 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
-  - [x] `ERROR: InternalConductIntegrityException: Duration attribute of ConductName-ItalianStudy exceeds the internal integrity threshold`
-    - RESOLVED *Valid argument, time invested reduced by 5 min*
-    - REMOVE ON NEXT CLK
   - [x] `ERROR: InternalConductIntegrityException: NatureOfAction attribute of ConductName-GermanStudy contradicts with current conduct item CS224W.__unknown_depth_.linearAlgebra.* - Item does not reflect "Accidentally learning something new while focusing on improving German"`
-    - Resolution(TEMP): Suspend process for 15 days
-    - TTL: 14d
-  - [x] `ERROR: InternalConductIntegrityException: NatureOfAction attribute of ConductName-EnglishStudy contradicts with current conduct item Money.__unknown_depth_.dayTrading.* - Item does not reflect "Accidentally learning something new while focusing on improving English"`
-    - [x] RESOLVED: *Invalid argument, no actions will be taken and error will be marked as resolved and will be deleted in 3 days*
-    - TTL: 3d
+    - Resolution(TEMP): Suspend process for 10 days
+    - TTL: 6d
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
@@ -2139,7 +2162,7 @@
     - INBOUND CACHE
       - \{`self`\}
 - Arabic - Lower A2
-  - Initialization of language/meta structrure: 87.5%
+  - Initialization of language/meta structrure: 96%
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
@@ -2182,135 +2205,153 @@
     - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
   - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Korean - TOPIK II
-  - Initialization of language/meta structrure: 40.4%
+  - Initialization of language/meta structrure: 44.2%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Arabic`
 - Vietnamese - A2
-  - Initialization of language/meta structrure: 57.1%
+  - Initialization of language/meta structrure: 64.5%
   - ON HALT
   - Kickstart comes after finishing initialization of language structrure of `Korean`
-- Russian - Lower B1 +
+- Russian - Upper B1+++
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 25 WPM
     - Minimum considerable rate: 40 WPM
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
-  - TOPIC | Preparatory --> ACTIVE 2min/day
-    - Уральская рябинушка
-    - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
-    - Мультфильмы Серия - Kids Cartoons
-      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 19](https://www.youtube.com/watch?v=rsENb1wyVBw)
-        - Videomark: 30:30
-        - VOCAB\_FIELD \{5\}
-          - _meta
-            - tooling: Reverso + wiktionary + Russiangram
-            - mode: FIFO
-            - capacity: 5
-          - _processing
-            - _inherit
-              - `ROOT_PROCESSING`
-              - lang_ru_processing
-                - ONCE Conjugation, declension, reflection --> Pattern encoding + Shallow walkthrough
-                - _self
-                  - `func growTree(self, *args, **kwargs)`
-                  - `func contributeToMeta(self, target, *args, **kwargs)`
-          - STATIC
-            - INBOUND_CACHE
-              - Personal pronoun bundle
-                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 92%
-                  - _state
-                    - COLD_TURKEY: False
-                  - Personal pronouns | **THRESHOLD LEVEL 1** - 99%
-                    - `self.metaDigging(LEVEL=1)` | 99%
-                      - _entity
-                        - `categorize(self)`
-                      - _method
-                        - `activeRecall(self)` | 99%
-                  - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
-                    - `self.metaDigging(LEVEL=1)` | 92%
-                      - _entity
-                        - `categorize(self)` | 100%
-                          - _state: DEPRECATED
-                          - Group 1 - мой, твой
-                            - Group 1.A - Мужского и Средний род
-                            - Group 1.B - Женского: -ей
-                            - Group 1.C - Множественное число
-                          - Group 2 - егó, их, её
-                          - Group 3 - наш, ваш
-                      - _method
-                        - `activeRecall(self)` | 30%
-                  - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 2%
-                    - `self.metaDigging(LEVEL=1)` | 0%
-                      - _entity
-                        - `categorize(self)`
-                      - _method
-                        - `activeRecall(self)` | 0%
-                  - Reflective Pronoun
-                    - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
-                  - Reflexive Possessive Pronoun
-                    - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
-                - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
-            - **частица**
-              - же - 70%
-              - К
-            - **цифра**
-            - **предлог**
-              - до - 40%
-            - **Союз**
-              - чем - 10%
-              - же
-            - **личное местоимение**
-              - ты
-                - твой
-              - вы
-            - **глагол**
-              - _schema
-                - по-
-            - **Без рубрики**
-              - какой - 3%
-              - весь
-            - `verb prefix`
-              - не-
-              - с-
-              - по-
-          - VOLATILE
+  - Learning Cache for Intermediate learners
+    - STATIC
+      - Numbers
+        - 28951: двадцать восемь тысяч девятьсот пятьдесят один
+      - INBOUND_CACHE
+        - Personal pronoun bundle
+          - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 92%
             - _state
-              - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
-              - PROCESSING_CAPACITY: 8
-            - _method
-              - `unlockStaticColdTurkey(self, *args, **kwargs)`
-            - **глагол**
-              - измеряться - 100%
-              - понадеяться - 70%
-              - управлять - 60%
-              - говорить - 80%
-              - вырастить - 50%
-              - наслать
-            - **прилагательное**
-              - сложный
-              - безошибочный
-              - действительный
-              - высокий - 20%
-            - **наречие**
-              - ?
-                - лучше
-            - **существительное**
-              - сердце - 90%
-            - INBOUND CACHE
-              - ?
-                - остальные
-              - **прилагательное**
-              - **глагол**
-              - **наречие**
-              - **существительное**
-                - представле́ния
-                - благотворительность
-                - лодка
-                - милый
-                - перевод
-      - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
-        - Иван Васильевич меняет профессию
+              - COLD_TURKEY: False
+            - Personal pronouns | **THRESHOLD LEVEL 1** - 99%
+              - `self.metaDigging(LEVEL=1)` | 99%
+                - _entity
+                  - `categorize(self)`
+                - _method
+                  - `activeRecall(self)` | 99%
+            - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
+              - `self.metaDigging(LEVEL=1)` | 92%
+                - _entity
+                  - `categorize(self)` | 100%
+                    - _state: DEPRECATED
+                    - Group 1 - мой, твой
+                      - Group 1.A - Мужского и Средний род
+                      - Group 1.B - Женского: -ей
+                      - Group 1.C - Множественное число
+                    - Group 2 - егó, их, её
+                    - Group 3 - наш, ваш
+                - _method
+                  - `activeRecall(self)` | 30%
+            - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 2%
+              - `self.metaDigging(LEVEL=1)` | 0%
+                - _entity
+                  - `categorize(self)`
+                - _method
+                  - `activeRecall(self)` | 0%
+            - Reflective Pronoun
+              - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
+            - Reflexive Possessive Pronoun
+              - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
+          - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
+      - **частица**
+        - же - 70%
+        - К
+      - **цифра**
+      - **предлог**
+        - до - 40%
+      - **Союз**
+        - чем - 10%
+        - же
+      - **личное местоимение**
+        - ты
+          - твой
+        - вы
+      - **глагол**
+        - _schema
+          - по-
+      - **Без рубрики**
+        - какой - 3%
+        - весь
+      - `verb prefix`
+        - не-
+        - с-
+        - по-
+    - VOLATILE
+      - _state
+        - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
+        - PROCESSING_CAPACITY: 3
+      - _method
+        - `unlockStaticColdTurkey(self, *args, **kwargs)`
+      - **глагол**
+        - понадеяться - 90%
+        - управлять - 90%
+        - говорить - 100%
+        - вырастить - 100%
+        - наслать
+      - **прилагательное**
+        - сложный
+        - безошибочный
+        - действительный - 10%
+        - высокий - 20%
+      - **наречие**
+        - ?
+          - лучше
+      - **существительное**
+        - сердце - 90%
+      - INBOUND CACHE
+        - ?
+          - остальные
+        - **прилагательное**
+        - **глагол**
+        - **наречие**
+        - **существительное**
+          - представле́ния
+          - благотворительность
+          - лодка
+          - милый
+          - перевод
+  - TOPIC | Weird Course with a weird language
+    - HIST 251
+      - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
+        - Videosweepmark: 0:30
+  - TOPIC | Algorithm & Data structure: Into the weeds --> ACTIVE 2min/day
+    - *Ditch the cartoon and get down to business!*
+    - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
+      - PROCESSING_POINTER_FIELD
+        - Videosweepmark: 4:15
+      - STYLE
+        - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
+        - If not perfect, loop until full comprehension
+          - Russian Langauge
+          - Actual Problem Solving
+      - ?
+        - Birthday Paradox
+          - [Check your intuition: The birthday problem - David Knuffke](https://www.youtube.com/watch?v=KtT_cgMzHx8)
+            - *Russian Subtitle*
+      - IN_PLACE_PROCESSING
+        - `sentence wise`
+          - *especially if X is not co-prime with our base, which is 10.*
+            - особенно если X не взаимно прост с нашим основанием, **равным** 10
+              - ?: Adjective-led clause?
+          - *так и с рандомизированными алгоритмами, является парадоксом дня рождения*
+        - **глагол**
+          - иметь | 5%
+          - удовлетворять
+          - добавить
+          - предположить
+        - **прилагательное**
+          - найденный
+          - различный
+          - самостоятельный
+        - **наречие**
+        - ?
+          - который
+          - вероятность
   - Tool
     - Stress finder
       - [russiangram](https://russiangram.com/)
@@ -2363,11 +2404,11 @@
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 17%
-          - Personal Pronouns in Greek | 35%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
+          - Personal Pronouns in Greek | 40%
             - Subject
-              - Core Table | 72%
-              - Examples | 25%
+              - Core Table | 90%
+              - Examples | 50%
                 - VOLATILE SCOPED
                   - _hook
                     - `destroyOnComplete()`
@@ -2376,13 +2417,14 @@
                     - μένετε
                     - ξενοδοχείο
                       - [ΠΗΓΑΜΕ ΣΤΟ ΧΕΙΡΟΤΕΡΟ ΞΕΝΟΔΟΧΕΙΟ ΤΗΣ ΒΟΥΛΓΑΡΙΑΣ ! | ΦΙΛΙΠΠΟΥΠΟΛΗ @Konilo](https://www.youtube.com/watch?v=EuvRr_681bo)
-                        - Videosweepmark: 1:10/23:30
+                        - Videosweepmark: 7:22/23:30
                         - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
+                          - KarpouziFetaGaming
                   - **ουσιαστικό**
                     - ξενοδοχείο | 5%
             - Object
-              - Core Table | 40%
-              - Examples | 20%
+              - Core Table | 80%
+              - Examples | 30%
             - Possessive form
               - Core Table | 5%
               - Examples | 2%

@@ -90,7 +90,7 @@
         - *Accounting is lackluster, colorless, and oderless, not fit for driving adrenaline or human consumption IMO of course, leave'em to machines*
         - *That IS the speed and challenge which is on par to drive adrenaline*
         - _source
-          - The Trading Channel 
+          - The Trading Channel
         - Noob's jump: Trading 101
           - Hands-on
             - Demo ACC
@@ -130,6 +130,31 @@
               - Videosweepmark: 9:30/4:33:02
             - JQ
               - [JQ](https://www.joinquant.com/)
+          - ?
+            - Basics
+              - CFA Level 1
+                - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
+                  - CCS
+              - **BLACKHOLE**
+                - ESG, EmTech, QT, Complexity Science(CMP) & Basic Academic Sophistication
+                  - STRUCT
+                    - `common`
+                    - ESG
+                      - _inbound_cache
+                        - [Investopedia - ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
+                      - STATIC
+                      - VOLATILE
+                    - EmTech
+                    - QT
+                    - Complexity Science
+                      - [Fundamentals of NetLogo - Agent-Based Modeling: What is Agent-Based Modeling?](https://www.youtube.com/watch?v=FVmQbfsOkGc&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=2)
+                        - Videosweepmark
+                        - _state
+                          - Current language shuffle pair: English-German
+                          - **ENFORCED** Hands-on
+                    - Basic Academic Sophistication
+                      - Randomwalk
+                        - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
           - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=G05Ma9i2GAI&t=118s)
             - Videosweepmark: 5:55
             - _motivation
@@ -1489,6 +1514,7 @@
         - Royal Institute
       - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
       - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+      - DWave
       - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
     - Deutsch --> Français
       - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day

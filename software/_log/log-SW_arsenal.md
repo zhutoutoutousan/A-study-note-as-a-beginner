@@ -10,7 +10,7 @@
 - [Unidentified tools](#unidentified-tools)
 - [Best practice arsenal](#best-practice-arsenal)
 - [Multiple Screen](#multiple-screen)
-- [抄作业 & PR攻防 & 掀裙子策略](#抄作业--pr攻防--掀裙子策略)
+- [Tech profiling](#tech-profiling)
 - [壮丁集群/分布式壮丁结点管理](#壮丁集群分布式壮丁结点管理)
   - [机器辅助壮丁](#机器辅助壮丁)
   - [自动化壮丁采集器](#自动化壮丁采集器)
@@ -122,6 +122,7 @@
 
 
 # Networking-related
+- Wireshark
 - Burp Suite - Community Edition
 - Fiddler
 
@@ -143,7 +144,7 @@
 # Multiple Screen
 - WindowGrid- WindowGrid
 
-# 抄作业 & PR攻防 & 掀裙子策略
+# Tech profiling
 - https://archive.ph/
 - waybackmachine
 
@@ -290,6 +291,13 @@
     - React latest
   - Language
     - Rust
+    - TypeScript
+      - Courses
+        - `currentJournal/BLACKHOLE`
+      - Source Code Study
+      - _properties
+      - _inbound_cache
+        - [github/roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap)
   - 3D
     - three.js
     - react-three-fiber

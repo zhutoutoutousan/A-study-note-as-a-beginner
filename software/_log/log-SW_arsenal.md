@@ -2,6 +2,7 @@
 - [Table of Contents](#table-of-contents)
 - [_INBOUND_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
+- [Next Gen](#next-gen)
 - [New Tech](#new-tech)
 - [Preferences](#preferences)
 - [AI toolkit](#ai-toolkit)
@@ -93,6 +94,10 @@
 # Security Outsource solutions
 - PDF 2C Security Solution
   - [鹏保宝](https://www.pyc.com.cn/)
+
+# Next Gen
+- Slides
+  - [gamma.app](https://gamma.app/)
 
 # New Tech
 - dbforge

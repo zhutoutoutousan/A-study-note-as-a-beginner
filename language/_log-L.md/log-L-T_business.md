@@ -146,6 +146,9 @@
 - FA
   - [beingfa](https://beingfa.com/tag/startup/)
 - FPSO
+  - [Floating production storage and offloading](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading)
+  - [The global FPSO market size was USD 13.06 billion in 2019. The global impact of COVID-19 has been unprecedented and staggering, with floating production storage and offloading units witnessing a negative demand shock across all regions amid the ... Read More at:-  https://www.fortunebusinessinsights.com/industry-reports/fpso-market-100429](https://www.fortunebusinessinsights.com/industry-reports/fpso-market-100429)
+  - [Guide to FPSO (Floating Production Storage and Offloading)](https://www.oilandgasiq.com/fpso-flng/articles/guide-to-floating-production-storage-and-offloading-fpso)
 - FY - Fiscal year : 财年
 - Flagship shop: 旗舰店
   - [旗舰店](https://wiki.mbalib.com/wiki/%E6%97%97%E8%88%B0%E5%BA%97)

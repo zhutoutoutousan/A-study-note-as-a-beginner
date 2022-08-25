@@ -147,20 +147,25 @@
                     - EmTech
                     - QT
                     - Complexity Science
-                      - [Fundamentals of NetLogo - Agent-Based Modeling: What is Agent-Based Modeling?](https://www.youtube.com/watch?v=FVmQbfsOkGc&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=2)
-                        - Videosweepmark
-                        - _state
-                          - Current language shuffle pair: English-German
-                          - **ENFORCED** Hands-on
+                      - Tooling
+                        - Hash.ai
+                        - NetLogo
+                          - [Fundamentals of NetLogo - Agent-Based Modeling: What is Agent-Based Modeling?](https://www.youtube.com/watch?v=FVmQbfsOkGc&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=2)
+                            - Videosweepmark
+                            - _state
+                              - Current language shuffle pair: English-German
+                              - **ENFORCED** Hands-on
                     - Basic Academic Sophistication
                       - Randomwalk
                         - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
           - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=G05Ma9i2GAI&t=118s)
-            - Videosweepmark: 5:55
+            - Videosweepmark: 20:55
             - _motivation
               - *A startup needs (have good eyes to hire) a competent investo-guy*
-            - _state  
-              - Current Langauge Shuffle: български език
+            - _basics
+              - pip
+            - _state
+              - Current Langauge Shuffle: ગુજરાતી
                 - _meta:escalate
                   - **In here, the secret of learning and communicating with aliens may be revealed**
                   - *Fundamentals to understand an alien language: What to do in desparate situations*
@@ -241,10 +246,10 @@
 - French - Middle C1
     - ACCA F1~F9 --> Borrowed from section `CFA CPA`
       - Video contents
-        - [LSBF ACCA F7: Income Statement Question Debrief with Francis Braganza Part 1](https://www.youtube.com/watch?v=mrBiG2By-nM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=139)
-          - Videosweepmark: 2:50
-          - CCS: 79.4%
-          - ETC: 29d
+        - [LSBF ACCA F7: Introduction to Provision on Unrealised Profit Part 2](https://www.youtube.com/watch?v=AwMFlw6PBeU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=142)
+          - Videosweepmark: 2:01
+          - CCS: 81.1%
+          - ETC: 31d
           - ?
             - CONVOLUTION | Conceptual Framework
           - CONVOLUTION | Actual Exam Readiness
@@ -1185,7 +1190,7 @@
         - Stanford CS224W
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=10)
             - CCS: 15%
-            - Videomark: 23:06/27:09
+            - Videomark: 25:35/27:09 | `this.concurrentTraffic = 0.33`
             - ?
               -  SVM, Regression
            - [ ] **MAJOR BLOCKAGE**
@@ -1199,16 +1204,27 @@
                     - ASYNC MIRRORED | PROCESSING POINTER FIELD
                       - Struct pointer
                       - bookSweepPointer
-                      - linearAlgebraIntuitionRegainPointer: customizedPointer
+                      - supplementationPointer
+                        - **Visualization-Procedure-Literacy Confluence**
+                          - 3blue1brown | `this.concurrentTraffic = 0.33`
+                            - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
+                          - Discrete Mathematics Confluence 
+                      - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
                           - *Regain Linear Algebra Intuition*
+                        - _DDL
+                          - `Not applicable, error message from CoreExecutiveFunctionModule:` *This is not a prison, setting DDL would be a bit of overkill as per this moment*
                         - _relationship
                           - _prerequisite
                           - _enablement
                             - Numeric linear algebra
                         - _range: 281/1283~?
                         - _subpointers
-                          - linearAlgebraIntuitionRegainSweepPointer: 281/?
+                          - linearAlgebraIntuitionRegainSweepPointer: 285/?
+                          - linearAlgebraIntuitionRegainPrunePointer
+                            - `values`
+                              - 281~285
+                            - _properties: PASSIVE
                           - linearAlgebraIntuitionRegainProblemSolvingPointers
                             - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
                               - _note
@@ -1222,17 +1238,22 @@
                   - Discrete mathematics
                     - _inbound
                         - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-                        - Discrete Mathematics for computer science students
-                          - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
-                            - Progress: 14/344
-                              - Visualizing process
+                    - Main Engine
+                      - Discrete Mathematics for computer science
+                        - [link1](http://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf)
+                          - Progress: /627
+                            - Visualizing process
+                        - PROCESSING POINTER FIELD
+                          - bookSweepPointer: 25/627
+                      - Supplementation
+                        - Introduction to Discrete Mathematics
+                          - [link](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+                          - Videosweepmark: 7:38
                     - ASYNC MIRRORED | PROCESSING POINTER FIELD
                       - Struct pointer
                       - bookSweepPointer
-               - **Visualization-Procedure-Literacy Confluence**
-                 - 3blue1brown
-                   - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
-                 - Discrete Mathematics Confluence 
+                - ASYNC MIRRORED | `erudition-M/Number Theory`
+                  - [Number theory Full Course [A to Z]](https://www.youtube.com/watch?v=19SW3P_PRHQ&t=288s)
                - Linear Algebra Example Problems
                  - _macro
                    - BFS
@@ -1564,13 +1585,14 @@
           - *This piece of sxxt is missing proof of stake, need supplmentary info*
           - RULE
             - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 93.2%
+          - CCS: 100%
           - TEMP TIMESTAMP: 21
-          - ETC: 7d
-          - NEXT STEP
+          - ETC: 0
+          - **NEXT STEP**
             - *Too many bullsxxt down there, cut the clutter and preferably add some resource explaning how stuffs learned is related with ESG*
             - *Convert* `this` *into an active research unit and allocate specified percentage of resource*
               - `createActiveResearchUnit`
+                - **PROCESSING...**
               - Hypothetical Active Research Unit
                 - _security-group
                   - _active_search_rule
@@ -1582,7 +1604,45 @@
                   - _unverified
                     - [The Truth About Bitcoin and the Environmental, Social and Corporate Governance (ESG) Issues.](https://feedly.com/i/entry/hY+KgRSR4TGbySaFL+RAtLVxmnfDPSR0bk6RA8N2hN4=_17acdc5dd47:17698:4158f6f1)
           - STATIC
-            - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
+            - STRUCT_DAO_ROOT
+              - Industry standpoint
+                - P.O.I
+                  - _search
+                    - *识别并去除冢中枯骨*
+                    - Use Gartner's metric
+                      - _proposal_schema
+                        - Leader
+                        - Visionary
+                        - Niche Player
+                          - Potential talents
+                          - Others
+                            - *冢中枯骨*
+                            - *出道即巅峰*
+                            - *p一波就跑*
+                        - Capable blind
+                  - Uncategorized
+                    - ETH
+                    - Bitcoin
+                    - **Cardano**
+                      - [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
+                      - Scientific Philosophy
+                      - [github - cardano](https://github.com/cardano-foundation)
+                        - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
+                    - Ripple
+                    - NEO
+                    - Stellar
+                      - [stellar-core](https://github.com/stellar/stellar-core)
+                    - Ripple
+                    - Litecoin
+                    - Cardano
+                    - Stellar
+                - Support
+                  - Technology
+                    - Blockchain
+                  - Workforce
+                - Execution
+                  - Contract
+                    - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
           - INBOUND CACHE
             - **DAO**
               - **Zachmann framework**
@@ -1633,6 +1693,7 @@
             - Stuart Haber & W.Scott Stornetta
               - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
           - [Superdatascience](https://www.superdatascience.com/blockchain/)
+        - Data Science A-Z™: Real-Life Data Science Exercises Included
     - Cloud Computing
       - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
       - Learn AWS The Hard Way
@@ -1669,9 +1730,9 @@
             - _state
               - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
         - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 70.8%
-          - E.T.A: 29.2d
-          - TEMP_TIMESTAMP: 2:30
+          - CCS: 77.3%
+          - E.T.A: 4d
+          - TEMP_TIMESTAMP: 1:25
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1773,9 +1834,9 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 15.8%
+        - CCS: 15.8% | CONCURRENT 50%
         - E.T.A: 7.08 month + 2d
-        - TEMP_TIMESTAMP: 1
+        - TEMP_TIMESTAMP: 3:30
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1799,9 +1860,8 @@
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
           - [ ] In-depth understanding of TCP & UDP
-              - [ ] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-                - Videomark: 51:01/1:01:09
-                - CCS: 83%
+              - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
+                - Videomark: 1:01:09/1:01:09
                 - Intuition
                   - Guesswork
                     - TTL
@@ -1812,8 +1872,10 @@
                   - [X] Wireshark
                     - [ ] OPTIONAL Show Delta Time
               - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
+                - Videomark: 4:00
                 - _state
                   - CONCURRENT 50%
+              - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -1836,10 +1898,10 @@
     - MK toolkit
       - Co-ordinated Collusion
   - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{5 minuti per quei\}** 
-    - CCS: 80%
-    - E.T.A: 20d
+    - CCS: 80.6%
+    - E.T.A: 19d
       - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 12
+    - TEMP TIMESTAMP: 1:40
     - _prerequisite
       - How to identify a problem to solve?
         - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
@@ -1854,6 +1916,10 @@
         - Has strategic pauses
         - Provides clear next steps(defined when deck building)
     - Tooling --> `*-business_arsenal`
+      - Feeds gathering
+        - Feedly
+        - Newsle
+        - JobChangeAlerts
       - Cold Email
         - _category
           - Template
@@ -2077,9 +2143,9 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 43.8%
-      - E.T.A: 6.26 months
-      - TEMP_TIMESTAMP
+      - CCS: 44.5%
+      - E.T.A: 6.23 months
+      - TEMP_TIMESTAMP: 5
       - Hands-On ACTIVE
         - [ ] Image Processing
       - [x] BLOCKAGE --> To `WTF-tree --> AWS` 
@@ -2096,7 +2162,7 @@
 - _helper-function --> `_root_processing-language-meta`
   - [x] `ERROR: InternalConductIntegrityException: NatureOfAction attribute of ConductName-GermanStudy contradicts with current conduct item CS224W.__unknown_depth_.linearAlgebra.* - Item does not reflect "Accidentally learning something new while focusing on improving German"`
     - Resolution(TEMP): Suspend process for 10 days
-    - TTL: 6d
+    - TTL: 0 DEFROSTING
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
@@ -2345,11 +2411,18 @@
     - HIST 251
       - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
         - Videosweepmark: 0:30
-  - TOPIC | Algorithm & Data structure: Into the weeds --> ACTIVE 2min/day
+  - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 2min/day
     - *Ditch the cartoon and get down to business!*
     - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
       - PROCESSING_POINTER_FIELD
-        - Videosweepmark: 4:15
+        - Videosweepmark: 11:10
+        - LanguagePerfectionMark: 22%
+        - AlgorithmPerfectionMark
+          - Question Stem Comprehension: 50%
+          - Question Context Comprehension: 2%
+          - Automacity: 0%
+          - Procedural-Visualization Connection: 0%
+          - Metadigging: 0%
       - STYLE
         - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
         - If not perfect, loop until full comprehension
@@ -2365,10 +2438,13 @@
             - особенно если X не взаимно прост с нашим основанием, **равным** 10
               - ?: Adjective-led clause?
           - *так и с рандомизированными алгоритмами, является парадоксом дня рождения*
+        - ?
+          - результирующей
         - **глагол**
           - иметь | 5%
+          - поэкспериментировать
           - удовлетворять
-          - добавить
+          - добавить | 10%
           - предположить
         - **прилагательное**
           - найденный
@@ -2430,10 +2506,10 @@
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
           - Personal Pronouns in Greek | 40%
             - Subject
-              - Core Table | 90%
+              - Core Table | 92%
               - Examples | 50%
                 - VOLATILE SCOPED
                   - _hook
@@ -2443,7 +2519,7 @@
                     - μένετε
                     - ξενοδοχείο
                       - [ΠΗΓΑΜΕ ΣΤΟ ΧΕΙΡΟΤΕΡΟ ΞΕΝΟΔΟΧΕΙΟ ΤΗΣ ΒΟΥΛΓΑΡΙΑΣ ! | ΦΙΛΙΠΠΟΥΠΟΛΗ @Konilo](https://www.youtube.com/watch?v=EuvRr_681bo)
-                        - Videosweepmark: 7:22/23:30
+                        - Videosweepmark: 15:30
                         - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
                           - KarpouziFetaGaming
                   - **ουσιαστικό**
@@ -2454,16 +2530,16 @@
             - Possessive form
               - Core Table | 5%
               - Examples | 2%
-          - Demonstrative Pronouns in Greek | 8%
-            - Core Table | 5%
-            - Examples | 2%
+          - Demonstrative Pronouns in Greek | 30%
+            - Core Table | 15%
+            - Examples | 52%
           - Interrogative Pronouns in Greek | 10%
           - Indefinite Pronouns in Greek | 5%
             - Core Table | 20%
             - Examples | 2%
-          - Relative Pronouns in Greek | 4%
-            - Core Table | 8%
-            - Examples | 3%
+          - Relative Pronouns in Greek | 8%
+            - Core Table | 28%
+            - Examples | 10%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
         - ανακαλύπτω

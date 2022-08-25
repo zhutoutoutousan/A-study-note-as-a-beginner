@@ -43,7 +43,7 @@
 - [Sounds Resource](https://www.sounds-resource.com/)
 ```
 七大无版权音乐素材下载网站：
-Free BD：https://freepd.com 
+Free BD：https://freepd.com
 Musopen：https://musopen.org 
 Adobe背景音乐：https://dwz.cn/45hOFsN0 
 爱给网：http://www.aigei.com 

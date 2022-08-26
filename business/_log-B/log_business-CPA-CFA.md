@@ -1217,7 +1217,336 @@ Asset Allocation
           - Pre-registration expenses
           - Tax point
           - VAT relief for bad debts
-
+- [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
+  - Videomark: 31:40/31:40
+  - CCS: 48.5%
+  - E.T.C: 3.33 months
+- [ACCA F7INT - 2. IAS 1 Presentation of Financial Statements](https://www.youtube.com/watch?v=rvQrJ5KKVzo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=86)
+  - Videomark: 20:49/20:49
+  - CCS: 49.7%
+  - E.T.C: /
+- [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
+  - Videomark: 32:02/32:02
+  - CCS: 49.7%          
+- [ACCA F7INT - 4. Construction Contracts](https://www.youtube.com/watch?v=K2V_ZQtQu3o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=88)
+  - Videomark: 21:06/21:06
+  - CCS: 50.3%
+- [ACCA F7INT - 5. Predictive value](https://www.youtube.com/watch?v=LRJWQ_qc2fI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=89)
+  - Videomark: 33:38/33:38
+  - CCS: 50.8%
+- [ACCA F7INT - 6. Non current assets, impairment of assets](https://www.youtube.com/watch?v=zeZSgIzHOzk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=90)
+  - Videomark: 41:03/41:03
+  - CCS: 51.4%
+- [ACCA F7INT - 7. Provisions](https://www.youtube.com/watch?v=NSu0D18IR1M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=91)
+  - Videomark: 24:17/24:17
+  - CCS: 52%
+- [ACCA F7INT - 8. Financial instruments](https://www.youtube.com/watch?v=--19fuJybzU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=92)
+  - Videomark: 23:53/23:53
+  - CCS: 52.6%
+- [ACCA F7INT - 9. Taxation](https://www.youtube.com/watch?v=D8X-lk-UIpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=93)
+  - Videomark: 17:20/17:20
+  - CCS: 53.1%
+- [ACCA F7INT - 10. Group financial statements incl. associates](https://www.youtube.com/watch?v=0Js78NKBmpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=94)
+  - Videomark: 26:12/26:12
+  - CCS: 53.7%
+- [ACCA F7INT - 11. Statement of cash flows](https://www.youtube.com/watch?v=W_VkDH-Ltyg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=95)
+  - Videomark: 10:41/10:41
+  - CCS: 54.3%
+  - Conceptual Famework
+    - _meta
+      - prerequisite
+        - factoring company
+          - recourse
+        - invoice factoring
+    - VOCAB FIELD
+      - Cost of Capital
+        - [Cost of Capital](https://www.investopedia.com/terms/c/costofcapital.asp#:~:text=Cost%20of%20capital%20represents%20the,preferred%20or%20existing%20capital%20structure.)
+        - [Weighted Average Cost of Capital (WACC)](https://www.investopedia.com/terms/w/wacc.asp)
+    - Qualitative characteristics of financial Information
+      - Understandability, Relevance, Reliability, Comparability
+    - Standards
+      - _sub-vocab
+        - [P&L - Profit and Loss (P&L) Statement](https://www.investopedia.com/terms/p/plstatement.asp)
+      - IAS 1
+        - Components of finantial statements
+          - Statement of financial position
+          - Statement of comprehensive income
+            - Profit and loss statement
+            - Other comprehensive income
+          - Statement of changes in equity
+          - Statement of cash flows
+          - Comparative data for the previous year for each of the above
+        - Core concepts
+          - Fair presentation - fair, neutral description of transactions
+            - Substance over Form
+          - Going concern - entity assumed to continue trading into the foreseeable future
+          - Accrual(matching) basis of accounting - match costs with associated revenues and items to the time period incurred
+          - Consistency of presentation - present similar transactions the same way within the current year and year by year
+          - Materially and aggregation - no need to present information about immaterial transactions, but aggregate transactions with similar characteristics instead
+          - Offsetting - offset as little as possible
+            - Little *net off*
+        - True and fair override
+      - IAS 8: Predictive Value
+        - VOCAB FIELD
+          - Restatement
+            - Accounting Error
+            - Accounting policy
+          - Prospective application
+            - **Accounting estimates**
+              - *an adjustment of the carrying amount of an asset or a liability, or the amount of the periodic consumption of an asset, that results from the assessment of the present status of, and expected future benefits and obligations associated with, assets and liabilities*
+            - Financial statements presentation: retrospective application
+          - Discontinued activities
+          - Disclosured required
+            - A single amount on the face of the income statement
+            - EARNINGS PER SHARE
+              - PE Ratio
+          - Changes to ordinary shares in issue
+            - There will normally be a link between the number of shares in issue, the resource(net asseta) available to management and the profits that can be expected to be made from those assets
+            - Profits are made throughtout a year, where the number of shares in the SOFP is a snapshot moment in time
+          - Weighted average number of shares
+          - Rights issues
+            - TERP
+          - **DILUTED EARNINGS PER SHARE**
+            - IAS 33
+              - [If converted Method](https://www.youtube.com/watch?v=r7hMQubWks0)
+      - IFRS 5: Non-current assets held for sale and discontinued operations
+        - Purpose
+        - Disposal groups
+      - IAS 11: Construction contracts
+        - VOCAB FIELD
+          - Markup
+        - **Decision Flow**
+        - Estimating stage of Completion
+        - Approach(6 Steps)
+      - IAS 16: Property, Plant and Equipment
+        - IFRS 5
+        - Initial Recognition/classification
+        - Initial valuation
+          - Include in initial valuation(Dr Non-current asset)
+            - Transaction costs on purchase, eg legal fees
+            - Borrowing costs incurred, if this is the policy under IAS 23
+            - Inwards delivery costs
+            - Import duties, irrecoverable purchase taxes
+            - NPV of unavoidable future decomissioning costs under IAS 37
+            - ...
+          - Exclude from initial valuation(Dr Expenses)
+            - Training costs
+            - Initial inefficiencies and losses during "run in"
+            - Administration or general overhead costs
+            - Costs giving benefit for one year or less only
+            - Any costs due to abnormal losses in purchases, delivery or production as they will not enhance earning capacity
+            - ...
+        - Write-off period
+        - Impairments
+        - Revaluation
+        - Enhancements
+        - **Disclosures(IAS 16:73)**
+        - **Borrowing costs: IAS 23**
+        - Profit or loss on disposal of any non-current asset
+      - IAS 17: Leases
+        - Lease
+          - _interface
+            - leaser
+            - leasee
+          - _category
+            - Finance Leases
+            - Operating leases
+              - NPV
+          - _effect-network
+            - SOFP
+      - IAS 18: Revenue
+        - _?
+          - amortized cost
+        - _technique
+          - unwinded discount
+            - _alias
+              - IAS 17: Rate implicit in the lease?
+        - Recognition of revenue: Goods
+        - Recognition of revenue: services
+        - Valuation of revenue
+        - Bundled sales
+      - IAS 36: Impairment of Assets
+        - External indicators of impairment
+          - PESTEL
+        - Internal indicators of impairment
+        - Determination of value
+        - Cash generating unit
+        - Reporting impairment losses: individual assets
+        - Reporting impairment losses: cash generating unit
+      - IAS 37: Provisions, contingent liabilities and contingent assets
+        - **Creative accounting even with IAS 37 in effect while getting away with legal obligations ( •̀ ω •́ )y**
+        - Initial valuation(provisions)
+        - Initial valuation(contingent liabilities)
+        - Contingent assets
+        - Provisions and contingent liabilities for individual companies
+        - Discounting and unwinding of provisions
+      - IAS 38: Intangible Assets
+        - Accounting treatments of three types of asset
+          - _fields
+            - Initial Recognition
+            - Initial valuation
+            - Amortisation period
+            - Upward revaluation possible?
+            - Impairment loss Recognition
+            - Reversal of impairment losses
+            - Allowed alternative presentations
+          - R&D
+          - Goodwill
+          - Other intangible non-current assets
+      - IAS 40: Investment Property
+    - Material Anatomies
+      - Statement of Financial Position
+        - _struct
+          - _col
+            - 20x3
+            - 20x4
+            - Note
+          - _row ptr=\$1
+        - Assets ptr=\$1 ~ * === \$1
+          - Non-current assets
+            - Property, plant and equipment
+            - Intangible assets
+            - Investments in associates
+            - Biological assets
+          - Current Assets
+            - Inventories
+            - Trade receivables
+            - Cash and cash equivalents
+            - Assets held for sale
+          - Total Assets
+        - EQUITY AND LIABILITIES
+          - Share capital
+          - Revaluation reserve
+          - Retained Earnings
+          - Other reserves
+          - Non-controlling interests
+          - **Total Equity**
+          - Non-current liabilities
+            - Financial liabilities
+            - Deferred tax
+            - provisions
+            - Total
+          - Current liabilities
+            - Financial liabilities
+      - Statement of Comprehensive Income(SOCI)
+        - revenue
+        - Cost of sales
+        - Gross profit
+        - Other income
+        - Share of profit of associates
+        - Distribution costs
+        - Administrative expenses
+        - Other expenses
+        - Finance costs
+        - **Profit before tax**
+        - Tax expense
+        - Profit from discontinued operations, after tax
+          - IFRS 5
+        - **Profit for the period**
+        - Other comprehensive income, net of tax
+          - Property revaluation gains
+          - Other gains reported directly in equity
+          - Share of associates' other comprehensive income
+          - Other comprehensive income for the period, net of tax
+          - Total comprehensive income for the period
+        - Profit for the period attributable to
+          - Non-controlling interests
+          - Owners of the parent
+        - Total comprehensive income for the period attributable To
+          - Non-controlling interests
+          - Owners of the parent
+      - Statement of Changes in Equity(SOCE)
+      - SOFP
+      - Finantial Instrument
+        - _doubts
+          - *Right category?* 
+          - _schema
+            - _field
+              - Financial liabilities
+              - Financial assets
+            - _attribute
+              - Examples
+              - Initial Recognition
+              - Subsequent measurement
+              - Gains or losses reported in... 
+            - _value
+          - Recognition and derecognition
+          - Fair value accounting
+          - Amortized cost
+            - Debt instrument
+            - Business model test
+            - contractual cash flow characteristics test
+            - Impairments
+            - **Convertible bonds**
+      - Group financial statements
+        - Substance over Form
+        - Acquisition accounting
+        - Goodwill
+        - Non-controlling interests
+        - Consolidation immediately after M&A
+          - Fair value
+          - Key Logic
+          - Pre-acquisition dividends
+          - Adjustments
+          - Mid period acquisition
+          - Intra-group transactions
+          - Transfer of non-current assets
+          - Goodwill
+        - Subsequent periods
+        - Consolidated statement of comprehensive income
+      - Statement of cash flows
+        - Category
+          - Operating cash flows
+          - Financing cash flows
+          - Investing cash flows
+        - Method
+          - Direct
+            - Performa
+          - Indirect
+        - Critical points
+          - **Cash operating profits(operating cash flow) - depreciation = Accounting operating profits(PBIT)**
+          - **PBIT + depreciation = Operating cash flow**
+      - Taxation
+        - Current Tax
+        - Deferred tax
+        - Temporary difference
+        - Permanent difference
+      - Associates
+        - Accounting treatment in the group financial statements
+    - O.O.I
+      - IFRS: International Financial Reporting Standard
+        - _meta_escalate
+          - *I think IFRS will be the main theme moving forward*
+        - [website](https://www.ifrs.org/)
+    - Skills
+      - Calculation of deferred tax liability and SOCI effect
+    - Elements of Financial statments
+      - Alias field
+        - Balance sheet: Statement of financial position
+      - self
+        - _meta
+          - Recognition criteria
+            - Problem-Toolkit
+              - Inflation
+                - IAS 29
+                - Operating capital maintenance
+                - Capital maintenance concepts
+                  - Financial capital maintenance
+                  - Operating capital maintenance
+          - True and fair view
+            - true and fair override
+          - Evaluation of assets and profit
+        - Asset
+          - _characteristics
+            - *never reflected in the ?*
+          - *A resource that is both controlled by an entity and is expected to produce future economic benefits that will flow to the entity*
+        - Liability
+          - *A present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits*
+        - Equity
+          - *The residual interest in the assets of the entity after deducting all its liabilities*
+          - $assets-liabilities=equity=capital+reserves$
+        - Income
+          - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
 
 
 # Roadmap

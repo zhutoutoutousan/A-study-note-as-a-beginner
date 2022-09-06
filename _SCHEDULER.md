@@ -1,5 +1,22 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [_SCHEDULER Overview](#_scheduler-overview)
+  - [Minimum Viable Close-loop Communication Component](#minimum-viable-close-loop-communication-component)
+  - [Save & Quit Criteria Mapping for Context-heavy tasks](#save--quit-criteria-mapping-for-context-heavy-tasks)
+- [OUTPUT](#output)
+- [_SCHEDULER_STORE](#_scheduler_store)
+  - [Active Research Unit(ARU)](#active-research-unitaru)
+    - [_INBOUND](#_inbound)
+- [Tools](#tools)
+  - [Calendar](#calendar)
+- [Low-Level performance improvement](#low-level-performance-improvement)
+- [Erudition](#erudition)
+- [Scheduler Challenges for software developer](#scheduler-challenges-for-software-developer)
+- [Raw Material](#raw-material)
+- [Data Structure](#data-structure)
 # _SCHEDULER Overview
 - Designed for increasingly crazier schedule and pushing oneself to the limit and beyond
+
 ## Minimum Viable Close-loop Communication Component
 ## Save & Quit Criteria Mapping for Context-heavy tasks
 
@@ -8,6 +25,10 @@
   - Tao of Personal Management & Development Orchestration
   - Tao of Personal Skillset Orchestration
 
+# _SCHEDULER_STORE
+## Active Research Unit(ARU)
+### _INBOUND
+- `searchForASUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
 # Tools
 ## Calendar
 

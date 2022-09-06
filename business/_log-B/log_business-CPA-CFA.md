@@ -1547,6 +1547,506 @@ Asset Allocation
           - $assets-liabilities=equity=capital+reserves$
         - Income
           - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
+- [ACCA F8INT - 1. Audit reports](https://www.youtube.com/watch?v=ZnZFycIm9oY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=96)
+  - Videomark: 8:25/8:25
+  - CCS: 54.9%
+  - E.T.C: 2.5 months
+- [ACCA F8INT - 2. Ethics](https://www.youtube.com/watch?v=OnQmF_PUCYs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=97)
+  - Videomark: 10:01/10:01
+  - CCS: 55.4%
+  - E.T.C: 2.47 months
+- [ACCA F8INT - 3. Audit Letters](https://www.youtube.com/watch?v=bMrS7NESCNI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=98)
+  - Videomark: 11:07/11:07
+  - CCS: 56%
+  - E.T.C: 2.44 months
+- [ACCA F8INT - 4. Audit Risk](https://www.youtube.com/watch?v=WonImpH3ya4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=99)
+  - Videomark: 10:34/10:34
+  - CCS: 56.7%
+  - E.T.C: 2.06 months
+- [ACCA F8INT - 5. Internal control](https://www.youtube.com/watch?v=PkVlobJ4eHU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=100)
+  - Videomark: 10:01/10:01
+  - CCS: 57.1%
+  - E.T.C: 3.575 months
+- [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)
+  - Videomark: 10:29/10:29
+  - CCS: 57.7%
+  - E.T.C: 2.35 months
+- [ACCA F8INT - 7. Audit Evidence](https://www.youtube.com/watch?v=0nyOuxuoB0A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=102)
+  - Videomark: 10:04/10:04
+  - CCS: 58.3%
+  - E.T.C: 2.31 months
+- [ACCA F8INT - 8. Inventory](https://www.youtube.com/watch?v=ihqrAfpm_Fs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=103)
+  - Videomark: 10:03/10:03
+  - CCS: 58.9%
+  - E.T.C: 2.28 months
+- [ACCA F8INT - 9. Subsequent Events](https://www.youtube.com/watch?v=j98vluVk93M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=104)
+  - Videomark: 8:40/8:40
+  - CCS: 59.4%
+  - E.T.C: 2.25 months
+- [ACCA F8INT - 10. Going Concern](https://www.youtube.com/watch?v=WwPgvjLiOZ8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=105)
+  - Videomark: 12:00/12:00
+  - CCS: 60%
+  - E.T.C: 1.21 months
+  - STRUCT_audit
+    - Term field
+      - Title
+      - Addresse
+      - Introductory paragraph
+      - Statement of responsibilities of management
+      - Statement of responsibilities of the auditors
+      - Score paragraph
+      - Opinion
+      - Auditor's signiture
+      - Date of report
+      - Auditor's address
+    - TEMP_UNSTRUCTURED_CACHE
+      - Internal audit
+      - Inventory
+        - Main auditing concern
+          - Client Stocktaking
+            - BEFORE
+            - DURING
+            - AFTER
+          - Valuation of Inventry
+            - COST
+            - NET REALIZABLE VALUE
+      - Auditing events
+        - Subsequent event
+        - Adjusting event
+        - Non-adjusting event
+      - Auditing Approach - Proactive Period
+      - Auditing Approach - Reactive Period
+    - Ethics
+      - TOPIC
+        - Technical(professional) competence and due care
+          - *Compétences professionnelles ou techniques et diligence*
+        - Objectivity must be demonstrated
+        - Professional behaviour must be demonstrated
+          - *Le comportement professionnel*
+        - Integrity
+          - *La Intégrité*
+        - Confidentiality
+          - *La confidentialité*
+      - Threats
+        - Self-interest - e.g. owning shares in a client company
+          - *L'intérêt personnel - un intérêt financier danes les actions d'une entreprise cliente*
+        - Self-review
+          - *L'examen même*
+        - Familiarity
+          - *Familiarité - Famile relation agir en tant qu'auditeur pour accompagner le travail est-ce que le PDG*
+        - Intimidation
+        - Advocacy
+      - Safeguard against threats
+      - Practices
+        - STIPULATIONS ON BRANDING An auditor must proactively publicize integrity behaviour, quasi periodic public ethics challenge
+    - **RISK**
+      - _discernment
+        - EXTERNAL **Business Risk**
+          - _diff-instance
+            - _meta
+              - diff-identification
+            - Business Risk: *foreign exchange losses reduce company's profitability*
+            - Audit Risk: *overstatement of profit if foreign exchange losses are not properly recognised*
+          - _category
+            - Operational Risk
+            - Financial Risk
+            - Compliance Risk
+      - _instance
+        - *if an auditor gave an unqualified opinion, when in fact the company was not a going concern, then shareholders and others placing reliance on this report in making economic decisions relating to their dealings with the company might suffer financial loss*
+      - _category
+        - _consolidation
+        - INHERENT RISK
+          - _description
+            - *risk that there may be material errors or misstatements in the client's financial statements, before giving consideration to any internal controls that may have been established*
+          - _instance
+            - *in a high tech comapny there is high risk of obsolescent inventory which if not recognised could result in a material overstatement of both profits and asset values*
+        - CONTROL RISK
+          - _description
+            - *risk that the client's internal control systems will fail to prevent or detect material errors or misstatements*
+          - _instance
+            - *if there's not effective segregation of duties then there is a much higher riskk of employee fraud, without the need for collusion, going undetected*
+        - DETECTION RISK
+          - _description
+            - *risk that the auditor's tests and enquiries will fall to detect material errors or misstatements in the transactions and balances reflected in the client's financial statements*
+          - _instance
+            - *the detection risk is always greater with a new client because the auditor have had less time to build up their knowledge and understanding of the client's business and the risk to which it is exposed*
+          - _category
+            - Sampling risk
+            - Non-sampling risk
+    - Regulations
+      - ISA 315
+        - _role
+          - *Identifies and accesses the Risks of Material Misstatement Through Understanding the Entity and Its Environment*
+        - Internal control
+          - _meta
+            - _actions
+              - Detach `this`
+          - _relation
+            - IIA
+              - Definition
+              - Purpose
+          - _component
+            - The control environment
+            - The entity's risk assessment process
+            - The information system
+            - Control activities
+            - Monitoring of controls
+          - _env-digital
+            - _category
+              - General Controls
+                - Administration Control
+                - Systems development controls
+              - Application Controls
+            - _SOF
+              - GENERAL CONTROLS - ADMINISTRATION CONTROLS - **DOFF**
+              - GENERAL CONTROLS - SYSTEMM DEVELOPMENT CONTROLS - **CAST**
+              - APPLICATION CONTROLS - **IPOF**
+            - Alternative audit approaches
+              - Auditing around the computer
+              - Auditing through the computer - CAAT
+              - Auditing with the computer - ITF, SCARF
+          - _practice
+            - FEATURE PCRAM
+              - Plan of organisation
+              - Custody procedures
+              - Recording procedures
+              - Authorization procedures
+              - Management supervision
+            - STEP
+              - _meta
+                - search_engine_term: *Steps in auditor's consideration and approach to a client's internal control systems*
+                - mental_flowgraph
+                  - [No existing graph, please draw one yourself](#)
+                  - `1 - 2 - 4 ? [5 ? [7 | 4 | $ext]]`
+                    - `$ext`: extended substantive testing
+                    - \[1-7\]: S **BOLD**
+              - `SEQUENTIAL as S` | S **Ascertain**
+              - S **Record**
+              - S **Confirm**
+              - S **Evaluate**
+              - S **Test**
+              - S **Assess**
+              - S **Design and carry out limited programme of substantive testing**
+      - ISA 500
+        - Audit Evidence
+          - _relationship
+            - Audit procedures - SOCI
+              - Inspection of records or documents
+              - Inspection of tangible assets
+              - Observation
+              - Enquity
+              - Confirmation
+              - Recalculation
+              - Reperformance
+              - Analytical procedures
+              - _criteria
+                - *ASSERTIONS RELATING TO TRANSACTIONS AND EVENTS*
+                  - OCCURENCE
+                  - COMPLETENESS
+                  - ACCURACY
+                  - CUT-OFF
+                  - CLASSIFICATION
+                - *ASSERTION RELATING TO ACCOUNT BALANCES* - SOFP
+                  - EXISTENCE
+                  - RIGHTS AND OBLIGATIONS
+                  - COMPLETENESS
+                  - VALUATION AND ALLOCATION
+                - *ASSERTION RELATING TO PRESENTATION AND DISCLOSURE* - 
+                  - OCCURENCE AND RIGHTS AND OBLIGATIONS
+                  - COMPLETENESS
+                  - CLASSIFICATION AND UNDERSTANDABILITY
+                  - ACCURACY AND VALUATION
+          - ?
+            - SUFFICIENT
+            - RELEVANT
+      - ISA 700
+    - Skills
+      - Audit report making
+        - Decision tree
+    - Audit Documents
+      - Modified Audit Reports
+        - _meta
+          - working definition of materiality
+            - *transactions and other events are likely to be seen as material in the context of a company's financial statements if their omission, misstatemennt or non-disclosure would matter to a proper understanding of such financial statements on the part of a potential user*
+        - ~ with Unqualified Opinion
+          - emphasis of mattter
+            - a separate heading
+            - positioned after the opinion paragraph
+            - made clear that the audit opinion is not qualified - start with *Without qualifying our opinion we draw attention to ...*
+        - ~ with qualified opinion
+          - ISA 700 - Limite on scope, Disagreement
+          - Material but not pervasive
+          - Material and pervasive
+      - Audit letters
+        - _schema
+          - purpose
+          - frequency
+          - content
+            - _schema
+              - audit objectives
+              - management responsibilites
+              - relevent legislation
+              - relevant professional standards
+              - audit procedures
+              - liaison with internal audit
+              - risk assessment
+              - use of experts
+              - auditor access rights
+              - auditor/client communications
+              - deadlines
+              - reporting format
+              - fee basis
+              - dispute settlement procedures
+              - request for confirmation
+        - _actions
+          - if directors refuse to provide representation letter
+        - Engagement Letters
+        - Management Letter
+        - Management representation letter
+    - Role
+      - Independent auditor
+        - ~ must report their opinion in respect of two main issues
+          - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
+          - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
+- [ACCA F9 - 1. Financial Management Function](https://www.youtube.com/watch?v=wM4bRVo2SUQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=106)
+  - Videomark: 14:06/14:06
+  - CCS: 60.6
+  - E.T.C: 2.19 months
+- [ACCA F9 - 2. Financial Management Environment](https://www.youtube.com/watch?v=01OyGCEgJJ4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=107)
+  - Videomark: 12:42/12:42
+- [ACCA F9 - 3. Working Capital management](https://www.youtube.com/watch?v=R-scVoqyoao&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=108)
+  - Videomark: 15:27/15:27
+  - CCS: 61.7
+  - E.T.C: 2.12 months
+- [ACCA F9 - 4. Working Capital management (cont)](https://www.youtube.com/watch?v=kUA6KFchhI4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=109)
+  - Videomark: 12:13/12:13
+  - CCS: 62.3
+  - E.T.C: 2.09 months
+  - STRUCT Financial Management
+    - _meta
+      - nature
+      - purpose
+    - Financial Objectives and the Relationship with Corporate Strategy
+    - Shareholders and Impact on Corporate Objectives
+      - Shareholder groups
+        - Shareholders
+        - Lenders
+        - Directors
+        - Employees
+        - Customers
+        - Suppliers
+        - Government
+        - Public
+    - Conflicting stakeholder interests
+      - Agency theory
+      - Influencing managerial behaviour
+      - Scope of strategic performance measures in private sector
+      - Return on investment(ROI/ROCE)
+      - Earning per share(EPS)
+      - Return on Equity
+    - Financial and Other Objectives in Non-for-Profit Organizations
+      - Profit and Not-for-profit organizations
+    - Financial Management Environment
+      - The economic environment for business
+      - The impact of macro-economics
+        - Macro-economic factors
+      - The nature and role of financial markets and institutions
+      - Stock markets
+      - How stock markets operate
+    - ?
+      - Working Capital Management
+        - The nature, elements and importance of working capital
+          - Working Capital = Current assets - current liabilities
+            - CA
+              - Cash
+              - Inventory...
+            - CL
+              - Receivables
+              - Payables...
+          - Ratio Analysis
+            - Liquidity ratios
+              - $Current\, Ratio = \frac{Current\, assets}{Current\, liabilities}$
+              - $Quick\, Ratio = \frac{Current\, assets - Inventories}{Current\, liabilities}$
+            - Turnover ratios
+              - Trade debtors(receivables): $\frac{Trade\, Debtors  \times 365}{Sales}$
+              - Inventory turnover: $\frac{Inventory \times 365}{COGS}$
+              - Trade creditors(payables): $\frac{Trade\, Payables \times 365 }{COGS}$
+        - Management of inventories, account receivables, accounts payable and cash
+          - Economic Order Quantity(EOQ)
+            - [Economic Order Quantity (EOQ) | Explained With Example](https://www.youtube.com/watch?v=uhMcWdlkWxE)
+              - Videomark
+            - [EOQ Economic Order Quantity formula and explanation](https://www.youtube.com/watch?v=AYpjPWmlyHM)
+            - QDPCH: Order quantity, Quantity of product demanded annually, Purchase cost for one unit, fixed cost per order(not incl. the purchase price), cost of holding one unit for one year
+          - Assessing the creditworthiness of customers: 5 C's
+            - Character, Capactity, Capital, Collateral, Condition
+          - Collection of debts
+          - Deduction
+          - Financial implications of different credit policies
+        - Determining work capital needs and funding strategies
+        - ?
+        - Adjusting for risk and uncertainty in investment appraisal
+          - Sensitivity analysis
+          - Scenario analysis
+        - Specific investment decisions(Lease or buy; asset replacement; capital rationing)
+          - Leasing
+          - Operating leases
+          - Finance leases
+          - Attractiveness of Leasing
+          - Asset replacement decisions
+- [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
+  - Videomark: 13:42/13:42
+  - CCS: 62.8
+  - E.T.C: 1.13 months
+- [ACCA F9 - 6. Investment Appraisal (cont)](https://www.youtube.com/watch?v=_oIiKDxRvG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=111)
+  - Videomark: 14:53/14:53
+  - CCS: 63.4
+  - E.T.C: 2.03 months
+- [ACCA F9 - 7. Investment Appraisal (cont)](https://www.youtube.com/watch?v=G7FskExbZo4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=112)
+  - Videomark: 14:29/14:29
+  - CCS: 64
+  - E.T.C: 2 months
+  - STRUCT | Audit - Investment Appraisal
+    - Non-discounted cash flow techniques
+      - Payback method
+        - Advantage
+        - Disadvantage
+      - Accounting Rate of Return
+    - Discounted cash flow(DCF) techniques
+      - _supplement
+        - [How to value a company using discounted cash flow (DCF) - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=jfcRUzKZZE8)
+      - The preeminence of cash
+      - Timing and value
+    - Net Present Value(NPV)
+    - Relevant Cash Flows
+    - Internal Rate of Return(IRR)
+      - ?
+        - Fisher formula
+- [ACCA F9 - 8. Business Finance](https://www.youtube.com/watch?v=ksB2XyeEgJ0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=113)
+  - Videomark: 13:32/13:32
+  - CCS: 64.5
+  - E.T.C: 2.36 months
+  - STRUCT | Business Finance
+    - ?
+    - ?
+      - IPO(Initial public offering)
+        - **Islamic finance**
+          - Sharia
+            - Islamic financial instruments
+              - مرابحة
+              -  الإجارة
+              -  مضاربۃ
+              -  صكوك
+   - \[4\] Internal sources of finances and dividend policy
+   - Gearing and capital structure considerations
+     - Debt and Equity
+   - Finance for SMEs
+- [ACCA F9 - 9. Cost of Capital](https://www.youtube.com/watch?v=4Y3Iik-vXq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=114)
+  - Videomark: 13:54/13:54
+  - CCS: 65.1
+  - E.T.C: 1.93 months
+  - STRUCT | Cost of Capital
+    - Source of finance and their relative costs
+      - The relationship between Risk and Return
+      - Risk=free rate
+    - Determine the cost of equity
+      - Cost of equity
+        - Dividend Discount Model
+        - Capital Asset Pricing Model
+          - $k_e=r_f+(r_m-r_f)\times \beta_e$
+    - Estimate the cost of debt and other capital instruments
+      - Cost of preference shares
+        - Irredeemable
+        - Redeemable
+          - $P_o = \sum_{x = 0}^{n} \frac{D_x + P_x}{(1+k_p)^x}$
+      - Cost of loan capital(debt)
+      - Impact of taxes
+    - Estimating the overall cost of capital
+      - Average and Marginal Cost of Capital
+      - Weighted average cost of capital(WACC)
+    - Impact of cost of capital on investments
+- [ACCA F9 - 10. Business Valuations](https://www.youtube.com/watch?v=ugtWxh42Ktk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=115)
+  - STRUCT | Business Valuations
+    - Nature and purpose of the valuation of business and financial assets
+    - Models for the valuation of shares
+      - Valuation Methods
+      - Book value methods
+      - Market-relative methods
+      - Price-Earnings ratio
+      - Other method: Earnings Yield
+      - Cash flow-based methods
+        - Dividend Value Method
+        - Free Cash Flow
+      - Limitations of the valuation methods
+    - The valuation of debt and other financial assets
+    - The Efficient Market Hypothesis and practical considerations in the valuation of shares
+      - Main forms of market efficiency
+- [ACCA F9 - 11. Risk management](https://www.youtube.com/watch?v=z9pv2MRKdzg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=116)
+  - Videomark: 13:54/13:54
+  - CCS: 66.8
+  - E.T.C: 1.93 months
+  - HEADS UP!
+    - *There are no F10 in ACCA, later will be the review session of LSBF from F1-F9, commence consolidation of knowledge while maintaining LEARNING FRENCH as the main goal, and accidentally having learned a thing or two in accounting as implicit main goal as Xtremely unfair advantage build-up*
+      - Perform rigorous meta-digging to maximize the overall amplification of Xtremely unfair advantage build-up(Maybe add infinite numbers of X later on)
+  - _meta_following
+      - _meta_escalate
+        - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
+        - [Accounting Coach](https://www.accountingcoach.com/)
+          - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+        - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+          - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+        - TANDEM WITH **RPA**
+        - IFRS
+      - Brain Groceries
+        - **incoterms**
+          - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+          - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+      - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+        - NEW P.O.I - S. M. Bragg
+        - Process 1
+          - Style: Skimming
+            - Use pre-trained rigorous visualization brain-state
+          - Bookmark: 14/256
+        - Process 2
+      - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+        - _meta
+          - STICKY, FOLLOWING  
+            - Process 1
+              - Bookmark: 11/392
+              - Style: Osmosis
+                - _meta
+                  - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                  - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                    - _meta
+                      - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+              - Goal: Connect the dots till a whole area just clicks
+                - _meta
+                  - And record `average_arial_singularity_time_cost`
+              - Sub-process 1.1
+                - Scope
+                - Goal
+            - Process 2
+      - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+        - Bookmark: 2/45
+        - _meta
+          - STICKY, FOLLOWING
+          - RECAP
+            - position: p1
+          - STRUCT
+            - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+      - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+        - _meta
+          - STICKY, FOLLOWING
+      - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+      - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+      - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+        - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+        - Bookmark: 13
+      - 18.S096, Financial Mathematics(MIT)
+        - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+          - Videomark: 0:00:00/1:00:29
+          - _meta_escalate
+            - MOVE TO `$parent` on COMPLETION of `$parent`
+
 
 
 # Roadmap

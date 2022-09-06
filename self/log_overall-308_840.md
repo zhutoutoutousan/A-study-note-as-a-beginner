@@ -8,8 +8,13 @@
 - The Practice of Management - P.F. Drucker
 - The Art of Business Value - M. Schwartz
 - Getting Things Done - D. Allen
-- Educated - Tara Westover 
-
+- Educated - Tara Westover
+- 底层逻辑: 看清这个世界的底牌 - 刘润
+  - [link](https://drive.google.com/file/d/1whM67fbQbi0ELdPHKYFNaXqiUqlYXHVm/view?usp=sharing)
+  - PROCESSING_POINTER_FIELD
+    - OSMOSIS_POINTER
+      - _state
+        - Saturation: 1%
 ## Build your weapon
 ### Learn to write
 - Purpose
@@ -162,15 +167,17 @@
                     - Basic Academic Sophistication
                       - Randomwalk
                         - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
-          - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ&t=1255s)
-            - Videosweepmark: 27:55
+          - [NFP Live Trading](https://www.youtube.com/watch?v=TEFdQQnE1IM)
+            - Videosweepmark: 3:00
+            - Tandem
+              - [The Disciplined Way To Move Your Stop Loss Order](https://www.youtube.com/watch?v=hkKwPn56vm0)
             - _motivation
               - *A startup needs (have good eyes to hire) a competent investo-guy*
             - _basics
               - TTL 3
                 - pip
             - _state
-              - Current Langauge Shuffle: Bhojpuri language
+              - Current Langauge Shuffle: Lietuvių kalba
                 - _meta:escalate
                   - **In here, the secret of learning and communicating with aliens may be revealed**
                   - *Fundamentals to understand an alien language: What to do in desparate situations*
@@ -208,10 +215,6 @@
                     - Double top
                     - Double bottom
           - Forex
-            - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
-              - _state
-                - Current Langauge Shuffle: German
-                - Shuffle Frequency: 5 min
           - Future
     - Power
     - Technology
@@ -257,10 +260,19 @@
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
   - ACCA F1~F9 --> Borrowed from section `CFA CPA`
     - Video contents
-      - [LSBF ACCA F8: Introduction to Ethics](https://www.youtube.com/watch?v=xV54o1HWEGM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=144)
-        - Videosweepmark
-        - CCS: 82.3%
-        - ETC: 29d
+      - [LSBF ACCA F9: Past Paper Analysis Part 2](https://www.youtube.com/watch?v=2OcZ-eeLg9g&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=153)
+        - Videosweepmark: 2:00
+        - CCS: 87.4%
+        - ETC: 20d
+        - F9
+          - Financial management function - 6%
+          - Financial management environment - 1%
+          - Working capital management - 22%
+          - Investment appraisal - 22%
+          - Business finance - 19%
+          - Cost of capital - 12%
+          - Business valuation - 12%
+          - Risk management - 7%
         - ?
           - CONVOLUTION | Conceptual Framework
         - CONVOLUTION | Actual Exam Readiness
@@ -294,267 +306,6 @@
           - _motivation
             - Put to Startup arsenal
           - [ACCA - Global](https://www.accaglobal.com/hk/en.html)
-      - [ACCA F8INT - 1. Audit reports](https://www.youtube.com/watch?v=ZnZFycIm9oY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=96)
-        - Videomark: 8:25/8:25
-        - CCS: 54.9%
-        - E.T.C: 2.5 months
-      - [ACCA F8INT - 2. Ethics](https://www.youtube.com/watch?v=OnQmF_PUCYs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=97)
-        - Videomark: 10:01/10:01
-        - CCS: 55.4%
-        - E.T.C: 2.47 months
-      - [ACCA F8INT - 3. Audit Letters](https://www.youtube.com/watch?v=bMrS7NESCNI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=98)
-        - Videomark: 11:07/11:07
-        - CCS: 56%
-        - E.T.C: 2.44 months
-      - [ACCA F8INT - 4. Audit Risk](https://www.youtube.com/watch?v=WonImpH3ya4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=99)
-        - Videomark: 10:34/10:34
-        - CCS: 56.7%
-        - E.T.C: 2.06 months
-      - [ACCA F8INT - 5. Internal control](https://www.youtube.com/watch?v=PkVlobJ4eHU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=100)
-        - Videomark: 10:01/10:01
-        - CCS: 57.1%
-        - E.T.C: 3.575 months
-      - [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)
-        - Videomark: 10:29/10:29
-        - CCS: 57.7%
-        - E.T.C: 2.35 months
-      - [ACCA F8INT - 7. Audit Evidence](https://www.youtube.com/watch?v=0nyOuxuoB0A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=102)
-        - Videomark: 10:04/10:04
-        - CCS: 58.3%
-        - E.T.C: 2.31 months
-      - [ACCA F8INT - 8. Inventory](https://www.youtube.com/watch?v=ihqrAfpm_Fs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=103)
-        - Videomark: 10:03/10:03
-        - CCS: 58.9%
-        - E.T.C: 2.28 months
-      - [ACCA F8INT - 9. Subsequent Events](https://www.youtube.com/watch?v=j98vluVk93M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=104)
-        - Videomark: 8:40/8:40
-        - CCS: 59.4%
-        - E.T.C: 2.25 months
-      - [ACCA F8INT - 10. Going Concern](https://www.youtube.com/watch?v=WwPgvjLiOZ8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=105)
-        - Videomark: 12:00/12:00
-        - CCS: 60%
-        - E.T.C: 1.21 months
-        - STRUCT_audit
-          - Term field
-            - Title
-            - Addresse
-            - Introductory paragraph
-            - Statement of responsibilities of management
-            - Statement of responsibilities of the auditors
-            - Score paragraph
-            - Opinion
-            - Auditor's signiture
-            - Date of report
-            - Auditor's address
-          - TEMP_UNSTRUCTURED_CACHE
-            - Internal audit
-            - Inventory
-              - Main auditing concern
-                - Client Stocktaking
-                  - BEFORE
-                  - DURING
-                  - AFTER
-                - Valuation of Inventry
-                  - COST
-                  - NET REALIZABLE VALUE
-            - Auditing events
-              - Subsequent event
-              - Adjusting event
-              - Non-adjusting event
-            - Auditing Approach - Proactive Period
-            - Auditing Approach - Reactive Period
-          - Ethics
-            - TOPIC
-              - Technical(professional) competence and due care
-                - *Compétences professionnelles ou techniques et diligence*
-              - Objectivity must be demonstrated
-              - Professional behaviour must be demonstrated
-                - *Le comportement professionnel*
-              - Integrity
-                - *La Intégrité*
-              - Confidentiality
-                - *La confidentialité*
-            - Threats
-              - Self-interest - e.g. owning shares in a client company
-                - *L'intérêt personnel - un intérêt financier danes les actions d'une entreprise cliente*
-              - Self-review
-                - *L'examen même*
-              - Familiarity
-                - *Familiarité - Famile relation agir en tant qu'auditeur pour accompagner le travail est-ce que le PDG*
-              - Intimidation
-              - Advocacy
-            - Safeguard against threats
-            - Practices
-              - STIPULATIONS ON BRANDING An auditor must proactively publicize integrity behaviour, quasi periodic public ethics challenge
-          - **RISK**
-            - _discernment
-              - EXTERNAL **Business Risk**
-                - _diff-instance
-                  - _meta
-                    - diff-identification
-                  - Business Risk: *foreign exchange losses reduce company's profitability*
-                  - Audit Risk: *overstatement of profit if foreign exchange losses are not properly recognised*
-                - _category
-                  - Operational Risk
-                  - Financial Risk
-                  - Compliance Risk
-            - _instance
-              - *if an auditor gave an unqualified opinion, when in fact the company was not a going concern, then shareholders and others placing reliance on this report in making economic decisions relating to their dealings with the company might suffer financial loss*
-            - _category
-              - _consolidation
-              - INHERENT RISK
-                - _description
-                  - *risk that there may be material errors or misstatements in the client's financial statements, before giving consideration to any internal controls that may have been established*
-                - _instance
-                  - *in a high tech comapny there is high risk of obsolescent inventory which if not recognised could result in a material overstatement of both profits and asset values*
-              - CONTROL RISK
-                - _description
-                  - *risk that the client's internal control systems will fail to prevent or detect material errors or misstatements*
-                - _instance
-                  - *if there's not effective segregation of duties then there is a much higher riskk of employee fraud, without the need for collusion, going undetected*
-              - DETECTION RISK
-                - _description
-                  - *risk that the auditor's tests and enquiries will fall to detect material errors or misstatements in the transactions and balances reflected in the client's financial statements*
-                - _instance
-                  - *the detection risk is always greater with a new client because the auditor have had less time to build up their knowledge and understanding of the client's business and the risk to which it is exposed*
-                - _category
-                  - Sampling risk
-                  - Non-sampling risk
-          - Regulations
-            - ISA 315
-              - _role
-                - *Identifies and accesses the Risks of Material Misstatement Through Understanding the Entity and Its Environment*
-              - Internal control
-                - _meta
-                  - _actions
-                    - Detach `this`
-                - _relation
-                  - IIA
-                    - Definition
-                    - Purpose
-                - _component
-                  - The control environment
-                  - The entity's risk assessment process
-                  - The information system
-                  - Control activities
-                  - Monitoring of controls
-                - _env-digital
-                  - _category
-                    - General Controls
-                      - Administration Control
-                      - Systems development controls
-                    - Application Controls
-                  - _SOF
-                    - GENERAL CONTROLS - ADMINISTRATION CONTROLS - **DOFF**
-                    - GENERAL CONTROLS - SYSTEMM DEVELOPMENT CONTROLS - **CAST**
-                    - APPLICATION CONTROLS - **IPOF**
-                  - Alternative audit approaches
-                    - Auditing around the computer
-                    - Auditing through the computer - CAAT
-                    - Auditing with the computer - ITF, SCARF
-                - _practice
-                  - FEATURE PCRAM
-                    - Plan of organisation
-                    - Custody procedures
-                    - Recording procedures
-                    - Authorization procedures
-                    - Management supervision
-                  - STEP
-                    - _meta
-                      - search_engine_term: *Steps in auditor's consideration and approach to a client's internal control systems*
-                      - mental_flowgraph
-                        - [No existing graph, please draw one yourself](#)
-                        - `1 - 2 - 4 ? [5 ? [7 | 4 | $ext]]`
-                          - `$ext`: extended substantive testing
-                          - \[1-7\]: S **BOLD**
-                    - `SEQUENTIAL as S` | S **Ascertain**
-                    - S **Record**
-                    - S **Confirm**
-                    - S **Evaluate**
-                    - S **Test**
-                    - S **Assess**
-                    - S **Design and carry out limited programme of substantive testing**
-            - ISA 500
-              - Audit Evidence
-                - _relationship
-                  - Audit procedures - SOCI
-                    - Inspection of records or documents
-                    - Inspection of tangible assets
-                    - Observation
-                    - Enquity
-                    - Confirmation
-                    - Recalculation
-                    - Reperformance
-                    - Analytical procedures
-                    - _criteria
-                      - *ASSERTIONS RELATING TO TRANSACTIONS AND EVENTS*
-                        - OCCURENCE
-                        - COMPLETENESS
-                        - ACCURACY
-                        - CUT-OFF
-                        - CLASSIFICATION
-                      - *ASSERTION RELATING TO ACCOUNT BALANCES* - SOFP
-                        - EXISTENCE
-                        - RIGHTS AND OBLIGATIONS
-                        - COMPLETENESS
-                        - VALUATION AND ALLOCATION
-                      - *ASSERTION RELATING TO PRESENTATION AND DISCLOSURE* - 
-                        - OCCURENCE AND RIGHTS AND OBLIGATIONS
-                        - COMPLETENESS
-                        - CLASSIFICATION AND UNDERSTANDABILITY
-                        - ACCURACY AND VALUATION
-                - ?
-                  - SUFFICIENT
-                  - RELEVANT
-            - ISA 700
-          - Skills
-            - Audit report making
-              - Decision tree
-          - Audit Documents
-            - Modified Audit Reports
-              - _meta
-                - working definition of materiality
-                  - *transactions and other events are likely to be seen as material in the context of a company's financial statements if their omission, misstatemennt or non-disclosure would matter to a proper understanding of such financial statements on the part of a potential user*
-              - ~ with Unqualified Opinion
-                - emphasis of mattter
-                  - a separate heading
-                  - positioned after the opinion paragraph
-                  - made clear that the audit opinion is not qualified - start with *Without qualifying our opinion we draw attention to ...*
-              - ~ with qualified opinion
-                - ISA 700 - Limite on scope, Disagreement
-                - Material but not pervasive
-                - Material and pervasive
-            - Audit letters
-              - _schema
-                - purpose
-                - frequency
-                - content
-                  - _schema
-                    - audit objectives
-                    - management responsibilites
-                    - relevent legislation
-                    - relevant professional standards
-                    - audit procedures
-                    - liaison with internal audit
-                    - risk assessment
-                    - use of experts
-                    - auditor access rights
-                    - auditor/client communications
-                    - deadlines
-                    - reporting format
-                    - fee basis
-                    - dispute settlement procedures
-                    - request for confirmation
-              - _actions
-                - if directors refuse to provide representation letter
-              - Engagement Letters
-              - Management Letter
-              - Management representation letter
-          - Role
-            - Independent auditor
-              - ~ must report their opinion in respect of two main issues
-                - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
-                - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
       - [ACCA F9 - 1. Financial Management Function](https://www.youtube.com/watch?v=wM4bRVo2SUQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=106)
         - Videomark: 14:06/14:06
         - CCS: 60.6
@@ -805,6 +556,10 @@
         - Specific Functions of Accounting and Internal Financial Control
         - Leading and Managing Individuals and Teams
         - Recruiting and Developing Effective Employees
+  - ECON 252
+    - [video entry stamp](https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185)
+      - Videosweepmark: 17:02
+      - LIST_NUM: 1
   - Political Science Bundle
     - Agency Theory
       - Erudition
@@ -872,9 +627,9 @@
           - PROCESSING POINTER FIELD
             - Videomark: 10:00
         - Stanford CS224W
-          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.2 - PageRank: How to Solve?](https://www.youtube.com/watch?v=TU0ankRcHmo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=11)
+          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.3 - Random Walk with Restarts](https://www.youtube.com/watch?v=HbzQzUaJ_9I&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=12)
             - CCS: 17%
-            - Videomark: 1:00/20:40 | `this.concurrentTraffic = 0.33`
+            - Videomark: 8:22 | `this.concurrentTraffic = 0.33`
             - ?
               -  SVM, Regression
            - [ ] **MAJOR BLOCKAGE**
@@ -885,30 +640,60 @@
                     - _inbound
                       - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
                       - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+                    - STATIC
+                      - Use Case Outreach
+                        - Accounting
+                          - `$(this)?p=295&context=example11`
                     - ASYNC MIRRORED | PROCESSING POINTER FIELD
                       - Struct pointer
                       - bookSweepPointer
                       - supplementationPointer
-                        - **Visualization-Procedure-Literacy Confluence**
+                        - **Visualization-Procedure-Literacy Confluence** 
+                          - _tag
+                            - #continuousStimulationUnit
+                            - #ROOT
+                          - _update_root
+                            - `createContinuousStimulationUnit(this, context)`
+                              - `ROOT.CentralExecutiveFunction`
+                                - *...Continuous Stimulation Unit... A consistent way to hijack context-irrelavent development concerning one unit's neural efficacy*
+                          - _updates
+                            - 2022/9/3
+                              - Neural reconstruction efficiency sky-rocketed for linear transform visualization
                           - 3blue1brown | `this.concurrentTraffic = 0.33`
                             - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
-                              - Videosweepmark: 3:32
+                              - Videosweepmark: 9:10
+                            - [Matrix Visualization](https://www.youtube.com/watch?v=XkY2DOUCWMU)
+                              - Videosweepmark
+                              - Loopcounts: 1
+                              - **CRON** `cron_decay='logarithmic'` `median_period='5d'`
+                            - [Three-dimensional linear transformations | Chapter 5, Essence of linear algebra](https://www.youtube.com/watch?v=rHLEWRxRGiM&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+                              - Videosweepmark
+                              - Loopcounts: 1
+                            - [The determinant | Chapter 6, Essence of linear algebra](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=6)
+                              - Videosweepmark: 8:01
                           - Discrete Mathematics Confluence 
                       - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
                           - *Regain Linear Algebra Intuition*
-                        - _DDL
-                          - `Not applicable, error message from CoreExecutiveFunctionModule:` *This is not a prison, setting DDL would be a bit of overkill as per this moment*
                         - _relationship
                           - _prerequisite
                           - _enablement
                             - Numeric linear algebra
                         - _range: 281/1283~?
                         - _subpointers
-                          - linearAlgebraIntuitionRegainSweepPointer: 285/?
+                          - linearAlgebraIntuitionRegainSweepPointer: 296/? - Example 12
+                            - [ ] CONCURRENT [Visualizing Composition of Linear Transformations **aka Matrix Multiplication**](https://www.youtube.com/watch?v=On6wkamacRE)
+                              - Videosweepmark: 2:30
+                            - [ ] THROTTLE [Markov Chains Clearly Explained! Part - 1](https://www.youtube.com/watch?v=VNHeFp6zXKU&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=2)
+                              - Videosweepmark: 1:00
+                              - Liststamp: 3
+                              - **RUNNING** `confluenceWith_3blue1brown(context)`
+                                - ERROR: \[Inaudible\]
+                              - Eigenvector Equation
+                            - NEURAL TRAINING [A matrix and its transpose both visualized](https://www.youtube.com/watch?v=1qdq6mtA_J8)
                           - linearAlgebraIntuitionRegainPrunePointer
                             - `values`
-                              - 281~285
+                              - 281~294
                             - _properties: PASSIVE
                           - linearAlgebraIntuitionRegainProblemSolvingPointers
                             - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
@@ -944,6 +729,7 @@
                    - BFS
                  - [ ] [Linear Algebra Example Problems - Intersecting Lines](https://www.youtube.com/watch?v=Fg6B01vEN3U&list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
             - INBOUND CACHE
+              - [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU)
               - Basics & Prerequisites
                 - Coding
                   - Pagerank
@@ -1397,7 +1183,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
-            - CCS: .4%
+            - CCS: 3.4%
             - _state
               - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
           - Advanced React and Redux
@@ -1421,10 +1207,8 @@
             - CCS: 1%
             - _state
               - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
-          - CCS: 77.3%
-          - E.T.A: 4d
-          - TEMP_TIMESTAMP: 1:25
+        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> `*-SW_arsenal`
+          - CCS: 100%
           - [x] BLOCKAGE
             - [x] reinstall `docker`
             - [x] install `pgAdmin`
@@ -1526,7 +1310,7 @@
   - Competitor liquidation & engulfment: Orchestration & Automation
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 15.8% | CONCURRENT 50%
+        - CCS: 16.6%
         - E.T.A: 7.08 month + 2d
         - TEMP_TIMESTAMP: 3:30
         - ?
@@ -1541,33 +1325,42 @@
               - BLOCKAGE
                 - [ ] \[REDACTED\]
                   - [ ] `[REDACTED]`
+                    - [ ] [REDACTED](https://www.cnblogs.com/mlh-bky/p/12356365.html)
+                    - [ ] [REDACTED](https://www.youtube.com/watch?v=jqrd9Ba3VOc)
+                      - Videosweepmark
           - Reconissance
             - [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
           - ipinfo.info
           - whatweb
-        - [x] BLOCKAGE
+        - SEC | WTF Tree
           - [x] Blackscreen problem --> MOVE TO `ANY/kali linux/WTF tree`
             - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
             - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
-          - [ ] In-depth understanding of TCP & UDP
-              - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-                - Videomark: 1:01:09/1:01:09
-                - Intuition
-                  - Guesswork
-                    - TTL
-                    - Hops
-                - Enhancement
-                  - Multi-point debugging
-                - Tooling
-                  - [X] Wireshark
-                    - [ ] OPTIONAL Show Delta Time
-              - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
-                - Videomark: 8:30
-                - _state
-                  - CONCURRENT 50%
-              - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
+        - In-depth understanding of TCP & UDP
+            - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
+              - Videomark: 1:01:09/1:01:09
+              - Intuition
+                - Guesswork
+                  - TTL
+                  - Hops
+              - Enhancement
+                - Multi-point debugging
+              - Tooling
+                - [X] Wireshark
+                  - [ ] OPTIONAL Show Delta Time
+            - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE) | `this.concurrentTraffic = 0.5`
+              - Videomark: 38:00
+              - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
+              - Concetto
+                - point-to-point
+                - GRE tunnel
+            - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
+        - In-depth capability of `nmap`
+          - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
+            - Videosweepmark: 20:30
+          - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
     - Financial toolkit
@@ -1589,11 +1382,10 @@
         - [Metrics](https://openpsychometrics.org/)
     - MK toolkit
       - Co-ordinated Collusion
-  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{5 minuti per quei\}** 
-    - CCS: 80.6%
-    - E.T.A: 19d
-      - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 1:40
+  - Business Development For Startups and Tech Companies --> `*-business_arsenal | Learning italian while accidentally getting BD Mindset in arsenal`
+    - CCS: 100% + Slide Wrapping Up
+    - _source
+      - LOCKED Reach Spanish C2 Level, Italian C2 level and corresponding Project Management, Product Management, CPA, CFA basic requirements to unlock
     - _prerequisite
       - How to identify a problem to solve?
         - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
@@ -1831,9 +1623,11 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 44.5%
-      - E.T.A: 6.23 months
-      - TEMP_TIMESTAMP: 5
+      - CCS: 47.2%
+      - E.T.A: 76d
+      - TEMP_TIMESTAMP
+      - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
+        - Videosweepmark: 3:22
       - Hands-On ACTIVE
         - [ ] Image Processing
       - [x] BLOCKAGE --> To `WTF-tree --> AWS` 
@@ -1848,6 +1642,8 @@
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 - _helper-function --> `_root_processing-language-meta`
+  - ERROR: Failed to perform `dailyLanguageChangelogUpdate` due to `EVENT_NAME=InvoluntaryPassout`
+    - ERROR：No `Automatic Caffeine Dispenser`not found in this dimension
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
@@ -1855,16 +1651,31 @@
           - Require upgrade on `INTERNAL_INTUITION`
       - Time consumption
         - English
-          - IV: 
+          - IV
+        - French
+          - IV: 14:09
+          - MA_5: 14:09 + ...\{4\}
         - Italian
-          - IV: 28:53
-          - MA_5: 28:53 + ...\{4\}
+          - IV: 13:14
+          - MA_5: 28:53 + 13:50 + 13:14 + ...\{2\}
         - Russian
-          - IV: 11:38
-          - MA_5: 11:38 + ...\{4\}
+          - IV: 2:29
+          - MA_5: 11:38 + 2:29 ...\{4\}
         - German
-          - IV: 34:40
-          - MA_5: 34:40 + ...\{4\}
+          - IV: 39:15
+          - MA_5: 34:40 + 40:00 + 39:15 + ...\{2\}
+        - Portuguese
+          - IV: 6:39
+          - MA_5: 4:00 + 6:39 +  ...\{3\}
+        - Arabic
+          - IV: 6:03
+          - MA_5: 3:44 + 6:03 + ...\{3\}
+        - Japanese
+          - IV: 11:12
+          - MA_5: 7:42 + 11:12 + ...\{4\}
+        - Greek
+          - IV: 5:51
+          - MA_5: 5:51 + ...\{4\}
     - Actual Addiction Manifestation
       - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
         - 2022/8/1
@@ -1939,7 +1750,7 @@
       - \{`self`\}
 - Arabic - A2
   - Initialization of language/meta structrure: 100%
-    - RUNNING `createLanguageImprovmentPlan('arabic', requirements=$(children.input('HOOK-Requirements', context)))`
+    - `createLanguageImprovmentPlan('arabic', requirements=$(children.input('HOOK-Requirements', context)))`
       - `input`
         - HOOK-Requirements
           - Forward & Backward Compatible
@@ -1954,14 +1765,34 @@
           - time: 1 minute
           - energy: LOCKED *Advanced internal intuition* required
           - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
+  - ...
+    - STATIC
+      - Verb Tense
+        - _col
+          - personal pronoun
+    - MESO
+    - VOLATILE
+      - `verb`
+        - تنزيل
+      - `preposition`
+        - مع
+      - `noun`
+        - 4% | مفهوم
+        - 3% | التي
+          - [Arabic verbs mastery lesson 1](https://www.youtube.com/watch?v=lrkIyxiUHrw)
+            - Videosweepmark: 1:50
+  - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
+    - [Arabic Grammar For All - Lesson 1 - The 3 States - Abu Sulaymaan](https://www.youtube.com/watch?v=sOQvSkC--mw&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ)
+      - Videosweepmark: 8:38
+      - VideoListStamp: 1
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
-  - Typing speed training
+  - Typing speed training | `this.concurrentTraffic = 0`
     - Style: In tandem with 
-    - Current typing rate: 2 WPM
+    - Current typing rate: 5 WPM
     - Minimum considerable rate: 40 WPM
     - In tandem viewing keyboard layout
       - http://www.arabic-keyboard.org/
@@ -1974,27 +1805,6 @@
         - Shift+S: Kasrah tanwin
         - Shift+X: Sukun
         - Shift+~: Tasdid
-  - ON HALT | Energy leak by language addiction
-    - 2022/5/13: As the sentence becomes longer, detecting neural-level alternation, new neural pathways are being created, initiate `neural pathway encapsulation mechanism` for future re-use
-      - _meta
-        - *I can't automate this for now*
-        - What...is... neural pathway encapsulation mechanism? Do you have one?
-          - _meta
-            - Do we have a similar counterpart on the *人类共同体* side? Or... *外星人共同体*?
-  - WHIM Daily Alphabet Recap
-  - RANDOM The future foundational ability of prospective entrepreneur --> MOVE TO `startup` ON NEXT ENCOUNTER
-    - MICRO Typing Speed of no less than 200 WPM
-    - MESO | MOBA proficiency
-      - Communication rigor
-      - Politics rigor
-      - Execution rigor
-      - Regulation exploitation rigor
-      - Expertee
-      - Context-driven raw intelligence or pre-built mental facility
-    - MACRO TBD
-  - Symbol Proficiency --> MOVE TO `language_arsenal` ON NEXT ENCOUNTER
-    - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
-  - Kickstart comes after finishing initialization of language structrure of `Portuguese`
 - Spanish - Upper B1+++
   - Syntax base construction stage: 83%
   - No change, next stage E.T.A 1.7 months
@@ -2014,11 +1824,63 @@
   - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
 - Latin - N/A
   - TOPIC: *You saw the world as it is, so why are you still alive?*
-- Japanese - Mid N4-
+- Japanese - Mid N4+++
   - RUNNING `createLanguageImprovmentPlan('japanese', requirements=$(children.input('HOOK-Requirements', context)))`
+    - `input`
+      - HOOK-Requirements
+        - Forward & Backward Compatible
+        - MOST Cost effective
+          - Time
+          - Energy
+    - `output`
+      - `CentralExecutiveFunction`
+          - ERROR: Shutdown for maintenance
+      - `Root.ResourceAllocation(time, energy, overhead_percentage)`
+        - time: 1 minute
+        - energy: LOCKED *Advanced internal intuition* required
+        - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
   - Initialization of language/meta structrure: 100%
+  - Keyboard input improvement
   - Tool
     - [j-talk](https://j-talk.com/mqvbpjk)
+    - Reverso
+  - TOPIC | Electrical Engineering, Chemical Engineering, Chemistry basics
+    - \* - JP
+      - [Python for computational chemistry -beginners tutorials -Introduction](https://www.youtube.com/watch?v=Sno4szlS4lw&list=PLhYF9QNr23IZ_bnrCIPdWdxNI_Ggl4m3G)
+        - Videosweepmark: 2:30
+      - [Keynote: Advancing EDA Through the Power of AI and High-Performance Computing](https://www.youtube.com/watch?v=Ba-0GkMEtCA)
+        - Videosweepmark: 0:34
+    - JP - \*
+      - [電気工学コース紹介](https://www.youtube.com/watch?v=xwBcBCq0k0w)
+        - Videosweepmark: 3:22
+  - TOPIC | Hierarchy, concrete jungle, cyberpunk
+  - MESO STORE
+    - STATIC
+      - Katakana proficiency
+    - MESO
+    - VOLATILE
+      - `verb`
+        - 関する - 15%
+        - 選択する - 35%
+        - 高める - 10%
+      - `phrase`
+        - 現在実行中
+      - ?
+        - であり
+        - または
+        - **てもらう**
+          - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
+      - `noun`
+        - ?
+          - 適用
+          - であり
+        - 基調講演
+        - 言葉
+        - 持続可能社会 | 20%
+        - モチベーション | 90%
+        - フォトグラファー | 90%
+        - ノートブック | 50%
+        - ブラウザベースのコーディング | 50%
 - Icelandic - N/A
 - Russian - Upper B1+++
   - Typing speed training
@@ -2127,18 +1989,27 @@
     - HIST 251
       - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
         - Videosweepmark: 0:30
-  - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 2min/day
+  - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
+    - _destination_on_complete: `Language/Russian/$(L2 Cache)`
+    - [Big Countries Solution Explained](https://www.youtube.com/watch?v=71YQZS_SN6Q&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=55)
+      - Videosweepmark: 3:31
+      - Style: FAST POINTER
+  - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
+    - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
     - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
+      - Style: SLOW POINTER
       - PROCESSING_POINTER_FIELD
-        - Videosweepmark: 11:10
-        - LanguagePerfectionMark: 22%
+        - Videosweepmark: 11:00
+        - LanguagePerfectionMark: 35%
         - AlgorithmPerfectionMark
-          - Question Stem Comprehension: 50%
-          - Question Context Comprehension: 2%
-          - Automacity: 0%
-          - Procedural-Visualization Connection: 0%
-          - Metadigging: 0%
+          - Question Stem Comprehension: 60%
+            - [ ] Omnipotence of symbols
+          - Question Context Comprehension: 7%
+          - Automacity: 2%
+          - Procedural-Visualization Connection: 1%
+          - Metadigging: 1%
+          - Use case outreach: 5%
       - STYLE
         - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
         - If not perfect, loop until full comprehension
@@ -2156,16 +2027,18 @@
           - *так и с рандомизированными алгоритмами, является парадоксом дня рождения*
         - ?
           - результирующей
+        - **Предлог** --> `this.static`
+          - насчет
         - **глагол**
-          - иметь | 5%
-          - поэкспериментировать
-          - удовлетворять
+          - иметь | 45%
+          - удовлетворять | 30%
           - добавить | 10%
-          - предположить
+          - предположить | 25%
         - **прилагательное**
-          - найденный
+          - найденный - 20%
           - различный
           - самостоятельный
+          - соответствующий
         - **наречие**
         - ?
           - который
@@ -2223,7 +2096,7 @@
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
         - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
-          - Personal Pronouns in Greek | 40%
+          - Personal Pronouns in Greek | 42%
             - Subject
               - Core Table | 92%
               - Examples | 50%
@@ -2234,8 +2107,8 @@
                     - μένουμε
                     - μένετε
                     - ξενοδοχείο
-                      - [ΠΗΓΑΜΕ ΣΤΟ ΧΕΙΡΟΤΕΡΟ ΞΕΝΟΔΟΧΕΙΟ ΤΗΣ ΒΟΥΛΓΑΡΙΑΣ ! | ΦΙΛΙΠΠΟΥΠΟΛΗ @Konilo](https://www.youtube.com/watch?v=EuvRr_681bo)
-                        - Videosweepmark: 15:30
+                      - [10 από τα πιο ΕΠΙΚΙΝΔΥΝΑ ΠΟΥΛΙΑ στον κόσμο! - Τα Καλύτερα Top10](https://www.youtube.com/watch?v=aADhGGgfclM)
+                        - Videosweepmark: 6
                         - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
                           - KarpouziFetaGaming
                   - **ουσιαστικό**
@@ -2244,11 +2117,11 @@
               - Core Table | 80%
               - Examples | 30%
             - Possessive form
-              - Core Table | 5%
-              - Examples | 2%
-          - Demonstrative Pronouns in Greek | 30%
-            - Core Table | 15%
-            - Examples | 52%
+              - Core Table | 25%
+              - Examples | 35%
+          - Demonstrative Pronouns in Greek | 32%
+            - Core Table | 25%
+            - Examples | 55%
           - Interrogative Pronouns in Greek | 10%
           - Indefinite Pronouns in Greek | 5%
             - Core Table | 20%
@@ -2258,7 +2131,10 @@
             - Examples | 10%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
-        - ανακαλύπτω
+        - ανακαλύπτω | 11%
+          - [§§18-19 Greek Verb Overview](https://www.youtube.com/watch?v=-zDkZQV-BF8)
+            - Videosweepmark: 3:30
+            - INTERNAL TUNNEL --> `this['STATIC']`
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
@@ -2269,7 +2145,7 @@
         - **ρήμα**
           - αντιμετωπίζω | 10%
             - [ΗΛΙΑΣΗ! Πώς την αντιμετωπίζω;](https://www.youtube.com/watch?v=FTkjftR5c2Y)
-              - Videosweepmark: 4:00/12:25
+              - Videosweepmark: 6:00/12:25
               - Language Pair: German
             - Conjugation Meta | 10%
               - Conjugation Table | 10%
@@ -2294,6 +2170,8 @@
         - Videomark: 41:10/11:40:18
         - Bookpair: TBD
         - Problem Solving Set Pair: TBD
+          - _meta
+            - [Polya explains the problem solving technique](https://www.youtube.com/watch?v=h0gbw-Ur_do) - 2:35
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
@@ -2314,1384 +2192,7 @@
 # STICKY Monthly Micro PIP
 - ACTION ITEM
   - Source Supplementation
-                          - [Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/determinants-cofactors.html#:~:text=Cofactor%20expansion%20is%20recursive%2C%20but,a%20matrix%20before%20expanding%20cofactors.)
-                        - **Visualization-Procedure-Literacy Confluence**
-                          - 3blue1brown | `this.concurrentTraffic = 0.33`
-                            - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
-                              - Videosweepmark: 3:32
-                          - Linear Algebra Hard Problems
-                            - _settings
-                              - *Insanely hard problems only, for easy problems, create a zero-distance neural stimulation input-output pair for efficient neural stimulation*
-                            - [The hardest question on the hardest Linear Algebra test](https://www.youtube.com/watch?v=cmCyrH_EQrE)
-                              - Videosweepmark: 3:40/17:49
-                              - Context
-                                - Cofactor Expansions
-                                  - [4.2Cofactor Expansions¶ permalink](https://textbooks.math.gatech.edu/ila/determinants-cofactors.html#:~:text=Cofactor%20expansion%20is%20recursive%2C%20but,a%20matrix%20before%20expanding%20cofactors.)
-                                  - [Cofactor expansion](https://people.math.carleton.ca/~kcheung/math/notes/MATH1107/wk07/07_cofactor_expansion.html)
-                                - Vandermorn determinant
-                                  - [Vandermonde determinant by induction](https://math.stackexchange.com/questions/525334/vandermonde-determinant-by-induction)
-                                  - [The Vandermonde Determinant, A Novel Proof](https://towardsdatascience.com/the-vandermonde-determinant-a-novel-proof-851d107bd728)
-                          - Linear Algebra Neural Stimulation Pairs(Easy-Intermediate problems)
-                            - Style: BFS
-                          - Confluence Outreach
-                            - Discrete Mathematics Confluence
-                      - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
-                        - _goal
-                          - *Regain Linear Algebra Intuition*
-                        - _DDL
-                          - `Not applicable, error message from CoreExecutiveFunctionModule:` *This is not a prison, setting DDL would be a bit of overkill as per this moment*
-                        - _relationship
-                          - _prerequisite
-                          - _enablement
-                            - Numeric linear algebra
-                        - _range: 281/1283~?
-                        - _subpointers
-                          - linearAlgebraIntuitionRegainSweepPointer: 289/?
-                          - linearAlgebraIntuitionRegainPrunePointer
-                            - `values`
-                              - 281~289
-                            - _properties: PASSIVE
-                          - linearAlgebraIntuitionRegainProblemSolvingPointers
-                            - linearAlgebraIntuitionRegainProblemSolving\[Section X\]Pointer: ? --> \[TRAINING_OUTPUT a.k.a Problem Solution Mark\]
-                              - _note
-                                - *Problem x, y z are good practice materials, others are purely trash and can be omitted*
-                            - linearAlgebraIntuitionRegainProblemSolving\[Section Dummy\]Pointer: ?
-                        - _metrics
-                          - perceivedComprehensiveInternalizationLevel
-                            - *Need specification*
-                        - On-the-fly Brain game
-                - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Discrete Mathematics`
-                  - Discrete mathematics
-                    - _inbound
-                        - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-                    - Main Engine
-                      - Discrete Mathematics for computer science
-                        - [link1](http://www2.cs.uh.edu/~arjun/courses/ds/DiscMaths4CompSc.pdf)
-                          - Progress: /627
-                            - Visualizing process
-                        - PROCESSING POINTER FIELD
-                          - bookSweepPointer: 25/627
-                      - Supplementation
-                        - Introduction to Discrete Mathematics
-                          - [link](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
-                          - Videosweepmark: 7:38
-                    - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                      - Struct pointer
-                      - bookSweepPointer
-                - ASYNC MIRRORED | `erudition-M/Number Theory`
-                  - [Number theory Full Course [A to Z]](https://www.youtube.com/watch?v=19SW3P_PRHQ&t=288s)
-               - Linear Algebra Example Problems
-                 - _macro
-                   - BFS
-                 - [ ] [Linear Algebra Example Problems - Intersecting Lines](https://www.youtube.com/watch?v=Fg6B01vEN3U&list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
-            - INBOUND CACHE
-              - Basics & Prerequisites
-                - Coding
-                  - Pagerank
-                    - CURIOSITY_CACHE
-                      - [PageRank algorithm, fully explained](https://towardsdatascience.com/pagerank-algorithm-fully-explained-dc794184b4af)
-                    - Matrix factorization
-                    - ?
-                      - The stationary distribution
-                      - Eigenvector Formulation
-                  - Shallow Encoding
-                    - [DeepWalk](https://github.com/phanein/deepwalk)
-                      - PROCESSING POINTER FIELD
-                        - _meta-escalate
-                          - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace(PRCOESSING_POTINER_FIELD__CODEBASE)`
-                        - _temp
-                          - Active Documents
-                            - Frequency Tier 1
-                              - [venv](https://docs.python.org/3/library/venv.html)
-                            - Frequency Tier 2
-                            - Frequency Tier 3
-                        - Codemarksequence
-                          - [x] Local: `deepwalk`
-                          - [ ] Basic Usage
-                            - [ ] Setup V_ENV for Python
-                          - [ ] Explore Usage
-                        - Codeskimming
-                          - Prerequisites | 2%
-                          - Syntax
-                          - Structural
-                    - [node2vec](https://github.com/aditya-grover/node2vec)
-                - Embedding
-                  - [Wiki](https://en.wikipedia.org/wiki/Embedding)
-                  - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
-                    - _meta
-                      - _parent
-                        - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture)
-                          - PROCESSING POINTER FIELD
-                            - currentPointer: `currentLink`
-                  - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
-                    - PROCESSING_POINTER_FIELD
-                      - Videosweepmark: 2
-                  - ?
-                    - Random Walk
-                      - _difficult
-                        - Random Walk Optimization: Negative sampling
-                          - Rigor
-                            - $\mathcal{L} = \sum_{u\isin V} \sum_{v\isin{N_R(u)}} -log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}})$
-                            - $log(\frac{e^{z_{u}^{T}z_v}}{\sum_{n\isin V} e^{z_{u}^T z_n}}) \approx log(\sigma(z_{u}^T z_v)) - \sum_{i=1}^k  log(\sigma(z_{u}^{T} z_{n_i})), n_i \sim P_V$
-                              - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method](https://arxiv.org/pdf/1402.3722.pdf)
-                              - CURIOSITY OUTREACH DEPTH LIMIT | 3 && FLAT
-                                - Stochastic gradient descent
-                                  - [Stochastic Gradient Descent, Clearly Explained!!!](https://www.youtube.com/watch?v=vMh0zPT0tLI)
-                                  - [The Unreasonable Effectiveness of Stochastic Gradient Descent (in 3 minutes)](https://www.youtube.com/watch?v=UmathvAKj80)
-                          - **BLOCKAGE**: `lackOfContextException` Your friend *Brain* has left the chat
-                            - [What is a Random Walk? | Infinite Series](https://www.youtube.com/watch?v=stgYW6M5o4k)
-                            - [Negative Sampling](https://www.youtube.com/watch?v=4PXILCmVK4Q)
-                      - _self
-                        - Use Cases
-                          - Estimate probability of visiting node $v$ on a ranndom walk starting from node $u$ using some random walk strategy $R$: $P_R (v|u)$
-                          - Optimize embeddings to encode these random walk statistics $\theta \propto P_R (v|u)$
-                    - Learn Walk Embeddings
-                      - [Anonymous Walk Embeddings](https://arxiv.org/pdf/1805.11921.pdf)
-                  - ?
-                    - RESOURCE POINTER FIELD
-                      - ASYNC MIRRORED | `erudition-M/Group Theory - J.S. Milne`
-                        - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                          - Struct pointer: 3-4
-                          - bookSweepPointer: 4/137
-                  - _meta
-                    - _unknown_depth_parent
-                      - General Topology
-                        - RESOURCE POINTER FIELD
-                          - ASYNC MIRRORED | `erudition-M/Topology for the working mathematician`
-                            - ASYNC MIRRORED | PROCESSING POINTER FIELD
-                              - Struct pointer: 3-9
-                              - bookSweepPointer: 11/459
-                            - Supplementary problem solving
-                              - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
-                                - DEPRECATED Videosweepmark: 2:32/8:26
-                              - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
-              - ?
-                - Graph Representation Learning
-                  - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
-                    - _meta
-                      - Academic writing technique
-                    - _schema
-                      - _reference
-                      - _prerequisite
-                      - _profiles
-                    - PROCESSING POINTER FIELD
-                      - Papersweepmark: 1/10
-              - `? --> Mathematics - Graph Theory | INBOUND CACHE`
-                - _meta
-                  - CONSTANTS _schema_var
-                    - `$1`
-                      - _schema
-                        - Formula
-                        - Sub-elements
-                        - Relationship
-                        - Use cases
-                        - Syntax
-                    - _meta-escalate
-                      - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
-                      - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
-                - ?
-                  - NP-hardness
-                    - _actions
-                      - SEQUENTIAL Create `SPACE` for *Computational complexity theory* if not exists, push to `{SPACE}.INBOUND_CACHE`
-                      - CONCURRENT Create `CONSTANT_SPACE` for proven theorems and push to `{CONSTANT_SPACE}.INBOUND_CACHE | {ACADEMIA}.arsenal`
-                    - Computational complexity theory
-                      - _erudition
-                        - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
-                          - PROCESSING POINTER FIELD
-                            - STRUCT FIELD: 5-16
-                              - _meta
-                                - STRUCT_TYPE
-                                  - BOOK_CONTENTS
-                                    - _meta
-                                      - INNER_STRUCT_TYPE
-                                        - Canonical Plan of Attack
-                                          - `searchRootProcessing(_this)`
-                                    - Canonical Plan of Attack
-                                      - `searchRootProcessing(_this)`
-                            - Booksweepmark: 8/562
-                          - RTFM FIELD
-                            - Renormalization
-                          - PROFILE FIELD
-                            - Hugh Everett
-                          - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
-                            - _meta
-                              - Capacity
-                            - _method
-                              - `detachOnThresholdReached`
-                            - Shor's algorithm
-                              - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
-                              - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
-                                - PROCESSING POINTER FIELD
-                                  - Videosweepmark: 5:13/31:17
-                                - CURIOSITY OUTREACH FIELD | CAPACITY 1 DEPTH 1
-                                  - Bell's theorem
-                                - CURIOSITY OUTREACH FIELD CACHE
-                                  - EPR Paradox
-                - ?
-                  - Node embedding
-                    - Zachary's Karate Club network
-                  - ??
-                    - ?: Bag-of-colors, efficient way
-                      - Weisfeiler-Lehman Kernel
-                        - Color aggregation
-                        - _relationship
-                          - Graph Neural Networks
-                        - ?
-                          - *K-hop*
-                      - Graphlet Kernel
-                  - Methods
-                    - Kernel Methods
-                      - Graph Kernel
-                        - _meta
-                          - goal
-                            - Design graph feature vector $\phi (G)$
-                          - Key Idea: Bag-of-Words(BoW) for a graph
-                        - Graphlet Kernel
-                        - Weisfeiler-Lehman Kernel
-                        - _proto
-                          - `expandInstance(origin)`
-                      - _supplement
-                        - Stanford CS229
-                          - [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
-                            - PROCESSING POINTER FIELD
-                              - Videomark
-                  - Tasks
-                    - Link-Level Prediction Task
-                      - Links missing at random
-                      - Links over time
-                        - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
-                        - Evaluation
-                          - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
-                          - The top *n* elements of L and count correct edges
-                      - Link Prediction via Proximity
-                        - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
-                          - Videomark: 0:27/52:48
-                - Node Features
-                  - Clustering Coefficient
-                    - _schema
-                      - INHERIT `$1`
-                  - _category
-                    - Distance-Based Features
-                      - Shortest-path distance between two nodes
-                        - _method
-                          - Captures # neighboring nodes shared between two nodes $v_1$ and $v_2$
-                          - Computing #paths between two nodes
-                        - Common neighbors
-                        - Jaccard's coefficient
-                        - Adamic-Adar index
-                        - Katz index
-                          - _schema
-                            - INHERIT `$1`
-                          - Canonical
-                            - $S_{v_1 v_2} = \sum_{l=1}^{\infty} \beta^l A_{v_1 v_2}^l$
-                          - Closed-form
-                            - $S=\sum_{i=1}^{\infty} \beta^i A^i = (I - \beta A)^{-1} - I$
-                              - $(I - \beta A)^{-1} = \sum_{i=0}^{\infty} \beta^i A^i$ by geometric series of matrices
-                    - Importance-based features
-                      - _use-case
-                        - Predicting influential nodes in a graph
-                      - Node degree
-                      - Different node centrality measures
-                    - Structure-based features
-                      - _use-case
-                        - Predicting a particular role a node plays in a graph
-                      - Node degree
-                      - Clustering Coefficient
-                      - Graphlet count vector
-                    - Distance-based features
-                    - Local Neighborhood overlap
-                    - Global neighborhood overlap
-                  - _relationship
-                    - RELATIONSHIP_PREREQUISITE GraphLet
-                      - _prerequisites
-                        - *Non-isomorphic graph*
-                          - _schema
-                            - INHERIT `$1`
-                        - *Subgraph*
-                          - _schema
-                            - INHERIT `$1`
-                      - _schema
-                        - INHERIT `$1`
-                  - Node centrality
-                    - Closeness centrality
-                    - Betweenness centrality
-                    - Eigenvector centrality
-                      - _schema
-                        - INHERIT `$1`
-                      - Relationship
-                        - Perron-Frobenius Theorem
-                  - Graph Degree Vector(GDV)
-                    - _schema
-                      - INHERIT `$1`
-                  - Global Neighborhood Overlap
-            - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
-              - Matrix Graph Visualization
-                - _self
-                  - value
-                  - equivalent orchestration alternative
-                - Resource
-                  - [15:39~](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
-            - BFS source
-              - _struct
-                - Information/knowledge
-                - Relational structures
-                - Similarity networks
-                - Software
-              - EmTech
-              - Social innovation
-                - **Social Networks**
-              - FinTech
-                - **Economic networks**
-              - Management
-                - **Communication networks**
-              - Academia
-                - Citation networks
-              - Web 3.0
-                - **Internet**
-              - BCI/ACI
-                - **Network of Neurons**
-              - _underlying-infra
-                - Regulatory networks
-                - **Code Graphs**
-                - **3D Shapes**
-                - Molecules
-                - Scene graphs
-    - English --> Deutsch
-      - _source
-        - Royal Institute
-      - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
-      - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-      - DWave
-      - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
-    - Deutsch --> Français
-      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
-        - Videomark: 37:30/1:01:49
-    - Deutsch --> English
-      - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
-    - Daily, Mundane contents --> **HALT** 1min/day
-  - Coding
-    - _meta_escalate
-      - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
-        - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
-  - Puzzle games 
-    - Chess
-  - Comprehensive development path
-    - AI workshop --> ACTIVE ON `Blockchain complete`
-      - _source
-        - [huggingface](https://huggingface.co/docs/transformers/model_doc/bloom)
-          - [Meta-Learning a Dynamical Language Model](https://arxiv.org/abs/1803.10631)
-            - PROCESSING_POINTER_FIELD
-              - _type
-                - Academic Paper
-              - Papersweepmark
-      - Transformer Models
-        - BLOOM
-        - ?
-          - [Deep Learning with PyTorch Live Course - Tensors, Gradient Descent & Linear Regression (Part 1 of 6)](https://www.youtube.com/watch?v=vo_fUOk-IKk&t=59s)
-        - GPT-3
-          - Wudao
-        - Midjourney
-          - [Midjourney](https://www.midjourney.com/home/)
-        - DALL-E
-          - Waitlist
-            - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
-          - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
-    - Learn Physics via games - *No more books for physics learning - The time has come*
-      - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
-        - DEVIATION: In tandem with **Dutch**
-    - Master Math by Coding in Python
-      - *No German Subtitle available*
-      - Tool: JetBrains - Datalore
-        - [Datalore](https://datalore.jetbrains.com/notebook/)
-    - **Web 5.0+**
-      - Metaverse
-        - [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c)
-      - **DAO** --> **ACTIVE** 10min/day
-        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day --> 2X speed & SHALLOW HANDS-ON
-          - *This piece of sxxt is missing proof of stake, need supplmentary info*
-          - RULE
-            - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
-          - CCS: 100%
-          - TEMP TIMESTAMP: 21
-          - ETC: 0
-          - **NEXT STEP**
-            - *Too many bullsxxt down there, cut the clutter and preferably add some resource explaning how stuffs learned is related with ESG*
-            - *Convert* `this` *into an active research unit and allocate specified percentage of resource*
-              - `createActiveResearchUnit`
-                - **PROCESSING...**
-              - Hypothetical Active Research Unit
-                - _security-group
-                  - _active_search_rule
-                  - _inbound_rule
-                    - ALLOW Feedly
-                    - DENY * UNLESS specified
-                  - _outbound_rule
-                - _inbound_cache
-                  - _unverified
-                    - [The Truth About Bitcoin and the Environmental, Social and Corporate Governance (ESG) Issues.](https://feedly.com/i/entry/hY+KgRSR4TGbySaFL+RAtLVxmnfDPSR0bk6RA8N2hN4=_17acdc5dd47:17698:4158f6f1)
-          - STATIC
-            - STRUCT_DAO_ROOT
-              - Industry standpoint
-                - P.O.I
-                  - _search
-                    - *识别并去除冢中枯骨*
-                    - Use Gartner's metric
-                      - _proposal_schema
-                        - Leader
-                        - Visionary
-                        - Niche Player
-                          - Potential talents
-                          - Others
-                            - *冢中枯骨*
-                            - *出道即巅峰*
-                            - *p一波就跑*
-                        - Capable blind
-                  - Uncategorized
-                    - ETH
-                    - Bitcoin
-                    - **Cardano**
-                      - [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
-                      - Scientific Philosophy
-                      - [github - cardano](https://github.com/cardano-foundation)
-                        - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
-                    - Ripple
-                    - NEO
-                    - Stellar
-                      - [stellar-core](https://github.com/stellar/stellar-core)
-                    - Ripple
-                    - Litecoin
-                    - Cardano
-                    - Stellar
-                - Support
-                  - Technology
-                    - Blockchain
-                  - Workforce
-                - Execution
-                  - Contract
-                    - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
-          - INBOUND CACHE
-            - **DAO**
-              - **Zachmann framework**
-              - *DAOs, DACs, DAs and More:: An Incomplete Terminology Guide - Vitalik Buterin*
-                - [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
-                - [Code](https://github.com/blockchainsllc/DAO)
-            - ?
-              - [ETH Gas Station](https://ethgasstation.info/)
-              - Elliptic-curve cryptography
-              - Etherscan
-              - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
-            - SegWit
-              - Understanding Segwit Block Size
-          - Directions?
-            - ASICs design
-              - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
-              - *Could be useful to help out with other Endeavour*
-          - Code
-            - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
-            - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
-              - SHA256
-                - [SHA 256 | SHA 256 Algorithm Explanation | How SHA 256 Algorithm Works | Cryptography | Simplilearn](https://www.youtube.com/watch?v=nduoUEHrK_4)
-                  - Videomark: 1:34
-          - Tools
-            - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
-            - Mining Pool
-              - SLUSH POOL
-            - ?
-              - Etherwallet, Remix, Solidity, Ganache
-          - Use cases
-            - Chooseing ASICs for Sia
-          - Books & Articles
-            - [blockchain.com](https://www.blockchain.com/)
-            - An in-depth guide into how the mempool works - Marion Deneuville
-            - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
-            - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
-              - Bookmark Field
-                - Sweep: 10/199
-                - \$C1: 10
-              - Style: Paper-wise Split, Casual
-              - `children`
-                - \$C1: On the Secure Hash Algorithm family
-            - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
-            - The Meaning of Decentralization - Vitalik Buterin
-              - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-            - Re: Bitcoin P2P e-cash paper
-          - P.O.I
-            - Stuart Haber & W.Scott Stornetta
-              - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
-          - [Superdatascience](https://www.superdatascience.com/blockchain/)
-        - Data Science A-Z™: Real-Life Data Science Exercises Included
-    - Cloud Computing
-      - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
-      - Learn AWS The Hard Way
-  - Foundations for LIFETIME_PURSUIT
-    - Complexity theory
-      - Related Mathematics
-    - Data Structure & Algorithm
-    - Competitive Programming
-      - _manual-control-override
-        - **BLACKHOLE**
-          - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
-            - CCS: 0.4%
-            - _state
-              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-          - Advanced React and Redux
-          - [Build Medium App with Next.js and Firebase](https://www.youtube.com/watch?v=xnshvkVrsw8)
-            - Videomark: 5:00
-            - _motivation
-              - *Duh*
-            - Next.js Cerebral-Muscular Stimulation
-              - PROCESSING_POINTER_FIELD
-                - Documentation
-                  - Next.js
-                  - Nest.js
-                - REDACTED FIELD
-                  - _schema
-                    - `this.inherit(GENERIC_BLACKBOX_DESCRIPTOR)`
-          - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-            - CCS: 2.4%
-            - _state
-              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-          - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
-            - CCS: 1%
-            - _state
-              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest **5** minutes pro Tag weil ansprücherte Hands-on aktiviert geworden
-          - CCS: 83.2%
-          - E.T.A: 5d
-          - TEMP_TIMESTAMP: 1:25
-          - **ENFORCED Advanced Neural Function Activated** | Nest.js GraphQL
-            - [x] [Mongo](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
-            - [x] Robo 3T
-            - `CentralExecutiveFunction`: *Hands-on is a stupid practice in this very context*
-            - NEW ? Advanced Neural Function
-              - `metaDigging(context, root, rootLevel=[$(currentLevel-1), $(currentLevel+1), RANDOM_GEN($(currentLevel), RANDOM_GEN())])`
-              - PoA
-              - Modules development plan
-              - Available modules
-                - Active Visualization
-          - [x] BLOCKAGE
-            - [x] reinstall `docker`
-            - [x] install `pgAdmin`
-            - [x] pgAdmin is updating new functionalities
-              - No way
-            - [x] Nest.js to AWS RDS
-              - [x] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
-              - [x] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
-              - [x] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
-                - [x] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
-                  - Videomark: 5:47
-                  - Timelimit: 5/5 min
-                  - [x] Cloud9 
-                    - [x] Connect to RDS
-                    - [x] API testing
-                  - [x] Clean up
-            - [x] NEW BLOCKAGE
-              - [x] `TypeError: this.taskRepository.createTask is not a function`
-            - [x] **OVERRIDE: Shallow Hands-on only with compensation with higher value endeavour**
-              - [x] [Course Code](https://github.com/arielweinberger/nestjs-course-task-management/tree/s3-persistence)
-            - [x] NEW NEW BLOCKAGE
-              - [x] `$ STAGE=dev nest start --watch - Der Befehl "STAGE" ist entweder falsch geschrieben oder`
-                - `cross-env`
-            - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
-              - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
-              - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
-          - Nest.js WTF-tree
-            - `ERROR [ExceptionHandler] No repository for "TaskRepository" was found. Looks like this entity is not registered in current "default" connection?`
-              - [Custom Repo without extends error: No repository for was found. Looks like this entity is not registered in current "default" connection?](https://stackoverflow.com/questions/63159117/custom-repo-without-extends-error-no-repository-for-was-found-looks-like-this)
-            - `Error: Collection "@nestjs/schematics" cannot be resolved.`
-              - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
-                - `yarn global add @nestjs/schematics`+ update
-            - `Lodash` cannot call problem
-      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of Nest.js & Advanced React**
-        - CCS: 4.2%
-        - ETC: /
-        - TEMP TIMESTAMP: 0
-        - Meso-memory field
-          - Store struct pointer data in heap in C/C++
-            - `p->{Mitglieder}={Wert}; // Scheisse! :3`
-            - `p->(struct {derselber Name} *)malloc(sizeof(struct {derselber Name})); // Du blöder Wichser, fick dich!`
-        - [Online GDB](https://www.onlinegdb.com/)
-      - Codeforces
-        - Constructive Algorithm --> **HALT**
-          - Noob to Expert | Topic Stream
-            - [Complete Dynamic Programming Practice - Noob to Expert | Topic Stream 1](https://www.youtube.com/watch?v=zDEQaDl3cso&list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w&index=1) --> **HALT**
-              - Videomark: 5:02/3:07:28
-              - Problemsetmark
-                - 3-palindrome - Mashup A
-              - Style: Hands-on
-              - Resources
-                - Problemset link
-                - Problem difficulties
-      - LC
-        - Basic training only with video in German-English Subtitles
-          - DP - MSSP - 5min/10min
-    - Neuroengineering
-    - Software Engineering & System Design
-  - TOPIC Philosophy, psychology, law
-    - German philogophy
-      - Fredrick Nitszsche
-- Italian - Lower B2 --> ACTIVE, OPTIONAL 3min/day
-  - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
-  - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
-  - TOPIC: Romance, hope, anything irrational, extravagent about human beings
-  - Music Theory Comprehensive Complete! (Parts 1, 2, & 3)
-  - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
-    - VOCAB\_FIELD \{CAPACITY_SETTING\}
-      - _meta
-        - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
-        - mode: FIFO
-        - capacity: \{CAPACITY_SETTING\}
-      - _processing
-        - _inherit
-          - `ROOT_PROCESSING`
-      - **\{VERB\}** - \{_percentage\}
-      - **\{ADJECTIVE\}**
-        - SAMPLE_ADJECTIVE
-          - Adjective declension
-      - **\{NOUN\}**
-      - **\{ADVERB\}**
-      - TBD
-      - INBOUND CACHE
-        - \{`self`\}
-    - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
-      - [Il PRINCIPE di Niccolò MACHIAVELLI: spiegazione FACILE e VELOCE](https://www.youtube.com/watch?v=qZvriwlDPz4)
-      - Process 1:(Read for learning italian)
-        - Progress: 4/102 `...con gran diligenzia lungamente...`
-    - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
-    - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
-    - Progress(Slow language learning)
-  - Branding, Fashion, Faces
-    - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-  - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
-    - NPTEL IIT - Consumer Psychology
-      - [CURRENT VIDEO POINTER - Consumer Psychology [Introduction Video]](https://www.youtube.com/watch?v=Dxyz25s17Jg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=1)
-        - PROCESSING POINTER FIELD
-          - Videomark: 1:17/6:27
-  - Competitor liquidation & engulfment: Orchestration & Automation
-    - CS toolkit
-      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 16.2% | CONCURRENT 50%
-        - E.T.A: ?
-        - TEMP_TIMESTAMP: 5:30
-        - ?
-          - _source
-            - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
-        - Tools
-          - _source
-            - [Nmap Cheatsheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
-            - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
-            - `osint-tools`
-            - `sherlock`
-              - BLOCKAGE
-                - [ ] \[REDACTED\]
-                  - [ ] `[REDACTED]`
-          - Reconissance
-            - [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
-          - ipinfo.info
-          - whatweb
-        - [x] BLOCKAGE
-          - [x] Blackscreen problem --> MOVE TO `ANY/kali linux/WTF tree`
-            - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
-            - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
-              - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
-              - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
-          - [ ] In-depth understanding of TCP & UDP
-              - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-                - Videomark: 1:01:09/1:01:09
-                - Intuition
-                  - Guesswork
-                    - TTL
-                    - Hops
-                - Enhancement
-                  - Multi-point debugging
-                - Tooling
-                  - [X] Wireshark
-                    - [ ] OPTIONAL Show Delta Time
-              - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
-                - Videomark: 6:30
-                - _state
-                  - CONCURRENT 50%
-                - Context
-                  - MTU & MSS
-                    - [How MTU and MSS Affect Networks?](https://www.geeksforgeeks.org/how-mtu-and-mss-affect-networks/)
-              - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
-        - Customized Machine Image
-          - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
-    - Financial toolkit
-      - Forensic Accounting
-      - Financial instrument attack
-    - PR toolkit
-      - Supply chain frisking
-      - Regulation & Compliance investigation
-      - Short Agency collab
-      - Case study
-        - ZXG --> MTG
-      - Psychological warfare
-    - Legal toolkit
-      - Contract-based Legal Trap embedding
-      - Intertwining checkmate with PR fallback restaints
-    - HR toolkit
-      - Forensic Politics
-      - Internal Mutiny: Automation & Orchestration
-        - [Metrics](https://openpsychometrics.org/)
-    - MK toolkit
-      - Co-ordinated Collusion
-  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{5 minuti per quei\}** 
-    - CCS: 80.8%
-    - E.T.A: 19d
-      - *The calculation method should be based on hours instead of counts*
-    - TEMP TIMESTAMP: 6
-    - _prerequisite
-      - How to identify a problem to solve?
-        - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
-        - [Building a Startup is About Solving a Problem - Avni Patel Thompson of Poppy](https://www.youtube.com/watch?v=0W5Jaip5_-g)
-    - Pitching
-      - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
-      - STRUCT Pitch Deck
-        - Conveys your value proposition
-        - Disarms concerns
-        - Contains stories
-        - Sprinkles in questions
-        - Has strategic pauses
-        - Provides clear next steps(defined when deck building)
-    - Tooling --> `*-business_arsenal`
-      - Feeds gathering
-        - Feedly
-        - Newsle
-        - JobChangeAlerts
-      - Cold Email
-        - _category
-          - Template
-        - Camtasia, Screenflow, Bcontext
-      - **Follow-up automation**
-        - International
-          - Boomerang
-          - Followup.cc
-        - Domestic
-      - Meeting
-        - Calendly
-    - Erudition
-      - A guide to Making Introduction
-      - The Bandage: Cold Email Formula
-      - Business Development Handbook
-      - The complete guide to writing much better sales emails
-        - [link](https://www.nutshell.com/wp-content/uploads/2019/09/Nutshell_Guide-to-Sales-Emails_1.0.pdf)
-      - [The Human’s Guide To Writing Cold Emails That Don’t Sound Like a Spammy Robot](https://salesfolk.com/img/Human_Guide_Cold_Email.pdf)
-    - ? --> `*-business_arsenal`
-      - SEQUENTIAL Predefined metric
-      - CONCURRENT Business reconissance
-        - Entity Identification & Profiling
-          - Search Engine
-            - Google, Bing, DDG, Яденкс
-          - Personal/Backdoor network 
-          - Competitor Sites(Partners/clients)
-          - The Internet
-            - [similarsites.com](https://www.similarsites.com/)
-            - [Manta](https://www.manta.com/)
-            - LinkedIn
-              - Mining
-                - Existing prospects' previous work histories
-                - Company followers
-                - Company page: people also viewed
-              - Stealth
-                - Signalhire - Could be Stale but `archive-ish`
-                  - API exploitation
-          - Domestic context
-            - *You have the right to shut up*
-      - SEQUENTIAL IF ZERO Business Partnership
-        - Partner Market Evaluation
-          - How rich is the market with ideal partners given your integration strategy?
-            - _self
-              - Italian
-                - *Come è che questo significa in realtà è capire come è ricco il mercato con i partner ideali data la tua strategia di integrazione*
-            - Are there enough meaningful partners to make this growth strategy effective?
-          - Are these relationships repeatable across partners or are there clear conflict of interests?
-            - _self
-              - Italian
-                - *Vuoi chiedere a te stesso se queste relazioni in questo ricco mercato di partner sono ripetibili tra partner o c'è un conflitto di interessi e ciò che intendo è una brutta relazione con uno di questi partner ideali*
-        - Partner Evaluation
-          - Meaningful, but not the biggest fish in the pond
-            - *Dovrebbero mirare a qualcosa che sia significativo ma non necessariamente il più grande pesce nello stagno*
-            - CUT THE CLUTTER
-          - Goal
-            - To drive growth
-              - *Guidare la crescita*
-            - Obtain understanding about this growth channel
-              - *Ottenere una comprensione di questo canale di crescita*
-            - Achieve verifiable results for a case study
-              - *Raggiungere i risultati incaricati del caso studio*
-            - Social Proof
-              - *Una prova sociale*
-        - Initial Partnership
-          - Friendly companies
-            - PROS
-              - Initial buy-in required for momentum and case studies is easier to get from friends
-                - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
-            - SEQUENCE
-              - Determine the companies that you have a warm relationship with that might make sense
-                - *Determinare tutte le società con cui hai relazioni affettuosi*
-              - Before you go about creating a pitch see if you can have a candid conversation about their hierarchy of needs and priorities
-                - *Prima di iniziare a creare un Pitch che tu proponi una soluzione esatta e tutte le cose che vuoi, prendere la mentalità che la cosa migliore che puoi fare inzialmente è semplicemente avere una conversazione sincera per capire davvero se c'è qualche possibilità che le tue aziende lavorino insieme data la loro gerarchia e priorità*
-              - Come back with
-                - Clear value proposition
-                  - *Una chiara proposta di valore*
-                - Frictionless set up
-                  - *Iniziare senza freni*
-                - Agreed-upon process
-                  - *Un processo concordato*
-                - Agreed-upon follow up to next steps
-                  - *Il follow-up specifico ai prossimi passi*
-          - Un-friendly companies
-            - PROS
-              - Unbiased feedback
-                - *Un feedback imparziale*
-            - SEQUENCE
-              - A hit list, a list of every prospective partner, client, customer etc
-                - Items
-                  - Company name
-                  - Last day of contact
-                  - Activity(on last day of contact)
-                  - Stakeholder or decision maker
-                  - Email address
-                    - Mailtester
-                  - Prioritization mechanism(SOP)
-                - Container
-                  - Sales tracking software(Salesforce, Highrise)
-                  - Stride(low volume, high leverage contacts)
-                  - "Make one yourself for fun"
-                - `Meeting note as code`
-                - Batch Processing SEQUENTIAL
-                  - Start by getting all the companies
-                  - Finding the stakeholder at each company
-                  - Finding the stakeholder's email address and/or phone
-        - Early Partner Evaluation Framework
-          - _alt
-            - 1
-              - Most important metric
-              - Ideal customer and their intent
-              - Partner fit
-          - Size of opportunity
-          - Culture fit(engineering, design, etc)
-          - Track record
-            - Easy to work with or a giant pain?
-        - Parner Evaluation Recon
-          - **Look at their website or articles revealing metrics**
-            - **Model the SOP**
-          - **Try to find people that have worked with them before**
-            - **Partners or clients section on their website**
-          - **Look at past deals and try to get a sense of whether they were successful**
-      - CONCURRENT BD Growth Strategy
-        - What route can your company realistically handle at this point?
-          - *Se una via in cui la tua azienda gestisce realisticamente la disciplina, hai abbastanza ingegneri per fare rapporti di prodotto?*
-        - Where do you possess leverage in the market?
-          - *Più basso e per quello che stiamo facendo, dove riusciamo a sfruttare nuovamente il mercato?*
-        - What can you test quickly?
-          - *Vuoi chiederti cosa puoi dirci velocemente?*
-          - And who can you do this with?
-            - *È una persona che potrebbe essere in grado di fare il test in fretta o è qualcuno con una storia di essere incredibilmente lento e davvero difficile da lavorare*
-      - SEQUENTIAL Find The Initial Stakeholder
-        - _attitute
-          - Effective
-          - Fast
-          - Non-obstrusiveness when possible
-        - Find that person
-          - Rocketreach
-        - Pre-reaching Hitlist
-          - Entity profiling
-            - Maltego
-              - LinkedIn
-              - Grey Web
-            - Existing Network
-            - Informational cold call
-            - Press release
-            - Social Media
-              - Frontend extensive informational exploitation
-            - Comments section of relevant articles
-            - Former exmployees
-        - Outreach and Approaching Partners
-          - Initial Pipeline
-            - _timeout-hack
-              - flow strategy
-            - Informational Cold Call Script
-            - Nay-analysis graph
-              - Nay reason 1
-              - Nay reason 2
-                - Counter procedure 1
-                - Counter procedure 2
-          - Target selection
-            - Past stakeholder
-    - _meta-escalate
-      - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
-        - Deal with humen being
-          - Take an active interest in your contacts' lives outside of just your working relationship
-          - Be attentive to the relationship(thoughtful emails, gestures etc)
-          - Strive for face time early and often
-        - Scare humen being with numbers
-          - Define metrics before engaging in partner activities
-          - Set up proper monitoring systems and schedule regular reviews
-          - Conduct post-mortems after the partner activity and compile a written analysis of the metrics
-        - Filter out Idiots, Weaklings, Clowns...
-          - Establish in writing the top 1-3 priorities of the BD function, in order of importance
-            - i.e. drive new user signups, drive existing engagement
-          - Consult these priorities before every major decision
-          - Use metrics, perform post-mortems, and test frequently to understand 80/20 of actions(marketer mindset)
-        - Yeah, forgive and forget, *"NAMASTE"*!
-          - Reframe rejection as data collection
-          - Separate your self-worth from the rejection
-          - Anything activity you sense hesitation around should be scheduled(i.e. cold calling)
-        - KISS & SIMP
-          - A fleet of automated templates
-          - Be aware at all times that most people generally opt for the path of least resistance
-          - Build the habit of doing post-mortems that explicitly focus on bottle-neck identification
-            - Where was the compliance breakdown
-        - Ideal Partner
-          - Serves this very specific customer
-          - Has this many users/customers
-          - Possess this company DNA
-            - Cultural and working relationship fit
-          - Desires this benefit we can provided(priority)
-          - Will never build this themselves(product integration)
-  - Music/Composing Theory
-    - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
-    - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
-  - The Complete Presentation and Public Speaking/Speech Course
-  - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
-    - CCS: 10.8%
-    - TEMP TIMESTAMP: 2:00
-    - Style: Italian, Rigorous, Recap
-      - *You already have a lot of experience, time to be more PEDANTIC for a change!*
-  - [Advanced Scripting & Tool Making using Windows PowerShell](https://www.udemy.com/course/advanced-scripting-tool-making-using-windows-powershell/learn/lecture/9484740#overview)
-  - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more
-    - CCS: 11%
-    - TEMP TIMESTAMP: 2:00
-  - RIGGED HIDDEN CAREER PATH
-    - Musician, Designer(ACCD at older age for sport), Rip Van Winkle
-- Spanish - B1
-  - No change, next stage E.T.A 2.4 months
-  - TOPIC Project, Product, Service
-  - TOPIC Innovation
-- Portuguese - B1--> Lower B2
-  - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 100%
-    - ENTERING HIBERNATE MODE
-    - Restarted on 2022/6/7
-  - TOPIC: Copywriting
-  - TOPIC: WTF?
-    - [Deep Dive on AWS CloudFormation](https://www.youtube.com/watch?v=KXUsyApAI3Y)
-      - Videosweepmark: 5:30/47:48
-    - AWS CloudFormation Master Class v2 [2022]
-      - CCS
-    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 45%
-      - E.T.A: 6.2 months
-      - TEMP_TIMESTAMP: 2:40
-      - Hands-On ACTIVE
-        - [ ] Image Processing
-      - [x] BLOCKAGE --> To `WTF-tree --> AWS` 
-        - [x] Permission problem
-          - Symptom
-            - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
-              - 20%
-            - `AWS SQS not visible in AWS Lambda destination`
-          - Solution
-            - Add `AWSLambdaSQSPollerExecutionRole` to Lambda
-      - Environment
-        - [x] Cloud9
-      - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
-- _helper-function --> `_root_processing-language-meta`
-  - *Word is cheap, show me the data*
-    - Consumption report
-      - Energy consumption
-        - German: \[Inaudible\] ERROR: Too many data points
-          - Require upgrade on `INTERNAL_INTUITION`
-      - Time consumption
-        - English
-          - IV: 
-        - Italian
-          - IV: 28:53
-          - MA_5: 28:53 + ...\{4\}
-        - Russian
-          - IV: 11:38
-          - MA_5: 11:38 + ...\{4\}
-        - German
-          - IV: 34:40
-          - MA_5: 34:40 + ...\{4\}
-    - Actual Addiction Manifestation
-      - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
-        - 2022/8/1
-        - TEMPLATE
-          - Time consumption report
-          - Energy consumption report
-          - Monthly Performance Improvement Plan
-            - Time consumption reduction plan
-            - Energy consumption reduction plan
-      - _meta-escalate
-        - TARGET: `ROOT_SCHEDULER`
-          - Context: *Root scheduler demands transcript of time consumption of daily reoccuring activities, encapsulate its context field as well as time block in a centralized space for furthur management, experimentation and agile time management*
-      - Action
-        - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
-        - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
-      - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-    - Control technique
-      - Asynchronous Blockage removal
-      - Reduce time consumed by learning curve
-      - Reduce time consumed by discipline
-      - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
-      - Upgrading `ROOT_SCHEDULER` to unlock more strategies
-  - Mindset Field
-    - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
-      - _meta-escalate
-        - *Even this, langaur is not even remotely enough, I want this pattern to propagatema to every last bit of manifested interaction, homeostasis if possible, even every last bit of quark-particle-level movement, ideally, it will creep into the occult realm*
-      - _meta
-        - erudition
-          - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
-            - Bookmark Field --> *In the future, Bookmark Field will be renamed to PROCESSING POINTER FIELD*
-              - Sweep: 20/1736
-              - Pruned: 0-15
-              - Struct: 15/15~18
-  - Efficient International Input for other languages
-    - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
-    - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
-      - Use System Default Searching and copy, paste from there to do the job without extra keystroke
-  - VOCAB\_FIELD \{CAPACITY_SETTING\}
-    - _meta
-      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
-      - mode: FIFO
-      - capacity: \{CAPACITY_SETTING\}
-    - _processing
-      - _inherit
-        - `ROOT_PROCESSING`
-    - **\{VERB\}** - \{_percentage\}
-    - **\{ADJECTIVE\}**
-      - SAMPLE_ADJECTIVE
-        - Adjective declension
-    - **\{NOUN\}**
-    - **\{ADVERB\}**
-    - TBD
-    - INBOUND CACHE
-      - \{`self`\}
-- Icelandic - N/A
-- Finnish - N/A
-  - VOCAB\_FIELD \{CAPACITY_SETTING\}
-    - _meta
-      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
-      - mode: FIFO
-      - capacity: \{CAPACITY_SETTING\}
-    - _processing
-      - _inherit
-        - `ROOT_PROCESSING`
-    - **\{VERB\}** - \{_percentage\}
-    - **\{ADJECTIVE\}**
-      - SAMPLE_ADJECTIVE
-        - Adjective declension
-    - **\{NOUN\}**
-    - **\{ADVERB\}**
-    - TBD
-    - INBOUND CACHE
-      - \{`self`\}
-- Arabic - Lower A2
-  - Initialization of language/meta structrure: 96%
-  - TOPIC: WTF is this?
-    - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
-  - Tool
-    - Tone finder
-      - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
-  - Typing speed training
-    - Style: In tandem with 
-    - Current typing rate: 2 WPM
-    - Minimum considerable rate: 40 WPM
-    - In tandem viewing keyboard layout
-      - http://www.arabic-keyboard.org/
-      - [Diacritic Typing](https://www.quora.com/What-is-the-easy-way-to-type-Arabic-with-diacritics-I-want-an-app-or-software-that-can-help-me-to-add-diacritic-on-text)
-        - Shift+Q: Fathah
-        - Shift+A: Kasrah
-        - Shift+E: Dammah
-        - Shift+W: Fathah tanwin
-        - Shift+R: Dammah tanwin
-        - Shift+S: Kasrah tanwin
-        - Shift+X: Sukun
-        - Shift+~: Tasdid
-  - ON HALT | Energy leak by language addiction
-    - 2022/5/13: As the sentence becomes longer, detecting neural-level alternation, new neural pathways are being created, initiate `neural pathway encapsulation mechanism` for future re-use
-      - _meta
-        - *I can't automate this for now*
-        - What...is... neural pathway encapsulation mechanism? Do you have one?
-          - _meta
-            - Do we have a similar counterpart on the *人类共同体* side? Or... *外星人共同体*?
-  - WHIM Daily Alphabet Recap
-  - RANDOM The future foundational ability of prospective entrepreneur --> MOVE TO `startup` ON NEXT ENCOUNTER
-    - MICRO Typing Speed of no less than 200 WPM
-    - MESO | MOBA proficiency
-      - Communication rigor
-      - Politics rigor
-      - Execution rigor
-      - Regulation exploitation rigor
-      - Expertee
-      - Context-driven raw intelligence or pre-built mental facility
-    - MACRO TBD
-  - Symbol Proficiency --> MOVE TO `language_arsenal` ON NEXT ENCOUNTER
-    - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
-  - Kickstart comes after finishing initialization of language structrure of `Portuguese`
-- Korean - TOPIK II
-  - Initialization of language/meta structrure: 44.2%
-  - ON HALT
-  - Kickstart comes after finishing initialization of language structrure of `Arabic`
-- Vietnamese - A2
-  - Initialization of language/meta structrure: 64.5%
-  - ON HALT
-  - Kickstart comes after finishing initialization of language structrure of `Korean`
-- Russian - Upper B1+++
-  - Estimated time of Combat Effectiveness: 5 months
-  - Typing speed training
-    - Style: In tandem with 
-    - Current typing rate: 25 WPM
-    - Minimum considerable rate: 40 WPM
-    - In tandem viewing keyboard layout
-      - https://en.wikipedia.org/wiki/JCUKEN
-  - TOPIC | Weird Course with a weird language
-    - HIST 251
-      - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
-        - Videosweepmark: 0:30
-  - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 2min/day
-    - *Ditch the cartoon and get down to business!*
-    - TANDEM Easy Questions | Managed Input-Output Training
-    - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
-      - PROCESSING_POINTER_FIELD
-        - _desired_length: 1 min
-        - Videosweepmark: **LOOP1** - 1:13
-        - LanguagePerfectionMark: 25%
-        - AlgorithmPerfectionMark
-          - Question Stem Comprehension: 70%
-            - [Problem Statement for FourDistinctDigits](https://community.topcoder.com/stat?c=problem_statement&pm=15790)
-          - Question Context Comprehension: 5%
-          - Automacity: 2%
-          - Procedural-Visualization Connection: 1%
-          - Metadigging: 0%
-      - STYLE
-        - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
-        - If not perfect, loop until full comprehension
-          - Russian Langauge
-          - Actual Problem Solving
-      - ?
-        - Birthday Paradox
-          - [Check your intuition: The birthday problem - David Knuffke](https://www.youtube.com/watch?v=KtT_cgMzHx8)
-            - *Russian Subtitle*
-      - IN_PLACE_PROCESSING
-        - `sentence wise`
-          - *especially if X is not co-prime with our base, which is 10.*
-            - особенно если X не взаимно прост с нашим основанием, **равным** 10
-              - ?: Adjective-led clause?
-          - *так и с рандомизированными алгоритмами, является парадоксом дня рождения*
-        - ?
-          - результирующей
-          - длина
-        - **глагол**
-          - иметь | 5%
-          - существовать
-          - поэкспериментировать
-          - удовлетворять
-          - добавить | 10%
-          - предположить
-          - являться
-        - **прилагательное**
-          - естественный
-          - найденный
-          - различный
-          - квадратный
-          - самостоятельный
-        - **наречие**
-        - ?
-          - Распределение
-          - вид
-          - который
-          - вероятность
-  - Learning Cache for Intermediate learners
-    - STATIC
-      - Numbers
-        - 28951: двадцать восемь тысяч девятьсот пятьдесят один
-      - INBOUND_CACHE
-        - Personal pronoun bundle
-          - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 92%
-            - _state
-              - COLD_TURKEY: False
-            - Personal pronouns | **THRESHOLD LEVEL 1** - 99%
-              - `self.metaDigging(LEVEL=1)` | 99%
-                - _entity
-                  - `categorize(self)`
-                - _method
-                  - `activeRecall(self)` | 99%
-            - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
-              - `self.metaDigging(LEVEL=1)` | 92%
-                - _entity
-                  - `categorize(self)` | 100%
-                    - _state: DEPRECATED
-                    - Group 1 - мой, твой
-                      - Group 1.A - Мужского и Средний род
-                      - Group 1.B - Женского: -ей
-                      - Group 1.C - Множественное число
-                    - Group 2 - егó, их, её
-                    - Group 3 - наш, ваш
-                - _method
-                  - `activeRecall(self)` | 30%
-            - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 2%
-              - `self.metaDigging(LEVEL=1)` | 0%
-                - _entity
-                  - `categorize(self)`
-                - _method
-                  - `activeRecall(self)` | 0%
-            - Reflective Pronoun
-              - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
-            - Reflexive Possessive Pronoun
-              - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
-          - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
-      - **частица**
-        - же - 70%
-        - К
-      - **цифра**
-      - **предлог**
-        - до - 40%
-      - **Союз**
-        - чем - 10%
-        - же
-      - **личное местоимение**
-        - ты
-          - твой
-        - вы
-      - **глагол**
-        - _schema
-          - по-
-      - **Без рубрики**
-        - какой - 3%
-        - весь
-      - `verb prefix`
-        - не-
-        - с-
-        - по-
-    - VOLATILE
-      - _state
-        - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
-        - PROCESSING_CAPACITY: 3
-      - _method
-        - `unlockStaticColdTurkey(self, *args, **kwargs)`
-      - **глагол**
-        - понадеяться - 90%
-        - управлять - 90%
-        - говорить - 100%
-        - вырастить - 100%
-        - наслать
-      - **прилагательное**
-        - сложный
-        - безошибочный
-        - действительный - 10%
-        - высокий - 20%
-      - **наречие**
-        - ?
-          - лучше
-      - **существительное**
-        - сердце - 90%
-      - INBOUND CACHE
-        - ?
-          - остальные
-        - **прилагательное**
-        - **глагол**
-        - **наречие**
-        - **существительное**
-          - представле́ния
-          - благотворительность
-          - лодка
-          - милый
-          - перевод
-  - Tool
-    - Stress finder
-      - [russiangram](https://russiangram.com/)
-        - Plus the chrome extension
-    - Omni Tool
-      - [russiantools.com](https://www.russiantools.com/)
-    - Noun declension checker
-      - [wiktionary](https://en.wiktionary.org/wiki)
-  - ?
-    - https://dabkrs.com/p47
-- Hindi - N/A
-  - _meta
-    - tool
-      - Duolingo Browser Version
-  - _meta_escalate
-    - WARNING Your language addiction is poking around, waiting for the opportunity to negotiate so that it can spiral out of control
-  - Typing training begins after initialization of language structure
-    - Minimum considerable rate: 40 WPM
-- Dutch - N/A
-  - _meta
-    - tool
-      - Duolingo Browser Version
-  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
-  - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
-  - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
-    - Web3
-      - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
-      - remix.ehtereum.org
-      - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
-      - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
-      - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
-      - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
-    - Metaverse
-- Greek - Lower A1
-  - VOCAB\_FIELD \{CAPACITY_SETTING\}
-    - _meta
-      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
-        - Sample sentences
-          - [Learnwitholiver](https://www.learnwitholiver.com/greek/)
-      - mode: FIFO
-      - capacity: \{CAPACITY_SETTING\}
-    - _processing
-      - _inherit
-        - `ROOT_PROCESSING`
-    - STATIC | PPROCESSING\_CAPACITY 1
-      - _methods
-        - `language.meta.pronounciation.callibrate()`
-      - **ερωτηματικός**
-        - _mutation
-        - τίς
-      - **χωρίς κατηγοριοποίηση**
-      - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
-          - Personal Pronouns in Greek | 40%
-            - Subject
-              - Core Table | 92%
-              - Examples | 50%
-                - ASYNC MIRRORED | STATIC ROOT
-                  - δεν
-                    - [Your Daily Greek Practice #21: Greek Negation (δεν, μην) | "DON'T!" in Greek | Greek Lesson 21](https://www.youtube.com/watch?v=7G-OArLezu8)
-                      - _process_type: TTL
-                      - _TTL: 30 ENCOUNTERS
-                - VOLATILE SCOPED
-                  - _hook
-                    - `destroyOnComplete()`
-                  - ?
-                    - μένουμε
-                    - μένετε
-                    - ξενοδοχείο
-                      - [ΠΗΓΑΜΕ ΣΤΟ ΧΕΙΡΟΤΕΡΟ ΞΕΝΟΔΟΧΕΙΟ ΤΗΣ ΒΟΥΛΓΑΡΙΑΣ ! | ΦΙΛΙΠΠΟΥΠΟΛΗ @Konilo](https://www.youtube.com/watch?v=EuvRr_681bo)
-                        - Videosweepmark: 20:12
-                        - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
-                          - KarpouziFetaGaming
-                  - **ουσιαστικό**
-                    - ξενοδοχείο | 5%
-            - Object
-              - Core Table | 80%
-              - Examples | 30%
-            - Possessive form
-              - Core Table | 5%
-              - Examples | 2%
-          - Demonstrative Pronouns in Greek | 32%
-            - Core Table | 25%
-            - Examples | 54%
-          - Interrogative Pronouns in Greek | 10%
-          - Indefinite Pronouns in Greek | 5%
-            - Core Table | 20%
-            - Examples | 2%
-          - Relative Pronouns in Greek | 10%
-            - Core Table | 32%
-            - Examples | 15[ ] Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
+    - Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
     - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
     - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
     - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)

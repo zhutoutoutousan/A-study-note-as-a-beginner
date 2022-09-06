@@ -24,8 +24,11 @@
 - [Bleeding edge arsenal - Pillars of Boundries](#bleeding-edge-arsenal---pillars-of-boundries)
   - [Use Cases Boundry](#use-cases-boundry)
   - [Technical](#technical)
+    - [Web 3.0](#web-30)
     - [Frontend](#frontend)
     - [Backend](#backend)
+      - [Node.js](#nodejs)
+      - [Uncategorized](#uncategorized)
     - [DX](#dx)
     - [Q & A](#q--a)
 - [New Tech Ventures](#new-tech-ventures)
@@ -282,9 +285,124 @@
   - [ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
 # 团队软件开发军火库
 
+
 # Bleeding edge arsenal - Pillars of Boundries
 ## Use Cases Boundry
 ## Technical
+### Web 3.0
+- Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day --> 2X speed & SHALLOW HANDS-ON
+  - *This piece of sxxt is missing proof of stake, need supplmentary info*
+  - RULE
+    - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
+  - CCS: 100%
+  - TEMP TIMESTAMP: 21
+  - ETC: 0
+  - **NEXT STEP**
+    - *Too many bullsxxt down there, cut the clutter and preferably add some resource explaning how stuffs learned is related with ESG*
+    - *Convert* `this` *into an active research unit and allocate specified percentage of resource*
+      - `createActiveResearchUnit`
+        - **PROCESSING...**
+      - Hypothetical Active Research Unit
+        - _security-group
+          - _active_search_rule
+          - _inbound_rule
+            - ALLOW Feedly
+            - DENY * UNLESS specified
+          - _outbound_rule
+        - _inbound_cache
+          - _unverified
+            - [The Truth About Bitcoin and the Environmental, Social and Corporate Governance (ESG) Issues.](https://feedly.com/i/entry/hY+KgRSR4TGbySaFL+RAtLVxmnfDPSR0bk6RA8N2hN4=_17acdc5dd47:17698:4158f6f1)
+  - STATIC
+    - STRUCT_DAO_ROOT
+      - Industry standpoint
+        - P.O.I
+          - _search
+            - *识别并去除冢中枯骨*
+            - Use Gartner's metric
+              - _proposal_schema
+                - Leader
+                - Visionary
+                - Niche Player
+                  - Potential talents
+                  - Others
+                    - *冢中枯骨*
+                    - *出道即巅峰*
+                    - *p一波就跑*
+                - Capable blind
+          - Uncategorized
+            - ETH
+            - Bitcoin
+            - **Cardano**
+              - [IOHK | Cardano whiteboard; overview with Charles Hoskinson](https://www.youtube.com/watch?v=Ja9D0kpksxw)
+              - Scientific Philosophy
+              - [github - cardano](https://github.com/cardano-foundation)
+                - [Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol](https://eprint.iacr.org/2016/889.pdf)
+            - Ripple
+            - NEO
+            - Stellar
+              - [stellar-core](https://github.com/stellar/stellar-core)
+            - Ripple
+            - Litecoin
+            - Cardano
+            - Stellar
+        - Support
+          - Technology
+            - Blockchain
+          - Workforce
+        - Execution
+          - Contract
+            - [Solidity Documentation](https://www.tutorialspoint.com/solidity/solidity_mappings.htm)
+  - INBOUND CACHE
+    - **DAO**
+      - **Zachmann framework**
+      - *DAOs, DACs, DAs and More:: An Incomplete Terminology Guide - Vitalik Buterin*
+        - [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+        - [Code](https://github.com/blockchainsllc/DAO)
+    - ?
+      - [ETH Gas Station](https://ethgasstation.info/)
+      - Elliptic-curve cryptography
+      - Etherscan
+      - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
+    - SegWit
+      - Understanding Segwit Block Size
+  - Directions?
+    - ASICs design
+      - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
+      - *Could be useful to help out with other Endeavour*
+  - Code
+    - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
+    - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
+      - SHA256
+        - [SHA 256 | SHA 256 Algorithm Explanation | How SHA 256 Algorithm Works | Cryptography | Simplilearn](https://www.youtube.com/watch?v=nduoUEHrK_4)
+          - Videomark: 1:34
+  - Tools
+    - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
+    - Mining Pool
+      - SLUSH POOL
+    - ?
+      - Etherwallet, Remix, Solidity, Ganache
+  - Use cases
+    - Chooseing ASICs for Sia
+  - Books & Articles
+    - [blockchain.com](https://www.blockchain.com/)
+    - An in-depth guide into how the mempool works - Marion Deneuville
+    - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
+    - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
+      - Bookmark Field
+        - Sweep: 10/199
+        - \$C1: 10
+      - Style: Paper-wise Split, Casual
+      - `children`
+        - \$C1: On the Secure Hash Algorithm family
+    - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
+    - The Meaning of Decentralization - Vitalik Buterin
+      - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+    - Re: Bitcoin P2P e-cash paper
+  - P.O.I
+    - Stuart Haber & W.Scott Stornetta
+      - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
+  - [Superdatascience](https://www.superdatascience.com/blockchain/)
+
 ### Frontend
 - Tier-1
   - PoC
@@ -311,6 +429,44 @@
     - three.js
     - react-three-fiber
 ### Backend
+#### Node.js
+- NestJS Zero to Hero - Modern TypeScript Back-end Development
+  - CCS: 100%
+  - [x] BLOCKAGE
+    - [x] reinstall `docker`
+    - [x] install `pgAdmin`
+    - [x] pgAdmin is updating new functionalities
+      - No way
+    - [x] Nest.js to AWS RDS
+      - [x] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
+      - [x] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
+      - [x] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
+        - [x] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
+          - Videomark: 5:47
+          - Timelimit: 5/5 min
+          - [x] Cloud9 
+            - [x] Connect to RDS
+            - [x] API testing
+          - [x] Clean up
+    - [x] NEW BLOCKAGE
+      - [x] `TypeError: this.taskRepository.createTask is not a function`
+    - [x] **OVERRIDE: Shallow Hands-on only with compensation with higher value endeavour**
+      - [x] [Course Code](https://github.com/arielweinberger/nestjs-course-task-management/tree/s3-persistence)
+    - [x] NEW NEW BLOCKAGE
+      - [x] `$ STAGE=dev nest start --watch - Der Befehl "STAGE" ist entweder falsch geschrieben oder`
+        - `cross-env`
+    - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
+      - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
+      - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
+  - Nest.js WTF-tree
+    - `ERROR [ExceptionHandler] No repository for "TaskRepository" was found. Looks like this entity is not registered in current "default" connection?`
+      - [Custom Repo without extends error: No repository for was found. Looks like this entity is not registered in current "default" connection?](https://stackoverflow.com/questions/63159117/custom-repo-without-extends-error-no-repository-for-was-found-looks-like-this)
+    - `Error: Collection "@nestjs/schematics" cannot be resolved.`
+      - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
+        - `yarn global add @nestjs/schematics`+ update
+    - `Lodash` cannot call problem
+
+#### Uncategorized
 - Golang
 - Python
   - Flask

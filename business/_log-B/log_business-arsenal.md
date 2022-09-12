@@ -38,8 +38,11 @@
     - Yahoo Finance
   - Forex
     - Pepperstone
-- MT4 | **BLACKHOLE**
-  - [【外汇交易员】相见恨晚的MT4实用教程](https://www.youtube.com/watch?v=H39P-zS3InU)
+- All-in-one
+  - MT4 | **BLACKHOLE**
+    - [【外汇交易员】相见恨晚的MT4实用教程](https://www.youtube.com/watch?v=H39P-zS3InU)
+  - gate.io
+    - [2022年中国大陆用户注册芝麻开门（gate.io）交易所【5分钟】的最新最详细方法#芝麻开门注册 #gate注册#Gate.io交易所教學 #Gate.io#gate.io注册#gate.io官网](https://www.youtube.com/watch?v=opcuKwu5C7o)
 # Outreach
 - [Contactout](https://contactout.com/)
 # Recruitment

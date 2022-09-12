@@ -177,6 +177,10 @@
 - Mindset
   - XP
     - [eXtreme](https://github.com/eXtremeProgramming-cn/www.extremeprogramming.cn/blob/master/content/about-us.md)
+- ?
+  - Capability set
+    - Text2Speech
+      - [Azure - Text2Speech](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
 - Lowcode arsenal
   - Dora
   - [Low-Code for Freelance Developers & Startups – Tutorial](https://www.youtube.com/watch?v=hDzgO2FB_ms)
@@ -490,7 +494,6 @@
     - 踩坑树
       - Powershell has `rustc`, yet vscode terminal doesn't have
       - Couldn't start client Rust Language Server
-
 
 # Frontend DDD design practice and its applications
 ## Information gathering

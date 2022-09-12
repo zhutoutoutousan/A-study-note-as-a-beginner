@@ -9,9 +9,6 @@
 - [STICKY Language progression management](#sticky-language-progression-management)
 - [STICKY Monthly Micro PIP](#sticky-monthly-micro-pip)
 - [STICKY Full-stack developer Performance Improvement Plan](#sticky-full-stack-developer-performance-improvement-plan)
-- [Goethe C1](#goethe-c1)
-  - [Hörenverstehen](#hörenverstehen)
-  - [Materials](#materials)
 
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
@@ -97,10 +94,31 @@
   - TOPIC: \[REDACTED\]
     - [REDACTED](#)
       - \[REDACTED\]: \[REDACTED\]
-- Generic
-  - Interpretation
+- **BLACKHOLE**: Generic
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Interpretation`
     - Prime resource
       - [WAIC 2021 SEA: Winning the war in the quest for the elusive AI talent](https://www.youtube.com/watch?v=HedtgmrqL4k)
+      - WAIC 2022
+      - `ROOT.storage.getStorage('*/language/interpretation')`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Communication`
+    - [Workplace Communication: You Can Speak Up at Meetings!](https://www.udemy.com/course/how-to-speak-up-at-meetings/learn/lecture/2034824#overview)
+      - CCS： 0.5%
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Presentation`
+    - Assessories
+      - [Microsoft PowerPoint From Beginner to Advanced](https://www.udemy.com/course/microsoft-powerpoint-beginner-to-advanced-x/learn/lecture/16654062#overview)
+      - [How to Create Animated Videos with Powerpoint](https://www.udemy.com/course/powerpoint-video/learn/lecture/8861492#overview)
+      - [The Complete PowerPoint and Presentation Skills Masterclass](https://www.udemy.com/course/the-complete-powerpoint-and-presentation-skills-masterclass/learn/lecture/17698018#overview)
+      - [How To Write A Business Plan And A Winning Business Model](https://www.udemy.com/course/how-to-write-a-business-plan/learn/lecture/23949554#overview)
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Negotiation`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Nudge`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Inspiration`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Motivation`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Direction`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Influence`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship`
+    - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
+      - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
+  - `ROOT.medium.GenericLanguageUseCaseOutReach.Redacteds`
 - English - Post C2 --> `bymaverse`
   - TOPIC | Α και Ω
     - Customized
@@ -158,10 +176,21 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 1.6%
-                  - TEMP_TIMESTAMP: 5
+                  - CCS: 3.5%
+                  - TEMP_TIMESTAMP
+                  - _source
+                    - [360financialanalyst](https://365financialanalyst.com/resources/)
+                      - Formulae
+                        - _strategy
+                          - *Only used as rote learning given a particular time window for exam prep*
+                        - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
                     - Use of financial calculator???
+                  - Seretonin Secretion Snapshop
+                    - Professions: Specific education, Expert Knowledge, Good Practice and behaviour, Trust, respect, and recognition
+                  - SUPPLEMENT
+                    - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
+                    - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
               - **BLACKHOLE**
                 - **ACTIVE_RESEARCH_UNIT**
                   - _meta
@@ -181,8 +210,165 @@
                       - _inbound_cache
                         - [Investopedia - ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
                         - [Alpha vs. Beta: What's the Difference?](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
+                          - _metrics
+                            - Self-Perceived Context-Determined Osmosis Saturation Percentage(SPCDOSP): 40%
+                        - [Biodiversity Offsets 101](https://www.youtube.com/watch?v=4DPOI-1ZHPg)
                       - STATIC
+                        - _schema
+                          - Frequently used concepts
+                        - Frequently used concepts
                       - VOLATILE
+                      - ?
+                        - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
+                          - !IMPORTANT
+                            - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
+                          - Videosweepmark: 28:00/1:13:36
+                          - Language pair: English
+                          - _source: INHERIT PARENT_ARU
+                          - _method
+                            - `deprecateDataToLanguageSection({activeResearchUnits: ['ESG']}, ...this.deprecated, {thens: [{onComplete: ['destroy']}]}, INBOUND_CACHE=true)`
+                          - STATIC/MESO
+                            - `this`
+                              - [Carbon Credit - Investopedia](https://www.investopedia.com/terms/c/carbon_credit.asp)
+                                - [Cap and Trade](https://www.investopedia.com/terms/c/cap-and-trade.asp)
+                            - ?
+                              - Third party registry
+                                - Climate Action Reserve, Verra(VCS)
+                                - Gold Standard, ACR
+                              - ?
+                                - Gold Standard Value Change Programme
+                                - ICROA
+                                - Carbon Accounting Framework
+                          - VOLATILE
+                            - Inbound B.O.I
+                              - Alberta's carbon market
+                          - RUNNING `toRootStatic(children, context)`
+                            - STRUCT --> `this['MESO']`
+                              - CHUNK-1
+                                - LV1
+                                  - Carbon Credits and MCCAC funding projects
+                                  - Carbon Credits
+                                    - _prerequisite
+                                      - [Municipality](https://en.wikipedia.org/wiki/Municipality) !IMPORTANT
+                                        - [What is Local Government?](https://www.youtube.com/watch?v=ocuJXY-CNRg) !IMPORTANT
+                                          - Videosweepmark
+                                          - Loopmark: 1 
+                                        - [What can I expect from my Municipality?](https://www.youtube.com/watch?v=yAHIJMkmw2E)
+                                          - Videosweepmark
+                                          - Loopmark: 1
+                                          - Language pair: French
+                                        - [What are Municipalities and How are They Structured?](https://www.youtube.com/watch?v=w6duB23Zwkg)
+                                          - Videosweepmark: 1
+                                          - Roles
+                                            - MDB, MEC
+                                - LV2
+                                  - _metrics
+                                    - Sense of deprecation: 90%
+                                  - Carbon market basics
+                                  - How credits are generated
+                                  - How you might take advantage of carbon markets
+                              - CHUNK-2
+                                - ?
+                                  - _meta
+                                    - col
+                                      - Stakeholders
+                                        - _graphview
+                                          - [graphview - link](#)
+                                        - ENV ?
+                                          - Project Operators
+                                            - _resp
+                                              - Reduce GHG emissions
+                                              - Sequester emissions in the ground, trees or plants
+                                              - Generate credits
+                                          - Project Developers
+                                          - Auditor General
+                                            - _resp
+                                              - Oversees every aspect of the market, reports on the market annually
+                                              - Carbon credit VS Tax
+                                            - Pivotal
+                                        - ENV Playing Field
+                                          - Manager
+                                            - ? Market Regulator
+                                              - _func
+                                                - Make rules
+                                                - Approve Protocols
+                                                - Create Market Framework
+                                          - Buyer
+                                            - Compliance Entity
+                                              - _resp
+                                                - Reduce emission
+                                              - _rts
+                                                - Buy carbon credits to lower compliance costs
+                                          - Sponsor
+                                        - ENV M&C
+                                          - Registry
+                                            - _alias: *the score keeper*
+                                            - _func
+                                              - Track: Emissions, VER's, Ownership, Compliance
+                                                - [verity](https://verityplatform.com/platform/verityesg/)
+                                                - [What is an MSCI ESG Rating?](https://www.msci.com/our-solutions/esg-investing/esg-ratings)
+                                            - _contact
+                                              - Government
+                                          - Referees
+                                            - Verifiers & Auditors
+                                              - _resp
+                                                - Comprehensive Compliance check-in
+                                                  - Verify
+                                                    - Reported emissions, VER's, program compliance
+                                      - Cost
+                                      - Risk
+                                      - Metrics
+                                        - Complexity
+                                        - Social Responsibility
+                                  - Compliance
+                                  - Voluntary
+                                  - Insetting
+                          - Tandem
+                            - [Explained | The Stock Market | FULL EPISODE](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
+                            - [Stop Loss Strategy Secrets: The Truth About Stop Loss Nobody Tells You](https://www.youtube.com/watch?v=1ohBdvp8CoU)
+                          - _motivation
+                            - *A startup needs (have good eyes to hire) a competent investo-guy*
+                          - _basics
+                            - TTL 3
+                              - pip
+                          - _state
+                            - Current Langauge Shuffle: Samoan language
+                              - _meta:escalate
+                                - **In here, the secret of learning and communicating with aliens may be revealed**
+                                - *Fundamentals to understand an alien language: What to do in desparate situations*
+                                  - _inspiration
+                                    - *Arrival - 2016*
+                                  - Language experiment
+                                  - Skills
+                                    - Be able to determine meaning
+                                    - Remember/Log and verify the reoccuring patterns
+                                    - Start with `static` first
+                            - Shuffle Frequency: 5 min
+                          - CONVOLUTION | ?
+                            - Conceptual framework?
+                              - Vocabulary Extension
+                                - STATIC
+                                  - Lot
+                                  - Spread
+                                  - Stop loss - Tradingviews
+                                  - Fibonacci Retracement
+                                    - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
+                                - VOLATILE
+                              - Risk Management
+                                - _mindset
+                                  - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
+                                - Risk Capital
+                                - Risk Per Trade
+                                - Overall Risk Exposure
+                            - Trading Tools
+                              - View
+                                - Candle
+                                  - 38.2% Candle
+                                  - Engulfing Candle
+                                  - Close above/below Candle
+                                - Chart Patterns
+                                  - Double top
+                                  - Double bottom
                     - EmTech
                     - QT
                     - Complexity Science
@@ -197,75 +383,6 @@
                     - Basic Academic Sophistication
                       - Randomwalk
                         - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
-          - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
-            - !IMPORTANT
-              - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
-            - Videosweepmark: 6:42/1:13:36
-            - VOLATILE
-              - Inbound B.O.I
-                - Alberta's carbon market
-            - RUNNING `toRootStatic(children, context)`
-              - STRUCT
-                - CHUNK-1
-                  - LV1
-                    - Carbon Credits and MCCAC funding projects
-                    - Carbon Credits
-                      - _prerequisite
-                        - [Municipality](https://en.wikipedia.org/wiki/Municipality) !IMPORTANT
-                          - [What is Local Government?](https://www.youtube.com/watch?v=ocuJXY-CNRg) !IMPORTANT
-                            - Videosweepmark
-                            - Loopmark: 1
-                          - [What can I expect from my Municipality?](https://www.youtube.com/watch?v=yAHIJMkmw2E)
-                  - LV2
-                    - Carbon market basics
-                    - How credits are generated
-                    - How you might take advantage of carbon markets
-            - Tandem
-              - [Explained | The Stock Market | FULL EPISODE](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
-              - [Stop Loss Strategy Secrets: The Truth About Stop Loss Nobody Tells You](https://www.youtube.com/watch?v=1ohBdvp8CoU)
-            - _motivation
-              - *A startup needs (have good eyes to hire) a competent investo-guy*
-            - _basics
-              - TTL 3
-                - pip
-            - _state
-              - Current Langauge Shuffle: Samoan language
-                - _meta:escalate
-                  - **In here, the secret of learning and communicating with aliens may be revealed**
-                  - *Fundamentals to understand an alien language: What to do in desparate situations*
-                    - _inspiration
-                      - *Arrival - 2016*
-                    - Language experiment
-                    - Skills
-                      - Be able to determine meaning
-                      - Remember/Log and verify the reoccuring patterns
-                      - Start with `static` first
-              - Shuffle Frequency: 5 min
-            - CONVOLUTION | ?
-              - Conceptual framework?
-                - Vocabulary Extension
-                  - STATIC
-                    - Lot
-                    - Spread
-                    - Stop loss - Tradingviews
-                    - Fibonacci Retracement
-                      - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
-                  - VOLATILE
-                - Risk Management
-                  - _mindset
-                    - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
-                  - Risk Capital
-                  - Risk Per Trade
-                  - Overall Risk Exposure
-              - Trading Tools
-                - View
-                  - Candle
-                    - 38.2% Candle
-                    - Engulfing Candle
-                    - Close above/below Candle
-                  - Chart Patterns
-                    - Double top
-                    - Double bottom
           - Forex
           - Future
     - Power
@@ -306,21 +423,41 @@
 - French - Middle C1+ | Plateau
   - _self_framework_upgrade
     - Plateau analysis
+      - *Too much * --> French input, not enough French --> * Input*
+      - WARNING Detecting deficiency in `ROOT.linguisticAcousticProcessor._french`. intitiate `ROOT.linguisticAcousticProcessor._french.self_framework_upgrade`
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
+      - Videosweepmark: 1:04
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-  - ACCA F1~F9 --> Borrowed from section `CFA CPA`
+  - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.3`
+    - Les bases de l'investissement
+      - [Le coût de l'investissement](https://www.youtube.com/watch?v=nMmeLd4hjp4&list=PLq0etrnpInCuhuX9igP927mRT8PjhV2GE&index=5)
+        - Videosweepmark
+        - Liststamp: 5
+        - Language pair: German  
+  - AVALANCHE Final Modular-level Integration to trigger overall fluency threshold
+    - LOCKED: UNLOCK on RECOMPOSITION complete
+  - POST-AVALANCHE
+    - Maintenance: FR-->*, *-->FR
+    - Intellectual debate, copywriting, advertising
+    - Academic reading/writing, legal/medical field
+    - Cross-regional Arbitrage
+      - Bases
+        - [Documentaire : Au coeur de la DGSE - Des anciens espions se confient](https://www.youtube.com/watch?v=1gPtA1gZALU)
+          - Videosweepmark: 0:44
+    - Be able to translate ALL of the skills, knowledge, network to French and vice versa
+  - ACCA F1~F9 --> Borrowed from section `CFA CPA` --> `this.concurrentTraffic = 0.7`
     - WRAPPING UP
       - Next step
         - Shock therapy test
           - Schedule, source, and initiate mock test for ACCA F3 regardless of exam readiness
           - Plan of attack on top of initial exam results
     - Video contents
-      - [Process Costing-3 Problem 2 Facts](https://www.youtube.com/watch?v=mJjZrhbzh7k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=157)
-        - Videosweepmark
-        - CCS: 89.7%
-        - ETC: 10d
+      - [ACCA P1 - 9. Professional Values](https://www.youtube.com/watch?v=9AdlHllCBmo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=165)
+        - Videosweepmark: 1:00
+        - CCS: 94.3%
+        - ETC: 8d
         - F9
           - Financial management function - 6%
           - Financial management environment - 1%
@@ -417,22 +554,10 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
-  - *Beeilung!*
-    - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
-    - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
-    - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
-    - *You can either train hard or train long - Jeff Cavaliere | Sie können entweder hart trainieren oder lange trainieren*
-  - _meta_ escalate
-    - _meta
-      - related
-        - `bymaverse`
-    - To better accomodate your learning which requires more of your innate neural-level skills and proficiency, create a few more meta-learning supplementaries
-      - Specific-performance-driven Neural-level gamification  platform and tracking dashboard
-      - Skill orchestration mapping platform based on knowledge graph
-    - *Stupid and redundant language proficiency certifications involves more STUPID, time-wasting, eating-ones-life-while-guilty-free kind of dialogues, you might want to include these* | Only triggered by exam context encounter
-    - *Your progress in German is getting more and more beyond your control and its energy leak is getting more and more obvious, it could just take another few months for it to catch up with you English/Chinese - Your grasp of German is approaching another singularity*
-      - *Echo from the future: A lengendary-level omni, simultaneous business-value-driven interpretor*
-      - *Furthur slow down the German progress by coupling it with French to make space for other tasks*
+  - **Prüfung** --> 10m/Tag
+    - [Eintrag - 11-5](https://testdaf.neea.cn/)
+    - Prepbook - Blue
+  - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
   - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
     - _meta
       - source
@@ -446,21 +571,25 @@
           - PROCESSING POINTER FIELD
             - Videomark: 10:00
         - Stanford CS224W
-          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 4.4 - Matrix Factorization and Node Embeddings](https://www.youtube.com/watch?v=r12qJZZVtqc&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=13)
-            - CCS: 21.7%
-            - Videosweepmark: 7:34 | `this.concurrentTraffic = 0.33`
+          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.1 - Message passing and Node Classification](https://www.youtube.com/watch?v=6g9vtxUmfwM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=14)
+            - CCS: 23.3%
+            - Videosweepmark: 14:10 | `this.concurrentTraffic = 0.33`
             - ?
-              -  SVM, Regression
-              -  ?
-                 -  Frobenius norm
-                    -  _alias
-                       -  L2 norm
-                 -  Softmax
-              -  Deepwalk: $\log{(vol(G)(\frac{1}{T}\sum^{T}_{r=1} {(D^{-1}A)}^r D^{-1})} - \log{b}$
-                 -  [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971)
-                    -  Paperreadmark EXTEND ROOT_PAPERREADMARK
+              - SVM, Regression
+              - ?
+                 - Frobenius norm
+                    - _alias
+                       - L2 norm
+                 - Softmax
+              - Network connection
+                - Homophily
+                  - [Social and Economic Networks 2.1 Week 2: Homophily](https://www.youtube.com/watch?v=UeEa6NpXYtA)
+                - Influence
+              - Deepwalk: $\log{(vol(G)(\frac{1}{T}\sum^{T}_{r=1} {(D^{-1}A)}^r D^{-1})} - \log{b}$
+                 - [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971)
+                    - Paperreadmark EXTEND ROOT_PAPERREADMARK
            - [ ] **MAJOR BLOCKAGE**
-             - [ ] Regain Linear Algebra Intuition with the MOST **COST-EFFECTIVE** and **FORWARD/BACKWARD COMPATIBLE** methods
+             - [ ] Regain Linear Algebra Intuition with the MOST **COST-EFFECTIVE** and **FORWARD/BACKWARD COMPATIBLE* * methods
                - CONCURRENT Pedant's ransack
                 - ASYNC MIRRORED | `erudition-M/Engineering Mathematics/Linear Algebra`
                   - Advanced engineering mathematics - Erwin kreyszig
@@ -500,9 +629,15 @@
                               - Videosweepmark
                               - Loopcounts: 1
                             - [Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7)
-                              - Videosweepmark: 8:40
+                              - Videosweepmark
                               - *...why is linear algebra similar to Arabic?...*
-                          - Discrete Mathematics Confluence 
+                              - RUNNING *Encore* * 1
+                            - [Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra](https://www.youtube.com/watch?v=v8VSDg_WQlA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8)
+                              - Videosweepmark: 3:51
+                            - [Dot product and duality](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=9)
+                              - Videosweepmark: 13:20
+                              - Loopcounts: 0/5
+                          - Discrete Mathematics Confluence
                       - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
                           - *Regain Linear Algebra Intuition*
@@ -512,13 +647,34 @@
                             - Numeric linear algebra
                         - _range: 281/1283~?
                         - _subpointers
-                          - linearAlgebraIntuitionRegainSweepPointer: 296/? - Example 12
+                          - linearAlgebraIntuitionRegainSweepPointer: 300/?
                             - [ ] CONCURRENT [Visualizing Composition of Linear Transformations **aka Matrix Multiplication**](https://www.youtube.com/watch?v=On6wkamacRE)
                               - Videosweepmark: 2:30
                             - Markov Chains Clearly Explained!
-                              - [ ] THROTTLE [Markov Chains: Generating Sherlock Holmes Stories | Part - 4](https://www.youtube.com/watch?v=E4WcBWuQQws&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=4)
-                                - Videosweepmark: 4:10
-                                - Liststamp: 4
+                              - EXTRA Problem Solving
+                                - *For Math, input is cheap, show me your problem solving proficiency*
+                                - `this`
+                                  - *Input-Output Training only*
+                                  - _source
+                                    - Chegg
+                                  - _ref
+                                    - [Instructor Manual](https://arslanhelpyoucom.files.wordpress.com/2016/07/solution-manual-of-advanced-engineering-mathematics-by-erwin-kreyszig.pdf)
+                                - _source
+                                  - _source
+                                    - [Math Libretexts](https://math.libretexts.org/)
+                                  - Old School: Written Format for LaTeX proficiency confluence with GitHub Copilot
+                                    - [10.1.1: Introduction to Markov Chains (Exercises)](https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)/10%3A_Markov_Chains/10.01%3A_Introduction_to_Markov_Chains/10.1.01%3A_Introduction_to_Markov_Chains_(Exercises))
+                                    - [Problem Set 1: Math 595: Markov Chains](https://faculty.math.illinois.edu/~psdey/MATH595FA20/PS1.pdf)
+                                  - Math in 2022: Video Format for German-based Literacy Input-Output Training Confluence
+                                    - [Markov Chains - Part 6 - Applied Problem for Regular Markov Chains](https://www.youtube.com/watch?v=2S5kvYe47b4)
+                                    - [Lecture #2: Solved Problems of the Markov Chain using TRANSITION PROBABILITY MATRIX Part 1 of 3](https://www.youtube.com/watch?v=arxmRnAdLy4)
+                                    - [Markov Chain-Steady State Probabilities-Three Examples](https://www.youtube.com/watch?v=T-4NJTj9ToY)
+                                    - [Finite Math: Markov Chain Example - The Gambler's Ruin](https://www.youtube.com/watch?v=afIhgiHVnj0)
+                              - [ ] THROTTLE [Hidden Markov Model Clearly Explained! Part - 5](https://www.youtube.com/watch?v=E4WcBWuQQws&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=5)
+                                - Videosweepmark
+                                - Liststamp
+                                - **RUNNING** ADVANCED_NEURAL_FUNCTION `visualizeProcedure(procedures, context)`
+                                  - `upgradeVisualizeProcedureModule(this)`
                                 - **RUNNING** `confluenceWith_3blue1brown(context)`
                                   - ERROR: \[Inaudible\]
                                 - Eigenvector Equation
@@ -903,9 +1059,14 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 3.6%
-            - ETC： 8.03 months
-            - TEMP_TIMESTAMP: 1:30
+            - CCS: 8.2%
+            - ETC： 6.12 months
+            - TEMP_TIMESTAMP
+            - Tooling
+              - [x] Tableau public
+              - [x] [Dataset](https://www.superdatascience.com/pages/training)
+            - TANDEM
+              - [SDS 041: An inspiring journey from a totally different background to Data Science](https://www.superdatascience.com/podcast/sds-041-inspiring-journey-totally-different-background-data-science)
           - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
             - CCS: 3.4%
             - _state
@@ -1003,11 +1164,30 @@
         - PROCESSING POINTER FIELD
           - Videomark: 1:17/6:27
   - Competitor liquidation & engulfment: Orchestration & Automation
+    - Financial toolkit
+      - Forensic Accounting
+      - Financial instrument attack
+    - PR toolkit
+      - Supply chain frisking
+      - Regulation & Compliance investigation
+      - Short Agency collab
+      - Case study
+        - ZXG --> MTG
+      - Psychological warfare
+    - Legal toolkit
+      - Contract-based Legal Trap embedding
+      - Intertwining checkmate with PR fallback restaints
+    - HR toolkit
+      - Forensic Politics
+      - Internal Mutiny: Automation & Orchestration
+        - [Metrics](https://openpsychometrics.org/)
+    - MK toolkit
+      - Co-ordinated Collusion
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 16.6% | `this.concurrentTraffic = 0.33`
+        - CCS: 17.4% | `this.concurrentTraffic = 0.33`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 3:30
+        - TEMP_TIMESTAMP: 0:30
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1046,7 +1226,8 @@
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE) | `this.concurrentTraffic = 0.33`
-              - Videomark: 43:02
+              - Videomark: 55:20
+                - PRUNE: 1:01:09-1:03:00
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
               - Concetto
                 - point-to-point
@@ -1054,30 +1235,11 @@
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.33`
-            - Videosweepmark: 26:00
+            - Videosweepmark: 37:40
           - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
-    - Financial toolkit
-      - Forensic Accounting
-      - Financial instrument attack
-    - PR toolkit
-      - Supply chain frisking
-      - Regulation & Compliance investigation
-      - Short Agency collab
-      - Case study
-        - ZXG --> MTG
-      - Psychological warfare
-    - Legal toolkit
-      - Contract-based Legal Trap embedding
-      - Intertwining checkmate with PR fallback restaints
-    - HR toolkit
-      - Forensic Politics
-      - Internal Mutiny: Automation & Orchestration
-        - [Metrics](https://openpsychometrics.org/)
-    - MK toolkit
-      - Co-ordinated Collusion
-  - TOPIC | Fine Art, Architecture, Design
+  - **BLACKHOLE** TOPIC | Fine Art, Architecture, Design
     - Arturia Music Production
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
     - Music/Composing Theory
@@ -1089,32 +1251,43 @@
       - TEMP TIMESTAMP: 2:00
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
-    - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.25` 5m/d
-      - CCS: 6.3%
-      - TEMP TIMESTAMP: 2:00
+    - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
+      - CCS: 8.9%
+      - ETC: 6.12 months
+      - TEMP TIMESTAMP: 5:30
+      - Design Root Construction
+        - STATIC
+          - Frequently used components
+            - Autolayout
+        - Roadmap
+          - Sitemap
+            - Plugin
+              - Auto Flow
       - _logistics
         - Design Resource
           - [1](https://danielschifano.notion.site/Complete-Web-Mobile-Designer-Resources-d1d9b6868a7746ffb3b6f02703ac7724)
         - User Flow Resource
           - [1](https://www.figma.com/file/9r8g8aPvEa8wOl5bvBN73U/02.-User-Flows-Resource?node-id=110%3A0)
+      - SUPPLEMENT
+        - [Create 3D Site with Spline and React - Full Course](https://www.youtube.com/watch?v=EJxeMbDTkVI&t=220s)
+          - Videosweepmark: 4:30
+        - [Web / Desktop App UI Design in Figma - Full Course](https://www.youtube.com/watch?v=5IanQIwhA4E)
+        - [Creating a Figma Design System: Typography, Spacing, and Sizing](https://www.youtube.com/watch?v=FsdG6uwJ_vc)
+        - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+          - Videosweepmark: 3:10
     - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
   - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
   - Initialization of language/meta structrure: 100%
     - ENTERING HIBERNATE MODE
     - Restarted on 2022/6/7
-  - TOPIC: Copywriting
   - TOPIC: WTF?
-    - [Deep Dive on AWS CloudFormation](https://www.youtube.com/watch?v=KXUsyApAI3Y)
-      - Videosweepmark: 5:30/47:48
-    - AWS CloudFormation Master Class v2 [2022]
-      - CCS
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 47.8%
-      - E.T.A: 74d
+      - CCS: 50.8%
+      - E.T.A: 4.17 months
       - TEMP_TIMESTAMP
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
-        - Videosweepmark: 3:22
+        - Videosweepmark: 7:00
       - Hands-On ACTIVE
         - [ ] Image Processing
       - [x] BLOCKAGE --> To `WTF-tree --> AWS` 
@@ -1128,6 +1301,11 @@
       - Environment
         - [x] Cloud9
       - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
+    - [Deep Dive on AWS CloudFormation](https://www.youtube.com/watch?v=KXUsyApAI3Y)
+      - Videosweepmark: 5:30/47:48
+    - AWS CloudFormation Master Class v2 [2022]
+      - CCS
+  - TOPIC: Copywriting
 - _helper-function --> `_root_processing-language-meta`
   - ERROR: Failed to perform `dailyLanguageChangelogUpdate` due to `EVENT_NAME=InvoluntaryPassout`
     - ERROR：No `Automatic Caffeine Dispenser`not found in this dimension
@@ -1253,33 +1431,48 @@
           - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
   - ...
     - STATIC
+      - General Noun Usage Proficiency
       - Verb Tense
         - _col
           - personal pronoun
+      - Roman Spell <--> Diacritic <--> Arabic Script
+      - /General Verb forms | 1%
+      - /General Noun forms | 2%
     - MESO
+      - Frequently used vocabulary
+        - _source
+        - LOCKED Achieve Lower B1 to unlock
+      - Metadigging for entry-level fluency for unlocking more valid input channels
+        - LOCKED Achieve Upper B1 to unlock
     - VOLATILE
       - `verb`
+        - قلب
         - TO_STATIC
           - هو
+          - 2% | كان
+            - [The verb "to be" in Arabic كان](https://www.youtube.com/watch?v=0vHezm7e98E)
+              - Videosweepmark: 1:35
         - تنزيل
       - `preposition` TO_STATIC
         - 5% | مع
-      - ?
-        - كان
-          - [The verb "to be" in Arabic كان](https://www.youtube.com/watch?v=0vHezm7e98E)
-            - Videosweepmark: 0:30
       - `noun`
-        - 4% | مفهوم
+        - 15% | مفهوم
+        - 22% | طاولة
+        - قطار
         - 3% | التي
           - [Arabic verbs mastery lesson 1](https://www.youtube.com/watch?v=lrkIyxiUHrw)
             - Videosweepmark: 1:50
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 1 - The 3 States - Abu Sulaymaan](https://www.youtube.com/watch?v=sOQvSkC--mw&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ)
-      - Videosweepmark: 10:38
+      - Videosweepmark: 18
       - VideoListStamp: 1
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
   - Tool
+    - Rapid, Point-in-time, portable Entry
+      - Reverso
+      - Wiktionary
+        - *This tool is better than Reverso in terms of Arabic*
     - Tone finder
       - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
   - Typing speed training | `this.concurrentTraffic = 0`
@@ -1298,24 +1491,45 @@
         - Shift+X: Sukun
         - Shift+~: Tasdid
 - Spanish - Upper B1+++
-  - Syntax base construction stage: 83%
-  - No change, next stage E.T.A 1.7 months
+  - Syntax base construction stage: 89%
+  - No change, next stage E.T.A 1.1 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
 - Korean - TOPIK II+
   - `createLanguageImprovmentPlan('korean', requirements=$(children.input('HOOK-Requirements', context)))`
-  - Initialization of language/meta structrure: 46.6%
-  - ON HALT
-  - Kickstart comes after finishing initialization of language structrure of `Arabic`
-- Vietnamese - A2+
+  - Initialization of language/meta structrure: 55.3%
+- Vietnamese - A2
   - `createLanguageImprovmentPlan('vietnamese', requirements=$(children.input('HOOK-Requirements', context)))`
-  - Initialization of language/meta structrure: 69.7%
-  - ON HALT
-  - Kickstart comes after finishing initialization of language structrure of `Korean`
+  - Initialization of language/meta structrure: 79.4%
+- Hindi - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - _meta_escalate
+    - WARNING Your language addiction is poking around, waiting for the opportunity to negotiate so that it can spiral out of control
+  - Typing training begins after initialization of language structure
+    - Minimum considerable rate: 40 WPM
+- Dutch - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
+  - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
+  - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
+    - Web3
+      - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
+      - remix.ehtereum.org
+      - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
+      - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
+      - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
+      - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
+    - Metaverse
 - Hebrew - N/A
-  - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
 - Latin - N/A
-  - TOPIC: *You saw the world as it is, so why are you still alive?*
+- Egyptian Hieroglyphics - N/A
+  - Tooling
+    - [HieroglyphicsTranslator](https://lingojam.com/HieroglyphicsTranslator)
+- Icelandic - N/A
 - Japanese - Mid N4+++
   - RUNNING `createLanguageImprovmentPlan('japanese', requirements=$(children.input('HOOK-Requirements', context)))`
     - `input`
@@ -1336,6 +1550,7 @@
   - Tool
     - [j-talk](https://j-talk.com/mqvbpjk)
     - Reverso
+    - Wiktionary
   - TOPIC | Electrical Engineering, Chemical Engineering, Chemistry basics
     - \* - JP
       - [Python for computational chemistry -beginners tutorials -Introduction](https://www.youtube.com/watch?v=Sno4szlS4lw&list=PLhYF9QNr23IZ_bnrCIPdWdxNI_Ggl4m3G)
@@ -1344,46 +1559,53 @@
         - Videosweepmark: 0:34
     - JP - \*
       - [電気工学コース紹介](https://www.youtube.com/watch?v=xwBcBCq0k0w)
-        - Videosweepmark: 5:30
+        - Videosweepmark: 13:50
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
-      - Katakana proficiency
+      - Katakana proficiency | 35%
+      - /Verb Form | 15%
+        - Passive, Causative, Potential, Volitional, Negative, Negative continuative, Formal, conjunctive, hypothetical conditional
     - MESO
+      - **てみよう**
+      - **てもらう** --> `this.meso` | 40%
+        - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
     - VOLATILE
       - `verb`
-        - 関する - 15%
+        - 関する - 35%
         - 選択する - 35%
         - 高める - 85%
           - -te Form
           - Volitional
-          - 高めさせる
+          - 高めさせる | 50%
           - 高めれば
           - 高めたら
+          - 高めず | 10%
+      - `adjective`
+        - 理論的 | 100%
       - `phrase`
-        - 現在実行中
+        - 現在実行中 | 100% TTL
+      - `adverb`
+        - 実際 | 20%
+      - `?.connector`
+        - ですが
       - ?
         - であり
         - または
         - いただく
         - されました | 40%
         - てみる
-        - **てみよう**
-        - **てもらう**
-          - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
       - `noun`
+        - 効率的手法 | 20%
+        - センシングシステム | 100% TTL
         - ?
-          - 適用
+          - 適用 | 80%
           - であり
-        - 分野 | 50%
-        - 基調講演 | 100% TTL
+        - 分野 | 100% TTL
         - 言葉
-        - 机上 | 50%
-        - 持続可能社会 | 100% TTL
-        - フォトグラファー | 100% TTL
-        - ノートブック | 50%
-- Icelandic - N/A
-- Russian - Upper B1+++
+        - 机上 | 100% TTL
+        - ノートブック | 90%
+- Russian - Lower B2+++
   - Typing speed training
     - Style: In tandem with 
     - Current typing rate: 25 WPM
@@ -1436,7 +1658,7 @@
       - **предлог**
         - до - 40%
       - **Союз**
-        - чем - 10%
+        - чем - 100% TTL
         - же
       - **личное местоимение**
         - ты
@@ -1452,6 +1674,8 @@
         - не-
         - с-
         - по-
+    - MESO
+      - кто-нибудь
     - VOLATILE
       - _state
         - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
@@ -1459,16 +1683,12 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
-        - понадеяться - 90%
-        - управлять - 90%
-        - говорить - 100%
-        - вырастить - 100%
-        - наслать
+        - наслать | 30%
       - **прилагательное**
-        - сложный
-        - безошибочный
-        - действительный - 10%
-        - высокий - 20%
+        - сложный - 60%
+        - безошибочный - 40%
+        - действительный - 30%
+        - высокий - 50%
       - **наречие**
         - ?
           - лучше
@@ -1478,51 +1698,61 @@
         - ?
           - остальные
         - **прилагательное**
+          - милый - 90%
         - **глагол**
         - **наречие**
         - **существительное**
           - представле́ния
-          - благотворительность
-          - лодка
-          - милый
-          - перевод
+          - благотворительность - 10%
+          - лодка - 90%
+          - оборудование - 20%
+          - перевод - 20%
+  - RECOMPOSITION `RU --> *`
+    - `ROOT.CentralExecutiveFunction`
+      - *I don't think it makes sense to enable Russian input atm, it may be considered jumping the gun if initiated right now* 
   - TOPIC | Weird Course with a weird language
-    - HIST 251
+    - HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts
       - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
-        - Videosweepmark: 0:30
+        - Videosweepmark: 5:00
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [Find Common Characters Solution Explained - Java](https://www.youtube.com/watch?v=k1iowWJimbg&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=60)
-      - Videosweepmark
+      - Videosweepmark: 2:30
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
     - Statistics 110
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
-        - Videosweepmark: 5:00
+        - Style: FAST POINTER
+        - Videosweepmark: 8:10
+        - Mosteller-Wallace
+        - IN_PLACE_PROCESSING
+          - **Предлог** --> `this.static`
+          - **глагол**
+          - **прилагательное**
+          - **наречие**
+          - ?
+            - обзор | 12%
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
     - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
       - Style: SLOW POINTER
+      - Loopcounts: 2/3 --> Archive and switch on maxing out
       - PROCESSING_POINTER_FIELD
-        - Videosweepmark: 12:00
-        - LanguagePerfectionMark: 40%
+        - Videosweepmark: 0:30
+        - LanguagePerfectionMark: 55%
         - AlgorithmPerfectionMark
           - Question Stem Comprehension: 70% 
             - [ ] Omnipotence of symbols
-          - Question Context Comprehension: 10%
-          - Automacity: 4%
-          - Procedural-Visualization Connection: 1%
+          - Question Context Comprehension: 15%
+          - Automacity: 5%
+          - Procedural-Visualization Connection: 2%
           - Metadigging: 1%
-          - Use case outreach: 5%
+          - Use case outreach: 7%
       - STYLE
         - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
         - If not perfect, loop until full comprehension
           - Russian Langauge
           - Actual Problem Solving
-      - ?
-        - Birthday Paradox
-          - [Check your intuition: The birthday problem - David Knuffke](https://www.youtube.com/watch?v=KtT_cgMzHx8)
-            - *Russian Subtitle*: 5
       - IN_PLACE_PROCESSING
         - `sentence wise`
           - *especially if X is not co-prime with our base, which is 10.*
@@ -1534,17 +1764,17 @@
         - **Предлог** --> `this.static`
           - насчет
         - **глагол**
-          - иметь | 95%
           - удовлетворять | 30%
+          - соответствовать
           - добавить | 10%
           - предположить | 25%
         - **прилагательное**
-          - найденный - 80%
-          - различный
-          - который
-          - естественный
-          - самостоятельный
-          - соответствующий
+          - найденный - 100% TTL
+          - различный - 100% TTL
+          - который - 50%
+          - естественный - 100% TTL
+          - самостоятельный - 10%
+          - соответствующий - 15%
         - **наречие**
         - ?
           - который
@@ -1559,30 +1789,7 @@
       - [wiktionary](https://en.wiktionary.org/wiki)
   - ?
     - https://dabkrs.com/p47
-- Hindi - N/A
-  - _meta
-    - tool
-      - Duolingo Browser Version
-  - _meta_escalate
-    - WARNING Your language addiction is poking around, waiting for the opportunity to negotiate so that it can spiral out of control
-  - Typing training begins after initialization of language structure
-    - Minimum considerable rate: 40 WPM
-- Dutch - N/A
-  - _meta
-    - tool
-      - Duolingo Browser Version
-  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
-  - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
-  - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
-    - Web3
-      - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
-      - remix.ehtereum.org
-      - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
-      - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
-      - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
-      - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
-    - Metaverse
-- Greek - Lower A1
+- Greek - Lower A1+
   - VOCAB\_FIELD \{CAPACITY_SETTING\}
     - _meta
       - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
@@ -1601,24 +1808,24 @@
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 23%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 45%
           - Personal Pronouns in Greek | 42%
             - Subject
-              - Core Table | 99%
+              - Core Table | 100% --> STAGE 2
+                - _meta
+                  - Active Recall: 80%
+                  - ?: Advanced Proficiency Tracking Metric
               - Examples | 60%
                 - VOLATILE SCOPED
                   - _hook
                     - `destroyOnComplete()`
                   - ?
                     - μένουμε
-                    - μένετε
-                    - ξενοδοχείο
-                      - [10 από τα πιο ΕΠΙΚΙΝΔΥΝΑ ΠΟΥΛΙΑ στον κόσμο! - Τα Καλύτερα Top10](https://www.youtube.com/watch?v=aADhGGgfclM)
-                        - Videosweepmark: 6
-                        - _escalate: *It's hard to find double-subtitle resource in Greek on the internet, save them for later use*
-                          - KarpouziFetaGaming
-                  - **ουσιαστικό**
-                    - ξενοδοχείο | 5%
+                    - ξενοδοχείο | 90%
+                    - **ουσιαστικό**
+                      - ξενοδοχείο | 5%
+                  - `verb`
+                    - μένω
             - Object
               - Core Table | 80%
               - Examples | 30%
@@ -1628,10 +1835,12 @@
           - Demonstrative Pronouns in Greek | 32%
             - Core Table | 25%
             - Examples | 55%
-          - Interrogative Pronouns in Greek | 10%
-          - Indefinite Pronouns in Greek | 5%
-            - Core Table | 30%
-            - Examples | 5%
+          - Interrogative Pronouns in Greek | 75%
+            - Core Table | 80%
+            - Examples | 70%
+          - Indefinite Pronouns in Greek | 35%
+            - Core Table | 40%
+            - Examples | 35%
           - Relative Pronouns in Greek | 8%
             - Core Table | 28%
             - Examples | 10%
@@ -1639,7 +1848,7 @@
       - **ρήμα**
         - ανακαλύπτω | 11%
           - [§§18-19 Greek Verb Overview](https://www.youtube.com/watch?v=-zDkZQV-BF8)
-            - Videosweepmark: 6:30
+            - Videosweepmark: 10:00
             - [να in Greek](https://mygreektutor.co.uk/2020/02/06/the-%CE%BD%CE%B1-the-%CF%8C%CF%84%CE%B9/)
             - INTERNAL TUNNEL --> `this['STATIC']`
       - **επίθετο**
@@ -1749,16 +1958,6 @@
 - 一个优秀的人际沟通艺术家应具备哪些技能？
 - 一个优秀的布道者应具备哪些技能？
 
-
-
-
-# Goethe C1
-## Hörenverstehen
-- [Goethe Zertifikat C1 Hören | Aufgaben 1 & 2](https://www.youtube.com/watch?v=JDm5eSNzR3Y)
-## Materials
-- https://www.goethe.de/ins/us/en/sta/ney/prf/gzc1/ueb.html
-- https://www.goethe.de/pro/relaunch/prf/materialien/C1/c1_modellsatz.pdf
-- https://www.goethe.de/pro/relaunch/prf/materialien/C1/c1_modellsatz.pdf
 
 
 

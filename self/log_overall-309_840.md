@@ -437,7 +437,10 @@
         - Liststamp: 5
         - Language pair: German  
   - AVALANCHE Final Modular-level Integration to trigger overall fluency threshold
-    - LOCKED: UNLOCK on RECOMPOSITION complete
+    - [Assassin's Creed Unity (PC)(French Audio with Eng Sub) - [Part 4] - Graduation [1080p60fps]](https://www.youtube.com/watch?v=HVZEhRFsKig)
+      - DRYpointer
+      - Confluence settings
+        - Hormone manipulation, Language tridem, Original input
   - POST-AVALANCHE
     - Maintenance: FR-->*, *-->FR
     - Intellectual debate, copywriting, advertising
@@ -636,7 +639,9 @@
                               - Videosweepmark: 3:51
                             - [Dot product and duality](https://www.youtube.com/watch?v=LyGKycYT2v0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=9)
                               - Videosweepmark: 13:20
-                              - Loopcounts: 0/5
+                              - Loopcounts: 1/5
+                            - [Cross products | Chapter 10, Essence of linear algebra](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
+                              - Videosweepmark: 1:22
                           - Discrete Mathematics Confluence
                       - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
@@ -708,6 +713,8 @@
                             - Visualizing process
                         - PROCESSING POINTER FIELD
                           - bookSweepPointer: 25/627
+                          - portableTeleportingOsmosisPointer: 25
+                          - Saturation: 1.1%
                       - Supplementation
                         - Introduction to Discrete Mathematics
                           - [link](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
@@ -1059,12 +1066,13 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 8.2%
+            - CCS: 8.6%
             - ETC： 6.12 months
             - TEMP_TIMESTAMP
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
+              - [ ] ESG Dataset
             - TANDEM
               - [SDS 041: An inspiring journey from a totally different background to Data Science](https://www.superdatascience.com/podcast/sds-041-inspiring-journey-totally-different-background-data-science)
           - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
@@ -1187,7 +1195,7 @@
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 17.4% | `this.concurrentTraffic = 0.33`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 0:30
+        - TEMP_TIMESTAMP: 2:10
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1226,7 +1234,7 @@
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE) | `this.concurrentTraffic = 0.33`
-              - Videomark: 55:20
+              - Videomark: 57:00
                 - PRUNE: 1:01:09-1:03:00
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
               - Concetto
@@ -1235,7 +1243,7 @@
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.33`
-            - Videosweepmark: 37:40
+            - Videosweepmark: 39:40/2:25:06
           - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
@@ -1252,8 +1260,8 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 8.9%
-      - ETC: 6.12 months
+      - CCS: 9.2%
+      - ETC: 6.09 months
       - TEMP TIMESTAMP: 5:30
       - Design Root Construction
         - STATIC
@@ -1283,8 +1291,8 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 50.8%
-      - E.T.A: 4.17 months
+      - CCS: 51.1%
+      - E.T.A: 4.14 months
       - TEMP_TIMESTAMP
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
         - Videosweepmark: 7:00
@@ -1455,6 +1463,9 @@
         - تنزيل
       - `preposition` TO_STATIC
         - 5% | مع
+      - `adverb`
+      - `?.connector`
+        - دُونَ
       - `noun`
         - 15% | مفهوم
         - 22% | طاولة
@@ -1464,7 +1475,7 @@
             - Videosweepmark: 1:50
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 1 - The 3 States - Abu Sulaymaan](https://www.youtube.com/watch?v=sOQvSkC--mw&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ)
-      - Videosweepmark: 18
+      - Videosweepmark: 19:03
       - VideoListStamp: 1
   - TOPIC: WTF is this?
     - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
@@ -1491,7 +1502,7 @@
         - Shift+X: Sukun
         - Shift+~: Tasdid
 - Spanish - Upper B1+++
-  - Syntax base construction stage: 89%
+  - Syntax base construction stage: 90%
   - No change, next stage E.T.A 1.1 months
   - TOPIC Project, Product, Service
   - TOPIC Innovation
@@ -1559,7 +1570,7 @@
         - Videosweepmark: 0:34
     - JP - \*
       - [電気工学コース紹介](https://www.youtube.com/watch?v=xwBcBCq0k0w)
-        - Videosweepmark: 13:50
+        - Videosweepmark: 14:50
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -1574,17 +1585,17 @@
       - `verb`
         - 関する - 35%
         - 選択する - 35%
+        - 駆使する - 10%
         - 高める - 85%
           - -te Form
           - Volitional
           - 高めさせる | 50%
-          - 高めれば
-          - 高めたら
+          - 高めれば | 20%
+          - 高めたら | 20%
           - 高めず | 10%
+          - 高めよう | 10%
       - `adjective`
-        - 理論的 | 100%
       - `phrase`
-        - 現在実行中 | 100% TTL
       - `adverb`
         - 実際 | 20%
       - `?.connector`
@@ -1597,13 +1608,12 @@
         - てみる
       - `noun`
         - 効率的手法 | 20%
-        - センシングシステム | 100% TTL
+        - シミュレーション | 10%
         - ?
           - 適用 | 80%
           - であり
-        - 分野 | 100% TTL
         - 言葉
-        - 机上 | 100% TTL
+        - シミュレーション
         - ノートブック | 90%
 - Russian - Lower B2+++
   - Typing speed training
@@ -1698,15 +1708,15 @@
         - ?
           - остальные
         - **прилагательное**
-          - милый - 90%
+          - милый - 100% TTL
         - **глагол**
         - **наречие**
         - **существительное**
-          - представле́ния
-          - благотворительность - 10%
+          - представле́ния | 10%
+          - благотворительность - 40%
           - лодка - 90%
-          - оборудование - 20%
-          - перевод - 20%
+          - оборудование - 50%
+          - перевод - 50%
   - RECOMPOSITION `RU --> *`
     - `ROOT.CentralExecutiveFunction`
       - *I don't think it makes sense to enable Russian input atm, it may be considered jumping the gun if initiated right now* 
@@ -1724,7 +1734,7 @@
     - Statistics 110
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 8:10
+        - Videosweepmark: 9:15
         - Mosteller-Wallace
         - IN_PLACE_PROCESSING
           - **Предлог** --> `this.static`
@@ -1733,52 +1743,10 @@
           - **наречие**
           - ?
             - обзор | 12%
+      - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
+        - Style: SLOW POINTER
+        - Videosweepmark: 1:00
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
-    - [4 Distinct Digits | hard problem from Topcoder Open 2019](https://www.youtube.com/watch?v=_W7Yy0CNDws)
-      - Style: SLOW POINTER
-      - Loopcounts: 2/3 --> Archive and switch on maxing out
-      - PROCESSING_POINTER_FIELD
-        - Videosweepmark: 0:30
-        - LanguagePerfectionMark: 55%
-        - AlgorithmPerfectionMark
-          - Question Stem Comprehension: 70% 
-            - [ ] Omnipotence of symbols
-          - Question Context Comprehension: 15%
-          - Automacity: 5%
-          - Procedural-Visualization Connection: 2%
-          - Metadigging: 1%
-          - Use case outreach: 7%
-      - STYLE
-        - Consecutive interpretation with perfect understanding(Dual-subtitle supported)
-        - If not perfect, loop until full comprehension
-          - Russian Langauge
-          - Actual Problem Solving
-      - IN_PLACE_PROCESSING
-        - `sentence wise`
-          - *especially if X is not co-prime with our base, which is 10.*
-            - особенно если X не взаимно прост с нашим основанием, **равным** 10
-              - ?: Adjective-led clause?
-          - *так и с рандомизированными алгоритмами, является парадоксом дня рождения*
-        - ?
-          - результирующей
-        - **Предлог** --> `this.static`
-          - насчет
-        - **глагол**
-          - удовлетворять | 30%
-          - соответствовать
-          - добавить | 10%
-          - предположить | 25%
-        - **прилагательное**
-          - найденный - 100% TTL
-          - различный - 100% TTL
-          - который - 50%
-          - естественный - 100% TTL
-          - самостоятельный - 10%
-          - соответствующий - 15%
-        - **наречие**
-        - ?
-          - который
-          - вероятность
   - Tool
     - Stress finder
       - [russiangram](https://russiangram.com/)
@@ -1827,8 +1795,8 @@
                   - `verb`
                     - μένω
             - Object
-              - Core Table | 80%
-              - Examples | 30%
+              - Core Table | 85%
+              - Examples | 35%
             - Possessive form
               - Core Table | 25%
               - Examples | 35%
@@ -1867,14 +1835,7 @@
               - Conjugation Table | 10%
               - Conjugation Examples | 4%
           - σχεδιάζω
-          - ξέρω
-          - μένω
-        - **επίθετο**
-          - πραγματικός
-        - **ουσιαστικό**
-          - άξονας
-          - ξενοδοχείο
-        - **επίρρημα**
+          -   - **επίρρημα**
         - **χωρίς κατηγοριοποίηση**
           - συντεταγμένη
           - βλέπω
@@ -1892,7 +1853,11 @@
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
   - _meta
     - topic
-      - anatomy
+   ξενοδοχείο | 90%
+                    - **ουσιαστικό**
+                      - ξενοδοχείο | 5%
+                  - `verb`
+                    - μένω   - anatomy
       - theoretical science
     - tool
       - Duolingo Browser Version

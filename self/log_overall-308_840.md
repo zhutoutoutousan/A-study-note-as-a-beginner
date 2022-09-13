@@ -715,6 +715,7 @@
                             - Visualizing process
                         - PROCESSING POINTER FIELD
                           - bookSweepPointer: 25/627
+                    
                       - Supplementation
                         - Introduction to Discrete Mathematics
                           - [link](https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)

@@ -176,7 +176,7 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 3.5%
+                  - CCS: 4.3%
                   - TEMP_TIMESTAMP
                   - _source
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -217,12 +217,14 @@
                         - _schema
                           - Frequently used concepts
                         - Frequently used concepts
+                        - P.O.I
+                          - Alastair Handley
                       - VOLATILE
                       - ?
                         - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
                           - !IMPORTANT
                             - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
-                          - Videosweepmark: 28:00/1:13:36
+                          - Videosweepmark: 31:00/1:13:36
                           - Language pair: English
                           - _source: INHERIT PARENT_ARU
                           - _method
@@ -258,7 +260,7 @@
                                           - Loopmark: 1
                                           - Language pair: French
                                         - [What are Municipalities and How are They Structured?](https://www.youtube.com/watch?v=w6duB23Zwkg)
-                                          - Videosweepmark: 1
+                                          - Videosweepmark: 3:30
                                           - Roles
                                             - MDB, MEC
                                 - LV2
@@ -433,7 +435,7 @@
   - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.3`
     - Les bases de l'investissement
       - [Le coût de l'investissement](https://www.youtube.com/watch?v=nMmeLd4hjp4&list=PLq0etrnpInCuhuX9igP927mRT8PjhV2GE&index=5)
-        - Videosweepmark
+        - Videosweepmark: 3:00
         - Liststamp: 5
         - Language pair: German  
   - AVALANCHE Final Modular-level Integration to trigger overall fluency threshold
@@ -457,10 +459,10 @@
           - Schedule, source, and initiate mock test for ACCA F3 regardless of exam readiness
           - Plan of attack on top of initial exam results
     - Video contents
-      - [ACCA P1 - 9. Professional Values](https://www.youtube.com/watch?v=9AdlHllCBmo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=165)
-        - Videosweepmark: 1:00
-        - CCS: 94.3%
-        - ETC: 8d
+      - [ACCA P1 - 2. Directors](https://www.youtube.com/watch?v=9AdlHllCBmo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=167)
+        - Videosweepmark
+        - CCS: 95.4%
+        - ETC: 6d
         - F9
           - Financial management function - 6%
           - Financial management environment - 1%
@@ -519,25 +521,6 @@
     - [video entry stamp](https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185)
       - Videosweepmark: 17:02
       - LIST_NUM: 1
-  - Political Science Bundle
-    - Agency Theory
-      - Erudition
-        - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
-          - PROCESSING POINTER FIELD
-            - STRUCT: 7-18
-            - ONCE: 18-20
-            - Sweepmark: 20/538
-          - CURIOUSITY OUTREACH FIELD
-            - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
-              - PROCESSING POINTER FIELD
-                - Videosweepmark: 0:42/1:36:04
-      - Vids
-        - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
-    - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
-      - Videomark: 5:14/2:05:53
-    - Power and Politics in Today’s World
-      - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-        - Videomark: 0:54
   - DISCOVERED CAREER PATH
     - Corporate liquidator
       - Finantial mathematics
@@ -557,9 +540,21 @@
         - **5** minutes of simultaneous interpretation(bilingual or trilingual)
           - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
 - German - Upper C1
-  - **Prüfung** --> 10m/Tag
+  - **BH | QR**
+    - **Continuous Stimulation Unit**
+      - Binary Classification
+      - Logistic Regression
+      - Gradient Descent
+  - **BH - P** --> 10m/Tag + BH
     - [Eintrag - 11-5](https://testdaf.neea.cn/)
-    - Prepbook - Blue
+    - S
+    - M
+    - L
+    - H
+      - **IFL** [T](https://www.youtube.com/watch?v=9Lv2IMujero&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj)
+        - PPF
+          - VSM: 10:15
+          - LM: 1
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
   - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
     - _meta
@@ -576,7 +571,7 @@
         - Stanford CS224W
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.1 - Message passing and Node Classification](https://www.youtube.com/watch?v=6g9vtxUmfwM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=14)
             - CCS: 23.3%
-            - Videosweepmark: 14:10 | `this.concurrentTraffic = 0.33`
+            - Videosweepmark: 17:10 | `this.concurrentTraffic = 0.33`
             - ?
               - SVM, Regression
               - ?
@@ -632,7 +627,7 @@
                               - Videosweepmark
                               - Loopcounts: 1
                             - [Inverse matrices, column space and null space | Chapter 7, Essence of linear algebra](https://www.youtube.com/watch?v=uQhTuRlWMxw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=7)
-                              - Videosweepmark
+                              - Videosweepmark 
                               - *...why is linear algebra similar to Arabic?...*
                               - RUNNING *Encore* * 1
                             - [Nonsquare matrices as transformations between dimensions | Chapter 8, Essence of linear algebra](https://www.youtube.com/watch?v=v8VSDg_WQlA&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8)
@@ -641,7 +636,7 @@
                               - Videosweepmark: 13:20
                               - Loopcounts: 1/5
                             - [Cross products | Chapter 10, Essence of linear algebra](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
-                              - Videosweepmark: 1:22
+                              - Videosweepmark: 4:00
                           - Discrete Mathematics Confluence
                       - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
@@ -1068,7 +1063,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 8.6%
             - ETC： 6.12 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 6:08
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
@@ -1095,7 +1090,27 @@
           - **Web 5.0+**
             - Metaverse
               - [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c)
-            - **DAO?** --> **ACTIVE** 5min/day --> `adhereToActiveResearchUnit`
+            - **DAO?** --> **ACTIVE** 1min/day --> `adhereToActiveResearchUnit`
+              - Cybersecurity for DAO Bundle
+              - Political Science Bundle
+                - Agency Theory
+                  - Erudition
+                    - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
+                      - PROCESSING POINTER FIELD
+                        - STRUCT: 7-18
+                        - ONCE: 18-20
+                        - Sweepmark: 20/538
+                      - CURIOUSITY OUTREACH FIELD
+                        - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
+                          - PROCESSING POINTER FIELD
+                            - Videosweepmark: 0:42/1:36:04
+                  - Vids
+                    - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
+                - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
+                  - Videomark: 5:14/2:05:53
+                - Power and Politics in Today’s World
+                  - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
+                    - Videomark: 0:54
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark： 1:23
           - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
@@ -1195,7 +1210,7 @@
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 17.4% | `this.concurrentTraffic = 0.33`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 2:10
+        - TEMP_TIMESTAMP: 5:50
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1234,7 +1249,7 @@
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE) | `this.concurrentTraffic = 0.33`
-              - Videomark: 57:00
+              - Videomark: 59:40
                 - PRUNE: 1:01:09-1:03:00
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
               - Concetto
@@ -1243,7 +1258,7 @@
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.33`
-            - Videosweepmark: 39:40/2:25:06
+            - Videosweepmark: 42:00/2:25:06
           - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)

@@ -173,12 +173,16 @@
             - JQ
               - [JQ](https://www.joinquant.com/)
           - ?
+            - Options & Derivatives
+              - U The complete options course
+                - L:
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 4.3%
-                  - TEMP_TIMESTAMP
+                  - CCS: 6.4%
+                  - TEMP_TIMESTAMP: 4:01
                   - _source
+                    - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
                       - Formulae
                         - _strategy
@@ -186,6 +190,14 @@
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
                     - Use of financial calculator???
+                  - STATIC
+                    - CFA Ethical Decision-Making Framework
+                      - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
+                      - Consider: Situational Influences, Alternative Actions, Additional Guidance
+                      - Act: By Making a Decision, By Elevating the Issue to a Higher Authority
+                      - Reflect: On What You've Learned, On Strengths and Weaknesses
+                    - Standards of Professional Conduct - 7 standards, 22 sub-sections --> `useLink`
+                    - PCP, DRC
                   - Seretonin Secretion Snapshop
                     - Professions: Specific education, Expert Knowledge, Good Practice and behaviour, Trust, respect, and recognition
                   - SUPPLEMENT
@@ -204,11 +216,59 @@
                   - _source
                     - Civics Academy SA
                     - Municipal Climate Change Action Centre
-                  - STRUCT
+                  - Items
                     - `common`
+                    - Bottom-up Dencentralized Eliza, Community build-up & Curator responsiblity
+                      - `ROOT.CentralExecutiveFunction.EmergencyOutput.pop()`
+                        - *Too much must-be-redacted information, moving to confidential*
+                      - RUNNING `ROOT.TopLevelFunctions('moveToConfidentials(\'/advancedResearchUnit\', this)')`
+                        - TTL: 5d
+                      - INBOUND_CACHE
+                        - [Deep learning?](https://www.aminer.org/pub/5550453645ce0a409eb5493f/deep-learning)
+                        - [Information Trading in Internet of Things for Smart Cities: A Market-Oriented Analysis](https://www.aminer.org/pub/5e3586c5df1a9c0c41ea511a/information-trading-in-internet-of-things-for-smart-cities-a-market-oriented)
+                        - [Designing a GDPR compliant blockchain-based IoV distributed information tracking system](https://www.aminer.org/pub/603769ecd3485cfff1df4a92/designing-a-gdpr-compliant-blockchain-based-iov-distributed-information-tracking-system)
+                      - Tooling
+                        - [Aminer](https://www.aminer.org/)
+                      - Input Channel
+                        - [How to choose news](https://www.youtube.com/watch?v=q-Y-z6HmRgI)
+                    - Privacy-Preserving Computing/AI
+                      - STATIC
+                        - TECC
+                        - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
+                          - Videosweemark: 5:00
+                          - CURIOSITY_OUTREACH
+                            - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
+                              - PROCESSING_POINTER_FIELD
+                                - Randomtelewalk: 24
+                                  - Saturation: 0.8%
+                            - [Neural Networks and Learning Machines](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
+                              - PROCESSING_POINTER_FIELD
+                                - Randomtelewalk: 13
+                                  - Saturation: 0.05%
+                      - VOLATILE
+                        - [DLRL Summer School 2022 - Mi Jung Park - Privacy-Preserving Deep Learning](https://www.youtube.com/watch?v=bwhYLcm9Ykg)
+                        - [Secure Computation in Computing - 2022/9](https://www.youtube.com/watch?v=3GPD40lWVoI)
+                          - Videosweemark: 1:32
+                          - ARSENAL_INPUT --> `software.createHigherLevelArchitectureSection`
+                            - ACM learning
+                              - [ACM learning](https://learning.acm.org)
+                              - [Ethical Responsibility](https://ethics.acm.org)
+                          - Tool-Problem Net
+                            - Tool:
+                              - ImageNet, MNIST, CIFAR-10, Librispeech, WikiText-103
+                              - WMT
+                            - Problems
+                              - Cancer, Alzheimers, Dementia, Depression, Anxiety, Common Cold
+                    - Digital Transformation
+                      - _source
+                        - Eric Kimberling
                     - ESG
                       - _inbound_cache
                         - [Investopedia - ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
+                          - Perceived Onset Saturation: 20%
+                          - CONTEXT_OUTREACH
+                            - ETF
+                            - SIF Foundation
                         - [Alpha vs. Beta: What's the Difference?](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
                           - _metrics
                             - Self-Perceived Context-Determined Osmosis Saturation Percentage(SPCDOSP): 40%
@@ -224,9 +284,12 @@
                         - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
                           - !IMPORTANT
                             - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
-                          - Videosweepmark: 31:00/1:13:36
+                          - Videosweepmark: 38:00/1:13:36
                           - Language pair: English
                           - _source: INHERIT PARENT_ARU
+                            - [Demystifying Carbon Credits, Carbon Markets, and Carbon Farming](https://www.youtube.com/watch?v=UwcZi7z2AS8)
+                          - PRIORITIES
+                            - Aerobic composting
                           - _method
                             - `deprecateDataToLanguageSection({activeResearchUnits: ['ESG']}, ...this.deprecated, {thens: [{onComplete: ['destroy']}]}, INBOUND_CACHE=true)`
                           - STATIC/MESO
@@ -258,11 +321,13 @@
                                         - [What can I expect from my Municipality?](https://www.youtube.com/watch?v=yAHIJMkmw2E)
                                           - Videosweepmark
                                           - Loopmark: 1
-                                          - Language pair: French
                                         - [What are Municipalities and How are They Structured?](https://www.youtube.com/watch?v=w6duB23Zwkg)
-                                          - Videosweepmark: 3:30
+                                          - Videosweepmark
+                                          - Loopmark: 1
                                           - Roles
                                             - MDB, MEC
+                                        - [What are Municipal Services?](https://www.youtube.com/watch?v=Wbk-BHtvSbQ)
+                                          - Language pair: French
                                 - LV2
                                   - _metrics
                                     - Sense of deprecation: 90%
@@ -434,10 +499,10 @@
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
   - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.3`
     - Les bases de l'investissement
-      - [Le coût de l'investissement](https://www.youtube.com/watch?v=nMmeLd4hjp4&list=PLq0etrnpInCuhuX9igP927mRT8PjhV2GE&index=5)
-        - Videosweepmark: 3:00
-        - Liststamp: 5
-        - Language pair: German  
+      - [Investir quand on est retraité](https://www.youtube.com/watch?v=8cnPZ72Fss0&list=PLq0etrnpInCuhuX9igP927mRT8PjhV2GE&index=9)
+        - Videosweepmark
+        - Liststamp: 9
+        - Language pair: German
   - AVALANCHE Final Modular-level Integration to trigger overall fluency threshold
     - [Assassin's Creed Unity (PC)(French Audio with Eng Sub) - [Part 4] - Graduation [1080p60fps]](https://www.youtube.com/watch?v=HVZEhRFsKig)
       - DRYpointer
@@ -459,10 +524,10 @@
           - Schedule, source, and initiate mock test for ACCA F3 regardless of exam readiness
           - Plan of attack on top of initial exam results
     - Video contents
-      - [ACCA P1 - 2. Directors](https://www.youtube.com/watch?v=9AdlHllCBmo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=167)
-        - Videosweepmark
-        - CCS: 95.4%
-        - ETC: 6d
+      - [ACCA P1 - 7. Corporate governance](https://www.youtube.com/watch?v=1fVWFnAUVOc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=172)
+        - Videosweepmark: 2:00
+        - CCS: 99.4%
+        - ETC: 1d
         - F9
           - Financial management function - 6%
           - Financial management environment - 1%
@@ -551,10 +616,10 @@
     - M
     - L
     - H
-      - **IFL** [T](https://www.youtube.com/watch?v=9Lv2IMujero&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj)
+      - **IFL** [T](https://www.youtube.com/watch?v=-CNwUuOHAxs&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=3)
         - PPF
-          - VSM: 10:15
-          - LM: 1
+          - VSM: 0:29
+          - LM: 3
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
   - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
     - _meta
@@ -570,9 +635,10 @@
             - Videomark: 10:00
         - Stanford CS224W
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.1 - Message passing and Node Classification](https://www.youtube.com/watch?v=6g9vtxUmfwM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=14)
-            - CCS: 23.3%
-            - Videosweepmark: 17:10 | `this.concurrentTraffic = 0.33`
+            - CCS: 25%
+            - Videosweepmark: 15:35 | `this.concurrentTraffic = 0.33`
             - ?
+              - Probabilistic Relational Classifier
               - SVM, Regression
               - ?
                  - Frobenius norm
@@ -583,7 +649,7 @@
                 - Homophily
                   - [Social and Economic Networks 2.1 Week 2: Homophily](https://www.youtube.com/watch?v=UeEa6NpXYtA)
                 - Influence
-              - Deepwalk: $\log{(vol(G)(\frac{1}{T}\sum^{T}_{r=1} {(D^{-1}A)}^r D^{-1})} - \log{b}$
+              - Deepwalk: $\log{(vol(G)(\frac{1}{T}\s um^{T}_{r=1} {(D^{-1}A)}^r D^{-1})} - \log{b}$
                  - [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971)
                     - Paperreadmark EXTEND ROOT_PAPERREADMARK
            - [ ] **MAJOR BLOCKAGE**
@@ -613,7 +679,7 @@
                           - _updates
                             - 2022/9/3
                               - Neural reconstruction efficiency sky-rocketed for linear transform visualization
-                          - 3blue1brown | `this.concurrentTraffic = 0.33`
+                          - 3blue1brown | `this.concurrentTraffic = 0.33` --> `GlobalContinuousStimulationUnit(PENDING)`
                             - [Vector intuition](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=2)
                               - Videosweepmark: 9:10
                             - [Matrix Visualization](https://www.youtube.com/watch?v=XkY2DOUCWMU)
@@ -636,7 +702,11 @@
                               - Videosweepmark: 13:20
                               - Loopcounts: 1/5
                             - [Cross products | Chapter 10, Essence of linear algebra](https://www.youtube.com/watch?v=eu6i7WJeinw&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=10)
-                              - Videosweepmark: 4:00
+                              - Videosweepmark
+                              - Loopcounts: 1
+                            - [Cross products in the light of linear transformations | Chapter 11, Essence of linear algebra](https://www.youtube.com/watch?v=BaM7OCEm3G0&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=11)
+                              - Videosweepmark: 9:10
+                              - Saturation: 5%
                           - Discrete Mathematics Confluence
                       - linearAlgebraIntuitionRegainPointer: customizedPointer | `this.concurrentTraffic = 0.33`
                         - _goal
@@ -669,6 +739,10 @@
                                     - [Markov Chains - Part 6 - Applied Problem for Regular Markov Chains](https://www.youtube.com/watch?v=2S5kvYe47b4)
                                     - [Lecture #2: Solved Problems of the Markov Chain using TRANSITION PROBABILITY MATRIX Part 1 of 3](https://www.youtube.com/watch?v=arxmRnAdLy4)
                                     - [Markov Chain-Steady State Probabilities-Three Examples](https://www.youtube.com/watch?v=T-4NJTj9ToY)
+                                      - Videosweepmark: 6:00
+                                      - Saturation: 4%
+                                      - Verdict
+                                        - *Valid, highly valuable* --> Push to Markov chain Input-output training set
                                     - [Finite Math: Markov Chain Example - The Gambler's Ruin](https://www.youtube.com/watch?v=afIhgiHVnj0)
                               - [ ] THROTTLE [Hidden Markov Model Clearly Explained! Part - 5](https://www.youtube.com/watch?v=E4WcBWuQQws&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=5)
                                 - Videosweepmark
@@ -680,7 +754,15 @@
                                 - Eigenvector Equation
                                 - Chapman-Kolmogorov Theorem
                                   - `createTheoremSchema(root, context).appendToRoot()`
+                                    - [Introduction to Chapman-Kolmogorov equations](https://www.youtube.com/watch?v=eUkBh0ihAJU)
+                                    - 18.SO96
+                                      - [5. Stochastic Processes I](https://www.youtube.com/watch?v=TuTmC8aOQJE)
+                                        - Videosweepmark: 3:25
                                     - [Math's Fundamental Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo&t=214s)
+                                      - Videosweemark: 7:37
+                                      - Cantor's Diagonalization Proof
+                                      - Non-euclidean Geometry
+                                        - [10. Introduction to Non-Euclidean Spaces](https://www.youtube.com/watch?v=YfbXB_MSkSY)
                                   - $P_{ij}(n)=\sum_k P_{ik}(r) \times P_{kj} (n-r)$
                                   - Proof
                               - NEURAL TRAINING [A matrix and its transpose both visualized](https://www.youtube.com/watch?v=1qdq6mtA_J8)
@@ -1061,9 +1143,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 8.6%
-            - ETC： 6.12 months
-            - TEMP_TIMESTAMP: 6:08
+            - CCS: 11.3%
+            - ETC： 6.03 months
+            - TEMP_TIMESTAMP
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
@@ -1208,14 +1290,15 @@
       - Co-ordinated Collusion
     - CS toolkit
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 17.4% | `this.concurrentTraffic = 0.33`
+        - CCS: 19.4% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 5:50
+        - TEMP_TIMESTAMP： 11:00
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
         - Tools
           - _source
+            - [Python Socket](https://docs.python.org/3/library/socket.html)
             - [Nmap Cheatsheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
             - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
             - `osint-tools`
@@ -1248,17 +1331,16 @@
               - Tooling
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
-            - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE) | `this.concurrentTraffic = 0.33`
-              - Videomark: 59:40
-                - PRUNE: 1:01:09-1:03:00
+            - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
+              - Videomark: 1:07:01/1:07:01
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
               - Concetto
                 - point-to-point
                 - GRE tunnel
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
         - In-depth capability of `nmap`
-          - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.33`
-            - Videosweepmark: 42:00/2:25:06
+          - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
+            - Videosweepmark: 53:00/2:25:06
           - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
           - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
@@ -1275,9 +1357,16 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 9.2%
-      - ETC: 6.09 months
-      - TEMP TIMESTAMP: 5:30
+      - CCS: 10/1%
+      - ETC: 6.03 months
+      - TEMP TIMESTAMP: 5:00
+      - BLOCKERS
+        - Extended muscle memory training
+          - CURRENT_RESOURCE
+            - Saturation
+      - **Continuous Stimulation Unit**
+        - Autolayout
+        - Component & Variance
       - Design Root Construction
         - STATIC
           - Frequently used components
@@ -1306,8 +1395,10 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
-      - CCS: 51.1%
-      - E.T.A: 4.14 months
+      - CCS: 53.1%
+      - E.T.A: 1.56 months
+      - States
+        - `isHandsOn`: `true`
       - TEMP_TIMESTAMP
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
         - Videosweepmark: 7:00
@@ -1330,40 +1421,40 @@
       - CCS
   - TOPIC: Copywriting
 - _helper-function --> `_root_processing-language-meta`
-  - ERROR: Failed to perform `dailyLanguageChangelogUpdate` due to `EVENT_NAME=InvoluntaryPassout`
-    - ERROR：No `Automatic Caffeine Dispenser`not found in this dimension
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
         - German: \[Inaudible\] ERROR: Too many data points
           - Require upgrade on `INTERNAL_INTUITION`
       - Time consumption
+        - TOTAL: 2h 20 min
         - English
-          - IV
+          - IV: 18:05
+          - MA_5: 22:00 + 27:44 + 18:05 + ...\{2\}
         - French
-          - IV: 14:09
-          - MA_5: 14:09 + ...\{4\}
+          - IV: 13:49
+          - MA_5: 14:09 + 13:49 + ...\{3\}
         - Italian
-          - IV: 13:14
-          - MA_5: 28:53 + 13:50 + 13:14 + ...\{2\}
+          - IV: 20:09
+          - MA_5: 28:53 + 13:50 + 13:14 + 20:09 +...\{1\}
         - Russian
-          - IV: 2:29
-          - MA_5: 11:38 + 2:29 ...\{4\}
+          - IV: 14:01
+          - MA_5: 11:38 + 2:29 + 14:01 ...\{2\}
         - German
-          - IV: 39:15
-          - MA_5: 34:40 + 40:00 + 39:15 + ...\{2\}
+          - IV: 40:53
+          - MA_5: 34:40 + 40:00 + 39:15 + 40:53 + ...\{1\}
         - Portuguese
           - IV: 6:39
           - MA_5: 4:00 + 6:39 +  ...\{3\}
         - Arabic
-          - IV: 6:03
-          - MA_5: 3:44 + 6:03 + ...\{3\}
+          - IV: 8:06
+          - MA_5: 3:44 + 6:03 + 8:06 + ...\{2\}
         - Japanese
           - IV: 11:12
           - MA_5: 7:42 + 11:12 + ...\{4\}
         - Greek
-          - IV: 5:51
-          - MA_5: 5:51 + ...\{4\}
+          - IV: 4:54
+          - MA_5: 5:51 + 4:54 + ...\{3\}
     - Actual Addiction Manifestation
       - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
         - 2022/8/1
@@ -1453,6 +1544,12 @@
           - energy: LOCKED *Advanced internal intuition* required
           - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
   - ...
+    - Change Log
+      - 2022/9/14
+        - Confluence of input of Pronounciation, Syntax, Meaning, Context, Grammar unlocked
+          - expect dramatically accelerated progress in Arabic in the next few months
+      - 2022/9/17
+        - Initiate physical sound generation sync with verb forms with the help of Reverso
     - STATIC
       - General Noun Usage Proficiency
       - Verb Tense
@@ -1461,6 +1558,12 @@
       - Roman Spell <--> Diacritic <--> Arabic Script
       - /General Verb forms | 1%
       - /General Noun forms | 2%
+      - Difference of grammatical terms
+      - Static syntax
+        - على
+        - بعض
+      - `pronoun`
+        - نَحْنُ
     - MESO
       - Frequently used vocabulary
         - _source
@@ -1470,8 +1573,12 @@
     - VOLATILE
       - `verb`
         - قلب
+        - 2% | اِسْتَطَاعَ
+        - 5% | نصعد
+        - تقديم
         - TO_STATIC
           - هو
+          - لدي
           - 2% | كان
             - [The verb "to be" in Arabic كان](https://www.youtube.com/watch?v=0vHezm7e98E)
               - Videosweepmark: 1:35
@@ -1482,18 +1589,21 @@
       - `?.connector`
         - دُونَ
       - `noun`
+        - المستأجرين
         - 15% | مفهوم
         - 22% | طاولة
         - قطار
+        - مبدأ
         - 3% | التي
           - [Arabic verbs mastery lesson 1](https://www.youtube.com/watch?v=lrkIyxiUHrw)
             - Videosweepmark: 1:50
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 1 - The 3 States - Abu Sulaymaan](https://www.youtube.com/watch?v=sOQvSkC--mw&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ)
-      - Videosweepmark: 19:03
+      - Videosweepmark: 24:15
       - VideoListStamp: 1
-  - TOPIC: WTF is this?
-    - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
+  - TOPIC: Shariah Law
+    - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
+      - Videosweepmark: 1:00
   - Tool
     - Rapid, Point-in-time, portable Entry
       - Reverso
@@ -1585,7 +1695,7 @@
         - Videosweepmark: 0:34
     - JP - \*
       - [電気工学コース紹介](https://www.youtube.com/watch?v=xwBcBCq0k0w)
-        - Videosweepmark: 14:50
+        - Videosweepmark: 21:10
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -1599,22 +1709,19 @@
     - VOLATILE
       - `verb`
         - 関する - 35%
-        - 選択する - 35%
+        - 選択する - 55%
         - 駆使する - 10%
-        - 高める - 85%
-          - -te Form
-          - Volitional
-          - 高めさせる | 50%
-          - 高めれば | 20%
-          - 高めたら | 20%
-          - 高めず | 10%
-          - 高めよう | 10%
       - `adjective`
+        - 先端 | 15%
       - `phrase`
       - `adverb`
+        - 非常に | 40%
         - 実際 | 20%
       - `?.connector`
         - ですが
+        - だけで
+        - けれども
+        - 行っておられます | 10%
       - ?
         - であり
         - または
@@ -1622,14 +1729,14 @@
         - されました | 40%
         - てみる
       - `noun`
-        - 効率的手法 | 20%
-        - シミュレーション | 10%
+        - 物理の世界 | 90%
+        - 影響 | 20%
+        - 未踏領域 | 100% TTL
+        - 効率的手法 | 30%
         - ?
           - 適用 | 80%
           - であり
-        - 言葉
-        - シミュレーション
-        - ノートブック | 90%
+        - 言葉 | 50%
 - Russian - Lower B2+++
   - Typing speed training
     - Style: In tandem with 
@@ -1643,15 +1750,15 @@
         - 28951: двадцать восемь тысяч девятьсот пятьдесят один
       - INBOUND_CACHE
         - Personal pronoun bundle
-          - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 92%
+          - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 95%
             - _state
               - COLD_TURKEY: False
-            - Personal pronouns | **THRESHOLD LEVEL 1** - 99%
-              - `self.metaDigging(LEVEL=1)` | 99%
+            - Personal pronouns | **THRESHOLD LEVEL 2** | 10%
+              - `self.metaDigging(LEVEL=2)`
                 - _entity
                   - `categorize(self)`
                 - _method
-                  - `activeRecall(self)` | 99%
+                  - `activeRecall(self)` | 80%
             - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
               - `self.metaDigging(LEVEL=1)` | 92%
                 - _entity
@@ -1665,19 +1772,19 @@
                     - Group 3 - наш, ваш
                 - _method
                   - `activeRecall(self)` | 30%
-            - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 2%
-              - `self.metaDigging(LEVEL=1)` | 0%
+            - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 30%
+              - `self.metaDigging(LEVEL=1)` | 30%
                 - _entity
                   - `categorize(self)`
                 - _method
-                  - `activeRecall(self)` | 0%
+                  - `activeRecall(self)` | 30%
             - Reflective Pronoun
               - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
             - Reflexive Possessive Pronoun
               - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
           - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
       - **частица**
-        - же - 70%
+        - же - 90%
         - К
       - **цифра**
       - **предлог**
@@ -1708,56 +1815,46 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
-        - наслать | 30%
+        - наслать | 50%
+        - сосредоточиться | 20%
+      - ?
+        - вот
       - **прилагательное**
-        - сложный - 60%
-        - безошибочный - 40%
-        - действительный - 30%
-        - высокий - 50%
+        - действительный - 100% TTL
+        - высокий - 80%
+        - неординарный
       - **наречие**
-        - ?
-          - лучше
       - **существительное**
-        - сердце - 90%
-      - INBOUND CACHE
-        - ?
-          - остальные
-        - **прилагательное**
-          - милый - 100% TTL
-        - **глагол**
-        - **наречие**
-        - **существительное**
-          - представле́ния | 10%
-          - благотворительность - 40%
-          - лодка - 90%
-          - оборудование - 50%
-          - перевод - 50%
+        - представление | 10%
+        - точка
+        - положение
+        - оборудование - 80%
+        - перевод - 50%
+        - неопределенность
+      - ?
+        - остальные
   - RECOMPOSITION `RU --> *`
     - `ROOT.CentralExecutiveFunction`
       - *I don't think it makes sense to enable Russian input atm, it may be considered jumping the gun if initiated right now* 
   - TOPIC | Weird Course with a weird language
     - HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts
-      - [1. General Introduction](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PLPQGZL3K4zNgiJfoIxQAzPB8Ks4s7r7k2)
-        - Videosweepmark: 5:00
+      - 7.3%
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [Find Common Characters Solution Explained - Java](https://www.youtube.com/watch?v=k1iowWJimbg&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=60)
-      - Videosweepmark: 2:30
+      - Videosweepmark: 4:06
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
     - Statistics 110
+      - CURIOSITY_CACHE
+        - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 9:15
+        - Videosweepmark: 14:20
+        - Non-russian Relevant
+          - IQSS - Social Science
         - Mosteller-Wallace
-        - IN_PLACE_PROCESSING
-          - **Предлог** --> `this.static`
-          - **глагол**
-          - **прилагательное**
-          - **наречие**
-          - ?
-            - обзор | 12%
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
         - Videosweepmark: 1:00
@@ -1791,13 +1888,12 @@
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 45%
+        - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 55%
           - Personal Pronouns in Greek | 42%
             - Subject
-              - Core Table | 100% --> STAGE 2
+              - Core Table | 95% STAGE 2
                 - _meta
-                  - Active Recall: 80%
-                  - ?: Advanced Proficiency Tracking Metric
+                  - Active Recall: 95%
               - Examples | 60%
                 - VOLATILE SCOPED
                   - _hook
@@ -1815,25 +1911,26 @@
             - Possessive form
               - Core Table | 25%
               - Examples | 35%
-          - Demonstrative Pronouns in Greek | 32%
-            - Core Table | 25%
-            - Examples | 55%
+          - Demonstrative Pronouns in Greek | 60%
+            - Core Table | 55%
+            - Examples | 85%
           - Interrogative Pronouns in Greek | 75%
             - Core Table | 80%
             - Examples | 70%
-          - Indefinite Pronouns in Greek | 35%
+          - Indefinite Pronouns in Greek | 70%
+            - Core Table | 80%
+            - Examples | 60%
+          - Relative Pronouns in Greek | 30%
             - Core Table | 40%
-            - Examples | 35%
-          - Relative Pronouns in Greek | 8%
-            - Core Table | 28%
-            - Examples | 10%
+            - Examples | 25%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
         - ανακαλύπτω | 11%
           - [§§18-19 Greek Verb Overview](https://www.youtube.com/watch?v=-zDkZQV-BF8)
-            - Videosweepmark: 10:00
+            - Videosweepmark: 14:13
             - [να in Greek](https://mygreektutor.co.uk/2020/02/06/the-%CE%BD%CE%B1-the-%CF%8C%CF%84%CE%B9/)
             - INTERNAL TUNNEL --> `this['STATIC']`
+        - φοράω
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
@@ -1844,8 +1941,8 @@
         - **ρήμα**
           - αντιμετωπίζω | 10%
             - [ΗΛΙΑΣΗ! Πώς την αντιμετωπίζω;](https://www.youtube.com/watch?v=FTkjftR5c2Y)
-              - Videosweepmark: 6:00/12:25
-              - Language Pair: German
+              - Videosweepmark: 8:00/12:25
+              - Language Pair: French
             - Conjugation Meta | 10%
               - Conjugation Table | 10%
               - Conjugation Examples | 4%

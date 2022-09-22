@@ -287,6 +287,9 @@
     - `zsh-auto-suggestions`
 - Hacking
   - [ALL IN ONE Hacking Tool For Hackers](https://github.com/Z4nzu/hackingtool)
+- API
+  - [public-apis](https://github.com/public-apis/public-apis)
+
 # 团队软件开发军火库
 
 

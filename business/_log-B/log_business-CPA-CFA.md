@@ -2046,7 +2046,63 @@ Asset Allocation
           - Videomark: 0:00:00/1:00:29
           - _meta_escalate
             - MOVE TO `$parent` on COMPLETION of `$parent`
-
+- [ACCA P1 - 8. Corporate Gov](https://www.youtube.com/watch?v=bU1nqamX444&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=173)
+  - CCS: 100%
+  - ETC: NEXT
+  - F9
+    - Financial management function - 6%
+    - Financial management environment - 1%
+    - Working capital management - 22%
+    - Investment appraisal - 22%
+    - Business finance - 19%
+    - Cost of capital - 12%
+    - Business valuation - 12%
+    - Risk management - 7%
+  - ?
+    - CONVOLUTION | Conceptual Framework
+  - CONVOLUTION | Actual Exam Readiness
+    - [DipIFR CBE new ACCA Exam pattern Full Consolidation question solved](https://www.youtube.com/watch?v=q3fZr4p5m4I)
+  - CONVOLUTION | Management Accounting
+    - Main idea
+      - Planning
+      - Control
+      - Decision making
+    - Ingredients
+      - Information
+        - _quality
+          - Relevance
+          - Timing
+          - Cost-effectiveness
+          - Accuracy
+      - Data
+  - CONVOLUTION | Financial Accounting
+    - ?
+      - PUP
+      - NCI
+  - CONVOLUTION | Tax
+    - Trading profits
+    - Capital allowances
+    - Employment income
+    - Property business profits
+    - Investment income
+    - Personal tax computations
+    - National insurance
+  - ACTION STICKY： Sit for ACCA after Completion
+    - _motivation
+      - Put to Startup arsenal
+    - [ACCA - Global](https://www.accaglobal.com/hk/en.html)
+- _meta_static
+- Style: Osmosis
+- _structure
+  - The Business Organization and its Structure
+  - Organizational Culture and Stakeholders
+  - IT in business
+  - Ethics and Corporate Governance
+  - ESG
+  - History and Role of Accounting in Business
+  - Specific Functions of Accounting and Internal Financial Control
+  - Leading and Managing Individuals and Teams
+  - Recruiting and Developing Effective Employees
 
 
 # Roadmap

@@ -138,6 +138,11 @@
           - Real-world knowledge coverage
           - Go-To-Market Directed Pre-built Mental Preparatory facility
         - Manifestation layer
+          - Intra-linguisic proficiency
+            - `/language/translation/*`
+            - `/language/interpretation/*`
+              - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
+                - _alias: 实用英汉翻译教程
           - Simultaneous multi-channel tasking
             - Maxmimum processing power: 2 * `$(DETAIL_METRIC = 80%)`
             - Error rate: 70%

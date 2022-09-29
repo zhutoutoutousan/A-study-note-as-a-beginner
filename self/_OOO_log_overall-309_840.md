@@ -14,6 +14,8 @@
 ## Shelter if you're homeless
 - The Innovator's Dilemma
 - [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
+  - PROCESSING_POINTER_FIELD
+    - Randomtelewalk: 12
 - [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
 - The Goal E.M.Goldratt
 - The Checklist Manifesto - A.Gawande
@@ -138,6 +140,11 @@
           - Real-world knowledge coverage
           - Go-To-Market Directed Pre-built Mental Preparatory facility
         - Manifestation layer
+          - Intra-linguisic proficiency
+            - `/language/translation/*`
+            - `/language/interpretation/*`
+              - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
+                - _alias: 实用英汉翻译教程
           - Intra-linguisic proficiency
             - `/language/translation/*`
             - `/language/interpretation/*`

@@ -121,20 +121,6 @@
     - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
       - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
   - `ROOT.medium.GenericLanguageUseCaseOutReach.Redacteds`
-- Meta Language: F U Esperanto
-  - Use Case: *When sentiments stop mattering*
-  - `JSON` as interpersonal communication medium
-    - **LOCKED**: Requires at least 5-8 yrs of valid, high-quality general cloud computing, PR, Enterprise IT experience
-    - BCI Integration
-      - **LOCKED**: Requires at least 
-  - Infographics
-    - [Illustrator CC Tutorial | 3D Graphic Design | Infographic Design template 04](https://www.youtube.com/watch?v=NgByDWnTkps&list=PLJ9GmWsyVYjQaqsGfHBb_1d_MzE2DeHKw)
-    - [Adobe After Effects: Complete Course from Novice to Expert](https://www.udemy.com/course/after-effects-kinetic-typography/learn/lecture/8294894#overview)
-    - [Graphic Design Masterclass - Learn GREAT Design](https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/learn/lecture/16503232#overview)
-    - [Graphic Design Masterclass Intermediate: The NEXT Level](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/learn/lecture/18045771#overview)
-    - [After Effects CC Expressions: Design & Animate Infographics](https://www.udemy.com/course/adobe-after-effects-expressions-create-motion-infographics/learn/lecture/29129978#overview)
-  - Mathematics
-    - `SCATTERED`
 - English - Post C2 --> `bymaverse`
   - Post C2 Gradings
     - A: A1, A2
@@ -262,8 +248,8 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 8.3%
-                  - TEMP_TIMESTAMP
+                  - CCS: 7.5%
+                  - TEMP_TIMESTAMP: 15:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -341,10 +327,8 @@
                                   - Deepnote
                             - [Neural Networks and Learning Machines](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
                               - PROCESSING_POINTER_FIELD
-                                - Randomtelewalk: 19
-                                  - Saturation: 0.06%
-         - PROCESSING_POINTER_STORE
-                - Vanishing-gradient problem
+                                - Randomtelewalk: 13
+                                  - Saturation: 0.05%
                       - VOLATILE
                         - [DLRL Summer School 2022 - Mi Jung Park - Privacy-Preserving Deep Learning](https://www.youtube.com/watch?v=bwhYLcm9Ykg)
                         - [Secure Computation in Computing - 2022/9](https://www.youtube.com/watch?v=3GPD40lWVoI)
@@ -602,7 +586,7 @@
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
       - Videosweepmark: 1:04
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 9:04
+      - Videosweepmark: 5:26
   - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.33`
     - [Le risque, la gravité et les coûts](https://www.youtube.com/watch?v=Au8QGxBXBm8)
       - Videosweepmark: 9:13
@@ -639,19 +623,11 @@
               - Randomtelewalk: 189/320
                 - Saturation: 8%
                 - Goal: Form a strategy
-                  - Direct Input-Ouput Training
-                    - *Double mapping*
-                      - INSTANCE
-                        - VALUE: 17-189
-                        - Saturations
-                          - Saturation_1: 30%
-                          - Saturation_5: 0.1%
-                          - Saturation_10: 0%
-                  - Osmosis
+                  - *Double mapping*
                 - _supplement
                   - Sales Tax
                     - [ACCA F3 Sales Tax (part a)](https://www.youtube.com/watch?v=bFLUXJoVeRc) --> `this.concurrentTraffic = 0.2`
-                      - Videosweepmark: 14:00
+                      - Videosweepmark: 5:22
                   - [Est-ce que Microsoft Excel ?! Système de tableaux de tableaux de statistiques financières Tutoriel 1](https://www.youtube.com/watch?v=z26zbiGJnd4)
                     - Videosweepmark: 2:31
             - PROCESSING_POINTER_STORE
@@ -675,7 +651,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [1. Introduction and What this Course Will Do for You and Your Purposes](https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185)
-      - Videosweepmark: 49:00
+      - Videosweepmark: 42:40
       - LIST_NUM: 1
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
@@ -717,8 +693,6 @@
     - M
       - Input-Output Pair
         - [Eine der schwierigsten. Gut gemeistert](https://www.youtube.com/watch?v=SBnLUkGi_gg)
-          - Videosweepmark: 19:15
-          - ENCORE's: 0/10
         - [Redemittel & Aufgaben & Lösungen](https://www.youtube.com/watch?v=SX6DLGGfK7I)
       - Context
         - [Digitaler Hinweise](https://www.youtube.com/watch?v=79eIDIWt_sM)
@@ -786,7 +760,7 @@
         - Stanford CS224W
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.2 - Relational and Iterative Classification](https://www.youtube.com/watch?v=QUO-HQ44EDc&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=15)
             - CCS: 26.7%
-            - Videosweepmark: 19:15 | `this.concurrentTraffic = 0.33`
+            - Videosweepmark: 12:30 | `this.concurrentTraffic = 0.33`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
@@ -1305,9 +1279,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 16.9%
+            - CCS: 16.4%
             - ETC： 5.84 months
-            - TEMP_TIMESTAMP: 2:30
+            - TEMP_TIMESTAMP: 1:00
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
@@ -1433,12 +1407,11 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 3:30
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 1: Introduction to Consumer Psychology - I](https://www.youtube.com/watch?v=MFtReSUVygg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=2)
         - PROCESSING POINTER FIELD
-          - Videomark: 33:32/1:01:01
+          - Videomark: 25:50/1:01:01
         - Practical Benefit, Unusual benefit
       - PsyOps Recap
         - MACRO
@@ -1473,7 +1446,7 @@
       - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 20.2% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 6:50
+        - TEMP_TIMESTAMP: 3:20
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1517,7 +1490,7 @@
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
             - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
-              - Videosweepmark: 18:00
+              - Videosweepmark: 14:30
               - ALSO Proficient use of `find`
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
               - Videomark: 1:07:01/1:07:01
@@ -1526,7 +1499,7 @@
                 - point-to-point
                 - GRE tunnel
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
-              - Videosweepmark: 22:38
+              - Videosweepmark: 18:24
               - [rfc791](https://datatracker.ietf.org/doc/pdf/rfc791.pdf)
                 - PROCESSING_POINTER_FIELD
                   - Randomtelewalk: 1
@@ -1553,8 +1526,8 @@
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
       - CCS: 12.6%
-      - ETC: 5.8 months
-      - TEMP TIMESTAMP: 11:30
+      - ETC: 5.83 months
+      - TEMP TIMESTAMP: 7:27
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -1602,8 +1575,8 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 58.1%
-      - E.T.A: 1.26 months
+      - CCS: 57.8%
+      - E.T.A: 1.29 months
       - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
@@ -1796,14 +1769,13 @@
         - 1% | أَفْهَمُ
         - تسبقها
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 3:00
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
           - لدي
-          - 12% | كان
+          - 2% | كان
             - [The verb "to be" in Arabic كان](https://www.youtube.com/watch?v=0vHezm7e98E)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 1:35
         - تنزيل
       - `preposition` TO_STATIC
         - 5% | مع
@@ -1822,7 +1794,7 @@
         - 5% | موجزًا
         - 10% | القواعد
         - 15% | مفهوم
-        - 25% | طاولة
+        - 22% | طاولة
         - 90% | قطار
         - 5% | نهج
           - [Lesson 4: Identification of Declinable Nouns, Diptotes & Indeclinable Nouns](https://www.youtube.com/watch?v=EhXLgpu4ECU)
@@ -1835,7 +1807,7 @@
             - Videosweepmark: 4:15
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
-      - Videosweepmark: 13:00
+      - Videosweepmark: 12:00
       - VideoListStamp: 2
   - TOPIC: Shariah Law
     - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
@@ -1863,9 +1835,6 @@
         - Shift+X: Sukun
         - Shift+~: Tasdid
 - Spanish - Upper B1+++
-  - `ROOT.CentralExecutiveFunction`
-    - *Spanish, in many ways will be similar to the nature of Italian, except it's more purely about IT/Coding, Engineering projects with western culture*
-    - *Convert all previous AWS sprints to ContinuousDevelopmentUnit, attach M&C to each one as ProofOfCompletion to SpanishAllocatedResourceQuota, merge if needed*
   - Syntax base construction stage: 94%
   - No change, next stage E.T.A 18d
   - TOPIC Project, Product, Service
@@ -1873,10 +1842,6 @@
   - TOPIC Innovation, Coding, Ideas, Productivity
     - [Microsoft OneNote Like a Boss. The Definitive Course.](https://www.udemy.com/course/microsoft-onenote-2013-like-a-boss/learn/lecture/2503858#overview)
   - TOPIC Enterprise IT, digital transformation, cloud computing
-    - SysOps/Cyber Basics
-      - [Tryhackme](https://tryhackme.com/)
-    - FLOATING
-      - AWS Security Cookbook: Practical solutions for managing security policies, monitoring, auditing, and compliance with AWS
 - Korean - TOPIK II+
   - `createLanguageImprovmentPlan('korean', requirements=$(children.input('HOOK-Requirements', context)))`
   - Initialization of language/meta structrure: 60.5%
@@ -1938,15 +1903,15 @@
       - [Python for computational chemistry -beginners tutorials -Introduction](https://www.youtube.com/watch?v=Sno4szlS4lw&list=PLhYF9QNr23IZ_bnrCIPdWdxNI_Ggl4m3G)
         - Videosweepmark: 2:30
       - [Keynote: Advancing EDA Through the Power of AI and High-Performance Computing](https://www.youtube.com/watch?v=Ba-0GkMEtCA)
-        - Videosweepmark: 1:34
+        - Videosweepmark: 0:34
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 2:00
+          - Videosweepmark: 1:10
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec01-3（ブリッジ回路（直流回路））](https://www.youtube.com/watch?v=5Sv2M8GL5LM&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=3)
-          - Videosweepmark: 4:19/4:19
+        - [電気電子工学基礎：Lec01-2（オームの法則）](https://www.youtube.com/watch?v=uvuW-vKVdA8&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=2)
+          - Videosweepmark: 2:49
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -1962,7 +1927,7 @@
         - 駆使する - 60%
         - 例える | 70%
         - 伝わる | 25%
-        - 移動する | 100% TTL
+        - 移動する | 90%
         - 媒介する | 20%
         - 頂く | 2%
       - `adjective`
@@ -1980,13 +1945,13 @@
         - であり | 80%
         - または | 5%
         - されました | 40%
-        - てみる | 30%
+        - てみる
       - `noun`
         - 転換 | 10%
         - 影響 | 50%
-        - 基本構成 | 100% TTL
+        - 基本構成 | 90%
         - 同線 | 25%
-        - 電力供給の源 | 20%
+        - 電力供給の源
         - 電気抵抗 | 60%
         - コンセント | 10%
         - 効率的手法 | 80%
@@ -2074,27 +2039,28 @@
         - наслать | 50%
         - поместить | 20%
         - сосредоточиться | 50%
-        - переключаться | 10%
+        - переключаться
       - ?
         - вот
       - **прилагательное**
         - огромный | 20%
         - следующей | 10%
         - нелогичный | 10%
-        - очевидный | 10%
-        - контринтуитивный | 10%
+        - очевидный
+        - контринтуитивный
       - **наречие**
         - определенно
       - **существительное**
-        - самообъяснение | 12%
-        - представление | 80%
-        - разговор | 40%
-        - введение | 20%
-        - точка | 45%
+        - самообъяснение | 10%
+        - представление | 75%
+        - разговор | 20%
+        - введение
+        - частота | 100% TTL
+        - точка | 40%
         - положение | 40%
         - производные | 80%
-        - перевод - 92%
-        - неопределенность | 72%
+        - перевод - 90%
+        - неопределенность | 70%
       - ?
         - остальные
   - RECOMPOSITION `RU --> *`
@@ -2106,7 +2072,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [LeetCode Sum of Even Numbers After Queries Solution Explained - Java](https://www.youtube.com/watch?v=SpC8oOBEBNQ&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=62)
-      - Videosweepmark: 6:13
+      - Videosweepmark: 5:06
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
@@ -2117,13 +2083,13 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 30:00
+        - Videosweepmark: 24:15
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
-        - Videosweepmark: 8:05
+        - Videosweepmark: 3:05
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -2155,7 +2121,7 @@
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
         - [All About Greek Pronouns: Ultimate Greek Pronouns /23:30List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 68%
-          - Personal Pronouns in Greek | 42%
+          - Personal Pronouns in Greek | 66%
             - Subject
               - Core Table | 100% STAGE:MAINTENANCE
                 - _meta
@@ -2172,11 +2138,11 @@
                   - `verb`
                     - μένω
             - Object
-              - Core Table | 86%
-              - Examples | 50%
+              - Core Table | 85%
+              - Examples | 35%
             - Possessive form
-              - Core Table | 45%
-              - Examples | 49%
+              - Core Table | 40%
+              - Examples | 44%
           - Demonstrative Pronouns in Greek | 80%
             - Core Table | 85%
             - Examples | 90%
@@ -2188,7 +2154,7 @@
             - Examples | 80%
           - Relative Pronouns in Greek | 62% --> *Resistance detected*
             - Core Table | 90%
-            - Examples | 45%
+            - Examples | 35%
     - VOLATILE | PPROCESSING\_CAPACITY 1
       - **ρήμα**
         - ανακαλύπτω | 11%

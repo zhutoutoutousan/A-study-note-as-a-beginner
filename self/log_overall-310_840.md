@@ -263,7 +263,7 @@
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
                   - CCS: 8.6%
-                  - TEMP_TIMESTAMP: 2:00
+                  - TEMP_TIMESTAMP: 7:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -321,7 +321,7 @@
                       - STATIC
                         - TECC
                         - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
-                          - Videosweemark: 37:40
+                          - Videosweemark: 42:00
                           - Language pair: German
                           - CURIOSITY_OUTREACH
                             - Differential Privacy
@@ -605,9 +605,11 @@
       - Videosweepmark: 9:04
   - AVALANCHE
     - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.33`
-      - [Le risque, la gravité et les coûts](https://www.youtube.com/watch?v=Au8QGxBXBm8)
-        - Videosweepmark: 24:00
-      - Be able to translate ALL of the skills, knowledge, network to French and vice versa
+      - CONFIG
+        - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
+      - [Le risque, la gravité et les coûts](https://www.youtube.com/watch?v=Au8QGxBXBm8) - TTL
+      - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
+        - Videosweepmark: 2:00
   - ACCA F3 Prep --> `this.concurrentTraffic = 0.2`
     - Shock therapy test
       - Schedule, source, and initiate mock test for ACCA F3 regardless of exam readiness
@@ -630,11 +632,10 @@
                   - Direct Input-Ouput Training
                     - *Double mapping*
                       - INSTANCE
-                        - VALUE: 21-190/18*
+                        - VALUE: 23-190/18*
                         - Saturations
-                          - Saturation_1: 100%
-                          - Saturation_5: 50%
-                          - Saturation_10: 20%
+                          - Saturation_5: 5%
+                          - Saturation_10: 22%
                   - Osmosis
                 - _supplement
                   - Legal Entity
@@ -654,8 +655,12 @@
                       - Videosweepmark: 10:24
                       - Saturation: 3%
                     - [IFRS: Pflichten & Standards der internationalen Rechnungslegung | Handelsbilanzen 10/10](https://www.youtube.com/watch?v=Pg_Je6mL3yY)
+                      - Videosweepmark: 5:00
                     - [How to Understand All Standards (IAS & IFRS) Step-by-step](https://www.youtube.com/watch?v=2-h0mbO_Cl8)
               - MESO
+                - Accounting concept
+                  - Accurals concept
+                  - ?
               - VOLATILE
                 - [State of Affairs](https://en.wikipedia.org/wiki/State_of_affairs_(philosophy))
       - _source
@@ -779,9 +784,9 @@
                     - [The Cauchy-Riemann Equations - Complex Analysis By A Physicist](https://www.youtube.com/watch?v=OfN9QG0zCXg)
                       - Videosweepmark: 7:20
         - Stanford CS224W
-          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.2 - Relational and Iterative Classification](https://www.youtube.com/watch?v=QUO-HQ44EDc&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=15)
+          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 26.7%
-            - Videosweepmark: 26:30 --> `this.concurrentTraffic = 0.33`
+            - Videosweepmark --> `this.concurrentTraffic = 0.33`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
@@ -1301,8 +1306,8 @@
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 18.2%
-            - ETC： 5.81 months
-            - TEMP_TIMESTAMP
+            - ETC：5.81 months
+            - TEMP_TIMESTAMP: 5:00
             - Key Words: Chi-square, A/B
             - Tooling
               - [x] Tableau public
@@ -1429,12 +1434,15 @@
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
       - Videosweepmark: 14:00
+      - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 1: Introduction to Consumer Psychology - I](https://www.youtube.com/watch?v=MFtReSUVygg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=2)
         - PROCESSING POINTER FIELD
-          - Videomark: 44:01/1:01:01
-        - Practical Benefit, Unusual benefit
+          - Videomark: 48:01/1:01:01
+        - continuousStimulationUnit
+          - Practical Benefit, Unusual benefit
+          - Segment bounding
       - PsyOps Recap
         - MACRO
           - \[REDACTED\]
@@ -1475,6 +1483,7 @@
         - CCS: 20.5% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
         - TEMP_TIMESTAMP: 3:00
+          - **BLOCKER**: `Nessus is not accessible by firefox`
         - ?
           - _source
             - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
@@ -1825,8 +1834,10 @@
         - 10% | القواعد
         - 15% | مفهوم
         - 85% | طاولة
-        - 90% | قطار
+        - 80% | تفاصيل
+        - 100% | قطار TTL
           - [Arabic Grammar - Idafa structure - الإضافة](https://www.youtube.com/watch?v=KBaQ_Y-79CA)
+            - Videosweepmark: 1:00
           - [Arabic Grammar: Using 'Masdar' as a Noun](https://www.youtube.com/watch?v=X7MzcftzBak)
           - [Easy Arabic Grammar derived nouns الأَسْمَاءُ الْمُشْتَقَّةُ [# L21-P1]](https://www.youtube.com/watch?v=0e-2zigH4j4)
             - Videosweepmark: 1:00
@@ -1886,6 +1897,10 @@
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
       - Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
+  - TOPIC Consulting
+    - ?
+      - Case In Point: Complete Case Interview Preparation, 8th Edition
+        - [link](https://drive.google.com/file/d/1b61dZ9BV7meuwP6gpuygHod-J0UEvHgV/view?usp=sharing)
   - TOPIC Travel
     - **ERROR: Physical travel not possible, not enough R.O.I, value chain assessment returns non-saturated values**
       - **LOCKED** `ROOT.CentralExecutiveFunction`: *Acquire non-intrusive VR spectacle which enables real-time infinite-dimensional information aggregation and seamless bi/infinite-directional interaction with infinite transit capacity to unlock, technically not possible in at least the next 5 years*
@@ -1962,7 +1977,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec2-2（直列と並列）](https://www.youtube.com/watch?v=IQkhxK8Icj4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=5)
-          - Videosweepmark: 3:00
+          - Videosweepmark: 4:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -1974,22 +1989,21 @@
         - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
     - VOLATILE
       - `verb`
-        - 関する - 100% TTL
-        - 駆使する - 100% TTL
         - 例える | 70%
         - 伝わる | 25%
         - 媒介する | 20%
-        - 頂く | 2%
+        - 頂く | 5%
+          - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
       - `adjective`
-        - 個別的 | 70%
+        - 個別的 | 100% TTL
       - `phrase`
       - `adverb`
         - というと | 10%
-        - 一切
+        - 一切 | 100% TTL
       - `?.connector`
         - ですが | 10%
         - だけで | 20%
-        - けれども | 5%
+        - けれども | 45%
         - やすいかもしれ | 10%
         - 行っておられます | 12%
       - ?
@@ -2000,11 +2014,11 @@
       - `noun`
         - 転換 | 10%
         - 影響 | 50%
-        - 同線 | 25%
+        - 同線 | 70%
         - 電力供給の源 | 20%
-        - 電気抵抗 | 60%
-        - コンセント | 10%
-        - 効率的手法 | 80%
+        - 電気抵抗 | 100% TTL
+        - コンセント | 90%
+        - 効率的手法 | 90%
         - ?
           - 適用 | 80%
           - であり
@@ -2070,20 +2084,20 @@
       - ?
         - вот
       - **прилагательное**
-        - огромный | 20%
-        - следующей | 10%
-        - нелогичный | 10%
-        - очевидный | 10%
-        - последовательный
+        - огромный | 40%
+        - следующей | 20%
+        - нелогичный | 30%
+        - очевидный | 30%
+        - последовательный | 10%
         - контринтуитивный | 10%
       - **наречие**
-        - определенно
+        - определенно | 20%
       - **существительное**
         - самообъяснение | 12%
         - представление | 80%
         - разговор | 40%
         - введение | 20%
-        - положение | 60%
+        - положение | 70%
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
@@ -2091,7 +2105,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [N-ary Tree Postorder Traversal Solution Explained](https://www.youtube.com/watch?v=Ds5e1A88j7Q&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=7)
-      - Videosweepmark: 3:01
+      - Videosweepmark: 4:00
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
@@ -2102,7 +2116,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 34:05
+        - Videosweepmark: 35:29
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2179,39 +2193,30 @@
           - Relative Pronouns in Greek | 85% --> *Resistance detected*
             - Core Table | 95%
             - Examples | 70%
-    - VOLATILE | PPROCESSING\_CAPACITY 1
+    - VOLATILE
       - **ρήμα**
-        - ανακαλύπτω | 11%
-          - [§§18-19 Greek Verb Overview](https://www.youtube.com/watch?v=-zDkZQV-BF8)
-            - Videosweepmark: 19:25/19:25
-            - INTERNAL TUNNEL --> `this['STATIC']`
-        - φοράω
+        - ανακαλύπτω | 23%
+          - [Greek Verbs 2 (perfect tense)](https://www.youtube.com/watch?v=B3MRvD0t47M&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=2)
+            - Videosweepmark: 2:00
+            - Listmark: 2
+          - [Greek Verbs explained in 10 MINUTES](https://www.youtube.com/watch?v=Myn1Hbq8naI)
+        - φοράω | 2%
         - αντιμετωπίζω | 10%
-          - [Κολικοί στα μωρά - Τι βοηθάει, πώς τους αντιμετωπίζουμε;](https://www.youtube.com/watch?v=4G-AevgPpH4)
-            - Videosweepmark: 2:15
-            - Language Pair: German
-          - Conjugation Meta | 10%
-            - Conjugation Table | 10%
-            - Conjugation Examples | 4%
+        - σχεδιάζω | 5%
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
       - Pronoun
         - αυτή
         - _meta
-      - INBOUND CACHE ?
-        - **ρήμα**
-          - σχεδιάζω
-          -   - **επίρρημα**
-        - **χωρίς κατηγοριοποίηση**
-          - συντεταγμένη
-          - βλέπω
-          - 5% | πλέγμα
-          - τό
+      - **χωρίς κατηγοριοποίηση**
+        - συντεταγμένη
+        - βλέπω | 2%
+        - πλέγμα | 25%
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 50:40/11:40:18
+        - Videomark: 52:00/11:40:18
         - Bookpair: TBD
         - Problem Solving Set Pair: TBD
           - _meta

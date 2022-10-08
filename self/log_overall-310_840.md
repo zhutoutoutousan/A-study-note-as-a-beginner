@@ -262,8 +262,8 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 8.6%
-                  - TEMP_TIMESTAMP: 7:00
+                  - CCS: 8.9%
+                  - TEMP_TIMESTAMP: 3:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -321,7 +321,7 @@
                       - STATIC
                         - TECC
                         - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
-                          - Videosweemark: 42:00
+                          - Videosweemark: 47:16
                           - Language pair: German
                           - CURIOSITY_OUTREACH
                             - Differential Privacy
@@ -607,7 +607,6 @@
     - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.33`
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
-      - [Le risque, la gravité et les coûts](https://www.youtube.com/watch?v=Au8QGxBXBm8) - TTL
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
         - Videosweepmark: 2:00
   - ACCA F3 Prep --> `this.concurrentTraffic = 0.2`
@@ -632,12 +631,14 @@
                   - Direct Input-Ouput Training
                     - *Double mapping*
                       - INSTANCE
-                        - VALUE: 23-190/18*
+                        - VALUE: 24-190/18* &2.7
                         - Saturations
-                          - Saturation_5: 5%
-                          - Saturation_10: 22%
+                          - Saturation_5/9: 25%
+                          - Saturation_10/4: 23%
                   - Osmosis
                 - _supplement
+                  - Conceptual Framework
+                    - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
@@ -673,7 +674,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [1. Introduction and What this Course Will Do for You and Your Purposes](https://www.youtube.com/watch?v=WQui_3Hpmmc&list=PL8FB14A2200B87185)
-      - Videosweepmark: 1:4:1
+      - Videosweepmark: 1:09:00
       - LIST_NUM: 1
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
@@ -682,8 +683,6 @@
             - Saturation: 0.001%
   - TOPIC Law, regulation, justice, politics
 - German - Upper C1+++++ --> *Strive for perfection*
-  - `ROOT.CentralExecutiveFunction`
-    - *From now on moving forward, any inability to grasp any information in German perfectly in any channel is considered non-acceptable and it requires immediate elimination*
   - **BH | QR**
     - **Continuous Stimulation Unit**
       - Binary Classification
@@ -727,19 +726,11 @@
     - L
       - Input-Output Pair
     - H
-      - **IFL** [T](https://www.youtube.com/watch?v=YcaJ3L-XPxM&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=4)
+      - **IFL** [T](https://www.youtube.com/watch?v=eDPm9gBu47w&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=5)
         - PPF
-          - VSM: 17:00 ENCORE
-          - LM: 4
-        - PPS  --> *Perfection only*
-          - V
-            - beklagen)
-          - M
-            - häufig
-          - S
-            - Schlussfolgerung
-            - Erwerbstätige
-            - verursachen
+          - VSM: 1:23
+          - LM: 5
+        - PPS | Thema
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
   - ?
     - _meta
@@ -755,6 +746,15 @@
       - TOPIC General Engineering
         - [McGraw-Hill Series in EE/CE](http://powerunit-ju.com/wp-content/uploads/2016/11/Power-System-Analysis-by-Hadi-Saadat-Electrical-Engineering-libre.pdf)
         - [COMMUNICATION SYSTEMS: An Introduction to Signals and Noise in Electrical Communication](https://eedmd.weebly.com/uploads/9/6/6/9/96692532/carlson.pdf)
+          - PPF
+            - Randomtelewalk: 27
+              - Saturation: 0.002%
+              - CURIOSITY_OUTREACH
+                - Hartley-Shannon law
+                  - [Module 14: Shannon's Theorem](https://www.youtube.com/watch?v=pxuodnmUVV4)
+                    - Videosweepmark: 3:30
+                    - Nyquist equation
+                    - SNR
       - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 10min/day
         - Analysis(Real, Complex, Functional, Tensor & more)
           - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
@@ -775,7 +775,7 @@
                 - PROCESSING_POINTER_STORE
                   - **Absolute Convergence**
                     - [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
-                      - Videosweepmark: 8:00
+                      - Videosweepmark: 11:30
                     - *monotonically increasing positive function*
                   - Exponential function
                   - The Cauchy-Riemann Equations
@@ -1307,7 +1307,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 18.2%
             - ETC：5.81 months
-            - TEMP_TIMESTAMP: 5:00
+            - TEMP_TIMESTAMP: 10:00
             - Key Words: Chi-square, A/B
             - Tooling
               - [x] Tableau public
@@ -1433,13 +1433,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 14:00
+      - Videosweepmark: 21:00
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 1: Introduction to Consumer Psychology - I](https://www.youtube.com/watch?v=MFtReSUVygg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=2)
         - PROCESSING POINTER FIELD
-          - Videomark: 48:01/1:01:01
+          - Videomark: 51:04/1:01:01
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1563,9 +1563,9 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 12.6%
+      - CCS: 12.9%
       - ETC: 5.8 months
-      - TEMP TIMESTAMP: 11:30
+      - TEMP TIMESTAMP: 4:31
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -1613,9 +1613,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 59.1%
-      - E.T.A: 4.54 months
-      - TEMP_TIMESTAMP: 1:00
+      - CCS: 60%
+      - E.T.A: 4.51 months
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1834,10 +1834,9 @@
         - 10% | القواعد
         - 15% | مفهوم
         - 85% | طاولة
-        - 80% | تفاصيل
-        - 100% | قطار TTL
+        - 85% | تفصيل
           - [Arabic Grammar - Idafa structure - الإضافة](https://www.youtube.com/watch?v=KBaQ_Y-79CA)
-            - Videosweepmark: 1:00
+            - Videosweepmark: 4:09
           - [Arabic Grammar: Using 'Masdar' as a Noun](https://www.youtube.com/watch?v=X7MzcftzBak)
           - [Easy Arabic Grammar derived nouns الأَسْمَاءُ الْمُشْتَقَّةُ [# L21-P1]](https://www.youtube.com/watch?v=0e-2zigH4j4)
             - Videosweepmark: 1:00
@@ -1883,7 +1882,7 @@
   - `ROOT.CentralExecutiveFunction`
     - *Spanish, in many ways will be similar to the nature of Italian, except it's more purely about IT/Coding, Engineering projects with western culture*
     - *Convert all previous AWS sprints to ContinuousDevelopmentUnit, attach M&C to each one as ProofOfCompletion to SpanishAllocatedResourceQuota, merge if needed*
-  - Syntax base construction stage: 97%
+  - Syntax base construction stage: 98%
   - No change, next stage E.T.A 10d
   - TOPIC Project, Product, Service
     - PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU
@@ -1977,7 +1976,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec2-2（直列と並列）](https://www.youtube.com/watch?v=IQkhxK8Icj4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=5)
-          - Videosweepmark: 4:00
+          - Videosweepmark: 5:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -1995,11 +1994,9 @@
         - 頂く | 5%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
       - `adjective`
-        - 個別的 | 100% TTL
       - `phrase`
       - `adverb`
         - というと | 10%
-        - 一切 | 100% TTL
       - `?.connector`
         - ですが | 10%
         - だけで | 20%
@@ -2007,21 +2004,19 @@
         - やすいかもしれ | 10%
         - 行っておられます | 12%
       - ?
-        - であり | 80%
+        - であり | 100% TTL
         - または | 5%
         - されました | 40%
         - てみる | 30%
       - `noun`
-        - 転換 | 10%
-        - 影響 | 50%
-        - 同線 | 70%
+        - 転換 | 90%
+        - 影響 | 70%
+        - 同線 | 90%
         - 電力供給の源 | 20%
-        - 電気抵抗 | 100% TTL
-        - コンセント | 90%
+        - コンセント | 100% TTL
         - 効率的手法 | 90%
         - ?
-          - 適用 | 80%
-          - であり
+          - 適用 | 90%
         - 言葉 | 75%
 - Russian - Lower B2+++
   - Typing speed training
@@ -2105,7 +2100,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [N-ary Tree Postorder Traversal Solution Explained](https://www.youtube.com/watch?v=Ds5e1A88j7Q&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=7)
-      - Videosweepmark: 4:00
+      - Videosweepmark: 5:00
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
@@ -2116,10 +2111,15 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 35:29
+        - Videosweepmark: 36:30
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
+        - ASYNC MIRROR Bookpair --> `LEGACY erudition/mathematics`
+          - Probability Theory: The Logic of Science
+            - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
+              - PROCESSING_POINTER_FIELD
+                - Randomtelewalk
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
         - Videosweepmark: 8:05
@@ -2215,9 +2215,14 @@
         - πλέγμα | 25%
   - TOPIC Rigorous science
     - Linear Algebra
-      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
-        - Videomark: 52:00/11:40:18
-        - Bookpair: TBD
+      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 5 min/day
+        - Videomark: 57:00/11:40:18
+        - Bookpair
+        - Linear Algebra Done Wrong
+          - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)
+          - PROCESSING_POINTER_FIELD
+            - Randomtelewalk: 15
+              - Saturation: 0.1%
         - Problem Solving Set Pair: TBD
           - _meta
             - [Polya explains the problem solving technique](https://www.youtube.com/watch?v=h0gbw-Ur_do) - 2:35

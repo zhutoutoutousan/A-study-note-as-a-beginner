@@ -1,0 +1,34 @@
+# 2021/3/31
+## Back of the envelope reasoning, fill the gap you missed back in school
+- [Qualitative Modeling and Similarity in Back of the Envelope Reasoning](https://escholarship.org/content/qt2d58v4pq/qt2d58v4pq_noSplash_35cbfdbb8739bff4584ec4d37a1ddf2b.pdf?t=os5l0d)
+  - Progress: 4/9
+  - This paper is interesting
+  - Ontology - 本体论
+    - 正名: BotE(Back of the Envelope) analysis
+      - 系统估算
+      - 体量估量
+    - 方法
+      - 直接参数估算
+      - 建立估算模型
+    - 应用
+      - 工程实施
+      - 实验科学
+      - 思路验证
+    - 举例
+      - 在暴风雪中, 估算一个人清扫路面积雪所含工作量
+      - 一个9V的三极管电池, 估算其所储存能量
+      - 你要根据菜谱做一道菜给8个人吃, 你想让它辣度小一点儿，但是有一个调料不够 
+  - Ability requirements: **Tight interweaving of qualitative and analogical reasoning**; the *feel* for magnitudes
+    - 分析方法
+      - 定性分析
+      - 定性模型对比分析
+      - 定量分析
+        - 定量分析心理学研究
+          - 直觉判断和客观统计值有系统性差异
+            - 计算可变量偏移值的个性差异
+            - 即便极少数据支撑的分布都可使人信服
+            - 人类对于新进数据集的整合比较保守
+      - 半定量分析
+    - 能力提升
+      - 熟悉各类问题和场景，有助于建立估测模型(旁征博引)
+      - 对数字及大小敏感

@@ -1,1 +1,0 @@
-# Basic knowledge of GPU

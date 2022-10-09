@@ -1,0 +1,1 @@
+- [三十六计](http://www.quanxue.cn/ct_bingfa/jiIndex.html)

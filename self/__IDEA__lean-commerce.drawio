@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="APhjbQMGynRpmwIMo303" name="Seite-1">
+        <mxGraphModel dx="1264" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="180" width="710" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Learn Commerce logo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="200" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Hello,{username}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=34;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="320" width="310" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="placeholder: I want to buy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="390" width="390" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="860" y="180" width="710" height="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="placeholder: I want to experience" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="480" width="390" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

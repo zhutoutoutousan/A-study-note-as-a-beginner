@@ -1,0 +1,23 @@
+- IDEA: XR simultaneous interpretor bot for international students --> CREATE `__IDEA__XR-simultaneous-interpretor-bot-for-international-students`, MOVE TO `!!` and REMOVE
+- 未来留学的语言需求将会降至: *你能看懂XR眼镜中的同声传译内容并能高效carry over*
+- *让有talent但是有语言障碍的人尽早博得日物细无声的精髓*
+    - 成本得足够低, compete with cost of language acquisition for academia
+    - 妈泥Hack: *让教授放个屏幕, 卖给校方同声传译软件, 根据在场小朋友的母语分布投个屏不就完惹嘿嘿(●ˇ∀ˇ●)*
+- *XR眼镜将支持多种字幕同时显示*
+- *巴别塔·人类之语言的诅咒将会成为过去, 我能看到尽头了*
+- End-to-Start
+    - *未来上课没有XR的加持那也是net loss啊*
+    - *泡实验室可以evade掉*
+    - *听教授讲课我也要转化成为多语学习机会, 不然太亏了*
+    - *可以选择mutual-understanding-based逃课\[dogge\]*
+- Prerequisite
+    - *润*
+    - TBD
+- Reference
+    - [Using the HoloLens Emulator](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-the-hololens-emulator)
+    - [Future of Extended Reality](https://assets.kpmg/content/dam/kpmg/au/pdf/2022/future-of-XR-white-paper.pdf)
+- Copilot, what do you think of this idea?
+    - `Copilot: I think it's a good idea`
+- Current Product in Market
+  - Mondly
+    - [Mondly](https://www.mondly.com/)

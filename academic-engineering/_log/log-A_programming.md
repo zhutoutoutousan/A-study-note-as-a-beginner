@@ -1,0 +1,80 @@
+# Erudition
+- Competitive Programmer’s Handbook - Antti Laaksonen
+  - [link](https://cses.fi/book/book.pdf)
+  - Process 1
+    - Bookmark: 13
+- Guide to Competitive Programming - Antti Laaksonen
+  - [link](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf)
+- [Math for Programmers: 3D graphics, machine learning, and simulations with Python](https://wangwei1237.github.io/shares/Math-for-Programmers.pdf)
+- [Physics Simulations in Python](https://physics.weber.edu/schroeder/scicomp/PythonManual.pdf)
+- [A Beginner’s Guide to Simulating Dynamical Systems with Python](https://towardsdatascience.com/a-beginners-guide-to-simulating-dynamical-systems-with-python-a29bc27ad9b1)
+- [Essential SQLAlchemy: Mapping Python to databases](https://drive.google.com/file/d/1wnu1RRi1nQeNpfsTZqqLElq7T1-Kta3L/view?usp=sharing)
+  - Process 1
+    - Style: Hands-on termux
+    - Bookmark: 10/208
+# Python 踩坑树
+- Application architecture
+  - [理解Flask大型应用结构](https://www.dreamer.im/2019/04/01/flask/%E7%90%86%E8%A7%A3Flask%E5%A4%A7%E5%9E%8B%E5%BA%94%E7%94%A8%E7%BB%93%E6%9E%84/)
+- Syntax familiarity
+  - List
+    - Nested Comprehension
+      - [Nested List Comprehensions in Python](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
+- Venv
+  - Want to duplicate Venv?
+  - `RuntimeError: failed to find interpreter for Builtin discover of python_spec='python3.5'`
+- Flask
+  - Version
+    - What's the differnce between `flask_jwt` and `flask_jwt_extended`
+      - Overview
+      - 
+        - [flask_jwt_extended](https://flask-jwt-extended.readthedocs.io/en/latest/)
+        - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/)https://flask-jwt-extended.readthedocs.io/en/latest/jwt.html#jwt-authentication
+      - Niche differences
+        - `authenticate` and `identity`
+          - [flask_jwt_extended]()
+          - [flask_jwt](https://flask-jwt.readthedocs.io/en/latest/jwt.html#jwt-authentication)
+      - @jwt_required has changed to @jwt_required()
+      - @jwt_optional has hanged to @jwt_required(optional=True)
+      - @fresh_jwt_required has changed to @jwt_required(fresh=True)
+      - @refresh_token_required has changed to @jwt_required(refresh=True)
+      - get_raw_jwt() has changed to get_jwt()
+      - user_claims in create_access_token() and create_refresh_token() have been renamed to additional_claims
+      - All occurrences of blacklist have changed to blocklist
+      - Most of the callback functions have changed slightly, so after Lecture 146, have this open beside you: https://flask-jwt-extended.readthedocs.io/en/stable/v4_upgrade_guide/#callback-function-changes
+  - `pip install flask - raise ValueError("check_hostname requires server_hostname")`
+    - Proxy Problem
+  - Auth
+    - `TypeError: Object of type function is not JSON serializable when using flask_jwt_extended int RESTful API`
+      - [TypeError: Object of type function is not JSON serializable when using flask_jwt_extended int RESTful API](https://stackoverflow.com/questions/66200136/typeerror-object-of-type-function-is-not-json-serializable-when-using-flask-jwt)
+- Pip
+  - `pip install virtualenv` takes forever
+    - `pip install --default-timeout=\{forever\} virtualenv`, then wait forever
+      - It really takes forever
+    - [Once and for all, completely solve the problem of slow PIP install](https://developpaper.com/once-and-for-all-completely-solve-the-problem-of-slow-pip-install/)
+    - [Virtualenv and Pip hanging forever](https://stackoverflow.com/questions/40093814/virtualenv-and-pip-hanging-forever)
+    - [python利用国内源解决pip install 安装超时问题](https://blog.csdn.net/ezreal_tao/article/details/102142789)
+- Uncategorized
+  - `ValueError: check_hostname requires server_hostname`
+- Jupyter Notebook
+  - Scipy
+  - Numpy
+- Code Quality
+  - `Use List Comprehension instead of`
+    - [When to Use a List Comprehension in Python](https://realpython.com/list-comprehension-python/)
+- Debugging
+  - Vscode
+    - Stop point doesn't work
+    - Error messages
+      - `No module named app`
+        - `Remove app.run(debug=TRUE)`
+      - `An attempt was made to access a socket in a way forbidden by its access permissions`
+        - a.k.a `OSError: [WinError 10013] Der Zugriff auf einen Socket war aufgrund der Zugriffsrechte des Sockets unzulässig`
+        - Supporting
+          - [OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://github.com/googleworkspace/python-samples/issues/86)
+          - [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/#comment-1821)
+          - [[WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360001679940--WinError-10013-An-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions)
+          - [“Error: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions” Code Answer](https://www.codegrepper.com/code-examples/typescript/Error%3A+%5BWinError+10013%5D+An+attempt+was+made+to+access+a+socket+in+a+way+forbidden+by+its+access+permissions)
+            - Sorry, not linux
+        - Solved solutions
+          - You have another app running on the same port
+            - Yep, Svelte app running

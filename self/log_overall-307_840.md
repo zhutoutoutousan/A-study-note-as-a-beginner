@@ -1,0 +1,3500 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [STICKY 寻找Purpose的旅程](#sticky-寻找purpose的旅程)
+  - [Shelter if you're homeless](#shelter-if-youre-homeless)
+  - [Build your weapon](#build-your-weapon)
+    - [Learn to write](#learn-to-write)
+    - [Learn to talk](#learn-to-talk)
+- [STICKY Mandatory workout planning](#sticky-mandatory-workout-planning)
+- [STICKY Language progression management](#sticky-language-progression-management)
+- [STICKY Monthly Micro PIP](#sticky-monthly-micro-pip)
+- [STICKY Full-stack developer Performance Improvement Plan](#sticky-full-stack-developer-performance-improvement-plan)
+- [2022/5/29](#2022529)
+- [2022/6/8](#202268)
+- [2022/6/11](#2022611)
+- [2022/6/12-2022/6/30 - It's gonna be a tough one](#2022612-2022630---its-gonna-be-a-tough-one)
+  - [Main theme： How the hell am I going to survive this one?](#main-theme-how-the-hell-am-i-going-to-survive-this-one)
+- [STICKY | 软件特种团队管理](#sticky--软件特种团队管理)
+- [2022/6/25](#2022625)
+- [2022/7/7](#202277)
+- [2022/7/20](#2022720)
+- [2022/7/26](#2022726)
+  - [A snapshot of my pain](#a-snapshot-of-my-pain)
+
+# STICKY 寻找Purpose的旅程
+## Shelter if you're homeless
+- [Feudalism, Capitalism and Beyond](https://openresearch-repository.anu.edu.au/bitstream/1885/114854/2/b11628170.pdf)
+- [The Medieval Internet: Power, Politics and Participation in the Digital Age](https://www.emerald.com/insight/publication/doi/10.1108/9781839094125)
+- The Goal E.M.Goldratt
+- The Checklist Manifesto - A.Gawande
+- The Practice of Management - P.F. Drucker
+- The Art of Business Value - M. Schwartz
+- Getting Things Done - D. Allen
+- Educated - Tara Westover 
+
+## Build your weapon
+### Learn to write
+- Purpose
+- Q&A Tools for writing
+  - [Hemingway App makes your writing bold and clear](https://hemingwayapp.com/)
+  - [Drivel Defence for Text](http://www.plainenglish.co.uk/drivel-defence-text.html)
+  - [Gunning Fog Index](http://gunning-fog-index.com/)
+  - [The Writer’s Diet](https://writersdiet.com/test/)
+
+### Learn to talk
+# STICKY Mandatory workout planning
+- Since you're slacking off your workout, mandatory workout routine required
+# STICKY Language progression management
+- Goal
+  - New Goal E.T.A 120 days as of 2022/04/20
+  - The **GOAL** has been lost over the last few years
+    - Due to fundamental, radical disappointment to the inefficient nature of Humanity as a whole
+  - The *system* runs by itself taking up some energy and overhead of this brain
+  - GOAL FOUND!
+    - International business orchestration
+      - Sub-Topics
+        - Businesss Development
+        - Business Analysis
+      - WTF is this?
+      - Holy cow, I really found this stuff
+        - [Business Orchestration: Strategic Leadership in the Era of Digital Convergence](#)
+- `json/yaml`-inspired neo-human language design | Esperanto for 21st century before full BCI integration
+  - _INBOUND
+    - _INBOUND_CACHE
+      - [Esperanto.design](https://esperanto.design/)
+  - ERROR: Basic linguistic knowledge required
+  - WARNING: Proceeding without linguistic knowledge for initialization
+  - ACCEPTED
+- NEW STANDARD FOR C2+ in current avaialble standard system
+  - _overall
+    - Proficiency described using visualized knowledge graph
+  - Industry-based assessment standard
+  - Academia-based assessment standard
+  - Role-based assessment standard
+  - Vocal & Acoustic assessment standard
+  - Use-case-based assessment standard
+  - Innate linguistic neural-level attribute enhancement
+    - Logical reasoning
+      - Capacity
+    - Symbol stack
+      - Capacity
+      - Agility
+      - Connection store
+        - Writing system
+        - Sequence ordering
+  - Long-term training management update
+- Chinese - Post HSK --> `bymaverse`
+  - _INBOUND
+    - _INBOUND_CACHE
+  - Standardized framework
+    - Industry-based assessment standard
+    - Role-based assessment standard
+    - Use-case-based assessment standard
+    - Vocal & Acoustic assessment standard
+    - Innate linguistic neural-level attribute enhancement
+  - Dialects | Ctrl+C Ctrl+V
+    - Goal
+      - Local BD
+    - Cantonese
+  - TOPIC: \[REDACTED\]
+    - [REDACTED](#)
+      - \[REDACTED\]: \[REDACTED\]
+- English - Post C2 --> `bymaverse`
+  - TOPIC | Α και Ω
+    - Customized
+      - Space
+      - Field
+      - Resonnance
+    - Complexity Theory & Meso Science
+  - TOPIC | Key Ingredients of Human Nature in 2022: Cthulhu's Eye --> 5min/d
+    - Money
+      - Trader's path
+        - *Accounting is lackluster, colorless, and oderless, not fit for driving adrenaline or human consumption IMO of course, leave'em to machines*
+        - _source
+          - The Trading Channel 
+        - Noob's jump: Trading 101
+        - Randomwalk
+          - [The Only Technical Analysis Video You Will Ever Need... (Full Course: Beginner To Advanced)](https://www.youtube.com/watch?v=eynxyoKgpng&t=31)
+            - _state
+              - Current Langauge Shuffle: Barman language
+              - Shuffle Frequency: 5 min
+            - PROCESSING POINTER FIELD: 11:00/1:17:34
+          - [Forex Trading For Beginners (Full Course)](https://www.youtube.com/watch?v=Xb4KWuHmHBQ)
+            - _state
+              - Current Langauge Shuffle: German
+              - Shuffle Frequency: 5 min
+    - Power
+    - Technology
+    - Zeitgeist
+  - _INBOUND
+    - _INBOUND_CACHE
+  - Industry-based assessment standard
+  - Role-based assessment standard
+  - Use-case-based assessment standard
+  - Vocal & Acoustic assessment standard
+    - Simultaneous speech & reading and integration with other systems
+      - Speed of reading
+    - Maximum number of channels of communication to keep up with
+  - Innate linguistic neural-level attribute enhancement
+    - Context switch stack
+      - _struct
+      - Capacity
+      - Agility
+    - Rigorous procedural/network reasoning
+    - Effective data structure for humans
+      - _method
+        - Retrieval
+          - Visualization a.k.a Mind palace
+      - Network Graph
+        - _methods
+          - Mutation
+            - Rotate
+            - Shuffle
+            - TBD
+          - Connection
+        - Nodes
+  - TOPIC | Something that will immediately generate, amplify value, prevent net value loss, maintain healthy value flow to maximum nested dimension possible and more
+    - **PRIORITIZATION**
+      - --> `ROOT._PROCESSING`
+    - **MANAGEMENT**
+    - **COLD CALL & EVERYTHING THAT COMES AFTERWARDS**
+- French - Lower C1
+  - Material Track
+    - TOPIC SHIFT: Since you have ditched the idea of joining the army to cultivate innate sense of discipline for sub-optimal ROI and enough alternatives, you have to compensate it with knowledge and proficiency for the future business war, add in ACCA to replace touchy-feelies, French section is about `politics`, `war`, `justice`, `law` and anything related
+    - ACCA F1 --> Borrowed from section `CFA CPA`
+      - Video contents
+        - [ACCA F1 - 1 Introduction to F1, types of organisation](https://www.youtube.com/watch?v=eAvDcfQY4Nw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
+          - Videomark: 12:36/12:36
+        - [ACCA F1 - 2 Planning, marketing, organisation structure](https://www.youtube.com/watch?v=3vBll0Vz3ks&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=2)
+          - Videomark: 10:30/10:30
+        - [ACCA F1 - 3 Span of control, scalar chain, (de) centralisation](https://www.youtube.com/watch?v=WKJKPT_TXDg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=3)
+          - Videomark: 6:45/6:45
+        - [ACCA F1 - 4 Culture](https://www.youtube.com/watch?v=1eEsYOX5iBQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=4)
+          - Videomark: 9:25/9:25
+        - [ACCA F1 - 5 Stakeholders](https://www.youtube.com/watch?v=vlxXCfvp568&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=5)
+          - Videomark: 5:48/5:48
+        - [ACCA F1 - 6 Committees](https://www.youtube.com/watch?v=Hl17fQ7WfbM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=6)
+          - Videomark: 3:21/3:21
+        - [ACCA F1 - 7 Information systems](https://www.youtube.com/watch?v=uMXdk1UbRRw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=7)
+          - Course Completion: 4%
+          - Videomark: 8:02/8:02
+        - [ACCA F1 - 8 Ethics and corporate governance](https://www.youtube.com/watch?v=B7vSsD7LLrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=8)
+          - Videomark: 11:05/11:05
+          - Course Completion Stamp: 4.5%
+          - E.T.C: 6.3 months to ACCA F8 with Osmosis-driven results
+        - [ACCA F1 - 9 Environmental influences](https://www.youtube.com/watch?v=9VkKiNFREQA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=9)
+          - Videomark: 15:44/15:44
+          - Course Completion Stamp: 5.1%
+          - E.T.C: 5.3 months
+        - [ACCA F1 - 10 Role of accounting in business](https://www.youtube.com/watch?v=hr_2ODSa9FE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=10)
+          - Videomark: 10:35/10:35
+          - Course Completion Stamp: 5.7%
+          - E.T.C: 5.23 months
+          - SIMULTANEOUS INTERPRETATION PROGRESSION First time of sensing Synchronization singularity of long French sentences with English and meaning for more than 1 minute non-stop
+        - [ACCA F1 - 11 Functions of accounting and internal control](https://www.youtube.com/watch?v=UMvYkEcCVk8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=11)
+          - Videomark: 7:55/7:55
+          - CCS: 6.3%
+          - E.T.C: 5.2 months
+        - [ACCA F1 - 12 Leadership, management and teams](https://www.youtube.com/watch?v=E-fK79U865Y&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=12)
+          - Videomark: 10:24/10:24
+          - CCS: 6.8%
+          - E.T.C: 6.21 months
+        - [ACCA F1 - 13 Motivating individuals and groups](https://www.youtube.com/watch?v=rSz13mwduxw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=14)
+          - Videomark: 6:13/6:13
+        - [ACCA F1 - 14 Recruitment and development](https://www.youtube.com/watch?v=osrBu8o8Dzw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=14)
+          - Videomark: 9:44/9:44
+        - [ACCA F2 - 1 The nature and purpose of management accounting](https://www.youtube.com/watch?v=JGf83N569BA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=15)
+          - Videomark: 12:57/12:57
+          - CCS: 8.5%
+          - E.T.C: 3.56 months
+        - [ACCA F2 - 2 Cost classification, behaviour and purpose](https://www.youtube.com/watch?v=O7qRJLVoOjc&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=16)
+          - Videomark: 9:57/9:57
+          - CCS: 9.1%
+          - $E.T.C=\frac{100\% - CURRENT\_ CCS}{30 \times (CURRENT \_ CCS\_ - LAST \_ CCS)}$ = $\frac{100\% - 9.1\%}{30 \times (9.1\% - 8.5\%)}$ = 5.05 months 
+        - [ACCA F2 - 3 Business maths - regression analysis](https://www.youtube.com/watch?v=7S_9Hti-wt4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=17)
+          - Videomark: 11:33/11:33
+          - CCS：9.7%
+          - E.T.C: 5.02 months
+          - IDEA | MERGE all `education` related IDEAS into `__IDEA__eduverse`
+            - [Forget the metaverse — Labster raises $47m to build the ‘eduverse’](https://sifted.eu/articles/labster-edtech-raise/)
+            - [k20educator](https://www.k20educators.com/)
+          - VOCAB
+            - Regression analysis
+        - [ACCA F2 - 4 Cost accounting techniques](https://www.youtube.com/watch?v=aaF8fI-x11A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=18)
+          - Videomark: 7:58/7:58
+          - CCS: 10.2%
+          - E.T.C: 5.98 months
+          - _meta
+            - REVIEW REQUIRED: 0/5
+            - Basic drive for activating furthur meta data collection and analysis
+              - Could be useful for future meta-analysis for learning
+            - Context Absorbtion: 20%
+              - Symbol Proficiency
+              - Flow Proficiency
+              - Application Proficiency
+        - [ACCA F2 - 5 Absorption and marginal costing](https://www.youtube.com/watch?v=Uk71AIz6juQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=19)
+          - Videomark: 8:45/8:45
+          - CCS: 10.8%
+          - E.T.C: 4.95 months
+        - [ACCA F2 - 6 Example - absorption & marginal costing](https://www.youtube.com/watch?v=ppwrdFTDWz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=20)
+          - Videomark: 8:43/8:43
+          - CCS: 11.4%
+          - E.T.C: 4.92 months
+          - _meta
+            - review_weight: 5/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - NEW VOCAB --> Directly interact with `-T_business` part with clusterized trees setup
+            - Cost accounting Techniques entry_hash=`@cost_accounting_techniques`
+              - \_\_INSIGHT\_\_: Minimal viable Knowledge set for valid knowledge-brain stimulation with maximum carry-over to business/personal value
+              - Material
+              - Economic Order Quantity
+                - Data Inputs
+                  - Q: Order quantity
+                  - D: quantity of product demanded annually
+                  - P: purchase cost for one unit
+                  - C: fixed cost per order(not incl. the purchase price)
+                  - H: cost of holding one unit for one year
+                - Total Cost Function
+                - Optimal Order Quantity\($Q*$\)
+              - Context Symbol Store
+                - TC: Total Cost
+                - $P \times D$: Purchase cost
+                - $C \times D/Q$: Ordering cost
+                - $H \times Q/2$: Holding cost
+                - $Q^{*}=\sqrt{\frac{2CD}{H}}$
+              - Absorption Costing
+                - Overhead
+                  - [Overhead (business)](https://en.wikipedia.org/wiki/Overhead_(business))
+                    - Accounting
+                    - Taxes
+                    - Repairs & Maintenance
+                    - Office Supplies
+                    - Human resources
+                    - Rent
+                    - Utilities
+                    - Insurance
+                - Product Cost Unit
+                - Inventory evaluation
+              - Methods of grouping costs
+                - Contribution
+                - Marginal Costing
+                  - Budget(normal) production
+                  - Actual production
+                  - Actual sales
+                  - Actual fixed production O/Hs
+                  - Actual SGA costs
+        - [ACCA F2 - 7 Job, batch and process costing](https://www.youtube.com/watch?v=ljfZ0IIzvTs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=21)
+          - Videomark: 10:22/10:22
+          - CCS: 12%
+          - E.T.C: 2.44 months
+          - _meta
+            - review_weight: 5/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - UNDERCURRENT | Accounting `_meta`
+            - Visualization of the balance sheet, income statement and cash flow
+            - Combine with news feeds and global data stored in brain
+            - Visualization of budget categorization
+            - Experience store of budgeting process
+              - Stakeholders
+              - Workflow
+              - Tooling
+              - Information
+          - EXERCISE
+            - Budget re-calibration
+          - NEW VOCAB 
+            - Batch Costing
+            - Process Costing
+              - _cache_meta
+                - use case
+                  - mass production of identical product
+            - FIFO method(Accounting)
+            - Joint products/By-products
+              - Processing path
+              - Point of separation
+                - Market value
+                  - Expected sales price
+                - Number of units
+                - Net realizable value
+            - Quantitative plan for the future
+              - _meta
+                - use case
+                  - communicate objectives
+                  - motivate employees
+                  - control activites
+                  - evaluate performance 
+            - Scrap value of rejected units
+            - $Average\_ cost\_ per\_ unit = \frac{total\_ cost\_ of\_ inputs - scrap\_ value\_ of\_ rejected\_ units}{no\_ of\_ units\_ of\_ input - normal\_ loss}$
+        - [ACCA F2 - 8 Fixed vs flexible budgets](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+          - Videomark: 10:22/10:22
+          - _meta
+            - review_weight: 9/10(1 as default)
+            - retrieval_pathway_store_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - Budgeting training
+            - [Hubro Business Simulation](https://hubro.education/en/hubro-business-simulation)
+            - [FathomHQ](https://www.fathomhq.com/features)
+          - Budget
+            - [Personal Budget Category](https://www.quicken.com/blog/budget-categories)
+            - [Budgeting, Planning, and Forecasting Software - Wolters Kluwer](https://www.wolterskluwer.com/en-sg/solutions/cch-tagetik/budgeting-planning-apac-ads-lp?utm_medium=Online-Advertising&utm_source=Google-Text&utm_content=Report-Analyst&utm_campaign=OA-AP-BPF-HK-Budgeting-04-2022&utm_adgroup={adgroup}&utm_term=budgeting%20tool&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOeDZqfzOFCggYexeO_uL90VOgvftqSdjmivbFm1cr77wnz7yoFSuxoCfB8QAvD_BwE)
+            - [20 Common Small Business Budget Categories](https://bench.co/blog/accounting/business-budget-categories/)
+          - Budget Categorization
+            - Master budgets
+              - Annual frequency, preferably revised on a regular basis(rolling budget)
+              - Based on organization's objectives, expressed in financial, quantitative and qualitative measures
+            - Operating budgets
+              - Sales budget
+              - Production budget
+              - Ending inventory budget
+              - Direct material budget, Direct labour budget, Factory overhead budget
+              - Cost of Sales budget
+              - R&D budget, Marketing budget, Distribution budget, Customer Service budget, Admin budget
+              - Pro-forma income statement
+            - Financial budget
+              - Capital budget
+              - Cash budget
+              - Pro-forma balance-sheet and pro-forma statement of cash-flows
+        - [ACCA F2 - 9 Basic variance analysis](https://www.youtube.com/watch?v=5BuTpVvyexE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=23)
+          - Videomark: 18:51/18:51
+          - _meta
+            - review_weight: 9/10(1 as default)
+              - _meta
+                - How is *review_weight* reflected on your learning strategy?
+            - retrieval_pathway_store_required: true
+            - multilateral_resource_required: true
+            - clusterized: true
+            - internalization_level: \{userId\}_\{percentage\}
+          - 2022/5/8: **STRATEGIC ADJUSTMENT**: According to the domestic economic/market landscape, the power has been decided that you will put an extra 15 minutes to this endeavour, which accounts for 25 minutes per day for weekend only
+          - CCS: 13.1%
+          - E.T.C: 2.63 months
+            - Why did E.T.C half itself?
+              - 脏数据就不要了吧
+          - NEW VOCAB
+            - Cost Card - Absorption costing
+              - _meta
+                - Retain pathways
+                  - `this`
+              - Direct Materials/labour
+              - Variable/Fixed production O/Hs
+              - _meta
+                - units
+                  - Adverse(unit)
+                    - `(A)`
+                  - Favorable
+                    - `(F)`?
+              - Variance analysis
+                - Sales volume variance(Absorption costing)
+                  - `sales_volume_variance_at_standard_margin = budget_sales_price_per_unit - total_production_costs_per_unit`
+                - Sales volume variance(Marginal costing)
+                  - `sales_volume_variance_at_standard_contribution = budget_sales_price_per_unit -   total_production_costs_per_unit`
+                    - Standard contribution = SP - VC 
+                      - ?VC = `total_production_costs_per_unit - fixed_overhead`
+                      - SP: Sales price per unit
+                      - VC: Variable costs per unit
+                - Sales price variance
+                - Material variances
+                  - Material total variance
+                    - Material price variance
+                    - Material usage variance
+                    - ?
+                - Labour variances
+                  - Labour total variance
+                    - Labour rate variance
+                    - Labour efficiency variance
+                - Variable O/H variances
+                - Fixed O/H variances
+            - OAR: Budgeted Production overhead / Budgeted Activity level
+              - ${actual\_ output}_{units} \times OAR = fixed\_ oh \_ absorbed$
+              - [Overhead absorption definition](https://www.aatcomment.org.uk/learning/study-tips/study-tips-understanding-absorption-costing/#:~:text=OAR%20%3D%20Budgeted%20Production%20overhead%20%2F%20Budgeted%20Activity%20level&text=An%20important%20aspect%20to%20note,overheads%20that%20were%20actually%20absorbed.)
+          - INTERNAL REVOLUTION --> MOVE to `_PROCESSING`
+            - Knowledge-Meta System design
+            - IMPLEMENTATION You need hashtags like #meta-1, #meta-2... to create a link for connecting meta
+            - MANIFESTATION
+              - _meta #meta-1
+                - _meta #meta-2
+                  - ...
+            - ACTION --> MOVE to `__IDEA__philosophy-as-code` and REMOVE
+              - WTF is this? 哲学作为代码? 数字化哲学? 哲学的数字化转型?
+        - [ACCA F2 - 10 Operating statements & breakeven analysis](https://www.youtube.com/watch?v=St6v1C-nrm0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=24)
+          - _meta
+            - units
+              - Adverse(unit)
+                - `(A)`
+              - Favorable
+                - `(F)`?
+            - review_weight: 9/10(1 as default)
+              - _meta
+                - How is *review_weight* reflected on your learning strategy?
+          - Videomark: 11:11/11:11
+          - CCS: 13.7%
+          - E.T.C: 4.79 months
+          - STRUCT CLUSTER
+            - Acronyms
+              - TC = Total cost
+              - FC = Fixed cost
+                - = Contribution?
+              - V = Unit Variable cost
+              - T.VC
+              - X = Number of units
+              - TR = Total revenue
+              - SP = Sales price
+              - C = SP - V = Cost per unit
+            - Operating statement based on Marginal costing
+            - Operating statement based on Absorption costing
+            - Short-term decision-making techniques
+              - CVP(Cost-Volume-Profit) Analysis
+              - The breakeven formula
+                - TC = FC + V * X
+                - TR = SP * X
+            - Relevant costs, incremental analysis and linear programming
+              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                - _meta
+                  - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION(destroy_on_first_creation)
+                - Process 1
+                  - Bookmark: 1/392
+                  - Style: Osmosis
+                    - _meta
+                      - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                      - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                        - _meta
+                          - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                  - Goal: Connect the dots till a whole area just clicks
+                - Process 2
+              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                - _meta
+                  - STICKY, FOLLOWING, RETAIN_FOR_FIRST_CREATION
+              - Retain pathway: Your search engine works, right?
+              - $-units graph - V_7:51
+            - Applying incremental analysis in business decision-making
+            - Determining optimal mix of products where there are limiting factors
+        - [ACCA F3 - 1 Elements of financial statements](https://www.youtube.com/watch?v=1gCPkDJa7HU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=25)
+          - Videomark: 2:18/5:39
+          - CCS: 14.3%
+          - E.T.C: 4.76 months
+          - Elements of the statement of financial position
+            - Asset
+              - _meta
+                - assets = equity + liabilities
+              - Opening net assets
+              - Closing net assets=Opening net assets + Total Comprehensive Income in the period + new capital introduced in the period - withdrawls in the period
+            - Liability
+              - Accrual
+            - Equity
+              - _meta
+                - instance
+                  - Partner's capital & Current account
+          - Elements of the statement of comprehensive income
+            - Income
+              - Total comprehensive income made in the period(a profit will increase net assets)
+              - New capital introduced by the owner(wil always increase net assets)
+              - Withdrawals made in the period a.k.a dividend(will always reduce net assets)
+            - Expense
+          - ADJUSTMENT: Any STRUCTS created by furthur study of ACCA will not be directed to `language_translation`, and will be clusterized in `ACCA` section
+        - [ACCA F3 - 2 The business equation](https://www.youtube.com/watch?v=2JBrsCfj_Ic&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=26)
+          - Videomark: 7:57/7:57
+        - [ACCA F3 - 3 Types of business entities](https://www.youtube.com/watch?v=1DY3IWgmGoI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=27)
+          - Videomark: 10:28/10:28
+          - CCS: 15.4%
+          - E.T.C: 4.7 months
+          - \_meta\_\{perceived-depth=MAXIMUM-2\}
+            - CREATE meta_type
+              - Sticky meta
+              - Static meta
+          - Sole traders, partnership and limited companies
+            - PRUNED Furthur storage pruned due to overwhelming retain-pathways and lack of enough `weight`
+            - Differentiation
+              - $2^3 - 1$
+            - SOFP
+              - [Kidbrooke - Balancesheet simulator](https://kidbrooke.com/outrank/balance-sheet-simulator/)
+        - [ACCA F3 - 4 Books of original entry](https://www.youtube.com/watch?v=DxzwFDznjrM&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=28)
+          - Videomark: 8:35/8:35
+          - CCS: 16.0%
+          - E.T.C: 4.67 months
+          - STRUCT
+            - Book of original entry
+              - _meta
+                - _category
+                  - _meta
+                    - _category_criteria
+                  - Cash in book
+                  - Cash payments book
+                  - Pretty cash book
+                    - Imprest system
+                  - Sales day book
+                  - Purchases day book
+                  - Journal book
+                  - NEW ERA
+                    - Digital entries
+                      - TBR
+                    - Web3 Entries
+                      - TBR
+                    - Post-Web3
+                - _instance
+                  - _meta
+                    - _inbound_rules
+                      - Only real cases allowed
+        - [ACCA F3 - 5 Control of petty cash](https://www.youtube.com/watch?v=Bd68xfJ3C6o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=29)
+          - Videomark: 7:03/7:03 
+          - CCS: 16.6%
+          - E.T.C: 4.63 months
+          - SUPPLEMENT
+            - [简单又容易 || Cash Book & Petty Cash](https://www.youtube.com/watch?v=V5cC9EGViAM)
+          - STRUCT
+            - Imprest system: Controlling petty cash
+              - Voucher
+              - Petty cash management
+        - [ACCA F3 - 6 Rules of double entry - part 1](https://www.youtube.com/watch?v=KLocIPuv4mk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=30)
+          - Videomark: 8:27/8:27
+            - *Giving a harder time to calculate :(*
+          - STRUCT
+            - pre-vocab
+              - SOFP
+              - SOCI
+              - DR
+              - CR
+            - Peripheral
+              - Sundry expenses
+          - _meta_static
+            - Percieved material with effort level 4/10
+              - Practice required
+                - REQUEST DENIED due to difference of learning goal `learning_french`
+            - RISK Subpar intellectual state when consuming this material
+        - [ACCA F3 - 7 Rules of double entry - part 2](https://www.youtube.com/watch?v=hZQi0Tr7mQU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=31)
+          - Videomark: 22:23/22:23
+          - CCS: 17.7%
+          - E.T.C: 2.49 months
+          - NEW VOCAB
+            - Accounting period
+          - _meta_static
+            - Practice
+              - Double-entry bookkeeping mindset
+              - [Double Entry Bookkeeping System Questions and Answers](https://study.com/learn/double-entry-bookkeeping-system-questions-and-answers.html)
+        - [ACCA F3 - 8 Balancing T-accounts](https://www.youtube.com/watch?v=MbVGRmp-d3c&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=32)
+          - Videomark: 5:02/5:02
+          - NEW VOCAB
+            - T-accounts
+        - [ACCA F3 - 9 Capital and revenue expenditure](https://www.youtube.com/watch?v=Ng5ButQYq5s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=33)
+          - Videomark: 9:00/9:00
+          - _meta_composite
+        - [ACCA F3 - 10 Capital and revenue expenditure - example](https://www.youtube.com/watch?v=9RnoQJ3cLyo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=34)
+          - Videomark: 6:09/6:09
+          - CCS: 19.4%
+          - E.T.C: 1.58 months
+          - Practice point
+            - [ ] Recognition of `initial recognized asset` and NCA/Expense
+          - NEW VOCAB
+            - NCA(Natural Capital Accounts/Non-current Assets)
+              - _meta
+                - difference from Expense
+              - [Frequently Asked Questions on Natural Capital Accounting (NCA)](https://www.wavespartnership.org/en/frequently-asked-questions-natural-capital-accounting-nca#:~:text=Natural%20Capital%20Accounts%20(NCA)%20are,%2DEconomic%20Accounts%20(SEEA).)
+                - SEEA
+                - SNA
+        - [ACCA F3 - 11 Intangible assets](https://www.youtube.com/watch?v=qvI3gybrspk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=35)
+          - Videomark: 9:42/9:42
+          - CCS: 20.0%
+          - E.T.C: 4.44 months
+          - NEW VOCAB
+            - Tangible Asset
+              - lease
+            - Intangible asset
+              - lease
+          - _meta_root
+            - Neural-level construction
+              - Network graph visualization
+                - Visualization-related skills needed for efficient progression, if not, apply `minimum cerebral activity`
+        - [ACCA F3 - 12 Inventory accounting](https://www.youtube.com/watch?v=qvI3gybrspk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1)
+            - Videomark: 8:55/8:55
+            - CCS: 20.5%
+            - E.T.C: 5.3 months
+            - Practice point
+              - Inventory accounting
+                - Two-stage analysis
+                  - Not practical
+                - Simplified analysis
+            - NEW VOCAB
+              - Intangible Assets
+                - IAS 2  
+                - [IAS 38](https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2021/issued/part-a/ias-38-intangible-assets.pdf)
+                - Development costs
+                - Write-off period
+            - Practice
+              - Categorization
+                - General expense
+                - Research costs
+                - Development expenditure asset
+        - [ACCA F3 - 13 Inventory FIFO AVCO example](https://www.youtube.com/watch?v=8vaNPvEOx3U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=37)
+          - Videomark: 10:21/10:21
+          - CCS: 21.1%
+          - E.T.C: 5.26 months
+          - Practice point
+            - Calculate cost of sales and inventory value
+          - NEW VOCAB
+            - AVCO
+        - [ACCA F3 - 14 Inventory effect of FIFO AVCO on profit](https://www.youtube.com/watch?v=RkZdFKneY6Q&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=38)
+          - Videomark: 5:46/5:46
+          - Practice point
+            - Inventory accounting
+              - FIFO
+              - AVCO
+              - FIFO or AVCO
+        - [ACCA F4GLO - 1. Different Legal Systems](https://www.youtube.com/watch?v=5Nr5tqslY2A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=39)
+          - Videomark: 10:37/10:37
+          - CCS: 22.3%
+          - E.T.C: 4.32 months
+          - STRUCT
+            - Three main systems
+              - Common Law
+                - _meta
+                  - instance
+                    - UK
+                      - source
+                        - Common law and equity
+                          - _meta
+                            - source
+                              - records of case law
+                              - Statutory law
+                              - EU law
+              - Civil Law
+                - _meta
+                  - instance
+                    - France
+                      - _meta
+                        - source
+                          - constitution
+                          - statutory law
+                          - administrative regulations
+                          - EU law
+              - Sharia Law
+                - Iran
+            - Discernment network
+              - CRIMINAL LAW V CIVIL LAW
+          - LAW VOCAB BUNDLE --> `-T_law`
+            - ?
+              - role of judges
+              - apply the law
+              - less guidance
+              - judicial precedent
+              - Judicial review
+              - Written constitution
+              - presumptions
+              - statutory law
+              - guides and rules
+              - interpretation
+            - Entity
+              - Claimant
+              - Defendant
+            - Discernment unit
+              - _meta
+                - *Is it scalable to carry over to the sea of cases?*
+                - *How it is reflected in smart contracts?*
+                - _meta_root
+                  - Create visualized knowledge graph for direct, refined, efficient brain stimulation pathway with law-related concepts
+                    - PREREQUISITE: Knowledge graph, software development skills, and a good understanding of the law
+                    - RIGGED_ACTION: Search for `legal system visualization` software online, add to `*-law_arsenal`
+              - Action brought by
+              - Action brought against
+              - Burden of proof required
+                - Criminal
+                  - Beyond reasonable doubt
+                - Civil
+                  - Balance of probabilities
+              - Sentence/award determined by
+              - Case described as
+        - [ACCA F4GLO - 2. International Organisations](https://www.youtube.com/watch?v=soEMHMIK71o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=40)
+          - Videomark: 9:56/9:56
+          - CCS: 22.8%
+          - E.T.C: 5.14 months
+          - International Organizations
+            - _meta
+              - struct
+                - create_time
+                - members
+                  - $2^n-1$
+                - conventions
+                - structure
+                - region
+            - EU
+            - ICC
+              - *Incoterms*
+            - ICA
+              - a.k.a International Court of Arbitration
+            - UN
+            - UNCITRAL
+            - CoE
+              - _meta
+                - discernment
+                  - EU
+            - UNIDROIT
+            - ICJ
+            - OECD
+        - [ACCA F4GLO - 3. International Commercial Arbitration](https://www.youtube.com/watch?v=h3L-bRDwj-k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=41)
+          - Videomark: 8:01/8:01
+          - _meta_escalate
+            - Legal visualization system found --> MOVE TO `law_arsenal`
+              - [Transforming Legal Documents for Visualization and Analysis](https://dl.acm.org/doi/10.1145/3209415.3209424)
+              - [Visualizing Law - A Norm-Graph Visualization Approach based on Semantic Legal Data](https://zenodo.org/record/2543729#.Yoi4jqjP2Uk)
+              - [Visualisation of Law and Legal Process: An Opportunity Missed](https://arxiv.org/ftp/arxiv/papers/2011/2011.00571.pdf)
+                - *I think this is a very important paper*
+              - [Openlawlab - Law visualization](https://www.openlawlab.com/project-topics/illustrated-law-visualizations/)
+              - [Hack for justice visualizing the criminal justice system](https://www.legaltechdesign.com/hack-for-justice-visualizing-the-criminal-justice-system/)
+              - [Openjustice](https://openjustice.doj.ca.gov/)
+                - That is not what I wanted, I want to datatize justice
+          - NEW VOCAB
+            - `law`
+              - arbitration
+        - [ACCA F4GLO - 4. Contracts for International sale of Goods](https://www.youtube.com/watch?v=LPCd4cjfdAQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=42)
+          - Videomark: 11:56/11:56
+          - CCS: 24%
+          - E.T.C: 2.11 months
+          - TOPICS
+            - Buyer's right
+            - Seller's right
+            - The passing of risk
+            - Transportation Documentation
+              - bill of lading
+                - inland
+                - ocean
+                - through
+                - airway
+            - Payment
+              - International bill of exchange
+                - SUBJECT TO | UNICITRAL Convention
+              - International bank transfer
+                - SUBJECT TO | UNICITRAL Model Law
+              - Letter of credit
+                - DIFF Letter of comfort
+            - CISG
+              - Main Rights and Obligatiobns of Buyers and Sellers
+            - Transportation
+              - **incoterms**
+                - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+              - payment
+            - Offer
+              - sufficiently definite
+              - amendments - Counter offer
+                - major ~
+                - minor ~
+        - [ACCA F4GLO - 5. Agency](https://www.youtube.com/watch?v=COwE2XsXXPQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=43)
+          - Videomark: 7:08/7:08
+          - TOPIC
+            - agent
+              - _meta
+                - created_by
+                  - agreement(consent)
+                  - ratification
+                  - operation of law
+                - authority
+                  - Actual authority
+                  - Apparent/ostensible authority 
+                - duties
+                - termination
+                  - death
+                  - insanity
+                  - bankruptcy
+                - model
+                  - UN model
+        - [ACCA F4GLO - 6. Partnerships](https://www.youtube.com/watch?v=vePhe0_rO8k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=44)
+          - Videomark: 6:43/6:43
+          - prerequisite
+            - legal entity
+              - [Business Structure - Choosing the right Structure for your Business](https://www.youtube.com/watch?v=4-yE5JduTIo)
+              - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw)
+          - TOPIC
+            - Limited Partnership
+            - LLP
+        - [ACCA F4GLO - 7. Company Administration](https://www.youtube.com/watch?v=wjNxWD3otx0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=45)
+          - Videomark: 14:48/14:48
+          - _meta
+            - description
+              - Vocab heavy, consider create a use-case-based context field to encapsulate them all
+          - TOPIC
+            - Private and public companies
+            - Company promoters
+              - DISCERNMENT Agent
+            - Company formation
+            - Required Documents
+              - BEFORE CREATE
+                - Registration application
+                - Memorandum of Association
+                - Articles of Association
+                - Statement of proposed company officers
+                - Statement of capital and initial shareholdings
+                - Statement of compliance with Companies Act provisions
+              - BEFORE TRADE
+                - Trading Certificate
+                  - Required documents
+                    - Statement that nominal value of allotted share capital is not less than 50,000 Pounds
+                    - Details of formation expenses, including those made to promoters
+                    - Statement of compliance
+              - Certificate of Incorporation
+            - Name clause
+            - Articles as a Contract
+            - Objects Clause
+            - Share Capital
+            - Loan Capital
+              - debenture
+                - Single debenture
+                - Debenture issued as a series
+                - Debennture stock
+            - Charge
+            - Maintenance of a Company's Capital
+              - Corporate Liquidator 101
+              - Distribution of dividends
+                - PAP
+                - excess of accumulated realised profits over accumulated realised losses
+                - called-up share capital
+                - undistributable reserves
+                - accumulated unrealised losses
+                - declaration of solvency
+        - [ACCA F4GLO - 8. Company Administration](https://www.youtube.com/watch?v=DlYLpR_K-OU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=46)
+          - Videomark; 12:05/12:05
+          - CCS: 26.3%
+          - E.T.C: 2.13 months
+          - KK(BFS, DFS-on-premise)
+            - Directors
+              - Minimum number of directors
+              - Age requirements
+              - Qualification
+              - Disqualification of directors
+                - CDDA court
+              - Category
+                - Executive director
+                - Non-executive director
+                - Managing director(CEO)
+                - Shadow director
+                - Alternate director
+              - Appointment of directors
+                - AGM
+              - Publicity regarding directors
+              - Removal of directors
+              - Duties of directors
+            - Company Secretary
+              - Duties
+                - statutory books
+            - Auditors
+              - rights
+              - duties
+              - resignation
+              - removal
+            - Company Meetings and Resolutions
+              - AGM
+              - GM
+              - CLASS
+        - [ACCA F4GLO - 9. Company Liquidation](https://www.youtube.com/watch?v=sGt3s7akCIE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=47)
+          - Videomark; 7:40/7:40
+          - CCS: 26.8%
+          - E.T.C: 4.88 months
+          - Practice point
+            - Priority for payment *en cas de* liquidation
+            - *Administration as an alternative to liquidation*
+          - STRUCT
+            - Insolvency
+            - Liquidation
+              - Categories
+                - Compulsory liquidation
+                  - may or may not be solvent
+                  - instigating proceedings
+                    - reasons
+                      - instigating proceedings to wind up a company
+                        - ~ is not able to meet its liabilities
+                        - ~ has not started business within 12 months from incorporation
+                        - PLC has failed to obtain a Trading Certificate within 12 months from incorporation
+                        - by order of the court that it would be 'just and equitable'
+                    - self
+                      - official receiver is appointed as liquidator
+                        - [official receiver - wiki](https://en.wikipedia.org/wiki/Official_receiver)
+                      - company employees are automatically dismissed
+                      - ongoing legal actions against the company are halted
+                      - Liquidator takes over power to run company from directors
+                - Voluntary liquidation
+                - Members voluntary
+                  - CONDITION SUFFICIENT
+                    - company must be solvent
+                    - Directors must make a *declaration of solvency*
+                    - requires passing of special resolution(normally)
+                    - Liquidator
+                      - appointed by members
+                      - realises company assets
+                      - reports to final members meeting
+                      - reports to Registrar of Compnaies
+                      - registor report, company dissolved
+                - Creditors voluntary
+                  - company will be insolvent
+            - Priority for Application of Assets on Liquidation
+              - Secured creditor with fixed charge
+              - Liquidator's fees and expenses
+              - Preferential creditors(wages etc. within statutory limits)
+              - Secured creditors with floating charge
+              - Unsecured creditors(pari passu)
+              - Post liquidation interest
+              - Declared but unpaid dividends
+              - Shareholders' capital
+              - Any surplus to shareholders
+            - Company Administration
+              - Objective: Breathing space
+              - Appointment of Administrator
+              - Impact of Administration
+              - Conduct of Administration
+            - Instances(legal)
+              - US Chapter 11 Bankruptcy
+        - [ACCA F4GLO - 10. Fraudulent Behaviour](https://www.youtube.com/watch?v=TuffGNzxurY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=48)
+          - Videomark; 7:40/7:40
+          - STRUCT
+            - Insider Dealing
+              - self
+                - definition
+              - dealing
+              - defense
+                - burden of proof: beyond reasonable doubt
+              - penalty
+            - Money laundering
+            - Fraudulent Trading
+            - Wrongful Trading
+            - _instance
+              - UK Law
+                - Fradulent trading
+                - Wrongful trading
+        - [ACCA F5 - 1. Specialist cost](https://www.youtube.com/watch?v=kYETN8w9R6k&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=49)
+          - Videomark; 8:37/8:37
+          - CCS: 28%
+          - E.T.C: 4 months
+          - STRUCT
+            - Activity Based Costing(ABC)
+              - _meta
+                - *hard and costly to implement*
+              - OAR
+              - *p.a.* --> per annum
+              - *apportionment*
+            - Target Costing(TC)
+            - Life-cycle Costing
+            - Back-flush Accounting
+            - Throughput accounting
+              - JIT environment
+        - [ACCA F5 - 2. Worked example of costing](https://www.youtube.com/watch?v=Kyyp_viA6Xg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=50)
+          - Videomark; 4:34/4:34
+          - Practice point
+            - Exam application of ABC analysis
+        - [ACCA F5 - 3. Worked example of costing](https://www.youtube.com/watch?v=nyzKneWV3B4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=51)
+          - Videomark; 5:43/5:43
+          - CCS: 29.1%
+          - E.T.C: 2.15 months
+        - [ACCA F5 - 4. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+          - Videomark: 9:31/9:31
+        - [ACCA F5 - 5. Worked example of costing](https://www.youtube.com/watch?v=nu4EPtIsZq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=52)
+          - Videomark; 10:03/10:03
+          - Practice point
+            - Costing
+              - $udemy_course
+        - [ACCA F5 - 6. Worked example of costing](https://www.youtube.com/watch?v=lUYAGslqDFQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=54)
+          - Videomark: 10:02/10:02
+          - CCS: 30.8%
+          - E.T.C: 1.35 months
+          - Practice point
+            - Calculating TPAR
+              - Throughput accounting
+        - [ACCA F5 - 7. Decision Making Techniques](https://www.youtube.com/watch?v=nf8B7s98SQI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=55)
+          - Videomark: 10:59/10:59
+          - STRUCT
+            - Relevant costs
+              - relevance
+              - Future
+                - Sunk costs
+                - Commited costs
+              - **CVP Analysis**
+                - **The breakeven formula**
+              - Incremental Analysis
+                - Application in decision making
+              - Linear Programming
+              - Determining optimal mix of products where there are limiting factors
+            - Pricing decisions
+              - **PED(The price elasticity of demand)**
+              - Demand equation： $P=a-bQ$
+            - Total Cost Function: $Y=aX+b$
+        - [ACCA F5 - 8. Decision Making Techniques (cont)](https://www.youtube.com/watch?v=ut6lOaexT_0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=56)
+          - Videomark: 8:46/8:46
+          - STRUCT
+            - Pricing Strategy
+              - Cost plus
+              - Skimming
+              - Penetration pricing
+              - Premium pricing
+              - Target pricing
+              - Promotional pricing
+              - Perceived value pricing
+              - Value pricing
+              - Product-line pricing
+              - Volume-discounting pricing
+              - Discriminatory pricing
+              - Psychological pricing
+              - Product Bundle Pricing
+              - Complementary product pricing
+              - Relevant cost pricing
+              - Make-buy
+            - Risk and Uncertainty
+              - Risk: ~ is a quatification of probability, susceptible to measurement, statistically or mathematically(objective probability)
+              - Uncertainty: subjective probability
+              - Expected Value
+            - Sensitivity
+              - Sensitivity analysis
+              - Sensitivity by scenario
+            - Simulation - Monte Cario
+            - **Maximax, maximin, and minimax regret**
+        - [ACCA F5 - 9. Budgeting](https://www.youtube.com/watch?v=3v-n2hvuGCI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=57)
+          - Videomark: 8:43/8:43
+          - CCS: 32.5%
+          - E.T.C: 1.32 months
+          - STRUCT
+            - Budget
+              - _meta
+                - definition
+                  - *a budget is a quantitative plan addressing the future*
+                - category
+                  - fixed
+                  - flexible
+                  - ZBB(Zero-based)
+                  - ABB(Activity-based)
+                  - Incremental
+                - time-related
+                  - budgetary period
+              - VOCAB
+                - budgetary control system
+                - goal congruence
+              - modern bugetary system vs conventional
+              - Quantitative analysis
+                - High-low method
+                  - --> F2
+                - Regression analysis
+                  - --> F2
+                - Learning curves
+              - Behavioural Aspects of Budgeting
+                - Top-down
+                - Bottom-up
+                - Unrealistic
+                - Overty achievable
+        - [ACCA F5 - 10 Standard Costing & Variance Analysis](https://www.youtube.com/watch?v=rFH0N9QTv0s&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=58)
+          - Videomark: 9:23/9:23
+          - CCS: 33.1%
+          - E.T.C: 3.71 months
+          - STRUCT
+            - The big picture
+            - Basic Variances and Operating Statements
+              - _methods
+                - absorption costing
+                  - operating statements
+                - marginal costing
+                  - operating statements
+              - _instance
+                - Worked examples
+                  - Cost card
+                  - Budget
+                  - Actual results
+                  - Variance
+              - Variance
+                - Material variance
+                - Labour variances
+                  - Labour rate variance
+                  - Labour efficiency variance
+                - Variable O/H variances
+                  - Variable O/H expenditure variance
+                  - Variable O/H efficiency variance
+                - Fixed O/H variances
+                  - Fixed O/H expenditure variance
+                    - Marginal costing, absorption costing...
+                  - Fixed O/H volume variance
+                - Sales volume variance
+                - Sales price variance
+                - Mix and yield variance
+                - Planning and Operational Variances
+              - Behavioural aspect of standard costing
+              - **Non-standard costing**
+        - [ACCA F5 - 11. Performance Measurement](https://www.youtube.com/watch?v=ulVmuBUoZLQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=59)
+          - Videomark: 10:17/10:17
+          - CCS: 33.7%
+          - E.T.C: 3.68 months
+          - STRUCT
+            - Practice
+              - Residual Income(RI)
+              - EBIT： Earnings before interest and tax
+              - Imputed interest
+              - Drawbacks of RI and ROI
+              - RI & ROI computation
+                - NBV initial
+                - Net cash inflow
+                - Depreciation
+                - Profit
+                - Capital charge(10%)
+                - RI
+                - ROI
+              - Performance analysis is not for profit organizations and the public sector
+              - External considerations and behavioural aspects
+            - The scope of performance measurement
+              - Balanced scorecard
+                - Financial perspective
+                - Customer perspective
+                - International business processes
+                - Learning and growth
+              - Fitzgerald and Moon
+                - Dimensions
+                  - Results
+                  - Determinants
+                - Standards
+                - Rewards
+              - Qualitative measures
+                - KPI
+                - OKR?
+            - Divisional Performance and Transfer Pricing
+              - Transfer prices
+                - Market price
+                - Outlay cost(standard) + opportunity cost to the seller
+                - Outlay cost(actual) + opportunity cost to the seller
+                - Outlay cost + notional mark-up
+                - Production cost(full absorption)
+                - Best bargain(negotiation between divisions)
+              - Divisional performance and internal(transfer) pricing
+              - Return on Investment(ROI) at the Divisional Level
+                - $ROI=\frac{net-profit}{capital-employed}$
+        - [ACCA F6UK - 1. Introduction](https://www.youtube.com/watch?v=rz-kLWZrivo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=60)
+          - Videomark: 8:56/8:56
+          - CCS: 34.2%
+          - E.T.C: 4.38 months
+          - STRUCT
+            - Taxation UK
+              - Tax year: 6 April to 5 April
+              - Main taxes
+                - Income tax
+                - Corporation tax
+                - Capital Gains tax(CGT)
+                - Value Added Tax(VAT)
+                - National Insurance Contributions(NIC)
+              - Pro-forma Tax Computation
+                - Personal Allowances
+                - Personal Age Allowances
+                - Income Tax Liability
+                - Income Tax Payable
+        - [ACCA F6UK - 2. Employment income](https://www.youtube.com/watch?v=J4UPebyc2lw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=61)
+          - Videomark: 7:48/7:48
+          - CCS: 34.8%
+          - E.T.C: 3.62 months
+        - [ACCA F6UK - 3. Income Tax - Trading income](https://www.youtube.com/watch?v=KhpTdR96p_U&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=62)
+          - Videomark: 13:15/13:15
+          - CCS: 35.4%
+          - E.T.C: 3.58 months
+          - ADJUSTMENT: 10min/day for French learning on weekends
+        - [ACCA F6UK - 4. Trading income - Basis Assessment](https://www.youtube.com/watch?v=56coL4oMoz8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=63)
+          - Videomark: 10:07/10:07
+          - CCS: 36%
+          - E.T.C: 3.55 months
+        - [ACCA F6UK - 5. Trading income - Partnerships](https://www.youtube.com/watch?v=SSRdJGMjIx4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=64)
+          - Videomark: 9:26/9:26
+          - CCS: 36.5%
+          - E.T.C: 4.23 months
+        - [ACCA F6UK - 6. Investment income](https://www.youtube.com/watch?v=JUiZK7CbbEA&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=65)
+          - Videomark: 9:26/9:26
+          - CCS: 37.1%
+          - E.T.C: 3.49 months
+        - [ACCA F6UK - 7. Corporation Tax](https://www.youtube.com/watch?v=JRIrxFoU9Ls&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=66)
+          - Videomark: 14:39/14:39
+          - CCS: 37.7%
+          - E.T.C: 3.46 months
+        - [ACCA F6UK - 8. Chargeable Gain (companies)](https://www.youtube.com/watch?v=z8AMRcNokG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=67)
+          - Videomark: 8:12/8:12
+          - CCS: 38.2%
+          - E.T.C: 4.12 months
+        - [ACCA F6UK - 9. Capital Gains Tax](https://www.youtube.com/watch?v=9xfELazUOyE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=68)
+          - Videomark: 13:35/13:35
+          - CCS: 38.8%
+          - E.T.C: 3.4 months
+        - [ACCA F6UK - 10. Inheritance Tax](https://www.youtube.com/watch?v=MO5SkXyatUw&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=69)
+          - Videomark: 9:15/9:15
+          - CCS: 39.4%
+          - E.T.C: 2.53 months
+        - [ACCA F6UK - 11. VAT](https://www.youtube.com/watch?v=0qrNgta-9N0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=70)
+            - Videomark: 1:03/9:57
+            - CCS: 40%
+            - E.T.C: 3.33 months
+            - FOLLOWING, CLUSTERED | Tax
+              - _practice
+                - Death after a lifetime transfer
+                  - The value of the estate at death
+              - Individual Tax
+                - Income Tax - Employment Income
+                  - Benefit
+                  - Exempt benefit
+                  - Assessable benefit - Living Accommodation
+                  - Assessable benefit - motor cars
+                    - Petrol car
+                      - Private fuel
+                      - Private use of vans
+                      - Private use of employer's assets
+                      - Gift of asset - no previous private use
+                      - Gift of asset - after previous private use
+                    - Diesel car
+                    - Electric car
+                - Inheritance Tax(IHT)
+                  - Calculation of IHT on Lifetime Transfers
+                    - IHT on CLTs(transfers into a Trust)
+                    - Nil Rate Band(NRB)
+                  - Calculation of IHT as a result of Death
+                    - Taper relief
+                  - _meta
+                    - _on
+                      - *a person dies*
+                      - *certain lifetime transfer*
+                        - Exempt
+                        - Potentially Exempt Transfers(PETs)
+                        - Chargeable Lifetime Transfers(CLTs)
+                  - Transfer of Value, Chargeable Property & Chargeable Person
+                - Capital Gain Tax(CGT)
+                  - Pro forma for computation of capital gains for individuals
+                  - Transfer between husband/wife or civil partners
+                    - Not deemed to be transferred value
+                    - Part disposals
+                  - Chattels
+                    - *Could be a nice way*
+                  - Share matching rules
+                  - Reliefs - Principal Private Residence(PPR)
+                    - Deemed occupation
+                  - Reliefs - Entrepreneurs' Relief
+                  - Reliefs - Rollover Relief
+                - Income Tax - Trading Income
+                  - Discernment
+                    - Capital gain Tax
+                  - Typical recipients - A personal who is employed by a company receives employment income and not trading income
+                    - A *sole trader*
+                    - Self-employed
+                    - Independant consultant
+                  - Badges of trade
+                    - Badges
+                      - Subject matter
+                        - *items that were transacted typically items that are used for trading*
+                      - Frequency of transactions
+                        - *the more often the transaction is undertaken the more likely it is that the item will be trading*
+                      - Length of ownership
+                        - *a shorter period of ownership is more likely to indicate trading*
+                      - Profit motive
+                        - *a clear indication to make a profit may indicate a trading item*
+                      - Supplementary work and marketing
+                        - *additional work undertaken on the items to make them more marketable may indicate trading*
+                      - Method of acquisition
+                        - *an involuntary acquisition of the item e.g. through inheritance, may indicate capital*
+                  - Basis of assessment
+                    - Opening Year Rules
+                    - CYB: current year basis
+                    - Period of Account
+                    - Period Assessed
+                    - Ongoing business rules
+                    - Change of accounting date
+                    - Closing year rules
+                  - Adjustment of the accounting profit
+                  - Tax adjustedd trading profit
+                    - Net product per accounts
+                      - ADD
+                        - Disallowed expenditure
+                        - Taxable trading income not included in accounts
+                        - ...
+                      - LESS
+                        - Income included within the accounts but not taxable as trading income
+                        - Expenditure not in the accounts but allowable as a trading deduction
+                        - Capital allowances
+                        - ...
+                      - Tax adjusted trading profit
+                  - Disallowable expenditure
+                    - _meta
+                      - _instance
+                        - Capital expenditure
+                        - Depreciation or amortization charges
+                        - Appropriation(withdrawl) of funds from the business by the sole trader
+                        - Excessive salary paid to a sole trader's family member
+                        - 3rd party entertaining(note that employee entertaining is allowable)
+                        - The write off a non-trade debt
+                        - Subscriptions that are not related to the trade
+                        - Gifts to customers are disallowable
+                          - _meta
+                            - _exception
+                              - cost less than ￡50 per recipient per year
+                              - The gift is not food, drink, or tobacco
+                - Capital Allowances
+                  - _meta
+                    - _self
+                      - *Capital allowances are tax allowable amounts that are calculated according to set specific rules*
+                  - *Depreciation is an accounting adjustment*
+                  - Plant and Machinery(P&M)
+                    - _meta
+                      - _instance
+                        - Machinery, Vehicles(cars and lorries), Computers(hardware and software)
+                        - Office furniture and equipment, Moveable partitioning
+                      - Writing Down Allowance(WDA)
+                      - Annual Investment Allowance(AIA)
+                      - Motor cars
+                        - purchased on or after 6 April 2009
+                        - purchased before 6 April 2009
+                      - Private use assets
+                        - *for sole traders*
+                        - *companies never have private use assets as they are not suppose to have them in the first place*
+                      - Special Rate Pool
+                - Trading Losses(For sole traders)
+                  - Carry forward of trading loss
+                  - Offset of loss against total income
+                  - Relieving trading losses against chargeable gains
+                  - Offset of opening year loss against total income: FIFO
+                  - Offset of terminal loss against previous trading profits: LIFO
+                - Trading Income(For Partnership)
+                  - Loss relief in partnerships
+                  - Furnished holiday lettings(FHL)
+                - Property income
+                  - Property business profits
+                    - Accruals
+                  - Premiums received on the grant of a short lease
+                  - Rent a room relief
+                - Investment Income
+                  - HMRC
+                - Rate of tax on savings income
+                - Dividend Income
+                  - *Go-on-top* Style
+                - Pensions
+                  - Pension schemes
+                    - Occupational pension schemes(certain employees)
+                    - Personal pension schemes(employees, sold traders, and unemployed)
+                  - Method of obtaining relief
+                    - Occupational pension Income
+                    - Personal pension scheme
+                      - Basic rate tax relief
+                      - Higher rate tax relief
+                - National Insurance Contributions(NIC)
+              - Corporation Tax
+                - _key-practice-point
+                  - Corporate tax computation
+                    - Profits below the lower limit
+                    - Profits above the upper limit
+                    - Profits in the marginal relief band
+                      - Short accounting periods
+                      - Associated companies
+                      - Accounting periods that are in the edge zone
+                    - Trading losses
+                      - s393(1) ICTA 1988: Carry forward the loss to offset against future trading income of the same trade
+                      - s393A ICTA 1988: Offset of current year trading loss against current year total profit(before deduction of gift aid)
+                      - *If a current year loss offset has been made and there are losses remaining, unused losses can be carried back and offset against total profits(before deduction of gift aid) of the previous 12 months*
+                - Context field
+                  - Period of account
+                  - Accounting Period
+                  - Profits chargeable to corporation tax(PCTCT)
+                  - "Profits" = PCTCT + Franked Investment Income(FII)
+                  - FII = Gross dividends received from non associated companies
+                - Discernment field
+                  - Trading Income
+                    - *mainly the same*
+                    - Differences
+                      - No private use asset adjustments, taxed on the employees via the benefit on private use
+                  - Property Income
+                    - Assessed according to the company's accounting period while individual --> tax year
+                    - *Interest on a loan acquired to purchase or improve an investment property is treated under the loan relationship rules unlike individuals who can treat it as a deduction from property Income*
+                  - Interest Income
+                    - Bank interet received in gross with no tax withheld(individual with bank interest net of 20% tax)
+                  - Dividend income
+                    - Not included in PCTCT
+                  - Chargeable gains
+                    - Corporate
+                      - \* Pro forma
+                      - Pay corporation tax on chargeable gains(i.e. the gains are part of PCTCT)
+                      - No annual exemtion
+                      - Indexation Allowance(IA) = $cost_asset \times RPI\_ movement$
+                        - [MBA | Indexation](https://wiki.mbalib.com/zh-tw/%E6%8C%87%E6%95%B0%E5%8C%96)
+                      - Share matching rules
+                    - individual
+                      - Pay Capital Gains Tax(CGT) on the gains and not income tax on the gains
+                      - Annual exemtion
+                      - No Indexation Allowance
+                      - capital gain tax
+                      - Share matching rules
+                  - Gift Aid
+                    - Corporate
+                      - Deducted in PCTCT
+                    - individual
+                      - Extend the basic rate band
+                - Corporate Tax Computation
+                  - Trading profits
+                  - Property Income
+                  - Interest Income
+                  - Chargeable gains
+                - Corporate Groups and Overseas Tax Issues
+                  - Corporate Groups
+                    - Associated companies
+                      - _meta
+                        - definition
+                        - implication
+                    - Group loss relief group
+                      - _meta
+                        - definition
+                        - implication
+                  - Overseas Tax Issues
+                    - AHA! *Overseas dividend income is exempt from UK corporation tax*
+                    - Double Tax Relief(DTR)
+                - Value Added Tax(VAT)
+                  - Taxable Person
+                  - Taxable Supply
+                  - Input VAT
+                  - Output VAT
+                  - ?
+                    - Standard rated Supplies
+                    - Zero rated Supplies
+                    - Exempt supplies
+                  - **VAT Registrations requirements**
+                  - Pre-registration expenses
+                  - Tax point
+                  - VAT relief for bad debts
+        - [ACCA F7INT - 1. Conceptual Framework](https://www.youtube.com/watch?v=2VjNGwWoyjE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=85)
+          - Videomark: 31:40/31:40
+          - CCS: 48.5%
+          - E.T.C: 3.33 months
+        - [ACCA F7INT - 2. IAS 1 Presentation of Financial Statements](https://www.youtube.com/watch?v=rvQrJ5KKVzo&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=86)
+          - Videomark: 20:49/20:49
+          - CCS: 49.7%
+          - E.T.C: /
+        - [ACCA F7INT - 3. Substance and IAS 18 Revenue](https://www.youtube.com/watch?v=Ptucl4ZAtL4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=87)
+          - Videomark: 32:02/32:02
+          - CCS: 49.7%          
+        - [ACCA F7INT - 4. Construction Contracts](https://www.youtube.com/watch?v=K2V_ZQtQu3o&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=88)
+          - Videomark: 21:06/21:06
+          - CCS: 50.3%
+        - [ACCA F7INT - 5. Predictive value](https://www.youtube.com/watch?v=LRJWQ_qc2fI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=89)
+          - Videomark: 33:38/33:38
+          - CCS: 50.8%
+        - [ACCA F7INT - 6. Non current assets, impairment of assets](https://www.youtube.com/watch?v=zeZSgIzHOzk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=90)
+          - Videomark: 41:03/41:03
+          - CCS: 51.4%
+        - [ACCA F7INT - 7. Provisions](https://www.youtube.com/watch?v=NSu0D18IR1M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=91)
+          - Videomark: 24:17/24:17
+          - CCS: 52%
+        - [ACCA F7INT - 8. Financial instruments](https://www.youtube.com/watch?v=--19fuJybzU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=92)
+          - Videomark: 23:53/23:53
+          - CCS: 52.6%
+        - [ACCA F7INT - 9. Taxation](https://www.youtube.com/watch?v=D8X-lk-UIpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=93)
+          - Videomark: 17:20/17:20
+          - CCS: 53.1%
+        - [ACCA F7INT - 10. Group financial statements incl. associates](https://www.youtube.com/watch?v=0Js78NKBmpE&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=94)
+          - Videomark: 26:12/26:12
+          - CCS: 53.7%
+        - [ACCA F7INT - 11. Statement of cash flows](https://www.youtube.com/watch?v=W_VkDH-Ltyg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=95)
+          - Videomark: 10:41/10:41
+          - CCS: 54.3%
+          - Conceptual Famework
+            - _meta
+              - prerequisite
+                - factoring company
+                  - recourse
+                - invoice factoring
+            - VOCAB FIELD
+              - Cost of Capital
+                - [Cost of Capital](https://www.investopedia.com/terms/c/costofcapital.asp#:~:text=Cost%20of%20capital%20represents%20the,preferred%20or%20existing%20capital%20structure.)
+                - [Weighted Average Cost of Capital (WACC)](https://www.investopedia.com/terms/w/wacc.asp)
+            - Qualitative characteristics of financial Information
+              - Understandability, Relevance, Reliability, Comparability
+            - Standards
+              - _sub-vocab
+                - [P&L - Profit and Loss (P&L) Statement](https://www.investopedia.com/terms/p/plstatement.asp)
+              - IAS 1
+                - Components of finantial statements
+                  - Statement of financial position
+                  - Statement of comprehensive income
+                    - Profit and loss statement
+                    - Other comprehensive income
+                  - Statement of changes in equity
+                  - Statement of cash flows
+                  - Comparative data for the previous year for each of the above
+                - Core concepts
+                  - Fair presentation - fair, neutral description of transactions
+                    - Substance over Form
+                  - Going concern - entity assumed to continue trading into the foreseeable future
+                  - Accrual(matching) basis of accounting - match costs with associated revenues and items to the time period incurred
+                  - Consistency of presentation - present similar transactions the same way within the current year and year by year
+                  - Materially and aggregation - no need to present information about immaterial transactions, but aggregate transactions with similar characteristics instead
+                  - Offsetting - offset as little as possible
+                    - Little *net off*
+                - True and fair override
+              - IAS 8: Predictive Value
+                - VOCAB FIELD
+                  - Restatement
+                    - Accounting Error
+                    - Accounting policy
+                  - Prospective application
+                    - **Accounting estimates**
+                      - *an adjustment of the carrying amount of an asset or a liability, or the amount of the periodic consumption of an asset, that results from the assessment of the present status of, and expected future benefits and obligations associated with, assets and liabilities*
+                    - Financial statements presentation: retrospective application
+                  - Discontinued activities
+                  - Disclosured required
+                    - A single amount on the face of the income statement
+                    - EARNINGS PER SHARE
+                      - PE Ratio
+                  - Changes to ordinary shares in issue
+                    - There will normally be a link between the number of shares in issue, the resource(net asseta) available to management and the profits that can be expected to be made from those assets
+                    - Profits are made throughtout a year, where the number of shares in the SOFP is a snapshot moment in time
+                  - Weighted average number of shares
+                  - Rights issues
+                    - TERP
+                  - **DILUTED EARNINGS PER SHARE**
+                    - IAS 33
+                      - [If converted Method](https://www.youtube.com/watch?v=r7hMQubWks0)
+              - IFRS 5: Non-current assets held for sale and discontinued operations
+                - Purpose
+                - Disposal groups
+              - IAS 11: Construction contracts
+                - VOCAB FIELD
+                  - Markup
+                - **Decision Flow**
+                - Estimating stage of Completion
+                - Approach(6 Steps)
+              - IAS 16: Property, Plant and Equipment
+                - IFRS 5
+                - Initial Recognition/classification
+                - Initial valuation
+                  - Include in initial valuation(Dr Non-current asset)
+                    - Transaction costs on purchase, eg legal fees
+                    - Borrowing costs incurred, if this is the policy under IAS 23
+                    - Inwards delivery costs
+                    - Import duties, irrecoverable purchase taxes
+                    - NPV of unavoidable future decomissioning costs under IAS 37
+                    - ...
+                  - Exclude from initial valuation(Dr Expenses)
+                    - Training costs
+                    - Initial inefficiencies and losses during "run in"
+                    - Administration or general overhead costs
+                    - Costs giving benefit for one year or less only
+                    - Any costs due to abnormal losses in purchases, delivery or production as they will not enhance earning capacity
+                    - ...
+                - Write-off period
+                - Impairments
+                - Revaluation
+                - Enhancements
+                - **Disclosures(IAS 16:73)**
+                - **Borrowing costs: IAS 23**
+                - Profit or loss on disposal of any non-current asset
+              - IAS 17: Leases
+                - Lease
+                  - _interface
+                    - leaser
+                    - leasee
+                  - _category
+                    - Finance Leases
+                    - Operating leases
+                      - NPV
+                  - _effect-network
+                    - SOFP
+              - IAS 18: Revenue
+                - _?
+                  - amortized cost
+                - _technique
+                  - unwinded discount
+                    - _alias
+                      - IAS 17: Rate implicit in the lease?
+                - Recognition of revenue: Goods
+                - Recognition of revenue: services
+                - Valuation of revenue
+                - Bundled sales
+              - IAS 36: Impairment of Assets
+                - External indicators of impairment
+                  - PESTEL
+                - Internal indicators of impairment
+                - Determination of value
+                - Cash generating unit
+                - Reporting impairment losses: individual assets
+                - Reporting impairment losses: cash generating unit
+              - IAS 37: Provisions, contingent liabilities and contingent assets
+                - **Creative accounting even with IAS 37 in effect while getting away with legal obligations ( •̀ ω •́ )y**
+                - Initial valuation(provisions)
+                - Initial valuation(contingent liabilities)
+                - Contingent assets
+                - Provisions and contingent liabilities for individual companies
+                - Discounting and unwinding of provisions
+              - IAS 38: Intangible Assets
+                - Accounting treatments of three types of asset
+                  - _fields
+                    - Initial Recognition
+                    - Initial valuation
+                    - Amortisation period
+                    - Upward revaluation possible?
+                    - Impairment loss Recognition
+                    - Reversal of impairment losses
+                    - Allowed alternative presentations
+                  - R&D
+                  - Goodwill
+                  - Other intangible non-current assets
+              - IAS 40: Investment Property
+            - Material Anatomies
+              - Statement of Financial Position
+                - _struct
+                  - _col
+                    - 20x3
+                    - 20x4
+                    - Note
+                  - _row ptr=\$1
+                - Assets ptr=\$1 ~ * === \$1
+                  - Non-current assets
+                    - Property, plant and equipment
+                    - Intangible assets
+                    - Investments in associates
+                    - Biological assets
+                  - Current Assets
+                    - Inventories
+                    - Trade receivables
+                    - Cash and cash equivalents
+                    - Assets held for sale
+                  - Total Assets
+                - EQUITY AND LIABILITIES
+                  - Share capital
+                  - Revaluation reserve
+                  - Retained Earnings
+                  - Other reserves
+                  - Non-controlling interests
+                  - **Total Equity**
+                  - Non-current liabilities
+                    - Financial liabilities
+                    - Deferred tax
+                    - provisions
+                    - Total
+                  - Current liabilities
+                    - Financial liabilities
+              - Statement of Comprehensive Income(SOCI)
+                - revenue
+                - Cost of sales
+                - Gross profit
+                - Other income
+                - Share of profit of associates
+                - Distribution costs
+                - Administrative expenses
+                - Other expenses
+                - Finance costs
+                - **Profit before tax**
+                - Tax expense
+                - Profit from discontinued operations, after tax
+                  - IFRS 5
+                - **Profit for the period**
+                - Other comprehensive income, net of tax
+                  - Property revaluation gains
+                  - Other gains reported directly in equity
+                  - Share of associates' other comprehensive income
+                  - Other comprehensive income for the period, net of tax
+                  - Total comprehensive income for the period
+                - Profit for the period attributable to
+                  - Non-controlling interests
+                  - Owners of the parent
+                - Total comprehensive income for the period attributable To
+                  - Non-controlling interests
+                  - Owners of the parent
+              - Statement of Changes in Equity(SOCE)
+              - SOFP
+              - Finantial Instrument
+                - _doubts
+                  - *Right category?* 
+                  - _schema
+                    - _field
+                      - Financial liabilities
+                      - Financial assets
+                    - _attribute
+                      - Examples
+                      - Initial Recognition
+                      - Subsequent measurement
+                      - Gains or losses reported in... 
+                    - _value
+                  - Recognition and derecognition
+                  - Fair value accounting
+                  - Amortized cost
+                    - Debt instrument
+                    - Business model test
+                    - contractual cash flow characteristics test
+                    - Impairments
+                    - **Convertible bonds**
+              - Group financial statements
+                - Substance over Form
+                - Acquisition accounting
+                - Goodwill
+                - Non-controlling interests
+                - Consolidation immediately after M&A
+                  - Fair value
+                  - Key Logic
+                  - Pre-acquisition dividends
+                  - Adjustments
+                  - Mid period acquisition
+                  - Intra-group transactions
+                  - Transfer of non-current assets
+                  - Goodwill
+                - Subsequent periods
+                - Consolidated statement of comprehensive income
+              - Statement of cash flows
+                - Category
+                  - Operating cash flows
+                  - Financing cash flows
+                  - Investing cash flows
+                - Method
+                  - Direct
+                    - Performa
+                  - Indirect
+                - Critical points
+                  - **Cash operating profits(operating cash flow) - depreciation = Accounting operating profits(PBIT)**
+                  - **PBIT + depreciation = Operating cash flow**
+              - Taxation
+                - Current Tax
+                - Deferred tax
+                - Temporary difference
+                - Permanent difference
+              - Associates
+                - Accounting treatment in the group financial statements
+            - O.O.I
+              - IFRS: International Financial Reporting Standard
+                - _meta_escalate
+                  - *I think IFRS will be the main theme moving forward*
+                - [website](https://www.ifrs.org/)
+            - Skills
+              - Calculation of deferred tax liability and SOCI effect
+            - Elements of Financial statments
+              - Alias field
+                - Balance sheet: Statement of financial position
+              - self
+                - _meta
+                  - Recognition criteria
+                    - Problem-Toolkit
+                      - Inflation
+                        - IAS 29
+                        - Operating capital maintenance
+                        - Capital maintenance concepts
+                          - Financial capital maintenance
+                          - Operating capital maintenance
+                  - True and fair view
+                    - true and fair override
+                  - Evaluation of assets and profit
+                - Asset
+                  - _characteristics
+                    - *never reflected in the ?*
+                  - *A resource that is both controlled by an entity and is expected to produce future economic benefits that will flow to the entity*
+                - Liability
+                  - *A present obligation of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits*
+                - Equity
+                  - *The residual interest in the assets of the entity after deducting all its liabilities*
+                  - $assets-liabilities=equity=capital+reserves$
+                - Income
+                  - *Increases in economic benefits during the accounting period in the form of inflows or enhancements of assets or decreases of liabilities that result in increases in equity, other than those relating to contributions from equity participants*
+        - [ACCA F8INT - 1. Audit reports](https://www.youtube.com/watch?v=ZnZFycIm9oY&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=96)
+          - Videomark: 8:25/8:25
+          - CCS: 54.9%
+          - E.T.C: 2.5 months
+        - [ACCA F8INT - 2. Ethics](https://www.youtube.com/watch?v=OnQmF_PUCYs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=97)
+          - Videomark: 10:01/10:01
+          - CCS: 55.4%
+          - E.T.C: 2.47 months
+        - [ACCA F8INT - 3. Audit Letters](https://www.youtube.com/watch?v=bMrS7NESCNI&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=98)
+          - Videomark: 11:07/11:07
+          - CCS: 56%
+          - E.T.C: 2.44 months
+        - [ACCA F8INT - 4. Audit Risk](https://www.youtube.com/watch?v=WonImpH3ya4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=99)
+          - Videomark: 10:34/10:34
+          - CCS: 56.7%
+          - E.T.C: 2.06 months
+        - [ACCA F8INT - 5. Internal control](https://www.youtube.com/watch?v=PkVlobJ4eHU&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=100)
+          - Videomark: 10:01/10:01
+          - CCS: 57.1%
+          - E.T.C: 3.575 months
+        - [ACCA F8INT - 6. Internal control](https://www.youtube.com/watch?v=xac2m1_IRQQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=101)
+          - Videomark: 10:29/10:29
+          - CCS: 57.7%
+          - E.T.C: 2.35 months
+        - [ACCA F8INT - 7. Audit Evidence](https://www.youtube.com/watch?v=0nyOuxuoB0A&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=102)
+          - Videomark: 10:04/10:04
+          - CCS: 58.3%
+          - E.T.C: 2.31 months
+        - [ACCA F8INT - 8. Inventory](https://www.youtube.com/watch?v=ihqrAfpm_Fs&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=103)
+          - Videomark: 10:03/10:03
+          - CCS: 58.9%
+          - E.T.C: 2.28 months
+        - [ACCA F8INT - 9. Subsequent Events](https://www.youtube.com/watch?v=j98vluVk93M&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=104)
+          - Videomark: 8:40/8:40
+          - CCS: 59.4%
+          - E.T.C: 2.25 months
+        - [ACCA F8INT - 10. Going Concern](https://www.youtube.com/watch?v=WwPgvjLiOZ8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=105)
+          - Videomark: 12:00/12:00
+          - CCS: 60%
+          - E.T.C: 1.21 months
+          - STRUCT_audit
+            - Term field
+              - Title
+              - Addresse
+              - Introductory paragraph
+              - Statement of responsibilities of management
+              - Statement of responsibilities of the auditors
+              - Score paragraph
+              - Opinion
+              - Auditor's signiture
+              - Date of report
+              - Auditor's address
+            - TEMP_UNSTRUCTURED_CACHE
+              - Internal audit
+              - Inventory
+                - Main auditing concern
+                  - Client Stocktaking
+                    - BEFORE
+                    - DURING
+                    - AFTER
+                  - Valuation of Inventry
+                    - COST
+                    - NET REALIZABLE VALUE
+              - Auditing events
+                - Subsequent event
+                - Adjusting event
+                - Non-adjusting event
+              - Auditing Approach - Proactive Period
+              - Auditing Approach - Reactive Period
+            - Ethics
+              - TOPIC
+                - Technical(professional) competence and due care
+                  - *Compétences professionnelles ou techniques et diligence*
+                - Objectivity must be demonstrated
+                - Professional behaviour must be demonstrated
+                  - *Le comportement professionnel*
+                - Integrity
+                  - *La Intégrité*
+                - Confidentiality
+                  - *La confidentialité*
+              - Threats
+                - Self-interest - e.g. owning shares in a client company
+                  - *L'intérêt personnel - un intérêt financier danes les actions d'une entreprise cliente*
+                - Self-review
+                  - *L'examen même*
+                - Familiarity
+                  - *Familiarité - Famile relation agir en tant qu'auditeur pour accompagner le travail est-ce que le PDG*
+                - Intimidation
+                - Advocacy
+              - Safeguard against threats
+              - Practices
+                - STIPULATIONS ON BRANDING An auditor must proactively publicize integrity behaviour, quasi periodic public ethics challenge
+            - **RISK**
+              - _discernment
+                - EXTERNAL **Business Risk**
+                  - _diff-instance
+                    - _meta
+                      - diff-identification
+                    - Business Risk: *foreign exchange losses reduce company's profitability*
+                    - Audit Risk: *overstatement of profit if foreign exchange losses are not properly recognised*
+                  - _category
+                    - Operational Risk
+                    - Financial Risk
+                    - Compliance Risk
+              - _instance
+                - *if an auditor gave an unqualified opinion, when in fact the company was not a going concern, then shareholders and others placing reliance on this report in making economic decisions relating to their dealings with the company might suffer financial loss*
+              - _category
+                - _consolidation
+                - INHERENT RISK
+                  - _description
+                    - *risk that there may be material errors or misstatements in the client's financial statements, before giving consideration to any internal controls that may have been established*
+                  - _instance
+                    - *in a high tech comapny there is high risk of obsolescent inventory which if not recognised could result in a material overstatement of both profits and asset values*
+                - CONTROL RISK
+                  - _description
+                    - *risk that the client's internal control systems will fail to prevent or detect material errors or misstatements*
+                  - _instance
+                    - *if there's not effective segregation of duties then there is a much higher riskk of employee fraud, without the need for collusion, going undetected*
+                - DETECTION RISK
+                  - _description
+                    - *risk that the auditor's tests and enquiries will fall to detect material errors or misstatements in the transactions and balances reflected in the client's financial statements*
+                  - _instance
+                    - *the detection risk is always greater with a new client because the auditor have had less time to build up their knowledge and understanding of the client's business and the risk to which it is exposed*
+                  - _category
+                    - Sampling risk
+                    - Non-sampling risk
+            - Regulations
+              - ISA 315
+                - _role
+                  - *Identifies and accesses the Risks of Material Misstatement Through Understanding the Entity and Its Environment*
+                - Internal control
+                  - _meta
+                    - _actions
+                      - Detach `this`
+                  - _relation
+                    - IIA
+                      - Definition
+                      - Purpose
+                  - _component
+                    - The control environment
+                    - The entity's risk assessment process
+                    - The information system
+                    - Control activities
+                    - Monitoring of controls
+                  - _env-digital
+                    - _category
+                      - General Controls
+                        - Administration Control
+                        - Systems development controls
+                      - Application Controls
+                    - _SOF
+                      - GENERAL CONTROLS - ADMINISTRATION CONTROLS - **DOFF**
+                      - GENERAL CONTROLS - SYSTEMM DEVELOPMENT CONTROLS - **CAST**
+                      - APPLICATION CONTROLS - **IPOF**
+                    - Alternative audit approaches
+                      - Auditing around the computer
+                      - Auditing through the computer - CAAT
+                      - Auditing with the computer - ITF, SCARF
+                  - _practice
+                    - FEATURE PCRAM
+                      - Plan of organisation
+                      - Custody procedures
+                      - Recording procedures
+                      - Authorization procedures
+                      - Management supervision
+                    - STEP
+                      - _meta
+                        - search_engine_term: *Steps in auditor's consideration and approach to a client's internal control systems*
+                        - mental_flowgraph
+                          - [No existing graph, please draw one yourself](#)
+                          - `1 - 2 - 4 ? [5 ? [7 | 4 | $ext]]`
+                            - `$ext`: extended substantive testing
+                            - \[1-7\]: S **BOLD**
+                      - `SEQUENTIAL as S` | S **Ascertain**
+                      - S **Record**
+                      - S **Confirm**
+                      - S **Evaluate**
+                      - S **Test**
+                      - S **Assess**
+                      - S **Design and carry out limited programme of substantive testing**
+              - ISA 500
+                - Audit Evidence
+                  - _relationship
+                    - Audit procedures - SOCI
+                      - Inspection of records or documents
+                      - Inspection of tangible assets
+                      - Observation
+                      - Enquity
+                      - Confirmation
+                      - Recalculation
+                      - Reperformance
+                      - Analytical procedures
+                      - _criteria
+                        - *ASSERTIONS RELATING TO TRANSACTIONS AND EVENTS*
+                          - OCCURENCE
+                          - COMPLETENESS
+                          - ACCURACY
+                          - CUT-OFF
+                          - CLASSIFICATION
+                        - *ASSERTION RELATING TO ACCOUNT BALANCES* - SOFP
+                          - EXISTENCE
+                          - RIGHTS AND OBLIGATIONS
+                          - COMPLETENESS
+                          - VALUATION AND ALLOCATION
+                        - *ASSERTION RELATING TO PRESENTATION AND DISCLOSURE* - 
+                          - OCCURENCE AND RIGHTS AND OBLIGATIONS
+                          - COMPLETENESS
+                          - CLASSIFICATION AND UNDERSTANDABILITY
+                          - ACCURACY AND VALUATION
+                  - ?
+                    - SUFFICIENT
+                    - RELEVANT
+              - ISA 700
+            - Skills
+              - Audit report making
+                - Decision tree
+            - Audit Documents
+              - Modified Audit Reports
+                - _meta
+                  - working definition of materiality
+                    - *transactions and other events are likely to be seen as material in the context of a company's financial statements if their omission, misstatemennt or non-disclosure would matter to a proper understanding of such financial statements on the part of a potential user*
+                - ~ with Unqualified Opinion
+                  - emphasis of mattter
+                    - a separate heading
+                    - positioned after the opinion paragraph
+                    - made clear that the audit opinion is not qualified - start with *Without qualifying our opinion we draw attention to ...*
+                - ~ with qualified opinion
+                  - ISA 700 - Limite on scope, Disagreement
+                  - Material but not pervasive
+                  - Material and pervasive
+              - Audit letters
+                - _schema
+                  - purpose
+                  - frequency
+                  - content
+                    - _schema
+                      - audit objectives
+                      - management responsibilites
+                      - relevent legislation
+                      - relevant professional standards
+                      - audit procedures
+                      - liaison with internal audit
+                      - risk assessment
+                      - use of experts
+                      - auditor access rights
+                      - auditor/client communications
+                      - deadlines
+                      - reporting format
+                      - fee basis
+                      - dispute settlement procedures
+                      - request for confirmation
+                - _actions
+                  - if directors refuse to provide representation letter
+                - Engagement Letters
+                - Management Letter
+                - Management representation letter
+            - Role
+              - Independent auditor
+                - ~ must report their opinion in respect of two main issues
+                  - whether the financial statements give a `true and fair view`\(or respect fairly in all material respects\) the company's financial position and performance, and
+                  - whether the financial statements have been `properly prepared` in accordance with any relevant professional recommendations and/or statutory provisions
+        - [ACCA F9 - 1. Financial Management Function](https://www.youtube.com/watch?v=wM4bRVo2SUQ&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=106)
+          - Videomark: 14:06/14:06
+          - CCS: 60.6
+          - E.T.C: 2.19 months
+        - [ACCA F9 - 2. Financial Management Environment](https://www.youtube.com/watch?v=01OyGCEgJJ4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=107)
+          - Videomark: 12:42/12:42
+        - [ACCA F9 - 3. Working Capital management](https://www.youtube.com/watch?v=R-scVoqyoao&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=108)
+          - Videomark: 15:27/15:27
+          - CCS: 61.7
+          - E.T.C: 2.12 months
+        - [ACCA F9 - 4. Working Capital management (cont)](https://www.youtube.com/watch?v=kUA6KFchhI4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=109)
+          - Videomark: 12:13/12:13
+          - CCS: 62.3
+          - E.T.C: 2.09 months
+          - STRUCT Financial Management
+            - _meta
+              - nature
+              - purpose
+            - Financial Objectives and the Relationship with Corporate Strategy
+            - Shareholders and Impact on Corporate Objectives
+              - Shareholder groups
+                - Shareholders
+                - Lenders
+                - Directors
+                - Employees
+                - Customers
+                - Suppliers
+                - Government
+                - Public
+            - Conflicting stakeholder interests
+              - Agency theory
+              - Influencing managerial behaviour
+              - Scope of strategic performance measures in private sector
+              - Return on investment(ROI/ROCE)
+              - Earning per share(EPS)
+              - Return on Equity
+            - Financial and Other Objectives in Non-for-Profit Organizations
+              - Profit and Not-for-profit organizations
+            - Financial Management Environment
+              - The economic environment for business
+              - The impact of macro-economics
+                - Macro-economic factors
+              - The nature and role of financial markets and institutions
+              - Stock markets
+              - How stock markets operate
+            - ?
+              - Working Capital Management
+                - The nature, elements and importance of working capital
+                  - Working Capital = Current assets - current liabilities
+                    - CA
+                      - Cash
+                      - Inventory...
+                    - CL
+                      - Receivables
+                      - Payables...
+                  - Ratio Analysis
+                    - Liquidity ratios
+                      - $Current\, Ratio = \frac{Current\, assets}{Current\, liabilities}$
+                      - $Quick\, Ratio = \frac{Current\, assets - Inventories}{Current\, liabilities}$
+                    - Turnover ratios
+                      - Trade debtors(receivables): $\frac{Trade\, Debtors  \times 365}{Sales}$
+                      - Inventory turnover: $\frac{Inventory \times 365}{COGS}$
+                      - Trade creditors(payables): $\frac{Trade\, Payables \times 365 }{COGS}$
+                - Management of inventories, account receivables, accounts payable and cash
+                  - Economic Order Quantity(EOQ)
+                    - [Economic Order Quantity (EOQ) | Explained With Example](https://www.youtube.com/watch?v=uhMcWdlkWxE)
+                      - Videomark
+                    - [EOQ Economic Order Quantity formula and explanation](https://www.youtube.com/watch?v=AYpjPWmlyHM)
+                    - QDPCH: Order quantity, Quantity of product demanded annually, Purchase cost for one unit, fixed cost per order(not incl. the purchase price), cost of holding one unit for one year
+                  - Assessing the creditworthiness of customers: 5 C's
+                    - Character, Capactity, Capital, Collateral, Condition
+                  - Collection of debts
+                  - Deduction
+                  - Financial implications of different credit policies
+                - Determining work capital needs and funding strategies
+                - ?
+                - Adjusting for risk and uncertainty in investment appraisal
+                  - Sensitivity analysis
+                  - Scenario analysis
+                - Specific investment decisions(Lease or buy; asset replacement; capital rationing)
+                  - Leasing
+                  - Operating leases
+                  - Finance leases
+                  - Attractiveness of Leasing
+                  - Asset replacement decisions
+        - [ACCA F9 - 5. Investment Appraisal](https://www.youtube.com/watch?v=TTuogD0dwy8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=110)
+          - Videomark: 13:42/13:42
+          - CCS: 62.8
+          - E.T.C: 1.13 months
+        - [ACCA F9 - 6. Investment Appraisal (cont)](https://www.youtube.com/watch?v=_oIiKDxRvG0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=111)
+          - Videomark: 14:53/14:53
+          - CCS: 63.4
+          - E.T.C: 2.03 months
+        - [ACCA F9 - 7. Investment Appraisal (cont)](https://www.youtube.com/watch?v=G7FskExbZo4&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=112)
+          - Videomark: 14:29/14:29
+          - CCS: 64
+          - E.T.C: 2 months
+          - STRUCT | Audit - Investment Appraisal
+            - Non-discounted cash flow techniques
+              - Payback method
+                - Advantage
+                - Disadvantage
+              - Accounting Rate of Return
+            - Discounted cash flow(DCF) techniques
+              - _supplement
+                - [How to value a company using discounted cash flow (DCF) - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=jfcRUzKZZE8)
+              - The preeminence of cash
+              - Timing and value
+            - Net Present Value(NPV)
+            - Relevant Cash Flows
+            - Internal Rate of Return(IRR)
+              - ?
+                - Fisher formula
+        - [ACCA F9 - 8. Business Finance](https://www.youtube.com/watch?v=ksB2XyeEgJ0&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=113)
+          - Videomark: 13:32/13:32
+          - CCS: 64.5
+          - E.T.C: 2.36 months
+          - STRUCT | Business Finance
+            - ?
+            - ?
+              - IPO(Initial public offering)
+                - **Islamic finance**
+                  - Sharia
+                    - Islamic financial instruments
+                      - مرابحة
+                      -  الإجارة
+                      -  مضاربۃ
+                      -  صكوك
+           - \[4\] Internal sources of finances and dividend policy
+           - Gearing and capital structure considerations
+             - Debt and Equity
+           - Finance for SMEs
+        - [ACCA F9 - 9. Cost of Capital](https://www.youtube.com/watch?v=4Y3Iik-vXq8&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=114)
+          - Videomark: 13:54/13:54
+          - CCS: 65.1
+          - E.T.C: 1.93 months
+          - STRUCT | Cost of Capital
+            - Source of finance and their relative costs
+              - The relationship between Risk and Return
+              - Risk=free rate
+            - Determine the cost of equity
+              - Cost of equity
+                - Dividend Discount Model
+                - Capital Asset Pricing Model
+                  - $k_e=r_f+(r_m-r_f)\times \beta_e$
+            - Estimate the cost of debt and other capital instruments
+              - Cost of preference shares
+                - Irredeemable
+                - Redeemable
+                  - $P_o = \sum_{x = 0}^{n} \frac{D_x + P_x}{(1+k_p)^x}$
+              - Cost of loan capital(debt)
+              - Impact of taxes
+            - Estimating the overall cost of capital
+              - Average and Marginal Cost of Capital
+              - Weighted average cost of capital(WACC)
+            - Impact of cost of capital on investments
+        - [ACCA F9 - 10. Business Valuations](https://www.youtube.com/watch?v=ugtWxh42Ktk&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=115)
+          - STRUCT | Business Valuations
+            - Nature and purpose of the valuation of business and financial assets
+            - Models for the valuation of shares
+              - Valuation Methods
+              - Book value methods
+              - Market-relative methods
+              - Price-Earnings ratio
+              - Other method: Earnings Yield
+              - Cash flow-based methods
+                - Dividend Value Method
+                - Free Cash Flow
+              - Limitations of the valuation methods
+            - The valuation of debt and other financial assets
+            - The Efficient Market Hypothesis and practical considerations in the valuation of shares
+              - Main forms of market efficiency
+        - [ACCA F9 - 11. Risk management](https://www.youtube.com/watch?v=z9pv2MRKdzg&list=PLBggiT9yRU_PGsRP5h1ZnygR-s8CHAlc1&index=116)
+          - Videomark: 13:54/13:54
+          - CCS: 66.8
+          - E.T.C: 1.93 months
+          - HEADS UP!
+            - *There are no F10 in ACCA, later will be the review session of LSBF from F1-F9, commence consolidation of knowledge while maintaining LEARNING FRENCH as the main goal, and accidentally having learned a thing or two in accounting as implicit main goal as Xtremely unfair advantage build-up*
+              - Perform rigorous meta-digging to maximize the overall amplification of Xtremely unfair advantage build-up(Maybe add infinite numbers of X later on)
+          - _meta_following
+              - _meta_escalate
+                - **Accounting in the future**: **RPA, blockchain, smart contract, human nature**
+                - [Accounting Coach](https://www.accountingcoach.com/)
+                  - If you come back for `ACCA` instead of `french` later, use this for the *next stage*
+                - ON COMPLETE: Prune the tree to callibrate it for direct accounting ability development, re-construct the tree when needed
+                  - ACCOUNTING FOR FUTURE GENERATION: Use top-of-the-line technology only, I don't wanna see you playing around with Google Sheet or Excel
+                - TANDEM WITH **RPA**
+                - IFRS
+              - Brain Groceries
+                - **incoterms**
+                  - [BLOG: WHAT DOES EACH INCOTERM MEAN? ](https://www.hst.nl/en/incoterm/)
+                  - [Know your incoterms](https://www.trade.gov/know-your-incoterms)
+              - [Inventory accounting a comprehensive guide - S. M. Bragg](http://www.untag-smd.ac.id/files/Perpustakaan_Digital_1/ACCOUNTING%20Inventory%20accounting%20%20a%20comprehensive%20guide.pdf)
+                - NEW P.O.I - S. M. Bragg
+                - Process 1
+                  - Style: Skimming
+                    - Use pre-trained rigorous visualization brain-state
+                  - Bookmark: 14/256
+                - Process 2
+              - [STRATEGIC COST MANAGEMENT - DECISION MAKING](https://icmai.in/upload/Students/Syllabus2016/Final/Paper-15-Revised-Aug.pdf)
+                - _meta
+                  - STICKY, FOLLOWING  
+                    - Process 1
+                      - Bookmark: 11/392
+                      - Style: Osmosis
+                        - _meta
+                          - When a whole area of knowledge is quantitatively massive but intellectually less of a challenge, use this method as Project Management
+                          - As intellectual challenge increments, the nested depth will increase, when `MAXIMUM_VIABLE_NESTED_DEPTH` is reached, training as compensation of neural-level deficiency with clear project management charters will kick in if acquisition of that knowledge pattern is a must
+                            - _meta
+                              - Meanwhile, COPY CONTEXT TO `Bymaverse` and `_PROCESSING`
+                      - Goal: Connect the dots till a whole area just clicks
+                        - _meta
+                          - And record `average_arial_singularity_time_cost`
+                      - Sub-process 1.1
+                        - Scope
+                        - Goal
+                    - Process 2
+              - [Linear Programming](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+                - Bookmark: 2/45
+                - _meta
+                  - STICKY, FOLLOWING
+                  - RECAP
+                    - position: p1
+                  - STRUCT
+                    - WARNING Importance not hitting threshold, future structure will be only channeled through minimum cerebrum activities
+              - [The Imprest System](https://wce.education/wp-content/uploads/2020/03/The-Imprest-System.pdf)
+                - _meta
+                  - STICKY, FOLLOWING
+              - [JOURNAL ENTRY DEBIT AND CREDIT CONVENTION](https://www.colorado.edu/controller/sites/default/files/attached-files/drcr.pdf#:~:text=This%20means%20that%20entries%20of,a%20credit%20(Cr)%20entry.)
+              - [Non-current Assets Held for Sale and Discontinued Operations](https://www.hkicpa.org.hk/ebook/HKSA_Members_Handbook_Master/volumeII/hkfrs5.pdf)
+              - A theory of Justice --- John Rawls --> BORROWED FROM `log-L`
+                - [link](https://www.consiglio.regione.campania.it/cms/CM_PORTALE_CRC/servlet/Docs?dir=docs_biblio&file=BiblioContenuto_3641.pdf)
+                - Bookmark: 13
+              - 18.S096, Financial Mathematics(MIT)
+                - [1. Introduction, Financial Terms and Concepts](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                  - Videomark: 0:00:00/1:00:29
+                  - _meta_escalate
+                    - MOVE TO `$parent` on COMPLETION of `$parent`
+      - _meta_static
+        - Style: Osmosis
+        - _structure
+          - The Business Organization and its Structure
+          - Organizational Culture and Stakeholders
+          - IT in business
+          - Ethics and Corporate Governance
+          - ESG
+          - History and Role of Accounting in Business
+          - Specific Functions of Accounting and Internal Financial Control
+          - Leading and Managing Individuals and Teams
+          - Recruiting and Developing Effective Employees
+    - Political Science Bundle
+      - Agency Theory
+        - Erudition
+          - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
+            - PROCESSING POINTER FIELD
+              - STRUCT: 7-18
+              - ONCE: 18-20
+              - Sweepmark: 20/538
+            - CURIOUSITY OUTREACH FIELD
+              - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
+                - PROCESSING POINTER FIELD
+                  - Videosweepmark: 0:42/1:36:04
+        - Vids
+          - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
+      - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
+        - Videomark: 5:14/2:05:53
+      - Power and Politics in Today’s World
+        - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
+          - Videomark: 0:54
+    - DISCOVERED CAREER PATH
+      - Corporate liquidator
+        - Finantial mathematics
+          - Require HIGH-PROFILE certificates
+      - Risk specialist
+        - Due diligence investigator
+          - Require HIGH-PROFILE certificates
+  - POINTER CONDITION
+    - TOPIC Law, regulation, justice, politics
+    - **DELINQUENCY AVOIDANCE** | **POINTER** before noon
+    - CRITERIA: OR
+      - INTENSITY: LOW
+        - **10** minutes of dual-subtitle reading
+      - INTENSITY: MEDIUM
+        - Read **5 page** of a book in French of your choice with `reverso`      
+      - INTENSITY: HIGH
+        - **5** minutes of simultaneous interpretation(bilingual or trilingual)
+          - Doable with double-subtitle assistance to reduce the weight imposed on the brain dynamically, if too easy, try to interprete without dual-subtitle, if too hard, try to interprete with dual-subtitle
+- German - Upper C1
+  - *Beeilung!*
+    - *Sie sollen die Intensität der ihre Studium auf Deutsch gründlich erhöhen, um Goethe Zertifikat C1/C2 zu bekommen*
+    - *Jetzt fangen Sie an, irgendwas nur auf Deutsch in diesem Bereich zu schreiben*
+    - *Sie sollen mehr Eingabematerialien erhalten, um Ihr Eingabeverarbeitungssystem zu trainieren*
+    - *You can either train hard or train long - Jeff Cavaliere | Sie können entweder hart trainieren oder lange trainieren*
+  - _meta_ escalate
+    - _meta
+      - related
+        - `bymaverse`
+    - To better accomodate your learning which requires more of your innate neural-level skills and proficiency, create a few more meta-learning supplementaries
+      - Specific-performance-driven Neural-level gamification  platform and tracking dashboard
+      - Skill orchestration mapping platform based on knowledge graph
+    - *Stupid and redundant language proficiency certifications involves more STUPID, time-wasting, eating-ones-life-while-guilty-free kind of dialogues, you might want to include these* | Only triggered by exam context encounter
+    - *Your progress in German is getting more and more beyond your control and its energy leak is getting more and more obvious, it could just take another few months for it to catch up with you English/Chinese - Your grasp of German is approaching another singularity*
+      - *Echo from the future: A lengendary-level omni, simultaneous business-value-driven interpretor*
+      - *Furthur slow down the German progress by coupling it with French to make space for other tasks*
+  - Deutsch - Englisch | Zwei-Wege-Simultankenntnisse &lt;-- Zertifikatsprüfung
+    - _meta
+      - source
+        - media.ccc.de
+        - The Royal Institution
+    - MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 5min/day
+      - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
+        - PROCESSING POINTER FIELD
+          - Videomark: 8:20
+      - Stanford CS224W
+        - [CS224W: Machine Learning with Graphs | 2021 | Lecture 3.2-Random Walk Approaches for Node Embeddings​](https://www.youtube.com/watch?v=Xv0wRy66Big&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=8)
+          - Videomark: /27:06
+          - CCS: 13.3%
+          - ?
+            -  SVM, Regression
+          - INBOUND CACHE
+            - Basics & Prerequisites
+              - Coding
+                - Shallow Encoding
+                  - [DeepWalk](https://github.com/phanein/deepwalk)
+                  - [node2vec](https://github.com/aditya-grover/node2vec)
+              - Embedding
+                - [Wiki](https://en.wikipedia.org/wiki/Embedding)
+                - [Google Dev](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
+                  - _meta
+                    - _parent
+                      - [Google Developer | Machine Learning course](https://developers.google.com/machine-learning/crash-course/)
+                - [Graph Embeddings - Neo4j](https://www.youtube.com/watch?v=oQPCxwmBiWo)
+                - ?
+                  - [Embedding Space](https://link.springer.com/referenceworkentry/10.1007/978-0-387-73003-5_573#:~:text=Embedding%20space%20is%20the%20space,Manifold%20Learning)
+                - _meta
+                  - _unknown_depth_parent
+                    - General Topology
+                      - RESOURCE POINTER FIELD
+                        - ASYNC MIRRORED | `erudition-M/Topology for the working mathematician`
+                          - ASYNC MIRRORED | PROCESSING POINTER FIELD
+                            - Struct pointer: 3-9
+                            - bookSweepPointer: 11/459
+                          - Supplementary problem solving
+                            - [Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
+                              - DEPRECATED Videosweepmark: 0:32/8:26
+                            - [Practice problems](https://www.math.uci.edu/~asgor/141_Spring_2017/Final%20practice%20problems.pdf)
+            - ?
+              - Graph Representation Learning
+                - [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
+                  - _meta
+                    - Academic writing technique
+                  - _schema
+                    - _reference
+                    - _prerequisite
+                    - _profiles
+                  - PROCESSING POINTER FIELD
+                    - Papersweepmark: 1/10
+            - `? --> Mathematics - Graph Theory | INBOUND CACHE`
+              - _meta
+                - CONSTANTS _schema_var
+                  - `$1`
+                    - _schema
+                      - Formula
+                      - Sub-elements
+                      - Relationship
+                      - Use cases
+                      - Syntax
+                  - _meta-escalate
+                    - `createIfNotExistsGlobalKnowledgeStructureTemplateSpace()`
+                    - `uploadToGlobalKnowledgeStructureTemplateSpace(this)`
+              - ?
+                - NP-hardness
+                  - _actions
+                    - SEQUENTIAL Create `SPACE` for *Computational complexity theory* if not exists, push to `{SPACE}.INBOUND_CACHE`
+                    - CONCURRENT Create `CONSTANT_SPACE` for proven theorems and push to `{CONSTANT_SPACE}.INBOUND_CACHE | {ACADEMIA}.arsenal`
+                  - Computational complexity theory
+                    - _erudition
+                      - [Computational Complexity: A Modern Approach](https://users.cs.duke.edu/~reif/courses/complectures/books/AB/ABbook.pdf)
+                        - PROCESSING POINTER FIELD
+                          - STRUCT FIELD: 5-16
+                            - _meta
+                              - STRUCT_TYPE
+                                - BOOK_CONTENTS
+                                  - _meta
+                                    - INNER_STRUCT_TYPE
+                                      - Canonical Plan of Attack
+                                        - `searchRootProcessing(_this)`
+                                  - Canonical Plan of Attack
+                                    - `searchRootProcessing(_this)`
+                          - Booksweepmark: 8/562
+                        - RTFM FIELD
+                          - Renormalization
+                        - PROFILE FIELD
+                          - Hugh Everett
+                        - CURIOSITY OUTREACH FIELD | CAPACITY 5 DEPTH 3
+                          - _meta
+                            - Capacity
+                          - _method
+                            - `detachOnThresholdReached`
+                          - Shor's algorithm
+                            - [Quantum computing IBM](https://quantum-computing.ibm.com/composer/docs/iqx/guide/shors-algorithm) | 2%
+                            - [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
+                              - PROCESSING POINTER FIELD
+                                - Videosweepmark: 5:13/31:17
+                              - CURIOSITY OUTREACH FIELD | CAPACITY 1 DEPTH 1
+                                - Bell's theorem
+                              - CURIOSITY OUTREACH FIELD CACHE
+                                - EPR Paradox
+              - ?
+                - Node embedding
+                  - Zachary's Karate Club network
+                - ??
+                  - ?: Bag-of-colors, efficient way
+                    - Weisfeiler-Lehman Kernel
+                      - Color aggregation
+                      - _relationship
+                        - Graph Neural Networks
+                      - ?
+                        - *K-hop*
+                    - Graphlet Kernel
+                - Methods
+                  - Kernel Methods
+                    - Graph Kernel
+                      - _meta
+                        - goal
+                          - Design graph feature vector $\phi (G)$
+                        - Key Idea: Bag-of-Words(BoW) for a graph
+                      - Graphlet Kernel
+                      - Weisfeiler-Lehman Kernel
+                      - _proto
+                        - `expandInstance(origin)`
+                    - _supplement
+                      - Stanford CS229
+                        - [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
+                          - PROCESSING POINTER FIELD
+                            - Videomark
+                - Tasks
+                  - Link-Level Prediction Task
+                    - Links missing at random
+                    - Links over time
+                      - Given $G[t_0, t_{0}^{'}]$ a graph on edges up to time $t_{0}^{'}$, output a ranked list L of links(not in $G[t_0, t_{0}^{'}]$) that are predicted to appear in $G[t_1, t_{1}^{'}]$
+                      - Evaluation
+                        - $n=|E_{new}|$: # new edges that appear during the test periord $[t_1, t_{1}^{'}]$
+                        - The top *n* elements of L and count correct edges
+                    - Link Prediction via Proximity
+                      - [Lecture12. Link Prediction - Leonid Zhukov](https://www.youtube.com/watch?v=hm-mo2wXnzo)
+                        - Videomark: 0:27/52:48
+              - Node Features
+                - Clustering Coefficient
+                  - _schema
+                    - INHERIT `$1`
+                - _category
+                  - Distance-Based Features
+                    - Shortest-path distance between two nodes
+                      - _method
+                        - Captures # neighboring nodes shared between two nodes $v_1$ and $v_2$
+                        - Computing #paths between two nodes
+                      - Common neighbors
+                      - Jaccard's coefficient
+                      - Adamic-Adar index
+                      - Katz index
+                        - _schema
+                          - INHERIT `$1`
+                        - Canonical
+                          - $S_{v_1 v_2} = \sum_{l=1}^{\infty} \beta^l A_{v_1 v_2}^l$
+                        - Closed-form
+                          - $S=\sum_{i=1}^{\infty} \beta^i A^i = (I - \beta A)^{-1} - I$
+                            - $(I - \beta A)^{-1} = \sum_{i=0}^{\infty} \beta^i A^i$ by geometric series of matrices
+                  - Importance-based features
+                    - _use-case
+                      - Predicting influential nodes in a graph
+                    - Node degree
+                    - Different node centrality measures
+                  - Structure-based features
+                    - _use-case
+                      - Predicting a particular role a node plays in a graph
+                    - Node degree
+                    - Clustering Coefficient
+                    - Graphlet count vector
+                  - Distance-based features
+                  - Local Neighborhood overlap
+                  - Global neighborhood overlap
+                - _relationship
+                  - RELATIONSHIP_PREREQUISITE GraphLet
+                    - _prerequisites
+                      - *Non-isomorphic graph*
+                        - _schema
+                          - INHERIT `$1`
+                      - *Subgraph*
+                        - _schema
+                          - INHERIT `$1`
+                    - _schema
+                      - INHERIT `$1`
+                - Node centrality
+                  - Closeness centrality
+                  - Betweenness centrality
+                  - Eigenvector centrality
+                    - _schema
+                      - INHERIT `$1`
+                    - Relationship
+                      - Perron-Frobenius Theorem
+                - Graph Degree Vector(GDV)
+                  - _schema
+                    - INHERIT `$1`
+                - Global Neighborhood Overlap
+          - _bymaverse --> `MOVE TO BYMAVERSE ON COMPLETE`
+            - Matrix Graph Visualization
+              - _self
+                - value
+                - equivalent orchestration alternative
+              - Resource
+                - [15:39~](https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=4)
+          - BFS source
+            - _struct
+              - Information/knowledge
+              - Relational structures
+              - Similarity networks
+              - Software
+            - EmTech
+            - Social innovation
+              - **Social Networks**
+            - FinTech
+              - **Economic networks**
+            - Management
+              - **Communication networks**
+            - Academia
+              - Citation networks
+            - Web 3.0
+              - **Internet**
+            - BCI/ACI
+              - **Network of Neurons**
+            - _underlying-infra
+              - Regulatory networks
+              - **Code Graphs**
+              - **3D Shapes**
+              - Molecules
+              - Scene graphs
+    - English --> Deutsch
+      - _source
+        - Royal Institute
+      - [The cell programming revolution – with Mark Kotter | The Royal Institution](https://www.youtube.com/watch?v=jrVQXHmxH7Y)
+      - [Qiskit Global Summer School 2020 — The Largest Global Quantum Computing Summer School](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+      - [Mathematik Matura Corona Kurs Teil 7 von 15 Finanzmathematik & Investitionsrechnung](https://www.youtube.com/watch?v=DidxsGqVmNc)
+    - Deutsch --> Français
+      - [BahnMining - Pünktlichkeit ist eine Zier (David Kriesel)](https://www.youtube.com/watch?v=0rb9CfOvojk) --> **ACTIVE** 1min/day
+        - Videomark: 35:20/1:01:49
+    - Deutsch --> English
+      - [Auf ein Wort...Mathematik | DW Deutsch](https://www.youtube.com/watch?v=RPjHuxCES9Q)
+    - Daily, Mundane contents --> **HALT** 1min/day
+  - Coding
+    - _meta_escalate
+      - Create frontend `knowledge graph` for sustainable frontend developer journey exploration
+        - PREREQUISITE Theory & Skill efficiency on `knowledge graph`
+  - Puzzle games 
+    - Chess
+  - Comprehensive development path
+    - AI workshop --> ACTIVE ON `Blockchain complete`
+      - BLOOM
+        - [huggingface](https://huggingface.co/docs/transformers/model_doc/bloom)
+      - GPT-3
+        - Basics
+          - [GPT 3 Tutorial | GPT 3 Explained | What Is GPT 3(Generative Pre-trained Transformer 3)? |Simplilearn](https://www.youtube.com/watch?v=pT9-a3lT1Ak)
+          - [Create an AI Blog Writing Tool with OpenAI and GPT-3 Artificial Intelligence](https://www.youtube.com/watch?v=jZW4W02iRBA) --> **ACTIVE | 3 min/day**
+            - Videomark: 1:11:00/1:31:17
+            - BLOCKAGE
+              - [x] OpenAPI ist im dies Standort nicht verfügbar
+            - Shallow Hands-on Track
+              - Local Link: `stupid-ai-blogger`
+              - Source
+                - [AI Blog Writer with OpenAI GPT-3](https://github.com/skolo-online/ai-blog-writer-openai)
+            - Resource
+              - OpenAI
+              - Jarvis API
+        - Wudao
+      - DALL-E
+        - Waitlist
+          - [Open AI |  Dall·E 2 Waitlist](https://openai.com/dall-e-2/)
+        - [OpenAI DALL·E: Creating Images from Text (Blog Post Explained)](https://www.youtube.com/watch?v=j4xgkjWlfL4)
+    - Learn Physics via games - *No more books for physics learning - The time has come*
+      - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+        - DEVIATION: In tandem with **Dutch**
+    - Master Math by Coding in Python
+      - *No German Subtitle available*
+      - Tool: JetBrains - Datalore
+        - [Datalore](https://datalore.jetbrains.com/notebook/)
+    - **Web 5.0+**
+      - **DAO** --> **ACTIVE** 10min/day
+        - Blockchain A-Z™: Learn How To Build Your First Blockchain --> **ACTIVE** 10min/day --> 2X speed & SHALLOW HANDS-ON
+          - *This piece of sxxt is missing proof of stake, need supplmentary info*
+          - RULE
+            - *If one video is longer than 10 minutes, ramp up to the length of its video but not more than 100% time surcharge*
+          - CCS: 77.7%
+          - TEMP TIMESTAMP: 4
+          - ETC: 0.74 months
+          - INBOUND CACHE
+            - **DAO**
+              - **Zachmann framework**
+              - *DAOs, DACs, DAs and More:: An Incomplete Terminology Guide - Vitalik Buterin*
+                - [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+                - [Code](https://github.com/blockchainsllc/DAO)
+            - ?
+              - [ETH Gas Station](https://ethgasstation.info/)
+              - Elliptic-curve cryptography
+              - Etherscan
+              - [UTXO Model](https://www.investopedia.com/terms/u/utxo.asp)
+            - SegWit
+              - Understanding Segwit Block Size
+          - Directions?
+            - ASICs design
+              - *Nope, I sense that it is reaching the point of diminished return to my knowledge as per now*
+              - *Could be useful to help out with other Endeavour*
+          - Code
+            - [cedricwalter - blockchain-consensus](https://github.com/cedricwalter/blockchain-consensus)
+            - [crypto-algorithms - BCon](https://github.com/B-Con/crypto-algorithms)
+              - SHA256
+                - [SHA 256 | SHA 256 Algorithm Explanation | How SHA 256 Algorithm Works | Cryptography | Simplilearn](https://www.youtube.com/watch?v=nduoUEHrK_4)
+                  - Videomark: 1:34
+          - Tools
+            - [Blockchain Playground - anders94](https://tools.superdatascience.com/blockchain/hash)
+            - Mining Pool
+              - SLUSH POOL
+          - Use cases
+            - Chooseing ASICs for Sia
+          - Books & Articles
+            - [blockchain.com](https://www.blockchain.com/)
+            - An in-depth guide into how the mempool works - Marion Deneuville
+            - A (Short) Guide to Blockchain Consensus Protocols - Amy Castor 2017
+            - [Cryptography in Context](https://webspace.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf) --> DISPERSE & ARCHIVE ON COMPLETE
+              - Bookmark Field
+                - Sweep: 10/199
+                - \$C1: 10
+              - Style: Paper-wise Split, Casual
+              - `children`
+                - \$C1: On the Secure Hash Algorithm family
+            - The Blockchain Economy: A beginner's guide to institutional cryptoeconomics - C.Berg, S.Davidson & J.Potts
+            - The Meaning of Decentralization - Vitalik Buterin
+              - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+            - Re: Bitcoin P2P e-cash paper
+          - P.O.I
+            - Stuart Haber & W.Scott Stornetta
+              - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
+          - [Superdatascience](https://www.superdatascience.com/blockchain/)
+    - Cloud Computing
+      - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
+      - Learn AWS The Hard Way
+  - Foundations for LIFETIME_PURSUIT
+    - Complexity theory
+      - Related Mathematics
+    - Data Structure & Algorithm
+    - Competitive Programming
+      - _manual-control-override
+        - Advanced React and Redux
+        - NestJS Zero to Hero - Modern TypeScript Back-end Development --> **ACTIVE** --> zumindest 10 minutes pro Tag
+          - CCS: 42.3%
+          - E.T.A: 2.7 months
+          - [x] BLOCKAGE
+            - [x] reinstall `docker`
+            - [x] install `pgAdmin`
+            - [x] pgAdmin is updating new functionalities
+              - No way
+            - [x] Nest.js to AWS RDS
+              - [x] [Creating a VPC endpoint policy for Amazon RDS API](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/vpc-interface-endpoints.html)
+              - [x] [Error Connecting to RDS AWS DB from nestjs Unable to get local issuer Certificate](https://stackoverflow.com/questions/68071200/error-connecting-to-rds-aws-db-from-nestjs-unable-to-get-local-issuer-certificat)
+              - [x] `[Nest] 21824  - 17.07.2022, 16:24:00   ERROR [TypeOrmModule] Unable to connect to the database. Retrying (6)... Error: connect ETIMEDOUT`
+                - [x] [How can I troubleshoot connectivity to an RDS instance that uses a public/private subnet of a VPC?](https://www.youtube.com/watch?v=PxFZt8MG2ss)
+                  - Videomark: 5:47
+                  - Timelimit: 5/5 min
+                  - [x] Cloud9 
+                    - [x] Connect to RDS
+                    - [x] API testing
+                  - [x] Clean up
+            - [x] NEW BLOCKAGE
+              - [x] `TypeError: this.taskRepository.createTask is not a function`
+            - [x] **OVERRIDE: Shallow Hands-on only with compensation with higher value endeavour**
+              - [x] [Course Code](https://github.com/arielweinberger/nestjs-course-task-management/tree/s3-persistence)
+            - [x] NEW NEW BLOCKAGE
+              - [x] `$ STAGE=dev nest start --watch - Der Befehl "STAGE" ist entweder falsch geschrieben oder`
+                - `cross-env`
+            - \(Nest.js + TypeOrM\) * \[Breaking changes due to versioning\] + Webpack - Ganging up
+              - MINION 1: The version of TypeORM and @nest.js/typeorm dated to 2 years ago, which introduce radical breaking changes, if you create nest project through CLI, whatever the course guide you to do will not work
+              - MINION 2：This root above trickles down to Module structure, TypeORM integration, repository configuration, entity structure, decorator syntax and more
+          - Nest.js WTF-tree
+            - `ERROR [ExceptionHandler] No repository for "TaskRepository" was found. Looks like this entity is not registered in current "default" connection?`
+              - [Custom Repo without extends error: No repository for was found. Looks like this entity is not registered in current "default" connection?](https://stackoverflow.com/questions/63159117/custom-repo-without-extends-error-no-repository-for-was-found-looks-like-this)
+            - `Error: Collection "@nestjs/schematics" cannot be resolved.`
+              - [Error: Cannot find module '@nestjs/schematics/package.json' ](https://github.com/nestjs/nest-cli/issues/613#issuecomment-602235328)
+                - `yarn global add @nestjs/schematics`+ update
+            - `Lodash` cannot call problem
+      - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of Nest.js & Advanced React**
+        - CCS: 4.2%
+        - ETC: /
+        - TEMP TIMESTAMP: 0
+        - Meso-memory field
+          - Store struct pointer data in heap in C/C++
+            - `p->{Mitglieder}={Wert}; // Scheisse! :3`
+            - `p->(struct {derselber Name} *)malloc(sizeof(struct {derselber Name})); // Du blöder Wichser, fick dich!`
+        - [Online GDB](https://www.onlinegdb.com/)
+      - Codeforces
+        - Constructive Algorithm --> **HALT**
+          - Noob to Expert | Topic Stream
+            - [Complete Dynamic Programming Practice - Noob to Expert | Topic Stream 1](https://www.youtube.com/watch?v=zDEQaDl3cso&list=PLDjGkpToBsYCaRoQ-_S5MRxYMuKgHD62w&index=1) --> **HALT**
+              - Videomark: 5:02/3:07:28
+              - Problemsetmark
+                - 3-palindrome - Mashup A
+              - Style: Hands-on
+              - Resources
+                - Problemset link
+                - Problem difficulties
+      - LC
+        - Basic training only with video in German-English Subtitles
+          - DP - MSSP - 5min/10min
+    - Neuroengineering
+    - Software Engineering & System Design
+  - TOPIC Philosophy, psychology, law
+    - German philogophy
+      - Fredrick Nitszsche
+- Italian - Lower B2 --> ACTIVE, OPTIONAL 3min/day
+  - TOPIC: Fashion, design, art, furniture, la boutique, music, RUSE, trickery, scheme, marketing & PR, micro-psychology(zero-sum-game-based)
+  - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
+  - TOPIC: Romance, hope, anything irrational, extravagent about human beings
+  - Music Theory Comprehensive Complete! (Parts 1, 2, & 3)
+  - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
+    - VOCAB\_FIELD \{CAPACITY_SETTING\}
+      - _meta
+        - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+        - mode: FIFO
+        - capacity: \{CAPACITY_SETTING\}
+      - _processing
+        - _inherit
+          - `ROOT_PROCESSING`
+      - **\{VERB\}** - \{_percentage\}
+      - **\{ADJECTIVE\}**
+        - SAMPLE_ADJECTIVE
+          - Adjective declension
+      - **\{NOUN\}**
+      - **\{ADVERB\}**
+      - TBD
+      - INBOUND CACHE
+        - \{`self`\}
+    - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
+      - [Il PRINCIPE di Niccolò MACHIAVELLI: spiegazione FACILE e VELOCE](https://www.youtube.com/watch?v=qZvriwlDPz4)
+      - Process 1:(Read for learning italian)
+        - Progress: 4/102 `...con gran diligenzia lungamente...`
+    - [Link2 - English translation](https://www.planetebook.com/free-ebooks/the-prince.pdf)
+    - **A higher level of reading efficacy requires at least Italian C1 level to unlock** | Your level: Lower B2
+    - Progress(Slow language learning)
+  - Competitor liquidation & engulfment: Orchestration & Automation
+    - CS toolkit
+      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
+        - CCS: 11.5%
+        - E.T.A: 6 month
+        - Tools
+          - ipinfo.info
+          - whatweb
+        - [x] BLOCKAGE
+          - [x] Blackscreen problem
+            - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
+            - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
+              - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
+              - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
+        - Customized Machine Image
+          - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
+    - Financial toolkit
+      - Forensic Accounting
+      - Financial instrument attack
+    - PR toolkit
+      - Case study
+        - ZXG --> MTG
+    - HR toolkit
+    - MK toolkit
+  - Business Development For Startups and Tech Companies --> **ACTIVE, 1v per Oggi \{10 minuti per quei\}** 
+    - CCS: 23.4%
+    - E.T.A: 5.66 months
+      - *The calculation method should be based on hours instead of counts*
+    - TEMP TIMESTAMP: 10:40
+    - BLOCKAGE: Udemy is down
+    - Tooling --> `*-business_arsenal`
+      - Cold Email
+        - _category
+          - Template
+        - Camtasia, Screenflow, Bcontext
+      - **Follow-up automation**
+        - International
+          - Boomerang
+          - Followup.cc
+        - Domestic
+      - Meeting
+        - Calendly
+    - Erudition
+      - A guide to Making Introduction
+      - The Bandage: Cold Email Formula
+      - Business Development Handbook
+      - The complete guide to writing much better sales emails
+        - [link](https://www.nutshell.com/wp-content/uploads/2019/09/Nutshell_Guide-to-Sales-Emails_1.0.pdf)
+      - [The Human’s Guide To Writing Cold Emails That Don’t Sound Like a Spammy Robot](https://salesfolk.com/img/Human_Guide_Cold_Email.pdf)
+    - ? --> `*-business_arsenal`
+      - SEQUENTIAL Predefined metric
+      - CONCURRENT Business reconissance
+        - Entity Identification & Profiling
+          - Search Engine
+            - Google, Bing, DDG, Яденкс
+          - Personal/Backdoor network 
+          - Competitor Sites(Partners/clients)
+          - The Internet
+            - [similarsites.com](https://www.similarsites.com/)
+            - [Manta](https://www.manta.com/)
+            - LinkedIn
+              - Mining
+                - Existing prospects' previous work histories
+                - Company followers
+                - Company page: people also viewed
+              - Stealth
+                - Signalhire - Could be Stale but `archive-ish`
+                  - API exploitation
+          - Domestic context
+            - *You have the right to shut up*
+      - SEQUENTIAL IF ZERO Business Partnership
+        - Partner Market Evaluation
+          - How rich is the market with ideal partners given your integration strategy?
+            - _self
+              - Italian
+                - *Come è che questo significa in realtà è capire come è ricco il mercato con i partner ideali data la tua strategia di integrazione*
+            - Are there enough meaningful partners to make this growth strategy effective?
+          - Are these relationships repeatable across partners or are there clear conflict of interests?
+            - _self
+              - Italian
+                - *Vuoi chiedere a te stesso se queste relazioni in questo ricco mercato di partner sono ripetibili tra partner o c'è un conflitto di interessi e ciò che intendo è una brutta relazione con uno di questi partner ideali*
+        - Partner Evaluation
+          - Meaningful, but not the biggest fish in the pond
+            - *Dovrebbero mirare a qualcosa che sia significativo ma non necessariamente il più grande pesce nello stagno*
+            - CUT THE CLUTTER
+          - Goal
+            - To drive growth
+              - *Guidare la crescita*
+            - Obtain understanding about this growth channel
+              - *Ottenere una comprensione di questo canale di crescita*
+            - Achieve verifiable results for a case study
+              - *Raggiungere i risultati incaricati del caso studio*
+            - Social Proof
+              - *Una prova sociale*
+        - Initial Partnership
+          - Friendly companies
+            - PROS
+              - Initial buy-in required for momentum and case studies is easier to get from friends
+                - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
+            - SEQUENCE
+              - Determine the companies that you have a warm relationship with that might make sense
+                - *Determinare tutte le società con cui hai relazioni affettuosi*
+              - Before you go about creating a pitch see if you can have a candid conversation about their hierarchy of needs and priorities
+                - *Prima di iniziare a creare un Pitch che tu proponi una soluzione esatta e tutte le cose che vuoi, prendere la mentalità che la cosa migliore che puoi fare inzialmente è semplicemente avere una conversazione sincera per capire davvero se c'è qualche possibilità che le tue aziende lavorino insieme data la loro gerarchia e priorità*
+              - Come back with
+                - Clear value proposition
+                  - *Una chiara proposta di valore*
+                - Frictionless set up
+                  - *Iniziare senza freni*
+                - Agreed-upon process
+                  - *Un processo concordato*
+                - Agreed-upon follow up to next steps
+                  - *Il follow-up specifico ai prossimi passi*
+          - Un-friendly companies
+            - PROS
+              - Unbiased feedback
+                - *Un feedback imparziale*
+            - SEQUENCE
+              - A hit list, a list of every prospective partner, client, customer etc
+                - Items
+                  - Company name
+                  - Last day of contact
+                  - Activity(on last day of contact)
+                  - Stakeholder or decision maker
+                  - Email address
+                    - Mailtester
+                  - Prioritization mechanism(SOP)
+                - Container
+                  - Sales tracking software(Salesforce, Highrise)
+                  - Stride(low volume, high leverage contacts)
+                  - "Make one yourself for fun"
+                - `Meeting note as code`
+                - Batch Processing SEQUENTIAL
+                  - Start by getting all the companies
+                  - Finding the stakeholder at each company
+                  - Finding the stakeholder's email address and/or phone
+        - Early Partner Evaluation Framework
+          - _alt
+            - 1
+              - Most important metric
+              - Ideal customer and their intent
+              - Partner fit
+          - Size of opportunity
+          - Culture fit(engineering, design, etc)
+          - Track record
+            - Easy to work with or a giant pain?
+        - Parner Evaluation Recon
+          - **Look at their website or articles revealing metrics**
+            - **Model the SOP**
+          - **Try to find people that have worked with them before**
+            - **Partners or clients section on their website**
+          - **Look at past deals and try to get a sense of whether they were successful**
+      - CONCURRENT BD Growth Strategy
+        - What route can your company realistically handle at this point?
+          - *Se una via in cui la tua azienda gestisce realisticamente la disciplina, hai abbastanza ingegneri per fare rapporti di prodotto?*
+        - Where do you possess leverage in the market?
+          - *Più basso e per quello che stiamo facendo, dove riusciamo a sfruttare nuovamente il mercato?*
+        - What can you test quickly?
+          - *Vuoi chiederti cosa puoi dirci velocemente?*
+          - And who can you do this with?
+            - *È una persona che potrebbe essere in grado di fare il test in fretta o è qualcuno con una storia di essere incredibilmente lento e davvero difficile da lavorare*
+      - SEQUENTIAL Find The Initial Stakeholder
+        - _attitute
+          - Effective
+          - Fast
+          - Non-obstrusiveness when possible
+        - Find that person
+          - Rocketreach
+        - Pre-reaching Hitlist
+          - Entity profiling
+            - Maltego
+              - LinkedIn
+              - Grey Web
+            - Existing Network
+            - Informational cold call
+            - Press release
+            - Social Media
+              - Frontend extensive informational exploitation
+            - Comments section of relevant articles
+            - Former exmployees
+        - Outreach and Approaching Partners
+          - Initial Pipeline
+            - _timeout-hack
+              - flow strategy
+            - Informational Cold Call Script
+            - Nay-analysis graph
+              - Nay reason 1
+              - Nay reason 2
+                - Counter procedure 1
+                - Counter procedure 2
+          - Target selection
+            - Past stakeholder
+    - _meta-escalate
+      - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
+        - Deal with humen being
+          - Take an active interest in your contacts' lives outside of just your working relationship
+          - Be attentive to the relationship(thoughtful emails, gestures etc)
+          - Strive for face time early and often
+        - Scare humen being with numbers
+          - Define metrics before engaging in partner activities
+          - Set up proper monitoring systems and schedule regular reviews
+          - Conduct post-mortems after the partner activity and compile a written analysis of the metrics
+        - Filter out Idiots, Weaklings, Clowns...
+          - Establish in writing the top 1-3 priorities of the BD function, in order of importance
+            - i.e. drive new user signups, drive existing engagement
+          - Consult these priorities before every major decision
+          - Use metrics, perform post-mortems, and test frequently to understand 80/20 of actions(marketer mindset)
+        - Yeah, forgive and forget, *"NAMASTE"*!
+          - Reframe rejection as data collection
+          - Separate your self-worth from the rejection
+          - Anything activity you sense hesitation around should be scheduled(i.e. cold calling)
+        - KISS & SIMP
+          - A fleet of automated templates
+          - Be aware at all times that most people generally opt for the path of least resistance
+          - Build the habit of doing post-mortems that explicitly focus on bottle-neck identification
+            - Where was the compliance breakdown
+        - Ideal Partner
+          - Serves this very specific customer
+          - Has this many users/customers
+          - Possess this company DNA
+            - Cultural and working relationship fit
+          - Desires this benefit we can provided(priority)
+          - Will never build this themselves(product integration)
+  - Music/Composing Theory
+    - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
+    - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
+  - The Complete Presentation and Public Speaking/Speech Course
+  - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+    - CCS: 10.8%
+    - TEMP TIMESTAMP: 2:00
+    - Style: Italian, Rigorous, Recap
+      - *You already have a lot of experience, time to be more PEDANTIC for a change!*
+  - [Advanced Scripting & Tool Making using Windows PowerShell](https://www.udemy.com/course/advanced-scripting-tool-making-using-windows-powershell/learn/lecture/9484740#overview)
+  - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more
+    - CCS: 10.8%
+    - TEMP TIMESTAMP: 2:00
+  - RIGGED HIDDEN CAREER PATH
+    - Musician, Designer(ACCD at older age for sport), Rip Van Winkle
+- Spanish - B1
+  - No change, next stage E.T.A 5 months
+  - TOPIC Project, Product, Service
+  - TOPIC Innovation
+- Portuguese - B1 --> HALT, OPTIONAL 1min/day
+  - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
+  - Initialization of language/meta structrure: 100%
+    - ENTERING HIBERNATE MODE
+    - Restarted on 2022/6/7
+  - TOPIC: Copywriting
+  - TOPIC: WTF?
+    - AWS CloudFormation Master Class v2 [2022]
+      - CCS
+    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible**
+      - CCS: 37.8%
+      - E.T.A: 6.91 months
+      - TEMP_TIMESTAMP
+      - BLOCKAGE --> To `WTF-tree --> AWS` 
+        - [x] Permission problem
+          - Symptom
+            - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
+              - 20%
+            - `AWS SQS not visible in AWS Lambda destination`
+          - Solution
+            - Add `AWSLambdaSQSPollerExecutionRole` to Lambda
+      - Environment
+        - [x] Cloud9
+      - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
+- _helper-function --> `_root_processing-language-meta`
+  - LASTING STATE
+    - *Rigorously Customized Integration*: For course-bounded Hands-on, if there be more prominent value-generating Hands-on equivalent available, commence override and only preserve the lanugage-learning specific activities 
+    - *Keep the priorities tight*: Due to the increasingly crazier schedule, shrink down all the `meta-depth` for all trees and only preserve **the MOST VALUABLE pathways** and **metas**
+    - TEMPORARY | *Consolidate everything in the brain*: Physical limitations concerning intellectual mobilities are always the main bottleneck for mankind, and the brain is the most powerful organ in the body, leverage the external structured storage and well-trained and well-guided brain to consolidate all the information in the brain, i.e. less writing, more neurological software transformation
+      - **For some local structures, it is mature enough for future neural-level consolidation, amplification, and is ready to be trained to your current limit of intelligence and push it beyond with rigorous meta-digging methods, future actions pending for discussion**
+  - Language addiction analysis
+    - Ad-hoc Addiction Control
+      - *You need managed action protocol to trim down time*
+      - Categorization
+        - High Impact | Post-plateau effort
+          - English, Chinese, German
+        - High Impact | Pre-plateau effort
+          - French - 60%, Spanish, Portuguese, Japanese
+        - Medium Impact | Post-plateau effort
+        - Medium Impact | Pre-plateau effort
+          - Italian, Russian, Arabic, Korean, Hindi
+        - Low Impact | Post-plateau effort
+        - Low Impact | Pre-plateau effort
+          - Finnish
+      - 2022/7/26
+        - ITALIAN: Half effort
+    - Actual Addiction Manifestation
+      - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
+        - 2022/8/1
+        - TEMPLATE
+          - Time consumption report
+          - Energy consumption report
+          - Monthly Performance Improvement Plan
+            - Time consumption reduction plan
+            - Energy consumption reduction plan
+      - _meta-escalate
+        - TARGET: `ROOT_SCHEDULER`
+          - Context: *Root scheduler demands transcript of time consumption of daily reoccuring activities, encapsulate its context field as well as time block in a centralized space for furthur management, experimentation and agile time management*
+      - Action
+        - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
+        - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
+      - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
+      - Canonical Duration: 2.5~3 Hours
+    - Control technique
+      - Asynchronous Blockage removal
+      - Reduce time consumed by learning curve
+      - Reduce time consumed by discipline
+      - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
+      - Upgrading `ROOT_SCHEDULER` to unlock more strategies
+  - Mindset Field
+    - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
+      - _meta-escalate
+        - *Even this, langaur is not even remotely enough, I want this pattern to propagatema to every last bit of manifested interaction, homeostasis if possible, even every last bit of quark-particle-level movement, ideally, it will creep into the occult realm*
+      - _meta
+        - erudition
+          - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
+            - Bookmark Field --> *In the future, Bookmark Field will be renamed to PROCESSING POINTER FIELD*
+              - Sweep: 20/1736
+              - Pruned: 0-15
+              - Struct: 15/15~18
+  - Efficient International Input for other languages
+    - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
+    - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
+      - Use System Default Searching and copy, paste from there to do the job without extra keystroke
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - **\{VERB\}** - \{_percentage\}
+    - **\{ADJECTIVE\}**
+      - SAMPLE_ADJECTIVE
+        - Adjective declension
+    - **\{NOUN\}**
+    - **\{ADVERB\}**
+    - TBD
+    - INBOUND CACHE
+      - \{`self`\}
+- Finnish - N/A
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - **\{VERB\}** - \{_percentage\}
+    - **\{ADJECTIVE\}**
+      - SAMPLE_ADJECTIVE
+        - Adjective declension
+    - **\{NOUN\}**
+    - **\{ADVERB\}**
+    - TBD
+    - INBOUND CACHE
+      - \{`self`\}
+- Arabic - Lower A2
+  - Initialization of language/meta structrure: 77.9%
+  - TOPIC: WTF is this?
+    - [سورة يس، سورة الواقعة تلاوة هادئة تريح القلب للشيخ عبدالباسط عبدالصمد - استمع بنية الرزق والشفاء](https://www.youtube.com/watch?v=OrFo9YuZfqI)
+  - Tool
+    - Tone finder
+      - [ادعم  مشكال](http://tahadz.com/cgi-bin/mishkal.cgi/main)
+  - Typing speed training
+    - Style: In tandem with 
+    - Current typing rate: 2 WPM
+    - Minimum considerable rate: 40 WPM
+    - In tandem viewing keyboard layout
+      - http://www.arabic-keyboard.org/
+      - [Diacritic Typing](https://www.quora.com/What-is-the-easy-way-to-type-Arabic-with-diacritics-I-want-an-app-or-software-that-can-help-me-to-add-diacritic-on-text)
+        - Shift+Q: Fathah
+        - Shift+A: Kasrah
+        - Shift+E: Dammah
+        - Shift+W: Fathah tanwin
+        - Shift+R: Dammah tanwin
+        - Shift+S: Kasrah tanwin
+        - Shift+X: Sukun
+        - Shift+~: Tasdid
+  - ON HALT | Energy leak by language addiction
+    - 2022/5/13: As the sentence becomes longer, detecting neural-level alternation, new neural pathways are being created, initiate `neural pathway encapsulation mechanism` for future re-use
+      - _meta
+        - *I can't automate this for now*
+        - What...is... neural pathway encapsulation mechanism? Do you have one?
+          - _meta
+            - Do we have a similar counterpart on the *人类共同体* side? Or... *外星人共同体*?
+  - WHIM Daily Alphabet Recap
+  - RANDOM The future foundational ability of prospective entrepreneur --> MOVE TO `startup` ON NEXT ENCOUNTER
+    - MICRO Typing Speed of no less than 200 WPM
+    - MESO | MOBA proficiency
+      - Communication rigor
+      - Politics rigor
+      - Execution rigor
+      - Regulation exploitation rigor
+      - Expertee
+      - Context-driven raw intelligence or pre-built mental facility
+    - MACRO TBD
+  - Symbol Proficiency --> MOVE TO `language_arsenal` ON NEXT ENCOUNTER
+    - [Arabic Keyboard](http://www.arabic-keyboard.org/) 
+  - Kickstart comes after finishing initialization of language structrure of `Portuguese`
+- Korean - TOPIK II
+  - Initialization of language/meta structrure: 36.2%
+  - ON HALT
+  - Kickstart comes after finishing initialization of language structrure of `Arabic`
+- Vietnamese - A2
+  - Initialization of language/meta structrure: 50.8%
+  - ON HALT
+  - Kickstart comes after finishing initialization of language structrure of `Korean`
+- Russian - Lower B1 +
+  - Typing speed training
+    - Style: In tandem with 
+    - Current typing rate: 25 WPM
+    - Minimum considerable rate: 40 WPM
+    - In tandem viewing keyboard layout
+      - https://en.wikipedia.org/wiki/JCUKEN
+  - TOPIC | Preparatory --> ACTIVE 2min/day
+    - Уральская рябинушка
+    - [Щелкунчик и мышиный король (2004) HD](https://www.youtube.com/watch?v=Td9EcZcQe6c)
+    - Мультфильмы Серия - Kids Cartoons
+      - [Мультфильмы Серия - Свинка Пеппа - Новый Эпизод 3](https://www.youtube.com/watch?v=gXjXsaalmIg)
+        - Videomark: 27:16
+        - VOCAB\_FIELD \{5\}
+          - _meta
+            - tooling: Reverso + wiktionary + Russiangram
+            - mode: FIFO
+            - capacity: 5
+          - _processing
+            - _inherit
+              - `ROOT_PROCESSING`
+              - lang_ru_processing
+                - ONCE Conjugation, declension, reflection --> Pattern encoding + Shallow walkthrough
+                - _self
+                  - `func growTree(self, *args, **kwargs)`
+                  - `func contributeToMeta(self, target, *args, **kwargs)`
+          - STATIC
+            - INBOUND_CACHE
+              - Personal pronoun bundle
+                - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 45%
+                  - Personal pronouns | 99%
+                  - Possessive pronouns | 40%
+                    - _memory-helper
+                      - Categorize
+                        - Group 1 - мой, твой
+                        - Group 2 - егó, их
+                        - Group 3 - наш, ваш
+                  - Demonstrative pronouns | 32%
+                - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
+            - **частица**
+              - же - 70%
+            - **цифра**
+            - **предлог**
+              - до - 40%
+            - **Союз**
+              - чем - 10%
+              - же
+            - **личное местоимение**
+              - ты
+                - твой
+              - вы
+            - **глагол**
+              - _schema
+                - по-
+            - **Без рубрики**
+              - какой - 3%
+              - весь
+          - VOLATILE
+            - **глагол**
+              - посчитать - 2%
+              - сделать - 90%
+            - **прилагательное**
+              - взрослый - 70%
+              - художественный
+              - корпоративный
+            - **наречие**
+            - **существительное**
+              - сердце
+            - INBOUND CACHE
+              - ?
+                - остальные
+              - **прилагательное**
+                - сложный
+                - высокий
+              - **глагол**
+                - помочь
+                - необходимость
+                - попробовать
+                - измеряться
+                - понадеяться
+                - управлять
+                - говорить
+                - вырастить
+              - **наречие**
+              - **существительное**
+                - представле́ния
+                - благотворительность
+                - лодка
+                - милый
+                - перевод
+      - [Soviet/Russian movies eng subtitles](https://www.youtube.com/watch?v=a50qT9bW2Qo&list=PLTcRFuH9IaF6Zml6742-j5TTt679RZ1TX)
+        - Иван Васильевич меняет профессию
+  - Tool
+    - Stress finder
+      - [russiangram](https://russiangram.com/)
+        - Plus the chrome extension
+    - Omni Tool
+      - [russiantools.com](https://www.russiantools.com/)
+    - Noun declension checker
+      - [wiktionary](https://en.wiktionary.org/wiki)
+  - ?
+    - https://dabkrs.com/p47
+- Hindi - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - _meta_escalate
+    - WARNING Your language addiction is poking around, waiting for the opportunity to negotiate so that it can spiral out of control
+  - Typing training begins after initialization of language structure
+    - Minimum considerable rate: 40 WPM
+- Dutch - N/A
+  - _meta
+    - tool
+      - Duolingo Browser Version
+  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
+  - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
+  - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
+    - Web3
+      - [Kickstart your Web3 Learning](https://ethereum-blockchain-developer.com/)
+      - remix.ehtereum.org
+      - [Cryptocurrency (And Blockchain) Playbook](https://docs.google.com/spreadsheets/d/1OO06RZ7vw8-Hij8ZxB68FaRYRtQEz3GifnLDNwW8sTs/edit#gid=1051902784)
+      - Introduction to Web3.js Ethereum Blockchain Developer Crash Course
+      - [Web 3.0: Governance, Risks And Safeguards](https://core.ac.uk/download/pdf/37439397.pdf)
+      - [How to Win the Future: An Agenda for the Third Generation of the Internet October 2021](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
+    - Metaverse
+- Greek - Lower A1
+  - VOCAB\_FIELD \{CAPACITY_SETTING\}
+    - _meta
+      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
+        - Sample sentences
+          - [Learnwitholiver](https://www.learnwitholiver.com/greek/)
+      - mode: FIFO
+      - capacity: \{CAPACITY_SETTING\}
+    - _processing
+      - _inherit
+        - `ROOT_PROCESSING`
+    - STATIC | PPROCESSING\_CAPACITY 1
+      - **ερωτηματικός**
+        - _mutation
+        - που - 5%
+        - τίς
+      - **χωρίς κατηγοριοποίηση**
+    - VOLATILE | PPROCESSING\_CAPACITY 1
+      - **ρήμα**
+        - ανακαλύπτω
+      - **επίθετο**
+      - **ουσιαστικό**
+      - **επίρρημα**
+      - Pronoun
+        - αυτή
+          - [All About Greek Pronouns: Ultimate Greek Pronouns List](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 9%
+            - Personal Pronouns in Greek | 25%
+            - Demonstrative Pronouns in Greek | 8%
+            - Interrogative Pronouns in Greek
+            - Indefinite Pronouns in Greek | 5%
+            - ...
+      - INBOUND CACHE ?
+        - **ρήμα**
+          - αντιμετωπίζω | 5%
+          - σχεδιάζω
+          - ξέρω
+        - **επίθετο**
+          - πραγματικός
+        - **ουσιαστικό**
+          - άξονας
+        - **επίρρημα**
+        - **χωρίς κατηγοριοποίηση**
+          - συντεταγμένη
+          - βλέπω
+          - πλέγμα
+          - τό
+  - TOPIC Rigorous science
+    - Linear Algebra
+      - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 1 min/day
+        - Videomark: 31:00/11:40:18
+    - Mathemathical thinking
+      - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
+  - _meta
+    - topic
+      - anatomy
+      - theoretical science
+    - tool
+      - Duolingo Browser Version
+    - prerequisite
+      - *With these tools plus simultaneous learning of Greek, the sense of net loss will be finally compensated*
+      - GPT-3
+      - Minerva
+        - [Minerva](https://github.com/dmlc/minerva)
+        - [Solving Quantitative Reasoning Problems with Language Models](https://arxiv.org/pdf/2206.14858.pdf) --> **ACTIVE** | END ON EOV
+          - Papermark: *success in a variety*
+    - _RULES
+      - Always use Coding/LaTeX-based learning as an initiator, with book + dual-subtitle video as gap filling material for continuous watering
+- Hebrew - N/A
+  - TOPIC: *Is there any meaning in this world? You can't unring the bell, so why are you still alive?*
+- Latin - N/A
+- Japanese - Upper N4
+  - Tool
+    - https://j-talk.com/mqvbpjk
+# STICKY Monthly Micro PIP
+- ACTION ITEM
+  - [ ] Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
+    - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
+    - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
+    - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)
+    - [ ] [Software Engineering: How 'simple' is a real KISS solution? (8 Solutions!!)](https://www.youtube.com/watch?v=V4_Ug2LHi04)
+    - [ ] [PEST Analysis](https://www.youtube.com/watch?v=mCdcdf-b8AU)
+    - [ ] Existing PlantUML & UML course - Monitoring
+    - [ ] VERDICT
+      - [ ] How will you apply this knowledge learned?
+      - [ ] What changes it will impose?
+- Micro-PIP of the month: Strategic Thinking - To Business Entity, and to yourself
+  - *At least tell me how you're going to work on it*
+  - Working system of an enterprise
+    - Strategic System
+    - Coordinating System
+      - Translate strategy into direction & action
+      - Prioritize & Manage
+    - Operating System
+      - Use resource effectively
+      - Execution
+      - Communicate upward
+  - Udemy Course
+  - Differentiation:
+    - Differentiation Worksheet
+      - Identify your most important competitors
+      - How do your competitor differentiate themselves from you
+      - What are the unique resources of distinction your company offers that you don't
+  - Action Items
+    - [ ] Fill the Differentiators and Capabilities Sheet - Navalent
+      - (https://drive.google.com/file/d/1R0tU_K-LYa11Hq-DvSbJHrygVXzKwXD-/view?usp=sharing)
+    - [ ] [Categorizing Your Work](https://drive.google.com/file/d/1NoE_dX138kRLRBeaJ2axRY1F35MtzSnc/view?usp=sharing)
+      - [ ] Competitive Work
+      - [ ] Competitive-Enabling Work
+      - [ ] Business-Essential Work
+      - [ ] Non-Essential Work
+    - 养成习惯 - 要练到你不这样思考会难受的程度
+      - 先达到如此程度, 再选择可以忘掉
+- Micro-PIP series: What else?
+  - You need a tool to describe and communicate your 
+
+
+# STICKY Full-stack developer Performance Improvement Plan
+- [一个优秀的前端工程师应具备哪些技能？](https://blog.51cto.com/u_15065851/2602009)
+  - HTML超文本标记语言
+    - HTML文件的结构
+- 一个优秀的后端工程师应具备哪些技能？
+- 一个优秀的UI/UX设计师应具备哪些技能？
+- 一个优秀的人际沟通艺术家应具备哪些技能？
+- 一个优秀的布道者应具备哪些技能？
+
+# 2022/5/29
+- ...Lanugage learning tip: 大idea通过查询式/中断式BFS链接生成(e.g. 希腊语字母, 韩语部首对梵文字母的大脑渗透具有80%复制黏贴之效果), 批量导入过程优化及idea pool, 小idea及毛细优化点完全通过游戏化APP进行流程外包, 过程控制M&C由语言顾问及bymaverse元宇宙平台进行潜意识nudge, 论(语言)天才的批量自动化生成, 覆盖率从亿分之n达到99.999999%, 如何与外星人抗衡...
+
+# 2022/6/8
+- 创业状态: *即使永远处在不识庐山真面目的状态，也时刻都不能有只缘身在此山中的态度*
+- 基于局部非零和博弈胜出集群(e.g. PR胜出)及分布式网络的总体零和博弈思维, 闷声发大财类型人类的自动化PUA策略
+- So you've made a plan, after a few months: Where TF am I? 
+
+# 2022/6/11
+- Hey Stupid! Time to wake up and use Google Calendar to do the planning!
+
+# 2022/6/12-2022/6/30 - It's gonna be a tough one
+## Main theme： How the hell am I going to survive this one?
+- Weight Control Program
+- Micro PIP: Software Estimation(OPTIONAL)
+- AWS SysOps Exam Prep
+  - Count down: 2022/6/27
+- Roll-out
+- 什么叫*zh田园*?
+  - 仨核桃俩枣都得有j臣之分
+  - 君臣之气开始批量涌入下沉市场
+
+# STICKY | 软件特种团队管理
+- 特种团队相当于软件开发团队中的特种部队
+
+# 2022/6/25
+- 当你只会一种语言时
+  - 为guo争光! NNS是福报!
+- 当你会两种语言时
+  - 精致生活, 有序竞争
+  - 优雅闲适, 改变世界
+  - 高效, 成熟, 责任
+- 当你会五种语言时
+  - 全球视野, 全球观察, 全球认可
+- 当你会十五种语言时
+  - 我就想在家碎觉觉耶( •̀ ω •́ )y
+
+# 2022/7/7
+- Hey man, you're losing it, you're gone!
+- You need to plan a long vacation for all of those patterns to sink into your brain
+
+# 2022/7/20
+- Why are you still alive?
+
+# 2022/7/26
+## A snapshot of my pain
+- It's not the boy on the crossroad that I've seen, it's a man, chopped into pieces, each knee deep in multiple main roads and alleys. That boy became a shifter, with multiple people, multiple reality living in the same body from which he can peek into multiple lifelines, multiple lifes. Whether that is real or not, the pain!!! It's always there.
+  - *他不是站在路口, 而是一个身体向无数条路, 无数道门扭曲, 伸展。 无数现实。这时他才意识到, 对他自身来说, 他不需要方向, 他需要一个奇点*
+  - It's too dark! Where am I? Who am I? Where can I get out?
+  - It's this exact moment when he realized, deep down inside, he doesn't need a direction, he needs one single singularity
+- For that he needs necessary sacrifice, he needs to pull himself into reality with the current pain he has, stretch himself even more into darkness, only through greater pain can he finally reach the singularity he is dying for. I believe in powering through, never chickening out
+- Soon, it will manifest, in business context, the story will be writen, but I know that I don't want to be just a writer

@@ -1,0 +1,283 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Centralized personal business dashboard](#centralized-personal-business-dashboard)
+- [Presentation](#presentation)
+- [Scheduling](#scheduling)
+- [AI-assisted Writing](#ai-assisted-writing)
+- [Product](#product)
+- [Investment](#investment)
+  - [Trading](#trading)
+- [Outreach](#outreach)
+- [Recruitment](#recruitment)
+- [话术知识图谱](#话术知识图谱)
+- [BD](#bd)
+- [Mobility](#mobility)
+  - [Context Pool](#context-pool)
+# Centralized personal business dashboard
+- https://bloom.sh/
+
+# Presentation
+- 极客汇报体
+  - [webslides](https://webslides.tv/#slide=1)
+- Pitch
+  - Slidebean
+# Scheduling
+- Calendly
+
+# AI-assisted Writing
+- Jarvis
+
+# Product
+- 需求图谱
+
+# Investment
+## Trading
+- Broker
+  - Uncategorized
+    - WeBull
+    - Yahoo Finance
+  - Forex
+    - Pepperstone
+- All-in-one
+  - MT4 | **BLACKHOLE**
+    - [【外汇交易员】相见恨晚的MT4实用教程](https://www.youtube.com/watch?v=H39P-zS3InU)
+  - gate.io
+    - [2022年中国大陆用户注册芝麻开门（gate.io）交易所【5分钟】的最新最详细方法#芝麻开门注册 #gate注册#Gate.io交易所教學 #Gate.io#gate.io注册#gate.io官网](https://www.youtube.com/watch?v=opcuKwu5C7o)
+# Outreach
+- [Contactout](https://contactout.com/)
+# Recruitment
+- [Rocketreach](https://rocketreach.co/)
+- Signalhire
+- Fact check
+  - [Bloom.co](https://bloom.co/)
+# 话术知识图谱
+- 客户对接
+  - 如何用一句话介绍公司？
+
+# BD
+- Business Development For Startups and Tech Companies --> `*-business_arsenal | Learning italian while accidentally getting BD Mindset in arsenal`
+  - CCS: 100%
+  - _source
+    - LOCKED Reach Spanish C2 Level, Italian C2 level and corresponding Project Management, Product Management, CPA, CFA basic requirements to unlock
+  - _prerequisite
+    - How to identify a problem to solve?
+      - [Kevin Systrom: Finding the Problem is the Hard Part](https://www.youtube.com/watch?v=OkNpsVMT84w)
+      - [Building a Startup is About Solving a Problem - Avni Patel Thompson of Poppy](https://www.youtube.com/watch?v=0W5Jaip5_-g)
+  - _priority
+    - **Speculative Pitch**
+  - Pitching
+    - *Ignore doing any advanced work for pitching section for this course, turn every Y combinator YT vids into a dual German-Italian pitch course dedicated to language learning*
+    - STRUCT Pitch Deck
+      - Conveys your value proposition
+      - Disarms concerns
+      - Contains stories
+      - Sprinkles in questions
+      - Has strategic pauses
+      - Provides clear next steps(defined when deck building)
+  - Tooling --> `*-business_arsenal`
+    - Feeds gathering
+      - Feedly
+      - Newsle
+      - JobChangeAlerts
+    - Cold Email
+      - _category
+        - Template
+      - Camtasia, Screenflow, Bcontext
+    - **Follow-up automation**
+      - International
+        - Boomerang
+        - Followup.cc
+      - Domestic
+    - Meeting
+      - Calendly
+  - Erudition
+    - A guide to Making Introduction
+    - The Bandage: Cold Email Formula
+    - Business Development Handbook
+    - The complete guide to writing much better sales emails
+      - [link](https://www.nutshell.com/wp-content/uploads/2019/09/Nutshell_Guide-to-Sales-Emails_1.0.pdf)
+    - [The Human’s Guide To Writing Cold Emails That Don’t Sound Like a Spammy Robot](https://salesfolk.com/img/Human_Guide_Cold_Email.pdf)
+  - ? --> `*-business_arsenal`
+    - SEQUENTIAL Predefined metric
+    - CONCURRENT Business reconissance
+      - Entity Identification & Profiling
+        - Search Engine
+          - Google, Bing, DDG, Яденкс
+        - Personal/Backdoor network 
+        - Competitor Sites(Partners/clients)
+        - The Internet
+          - [similarsites.com](https://www.similarsites.com/)
+          - [Manta](https://www.manta.com/)
+          - LinkedIn
+            - Mining
+              - Existing prospects' previous work histories
+              - Company followers
+              - Company page: people also viewed
+            - Stealth
+              - Signalhire - Could be Stale but `archive-ish`
+                - API exploitation
+        - Domestic context
+          - *You have the right to shut up*
+    - SEQUENTIAL IF ZERO Business Partnership
+      - Partner Market Evaluation
+        - How rich is the market with ideal partners given your integration strategy?
+          - _self
+            - Italian
+              - *Come è che questo significa in realtà è capire come è ricco il mercato con i partner ideali data la tua strategia di integrazione*
+          - Are there enough meaningful partners to make this growth strategy effective?
+        - Are these relationships repeatable across partners or are there clear conflict of interests?
+          - _self
+            - Italian
+              - *Vuoi chiedere a te stesso se queste relazioni in questo ricco mercato di partner sono ripetibili tra partner o c'è un conflitto di interessi e ciò che intendo è una brutta relazione con uno di questi partner ideali*
+      - Partner Evaluation
+        - Meaningful, but not the biggest fish in the pond
+          - *Dovrebbero mirare a qualcosa che sia significativo ma non necessariamente il più grande pesce nello stagno*
+          - CUT THE CLUTTER
+        - Goal
+          - To drive growth
+            - *Guidare la crescita*
+          - Obtain understanding about this growth channel
+            - *Ottenere una comprensione di questo canale di crescita*
+          - Achieve verifiable results for a case study
+            - *Raggiungere i risultati incaricati del caso studio*
+          - Social Proof
+            - *Una prova sociale*
+      - Initial Partnership
+        - Friendly companies
+          - PROS
+            - Initial buy-in required for momentum and case studies is easier to get from friends
+              - *Facile ottenere un acquisto iniziale quando hai un amico o un contatto in azienda, puoi avere molto più slancio da cose come i risultati verificabili, casi studi, prove sociale*
+          - SEQUENCE
+            - Determine the companies that you have a warm relationship with that might make sense
+              - *Determinare tutte le società con cui hai relazioni affettuosi*
+            - Before you go about creating a pitch see if you can have a candid conversation about their hierarchy of needs and priorities
+              - *Prima di iniziare a creare un Pitch che tu proponi una soluzione esatta e tutte le cose che vuoi, prendere la mentalità che la cosa migliore che puoi fare inzialmente è semplicemente avere una conversazione sincera per capire davvero se c'è qualche possibilità che le tue aziende lavorino insieme data la loro gerarchia e priorità*
+            - Come back with
+              - Clear value proposition
+                - *Una chiara proposta di valore*
+              - Frictionless set up
+                - *Iniziare senza freni*
+              - Agreed-upon process
+                - *Un processo concordato*
+              - Agreed-upon follow up to next steps
+                - *Il follow-up specifico ai prossimi passi*
+        - Un-friendly companies
+          - PROS
+            - Unbiased feedback
+              - *Un feedback imparziale*
+          - SEQUENCE
+            - A hit list, a list of every prospective partner, client, customer etc
+              - Items
+                - Company name
+                - Last day of contact
+                - Activity(on last day of contact)
+                - Stakeholder or decision maker
+                - Email address
+                  - Mailtester
+                - Prioritization mechanism(SOP)
+              - Container
+                - Sales tracking software(Salesforce, Highrise)
+                - Stride(low volume, high leverage contacts)
+                - "Make one yourself for fun"
+              - `Meeting note as code`
+              - Batch Processing SEQUENTIAL
+                - Start by getting all the companies
+                - Finding the stakeholder at each company
+                - Finding the stakeholder's email address and/or phone
+      - Early Partner Evaluation Framework
+        - _alt
+          - 1
+            - Most important metric
+            - Ideal customer and their intent
+            - Partner fit
+        - Size of opportunity
+        - Culture fit(engineering, design, etc)
+        - Track record
+          - Easy to work with or a giant pain?
+      - Parner Evaluation Recon
+        - **Look at their website or articles revealing metrics**
+          - **Model the SOP**
+        - **Try to find people that have worked with them before**
+          - **Partners or clients section on their website**
+        - **Look at past deals and try to get a sense of whether they were successful**
+    - CONCURRENT BD Growth Strategy
+      - What route can your company realistically handle at this point?
+        - *Se una via in cui la tua azienda gestisce realisticamente la disciplina, hai abbastanza ingegneri per fare rapporti di prodotto?*
+      - Where do you possess leverage in the market?
+        - *Più basso e per quello che stiamo facendo, dove riusciamo a sfruttare nuovamente il mercato?*
+      - What can you test quickly?
+        - *Vuoi chiederti cosa puoi dirci velocemente?*
+        - And who can you do this with?
+          - *È una persona che potrebbe essere in grado di fare il test in fretta o è qualcuno con una storia di essere incredibilmente lento e davvero difficile da lavorare*
+    - SEQUENTIAL Find The Initial Stakeholder
+      - _attitute
+        - Effective
+        - Fast
+        - Non-obstrusiveness when possible
+      - Find that person
+        - Rocketreach
+      - Pre-reaching Hitlist
+        - Entity profiling
+          - Maltego
+            - LinkedIn
+            - Grey Web
+          - Existing Network
+          - Informational cold call
+          - Press release
+          - Social Media
+            - Frontend extensive informational exploitation
+          - Comments section of relevant articles
+          - Former exmployees
+      - Outreach and Approaching Partners
+        - Initial Pipeline
+          - _timeout-hack
+            - flow strategy
+          - Informational Cold Call Script
+          - Nay-analysis graph
+            - Nay reason 1
+            - Nay reason 2
+              - Counter procedure 1
+              - Counter procedure 2
+        - Target selection
+          - Past stakeholder
+  - _meta-escalate
+    - MINDSET ADDED | Create a low-context-switch-cost switching mechanism for multi-lateral engagement
+      - Deal with humen being
+        - Take an active interest in your contacts' lives outside of just your working relationship
+        - Be attentive to the relationship(thoughtful emails, gestures etc)
+        - Strive for face time early and often
+      - Scare humen being with numbers
+        - Define metrics before engaging in partner activities
+        - Set up proper monitoring systems and schedule regular reviews
+        - Conduct post-mortems after the partner activity and compile a written analysis of the metrics
+      - Filter out Idiots, Weaklings, Clowns...
+        - Establish in writing the top 1-3 priorities of the BD function, in order of importance
+          - i.e. drive new user signups, drive existing engagement
+        - Consult these priorities before every major decision
+        - Use metrics, perform post-mortems, and test frequently to understand 80/20 of actions(marketer mindset)
+      - Yeah, forgive and forget, *"NAMASTE"*!
+        - Reframe rejection as data collection
+        - Separate your self-worth from the rejection
+        - Anything activity you sense hesitation around should be scheduled(i.e. cold calling)
+      - KISS & SIMP
+        - A fleet of automated templates
+        - Be aware at all times that most people generally opt for the path of least resistance
+        - Build the habit of doing post-mortems that explicitly focus on bottle-neck identification
+          - Where was the compliance breakdown
+      - Ideal Partner
+        - Serves this very specific customer
+        - Has this many users/customers
+        - Possess this company DNA
+          - Cultural and working relationship fit
+        - Desires this benefit we can provided(priority)
+        - Will never build this themselves(product integration)
+
+
+# Mobility
+- Wanderlog
+  - 
+## Context Pool
+- 如何用一句话XXXX？
+  - [如何用一句话介绍公司？](http://www.woshipm.com/marketing/4429459.html)
+  - [【投资笔记】VC如何用一句话概括公司业务？](https://zhuanlan.zhihu.com/p/362870795)
+  - [“你能用一句话概括你的公司吗？”](https://www.jianshu.com/p/315816e567a0)

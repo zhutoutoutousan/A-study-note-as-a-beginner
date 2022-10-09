@@ -1,0 +1,6 @@
+[[_index_software-log_code-study]]
+[[_index_software-log_design]]
+[[_index_software-log_language]]
+[[_index_software-log_vision]]
+[[_index_software-log_web-frontend]]
+[[_index_software-os]][[_index_software-basics]]

@@ -1,0 +1,19 @@
+- DISCOVERED INTEREST
+    - Large Hadron Collider(LHC) design
+    - [Design study of the Large Hadron Collider (LHC) : a multiparticle collider in the LEP tunnel](http://cds.cern.ch/record/220493?ln=en)
+        - Bookmark: 3/219
+- Die Theorie der JJ Thompson auf Physik
+    - LOCKED: Forschrittliche Gabung der grundlicher Physik gebraucht, um mehr zu lernen
+    - INBOUND CACHE
+    - $Z=\int \mathcal{D}(Fields) exp(i\int d^4 x \sqrt{-g} (R-F_{\mu \nu} F^{\mu \nu}-G_{\mu \nu}G^{\mu \nu} - W_{\mu \nu}W^{\mu \nu} + \sum\limits_{i} \bar{\psi}_{i} \bar{\mathcal{D}} \psi_i + \mathcal{D}_\mu H^{+} \mathcal{D}^\mu H - V(H) - \lambda_{ij}\bar{\psi}_i H \psi_j  )$
+        - _edge-cases
+        - BIG BANG - INFLATION
+        - Gravity
+        - Electromagnetism
+        - matter
+        - Strong force
+        - Higgs boson
+        - Weak force
+        - [The Comprehensive LaTeX Symbol List](https://tug.ctan.org/info/symbols/comprehensive/symbols-letter.pdf)
+    - Quantum Vaccum Fluctuations
+    - [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems#:~:text=Hamilton%2C%20upon%20whose%20work%20Perelman,Mills%20existence%20and%20mass%20gap.)

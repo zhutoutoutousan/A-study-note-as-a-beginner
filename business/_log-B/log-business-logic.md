@@ -1,0 +1,2 @@
+# 2021/6/7
+## Supposed you have good talent for language, lacking translation experience, played a ton of games and watched a lot of commentaries, and you'd like to earn money out of it, what's your approach？

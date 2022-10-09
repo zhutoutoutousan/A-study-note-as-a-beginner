@@ -1,0 +1,99 @@
+# Static Internal Mapping & Analysis
+- SELF-TRANSFORMATION: FIVE GUYS - WORK AS A TEAM
+  - Internal struggle
+    - 职业经理人/策划统筹者 -->  M
+      - 2022/3
+        - *NESTED ALTERNATIVE PLAN TREE should have at least depth of 3 and at least 3 paths with less than 20% of PERCEIVED OVERALL EFFORT and 2 folds of NEST OVERALL BENEFIT WITH INTRINSIC COSTS should be available to ensure ECOSYSTEM-INVARIANT INDEPENDENCE both individual and project-based*
+        - *Ensure efficient self-data collection for callibration*
+        - *Everything should be well-documented for effective communication, since you type fast enough as compensation*
+        - *Every process should be automated or at least expedited*
+        - *Don't get hasty, one step at a time, be a realist when it comes to design and implementation*
+        - *You should have a mental Gantt Chart/Network nodes with additional information of all possible projects both occupational and individual in mind, that's the minimum intellectual capability requirement, if not, I sincerely demand that you have before the age of 30s*
+        - *SWBOK, PMBOK, TOGAF, SOP, _law, _money in tandem with projects are musts in your path, don't you shy away from it, get with the system*
+        - *Get with the local ecosystem a.k.a politique against all humiliations and occupational deaths, you can't achieve much being a lone wolf, nor can you achieve anything being a helpless child*
+        - *You can't be irresponsible for every one of your actions, think about the value chain, think about the atmosphere, there's gonna be some motto to live up to*
+        - *Don't you abuse someone else's trust, try everything to achieve it or you should be ashamed by your incompetence or misconduct*
+        - *Build up Trust*
+    - 创业创新者/商人/投机者 & Player & Product --> B
+      - 2022/3/16
+        - Once you convinced yourself of your idea, you will ditch every last bit of introvert trait
+        - *I'm not afraid of death, actually I love dying for multiple times on a minute basis, and I strive to die at a higher rate then gather every last bit of data possible*
+        - *I'm not afraid of hostilities, actually, it gives me the adrenaline boost, it prompts me to focus on what really matters, sometimes I even actively, subconsiously provoke a hostile environment for self adrenaline boost*
+        - *Strike out regardless if you are ready since you're young*
+        - *Patience, hold your horses until you've thought them through*
+        - *Life is too short for long-term grudges*
+        - *During rigorous competitions, one should not be constrained by rigid, ecosystem dependent, era & zeitgeitst-variant moral stipulations unless it affects playing field status or tendencies by public opinion system, actually, the methods should be everything but, being a good hacker is a must to get an edge in the game*
+        - *I HATE repetitive work*
+        - *Zurich Axiom: In the long run, we'd all be dead*
+        - *Design, cultivate a product that would change the world*
+        - *My perceived level of being insufficient has reached yet another level, it's time to ask for help*
+    - 译员/协调者 --> T
+      - *I enjoy seeing people from all parts of the world working together as a team*
+      - *I enjoy helping people from drastically different background understand one another*
+    - 技术人/极客&创客 --> G
+      - 2022/3
+        - *Patience, think out of the box*
+        - *Always try the new things*
+        - *Engineering practices and appetites are to be enforced to oneself, but un-opinionated towards others...unless they are stupid and beyond the pale...myself included*
+        - *What if I piece these things together? What's its business model?*
+    - 学术人/科学家 --> S
+      - 2022/3
+        - *The world is but a giant experimenting field*
+        - *Leave the generation with test data for more insight towards the working principle of this world*
+
+- What I've seen over the last few months
+  - Due to the five concurrent running people, you can't perform each one to the maximum capacity.
+  - I'm pretty surprised the likes of you can endure a labor contract for more than 6 months
+  - You just don't know to look over your shoulder, you're constantly *在死亡线上试探*
+
+# Dynamic Internal struggle analysis --> On the verge of manifestation
+- M
+  - Currently working as main pilot(CPU)
+  - PSYCHOTIC, SHADOW, DANGER Ruse, my favorite
+    - STEM \{MALIGNANT_NARCISSISM\}
+      - NESTED DANGER Future Fortification & Sophistication
+  - ENTJ/ENTP
+- B
+  - Need to gamble bigger, not this chicken head bullshit
+  - You could get cancer in the matter of months for all I care, why aren't you working yourself to death now?
+    - Are you getting goood use of your residual value?
+  - Why aren't you getting into the social-climbing rigor right now?
+  - Why didn't you get your skin in the game now?
+  - Why aren't you in another country yet?
+  - PSYCHOTIC, SHADOW, DANGER I love watching people living a lifestyle worse than death
+    - And I want to make profit from it
+  - PSYCHOTIC, SHADOW, DANGER I love watching competitors die in agony
+    - And I want to make profit from it
+  - *你必须跳下悬崖, 并在下落的过程中自己长出翅膀*
+  - ESTP
+- T
+  - Need a network for connection
+    - FULFILLED
+  - Why aren't you in another country yet?
+  - INTJ
+- G
+  - *I'm happy that I am having an online MOBA video game that generates value, this is the future of efficient resource allocation*
+  - ESTP/INTJ/ISTP
+- S
+  - Why should I get out of my house?
+  - INTP
+
+# D.I.D prevention program
+- Goal
+  - Prevent more rooms and figures to emerge
+  - Minor memory loss
+  - This `tool` will be crutial if you suffer more memory loss due to room changes
+- Tool
+  - Writing and socializing helps slow down D.I.D significantly
+- Current level of DID
+  - LOCKED Helpless child - ALEX 
+    - Speaks English and some Chinese
+  - AT LARGE Entity - Unknown
+    - Speaks 14 languages
+  - CORE Self
+  - ...To be identified
+
+- Your future AI built on top of that can't be this... not so decent
+
+# Self as a system
+- 2022/4/29 Enough for useless, weak, cheap moaning, how would you describe you as a component in your system? Can you code it out?

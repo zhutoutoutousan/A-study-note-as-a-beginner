@@ -1,0 +1,1 @@
+- Life itself should be a seamless experience with keyboard shortcuts related with one another

@@ -1,0 +1,1193 @@
+# _PROCESSING
+- BFS
+
+# Prioritization & Tips
+- [Tips for taking an AWS Certification exam with exam labs](https://aws.amazon.com/blogs/training-and-certification/tips-for-taking-an-aws-certification-exam-with-exam-labs/)
+- https://javarevisited.blogspot.com/2020/06/top-5-aws-certified-sysops-admin-associate-certification-exam.html#axzz7VzWjNzpu
+- https://medium.com/javarevisited/7-best-aws-sysops-administrator-associate-certification-practice-test-mock-exams-and-dumps-3578d07e4f5b
+
+# A structured mind
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+  - Videomark: /
+  - Prunning: 0:00-15:00
+  - CloudWatch
+    - Videomark: 1:14:16/18:43~1:14:16
+  - Cloudtrail
+    - Videomark: 1:17:29/1:14:16~
+  - OpsWorks
+    - VideoSweepMark: 1:37:55/1:28:03~2:21:06
+  - CloudNetworking
+  - VPC
+    - Videomark: 3:53:56/3:48:30-
+    - VPC Endpoints
+    - VPN Gateway
+    - Customer Gateway
+  - VPC Endpoints
+  - VPC Flow Logs
+  - Service Catalog
+    - Videomark: 4:59:35/4:50:55~4:59:35
+  - NAT
+  - NACL
+  - SG 
+  - Route 53
+  - EC2
+  - SSM
+    - Videomark: 5:49:38/5:40:33~
+  - Parameter Store
+  - Secrets Manager
+  - AMI
+  - ELB
+  - EBS
+  - [x] Storage Gateway
+  - ElastiCache
+  - IAM
+  - S3
+  - Glacier
+  - Snowball
+  - RDS
+    - Videomark: 9:39:23/9:27:41~10:06:40
+  - DynamoDB
+  - [x] Cloudformation
+    - Videomark: 10:36:53/10:12:11~ 
+  - ECS
+  - EB
+- Know what you are facing
+  - Questions
+    - 22% Monitoring and Reporting 14-15 Qs
+    - 8% High Availability 5-6 Qs
+    - 14% Deployment and Provisioning 9-10 Qs
+    - 12% Storage and Data Management 7-8 Qs
+    - 18% Security Compliance 11-12 Qs
+    - 14% Networking 9-10 Qs
+    - 12% Automation and Optimization 7-8 Qs
+  - Exam Labs
+  - Troubleshooting
+
+# Static Working Memory Store Field
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+  - 01:03:16 CloudWatch
+  - 01:26:41 CloudTrail
+  - 02:14:48 OpsWorks
+  - 03:51:57 CloudNetworking
+  - 04:03:47 VPC Endpoints
+  - 04:06:37 VPC FlowLogs
+  - 04:58:21 ServiceCatalog
+  - 05:02:30 NAT Gateways
+  - 05:06:32 NACL
+  - 05:12:42 Security Groups
+  - 05:27:32 Route53
+  - 05:38:40 EC2
+  - 06:14:52 SSM
+  - 06:38:47 AMI
+  - 06:50:39 ELB
+  - 07:16:51 ASG
+  - 07:30:11 EBS
+  - 07:38:18 StorageGateway
+  - 07:43:17 ElastiCache
+  - 08:00:50 IAM
+  - 08:46:44 S3
+  - 09:17:50 Glacier
+  - 09:26:00 Snowball
+  - 10:04:37 RDS
+  - 10:10:57 DynamoDB
+  - 11:12:25 CloudFormation
+- VPC
+  - [VPC limits and Pricing](https://www.testpreptraining.com/tutorial/aws-certified-advanced-networking-specialty/vpc-limits-and-pricing/)
+# Troubleshoot space
+- IAM
+  - [Troubleshooting IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot.html)
+# Question Sets
+- [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-sysops-administrator-associate/view/)
+  - Sweepmark: Q3
+  - Sweepmark: Q3
+  - AWS Cloudtrail
+    - Q1
+  - Networking
+    - Q2
+  - ELB
+    - Q3
+- Practice Exams: AWS Certified SysOps Administrator Associate --> NOT EFFICIENT
+  - T1
+    - Sweepmark: Q42
+    - Aurora
+      - **PQ1** | 80%
+        - AWS Directory Service
+    - Security
+      - **Q2** | 90%
+      - PQ11
+      - PQ38
+      - PQ56 AWS Directory service
+      - PQ64
+    - AWS Config
+      - Q41
+    - EB
+      - Q42
+      - Q62
+    - ELB
+      - Q28
+      - Q35
+    - EC2
+      - Q20
+      - Q21
+      - Q27
+      - Q40
+      - Q43
+      - Q52
+      - Q53 - AMI sharing
+      - Q57
+    - CW
+      - **Q3** - 70%
+        - StatsD/collectd
+      - PQ7 - 60%
+        - [Common scenarios with the CloudWatch agent](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-common-scenarios.html)
+      - PQ13
+      - PQ15
+      - PQ29
+      - PQ36
+      - PQ37
+      - PQ39
+      - PQ46
+      - PQ49
+      - PQ59
+    - Disaster Recovery
+      - Q61
+      - Q4 - 80%
+    - VPC
+      - Q22
+      - Q32
+      - Q33
+      - Q44
+      - Q54
+      - Q60
+    - AWS X-Ray
+      - Q45
+    - System Manager
+    - EventBridge
+      - Q5 - 100%
+      - **PQ6** - 70%
+    - IAM
+      - Q8 - 60%
+      - Q24
+    - Availability
+      - Q17
+    - Billing
+      - Q9
+    - ASG
+      - Q47
+      - Q48
+      - Q58
+    - Disaster Recovery
+      - Q34
+    - Automation
+      - Q10
+      - Q14
+      - Q50 - Change set
+      - Q63
+    - Transformation
+      - Q18
+    - Storage
+      - Q16
+      - Q19
+      - Q30
+      - Q55
+    - CDN
+      - Q31
+    - DB
+      - Q26
+    - Higher level control
+      - Q12
+  - T2
+    - Sweepmark: Q31
+    - Storage
+      - Q1
+- [Amazon AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1ETbYtweK77pQ7ASqKu6KY1VoE64qRwDC/view?usp=sharing)
+  - Sweepmark: COMPLETE
+  - _Q-mark: GD
+  - SQS
+    - **Q1**
+    - Q49
+    - Q107
+  - Cost Management
+    - Q55 - 1
+    - Q55
+    - Q70
+    - Q86
+    - Q70
+    - Q134
+  - IAM 
+     - Q25
+     - **Q158**
+     - Q230
+  - EC2
+    - Q9
+    - Q168
+    - Q179
+    - Q186
+    - Q226
+  - ELB
+    - Q2
+    - Q14
+    - Q23
+    - Q140
+    - Q196
+    - **Q200**
+  - Scalability 
+     - Q3
+  - ASG
+     - Q4
+     - Q40
+  - Availability
+     - Q5
+  - VPC
+     - Q6
+     - Q18
+     - Q33
+     - Q118
+     - Q120
+     - Q125
+     - Q160
+     - **Q171**
+     - Q183
+     - Q228
+  - Security and compliance
+     - Q7
+     - Q149
+     - Q152
+  - Automation
+     - Q8
+     - Q143
+  - CW/Monitoring
+     - GDQ10 - 100%
+     - GDQ28 - 70% 
+     - GDQ35 - 100%
+     - GDQ60 - 50%
+     - GDQ138 - 40%
+     - GDQ148 - 100%
+     - GDQ153
+     - GDQ176
+     - GDQ191
+     - GDQ211
+     - GDQ215
+  - Storage
+     - Q45
+     - Q59
+     - Q127
+     - Q132
+     - Q133
+     - Q163
+     - Q178
+     - Q207
+     - Q217
+     - Q220
+     - Q224
+  - DB
+     - Q13
+     - Q65
+     - Q66
+     - Q146
+     - **Q174**
+  - BP
+    - EMR
+      - Q11
+- More 600Q on pbb: PB-SWP
+<<<<<<< HEAD
+  - Sweepmark: PBQ616/PBQ616
+=======
+  - Sweepmark: PBQ596/PBQ616
+>>>>>>> 0e06a2b751ef5d349a1e6235a3c5b23658e501e4
+  - _schema
+    - Monitoring, Logging, and Remediation
+      - CW
+        - AWS CW Logs
+        - CW Logs Insights
+        - CW Agent
+        - CW Dashboards
+        - Cloudtrail logs
+        - CW Alarms
+      - SNS
+      - S3 Event Notification
+        - PBQ364
+      - Service Quotas
+      - AWS Health Events
+      - AWS EventBridge
+      - AWS System Manager
+      - AWS Config
+    - Reliability and Business Continuity
+      - Scalability and elasticity
+        - ASG
+          - PBQ349
+        - Lambda
+          - PBQ340
+      - High Availability and resilient environments
+        - High Availability[[]]
+          - Health Check
+          - ASG
+          - RDS
+          - EFS, FSx
+      - Fault tolerance
+        - Snapshot and backups
+          - RTO
+          - RPO
+          - Database Restore
+        - Versioning
+        - Lifecyling rules
+        - Cross-region replication
+        - Storage Products
+          - AWS Snowball
+          - AWS EFS
+          - AWS Storage Gateway
+            - Troubleshooting
+              - PBQ361
+      - Backup and restore strategies
+      - Caching
+        - Redis
+        - Memecache
+          - PBQ342
+        - CloudFront
+        - DAX
+        - RDS Read Replicas
+      - Loose coupling
+    - Deployment, Provisioning, and Automation
+      - Deployment & Provisioning
+        - Create and manage Amazon Machine Images(AMIs)
+        - Use CF proficiently
+          - PBQ371
+        - Provision across multiple Regions and accounts
+        - Select deployment scenarios and services
+        - Fix deployment issues
+      - Automation
+        - Automate deployments
+        - Automate patching
+        - Schedule automated tasks
+    - Security and Compliance
+      - Implement and manage security and compliance policies
+        - AWS SSO
+          - PBQ295
+        - AWS AD
+          - PBQ385
+        - IAM
+          - Validating policies
+          - IAM Access Analyzer
+          - IAM policy simulator
+        - Trust advisor
+        - Multi-account
+          - AWS Control Tower
+        - Multi-region
+          - AWS Organization
+            - PBQ352
+      - Implement data and infrastructure security strategies
+        - Data classification
+          - Encryption at rest
+            - KMS, CloudHSM
+              - PBQ303
+          - Encryption at transit
+            - Certificate manager, VPN
+        - AWS Secrets Manager
+          - Parameter store
+        - Observation and reporting
+          - GuardDuty, Security Hub, Inspector, Amazon Macie
+    - Networking and Content Delivery
+      - Imeplementing networking features and connectivity
+        - Amazon VPC configuration
+        - AWS System Manager Session Manager
+        - Region, AZ, VPC, Subnet, table
+          - PBQ378
+        - VPC endpoints
+        - VPC peering
+        - VPNs
+        - AWS WAF
+         - PBQ368
+      -  Implementation of domains, DNS services, and content delivery
+        - Route 53
+          - PBQ380
+        - Hosted zones and records
+        - Route 53 policies
+        - General DNS configurations
+        - Cloudfront
+      - AWS Cloudtrail
+        - PQB283S3
+      - Troubleshooting networking connectivity issues
+        - Evaluate VPC configurations
+        - Collect and evaluate logs for networking and content delivery
+      - Logging resources
+        - VPC flow logs
+        - ELB access logs
+        - CF access logs
+    - Cost and Performance 
+      - Cost Allocation Tags Manager
+        - PBQ332
+      - General
+        - PBQ382
+      - How-to
+        - PBQ377
+    - Optimization
+    - AWS Billing and Cost Management Console
+      - PBQ336
+    - Labs
+  - MARKING TEMPLATE
+    - PBQ
+  - QUEUED ACTIONS
+    - PUMP documents to constant field
+  - Q1~Q100
+    - ?
+      - PQB277
+    - Cost and Performance Optimization
+      - PBQ184 - 60%
+      - AWS Cost Explorer
+        - PBQ190 - 50%
+        - PBQ201 - 70%
+      - AWS Cost and Usage Report
+    - Reliability and Business Continuity - PB-RBC
+      - CDN
+        - PBQ262
+      - Storage
+        - EFS
+          - PBQ231
+      - Cross-Account
+        - S3
+          - PBQ216
+        - CF
+          - PBQ271
+      - Third-party Integration
+        - PBQ215
+      - Change Management
+        - AWS Personal Health Dashboard
+          - PBQ220
+          - PBQ226
+          - PBQ252
+      - AWS Organization
+        - PBQ197 - 70%
+      - Shared Responsibility Model
+        - PBQ221
+      - RDS
+        - PBQ189 - 20%
+        - VPC Flow Log
+          - PBQ204
+      - S3
+        - PBQ200 - 80%
+      - ELB
+        - PBQ208 - 100%
+    - Security & Compliance: PB-SC
+      - Uncategorized
+        - PBQ1
+        - PBQ4
+        - PBQ28
+        - PBQ29
+        - PBQ35
+        - **PBQ45**
+        - Q47
+        - Q53 - 90%
+        - PBQ51 - 80%
+      - AWS Cloudtrail
+      - AWS Secrets Manager
+        - PBQ210
+      - MFA
+        - PBQ159
+      - EFS
+        - PBQ191 - 80%
+      - Attack defense
+        - ALB
+          - PBQ157
+      - Sharing
+        - AMI
+          - PBQ154 - 80%
+      - Identity Management
+        - Credential Management
+          - KMS
+            - PBQ272
+        - Identity federation
+          - PBQ218
+        - LDAP & SAML
+          - PBQ254
+        - IAM
+          - Cross account management
+            - PBQ166
+          - S3
+            - PBQ194
+            - PBQ255
+        - Q3
+        - Q39 - LDAP    
+      - Governance & Orchestration
+        - Configuration Management - OpsWorks
+          - PBQ172 - 20%
+        - Resource Management
+          - Cost Management
+            - **Q6**
+            - Q30
+            - Q36
+            - Q57 - 90%
+          - System Manager
+            - Q7
+          - Service Catalog
+            - PBQ8
+            - PBQ205
+            - PBQ282
+          - AWS Artifact
+            - Q9
+          - Tag management
+            - PBQ156 - 80%
+              - Service Catalog
+          - AWS Perosnal Health Dashboard
+            - PBQ164 - 30%
+          - AWS Trusted Advisor
+            - PBQ170
+            - PBQ182 - 70%
+          - AWS Organization
+            - PBQ196 - 60%
+            - PBQ207 - 70%
+            - AWS Config
+              - PBQ240
+          - Disaster Recovery
+            - Q33
+        - Responsibility Model
+          - Q34
+    - Deployment, Provisioning, and Automation PB-DPA
+      - AWS Code Pipeline
+        - PBQ265
+      - Region, AZ
+        - PBQ243
+      - AWS Config
+        - PBQ10
+        - PBQ50
+        - PBQ54
+        - PBQ227
+      - Caching
+        - PBQ237
+        - PBQ239
+        - PBQ315
+      - ASG
+        - PBQ193
+        - Lifecycle Hook
+          - PBQ313
+      - CloudFormation
+        - PBQ173 - 60%
+        - PBQ181 - 50%
+        - PBQ230
+        - PBQ253
+        - PBQ266
+        - Cross Account
+          - PBQ301
+        - Cloudformation Stackset
+          - PBQ203
+      - EC2
+        - PBQ177 - 50%
+      - Troubleshooting
+        - PBQ178 - 60%
+        - Networking
+          - PBQ186
+      - Route 53
+        - PBQ195 - 20%
+          - Doc: API HealthCheckConfig
+      - SSL
+        - PBQ187 - 10%
+      - ELB
+        - PBQ188
+      - RDS
+        - PBQ192 - 70%
+      - Storage
+        - EBS
+          - PBQ222
+        - EFS
+          - PBQ160 - 80%
+        - S3
+          - PBQ179 - 80%
+        - Q14
+        - Q23
+        - **Q41**
+          - RAID 0 for EBS
+        - **Q44**
+        - Data Retention
+          - PBQ155 - 80%
+      - Uncategorized
+        - PBQ2
+        - **PBQ43**
+        - PBQ153
+      - Availability
+        - Q13    
+        - CDN
+          - Q69 - 90%
+        - Q20
+        - Q24 
+        - Q56 - 80%
+      - ELB
+        - Q42
+          - receeived 0 success singal(s) out of 1
+    - Monitoring & Performance PB-MP
+      - AWS Cloudtrail
+        - PBQ257
+      - AWS Event Bridge
+        - PBQ214
+        - PBQ228
+      - CW
+        - PBQ167
+        - Health Check
+          - PBQ263
+        - CW Log Group
+          - PBQ261
+        - CloudFront
+          - PBQ206 - 80%
+      - Responsive scaling
+        - PBQ171
+        - PBQ256
+      - AWS Aurora
+        - PBQ209
+      - VPC Flow Log
+        - PBQ175
+      - Uncategorized
+        - PBQ21
+        - PBQ22
+        - PBQ27
+        - PBQ46
+        - PBQ52 - 70%
+          - Step and simple scaling policies for AWS EC2 Auto Scaling
+    - _uncategorized
+      - CLI
+        - Q15
+      - STS
+        - Q88 - 90%
+      - EC2
+        - Q5
+      - Scale
+        - Q25
+        - Q31
+      - Transformation
+        - **Q17**
+          - VTL?
+        - **Q18**
+          - CloudHSM
+        - Q40
+          - Direct Connect Gateway
+      - SQS
+        - Q26
+    - Networking & Content Delivery    
+      - Troubleshooting
+        - Availability - 503
+          - PBQ165 - 50%
+        - Q55 - 80%
+        - Performance
+          - Login
+            - PBQ158 - 80%    
+      - VPC
+        - SG
+          - PBQ212
+        - NAT
+          - PBQ199
+          - PBQ202
+        - NACL configuration
+          - PBQ176 - 20%
+            - Doc: Control traffic to subnets using Network ACLs
+        - VPC Peering
+          - PBQ183
+          - PBQ307
+        - VPC Endpoint
+          - PBQ185 - 20%
+        - PBQ12
+        - PBQ16
+        - PBQ19
+        - PBQ32
+        - PBQ49
+        - IPV6
+          - PBQ161
+    - Cost and Performance Optimization
+      - EC2
+        - Q223
+      - Q213
+# Hands-on Lab
+- _alias
+  - PASS THE EXAM: PTE
+  - UDM: Udemy course
+- EC2 Placement Groups
+  - UDM - 80%
+- EC2 Instances Launch Types
+  - UDM - 80%
+- SSM Parameter Store
+  - UDM - 80%
+- RDS
+  - RDS: Create an RDS Instance - 80%
+    - PTE | 9-45-37/9-34-26~9-45-37
+  - RDS: View performance Insights
+    - PTE | 9-46-39/9-45-51~ 
+- CW
+  - CloudWatch Logs
+    - UDM - 70%
+  - CloudWatch Alarms
+    - UDM - 100%
+  - EventBridge
+    - UDM - 50%
+- CF
+  - Create a CF
+    - PTE
+- VPC
+  - VPC Hands On
+    - UDM - 80%
+  - Bastion Hosts
+    - UDM
+  - NAT Gateway
+    - UDM
+  - Subnet Hands On
+- [AWS SysOps Administrator Associate 2020 (PASS THE EXAM!) - Shallow Hands-On Only](https://www.youtube.com/watch?v=KX_AfyrhlgQ&t=13s)
+- Ultimate AWS Certified SysOps Administrator Associate 2022
+
+## Customized Sprint
+- RDS
+- VPC
+- S3
+  - Upload folder
+    - Enable Enhanced Uploader option
+## Guided Video Sprint
+
+## Resource
+- https://cloudacademy.com/library/amazon-web-services/labs/
+- https://www.cloudskillsboost.google/
+- https://acloudguru.com/course/learn-aws-by-doing
+
+# Sprint materials
+- **AWS SysOps** --> **ACTIVE**
+  - $udemy_course
+    - Static, frequently-used knowledge
+      - _meta
+        - STYLE: `test-driven`, flashcard-based
+        - DYNAMIC UNLOCK THRESHOLD: **From physics to cloud**
+        - *精*
+          - sense of pricing
+      - EBS volume type
+      - S3 Storage Classes
+      - Private IP ranges
+      - 5 AWS specific reserved IP addresses for VPC
+      - AWS Provider DNS Server: 169.254.169.253
+    - Network tools
+      - ipaddressguide
+    - Realm of doubts
+      - VPC peering
+      - CIDR
+        - [ipaddressguide](https://www.ipaddressguide.com/cidr)
+      - Database for SysOps
+      - Security and Compliance for SysOps
+          - FIPS 140-2
+      - Ad vanced Storage Section
+        - AWS Snow
+        - AWS FSx
+        - AWS Storage Gateway
+          - Choice of gateway
+      - AWS EFS
+        - POSIX
+      - AWS CF
+        - Stack, ChangeSet
+      - AWS Config
+      - SSM Patch Manager
+      - EC2 High Availability & Scalability
+        - ELB Target Group Attibutes
+        - LB Sticky Session
+        - LB EC2 Target Group
+        - ASG Life cycle hook
+      - ADVANCED Flow Hash Algorithm
+      - Route 53 Resolvers & Hybrid DNS
+    - Style: Shallow Hands-on
+      - WARNING: DO NOT switch to full hands-on as it will cause irreversible schedule overrun
+      - DO: Picture yourself doing the operation key-stroke-wise is more than enough
+
+## Question sets - CDA
+- [Carry over effect analysis](https://www.reddit.com/r/AWSCertifications/comments/e20kga/which_of_the_other_associate_exams_has_the_most/) - (20%)
+- [Question Set 1](https://drive.google.com/file/d/1eKeV3bnD_fseIvTG_b0EKCAUym7PmlKN/view?usp=sharing) - 20%
+ - Navigation
+   - Initial Sweepmark: 260/260 --> 100%
+     - Next: Add weight mark to each question for efficient solification
+   - Search mark: QX - Ctrl+F--> Question X
+ - Weight system
+   - 22% Deployment 14.3Q
+   - 26% Security 17Q
+     - Q225 P75
+   - 30% Development with AWS Services 19.5Q
+     - 10% Refactoring 6.5Q
+     - 12% Monitoring and Troubleshooting 7.8Q
+ - Question Overview
+   - Scaling
+     - Auto Scaling
+       - Q64
+       -  Q15
+       -  **Q30** 
+       -  **Q84**
+          -  Docmark
+       -  **Q100**
+          -  Docmark
+       -  **Q133**
+          -  Docmark
+       -  **Q219**
+          -  Docmark
+       -  **Q220**
+          -  Docmark
+       -  Q242
+       -  Q243
+          -  But what about only one AZ?
+   - Tools
+     - AWS CLI & SDK
+       - **Q62**
+       - Q72
+         - [IAM best practice](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
+       - Q177
+   - Functional
+     - Lamda
+     - SWF
+       - Q60
+       - Q70
+       - Q123
+   - Integrated application
+      - CF
+       - Q59
+       - Q104
+       - Q169
+       - **Q180**
+       - **Q215**
+       - Q225
+       - Q231
+       - Q245
+       - Q247
+       - Q258
+     - EB(MOVE EBS TO EC2)
+       - **Q71**
+       - **Q110**
+         - [Amazon EBS volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html)
+           - Furthuer reading
+             - AEC2 doc whole reading - Docmark: *ersistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS), known as Amazon EBS volumes*
+       - Q16
+       - Q31
+       - **Q37**
+         - [Device names on Windows instances](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/device_naming.html)
+         - And linux?
+       - **Q43**
+       - **Q52**
+       - Q66
+       - Q67
+       - **Q74**
+       - **Q76**
+         - Docmark
+       - Q94
+       - Q101
+       - Q109
+       - Q111
+       - Q199
+       - 
+     - CF
+       - Q25
+       - **Q135**
+         - Docmark
+       - Q258
+         - [Pseudo parameters reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/pseudo-parameter-reference.html)
+   - Database
+     - General
+        -  Q1 P4
+     - DynamoDB
+        -  Q4
+        -  Q19
+           -  DynamoDB has seamless scalability with no table size limits and unlimited storage,
+        -  Q26
+           - Global secondary index -- an index with a hash and range key that can be different from those on the table.
+           - TODO: Store the concepts here
+         - Q35
+           - In DynamoDB, a secondary index is a data structure that contains a subset of attributes from a table, along with an alternate key to support Query operations.
+         - **Q88**
+           - Docmark
+         - **Q89**
+           - Docmark
+         - Q93
+           - Currently, in DynamoDB, an index cannot be modified once it is created.
+         - **Q105**
+         - Q112
+         - Q125
+         - Q136
+         - **Q143**
+         - Q146
+         - **Q152**
+         - Q158
+         - Q161
+         - Q162
+         - Q168
+         - **Q171**
+         - **Q173 ?**
+         - **Q183**
+         - Q190
+         - **Q193**
+         - Q195
+         - **Q197**
+         - Q203
+         - **Q206**
+         - Q222
+         - Q244
+         - Q250
+     - RDS
+       - Q20
+       - Q61
+       - **Q95**
+         - Docmark
+       - Q98
+       - Q102
+       - Q119
+       - Q128
+       - Q130
+       - Q182
+       - Q189
+       - Q208
+       - **Q212**
+       - Q234
+       - Q235
+       - Q248
+       - **Q249**
+   -  Storage
+      - S3
+         -  Q2
+         -  **Q33**
+         -  Q73
+         -  **Q81**
+            -  Docmark
+         -  Q86
+         -  **Q90**
+            -  Docmark
+         -  Q120
+         -  **Q137**
+            -  Docmark
+         -  Q138
+         -  Q157
+         -  Q163
+            -  Why not B
+         -  Q166
+         -  Q172
+         -  Q174
+         -  Q194
+         -  Q210
+         -  Q216
+      -  SimpleDB
+      -  AWS RRS
+         -  Q68
+         -  Q229
+      -  AWS Glacier
+         -  Q121
+            -  Docmark
+   -  Notification
+      -  SES
+         -  Q117
+         -  Q192
+      -  SNS
+         -  Q57
+         -  Q251
+      - SQS
+         -  Q3
+         -  Q5
+         -  Q10
+            - Queue names are limited to 80 characters and queue names must be unique within an AWS account
+          - Q13
+            - The SQS message retention period is configurable and can be set anywhere from 1 minute to 2 weeks. The default is 4 days and once the message retention limit is reached your messages will be automatically deleted.
+          - Q18
+            - A message can be stored in the Simple Queue Service (SQS) from 1 minute up to a maximum of 14 days.
+          - Q23
+            - With Amazon SQS version 2008-01-01, the maximum message size for both SOAP and Query requests is 8KB
+          - Q29
+          - Q34
+            - Can different components read the same queue concurrently?
+              - There's no need
+          - Q39
+            - Amazon SQS stands for Simple Queue Services, and provides a cost-effective way to decouple the components of your application through an asynchronous message queue service
+          - **Q42**
+          - Q48
+            - AWS reserve the right to delete a queue if none of the following requests have been issued against the queue for more than 30 consecutive days
+          - Q54
+          - **Q65**
+            - X.509 Certificate
+          - Q79
+            - If you delete a queue, you need to wait for at least 60 seconds before creating a queue with the same name.
+          - **Q83**
+          - Q124
+          - Q127
+          - Q155
+          - Q164
+          - Q170
+          - Q181
+          - Q188
+          - Q201
+     - SWF
+       - Q14
+       - Q92
+         - Why not use SWF?
+       - Q147
+   -  Authentication
+      -  ACL
+         -  Q56
+            -  The only recommended use case for the S3 bucket ACL is to grant the write permission to the Amazon S3 Log Delivery group to write access log objects to the user's bucket.
+      - IAM
+         -  **Q17**
+            -  The IAM policy is never region specific.
+               -  What if I want it to be?
+                  -  Is there any use case?
+                  -  If so, how to do it?
+         -  Q27
+         -  **Q32**
+         -  Q40
+            -  [ ] Look at other options
+            -  [ ] Look at docs
+         -  **Q41**
+         -  Q44
+         -  Q47
+         -  Q49
+            -  The statement is the main element of the IAM policy and it is a must for a policy. Elements such as condition, version and ID are not required.
+         -  Q51
+         -  Q53
+         -  Q55
+         -  Q85
+         -  Q91
+            -  Docmark
+         -  Q97
+         -  Q107
+         -  Q118
+         -  Q122
+         -  Q126
+         -  Q131
+         -  Q148
+         -  Q187
+         -  **Q217**
+         -  Q233
+         -  **Q241**
+         -  Q260
+            -  IAM resources are all global; there is no regional constraint
+   -  Networking
+      -  VPC
+         -  **Q9**
+            -  [CIDR](https://whatismyipaddress.com/cidr#:~:text=Classless%20inter%2Ddomain%20routing%20(CIDR)%20is%20a%20set%20of,be%20sent%20to%20specific%20computers.&text=That%20system%20is%20known%20as%20CIDR%20notation.)
+         -  **Q24**
+         -  **Q77**
+            -  Docmark
+         -  **Q114**
+         -  Q209
+         -  Q226
+         -  **Q228**
+            -  Docmark
+         -  **Q246**
+      - ELB
+        - **Q38**
+        - Q69
+        - **Q80**
+        - **Q87**
+        - **Q96**
+        - **Q99**
+        - **Q106**
+        - **Q116**
+          - What is a sticky session?
+        - **Q134**
+        - **Q153** E10
+        - Q185
+        - Q186
+        - Q230
+      - Route 58
+        - **Q58**
+        - **Q75**
+   -  Instance
+      - EC2 & EBS
+         -  **Q6**
+            -  [Multiple IP addresses](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+               -  Docmark: Install LAMP on Amazon Linux 2
+         -  Q202
+            - [Monitor the status of your volumes](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-volume-status.html)
+         -  **Q22**
+         -  **Q50**
+         -  Q82
+            -  To help manage EC2 instances as well as their usage in a better way, the user can tag the instances. The tags are metadata assigned by the user which consists of a key and a value. One resource can have a maximum of 10 tags.
+         -  Q103
+         -  Q108
+         -  **Q110**
+         -  Q113
+         -  Q115
+         -  **Q129**
+         -  **Q140**
+         -  **Q141**
+         -  Q145
+         -  **Q151**
+         -  **Q165**
+         -  **Q198**
+         -  Q200
+         -  Q202
+         -  Q204
+         -  **Q211**
+         -  Q218
+         -  **Q232**
+            -  Docmark
+         -  Q236
+         -  Q240
+         -  Q252
+         -  Q256
+         -  Q259
+   - Availability
+     - Q227 
+   - Solution
+     - **Q28**
+     - **Q144**
+     - Q149
+     - Q150
+     - Q154
+     - **Q160**
+     - **Q179???**
+     - Q221
+     - Q224
+       - Docmark
+     - Q237
+     - Q257
+   - Security
+     - Q46
+     - Q159
+     - Q175
+     - Q176
+     - Q178
+     - Q191
+  - Billing
+    - Q184
+      - Docmark
+  - Networking
+     -  **Q11**
+        -  [Multiple IP addresses](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/MultipleIP.html)
+           - [IP addresses per network interface per instance type](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html#AvailableIpPerENI)
+        - [IPv4, CIDR, and VPC Subnets Made Simple!](https://www.youtube.com/watch?v=z07HTSzzp3o)
+           - Videomark: 8-30/23-46
+  - SNS
+    - **Q132**
+      - Docmark
+    - Q156
+    - Q167
+    - Q196
+    - **Q238**
+      - Docmark
+    - **Q239**
+      - Docmark
+    - Q251
+      - [What is Amazon SNS?](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+    - Q255
+- [Question Set 2](https://drive.google.com/file/d/1hCuEzoq7lV51DRsM5qIu1-XKyWFFGJzL/view?usp=sharing) - Might as well treat it like a test?
+ - Sweepmark: Q1/60
+   - S1
+     - S3
+       - Q1
+- [Question Set 3](https://drive.google.com/file/d/1Ty6kX67MDxB_BGhKIlr9R4H3FnuA5CKT/view?usp=sharing) - Might as well treat it like a test?
+ - Sweepmark: Q1/10
+- [Question Set 4](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Sample-Questions.pdf) - Might as well treat it like a test?
+ - Sweepmark: Q1/10
+ - ASM
+   - Q1
+
+# Result Analysis
+## Results
+- tl;dr
+- Certification of failure
+  - [link](https://drive.google.com/file/d/1yqwJjmWqbIJkX2R0tS7eP_Wh_37s4UpD/view?usp=sharing)
+## Cause of failure
+### Too late for starting flashcard
+- Long-term memory doesn't have enough time to kick in for 2 day timeframe
+### Knowledge coverage
+### Crazy schedule
+- 2 days to prepare for the test --> Next time, allocate 3 days
+- Exam dump actually take a lot longer to get with
+### Misinformation of Exam Lab scoring included in the final exam
+- [Misinformation source](https://ivanitlearning.wordpress.com/author/ivanlu986/)
+  - *...of all the AWS certification exam, the sysops admin is the only one which has labs in it, though that presently accounts for just 18% of your total score. ...*
+- [Exam Guide - Misinformation Remedy](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
+- Misplaced preparation: Extra energy diverted to 
+### Imperfect reviewing weight parameter
+#### Material Missed
+- [Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
+# Lesson learned
+- Mark **level of understanding by percentage** on encounter

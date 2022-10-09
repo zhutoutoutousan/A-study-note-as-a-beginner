@@ -1,0 +1,13 @@
+- 建立`攻防学`
+  - 黑客攻防学
+  - 实体攻防学
+    - 企业攻防学
+      - 大企业
+        - PR攻防学
+        - 企业架构攻防学
+        - 企业安全攻防学
+        - 供应链攻防学
+    - GJ攻防学
+  - 法律攻防学
+    - [Spotify - 法律攻防](https://open.spotify.com/show/6gscaqbc1EDUuGjvYQw7wL)
+  - 个人攻防学

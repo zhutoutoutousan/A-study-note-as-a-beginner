@@ -1,0 +1,2 @@
+# Basics
+- [Terminologies](./terminology.md)

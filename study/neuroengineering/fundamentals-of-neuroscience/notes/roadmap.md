@@ -1,1 +1,0 @@
-[A Beginner’s Guide to Brain-Computer Interface and Convolutional Neural Networks](https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948)

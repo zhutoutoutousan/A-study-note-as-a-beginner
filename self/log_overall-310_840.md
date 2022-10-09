@@ -263,7 +263,7 @@
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
                   - CCS: 8.9%
-                  - TEMP_TIMESTAMP: 3:00
+                  - TEMP_TIMESTAMP: 8:51
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -321,8 +321,9 @@
                       - STATIC
                         - TECC
                         - [Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series](https://www.youtube.com/watch?v=4zrU54VIK6k)
-                          - Videosweemark: 47:16
+                          - Videosweemark: 52:30
                           - Language pair: German
+                          - NEW Single-use Accountability System 
                           - CURIOSITY_OUTREACH
                             - Differential Privacy
                               - _category
@@ -379,6 +380,7 @@
                         - Frequently used concepts
                         - P.O.I
                           - Alastair Handley
+                        - NEW *证ESG
                       - VOLATILE
                       - ?
                         - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
@@ -728,7 +730,7 @@
     - H
       - **IFL** [T](https://www.youtube.com/watch?v=eDPm9gBu47w&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=5)
         - PPF
-          - VSM: 1:23
+          - VSM: 4:06
           - LM: 5
         - PPS | Thema
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
@@ -1305,9 +1307,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 18.2%
-            - ETC：5.81 months
-            - TEMP_TIMESTAMP: 10:00
+            - CCS: 18.7%
+            - ETC：5.78 months
+            - TEMP_TIMESTAMP: 3:00
             - Key Words: Chi-square, A/B
             - Tooling
               - [x] Tableau public
@@ -1433,13 +1435,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 21:00
+      - Videosweepmark: 24:41
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 1: Introduction to Consumer Psychology - I](https://www.youtube.com/watch?v=MFtReSUVygg&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=2)
         - PROCESSING POINTER FIELD
-          - Videomark: 51:04/1:01:01
+          - Videomark: 54:34/1:01:01
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1615,7 +1617,7 @@
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
       - CCS: 60%
       - E.T.A: 4.51 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 5:03
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1807,7 +1809,7 @@
         - 1% | أَفْهَمُ
         - 3% | تسبقها
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 11:40
+            - Videosweepmark: 14:00
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1838,6 +1840,7 @@
           - [Arabic Grammar - Idafa structure - الإضافة](https://www.youtube.com/watch?v=KBaQ_Y-79CA)
             - Videosweepmark: 4:09
           - [Arabic Grammar: Using 'Masdar' as a Noun](https://www.youtube.com/watch?v=X7MzcftzBak)
+            - Videosweepmark: 2:00
           - [Easy Arabic Grammar derived nouns الأَسْمَاءُ الْمُشْتَقَّةُ [# L21-P1]](https://www.youtube.com/watch?v=0e-2zigH4j4)
             - Videosweepmark: 1:00
         - 5% | نهج
@@ -1972,11 +1975,11 @@
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 6:03
+          - Videosweepmark: 8:04
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec2-2（直列と並列）](https://www.youtube.com/watch?v=IQkhxK8Icj4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=5)
-          - Videosweepmark: 5:00
+          - Videosweepmark: 6:48
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2013,7 +2016,6 @@
         - 影響 | 70%
         - 同線 | 90%
         - 電力供給の源 | 20%
-        - コンセント | 100% TTL
         - 効率的手法 | 90%
         - ?
           - 適用 | 90%
@@ -2100,7 +2102,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [N-ary Tree Postorder Traversal Solution Explained](https://www.youtube.com/watch?v=Ds5e1A88j7Q&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=7)
-      - Videosweepmark: 5:00
+      - Videosweepmark: 7:19
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - *Ditch the cartoon and get down to business!*
@@ -2190,7 +2192,7 @@
           - Indefinite Pronouns in Greek | 85%
             - Core Table | 90%
             - Examples | 80%
-          - Relative Pronouns in Greek | 85% --> *Resistance detected*
+          - Relative Pronouns in Greek | 85%
             - Core Table | 95%
             - Examples | 70%
     - VOLATILE
@@ -2200,7 +2202,7 @@
             - Videosweepmark: 2:00
             - Listmark: 2
           - [Greek Verbs explained in 10 MINUTES](https://www.youtube.com/watch?v=Myn1Hbq8naI)
-        - φοράω | 2%
+        - φοράω | 3%
         - αντιμετωπίζω | 10%
         - σχεδιάζω | 5%
       - **επίθετο**
@@ -2210,13 +2212,13 @@
         - αυτή
         - _meta
       - **χωρίς κατηγοριοποίηση**
-        - συντεταγμένη
+        - συντεταγμένη | 100% TTL
         - βλέπω | 2%
         - πλέγμα | 25%
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 5 min/day
-        - Videomark: 57:00/11:40:18
+        - Videomark: 1:02:42/11:40:18
         - Bookpair
         - Linear Algebra Done Wrong
           - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)

@@ -302,8 +302,8 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 9.9%
-                  - TEMP_TIMESTAMP: 9:00
+                  - CCS: 10.2%
+                  - TEMP_TIMESTAMP
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -362,13 +362,13 @@
                         - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/pdf/2103.11251.pdf)
                         - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://drive.google.com/file/d/1JTL8m2nZtHpJfPiq8ebMHfsfmnb9bizQ/view?usp=sharing)
                           - PROCESSING_POINTER_FIELD
-                            - Randomtelewalk
+                            - Randomtelewalk: 3
                             - MECE
                     - Privacy-Preserving Computing/AI
                       - STATIC
                         - TECC
                         - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
-                          - Videosweemark: 10:00
+                          - Videosweemark: 15:00
                           - Language pair: German
                           - NEW Single-use Accountability System 
                           - CURIOSITY_OUTREACH
@@ -657,12 +657,34 @@
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
-        - Videosweepmark: 22:30
+        - Videosweepmark: 26:00
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
             - [Statistical Physics & Complex Systems](https://cdn.ymaws.com/www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/contributed.pdf)
               - PROCESSING_POINTER_FIELD
                 - Randomtelewalk: 6
+              - PROCESSING_POINTER_STORE
+                - CURIOSITY_OUTREACH LIMIT 5
+                  - Cytoplasm
+                    - [Structure and Function of Cytoplasm | Biology](https://www.youtube.com/watch?v=fQ8i2rT67rU)
+                      - Videosweepmark: 2:37
+                      - Language pair: French
+                  - Legendre transformation
+                    - [Legendre Transformation | Get Hamiltonian from Lagrangian | Spring Mass Example, Harmonic Oscillator](https://www.youtube.com/watch?v=xJGluipIV2k)
+                      - PROCESSING_POITNER_FIELD
+                        - Videosweepmark: 2:43
+                      - Bookpair
+                        - [A Student’s Guide to Lagrangians and Hamiltonians](http://ppc.inr.ac.ru/uploads/476_Hamill.pdf)
+                          - PROCESSING_POINTER_FIELD
+                            - Randomtelewalk: 3
+                          - PROSSESSING_POINTER_STORE
+                            - CURIOSITY_OUT_REACH LIMIT 5
+                              - Hamilton-Jacobi theory
+                      - Language Pair: French
+                  - Phenomenology
+                    - [Introduction to phenomenology - D. Moran](http://library.mibckerala.org/lms_frame/eBook/Moran%20-%20Introduction%20to%20Phenomenology%20(Routledge).pdf)
+                      - PROCESSING_POINTER_FIELD
+                        - Randomtelewalk: 12
             - [A Concise Introduction to the Statistical Physics of Complex Systems](#)
         - NEW Black & Scholes Model
   - ACCA F3 Prep --> `this.concurrentTraffic = 0.2`
@@ -685,13 +707,16 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 30-191/18* &3.7
+                    - *Double mapping* | 30-191/18* &3.8
+                      - [What Credit (CR) and Debit (DR) Mean on a Balance Sheet](https://www.investopedia.com/ask/answers/04/072304.asp#:~:text=Key%20Takeaways%3A,%2C%20notated%20as%20%22CR.%22)
+                        - Saturation: 10%
                 - _supplement
                   - Conceptual Framework
                     - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
                       - Videosweepmark : 6:30
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
+                      - Videosweepmark: 4:00
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
                     - [7. Value At Risk (VAR) Models](https://www.youtube.com/watch?v=92WaNz9mPeY)
                   - Sales Tax
@@ -725,13 +750,13 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 12:40
+      - Videosweepmark: 16:25
       - LIST_NUM: 2
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
         - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 14
-            - Saturation: 0.001%
+          - Randomtelewalk: 24
+            - Saturation: 0.002%
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - German - Upper C1+++++ --> *Strive for perfection*
@@ -784,9 +809,13 @@
         - [Schlüsselwörter sind echt wichtig](https://www.youtube.com/watch?v=eA8IrayDv_Y)
           - VSM: 10:00
     - H
+      - CTX 
+        - [HT3. NV](https://www.youtube.com/watch?v=CXtRH1djPy0)
+        - [HT3. NV](https://www.youtube.com/watch?v=iXIRuKGURQ4)
+        - [HT3. NV](https://www.youtube.com/watch?v=YsQGQk1xfXA)
       - **IFL** [T](https://www.youtube.com/watch?v=eDPm9gBu47w&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=5)
         - PPF
-          - VSM: 10:14 ENCORE * 2(Reason: Difficult material)
+          - VSM: 15:50 - 23
           - LM: 5
         - PPS | Thema
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
@@ -1367,8 +1396,8 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 21.4%
-            - ETC：5.75 months
+            - CCS: 21.9%
+            - ETC：5.72 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B
             - Tooling
@@ -1478,13 +1507,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 35:40
+      - Videosweepmark: 40:00
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 3:30
+          - Videosweepmark: 18:30
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1581,7 +1610,7 @@
                 - point-to-point
                 - GRE tunnel
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
-              - Videosweepmark: 41:00
+              - Videosweepmark: 48:00
               - [rfc791](https://datatracker.ietf.org/doc/pdf/rfc791.pdf)
                 - PROCESSING_POINTER_FIELD
                   - Randomtelewalk: 1
@@ -1658,9 +1687,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 60.8%
+      - CCS: 62.1%
       - E.T.A: 4.45 months
-      - TEMP_TIMESTAMP: 5:00
+      - TEMP_TIMESTAMP: 3:02
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1808,7 +1837,7 @@
             - LOCKED Advanced Comprehensive Business Sophistication required
         - `Root.ResourceAllocation(time, energy, overhead_percentage)`
           - time: 1 minute
-          - energy: LOCKED *Advanced internal intuition* required
+           energy: LOCKED *Advanced internal intuition* required
           - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
   - ?
     - Change Log
@@ -1852,7 +1881,7 @@
         - 10% | أَفْهَمُ
         - 3% | تسبقها
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 23:37
+            - Videosweepmark: FETCH
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1878,14 +1907,14 @@
         - 35% | مفهوم
         - 90% | تفصيل
           - [Arabic Grammar: Using 'Masdar' as a Noun](https://www.youtube.com/watch?v=X7MzcftzBak)
-            - Videosweepmark: 5:00
+            - Videosweepmark: 6:46 TTL 
         - 45% | نهج
         - 5% | مبدأ
         - الساعة
         - ستين
         - 3% | التي
           - [Arabic verbs mastery lesson 1](https://www.youtube.com/watch?v=lrkIyxiUHrw)
-            - Videosweepmark: 4:15
+            - Videosweepmark: 8:00:00
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
       - Videosweepmark: 18:04
@@ -1996,6 +2025,8 @@
       - [Tryhackme](https://tryhackme.com/)
     - Enterprise IT Infrastructure
       - AWS Security Cookbook: Practical solutions for managing security policies, monitoring, auditing, and compliance with AWS
+      - AZ-305 X
+        - CCS: 1.1%
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
         - CCS: 1.1%
         - TEMP_TIMESTAMP
@@ -2079,11 +2110,11 @@
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 11:00
+          - Videosweepmark: 15:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec03-1（電圧源・電流源と重ね合わせの理）](https://www.youtube.com/watch?v=bUp08KF-mD0&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=6)
-          - Videosweepmark: 6:01 NEXT 
+        - [電気電子工学基礎：Lec03-2（テブナンの定理・ノートンの定理）](https://www.youtube.com/watch?v=wlQ6LouQNw4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=8)
+          - Videosweepmark
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2175,6 +2206,7 @@
         - поместить | 40%
         - сосредоточиться | 60%
         - переключаться | 10%
+        - закончиться
         - проводить
       - ?
         - вот
@@ -2182,16 +2214,16 @@
         - выходной
         - следующей | 40%
         - очевидный | 60%
+        - недооцениваемой
         - последовательный | 60%
-        - контринтуитивный | 70%
+        - контринтуитивный | 90%
       - **наречие**
         - определенно | 60%
       - **существительное**
-        - самообъяснение | 25%
+        - самообъяснение | 50%
         - представление | 80%
         - разговор | 40%
         - введение | 40%
-        - положение | 100% TTL
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
@@ -2199,7 +2231,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [Binary Tree Inorder Traversal Solution Explained - Java](https://www.youtube.com/watch?v=WZwNoTm_9d8&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=8)
-      - Videosweepmark: 2:00
+      - Videosweepmark: 3:00
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -2209,7 +2241,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 1: Probability and Counting | Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw)
         - Style: FAST POINTER
-        - Videosweepmark: 44:00
+        - Videosweepmark: 45:00
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2218,8 +2250,8 @@
             - *This is an extremely difficult book, psyche up for it before digging in, at the moment this endeavour is best paired with Russian*
             - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 11
-                - Saturation: 0.00001%
+                - Randomtelewalk: 17
+                - Saturation: 0.00003%
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH
                   - Ancillary statistic
@@ -2254,7 +2286,7 @@
         - `ROOT_PROCESSING`
     - SUPPLEMENT
       - [Learn Ancient Greek: 2_Introduction accents](https://www.youtube.com/watch?v=P0WrVZWvvls&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=2)
-        - Videosweepmark: 3:06
+        - Videosweepmark: 6:00
         - ListStamp: 1
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods

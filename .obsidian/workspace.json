@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "204ca6a2dd0cabfd",
+  "active": "1d2f10d798166d48",
   "lastOpenFiles": [
     "self/log_overall-310_840.md",
     "self/__HT__eliza-project.md",

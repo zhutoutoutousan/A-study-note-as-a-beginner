@@ -1,0 +1,5 @@
+- Vietnamese - A2
+  - `Choice`
+    - `createLanguageImprovmentPlan('vietnamese', requirements=$(children.input('HOOK-Requirements', context)))`
+    - `convertToSleeperCell(this)`
+  - Initialization of language/meta structrure: 100%

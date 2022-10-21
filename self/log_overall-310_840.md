@@ -300,8 +300,8 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 10.5%
-                  - TEMP_TIMESTAMP: 12:00
+                  - CCS: 10.7%
+                  - TEMP_TIMESTAMP: 1:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -2325,20 +2325,15 @@
       - [wiktionary](https://en.wiktionary.org/wiki)
   - ?
     - https://dabkrs.com/p47
-- Greek - Mid A1++
-  - VOCAB\_FIELD \{CAPACITY_SETTING\}
-    - _meta
-      - tooling: \{INSTANT_MAPPING_NETWORK\} + \{EXTENSIVE_MAPPING_NETWORK\} + \{PHONETIC_MAPPING_NETWORK\}
-        - Sample sentences
-          - [Learnwitholiver](https://www.learnwitholiver.com/greek/)
-      - mode: FIFO
-      - capacity: \{CAPACITY_SETTING\}
-    - _processing
-      - _inherit
-        - `ROOT_PROCESSING`
+- Greek - Mid A1+++
+  - CHANGE_LOG
+    - 2022/10/21: *Sudden spike in comprehension of Greek verb form as a whole, expect significant progress starting from this date*
+      - PENDING PERSONAL_AXIOM_FACTBASE
+        - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progress*
+  - ?
     - SUPPLEMENT
       - [Learn Ancient Greek: 2_Introduction accents](https://www.youtube.com/watch?v=P0WrVZWvvls&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=2)
-        - Videosweepmark: 13:00
+        - Videosweepmark: 17:20
         - ListStamp: 1
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods
@@ -2353,7 +2348,7 @@
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 2.2%
-        - ανακαλύπτω | 23%
+        - ανακαλύπτω | 90%
           - [Greek Verbs 2 (perfect tense)](https://www.youtube.com/watch?v=B3MRvD0t47M&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=2)
             - Videosweepmark: 9:30
             - Listmark: 2

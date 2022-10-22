@@ -161,7 +161,12 @@
     - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
       - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
   - `ROOT.medium.GenericLanguageUseCaseOutReach.Redacteds`
-- Meta Language: F U Esperanto
+- Meta Language
+  - Prerequisite
+    - Reach at least P3 Level of all mainstream 5 languages, no more than P5 level
+    - Reach at least P1 Level of all peripheral 7 languages backed by 5-7 years' valid industry, academic, or role-based experience
+    - Overall proficiency in meta languages i.e. Data, Mathematics, and Product
+    - Related area for BCI, JSON/YAML, linguistics, information theory, and information circulation theory
   - Use Case: *When sentiments stop mattering*
   - `JSON` as interpersonal communication medium
     - **LOCKED**: Requires at least 5-8 yrs of valid, high-quality general cloud computing, PR, Enterprise IT experience
@@ -366,7 +371,7 @@
                       - STATIC
                         - TECC
                         - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
-                          - Videosweemark: 35:00
+                          - Videosweemark: 40:00
                           - Language pair: German
                           - NEW Single-use Accountability System 
                           - CURIOSITY_OUTREACH
@@ -650,14 +655,33 @@
       - Videosweepmark: 12:04
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
       - Videosweepmark: 17:00
+  - ATTACHABLE PASSIVE_ONLY Sports
+    - _CONFIG
+      - Language pair: *The most speaker of X language around for currently active sport*
+    - TOPIC Advanced Topics - Singular Node
+      - _security-group
+        - __whitelist
+          - *Renaissance Periodization*
+        - inboundDeny: *No bite-sized content*
+      - [Periodization and Programming for Strength Power Sports, with Mike Stone and Meg Stone | NSCA.com](https://www.youtube.com/watch?v=z53YuD3VrlU)
+      - [2019 Nobel Lectures in Physiology or Medicine](https://www.youtube.com/watch?v=cnpE3uAg7g8)
+    - TOPIC Enclosed Network Dynamics
+    - ?
+      - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
+        - PROCESSING_POINTER_FIELD
+          - Randomtelewalk
+  - TOPIC Economics(Mathematics)
+    - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
   - AVALANCHE
     - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.5`
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
-        - Videosweepmark: 32:00
+        - Videosweepmark: 37:00
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
+            - [Micromotives and Macrobehavior - T.C.Schelling](#)
+              - RUNNING: `Freeloader.sourcing`
             - [Statistical Physics & Complex Systems](https://cdn.ymaws.com/www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/contributed.pdf)
               - PROCESSING_POINTER_FIELD
                 - Randomtelewalk: 6
@@ -677,17 +701,20 @@
                             - Randomtelewalk: 16
                               - Saturation: 0.5%
                           - PROSSESSING_POINTER_STORE
-                            - PREREQUISITE_BACKUP LIMIT 5
+                            - PREREQUISITE_SUPPLEMENT LIMIT 5
+                              - [Dynamics 02_14 Polar Coordinate Problem with solutions in Kinematics of Particles](http://library.mibckerala.org/lms_frame/eBook/Moran%20-%20Introduction%20to%20Phenomenology%20(Routledge).pdf)
+                                - Videosweepmark: 1:30                              
                               - [Plane Polar Coordinates | Velocity & Acceleration in Polar Coordinates | Practice Problem](https://www.youtube.com/watch?v=HUyXx0_VK6w)
-                                - PROCESSING_POINTER_FIELD
-                                  - Videosweepmark: 1:00
+                                - Videosweepmark: 1:00
+                              - [Chap 15 - Kinetics of a particle: Impulse and momentum (R.C. Hibbeler) - Chap 15.1 Impulse and momentum](https://www.youtube.com/watch?v=PwdJh43zvkQ&list=PLnzLidQVZqH64NIHgHKJEx7MqGBd8wHp7)
+                                - Videosweepmark
+                                - Listmark: 1
+                              - [Calc III: Triple Integral in Spherical Coordinates example 5/6](https://www.youtube.com/watch?v=TvM_SeMeg9I)
+                              - ContinuousStimulationUnit DECAY:100 [Spherical Coordinate System (With 3D Animation)](https://www.youtube.com/watch?v=FDyenWWlPdU)
                             - CURIOSITY_OUT_REACH LIMIT 5
                               - Hamilton-Jacobi theory
                       - Language Pair: French
                   - Phenomenology
-                    - [Dynamics 02_14 Polar Coordinate Problem with solutions in Kinematics of Particles](http://library.mibckerala.org/lms_frame/eBook/Moran%20-%20Introduction%20to%20Phenomenology%20(Routledge).pdf)
-                      - PROCESSING_POINTER_FIELD
-                        - Randomtelewalk: 12
             - [A Concise Introduction to the Statistical Physics of Complex Systems](#)
         - NEW Black & Scholes Model
   - ACCA F3 Prep --> `this.concurrentTraffic = 0.2`
@@ -710,18 +737,31 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 31-191/18* &3.11
+                    - *Double mapping* | 32-191/18* &3.16
+                      - QualmStack: 3.13, 3.14
                       - Concentrated Supplement
+                        - Day book, Invoice
+                        - T, Opening Balance
+                          - [Balancing Accounts (balance cd and bd)](https://www.youtube.com/watch?v=3GoFWeUvC-Q)
+                        - Books of prime entry
+                          - [The books of Prime Entry (part a) - ACCA Financial Accounting (FA) lectures](https://www.youtube.com/watch?v=qxhXPLpF768)
                         - *Outlook of debit/credit note*
                           - [Debit Note vs Credit Note | Explained with Example](https://www.youtube.com/watch?v=iHpQ4KggmJY)
                             - Videosweepmark: 5:00
-                        - *Crystal clear understanding of Credit and Debit*
+                        - ContinuousStimulationUnit *Crystal clear understanding of Credit and Debit*
                           - Saturation: 15%
                           - Flow
+                            - [Rules of Debit and Credit - DEALER Trick - Saheb Academy](https://www.youtube.com/watch?v=JVUk3gSlcuA)
                             - [What Credit (CR) and Debit (DR) Mean on a Balance Sheet](https://www.investopedia.com/ask/answers/04/072304.asp#:~:text=Key%20Takeaways%3A,%2C%20notated%20as%20%22CR.%22)
-                              - Saturation: 10%
-                            - [Debits vs Credits - Accounting Basics - Part 1](https://www.youtube.com/watch?v=Xa68h8Mbv0M)
-                              - Videosweepmark: 8:30
+                              - Saturation: 13%
+                              - [Debit Definition: Meaning and Its Relationship to Credit](https://www.investopedia.com/terms/d/debit.asp)
+                                - Saturation: 5%
+                              - [Credit](https://www.investopedia.com/terms/c/credit.asp)
+                              - [Double Entry: What It Means in Accounting and How It's Used](https://www.investopedia.com/terms/d/double-entry.asp)
+                              - [Error of Principle](https://www.investopedia.com/terms/e/error-principle.asp)
+                              - [Balance Sheet: Explanation, Components, and Examples](https://www.investopedia.com/terms/b/balancesheet.asp)
+                              - [How a General Ledger Works With Double-Entry Accounting Along With Examples](https://www.investopedia.com/terms/g/generalledger.asp)
+                              - [Liability: Definition, Types, Example, and Assets vs. Liabilities](https://www.investopedia.com/terms/l/liability.asp)
                 - _supplement
                   - Conceptual Framework
                     - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
@@ -762,25 +802,37 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 20:00
+      - Videosweepmark: 26:00
       - LIST_NUM: 2
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
         - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 24
-            - Saturation: 0.002%
+          - Randomtelewalk: 25
+            - Saturation: 0.004%
+          - Lazy Freeloader's Feynman Technique Entries
+            - CH1_24
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - Mathematics as Language:`communication-medium` - `ERROR: RATING SYSTEM MISSING`
 - German - Upper C1+++++ --> *Strive for perfection*
   - **BH | QR**
-    - **Continuous Stimulation Unit**
+    - **EXTREME_EFFORT** **Continuous Stimulation Unit**
+      - _root_meta
+        - ExtremeEffortMnCUnit
+          - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
+          - MonitoringAxiomGoal: Boundry condition of extreme academic/intellectual effort and biological system malfunction
+          - Duration: *3w*
       - Binary Classification
       - Logistic Regression
       - Gradient Descent
   - Tooling
     - [Rechtschreibprüfung](https://sapling.ai/lang/german?gclid=CjwKCAjwwL6aBhBlEiwADycBIMzUBRg1hy4nBmNylybgEwZiIDnm4Klsx-cCYdmM7Kffeu80q5MW-hoCwfcQAvD_BwE)
-  - **BH - P** --> 10m/Tag + BH
+  - **EXTREME_EFFORT** **BH - P** --> 10m/Tag + BH: `ROOT.CentralExecutiveFunction` --> *Create extreme condition M&C unit and push this endeavour to its limit*
+    - _root_meta
+      - ExtremeEffortMnCUnit
+        - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
+        - MonitoringAxiomGoal: Boundry condition of extreme academic/intellectual effort and biological system malfunction
+        - Duration: *3w*
     - [Eintrag - 11-5](https://testdaf.neea.cn/)
     - A
       - `ROOT.MnC.createNewMetric('heat', context)`
@@ -831,12 +883,13 @@
           - [HT3. NV](https://www.youtube.com/watch?v=CXtRH1djPy0)
             - VSM: 5:00
           - [HT3. NV](https://www.youtube.com/watch?v=iXIRuKGURQ4)
+            - VSM: 5:00
           - [HT3. NV](https://www.youtube.com/watch?v=YsQGQk1xfXA)
         - Ratschlag
-      - **IFL** [T](https://www.youtube.com/watch?v=eDPm9gBu47w&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=5)
+      - **IFL** [T](https://www.youtube.com/watch?v=QHPEkfna3_g&list=PLZI0KAXvVWmYWpE9KPHQo6POLEsF5Vgvj&index=6)
         - PPF
-          - VSM: 18:48
-          - LM: 5
+          - VSM: 0:40
+          - LM: 6
         - PPS | Thema
   - RECOMPOSITION, FLOW German --> * |  --> `this.concurrentTraffic = 0`
   - ?
@@ -859,9 +912,11 @@
               - CURIOSITY_OUTREACH
                 - Hartley-Shannon law
                   - [Module 14: Shannon's Theorem](https://www.youtube.com/watch?v=pxuodnmUVV4)
-                    - Videosweepmark: 3:30
+                    - Videosweepmark: 8:30
                     - Nyquist equation
                     - SNR
+                    - DB to linear
+                      - [Module 1: dB, dBm and dBc](https://www.youtube.com/watch?v=jGtbfkCSS1s)
       - **BLACKHOLE GENESIS** MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 10min/day
         - Analysis(Real, Complex, Functional, Tensor & more)
           - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
@@ -1417,10 +1472,10 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 23.2%
-            - ETC：8.53 months
+            - CCS: 24.2%
+            - ETC：8.5 months
             - TEMP_TIMESTAMP
-            - Key Words: Chi-square, A/B
+            - Key Words: Chi-square, A/B, Adjusted $R^2$
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
@@ -1456,14 +1511,6 @@
                     - Videomark: 0:54
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark： 1:23
-          - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-            - CCS: 3.4%
-            - _state
-              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-          - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
-            - CCS: 1%
-            - _state
-              - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of TypeScript & Advanced React**
         - CCS: 4.2%
         - ETC: /
@@ -1531,13 +1578,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 54:00
+      - Videosweepmark: 1:01:00
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 29:00
+          - Videosweepmark: 37:30
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1642,7 +1689,7 @@
                   - PCAP + Wireshark
             - QUIC
               - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
-                - Videosweepmark: 7:00
+                - Videosweepmark: 14:00
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
             - Videosweepmark: 1:02:00/2:25:06
@@ -1713,9 +1760,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 63.4%
-      - E.T.A: 4.06 months
-      - TEMP_TIMESTAMP: 3:00
+      - CCS: 64.4%
+      - E.T.A: 4 months
+      - TEMP_TIMESTAMP: 1:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1744,72 +1791,15 @@
   - *Word is cheap, show me the data*
     - Consumption report
       - Energy consumption
+        - Makeshift detector
+          - *...\[inaudible\]... off the charts*
         - **Blackbox Methodology**: 
           - [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)
             - Videosweepmark: 3:20
         - Opportunity cost analysis
       - Time consumption
+        - Description: *12 languages daily*
         - TOTAL: 2h 20 min
-        - English
-          - IV: 18:05
-          - MA_5: 22:00 + 27:44 + 18:05 + ...\{2\}
-        - French
-          - IV: 13:49
-          - MA_5: 14:09 + 13:49 + ...\{3\}
-        - Italian
-          - IV: 20:09
-          - MA_5: 28:53 + 13:50 + 13:14 + 20:09 +...\{1\}
-        - Russian
-          - IV: 14:01
-          - MA_5: 11:38 + 2:29 + 14:01 ...\{2\}
-        - German
-          - IV: 40:53
-          - MA_5: 34:40 + 40:00 + 39:15 + 40:53 + ...\{1\}
-        - Portuguese
-          - IV: 6:39
-          - MA_5: 4:00 + 6:39 +  ...\{3\}
-        - Arabic
-          - IV: 8:06
-          - MA_5: 3:44 + 6:03 + 8:06 + ...\{2\}
-        - Japanese
-          - IV: 11:12
-          - MA_5: 7:42 + 11:12 + ...\{4\}
-        - Greek
-          - IV: 4:54
-          - MA_5: 5:51 + 4:54 + ...\{3\}
-    - Actual Addiction Manifestation
-      - NEXT TIME/ENERGY CONSUMPTION CHECK-IN DATE
-        - 2022/8/1
-        - TEMPLATE
-          - Time consumption report
-          - Energy consumption report
-          - Monthly Performance Improvement Plan
-            - Time consumption reduction plan
-            - Energy consumption reduction plan
-      - _meta-escalate
-        - TARGET: `ROOT_SCHEDULER`
-          - Context: *Root scheduler demands transcript of time consumption of daily reoccuring activities, encapsulate its context field as well as time block in a centralized space for furthur management, experimentation and agile time management*
-      - Action
-        - DAILY Imperative consecutive, controlled learning of French, German, Portuguese, Russian, Spanish, Greek, Italian
-        - CHURN ONLY Arabic, Korean, Vietnamese only when the **CHURN STATE** is **ON** e.g. "排队张嘴"
-      - Risk & Award: Maintenence level of Endorphin, Seretonin, Dopamine, and Oxytocin\(???\)
-    - Control technique
-      - Asynchronous Blockage removal
-      - Reduce time consumed by learning curve
-      - Reduce time consumed by discipline
-      - Use proportional cut on duration sub-parameters to scale down the time to be consumed if rigid schedule limit reached
-      - Upgrading `ROOT_SCHEDULER` to unlock more strategies
-  - Mindset Field
-    - *I can't emphasize more of pitch-perfect material selection with both the language where you can understand 100% and be able to go above and beyond i.e. initiate extensive visualization, connect with mind palace, interact with internal neurological, psychological, executive, developmental, supportive, and functional infrastructure, with the target language you want to improve AT THE VERY TIMESTAMP for the picosecond-perfect time span, ideally, across multiple dimensions, REGARDLESS OF your physiological, psychological, ergonomical, mental, spiritual, social, socialeconomical, occultual status and more*
-      - _meta-escalate
-        - *Even this, langaur is not even remotely enough, I want this pattern to propagatema to every last bit of manifested interaction, homeostasis if possible, even every last bit of quark-particle-level movement, ideally, it will creep into the occult realm*
-      - _meta
-        - erudition
-          - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
-            - Bookmark Field --> *In the future, Bookmark Field will be renamed to PROCESSING POINTER FIELD*
-              - Sweep: 20/1736
-              - Pruned: 0-15
-              - Struct: 15/15~18
   - Efficient International Input for other languages
     - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
     - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
@@ -1899,7 +1889,7 @@
         - LOCKED Achieve Upper B1 to unlock
     - VOLATILE
       - `verb`
-        - 2% | يقلب
+        - 10% | قلب
         - 2% | اِسْتَطَاعَ
         - 10% | نصعد
         - تقديم
@@ -1907,7 +1897,7 @@
         - 10% | أَفْهَمُ
         - 3% | تسبقها
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 44:00
+            - Videosweepmark: 48:00
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1927,12 +1917,13 @@
         - 9% | طويل
         - متأخر
       - `noun`
-        - المستأجرين
+        - 5% | المستأجرين
         - 25% | موجزًا
         - 40% | القواعد
         - 35% | مفهوم
-        - 90% | تفصيل
+        - 100% TTL | تفصيل
         - 45% | نهج
+        - 40% | الْمَالِكَ
         - 5% | مبدأ
         - الساعة
         - ستين
@@ -1941,11 +1932,12 @@
             - Videosweepmark: 16:20 TTL
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
-      - Videosweepmark: 29:00
+      - Videosweepmark: 32:30
       - VideoListStamp: 2
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
+        - Videosweepmark: 1:40
   - TOPIC Key to the world of Arabic
   - TOPIC: Jurisprudence and Shariah Law
     - Jurisprudence Lectures
@@ -1985,6 +1977,10 @@
   - Syntax base construction stage: 99%
   - No change, next stage E.T.A 10d
   - TOPIC Continuous Monkey Business Support
+    - **EMERGENCY OVERRIDE** **HW: Moral Cellular Automata Variation** --> Fullstack project
+      - After 10 rounds, create sentient GENESIS EVIL/EGOIST/ALTRUIST cell
+        - Every sentient cell is assigned IQ between 100 to 200
+        - Apply Homophily to non-sentient cells
     - World's TSEB Website: *Luxurious website that provides you with World-class WORST User Experience*
       - Design
         - Figma
@@ -2050,6 +2046,15 @@
             - Randomtelewalk: 636
               - Saturation: 0.00002%
   - TOPIC Innovation, Tech, Ideas, Productivity
+    - Coding
+      - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
+        - CCS: 3.4%
+        - _state
+          - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
+      - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
+        - CCS: 1%
+        - _state
+          - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
     - Tech
       - DevSecOps - AD-HOC
         - Internal security
@@ -2165,8 +2170,8 @@
           - Videosweepmark: 15:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec04-1（直流回路網解析：例１・キルヒホッフの法則）](https://www.youtube.com/watch?v=hd8yYNgA8dE&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=8)
-          - Videosweepmark: 3:00
+        - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
+          - Videosweepmark
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2177,30 +2182,32 @@
       - **てもらう** --> `this.meso` | 45%
         - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
     - VOLATILE
+      - _STATE: ELIMINATE
       - `verb`
-        - 伝わる | 25%
-        - ACCELERATE INFREQUENT 媒介する | 90%
+        - 伝わる | 50%
+        - ACCELERATE INFREQUENT 媒介する | 100% TTL
         - THROTTLE FREQUENT 頂く | 25%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
         - THROTTLE FREQUENT 使う
         - 直す  | 4%
       - `adjective`
-        - いくつ
+        - 幾つ | 80%
       - `phrase`
       - `adverb`
       - `?.connector`
-        - だけで | 20%
+        - だけで | 90%
         - けれども | 45%
         - やすいかもしれ | 10%
       - `bundle`
       - ?
         - または | 5%
         - されました | 40%
-        - てみる | 30%
+        - てみる | 90%
       - `noun`
         - THROTTLE FREQUENT 言葉 | 77%
         - テブナン
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
+            - Videosweepmark: 1:00
 - Russian - Mid B1++++
   - Typing speed training
     - Style: In tandem with 
@@ -2256,24 +2263,23 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
         - поместить | 40%
-        - сосредоточиться | 80%
+        - сосредоточиться | 100% TTL
         - переключаться | 40%
-        - закончиться
-        - проводить
+        - закончиться | 50%
+        - проводить | 20%
       - ?
         - вот
       - **прилагательное**
         - выходной
         - следующей | 50%
         - недооцениваемой
-        - последовательный | 90%
       - **наречие**
         - определенно | 60%
       - **существительное**
         - самообъяснение | 50%
-        - представление | 80%
+        - представление | 90%
         - разговор | 40%
-        - введение | 40%
+        - введение | 70%
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
@@ -2281,7 +2287,7 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [Binary Tree Inorder Traversal Solution Explained - Java](https://www.youtube.com/watch?v=WZwNoTm_9d8&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=8)
-      - Videosweepmark: 4:00
+      - Videosweepmark: 6:00
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -2289,9 +2295,9 @@
         - Sample Space, Event
       - CURIOSITY_CACHE
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
-      - [TITLE PENDING](https://youtu.be/FJd_1H3rZGg)
+      - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 5:02
+        - Videosweepmark: 8:02
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2329,12 +2335,13 @@
   - CHANGE_LOG
     - 2022/10/21: *Sudden spike in comprehension of Greek verb form as a whole, expect significant progress starting from this date*
       - PENDING PERSONAL_AXIOM_FACTBASE
-        - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progress*
+        - Familiarity with Verb form in **Italian, Spanish, Portuguese** --> Accelerated Greek Verb Form Comprehension
+        - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progresses*
   - ?
     - SUPPLEMENT
-      - [Learn Ancient Greek: 2_Introduction accents](https://www.youtube.com/watch?v=P0WrVZWvvls&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=2)
-        - Videosweepmark: 17:20
-        - ListStamp: 1
+      - [Learn Ancient Greek: 3_Unit1 Basic English Grammar 1](https://www.youtube.com/watch?v=37uQCuNQwNs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=3)
+        - Videosweepmark
+        - ListStamp: 2
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods
         - `language.meta.pronounciation.callibrate()`
@@ -2348,11 +2355,11 @@
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 2.2%
-        - ανακαλύπτω | 90%
+        - ανακαλύπτω | 90%  
           - [Greek Verbs 2 (perfect tense)](https://www.youtube.com/watch?v=B3MRvD0t47M&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=2)
             - Videosweepmark: 9:30
             - Listmark: 2
-        - φοράω | 3%
+        - φοράω | 70%
         - αντιμετωπίζω | 10%
         - σχεδιάζω | 5%
       - **επίθετο**

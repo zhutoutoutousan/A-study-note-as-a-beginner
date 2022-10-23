@@ -306,7 +306,7 @@
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
                   - CCS: 10.7%
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP: 6:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -371,7 +371,7 @@
                       - STATIC
                         - TECC
                         - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
-                          - Videosweemark: 40:00
+                          - Videosweemark: 45:00
                           - Language pair: German
                           - NEW Single-use Accountability System 
                           - CURIOSITY_OUTREACH
@@ -671,13 +671,28 @@
         - PROCESSING_POINTER_FIELD
           - Randomtelewalk
   - TOPIC Economics(Mathematics)
+    - Insight into Financial Crysis
+      - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
+      - Videosweepmark: 3:30
+      - ATTACHABLE Political Science Bundle
+        - Agency Theory
+          - Erudition
+            - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
+              - PROCESSING POINTER FIELD
+                - STRUCT: 7-18
+                - ONCE: 18-20
+                - Sweepmark: 20/538
+              - CURIOUSITY OUTREACH FIELD
+                - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
+                  - PROCESSING POINTER FIELD
+                    - Videosweepmark: 0:42/1:36:04
   - AVALANCHE
     - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.5`
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
-        - Videosweepmark: 37:00
+        - Videosweepmark: 40:30
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
             - [Micromotives and Macrobehavior - T.C.Schelling](#)
@@ -737,7 +752,7 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 32-191/18* &3.16
+                    - *Double mapping* | 32-192/18* &3.17
                       - QualmStack: 3.13, 3.14
                       - Concentrated Supplement
                         - Day book, Invoice
@@ -802,7 +817,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 26:00
+      - Videosweepmark: 29:30
       - LIST_NUM: 2
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
@@ -816,7 +831,7 @@
 - Mathematics as Language:`communication-medium` - `ERROR: RATING SYSTEM MISSING`
 - German - Upper C1+++++ --> *Strive for perfection*
   - **BH | QR**
-    - **EXTREME_EFFORT** **Continuous Stimulation Unit**
+    - **EXTREME_EFFORT** **Continuous Stimulation Unit** | **IDLE_SHUFFLE**
       - _root_meta
         - ExtremeEffortMnCUnit
           - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
@@ -827,7 +842,7 @@
       - Gradient Descent
   - Tooling
     - [Rechtschreibprüfung](https://sapling.ai/lang/german?gclid=CjwKCAjwwL6aBhBlEiwADycBIMzUBRg1hy4nBmNylybgEwZiIDnm4Klsx-cCYdmM7Kffeu80q5MW-hoCwfcQAvD_BwE)
-  - **EXTREME_EFFORT** **BH - P** --> 10m/Tag + BH: `ROOT.CentralExecutiveFunction` --> *Create extreme condition M&C unit and push this endeavour to its limit*
+  - **EXTREME_EFFORT** **BH - P** | **IDLE_SHUFFLE** --> 10m/Tag + BH: `ROOT.CentralExecutiveFunction` --> *Create extreme condition M&C unit and push this endeavour to its limit*
     - _root_meta
       - ExtremeEffortMnCUnit
         - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
@@ -842,18 +857,19 @@
           - Randomtelewalk:17
             - S: 7%
     - S
+      - Rote learning
+        - [RM1](https://www.youtube.com/watch?v=p4pLLK-l-qk)
       - Execution
         - [QWERTZ](http://www.voith-usa.com/German/Ucol/GermanCharacters/GermanKeyboardLayout.html)
       - Input-Output Pair
         - [SA - 1](https://fsc.bsu.by/wp-content/uploads/2015/12/schriftlicher_ausdruck.pdf)
-          - B1
-            - I1
-              - CP: *Zusammenfassung*
-              - V: 95.2%
-              - Shadowing
-                - Error rate: 58%
-                - Meta-connection: 7%
-                - Automaticity: 6%
+          - B1-B3
+            - CP: *Zusammenfassung*
+            - V: 97.2%
+            - Shadowing
+              - Error rate: 60%
+              - Meta-connection: 15%
+              - Automaticity: 12%
       - Shadowing
     - M
       - Input-Output Pair
@@ -1472,7 +1488,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 24.2%
+            - CCS: 24%
             - ETC：8.5 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -1490,25 +1506,13 @@
                 - ERC-721
                 - ERC-1155
               - Cybersecurity for DAO Bundle
-              - Political Science Bundle
-                - Agency Theory
-                  - Erudition
-                    - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
-                      - PROCESSING POINTER FIELD
-                        - STRUCT: 7-18
-                        - ONCE: 18-20
-                        - Sweepmark: 20/538
-                      - CURIOUSITY OUTREACH FIELD
-                        - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
-                          - PROCESSING POINTER FIELD
-                            - Videosweepmark: 0:42/1:36:04
-                  - Vids
-                    - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
-                - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
-                  - Videomark: 5:14/2:05:53
-                - Power and Politics in Today’s World
-                  - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                    - Videomark: 0:54
+                - Vids
+                  - [Principal-Agent Modelling](https://www.youtube.com/watch?v=z1dprB5p30w)
+              - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
+                - Videomark: 5:14/2:05:53
+              - Power and Politics in Today’s World
+                - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
+                  - Videomark: 0:54
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark： 1:23
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of TypeScript & Advanced React**
@@ -1578,13 +1582,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:01:00
+      - Videosweepmark: 1:04:07
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 37:30
+          - Videosweepmark: 41:00
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1689,7 +1693,7 @@
                   - PCAP + Wireshark
             - QUIC
               - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
-                - Videosweepmark: 14:00
+                - Videosweepmark: 18:00
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
             - Videosweepmark: 1:02:00/2:25:06
@@ -1760,9 +1764,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 64.4%
+      - CCS: 65.1%
       - E.T.A: 4 months
-      - TEMP_TIMESTAMP: 1:00
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1897,7 +1901,7 @@
         - 10% | أَفْهَمُ
         - 3% | تسبقها
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 48:00
+            - Videosweepmark: 51:30
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1927,12 +1931,10 @@
         - 5% | مبدأ
         - الساعة
         - ستين
-        - 3% | التي
-          - [Arabic verbs mastery lesson 1](https://www.youtube.com/watch?v=lrkIyxiUHrw)
-            - Videosweepmark: 16:20 TTL
+        - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
-      - Videosweepmark: 32:30
+      - Videosweepmark: 38:00
       - VideoListStamp: 2
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
@@ -1974,15 +1976,19 @@
     - *Spanish, in many ways will be similar to the nature of Italian, except it's more purely about IT/Coding, Engineering projects with western culture*
     - *Convert all previous AWS sprints to ContinuousDevelopmentUnit, attach M&C to each one as ProofOfCompletion to SpanishAllocatedResourceQuota, merge if needed*
     - **Spanish is by far the most crutially pivotal language to drive output-intensive development because its related topics are directly related to real-world use case**
-  - Syntax base construction stage: 99%
-  - No change, next stage E.T.A 10d
   - TOPIC Continuous Monkey Business Support
+    - Antidote to Workplace Hell: Meta workspace
+      - Business problem: *Godaddy...Google Suite...Ms Workspace...Kingsoft...Tencent...DD...What a mess*
     - **EMERGENCY OVERRIDE** **HW: Moral Cellular Automata Variation** --> Fullstack project
       - After 10 rounds, create sentient GENESIS EVIL/EGOIST/ALTRUIST cell
         - Every sentient cell is assigned IQ between 100 to 200
         - Apply Homophily to non-sentient cells
+      - Sub-project HW | **IDLE_SHUFFLE**
+    - Streaming
+      - Tools
+        - OBS Studio
     - World's TSEB Website: *Luxurious website that provides you with World-class WORST User Experience*
-      - Design
+      - Design  
         - Figma
         - Spline 3D
       - Victim framework
@@ -1990,9 +1996,6 @@
     - HW
       - Automata
   - TOPIC Continuous Incubator Support
-    - `ROOT.CentralExecutiveFunction`
-      - *To effectively support incubation and allocate resource in a non-obtrusive manner, privacy-preserving incubation contribution logic will be explored*
-      - *Highly confidential material should ne'er show up which includes but not limited to: Resource acquisition plan, Roll-out plan, Sensitive IT-related information, Adjustment Planning for Current Arrangement*
     - _G
       - P
       - BD
@@ -2028,7 +2031,7 @@
       - Sonar ^ Synk
       - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
         - CCS: 3.4%
-      - Advanced React and Redux | Enzyme ^ Jest
+      - Advanced React and Redux | Enzyme ^ Jest | **IDLE_SHUFFLE**
   - TOPIC Programming Basics
     - Meta Programming: From Semi-conductor/Quantum Computer to Scalable Systems
       - Semi-conductor physics
@@ -2047,8 +2050,8 @@
               - Saturation: 0.00002%
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
-      - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-        - CCS: 3.4%
+      - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
+        - CCS: 3.8%
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2171,7 +2174,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
-          - Videosweepmark
+          - Videosweepmark: 1:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2185,17 +2188,18 @@
       - _STATE: ELIMINATE
       - `verb`
         - 伝わる | 50%
-        - ACCELERATE INFREQUENT 媒介する | 100% TTL
         - THROTTLE FREQUENT 頂く | 25%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
-        - THROTTLE FREQUENT 使う
+        - THROTTLE FREQUENT 使う | 5%
+          - [Learn Japanese verb conjugation: TE form (て形)](https://www.youtube.com/watch?v=475X4-Ujk1Y)
         - 直す  | 4%
+        - 考える | 50%
       - `adjective`
         - 幾つ | 80%
       - `phrase`
       - `adverb`
       - `?.connector`
-        - だけで | 90%
+        - だけで | 100%
         - けれども | 45%
         - やすいかもしれ | 10%
       - `bundle`
@@ -2263,31 +2267,31 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
         - поместить | 40%
-        - сосредоточиться | 100% TTL
         - переключаться | 40%
-        - закончиться | 50%
+        - закончиться | 90%
         - проводить | 20%
       - ?
         - вот
       - **прилагательное**
         - выходной
         - следующей | 50%
-        - недооцениваемой
+        - недооценивать | 40%
       - **наречие**
         - определенно | 60%
       - **существительное**
         - самообъяснение | 50%
-        - представление | 90%
+        - представление | 100% TTL 
         - разговор | 40%
-        - введение | 70%
+        - введение | 90%
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
+    - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
     - [Binary Tree Inorder Traversal Solution Explained - Java](https://www.youtube.com/watch?v=WZwNoTm_9d8&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=8)
-      - Videosweepmark: 6:00
+      - Videosweepmark: 8:25 NEXT
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -2297,7 +2301,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 8:02
+        - Videosweepmark: 9:35
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2340,7 +2344,7 @@
   - ?
     - SUPPLEMENT
       - [Learn Ancient Greek: 3_Unit1 Basic English Grammar 1](https://www.youtube.com/watch?v=37uQCuNQwNs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=3)
-        - Videosweepmark
+        - Videosweepmark: 3:31
         - ListStamp: 2
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods

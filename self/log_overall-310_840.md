@@ -305,8 +305,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 10.7%
-                  - TEMP_TIMESTAMP: 6:00
+                  - CCS: 11.2%
+                  - ETA: 9.8m
+                  - TEMP_TIMESTAMP: 9:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -371,9 +372,10 @@
                       - STATIC
                         - TECC
                         - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
-                          - Videosweemark: 45:00
+                          - Videosweemark: 1:03:00
                           - Language pair: German
-                          - NEW Single-use Accountability System 
+                          - NEW Single-use Accountability System
+                          - NEW Bookpair A Pragmatic Introduction to Secure Multi-party Configuration
                           - CURIOSITY_OUTREACH
                             - Differential Privacy
                               - _category
@@ -652,9 +654,9 @@
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
-      - Videosweepmark: 12:04
+      - Videosweepmark: 18:04
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 17:00
+      - Videosweepmark: 22:07
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG
       - Language pair: *The most speaker of X language around for currently active sport*
@@ -674,25 +676,39 @@
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
-      - Videosweepmark: 3:30
+      - Videosweepmark: 12:05
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
               - PROCESSING POINTER FIELD
-                - STRUCT: 7-18
-                - ONCE: 18-20
-                - Sweepmark: 20/538
+                - Randomtelewalk: 19
+                  - Saturation: 0.005%
               - CURIOUSITY OUTREACH FIELD
                 - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
                   - PROCESSING POINTER FIELD
                     - Videosweepmark: 0:42/1:36:04
+                - *Mixtum compositum of competition*
+                  - [Monopoly basics | Forms of competition | Microeconomics | Khan Academy](https://www.youtube.com/watch?v=77CApfQlTuE&list=PLSQl0a2vh4HCINDWqMJVvLli1k-SfTxS2&index=1)
+                  - [Monopolistic Competition- Short Run and Long Run- Micro 4.4](https://www.youtube.com/watch?v=8a3gXThQeK0)
+              - PERSISTENCY_LAYER_BUFFER
+                - CRITICAL_THINKING_SLOT
+                  - PRACTICE *How does reality deviate from all CONTEXT_ASSUMPTION? Can you describe the difference in qualitative, quantitative, simulational, and infographic/infoanimational manner?*
+                  - REFERENCE
+                    - CONTEXT_FIELD
+                      - CONTEXT_ASSUMPTION *If economics can be correctly defined to be the science of cooperation with respect to the utilization of resources, economic analysis has to focus on arrangements, contracts organizations, and institutions that set the rules according to which cooperation is taking place among individuals.*
+                      - CONTEXT_ASSUMPTION *Each individual is expected to contribute and how each individual participates and shares success or failure of the joint effort*
+                      - *Four such idealised types of organizations and institutional arrangements are represented through*
+                        - *Competition(the decentralized co-ordination of markets)*
+                        - *Regulation(enforcing contracts, centralized planning, control exercised by bureaucracies or government, penalities if rules are violated)*
+                        - *Motivation(performance=oriented reward and incentives as they are common within private business enterprises)*
+                        - *Socialization(the mutual adjustment, close observation, and help as provided in families and clans)*
   - AVALANCHE
     - RECOMPOSITION, FLOW French --> * |  --> `this.concurrentTraffic = 0.5`
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
-        - Videosweepmark: 40:30
+        - Videosweepmark: 47:40
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
             - [Micromotives and Macrobehavior - T.C.Schelling](#)
@@ -700,6 +716,26 @@
             - [Statistical Physics & Complex Systems](https://cdn.ymaws.com/www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/contributed.pdf)
               - PROCESSING_POINTER_FIELD
                 - Randomtelewalk: 6
+                - InterestedEntries: 6
+                - MetaProcessing
+                  - Training Model Instances
+                    - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
+                    - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
+                    - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                    - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+                    - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                    - [How To Read Papers Fast & Effectively - PhD student](https://www.youtube.com/watch?v=EXALI6jFu6E)
+                    - [I read the top 100 scientific papers of all time](https://www.youtube.com/watch?v=4sLWRScmfH0)
+                  - Context
+                    - [If you torture data long enough, it will confess to anything](https://www.youtube.com/watch?v=42QuXLucH3Q&t=8s)
+                    - [The Illusion of Truth](https://www.youtube.com/watch?v=cebFWOlx848)
+                - PaperProcessingPointer
+                  - Instances: 6
+                  - *Dynamical properties and scaling behavior of self-propelled particles: Langevin dynamics*: 6-7
+                    - ProcessingInstanceOutput:
+                      - Saturation: 0
+                    - ProcessingInstanceHash: `/ADVANCED_PROCESSING_SPACE/hbWljcw==`
+                    - ProcessingInstanceAccess: [RESTRICTED](https://drive.google.com/file/d/1ZgsdINsNC0oOC3fYy1QAb7aS1F79bH5h/view?usp=sharing)
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH LIMIT 5
                   - Cytoplasm
@@ -752,12 +788,14 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 32-192/18* &3.17
-                      - QualmStack: 3.13, 3.14
+                    - *Double mapping* | 32-192/18* &4
+                      - QualmStack LIMIT 5: 3.13-17
+                        - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                       - Concentrated Supplement
                         - Day book, Invoice
                         - T, Opening Balance
                           - [Balancing Accounts (balance cd and bd)](https://www.youtube.com/watch?v=3GoFWeUvC-Q)
+                            - Videosweepmark: 3:30
                         - Books of prime entry
                           - [The books of Prime Entry (part a) - ACCA Financial Accounting (FA) lectures](https://www.youtube.com/watch?v=qxhXPLpF768)
                         - *Outlook of debit/credit note*
@@ -765,8 +803,10 @@
                             - Videosweepmark: 5:00
                         - ContinuousStimulationUnit *Crystal clear understanding of Credit and Debit*
                           - Saturation: 15%
-                          - Flow
+                          - Persistent
                             - [Rules of Debit and Credit - DEALER Trick - Saheb Academy](https://www.youtube.com/watch?v=JVUk3gSlcuA)
+                              - Videosweepmark: 3:30
+                          - Flow
                             - [What Credit (CR) and Debit (DR) Mean on a Balance Sheet](https://www.investopedia.com/ask/answers/04/072304.asp#:~:text=Key%20Takeaways%3A,%2C%20notated%20as%20%22CR.%22)
                               - Saturation: 13%
                               - [Debit Definition: Meaning and Its Relationship to Credit](https://www.investopedia.com/terms/d/debit.asp)
@@ -817,13 +857,13 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 29:30
+      - Videosweepmark: 33:00
       - LIST_NUM: 2
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
         - PROCESSING_POINTER_FIELD
           - Randomtelewalk: 25
-            - Saturation: 0.004%
+            - Saturation: 0.005%
           - Lazy Freeloader's Feynman Technique Entries
             - CH1_24
   - TOPIC Law, regulation, justice, politics
@@ -839,61 +879,74 @@
           - Duration: *3w*
       - Binary Classification
       - Logistic Regression
+        - [Visual Guide to Logistic Regression](https://www.youtube.com/watch?v=CA-DR44QHZQ)
+        - [7.2.2. Math behind Logistic Regression | Machine Learning Models](https://www.youtube.com/watch?v=obbalnq94rA&t=158s)
+        - [Logistic Regression - VISUALIZED!](https://www.youtube.com/watch?v=slBI5YuVUTM&t=325s)
+      - Cost function
       - Gradient Descent
   - Tooling
     - [Rechtschreibprüfung](https://sapling.ai/lang/german?gclid=CjwKCAjwwL6aBhBlEiwADycBIMzUBRg1hy4nBmNylybgEwZiIDnm4Klsx-cCYdmM7Kffeu80q5MW-hoCwfcQAvD_BwE)
-  - **EXTREME_EFFORT** **BH - P** | **IDLE_SHUFFLE** --> 10m/Tag + BH: `ROOT.CentralExecutiveFunction` --> *Create extreme condition M&C unit and push this endeavour to its limit*
-    - _root_meta
-      - ExtremeEffortMnCUnit
-        - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
-        - MonitoringAxiomGoal: Boundry condition of extreme academic/intellectual effort and biological system malfunction
-        - Duration: *3w*
-    - [Eintrag - 11-5](https://testdaf.neea.cn/)
-    - A
-      - `ROOT.MnC.createNewMetric('heat', context)`
-        - *Heat is substitute for Forgetting curve*
-      - [PT](http://dl.melalinstitute.com/german/goethe/Pr%C3%BCfungstraining%20DaF_%20B2-C1%20.pdf)
-        - PPF
-          - Randomtelewalk:17
-            - S: 7%
-    - S
-      - Rote learning
-        - [RM1](https://www.youtube.com/watch?v=p4pLLK-l-qk)
-      - Execution
-        - [QWERTZ](http://www.voith-usa.com/German/Ucol/GermanCharacters/GermanKeyboardLayout.html)
-      - Input-Output Pair
-        - [SA - 1](https://fsc.bsu.by/wp-content/uploads/2015/12/schriftlicher_ausdruck.pdf)
-          - B1-B3
-            - CP: *Zusammenfassung*
-            - V: 97.2%
-            - Shadowing
-              - Error rate: 60%
-              - Meta-connection: 15%
-              - Automaticity: 12%
-      - Shadowing
-    - M
-      - Input-Output Pair
-        - [Eine der schwierigsten. Gut gemeistert](https://www.youtube.com/watch?v=SBnLUkGi_gg)
-          - Videosweepmark: 0 ENCORE REASON: Extremely difficult material
-            - ENCORE's: 1/10
-        - [Redemittel & Aufgaben & Lösungen](https://www.youtube.com/watch?v=SX6DLGGfK7I)
-          - Videosweepmark: 3:25
-      - Context
-        - EG
-        - [Digitaler Hinweise](https://www.youtube.com/watch?v=79eIDIWt_sM)
-          - VideosweepmarkÖ 3:35
-        - [Sprechen (2021)](https://www.youtube.com/watch?v=ubLPJFFVdoA)
-        - [H](https://www.youtube.com/watch?v=QFm8LcS4WKo)
-        - [TF - A7](https://www.youtube.com/watch?v=3LLLSNCUYow)
-          - VSM: 5:21
-    - L
-      - Input-Output Pair
-        - PHYSICAL TJB
-          - CPP: 120-199
-      - Context
-        - [Schlüsselwörter sind echt wichtig](https://www.youtube.com/watch?v=eA8IrayDv_Y)
-          - VSM: 10:00
-    - H
+  - Compromise to Collective Mankind Stupidities
+    - `ROOT.InterveneFunction.ChangeManagement`
+      - Use `?.InnateIntuition` as makeshift smarts for current context
+    - GT
+      - RUNNING `this.breadFirstSearch(reachableWorld: ReachableWorld, CONFIG?: CONFIG, **kwargs?: ROOT_EXECUTION_SECURITY_GROUP)`
+      - RUNNING `this.contextOsmosis(reachableWorld: ReachableWorld, CONFIG?: CONFIG, **kwargs?: ROOT_EXECUTION_SECURITY_GROUP)`
+    - TDF
+      - HIBERNATE OVERRIDE `HANGED_SAVED_STATE`
+        - `self.restoreState(trigger, contextDiff)`
+        - **EXTREME_EFFORT** **BH - P** | **IDLE_SHUFFLE** --> 10m/Tag + BH: `ROOT.CentralExecutiveFunction` --> *Create extreme condition M&C unit and push this endeavour to its limit*
+          - _root_meta
+            - ExtremeEffortMnCUnit
+              - ResourceAssignment: *Every residual resource i.e. energy, time, network shall be reaped to support while cheating any form of biological system compromise*
+              - MonitoringAxiomGoal: Boundry condition of extreme academic/intellectual effort and biological system malfunction
+              - Duration: *3w*
+      - [Eintrag - 11-5](https://testdaf.neea.cn/)
+      - A
+        - `ROOT.MnC.createNewMetric('heat', context)`
+          - *Heat is substitute for Forgetting curve*
+        - [PT](http://dl.melalinstitute.com/german/goethe/Pr%C3%BCfungstraining%20DaF_%20B2-C1%20.pdf)
+          - PPF
+            - Randomtelewalk:17
+              - S: 7%
+      - S
+        - Rote learning
+          - [RM1](https://www.youtube.com/watch?v=p4pLLK-l-qk)
+        - Execution
+          - [QWERTZ](http://www.voith-usa.com/German/Ucol/GermanCharacters/GermanKeyboardLayout.html)
+        - Input-Output Pair
+          - [SA - 1](https://fsc.bsu.by/wp-content/uploads/2015/12/schriftlicher_ausdruck.pdf)
+            - B1-B3
+              - CP: *Zusammenfassung*
+              - V: 97.2%
+              - Shadowing
+                - Error rate: 60%
+                - Meta-connection: 15%
+                - Automaticity: 12%
+        - Shadowing
+      - M
+        - Input-Output Pair
+          - [Eine der schwierigsten. Gut gemeistert](https://www.youtube.com/watch?v=SBnLUkGi_gg)
+            - Videosweepmark: 0 ENCORE REASON: Extremely difficult material
+              - ENCORE's: 1/10
+          - [Redemittel & Aufgaben & Lösungen](https://www.youtube.com/watch?v=SX6DLGGfK7I)
+            - Videosweepmark: 3:25
+        - Context
+          - EG
+          - [Digitaler Hinweise](https://www.youtube.com/watch?v=79eIDIWt_sM)
+            - VideosweepmarkÖ 3:35
+          - [Sprechen (2021)](https://www.youtube.com/watch?v=ubLPJFFVdoA)
+          - [H](https://www.youtube.com/watch?v=QFm8LcS4WKo)
+          - [TF - A7](https://www.youtube.com/watch?v=3LLLSNCUYow)
+            - VSM: 5:21
+      - L
+        - Input-Output Pair
+          - PHYSICAL TJB
+            - CPP: 120-199
+        - Context
+          - [Schlüsselwörter sind echt wichtig](https://www.youtube.com/watch?v=eA8IrayDv_Y)
+            - VSM: 10:00
+      - H
       - CTX
         - Allgemein
           - [HT3. NV](https://www.youtube.com/watch?v=CXtRH1djPy0)
@@ -923,16 +976,20 @@
         - [McGraw-Hill Series in EE/CE](http://powerunit-ju.com/wp-content/uploads/2016/11/Power-System-Analysis-by-Hadi-Saadat-Electrical-Engineering-libre.pdf)
         - [COMMUNICATION SYSTEMS: An Introduction to Signals and Noise in Electrical Communication](https://eedmd.weebly.com/uploads/9/6/6/9/96692532/carlson.pdf)
           - PPF
-            - Randomtelewalk: 27
-              - Saturation: 0.002%
+            - Randomtelewalk: 30
+              - Saturation: 0.015%
               - CURIOSITY_OUTREACH
                 - Hartley-Shannon law
+                  - [Michelle Effros | Shannon's Channel and Capacity](https://www.youtube.com/watch?v=t_AYln-O2_o)
                   - [Module 14: Shannon's Theorem](https://www.youtube.com/watch?v=pxuodnmUVV4)
-                    - Videosweepmark: 8:30
+                    - Videosweepmark: 13:30 TTL
                     - Nyquist equation
                     - SNR
                     - DB to linear
                       - [Module 1: dB, dBm and dBc](https://www.youtube.com/watch?v=jGtbfkCSS1s)
+                        - Videosweepmark: 3:30
+                        - CURIOSITY_OUTREACH LIMIT 1
+                          - RF system
       - **BLACKHOLE GENESIS** MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 10min/day
         - Analysis(Real, Complex, Functional, Tensor & more)
           - [G11CAL Mathematical Analysis | Workshop 1: Math. Analysis](https://www.youtube.com/watch?v=a0JNGx0Da8k&list=PL58984C080F2B0575)
@@ -968,7 +1025,7 @@
         - Stanford CS224W
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 26.7%
-            - Videosweepmark --> `this.concurrentTraffic = 0.33`
+            - Videosweepmark: 9:00 --> `this.concurrentTraffic = 0.33`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
@@ -984,6 +1041,7 @@
                     - Iterative classification
                     - Belieft propagation
                   - CURIOSITY_OUTREACH
+                    - Loopy Belief Propagation
                     - [Social and Economic Networks 2.1 Week 2: Homophily](https://www.youtube.com/watch?v=UeEa6NpXYtA)
                       - Videosweepmark: 5:00
                 - Influence
@@ -1488,7 +1546,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 24%
+            - CCS: 25%
             - ETC：8.5 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -1512,9 +1570,9 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 0:54
+                  - Videomark: 5:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
-                - Videosweepmark： 1:23
+                - Videosweepmark：5:07
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of TypeScript & Advanced React**
         - CCS: 4.2%
         - ETC: /
@@ -1582,13 +1640,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:04:07
+      - Videosweepmark: 1:18:05
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 41:00
+          - Videosweepmark: 56:04
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1693,7 +1751,8 @@
                   - PCAP + Wireshark
             - QUIC
               - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
-                - Videosweepmark: 18:00
+                - Videosweepmark: 29:30 TTL
+                - NEW Bookpair: TCP Illustrated VolumeI: Second edition
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
             - Videosweepmark: 1:02:00/2:25:06
@@ -1764,9 +1823,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 65.1%
-      - E.T.A: 4 months
-      - TEMP_TIMESTAMP
+      - CCS: 65.8%
+      - E.T.A: 3.97 months
+      - TEMP_TIMESTAMP: 5:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1797,6 +1856,7 @@
       - Energy consumption
         - Makeshift detector
           - *...\[inaudible\]... off the charts*
+            - Root Cause: Insanely hard materials
         - **Blackbox Methodology**: 
           - [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)
             - Videosweepmark: 3:20
@@ -1894,14 +1954,17 @@
     - VOLATILE
       - `verb`
         - 10% | قلب
-        - 2% | اِسْتَطَاعَ
+        - 12% | اِسْتَطَاعَ
+          - [Lesson Ten: Indicative, Subjunctive, and Jussive (Present Tense Verb Mood)](https://www.youtube.com/watch?v=v4T53Q50KNQ)
+            - Videosweepmark: 3:30
+          - [Arabic Jussive Particles /Huruf jazimah حروف جازِمَة QLME Lesson6 Unit2 PART1](https://www.youtube.com/watch?v=1XpZqHM11DY)
         - 10% | نصعد
         - تقديم
         - 10% | تزويدك
         - 10% | أَفْهَمُ
-        - 3% | تسبقها
+        - 8% | تَسْبِقُ
           - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 51:30
+            - Videosweepmark: 58:03 TTL 
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1934,7 +1997,7 @@
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
-      - Videosweepmark: 38:00
+      - Videosweepmark: 44:20 NEXT
       - VideoListStamp: 2
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
@@ -2051,7 +2114,7 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 3.8%
+        - CCS: 7.8%
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2068,7 +2131,7 @@
           - Sentry
       - Monorepo
         - [Nx (monorepo development toolkit) - Demos & Tutorials](https://www.youtube.com/watch?v=mVKMse-gFBI&list=PLakNactNC1dFv24RzFKqEvRAVImmZpqzY)
-          - Videosweepmark: 3:00
+          - Videosweepmark: 7:00
           - Listmark: 1
       - Source Code Reading
         - Apache Zookeeper
@@ -2174,7 +2237,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
-          - Videosweepmark: 1:00
+          - Videosweepmark: 3:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2187,7 +2250,7 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - 伝わる | 50%
+        - 伝わる | 100% TTL
         - THROTTLE FREQUENT 頂く | 25%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
         - THROTTLE FREQUENT 使う | 5%
@@ -2199,14 +2262,12 @@
       - `phrase`
       - `adverb`
       - `?.connector`
-        - だけで | 100%
         - けれども | 45%
         - やすいかもしれ | 10%
       - `bundle`
       - ?
         - または | 5%
         - されました | 40%
-        - てみる | 90%
       - `noun`
         - THROTTLE FREQUENT 言葉 | 77%
         - テブナン
@@ -2267,20 +2328,18 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
         - поместить | 40%
-        - переключаться | 40%
-        - закончиться | 90%
+        - закончиться | 100% TTL
         - проводить | 20%
       - ?
         - вот
       - **прилагательное**
-        - выходной
+        - выходной | 50%
         - следующей | 50%
         - недооценивать | 40%
       - **наречие**
         - определенно | 60%
       - **существительное**
-        - самообъяснение | 50%
-        - представление | 100% TTL 
+        - самообъяснение | 100% TTL
         - разговор | 40%
         - введение | 90%
       - ?
@@ -2290,8 +2349,8 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
-    - [Binary Tree Inorder Traversal Solution Explained - Java](https://www.youtube.com/watch?v=WZwNoTm_9d8&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=8)
-      - Videosweepmark: 8:25 NEXT
+    - [Merge Two Sorted Lists Solution Explained](https://www.youtube.com/watch?v=KVf1Uuqfv8E&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=26)
+      - Videosweepmark: 1:31
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -2301,7 +2360,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 9:35
+        - Videosweepmark: 15:31
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2310,8 +2369,8 @@
             - *This is an extremely difficult book, psyche up for it before digging in, at the moment this endeavour is best paired with Russian*
             - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 38:30
-                - Saturation: 0.00018%
+                - Randomtelewalk: 45
+                - Saturation: 0.00023%
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH
                   - Infinite-set paradoxing
@@ -2323,7 +2382,7 @@
                   - Videosweepmark: 2:40
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
-        - Videosweepmark: 38:15
+        - Videosweepmark: 39:30
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -2344,7 +2403,7 @@
   - ?
     - SUPPLEMENT
       - [Learn Ancient Greek: 3_Unit1 Basic English Grammar 1](https://www.youtube.com/watch?v=37uQCuNQwNs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=3)
-        - Videosweepmark: 3:31
+        - Videosweepmark: 5:00
         - ListStamp: 2
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods
@@ -2364,7 +2423,7 @@
             - Videosweepmark: 9:30
             - Listmark: 2
         - φοράω | 70%
-        - αντιμετωπίζω | 10%
+        - αντιμετωπίζω | 40%
         - σχεδιάζω | 5%
       - **επίθετο**
       - **ουσιαστικό**

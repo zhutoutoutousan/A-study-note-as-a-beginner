@@ -7,8 +7,7 @@
     - [Learn to talk](#learn-to-talk)
 - [STICKY Mandatory workout planning](#sticky-mandatory-workout-planning)
 - [STICKY Language progression management](#sticky-language-progression-management)
-- [STICKY Monthly Micro PIP](#sticky-monthly-micro-pip)
-- [STICKY Full-stack developer Performance Improvement Plan](#sticky-full-stack-developer-performance-improvement-plan)
+- [2022/10/29 - The Great Confusion](#20221029---the-great-confusion)
 
 # STICKY 寻找Purpose的旅程
 ## Shelter if you're homeless
@@ -305,9 +304,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 11.2%
+                  - CCS: 11.5%
                   - ETA: 9.8m
-                  - TEMP_TIMESTAMP: 9:00
+                  - TEMP_TIMESTAMP: 1:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -320,19 +319,43 @@
                     - Mosaic theory?
                       - [Mosaic Theory explained](https://youtu.be/U7ufh4l5nag)
                         - Saturation: 85%
-                  - STATIC
-                    - CFA Ethical Decision-Making Framework
-                      - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
-                      - Consider: Situational Influences, Alternative Actions, Additional Guidance
-                      - Act: By Making a Decision, By Elevating the Issue to a Higher Authority
-                      - Reflect: On What You've Learned, On Strengths and Weaknesses
-                    - Standards of Professional Conduct - 7 standards, 22 sub-sections --> `useLink`
-                    - PCP, DRC
-                  - Seretonin Secretion Snapshop
-                    - Professions: Specific education, Expert Knowledge, Good Practice and behaviour, Trust, respect, and recognition
-                  - SUPPLEMENT
-                    - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
-                    - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
+                  - SUPPLEMENTS
+                    - SKILL
+                      - ONCE
+                      - CONTINUOUS
+                        - **ContinuousSkillDevelopment** Consistent High-performing Business Writing
+                          - [3 Things To Do Before Writing Your First White Paper | Brian Boys - White Paper In One](https://www.youtube.com/watch?v=XZOWwNwJ2iY)
+                          - [How To Write A White Paper In 4 Easy Steps by author of "How To Write A White Paper In One Day"](https://www.youtube.com/watch?v=HBmJbMaIqlU)
+                        - **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research
+                          - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
+                          - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
+                          - [How to Get Financial Data l How to Collect Data for Research l How to Collect Secondary Data](https://www.youtube.com/watch?v=sD2c3Z3cF94)
+                          - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
+                          - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
+                          - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY)
+                          - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
+                    - KNOWLEDGE
+                      - STATIC
+                        - CFA Ethical Decision-Making Framework
+                          - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
+                          - Consider: Situational Influences, Alternative Actions, Additional Guidance
+                          - Act: By Making a Decision, By Elevating the Issue to a Higher Authority
+                          - Reflect: On What You've Learned, On Strengths and Weaknesses
+                        - Standards of Professional Conduct - 7 standards, 22 sub-sections --> `useLink`
+                        - PCP, DRC
+                      - VOLATILE
+                        - [How To Read & Analyze The Balance Sheet Like a CFO | The Complete Guide To Balance Sheet Analysis](https://www.youtube.com/watch?v=DMv9JC_K37Y&t=27s)
+                        - Understand Insurance - Underwriting
+                          - [INSURANCE Underwriting [[What does an Underwriter Do]]](https://www.youtube.com/watch?v=XhhAk9CF5c4)
+                          - [What's the day-to-day of being an underwriter? - Hey Insurance - Ep 87](https://www.youtube.com/watch?v=LeBNxrr3dRA)
+                        - Understand Conflict of Interest
+                          - Language pair: French
+                          - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
+                            - Videosweepmark
+                          - [Conflict of Interest (COI): What is it and How do I Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
+                          - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
+                        - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
+                        - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
               - **BLACKHOLE**
                 - **ACTIVE_RESEARCH_UNIT**
                   - _meta
@@ -372,7 +395,9 @@
                       - STATIC
                         - TECC
                         - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
-                          - Videosweemark: 1:03:00
+                          - `ROOT.CentralExecutiveFunction`
+                            - *This is still a very young research endeavour which still requires enough maturity*
+                          - Videosweemark: 1:06:11 REPLACE
                           - Language pair: German
                           - NEW Single-use Accountability System
                           - NEW Bookpair A Pragmatic Introduction to Secure Multi-party Configuration
@@ -676,15 +701,16 @@
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
-      - Videosweepmark: 12:05
+      - Videosweepmark: 15:35
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
               - PROCESSING POINTER FIELD
-                - Randomtelewalk: 19
-                  - Saturation: 0.005%
+                - Randomtelewalk: 25
+                  - Saturation: 0.011%
               - CURIOUSITY OUTREACH FIELD
+                - Shadow bank, Externality
                 - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
                   - PROCESSING POINTER FIELD
                     - Videosweepmark: 0:42/1:36:04
@@ -708,7 +734,7 @@
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [De la physique statistique aux sciences sociales... - Jean-Philippe Bouchaud (2021)](https://www.youtube.com/watch?v=bxktplKMhKU)
-        - Videosweepmark: 47:40
+        - Videosweepmark: 50:01 SATURATE_CHILDREN
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
             - [Micromotives and Macrobehavior - T.C.Schelling](#)
@@ -721,6 +747,7 @@
                   - Training Model Instances
                     - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
                     - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
+                      - Videosweepmark: 0:11
                     - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
                     - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
                     - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
@@ -753,6 +780,7 @@
                               - Saturation: 0.5%
                           - PROSSESSING_POINTER_STORE
                             - PREREQUISITE_SUPPLEMENT LIMIT 5
+                              - [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
                               - [Dynamics 02_14 Polar Coordinate Problem with solutions in Kinematics of Particles](http://library.mibckerala.org/lms_frame/eBook/Moran%20-%20Introduction%20to%20Phenomenology%20(Routledge).pdf)
                                 - Videosweepmark: 1:30                              
                               - [Plane Polar Coordinates | Velocity & Acceleration in Polar Coordinates | Practice Problem](https://www.youtube.com/watch?v=HUyXx0_VK6w)
@@ -788,14 +816,14 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 32-192/18* &4
+                    - *Double mapping* | 33-192/18* &4.1
                       - QualmStack LIMIT 5: 3.13-17
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                       - Concentrated Supplement
                         - Day book, Invoice
                         - T, Opening Balance
                           - [Balancing Accounts (balance cd and bd)](https://www.youtube.com/watch?v=3GoFWeUvC-Q)
-                            - Videosweepmark: 3:30
+                            - Videosweepmark: 4:14 TTL
                         - Books of prime entry
                           - [The books of Prime Entry (part a) - ACCA Financial Accounting (FA) lectures](https://www.youtube.com/watch?v=qxhXPLpF768)
                         - *Outlook of debit/credit note*
@@ -857,13 +885,13 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 33:00
+      - Videosweepmark: 37:00
       - LIST_NUM: 2
       - The Gospel of Wealth and Other Essays
       - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
         - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 25
-            - Saturation: 0.005%
+          - Randomtelewalk: 26
+            - Saturation: 0.007%
           - Lazy Freeloader's Feynman Technique Entries
             - CH1_24
   - TOPIC Law, regulation, justice, politics
@@ -1007,10 +1035,16 @@
                 - Input-Output Mapping
                   - [Real Analysis Exam 1 Review Problems and Solutions](https://www.youtube.com/watch?v=Z-CLXGQeK5I)
                 - PROCESSING_POINTER_FIELD
-                  - Randomtelewalk：18 - *...for every z and converges uniformly on very bounded subset...*
-                    - Saturation: 0.0024%
-                    - LaTeX-German-Math Tridem
-                      - $\sum_{k=0}^{\infty} \frac{a^k}{k!} \sum_{m=0}^{b^m} \frac{b^m}{m!} = \sum_{n=0}^{\infty} \frac{1}{n!} \sum_{k=0}^{n} \frac{n!}{(n-k)!} a^k b^{n-k} = \sum_{n=0}^{\infty} \frac{(a+b)^n}{n!}$
+                  - Randomtelewalk LIMIT 3
+                    - Saturation: 0.0026%
+                    - CONFIG
+                      - [How to get better at learning mathematics - Intuition versus Rote Learning](https://www.youtube.com/watch?v=GDPQ3YDHLCQ)
+                    - Instance
+                      - 21
+                    - Instance
+                      - 17 - *...That exp is monotonically increasing...*
+                        - LaTeX-German-Math Tridem
+                          - $\sum_{k=0}^{\infty} \frac{a^k}{k!} \sum_{m=0}^{b^m} \frac{b^m}{m!} = \sum_{n=0}^{\infty} \frac{1}{n!} \sum_{k=0}^{n} \frac{n!}{(n-k)!} a^k b^{n-k} = \sum_{n=0}^{\infty} \frac{(a+b)^n}{n!}$
                 - PROCESSING_POINTER_STORE
                   - **Absolute Convergence**
                     - [Absolute Convergence, Conditional Convergence, and Divergence](https://www.youtube.com/watch?v=FPK6LO1iiXc)
@@ -1019,21 +1053,31 @@
                   - Exponential function
                   - The Cauchy-Riemann Equations
                     - [The Cauchy-Riemann Equations - 3Blue1Brown](https://www.youtube.com/watch?v=sD0NjbwqlYw&t=611s)
-                      - Videosweepmark: 14:30
+                      - Videosweepmark: 17:40
                     - [The Cauchy-Riemann Equations - Complex Analysis By A Physicist](https://www.youtube.com/watch?v=OfN9QG0zCXg)
                       - Videosweepmark: 7:20
         - Stanford CS224W
+          - Hands-on Pairs
+            - [Graph Theory Algorithms for Competitive Programming (2022)](https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/learn/lecture/27229082#overview)
+          - Theory Supplementation
+            - _STATE
+              - *For some materials which doesn't have German subtitle, make some effort to do mental EN-DE simultaneous interpretation by heart.*
+            - [A deep understanding of deep learning (with Python intro)](https://www.udemy.com/course/deeplearning_x/learn/lecture/27841838#overview)
+            - [Graph Theory - U](https://www.udemy.com/course/graph-theory/learn/lecture/21643044#overview)
+            - [Neo4j: GraphDB Foundations with Cypher](https://www.udemy.com/course/neo4j-foundations/learn/lecture/18178652#overview)
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 26.7%
-            - Videosweepmark: 9:00 --> `this.concurrentTraffic = 0.33`
+            - Videosweepmark: 18:30 --> `this.concurrentTraffic = 0.33`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
               - ?
-                 - Frobenius norm
-                    - _alias
-                       - L2 norm
-                 - Softmax
+                - Loopy BP Algorithm
+                  - Label-label potential
+               - Frobenius norm
+                  - _alias
+                     - L2 norm
+                  - Softmax
               - Network connection
                 - Homophily
                   - Technique
@@ -1546,7 +1590,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 25%
+            - CCS: 26.6%
             - ETC：8.5 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -1646,7 +1690,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 56:04
+          - Videosweepmark: 56:04 NEXT
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1721,9 +1765,16 @@
             - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
-        - In-depth understanding of TCP & UDP
+        - *In-depth understanding of TCP & UDP* --> TTL && Advanced Network Programming
+          - Network Programming Hands-on
+            - [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/watch?v=6jteAOmdsYg&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
+            - [Hacking networks with Python // Creating malicious packets and breaking TCP/IP rules](https://www.youtube.com/watch?v=CIWD9fYmDig)
+          - Advanced Network Brains-on
+            - Bookpair
+              - [TCP Illustrated Volume 2: The implementation](https://drive.google.com/file/d/1hiU8TLFesy4BHpV5iqPl2Kbi3XVO3gzV/view?usp=sharing)
+          - _ARCHIVING
             - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-              - Videomark: 1:01:09/1:01:09
+              - Videomark: 1:01:09/1:01:09 TTL --> `language/software`
               - Intuition
                 - Guesswork
                   - TTL
@@ -1733,17 +1784,14 @@
               - Tooling
                 - [X] Wireshark
                   - [ ] OPTIONAL Show Delta Time
-            - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
-              - Videosweepmark: 18:00
-              - ALSO Proficient use of `find`
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
-              - Videomark: 1:07:01/1:07:01
+              - Videomark: 1:07:01/1:07:01 TTL --> `language/software`
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
               - Concetto
                 - point-to-point
                 - GRE tunnel
             - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
-              - Videosweepmark: 52:15 TTL_ARCHIVE
+              - Videosweepmark: 52:15 TTL --> `language/software`
               - [rfc791](https://datatracker.ietf.org/doc/pdf/rfc791.pdf)
                 - PROCESSING_POINTER_FIELD
                   - Randomtelewalk: 1
@@ -1751,8 +1799,10 @@
                   - PCAP + Wireshark
             - QUIC
               - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
-                - Videosweepmark: 29:30 TTL
-                - NEW Bookpair: TCP Illustrated VolumeI: Second edition
+                - Videosweepmark: 29:30 TTL --> `language/software`
+          - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
+            - Videosweepmark: 18:00
+            - ALSO Proficient use of `find`
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
             - Videosweepmark: 1:02:00/2:25:06
@@ -1765,7 +1815,9 @@
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
     - Music/Composing Theory
         - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
+          - Videosweepmark : 3:30
         - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
+          - Videosweepmark : 3:30
       - The Complete Presentation and Public Speaking/Speech Course
     - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
       - CCS: 10.8%
@@ -1823,9 +1875,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 65.8%
+      - CCS: 66.4%
       - E.T.A: 3.97 months
-      - TEMP_TIMESTAMP: 5:00
+      - TEMP_TIMESTAMP: 1:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -1956,15 +2008,12 @@
         - 10% | قلب
         - 12% | اِسْتَطَاعَ
           - [Lesson Ten: Indicative, Subjunctive, and Jussive (Present Tense Verb Mood)](https://www.youtube.com/watch?v=v4T53Q50KNQ)
-            - Videosweepmark: 3:30
-          - [Arabic Jussive Particles /Huruf jazimah حروف جازِمَة QLME Lesson6 Unit2 PART1](https://www.youtube.com/watch?v=1XpZqHM11DY)
+            - Videosweepmark: 8:38 TTL
         - 10% | نصعد
         - تقديم
-        - 10% | تزويدك
-        - 10% | أَفْهَمُ
+        - وفر
+        - 30% | أَفْهَمُ
         - 8% | تَسْبِقُ
-          - [Easy Arabic grammar Passive Verbs [# L20]](https://www.youtube.com/watch?v=E6VI4FIWOpY)
-            - Videosweepmark: 58:03 TTL 
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -1982,23 +2031,23 @@
         - شيء
       - `noun.modifier`
         - 9% | طويل
+        - خاصة
         - متأخر
       - `noun`
-        - 5% | المستأجرين
+        - 65% | المستأجرين
         - 25% | موجزًا
-        - 40% | القواعد
+        - 100% TTL | القواعد
         - 35% | مفهوم
-        - 100% TTL | تفصيل
         - 45% | نهج
         - 40% | الْمَالِكَ
         - 5% | مبدأ
         - الساعة
-        - ستين
+        - 50% | ستين
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-    - [Arabic Grammar For All - Lesson 2 - Nouns and Adjectives - Abu Sulaymaan](https://www.youtube.com/watch?v=6pTXGR1_854&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=2)
-      - Videosweepmark: 44:20 NEXT
-      - VideoListStamp: 2
+    - [Arabic Grammar For All - Lesson 3 - The Nominal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=TPUuXo0KEhc&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=3)
+      - Videosweepmark: 1:00
+      - VideoListStamp: 3
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
@@ -2100,6 +2149,9 @@
       - Semi-conductor physics
         - SUPPLEMENT
           - [A Course on Semiconductor Physics and Devices for VLSI](https://www.youtube.com/watch?v=Gk-Q0PXgs_g&list=PLmfHzApbF5dYnZTqPDsJj31mOQtD7vDT2)
+            - Videosweepmark: 3:30
+            - Listmark: 1
+            - Extended Topic: Semiconductor, Global Market, Supply chain
       - The art of computer programming
         - [link](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
       - Computer Systems: A Programmer's Perspective: 40/1078
@@ -2109,12 +2161,21 @@
       - Quantum Physics
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
           - PROCESSING_POINTER_FIELD
-            - Randomtelewalk: 636
-              - Saturation: 0.00002%
+            - Randomtelewalk
+              - Saturation: 0.0122%
+              - Instance: 636
+              - Instance: 11
+          - Audio-visual-dualingual Pair
+            - [Lectures in Quantum Computation and Quantum Information (IIT Madras) - 1](https://www.youtube.com/watch?v=Joj2pH1Jczc&list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
+              - Videosweepmark
+              - Listmark
+            - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+            - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
+            - [The Map of Quantum Computing | Quantum Computers Explained](https://www.youtube.com/watch?v=-UlxHPIEVqA)
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 7.8%
+        - CCS: 9.7%
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2237,7 +2298,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
-          - Videosweepmark: 3:00
+          - Videosweepmark: 4:17
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2250,20 +2311,21 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - 伝わる | 100% TTL
         - THROTTLE FREQUENT 頂く | 25%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
         - THROTTLE FREQUENT 使う | 5%
           - [Learn Japanese verb conjugation: TE form (て形)](https://www.youtube.com/watch?v=475X4-Ujk1Y)
         - 直す  | 4%
-        - 考える | 50%
+        - 考える | 90%
+        - 照る | 15%
       - `adjective`
-        - 幾つ | 80%
+        - THROTTLE FREQUENT 幾つ | 90%
+        - 易い
       - `phrase`
       - `adverb`
       - `?.connector`
-        - けれども | 45%
-        - やすいかもしれ | 10%
+        - けれども | 100% TTL
+        - かもしれ | 20%
       - `bundle`
       - ?
         - または | 5%
@@ -2280,45 +2342,14 @@
     - Minimum considerable rate: 40 WPM
     - In tandem viewing keyboard layout
       - https://en.wikipedia.org/wiki/JCUKEN
+  - CHANGE_LOG
+    - 2022/10/28: Acute energy consumption increase, the acceptable learning quality requirement dramatically increased.
+      - *Pronounciation, vocabulary entered next stage, emphasis shifted to accurate use of complex grammar, noun & adjective declination, verb conjugation in the right context takes the most energy*
   - Learning Cache for Intermediate learners
     - STATIC
-      - Numbers
-        - 28951: двадцать восемь тысяч девятьсот пятьдесят один
       - INBOUND_CACHE
         - Personal pronoun bundle
-          - [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 95%
-            - _state
-              - COLD_TURKEY: False
-            - Personal pronouns | **THRESHOLD LEVEL 2** | 10%
-              - `self.metaDigging(LEVEL=2)`
-                - _entity
-                  - `categorize(self)`
-                - _method
-                  - `activeRecall(self)` | 80%
-            - Possessive pronouns | **THRESHOLD LEVEL 0** 81%
-              - `self.metaDigging(LEVEL=1)` | 92%
-                - _entity
-                  - `categorize(self)` | 100%
-                    - _state: DEPRECATED
-                    - Group 1 - мой, твой
-                      - Group 1.A - Мужского и Средний род
-                      - Group 1.B - Женского: -ей
-                      - Group 1.C - Множественное число
-                    - Group 2 - егó, их, её
-                    - Group 3 - наш, ваш
-                - _method
-                  - `activeRecall(self)` | 30%
-            - Demonstrative pronouns | **THRESHOLD LEVEL 1** - 30%
-              - `self.metaDigging(LEVEL=1)` | 30%
-                - _entity
-                  - `categorize(self)`
-                - _method
-                  - `activeRecall(self)` | 30%
-            - Reflective Pronoun
-              - [The Reflexive Pronoun "себя"](http://masterrussian.com/aa102100a.shtml)
-            - Reflexive Possessive Pronoun
-              - [Use of the reflexive possessive pronoun свой](https://learnrussianstepbystep.com/en/russian-reflexive-possessive-pronoun-svoy/)
-          - [Wiktionary personal pronouns declension charts](https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D1%8F)
+          - ContinuousStimulationUnit [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 95.2%
     - MESO
     - VOLATILE
       - _state
@@ -2328,29 +2359,30 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
         - поместить | 40%
-        - закончиться | 100% TTL
-        - проводить | 20%
+        - проводить | 50%
       - ?
         - вот
       - **прилагательное**
         - выходной | 50%
         - следующей | 50%
-        - недооценивать | 40%
+        - недооценивать | 70%
       - **наречие**
         - определенно | 60%
       - **существительное**
-        - самообъяснение | 100% TTL
-        - разговор | 40%
-        - введение | 90%
+        - разговор | 80%
+        - THROTTLE FREQUENT введение | 92%
+          - [Russian Dative case, plural - dative of nouns, дательный падеж](https://www.youtube.com/watch?v=5E-gbyWiNJQ)
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts
+      - Videosweepmark: 7:31
+      - Listmark: 1
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
     - [Merge Two Sorted Lists Solution Explained](https://www.youtube.com/watch?v=KVf1Uuqfv8E&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=26)
-      - Videosweepmark: 1:31
+      - Videosweepmark: 2:31
       - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -2402,9 +2434,10 @@
         - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progresses*
   - ?
     - SUPPLEMENT
-      - [Learn Ancient Greek: 3_Unit1 Basic English Grammar 1](https://www.youtube.com/watch?v=37uQCuNQwNs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=3)
-        - Videosweepmark: 5:00
-        - ListStamp: 2
+      - **Gamepair**: Assassin's Creed: Odyssey
+      - [Learn Ancient Greek: 4 _Unit 1 First Declension Nouns](https://www.youtube.com/watch?v=RVV4AwEhwQE&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=4)
+        - Videosweepmark: 1:34
+        - ListStamp: 3
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods
         - `language.meta.pronounciation.callibrate()`
@@ -2418,13 +2451,13 @@
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 2.2%
-        - ανακαλύπτω | 90%  
+        - ανακαλύπτω | 95%  
           - [Greek Verbs 2 (perfect tense)](https://www.youtube.com/watch?v=B3MRvD0t47M&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=2)
             - Videosweepmark: 9:30
             - Listmark: 2
         - φοράω | 70%
         - αντιμετωπίζω | 40%
-        - σχεδιάζω | 5%
+        - σχεδιάζω | 35%
       - **επίθετο**
       - **ουσιαστικό**
       - **επίρρημα**
@@ -2463,59 +2496,6 @@
           - Papermark: *success in a variety*
     - _RULES
       - Always use Coding/LaTeX-based learning as an initiator, with book + dual-subtitle video as gap filling material for continuous watering
-# STICKY Monthly Micro PIP
-- ACTION ITEM
-  - Source Supplementation
-    - Micro-PIP on 需求评审分析 - Requirement Review Meeting capability
-    - [ ] [Requirements Analysis in Software Engineering and Testing | How to Analyze Requirements with Example](https://www.youtube.com/watch?v=Vz7TQ3eAQiU)
-    - [ ] [How to review requirements (a guide with example)](https://www.youtube.com/watch?v=ahSbsvl9oD4)
-    - [ ] [How to Conduct a Requirements Review](https://www.youtube.com/watch?v=1yLb7TTrTrc)
-    - [ ] [Software Engineering: How 'simple' is a real KISS solution? (8 Solutions!!)](https://www.youtube.com/watch?v=V4_Ug2LHi04)
-    - [ ] [PEST Analysis](https://www.youtube.com/watch?v=mCdcdf-b8AU)
-    - [ ] Existing PlantUML & UML course - Monitoring
-    - [ ] VERDICT
-      - [ ] How will you apply this knowledge learned?
-      - [ ] What changes it will impose?
-- Micro-PIP of the month: Strategic Thinking - To Business Entity, and to yourself
-  - *At least tell me how you're going to work on it*
-  - Working system of an enterprise
-    - Strategic System
-    - Coordinating System
-      - Translate strategy into direction & action
-      - Prioritize & Manage
-    - Operating System
-      - Use resource effectively
-      - Execution
-      - Communicate upward
-  - Udemy Course
-  - Differentiation:
-    - Differentiation Worksheet
-      - Identify your most important competitors
-      - How do your competitor differentiate themselves from you
-      - What are the unique resources of distinction your company offers that you don't
-  - Action Items
-    - [ ] Fill the Differentiators and Capabilities Sheet - Navalent
-      - (https://drive.google.com/file/d/1R0tU_K-LYa11Hq-DvSbJHrygVXzKwXD-/view?usp=sharing)
-    - [ ] [Categorizing Your Work](https://drive.google.com/file/d/1NoE_dX138kRLRBeaJ2axRY1F35MtzSnc/view?usp=sharing)
-      - [ ] Competitive Work
-      - [ ] Competitive-Enabling Work
-      - [ ] Business-Essential Work
-      - [ ] Non-Essential Work
-    - 养成习惯 - 要练到你不这样思考会难受的程度
-      - 先达到如此程度, 再选择可以忘掉
-- Micro-PIP series: What else?
-  - You need a tool to describe and communicate your 
 
-
-# STICKY Full-stack developer Performance Improvement Plan
-- [一个优秀的前端工程师应具备哪些技能？](https://blog.51cto.com/u_15065851/2602009)
-  - HTML超文本标记语言
-    - HTML文件的结构
-- 一个优秀的后端工程师应具备哪些技能？
-- 一个优秀的UI/UX设计师应具备哪些技能？
-- 一个优秀的人际沟通艺术家应具备哪些技能？
-- 一个优秀的布道者应具备哪些技能？
-
-
-
-
+# 2022/10/29 - The Great Confusion
+Consistently confused...

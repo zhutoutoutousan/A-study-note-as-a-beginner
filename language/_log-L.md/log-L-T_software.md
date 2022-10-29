@@ -223,6 +223,9 @@
   - *args, **kwargs
     - [But what are Python *ARGS & **KWARGS?](https://www.youtube.com/watch?v=GdSJAZDsCZA)
 # Q
+- QUIC
+  - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
+    - Videosweepmark: 29:30 TTL --> `language/software`
 - 前后端分离
   - [产品经理懂点技术：前后端是如何“分家”的？](http://www.woshipm.com/pmd/3342034.html)
   - [作为架构师，你知道前后端分离，有什么优缺点？](https://jishuin.proginn.com/p/763bfbd52c37)
@@ -273,6 +276,18 @@
     - [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
     - [System Design: Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)
 # T
+- TCP
+  - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
+    - Videomark: 1:01:09/1:01:09 TTL --> `language/software`
+    - Intuition
+      - Guesswork
+        - TTL
+        - Hops
+    - Enhancement
+      - Multi-point debugging
+    - Tooling
+      - [X] Wireshark
+        - [ ] OPTIONAL Show Delta Time
 - Transaction
   - QUESTION How to implement transaction in Spring Boot
 - TTP: Tactics, Technique, and Procedures

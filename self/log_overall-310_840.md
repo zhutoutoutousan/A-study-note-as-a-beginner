@@ -306,7 +306,7 @@
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
                   - CCS: 11.5%
                   - ETA: 9.8m
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP: 6:12
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -394,20 +394,23 @@
                     - Privacy-Preserving Computing/AI
                       - STATIC
                         - TECC
-                        - [A Brief Overview of Secure Multiparty Computation](https://www.youtube.com/watch?v=K3yLk4yCiwg)
+                        - ["Demystifying Privacy Preserving Computing" by Tejas Chopra (Strange Loop 2022)](https://www.youtube.com/watch?v=10Qj0eYqbuo)
                           - `ROOT.CentralExecutiveFunction`
                             - *This is still a very young research endeavour which still requires enough maturity*
-                          - Videosweemark: 1:06:11 REPLACE
+                          - Videosweemark: 3:30
                           - Language pair: German
                           - NEW Single-use Accountability System
                           - NEW Bookpair A Pragmatic Introduction to Secure Multi-party Configuration
                           - CURIOSITY_OUTREACH
-                            - Differential Privacy
+                            - **AMPLIFIED** **Differential Privacy**
                               - _category
                                 - Global Differential ~, Local ~
                               - _relationship
                                 - __next
                                   - Data Anonymization
+                              - A Course In Differential Privacy
+                                - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
+                                  - Videosweepmark: 1:00
                               - [Deep Learning with Differential Privacy (DP-SGD explained)](https://www.youtube.com/watch?v=oNSelFJnPaM)
                                 - Videosweepmark: 0:20
                             - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
@@ -701,14 +704,22 @@
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
-      - Videosweepmark: 15:35
+      - Videosweepmark: 19:01
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
               - PROCESSING POINTER FIELD
-                - Randomtelewalk: 25
-                  - Saturation: 0.011%
+                - Randomtelewalk: 26
+                  - Saturation: 0.015%
+              - **ContinuousIdeaIncubator** NAME_PENDING
+                - `ROOT.CentralExecutiveFunction`
+                  - *If any ideas takes too much space/overhead to be put in THIS i.e. quasi-RAM persistent layer, dump THIS.this to INBOUND_CACHE in low-energy-consumption slower-processing layer designed for advanced idea incubation*
+                - IncubationMeltingPot
+                  - *NFT-based 去中心化出版版权逻辑的前向兼容性问题: 微信读书APP最近上架了用户评论功能, 目标为就数字原生智慧承载物 e.g. 电子书等开始与UGC结合, 默默地开启了人类智慧传承的数字化转型新纪元*
+                  - *人类智慧的前向兼容性问题: 人类数字化转型期之前的智慧承载物 i.e. 艰深书籍, 多语纪录片, nebula等没有且不能有较大曝光度的内容需要privacy-preserving-based知识图谱接口*
+                  - *AI如果真正需要赋予生命, 绝不是简单的数学统计及一系列排列组合那么简单, 必须经过庞大艰深的工程系统, 心理系统, 反馈系统, 随机变异系统, 网络沟通系统 - 个体(集体)无意识系统设计开发之后方能有希望, 但如何描述该系统, 如何落实在code中?*
+                - Action Items
               - CURIOUSITY OUTREACH FIELD
                 - Shadow bank, Externality
                 - [Corporations & Entrepreneurship - C&E 01 Organizational Choices 1 (GP, LP, Corp, LLC, etc.)](https://www.youtube.com/watch?v=XCcmF792YpI)
@@ -743,16 +754,41 @@
               - PROCESSING_POINTER_FIELD
                 - Randomtelewalk: 6
                 - InterestedEntries: 6
-                - MetaProcessing
-                  - Training Model Instances
-                    - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
-                    - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
-                      - Videosweepmark: 0:11
-                    - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                    - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
-                    - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                    - [How To Read Papers Fast & Effectively - PhD student](https://www.youtube.com/watch?v=EXALI6jFu6E)
-                    - [I read the top 100 scientific papers of all time](https://www.youtube.com/watch?v=4sLWRScmfH0)
+                - **BLACKHOLE** **IMPORTANT** ContinuousSkillDevelopmentUnit MetaProcessing /w Research Skill
+                  - **ADDITIONAL_EFFORT="10 minutes"** Training Model Instances
+                    - `ROOT.CentralExecutiveFunction`
+                      - *Extremely important, allocate additional 10 minutes with En-Fr pair to THIS*
+                    - CriticalThinkingUnit
+                      - *Where do all of them stand against modern academica toolchains e.g. Aminer etc.?*
+                      - *What are those exceptions? Why?*
+                    - **REPLENISH** Resource
+                      - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
+                      - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
+                        - Videosweepmark: 3:35
+                      - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                      - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+                      - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                      - [How To Read Papers Fast & Effectively - PhD student](https://www.youtube.com/watch?v=EXALI6jFu6E)
+                      - [I read the top 100 scientific papers of all time](https://www.youtube.com/watch?v=4sLWRScmfH0)
+                      - [How to research any topic | Insider tips for easy and fast research](https://www.youtube.com/watch?v=iW2DaL-g1CU)
+                      - [How to identify a research gap EASILY [Sanity-saving tools]](https://www.youtube.com/watch?v=Mvj1Q5WoGb8)
+                      - _method
+                        - `ReplenishResource(any: any)`
+                    - PostMortemApplication
+                      - [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA](https://arxiv.org/pdf/2209.14792.pdf)
+                        - _schema
+                          - __meta_2
+                            - SchemaDesign
+                              - ___meta_3
+                                - ContinuousResearchUnit USC Schema Design Principle for General Academic Paper Reading in 2022
+                                  - ____method_4
+                                    - `sourceInformation(**unknown: unknown)`
+                              - Goal
+                        - Initial rating level
+                        - M&C
+                          - SkimmingSaturation: 80%
+                            - NextActionDesign
+                        - CURIOSITY_OUTREACH
                   - Context
                     - [If you torture data long enough, it will confess to anything](https://www.youtube.com/watch?v=42QuXLucH3Q&t=8s)
                     - [The Illusion of Truth](https://www.youtube.com/watch?v=cebFWOlx848)
@@ -816,7 +852,7 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 33-192/18* &4.1
+                    - *Double mapping* | 33-192/18* &4.3
                       - QualmStack LIMIT 5: 3.13-17
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                       - Concentrated Supplement
@@ -829,6 +865,13 @@
                         - *Outlook of debit/credit note*
                           - [Debit Note vs Credit Note | Explained with Example](https://www.youtube.com/watch?v=iHpQ4KggmJY)
                             - Videosweepmark: 5:00
+                        - ContinuousNeuralLevelImprovementUnit
+                          - `ROOT.CentralExecutiveFunction`
+                            - *For decades, many people see magic tricks concerning IQ is a gift, but what I see is nothing but a fleet of effective go-to-market schemes of neural processing pipeline that interacts effectively with human brain itself while being able to perform with certain restraints and goals. Time to get those magic tricks to their place: Industrializtion of Genius*
+                          - Mental Math for Accounting
+                            - `ROOT.CentralExecutiveFunction`
+                              - *Need to define use cases. If this ability becomes mature and ready for utilization for Accounting, add to Bymaverse and Intellectual Portfolio*
+                            - [How to Calculate Faster than a Calculator - Mental Maths #1](https://www.youtube.com/watch?v=X_ZJc9_n7TY)
                         - ContinuousStimulationUnit *Crystal clear understanding of Credit and Debit*
                           - Saturation: 15%
                           - Persistent
@@ -885,15 +928,17 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 37:00
+      - Videosweepmark: 40:35
       - LIST_NUM: 2
-      - The Gospel of Wealth and Other Essays
-      - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
-        - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 26
-            - Saturation: 0.007%
-          - Lazy Freeloader's Feynman Technique Entries
-            - CH1_24
+      - CURIOSITY_OUTREACH
+        - CoVaR
+        - The Gospel of Wealth and Other Essays
+        - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
+          - PROCESSING_POINTER_FIELD
+            - Randomtelewalk: 26
+              - Saturation: 0.007%
+            - Lazy Freeloader's Feynman Technique Entries
+              - CH1_24
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - Mathematics as Language:`communication-medium` - `ERROR: RATING SYSTEM MISSING`
@@ -1067,13 +1112,14 @@
             - [Neo4j: GraphDB Foundations with Cypher](https://www.udemy.com/course/neo4j-foundations/learn/lecture/18178652#overview)
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 26.7%
-            - Videosweepmark: 18:30 --> `this.concurrentTraffic = 0.33`
+            - Videosweepmark: 22:00 --> `this.concurrentTraffic = 0.33`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
               - ?
                 - Loopy BP Algorithm
                   - Label-label potential
+                  - Belief propagation
                - Frobenius norm
                   - _alias
                      - L2 norm
@@ -1087,7 +1133,7 @@
                   - CURIOSITY_OUTREACH
                     - Loopy Belief Propagation
                     - [Social and Economic Networks 2.1 Week 2: Homophily](https://www.youtube.com/watch?v=UeEa6NpXYtA)
-                      - Videosweepmark: 5:00
+                      - Videosweepmark: 8:32
                 - Influence
               - Deepwalk: $\log{(vol(G)(\frac{1}{T}\s um^{T}_{r=1} {(D^{-1}A)}^r D^{-1})} - \log{b}$
                  - [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971)
@@ -1592,7 +1638,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 26.6%
             - ETC：8.5 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 5:09
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - Tooling
               - [x] Tableau public
@@ -1684,13 +1730,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:18:05
+      - Videosweepmark: 1:27:02
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
-      - [Lec 2: Introduction to Consumer Psychology - II](https://www.youtube.com/watch?v=b1U3EBnB9tQ&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=3)
+      - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 56:04 NEXT
+          - Videosweepmark
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1765,7 +1811,7 @@
             - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
               - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
               - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)
-        - *In-depth understanding of TCP & UDP* --> TTL && Advanced Network Programming
+        - Advanced Network Programming
           - Network Programming Hands-on
             - [Python Network Programming - TCP/IP Socket Programming](https://www.youtube.com/watch?v=6jteAOmdsYg&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF)
             - [Hacking networks with Python // Creating malicious packets and breaking TCP/IP rules](https://www.youtube.com/watch?v=CIWD9fYmDig)
@@ -1773,17 +1819,6 @@
             - Bookpair
               - [TCP Illustrated Volume 2: The implementation](https://drive.google.com/file/d/1hiU8TLFesy4BHpV5iqPl2Kbi3XVO3gzV/view?usp=sharing)
           - _ARCHIVING
-            - [x] [How TCP really works // Three-way handshake // TCP/IP Deep Dive](https://www.youtube.com/watch?v=rmFX1V49K8U) --> **BLOCKAGE_IN_PROGRESS**
-              - Videomark: 1:01:09/1:01:09 TTL --> `language/software`
-              - Intuition
-                - Guesswork
-                  - TTL
-                  - Hops
-              - Enhancement
-                - Multi-point debugging
-              - Tooling
-                - [X] Wireshark
-                  - [ ] OPTIONAL Show Delta Time
             - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
               - Videomark: 1:07:01/1:07:01 TTL --> `language/software`
               - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
@@ -1797,15 +1832,12 @@
                   - Randomtelewalk: 1
                     - Saturation
                   - PCAP + Wireshark
-            - QUIC
-              - [Decrypting TLS, HTTP/2 and QUIC with Wireshark](https://youtu.be/yodDbgoCnLM)
-                - Videosweepmark: 29:30 TTL --> `language/software`
           - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
             - Videosweepmark: 18:00
             - ALSO Proficient use of `find`
         - In-depth capability of `nmap`
           - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
-            - Videosweepmark: 1:02:00/2:25:06
+            - Videosweepmark: 1:05:30/2:25:06
             - `netdiscover`
           - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
         - Customized Machine Image
@@ -1815,7 +1847,7 @@
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
     - Music/Composing Theory
         - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
-          - Videosweepmark : 3:30
+          - Videosweepmark : 7:30
         - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
           - Videosweepmark : 3:30
       - The Complete Presentation and Public Speaking/Speech Course
@@ -1877,7 +1909,7 @@
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
       - CCS: 66.4%
       - E.T.A: 3.97 months
-      - TEMP_TIMESTAMP: 1:00
+      - TEMP_TIMESTAMP: 6:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2003,17 +2035,15 @@
         - LOCKED Achieve Lower B1 to unlock
       - Metadigging for entry-level fluency for unlocking more valid input channels
         - LOCKED Achieve Upper B1 to unlock
-    - VOLATILE
+    - VOLATILE STATE=ELIMINATE
       - `verb`
-        - 10% | قلب
-        - 12% | اِسْتَطَاعَ
-          - [Lesson Ten: Indicative, Subjunctive, and Jussive (Present Tense Verb Mood)](https://www.youtube.com/watch?v=v4T53Q50KNQ)
-            - Videosweepmark: 8:38 TTL
-        - 10% | نصعد
+        - 30% | قلب
+        - 50% | اِسْتَطَاعَ
+        - 20% | نصعد
         - تقديم
         - وفر
         - 30% | أَفْهَمُ
-        - 8% | تَسْبِقُ
+        - 18% | تَسْبِقُ
         - أَتَعَرَّفُ
         - TO_STATIC
           - هو
@@ -2033,12 +2063,11 @@
         - 9% | طويل
         - خاصة
         - متأخر
+        - 35% | موجزًا
       - `noun`
         - 65% | المستأجرين
-        - 25% | موجزًا
-        - 100% TTL | القواعد
         - 35% | مفهوم
-        - 45% | نهج
+        - 75% | نهج
         - 40% | الْمَالِكَ
         - 5% | مبدأ
         - الساعة
@@ -2046,7 +2075,7 @@
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 3 - The Nominal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=TPUuXo0KEhc&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=3)
-      - Videosweepmark: 1:00
+      - Videosweepmark: 4:35
       - VideoListStamp: 3
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
@@ -2133,11 +2162,20 @@
     - Software system design
       - [Designing Data-Intentive Applications](https://drive.google.com/file/d/1wko6_I5P8tTOLo-yujj9wdeA3UjlooKQ/view?usp=sharing)
         - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 27
-          - Saturation 0.87
+          - Randomtelewalk: 28
+          - Saturation: 1.57%
         - SUPPLEMENT
           - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+            - Videosweepmark: 3:30
+            - ContinuousInnovativeThinkingDevelopmentUnit
+              - *What innovative system design ideas can you come up with on top of existing design?*
+            - PREREQUISITE_PROCESSING
+              - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
     - Political system design
+      - [Political Systems Innovation](https://www.youtube.com/watch?v=oGUIoOajxZ8)
+        - Videosweepmark: 3:35
+        - ?
+          - NextGen Social Contract,
       - Circuit/Network theory in political realm
     - PQA
       - Sonar ^ Synk
@@ -2176,6 +2214,7 @@
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
         - CCS: 9.7%
+        - TEMP_TIMESTAMP: 6:00
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2249,7 +2288,22 @@
         - TASK Create hormonal manipulation strategy
 - Korean - TOPIK II+
   - `createLanguageImprovmentPlan('korean', requirements=$(children.input('HOOK-Requirements', context)))`
-  - Initialization of language/meta structrure: 67.5%
+  - Initialization of language/meta structrure: 71.5%
+    - `ROOT.CentralExecutiveFunction`
+      - `onComplete`
+        - RESOUCE_ALLOCATION `time='10 seconds`
+          - THEN `output("This is not a joke")`
+        - *Create 'I learn Korean for 10 seconds everyday for 10 years straight(Day X)' series*
+          - Tooling: OBS Studio, Adobe PR/Jianying
+        - *Create 'This video stops when I can't recognize the word' series*
+  - BASICS
+    - Typewriting
+    - Tooling
+  - TOPIC Content Creation
+  - TOPIC Se7en
+  - TOPIC Offensive Public Relations
+  - TOPIC Defensive Public Relations
+  - TOPIC *The 5 Basic Laws of Human Stupidity, and how to survive when such dominates the next era*
 - Hindi - N/A
   - _meta
     - tool
@@ -2298,7 +2352,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
-          - Videosweepmark: 4:17
+          - Videosweepmark: 5:17
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2318,21 +2372,22 @@
         - 直す  | 4%
         - 考える | 90%
         - 照る | 15%
+        - THROTTLE FREQUENT なる
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
         - 易い
       - `phrase`
       - `adverb`
-      - `?.connector`
-        - けれども | 100% TTL
-        - かもしれ | 20%
-      - `bundle`
-      - ?
+      - `?`
+        - かもしれん | 60%
+        - ようになり
         - または | 5%
         - されました | 40%
+        - 唯一
       - `noun`
+        - 希望
         - THROTTLE FREQUENT 言葉 | 77%
-        - テブナン
+        - テブナン | 5%
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
             - Videosweepmark: 1:00
 - Russian - Mid B1++++
@@ -2345,6 +2400,11 @@
   - CHANGE_LOG
     - 2022/10/28: Acute energy consumption increase, the acceptable learning quality requirement dramatically increased.
       - *Pronounciation, vocabulary entered next stage, emphasis shifted to accurate use of complex grammar, noun & adjective declination, verb conjugation in the right context takes the most energy*
+    - 2022/10/29: First plateau: Hitting the wall(第一次撞墙) - Russian is hard!
+      - `ROOT.CentralExecutiveFunction`
+        - *Use grammar audio-visual as additional supplement to directly attack the root cause*
+        - Discovered Neural Pathway deficiency pair: Source noun/adjective --> Declension/Conjugation
+        - Officially allocate **10 minutes** instead of **3 minutes** to Russian training
   - Learning Cache for Intermediate learners
     - STATIC
       - INBOUND_CACHE
@@ -2358,7 +2418,7 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
-        - поместить | 40%
+        - поместить | 60%
         - проводить | 50%
       - ?
         - вот
@@ -2372,6 +2432,7 @@
         - разговор | 80%
         - THROTTLE FREQUENT введение | 92%
           - [Russian Dative case, plural - dative of nouns, дательный падеж](https://www.youtube.com/watch?v=5E-gbyWiNJQ)
+            - Videosweepmark: 3:35
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
@@ -2392,7 +2453,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 15:31
+        - Videosweepmark: 20:31
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2436,7 +2497,7 @@
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
       - [Learn Ancient Greek: 4 _Unit 1 First Declension Nouns](https://www.youtube.com/watch?v=RVV4AwEhwQE&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=4)
-        - Videosweepmark: 1:34
+        - Videosweepmark: 6:34
         - ListStamp: 3
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods

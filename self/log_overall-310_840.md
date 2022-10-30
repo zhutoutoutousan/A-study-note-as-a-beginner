@@ -304,9 +304,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 11.5%
+                  - CCS: 11.8%
                   - ETA: 9.8m
-                  - TEMP_TIMESTAMP: 6:12
+                  - TEMP_TIMESTAMP
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -397,7 +397,7 @@
                         - ["Demystifying Privacy Preserving Computing" by Tejas Chopra (Strange Loop 2022)](https://www.youtube.com/watch?v=10Qj0eYqbuo)
                           - `ROOT.CentralExecutiveFunction`
                             - *This is still a very young research endeavour which still requires enough maturity*
-                          - Videosweemark: 3:30
+                          - Videosweemark: 8:30
                           - Language pair: German
                           - NEW Single-use Accountability System
                           - NEW Bookpair A Pragmatic Introduction to Secure Multi-party Configuration
@@ -682,9 +682,9 @@
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
-      - Videosweepmark: 18:04
+      - Videosweepmark: 24:00
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 22:07
+      - Videosweepmark: 27:07
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG
       - Language pair: *The most speaker of X language around for currently active sport*
@@ -784,11 +784,19 @@
                                   - ____method_4
                                     - `sourceInformation(**unknown: unknown)`
                               - Goal
+                        - QuickRetain: *...deos is limited since a similarly sized...*
+                        - Goal
+                          - General Academic Training
+                          - NOT Skimming phase
                         - Initial rating level
                         - M&C
                           - SkimmingSaturation: 80%
                             - NextActionDesign
                         - CURIOSITY_OUTREACH
+                        - CONCEPT_RECTIFICATION
+                          - SUPPLEMENT Unsupervised Learning
+                            - [Module 4: Advanced Unsupervised Learning (Session 1)](https://www.youtube.com/watch?v=5GRkl_OlTjw)
+                              - Language pair: French
                   - Context
                     - [If you torture data long enough, it will confess to anything](https://www.youtube.com/watch?v=42QuXLucH3Q&t=8s)
                     - [The Illusion of Truth](https://www.youtube.com/watch?v=cebFWOlx848)
@@ -1636,9 +1644,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 26.6%
-            - ETC：8.5 months
-            - TEMP_TIMESTAMP: 5:09
+            - CCS: 28.1%
+            - ETC：7.8 months
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - Tooling
               - [x] Tableau public
@@ -1662,7 +1670,7 @@
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
                   - Videomark: 5:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
-                - Videosweepmark：5:07
+                - Videosweepmark：10:00
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of TypeScript & Advanced React**
         - CCS: 4.2%
         - ETC: /
@@ -1730,13 +1738,13 @@
           - personaggio | 40%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:27:02
+      - Videosweepmark: 1:30:30
       - WGAC guidelines
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark
+          - Videosweepmark: 3:30
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1818,20 +1826,6 @@
           - Advanced Network Brains-on
             - Bookpair
               - [TCP Illustrated Volume 2: The implementation](https://drive.google.com/file/d/1hiU8TLFesy4BHpV5iqPl2Kbi3XVO3gzV/view?usp=sharing)
-          - _ARCHIVING
-            - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
-              - Videomark: 1:07:01/1:07:01 TTL --> `language/software`
-              - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
-              - Concetto
-                - point-to-point
-                - GRE tunnel
-            - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
-              - Videosweepmark: 52:15 TTL --> `language/software`
-              - [rfc791](https://datatracker.ietf.org/doc/pdf/rfc791.pdf)
-                - PROCESSING_POINTER_FIELD
-                  - Randomtelewalk: 1
-                    - Saturation
-                  - PCAP + Wireshark
           - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
             - Videosweepmark: 18:00
             - ALSO Proficient use of `find`

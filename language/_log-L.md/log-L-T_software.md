@@ -285,9 +285,22 @@
         - Hops
     - Enhancement
       - Multi-point debugging
-    - Tooling
-      - [X] Wireshark
-        - [ ] OPTIONAL Show Delta Time
+  - Tooling
+    - [X] Wireshark
+      - [ ] OPTIONAL Show Delta Time
+          - [How TCP really works: MTU vs MSS](https://www.youtube.com/watch?v=J-gnDC6B5eE)
+            - Videomark: 1:07:01/1:07:01 TTL --> `language/software`
+            - *Ethernet si occupa di frame, IP si occupa di pacchetti, TCP si occupa di segmenti*
+            - Concetto
+              - point-to-point
+              - GRE tunnel
+          - [Is this the future of the Internet? UDP Deep Dive.](https://www.youtube.com/watch?v=kVSCFBuh9xs)
+            - Videosweepmark: 52:15 TTL --> `language/software`
+            - [rfc791](https://datatracker.ietf.org/doc/pdf/rfc791.pdf)
+              - PROCESSING_POINTER_FIELD
+                - Randomtelewalk: 1
+                  - Saturation
+                - PCAP + Wireshark
 - Transaction
   - QUESTION How to implement transaction in Spring Boot
 - TTP: Tactics, Technique, and Procedures

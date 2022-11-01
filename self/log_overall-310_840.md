@@ -304,9 +304,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 11.8%
+                  - CCS: 12.6%
                   - ETA: 9.8m
-                  - TEMP_TIMESTAMP
+                  - TEMP_TIMESTAMP: 4:10
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - [360financialanalyst](https://365financialanalyst.com/resources/)
@@ -397,10 +397,16 @@
                         - ["Demystifying Privacy Preserving Computing" by Tejas Chopra (Strange Loop 2022)](https://www.youtube.com/watch?v=10Qj0eYqbuo)
                           - `ROOT.CentralExecutiveFunction`
                             - *This is still a very young research endeavour which still requires enough maturity*
-                          - Videosweemark: 8:30
+                          - **ROOT_STICKY_ENGLISH** **ROOT M&C**
+                            - Energy Consumption Reduction Plan
+                              - **LaserFocus**: *No distractions! Execute to perfection*
+                          - Videosweemark: 16:00
                           - Language pair: German
                           - NEW Single-use Accountability System
-                          - NEW Bookpair A Pragmatic Introduction to Secure Multi-party Configuration
+                          - Bookpair: A Pragmatic Introduction to Secure Multi-party Configuration
+                            - [A Pragmatic Introduction to Secure Multi-party Configuration](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
+                            - PROCESSING_POINTER_FIELD
+                              - Randomtelewalk: 7
                           - CURIOSITY_OUTREACH
                             - **AMPLIFIED** **Differential Privacy**
                               - _category
@@ -642,38 +648,6 @@
     - Power
     - Technology
     - Zeitgeist
-  - _INBOUND
-    - _INBOUND_CACHE
-  - Industry-based assessment standard
-  - Role-based assessment standard
-  - Use-case-based assessment standard
-  - Vocal & Acoustic assessment standard
-    - Simultaneous speech & reading and integration with other systems
-      - Speed of reading
-    - Maximum number of channels of communication to keep up with
-  - Innate linguistic neural-level attribute enhancement
-    - Context switch stack
-      - _struct
-      - Capacity
-      - Agility
-    - Rigorous procedural/network reasoning
-    - Effective data structure for humans
-      - _method
-        - Retrieval
-          - Visualization a.k.a Mind palace
-      - Network Graph
-        - _methods
-          - Mutation
-            - Rotate
-            - Shuffle
-            - TBD
-          - Connection
-        - Nodes
-  - TOPIC | Something that will immediately generate, amplify value, prevent net value loss, maintain healthy value flow to maximum nested dimension possible and more
-    - **PRIORITIZATION**
-      - --> `ROOT._PROCESSING`
-    - **MANAGEMENT**
-    - **COLD CALL & EVERYTHING THAT COMES AFTERWARDS**
 - French - Middle C1+++++
   - _self_framework_upgrade
     - COMPLETED
@@ -684,27 +658,15 @@
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
       - Videosweepmark: 24:00
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 27:07
+      - Videosweepmark: 30:37
   - ATTACHABLE PASSIVE_ONLY Sports
-    - _CONFIG
-      - Language pair: *The most speaker of X language around for currently active sport*
-    - TOPIC Advanced Topics - Singular Node
-      - _security-group
-        - __whitelist
-          - *Renaissance Periodization*
-        - inboundDeny: *No bite-sized content*
-      - [Periodization and Programming for Strength Power Sports, with Mike Stone and Meg Stone | NSCA.com](https://www.youtube.com/watch?v=z53YuD3VrlU)
-      - [2019 Nobel Lectures in Physiology or Medicine](https://www.youtube.com/watch?v=cnpE3uAg7g8)
-    - TOPIC Enclosed Network Dynamics
-    - ?
-      - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
-        - PROCESSING_POINTER_FIELD
-          - Randomtelewalk
+    - _CONFIG `PROPAGATES` ROOT
+      - PASSIVE *All sports, powerlifting, anatomy, fitness, nutrition related material will be directed to French only*
   - TOPIC Economics(Mathematics)
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Ben Bernanke, co-winner of the 2022 Nobel economics prize speaks](https://www.youtube.com/watch?v=33UU9JB3lz0)
-      - Videosweepmark: 19:01
+      - Videosweepmark: 21:36
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
@@ -761,17 +723,29 @@
                     - CriticalThinkingUnit
                       - *Where do all of them stand against modern academica toolchains e.g. Aminer etc.?*
                       - *What are those exceptions? Why?*
-                    - **REPLENISH** Resource
-                      - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
-                      - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
-                        - Videosweepmark: 3:35
-                      - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                      - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
-                      - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                      - [How To Read Papers Fast & Effectively - PhD student](https://www.youtube.com/watch?v=EXALI6jFu6E)
-                      - [I read the top 100 scientific papers of all time](https://www.youtube.com/watch?v=4sLWRScmfH0)
-                      - [How to research any topic | Insider tips for easy and fast research](https://www.youtube.com/watch?v=iW2DaL-g1CU)
-                      - [How to identify a research gap EASILY [Sanity-saving tools]](https://www.youtube.com/watch?v=Mvj1Q5WoGb8)
+                    - **REPLENISH** Resource --> Academic Material Processing Pipeline: Lifecycle design
+                      - GENESIS
+                      - BEFORE_ENCOUNTER
+                        - Information Tooling
+                        - Academic Unit Profiling
+                      - ON_ENCOUNTER
+                        - _source
+                          - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
+                          - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
+                            - Videosweepmark: 6:10
+                          - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                            - Videosweepmark: 3:30
+                          - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+                          - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
+                            - Videosweepmark: 3:30
+                          - [How To Read Papers Fast & Effectively - PhD student](https://www.youtube.com/watch?v=EXALI6jFu6E)
+                          - [I read the top 100 scientific papers of all time](https://www.youtube.com/watch?v=4sLWRScmfH0)
+                          - [How to research any topic | Insider tips for easy and fast research](https://www.youtube.com/watch?v=iW2DaL-g1CU)
+                          - [How to identify a research gap EASILY [Sanity-saving tools]](https://www.youtube.com/watch?v=Mvj1Q5WoGb8)
+                      - POST_ENCOUNTER
+                      - POST_MORTEM
+                      - INNOVATION
+                        - Academic denunciation attack strategy
                       - _method
                         - `ReplenishResource(any: any)`
                     - PostMortemApplication
@@ -794,6 +768,7 @@
                             - NextActionDesign
                         - CURIOSITY_OUTREACH
                         - CONCEPT_RECTIFICATION
+                          - CONCURRENT SKILL [I tried to build a ML Text to Image App with Stable Diffusion in 15 Minutes](https://www.youtube.com/watch?v=7xc0Fs3fpCg)
                           - SUPPLEMENT Unsupervised Learning
                             - [Module 4: Advanced Unsupervised Learning (Session 1)](https://www.youtube.com/watch?v=5GRkl_OlTjw)
                               - Language pair: French
@@ -820,8 +795,9 @@
                       - Bookpair
                         - [A Student’s Guide to Lagrangians and Hamiltonians](http://ppc.inr.ac.ru/uploads/476_Hamill.pdf)
                           - PROCESSING_POINTER_FIELD
-                            - Randomtelewalk: 16
-                              - Saturation: 0.5%
+                            - Randomtelewalk: 20
+                              - VisitLater's: 17
+                              - Saturation: 0.6%
                           - PROSSESSING_POINTER_STORE
                             - PREREQUISITE_SUPPLEMENT LIMIT 5
                               - [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
@@ -860,16 +836,16 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 33-192/18* &4.3
+                    - *Double mapping* | 33-193/18* &4.4
                       - QualmStack LIMIT 5: 3.13-17
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                       - Concentrated Supplement
                         - Day book, Invoice
                         - T, Opening Balance
-                          - [Balancing Accounts (balance cd and bd)](https://www.youtube.com/watch?v=3GoFWeUvC-Q)
-                            - Videosweepmark: 4:14 TTL
                         - Books of prime entry
                           - [The books of Prime Entry (part a) - ACCA Financial Accounting (FA) lectures](https://www.youtube.com/watch?v=qxhXPLpF768)
+                            - Videosweepmark: 5:25
+                            - Cash receipts book, cash payments book, purchase day book, sales day book
                         - *Outlook of debit/credit note*
                           - [Debit Note vs Credit Note | Explained with Example](https://www.youtube.com/watch?v=iHpQ4KggmJY)
                             - Videosweepmark: 5:00
@@ -1112,6 +1088,10 @@
         - Stanford CS224W
           - Hands-on Pairs
             - [Graph Theory Algorithms for Competitive Programming (2022)](https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/learn/lecture/27229082#overview)
+          - Coding-led Dualingual stimulation
+            - [Create a Simple Neural Network in Python from Scratch](https://www.youtube.com/watch?v=kft1AJ9WVDk)
+              - HANDSON VideoSweepmark: 5:45
+                - Tooling: Deepnote
           - Theory Supplementation
             - _STATE
               - *For some materials which doesn't have German subtitle, make some effort to do mental EN-DE simultaneous interpretation by heart.*
@@ -1644,10 +1624,12 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 28.1%
+            - CCS: 28.4%
             - ETC：7.8 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
+            - CUSTOMIZED_VENTURE
+              - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
             - Tooling
               - [x] Tableau public
               - [x] [Dataset](https://www.superdatascience.com/pages/training)
@@ -1670,7 +1652,15 @@
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
                   - Videomark: 5:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
-                - Videosweepmark：10:00
+                - Videosweepmark：15:00
+                - ?
+                  - Delta, Consensus design, Possibility-Impossibility
+                - RESONANCE
+                  - _meta
+                    - Transformation
+                      - `CONNECTION`
+                    - Description*Resonance indicates a vague *feeling* of connection to an unknown storage unit inside an entity's facility. Apply Quantum computing knowledge atm*
+                  - Privacy-preserving compute
       - Mastering Data Structures & Algorithms using C and C++ 5min/day --> **HALT | Resume on COMPLETION of TypeScript & Advanced React**
         - CCS: 4.2%
         - ETC: /
@@ -1699,7 +1689,10 @@
   - TOPIC Philosophy, psychology, law
     - German philogophy
       - Fredrick Nitszsche
-- Italian+ - Lower B2
+- Italian+ - Lower B2+
+  - CHANGELOG
+    - 2022/11/1
+      - *Performing under target, need right stimulation combination to reduce energy consumption*
   - TOPIC: Fashion, Design, Art, Furniture, La Boutique, Music, Ruse, Trickery, Scheme, Marketing & PR, Micro PsyOps, Macro PsyOps, Meso PsyOps
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
@@ -1717,29 +1710,27 @@
         - Saturation: 0.12%
     - PROCESSING_POINTER_STORE
       - STATIC
-        - `connector`
-          - eccetto | 40%
+        - `adverb`
         - `verb`
-          - lasciare | 15%
+          - lasciare | 60%
       - MESO
         - `verb`
-          - temere | 80%
         - `noun_modifier`
       - VOLATILE
         - `verb`
-          - congiungere | 40%
-          - dimenticare | 70%
-          - ingiuriare | 5%
+          - congiungere | 60%
+          - ingiuriare | 30%
         - `noun_modifier`
-          - vecchio
         - `noun`
-          - battere
-          - scelleratezza
-          - personaggio | 40%
+          - battere | 20%
+          - personaggio | 100%
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:30:30
+      - Videosweepmark: 1:33:38
       - WGAC guidelines
+  - Micro/Meso/Mass Power Management bzw. Media
+    - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
+    - Fully automated distributed propagation agent: No loose ends
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
@@ -1841,7 +1832,7 @@
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
     - Music/Composing Theory
         - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
-          - Videosweepmark : 7:30
+          - Videosweepmark 11:30
         - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
           - Videosweepmark : 3:30
       - The Complete Presentation and Public Speaking/Speech Course
@@ -1901,9 +1892,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 66.4%
-      - E.T.A: 3.97 months
-      - TEMP_TIMESTAMP: 6:00
+      - CCS: 66.8%
+      - E.T.A: 3.9 months
+      - TEMP_TIMESTAMP: 2:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2035,10 +2026,11 @@
         - 50% | اِسْتَطَاعَ
         - 20% | نصعد
         - تقديم
-        - وفر
+        - 40% | وفر
         - 30% | أَفْهَمُ
         - 18% | تَسْبِقُ
-        - أَتَعَرَّفُ
+        - 10% تعرف
+        - 20% | فهم
         - TO_STATIC
           - هو
           - لدي
@@ -2056,25 +2048,31 @@
       - `noun.modifier`
         - 9% | طويل
         - خاصة
-        - متأخر
+        - 40% | متأخر
+          - [SINGULAR, DUAL AND PLURAL NOUNS IN ARABIC. ARABIC GRAMMAR (LESSON 6).](https://www.youtube.com/watch?v=quffXE5qico)
+          - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
+          - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
+          - [Intermediate Arabic: Plural Form and Adjective Agreement](https://www.youtube.com/watch?v=CSXXliSXhkc)
+          - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
+          - [Intermediate Arabic: Broken Plural](https://www.youtube.com/watch?v=jCjjjvOLOKg)
         - 35% | موجزًا
       - `noun`
-        - 65% | المستأجرين
+        - 80% | المستأجرين
         - 35% | مفهوم
         - 75% | نهج
         - 40% | الْمَالِكَ
         - 5% | مبدأ
-        - الساعة
+        - 30% THROTTLE FREQUENT | ساعة
         - 50% | ستين
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 3 - The Nominal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=TPUuXo0KEhc&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=3)
-      - Videosweepmark: 4:35
+      - Videosweepmark: 17:12
       - VideoListStamp: 3
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-        - Videosweepmark: 1:40
+        - Videosweepmark: 4:06
   - TOPIC Key to the world of Arabic
   - TOPIC: Jurisprudence and Shariah Law
     - Jurisprudence Lectures
@@ -2112,6 +2110,8 @@
     - *Convert all previous AWS sprints to ContinuousDevelopmentUnit, attach M&C to each one as ProofOfCompletion to SpanishAllocatedResourceQuota, merge if needed*
     - **Spanish is by far the most crutially pivotal language to drive output-intensive development because its related topics are directly related to real-world use case**
   - TOPIC Continuous Monkey Business Support
+    - `ROOT.CentralExecutiveFunction`
+      - *For comedy reasons, all monkey business MUST be public*
     - Antidote to Workplace Hell: Meta workspace
       - Business problem: *Godaddy...Google Suite...Ms Workspace...Kingsoft...Tencent...DD...What a mess*
     - **EMERGENCY OVERRIDE** **HW: Moral Cellular Automata Variation** --> Fullstack project
@@ -2119,6 +2119,54 @@
         - Every sentient cell is assigned IQ between 100 to 200
         - Apply Homophily to non-sentient cells
       - Sub-project HW | **IDLE_SHUFFLE**
+      - HARDSHIP
+        - Untriaged
+          - Each sentient cell should have a visibility range for `minmax`
+          - Inspired from Chess game: Bullet game, Rapid, Blitz, Standard game mode may require different technical implementation approach
+        - PoC
+          - World system
+            - Rule: Ruleset
+            - Subsystems
+              - Player system
+                - *Player will have HP, if a particular iteration should elliminate the player cell, player will instead drop HP*
+              - Sentient Cell System
+                - Category
+                - Notion of *Being Sentient*
+              - Inanimate Cell System
+            - Mechanism
+              - Homophily
+          - Using `Svelte`
+      - Stored Scattered Effort
+        - _meta
+          - `merge(**kwargs: any)`
+      - SUPPLEMENT
+        - Inspiration
+          - [Cellular Automata and Rule 30 (Stephen Wolfram) | AI Podcast Clips](https://www.youtube.com/watch?v=VguG_y05Xe8&t=38s)
+          - [How To Code a Falling Sand Simulation (like Noita) with Cellular Automata](https://www.youtube.com/watch?v=5Ka3tbbT-9E)
+            - VideoFollowAlongSweepmark: 3:30
+              - CONFIG
+                - *Add Svelte code based on this material to the code base*
+                - If PoC codebase is not mature, apply THROTTLE
+              - DISCOVERY
+                - Entity Abstraction Needed
+          - WEIGHT= 800 [What are Cellular Automata?](https://www.youtube.com/watch?v=E7CxMHsYzSs)
+            - Videosweepmar: 3:30
+          - WEIGHT=1000 [I programmed some creatures. They Evolved.](https://www.youtube.com/watch?v=N3tRFayqVtk)
+            - [biosim4](https://github.com/davidrmiller/biosim4)
+          - [Inventing Game of Life (John Conway) - Numberphile](https://www.youtube.com/watch?v=R9Plq-D1gEk)
+            - Videosweepmark: 5:46
+          - [Coding Challenge #85: The Game of Life](https://www.youtube.com/watch?v=FWSR_7kZuYg)
+            - Videosweepmark: 1:03
+            - [MATHEMATICAL GAMES The fantastic combinations of John Conway's new solitaire game "life" - M.Gardner 1970](http://www.ibiblio.org/lifepatterns/october1970.html)
+        - Code
+          - [cellauto - github](https://github.com/sanojian/cellauto)
+          - [cellular_automata](https://github.com/chirs/cellular_automata)
+        - Research
+          - [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata](https://arxiv.org/abs/2103.08737)
+        - Knowledge
+      - Procurement
+        - WEIGHT=100 [terra - github](https://github.com/rileyjshaw/terra)
+          - [doc](https://rileyjshaw.com/terra/#main)
     - Streaming
       - Tools
         - OBS Studio
@@ -2130,6 +2178,31 @@
     - LaughFormation： *A fleet of websites that delicates to make user laugh non-stop*
     - HW
       - Automata
+  - TOPIC Enclosed Network Dynamics
+    - **TTL_RESOLVED** TOPIC Product, Product-Driven Growth, One-man company, User Experience Ergonomics, Product Growth in Web 3 Era: Insane Customization
+      - `ERROR: This TOPIC should be managed by Spanish unit` --> MOVE TO Spanish on next ENCOUNTER
+        - Language pair: French --> Spanish
+        - TTL --> Resolved
+      - ContinuousIncubatorUnit Product Thinking in 2022: What Web 3.0+ teach us about NextGen Product Design
+        - *Insane Customization*: Own your usage, own your data, own your product
+        - Usage Pro Tip Ownership --> midjourney, promptbase
+      - CHANNEL GROUP 1
+        - CHANNEL="audio visual"
+          - [Product Led Growth Framework Masterclass](https://www.youtube.com/watch?v=jvOZMQYjYYY)
+            - Videosweepmark: 6:05
+            - ?: $perceived_value=experience_value$
+        - CHANNEL="visual"
+          - [HANDBOOK OF HUMAN FACTORS AND ERGONOMICS](https://kuliahdianmardi.files.wordpress.com/2016/03/handbook-of-human-factors-and-ergonomics-fourth-edition-2012.pdf)
+            - PROCESSING_POINTER_FIELD
+              - Randomtelewalk: 13
+              - GoalDrivenPointerField
+                - Goal: *What Human factors and ergonomics tell us about product design and how it varies in the next generation*
+                - DoubtBot
+                  - *Is this the wrong book for such goal?*
+                - EmphasisPointerInstance 1: ?-?
+                - EmphasisPointerInstance 2: ?-?
+          - [Product-Led Growth - The Future of User Acquisition, Expansion and Retention for SaaS Companies](http://uu.diva-portal.org/smash/get/diva2:1579528/FULLTEXT01.pdf)
+          - [BUILD PRODUCT LED GROWTH: THE END USER ERA](https://cdn2.hubspot.net/hubfs/366266/BUILD_Ebook.pdf)
   - TOPIC Continuous Incubator Support
     - _G
       - P
@@ -2160,16 +2233,17 @@
           - Saturation: 1.57%
         - SUPPLEMENT
           - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
-            - Videosweepmark: 3:30
+            - Videosweepmark: 7:00
             - ContinuousInnovativeThinkingDevelopmentUnit
               - *What innovative system design ideas can you come up with on top of existing design?*
             - PREREQUISITE_PROCESSING
               - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
+                - Videosweepmark: 4:00
     - Political system design
       - [Political Systems Innovation](https://www.youtube.com/watch?v=oGUIoOajxZ8)
-        - Videosweepmark: 3:35
+        - Videosweepmark: 7:00
         - ?
-          - NextGen Social Contract,
+          - NextGen Social Contract, Hyperglobalization, Digital globalization
       - Circuit/Network theory in political realm
     - PQA
       - Sonar ^ Synk
@@ -2345,8 +2419,8 @@
           - Videosweepmark: 15:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec04-2（直流回路網解析：例２・テブナンの定理）](https://www.youtube.com/watch?v=9zjZMbWV9sg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=9)
-          - Videosweepmark: 5:17
+        - [電気電子工学基礎：Lec05-1（正弦波交流）](https://www.youtube.com/watch?v=KwNr9HqZ8G4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=10)
+          - Videosweepmark: 1:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2361,10 +2435,11 @@
       - `verb`
         - THROTTLE FREQUENT 頂く | 25%
           - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
-        - THROTTLE FREQUENT 使う | 5%
+            - Videosweepmark: 5:00
+        - THROTTLE FREQUENT 使う | 15%
           - [Learn Japanese verb conjugation: TE form (て形)](https://www.youtube.com/watch?v=475X4-Ujk1Y)
+            - Videosweepmark: 3:30
         - 直す  | 4%
-        - 考える | 90%
         - 照る | 15%
         - THROTTLE FREQUENT なる
       - `adjective`
@@ -2373,8 +2448,8 @@
       - `phrase`
       - `adverb`
       - `?`
-        - かもしれん | 60%
-        - ようになり
+        - かもしれん | 80%
+        - ようになり | 15%
         - または | 5%
         - されました | 40%
         - 唯一
@@ -2403,7 +2478,7 @@
     - STATIC
       - INBOUND_CACHE
         - Personal pronoun bundle
-          - ContinuousStimulationUnit [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 95.2%
+          - ContinuousStimulationUnit [Russian personal pronouns declension charts](https://learnrussianstepbystep.com/en/russian-pronouns-declension-charts/) | 95.5%
     - MESO
     - VOLATILE
       - _state
@@ -2418,15 +2493,13 @@
         - вот
       - **прилагательное**
         - выходной | 50%
-        - следующей | 50%
+        - следующий | 80%
         - недооценивать | 70%
       - **наречие**
         - определенно | 60%
       - **существительное**
         - разговор | 80%
-        - THROTTLE FREQUENT введение | 92%
-          - [Russian Dative case, plural - dative of nouns, дательный падеж](https://www.youtube.com/watch?v=5E-gbyWiNJQ)
-            - Videosweepmark: 3:35
+        - THROTTLE FREQUENT введение | 100% TT
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
@@ -2435,10 +2508,20 @@
       - Listmark: 1
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
-    - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
-    - [Merge Two Sorted Lists Solution Explained](https://www.youtube.com/watch?v=KVf1Uuqfv8E&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=26)
-      - Videosweepmark: 2:31
-      - Style: FAST POINTER
+    - ? LIMIT 5
+      - [CF-1749-B](https://codeforces.com/problemset/problem/1749/B)
+        - SUPPLEMENT
+          - [Educational Codeforces Round #138 Editorial - Problems A,B,C,D](https://www.youtube.com/watch?v=8fGwF4Ylw-I)
+            -  Videosweepmark : 5:00
+            - Point-in-time C++ hydration
+              - GCC optimize,     
+        - Problem B Death's blessing codeforces solutions || Codeforces educational round 138 solutions
+      - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
+        - SUPPLEMENT
+          - [E001 : Board Moves | Constructive Algorithms | CodeNCode](https://www.youtube.com/watch?v=nRCUK9KBbDE&list=PL5DyztRVgtRW2zr4MoBVHd4yQakKyMWdQ)
+      - [Merge Two Sorted Lists Solution Explained](https://www.youtube.com/watch?v=KVf1Uuqfv8E&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=26)
+        - Videosweepmark: 2:31
+        - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
       - EXTERN STATIC
@@ -2491,7 +2574,7 @@
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
       - [Learn Ancient Greek: 4 _Unit 1 First Declension Nouns](https://www.youtube.com/watch?v=RVV4AwEhwQE&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=4)
-        - Videosweepmark: 6:34
+        - Videosweepmark: 10:50 NEXT 
         - ListStamp: 3
     - STATIC | PPROCESSING\_CAPACITY 1
       - _methods
@@ -2505,10 +2588,10 @@
     - VOLATILE
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
-          - Initial exposure saturation: 2.2%
-        - ανακαλύπτω | 95%  
+          - Initial exposure saturation: 2.7%
+        - ανακαλύπτω | 95%
           - [Greek Verbs 2 (perfect tense)](https://www.youtube.com/watch?v=B3MRvD0t47M&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=2)
-            - Videosweepmark: 9:30
+            - Videosweepmark: 14:55 NEXT
             - Listmark: 2
         - φοράω | 70%
         - αντιμετωπίζω | 40%

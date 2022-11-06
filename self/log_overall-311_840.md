@@ -178,6 +178,9 @@
     - Overall proficiency in meta languages i.e. Data, Mathematics, and Product
     - Related area for BCI, JSON/YAML, linguistics, information theory, and information circulation theory
   - Use Case: *When sentiments stop mattering*
+  - Evaluation Sample
+    - P9
+      - Scenario Test: *You're trapped in an alien world where others use flickering light to communicate, and you wondered in a mural showcasing an ancient made-up lanugage used by ancient alien species. Find a way home.*
   - `JSON` as interpersonal communication medium
     - **LOCKED**: Requires at least 5-8 yrs of valid, high-quality general cloud computing, PR, Enterprise IT experience
     - BCI Integration
@@ -348,6 +351,7 @@
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
                       - STATIC
+                        - GIPS
                         - CFA Ethical Decision-Making Framework
                           - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
                           - Consider: Situational Influences, Alternative Actions, Additional Guidance
@@ -434,6 +438,27 @@
                                   - Videosweepmark: 7:30
                               - [Deep Learning with Differential Privacy (DP-SGD explained)](https://www.youtube.com/watch?v=oNSelFJnPaM)
                                 - Videosweepmark: 0:20
+                                - ?: Privacy loss, Privacy budget, ε-differential privacy
+                                - SUPPLEMENT
+                                  - [Interpretation of the ε and δ s of Differential Privacy | Lê Nguyên Hoang](https://www.youtube.com/watch?v=REAo31p5wSo)
+                                  - Robust De-anonymization of Large Sparse Datasets - A. Narayanan et. al.
+                                    - _meta
+                                      - Critical Question: *Suppose that through an exhaustive screening process amongst a lot of academic papers, three papers list as the pinnacle of importance. What's your approach to get the most out of them? Describe them in a comprehensive manner.*
+                                        - SUPPLEMENT
+                                          - Language pair: German
+                                          - [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
+                                          - [7 insanely useful academic apps you've not heard about!](https://www.youtube.com/watch?v=F_M19e8MI10)
+                                          - [Oddly effective ways to increase writing motivation | For Thesis, Research Papers and more](https://www.youtube.com/watch?v=BhtD7657OIU)
+                                          - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
+                                  - Retain confidence: 100%
+                                  - PROCESSING_PIPELINE
+                                    - Pipeline - Verdict & Shallow investment
+                                      - Activation: 100%
+                                    - Pipeline - Rigorous
+                                      - Activation: 0%
+                                    - Pipeline - Persistent
+                                      - Activation: 0%
+                              - [Differentially Private Algorithms: Some Primitives and Paradigms - Kunal Talwar](https://www.youtube.com/watch?v=HFMZYFrHqLo)
                             - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
                               - PROCESSING_POINTER_FIELD
                                 - Randomtelewalk: 37
@@ -681,14 +706,62 @@
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=33UU9JB3lz0))
-      - Videosweepmark: 3:30
+      - Videosweepmark: 7:00
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
               - PROCESSING POINTER FIELD
-                - Randomtelewalk: 26
-                  - Saturation: 0.015%
+                - Randomtelewalk: 468
+                  - VisitStack: 26
+                  - _state
+                    - `traffic`: 0.5
+                      - `nodeHash`: *nodeHash is crutial for RESONANCE to happen amongst different node types i.e. method node, entity node, meta node etc.*
+                        - _meta
+                          - `hashDistance`
+                          - `highwayHash`
+                        - _hook
+                        - _methods
+                          - `mutate`
+                          - `broadcast`
+                        - `value`: `AG1`
+                  - Saturation: 0.018%
+                - RigorousPipeline
+                  - **UNINTERRUPTABLE** 1.3~1.6
+                    - _methods
+                      - `toInterruptable(TRIGGER)`
+                    - _hook
+                      - ONDESTROY
+                        - `upsertSchema(UNINTERRUPTABLE)`
+                    - _meta
+                      - `(UNINTERRUPTABLE.description)()`
+                        - *If UNINTERRUPTABLE is interrupted, to obtain meaningful understanding, one has to start from its beginning*
+                        - *For difficult books, there could be non-stop occurence on identified UNINTERRUPTABLE chapters, thus more sophisticated integrated planning required*
+                    - CONFIG
+                      - `traffic`: 0.5
+                        - `nodeHash`: *nodeHash is crutial for RESONANCE to happen amongst different node types i.e. method node, entity node, meta node etc.*
+                          - _meta
+                            - `hashDistance`
+                            - `highwayHash`
+                          - _hook
+                          - _methods
+                            - `mutate`
+                            - `broadcast`
+                          - `value`: `AG1`
+                    - RC(Risk Control)
+                      - IntellectualKnot
+                        - _description
+                          - *IntellectualKnots are perceivably dumb points of ignorance where one would hesitate to address until it becomes prominent*
+                          - *IntellectualKnots are omnipresent and requires explicit search-and-destroy from time to time*
+                        - Externality
+                          - [Positive externalities | Consumer and producer surplus | Microeconomics | Khan Academy](https://www.youtube.com/watch?v=TSTLLFJbaA4)
+                          - [Negative externalities | Consumer and producer surplus | Microeconomics | Khan Academy](https://www.youtube.com/watch?v=nBw6KvU51BE)
+                          - [Externalities](https://www.youtube.com/watch?v=tVX_BSV-h-E)
+                            - Videosweepmark: 3:40
+                    - M&C
+                      - Saturation: 9%
+                      - TimeCostEstimation
+                      - EnergyCostEstimation
                 - Action Items
               - CURIOUSITY OUTREACH FIELD
                 - Shadow bank, Externality
@@ -851,7 +924,7 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 34-193/18* &4.5
+                    - *Double mapping* | 34-193/18* &4.8
                       - QualmStack LIMIT 5: 3.13-17
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
@@ -869,10 +942,10 @@
                             - Videosweepmark: 10:00
                         - ContinuousStimulationUnit *Crystal clear understanding of Credit and Debit*
                           - Saturation: 15%
-                          - Persistent
+                          - FastPointer
                             - [Rules of Debit and Credit - DEALER Trick - Saheb Academy](https://www.youtube.com/watch?v=JVUk3gSlcuA)
                               - Videosweepmark: 3:30
-                          - Flow
+                          - SlowPointer
                             - [What Credit (CR) and Debit (DR) Mean on a Balance Sheet](https://www.investopedia.com/ask/answers/04/072304.asp#:~:text=Key%20Takeaways%3A,%2C%20notated%20as%20%22CR.%22)
                               - Saturation: 13%
                               - [Debit Definition: Meaning and Its Relationship to Credit](https://www.investopedia.com/terms/d/debit.asp)
@@ -1112,7 +1185,7 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 7:30 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 11:06 --> `this.concurrentTraffic = ?`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
@@ -1638,7 +1711,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 29%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP: 5:00
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1789,11 +1862,11 @@
     - MK toolkit
       - Co-ordinated Collusion
     - CS toolkit
-      - Complete Ethical Hacking Bootcamp 2022: Zero to Mastery - U --> **ACTIVE, 5m/d**
+      - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 21.6% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 2:13
-          - BLOCKER: RTFM
+        - TEMP_TIMESTAMP: 6:07
+          - CONCURRENT: RTFM --> <span style="color: lime">BLOCKER Resolved</span>
             - [Tenable - Doc](https://docs.tenable.com/nessus/Content/AmazonWebServices.htm)
               - Saturation
                 - _meta
@@ -2058,8 +2131,6 @@
         - 9% | طويل
         - خاصة
         - 60% | متأخر
-          - [SINGULAR, DUAL AND PLURAL NOUNS IN ARABIC. ARABIC GRAMMAR (LESSON 6).](https://www.youtube.com/watch?v=quffXE5qico)
-            - Videosweepmark: 13:30 TTL
           - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
             - Videosweepmark: 10:35
           - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
@@ -2071,7 +2142,7 @@
             - Videosweepmark: 3:30
         - 35% | موجزًا
       - `noun`
-        - 80% | المستأجرين
+        - 100% TTL | المستأجرين
         - 35% | مفهوم
         - 75% | نهج
         - 40% | الْمَالِكَ
@@ -2307,8 +2378,7 @@
         - TEMP_TIMESTAMP: 6:00
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-        - QUESTION How is enum in Typescript translated to JavaScript 
-        ​ Typescript: The Complete Developer's Guide
+      - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
         - CCS: 1%
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
@@ -2447,26 +2517,19 @@
           - Videosweepmark: 15:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec05-1（正弦波交流）](https://www.youtube.com/watch?v=KwNr9HqZ8G4&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=10)
-          - Videosweepmark: 5:29 NEXT
+        - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
+          - Videosweepmark: 1:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
       - Katakana proficiency | 90%
       - /Verb Form | 80%
     - MESO
-      - **てみよう**
-      - **てもらう** --> `this.meso` | 100% TTL
-        - [てもらう (te morau)](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A6%E3%82%82%E3%82%89%E3%81%86-te-morau-%E3%81%A6%E3%82%82%E3%82%89%E3%81%84%E3%81%9F%E3%81%84-te-moraitai-meaning/)
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
         - THROTTLE FREQUENT 頂く | 25%
-          - [Learn Japanese (JLPT N3): Causative form + kureru/ageru/morau](https://www.youtube.com/watch?v=8rpmj1t4aBI)
-            - Videosweepmark: 5:41 TTL 
         - THROTTLE FREQUENT 使う | 15%
-          - [Learn Japanese verb conjugation: TE form (て形)](https://www.youtube.com/watch?v=475X4-Ujk1Y)
-            - Videosweepmark: 6:03 TTL
         - 直す  | 54%
         - 照る | 35%
         - THROTTLE FREQUENT なる | 50%
@@ -2476,15 +2539,17 @@
           - NEW Japanese adjective inflection
       - `phrase`
       - `adverb`
+        - 唯一
       - `?`
         - なくて
-        - かもしれん | 80%
-        - ようになり | 15%
-        - または | 35%
-        - されました | 40%
-        - 唯一
+          - [Study Japanese『N3文法大解析』てしかたがない // 非常～](https://www.youtube.com/watch?v=c9eiBlaqfdM)
+        - かもしれん | 100% TTL
+        - ようになり | 45%
+        - または | 95%
+        - されました | 100% TTL
       - `noun`
-        - 希望
+        - 平均 | 90%
+        - 希望 | 90%
         - THROTTLE FREQUENT 言葉 | 77%
         - テブナン | 5%
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
@@ -2514,6 +2579,7 @@
       - _state
         - EFFICIENCY_UPGRADE: *Static section is contributing, estimated future increase in this.PROCESSING_CAPACITY*
         - PROCESSING_CAPACITY: 10
+        - SECURITY_GROUP: OPEN
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
@@ -2523,8 +2589,6 @@
         - вот
       - **прилагательное**
         - выходной | 80%
-        - следующий | 100% TTL
-        - недооценивать | 100% TTL
       - **наречие**
         - определенно | 80%
       - **существительное**
@@ -2569,7 +2633,10 @@
             - *This is an extremely difficult book, psyche up for it before digging in, at the moment this endeavour is best paired with Russian*
             - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 45
+                - Randomtelewalk: 34
+                  - _methods
+                    - `createPipeline(self, *args, **kwargs)`
+                  - StackedIndex: 45
                 - Saturation: 0.00023%
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH

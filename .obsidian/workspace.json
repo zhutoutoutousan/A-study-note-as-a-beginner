@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204ca6a2dd0cabfd",
+  "active": "c9e52909446fd56f",
   "lastOpenFiles": [
     "self/log_overall-310_840.md",
     "self/__HT__eliza-project.md",

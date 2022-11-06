@@ -1,0 +1,6 @@
+- SEC | WTF Tree
+    - [x] Blackscreen problem --> MOVE TO `ANY/kali linux/WTF tree`
+    - [x] Solution: Use a mixture of `LCTRL+LALT+F1` and `LCTRL+LALT+F2`
+    - [How To Fix Black Screen When Installing Kali Linux On Virtual Box](https://www.youtube.com/watch?v=3_BJQLNbe_o)
+        - [关于vm虚拟机上安装kali之后登录黑屏的问题](https://blog.csdn.net/weixin_42095265/article/details/84145257)
+        - [Black Screen after trying to log onto to Kali Linux](https://www.virtualbox.org/ticket/19906?cversion=2&cnum_hist=1)

@@ -318,7 +318,7 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 14.7%
+                  - CCS: 15.0%
                   - ETA: 9 months
                   - TEMP_TIMESTAMP
                   - _source
@@ -368,7 +368,8 @@
                           - Language pair: French
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
-                          - [Conflict of Interest (COI): What is it and How do I Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
+                          - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
+                            - Videosweepmark: 5:00
                           - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
                         - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
                         - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
@@ -698,7 +699,8 @@
     - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
       - Videosweepmark: 29:03
     - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 35:20
+      - Videosweepmark: 40:30
+      - Multiple timeframe coordination 
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
       - PASSIVE *All sports, powerlifting, anatomy, fitness, nutrition related material will be directed to French only*
@@ -1169,6 +1171,10 @@
                       - Videosweepmark: 17:40
                     - [The Cauchy-Riemann Equations - Complex Analysis By A Physicist](https://www.youtube.com/watch?v=OfN9QG0zCXg)
                       - Videosweepmark: 7:20
+        - Geometric Deep Learning
+          - [Geometric Deep Learning](https://geometricdeeplearning.com/)
+          - [PYG DOCUMENTATION](https://pytorch-geometric.readthedocs.io/en/latest/)
+          - [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
         - Stanford CS224W
           - Hands-on Pairs
             - [Graph Theory Algorithms for Competitive Programming (2022)](https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/learn/lecture/27229082#overview)
@@ -1185,12 +1191,12 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 11:06 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 14:36 --> `this.concurrentTraffic = ?`
             - ?
               - Probabilistic Relational Classifier
               - SVM, Regression
               - ?
-                - Loopy BP Algorithm
+                - IMPORTANT Loopy BP Algorithm
                   - Label-label potential
                   - Belief propagation
                - Frobenius norm
@@ -1711,7 +1717,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 29%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 10:30
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1809,9 +1815,11 @@
         - `noun`
           - battere | 20%
           - personaggio | 100%
+  - Politics & Public Relations
+    - [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:54:20
+      - Videosweepmark: 1:58:00
       - WGAC guidelines
       - Experimental/Mutating Probablistic fonts
         - PROMPT: THE NEXT BIG THING ON TYPE
@@ -1822,7 +1830,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 17:30
+          - Videosweepmark: 21:00
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -1974,8 +1982,8 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 68.7%
-      - E.T.A: 3.9 months
+      - CCS: 69.4%
+      - E.T.A: 3.87 months
       - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
@@ -2105,7 +2113,10 @@
     - VOLATILE STATE=ELIMINATE
       - `verb`
         - 30% | قلب
-        - 50% | اِسْتَطَاعَ
+        - 80% | اِسْتَطَاعَ
+          - [Arabic Verb Conjugation: The Present tense (Subjunctive) - Lesson 24](https://www.youtube.com/watch?v=zFhacV9ntPk)
+          - [Learn Arabic: The conjunction أن to connect two verbs in Arabic (subjunctive in Arabic)](https://www.youtube.com/watch?v=EzHut2j9vMk)
+          - [Arabic Grammar: Active Participles اسم الفاعل](https://www.youtube.com/watch?v=QucykPvo2ec)
         - 20% | نصعد
         - تقديم
         - 40% | وفر
@@ -2122,6 +2133,7 @@
         - 5% | مع
       - `adverb`
         - أدناه
+        - رُبَّمَا
       - `?.connector`
         - 5% | دُونَ
         - كما
@@ -2132,17 +2144,15 @@
         - خاصة
         - 60% | متأخر
           - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
-            - Videosweepmark: 10:35
+            - Videosweepmark: 11:35
           - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
-            - Videosweepmark: 7:00
-          - [Intermediate Arabic: Plural Form and Adjective Agreement](https://www.youtube.com/watch?v=CSXXliSXhkc)
-            - Videosweepmark: 7:00
+            - Videosweepmark: 11:30
           - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
+            - Videosweepmark: 1:14
           - [Intermediate Arabic: Broken Plural](https://www.youtube.com/watch?v=jCjjjvOLOKg)
             - Videosweepmark: 3:30
         - 35% | موجزًا
       - `noun`
-        - 100% TTL | المستأجرين
         - 35% | مفهوم
         - 75% | نهج
         - 40% | الْمَالِكَ
@@ -2324,6 +2334,8 @@
             - PREREQUISITE_PROCESSING
               - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
                 - Videosweepmark: 4:00
+    - Sentient System Design
+      - [A RELATIONAL MACROSTATE THEORY GUIDES ARTIFICIAL INTELLIGENCE TO LEARN MACRO AND DESIGN MICRO](https://arxiv.org/pdf/2210.07374.pdf)
     - Political system design
       - [Political Complexity Overview](https://www.youtube.com/watch?v=RwQligreQ3M)
       - [Political Systems Innovation](https://www.youtube.com/watch?v=oGUIoOajxZ8)
@@ -2357,17 +2369,23 @@
         - _source
           -  [Link1](http://guanzhou.pub/files/Computer%20System_EN.pdf)
           -  [Link2](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
-      - Quantum Physics
+      - Quantum Physics - Ph219
+        - [Gilbert Strang lectures on Linear Algebra (MIT) - 1](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+        - [John Preskill - Introduction to Quantum Information (Part 1) - CSSQI 2012](https://www.youtube.com/watch?v=Q4xBlSi_fOs)
+          - [Lecture Notes for Physics 229 Quantum Information and Computatio](https://www.lorentz.leidenuniv.nl/quantumcomputers/literature/preskill_1_to_6.pdf)
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk
-              - Saturation: 0.0122%
-              - Instance: 636
-              - Instance: 11
+              - Saturation: 0.0127%
+              - Instances LIMIT 5
+                - Instance: 636
+                - Instance: 11
+                - Instance: 5
           - Audio-visual-dualingual Pair
             - [Lectures in Quantum Computation and Quantum Information (IIT Madras) - 1](https://www.youtube.com/watch?v=Joj2pH1Jczc&list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
-              - Videosweepmark
-              - Listmark
+              - Videosweepmark: 5:00
+              - Listmark: 1
+              - [Course Information for Ph219](http://theory.caltech.edu/~preskill/ph229/)
             - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
             - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
             - [The Map of Quantum Computing | Quantum Computers Explained](https://www.youtube.com/watch?v=-UlxHPIEVqA)
@@ -2514,7 +2532,7 @@
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 15:00
+          - Videosweepmark: 16:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
@@ -2529,12 +2547,15 @@
       - _STATE: ELIMINATE
       - `verb`
         - THROTTLE FREQUENT 頂く | 25%
-        - THROTTLE FREQUENT 使う | 15%
+        - THROTTLE FREQUENT 使う | 19%
         - 直す  | 54%
         - 照る | 35%
         - THROTTLE FREQUENT なる | 50%
+        - 記述する
+        - THROTTLE FREQUENT 持つ
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
+        - 不思議 | 50%
         - 易い | 22%
           - NEW Japanese adjective inflection
       - `phrase`
@@ -2543,13 +2564,11 @@
       - `?`
         - なくて
           - [Study Japanese『N3文法大解析』てしかたがない // 非常～](https://www.youtube.com/watch?v=c9eiBlaqfdM)
-        - かもしれん | 100% TTL
-        - ようになり | 45%
-        - または | 95%
-        - されました | 100% TTL
+        - ようになり | 100% TTL
+        - または | 100% TTL
       - `noun`
-        - 平均 | 90%
-        - 希望 | 90%
+        - 平均 | 100% TTL
+        - 希望 | 100% TTL
         - THROTTLE FREQUENT 言葉 | 77%
         - テブナン | 5%
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
@@ -2585,20 +2604,32 @@
       - **глагол**
         - поместить | 80%
         - проводить | 80%
+        - подталкивать
+        - визуализировать
+        - попрактиковаться
       - ?
         - вот
+        - такой
+        - через
+          - [Preposition + Case Pairs | Russian Language](https://www.youtube.com/watch?v=2lg8wQUEN7o)
+        - Таким образом
       - **прилагательное**
         - выходной | 80%
+        - довольный
+        - распространенный
       - **наречие**
+        - соответственно
         - определенно | 80%
       - **существительное**
         - разговор | 90%
+        - соединение
+        - весь
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PL18B9F132DFD967A3)
-        - Videosweepmark: 26:03
+        - Videosweepmark: 30:33
         - Listmark: 1
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
@@ -2649,7 +2680,7 @@
                   - Videosweepmark: 2:40
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
-        - Videosweepmark: 39:30
+        - Videosweepmark: 45:02
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -2670,9 +2701,9 @@
   - ?
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
-      - [Learn Ancient Greek: 4 _Unit 1 First Declension Nouns](https://www.youtube.com/watch?v=uucA0i50kyM&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=5)
-        - Videosweepmark: 10:14 NEXT
-        - ListStamp: 5
+      - [Learn Ancient Greek: 6_Unit 1 The Definite Article and its Grouping function](https://www.youtube.com/watch?v=tGNAwyir93k&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=6)
+        - Videosweepmark: 5:00
+        - ListStamp: 6
     - STATIC | PROCESSING\_CAPACITY 1
       - _methods
         - `language.meta.pronounciation.callibrate()`

@@ -318,9 +318,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 15.0%
+                  - CCS: 15.3%
                   - ETA: 9 months
-                  - TEMP_TIMESTAMP
+                  - TEMP_TIMESTAMP: 4:00
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - Global Investment Performance Standards(GIPS)
@@ -415,7 +415,7 @@
                           - **ROOT_STICKY_ENGLISH** **ROOT M&C**
                             - Energy Consumption Reduction Plan
                               - **LaserFocus**: *No distractions! Execute to perfection*
-                          - Videosweemark: 35:00
+                          - Videosweemark: 37:17 REPLACE_HOOK
                           - Language pair: German
                           - NEW Single-use Accountability System
                           - Bookpair: A Pragmatic Introduction to Secure Multi-party Configuration
@@ -427,6 +427,7 @@
                             - Garbled Circuits Protocol, PSI
                             - Vickrey auction
                               - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
+                                - Videosweepmark: 5:11
                             - SMPC Shamir secret sharing --> Quantum secure?, FHE, PPC. DP
                             - **AMPLIFIED** **Differential Privacy**
                               - _category
@@ -434,9 +435,9 @@
                               - _relationship
                                 - __next
                                   - Data Anonymization
-                              - A Course In Differential Privacy
+                              - REPLACE_HOOK A Course In Differential Privacy
                                 - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
-                                  - Videosweepmark: 7:30
+                                  - Videosweepmark: 11:30
                               - [Deep Learning with Differential Privacy (DP-SGD explained)](https://www.youtube.com/watch?v=oNSelFJnPaM)
                                 - Videosweepmark: 0:20
                                 - ?: Privacy loss, Privacy budget, ε-differential privacy
@@ -707,8 +708,8 @@
   - TOPIC Economics(Mathematics)
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
-    - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=33UU9JB3lz0))
-      - Videosweepmark: 7:00
+    - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk&t=421s)
+      - Videosweepmark: 11:14
       - ATTACHABLE Political Science Bundle
         - Agency Theory
           - Erudition
@@ -797,7 +798,8 @@
               - RUNNING: `Freeloader.sourcing`
             - [Statistical Physics & Complex Systems](https://cdn.ymaws.com/www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/contributed.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 6
+                - Randomtelewalk: 20
+                  - Saturation: 1%
                 - InterestedEntries: 6
                 - **BLACKHOLE** **IMPORTANT** ContinuousSkillDevelopmentUnit MetaProcessing /w Research Skill
                   - **ADDITIONAL_EFFORT="10 minutes"** Training Model Instances
@@ -815,7 +817,7 @@
                         - _source
                           - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
                           - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
-                            - Videosweepmark: 6:10
+                            - Videosweepmark: 9:49
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
                             - Videosweepmark: 3:30
                           - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
@@ -926,7 +928,7 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 34-193/18* &4.8
+                    - *Double mapping* | 35-193/18* &4.11
                       - QualmStack LIMIT 5: 3.13-17
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
@@ -937,8 +939,8 @@
                         - T, Opening Balance
                         - Books of prime entry
                           - [The books of Prime Entry (part a) - ACCA Financial Accounting (FA) lectures](https://www.youtube.com/watch?v=qxhXPLpF768)
-                            - Videosweepmark: 17:33
-                            - Cash receipts book, cash payments book, purchase day book, sales day book
+                            - Videosweepmark: 21:00
+                            - DISPERSE_ON_COMPLETE Cash receipts book, cash payments book, purchase day book, sales day book
                         - *Outlook of debit/credit note*
                           - [Debit Note vs Credit Note | Explained with Example](https://www.youtube.com/watch?v=iHpQ4KggmJY)
                             - Videosweepmark: 10:00
@@ -1819,7 +1821,7 @@
     - [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
   - Branding, Fashion, Faces
     - [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
-      - Videosweepmark: 1:58:00
+      - Videosweepmark: 2:01:30
       - WGAC guidelines
       - Experimental/Mutating Probablistic fonts
         - PROMPT: THE NEXT BIG THING ON TYPE
@@ -1830,7 +1832,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 21:00
+          - Videosweepmark: 24:30
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding

@@ -1000,7 +1000,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 44:00
+      - Videosweepmark: 48:00
       - LIST_NUM: 2
       - CURIOSITY_OUTREACH
         - CoVaR
@@ -1008,9 +1008,29 @@
         - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk: 26
-              - Saturation: 0.007%
+              - Saturation: 0.010%
             - Lazy Freeloader's Feynman Technique Entries
               - CH1_24
+          - PROCESSING_POINTER_STORE
+            - SUPPLEMENT
+              - PERSISTENT
+                - **Root Multi-dimensional Venn Graph Construction**
+                  - _meta
+                    - Tooling
+                      - Software Project: Multi-dimensional Venn Graph 时域多维文氏图(3D, 4D)
+                        - [多维venn图](https://www.jianshu.com/p/27c1a58e21aa)
+                        - [Higher-dimensional Venn diagrams](https://www.math.stonybrook.edu/~tony/whatsnew/column/venn-0605/venn.html)
+                        - [Multidimensional Venn Diagrams](https://stackoverflow.com/questions/14774190/multidimensional-venn-diagrams)
+                        - [plotVenn2d: Plot Venn diagram for 2-dimensional data](https://rdrr.io/cran/colorfulVennPlot/man/plotVenn2d.html)
+                        - [Generalizations and Extensions](https://www.combinatorics.org/files/Surveys/ds5/ds5v3-2005/VennOtherEJC.html)
+                        - [BEAUTIFUL GGPLOT VENN DIAGRAM WITH R](https://www.datanovia.com/en/blog/beautiful-ggplot-venn-diagram-with-r/)
+                  - Financial Instrument
+                    - Equity Instrument
+                    - Debt Instrument
+                    - ?
+                  - ?
+                    - Financial Asset
+                    - Financial Risk
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - Mathematics as Language:`communication-medium` - `ERROR: RATING SYSTEM MISSING`
@@ -1111,8 +1131,6 @@
       - source
         - media.ccc.de
         - The Royal Institution
-    - Quantum Computing Hands-on
-      - _source
     - **BLACKHOLE**
       - TOPIC Cutting-edge Web Tech
         - Unreal Pixel Streaming
@@ -1153,11 +1171,13 @@
                   - [Real Analysis Exam 1 Review Problems and Solutions](https://www.youtube.com/watch?v=Z-CLXGQeK5I)
                 - PROCESSING_POINTER_FIELD
                   - Randomtelewalk LIMIT 3
-                    - Saturation: 0.0026%
+                    - Saturation: 0.0030%
                     - CONFIG
                       - [How to get better at learning mathematics - Intuition versus Rote Learning](https://www.youtube.com/watch?v=GDPQ3YDHLCQ)
+                        - Videosweepmark: 3:30
+                        - *Not the full picture, didn't address the GO-TO-MARKET academic capability set*
                     - Instance
-                      - 21
+                      - 22
                     - Instance
                       - 17 - *...That exp is monotonically increasing...*
                         - LaTeX-German-Math Tridem
@@ -1173,7 +1193,8 @@
                       - Videosweepmark: 17:40
                     - [The Cauchy-Riemann Equations - Complex Analysis By A Physicist](https://www.youtube.com/watch?v=OfN9QG0zCXg)
                       - Videosweepmark: 7:20
-        - Geometric Deep Learning
+        - UNSTABLE Geometric Deep Learning
+          - *UNSTABLE means it has an uncertain possibility to teleport to other language sector*
           - [Geometric Deep Learning](https://geometricdeeplearning.com/)
           - [PYG DOCUMENTATION](https://pytorch-geometric.readthedocs.io/en/latest/)
           - [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
@@ -1193,14 +1214,19 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 14:36 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 18:00 --> `this.concurrentTraffic = ?`
             - ?
-              - Probabilistic Relational Classifier
-              - SVM, Regression
+              - Probabilistic Relational Classifier --> TTL
+              - SVM, Regression --> TTL
               - ?
                 - IMPORTANT Loopy BP Algorithm
+                  - 10-708: Probabilistic Graphical Models 10-708
                   - Label-label potential
                   - Belief propagation
+                    - [Variational Inference: Loopy Belief Propagation](https://www.cs.cmu.edu/~epxing/Class/10708-14/scribe_notes/scribe_note_lecture13.pdf)
+                    - [Levenberg-Marquardt Algorithm](https://www.youtube.com/watch?v=2ToL9zUR8ZI)
+                    - [Joseph M. Renes: Belief propagation decoding of quantum channels by passing quantum messages](https://www.youtube.com/watch?v=TVkn524ALco)
+                    - [Elchanan Mossel (MIT): Simplicity and Complexity of Belief Propagation](https://www.youtube.com/watch?v=mJGwqhbwqjA)
                - Frobenius norm
                   - _alias
                      - L2 norm
@@ -1717,9 +1743,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 29%
+            - CCS: 29.3%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP: 10:30
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1872,6 +1898,13 @@
     - MK toolkit
       - Co-ordinated Collusion
     - CS toolkit
+      - *Learning Italian while accidentally mastering Powershell and Shell*
+        - Complete Linux Bash Shell Scripting with Real Life Examples - U
+        - Linux Shell Scripting: A Project-Based Approach to Learning - U
+        - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
+        - Advanced Scripting & Tool Making using Windows PowerShell - U
+        - Introduction to Windows PowerShell 5.1 - U
+        - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 21.6% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
@@ -1984,8 +2017,8 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 69.4%
-      - E.T.A: 3.87 months
+      - CCS: 69.8%
+      - E.T.A: 3.84 months
       - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
@@ -2117,11 +2150,13 @@
         - 30% | قلب
         - 80% | اِسْتَطَاعَ
           - [Arabic Verb Conjugation: The Present tense (Subjunctive) - Lesson 24](https://www.youtube.com/watch?v=zFhacV9ntPk)
+            - Videosweepmark: 3:30
           - [Learn Arabic: The conjunction أن to connect two verbs in Arabic (subjunctive in Arabic)](https://www.youtube.com/watch?v=EzHut2j9vMk)
+             - Videosweepmark : 3:30
           - [Arabic Grammar: Active Participles اسم الفاعل](https://www.youtube.com/watch?v=QucykPvo2ec)
         - 20% | نصعد
-        - تقديم
-        - 40% | وفر
+        - 25% | تقديم
+        - 45% | وفر
         - 30% | أَفْهَمُ
         - 18% | تَسْبِقُ
         - 10% تعرف
@@ -2146,7 +2181,7 @@
         - خاصة
         - 60% | متأخر
           - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
-            - Videosweepmark: 11:35
+            - Videosweepmark: 15:00
           - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
             - Videosweepmark: 11:30
           - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
@@ -2378,11 +2413,18 @@
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk
-              - Saturation: 0.0127%
+              - Saturation: 0.0135%
               - Instances LIMIT 5
                 - Instance: 636
-                - Instance: 11
-                - Instance: 5
+                - CURRENT Instance: 25
+          - PROCESSING_POINTER_STORE
+            - Codex
+              - 18 - *Structure of the book*
+            - SUPPLEMENTATION
+              - Positive Definiteness
+                - [5. Positive Definite and Semidefinite Matrices](https://www.youtube.com/watch?v=xsP-S7yKaRA)
+                - [Symmetric Matrices and Positive Definiteness](https://www.youtube.com/watch?v=lpnY5QVjU5w)
+              - Hadamard gate
           - Audio-visual-dualingual Pair
             - [Lectures in Quantum Computation and Quantum Information (IIT Madras) - 1](https://www.youtube.com/watch?v=Joj2pH1Jczc&list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
               - Videosweepmark: 5:00
@@ -2474,7 +2516,7 @@
         - TASK Create hormonal manipulation strategy
 - Korean - TOPIK II+
   - `createLanguageImprovmentPlan('korean', requirements=$(children.input('HOOK-Requirements', context)))`
-  - Initialization of language/meta structrure: 71.5%
+  - Initialization of language/meta structrure: 75%
     - `ROOT.CentralExecutiveFunction`
       - `onComplete`
         - RESOUCE_ALLOCATION `time='10 seconds`
@@ -2534,7 +2576,7 @@
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 16:00
+          - Videosweepmark: 21:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
@@ -2566,11 +2608,7 @@
       - `?`
         - なくて
           - [Study Japanese『N3文法大解析』てしかたがない // 非常～](https://www.youtube.com/watch?v=c9eiBlaqfdM)
-        - ようになり | 100% TTL
-        - または | 100% TTL
       - `noun`
-        - 平均 | 100% TTL
-        - 希望 | 100% TTL
         - THROTTLE FREQUENT 言葉 | 77%
         - テブナン | 5%
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
@@ -2625,6 +2663,7 @@
       - **существительное**
         - разговор | 90%
         - соединение
+      - **Местоимение**
         - весь
       - ?
         - остальные
@@ -2657,7 +2696,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 20:31
+        - Videosweepmark: 22:00
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2701,10 +2740,14 @@
         - Familiarity with Verb form in **Italian, Spanish, Portuguese** --> Accelerated Greek Verb Form Comprehension
         - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progresses*
   - ?
+    - Source
+      - [Ὀδύσσεια](https://grevenart.gr/wp-content/uploads/2016/11/%CE%BF%CE%BC%CE%AE%CF%81%CE%BF%CF%85-%CE%BF%CE%B4%CF%8D%CF%83%CF%83%CE%B5%CE%B9%CE%B1.pdf)
+        - PROCESSING_POINTER_FIELD
+          - Randomtelewalk: 5
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
       - [Learn Ancient Greek: 6_Unit 1 The Definite Article and its Grouping function](https://www.youtube.com/watch?v=tGNAwyir93k&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=6)
-        - Videosweepmark: 5:00
+        - Videosweepmark: 10:05
         - ListStamp: 6
     - STATIC | PROCESSING\_CAPACITY 1
       - _methods

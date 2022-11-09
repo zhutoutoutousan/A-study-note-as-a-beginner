@@ -318,9 +318,12 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 15.3%
+                  - CCS: 16.3%
                   - ETA: 9 months
-                  - TEMP_TIMESTAMP: 4:00
+                  - TEMP_TIMESTAMP: 3:10
+                  - _hook
+                    - POST_MORTEM
+                      - Practice Questions
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - Global Investment Performance Standards(GIPS)
@@ -677,10 +680,11 @@
                       - Tooling
                         - Hash.ai
                         - NetLogo
-                          - [Fundamentals of NetLogo - Agent-Based Modeling: What is Agent-Based Modeling?](https://www.youtube.com/watch?v=FVmQbfsOkGc&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=2)
-                            - Videosweepmark
+                          - [Fundamentals of NetLogo - Agent-Based Modeling: What is Agent-Based Modeling?](https://www.youtube.com/watch?v=FVmQbfsOkGc&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=3)
+                            - Videosweepmark: 5:00
+                            - Listmark: 3
                             - _state
-                              - Current language shuffle pair: English-German
+                              - Current language shuffle pair: French-German \w English Audio
                               - **ENFORCED** Hands-on
                     - Basic Academic Sophistication
                       - Randomwalk
@@ -697,11 +701,31 @@
         - *Too much * --> French input, not enough French --> * Input*
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
-    - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
-      - Videosweepmark: 29:03
-    - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-      - Videosweepmark: 40:30
-      - Multiple timeframe coordination 
+    - RUNNING MAGNET *All trading related content shall be moved to French sector*
+    - Methods
+      - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
+    - Lifecycle
+      - Instructor
+        - MT4
+          - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
+          - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
+        - TradingView
+        - `sourcing(CONTEXT, REASON)`
+      - Broker
+        - Verification
+          - _SECURITY_GROUP
+        - _SECURITY_GROUP
+          - Security pending
+            - [International Forex Brokers Search](https://www.forexbrokers.com/international-currency-trading)
+            - [Verify Trade](https://www.verifymytrade.com/)
+      - Pool
+    - Generic
+      - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
+        - Videosweepmark: 35:03
+      - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
+        - Videosweepmark: 45:30
+        - Multiple timeframe coordination 
+      - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
       - PASSIVE *All sports, powerlifting, anatomy, fitness, nutrition related material will be directed to French only*
@@ -1150,7 +1174,7 @@
                     - SNR
                     - DB to linear
                       - [Module 1: dB, dBm and dBc](https://www.youtube.com/watch?v=jGtbfkCSS1s)
-                        - Videosweepmark: 8:30
+                        - Videosweepmark: 13:30
                         - CURIOSITY_OUTREACH LIMIT 1
                           - RF system
       - **BLACKHOLE GENESIS** MATH & PHYSIK VORBEREITUNG --> **ACTIVE** | 10min/day
@@ -1745,7 +1769,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 29.3%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 5:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1808,10 +1832,12 @@
   - TOPIC Philosophy, psychology, law
     - German philogophy
       - Fredrick Nitszsche
-- Italian+ - Lower B2+
+- Italian+ - Lower B2++
   - CHANGELOG
     - 2022/11/1
       - *Performing under target, need right stimulation combination to reduce energy consumption*
+    - 2022/11/9
+      - *Sensing more energic flow, new stimulation combination causing "muscle confusion", thus stimulating new growth*
   - TOPIC: Fashion, Design, Art, Furniture, La Boutique, Music, Ruse, Trickery, Scheme, Marketing & PR, Micro PsyOps, Macro PsyOps, Meso PsyOps
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
@@ -1827,7 +1853,14 @@
     - PROCESSING_POINTER_FIELD
       - Randomtelewalk: 31
         - Saturation: 0.12%
+      - SUPPLEMENT
+        - [Carlo Galli | Il principe di Niccolò Machiavelli | festivalfilosofia 2010](https://www.youtube.com/watch?v=BrrdkDlP6ss)
+          - Videosweepmark: 5:14
     - PROCESSING_POINTER_STORE
+      - MOMENT quote LIMIT 10: 3
+        - *MOMENT means the word is too easy and it reaches 100% almost instantly on encounter, use limitation quota instead*
+        - _method
+          - `coldTurkey(this)`
       - STATIC
         - `adverb`
         - `verb`
@@ -1842,7 +1875,6 @@
         - `noun_modifier`
         - `noun`
           - battere | 20%
-          - personaggio | 100%
   - Politics & Public Relations
     - [Ben Shapiro: Politics, Kanye, Trump, Biden, Hitler, Extremism, and War | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
   - Branding, Fashion, Faces
@@ -1908,7 +1940,7 @@
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
         - CCS: 21.6% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 6:07
+        - TEMP_TIMESTAMP: 10:00
           - CONCURRENT: RTFM --> <span style="color: lime">BLOCKER Resolved</span>
             - [Tenable - Doc](https://docs.tenable.com/nessus/Content/AmazonWebServices.htm)
               - Saturation
@@ -2017,7 +2049,7 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 69.8%
+      - CCS: 70.1%
       - E.T.A: 3.84 months
       - TEMP_TIMESTAMP
       - States
@@ -2150,15 +2182,16 @@
         - 30% | قلب
         - 80% | اِسْتَطَاعَ
           - [Arabic Verb Conjugation: The Present tense (Subjunctive) - Lesson 24](https://www.youtube.com/watch?v=zFhacV9ntPk)
-            - Videosweepmark: 3:30
+            - Videosweepmark: 7:00
           - [Learn Arabic: The conjunction أن to connect two verbs in Arabic (subjunctive in Arabic)](https://www.youtube.com/watch?v=EzHut2j9vMk)
-             - Videosweepmark : 3:30
+            - Videosweepmark : 4:26 TTL
           - [Arabic Grammar: Active Participles اسم الفاعل](https://www.youtube.com/watch?v=QucykPvo2ec)
+            - Videosweepmark: 3:30
         - 20% | نصعد
-        - 25% | تقديم
+        - 50% | تقديم
         - 45% | وفر
         - 30% | أَفْهَمُ
-        - 18% | تَسْبِقُ
+        - 38% | تَسْبِقُ
         - 10% تعرف
         - 20% | فهم
         - TO_STATIC
@@ -2413,10 +2446,10 @@
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk
-              - Saturation: 0.0135%
+              - Saturation: 0.0138%
               - Instances LIMIT 5
-                - Instance: 636
-                - CURRENT Instance: 25
+                - CURRENT Instance: 636
+                - Instance: 25
           - PROCESSING_POINTER_STORE
             - Codex
               - 18 - *Structure of the book*
@@ -2427,8 +2460,10 @@
               - Hadamard gate
           - Audio-visual-dualingual Pair
             - [Lectures in Quantum Computation and Quantum Information (IIT Madras) - 1](https://www.youtube.com/watch?v=Joj2pH1Jczc&list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 15:00
               - Listmark: 1
+              - ?
+                - Qubit(Schumach, 1995)
               - [Course Information for Ph219](http://theory.caltech.edu/~preskill/ph229/)
             - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
             - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
@@ -2478,9 +2513,12 @@
         - SUPPLEMENT
           - YT API
       - AI related(Coding-based)
+        - [Modern Deep Learning in Python - U](https://www.udemy.com/course/data-science-deep-learning-in-theano-tensorflow/learn/lecture/24472128)
+        - [Deep Learning A-Z™: Hands-On Artificial Neural Networks - U](https://www.udemy.com/course/deeplearning/learn/lecture/6743222)
+        - [Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/learn/lecture/11686566)
         - CS234
           - [Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 1 - Introduction - Emma Brunskill](https://www.youtube.com/watch?v=FgzM3zpZ55o)
-      - Automation & RPA
+      - Solopreneurial Automation & RPA
         - [Automate with Python – Full Course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk)
         - [Deep Dive: Chrome Developer Tools](https://www.youtube.com/watch?v=Q_1QendXmNs)
       - Chromium & Browser working principle
@@ -2580,7 +2618,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
-          - Videosweepmark: 1:00
+          - Videosweepmark: 2:00
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - MESO STORE
     - STATIC
@@ -2594,9 +2632,10 @@
         - THROTTLE FREQUENT 使う | 19%
         - 直す  | 54%
         - 照る | 35%
-        - THROTTLE FREQUENT なる | 50%
+        - THROTTLE FREQUENT なる | 70%
         - 記述する
         - THROTTLE FREQUENT 持つ
+        - 当たる
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
         - 不思議 | 50%
@@ -2628,6 +2667,8 @@
         - *Use grammar audio-visual as additional supplement to directly attack the root cause*
         - Discovered Neural Pathway deficiency pair: Source noun/adjective --> Declension/Conjugation
         - Officially allocate **10 minutes** instead of **3 minutes** to Russian training
+    - 2022/11/10
+      - Irreversable progressive in noun, pronoun, adjetive usage, threshold near
   - Learning Cache for Intermediate learners
     - STATIC
       - INBOUND_CACHE
@@ -2652,26 +2693,30 @@
         - такой
         - через
           - [Preposition + Case Pairs | Russian Language](https://www.youtube.com/watch?v=2lg8wQUEN7o)
+            - Videosweepmark: 5:00
         - Таким образом
       - **прилагательное**
         - выходной | 80%
-        - довольный
-        - распространенный
+        - довольный | 80%
+        - распространенный | 80%
       - **наречие**
         - соответственно
         - определенно | 80%
       - **существительное**
         - разговор | 90%
-        - соединение
+        - ACCELERATE INFREQUENT соединение | 80%
       - **Местоимение**
         - весь
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251
-      - [HIST 251: Early Modern England: Politics, Religion, and Society under the Tudors and Stuarts](https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PL18B9F132DFD967A3)
-        - Videosweepmark: 30:33
-        - Listmark: 1
+      - [2. "The Tree of Commonwealth": The Social Order in the Sixteenth Century](https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2)
+        - Videosweepmark
+        - Listmark: 2
+        - INTEREST Evolution of Information Circulation in Sixteenth Century
+          - SUPPLEMENT
+            - [How Far Back in Time Could an English Speaker Go and Still Communicate Effectively?](https://www.youtube.com/watch?v=Y63dBBlHlSk)
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - ? LIMIT 5
@@ -2746,9 +2791,9 @@
           - Randomtelewalk: 5
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
-      - [Learn Ancient Greek: 6_Unit 1 The Definite Article and its Grouping function](https://www.youtube.com/watch?v=tGNAwyir93k&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=6)
-        - Videosweepmark: 10:05
-        - ListStamp: 6
+      - [Learn Ancient Greek: 7_Unit 1 Vocabulary Comments](https://www.youtube.com/watch?v=NyBELWzdss4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=7)
+        - Videosweepmark
+        - ListStamp: 7
     - STATIC | PROCESSING\_CAPACITY 1
       - _methods
         - `language.meta.pronounciation.callibrate()`

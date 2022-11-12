@@ -196,6 +196,9 @@
   - [Litigation Risk](https://www.investopedia.com/terms/l/litigation-risk.asp)
   - [Litigation risk analysis](https://en.wikipedia.org/wiki/Litigation_risk_analysis)
 # M
+- Mosaic theory?
+  - [Mosaic Theory explained](https://youtu.be/U7ufh4l5nag)
+    - Saturation: 100% --> TTL ARCHIVE --> `language/business`
 - Margin Call: 追加保证金通知
   - [Margin call 是什么意思](https://www.tradesmax.com/component/k2/item/4526-margin-call#:~:text=Margin%20Call%20%E6%84%8F%E6%80%9D%E6%98%AF%E8%BF%BD%E5%8A%A0,%E4%BF%9D%E8%AF%81%E9%87%91%E8%A6%81%E6%B1%82%E7%9A%84%E6%9C%80%E5%B0%8F%E9%99%90%E5%BA%A6%E3%80%82)
 - Material

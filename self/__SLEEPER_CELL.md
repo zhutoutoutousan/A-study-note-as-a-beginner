@@ -3,3 +3,11 @@
     - `createLanguageImprovmentPlan('vietnamese', requirements=$(children.input('HOOK-Requirements', context)))`
     - `convertToSleeperCell(this)`
   - Initialization of language/meta structrure: 100%
+
+- [Typography for Developers Tutorial - Full Course](https://www.youtube.com/watch?v=agbh1wbfJt8)
+  - Videosweepmark: 2:04:11 THRESHOLD
+  - RUNNING THRESHOLD `callCEF(context)`
+    - MOVE TO `SLEEPER_CELL`
+  - WGAC guidelines
+  - Experimental/Mutating Probablistic fonts
+    - PROMPT: THE NEXT BIG THING ON TYPE

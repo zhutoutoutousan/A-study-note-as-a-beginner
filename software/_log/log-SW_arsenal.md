@@ -474,11 +474,13 @@
     - `Lodash` cannot call problem
 
 #### Uncategorized
+- _server
+  - Tabby(Xshell)
 - Golang
 - Python
   - Flask
     - Proficiency A & I
-      - [](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+      - [?](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
     - Sub-arsenal
       - [awesome-flask](https://github.com/mjhea0/awesome-flask)
 ### DX

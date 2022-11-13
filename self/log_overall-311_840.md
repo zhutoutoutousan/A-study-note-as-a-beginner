@@ -130,10 +130,8 @@
         - Writing system
         - Sequence ordering
   - Long-term training management update
-- Chinese - Post HSK --> `bymaverse`
-  - _INBOUND
-    - _INBOUND_CACHE
-  - Standardized framework
+- Chinese --> `bymaverse`
+  - Standardized framework --> `ERROR: Deprecated data`
     - Industry-based assessment standard
     - Role-based assessment standard
     - Use-case-based assessment standard
@@ -141,11 +139,107 @@
     - Innate linguistic neural-level attribute enhancement
   - Dialects | Ctrl+C Ctrl+V
     - Goal
-      - Local BD
+      - Local BD, BR
     - Cantonese
-  - TOPIC: \[REDACTED\]
-    - [REDACTED](#)
-      - \[REDACTED\]: \[REDACTED\]
+  - STORE 词汇流(Vocabulary Flow)
+    - STATIC
+    - MESO
+    - VOLATILE
+  - TOPIC: Omni-Translation, Interpretation
+    - _meta
+      - Goal
+        - *限制语言组合集合中任意n组互译(交替, 同声): 中, 英, 法, 德, 意, 日, 韩, 葡, 西, 俄, 阿*
+    - G
+      - _sourcing
+      - Input-output Model Training
+    - 稀缺语种对双/三/四字幕组合资源
+      - 高质量
+      - 低质量
+    - Continuous`?`Development 单层形而上可持续发展单元
+      - _config
+        - Energy Consumption Control
+      - OVERCLOCK_POINTER `toChinese("Touchpoint & Full-cycle Ability Development", context)`: Delivery
+        - _alias: 接触面及全生命周期可持续发展
+        - _meta
+          - Description: *Manifestation layer requires maximum agility*
+        - Quality Control
+        - Go-to-market Analysis
+        - **OUTREACH** *Propagates to all other langauge sectors*
+      - FAST_POINTER MAGNET 高层可持续发展单元
+        - REQUIREMENT Better architecturing intuition
+          - STRATEGY_STATEMENT
+        - REQUIREMENT Faster to have a good sense of a technology
+          - STRATEGY_STATEMENT
+          - USE_CASE Technology feasibility assessment
+          - TRICKLE_DOWN A good command of capability analysis
+          - TRICKLE_DOWN Documentation reading(fast)
+            - *Contrarian's question*: `pending`
+      - FAST_POINTER MAGNET 中层可持续发展单元
+        - _method
+          - `pollForTrickledDowns`
+      - SLOW_POINTER 底层可持续发展单元
+        - _meta
+          - Untranslated guidelines
+            - GUIDELINE *Carry-over Use Case Outreach for low-level ability development*
+            - GUIDELINE *Go-to-market oriented development*
+          - CHANNEL `this` --> 中层可持续发展单元
+            - _schema
+            - PAYLOAD payload
+          - CHANNEL `this` --> 高层可持续发展单元
+            - _schema
+            - PAYLOAD payload
+        - 未分类
+          - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
+            - _alias: 实用英汉翻译教程
+            - _method
+              - RUNNING Convert to `csv` for flashcard-ification
+            - PROCESSING_POINTER_FIELD
+              - Randomtelewalk: 36
+              - Flashcard-ification
+                - *Lazy freeloader's dig*: Rip-off from others'
+                - Make-over-buy/ripping-off: *English-Chinese Translation Masterclass*
+                  - _meta
+                    - Retain Pathway: `OK`
+                  - CurrentPointer: 23
+                  - CurrentValidLinearProgressingPointer: 1
+          - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
+      - VERY_SLOW_POINTER 极限底层可持续发展单元
+        - Cross-mind-palace Orchestration Logic Set Design
+        - Go-to-market Mind Palace Cluster Network Design
+        - Accumulative acoustic information storage size expansion
+          - LEGACY Note-taking for consecutive interpreting: A short course
+            - MIGRATION Migrating | 1%
+              - PROCESSING_POINTER_FIELD
+            - LEGACY Legacy user generated data
+              - _meta
+                - `Legacy Migration Address`: `this`
+              - [link](https://drive.google.com/file/d/14BJoz6ddSenk_-EY8aQ3fVwGtJmQzoXL/view?usp=sharing)
+              - Bookmark: 35/240
+              - Active training tasks
+                - Speech structure recognition
+                - Symbol system establishment
+                  - Internalization, symbol formalization, neural pathway maturization
+                - Training system BEAWARE
+                  - Identifization of wrong training methods
+              - Sub-reading
+                - Writing Great Speeches: Professional Techniques You Can Use - Alan. M. Perlman
+                - CAN I BE A PUBLIC SPEAKER?
+                  - [link](http://eprints.umpo.ac.id/4570/1/CAN%20I%20BE%20A%20PUBLIC%20SPEAKER%202ND%20ED.pdf)
+                - Type of speeches
+                  - [link](https://www.ndu.edu.lb/Library/Assets/Files/WritingCenter/BusinessCommunicationHandouts/4.6.pdf)
+                - Speechwriting in Perspective: A Brief Guide to Effective and Persuasive Communication
+                  - [link](https://sgp.fas.org/crs/misc/98-170.pdf)
+        - Mental calulation and manipuation of complex, stochastic network dynamics: Volume & Persistance
+        - Context Switch Energy Loss Reduction
+          - ASYNC MIRROR Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理
+            - [link](https://drive.google.com/file/d/1UCC09976DX0McDjHkEHR5Bv9MmVVUyqr/view?usp=sharing)
+  - TOPIC: 法理学, 基于数据的东方哲学发展史, 数据化历史动画演绎/`Chinese.Infographics(context).unknownFunction`
+    - 面向未来的东方法理学: Web3, 元宇宙, AR
+    - 东方文化下的金融原住民 & 数字原住民问题
+    - Text-To-Video application on historical literature 文本转视频在历史典籍中的应用: 当历史遇见科技
+  - TOPIC: 去中心化敏捷学术(Agile Academic), 敏捷思潮(Agile Zeitgeist), 敏捷公共关系处理(PR)的最小DAO执行集群探究
+  - TOPIC: 东方哲学
+  - TOPIC: 佛教 | 藏语 བོད་སྐད
 - **BLACKHOLE**: Generic
   - `ROOT.medium.GenericLanguageUseCaseOutReach.Interpretation`
     - Prime resource
@@ -213,15 +307,6 @@
           - Go-To-Market Directed Pre-built Mental Preparatory facility
         - Manifestation layer
           - Intra-linguisic proficiency
-            - `/language/translation/*`
-            - `/language/interpretation/*`
-              - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
-                - _alias: 实用英汉翻译教程
-          - Intra-linguisic proficiency
-            - `/language/translation/*`
-            - `/language/interpretation/*`
-              - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
-                - _alias: 实用英汉翻译教程
           - Simultaneous multi-channel tasking
             - Maxmimum processing power: 2 * `$(DETAIL_METRIC = 80%)`
             - Error rate: 70%
@@ -318,9 +403,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 18.0%
+                  - CCS: 18.2%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 2:00
+                  - TEMP_TIMESTAMP: 4:18
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -348,7 +433,7 @@
                           - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
                           - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
                             - McMaster Business Data and Statistics
-                              - Videosweepmark : 5:02
+                                - Videosweepmark : 5:02
                           - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY)
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
@@ -429,7 +514,7 @@
                             - Garbled Circuits Protocol, PSI
                             - Vickrey auction
                               - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
-                                - Videosweepmark: 10:00
+                                - Videosweepmark: 14:17 TTL
                                 - RESONANCE Second Price Auction --> Unknown Resonance <-- Secondary Market
                                   - \* --> Byzantine Problem/Threshold <-- ?
                             - SMPC Shamir secret sharing --> Quantum secure?, FHE, PPC. DP
@@ -712,7 +797,7 @@
           - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
     - Methods
       - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-        - Videosweepmark: 5:00
+        - Videosweepmark: 8:30
     - Knowledge
       - STATIC
         - Not Applicable
@@ -720,7 +805,7 @@
       - VOLATILE
         - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
           - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
-            - Videosweepmark: 5:00
+            - Videosweepmark: 8:34
           - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
     - Lifecycle
       - Instructor
@@ -744,6 +829,7 @@
         - Videosweepmark: 45:30
         - Multiple timeframe coordination 
       - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
+        - Videosweepmark : 3:30
     - Meta: The Era of Digital Natives & **Financial-Market Natives**
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
@@ -1793,7 +1879,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 30.4%
+            - CCS: 31.3%
             - ETC：7.8 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -1819,7 +1905,7 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 10:00
+                  - Videomark: 15:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark：25:47
                 - ?
@@ -1910,7 +1996,7 @@
           - battere | 20%
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 5:00
+      - Videosweepmark: 10:00
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
@@ -1919,7 +2005,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 28:00
+          - Videosweepmark: 33:00
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -2082,7 +2168,7 @@
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
       - CCS: 71.1%
       - E.T.A: 3.84 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 5:20
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2243,11 +2329,11 @@
         - خاصة
         - 60% | متأخر
           - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
-            - Videosweepmark: 22:30
+            - Videosweepmark: 26:19
           - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
-            - Videosweepmark: 15:00
+            - Videosweepmark: 19:00
           - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
-            - Videosweepmark: 1:14
+            - Videosweepmark: 4:28
           - [Intermediate Arabic: Broken Plural](https://www.youtube.com/watch?v=jCjjjvOLOKg)
             - Videosweepmark: 3:30
         - 35% | موجزًا
@@ -2475,9 +2561,9 @@
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk
-              - Saturation: 0.0138%
+              - Saturation: 0.0141%
               - Instances LIMIT 5
-                - CURRENT Instance: 636
+                - CURRENT Instance: 637
                 - Instance: 25
           - PROCESSING_POINTER_STORE
             - Codex
@@ -2487,7 +2573,8 @@
                 - _config
                   - Intuitive/Rote Ratio(IRR): 1
                 - [Bayes theorem, the geometry of changing beliefs](https://www.youtube.com/watch?v=HZGCoVF3YvM)
-                  - Videosweepmark: 3:30
+                  - Videosweepmark: 8:00
+                  - STATE: Lazy --> 1 comprehension surge TTL=3d
                 - [The quick proof of Bayes' theorem](https://www.youtube.com/watch?v=U_85TaXbeIo)
                   - Videosweepmark: 3:30
                 - [The medical test paradox, and redesigning Bayes' rule](https://www.youtube.com/watch?v=lG4VkPoG3ko)
@@ -2512,8 +2599,8 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 11.6%
-        - TEMP_TIMESTAMP
+        - CCS: 11.1%
+        - TEMP_TIMESTAMP: 2:30
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2533,11 +2620,15 @@
           - Sentry
       - Monorepo
         - [Deployment of Machine Learning Models - U](https://www.udemy.com/course/deployment-of-machine-learning-models/learn/lecture/13321604#overview)
-        - [NAME PENDING](https://youtu.be/h5FIGDn5YM0)
-          - Videosweepmark
+        - [Let's chat! Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
+        - [Nx Explainer: Dev Tools for Monorepos, In-Depth with Victor Savkin](https://youtu.be/h5FIGDn5YM0)
+          - Videosweepmark: 4:00
           - Listmark: 2
+          - STATE: <span style="color:red; font-size: 18px;">FORCED HANDS-ON</span>
+            - [RTFM - 1](https://nx.dev/getting-started/intro)
           - [NAME_PENDING](https://youtu.be/DIzJC8wRp-s)
             - Videosweepmark: 2:54
+        - [Nx Conf - Day 1](https://www.youtube.com/watch?v=oG2QbFquraA)
       - Source Code Reading
         - Apache Zookeeper
           - [source](https://github.com/apache/zookeeper)
@@ -2663,7 +2754,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
-          - Videosweepmark: 4:20
+          - Videosweepmark: 5:20
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - UNORDERED CHANGE_LOG
     - 2022/11/10: *Vague sensation of increased validity of german-japanese dual-subtitle stimulation channel detected, expected accelerated progress in semantic fluency*
@@ -2672,10 +2763,25 @@
       - Katakana proficiency | 90%
       - /Verb Form | 80%
     - MESO
+      - Grammar Japanese-* Bundle
+        - [【Ｎ３文法】～一方だ](https://www.youtube.com/watch?v=eGxvduVsfJo&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR)
+          - Videosweepmark: 1:00
+          - Listmark: 1
+          - Language pair SHUFFLE: Japanese - Spanish
+        - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
+          - Language pair SHUFFLE: Japanese - Germana
+        - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
+          - Language pair SHUFFLE: Japanese - French
+        - [【JLPT N5 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=7tNwTXbIlxM)
+          - Language pair SHUFFLE: Japanese - Italian
+        - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
+          - Language pair SHUFFLE: Japanese - Russian
+        - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
+          - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - THROTTLE FREQUENT 頂く | 25%
+        - THROTTLE FREQUENT 頂く | 40%
         - THROTTLE FREQUENT 使う | 19%
         - 直す  | 59%
         - 照る | 35%
@@ -2686,6 +2792,7 @@
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
         - 不思議 | 50%
+        - ずっと
         - 易い | 22%
           - NEW Japanese adjective inflection
       - `phrase`
@@ -2743,26 +2850,23 @@
         - вот
         - такой
         - через
-          - [Preposition + Case Pairs | Russian Language](https://www.youtube.com/watch?v=2lg8wQUEN7o)
-            - Videosweepmark: 6:00 TTL
-            - Consonant mutation/alternation
+          - RUNNING `sourcing(*arg)` Consonant mutation/alternation
           - [Prepositions В and На | Russian Language](https://www.youtube.com/watch?v=sUknbKfDFYI)
-            - Videosweepmark : 4:37
-            - Videosweepmark : 148
+            - Videosweepmark : 10:09
+            - DEPRECATED
             - Language pair: Spanish
         - Таким образом
       - **прилагательное**
-        - выходной | 80%
+        - выходной | 100% TTL 
         - довольный | 80%
-        - распространенный | 100% TTL
       - **наречие**
-        - достаточно
-        - соответственно
+        - достаточно | 40%
+        - соответственно | 30%
         - определенно | 80%
       - **существительное**
         - разговор | 90%
         - ACCELERATE INFREQUENT соединение | 80%
-        - спряжение | 20%
+        - спряжение | 40%
       - **Местоимение**
         - весь
       - ?
@@ -2850,7 +2954,7 @@
     - SUPPLEMENT
       - **Gamepair**: Assassin's Creed: Odyssey
       - [Learn Ancient Greek: 7_Unit 1 Vocabulary Comments](https://www.youtube.com/watch?v=NyBELWzdss4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=7)
-        - Videosweepmark: 15:00
+        - Videosweepmark: 16:44 NEXT
         - ListStamp: 7
     - STATIC | PROCESSING\_CAPACITY 1
       - _methods
@@ -2864,7 +2968,7 @@
     - VOLATILE
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
-          - Initial exposure saturation: 3.1%
+          - Initial exposure saturation: 3.5%
         - ανακαλύπτω | 95%
           - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
             - Videosweepmark: 2:30

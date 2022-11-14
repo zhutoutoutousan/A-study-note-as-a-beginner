@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "32700c45a217b632",
+    "id": "979175b14b721d52",
     "type": "split",
     "children": [
       {
-        "id": "36d030df25fdc0c9",
+        "id": "9fac20c58f30db33",
         "type": "tabs",
         "children": [
           {
-            "id": "204ca6a2dd0cabfd",
+            "id": "89464bb878b43d31",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ad50bed143c1e5fb",
+    "id": "6147b0b475aafc23",
     "type": "split",
     "children": [
       {
-        "id": "6b9473246ad9a6af",
+        "id": "11234d9059b85258",
         "type": "tabs",
         "children": [
           {
-            "id": "c9e52909446fd56f",
+            "id": "71a3d15129e00931",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "1d2f10d798166d48",
+            "id": "d9f24dbdad036139",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "2947a93cd58cd8c8",
+            "id": "411c87500b65e44d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "50877f0d0d02b852",
+    "id": "d75fd5825eacbc60",
     "type": "split",
     "children": [
       {
-        "id": "27799a84c3c730f1",
+        "id": "a3853f24c517a736",
         "type": "tabs",
         "children": [
           {
-            "id": "23e4ff5f6ab5983a",
+            "id": "d218cf6f62985986",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "1e3eca69be9639dc",
+            "id": "46bf914a9aa13a4a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "02a2e7aba25fdcb8",
+            "id": "b991bb2a0dff4e96",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "1c94e9e288237e9f",
+            "id": "8a1185337e4a7f45",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "6040a6087d91dbb2",
+            "id": "37eabc3dc65ecf49",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "676a3037737bc5f9",
+            "id": "bd580c71b82219b5",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -145,11 +145,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204ca6a2dd0cabfd",
-  "lastOpenFiles": [
-    "self/log_overall-310_840.md",
-    "self/__HT__eliza-project.md",
-    "physics/terminology.md",
-    "physics/INBOUND_CACHE.md"
-  ]
+  "active": "bd580c71b82219b5",
+  "lastOpenFiles": []
 }

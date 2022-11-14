@@ -403,9 +403,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 18.2%
+                  - CCS: 18.7%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 4:18
+                  - TEMP_TIMESTAMP: 1:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -418,13 +418,19 @@
                           - *Only used as rote learning given a particular time window for exam prep*
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
-                    - Interest Rate Premiums
+                    - Interest Rate Premiums, Annuity
                   - SUPPLEMENTS
                     - SKILL
                       - ONCE
                       - CONTINUOUS
                         - **ContinuousSkillDevelopment** Consistent High-performing Business Writing
                           - [3 Things To Do Before Writing Your First White Paper | Brian Boys - White Paper In One](https://www.youtube.com/watch?v=XZOWwNwJ2iY)
+                            - SOURCING: The elements of style, fourth edition
+                            - SOURCING The 22 immutable laws of branding
+                            - Videosweepmark: 5:00
+                            - Whitepapers in the wild
+                              - Arsenal construction
+                            - Language pair: French | Italian | Portuguese
                           - [How To Write A White Paper In 4 Easy Steps by author of "How To Write A White Paper In One Day"](https://www.youtube.com/watch?v=HBmJbMaIqlU)
                         - **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research
                           - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
@@ -1879,9 +1885,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 31.3%
+            - CCS: 31.8%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 1:10
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1905,7 +1911,7 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 15:00
+                  - Videomark: 20:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark：25:47
                 - ?
@@ -2005,7 +2011,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 33:00
+          - Videosweepmark: 38:00
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -2166,9 +2172,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 71.1%
+      - CCS: 71.4%
       - E.T.A: 3.84 months
-      - TEMP_TIMESTAMP: 5:20
+      - TEMP_TIMESTAMP: 2:07
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2329,11 +2335,11 @@
         - خاصة
         - 60% | متأخر
           - [Beginners Arabic - Lesson 13 - Dual Nouns in Arabic](https://www.youtube.com/watch?v=NB5oyo2lg_s)
-            - Videosweepmark: 26:19
+            - Videosweepmark: 37:40 TTL 
           - [Arabic 1 - Singular Dual Plural Adjective - Session 6](https://www.youtube.com/watch?v=f9j_Z3MwxFE)
-            - Videosweepmark: 19:00
+            - Videosweepmark: 20:46 TTL
           - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
-            - Videosweepmark: 4:28
+            - Videosweepmark: 8:00
           - [Intermediate Arabic: Broken Plural](https://www.youtube.com/watch?v=jCjjjvOLOKg)
             - Videosweepmark: 3:30
         - 35% | موجزًا
@@ -2599,8 +2605,8 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 11.1%
-        - TEMP_TIMESTAMP: 2:30
+        - CCS: 14.1%
+        - TEMP_TIMESTAMP
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2615,7 +2621,7 @@
         - Data-analytics-driven APP design
           - pino.js
             - [NAME_PENDING](https://youtu.be/m2q1Cevl_qw)
-              - Videosweepmark: 4:20
+              - Videosweepmark: 10:44
           - [NAME_PENDING](https://youtu.be/DIzJC8wRp-s)
           - Sentry
       - Monorepo
@@ -2852,21 +2858,21 @@
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
           - [Prepositions В and На | Russian Language](https://www.youtube.com/watch?v=sUknbKfDFYI)
-            - Videosweepmark : 10:09
+            - Videosweepmark : 15:00
             - DEPRECATED
             - Language pair: Spanish
         - Таким образом
       - **прилагательное**
         - выходной | 100% TTL 
-        - довольный | 80%
+        - довольный | 100% TTL 
       - **наречие**
-        - достаточно | 40%
-        - соответственно | 30%
+        - достаточно | 90%
+        - соответственно | 90%
         - определенно | 80%
       - **существительное**
         - разговор | 90%
-        - ACCELERATE INFREQUENT соединение | 80%
-        - спряжение | 40%
+        - ACCELERATE INFREQUENT соединение | 100% TTL 
+        - спряжение | 100% TTL 
       - **Местоимение**
         - весь
       - ?
@@ -2920,7 +2926,7 @@
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH
                   - Infinite-set paradoxing
-                  - P.O.I James Clerk Maxwell
+       .08           - P.O.I James Clerk Maxwell
                   - Ancillary statistic
                     - [Sufficient, Minimal, Ancillary, and Complete Statistics, with Theorems](https://www.youtube.com/watch?v=r1yXDzoIb2I)
               - SUPPLEMENT
@@ -2971,9 +2977,9 @@
           - Initial exposure saturation: 3.5%
         - ανακαλύπτω | 95%
           - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
-            - Videosweepmark: 2:30
+            - Videosweepmark: 2:30 600
             - Listmark: 4
-        - φοράω | 70%
+        - φοράω | 80%
         - αντιμετωπίζω | 40%
         - σχεδιάζω | 35%
       - **επίθετο**

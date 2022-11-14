@@ -803,7 +803,7 @@
           - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
     - Methods
       - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-        - Videosweepmark: 8:30
+        - Videosweepmark: 13:30
     - Knowledge
       - STATIC
         - Not Applicable
@@ -811,7 +811,8 @@
       - VOLATILE
         - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
           - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
-            - Videosweepmark: 8:34
+            - Videosweepmark: 13:35
+            - ? VIX SnP
           - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
     - Lifecycle
       - Instructor

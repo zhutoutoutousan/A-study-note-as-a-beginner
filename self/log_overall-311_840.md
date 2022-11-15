@@ -197,11 +197,14 @@
               - Randomtelewalk: 36
               - Flashcard-ification
                 - *Lazy freeloader's dig*: Rip-off from others'
-                - Make-over-buy/ripping-off: *English-Chinese Translation Masterclass*
+                - **Make-over-buy**/ripping-off: *English-Chinese Translation Masterclass*
                   - _meta
                     - Retain Pathway: `OK`
-                  - CurrentPointer: 23
-                  - CurrentValidLinearProgressingPointer: 1
+                    - ERROR *人类共同体尚未提供相应公开资源*, Make over buy 
+                  - CurrentPointer: 36
+                    - Saturation: 0.5%
+                  - FlashcardificationPruneRegistries
+                    - 36
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -405,7 +408,7 @@
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
                   - CCS: 18.7%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP: 6:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -418,7 +421,9 @@
                           - *Only used as rote learning given a particular time window for exam prep*
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
-                    - Interest Rate Premiums, Annuity
+                    - Interest Rate Premiums, Annuity, Present Value Annuity Factor
+                      - [Introduction To Annuities (2019)](https://www.youtube.com/watch?v=ed-sdtGpiYU)
+                    - Acronym fluency: PV, N, I/Y, PMT
                   - SUPPLEMENTS
                     - SKILL
                       - ONCE
@@ -504,13 +509,13 @@
                     - Privacy-Preserving Computing/AI
                       - STATIC
                         - TECC
-                        - ["Demystifying Privacy Preserving Computing" by Tejas Chopra (Strange Loop 2022)](https://www.youtube.com/watch?v=10Qj0eYqbuo)
+                        - REPLACE_HOOK A Course In Differential Privacy
+                          - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
+                            - Videosweepmark: 16:30
                           - **ROOT_STICKY_ENGLISH** **ROOT M&C**
-                            - Energy Consumption Reduction Plan
-                              - **LaserFocus**: *No distractions! Execute to perfection*
-                          - Videosweemark: 37:17 REPLACE_HOOK
                           - Language pair: German
-                          - NEW Single-use Accountability System
+                          - ?
+                            - Single-use Accountability System, Data Linkage attack
                           - Bookpair: A Pragmatic Introduction to Secure Multi-party Configuration
                             - [A Pragmatic Introduction to Secure Multi-party Configuration](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
                             - PROCESSING_POINTER_FIELD
@@ -519,10 +524,8 @@
                           - CURIOSITY_OUTREACH | THROTTLE 15
                             - Garbled Circuits Protocol, PSI
                             - Vickrey auction
-                              - [The Ideal Auction - Numberphile](https://www.youtube.com/watch?v=4kWuxfVbIaU)
-                                - Videosweepmark: 14:17 TTL
-                                - RESONANCE Second Price Auction --> Unknown Resonance <-- Secondary Market
-                                  - \* --> Byzantine Problem/Threshold <-- ?
+                              - RESONANCE Second Price Auction --> Unknown Resonance <-- Secondary Market
+                                - \* --> Byzantine Problem/Threshold <-- ?
                             - SMPC Shamir secret sharing --> Quantum secure?, FHE, PPC. DP
                             - **AMPLIFIED** **Differential Privacy**
                               - _category
@@ -2512,6 +2515,26 @@
         - [D](https://drive.google.com/drive/folders/11v7d2kgPSnc9K9JxJ2MSnGf7dX0yd5EX)
   - TOPIC Project, Product, Service
     - PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU
+  - **CORE** TOPIC Proficiency in real-time collaboration rigor in ever-challenging environment
+    - `ROOT.CentralExecutiveFunction.output`
+      - *The most important root-level capability so far, shall be managed by Spanish sector*
+      - `perceived_net_loss` overpowered by *Learning Spanish while accidentally becoming teamplayer proficient and being more knowledgable on different mankind sport activities*
+    - *Underlying principle of Low/Meso-level Real-time Teamplay: What those \"10 ways to be a teamplayer\"\'s failed to tell you*
+      - CRITICAL_QUESTION *Suppose your team scored one for milestone so far, how to re-evaluate and conduct well put-together planning afterwards?*
+      - CRITICAL_QUSTION *How to identify structure opportunity to your short-term memory for better micro-performance in real-time collaboration?*
+        - CRITICAL_QUSTION *How to design an optimal structure for short/meso-term memory usage for a particular real-time collaboration rigor which you think is better-off structured?*
+      - CRITICAL_QUSTION *How to balance between Time-sensitive Activities and Brain Singularity?*
+      - VERY_SLOW_POINTER REQUIREMENT_EXTREME_LOW_LEVEL *Pre-trained go-to-market mental facility/Low-level neural capability upgrade cluster will be useful in such scenario*
+        - SOURCE **MOBA** *Lazy MOBA simulation will be optimal for such cases*
+          - _motivation
+            - *Learning Spanish while accidentally obsorbing the uptake and target resonance for different MOBA instances*
+          - Instance
+            - Basketball
+      - OVERCLOCK_POINTER REQUIREMENT_MESO_LEVEL *Comprehensive resonance proficiency of different business function and different roles*
+      - OVERCLOCK_POINTER ?
+        - THROTTLE INFREQUENT In-person Collaboration Rigor
+        - Hybrid Collaboration Rigor
+        - DAO/Virtual Collaboration Rigor
   - TOPIC System Design
     - Software system design
       - [Designing Data-Intentive Applications](https://drive.google.com/file/d/1wko6_I5P8tTOLo-yujj9wdeA3UjlooKQ/view?usp=sharing)
@@ -2769,10 +2792,16 @@
     - STATIC
       - Katakana proficiency | 90%
       - /Verb Form | 80%
+        - 連用形
+        - 仮定形
+        - 終止形
+        - 未然形
+        - 命令形
+        - 連体形
     - MESO
       - Grammar Japanese-* Bundle
         - [【Ｎ３文法】～一方だ](https://www.youtube.com/watch?v=eGxvduVsfJo&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR)
-          - Videosweepmark: 1:00
+          - Videosweepmark: 3:00
           - Listmark: 1
           - Language pair SHUFFLE: Japanese - Spanish
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
@@ -2789,6 +2818,7 @@
       - _STATE: ELIMINATE
       - `verb`
         - THROTTLE FREQUENT 頂く | 40%
+          - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
         - THROTTLE FREQUENT 使う | 19%
         - 直す  | 59%
         - 照る | 35%
@@ -2864,16 +2894,13 @@
             - Language pair: Spanish
         - Таким образом
       - **прилагательное**
-        - выходной | 100% TTL 
-        - довольный | 100% TTL 
+        - MAGNET *Call for new words*
       - **наречие**
         - достаточно | 90%
         - соответственно | 90%
         - определенно | 80%
       - **существительное**
         - разговор | 90%
-        - ACCELERATE INFREQUENT соединение | 100% TTL 
-        - спряжение | 100% TTL 
       - **Местоимение**
         - весь
       - ?
@@ -2959,10 +2986,9 @@
         - PROCESSING_POINTER_FIELD
           - Randomtelewalk: 5
     - SUPPLEMENT
-      - **Gamepair**: Assassin's Creed: Odyssey
-      - [Learn Ancient Greek: 7_Unit 1 Vocabulary Comments](https://www.youtube.com/watch?v=NyBELWzdss4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=7)
-        - Videosweepmark: 16:44 NEXT
-        - ListStamp: 7
+      - [Learn Ancient Greek: 9_Unit 2 Present and Imperfect Active Indicative](https://www.youtube.com/watch?v=ggqxFOFzrrQ&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=9)
+        - Videosweepmark: 5:: 5:01
+        - ListStamp: 9
     - STATIC | PROCESSING\_CAPACITY 1
       - _methods
         - `language.meta.pronounciation.callibrate()`
@@ -2975,7 +3001,7 @@
     - VOLATILE
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
-          - Initial exposure saturation: 3.5%
+          - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
           - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
             - Videosweepmark: 2:30 600

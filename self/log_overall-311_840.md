@@ -154,6 +154,8 @@
       - Input-output Model Training
     - 稀缺语种对双/三/四字幕组合资源
       - 高质量
+        - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
+          - Videosweepmark: 0:33
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
       - _config
@@ -194,19 +196,19 @@
             - _method
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
-              - Randomtelewalk: 39
+              - Randomtelewalk: 43 --> `WARNING: Regression detected on Pointers with overlapping meanings`
               - Flashcard-ification
                 - *Lazy freeloader's dig*: Rip-off from others'
                 - **Make-over-buy**/ripping-off: *English-Chinese Translation Masterclass*
                   - _meta
                     - Retain Pathway: `OK`
                     - ERROR *人类共同体尚未提供相应公开资源*, Make over buy 
-                  - CurrentPointer: 39
-                    - Saturation: 0.6%
+                  - CurrentPointer: 43
+                    - Saturation: 0.7%
                   - FlashcardificationSet
                     - FlashcardificationPruneRegistries
-                      - 36-38
-                    - FlashcardificationSaturation: 2.9%: \[80%-100%\]
+                      - 36-41
+                    - STALE FlashcardificationSaturation: 12%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -408,9 +410,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 19.3%
+                  - CCS: 20.3%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -470,8 +472,23 @@
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
                           - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 5:00
+                            - Videosweepmark: 10:00
+                            - Conflict
+                              - Conflict Ontology
+                                - \(Human\)Conflict Genesis?
+                                  - Money
+                                  - Growth in assets, equity
+                                  - Indirect benefits
+                                  - Ethics
+                                  - ?
+                                - Conflict Type?
+                                  - Conflict of Commitment
+                                  - Conflict of Interest
+                                  - ?
+                              - Conflict Dynamics
+                                - Conflict Lifecycle
                           - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
+                            - Videosweepmark: 5:30
                         - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
                         - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
               - **BLACKHOLE**
@@ -514,7 +531,7 @@
                         - TECC
                         - REPLACE_HOOK A Course In Differential Privacy
                           - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
-                            - Videosweepmark: 16:30
+                            - Videosweepmark: 21:30
                           - **ROOT_STICKY_ENGLISH** **ROOT M&C**
                           - Language pair: German
                           - ?
@@ -800,35 +817,41 @@
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
     - RUNNING MAGNET *All trading related content shall be moved to French sector*
-    - Core
+    - Analysis
+      - Fundamental analysis
+        - CFA, CPA carryover-able basics
+      - Sentiment analysis
+        - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
+          - Videosweepmark: 24:45 SATURATE_CHILDREN
+          - ? VIX, SnP
+          - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
+          - COT
+            - [Full COT report strategy](https://www.youtube.com/watch?v=grlKq3CE_vo)
+              - Videosweepmark: 5:00
+            - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
+        - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
+          - Videosweepmark: 5:00
       - Industry Analysis
         - CRITICAL QUESTION: *Suppose that you are to gain a comprehensive view/Insight on a specific/generic (branch of) industry in X days, what's your plan of game? How to conduct post-mordem?(复盘)*
           - MAGNET RUNNING `inwardSourcing(ROOT, context)`
           - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
             - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
           - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
-    - Methods
-      - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-        - Videosweepmark: 17:00
-        - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
+      - Volume Analaysis
+        - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
+          - Videosweepmark: 17:00
+          - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
+    - Strategy
       - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
         - Videosweepmark: 3:30
       - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
-        - Videosweepmark
+        - Videosweepmark: 3:30
       - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
-    - Knowledge
-      - STATIC
-        - Not Applicable
-      - MESO
-      - VOLATILE
-        - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
-          - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
-            - Videosweepmark: 20:30
-            - ? VIX, SnP
-            - COT
-              - [Full COT report strategy](https://www.youtube.com/watch?v=grlKq3CE_vo)
-              - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
-          - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
+        - Videosweepmark: 3:30
+    - Timing
+      - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
+      - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
+      - [Master The Multiple TimeFrame Trade (I bet YOU missed this one detail that makes ALL the difference)](https://www.youtube.com/watch?v=kkxCowWmTnA)
     - Lifecycle
       - Instructor
         - MT4
@@ -846,8 +869,7 @@
             - [Verify Trade](https://www.verifymytrade.com/)
       - Pool
     - Generic
-      - [Ultimate Chart Patterns Trading Course (EXPERT INSTANTLY)](https://www.youtube.com/watch?v=aRlWle9smww)
-        - Videosweepmark: 38:14 TTL
+
       - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
         - Videosweepmark: 45:30
         - Multiple timeframe coordination 
@@ -860,8 +882,9 @@
   - TOPIC Economics(Mathematics/Genesis/Full Lifecycle Recognition)
     - Insight into Financial Crysis
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
+    - [Using Theories of Decision-Making Under Uncertainty to Improve Data Visualization](https://www.youtube.com/watch?v=IhGydZwUKc8)
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk&t=421s)
-      - Videosweepmark: 22:30
+      - Videosweepmark: 26:00
       - ATTACHABLE Political Science Bundle
         - Ignorance Problem
           - *When non-financial problem*
@@ -884,10 +907,12 @@
                           - `mutate`
                           - `broadcast`
                         - `value`: `AG1`
-                  - Saturation: 0.0185%
+                  - Saturation: 0.0188%
                 - RESONANCE_MELTINGPOT
+                  - Contractual foundation of Uncertainty as an mandate/agency
                   - Market --> Unknown Resonance <-- Contract
                     - [CFA Level 2 | Economics: Mark-to-Market Value of Forward Contract](https://www.youtube.com/watch?v=wLqyZRrutAc)
+                      - Videosweepmark: 5:00
                   - Firm --> Unknown Resonance <-- Hierarchy
                 - RigorousPipeline
                   - **UNINTERRUPTABLE** 1.3~1.6
@@ -963,8 +988,8 @@
               - RUNNING: `Freeloader.sourcing`
             - [Statistical Physics & Complex Systems](https://cdn.ymaws.com/www.eps.org/resource/group/b4bdd358-5b5f-403d-b81e-f906bf57f87a/contributed.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 20
-                  - Saturation: 1%
+                - Randomtelewalk: 32
+                  - ScreeningSaturation: 5%
                 - InterestedEntries: 6
                 - **BLACKHOLE** **IMPORTANT** ContinuousSkillDevelopmentUnit MetaProcessing /w Research Skill
                   - **ADDITIONAL_EFFORT="10 minutes"** Training Model Instances
@@ -973,6 +998,12 @@
                     - CriticalThinkingUnit
                       - *Where do all of them stand against modern academica toolchains e.g. Aminer etc.?*
                       - *What are those exceptions? Why?*
+                    - Academic Material Production Supplay Chain / Support Warehouse design
+                      - Support Warehouse
+                        - Centralized Term Base / Structure design
+                          - Tools: RWS product series e.g. SDL Trados, MemoQ
+                        - AI powered tooling strategy
+                      - Supply Chain
                     - **REPLENISH** Resource --> Academic Material Processing Pipeline: Lifecycle design
                       - GENESIS
                       - BEFORE_ENCOUNTER
@@ -984,7 +1015,7 @@
                           - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
                             - Videosweepmark: 9:49
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                            - Videosweepmark: 3:30
+                            - Videosweepmark: 7:30
                           - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
                             - Videosweepmark: 3:30
@@ -1005,6 +1036,7 @@
                       - _method
                         - `ReplenishResource(any: any)`
                     - PostMortemApplication
+                      - Emergence and stability of a Brownian motor - A. Feigel
                       - [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA](https://arxiv.org/pdf/2209.14792.pdf)
                         - _schema
                           - __meta_2
@@ -1093,8 +1125,8 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 37-194/38* &5_2
-                      - QualmStack LIMIT 5: 3.13-17
+                    - *Double mapping* | 39-194/ &5.1
+                      - QualmStack LIMIT 5: 3.13-17, &5
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
                           - Memorandum Account, nominal ledger
@@ -1102,6 +1134,8 @@
                       - Concentrated Supplement
                         - Day book, Invoice
                         - T, Opening Balance
+                        - Carriage Inwards/Outwards
+                        - IAS 37 - Entity
                         - ?
                           - sales day book
                           - Cash receipts book
@@ -1127,7 +1161,7 @@
                       - Videosweepmark : 11:40
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
-                      - Videosweepmark: 4:00
+                      - Videosweepmark: 7:30
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
                     - [7. Value At Risk (VAR) Models](https://www.youtube.com/watch?v=92WaNz9mPeY)
                   - Sales Tax
@@ -1205,9 +1239,8 @@
           - Duration: *3w*
       - Binary Classification
       - Logistic Regression
-        - [Visual Guide to Logistic Regression](https://www.youtube.com/watch?v=CA-DR44QHZQ)
-          - Videosweepmark: 5:00 TTL
         - [7.2.2. Math behind Logistic Regression | Machine Learning Models](https://www.youtube.com/watch?v=obbalnq94rA&t=158s)
+          - Videosweepmark: 5:00
         - [Logistic Regression - VISUALIZED!](https://www.youtube.com/watch?v=slBI5YuVUTM&t=325s)
         - [RL Course by David Silver - Lecture 2: Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ)
         - [Statistics 101: Logistic Regression, Logit and Regression Equation](https://www.youtube.com/watch?v=NmjT1_nClzg)
@@ -1908,9 +1941,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 32.1%
+            - CCS: 33.0%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP: 2:16
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1934,13 +1967,14 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 20:00
-              - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko | a16z crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
-                - Videosweepmark: 30:47
-                - ?
+                  - Videomark: 30:10
+              - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
+                - Videosweepmark: 35:50
+               - ?
+                  - RETAIN Readlist outreach : 33:53
                   - Delta, Consensus design, Possibility-Impossibility, Partial Synchrony with network partition, Nakamoto-consensus, BFT-consensus
                   - Clock, global clock
-                  - Clock, global clock
+                  - LMD GHOST.fork choice rule 
                 - RESONANCE
                   - _meta
                     - Transformation
@@ -1983,6 +2017,11 @@
       - *Sensing more energic flow, new stimulation combination causing "muscle confusion", thus stimulating new growth*
   - TOPIC: Fashion, Design, Art, Furniture, La Boutique, Music, Ruse, Trickery, Scheme, Marketing & PR, Micro PsyOps, Macro PsyOps, Meso PsyOps
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
+  - TOPIC: Innovative Ideas(Clothes, fashion, branding etc.)
+    - Attachable socks-shoe Design
+      - Supply Chain Analysis
+        - ?
+          - Machinery
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
   - Music Theory Comprehensive Complete! (Parts 1, 2, & 3)
   - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
@@ -2005,7 +2044,7 @@
         - _method
           - `coldTurkey(this)`
       - STATIC
-        - `adverb`
+        - MAGNET `adverb`
         - `verb`
           - lasciare | 60%
           - consentire | 80%
@@ -2013,21 +2052,19 @@
           - spezzare | 60%
           - battere | 30%
       - MESO
-        - `verb`
-        - `noun_modifier`
+        - MAGNET `verb`
+        - MAGNET `noun_modifier`
       - VOLATILE
-        - `adverb`
-          - diffusamente | 100% TTL
+        - MAGNET `adverb`
         - `verb`
           - congiungere | 60%
           - ingiuriare | 30%
         - MAGNET `noun_modifier`
           - pericoloso | 20%
         - MAGNET `noun`
-          - cittadino | 100% TTL
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 20:30
+      - Videosweepmark: 30:00
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
@@ -2036,7 +2073,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 38:00
+          - Videosweepmark: 53:11
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -2081,8 +2118,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 3.6%
-          - TEMP_TIMESTAMP: 1:00
+          - CCS: 8%
+          - TEMP_TIMESTAMP: 3:20
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2191,15 +2228,15 @@
           - Videosweepmark: 3:10
     - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
-  - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 100%
+    - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
+  - Initialization of language/meta structrure: 2.1%
     - ENTERING HIBERNATE MODE
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 72.1%
-      - E.T.A: 3.84 months
-      - TEMP_TIMESTAMP: 3:00
+      - CCS: 73.7%
+      - E.T.A: 2.19 months
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2319,6 +2356,8 @@
         - نَحْنُ
         - `pronoun.reflexive`
           - نفسها
+      - `number`
+        - 60% | ستون
     - MESO
       - Frequently used vocabulary
         - _source
@@ -2328,7 +2367,6 @@
     - VOLATILE STATE=ELIMINATE
       - `verb`
         - 30% | قلب
-        - 100% TTL | اِسْتَطَاعَ
         - 20% | نصعد
         - 50% | تقديم
         - 45% | وفر
@@ -2355,27 +2393,23 @@
         - 9% | طويل
         - خاصة
         - 60% | متأخر
-          - [Arabic Grammar: Relative Pronouns in Arabic الاسم الموصول](https://www.youtube.com/watch?v=nsO1-WeuMuo)
-            - Videosweepmark: 10:00
-          - [Intermediate Arabic: Broken Plural](https://www.youtube.com/watch?v=jCjjjvOLOKg)
-            - Videosweepmark: 3:30
+          - [What is إعْرَاب i'raab / e'raab ? Learn Arabic language grammar FREE [#01-P2]](https://www.youtube.com/watch?v=u5fjpJAZ3TY)
+            - Videosweepmark
         - 35% | موجزًا
       - `noun`
-        - 35% | مفهوم
-        - 85% | نهج
-        - 40% | الْمَالِكَ
-        - 5% | مبدأ
+        - 90% | مفهوم
+        - 50% | مالك
+        - 55% | مبدأ
         - 30% THROTTLE FREQUENT | ساعة
-        - 50% | ستين
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-    - [Arabic Grammar For All - Lesson 3 - The Nominal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=TPUuXo0KEhc&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=3)
-      - Videosweepmark: 17:12
-      - VideoListStamp: 3
+    - [Arabic Grammar For All - Lesson 4 - The Verbal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=JF49rwmHmI0&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=4)
+      - Videosweepmark: 11:30
+      - VideoListStamp: 4
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-        - Videosweepmark: 4:06
+        - Videosweepmark: 7:37
   - TOPIC Key to the world of Arabic
   - TOPIC: Jurisprudence and Shariah Law
     - Jurisprudence Lectures
@@ -2417,7 +2451,56 @@
       - *For comedy reasons, all monkey business MUST be public*
     - Antidote to Workplace Hell: Meta workspace
       - Business problem: *Godaddy...Google Suite...Ms Workspace...Kingsoft...Tencent...DD...What a mess*
-    - **EMERGENCY OVERRIDE** **HW: Moral Cellular Automata Variation** --> Fullstack project
+    - UNSTABLE Exquisite, cloud-rendering mobile device with extremely low initial cost and pay-as-you-go pricing model
+      - `ROOT.CentralExecutiveFunction.output`
+        - *Immediately put this idea into Continuous Incubator Support on next encounter and redact all information therein, initiate advanced incubation investment thereafter*
+        - *On second thoughts, delay this action for at least a month for COMEDY effects*
+      - ContinuousStimulationUnit Cellphone Hardware Design Overview
+        - [Smartphone's Hardware and Software Development Issues and Factors](https://www.semanticscholar.org/paper/Smartphone's-Hardware-and-Software-Development-and-Kumar-Kumar/9ac21129f34a969218001ee4cb1a72b20d9d11b7)
+        - [Hardware Platform Supporting Smartphones](https://www.fujitsu.com/global/documents/about/resources/publications/fstj/archives/vol49-2/paper15.pdf)
+        - [Smartphone Hardware and System Design](https://ieeexplore.ieee.org/document/8042651)
+        - [Smartphone Hardware Components](https://www.maaleteknikk.no/4v8tj0/smartphone-hardware-components-pdf)
+        - [The Design Process of an Open Source Mobile Phone](https://www.theseus.fi/bitstream/handle/10024/150552/The_Design_Process_of_an_Open_Source_Mobile_Phone.pdf;jsessionid=95E209549DEDFE3A71040530602A880B?sequence=1)
+        - [Smartphone Hardware Architecture](http://meseec.ce.rit.edu/551-projects/spring2013/3-4.pdf)
+        - [Smartphone Architecture](http://meseec.ce.rit.edu/551-projects/fall2015/3-2.pdf)
+        - [Mobile Application Architecture Guide](https://robtiffany.com/wp-content/uploads/2012/08/Mobile_Architecture_Guide_v1.1.pdf)
+      - ContinuousStimulationUnit Cloud-rendering Technologies: Cost, Potentials, and Integration
+        - UE: Pixel Streaming
+      - ContinuousStimulationUnit Business Models: Why Pay-as-you-go works, and why it doesn't
+      - ContinuousStimulationUnit ?
+      - SUPPLEMENT
+        - _motivation: *Learning Spanish while accidentally learning the path to cloud-based mobile device as potentials to go viral and rigging future trajectories*
+          - [Ep. 10. Cloud Rendering on the Blockchain](https://www.youtube.com/watch?v=OMz0oxPyVxg)
+            - Videosweepmark: 1:10
+          - [Lumion Test on the top 3 cloud services](https://www.youtube.com/watch?v=ukesXN2_gV4)
+            - Videosweepmark: 1:00
+          - [FMX2017 Technical Directing Special: Real-time Volumetric Cloud Rendering](https://www.youtube.com/watch?v=8OrvIQUFptA)
+            - Videosweepmark: 2:00
+          - [AWS Pricing Tutorial | AWS Certification Training | AWS Tutorial | Edureka](https://www.youtube.com/watch?v=1rVG0qfOGDU)
+          - [Understand AWS EC2 Pricing Models](https://www.youtube.com/watch?v=eiomPEF-4WM)
+          - [SaaS Metrics Masterclass: Pricing Strategies and Billing Models with Stripe](https://www.youtube.com/watch?v=RTlUVBOkCx4)
+          - [Understanding Business Models and Pricing Strategies](https://www.youtube.com/watch?v=77HkGNVkAZI)
+          - [B2B SaaS pricing: How to stop guessing - ClassroomX at Web Summit](https://www.youtube.com/watch?v=L-x11nwynVQ)
+          - [7 Pricing Strategies - How To Price A Product - Dan Lok](https://www.youtube.com/watch?v=qutavZTkFeY)
+          - [When Refinery and War Miner Swap Identities！ -Red Alert2](https://www.youtube.com/watch?v=G0eycwcYTDY)
+      - Kickoff
+        - Aye-er's crib
+          - Value & Uniqueness
+            - *No one is doing this*
+            - *People will use it, and they will like it*
+          - Business viability
+            - *This will be profitable*
+          - Technical viability
+            - *This is technically feasible*
+        - Contrarian's corner
+          - Value & Uniqueness
+            - *Many people are doing this*
+            - *This is a red ocean market*
+        - Business viability
+          - *This will not be profitable*
+        - Technical viability
+          - *This is not technically feasible*
+    - Moral Cellular Automata Variation --> Fullstack project
       - After 10 rounds, create sentient GENESIS EVIL/EGOIST/ALTRUIST cell
         - Every sentient cell is assigned IQ between 100 to 200
         - Apply Homophily to non-sentient cells
@@ -2656,8 +2739,8 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 15.1%
-        - TEMP_TIMESTAMP: 1:43
+        - CCS: 19.7%
+        - TEMP_TIMESTAMP
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2727,8 +2810,8 @@
     - Enterprise IT Infrastructure
       - AWS Security Cookbook: Practical solutions for managing security policies, monitoring, auditing, and compliance with AWS
       - Exam AZ-305 - Designing Azure Infrastructure Solutions 2022
-        - CCS: 6.5%
-        - TEMP_TIMESTAMP: 2:13
+        - CCS: 8%
+        - TEMP_TIMESTAMP: 3:00
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
         - CCS: 1.1%
         - TEMP_TIMESTAMP
@@ -2804,11 +2887,12 @@
       - [Python for computational chemistry -beginners tutorials -Introduction](https://www.youtube.com/watch?v=Sno4szlS4lw&list=PLhYF9QNr23IZ_bnrCIPdWdxNI_Ggl4m3G)
         - Videosweepmark: 2:30
       - [Keynote: Advancing EDA Through the Power of AI and High-Performance Computing](https://www.youtube.com/watch?v=Ba-0GkMEtCA)
-        - Videosweepmark: 6:00
+        - Videosweepmark: 14:00
     - JP - \*
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
-          - Videosweepmark: 2
+          - N/A
+          - Videosweepmark: 31:33
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
@@ -2829,12 +2913,12 @@
     - MESO
       - Grammar Japanese-* Bundle
         - [【Ｎ３文法】～一方だ](https://www.youtube.com/watch?v=eGxvduVsfJo&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR)
-          - Videosweepmark: 3:00
+          - Videosweepmark: 5:52 NEXT
           - Listmark: 1
           - Language pair SHUFFLE: Japanese - Spanish
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
-          - Language pair SHUFFLE: Japanese - Germana
-          - Videosweepmark: 1:00
+          - Language pair SHUFFLE: Japanese - German
+          - Videosweepmark: 2:11
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
@@ -2846,13 +2930,15 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - THROTTLE FREQUENT 頂く | 40%
+        - THROTTLE FREQUENT 頂く | 70%
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-        - THROTTLE FREQUENT 使う | 19%
+            - Videosweepmark: 3:00
+        - THROTTLE FREQUENT 使う | 34%
         - 直す  | 59%
+        - 受け取る
         - 照る | 35%
         - THROTTLE FREQUENT なる | 70%
-        - 記述する | 40%
+        - 記述する | 80%
         - THROTTLE FREQUENT 持つ
         - 当たる
       - `adjective`
@@ -2870,7 +2956,6 @@
       - `noun`
         - どちら
         - THROTTLE FREQUENT 言葉 | 77%
-        - 理解 | 100% TTL
         - テブナン | 5%
           - [Thevenin's Theorem. Example with solution](https://www.youtube.com/watch?v=8RQjA_dMIfw)
             - Videosweepmark: 1:00
@@ -2886,7 +2971,7 @@
       - *Pronounciation, vocabulary entered next stage, emphasis shifted to accurate use of complex grammar, noun & adjective declination, verb conjugation in the right context takes the most energy*
     - 2022/10/29: First plateau: Hitting the wall(第一次撞墙) - Russian is hard!
       - `ROOT.CentralExecutiveFunction`
-        - *Use grammar audio-visual as additional supplement to directly attack the root cause*
+        - *Use grammar audio-visual as additional supplement to directly attack the root cause* | 50%
         - Discovered Neural Pathway deficiency pair: Source noun/adjective --> Declension/Conjugation
         - Officially allocate **10 minutes** instead of **3 minutes** to Russian training
     - 2022/11/10
@@ -2905,42 +2990,43 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
-        - поместить | 90%
-        - подталкивать | 90%
-        - разочаровывать | 30%
-        - попрактиковаться | 30%
-          - [The Biggest Lie About the Russian Verb Conjugation System... | Russian Conjugation Rules](https://www.youtube.com/watch?v=rapWYCAUpQo)
-            - 40 verb conjugation patterns
+        - поместить | 100% TTL
+        - подталкивать | 100% TTL 
+        - разочаровывать | 100% TTL
+        - попрактиковаться | 60%
       - ?
         - вот
         - такой
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
-          - [Prepositions В and На | Russian Language](https://www.youtube.com/watch?v=sUknbKfDFYI)
-            - Videosweepmark : 19:15 TTL 
-            - DEPRECATED
-            - Language pair: Spanish
         - Таким образом
-      - **прилагательное**
-        - MAGNET *Call for new words*
-      - **наречие**
-        - достаточно | 100% TTL 
-        - соответственно | 100% TTL
-        - определенно | 100% TTL 
-      - **существительное**
-        - разговор | 100% TTL
-      - **Местоимение**
+      - MAGNET **прилагательное**
+        - непопулярный
+        - составной
+      - MAGNET **наречие**
+      - MAGNET **существительное**
+        - заточение | 30%
+        - тюрьма | 50%
+        - подданный | 80%
+        - содружество | 70%
+        - духовенство | 30%
+        - благо
+        - аллегории | 40%
+        - справедливость | 60%
+        - спокойствие | 50%
+      - MAGNET **Местоимение**
         - весь
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [2. "The Tree of Commonwealth": The Social Order in the Sixteenth Century](https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2)
-        - Videosweepmark
+        - Videosweepmark: 23:30
         - Listmark: 2
         - INTEREST Evolution of Information Circulation in Sixteenth Century
           - SUPPLEMENT
             - [How Far Back in Time Could an English Speaker Go and Still Communicate Effectively?](https://www.youtube.com/watch?v=Y63dBBlHlSk)
+              - Videosweepmark: 5:00
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - ? LIMIT 5
@@ -2965,7 +3051,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 26:00
+        - Videosweepmark: 29:41
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -2974,20 +3060,29 @@
             - *This is an extremely difficult book, psyche up for it before digging in, at the moment this endeavour is best paired with Russian*
             - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
               - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 34
+                - Randomtelewalk: 36
                   - _methods
                     - `createPipeline(self, *args, **kwargs)`
                   - StackedIndex: 45
-                - Saturation: 0.00023%
+                - Saturation: 0.00038%
               - PROCESSING_POINTER_STORE
                 - CURIOSITY_OUTREACH
+                  - Bose-Einstein condensate
+                    - [Bose-Einstein Condensates | Prof B. Prasanna Venkatesh | Lecture 01](https://www.youtube.com/watch?v=EeTJyqBIVZI)
+                  - P´olya’s principles
+                  - Contraposition, Syllogism
                   - Infinite-set paradoxing
-       .08           - P.O.I James Clerk Maxwell
+                     - P.O.I James Clerk Maxwell
                   - Ancillary statistic
                     - [Sufficient, Minimal, Ancillary, and Complete Statistics, with Theorems](https://www.youtube.com/watch?v=r1yXDzoIb2I)
+                      - Videosweepmark: 3:56
+                      - Factorization Theorem
+                      - Exponential Family
               - SUPPLEMENT
                 - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
-                  - Videosweepmark: 2:40
+                  - Videosweepmark: 11:34
+                  - CURIOSITY_OUTREACH
+                    - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Style: SLOW POINTER
         - Videosweepmark: 48:31
@@ -3014,18 +3109,17 @@
         - PROCESSING_POINTER_FIELD
           - Randomtelewalk: 5
     - SUPPLEMENT
-      - [Learn Ancient Greek: 9_Unit 2 Present and Imperfect Active Indicative](https://www.youtube.com/watch?v=ggqxFOFzrrQ&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=9)
-        - Videosweepmark: 7:52 NEXT
-        - ListStamp: 9
-    - STATIC | PROCESSING\_CAPACITY 1
+      - [Learn Ancient Greek: 10_Unit 2 Future and Aorist Active Indicative](https://www.youtube.com/watch?v=yVoGRtxC6mU&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=10)
+        - Videosweepmark: 11:36 NEXT
+        - ListStamp: 10
+    - STATIC | PROCESSING\_CAPACITY
       - _methods
         - `language.meta.pronounciation.callibrate()`
       - **ερωτηματικός**
-        - _mutation
         - τίς
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
-        - ContinuousStimulationUnit [All About Greek Pronouns: Ultimate Greek Pronouns](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 88%
+        - ContinuousStimulationUnit [All About Greek Pronouns: Ultimate Greek Pronouns](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 88.2%
     - VOLATILE
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
@@ -3034,8 +3128,7 @@
           - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
             - Videosweepmark: 6:00
             - Listmark: 4
-        - φοράω | 100% TTL
-        - αντιμετωπίζω | 40%
+        - αντιμετωπίζω | 100% TTL
         - σχεδιάζω | 35%
       - **επίθετο**
       - **ουσιαστικό**

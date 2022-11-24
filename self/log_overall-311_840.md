@@ -1,6 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [_GLOBAL](#_global)
+- [\_GLOBAL](#_global)
 - [STICKY 寻找Purpose的旅程](#sticky-寻找purpose的旅程)
   - [Shelter if you're homeless](#shelter-if-youre-homeless)
   - [Build your weapon](#build-your-weapon)
@@ -208,7 +208,7 @@
                   - FlashcardificationSet
                     - FlashcardificationPruneRegistries
                       - 36-41
-                    - STALE FlashcardificationSaturation: 12%: \[80%-100%\]
+                    - STALE FlashcardificationSaturation: 30.3%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -410,9 +410,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 20.3%
+                  - CCS: 22%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP
+                  - TEMP_TIMESTAMP: 6:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -427,6 +427,8 @@
                   - ?
                     - Interest Rate Premiums, Annuity, Present Value Annuity Factor, Perpetuity
                       - [Introduction To Annuities (2019)](https://www.youtube.com/watch?v=ed-sdtGpiYU)
+                        - Videosweepmark: 10:01
+                       - 
                     - Acronym fluency: PV, N, I/Y, PMT
                   - SUPPLEMENTS
                     - SKILL
@@ -449,7 +451,7 @@
                           - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
                           - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
                             - McMaster Business Data and Statistics
-                                - Videosweepmark : 5:02
+                                - Videosweepmark : 10:02
                           - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY)
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
@@ -472,7 +474,7 @@
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
                           - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 10:00
+                            - Videosweepmark: 15:00
                             - Conflict
                               - Conflict Ontology
                                 - \(Human\)Conflict Genesis?
@@ -524,8 +526,14 @@
                         - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/pdf/2103.11251.pdf)
                         - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://drive.google.com/file/d/1JTL8m2nZtHpJfPiq8ebMHfsfmnb9bizQ/view?usp=sharing)
                           - PROCESSING_POINTER_FIELD
-                            - Randomtelewalk: 3
-                            - MECE
+                            - Randomtelewalk: 5
+                          - SUPPLEMENT
+                            - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by T.Hastie et. al.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+                              - PROCESSING_POINTER_FIELD
+                                - Randomtelewalk: 8
+                            - [Keys to Developing A Responsible AI Strategy](https://www.youtube.com/watch?v=fzdny6lV_dE)
+                              - Videosweepmark: 5:00
+                              - Language pair: Spanish
                     - Privacy-Preserving Computing/AI
                       - STATIC
                         - TECC
@@ -820,6 +828,8 @@
     - Analysis
       - Fundamental analysis
         - CFA, CPA carryover-able basics
+        - [Mastering Fundamental Analysis in Forex: The Ultimate Guide! | Free Forex Course](https://www.youtube.com/watch?v=iiRncjZWjXk)
+        - [How Professional FX traders do Fundamental Analysis!](https://www.youtube.com/watch?v=cktWJ7PxXqQ)
       - Sentiment analysis
         - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
           - Videosweepmark: 24:45 SATURATE_CHILDREN
@@ -827,10 +837,12 @@
           - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
           - COT
             - [Full COT report strategy](https://www.youtube.com/watch?v=grlKq3CE_vo)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 8:30
+              - CFTC
             - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
+              - Videosweepmark: 3:30
         - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
-          - Videosweepmark: 5:00
+          - Videosweepmark: 9:00
       - Industry Analysis
         - CRITICAL QUESTION: *Suppose that you are to gain a comprehensive view/Insight on a specific/generic (branch of) industry in X days, what's your plan of game? How to conduct post-mordem?(复盘)*
           - MAGNET RUNNING `inwardSourcing(ROOT, context)`
@@ -841,6 +853,7 @@
         - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
           - Videosweepmark: 17:00
           - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
+      - Technical Analysis
     - Strategy
       - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
         - Videosweepmark: 3:30
@@ -850,9 +863,12 @@
         - Videosweepmark: 3:30
     - Timing
       - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
+        - Videosweepmark: 3:30
       - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
+        - Videosweepmark: 13:00
       - [Master The Multiple TimeFrame Trade (I bet YOU missed this one detail that makes ALL the difference)](https://www.youtube.com/watch?v=kkxCowWmTnA)
-    - Lifecycle
+        - Videosweepmark: 3:30
+    - Tooling
       - Instructor
         - MT4
           - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
@@ -860,6 +876,15 @@
           - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
         - TradingView
         - `sourcing(CONTEXT, REASON)`
+      - Diagramming
+        - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
+      - Indicator
+        - Volume fighter
+        - ADX & DI
+        - SSL Channel
+      - Method
+        - Quant
+        - Back testing
       - Broker
         - Verification
           - _SECURITY_GROUP
@@ -869,7 +894,6 @@
             - [Verify Trade](https://www.verifymytrade.com/)
       - Pool
     - Generic
-
       - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
         - Videosweepmark: 45:30
         - Multiple timeframe coordination 
@@ -884,7 +908,7 @@
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Using Theories of Decision-Making Under Uncertainty to Improve Data Visualization](https://www.youtube.com/watch?v=IhGydZwUKc8)
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk&t=421s)
-      - Videosweepmark: 26:00
+      - Videosweepmark: 30:10
       - ATTACHABLE Political Science Bundle
         - Ignorance Problem
           - *When non-financial problem*
@@ -894,7 +918,9 @@
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
               - PROCESSING POINTER FIELD
-                - Randomtelewalk: 470
+                - Qualmstack
+                  - 471: *Shots fired*
+                - Randomtelewalk: 472
                   - VisitStack: 26
                   - _state
                     - `traffic`: 0.5
@@ -907,7 +933,7 @@
                           - `mutate`
                           - `broadcast`
                         - `value`: `AG1`
-                  - Saturation: 0.0188%
+                  - Saturation: 0.0400%
                 - RESONANCE_MELTINGPOT
                   - Contractual foundation of Uncertainty as an mandate/agency
                   - Market --> Unknown Resonance <-- Contract
@@ -1013,9 +1039,10 @@
                         - _source
                           - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
                           - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
-                            - Videosweepmark: 9:49
+                            - Videosweepmark: 9:49 TTL
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                            - Videosweepmark: 7:30
+                            - Videosweepmark: 12:20
+                            - CRITICAL QUESTION: Some finance, legal, political materials may be more beneficial to use total vocalization to illicit particular partisanship and subtle intents, aren't they?
                           - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
                             - Videosweepmark: 3:30
@@ -1125,8 +1152,8 @@
                 - Saturation: 8%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 39-194/ &5.1
-                      - QualmStack LIMIT 5: 3.13-17, &5
+                    - *Double mapping* | 39-194/ &5.4
+                      - QualmStack LIMIT 5: 3.13-17, &5?, &5.2
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
                           - Memorandum Account, nominal ledger
@@ -1158,7 +1185,7 @@
                 - _supplement
                   - Conceptual Framework
                     - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
-                      - Videosweepmark : 11:40
+                      - Videosweepmark : 16:40
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
                       - Videosweepmark: 7:30
@@ -1195,17 +1222,21 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 51:34
+      - Videosweepmark: 56:44
       - LIST_NUM: 2
       - CURIOSITY_OUTREACH
         - CoVaR
         - The Gospel of Wealth and Other Essays
         - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
           - PROCESSING_POINTER_FIELD
-            - Randomtelewalk: 26
-              - Saturation: 0.010%
+            - Randomtelewalk
+              - Instances
+                - 26
+                - 193
+              - Saturation: 0.020%
             - Lazy Freeloader's Feynman Technique Entries
               - CH1_24
+              - CH9_193
           - PROCESSING_POINTER_STORE
             - SUPPLEMENT
               - PERSISTENT
@@ -1941,7 +1972,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 33.0%
+            - CCS: 34.7%
             - ETC：7.8 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -1967,7 +1998,7 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 30:10
+                  - Videomark: 45:00
               - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 35:50
                - ?
@@ -2064,16 +2095,16 @@
         - MAGNET `noun`
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 30:00
+      - Videosweepmark: 45:00
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
     - Fully automated distributed propagation agent: No loose ends
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
-      - [Lec 3: Problem Recognition - I](https://www.youtube.com/watch?v=ZpvZ3vtHrM0&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=4)
+      - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 53:11
+          - Videosweepmark: 6:42
         - continuousStimulationUnit
           - Practical Benefit, Unusual benefit
           - Segment bounding
@@ -2118,8 +2149,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 8%
-          - TEMP_TIMESTAMP: 3:20
+          - CCS: 17.5%
+          - TEMP_TIMESTAMP: 4:40
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2234,9 +2265,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 73.7%
+      - CCS: 75.7%
       - E.T.A: 2.19 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 1:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2382,7 +2413,7 @@
       - `preposition` TO_STATIC
         - 5% | مع
       - `adverb`
-        - أدناه
+        - 20% | أدناه
         - رُبَّمَا
       - `?.connector`
         - 5% | دُونَ
@@ -2394,27 +2425,26 @@
         - خاصة
         - 60% | متأخر
           - [What is إعْرَاب i'raab / e'raab ? Learn Arabic language grammar FREE [#01-P2]](https://www.youtube.com/watch?v=u5fjpJAZ3TY)
-            - Videosweepmark
+            - Videosweepmark: 14:31
         - 35% | موجزًا
       - `noun`
-        - 90% | مفهوم
-        - 50% | مالك
+        - 60% | مالك
         - 55% | مبدأ
         - 30% THROTTLE FREQUENT | ساعة
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
     - [Arabic Grammar For All - Lesson 4 - The Verbal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=JF49rwmHmI0&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=4)
-      - Videosweepmark: 11:30
+      - Videosweepmark: 25:39 NEXT39 NEXT
       - VideoListStamp: 4
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-        - Videosweepmark: 7:37
+        - Videosweepmark: 9:00
   - TOPIC Key to the world of Arabic
   - TOPIC: Jurisprudence and Shariah Law
     - Jurisprudence Lectures
       - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL66DFF275B46BEF40)
-        - Videosweepmark: 1:00
+        - Videosweepmark: 4:30
         - Bookpair
           - Jurisprudence and legal theory
     - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
@@ -2646,28 +2676,49 @@
         - Hybrid Collaboration Rigor
         - DAO/Virtual Collaboration Rigor
   - TOPIC System Design
-    - Software system design
-      - [Designing Data-Intentive Applications](https://drive.google.com/file/d/1wko6_I5P8tTOLo-yujj9wdeA3UjlooKQ/view?usp=sharing)
-        - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 28
-          - Saturation: 1.57%
-        - SUPPLEMENT
-          - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
-            - Videosweepmark: 7:00
-            - ContinuousInnovativeThinkingDevelopmentUnit
-              - *What innovative system design ideas can you come up with on top of existing design?*
-            - PREREQUISITE_PROCESSING
-              - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
-                - Videosweepmark: 4:00
-    - Sentient System Design
-      - [A RELATIONAL MACROSTATE THEORY GUIDES ARTIFICIAL INTELLIGENCE TO LEARN MACRO AND DESIGN MICRO](https://arxiv.org/pdf/2210.07374.pdf)
-    - Political system design
-      - [Political Complexity Overview](https://www.youtube.com/watch?v=RwQligreQ3M)
-      - [Political Systems Innovation](https://www.youtube.com/watch?v=oGUIoOajxZ8)
-        - Videosweepmark: 7:00
-        - ?
-          - NextGen Social Contract, Hyperglobalization, Digital globalization
-      - Circuit/Network theory in political realm
+    - Real-life
+      - Payment System
+        - _motivation: *Learning Spanish while accidentally becoming knowledgeable about payment system*
+        - Roadmap
+          - [Payment System Roadmap](https://media-exp1.licdn.com/dms/image/C4E22AQFmPUlSI6UwOQ/feedshare-shrink_2048_1536/0/1669174598593?e=1672272000&v=beta&t=LrTHE4ce3kbBAh6wgAy-V08LVKOKPjexrhuU59PKIZY)
+        - Empathy 101 for legacy systems: Hands-off
+          - [C# Full Projects Supermarket Management System | POS by Using SQL Database with Source code ⏲](https://www.youtube.com/watch?v=x4sw_22gsSc)
+        - System Design
+          - [The Large Value Transfer System (LVTS) and Wire Payments](https://www.youtube.com/watch?v=iwhCbla-6xY)
+          - [Modernizing high value payment systems](https://www.youtube.com/watch?v=F3xFrYVPABo)
+          - [15.S08 - FinTech: Shaping the Financial World](https://www.youtube.com/watch?v=90JWoR9MfYU&list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0)
+            - ListPointer
+          - [Live AWS System Design: Payments Gateway](https://www.youtube.com/watch?v=cSetznf9CWA)
+        - System Implementation
+        - System Innovation
+          - [Architecting a Modern Financial Institution](https://www.youtube.com/watch?v=VYuToviSx5Q)
+          - [Modernizing high value payment systems](https://www.youtube.com/watch?v=F3xFrYVPABo)
+    - Generic
+      - Software system design
+        - [Designing Data-Intentive Applications](https://drive.google.com/file/d/1wko6_I5P8tTOLo-yujj9wdeA3UjlooKQ/view?usp=sharing)
+          - PROCESSING_POINTER_FIELD
+            - Randomtelewalk: 28
+            - Saturation: 1.57%
+          - SUPPLEMENT
+            - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
+              - Videosweepmark: 10:30
+              - ContinuousInnovativeThinkingDevelopmentUnit
+                - *What innovative system design ideas can you come up with on top of existing design?*
+              - PREREQUISITE_PROCESSING
+                - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
+                  - Videosweepmark: 4:00
+      - Sentient System Design
+        - [A RELATIONAL MACROSTATE THEORY GUIDES ARTIFICIAL INTELLIGENCE TO LEARN MACRO AND DESIGN MICRO](https://arxiv.org/pdf/2210.07374.pdf)
+      - Political system design
+        - [Sociocultural Systems](https://www.youtube.com/watch?v=4OlvkutXNmU)
+          - Videosweepmark: 3:30
+        - [Political Complexity Overview](https://www.youtube.com/watch?v=RwQligreQ3M)
+          - Videosweepmark: 3:30
+        - [Political Systems Innovation](https://www.youtube.com/watch?v=oGUIoOajxZ8)
+          - Videosweepmark: 7:00
+          - ?
+            - NextGen Social Contract, Hyperglobalization, Digital globalization
+        - Circuit/Network theory in political realm
     - PQA
       - Supplier
         - Sonar ^ Synk
@@ -2734,13 +2785,14 @@
             - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
             - [Quantum Computing 'Magic' - Computerphile](https://www.youtube.com/watch?v=BYx04e35Xso)
             - INFINITE_LOOP PERSISTENT [The Map of Quantum Computing | Quantum Computers Explained](https://www.youtube.com/watch?v=-UlxHPIEVqA)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 8:30
               - Saturation: 1%
+              - RandomThoughts
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 19.7%
-        - TEMP_TIMESTAMP
+        - CCS: 22.7%
+        - TEMP_TIMESTAMP: 1:00
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -2810,8 +2862,8 @@
     - Enterprise IT Infrastructure
       - AWS Security Cookbook: Practical solutions for managing security policies, monitoring, auditing, and compliance with AWS
       - Exam AZ-305 - Designing Azure Infrastructure Solutions 2022
-        - CCS: 8%
-        - TEMP_TIMESTAMP: 3:00
+        - CCS: 8.8%
+        - TEMP_TIMESTAMP: 1:00
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
         - CCS: 1.1%
         - TEMP_TIMESTAMP
@@ -2892,11 +2944,11 @@
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
           - N/A
-          - Videosweepmark: 31:33
+          - Videosweepmark: 33:33
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
-        - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=11)
-          - Videosweepmark: 5:20
+        - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=12)
+          - Videosweepmark: 3:20
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - UNORDERED CHANGE_LOG
     - 2022/11/10: *Vague sensation of increased validity of german-japanese dual-subtitle stimulation channel detected, expected accelerated progress in semantic fluency*
@@ -2905,6 +2957,8 @@
       - Katakana proficiency | 90%
       - /Verb Form | 80%
         - 連用形
+          - [Classical Japanese 03 (Learn Old Japanese through English) (未然形 連用形　終止形 連体形 已然形 命令形)](https://www.youtube.com/watch?v=FF5vXLxM1Ss)
+            - Videosweepmark: 1:30
         - 仮定形
         - 終止形
         - 未然形
@@ -2912,16 +2966,18 @@
         - 連体形
     - MESO
       - Grammar Japanese-* Bundle
-        - [【Ｎ３文法】～一方だ](https://www.youtube.com/watch?v=eGxvduVsfJo&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR)
-          - Videosweepmark: 5:52 NEXT
-          - Listmark: 1
+        - [【Ｎ３文法】～うちに](https://www.youtube.com/watch?v=zRDINPcshiM&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=3)
+          - Videosweepmark
+          - Listmark: 3
           - Language pair SHUFFLE: Japanese - Spanish
+          - ～うえに
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 2:11
+          - Videosweepmark: 4:00
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
+          - Videosweepmark: 1:16
           - Language pair SHUFFLE: Japanese - Italian
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
           - Language pair SHUFFLE: Japanese - Russian
@@ -2932,13 +2988,13 @@
       - `verb`
         - THROTTLE FREQUENT 頂く | 70%
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-            - Videosweepmark: 3:00
+            - Videosweepmark: 4:00
         - THROTTLE FREQUENT 使う | 34%
         - 直す  | 59%
         - 受け取る
+        - 来る
         - 照る | 35%
         - THROTTLE FREQUENT なる | 70%
-        - 記述する | 80%
         - THROTTLE FREQUENT 持つ
         - 当たる
       - `adjective`
@@ -2947,10 +3003,13 @@
         - ずっと
         - 易い | 22%
           - NEW Japanese adjective inflection
+          - [【N3文法】と vs ば vs たら vs なら ① ＜#15/20＞](https://www.youtube.com/watch?v=YLIrjs-Um0Y)
+            - Videosweepmark: 2:05
       - `phrase`
       - `adverb`
         - 唯一 | 70%
       - `?`
+        - なので
         - なくて
           - [Study Japanese『N3文法大解析』てしかたがない // 非常～](https://www.youtube.com/watch?v=c9eiBlaqfdM)
       - `noun`
@@ -2975,7 +3034,13 @@
         - Discovered Neural Pathway deficiency pair: Source noun/adjective --> Declension/Conjugation
         - Officially allocate **10 minutes** instead of **3 minutes** to Russian training
     - 2022/11/10
-      - Irreversable progressive in noun, pronoun, adjetive usage, threshold near
+      - Irreversable progressive in noun, pronoun, adjective usage, threshold near
+    - 2022/11/23
+      - Underlying neural pathways for adjective declension construction using energy-preserving stimulation method nearly complete
+      - \(The subject is able to predict pronunciation stress by word structure with more consistency and accuracy\)
+      - After that, the subject will be able to use Russian adjectives swiftly with precision and consistency
+      - HYPOTHESIS Expect a dramatic increase in typing speed, which is crucial for language combat effectiveness
+      - It is expected that Russian sector will require game plan for next stage in two months
   - Learning Cache for Intermediate learners
     - STATIC
       - INBOUND_CACHE
@@ -2989,29 +3054,32 @@
         - SECURITY_GROUP: OPEN
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
-      - **глагол**
-        - поместить | 100% TTL
-        - подталкивать | 100% TTL 
-        - разочаровывать | 100% TTL
-        - попрактиковаться | 60%
+      - MAGNET **глагол**
+        - содержать
+        - унаследовать
+        - описывать
+      - **Предлог**
+        - через
+          - RUNNING `sourcing(*arg)` Consonant mutation/alternation
       - ?
         - вот
         - такой
-        - через
-          - RUNNING `sourcing(*arg)` Consonant mutation/alternation
         - Таким образом
       - MAGNET **прилагательное**
         - непопулярный
         - составной
+        - малоизвестный
+        - сумасшедший
+        - средний
       - MAGNET **наречие**
-      - MAGNET **существительное**
-        - заточение | 30%
+      - **существительное**
         - тюрьма | 50%
-        - подданный | 80%
-        - содружество | 70%
-        - духовенство | 30%
-        - благо
-        - аллегории | 40%
+        - содружество | 100% TTL
+        - духовенство | 60%
+        - благо | 60%
+        - поддерево
+        - аллегория | 60%
+        - терминология | 40%
         - справедливость | 60%
         - спокойствие | 50%
       - MAGNET **Местоимение**
@@ -3021,27 +3089,31 @@
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [2. "The Tree of Commonwealth": The Social Order in the Sixteenth Century](https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2)
-        - Videosweepmark: 23:30
+        - Videosweepmark: 30:00
         - Listmark: 2
         - INTEREST Evolution of Information Circulation in Sixteenth Century
           - SUPPLEMENT
             - [How Far Back in Time Could an English Speaker Go and Still Communicate Effectively?](https://www.youtube.com/watch?v=Y63dBBlHlSk)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 10:49
+  - TOPIC | Specific Mathematic Field with the greatest interest
+    - Value
+      - Topology
+  - TOPIC | Mathematics Problem Solving Melting Pot
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - ? LIMIT 5
       - [CF-1749-B](https://codeforces.com/problemset/problem/1749/B)
         - SUPPLEMENT
           - [Educational Codeforces Round #138 Editorial - Problems A,B,C,D](https://www.youtube.com/watch?v=8fGwF4Ylw-I)
-            -  Videosweepmark : 9:30
+            -  Videosweepmark : 14:00
             - Point-in-time C++ hydration
               - GCC optimize,     
         - Problem B Death's blessing codeforces solutions || Codeforces educational round 138 solutions
       - [CF-1746-A](https://codeforces.com/problemset/problem/1746/A)
         - SUPPLEMENT
           - [E001 : Board Moves | Constructive Algorithms | CodeNCode](https://www.youtube.com/watch?v=nRCUK9KBbDE&list=PL5DyztRVgtRW2zr4MoBVHd4yQakKyMWdQ)
-      - [Merge Two Sorted Lists Solution Explained](https://www.youtube.com/watch?v=KVf1Uuqfv8E&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=26)
-        - Videosweepmark: 4:03 REPLACE
+      - [Binary Tree Pruning Explained - Java](https://www.youtube.com/watch?v=77LJc56bwnE&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=33)
+        - Videosweepmark: 1:24
         - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -3103,20 +3175,22 @@
       - PENDING PERSONAL_AXIOM_FACTBASE
         - Familiarity with Verb form in **Italian, Spanish, Portuguese** --> Accelerated Greek Verb Form Comprehension
         - *Learning a generic Romanian language for 1~5 minutes per day with sloppy learning style while being proficient with expected verb form structure , the 'click' moment for verb form usually takes 4 months among other progresses*
-  - ?
-    - Source
-      - [Ὀδύσσεια](https://grevenart.gr/wp-content/uploads/2016/11/%CE%BF%CE%BC%CE%AE%CF%81%CE%BF%CF%85-%CE%BF%CE%B4%CF%8D%CF%83%CF%83%CE%B5%CE%B9%CE%B1.pdf)
-        - PROCESSING_POINTER_FIELD
-          - Randomtelewalk: 5
+  - TOPIC History, ancient philosophy
+    - [Ὀδύσσεια](https://grevenart.gr/wp-content/uploads/2016/11/%CE%BF%CE%BC%CE%AE%CF%81%CE%BF%CF%85-%CE%BF%CE%B4%CF%8D%CF%83%CF%83%CE%B5%CE%B9%CE%B1.pdf)
+      - PROCESSING_POINTER_FIELD
+        - Randomtelewalk: 5
+  - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 10_Unit 2 Future and Aorist Active Indicative](https://www.youtube.com/watch?v=yVoGRtxC6mU&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=10)
-        - Videosweepmark: 11:36 NEXT
-        - ListStamp: 10
+      - [Learn Ancient Greek: 11_Unit 2 Agreement Infinitives Questions](https://www.youtube.com/watch?v=vvXNsEhjYy4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=11)
+        - Videosweepmark: 10:28 NEXT
+        - ListStamp: 11
+        - Language Pair: Russian
     - STATIC | PROCESSING\_CAPACITY
       - _methods
         - `language.meta.pronounciation.callibrate()`
       - **ερωτηματικός**
-        - τίς
+      - **σύνδεση**
+        - THROTTLE FREQUENT επειδή | 2%
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
         - ContinuousStimulationUnit [All About Greek Pronouns: Ultimate Greek Pronouns](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 88.2%
@@ -3126,12 +3200,14 @@
           - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
           - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
-            - Videosweepmark: 6:00
+            - Videosweepmark: 11:00
             - Listmark: 4
-        - αντιμετωπίζω | 100% TTL
-        - σχεδιάζω | 35%
+        - σχεδιάζω | 40%
       - **επίθετο**
       - **ουσιαστικό**
+        - ουσιαστικό | 20%
+          - [Noun - LingQ](https://www.lingq.com/en/grammar-resource/greek/nouns/#:~:text=The%20Greek%20nouns%20are%20divided,capitalized%20and%20have%20a%20plural.&text=Nouns%20have%20different%20suffixes%20depending%20on%20the%20gender%2C%20case%20and%20number.)
+        - πραγματικότητα | 10%
       - **επίρρημα**
       - Pronoun
         - αυτή

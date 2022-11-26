@@ -207,8 +207,8 @@
                     - Saturation: 0.7%
                   - FlashcardificationSet
                     - FlashcardificationPruneRegistries
-                      - 36-41
-                    - STALE FlashcardificationSaturation: 30.3%: \[80%-100%\]
+                      - 36-43
+                    - STALE FlashcardificationSaturation: 46.6%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -410,9 +410,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 22%
+                  - CCS: 22.2%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 6:00
+                  - TEMP_TIMESTAMP: 6:08
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -452,7 +452,7 @@
                           - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
                             - McMaster Business Data and Statistics
                                 - Videosweepmark : 10:02
-                          - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY)
+                          - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY) TTL 
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
                       - STATIC
@@ -575,6 +575,9 @@
                                         - SUPPLEMENT
                                           - Language pair: German
                                           - [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
+                                            - Videosweepmark: 5:00
+                                            - Bookpair
+                                              - [The Computer Scientists as Toolsmith](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
                                           - [7 insanely useful academic apps you've not heard about!](https://www.youtube.com/watch?v=F_M19e8MI10)
                                           - [Oddly effective ways to increase writing motivation | For Thesis, Research Papers and more](https://www.youtube.com/watch?v=BhtD7657OIU)
                                           - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
@@ -829,7 +832,9 @@
       - Fundamental analysis
         - CFA, CPA carryover-able basics
         - [Mastering Fundamental Analysis in Forex: The Ultimate Guide! | Free Forex Course](https://www.youtube.com/watch?v=iiRncjZWjXk)
+          - Videosweepmark: 3:30
         - [How Professional FX traders do Fundamental Analysis!](https://www.youtube.com/watch?v=cktWJ7PxXqQ)
+          - Videosweepmark: 3:31
       - Sentiment analysis
         - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
           - Videosweepmark: 24:45 SATURATE_CHILDREN
@@ -837,7 +842,7 @@
           - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
           - COT
             - [Full COT report strategy](https://www.youtube.com/watch?v=grlKq3CE_vo)
-              - Videosweepmark: 8:30
+              - Videosweepmark: 12:00
               - CFTC
             - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
               - Videosweepmark: 3:30
@@ -884,6 +889,9 @@
         - SSL Channel
       - Method
         - Quant
+          - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
+            - Videosweepmark: 3:30
+            - Language pair: French: French | Spanish
         - Back testing
       - Broker
         - Verification
@@ -898,7 +906,7 @@
         - Videosweepmark: 45:30
         - Multiple timeframe coordination 
       - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
-        - Videosweepmark : 3:30
+        - Videosweepmark : 7:00
     - Meta: The Era of Digital Natives & **Financial-Market Natives**
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
@@ -1038,10 +1046,8 @@
                       - ON_ENCOUNTER
                         - _source
                           - [Basic Academic Writing](https://www.youtube.com/watch?v=2F_KH_cs6RY)
-                          - [How To Read A Paper Quickly & Effectively | Easy Research Reading Technique](https://www.youtube.com/watch?v=Gv5ku0eoY6k&t=211s)
-                            - Videosweepmark: 9:49 TTL
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
-                            - Videosweepmark: 12:20
+                            - Videosweepmark: 15:00
                             - CRITICAL QUESTION: Some finance, legal, political materials may be more beneficial to use total vocalization to illicit particular partisanship and subtle intents, aren't they?
                           - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
                           - [4 Steps to Read Difficult Texts Faster (Academic Speed Reading Comprehension)](https://www.youtube.com/watch?v=f1k4eXELEIE&t=16s)
@@ -1446,7 +1452,19 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 5:00 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 8:30 --> `this.concurrentTraffic = ?`
+            - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
+              - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
+              - CONT. is saturated with value, it has a particular value set $V_v$.
+              - Q1 Solve for $m$
+              - Q2 Suppose there's a particular schema $S$ applied to message-passing nodes that separate them to BFS passing and DFS passing, solve for $m$
+              - Q3 Suppose every node edge has an activation function $f(x)$ with network delay $t_d$, analyze the boundry condition where $m$ becomes dependent on delay mechanism
+                - [Electromagnetic Boundary Conditions Explained](https://www.youtube.com/watch?v=_FS6csrxBPU)
+                - [Transfer Matrix Method Explained](https://www.youtube.com/watch?v=XuSxmb9-viY)
+                - [Gauss' Law with Negative Charge](https://www.youtube.com/watch?v=3i_m9Z9m6iI)
+                - [Chief Ray and Field Stop Explained](https://www.youtube.com/watch?v=TU2RniM-MzU)
+                  - Videosweepmark: 3:30
+              - S Q1-Q2 Solved link on Overleaf/LaTeX hosted site: [Hypothetical link](#)
             - ?
               - IMPORTANT Loopy BP Algorithm
                 - 10-708: Probabilistic Graphical Models 10-708
@@ -1454,6 +1472,9 @@
                 - Belief propagation
                   - [Variational Inference: Loopy Belief Propagation](https://www.cs.cmu.edu/~epxing/Class/10708-14/scribe_notes/scribe_note_lecture13.pdf)
                   - [Levenberg-Marquardt Algorithm](https://www.youtube.com/watch?v=2ToL9zUR8ZI)
+                    - Videosweepmark: 4:53
+                    - PREREQUISITE [Steepest Descent Method (Unconstrained Optimization)](https://www.youtube.com/watch?v=sgV2xDUuzhQ)
+                      - PREREQUISITE [Basic Optimization Terminologies](https://www.youtube.com/watch?v=LIL3ILrcddA)
                   - [Joseph M. Renes: Belief propagation decoding of quantum channels by passing quantum messages](https://www.youtube.com/watch?v=TVkn524ALco)
                   - [Elchanan Mossel (MIT): Simplicity and Complexity of Belief Propagation](https://www.youtube.com/watch?v=mJGwqhbwqjA)
                - Frobenius norm
@@ -1972,9 +1993,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 34.7%
+            - CCS: 35.2%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 0:30
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -1998,14 +2019,13 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 45:00
-              - [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
+                  - Videomark: 50
+              - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 35:50
+                  - RIGGED: SATURATE_CHILDREN
                - ?
                   - RETAIN Readlist outreach : 33:53
                   - Delta, Consensus design, Possibility-Impossibility, Partial Synchrony with network partition, Nakamoto-consensus, BFT-consensus
-                  - Clock, global clock
-                  - LMD GHOST.fork choice rule 
                 - RESONANCE
                   - _meta
                     - Transformation
@@ -2068,34 +2088,36 @@
         - Saturation: 0.14%
       - SUPPLEMENT
         - [Carlo Galli | Il principe di Niccolò Machiavelli | festivalfilosofia 2010](https://www.youtube.com/watch?v=BrrdkDlP6ss)
-          - Videosweepmark: 20:00
+          - Videosweepmark: 25:18
     - PROCESSING_POINTER_STORE
       - MOMENT quote LIMIT 10: 5
         - *MOMENT means the word is too easy and it reaches 100% almost instantly on encounter, use limitation quota instead*
         - _method
           - `coldTurkey(this)`
       - STATIC
-        - MAGNET `adverb`
+        - `adverb` TTL
         - `verb`
-          - lasciare | 60%
+          - lasciare | 90%
           - consentire | 80%
-          - cerchiare | 80%
-          - spezzare | 60%
+          - cerchiare | 90%
+          - spezzare | 80%
           - battere | 30%
       - MESO
-        - MAGNET `verb`
-        - MAGNET `noun_modifier`
+        - `verb`
+        - `noun_modifier` TTL
       - VOLATILE
-        - MAGNET `adverb`
+        - `adverb` TTL
+          - *Italian adverbs are easy, any words will reach 100% on contact, remove it*
         - `verb`
           - congiungere | 60%
           - ingiuriare | 30%
-        - MAGNET `noun_modifier`
-          - pericoloso | 20%
+        - `noun_modifier` TTL
+          - *Italian adjectives are easy, any words will reach 100% on contact, remove it*
+          - pericoloso | 100% TTL
         - MAGNET `noun`
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 45:00
+      - Videosweepmark: 52:30
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
@@ -2104,8 +2126,9 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 6:42
+          - Videosweepmark: 12:00
         - continuousStimulationUnit
+          - Full Sales Lifecycle Information Flow
           - Practical Benefit, Unusual benefit
           - Segment bounding
       - PsyOps Recap
@@ -2149,8 +2172,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 17.5%
-          - TEMP_TIMESTAMP: 4:40
+          - CCS: 19%
+          - TEMP_TIMESTAMP: 0:20
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2265,9 +2288,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 75.7%
-      - E.T.A: 2.19 months
-      - TEMP_TIMESTAMP: 1:00
+      - CCS: 77.4%
+      - E.T.A: 22.6d
+      - TEMP_TIMESTAMP: 3:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2362,7 +2385,7 @@
            energy: LOCKED *Advanced internal intuition* required
           - overhead_percentage: LOCKED *Advanced Human Operating System Working Principle* required
   - ?
-    - Change Log
+    - Change Log - `Investment="5-10 minutes per day"`
       - 2022/9/14
         - Confluence of input of Pronounciation, Syntax, Meaning, Context, Grammar unlocked
           - expect dramatically accelerated progress in Arabic in the next few months
@@ -2370,6 +2393,11 @@
         - Initiate physical sound generation sync with verb forms with the help of Reverso
       - 2022/10/14
         - *Something has changed fundamentally, as this entity becomes more of an independent arabic learner, the world of Arabic is gradually opening*
+      - 2022/11/26
+        - Breakthrough in basic grammatical and linguistic entries\(terms\) in arabic
+        - Breakthrough in verb form understanding, **vocabulary processing speed increased**
+          - *Jussive form and Subjunctive form is just distance of Sukun and Fatah at suffix*
+          - *Passive form, similar to the aforementioned, are just swiping suffix and prefix from fatah to damma*
     - STATIC
       - General Noun Usage Proficiency
       - Verb Tense
@@ -2398,7 +2426,7 @@
     - VOLATILE STATE=ELIMINATE
       - `verb`
         - 30% | قلب
-        - 20% | نصعد
+        - 100% TTL | صعد 
         - 50% | تقديم
         - 45% | وفر
         - 30% | أَفْهَمُ
@@ -2425,7 +2453,7 @@
         - خاصة
         - 60% | متأخر
           - [What is إعْرَاب i'raab / e'raab ? Learn Arabic language grammar FREE [#01-P2]](https://www.youtube.com/watch?v=u5fjpJAZ3TY)
-            - Videosweepmark: 14:31
+            - Videosweepmark: 15:31
         - 35% | موجزًا
       - `noun`
         - 60% | مالك
@@ -2433,13 +2461,13 @@
         - 30% THROTTLE FREQUENT | ساعة
         - 23% | التي
   - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-    - [Arabic Grammar For All - Lesson 4 - The Verbal Sentence - Abu Sulaymaan](https://www.youtube.com/watch?v=JF49rwmHmI0&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=4)
-      - Videosweepmark: 25:39 NEXT39 NEXT
-      - VideoListStamp: 4
+    - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
+      - Videosweepmark: 1:40
+      - VideoListStamp: 5
   - TOPIC Quality Double-Subtitle Resource
     - Illustra Media
       - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-        - Videosweepmark: 9:00
+        - Videosweepmark: 10:03
   - TOPIC Key to the world of Arabic
   - TOPIC: Jurisprudence and Shariah Law
     - Jurisprudence Lectures
@@ -2695,13 +2723,30 @@
           - [Modernizing high value payment systems](https://www.youtube.com/watch?v=F3xFrYVPABo)
     - Generic
       - Software system design
+        - TRANSIT *From a Blockchain resource in German sector*
+          - Next-gen Distributed Computing
+            - [Distributed Systems 1.1: Introduction](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+              - Videosweepmark: 3:30
+              - ListMark: 1
+              - Language pair: German && Spanish: German | Spanish --> TANDEM <-- *System design in Spanish*
+              - Bookpairs
+                - [Distributed Systems van Steen & Tanenbaum](https://komputasi.files.wordpress.com/2020/02/distributed_systems_3-191208.pdf)
+                  - PROCESSING_POINTER_FIELD
+                    - Randomtelewalk: 15
+                      - Saturation: 0.26%
+                  - SUPPLEMENT
+                    - [Distrubuted Systems - Author's site](https://www.distributed-systems.net/)
+                - [Introduction to Reliable and Secure Distribution Programming Cachin et.al.](https://drive.google.com/file/d/1ZIRSJrFy8R9vSyeotpl_iE5vkIaRY2ZC/view?usp=sharing)
+                - [Operating Systems: Concurrent and Distributed Software Design - Bacon & Harris](https://doc.lagout.org/science/0_Computer%20Science/5_Parallel%20and%20Distributed/Operating%20Systems%20-%20Concurrent%20and%20Distributed%20Software%20Design.pdf)
+                - RESERVE [Distributed Computing Lecture Notes](https://github.com/SebastianElvis/distributed-computing-lecture-notes)
+        - LMD GHOST.fork choice rule 
         - [Designing Data-Intentive Applications](https://drive.google.com/file/d/1wko6_I5P8tTOLo-yujj9wdeA3UjlooKQ/view?usp=sharing)
           - PROCESSING_POINTER_FIELD
             - Randomtelewalk: 28
             - Saturation: 1.57%
           - SUPPLEMENT
             - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
-              - Videosweepmark: 10:30
+              - Videosweepmark: 13:20
               - ContinuousInnovativeThinkingDevelopmentUnit
                 - *What innovative system design ideas can you come up with on top of existing design?*
               - PREREQUISITE_PROCESSING
@@ -2791,7 +2836,7 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 22.7%
+        - CCS: 25.2%
         - TEMP_TIMESTAMP: 1:00
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
@@ -2830,10 +2875,10 @@
                 - TEMP_TIMESTAMP: 0:10
             - Randomtelewalk
           - PROCESSING_POINTER_STORE
-      - **OVERRIDE BLACKHOLE PRIORITIZED** Web Dev --> `this.concurrentTraffic = 1`
-        - **EMERGENT** ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
+      - Web Dev --> `this.concurrentTraffic = 1`
+        - ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
           - Videosweepmark: 5:00
-          - **TANDEM THROTTLE** Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
+          - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
             - TEMP_TIMESTAMP: 5:02
         - SUPPLEMENT
           - YT API
@@ -2842,6 +2887,8 @@
           - ContinuousStimulationUnit Matrix Calculus/theory-coding connection/intuition-instruction connection
             - [Matrix Calculus (Slightly Advanced)](https://www.youtube.com/watch?v=IgAr5kzza78)
         - [Modern Deep Learning in Python - U](https://www.udemy.com/course/data-science-deep-learning-in-theano-tensorflow/learn/lecture/24472128)
+          - CCS
+          - TEMP_TIMESTAMP: 5:00
         - [Deep Learning A-Z™: Hands-On Artificial Neural Networks - U](https://www.udemy.com/course/deeplearning/learn/lecture/6743222)
         - [Recommender Systems and Deep Learning in Python](https://www.udemy.com/course/recommender-systems/learn/lecture/11686566)
         - CS234
@@ -2862,7 +2909,7 @@
     - Enterprise IT Infrastructure
       - AWS Security Cookbook: Practical solutions for managing security policies, monitoring, auditing, and compliance with AWS
       - Exam AZ-305 - Designing Azure Infrastructure Solutions 2022
-        - CCS: 8.8%
+        - CCS: 9.6%
         - TEMP_TIMESTAMP: 1:00
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
         - CCS: 1.1%
@@ -2975,6 +3022,8 @@
           - Language pair SHUFFLE: Japanese - German
           - Videosweepmark: 4:00
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
+          - Videosweepmark: 5:36
+          - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
           - Videosweepmark: 1:16
@@ -2982,6 +3031,7 @@
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
+          - Videosweepmark: 1:30
           - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
@@ -2990,8 +3040,8 @@
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
             - Videosweepmark: 4:00
         - THROTTLE FREQUENT 使う | 34%
-        - 直す  | 59%
-        - 受け取る
+        - 直す  | 61%
+        - 受け取る | 20%
         - 来る
         - 照る | 35%
         - THROTTLE FREQUENT なる | 70%
@@ -3056,7 +3106,7 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - MAGNET **глагол**
         - содержать
-        - унаследовать
+        - унаследовать | 70%
         - описывать
       - **Предлог**
         - через
@@ -3066,22 +3116,20 @@
         - такой
         - Таким образом
       - MAGNET **прилагательное**
-        - непопулярный
-        - составной
-        - малоизвестный
-        - сумасшедший
-        - средний
+        - составной | 80%
+        - малоизвестный | 100% TTL 
+        - сумасшедший | 90%
+        - средний | 80%
       - MAGNET **наречие**
       - **существительное**
         - тюрьма | 50%
-        - содружество | 100% TTL
         - духовенство | 60%
         - благо | 60%
-        - поддерево
+        - поддерево | 100% TTL
         - аллегория | 60%
         - терминология | 40%
-        - справедливость | 60%
-        - спокойствие | 50%
+        - справедливость | 90%
+        - спокойствие | 70%
       - MAGNET **Местоимение**
         - весь
       - ?
@@ -3089,7 +3137,7 @@
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [2. "The Tree of Commonwealth": The Social Order in the Sixteenth Century](https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2)
-        - Videosweepmark: 30:00
+        - Videosweepmark: 33:30
         - Listmark: 2
         - INTEREST Evolution of Information Circulation in Sixteenth Century
           - SUPPLEMENT
@@ -3156,8 +3204,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Style: SLOW POINTER
-        - Videosweepmark: 48:31
+        - Videosweepmark: 1:00:00
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3178,7 +3225,8 @@
   - TOPIC History, ancient philosophy
     - [Ὀδύσσεια](https://grevenart.gr/wp-content/uploads/2016/11/%CE%BF%CE%BC%CE%AE%CF%81%CE%BF%CF%85-%CE%BF%CE%B4%CF%8D%CF%83%CF%83%CE%B5%CE%B9%CE%B1.pdf)
       - PROCESSING_POINTER_FIELD
-        - Randomtelewalk: 5
+        - Randomtelewalk: 7
+          - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 11_Unit 2 Agreement Infinitives Questions](https://www.youtube.com/watch?v=vvXNsEhjYy4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=11)
@@ -3189,6 +3237,8 @@
       - _methods
         - `language.meta.pronounciation.callibrate()`
       - **ερωτηματικός**
+      - **αντωνυμία**
+        - ἐγώ
       - **σύνδεση**
         - THROTTLE FREQUENT επειδή | 2%
       - **χωρίς κατηγοριοποίηση**
@@ -3199,9 +3249,10 @@
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
-          - [The Basic Ancient Greek Verb](https://www.youtube.com/watch?v=tXTZ9uUyTGM&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=4)
-            - Videosweepmark: 11:00
-            - Listmark: 4
+          - [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
+            - Videosweepmark: 5:05
+            - Listmark: 5
+          - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
         - σχεδιάζω | 40%
       - **επίθετο**
       - **ουσιαστικό**

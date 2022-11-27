@@ -410,9 +410,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 22.2%
+                  - CCS: 22.5%
                   - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 6:08
+                  - TEMP_TIMESTAMP: 5:01
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -428,7 +428,7 @@
                     - Interest Rate Premiums, Annuity, Present Value Annuity Factor, Perpetuity
                       - [Introduction To Annuities (2019)](https://www.youtube.com/watch?v=ed-sdtGpiYU)
                         - Videosweepmark: 10:01
-                       - 
+                 IRR, NPV, DPI      - IRR, NPV, DPI
                     - Acronym fluency: PV, N, I/Y, PMT
                   - SUPPLEMENTS
                     - SKILL
@@ -916,7 +916,7 @@
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Using Theories of Decision-Making Under Uncertainty to Improve Data Visualization](https://www.youtube.com/watch?v=IhGydZwUKc8)
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk&t=421s)
-      - Videosweepmark: 30:10
+      - Videosweepmark: 34:00
       - ATTACHABLE Political Science Bundle
         - Ignorance Problem
           - *When non-financial problem*
@@ -928,8 +928,8 @@
               - PROCESSING POINTER FIELD
                 - Qualmstack
                   - 471: *Shots fired*
-                - Randomtelewalk: 472
-                  - VisitStack: 26
+                - Randomtelewalk: **26**
+                  - VisitStack: **26**, 472
                   - _state
                     - `traffic`: 0.5
                       - `nodeHash`: *nodeHash is crutial for RESONANCE to happen amongst different node types i.e. method node, entity node, meta node etc.*
@@ -980,13 +980,20 @@
                           - [Negative externalities | Consumer and producer surplus | Microeconomics | Khan Academy](https://www.youtube.com/watch?v=nBw6KvU51BE)
                           - [Externalities](https://www.youtube.com/watch?v=tVX_BSV-h-E)
                             - Videosweepmark: 3:40
-                    - M&C
-                      - Saturation: 9%
-                      - TimeCostEstimation
-                      - EnergyCostEstimation
+                    - Enhanced M&C
+                      - Saturation: 49%
+                      - Composite Report
+                        - Retain Pathway: *The total team output and hence the principal's welfare depend on the agent's effort, but additionally also on some exogenous risk (state of nature).*
+                        - REPORTABLE *Uninterruptable is best executed with classical music i.e. Debussy's greatest hits*
+                        - REPORTABLE *Subject demonstrates self-sustaining breakthrough in syntax familiarity, mental model construction, and curiosity-gross-strategy alignment*
+                        - REPORTABLE *Subject's observed intellectual fitness state aligns well with efficient construction a sustainable structural grasp therein*
+                        - REPORTABLE *High energy consumption, should initiate cold turkey on this topic till next RIGHT MOMENT to place a \'trade\'\/\'considerable intellectual investment\'*
+                        - ACTIONABLE *Dummy actionable*
+                        - LIMITABLE *Dummy limitable*
                 - Action Items
               - CURIOUSITY OUTREACH FIELD
                 - Un-pipelined
+                  - Decision-theoretic value of perfect information
                   - Jensen-Meckling Agency Model
                   - *The Nature of the Firm* Coase(1937)
                   - Shadow bank, Externality
@@ -1123,6 +1130,7 @@
                           - PROSSESSING_POINTER_STORE
                             - PREREQUISITE_SUPPLEMENT LIMIT 5
                               - [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
+                                - Videosweepmark: 3:30
                               - [Dynamics 02_14 Polar Coordinate Problem with solutions in Kinematics of Particles](http://library.mibckerala.org/lms_frame/eBook/Moran%20-%20Introduction%20to%20Phenomenology%20(Routledge).pdf)
                                 - Videosweepmark: 1:30                              
                               - [Plane Polar Coordinates | Velocity & Acceleration in Polar Coordinates | Practice Problem](https://www.youtube.com/watch?v=HUyXx0_VK6w)
@@ -1228,7 +1236,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 56:44
+      - Videosweepmark: 1:00:00
       - LIST_NUM: 2
       - CURIOSITY_OUTREACH
         - CoVaR
@@ -1452,7 +1460,7 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 8:30 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 12:00 --> `this.concurrentTraffic = ?`
             - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
               - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
               - CONT. is saturated with value, it has a particular value set $V_v$.
@@ -2019,7 +2027,7 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 50
+                  - Videomark: 50:25:25
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 35:50
                   - RIGGED: SATURATE_CHILDREN
@@ -2857,6 +2865,10 @@
           - Sentry
       - Monorepo
         - [Deployment of Machine Learning Models - U](https://www.udemy.com/course/deployment-of-machine-learning-models/learn/lecture/13321604#overview)
+          - CCS: 0.7%
+          - CONFIG
+            - Extra Challenge, while the course uses Anaconda+Jupyter, use deepnote instead and figure out the rest
+            - Use EKS+Docker instead of Heroku
         - [Let's chat! Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
         - [Nx Explainer: Dev Tools for Monorepos, In-Depth with Victor Savkin](https://youtu.be/h5FIGDn5YM0)
           - Videosweepmark: 4:00
@@ -3250,7 +3262,7 @@
           - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
           - [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
-            - Videosweepmark: 5:05
+            - Videosweepmark: 7:26 NEXT
             - Listmark: 5
           - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
         - σχεδιάζω | 40%

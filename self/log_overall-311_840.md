@@ -39,6 +39,7 @@
     - OSMOSIS_POINTER: 160
       - _state
         - Saturation: 1.5%
+- [Maps of Meaning: The Architecture of Belief](https://ia800701.us.archive.org/7/items/MapsOfMeaningTheArchitectureOfBeliefPetersonlnwAdam/Maps%20of%20Meaning%20The%20Architecture%20of%20Belief-Peterson%20%28lnw%20Adam%29.pdf)
 ## Build your weapon
 ### Learn to write
 - Purpose
@@ -190,7 +191,8 @@
           - CHANNEL `this` --> 高层可持续发展单元
             - _schema
             - PAYLOAD payload
-        - 未分类
+        - Uncategorized
+          - Whitepaper ^ Flashcardification
           - ASYNC MIRROR SOURCE [A Practical Course In English-Chinese Translation](http://www.wenqujingdian.com/Public/editor/attached/file/20180803/20180803084600_23296.pdf)
             - _alias: 实用英汉翻译教程
             - _method
@@ -203,12 +205,12 @@
                   - _meta
                     - Retain Pathway: `OK`
                     - ERROR *人类共同体尚未提供相应公开资源*, Make over buy 
-                  - CurrentPointer: 43
-                    - Saturation: 0.7%
+                  - CurrentPointer: 45
+                    - Saturation: 0.9%
                   - FlashcardificationSet
                     - FlashcardificationPruneRegistries
-                      - 36-43
-                    - STALE FlashcardificationSaturation: 46.6%: \[80%-100%\]
+                      - 36-45 | STATE: FROZEN until 60%
+                    - STALE FlashcardificationSaturation: 55%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -410,9 +412,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 22.5%
-                  - ETA: 8.8 months
-                  - TEMP_TIMESTAMP: 5:01
+                  - CCS: 24.1%
+                  - ETA: 8.5 months
+                  - TEMP_TIMESTAMP: 1:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -427,32 +429,49 @@
                   - ?
                     - Interest Rate Premiums, Annuity, Present Value Annuity Factor, Perpetuity
                       - [Introduction To Annuities (2019)](https://www.youtube.com/watch?v=ed-sdtGpiYU)
-                        - Videosweepmark: 10:01
-                 IRR, NPV, DPI      - IRR, NPV, DPI
-                    - Acronym fluency: PV, N, I/Y, PMT
+                        - Videosweepmark: 15:01
+                  - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
+                    - Acronym fluency: PV, N, I/Y, PMT, HPR
                   - SUPPLEMENTS
                     - SKILL
                       - ONCE
                       - CONTINUOUS
                         - **ContinuousSkillDevelopment** Consistent High-performing Business Writing
                           - [3 Things To Do Before Writing Your First White Paper | Brian Boys - White Paper In One](https://www.youtube.com/watch?v=XZOWwNwJ2iY)
-                            - SOURCING: The elements of style, fourth edition
-                            - SOURCING The 22 immutable laws of branding
-                            - METHOD Pinnacle reverse engineering
-                            - Videosweepmark: 6:25 COMPOSITE
+                            - COMPOSITE_HOOK
+                              - Saturation: 5%
+                              - ASYNC MIRROR [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
+                                - SUPPLEMENT
+                                  - [Jordan Peterson and the Writing Process](https://www.youtube.com/watch?v=X3otsJZWKbk)
+                                    - Videosweepmark: 10:00
+                                    - Language pair: Portuguese
+                              - SOURCING The 22 immutable laws of branding
+                              - METHOD Pinnacle reverse engineering
+                            - Videosweepmark: 6:25 COMPOSITE_HOOK
                             - Whitepapers in the wild
                               - Arsenal construction
+                              - Reverse Engineering Pipeline
+                                - SOURCING [8 Excellent White Paper Examples + Key Takeaways](https://www.socialpilot.co/blog/white-paper-example)
+                                - Cisco – Networking and your competitive edge white paper
+                                  - Reverse Engineering
+                                    - Retainmark: ...*future is digital, and the race is on. Businesses*...
+                                    - _meta_root
+                                      - ROOT Create a `centralizedOutputUnit` dedicated to dealing with intellectual output a.k.a academic/zeitgeist-related writing
+                                        - Including conceptual framework, self-upgrade facility
+                                        - _motivation
+                                          - *This could be crutial to better writing skills*
+                                    - Genesis
+                                    - Anatomy analysis
+                                      - Hero Image
+                                      - Content Navigation
                             - Language pair: French | Italian | Portuguese
-                          - [How To Write A White Paper In 4 Easy Steps by author of "How To Write A White Paper In One Day"](https://www.youtube.com/watch?v=HBmJbMaIqlU)
                         - **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research
                           - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
                           - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
-                          - [How to Get Financial Data l How to Collect Data for Research l How to Collect Secondary Data](https://www.youtube.com/watch?v=sD2c3Z3cF94)
                           - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
                           - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
-                            - McMaster Business Data and Statistics
+                            - McMaster Business Data and Statistics --> `TO business_arsenal`
                                 - Videosweepmark : 10:02
-                          - [How To Market Research For A Business](https://www.youtube.com/watch?v=NoWpowNSKvY) TTL 
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
                       - STATIC
@@ -474,7 +493,7 @@
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
                           - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 15:00
+                            - Videosweepmark: 20:00
                             - Conflict
                               - Conflict Ontology
                                 - \(Human\)Conflict Genesis?
@@ -828,51 +847,97 @@
   - **BLACKHOLE** | Business(Trading & Investment)
     - _blackhole_type: Casual
     - RUNNING MAGNET *All trading related content shall be moved to French sector*
-    - Analysis
+    - PERSISTENT RECURSIVE Analysis
       - Fundamental analysis
+        - _motivation
+          - *Learning French while accidentally mastering Fundamental analysis*
         - CFA, CPA carryover-able basics
         - [Mastering Fundamental Analysis in Forex: The Ultimate Guide! | Free Forex Course](https://www.youtube.com/watch?v=iiRncjZWjXk)
-          - Videosweepmark: 3:30
+          - Videosweepmark: 21:30
+          - Pillars of FA | LIMIT RECURSIVE 5
+            - Time sense
+              - Economic Calendar
+                - Retail Sales MoM
+                  - [Retail Sales Explained](https://www.youtube.com/watch?v=2QQIXCJEdDs)
+                  - [Macroeconomics - Retail Sales](https://www.youtube.com/watch?v=RSoh99Eypic)
+                  - [What is the S&P 500 -- Should you Invest in the S&P 500](https://www.youtube.com/watch?v=beumv2JYdNM&t=2s)
+                  - [How to Trade the News in Forex: 5 Events You NEED To Know!](https://www.youtube.com/watch?v=AsJqAFRBsbQ)
+                  - [Forex Fundamental Analysis: How to Trade with the CPI / Inflation Reports!](https://www.youtube.com/watch?v=EXHpd6_ipkE)
+            - Economic Data
+              - Interest rates
+              - Inflation
+                - [CPI, PPI & Inflation (Economics Crash Course)](https://www.youtube.com/watch?v=vMJvfrVw324)
+              - Unemployment rates
+                - Initial Jobless claims
+            - Central bank decisions
+              - Fed, ECB, RBA
+            - Geopolitical events
+            - Glossary
+              - Personal Consumption Expenditure Price Index 
         - [How Professional FX traders do Fundamental Analysis!](https://www.youtube.com/watch?v=cktWJ7PxXqQ)
-          - Videosweepmark: 3:31
+          - Videosweepmark: 10:30
       - Sentiment analysis
         - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
           - Videosweepmark: 24:45 SATURATE_CHILDREN
           - ? VIX, SnP
           - [Consumer Sentiment Index](http://www.sca.isr.umich.edu/)
           - COT
-            - [Full COT report strategy](https://www.youtube.com/watch?v=grlKq3CE_vo)
-              - Videosweepmark: 12:00
-              - CFTC
+            - RESIDUAL | CFTC, finviz
             - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
-              - Videosweepmark: 3:30
+              - Videosweepmark: 7:30
         - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
           - Videosweepmark: 9:00
-      - Industry Analysis
-        - CRITICAL QUESTION: *Suppose that you are to gain a comprehensive view/Insight on a specific/generic (branch of) industry in X days, what's your plan of game? How to conduct post-mordem?(复盘)*
+      - Technical Analysis
+        - Supply & Demand ^ Support & Resistance
+        - Volume Analaysis
+          - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
+            - Videosweepmark: 20:39
+            - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
+        - Amount Analysis
+          - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
+            - Videosweepmark: 45:30
+            - Multiple timeframe coordination 
+        - Timing Analysis
+          - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
+            - Videosweepmark: 8:00
+          - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
+            - Videosweepmark: 21:23
+          - [Master The Multiple TimeFrame Trade (I bet YOU missed this one detail that makes ALL the difference)](https://www.youtube.com/watch?v=kkxCowWmTnA)
+            - Videosweepmark: 3:30
+        - Pattern Analysis
+          - Instance
+            - S-curve
+            - Triangle
+            - Channel
+          - Method
+    - Ecosystem: Pre-fundamental Analysis
+      - Genesis Market Analysis: 1984, 2022, and beyond
+        - Resonance: House of cards VS Factories of Shinies
+        - Zeitgeist: Hiss VS Hedron
+      - Industry/Primary market Analysis
+        - Schema/Pre-built mental facility Construction
           - MAGNET RUNNING `inwardSourcing(ROOT, context)`
           - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
             - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
           - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
-      - Volume Analaysis
-        - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-          - Videosweepmark: 17:00
-          - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
-      - Technical Analysis
+      - Secondary Market Analysis
+        - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
+          - Videosweepmark : 7:00
     - Strategy
-      - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
-        - Videosweepmark: 3:30
-      - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
-        - Videosweepmark: 3:30
-      - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
-        - Videosweepmark: 3:30
-    - Timing
-      - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
-        - Videosweepmark: 3:30
-      - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
-        - Videosweepmark: 13:00
-      - [Master The Multiple TimeFrame Trade (I bet YOU missed this one detail that makes ALL the difference)](https://www.youtube.com/watch?v=kkxCowWmTnA)
-        - Videosweepmark: 3:30
+      - Small/Agile Fund: Happy times
+        - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
+          - Videosweepmark: 7:00
+        - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
+          - Videosweepmark: 3:30
+        - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
+          - Videosweepmark: 7:00
+      - Intermediate Fund: Transition period
+        - Get more than $5M to unlock
+      - Huge Fund: More is different
+        - Unlock after gaining $1B
+          - Hedging
+    - MAGNET Quant
+      - `pollFromGlobal(ROOT)`
     - Tooling
       - Instructor
         - MT4
@@ -880,6 +945,7 @@
             - Videosweepmark: 3:30
           - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
         - TradingView
+          - Backtesting
         - `sourcing(CONTEXT, REASON)`
       - Diagramming
         - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
@@ -887,7 +953,9 @@
         - Volume fighter
         - ADX & DI
         - SSL Channel
-      - Method
+        - StairMaster
+        - RSI
+      - RPA ^ Trading
         - Quant
           - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
             - Videosweepmark: 3:30
@@ -901,12 +969,6 @@
             - [International Forex Brokers Search](https://www.forexbrokers.com/international-currency-trading)
             - [Verify Trade](https://www.verifymytrade.com/)
       - Pool
-    - Generic
-      - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-        - Videosweepmark: 45:30
-        - Multiple timeframe coordination 
-      - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
-        - Videosweepmark : 7:00
     - Meta: The Era of Digital Natives & **Financial-Market Natives**
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
@@ -2001,9 +2063,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 35.2%
+            - CCS: 35.6%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP: 0:30
+            - TEMP_TIMESTAMP: 4:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2026,14 +2088,31 @@
               - [1. Introduction to 'The Society of Mind' - MIT](https://www.youtube.com/watch?v=-pb3z2w9gDg)
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
-                - [Lecture 1: Introduction to Power and Politics in Today’s World](https://www.youtube.com/watch?v=BDqvzFY72mg)
-                  - Videomark: 50:25:25
+                - [Lecture 2: !](https://www.youtube.com/watch?v=f5nbT4xQqwI)
+                  - Videomark
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
-                - Videosweepmark: 35:50
+                - Videosweepmark: 40:10
                   - RIGGED: SATURATE_CHILDREN
-               - ?
+                - ?
                   - RETAIN Readlist outreach : 33:53
-                  - Delta, Consensus design, Possibility-Impossibility, Partial Synchrony with network partition, Nakamoto-consensus, BFT-consensus
+                  - Delta, Consensus design, Possibility-Impossibility, Partial Synchrony with network partition, BFT-consensus
+                  - Nakamoto-consensus
+                    - [Cryptoeconomics - 3.2 - Bitcoin: Nakamoto Consensus](https://www.youtube.com/watch?v=CdyDoCk8IKs)
+                    - [LECTURE 19: NAKAMOTO CONSENSUS (PROOF OF WORK)](https://www.youtube.com/watch?v=kwA_BoGNMK0)
+                    - [Nakamoto’s Consensus: Foundations of Blockchain Security (Part I)](https://www.youtube.com/watch?v=6xMqVu3RBgM)
+                    - [Analysis of Nakamoto Consensus](https://www.youtube.com/watch?v=Nac8uXISc80)
+                  - Quorum certificate
+                  - IMPORTANT Graph Database Design --> Spanish
+                    - CMU 15-445/645
+                      - [01 - Relational Model & Relational Algebra (CMU Intro to Database Systems / Fall 2022)](https://www.youtube.com/watch?v=uikbtpVZS2s&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+                        - Videosweepmark: 15:01
+                        - Listmark: 1
+                        - PROCESSING_STORE
+                          - Logistics
+                            - [CMU 15-445/645](https://15445.courses.cs.cmu.edu/fall2022/)
+                            - [Gradescope](https://www.gradescope.com/)
+                            - [Seminar](https://db.cs.cmu.edu/seminar2022)
+                          - [P.O.I](https://www.cs.cmu.edu/~pavlo/)
                 - RESONANCE
                   - _meta
                     - Transformation
@@ -2103,7 +2182,6 @@
         - _method
           - `coldTurkey(this)`
       - STATIC
-        - `adverb` TTL
         - `verb`
           - lasciare | 90%
           - consentire | 80%
@@ -2112,20 +2190,14 @@
           - battere | 30%
       - MESO
         - `verb`
-        - `noun_modifier` TTL
       - VOLATILE
-        - `adverb` TTL
-          - *Italian adverbs are easy, any words will reach 100% on contact, remove it*
         - `verb`
           - congiungere | 60%
           - ingiuriare | 30%
-        - `noun_modifier` TTL
-          - *Italian adjectives are easy, any words will reach 100% on contact, remove it*
-          - pericoloso | 100% TTL
         - MAGNET `noun`
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 52:30
+      - Videosweepmark: 1:08:00
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
@@ -2134,7 +2206,7 @@
     - NPTEL IIT - Consumer Psychology
       - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 12:00
+          - Videosweepmark: 24:00
         - continuousStimulationUnit
           - Full Sales Lifecycle Information Flow
           - Practical Benefit, Unusual benefit
@@ -2181,13 +2253,13 @@
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
           - CCS: 19%
-          - TEMP_TIMESTAMP: 0:20
+          - TEMP_TIMESTAMP: 4:07
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 21.6% | `this.concurrentTraffic = 0.5`
+        - CCS: 22.8% | `this.concurrentTraffic = 0.5`
         - E.T.A: ?
-        - TEMP_TIMESTAMP: 13:30
+        - TEMP_TIMESTAMP
           - CONCURRENT: RTFM --> <span style="color: lime">BLOCKER Resolved</span>
             - [Tenable - Doc](https://docs.tenable.com/nessus/Content/AmazonWebServices.htm)
               - Saturation
@@ -2213,9 +2285,9 @@
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
           - Network Programming Hands-on
-            - [Basics of Networking - 2 - Introduction to Ports](https://www.youtube.com/watch?v=qsZ8Qcm6_8k&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=3)
-              - Videosweepmark: 1:15
-              - Listmark: 3
+            - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
+              - Videosweepmark: 2:00
+              - Listmark: 4
               - `netstat`
             - [Hacking networks with Python // Creating malicious packets and breaking TCP/IP rules](https://www.youtube.com/watch?v=CIWD9fYmDig)
           - Advanced Network Brains-on
@@ -2246,9 +2318,9 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 12.9%
+      - CCS: 14.9%
       - ETC: 5.8 months
-      - TEMP TIMESTAMP: 4:31
+      - TEMP TIMESTAMP: 1:00
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -2258,6 +2330,8 @@
               - Rename Layer: Ctrl+R
             - MESO
             - VOLATILE
+      - Plugins
+        - Content Reels,
       - Techniques
         - Flex Wrap
           - [Biscuit’s Figma Design Challenge S02](https://forum.figma.com/t/biscuits-figma-design-challenge-s02/227/3)
@@ -2296,9 +2370,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 77.4%
+      - CCS: 79.4%
       - E.T.A: 22.6d
-      - TEMP_TIMESTAMP: 3:00
+      - TEMP_TIMESTAMP: 1:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2323,10 +2397,39 @@
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
   - TOPIC: Copywriting
-- _helper-function --> `_root_processing-language-meta`
-  - *Word is cheap, show me the data*
-    - Consumption report
+- Language Development M&C --> `_root_processing-language-meta`
+  - Executing Strategy
+  - Adjustment Plan
+  - Assessment Transcript
+    - `WARNING: French and German sectors are approaching threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
+    - `ERROR: Chinese and English sectors are beyond the threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
+    - `ERROR: Advanced assessment method required to conduct effective assessment to multiple language sectors`
+  - Consumption report
+    - Taper --> Canon on days when bulk of the energy should be directed to fast-value generating activities
+      - Description
+        - *Less mathematics | complex system | strenuous effort, more coding | bite-sized | intermediate or lower effort*
+      - SUBJECTIVE RECURSIVE Time consumption
+        - English: 15 minutes
+        - French: 21 minutes
+        - Portuguese: 6 minutes
+      - HEURISTICS Energy consumption
+        - HEURISTICS Equivalent effort descriptor based on Powerlifting
+        - English: *2 SETS Dumbell Bicep Curl 5/8RM* --> Mild
+        - French: *10 minute walk* --> Mild
+        - German: *10 minute walk* --> Mild
+        - Italian: *Pull-up \* 10* --> Mild
+        - Portuguese: *1 minute walk* --> Negligible
+    - Rigorous --> Canon on days when bulk of the energy should be directed to slow-moving significant-value generating activities
+      - DEPRECATED Time consumption
+        - Description: *12 languages daily*
+        - TOTAL: 2h 20 min
       - Energy consumption
+        - Description
+          - *Mathematics | complex system | strenuous effort*
+        - HEURISTICS Equivalent effort descriptor based on Powerlifting
+        - English: *2 SETS Dumbell Bicep Curl 5/8RM* --> Mild
+        - French: *5 SETS Deadlift 2/1-3RM && 5 SETS Barbell squat 3-5/3-5RM* --> **Insane**
+        - German: *5 SETS Deadlift 3/5RM && 5km running && 100m sprinting \* 1* --> **Hardcore**
         - Makeshift detector
           - *...\[inaudible\]... off the charts*
             - Root Cause: Insanely hard materials
@@ -2334,9 +2437,6 @@
           - [The Black Box Method: How to Learn Hard Concepts Quickly](https://www.youtube.com/watch?v=RDzsrmMl48I)
             - Videosweepmark: 3:20
         - Opportunity cost analysis
-      - Time consumption
-        - Description: *12 languages daily*
-        - TOTAL: 2h 20 min
   - Efficient International Input for other languages
     - [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
     - ISSUE: There are so many apps with so many keyboard combination that overwrites the system default input method
@@ -2406,85 +2506,86 @@
         - Breakthrough in verb form understanding, **vocabulary processing speed increased**
           - *Jussive form and Subjunctive form is just distance of Sukun and Fatah at suffix*
           - *Passive form, similar to the aforementioned, are just swiping suffix and prefix from fatah to damma*
-    - STATIC
-      - General Noun Usage Proficiency
-      - Verb Tense
-        - _col
-          - personal pronoun
-      - Roman Spell <--> Diacritic <--> Arabic Script
-      - /General Verb forms | 3%
-      - /General Noun forms | 3%
-      - Difference of grammatical terms
-      - ?
-        - على
-        - بعض
-        - الآن
-      - `pronoun`
-        - نَحْنُ
-        - `pronoun.reflexive`
-          - نفسها
-      - `number`
-        - 60% | ستون
+    - MACRO
+      - TOPIC Quality Double-Subtitle Resource
+        - Illustra Media
+          - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
+            - Videosweepmark: 10:03
+      - TOPIC Key to the world of Arabic
+      - TOPIC: Jurisprudence and Shariah Law
+        - Jurisprudence Lectures
+          - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL66DFF275B46BEF40)
+            - Videosweepmark: 4:30
+            - Bookpair
+              - Jurisprudence and legal theory
+        - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
+          - Videosweepmark: 1:00
     - MESO
       - Frequently used vocabulary
         - _source
         - LOCKED Achieve Lower B1 to unlock
       - Metadigging for entry-level fluency for unlocking more valid input channels
         - LOCKED Achieve Upper B1 to unlock
-    - VOLATILE STATE=ELIMINATE
-      - `verb`
-        - 30% | قلب
-        - 100% TTL | صعد 
-        - 50% | تقديم
-        - 45% | وفر
-        - 30% | أَفْهَمُ
-        - 38% | تَسْبِقُ
-        - 10% تعرف
-        - 20% | فهم
-        - TO_STATIC
-          - هو
-          - لدي
-          - 25% | كان
-        - تنزيل
-      - `preposition` TO_STATIC
-        - 5% | مع
-      - `adverb`
-        - 20% | أدناه
-        - رُبَّمَا
-      - `?.connector`
-        - 5% | دُونَ
-        - كما
-      - `pronoun`
-        - شيء
-      - `noun.modifier`
-        - 9% | طويل
-        - خاصة
-        - 60% | متأخر
-          - [What is إعْرَاب i'raab / e'raab ? Learn Arabic language grammar FREE [#01-P2]](https://www.youtube.com/watch?v=u5fjpJAZ3TY)
-            - Videosweepmark: 15:31
-        - 35% | موجزًا
-      - `noun`
-        - 60% | مالك
-        - 55% | مبدأ
-        - 30% THROTTLE FREQUENT | ساعة
-        - 23% | التي
-  - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-    - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
-      - Videosweepmark: 1:40
-      - VideoListStamp: 5
-  - TOPIC Quality Double-Subtitle Resource
-    - Illustra Media
-      - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-        - Videosweepmark: 10:03
-  - TOPIC Key to the world of Arabic
-  - TOPIC: Jurisprudence and Shariah Law
-    - Jurisprudence Lectures
-      - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL66DFF275B46BEF40)
-        - Videosweepmark: 4:30
-        - Bookpair
-          - Jurisprudence and legal theory
-    - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
-      - Videosweepmark: 1:00
+      - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
+        - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic grammar (Part-1)](https://www.youtube.com/watch?v=QuqeIA-z0sY&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4)
+          - Videosweepmark: 13:35 NEXT
+          - VideoListStamp: 1
+        - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
+          - Videosweepmark: 22:00
+          - VideoListStamp: 5
+    - MICRO
+      - STATIC
+        - General Noun Usage Proficiency
+        - Verb Tense
+          - _col
+            - personal pronoun
+        - Roman Spell <--> Diacritic <--> Arabic Script
+        - /General Verb forms | 3%
+        - /General Noun forms | 3%
+        - Difference of grammatical terms
+        - ?
+          - على
+          - بعض
+          - الآن
+        - `pronoun`
+          - نَحْنُ
+          - `pronoun.reflexive`
+            - نفسها
+        - `number`
+          - 60% | ستون
+      - VOLATILE STATE=ELIMINATE
+        - `verb`
+          - 30% | قلب
+          - 70% | قَدَّمَ
+          - 75% | وفر
+          - 30% | أَفْهَمُ
+          - 38% | تَسْبِقُ
+          - 10% تعرف
+          - 20% | فهم
+          - TO_STATIC
+            - هو
+            - لدي
+            - 25% | كان
+          - تنزيل
+        - `preposition` TO_STATIC
+          - 5% | مع
+        - `adverb`
+          - 20% | أدناه
+          - رُبَّمَا
+        - `?.connector`
+          - 5% | دُونَ
+          - كما
+        - `pronoun`
+          - شيء
+        - `noun.modifier`
+          - 9% | طويل
+          - خاصة
+          - 60% | متأخر
+          - 35% | موجزًا
+        - `noun`
+          - 55% | مبدأ
+          - 30% THROTTLE FREQUENT | ساعة
+          - 23% | التي
   - Tool
     - Rapid, Point-in-time, portable Entry
       - Reverso
@@ -2734,7 +2835,7 @@
         - TRANSIT *From a Blockchain resource in German sector*
           - Next-gen Distributed Computing
             - [Distributed Systems 1.1: Introduction](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-              - Videosweepmark: 3:30
+              - Videosweepmark: 7:00
               - ListMark: 1
               - Language pair: German && Spanish: German | Spanish --> TANDEM <-- *System design in Spanish*
               - Bookpairs
@@ -2754,7 +2855,7 @@
             - Saturation: 1.57%
           - SUPPLEMENT
             - [Amazon System Design Interview: Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
-              - Videosweepmark: 13:20
+              - Videosweepmark: 17:15
               - ContinuousInnovativeThinkingDevelopmentUnit
                 - *What innovative system design ideas can you come up with on top of existing design?*
               - PREREQUISITE_PROCESSING
@@ -2843,9 +2944,16 @@
               - RandomThoughts
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
+      - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
+        - _motivation
+          - *Making INSANE progress on Spanish when accidentally mastering PWA*
+        - CCS: 18.3%
+        - TEMP_TIMESTAMP
+        - Reimagine the possible M&C
+          - Value: 0/180
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
-        - CCS: 25.2%
-        - TEMP_TIMESTAMP: 1:00
+        - CCS: 26.3%
+        - TEMP_TIMESTAMP: 1:14
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
       - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
@@ -3017,7 +3125,7 @@
       - /Verb Form | 80%
         - 連用形
           - [Classical Japanese 03 (Learn Old Japanese through English) (未然形 連用形　終止形 連体形 已然形 命令形)](https://www.youtube.com/watch?v=FF5vXLxM1Ss)
-            - Videosweepmark: 1:30
+            - Videosweepmark: 5:11
         - 仮定形
         - 終止形
         - 未然形
@@ -3026,21 +3134,24 @@
     - MESO
       - Grammar Japanese-* Bundle
         - [【Ｎ３文法】～うちに](https://www.youtube.com/watch?v=zRDINPcshiM&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=3)
-          - Videosweepmark
+          - Videosweepmark: 4:00
           - Listmark: 3
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 4:00
+          - Videosweepmark: 6:00
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
-          - Videosweepmark: 5:36
+          - Videosweepmark: 8:13
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
+            - Videosweepmark: 7:00
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
           - Videosweepmark: 1:16
           - Language pair SHUFFLE: Japanese - Italian
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
+          - Language pair SHUFFLE: Japanese - Russian
+        - [What is たら?? How to say " If " in Japanese](https://www.youtube.com/watch?v=OrnjEazL4dg)
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
           - Videosweepmark: 1:30
@@ -3048,14 +3159,14 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - THROTTLE FREQUENT 頂く | 70%
+        - THROTTLE FREQUENT 頂く | 72%
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-            - Videosweepmark: 4:00
+            - Videosweepmark: 5:30
         - THROTTLE FREQUENT 使う | 34%
         - 直す  | 61%
-        - 受け取る | 20%
-        - 来る
-        - 照る | 35%
+        - 受け取る | 50%
+        - 来る | 40%
+        - 照る | 60%
         - THROTTLE FREQUENT なる | 70%
         - THROTTLE FREQUENT 持つ
         - 当たる
@@ -3103,6 +3214,12 @@
       - After that, the subject will be able to use Russian adjectives swiftly with precision and consistency
       - HYPOTHESIS Expect a dramatic increase in typing speed, which is crucial for language combat effectiveness
       - It is expected that Russian sector will require game plan for next stage in two months
+    - 2022/11/29
+      - AVALANCHE The progress is simply put, INSANE
+    - 2022/11/30
+      - AVALANCHE_COMPLETE **Reactive && Active grammatical fluency** achieved, expect exponential increase in vocabulary and overall fluency
+        - Major gramatical rule carry over effect from **German**
+      - Combat effectiveness threshold hit imminent
   - Learning Cache for Intermediate learners
     - STATIC
       - INBOUND_CACHE
@@ -3116,10 +3233,8 @@
         - SECURITY_GROUP: OPEN
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
-      - MAGNET **глагол**
-        - содержать
-        - унаследовать | 70%
-        - описывать
+      - **глагол**
+        - описывать | 5%
       - **Предлог**
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
@@ -3128,33 +3243,25 @@
         - такой
         - Таким образом
       - MAGNET **прилагательное**
-        - составной | 80%
-        - малоизвестный | 100% TTL 
-        - сумасшедший | 90%
-        - средний | 80%
       - MAGNET **наречие**
-      - **существительное**
+      - MAGET **существительное**
         - тюрьма | 50%
-        - духовенство | 60%
-        - благо | 60%
-        - поддерево | 100% TTL
-        - аллегория | 60%
-        - терминология | 40%
-        - справедливость | 90%
-        - спокойствие | 70%
+        - родитель | 20%
       - MAGNET **Местоимение**
-        - весь
+        - весь | 20%
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251
-      - [2. "The Tree of Commonwealth": The Social Order in the Sixteenth Century](https://www.youtube.com/watch?v=fVErdGUN_Jk&list=PL18B9F132DFD967A3&index=2)
-        - Videosweepmark: 33:30
-        - Listmark: 2
+      - [3. Households: Structures, Priorities, Strategies, Roles](https://www.youtube.com/watch?v=YxjKJ3JgXvc&list=PL18B9F132DFD967A3&index=3)
+        - Videosweepmark: 3:00
+        - Listmark: 3
+        - Stratified sampling
         - INTEREST Evolution of Information Circulation in Sixteenth Century
-          - SUPPLEMENT
-            - [How Far Back in Time Could an English Speaker Go and Still Communicate Effectively?](https://www.youtube.com/watch?v=Y63dBBlHlSk)
-              - Videosweepmark: 10:49
+          - [Intro to Data Science: Historical Context](https://www.youtube.com/watch?v=aECk8s0FS7Q)
+            - Videosweepmark: 2:22
+            - EXPERIMENTAL VOCABULARY какой-то | 5%
+            - Tycho Brahe Documentary
   - TOPIC | Specific Mathematic Field with the greatest interest
     - Value
       - Topology
@@ -3183,7 +3290,7 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 29:41
+        - Videosweepmark: 36:06
         - Non-russian Relevant
           - IQSS - Social Science
         - Mosteller-Wallace
@@ -3201,22 +3308,34 @@
                 - CURIOSITY_OUTREACH
                   - Bose-Einstein condensate
                     - [Bose-Einstein Condensates | Prof B. Prasanna Venkatesh | Lecture 01](https://www.youtube.com/watch?v=EeTJyqBIVZI)
+                      - Videosweepmark: 5:11
+                      - [Symmetry in Pascal's Triangle: A Combinatorial Identity](https://www.youtube.com/watch?v=fHZ7FniqPr4&list=PLfe17BEjktq70B0S7HeOkbJmQzht5bTMi)
+                        - Videosweepmark
+                        - Listmark: 1
                   - P´olya’s principles
                   - Contraposition, Syllogism
                   - Infinite-set paradoxing
                      - P.O.I James Clerk Maxwell
                   - Ancillary statistic
                     - [Sufficient, Minimal, Ancillary, and Complete Statistics, with Theorems](https://www.youtube.com/watch?v=r1yXDzoIb2I)
-                      - Videosweepmark: 3:56
-                      - Factorization Theorem
-                      - Exponential Family
+                      - Videosweepmark: 6:06 COMPOSITE
+                      - ?
+                        - Factorization Theorem
+                        - Exponential Family
+                        - Basu's Theorem
+                        - Sufficient Statistics
+                        - Minimal statistics
+                          - [Lecture 27 : Minimal Sufficiency, Completeness - I](https://www.youtube.com/watch?v=FIrcTkSbPyQ&list=RDCMUCgp23vdLNaUitOkCxxVnRrg&start_radio=1&rv=FIrcTkSbPyQ&t=19)
+                            - Videosweepmark: 3:30
+                        - Ancillary statistics
+                        - Complete statistics
               - SUPPLEMENT
                 - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
                   - Videosweepmark: 11:34
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:00:00
+        - Videosweepmark: 1:03:30
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3241,10 +3360,10 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 11_Unit 2 Agreement Infinitives Questions](https://www.youtube.com/watch?v=vvXNsEhjYy4&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=11)
-        - Videosweepmark: 10:28 NEXT
-        - ListStamp: 11
-        - Language Pair: Russian
+      - [Learn Ancient Greek: 15_Unit 3 Concept of Moods in Ancient Greek](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=16)
+        - Videosweepmark: 5:00
+        - ListStamp: 16
+        - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
         - `language.meta.pronounciation.callibrate()`
@@ -3252,7 +3371,7 @@
       - **αντωνυμία**
         - ἐγώ
       - **σύνδεση**
-        - THROTTLE FREQUENT επειδή | 2%
+        - THROTTLE FREQUENT επειδή | 12%
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
         - ContinuousStimulationUnit [All About Greek Pronouns: Ultimate Greek Pronouns](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 88.2%
@@ -3261,10 +3380,11 @@
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
-          - [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
-            - Videosweepmark: 7:26 NEXT
-            - Listmark: 5
+          - [Greek Verb Endings](https://www.youtube.com/watch?v=tO5f9_rYhUg&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=6)
+            - Videosweepmark: 1:00
+            - Listmark: 6
           - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
+            - `ROOT.CentralExecutiveFunction`: *This is probably the DUMBEST heuristics ever seen, replace with Flashcardification*
         - σχεδιάζω | 40%
       - **επίθετο**
       - **ουσιαστικό**

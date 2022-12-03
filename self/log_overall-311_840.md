@@ -210,7 +210,7 @@
                   - FlashcardificationSet
                     - FlashcardificationPruneRegistries
                       - 36-45 | STATE: FROZEN until 60%
-                    - STALE FlashcardificationSaturation: 55%: \[80%-100%\]
+                    - STALE FlashcardificationSaturation: 58%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -412,9 +412,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 24.1%
+                  - CCS: 25.2%
                   - ETA: 8.5 months
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -493,7 +493,7 @@
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
                           - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 20:00
+                            - Videosweepmark: 25:00
                             - Conflict
                               - Conflict Ontology
                                 - \(Human\)Conflict Genesis?
@@ -978,7 +978,7 @@
       - [Lebanon: An economic crisis and the aftermath of the Beirut port explosion | DW Documentary](https://www.youtube.com/watch?v=RZuKyIYMSEw)
     - [Using Theories of Decision-Making Under Uncertainty to Improve Data Visualization](https://www.youtube.com/watch?v=IhGydZwUKc8)
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk&t=421s)
-      - Videosweepmark: 34:00
+      - Videosweepmark: 37:30
       - ATTACHABLE Political Science Bundle
         - Ignorance Problem
           - *When non-financial problem*
@@ -990,8 +990,8 @@
               - PROCESSING POINTER FIELD
                 - Qualmstack
                   - 471: *Shots fired*
-                - Randomtelewalk: **26**
-                  - VisitStack: **26**, 472
+                - Randomtelewalk: **473**
+                  - VisitStack: **26**
                   - _state
                     - `traffic`: 0.5
                       - `nodeHash`: *nodeHash is crutial for RESONANCE to happen amongst different node types i.e. method node, entity node, meta node etc.*
@@ -1003,7 +1003,7 @@
                           - `mutate`
                           - `broadcast`
                         - `value`: `AG1`
-                  - Saturation: 0.0400%
+                  - Saturation: 0.0402%
                 - RESONANCE_MELTINGPOT
                   - Contractual foundation of Uncertainty as an mandate/agency
                   - Market --> Unknown Resonance <-- Contract
@@ -1225,11 +1225,11 @@
               - ConcentratedInitialStimulationPointer
                 - MapA, MapB
               - Randomtelewalk: 189/320
-                - Saturation: 8%
+                - Saturation: 18%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
                     - *Double mapping* | 39-194/ &5.4
-                      - QualmStack LIMIT 5: 3.13-17, &5?, &5.2
+                      - QualmStack LIMIT 5: 3.13-17, &5?, &5.2, 5.5
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
                           - Memorandum Account, nominal ledger
@@ -1298,7 +1298,7 @@
     - Following Actual Prep & Exam
   - ECON 252 --> `this.concurrentTraffic = 0.2`
     - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 1:00:00
+      - Videosweepmark: 1:03:30
       - LIST_NUM: 2
       - CURIOSITY_OUTREACH
         - CoVaR
@@ -1309,7 +1309,7 @@
               - Instances
                 - 26
                 - 193
-              - Saturation: 0.020%
+              - Saturation: 0.022%
             - Lazy Freeloader's Feynman Technique Entries
               - CH1_24
               - CH9_193
@@ -1328,6 +1328,8 @@
                         - [BEAUTIFUL GGPLOT VENN DIAGRAM WITH R](https://www.datanovia.com/en/blog/beautiful-ggplot-venn-diagram-with-r/)
                   - Financial Instrument
                     - Equity Instrument
+                      - [IFRS 9 Financial Instruments: Summary 2021](https://www.youtube.com/watch?v=qFOyyP_po3I)
+                        - Videosweepmark: 1:00
                     - Debt Instrument
                     - ?
                   - ?
@@ -1345,7 +1347,7 @@
           - MonitoringAxiomGoal: Boundry condition of extreme academic/intellectual effort and biological system malfunction
           - Duration: *3w*
       - Binary Classification
-      - Logistic Regression
+      - Logistic Regression `STATE=ELIMINATE`
         - [7.2.2. Math behind Logistic Regression | Machine Learning Models](https://www.youtube.com/watch?v=obbalnq94rA&t=158s)
           - Videosweepmark: 5:00
         - [Logistic Regression - VISUALIZED!](https://www.youtube.com/watch?v=slBI5YuVUTM&t=325s)
@@ -1522,7 +1524,7 @@
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification](https://www.youtube.com/watch?v=kh3I_UTtUOo&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=16)
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - Videosweepmark: 12:00 --> `this.concurrentTraffic = ?`
+            - Videosweepmark: 15:30 --> `this.concurrentTraffic = ?`
             - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
               - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
               - CONT. is saturated with value, it has a particular value set $V_v$.
@@ -1536,7 +1538,14 @@
                   - Videosweepmark: 3:30
               - S Q1-Q2 Solved link on Overleaf/LaTeX hosted site: [Hypothetical link](#)
             - ?
+              - ?
+                - [Existential physics: answering life's biggest questions - with Sabine Hossenfelder](https://www.youtube.com/watch?v=fl9oDJzfg58)
               - IMPORTANT Loopy BP Algorithm
+                - **CODING** Coding session
+                  - [GitHub Topics](https://github.com/topics/loopy-belief-propagation)
+                  - [Belief Propagation](https://github.com/krashkov/Belief-Propagation)
+                  - [PGMax: Factor Graphs for Discrete Probabilistic Graphical Models and Loopy Belief Propagation in JAX](https://arxiv.org/abs/2202.04110)
+                  - [LOOPY BELIEF PROPAGATION, MARKOV RANDOM FIELD, STEREO VISION](http://nghiaho.com/?page_id=1366)
                 - 10-708: Probabilistic Graphical Models 10-708
                 - Label-label potential
                 - Belief propagation
@@ -2063,9 +2072,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 35.6%
+            - CCS: 36.1%
             - ETC：7.8 months
-            - TEMP_TIMESTAMP: 4:00
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2101,6 +2110,13 @@
                     - [LECTURE 19: NAKAMOTO CONSENSUS (PROOF OF WORK)](https://www.youtube.com/watch?v=kwA_BoGNMK0)
                     - [Nakamoto’s Consensus: Foundations of Blockchain Security (Part I)](https://www.youtube.com/watch?v=6xMqVu3RBgM)
                     - [Analysis of Nakamoto Consensus](https://www.youtube.com/watch?v=Nac8uXISc80)
+                      - Videosweepmark: 2:00
+                      - ?
+                        - $\alpha \cdot e^{-2\alpha \Delta}$
+                          - Parameters
+                            - $\alpha$: Honest mining rate
+                            - $\beta$: Malicious mining rate
+                            - $\Delta$: Communication delay
                   - Quorum certificate
                   - IMPORTANT Graph Database Design --> Spanish
                     - CMU 15-445/645
@@ -2252,8 +2268,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 19%
-          - TEMP_TIMESTAMP: 4:07
+          - CCS: 19.7%
+          - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2318,7 +2334,7 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 14.9%
+      - CCS: 15.6%
       - ETC: 5.8 months
       - TEMP TIMESTAMP: 1:00
       - `States`
@@ -2370,7 +2386,7 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 79.4%
+      - CCS: 80%
       - E.T.A: 22.6d
       - TEMP_TIMESTAMP: 1:00
       - States
@@ -2531,7 +2547,7 @@
           - Videosweepmark: 13:35 NEXT
           - VideoListStamp: 1
         - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
-          - Videosweepmark: 22:00
+          - Videosweepmark: 32:00
           - VideoListStamp: 5
     - MICRO
       - STATIC
@@ -2947,8 +2963,8 @@
       - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 18.3%
-        - TEMP_TIMESTAMP
+        - CCS: 19.7%
+        - TEMP_TIMESTAMP: 4:01
         - Reimagine the possible M&C
           - Value: 0/180
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
@@ -3125,7 +3141,7 @@
       - /Verb Form | 80%
         - 連用形
           - [Classical Japanese 03 (Learn Old Japanese through English) (未然形 連用形　終止形 連体形 已然形 命令形)](https://www.youtube.com/watch?v=FF5vXLxM1Ss)
-            - Videosweepmark: 5:11
+            - Videosweepmark: 8:00
         - 仮定形
         - 終止形
         - 未然形
@@ -3159,9 +3175,9 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - THROTTLE FREQUENT 頂く | 72%
+        - THROTTLE FREQUENT 頂く | 90%
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-            - Videosweepmark: 5:30
+            - Videosweepmark: 6:30
         - THROTTLE FREQUENT 使う | 34%
         - 直す  | 61%
         - 受け取る | 50%
@@ -3335,7 +3351,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:03:30
+        - Videosweepmark: 1:14:04
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3361,7 +3377,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 15_Unit 3 Concept of Moods in Ancient Greek](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=16)
-        - Videosweepmark: 5:00
+        - Videosweepmark: 8:17 NEXT
         - ListStamp: 16
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

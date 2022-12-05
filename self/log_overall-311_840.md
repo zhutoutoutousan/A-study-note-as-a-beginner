@@ -156,7 +156,9 @@
     - 稀缺语种对双/三/四字幕组合资源
       - 高质量
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
-          - Videosweepmark: 0:33
+          - Flashcardification LIMIT 3
+            - Prunemark: -0:29
+            - FlashcardificationNeuralStimulationSaturation: 0%
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
       - _config
@@ -198,19 +200,10 @@
             - _method
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
-              - Randomtelewalk: 43 --> `WARNING: Regression detected on Pointers with overlapping meanings`
-              - Flashcard-ification
-                - *Lazy freeloader's dig*: Rip-off from others'
-                - **Make-over-buy**/ripping-off: *English-Chinese Translation Masterclass*
-                  - _meta
-                    - Retain Pathway: `OK`
-                    - ERROR *人类共同体尚未提供相应公开资源*, Make over buy 
-                  - CurrentPointer: 45
-                    - Saturation: 0.9%
-                  - FlashcardificationSet
-                    - FlashcardificationPruneRegistries
-                      - 36-45 | STATE: FROZEN until 60%
-                    - STALE FlashcardificationSaturation: 58%: \[80%-100%\]
+              - Flashcardification
+                - FlashcardificationPruneRegistries
+                  - 36-45 | STATE: FROZEN until 60%
+                - FlashcardificationNeuralStimulationSaturation: 60%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -412,9 +405,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 25.2%
+                  - CCS: 25.9%
                   - ETA: 8.5 months
-                  - TEMP_TIMESTAMP
+                  - TEMP_TIMESTAMP: 1:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -443,8 +436,8 @@
                               - ASYNC MIRROR [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
                                 - SUPPLEMENT
                                   - [Jordan Peterson and the Writing Process](https://www.youtube.com/watch?v=X3otsJZWKbk)
-                                    - Videosweepmark: 10:00
-                                    - Language pair: Portuguese
+                                    - Videosweepmark: 15:22
+                                    - Language pair: Portuguese | Russian
                               - SOURCING The 22 immutable laws of branding
                               - METHOD Pinnacle reverse engineering
                             - Videosweepmark: 6:25 COMPOSITE_HOOK
@@ -493,7 +486,8 @@
                           - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
                             - Videosweepmark
                           - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 25:00
+                            - Videosweepmark: 30:13 REPLACE
+                            - REPLACE [Research Ethics](https://www.youtube.com/watch?v=v8njnkR875g)
                             - Conflict
                               - Conflict Ontology
                                 - \(Human\)Conflict Genesis?
@@ -852,8 +846,9 @@
         - _motivation
           - *Learning French while accidentally mastering Fundamental analysis*
         - CFA, CPA carryover-able basics
-        - [Mastering Fundamental Analysis in Forex: The Ultimate Guide! | Free Forex Course](https://www.youtube.com/watch?v=iiRncjZWjXk)
-          - Videosweepmark: 21:30
+        - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
+        - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
+          - Videosweepmark: 3:30
           - Pillars of FA | LIMIT RECURSIVE 5
             - Time sense
               - Economic Calendar
@@ -884,14 +879,14 @@
           - COT
             - RESIDUAL | CFTC, finviz
             - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
-              - Videosweepmark: 7:30
+              - Videosweepmark: 11:00
         - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
           - Videosweepmark: 9:00
       - Technical Analysis
         - Supply & Demand ^ Support & Resistance
         - Volume Analaysis
           - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-            - Videosweepmark: 20:39
+            - Videosweepmark: 24:10
             - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
         - Amount Analysis
           - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
@@ -903,13 +898,22 @@
           - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
             - Videosweepmark: 21:23
           - [Master The Multiple TimeFrame Trade (I bet YOU missed this one detail that makes ALL the difference)](https://www.youtube.com/watch?v=kkxCowWmTnA)
-            - Videosweepmark: 3:30
+            - Videosweepmark: 7:00
         - Pattern Analysis
           - Instance
             - S-curve
-            - Triangle
+            - Triangle `TTL="5%"`
+              - [Ascending and Descending Triangles in 2 Minutes](https://www.youtube.com/watch?v=aq9SEiAj9yE)
+                - Videosweepmark: 4:20 TTL
             - Channel
           - Method
+      - End-to-end encapsulation
+        - GENESIS
+          - [How to Place a Trade from Start to Finish](https://www.youtube.com/watch?v=xlmBMfhtokQ)
+        - BEFORE_EXECUTION
+        - ON_EXECUTION
+        - AFTER_EXECUTION
+          - Post-mortem
     - Ecosystem: Pre-fundamental Analysis
       - Genesis Market Analysis: 1984, 2022, and beyond
         - Resonance: House of cards VS Factories of Shinies
@@ -924,18 +928,27 @@
         - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
           - Videosweepmark : 7:00
     - Strategy
-      - Small/Agile Fund: Happy times
-        - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
-          - Videosweepmark: 7:00
-        - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
-          - Videosweepmark: 3:30
-        - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
-          - Videosweepmark: 7:00
-      - Intermediate Fund: Transition period
-        - Get more than $5M to unlock
-      - Huge Fund: More is different
-        - Unlock after gaining $1B
+      - _motivation
+        - *Learning French while accidentally getting mature with trading strategies*
+      - Small/Agile Fund: Happy times - Typical yield: -5%-20000% within one day
+        - Scalp Trade
+          - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
+            - Videosweepmark: 10:30
+          - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
+            - Videosweepmark: 3:30
+          - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
+            - Videosweepmark: 7:00
+        - Trend Trade
+      - Intermediate Fund: Transition period - Typical yield: -5%-10% within one month
+        - LOCKED Get more than $5M to unlock
+        - Quant
+        - Distributed account
+        - Broker
+        - Trust
+      - Huge Fund: More is different - Typical yield: -5%-60% within a year
+        - LOCKED Unlock after gaining $1B
           - Hedging
+          - Quant
     - MAGNET Quant
       - `pollFromGlobal(ROOT)`
     - Tooling
@@ -2072,7 +2085,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 36.1%
+            - CCS: 36.6%
             - ETC：7.8 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -2098,7 +2111,8 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 2: !](https://www.youtube.com/watch?v=f5nbT4xQqwI)
-                  - Videomark
+                  - Videomark: 5:00
+              - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 40:10
                   - RIGGED: SATURATE_CHILDREN
@@ -2269,7 +2283,7 @@
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
           - CCS: 19.7%
-          - TEMP_TIMESTAMP
+          - TEMP_TIMESTAMP: 5:00
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2334,9 +2348,9 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 15.6%
+      - CCS: 15.9%
       - ETC: 5.8 months
-      - TEMP TIMESTAMP: 1:00
+      - TEMP TIMESTAMP: 3:00
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -2386,7 +2400,7 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 80%
+      - CCS: 80.4%
       - E.T.A: 22.6d
       - TEMP_TIMESTAMP: 1:00
       - States
@@ -2547,7 +2561,7 @@
           - Videosweepmark: 13:35 NEXT
           - VideoListStamp: 1
         - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
-          - Videosweepmark: 32:00
+          - Videosweepmark: 40:23 NEXT
           - VideoListStamp: 5
     - MICRO
       - STATIC
@@ -2651,6 +2665,22 @@
         - UE: Pixel Streaming
       - ContinuousStimulationUnit Business Models: Why Pay-as-you-go works, and why it doesn't
       - ContinuousStimulationUnit ?
+      - ContinuousSkillDevelopmentUnit
+        - Agile Hardware IoT & Cloud Development
+          - [AWS IoT Core with Raspberry Pi4 Tutorial- Complete Guide](https://www.youtube.com/watch?v=adKuyckikuw)
+          - [Exploring AWS IoT - U](https://www.udemy.com/course/exploring-aws-iot/learn/lecture/13985184#overview)
+            - TEMP_TIMESTAMP: 3:30
+            - Procurement
+              - [ ] ESP8266
+              - [ ] ESP32
+              - [ ] Raspberry Pi 4\(optional\)
+          - [Make Your Own Raspberry Pi Cell Phone](https://www.youtube.com/watch?v=jjX7nS3kIao)
+          - [Complete Electronics Hardware Design Course 2022 -EsteemPCB](https://www.udemy.com/course/mixed_signal_course_esteempcb/learn/lecture/24885270)
+        - Hardware feasibility assessment
+        - Business model assessment
+          - Consumer electronics pay-as-you-use pricing model feasibility assessment
+      - CONFIDENTIAL HR
+        - TA
       - SUPPLEMENT
         - _motivation: *Learning Spanish while accidentally learning the path to cloud-based mobile device as potentials to go viral and rigging future trajectories*
           - [Ep. 10. Cloud Rendering on the Blockchain](https://www.youtube.com/watch?v=OMz0oxPyVxg)
@@ -2772,16 +2802,28 @@
                 - EmphasisPointerInstance 2: ?-?
           - [Product-Led Growth - The Future of User Acquisition, Expansion and Retention for SaaS Companies](http://uu.diva-portal.org/smash/get/diva2:1579528/FULLTEXT01.pdf)
           - [BUILD PRODUCT LED GROWTH: THE END USER ERA](https://cdn2.hubspot.net/hubfs/366266/BUILD_Ebook.pdf)
-  - TOPIC Continuous Incubator Support
+  - TOPIC UNSTABLE Continuous Incubator Support
     - _G
       - P
       - BD
       - M
         - ADO
       - SRP
+    - HR
+      - TA
+      - BP
+        - CONFIDENTIAL L
+    - BM 101
+      - L&RaS
+        - [An Introduction to Software Licensing - Steven Zimmerman](https://www.youtube.com/watch?v=_umPfRHFWzM)
+        - [Open Source Software Licensing Basics for Corporate Users](https://www.youtube.com/watch?v=gF4b1TA5Q5w)
+        - [Software Licensing Simplified](https://www.youtube.com/watch?v=3wEQrnbCvLc)
+        - [The Fundamentals of Licensing Agreements](https://www.youtube.com/watch?v=oaz09-MTk-E)
     - PJGF
       - CONCENTRATED ContinuousCapabilityConstruction
+        - PC
         - GM
+          - [ESRI](https://www.esri.com/en-us/home)
           - [Google Maps JavaScript API Tutorial](https://www.youtube.com/watch?v=Zxf1mnP5zcw)
           - [Node.js GeoJSON API & App | Store Locator](https://www.youtube.com/watch?v=9FQrFah9rnc)
         - N
@@ -2963,8 +3005,8 @@
       - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 19.7%
-        - TEMP_TIMESTAMP: 4:01
+        - CCS: 22.1%
+        - TEMP_TIMESTAMP
         - Reimagine the possible M&C
           - Value: 0/180
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
@@ -3004,12 +3046,18 @@
         - [Nx Conf - Day 1](https://www.youtube.com/watch?v=oG2QbFquraA)
       - Source Code Reading
         - Apache Zookeeper
-          - [source](https://github.com/apache/zookeeper)
+          - _motivation
+            - *Learning Spanish while accidentally having read the source code of Zookeeper and learning Kafka*
+          - [source code](https://github.com/apache/zookeeper)
           - PROCESSING_POINTER_FIELD
-            - Supplements
-              - Apache Kafka Series - Learn Apache Kafka for Beginners v3
-                - TEMP_TIMESTAMP: 0:10
             - Randomtelewalk
+              - `/zookeeper-assembly/pom.xml`
+            - Supplements
+              - [Maven in 10 minutes | pom.xml | dependencies | scopes](https://www.youtube.com/watch?v=bBqxC43ASsM)
+              - [5 pom.xml Demystified](https://www.youtube.com/watch?v=kNHMgiVEgzw)
+              - Apache Kafka Series - Learn Apache Kafka for Beginners v3
+                - CCS: 2.5%
+                - TEMP_TIMESTAMP
           - PROCESSING_POINTER_STORE
       - Web Dev --> `this.concurrentTraffic = 1`
         - ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
@@ -3127,7 +3175,7 @@
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
           - N/A
-          - Videosweepmark: 33:33
+          - Videosweepmark: 38:00
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=12)
@@ -3306,9 +3354,14 @@
         - [FERMAT AND PASCAL ON PROBABILITY](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf)
       - [Lecture 2: Story Proofs, Axioms of Probability | Statistics 110](https://youtu.be/FJd_1H3rZGg)
         - Style: FAST POINTER
-        - Videosweepmark: 36:06
+        - Videosweepmark: 39:06
         - Non-russian Relevant
           - IQSS - Social Science
+        - ?
+          - Story proof for mathematics
+            - [The letter that revealed Ramanujan's genius](https://www.youtube.com/watch?v=XFsuRxospbU)
+            - [The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy](https://www.youtube.com/watch?v=I4pQbo5MQOs)
+            - [Is Mathematics invented or discovered](https://www.youtube.com/watch?v=X_xR5Kes4Rs)
         - Mosteller-Wallace
         - ASYNC MIRROR Bookpair --> `LEGACY erudition/mathematics`
           - Probability Theory: The Logic of Science
@@ -3351,7 +3404,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:14:04
+        - Videosweepmark: 1:18:02
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3376,9 +3429,9 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 15_Unit 3 Concept of Moods in Ancient Greek](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=16)
-        - Videosweepmark: 8:17 NEXT
-        - ListStamp: 16
+      - [Learn Ancient Greek: 16_Unit 3 Purpose Clauses](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=17)
+        - Videosweepmark: 5:00
+        - ListStamp: 17
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
@@ -3397,7 +3450,7 @@
           - Initial exposure saturation: 3.9%
         - ανακαλύπτω | 95%
           - [Greek Verb Endings](https://www.youtube.com/watch?v=tO5f9_rYhUg&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=6)
-            - Videosweepmark: 1:00
+            - Videosweepmark: 4:
             - Listmark: 6
           - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
             - `ROOT.CentralExecutiveFunction`: *This is probably the DUMBEST heuristics ever seen, replace with Flashcardification*

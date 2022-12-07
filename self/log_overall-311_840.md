@@ -40,6 +40,10 @@
       - _state
         - Saturation: 1.5%
 - [Maps of Meaning: The Architecture of Belief](https://ia800701.us.archive.org/7/items/MapsOfMeaningTheArchitectureOfBeliefPetersonlnwAdam/Maps%20of%20Meaning%20The%20Architecture%20of%20Belief-Peterson%20%28lnw%20Adam%29.pdf)
+  - SUPPLEMENT
+    - [2017 Maps of Meaning: The Architecture of Belief (University of Toronto)](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
+  - SUPPLEMENT
+    - [2017 Maps of Meaning: The Architecture of Belief (University of Toronto)](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h)
 ## Build your weapon
 ### Learn to write
 - Purpose
@@ -202,8 +206,8 @@
             - PROCESSING_POINTER_FIELD
               - Flashcardification
                 - FlashcardificationPruneRegistries
-                  - 36-45 | STATE: FROZEN until 60%
-                - FlashcardificationNeuralStimulationSaturation: 60%: \[80%-100%\]
+                  - 36-45 | STATE: FROZEN if under 60%
+                - FlashcardificationNeuralStimulationSaturation: 62.3%: \[80%-100%\]
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -405,9 +409,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 25.9%
+                  - CCS: 26.5%
                   - ETA: 8.5 months
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP: 3:30
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -422,7 +426,7 @@
                   - ?
                     - Interest Rate Premiums, Annuity, Present Value Annuity Factor, Perpetuity
                       - [Introduction To Annuities (2019)](https://www.youtube.com/watch?v=ed-sdtGpiYU)
-                        - Videosweepmark: 15:01
+                        - Videosweepmark: 18:05 TTL
                   - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
                     - Acronym fluency: PV, N, I/Y, PMT, HPR
                   - SUPPLEMENTS
@@ -444,6 +448,11 @@
                             - Whitepapers in the wild
                               - Arsenal construction
                               - Reverse Engineering Pipeline
+                                - SUPPLEMENT
+                                  - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
+                                  - [THORChain - Let's Read The Whitepaper](https://www.youtube.com/watch?v=jofxGwll6LM)
+                                  - [AWS White Paper Walkthrough - Security Overview of AWS Lambda March 2019](https://www.youtube.com/watch?v=xEq-0isx03c)
+                                  - [Bitcoin Whitepaper - Programmer explains](https://www.youtube.com/watch?v=MCxOwPlVVgA)
                                 - SOURCING [8 Excellent White Paper Examples + Key Takeaways](https://www.socialpilot.co/blog/white-paper-example)
                                 - Cisco – Networking and your competitive edge white paper
                                   - Reverse Engineering
@@ -478,6 +487,7 @@
                         - PCP, DRC
                       - VOLATILE
                         - [How To Read & Analyze The Balance Sheet Like a CFO | The Complete Guide To Balance Sheet Analysis](https://www.youtube.com/watch?v=DMv9JC_K37Y&t=27s)
+                          - Videosweepmark: 5:02
                         - Understand Insurance - Underwriting
                           - [INSURANCE Underwriting [[What does an Underwriter Do]]](https://www.youtube.com/watch?v=XhhAk9CF5c4)
                           - [What's the day-to-day of being an underwriter? - Hey Insurance - Ep 87](https://www.youtube.com/watch?v=LeBNxrr3dRA)
@@ -848,7 +858,7 @@
         - CFA, CPA carryover-able basics
         - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
         - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
-          - Videosweepmark: 3:30
+          - Videosweepmark: 10:35
           - Pillars of FA | LIMIT RECURSIVE 5
             - Time sense
               - Economic Calendar
@@ -870,7 +880,7 @@
             - Glossary
               - Personal Consumption Expenditure Price Index 
         - [How Professional FX traders do Fundamental Analysis!](https://www.youtube.com/watch?v=cktWJ7PxXqQ)
-          - Videosweepmark: 10:30
+          - Videosweepmark: 15:30
       - Sentiment analysis
         - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
           - Videosweepmark: 24:45 SATURATE_CHILDREN
@@ -879,18 +889,22 @@
           - COT
             - RESIDUAL | CFTC, finviz
             - [CFTC COT Report Data - Understanding where Big Banks & Institutions create Supply and Demand Zones](https://www.youtube.com/watch?v=mjaWvU6tzrM)
-              - Videosweepmark: 11:00
+              - Videosweepmark: 815:30
         - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
-          - Videosweepmark: 9:00
+    SUPPLEMENT
+            - [A Complete Guide To Volume Price Analysis 2013](https://drive.google.com/file/d/10eOI0wz9VNWNpSfRCT3KfMmnq6zBvK_6/view?usp=sharing)
+          - VSA
+          - VAM
+            - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
+              - Videosweepmark: 24:10
+        - Videosweepmark: 13:00
       - Technical Analysis
         - Supply & Demand ^ Support & Resistance
         - Volume Analaysis
-          - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-            - Videosweepmark: 24:10
-            - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
+          -             - *Le volume doit augmenter avec le temps, pas nécessairement LA BOUGIE EXACTE qui fait le cassure*
         - Amount Analysis
           - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-            - Videosweepmark: 45:30
+            - Videosweepmark: 49:00
             - Multiple timeframe coordination 
         - Timing Analysis
           - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
@@ -911,6 +925,8 @@
         - GENESIS
           - [How to Place a Trade from Start to Finish](https://www.youtube.com/watch?v=xlmBMfhtokQ)
         - BEFORE_EXECUTION
+          - [Moving Average Crossover: DONT DO IT](https://www.youtube.com/watch?v=b2QpsIdEkfk&list=PLv-X125JpAa2wX8f05GryHEK5b4O2LyTF&index=2)
+            - Listmark: 2
         - ON_EXECUTION
         - AFTER_EXECUTION
           - Post-mortem
@@ -927,6 +943,9 @@
       - Secondary Market Analysis
         - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
           - Videosweepmark : 7:00
+    - Coding(Trading only)
+      - [TradingView Pine Script Tutorials For Indicators and Strategies - Introduction](https://www.youtube.com/watch?v=XpANqNdzLSg&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6)
+        - Listmark: 1
     - Strategy
       - _motivation
         - *Learning French while accidentally getting mature with trading strategies*
@@ -2085,7 +2104,7 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 36.6%
+            - CCS: 38.4%
             - ETC：7.8 months
             - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
@@ -2111,8 +2130,9 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 2: !](https://www.youtube.com/watch?v=f5nbT4xQqwI)
-                  - Videomark: 5:00
+                  - Videomark: 15:00
               - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
+                - Videosweepmark: 8:30
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 40:10
                   - RIGGED: SATURATE_CHILDREN
@@ -2227,16 +2247,20 @@
         - MAGNET `noun`
   - Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
-      - Videosweepmark: 1:08:00
+      - Videosweepmark: 1:11:44
   - Branding, Fashion, Faces
   - Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
     - Fully automated distributed propagation agent: No loose ends
+  - **NEW MUTATION** Sales, Pre-sale
+    - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
+      - Language pair: French - Italian
+  - **NEW MUTATION** Branding
   - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
     - NPTEL IIT - Consumer Psychology
       - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
         - PROCESSING POINTER FIELD
-          - Videosweepmark: 24:00
+          - Videosweepmark: 27:30
         - continuousStimulationUnit
           - Full Sales Lifecycle Information Flow
           - Practical Benefit, Unusual benefit
@@ -2282,8 +2306,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 19.7%
-          - TEMP_TIMESTAMP: 5:00
+          - CCS: 21.2%
+          - TEMP_TIMESTAMP: 3:30
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2348,9 +2372,9 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 15.9%
+      - CCS: 16.2%
       - ETC: 5.8 months
-      - TEMP TIMESTAMP: 3:00
+      - TEMP TIMESTAMP: 2:30
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -2400,9 +2424,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 80.4%
+      - CCS: 81.1%
       - E.T.A: 22.6d
-      - TEMP_TIMESTAMP: 1:00
+      - TEMP_TIMESTAMP: 3:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2557,12 +2581,12 @@
       - Metadigging for entry-level fluency for unlocking more valid input channels
         - LOCKED Achieve Upper B1 to unlock
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic grammar (Part-1)](https://www.youtube.com/watch?v=QuqeIA-z0sY&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4)
-          - Videosweepmark: 13:35 NEXT
-          - VideoListStamp: 1
-        - [Arabic Grammar For All - Lesson 5 - The Past Tense Verb - Abu Sulaymaan](https://www.youtube.com/watch?v=Z7Yy4iqho7M&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=5)
-          - Videosweepmark: 40:23 NEXT
-          - VideoListStamp: 5
+        - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic Phrases Sentences, (Part-3)](https://www.youtube.com/watch?v=PAi30KW97xQ&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=3)
+          - Videosweepmark: 10:00
+          - VideoListStamp: 3
+        - [Arabic Grammar For All - Lesson 7 - Detached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=PV4d37-uAbQ&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=7)
+          - Videosweepmark: 10:00
+          - VideoListStamp: 7
     - MICRO
       - STATIC
         - General Noun Usage Proficiency
@@ -2586,9 +2610,9 @@
       - VOLATILE STATE=ELIMINATE
         - `verb`
           - 30% | قلب
-          - 70% | قَدَّمَ
+          - 73% | قَدَّمَ
           - 75% | وفر
-          - 30% | أَفْهَمُ
+          - 30% | فَهِمَ
           - 38% | تَسْبِقُ
           - 10% تعرف
           - 20% | فهم
@@ -2613,7 +2637,7 @@
           - 60% | متأخر
           - 35% | موجزًا
         - `noun`
-          - 55% | مبدأ
+          - 60% | مبدأ
           - 30% THROTTLE FREQUENT | ساعة
           - 23% | التي
   - Tool
@@ -2870,6 +2894,8 @@
         - THROTTLE INFREQUENT In-person Collaboration Rigor
         - Hybrid Collaboration Rigor
         - DAO/Virtual Collaboration Rigor
+  - TOPIC System Implementation
+    - Rust programming language
   - TOPIC System Design
     - Real-life
       - Payment System
@@ -3005,10 +3031,10 @@
       - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 22.1%
-        - TEMP_TIMESTAMP
+        - CCS: 26.9%
+        - TEMP_TIMESTAMP: 2:02
         - Reimagine the possible M&C
-          - Value: 0/180
+          - Value: 5/180
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
         - CCS: 26.3%
         - TEMP_TIMESTAMP: 1:14
@@ -3045,6 +3071,8 @@
             - Videosweepmark: 2:54
         - [Nx Conf - Day 1](https://www.youtube.com/watch?v=oG2QbFquraA)
       - Source Code Reading
+        - Vue 3.0
+          - PAPERBACK Vue.js设计与实现
         - Apache Zookeeper
           - _motivation
             - *Learning Spanish while accidentally having read the source code of Zookeeper and learning Kafka*
@@ -3053,7 +3081,8 @@
             - Randomtelewalk
               - `/zookeeper-assembly/pom.xml`
             - Supplements
-              - [Maven in 10 minutes | pom.xml | dependencies | scopes](https://www.youtube.com/watch?v=bBqxC43ASsM)
+              - SLOPPY [Maven in 10 minutes | pom.xml | dependencies | scopes](https://www.youtube.com/watch?v=bBqxC43ASsM)
+                - Videosweepmark: 4:27
               - [5 pom.xml Demystified](https://www.youtube.com/watch?v=kNHMgiVEgzw)
               - Apache Kafka Series - Learn Apache Kafka for Beginners v3
                 - CCS: 2.5%
@@ -3179,7 +3208,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-2（実効値と電力）](https://www.youtube.com/watch?v=doXovKMO1sI&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=12)
-          - Videosweepmark: 3:20
+          - Videosweepmark: 6:20 TTL
   - TOPIC | Hierarchy, concrete jungle, cyberpunk
   - UNORDERED CHANGE_LOG
     - 2022/11/10: *Vague sensation of increased validity of german-japanese dual-subtitle stimulation channel detected, expected accelerated progress in semantic fluency*
@@ -3189,7 +3218,7 @@
       - /Verb Form | 80%
         - 連用形
           - [Classical Japanese 03 (Learn Old Japanese through English) (未然形 連用形　終止形 連体形 已然形 命令形)](https://www.youtube.com/watch?v=FF5vXLxM1Ss)
-            - Videosweepmark: 8:00
+            - Videosweepmark: 13:00
         - 仮定形
         - 終止形
         - 未然形
@@ -3197,6 +3226,8 @@
         - 連体形
     - MESO
       - Grammar Japanese-* Bundle
+        - [にくい It's difficult to...in Japanese](https://www.youtube.com/watch?v=qKbysEzHWXw&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn)
+          - Listmark: 1
         - [【Ｎ３文法】～うちに](https://www.youtube.com/watch?v=zRDINPcshiM&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=3)
           - Videosweepmark: 4:00
           - Listmark: 3
@@ -3218,7 +3249,7 @@
         - [What is たら?? How to say " If " in Japanese](https://www.youtube.com/watch?v=OrnjEazL4dg)
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
-          - Videosweepmark: 1:30
+          - Videosweepmark: 6:30
           - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
@@ -3227,6 +3258,8 @@
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
             - Videosweepmark: 6:30
         - THROTTLE FREQUENT 使う | 34%
+          - [PASSIVE form (れる/られる) Sound like a native speaker!](https://www.youtube.com/watch?v=PTRjEq5ExSM)
+            - Videosweepmark: 1:22
         - 直す  | 61%
         - 受け取る | 50%
         - 来る | 40%
@@ -3400,11 +3433,11 @@
                         - Complete statistics
               - SUPPLEMENT
                 - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
-                  - Videosweepmark: 11:34
+                  - Videosweepmark: 11:34 2336
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:18:02
+        - Videosweepmark: 1:32:00
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3430,7 +3463,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 16_Unit 3 Purpose Clauses](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=17)
-        - Videosweepmark: 5:00
+        - Videosweepmark: 8:17 NEXT
         - ListStamp: 17
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

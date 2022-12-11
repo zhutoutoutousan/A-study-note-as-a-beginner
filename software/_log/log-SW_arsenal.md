@@ -104,6 +104,8 @@
 
 # New Tech
 - dbforge
+# AI
+- lazypredict
 
 # Preferences
 - Dark mode everywhere

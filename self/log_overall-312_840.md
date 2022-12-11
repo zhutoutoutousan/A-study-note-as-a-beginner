@@ -161,8 +161,9 @@
       - 高质量
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
-            - Prunemark: -0:29
-            - FlashcardificationNeuralStimulationSaturation: 0%
+            - Prunemark: \$-0:40 | STATE: FROZEN if under 60%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 54.4%
+              - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
       - _config
@@ -205,9 +206,10 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 3.3%
-                  - 36-46 | STATE: FROZEN if under 60%
-                - FlashcardificationNeuralStimulationSaturation: 69%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 8.7%
+                  - 36-50 | STATE: FROZEN if under 60%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 54.4%: \[80%-100%\]
+                  - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
         - Cross-mind-palace Orchestration Logic Set Design
@@ -409,9 +411,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 27.9%
+                  - CCS: 28.1%
                   - ETA: 8.5 months
-                  - TEMP_TIMESTAMP: 1:17
+                  - TEMP_TIMESTAMP: 2:20
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -438,7 +440,7 @@
                               - ASYNC MIRROR [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
                                 - SUPPLEMENT
                                   - [Jordan Peterson and the Writing Process](https://www.youtube.com/watch?v=X3otsJZWKbk)
-                                    - Videosweepmark: 22:39 TTL
+                                    - Videosweepmark: 22:00
                                     - Language pair: Portuguese | Russian
                               - SOURCING The 22 immutable laws of branding
                               - METHOD Pinnacle reverse engineering
@@ -468,6 +470,7 @@
                             - Language pair: French | Italian | Portuguese
                         - **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research
                           - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
+                            - Videosweepmark: 1:10
                           - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
                           - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
                           - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
@@ -892,6 +895,7 @@
           - Videosweepmark: 13:00
       - Technical Analysis
         - Supply & Demand ^ Support & Resistance
+        - Market Structure Analysis
         - Volume Analaysis
           - SUPPLEMENT
             - ContinuousStimulationUnit [A Complete Guide To Volume Price Analysis 2013](https://drive.google.com/file/d/10eOI0wz9VNWNpSfRCT3KfMmnq6zBvK_6/view?usp=sharing)
@@ -915,15 +919,80 @@
             - Triangle `TTL="5%"`
             - Channel
           - Method
-      - End-to-end encapsulation
-        - GENESIS
-          - [How to Place a Trade from Start to Finish](https://www.youtube.com/watch?v=xlmBMfhtokQ)
-        - BEFORE_EXECUTION
-          - [Moving Average Crossover: DONT DO IT](https://www.youtube.com/watch?v=b2QpsIdEkfk&list=PLv-X125JpAa2wX8f05GryHEK5b4O2LyTF&index=2)
-            - Listmark: 2
-        - ON_EXECUTION
-        - AFTER_EXECUTION
-          - Post-mortem
+        - Strategy & Execution
+          - _motivation
+            - *Learning French while accidentally getting mature with trading strategies*
+          - Strategy & Execution Toolkit
+            - Indicators
+            - Instructor
+              - MT4
+                - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
+                  - Videosweepmark: 3:30
+                - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
+              - TradingView
+                - Backtesting
+              - `sourcing(CONTEXT, REASON)`
+            - Diagramming
+              - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
+            - Indicator
+              - Volume fighter
+              - ADX & DI
+              - SSL Channel
+              - StairMaster
+              - RSI
+                - RSI divergence
+              - Ichimoku Cloud
+                - [Ichimoku Cloud: What It Means and How to Use It](https://www.youtube.com/watch?v=H9eILCI5nJo)
+          - MICRO
+            - Fundamentals: Automation
+              - **PRIORITIZED** Coding
+                - [TradingView Pine Script Tutorial - SMA - Simple Moving Average](https://www.youtube.com/watch?v=wBx0ebKJcG0&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=2)
+                  - Videosweepmark: 9:42
+                  - Listmark: 2
+              - Trade agent
+            - Strategy Lists
+              - Bollinger Brand Strategy
+              - Stair Master Strategy
+                - [Stair Master Strategy 1 min, 5 min, 15 min Forex Scalping](https://www.youtube.com/watch?v=Eog_3-dYrMA)
+          - MESO
+            - Instrument Personality
+              - [XAUUSD Scalping Strategy](https://www.youtube.com/watch?v=oDOCBTYgCQM)
+          - MACRO
+            - Small/Agile Fund: Happy times - Typical yield: 200% in a week
+              - Trading Style(Technical)
+                - Scalp Trade
+                  - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
+                    - Videosweepmark: 13:00
+                  - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
+                    - Videosweepmark: 6:00
+                  - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
+                    - Videosweepmark: 9:30
+                - Trend Trade
+                - Breakout Trade
+                - Sideway Trade
+            - Intermediate Fund: Transition period - Typical yield: -5%-10% within one month
+              - LOCKED Get more than $5M to unlock
+                - Quant
+                - Distributed account
+                - Broker
+                - Trust
+                - Trading Regulations 101
+                - Professional CFA/CPA
+            - Huge Fund: More is different - Typical yield: -5%-60% within a year
+              - LOCKED Unlock after gaining $1B
+                - Hedging
+                - Quant
+                - Highly Regulated Market
+                - Professional CFA/CPA
+          - End-to-end encapsulation
+            - GENESIS
+              - [How to Place a Trade from Start to Finish](https://www.youtube.com/watch?v=xlmBMfhtokQ)
+            - BEFORE_EXECUTION
+              - [Moving Average Crossover: DONT DO IT](https://www.youtube.com/watch?v=b2QpsIdEkfk&list=PLv-X125JpAa2wX8f05GryHEK5b4O2LyTF&index=2)
+                - Listmark: 2
+            - ON_EXECUTION
+            - AFTER_EXECUTION
+              - Post-mortem
     - Ecosystem: Pre-fundamental Analysis
       - Genesis Market Analysis: 1984, 2022, and beyond
         - Resonance: House of cards VS Factories of Shinies
@@ -937,59 +1006,9 @@
       - Secondary Market Analysis
         - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
           - Videosweepmark : 7:00
-    - Strategy
-      - _motivation
-        - *Learning French while accidentally getting mature with trading strategies*
-      - Meso Strategy
-        - Fundamentals: Automation
-          - Coding
-            - [TradingView Pine Script Tutorial - SMA - Simple Moving Average](https://www.youtube.com/watch?v=wBx0ebKJcG0&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=2)
-              - Videosweepmark: 3:00
-              - Listmark: 2
-          - Trade agent
-      - Macro Strategy
-        - Small/Agile Fund: Happy times - Typical yield: 200% in a week
-          - Scalp Trade
-            - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
-              - Videosweepmark: 13:00
-            - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
-              - Videosweepmark: 6:00
-            - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
-              - Videosweepmark: 9:30
-          - Trend Trade
-        - Intermediate Fund: Transition period - Typical yield: -5%-10% within one month
-          - LOCKED Get more than $5M to unlock
-            - Quant
-            - Distributed account
-            - Broker
-            - Trust
-            - Trading Regulations 101
-            - Professional CFA/CPA
-        - Huge Fund: More is different - Typical yield: -5%-60% within a year
-          - LOCKED Unlock after gaining $1B
-            - Hedging
-            - Quant
-            - Highly Regulated Market
-            - Professional CFA/CPA
     - MAGNET Quant
       - `pollFromGlobal(ROOT)`
-    - Tooling
-      - Instructor
-        - MT4
-          - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
-            - Videosweepmark: 3:30
-          - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
-        - TradingView
-          - Backtesting
-        - `sourcing(CONTEXT, REASON)`
-      - Diagramming
-        - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
-      - Indicator
-        - Volume fighter
-        - ADX & DI
-        - SSL Channel
-        - StairMaster
-        - RSI
+    - Logistics
       - RPA ^ Trading
         - Quant
           - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
@@ -2109,7 +2128,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
             - CCS: 39.8%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 5:01
+            - TEMP_TIMESTAMP: 7:31
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2122,10 +2141,6 @@
               - Akaike criterion
               - Schwarz criterion
               - Hannan-Quinn
-            - Tooling
-              - [x] Tableau public
-              - [x] [Dataset](https://www.superdatascience.com/pages/training)
-              - [ ] ESG Dataset
             - TANDEM
               - [SDS 041: An inspiring journey from a totally different background to Data Science](https://www.superdatascience.com/podcast/sds-041-inspiring-journey-totally-different-background-data-science)
           - **Web 5.0+**
@@ -2144,7 +2159,7 @@
                 - [Lecture 2: !](https://www.youtube.com/watch?v=f5nbT4xQqwI)
                   - Videomark: 20:00
               - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
-                - Videosweepmark: 13:30
+                - Videosweepmark: 14:30
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 40:10
                   - RIGGED: SATURATE_CHILDREN
@@ -2257,71 +2272,90 @@
           - congiungere | 60%
           - ingiuriare | 30%
         - MAGNET `noun`
-  - Politics & Public Relations
+  - **UNSTABLE** Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
       - Videosweepmark: 1:11:44
-  - Branding, Fashion, Faces
-  - Micro/Meso/Mass Power Management bzw. Media
+  - **UNSTABLE** Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
     - Fully automated distributed propagation agent: No loose ends
-  - **NEW MUTATION**
-    - The art of contemporary trench warfare
-      - Generics
-        - Tao of War
-      - Warfares
-        - Macro warfare
-          - Zeitgeist warfare
-          - PR warfare
-          - Business warfare
-          - Financial warfare
-        - Meso warfare
-          - Ecosystem warfare
-        - Micro warfare
-      - Instruments
-        - Covert Entity Partnership
-        - DEPRECATED | TMT instruments
-          - *Only valid when the market is occupied by PIGs to slaughter*
-        - Legal instruments
-          - IP
-            - Intellectual Property: Inventors, Entrepreneurs, Creators - U
-              - `WARNING: No italian subtitle`
-            - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-              - CCS: 6.3%
-              - TEMP_TIMESTAMP: 1:06
-  - **NEW MUTATION** Sales, Pre-sale
-    - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
-      - Language pair: French - Italian
-  - **NEW MUTATION** Branding
-  - Neuromarketing, Consumer Mind Nudge/Control, Automated Closed-loop `pain2profit` Converter
-    - NPTEL IIT - Consumer Psychology
-      - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
-        - PROCESSING POINTER FIELD
-          - Videosweepmark: 27:30
-        - continuousStimulationUnit
-          - Full Sales Lifecycle Information Flow
-          - Practical Benefit, Unusual benefit
-          - Segment bounding
-      - PsyOps Recap
-        - MACRO
-          - \[REDACTED\]
-        - MESO
-          - \[REDACTED\]
-        - MICRO
-          - \[REDACTED\]
-      - Market Segmentation
-        - In-place Morphism
-          - Physics
-            - Medium
-              - `local.ATTACHABLE` Photochromic fiber
-          - Software
-  - Competitor liquidation & engulfment: Orchestration & Automation
+  - **NEW MUTATION** Business Architecture & Network
+    - Business Network
+    - Business Architecture
+      - Generic
+        - Standard 9.2 - Part 1 Foundation Enterprise Architect Course - U
+      - Business Orchestration
+        - Business Model
+          - SaaS Business Model
+            - Lifecycle
+              - Subscription
+              - One-time
+            - Pricing
+              - Flat-rate
+              - Composite
+      - **NEW MUTATION** Business Backend
+        - HR
+      - **NEW MUTATION** Business Frontend
+        - **NEW MUTATION** Sales, Pre-sale
+          - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
+              - PROCESSING POINTER FIELD
+                - Videosweepmark: 3:30
+            - Language pair: French - Italian
+        - **NEW MUTATION** Branding
+        - **MUTATION** Marketing
+          - NPTEL IIT - Consumer Psychology
+            - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
+              - PROCESSING POINTER FIELD
+                - Videosweepmark: 27:30
+              - continuousStimulationUnit
+                - Full Sales Lifecycle Information Flow
+                - Practical Benefit, Unusual benefit
+                - Segment bounding
+            - PsyOps Recap
+              - MACRO
+                - \[REDACTED\]
+              - MESO
+                - \[REDACTED\]
+              - MICRO
+                - \[REDACTED\]
+            - Market Segmentation
+              - In-place Morphism
+                - Physics
+                  - Medium
+                    - `local.ATTACHABLE` Photochromic fiber
+                - Software
+  - **MUTATION** Business as war
+    - **NEW MUTATION** Generics
+      - The art of contemporary trench warfare
+        - Generics
+          - Tao of War
+        - Warfares
+          - Macro warfare
+            - Zeitgeist warfare
+            - PR warfare
+            - Business warfare
+            - Financial warfare
+          - Meso warfare
+            - Ecosystem warfare
+          - Micro warfare
+        - Instruments
+          - Covert Entity Partnership
+          - DEPRECATED | TMT instruments
+            - *Only valid when the market is occupied by PIGs to slaughter*
+          - Legal instruments
+            - IP
+              - Intellectual Property: Inventors, Entrepreneurs, Creators - U
+                - `WARNING: No italian subtitle`
+              - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
+                - CCS: 6.3%
+                - TEMP_TIMESTAMP: 1:06
     - Financial toolkit
       - Forensic Accounting
       - Financial instrument attack
     - PR toolkit
-      - Supply chain frisking
+      - Supply chain frisking & PR sabotage
       - Regulation & Compliance investigation
-      - Short Agency collab
+      - Short Agency collab & *2022+:全民华尔街*
+        - FTX
       - Case study
         - ZXG --> MTG
       - Psychological warfare(PsyOps)
@@ -2343,7 +2377,7 @@
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
           - CCS: 24.2%
-          - TEMP_TIMESTAMP
+          - TEMP_TIMESTAMP: 7:30
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2408,9 +2442,9 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 16.2%
+      - CCS: 16.5%
       - ETC: 5.8 months
-      - TEMP TIMESTAMP: 2:30
+      - TEMP TIMESTAMP: 4:00
       - `States`
         - `isForcedHandsOn`: `true`
           - RESOURCE_STORE
@@ -2460,7 +2494,7 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 81.7%
+      - CCS: 82.1%
       - E.T.A: 2.06 months
       - TEMP_TIMESTAMP
       - States
@@ -2489,7 +2523,10 @@
   - TOPIC: Copywriting
 - Language Development M&C --> `_root_processing-language-meta`
   - Executing Strategy
-  - Adjustment Plan
+  - Adjustment Panel
+    - **ENFORCED** Taper: 20% | *All sector traffic will be operating on 20% capacity*
+      - EXCEPTION `IMMUNE` will not be affected
+      - `TTL=1d`
   - Assessment Transcript
     - `WARNING: French and German sectors are approaching threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
     - `ERROR: Chinese and English sectors are beyond the threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
@@ -2618,10 +2655,10 @@
         - LOCKED Achieve Upper B1 to unlock
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic Phrases Sentences, (Part-3)](https://www.youtube.com/watch?v=PAi30KW97xQ&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=3)
-          - Videosweepmark: 25:00
+          - Videosweepmark: 30:30
           - VideoListStamp: 3
         - [Arabic Grammar For All - Lesson 7 - Detached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=PV4d37-uAbQ&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=7)
-          - Videosweepmark: 15:00
+          - Videosweepmark: 21:31 NEXT
           - VideoListStamp: 7
     - MICRO
       - STATIC
@@ -2647,7 +2684,7 @@
         - `verb`
           - 80% | قلب
             - [The Present Jussive: Arabic Grammar Unpacked](https://www.youtube.com/watch?v=7Xeomph6sIM)
-              - Videosweepmark: 5:00
+              - Videosweepmark: 6:00
           - 73% | قَدَّمَ
           - 75% | وفر
           - 30% | فَهِمَ
@@ -3066,11 +3103,12 @@
               - RandomThoughts
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
-      - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
+      - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 34.6%
+        - CCS: 43.1%
         - TEMP_TIMESTAMP: 1:00
+          - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7%
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
@@ -3222,7 +3260,7 @@
   - _meta
     - tool
       - Duolingo Browser Version
-  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);  `
+  - `CREATE TABLE dutch.meta AS (SELECT * FROM german.meta UNION ALL SELECT * FROM language.meta);`
   - CREATE `your own digitalized philosophy`: Philosophy is nothing more than a set of nested meta data structures with converges at some depths here and there
   - In tandem with your Udemy/YouTube courses associated with `bleeding edge` technologies
     - Web3
@@ -3239,6 +3277,20 @@
   - Tooling
     - [HieroglyphicsTranslator](https://lingojam.com/HieroglyphicsTranslator)
 - Icelandic - N/A
+- Mathematics - `ERROR: AssessmentMetric not available`
+  - INNOVATION Software ^ Mathematics
+    - Puzzle Marketplace
+      - *A Web3-based App where people can share, post, co-solve, get rewarded math puzzles from the easiest to the most hardcore problem the world has yet to solve*
+    - Literature Gamification Center
+      - *A metaverse-based App where people can co-share the past validated wisdom of mankind in a digital NFT-backed world*
+  - Logistics and Toolings
+    - Overleaf:LaTeX
+  - Mathematic Puzzle Solvings
+    - Source
+      - [Mathpuzzle](https://www.mathpuzzle.com/)
+    - MAGNET Call for existing and forthcoming Math puzzles
+    - SolutionCollections
+  - Mathematic Gym for Basics
 - Japanese - Mid N4+++++
   - Keyboard input improvement
   - Tool
@@ -3278,7 +3330,7 @@
     - MESO
       - Grammar Japanese-* Bundle
         - [にくい It's difficult to...in Japanese](https://www.youtube.com/watch?v=qKbysEzHWXw&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn)
-          - Videosweepmark: 3:00
+          - Videosweepmark: 4:00
           - Listmark: 1
         - [【Ｎ３文法】～うちに](https://www.youtube.com/watch?v=zRDINPcshiM&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=3)
           - Videosweepmark: 4:00
@@ -3289,12 +3341,12 @@
           - Language pair SHUFFLE: Japanese - German
           - Videosweepmark: 6:00
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
-          - Videosweepmark: 8:13
+          - Videosweepmark: 11:00
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
-            - Videosweepmark: 7:00
+            - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
-          - Videosweepmark: 1:16
+          - Videosweepmark: 3:17
           - Language pair SHUFFLE: Japanese - Italian
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
           - Language pair SHUFFLE: Japanese - Russian
@@ -3384,27 +3436,29 @@
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
         - описывать | 5%
-        - преобразовать
-        - избегать
-        - представлять
+        - преобразовать | 60%
+        - избегать | 40%
+        - представлять | 10%
         - возвращать
       - **Предлог**
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
-      - ?
+      - **местоимения**
         - вот
         - такой
+      - **фраза**
         - Таким образом
       - MAGNET **прилагательное**
-        - текущий | 20%
+        - текущий | 40%
         - смежный | 50%
-        - отрицательный | 20%
+        - отрицательный | 80%
         - кратчайший | 10%
           - [Comparative and Superlative forms of Russian Adjectives](https://www.youtube.com/watch?v=fpewHKX41yg)
-          - [Intermediate Russian. Making Comparisons: Superlative Adjectives](https://www.youtube.com/watch?v=BsOBZOk_Mqs)
+            - Videosweepmark: 5:00
           - [Superlative Form of Adjectives | Russian Language](https://www.youtube.com/watch?v=uUX4FnQlTiY)
+            - Videosweepmark: 7:00
           - [Comparing Adjectives | Russian Language](https://www.youtube.com/watch?v=2gry_uFtg0Y)
-            - Videosweepmark: 3:20: 3.3%
+            - Videosweepmark: 3:20
       - MAGNET **наречие**
       - **существительное**
         - тюрьма | 50%
@@ -3532,8 +3586,8 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 16_Unit 3 Purpose Clauses](https://www.youtube.com/watch?v=qVT2laUqlbk&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=18)
-        - Videosweepmark NEXT
+      - [Learn Ancient Greek: 18_Unit 4 Two new types of first declension nouns](https://www.youtube.com/watch?v=M7QDWv43Oyc&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=18)
+        - Videosweepmark: 3:00
         - ListStamp: 18
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
@@ -3625,4 +3679,3 @@ Consistently confused...
             - Statement of Plan of Attack: Randomtelewalk
             - INTERIM_PROCESSING_POINTER_FIELD
               - Randomtelewalk: 46
-                - Saturation: 2%

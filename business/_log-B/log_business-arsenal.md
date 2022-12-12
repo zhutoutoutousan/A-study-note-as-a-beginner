@@ -1,6 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Centralized personal business dashboard](#centralized-personal-business-dashboard)
+- [Business RPA](#business-rpa)
 - [Presentation](#presentation)
 - [Scheduling](#scheduling)
 - [AI-assisted Writing](#ai-assisted-writing)
@@ -15,6 +16,9 @@
   - [Context Pool](#context-pool)
 # Centralized personal business dashboard
 - https://bloom.sh/
+
+# Business RPA
+- [WeChaty](https://wechaty.js.org/docs/wechaty)
 
 # Presentation
 - 极客汇报体

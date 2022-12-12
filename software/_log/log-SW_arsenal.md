@@ -1,25 +1,16 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [_INBOUND_CACHE](#_inbound_cache)
+- [\_INBOUND\_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
 - [Next Gen](#next-gen)
 - [New Tech](#new-tech)
+- [AI](#ai)
 - [Preferences](#preferences)
 - [AI toolkit](#ai-toolkit)
 - [Networking-related](#networking-related)
-- [Shiny Object Journey](#shiny-object-journey)
-- [Unidentified tools](#unidentified-tools)
-- [Best practice arsenal](#best-practice-arsenal)
-- [Multiple Screen](#multiple-screen)
-- [Tech profiling](#tech-profiling)
-- [壮丁集群/分布式壮丁结点管理](#壮丁集群分布式壮丁结点管理)
-  - [机器辅助壮丁](#机器辅助壮丁)
-  - [自动化壮丁采集器](#自动化壮丁采集器)
-  - [一体化壮丁集群/分布结点效率提升](#一体化壮丁集群分布结点效率提升)
-    - [打字速度](#打字速度)
-    - [通用快捷键使用](#通用快捷键使用)
-- [Renovation plan](#renovation-plan)
-- [Startup软件开发军火库 - 优选](#startup软件开发军火库---优选)
+- [Development Arsenal](#development-arsenal)
+  - [User Experience](#user-experience)
+  - [Uncategorized](#uncategorized)
 - [团队软件开发军火库](#团队软件开发军火库)
 - [Bleeding edge arsenal - Pillars of Boundries](#bleeding-edge-arsenal---pillars-of-boundries)
   - [Use Cases Boundry](#use-cases-boundry)
@@ -28,9 +19,9 @@
     - [Frontend](#frontend)
     - [Backend](#backend)
       - [Node.js](#nodejs)
-      - [Uncategorized](#uncategorized)
+      - [Uncategorized](#uncategorized-1)
     - [DX](#dx)
-    - [Q & A](#q--a)
+    - [Q \& A](#q--a)
 - [New Tech Ventures](#new-tech-ventures)
 - [Frontend DDD design practice and its applications](#frontend-ddd-design-practice-and-its-applications)
   - [Information gathering](#information-gathering)
@@ -135,47 +126,27 @@
 - Wireshark
 - Burp Suite - Community Edition
 - Fiddler
-
-# Shiny Object Journey
 - AWS CodeWhisperer
 - Copilot
 - Docker
   - Docker: WSL 2 integration with distro Ubuntu 20.04 unexpectedly stopped with exit code 1
     - `The command 'docker' could not be found in this WSL 2 distro. We recommend to activate the WSL integration in Docker Desktop settings.`
 - Svelte
-# Unidentified tools
 - Bridgecrew
-
-# Best practice arsenal
 - Realworld
   - [Realworld example apps](https://github.com/gothinkster/realworld)
-
-
-# Multiple Screen
 - WindowGrid- WindowGrid
-
-# Tech profiling
 - https://archive.ph/
 - waybackmachine
-
-# 壮丁集群/分布式壮丁结点管理
-## 机器辅助壮丁
-- GitHub Copilot
-## 自动化壮丁采集器
-- _source
-- Hackerrank
-
-## 一体化壮丁集群/分布结点效率提升
-### 打字速度
-### 通用快捷键使用
 - CLI
   - Clear current: Ctrl+U
 - Vscode 
   - Find closing tag: Balance out + Keyboard binding Balance ou
+# Development Arsenal
+## User Experience
+- [Algolia](https://www.algolia.com/de/)
 
-# Renovation plan
-
-# Startup软件开发军火库 - 优选
+## Uncategorized
 - Mindset
   - XP
     - [eXtreme](https://github.com/eXtremeProgramming-cn/www.extremeprogramming.cn/blob/master/content/about-us.md)

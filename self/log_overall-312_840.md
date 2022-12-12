@@ -162,7 +162,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-0:40 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 54.4%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 57.7%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -208,7 +208,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 8.7%
                   - 36-50 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 54.4%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 57.7%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -279,22 +279,41 @@
     - Reach at least P1 Level of all peripheral 7 languages backed by 5-7 years' valid industry, academic, or role-based experience
     - Overall proficiency in meta languages i.e. Data, Mathematics, and Product
     - Related area for BCI, JSON/YAML, linguistics, information theory, and information circulation theory
-  - Use Case: *When sentiments stop mattering*
   - Evaluation Sample
     - P9
       - Scenario Test: *You're trapped in an alien world where others use flickering light to communicate, and you wondered in a mural showcasing an ancient made-up lanugage used by ancient alien species. Find a way home.*
-  - `JSON` as interpersonal communication medium
+  - `JSON` as Interpersonal Communication Medium
     - **LOCKED**: Requires at least 5-8 yrs of valid, high-quality general cloud computing, PR, Enterprise IT experience
     - BCI Integration
-      - **LOCKED**: Requires at least 
+      - **LOCKED**
   - Infographics
     - [Illustrator CC Tutorial | 3D Graphic Design | Infographic Design template 04](https://www.youtube.com/watch?v=NgByDWnTkps&list=PLJ9GmWsyVYjQaqsGfHBb_1d_MzE2DeHKw)
     - [Adobe After Effects: Complete Course from Novice to Expert](https://www.udemy.com/course/after-effects-kinetic-typography/learn/lecture/8294894#overview)
     - [Graphic Design Masterclass - Learn GREAT Design](https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/learn/lecture/16503232#overview)
     - [Graphic Design Masterclass Intermediate: The NEXT Level](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/learn/lecture/18045771#overview)
     - [After Effects CC Expressions: Design & Animate Infographics](https://www.udemy.com/course/adobe-after-effects-expressions-create-motion-infographics/learn/lecture/29129978#overview)
-  - Mathematics
-    - `SCATTERED`
+  - USD: Universal Scene Descriptor
+    - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
+  - Mathematics - `ERROR: AssessmentMetric not available`
+    - INNOVATION Modern Product ^ Mathematics
+      - Puzzle Marketplace
+        - *A Web3-based App where people can share, post, co-solve, get rewarded math puzzles from the easiest to the most hardcore problem the world has yet to solve*
+      - Literature Gamification Center
+        - *A metaverse-based App where people can co-share the past validated wisdom of mankind in a digital NFT-backed world*
+    - Logistics and Toolings
+      - Overleaf:LaTeX
+    - Mathematic Puzzle Solvings
+      - Source
+        - [Mathpuzzle](https://www.mathpuzzle.com/)
+      - MAGNET Call for existing and forthcoming Math puzzles
+      - MELTING_POT ProblemSet RAM
+        - Orchard-Planting Problem
+          - [Cultivating New Solutions for the Orchard-Planting Problem](https://blog.wolfram.com/2018/02/02/cultivating-new-solutions-for-the-orchard-planting-problem/)
+    - Mathematic Gym for Basics
+      - Logic
+      - Algebra
+      - Geometry
+      - Probability & Statistics
 - English - Post C2 --> `bymaverse`
   - Post C2 Gradings
     - A: A1, A2
@@ -411,9 +430,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 28.1%
+                  - CCS: 28.5%
                   - ETA: 8.5 months
-                  - TEMP_TIMESTAMP: 2:20
+                  - TEMP_TIMESTAMP
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -427,6 +446,7 @@
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
+                    - Chebyshev Inequality
                   - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
                     - Acronym fluency: PV, N, I/Y, PMT, HPR
                   - SUPPLEMENTS
@@ -899,11 +919,11 @@
         - Volume Analaysis
           - SUPPLEMENT
             - ContinuousStimulationUnit [A Complete Guide To Volume Price Analysis 2013](https://drive.google.com/file/d/10eOI0wz9VNWNpSfRCT3KfMmnq6zBvK_6/view?usp=sharing)
-              - PROCESSING_POINTER: 12
+              - PROCESSING_POINTER: 14
           - VSA
           - VAM
             - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
-              - Videosweepmark: 24:10
+              - Videosweepmark: 34:22
         - Amount Analysis
           - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
             - Videosweepmark: 49:00
@@ -946,9 +966,9 @@
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
-                - [TradingView Pine Script Tutorial - SMA - Simple Moving Average](https://www.youtube.com/watch?v=wBx0ebKJcG0&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=2)
-                  - Videosweepmark: 9:42
-                  - Listmark: 2
+                - [Multiple Indicators In One - TradingView Pine Script Tutorial](https://www.youtube.com/watch?v=FozRpyvBtBk&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=3)
+                  - Videosweepmark
+                  - Listmark: 3
               - Trade agent
             - Strategy Lists
               - Bollinger Brand Strategy
@@ -1391,7 +1411,6 @@
                     - Financial Risk
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
-- Mathematics as Language:`communication-medium` - `ERROR: RATING SYSTEM MISSING`
 - German - Upper C1+++++ --> *Strive for perfection*
   - **BH | QR**
     - **EXTREME_EFFORT** **Continuous Stimulation Unit** | **IDLE_SHUFFLE**
@@ -2126,9 +2145,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 39.8%
+            - CCS: 40.3%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 7:31
+            - TEMP_TIMESTAMP: 1:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2157,7 +2176,13 @@
                 - Videomark: 5:14/2:05:53
               - Power and Politics in Today’s World
                 - [Lecture 2: !](https://www.youtube.com/watch?v=f5nbT4xQqwI)
-                  - Videomark: 20:00
+                  - Videomark: 25:00
+                  - ROOT BUBBLE_UP Bymaverse - Pre-built Mental Facility: n-d linear timeline with 3-layer node depth of characters, events etc.
+                    - USE CASE Political Hypothesis, Extrapolation Analysis, Multi-timeframe Analysis
+                    - PREREQUISITE ROOT BUBBLE_UP Bymaverse - Pre-built Mental Facility: 1-d linear timeline with 3-layer node depth of characters, events etc.
+                    - METRIC `get_memory_drawdown(time_stamp)`
+                    - METRIC *Minimal Combat Effective Metric Set*
+                    - METHOD Backtracking
               - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
                 - Videosweepmark: 14:30
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
@@ -2376,8 +2401,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 24.2%
-          - TEMP_TIMESTAMP: 7:30
+          - CCS: 25.8%
+          - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2494,9 +2519,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 82.1%
+      - CCS: 82.4%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 2:01
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2524,9 +2549,6 @@
 - Language Development M&C --> `_root_processing-language-meta`
   - Executing Strategy
   - Adjustment Panel
-    - **ENFORCED** Taper: 20% | *All sector traffic will be operating on 20% capacity*
-      - EXCEPTION `IMMUNE` will not be affected
-      - `TTL=1d`
   - Assessment Transcript
     - `WARNING: French and German sectors are approaching threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
     - `ERROR: Chinese and English sectors are beyond the threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
@@ -2655,7 +2677,7 @@
         - LOCKED Achieve Upper B1 to unlock
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic Phrases Sentences, (Part-3)](https://www.youtube.com/watch?v=PAi30KW97xQ&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=3)
-          - Videosweepmark: 30:30
+          - Videosweepmark: 36:45 NEXT
           - VideoListStamp: 3
         - [Arabic Grammar For All - Lesson 7 - Detached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=PV4d37-uAbQ&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=7)
           - Videosweepmark: 21:31 NEXT
@@ -2684,7 +2706,7 @@
         - `verb`
           - 80% | قلب
             - [The Present Jussive: Arabic Grammar Unpacked](https://www.youtube.com/watch?v=7Xeomph6sIM)
-              - Videosweepmark: 6:00
+              - Videosweepmark: 10:00
           - 73% | قَدَّمَ
           - 75% | وفر
           - 30% | فَهِمَ
@@ -3106,8 +3128,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 43.1%
-        - TEMP_TIMESTAMP: 1:00
+        - CCS: 50%
+        - TEMP_TIMESTAMP
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7%
@@ -3167,16 +3189,26 @@
                 - TEMP_TIMESTAMP
           - PROCESSING_POINTER_STORE
       - Web Dev --> `this.concurrentTraffic = 1`
-        - ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
-          - Videosweepmark: 5:00
+        - Backend & System Programming
+          - ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
+            - Videosweepmark: 5:00
+          - [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/10551206)
+            - TEMP_TIMESTAMP: 2:46
           - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
             - TEMP_TIMESTAMP: 5:02
+          - [The Rust Programming Language](https://www.udemy.com/course/rust-lang/learn/lecture/4288542)
+            - CCS: 1.5%
+        - Next-gen Web Dev: Web3 + AR/XR
+          - [Augmented Reality for Everyone - Full Course](https://www.youtube.com/watch?v=WzfDo2Wpxks)
+            - _motivation: *Learning Spanish while accidentally getting into AR development*
+            - Videosweepmark: 0:39
         - SUPPLEMENT
           - YT API
       - AI related(Coding-based)
         - SUPPLEMENT
           - ContinuousStimulationUnit Matrix Calculus/theory-coding connection/intuition-instruction connection
             - [Matrix Calculus (Slightly Advanced)](https://www.youtube.com/watch?v=IgAr5kzza78)
+        - [Graph Theory - U](https://www.udemy.com/course/graph-theory/learn/lecture/21643044#overview)
         - [Modern Deep Learning in Python - U](https://www.udemy.com/course/data-science-deep-learning-in-theano-tensorflow/learn/lecture/24472128)
           - CCS
           - TEMP_TIMESTAMP: 5:00
@@ -3277,20 +3309,6 @@
   - Tooling
     - [HieroglyphicsTranslator](https://lingojam.com/HieroglyphicsTranslator)
 - Icelandic - N/A
-- Mathematics - `ERROR: AssessmentMetric not available`
-  - INNOVATION Software ^ Mathematics
-    - Puzzle Marketplace
-      - *A Web3-based App where people can share, post, co-solve, get rewarded math puzzles from the easiest to the most hardcore problem the world has yet to solve*
-    - Literature Gamification Center
-      - *A metaverse-based App where people can co-share the past validated wisdom of mankind in a digital NFT-backed world*
-  - Logistics and Toolings
-    - Overleaf:LaTeX
-  - Mathematic Puzzle Solvings
-    - Source
-      - [Mathpuzzle](https://www.mathpuzzle.com/)
-    - MAGNET Call for existing and forthcoming Math puzzles
-    - SolutionCollections
-  - Mathematic Gym for Basics
 - Japanese - Mid N4+++++
   - Keyboard input improvement
   - Tool
@@ -3332,9 +3350,9 @@
         - [にくい It's difficult to...in Japanese](https://www.youtube.com/watch?v=qKbysEzHWXw&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn)
           - Videosweepmark: 4:00
           - Listmark: 1
-        - [【Ｎ３文法】～うちに](https://www.youtube.com/watch?v=zRDINPcshiM&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=3)
-          - Videosweepmark: 4:00
-          - Listmark: 3
+        - [【Ｎ３文法】～おかげ](https://www.youtube.com/watch?v=zNwGvXmd378&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=4)
+          - Videosweepmark: 1:20
+          - Listmark: 4
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
@@ -3454,19 +3472,19 @@
         - отрицательный | 80%
         - кратчайший | 10%
           - [Comparative and Superlative forms of Russian Adjectives](https://www.youtube.com/watch?v=fpewHKX41yg)
-            - Videosweepmark: 5:00
+            - Videosweepmark: 10:00
           - [Superlative Form of Adjectives | Russian Language](https://www.youtube.com/watch?v=uUX4FnQlTiY)
-            - Videosweepmark: 7:00
+            - Videosweepmark: 8:00 TTL
           - [Comparing Adjectives | Russian Language](https://www.youtube.com/watch?v=2gry_uFtg0Y)
             - Videosweepmark: 3:20
       - MAGNET **наречие**
       - **существительное**
         - тюрьма | 50%
         - родитель | 20%
-        - края
-        - перёд
-        - предотвращение
-        - идентификатор
+        - края | 30%
+        - перёд | 90%
+        - предотвращение | 40%
+        - идентификатор | 60%
         - шаблон
       - MAGNET **Местоимение**
         - весь | 20%
@@ -3587,7 +3605,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 18_Unit 4 Two new types of first declension nouns](https://www.youtube.com/watch?v=M7QDWv43Oyc&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=18)
-        - Videosweepmark: 3:00
+        - Videosweepmark: 8:00
         - ListStamp: 18
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

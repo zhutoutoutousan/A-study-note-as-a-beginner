@@ -161,8 +161,8 @@
       - 高质量
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
-            - Prunemark: \$-0:40 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 57.7%
+            - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 60.7%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -208,7 +208,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 8.7%
                   - 36-50 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 57.7%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 60.7%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -241,6 +241,7 @@
         - Context Switch Energy Loss Reduction
           - ASYNC MIRROR Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理
             - [link](https://drive.google.com/file/d/1UCC09976DX0McDjHkEHR5Bv9MmVVUyqr/view?usp=sharing)
+            - CONCURRENT Developing a Multithreaded Kernel From Scratch!
   - TOPIC: 法理学, 基于数据的东方哲学发展史, 数据化历史动画演绎/`Chinese.Infographics(context).unknownFunction`
     - 面向未来的东方法理学: Web3, 元宇宙, AR
     - 东方文化下的金融原住民 & 数字原住民问题
@@ -274,14 +275,6 @@
       - `ROOT.medium.GenericLanguageUseCaseOutReach.Relationship.Cooperation`
   - `ROOT.medium.GenericLanguageUseCaseOutReach.Redacteds`
 - Meta Language
-  - Prerequisite
-    - Reach at least P3 Level of all mainstream 5 languages, no more than P5 level
-    - Reach at least P1 Level of all peripheral 7 languages backed by 5-7 years' valid industry, academic, or role-based experience
-    - Overall proficiency in meta languages i.e. Data, Mathematics, and Product
-    - Related area for BCI, JSON/YAML, linguistics, information theory, and information circulation theory
-  - Evaluation Sample
-    - P9
-      - Scenario Test: *You're trapped in an alien world where others use flickering light to communicate, and you wondered in a mural showcasing an ancient made-up lanugage used by ancient alien species. Find a way home.*
   - `JSON` as Interpersonal Communication Medium
     - **LOCKED**: Requires at least 5-8 yrs of valid, high-quality general cloud computing, PR, Enterprise IT experience
     - BCI Integration
@@ -294,26 +287,119 @@
     - [After Effects CC Expressions: Design & Animate Infographics](https://www.udemy.com/course/adobe-after-effects-expressions-create-motion-infographics/learn/lecture/29129978#overview)
   - USD: Universal Scene Descriptor
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
-  - Mathematics - `ERROR: AssessmentMetric not available`
-    - INNOVATION Modern Product ^ Mathematics
-      - Puzzle Marketplace
-        - *A Web3-based App where people can share, post, co-solve, get rewarded math puzzles from the easiest to the most hardcore problem the world has yet to solve*
-      - Literature Gamification Center
-        - *A metaverse-based App where people can co-share the past validated wisdom of mankind in a digital NFT-backed world*
-    - Logistics and Toolings
-      - Overleaf:LaTeX
-    - Mathematic Puzzle Solvings
-      - Source
-        - [Mathpuzzle](https://www.mathpuzzle.com/)
-      - MAGNET Call for existing and forthcoming Math puzzles
-      - MELTING_POT ProblemSet RAM
-        - Orchard-Planting Problem
-          - [Cultivating New Solutions for the Orchard-Planting Problem](https://blog.wolfram.com/2018/02/02/cultivating-new-solutions-for-the-orchard-planting-problem/)
-    - Mathematic Gym for Basics
-      - Logic
-      - Algebra
-      - Geometry
-      - Probability & Statistics
+    - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
+      - Videosweepmark: 5:00
+      - RANDOM Language Pair: German-Xhosa
+      - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
+    - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+    - [NVIDIA Community Stream | Deep Dive: Universal Scene Description & Material Definition Language](https://www.youtube.com/watch?v=e9AUTHbgspI)
+    - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ&list=PLse3mG11e92RbNE0hKxel6NzxlAkzdYuU)
+  - Modern, Futuristic, Agile, Self-evolving Academia
+    - Modern, Futuristic, Agile, Self-evolving Physics
+    - **ACTIVE** Modern, Futuristic, Agile, Self-evolving Mathematics - `ERROR: AssessmentMetric not available`
+      - RUNNING `constructAssessmentMetric(ROOT.context, ROOT.interface.searchForContext(default_security_group))`
+      - MANDATORY Problem Solving
+        - ROOT M&C
+          - RUNNING `checkPrincipleAdherence("DRY")`
+          - RUNNING `checkPrincipleAdherence("KISS")`
+        - Mathematics as Language
+          - Source
+            - Calculus - G. Strang
+              - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
+              - LEGACY
+                - Process 1(Study for APS): 35/671
+                - This book introduces calculus with some interesting examples
+            - Advanced engineering mathematics - Erwin kreyszig AS `my_first_mathematical_gym`
+              - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
+              - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
+              - RUNNING `ROOT.unknownScripts[0]`
+                - RUNNING `ROOT.unknownScripts[0].selfDiscovery(self, context)`
+            - Mathematics for Machine Learning
+              - [link1](https://mml-book.github.io/book/mml-book.pdf)
+            - Advanced calculus - L.H.Loomis
+              - [link1](http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
+            - Discrete mathematics
+              - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
+              - Discrete Mathematics for computer science students
+                - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
+                  - LEGACY Progress: 14/344
+                    - Visualizing process
+          - UPGRADE Processing-level Upgrades
+            - *Its volatility of intellectual demands dictate that it serves very good as system upgrade triggerer*
+          - UPGRADE DANGER ROOT-level Upgrades IMPLEMENTS `getAllSecurityGroups()`
+          - PIPELINE Processing Pipeline
+            - Initial Cache
+              - CACHE Processing Space LIMIT 1
+                - _schema
+                  - Problem Statement as JSON
+                  - Problem Context as JSON
+                  - Problem Solutino as JSON
+                  - `WARNING:` Regression
+                    - Problem Statement as LaTeX-ified
+                    - Problem Context as LaTeX-ified
+                    - Problem Solutino as LaTeX-ified
+                - TOOLING _
+                  - ChatGPT, GPT-3
+                  - TBD
+                - INSTANCE `my_first_mathematical_gym.getPage("788").getFuzzySearch("Chicken and broccoli tells me to look at 5-7 plates for better cow MOO!")`
+                  - [ ] COMMAND `upsertJSONified(this)`
+                  - CONCURRENT SUPPLEMENT CURIOSITY_OUTREACH LIMIT 3
+                    - `my_first_mathematical_gym.getPreviousTeleportLocation(type="Book Pages", then=getLocationValue()).output()`: 445
+                    - Potential Theory
+                      - [Fundamentals of Potential Theory](https://www.youtube.com/watch?v=yKxHYhSFpAE)
+                        - Videoswepmark: 
+            - Bymaverse Initial Data Curation
+              - LaTeX-ification
+              - JSON-ification
+        - Mathematics as Mind-enhancer
+          - MAGNET Recreational Puzzles LIMIT 3
+            - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
+              - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
+              - CONT. is saturated with value, it has a particular value set $V_v$.
+              - Q1 Solve for $m$
+              - Q2 Suppose there's a particular schema $S$ applied to message-passing nodes that separate them to BFS passing and DFS passing, solve for $m$
+              - Q3 Suppose every node edge has an activation function $f(x)$ with network delay $t_d$, analyze the boundry condition where $m$ becomes dependent on delay mechanism
+                - [Electromagnetic Boundary Conditions Explained](https://www.youtube.com/watch?v=_FS6csrxBPU)
+                - [Transfer Matrix Method Explained](https://www.youtube.com/watch?v=XuSxmb9-viY)
+                - [Gauss' Law with Negative Charge](https://www.youtube.com/watch?v=3i_m9Z9m6iI)
+                - [Chief Ray and Field Stop Explained](https://www.youtube.com/watch?v=TU2RniM-MzU)
+                  - Videosweepmark: 3:30
+              - S Q1-Q2 Solved link on Overleaf/LaTeX hosted site: [Hypothetical link](#)
+      - SUPPLEMENT
+        - [Analysis I - Terence Tao](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
+          - LEGACY Process 1:
+            - Goal: Just for fun
+            - Progress: 24/366
+          - LEGACY Process 2
+            - Goal: Get familiar with Mathematical logics
+            - Progress: 323/320-366
+        - [Analysis II Terence Tao](https://github.com/WMX567/Math-learning/blob/master/Analysis%20II%20Terence%20Tao.pdf)
+        - Combinatorics
+          - [Combinatorics: The Art of Counting](https://users.math.msu.edu/users/bsagan/Books/Aoc/final.pdf)
+            - LEGACY Progress: 22/325
+      - INNOVATION Modern Product ^ Mathematics
+        - Puzzle Marketplace
+          - *A Web3-based App where people can share, post, co-solve, get rewarded math puzzles from the easiest to the most hardcore problem the world has yet to solve*
+        - Literature Gamification Center
+          - *A metaverse-based App where people can co-share the past validated wisdom of mankind in a digital NFT-backed world*
+      - Logistics and Toolings
+        - Overleaf:LaTeX
+      - Mathematic Puzzle Solvings
+        - `MUTATION -ZENABLE`: Minimal Zenable Neural State
+        - Source
+          - [Mathpuzzle](https://www.mathpuzzle.com/)
+        - MAGNET Call for existing and forthcoming Math puzzles
+        - MELTING_POT ProblemSet RAM
+          - Orchard-Planting Problem
+            - [Cultivating New Solutions for the Orchard-Planting Problem](https://blog.wolfram.com/2018/02/02/cultivating-new-solutions-for-the-orchard-planting-problem/)
+      - Mathematic Gym for Basics
+        - Logic
+        - Algebra
+        - Geometry
+        - Probability & Statistics
+      - Random Encounters LIMIT 3 DEPTH 3
+        - [The T b-theorem on non-homogeneous spaces that proves a conjecture of Vitushkin](https://arxiv.org/pdf/1401.2479.pdf)
+          - [A followup on non-homogeneous spaces.](https://mathoverflow.net/questions/89542/a-followup-on-non-homogeneous-spaces)
 - English - Post C2 --> `bymaverse`
   - Post C2 Gradings
     - A: A1, A2
@@ -430,7 +516,7 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 28.5%
+                  - CCS: 31.9%
                   - ETA: 8.5 months
                   - TEMP_TIMESTAMP
                   - _hook
@@ -449,6 +535,7 @@
                     - Chebyshev Inequality
                   - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
                     - Acronym fluency: PV, N, I/Y, PMT, HPR
+                    - Skewness, Kurtosis
                   - SUPPLEMENTS
                     - SKILL
                       - ONCE
@@ -468,8 +555,7 @@
                             - Whitepapers in the wild
                               - Arsenal construction
                               - Reverse Engineering Pipeline
-                                - SUPPLEMENT
-                                  - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
+                                - SUPPLEMEN
                                   - [THORChain - Let's Read The Whitepaper](https://www.youtube.com/watch?v=jofxGwll6LM)
                                   - [AWS White Paper Walkthrough - Security Overview of AWS Lambda March 2019](https://www.youtube.com/watch?v=xEq-0isx03c)
                                     - Videosweepmark: 5:00
@@ -488,14 +574,29 @@
                                       - Hero Image
                                       - Content Navigation
                             - Language pair: French | Italian | Portuguese
-                        - **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research
-                          - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
-                            - Videosweepmark: 1:10
-                          - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
-                          - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
-                          - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
-                            - McMaster Business Data and Statistics --> `TO business_arsenal`
-                                - Videosweepmark : 10:02
+                        - **UNSTABLE** **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research --> MOVE TO *Italian Sector/Business Frontend/Marketing*
+                          - _motivation: *Learning English --> Italian while accidentally becoming more knowledgeable at business frontend/marketing*
+                          - CONFIG Language Pair: Italian/French
+                          - ?
+                            - Marketing Campaign
+                              - [Creating PROFITABLE Marketing Campaigns](https://www.youtube.com/watch?v=3ACaCJ8_S3g)
+                            - Marketing Research
+                              - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
+                                - Videosweepmark: 1:10
+                              - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
+                              - [Marketing Research 2023: How to Find Your Competitor's Secrets (Step-by-Step)](https://www.youtube.com/watch?v=_sTcYI23LJw)
+                              - [How To Do Market Research (Market Research 101)](https://www.youtube.com/watch?v=kFM72UJhW8s)
+                              - [marketing research for beginners, understanding marketing research fundamentals](https://www.youtube.com/watch?v=apm0wH9HU0Y)
+                              - [EXACTLY how I do market research for new products](https://www.youtube.com/watch?v=S4mLTKvvqdo)
+                              - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
+                                - McMaster Business Data and Statistics --> `TO business_arsenal`
+                                    - Videosweepmark : 10:02
+                              - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
+                                - Videosweepmark: 5:00
+                                - Tooling --> `business_arsenal`
+                                  - Google Trend
+                                  - 百度指数
+                                  - Ubersuggest
                           - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
                     - KNOWLEDGE
                       - STATIC
@@ -536,7 +637,7 @@
                                 - Conflict Lifecycle
                           - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
                             - Videosweepmark: 5:30
-                        - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM)
+                        - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM) | TTL
                         - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
               - **BLACKHOLE**
                 - **ACTIVE_RESEARCH_UNIT**
@@ -926,7 +1027,7 @@
               - Videosweepmark: 34:22
         - Amount Analysis
           - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-            - Videosweepmark: 49:00
+            - Videosweepmark: 53:55 TTL
             - Multiple timeframe coordination 
         - Timing Analysis
           - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
@@ -954,7 +1055,23 @@
               - `sourcing(CONTEXT, REASON)`
             - Diagramming
               - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
-            - Indicator
+            - Indicator IMPLEMENTS `general_language_development_strategy`
+              - Moving Average
+                - EMA
+                - SMA
+                - MACD | 2%
+                  - Source
+                    - [MACD Trading Strategy](https://www.youtube.com/watch?v=rf_EQvubKlk)
+                      - Videosweepmark: 4:30
+                  - `M&C`
+                    - Source Code
+                    - Implementation
+                    - Low-level intuition & proficiency
+                    - Combo outreach proficiency
+                    - TBD
+              - Support & Resistance
+                - [Master The Support and Resistance Trading Strategy](https://www.youtube.com/watch?v=MSzOocvljqc)
+                  - Videosweepmark: 3:30
               - Volume fighter
               - ADX & DI
               - SSL Channel
@@ -966,14 +1083,15 @@
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
-                - [Multiple Indicators In One - TradingView Pine Script Tutorial](https://www.youtube.com/watch?v=FozRpyvBtBk&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=3)
-                  - Videosweepmark
-                  - Listmark: 3
+                - [Custom Settings With Inputs - TradingView Pine Script Tutorial 3](https://www.youtube.com/watch?v=4U0vnJkl0Qw&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=4)
+                  - Videosweepmark: 10:46 NEXT
+                  - Listmark: 4
               - Trade agent
             - Strategy Lists
               - Bollinger Brand Strategy
               - Stair Master Strategy
                 - [Stair Master Strategy 1 min, 5 min, 15 min Forex Scalping](https://www.youtube.com/watch?v=Eog_3-dYrMA)
+                  - Videosweepmark: 3:41
           - MESO
             - Instrument Personality
               - [XAUUSD Scalping Strategy](https://www.youtube.com/watch?v=oDOCBTYgCQM)
@@ -1302,8 +1420,8 @@
                 - Saturation: 18%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 39-194/ &5.4
-                      - QualmStack LIMIT 5: 3.13-17, &5?, &5.2, 5.5
+                    - *Double mapping* | 40-195/ &6.1
+                      - QualmStack LIMIT 5: 3.13-17, &5?, &5.2, 5.5, 5.4@20%
                         - *If QualmStack overflows, divert all traffic to Concentrated Supplement to eliminate them*
                         - 4.5
                           - Memorandum Account, nominal ledger
@@ -1338,7 +1456,7 @@
                       - Videosweepmark : 16:40
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
-                      - Videosweepmark: 7:30
+                      - Videosweepmark: 12:30
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
                     - [7. Value At Risk (VAR) Models](https://www.youtube.com/watch?v=92WaNz9mPeY)
                   - Sales Tax
@@ -1412,6 +1530,9 @@
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - German - Upper C1+++++ --> *Strive for perfection*
+  - CHANGE_LOG
+    - 2022/12/14
+      - Sensing extremely lowered energy consumption when consuming technical documentation written in German
   - **BH | QR**
     - **EXTREME_EFFORT** **Continuous Stimulation Unit** | **IDLE_SHUFFLE**
       - _root_meta
@@ -1598,18 +1719,6 @@
             - CCS: 28.3%
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
             - Videosweepmark: 20:31 --> `this.concurrentTraffic = ?`
-            - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
-              - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
-              - CONT. is saturated with value, it has a particular value set $V_v$.
-              - Q1 Solve for $m$
-              - Q2 Suppose there's a particular schema $S$ applied to message-passing nodes that separate them to BFS passing and DFS passing, solve for $m$
-              - Q3 Suppose every node edge has an activation function $f(x)$ with network delay $t_d$, analyze the boundry condition where $m$ becomes dependent on delay mechanism
-                - [Electromagnetic Boundary Conditions Explained](https://www.youtube.com/watch?v=_FS6csrxBPU)
-                - [Transfer Matrix Method Explained](https://www.youtube.com/watch?v=XuSxmb9-viY)
-                - [Gauss' Law with Negative Charge](https://www.youtube.com/watch?v=3i_m9Z9m6iI)
-                - [Chief Ray and Field Stop Explained](https://www.youtube.com/watch?v=TU2RniM-MzU)
-                  - Videosweepmark: 3:30
-              - S Q1-Q2 Solved link on Overleaf/LaTeX hosted site: [Hypothetical link](#)
             - ?
               - ?
                 - [Existential physics: answering life's biggest questions - with Sabine Hossenfelder](https://www.youtube.com/watch?v=fl9oDJzfg58)
@@ -2145,9 +2254,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 40.3%
+            - CCS: 41.2%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 1:00
+            - TEMP_TIMESTAMP: 5:20
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2158,8 +2267,12 @@
               - Adjusted R-squared
               - Log-likelihood
               - Akaike criterion
+                - [Akaike, Schwarz's Bayesian, and Hannan-Quinn Information Criterion](https://www.youtube.com/watch?v=Jgg3fQ_9NDg)
+                  - Videosweepmark: 5:00
               - Schwarz criterion
+                - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg)
               - Hannan-Quinn
+              - CAP Curve
             - TANDEM
               - [SDS 041: An inspiring journey from a totally different background to Data Science](https://www.superdatascience.com/podcast/sds-041-inspiring-journey-totally-different-background-data-science)
           - **Web 5.0+**
@@ -2184,7 +2297,7 @@
                     - METRIC *Minimal Combat Effective Metric Set*
                     - METHOD Backtracking
               - [Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267](https://www.youtube.com/watch?v=5zOHSysMmH0)
-                - Videosweepmark: 14:30
+                - Videosweepmark: 20:30
               - PERSISTENT [A Survey of Proof-of-Stake (PoS) Blockchain Designs with Valeria Nikolaenko |   crypto research](https://www.youtube.com/watch?v=mZ-Ya7NRDxM)
                 - Videosweepmark: 40:10
                   - RIGGED: SATURATE_CHILDREN
@@ -2303,7 +2416,7 @@
   - **UNSTABLE** Micro/Meso/Mass Power Management bzw. Media
     - Distributed Staus Quo Field Management: Minimize energy loss from context switch among different political/PR fields
     - Fully automated distributed propagation agent: No loose ends
-  - **NEW MUTATION** Business Architecture & Network
+  - **MUTATION** Business Architecture & Network
     - Business Network
     - Business Architecture
       - Generic
@@ -2317,20 +2430,20 @@
             - Pricing
               - Flat-rate
               - Composite
-      - **NEW MUTATION** Business Backend
+      - **MUTATION** Business Backend
         - HR
-      - **NEW MUTATION** Business Frontend
-        - **NEW MUTATION** Sales, Pre-sale
+      - **MUTATION** Business Frontend
+        - **MUTATION** Sales, Pre-sale
           - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
               - PROCESSING POINTER FIELD
-                - Videosweepmark: 3:30
+                - Videosweepmark: 13:30
             - Language pair: French - Italian
         - **NEW MUTATION** Branding
         - **MUTATION** Marketing
           - NPTEL IIT - Consumer Psychology
             - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
               - PROCESSING POINTER FIELD
-                - Videosweepmark: 27:30
+                - Videosweepmark: 32:30
               - continuousStimulationUnit
                 - Full Sales Lifecycle Information Flow
                 - Practical Benefit, Unusual benefit
@@ -2401,8 +2514,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 25.8%
-          - TEMP_TIMESTAMP
+          - CCS: 28.7%
+          - TEMP_TIMESTAMP: 1:05
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2433,6 +2546,11 @@
             - whatweb
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
+          - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
+            - CCS: 0.3%
+            - TEMP_TIMESTAMP: 1:31
+            - _motivation
+              - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals*
           - Network Programming Hands-on
             - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
               - Videosweepmark: 2:00
@@ -2467,7 +2585,7 @@
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
     - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 16.5%
+      - CCS: 17.2%
       - ETC: 5.8 months
       - TEMP TIMESTAMP: 4:00
       - `States`
@@ -2487,7 +2605,7 @@
       - BLOCKERS
         - Extended muscle memory training
           - CURRENT_RESOURCE
-            - Saturation: 25%
+            - Saturation: 3.4%
       - **Continuous Stimulation Unit**
         - Autolayout
         - Component & Variance
@@ -2519,9 +2637,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 82.4%
+      - CCS: 83.7%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP: 2:01
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2659,7 +2777,7 @@
       - TOPIC Quality Double-Subtitle Resource
         - Illustra Media
           - [ORIGIN Arabic](https://www.youtube.com/watch?v=TGrO5LsJZlU)
-            - Videosweepmark: 10:03
+            - Videosweepmark: 17:00
       - TOPIC Key to the world of Arabic
       - TOPIC: Jurisprudence and Shariah Law
         - Jurisprudence Lectures
@@ -2670,18 +2788,13 @@
         - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
           - Videosweepmark: 1:00
     - MESO
-      - Frequently used vocabulary
-        - _source
-        - LOCKED Achieve Lower B1 to unlock
-      - Metadigging for entry-level fluency for unlocking more valid input channels
-        - LOCKED Achieve Upper B1 to unlock
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic language grammar FREE understand Quran | Mapping Arabic Phrases Sentences, (Part-3)](https://www.youtube.com/watch?v=PAi30KW97xQ&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=3)
-          - Videosweepmark: 36:45 NEXT
-          - VideoListStamp: 3
-        - [Arabic Grammar For All - Lesson 7 - Detached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=PV4d37-uAbQ&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=7)
-          - Videosweepmark: 21:31 NEXT
-          - VideoListStamp: 7
+        - [Learn Arabic language grammar FREE understand Quran | The Four properties of ISM اسم, [#01-P1]](https://www.youtube.com/watch?v=Y3n7gw0I3Lk&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=5)
+          - Videosweepmark: 13:30 NEXT
+          - VideoListStamp: 5
+        - [Arabic Grammar For All - Lesson 8 - Attached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=C2X1WIWrl7Y&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=8)
+          - Videosweepmark: 15:30 2152
+          - VideoListStamp: 8
     - MICRO
       - STATIC
         - General Noun Usage Proficiency
@@ -2991,8 +3104,6 @@
         - THROTTLE INFREQUENT In-person Collaboration Rigor
         - Hybrid Collaboration Rigor
         - DAO/Virtual Collaboration Rigor
-  - TOPIC System Implementation
-    - Rust programming language
   - TOPIC System Design
     - Real-life
       - Payment System
@@ -3013,6 +3124,11 @@
           - [Modernizing high value payment systems](https://www.youtube.com/watch?v=F3xFrYVPABo)
     - Generic
       - Software system design
+        - Software Architecture & Technology of Large-Scale Systems - U
+          - CCS: 0.3%
+          - TEMP_TIMESTAMP: 0:55
+          - Language Pair: `ERROR: Spanish unavailable, use Dutch as failover`
+          - _motivation: *Learning Dutch while accidentally getting with Software Architecture Design*
         - TRANSIT *From a Blockchain resource in German sector*
           - Next-gen Distributed Computing
             - [Distributed Systems 1.1: Introduction](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
@@ -3128,11 +3244,11 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 50%
-        - TEMP_TIMESTAMP
+        - CCS: 60.1%
+        - TEMP_TIMESTAMP: p
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
-          - Value: 7%
+          - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814) | **IDLE_SHUFFLE**
         - CCS: 26.3%
         - TEMP_TIMESTAMP: 1:14
@@ -3196,7 +3312,7 @@
             - TEMP_TIMESTAMP: 2:46
           - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
             - TEMP_TIMESTAMP: 5:02
-          - [The Rust Programming Language](https://www.udemy.com/course/rust-lang/learn/lecture/4288542)
+          - ASYNC MIRROR EXTERN [The Rust Programming Language](https://www.udemy.com/course/rust-lang/learn/lecture/4288542)
             - CCS: 1.5%
         - Next-gen Web Dev: Web3 + AR/XR
           - [Augmented Reality for Everyone - Full Course](https://www.youtube.com/watch?v=WzfDo2Wpxks)
@@ -3237,6 +3353,8 @@
       - Inflow RPA & Infra
         - LIFECYCLE Pre-inflow
           - TOUCHPOINT ChatBots: Messenger ChatBot - DialogFlow and nodejs - U
+    - Growth Mode
+      - [Reid Hoffman: The Secrets of Blitzscaling](https://www.youtube.com/watch?v=J-4J9gP1pIo)
   - TOPIC Enterprise IT, digital transformation, cloud computing
     - SysOps/Cyber Basics
       - [Tryhackme](https://tryhackme.com/)
@@ -3275,6 +3393,8 @@
   - BASICS
     - Typewriting
     - Tooling
+  - TOPIC Griftism: Tao of Contemporary Meta-war
+    - Silent Plagiarism: Eventual Checkmate Strategy
   - TOPIC Content Creation
   - TOPIC Se7en
   - TOPIC Offensive Public Relations
@@ -3325,7 +3445,7 @@
       - 化学工学基礎
         - [【理工学部 場の量子論・素粒子論研究室 ／ 三角樹弘 准教授】物理学で見るミクロとマクロ　〜量子論と相対論の世界〜](https://www.youtube.com/watch?v=KR4WFnCk4nM)
           - N/A
-          - Videosweepmark: 38:00
+          - Videosweepmark: 41:30
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-4（コンデンサ）](https://www.youtube.com/watch?v=OVTO7G930Mg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=13)
@@ -3347,19 +3467,22 @@
         - 連体形
     - MESO
       - Grammar Japanese-* Bundle
-        - [にくい It's difficult to...in Japanese](https://www.youtube.com/watch?v=qKbysEzHWXw&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn)
-          - Videosweepmark: 4:00
-          - Listmark: 1
+        - [やすい "It's easy to..."in Japanese](https://www.youtube.com/watch?v=xIPCbiHs-io&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=2)
+          - Videosweepmark: 5:11
+          - Listmark: 2
+          - ?
+            - ってね
         - [【Ｎ３文法】～おかげ](https://www.youtube.com/watch?v=zNwGvXmd378&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=4)
           - Videosweepmark: 1:20
           - Listmark: 4
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
+        - [【ずに】without -ing in Japanese | N3 grammar](https://www.youtube.com/watch?v=DeG70pFtQno)
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 6:00
-        - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Videosweepmark: 11:00
+        - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
+          - Videosweepmark: 14:40
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
             - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
@@ -3453,39 +3576,27 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
-        - описывать | 5%
-        - преобразовать | 60%
-        - избегать | 40%
-        - представлять | 10%
-        - возвращать
       - **Предлог**
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
       - **местоимения**
-        - вот
-        - такой
+        - такой | 10%
+          - `ERROR Parent should be determiner`
       - **фраза**
         - Таким образом
       - MAGNET **прилагательное**
-        - текущий | 40%
-        - смежный | 50%
-        - отрицательный | 80%
         - кратчайший | 10%
-          - [Comparative and Superlative forms of Russian Adjectives](https://www.youtube.com/watch?v=fpewHKX41yg)
-            - Videosweepmark: 10:00
-          - [Superlative Form of Adjectives | Russian Language](https://www.youtube.com/watch?v=uUX4FnQlTiY)
-            - Videosweepmark: 8:00 TTL
           - [Comparing Adjectives | Russian Language](https://www.youtube.com/watch?v=2gry_uFtg0Y)
-            - Videosweepmark: 3:20
+            - Videosweepmark: 8:04
       - MAGNET **наречие**
       - **существительное**
-        - тюрьма | 50%
-        - родитель | 20%
-        - края | 30%
-        - перёд | 90%
-        - предотвращение | 40%
-        - идентификатор | 60%
-        - шаблон
+        - тюрьма | 60%
+        - родитель | 90%
+        - края | 70%
+        - перёд | 95%
+        - предотвращение | 70%
+        - идентификатор | 80%
+        - шаблон | 60%
       - MAGNET **Местоимение**
         - весь | 20%
       - ?
@@ -3535,7 +3646,7 @@
         - ?
           - Story proof for mathematics
             - [The letter that revealed Ramanujan's genius](https://www.youtube.com/watch?v=XFsuRxospbU)
-            - [The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy](https://www.youtube.com/watch?v=I4pQbo5MQOs)
+            - [The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy](https://www.youtube.com/watch?v=I4pQbo5MQOs) 237
             - [Is Mathematics invented or discovered](https://www.youtube.com/watch?v=X_xR5Kes4Rs)
         - Mosteller-Wallace
         - ASYNC MIRROR Bookpair --> `LEGACY erudition/mathematics`
@@ -3579,7 +3690,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:40:00
+        - Videosweepmark: 1:50:00
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3604,9 +3715,9 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 18_Unit 4 Two new types of first declension nouns](https://www.youtube.com/watch?v=M7QDWv43Oyc&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=18)
-        - Videosweepmark: 8:00
-        - ListStamp: 18
+      - [Learn Ancient GreeK: 20_Unit 4 Attributive and predicative position and function](https://www.youtube.com/watch?v=6x8-RlKQMbs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=20)
+        - Videosweepmark: 1:30
+        - ListStamp: 20
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
@@ -3657,6 +3768,7 @@
             - [Polya explains the problem solving technique](https://www.youtube.com/watch?v=h0gbw-Ur_do) - 2:35
     - Mathemathical thinking
       - [Minerva Lectures 2013 - Terence Tao Talk 1: Sets with few ordinary lines](https://www.youtube.com/watch?v=6mG9HG4lfgI)
+        - Videosweepmark: 5:00
         - _meta
           - topic
             - theoretical science

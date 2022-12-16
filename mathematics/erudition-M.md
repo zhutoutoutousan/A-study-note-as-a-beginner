@@ -3,8 +3,7 @@
 - [Guidance](#guidance)
 - [Basic tooling](#basic-tooling)
 - [?](#)
-- [Engineering Mathematics](#engineering-mathematics)
-- [Geometry & Topology](#geometry--topology)
+- [Geometry \& Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
   - [General](#general)
 - [Linear algebra](#linear-algebra)
@@ -32,24 +31,6 @@
 # ?
 - [Group Theory - J.S.Milne](https://www.jmilne.org/math/CourseNotes/GT.pdf)
 
-# Engineering Mathematics
-- Calculus - G. Strang
-  - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
-  - Process 1(Study for APS): 35/671
-  - This book introduces calculus with some interesting examples
-- Advanced engineering mathematics - Erwin kreyszig  
-  - [link1](https://soaneemrana.org/onewebmedia/ADVANCED%20ENGINEERING%20MATHEMATICS%20BY%20ERWIN%20ERESZIG1.pdf)
-  - [link2](http://webpages.ius$$t.ac.ir/jazbi/books/10Edition-ErwinKreyszig-AdvancedEngineeringMathematics.pdf)
-- Mathematics for Machine Learning
-  - [link1](https://mml-book.github.io/book/mml-book.pdf)
-- Advanced calculus - L.H.Loomis
-  - [link1](http://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf)
-- Discrete mathematics
-  - [Yale - Discrete mathematics](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
-  - Discrete Mathematics for computer science students
-    - [link1](https://www.kth.se/social/files/557ec6b0f27654784e263d66/fullbook.pdf)
-      - Progress: 14/344
-        - Visualizing process
 # Geometry & Topology
 - Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces
   - [link1](https://www.maths.ed.ac.uk/~v1ranick/papers/seifthreng.pdf)

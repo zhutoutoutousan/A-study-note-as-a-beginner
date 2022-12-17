@@ -1,5 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Startup Kit](#startup-kit)
+  - [SaaS](#saas)
 - [Centralized personal business dashboard](#centralized-personal-business-dashboard)
 - [Business RPA](#business-rpa)
 - [Presentation](#presentation)
@@ -14,6 +16,9 @@
 - [BD](#bd)
 - [Mobility](#mobility)
   - [Context Pool](#context-pool)
+
+# Startup Kit
+## SaaS
 # Centralized personal business dashboard
 - https://bloom.sh/
 

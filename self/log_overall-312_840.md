@@ -162,7 +162,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 60.7%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 57.3%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -206,9 +206,9 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 8.7%
-                  - 36-50 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 60.7%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 5%
+                  - 36-51 | STATE: FROZEN if under 60%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 57.3%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -303,7 +303,17 @@
           - RUNNING `checkPrincipleAdherence("DRY")`
           - RUNNING `checkPrincipleAdherence("KISS")`
         - Mathematics as Language
-          - Source
+          - [Algebraic Topology (MTH-ALT) Lecture 1](https://www.youtube.com/watch?v=4LncEBdKpSE&list=PLp0hSY2uBeP_HDgkCSrG5pccHYfudTJYI)
+            - Videosweepmark: 10:20
+            - CURIOSITY_OUTREACH LIMIT 10 DEPTH 3
+              - Isomorphism
+              - Homeomorphism
+              - DEPTH=1 Fundamental group
+                - DEPTH=2 Homology
+              - Topological Space
+              - Homotopy equivalence
+                - [Algebraic Topology - 11.1 - Homotopy - Examples of Equivalence](https://www.youtube.com/watch?v=Qz8ssfa2ugU)
+          - LEGACY Ad-hoc Store
             - Calculus - G. Strang
               - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
               - LEGACY
@@ -347,7 +357,7 @@
                     - `my_first_mathematical_gym.getPreviousTeleportLocation(type="Book Pages", then=getLocationValue()).output()`: 445
                     - Potential Theory
                       - [Fundamentals of Potential Theory](https://www.youtube.com/watch?v=yKxHYhSFpAE)
-                        - Videoswepmark: 
+                        - Videoswepmark: 5:00
             - Bymaverse Initial Data Curation
               - LaTeX-ification
               - JSON-ification
@@ -516,7 +526,7 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 31.9%
+                  - CCS: 32.7%
                   - ETA: 8.5 months
                   - TEMP_TIMESTAMP
                   - _hook
@@ -2254,9 +2264,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 41.2%
+            - CCS: 42.1%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 5:20
+            - TEMP_TIMESTAMP
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2514,8 +2524,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 28.7%
-          - TEMP_TIMESTAMP: 1:05
+          - CCS: 30.2%
+          - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -2548,7 +2558,7 @@
         - Advanced Network Programming
           - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
             - CCS: 0.3%
-            - TEMP_TIMESTAMP: 1:31
+            - TEMP_TIMESTAMP: 8:31
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals*
           - Network Programming Hands-on
@@ -2637,9 +2647,9 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 83.7%
+      - CCS: 84.5%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 2:30
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2789,11 +2799,11 @@
           - Videosweepmark: 1:00
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic language grammar FREE understand Quran | The Four properties of ISM اسم, [#01-P1]](https://www.youtube.com/watch?v=Y3n7gw0I3Lk&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=5)
-          - Videosweepmark: 13:30 NEXT
+        - [What is إعرَاب I'raab Quiz | Learn Arabic language grammar FREE to understand Quran [#01-P3]](https://www.youtube.com/watch?v=lOPC83hYByo&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=7)
+          - Videosweepmark: 5:13
           - VideoListStamp: 5
         - [Arabic Grammar For All - Lesson 8 - Attached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=C2X1WIWrl7Y&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=8)
-          - Videosweepmark: 15:30 2152
+          - Videosweepmark: 30:41
           - VideoListStamp: 8
     - MICRO
       - STATIC
@@ -3125,8 +3135,8 @@
     - Generic
       - Software system design
         - Software Architecture & Technology of Large-Scale Systems - U
-          - CCS: 0.3%
-          - TEMP_TIMESTAMP: 0:55
+          - CCS: 2%
+          - TEMP_TIMESTAMP
           - Language Pair: `ERROR: Spanish unavailable, use Dutch as failover`
           - _motivation: *Learning Dutch while accidentally getting with Software Architecture Design*
         - TRANSIT *From a Blockchain resource in German sector*
@@ -3244,8 +3254,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 60.1%
-        - TEMP_TIMESTAMP: p
+        - CCS: 62.0%
+        - TEMP_TIMESTAMP
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3487,7 +3497,7 @@
             - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
-          - Videosweepmark: 3:17
+          - Videosweepmark: 8:41
           - Language pair SHUFFLE: Japanese - Italian
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
           - Language pair SHUFFLE: Japanese - Russian
@@ -3690,7 +3700,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 1:50:00
+        - Videosweepmark: 2:00:00
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3716,7 +3726,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient GreeK: 20_Unit 4 Attributive and predicative position and function](https://www.youtube.com/watch?v=6x8-RlKQMbs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=20)
-        - Videosweepmark: 1:30
+        - Videosweepmark: 6:30
         - ListStamp: 20
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

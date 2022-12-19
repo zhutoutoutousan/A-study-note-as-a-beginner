@@ -19,6 +19,7 @@
 
 # Startup Kit
 ## SaaS
+- Hubspot
 # Centralized personal business dashboard
 - https://bloom.sh/
 

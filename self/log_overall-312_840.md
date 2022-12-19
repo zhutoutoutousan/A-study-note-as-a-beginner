@@ -162,7 +162,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 57.3%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 64.2%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -208,7 +208,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 5%
                   - 36-51 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 57.3%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 64.2%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -298,21 +298,96 @@
     - Modern, Futuristic, Agile, Self-evolving Physics
     - **ACTIVE** Modern, Futuristic, Agile, Self-evolving Mathematics - `ERROR: AssessmentMetric not available`
       - RUNNING `constructAssessmentMetric(ROOT.context, ROOT.interface.searchForContext(default_security_group))`
-      - MANDATORY Problem Solving
+      - MANDATORY Minimum Viable Prequisite Development
         - ROOT M&C
           - RUNNING `checkPrincipleAdherence("DRY")`
           - RUNNING `checkPrincipleAdherence("KISS")`
+          - RUNNING `checkPrincipleAdherence("GOTOMARKETIVENESS")`
+            - *Go-to-marketiveness is the MOST IMPORTANT RULE for problem solving catalog build-up, a high quality investment in a particular math puzzle/problem*
+            - *should always be under constant challenge, M&C, point-in-time ranking based on ROOT-level context and ROOT-level strategy*
         - Mathematics as Language
-          - [Algebraic Topology (MTH-ALT) Lecture 1](https://www.youtube.com/watch?v=4LncEBdKpSE&list=PLp0hSY2uBeP_HDgkCSrG5pccHYfudTJYI)
-            - Videosweepmark: 10:20
-            - CURIOSITY_OUTREACH LIMIT 10 DEPTH 3
-              - Isomorphism
-              - Homeomorphism
-              - DEPTH=1 Fundamental group
-                - DEPTH=2 Homology
-              - Topological Space
-              - Homotopy equivalence
-                - [Algebraic Topology - 11.1 - Homotopy - Examples of Equivalence](https://www.youtube.com/watch?v=Qz8ssfa2ugU)
+          - PERSISTENT [Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+          - ?
+            - Rieman Geometry
+              - [An Introduction to Riemannian Geometry with Applications to Mechanics and Relativity](https://www.math.tecnico.ulisboa.pt/~gcardoso/GeoRiem/nata_textb.pdf)
+                - _meta
+                  - *Abbr.*
+                    - PPF: PROCESSING_POINTER_FIELD
+                    - VSM: Videosweepmark
+                - PPF
+                  - RT: 4
+                - SUPPLEMENT LIMIT 5 DEPTH 3
+                  - Hausdorff
+                  - Lie Group
+                  - [Einstein's General Theory of Relativity | Lecture 1](https://www.youtube.com/watch?v=hbmf0bB38h0)
+                    - VSM: 2:45
+                  - [Differentiable Manifolds - 1](https://www.youtube.com/watch?v=mcC8fvqKZG0&list=PLoWHl5YajIf7NqaCGCCEMvaKfhIHHrsQC)
+                    - VSM: 4:47
+                    - [Introduction to Smooth Manifolds](https://www.math.colostate.edu/~renzo/teaching/DiffGeo2011/Introduction%20to%20Smooth%20Manifolds%20-%20J.%20Lee.pdf)
+                      - PPF
+                        - RT: 10
+                  - [Differentiable Manifolds - 1](https://www.youtube.com/watch?v=mcC8fvqKZG0&list=PLoWHl5YajIf7NqaCGCCEMvaKfhIHHrsQC)
+                    - VSM: 4:47
+                    - [Introduction to Smooth Manifolds](https://www.math.colostate.edu/~renzo/teaching/DiffGeo2011/Introduction%20to%20Smooth%20Manifolds%20-%20J.%20Lee.pdf)
+                      - PPF
+                        - RT: 10
+              - [Lecture 1 | Introduction to Riemannian geometry, curvature and Ricci flow | John W. Morgan](https://www.youtube.com/watch?v=ImIQP9szMGs&list=RDCMUCxAGkrJYNlpC1jfnJvE_6Lw&index=1)
+            - [Algebraic Topology (MTH-ALT) Lecture 1](https://www.youtube.com/watch?v=4LncEBdKpSE&list=PLp0hSY2uBeP_HDgkCSrG5pccHYfudTJYI)
+              - Videosweepmark: 10:20
+              - CURIOSITY_OUTREACH LIMIT 10 DEPTH 3
+                - Isomorphism
+                - Homeomorphism
+                  - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
+                    - VSM: 3:48
+                    - Bookpair
+                      - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
+                        - PPF
+                          - RT: 6
+                    - CURIOSITY_OUTREACH LIMIT 5 DEPTH 2
+                      - Open Set
+                      - ?Fuzzy Set Theory based on stochastic interpolated conceptual model
+                      - Set Theory
+                        - [Set Theory | All-in-One Video](https://www.youtube.com/watch?v=5ZhNmKb-dqk)
+                - DEPTH=1 Fundamental group
+                  - DEPTH=2 Homology
+                - Topological Space
+                - Homotopy equivalence
+                  - [Algebraic Topology - 11.1 - Homotopy - Examples of Equivalence](https://www.youtube.com/watch?v=Qz8ssfa2ugU)
+            - [AMMI 2022 Course "Geometric Deep Learning" - Lecture 1 (Introduction) - Michael Bronstein](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+              - Videosweepmark: 26:48
+              - PREREQUISITE Group Theory
+              - PREREQUISITE Category Theory
+              - Language pair: German
+              - SUPPLEMENT LIMIT 5 DEPTH 3
+                - [HILBERT’S 13TH PROBLEM](https://core.ac.uk/download/pdf/12208123.pdf)
+                  - SUPPLEMENT LIMIT 5 DEPTH 2
+                    - [The Geometry of Hilbert's 13th problem - Jesse Wolfson](https://www.youtube.com/watch?v=txaU6NTwxOU)
+                      - VSM: 3:01
+                      - SUPPLEMENT LIMIT 3 DEPTH 1
+                        - LHS - Shutt-Shioda
+                        - RHS - Plaumann-Sturmfels-Vinzant
+                      - PERSISTENT MinimalZenableUnit Hilbert's 13th problem
+                        - ROTE Question Stem
+                          - *Find and understand roots of a polynomial*
+                          - $z^n+a_{1}z^{n-1}+...+a_{n-1}z+a_n$
+              - Codepair
+                - [Pytorch Geometric tutorial: Introduction to Pytorch geometric](https://www.youtube.com/watch?v=JtDgmmQ60x8&list=PLGMXrbDNfqTzqxB1IGgimuhtfAhGd8lHF)
+                  - VSM: 6:02
+              - Confpair
+                - [Geometric Deep Learning and Temporal Graph Networks](https://www.youtube.com/watch?v=PUd_i55sAho)
+                  - Videosweepmark: 1:36
+                - [How to use edge features in Graph Neural Networks (and PyTorch Geometric)](https://www.youtube.com/watch?v=mdWQYYapvR8)
+                - [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo&t=13s)
+              - Bookpair
+                - [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/pdf/2104.13478.pdf)
+                  - PROCESSING Processing
+                    - ?: 6
+                  - CURIOSITY_OUTREACH LIMIT 5 DEPTH 2
+                    - Affine geometry
+                    - Conservation law
+              - ?
+                - Group Invariance Theorem
+                - 13-th problem
           - LEGACY Ad-hoc Store
             - Calculus - G. Strang
               - [link1](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
@@ -339,7 +414,7 @@
           - UPGRADE DANGER ROOT-level Upgrades IMPLEMENTS `getAllSecurityGroups()`
           - PIPELINE Processing Pipeline
             - Initial Cache
-              - CACHE Processing Space LIMIT 1
+              - CACHE Processing Space LIMIT 3
                 - _schema
                   - Problem Statement as JSON
                   - Problem Context as JSON
@@ -358,11 +433,24 @@
                     - Potential Theory
                       - [Fundamentals of Potential Theory](https://www.youtube.com/watch?v=yKxHYhSFpAE)
                         - Videoswepmark: 5:00
+                - INSTANCE Random Encounter
+                  - Source: [Using Gamma and Beta functions](https://math.stackexchange.com/questions/4601270/evaluate-int-0-infty-frac-sqrt5xx21x12dx-using-gamma-and-bet)
+                - INSTANCE Random Encounter: Nash embedding theorem
+                  - Source: [Nash embedding theorem for manifolds with boundary
+                  ](https://mathoverflow.net/questions/345097/nash-embedding-theorem-for-manifolds-with-boundary)
             - Bymaverse Initial Data Curation
               - LaTeX-ification
               - JSON-ification
-        - Mathematics as Mind-enhancer
+        - Mathematics as Mind Enhancer
+          - Source
+            - Books
+              - Mathematical Puzzles: A Connoisseur's Collection
+            - Journals
+              - The Mathematical Intelligencer
+            - Blogs
+              - Terrace Tao
           - MAGNET Recreational Puzzles LIMIT 3
+            - [Goldbug Variations](https://arxiv.org/pdf/math/0501497.pdf)
             - CUSTOMIZED_MATH_PROBLEM Suppose there is a graph $V$ with $m$ nodes, and there are $n$ nodes that passes messages to other nodes in a BFS manner
               - CONT. suppose that every message-passing node $V_n$ starts with 0 and passes message with increment of 1 to other nodes etc.. After graph $V$
               - CONT. is saturated with value, it has a particular value set $V_v$.
@@ -526,8 +614,8 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 32.7%
-                  - ETA: 8.5 months
+                  - CCS: 33.5%
+                  - ETA: 7.4 months
                   - TEMP_TIMESTAMP
                   - _hook
                     - POST_MORTEM
@@ -990,6 +1078,10 @@
           - *Learning French while accidentally mastering Fundamental analysis*
         - CFA, CPA carryover-able basics
         - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
+          - Videosweepmark: 10:43
+          - ?
+            - Scarcity, Ceteris Paribus, Consensus, Expectation Divergence, Opportunity Cost, Nominal divergence
+            - D&S
         - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
           - Videosweepmark: 10:35
           - Pillars of FA | LIMIT RECURSIVE 5
@@ -1025,6 +1117,12 @@
         - [ISR Insights Speaker Series: Consumer sentiment and expectations in an inflationary environment](https://www.youtube.com/watch?v=oielCY3YoPU)
           - Videosweepmark: 13:00
       - Technical Analysis
+        - ?Situational
+          - Breakout Trade
+          - Price-action Trade
+          - Divergence Trade
+          - Sideway Trade
+          - Trend Trade
         - Supply & Demand ^ Support & Resistance
         - Market Structure Analysis
         - Volume Analaysis
@@ -1047,8 +1145,13 @@
         - Pattern Analysis
           - Instance
             - S-curve
-            - Triangle `TTL="5%"`
+            - Triangle
+            - Wedge
+              - [The Rising Wedge Chart Pattern | Price Action Trading](https://www.youtube.com/watch?v=eweJkXeU75Y)
             - Channel
+              - [Bear Price Channel Chart Pattern](https://www.youtube.com/watch?v=NhnDM_Bb3ds)
+              - [How to Trade Channels: Price Action Strategy](https://www.youtube.com/watch?v=mxfFbEAOfUg)
+            - Descending wave
           - Method
         - Strategy & Execution
           - _motivation
@@ -1093,9 +1196,9 @@
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
-                - [Custom Settings With Inputs - TradingView Pine Script Tutorial 3](https://www.youtube.com/watch?v=4U0vnJkl0Qw&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=4)
-                  - Videosweepmark: 10:46 NEXT
-                  - Listmark: 4
+                - [Indicator Source Data - TradingView Pine Script Tutorial 4](https://www.youtube.com/watch?v=31AJX5hFu68&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=5)
+                  - Videosweepmark: 5:10
+                  - Listmark: 5
               - Trade agent
             - Strategy Lists
               - Bollinger Brand Strategy
@@ -2264,9 +2367,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 42.1%
+            - CCS: 42.5%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 4:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2556,11 +2659,12 @@
             - whatweb
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
-          - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
-            - CCS: 0.3%
-            - TEMP_TIMESTAMP: 8:31
+          - **PRIORITIZED** IMMUNE The Complete Networking Fundamentals Course. Your CCNA start - U
+            - CCS: 0.6%
+            - TEMP_TIMESTAMP: 20:00
             - _motivation
-              - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals*
+              - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
+          - CCIE
           - Network Programming Hands-on
             - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
               - Videosweepmark: 2:00
@@ -2647,7 +2751,7 @@
     - Restarted on 2022/6/7
   - TOPIC: WTF?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 84.5%
+      - CCS: 85.0%
       - E.T.A: 2.06 months
       - TEMP_TIMESTAMP: 2:30
       - States
@@ -2676,7 +2780,20 @@
   - TOPIC: Copywriting
 - Language Development M&C --> `_root_processing-language-meta`
   - Executing Strategy
+    - DANGER `getCurrentResonance(context)`
+      - **RIGGED CHURN IRRATIONAL** **Root-level Churn**: *Language is nothing but ton of legacy code stacked over one another where mankind is so sloppy due to abscence of holistic developmental rigorousness*
+        - CONT *for having leveled playing field with hostile alien forces and yet they drown themselves with the false fallacies of attraction of beauty and exoticness for their*
+        - CONT *lack of stimulant for primitive outburst managed in a sophisticated way enough to disguise as civilization. The fact that the world is built on top of such sloppiness*
+        - CONT *is insane in face of any unforseeable celestrial threats only because someone in the world says, let's party instead, for long term w'all'd be dead.*
+        - CONT *Now in the world of curators, people must realize how fxxked-up the underlying system is and probably will be, both on the world of legacy language and legacy systems.*
+        - CONT *Language only serves as pig-slaughting instruments, no more, but in what time is the world short of pigs to slaughter?*
+        - CONT *The only question is, on the chart of Zeitgeist, are we reaching the volume peak of piginess?*
+        - CONT *The negation signal of nepotism from top-down is a sign, but someone's gonna be there, handling the weight*
+        - ACTION Increase Rapport for *Meta Lanugage*
+        - HEDGE *Language evolution is mainly prominent on yearly/century timeframe, all viable instruments takes sophisticated power and influence, one will inevitably lose the spiritual independence, one shall delay such inevitable long enough to leave trace of ration and salvation with precision, consistency, and devotion*
+        - HEDGE *Up until the internal pulsating pain is so great that either an entity steps to the waves or takes the permanent churn*
   - Adjustment Panel
+    - **REVERSED_TAPER** TAPER: *50% effort globally, but all nodes tagged with IMMUNE will double its effort*
   - Assessment Transcript
     - `WARNING: French and German sectors are approaching threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
     - `ERROR: Chinese and English sectors are beyond the threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
@@ -2796,12 +2913,12 @@
             - Bookpair
               - Jurisprudence and legal theory
         - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
-          - Videosweepmark: 1:00
+          - Videosweepmark: ?
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [What is إعرَاب I'raab Quiz | Learn Arabic language grammar FREE to understand Quran [#01-P3]](https://www.youtube.com/watch?v=lOPC83hYByo&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=7)
-          - Videosweepmark: 5:13
-          - VideoListStamp: 5
+        - [Learn Arabic grammar to understand Quran. Arabic nominal sentence [#02-P2]](https://www.youtube.com/watch?v=yMQC3RtCKYI&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=9)
+          - Videosweepmark: 5:11
+          - VideoListStamp: 9
         - [Arabic Grammar For All - Lesson 8 - Attached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=C2X1WIWrl7Y&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=8)
           - Videosweepmark: 30:41
           - VideoListStamp: 8
@@ -3254,8 +3371,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 62.0%
-        - TEMP_TIMESTAMP
+        - CCS: 64.4%
+        - TEMP_TIMESTAMP: 2:44
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3490,14 +3607,14 @@
         - [【ずに】without -ing in Japanese | N3 grammar](https://www.youtube.com/watch?v=DeG70pFtQno)
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 11:00
+          - Videosweepmark: 16:10
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Videosweepmark: 14:40
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
             - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
-          - Videosweepmark: 8:41
+          - Videosweepmark: 14:00
           - Language pair SHUFFLE: Japanese - Italian
         - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
           - Language pair SHUFFLE: Japanese - Russian
@@ -3590,23 +3707,14 @@
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
       - **местоимения**
-        - такой | 10%
-          - `ERROR Parent should be determiner`
       - **фраза**
         - Таким образом
       - MAGNET **прилагательное**
         - кратчайший | 10%
-          - [Comparing Adjectives | Russian Language](https://www.youtube.com/watch?v=2gry_uFtg0Y)
-            - Videosweepmark: 8:04
       - MAGNET **наречие**
       - **существительное**
-        - тюрьма | 60%
-        - родитель | 90%
-        - края | 70%
-        - перёд | 95%
-        - предотвращение | 70%
-        - идентификатор | 80%
-        - шаблон | 60%
+        - тюрьма | 100% TTL
+        - края | 90%
       - MAGNET **Местоимение**
         - весь | 20%
       - ?
@@ -3700,7 +3808,7 @@
                   - CURIOSITY_OUTREACH
                     - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 2:00:00
+        - Videosweepmark: 2:05:11
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3726,7 +3834,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient GreeK: 20_Unit 4 Attributive and predicative position and function](https://www.youtube.com/watch?v=6x8-RlKQMbs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=20)
-        - Videosweepmark: 6:30
+        - Videosweepmark: 8:3
         - ListStamp: 20
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
@@ -3766,7 +3874,7 @@
   - TOPIC Rigorous science
     - Linear Algebra
       - [Linear algebra full course](https://www.youtube.com/watch?v=M2FL6nGmptw) --> 5 min/day
-        - Videomark: 1:08:00/11:40:18
+        - Videomark: 1:15:02/11:40:18
         - Bookpair
         - Linear Algebra Done Wrong
           - [Link1](https://www.math.brown.edu/~treil/papers/LADW/LADW-2014-09.pdf)

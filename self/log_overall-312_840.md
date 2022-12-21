@@ -10,6 +10,8 @@
 - [STICKY Language progression management](#sticky-language-progression-management)
 - [2022/10/29 - The Great Confusion](#20221029---the-great-confusion)
 - [IDEATION MELTINGPOT](#ideation-meltingpot)
+  - [Archive](#archive)
+- [Holiday Poem](#holiday-poem)
 
 # _GLOBAL
 - ContinuousNeuralLevelImprovementUnit --> MOVE TO ROOT_GLOBAL_STATE
@@ -162,7 +164,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 64.2%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -208,7 +210,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 5%
                   - 36-51 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 64.2%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -288,10 +290,11 @@
   - USD: Universal Scene Descriptor
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - Videosweepmark: 5:00
+      - VSM: 5:00
       - RANDOM Language Pair: German-Xhosa
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
     - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
+      - VSM: 5:00
     - [NVIDIA Community Stream | Deep Dive: Universal Scene Description & Material Definition Language](https://www.youtube.com/watch?v=e9AUTHbgspI)
     - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ&list=PLse3mG11e92RbNE0hKxel6NzxlAkzdYuU)
   - Modern, Futuristic, Agile, Self-evolving Academia
@@ -338,23 +341,25 @@
                 - Isomorphism
                 - Homeomorphism
                   - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
-                    - VSM: 3:48
+                    - VSM: 10:04
                     - Bookpair
                       - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
                         - PPF
                           - RT: 6
                     - CURIOSITY_OUTREACH LIMIT 5 DEPTH 2
                       - Open Set
+                      - The curse of dimensionality
                       - ?Fuzzy Set Theory based on stochastic interpolated conceptual model
                       - Set Theory
                         - [Set Theory | All-in-One Video](https://www.youtube.com/watch?v=5ZhNmKb-dqk)
+                          - VSM: 5:03
                 - DEPTH=1 Fundamental group
                   - DEPTH=2 Homology
                 - Topological Space
                 - Homotopy equivalence
                   - [Algebraic Topology - 11.1 - Homotopy - Examples of Equivalence](https://www.youtube.com/watch?v=Qz8ssfa2ugU)
             - [AMMI 2022 Course "Geometric Deep Learning" - Lecture 1 (Introduction) - Michael Bronstein](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
-              - Videosweepmark: 26:48
+              - Videosweepmark: 32:55 --> OVERFLOW: SATURATE_OVERFLOW
               - PREREQUISITE Group Theory
               - PREREQUISITE Category Theory
               - Language pair: German
@@ -362,10 +367,16 @@
                 - [HILBERT’S 13TH PROBLEM](https://core.ac.uk/download/pdf/12208123.pdf)
                   - SUPPLEMENT LIMIT 5 DEPTH 2
                     - [The Geometry of Hilbert's 13th problem - Jesse Wolfson](https://www.youtube.com/watch?v=txaU6NTwxOU)
-                      - VSM: 3:01
-                      - SUPPLEMENT LIMIT 3 DEPTH 1
+                      - VSM: 4:03 --> OVERFLOW: SATURATE_OVERFLOW
+                      - **OVERFLOW** SUPPLEMENT LIMIT 3 DEPTH 1
                         - LHS - Shutt-Shioda
                         - RHS - Plaumann-Sturmfels-Vinzant
+                        - Algebraic function
+                          - Variety
+                          - Finite Rational Correspondence
+                            - [Correspondence of Naturals and Rationals](https://www.youtube.com/watch?v=zwov9o_BgfQ)
+                            - [Video 96 Infinite Sets and 1 to 1 Correspondence](https://www.youtube.com/watch?v=ESJxpOEXzjA)
+                            - [Galois Correspondence for Finite Fields](https://www.youtube.com/watch?v=7Aw141v6VyE)
                       - PERSISTENT MinimalZenableUnit Hilbert's 13th problem
                         - ROTE Question Stem
                           - *Find and understand roots of a polynomial*
@@ -614,9 +625,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 33.5%
+                  - CCS: 35.1%
                   - ETA: 7.4 months
-                  - TEMP_TIMESTAMP
+                  - TEMP_TIMESTAMP: 2:30
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -1134,18 +1145,18 @@
             - [How to Properly Interpret Volume](https://www.youtube.com/watch?v=6tUaSxOJh0o)
               - Videosweepmark: 34:22
         - Amount Analysis
-          - [The UNFAIR Fibonacci Trading Strategy (THE ENDGAME)](https://www.youtube.com/watch?v=Dc6vpxjGQqc)
-            - Videosweepmark: 53:55 TTL
-            - Multiple timeframe coordination 
+          - Fibonacci
+          - S&R
         - Timing Analysis
           - [Day Trading Secrets - How To Enter And Exit Like A Pro](https://www.youtube.com/watch?v=aPHl2oDVuP8&t=1s)
             - Videosweepmark: 8:00
           - [Multiple Time Frame Trading Is Hard, Become An Expert With This Easy 3-Step Trick...](https://www.youtube.com/watch?v=2-ZVyhk-CGk)
-            - Videosweepmark: 21:23
+            - Videosweepmark: 29:30
         - Pattern Analysis
           - Instance
             - S-curve
             - Triangle
+            - Sideway
             - Wedge
               - [The Rising Wedge Chart Pattern | Price Action Trading](https://www.youtube.com/watch?v=eweJkXeU75Y)
             - Channel
@@ -1170,12 +1181,14 @@
               - [Position Size Calculator](https://www.youtube.com/watch?v=y4UoV62T8Jg)
             - Indicator IMPLEMENTS `general_language_development_strategy`
               - Moving Average
+                - [The Only Moving Average Trading Video You Will Ever Need...](https://www.youtube.com/watch?v=hTDVTH8umR8)
+                  - VSM: 20:25
                 - EMA
                 - SMA
                 - MACD | 2%
                   - Source
                     - [MACD Trading Strategy](https://www.youtube.com/watch?v=rf_EQvubKlk)
-                      - Videosweepmark: 4:30
+                      - VSM: 4:30
                   - `M&C`
                     - Source Code
                     - Implementation
@@ -2366,10 +2379,10 @@
     - Competitive Programming
       - _manual-control-override
         - **BLACKHOLE**
-          - Data Science A-Z™: Real-Life Data Science Exercises Included  --> 5min/day
-            - CCS: 42.5%
+          - Data Science A-Z™: Real-Life Data Science Exercises Included
+            - CCS: 44.0%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 4:00
+            - TEMP_TIMESTAMP: 8:20
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2511,17 +2524,17 @@
           - `coldTurkey(this)`
       - STATIC
         - `verb`
-          - lasciare | 90%
-          - consentire | 80%
-          - cerchiare | 90%
-          - spezzare | 80%
-          - battere | 30%
+          - lasciare | 100% TTL
+          - consentire | 100% TTL
+          - cerchiare | 95%
+          - spezzare | 90%
+          - battere | 100% TTL
       - MESO
         - `verb`
       - VOLATILE
         - `verb`
-          - congiungere | 60%
-          - ingiuriare | 30%
+          - congiungere | 100% TTL
+          - ingiuriare | 50%
         - MAGNET `noun`
   - **UNSTABLE** Politics & Public Relations
     - [Ben Shapiro: Politics | Lex Fridman Podcast](https://www.youtube.com/watch?v=AF8DOS4C2KM)
@@ -2549,7 +2562,10 @@
         - **MUTATION** Sales, Pre-sale
           - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
               - PROCESSING POINTER FIELD
-                - Videosweepmark: 13:30
+                - Videosweepmark: 14:30
+              - NEW Pre-sale Mindset: COPY * FROM day_trading | REMOVE
+              - NEW Start-up arsenals --> `business_arsenal#startup`
+                - CrowdX
             - Language pair: French - Italian
         - **NEW MUTATION** Branding
         - **MUTATION** Marketing
@@ -2660,8 +2676,8 @@
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
           - **PRIORITIZED** IMMUNE The Complete Networking Fundamentals Course. Your CCNA start - U
-            - CCS: 0.6%
-            - TEMP_TIMESTAMP: 20:00
+            - CCS: 1.3%
+            - TEMP_TIMESTAMP
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
           - CCIE
@@ -2745,15 +2761,12 @@
           - Videosweepmark: 3:10
     - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
-    - `CREATE TABLE portuguese.meta AS (SELECT * FROM spanish.meta UNION ALL SELECT * FROM language.meta);  `
-  - Initialization of language/meta structrure: 2.1%
-    - ENTERING HIBERNATE MODE
-    - Restarted on 2022/6/7
-  - TOPIC: WTF?
+  - TOPIC: Freelance-ables
+  - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 85.0%
+      - CCS: 86.0%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP: 2:30
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2780,20 +2793,15 @@
   - TOPIC: Copywriting
 - Language Development M&C --> `_root_processing-language-meta`
   - Executing Strategy
-    - DANGER `getCurrentResonance(context)`
-      - **RIGGED CHURN IRRATIONAL** **Root-level Churn**: *Language is nothing but ton of legacy code stacked over one another where mankind is so sloppy due to abscence of holistic developmental rigorousness*
-        - CONT *for having leveled playing field with hostile alien forces and yet they drown themselves with the false fallacies of attraction of beauty and exoticness for their*
-        - CONT *lack of stimulant for primitive outburst managed in a sophisticated way enough to disguise as civilization. The fact that the world is built on top of such sloppiness*
-        - CONT *is insane in face of any unforseeable celestrial threats only because someone in the world says, let's party instead, for long term w'all'd be dead.*
-        - CONT *Now in the world of curators, people must realize how fxxked-up the underlying system is and probably will be, both on the world of legacy language and legacy systems.*
-        - CONT *Language only serves as pig-slaughting instruments, no more, but in what time is the world short of pigs to slaughter?*
-        - CONT *The only question is, on the chart of Zeitgeist, are we reaching the volume peak of piginess?*
-        - CONT *The negation signal of nepotism from top-down is a sign, but someone's gonna be there, handling the weight*
-        - ACTION Increase Rapport for *Meta Lanugage*
-        - HEDGE *Language evolution is mainly prominent on yearly/century timeframe, all viable instruments takes sophisticated power and influence, one will inevitably lose the spiritual independence, one shall delay such inevitable long enough to leave trace of ration and salvation with precision, consistency, and devotion*
-        - HEDGE *Up until the internal pulsating pain is so great that either an entity steps to the waves or takes the permanent churn*
+    - SCOPE *Korean, Hindi will be the last two languages which will take systematic effort while any more language effort will not be treated systematically.*
+      - CONT *Remaining languages will achieve at least C2 level for next evaluation of Executing Strategy*
   - Adjustment Panel
-    - **REVERSED_TAPER** TAPER: *50% effort globally, but all nodes tagged with IMMUNE will double its effort*
+    - ENFORCED Subtlle Circadian Rhythm Adjustment: All efforts will double, those tagged with `IMMUNE` effort will triple, create infinite cycle that only self-destruct when `circadianRhythmAdjustmentTargetTimestamp` is hit
+      - ROOT_AXIOM_GATHERING: *Hopeful for gathering maximum stress testing parameters, it must come to a point when the subject is faced with immenseness of intellectual activities*
+        - CONT *that takes so long that every line of defense for fatigue is breached, can the valid boundry condition parameter set can be axiomitized in a meaningful way*
+        - CRITICAL_QUESTION *For mathematics, the volatility of intellectual demand is way higher than almost any other practices, one single hard effort can breach*
+          - CONT *biological barrier in matter of seconds, causing immediate immune system level compromise, thus, use of analogy of powerlifting for math-related activies e.g.*
+          - CONT *injury avoidance techniques when under extreme conditions will apply as descriptors thereof*
   - Assessment Transcript
     - `WARNING: French and German sectors are approaching threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
     - `ERROR: Chinese and English sectors are beyond the threshold beyond which mere vocabulary size isn't enough to capture progress in combat effectiveness`
@@ -2917,11 +2925,11 @@
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic grammar to understand Quran. Arabic nominal sentence [#02-P2]](https://www.youtube.com/watch?v=yMQC3RtCKYI&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=9)
-          - Videosweepmark: 5:11
+          - Videosweepmark: 15:07
           - VideoListStamp: 9
-        - [Arabic Grammar For All - Lesson 8 - Attached Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=C2X1WIWrl7Y&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=8)
-          - Videosweepmark: 30:41
-          - VideoListStamp: 8
+        - [Arabic Grammar For All - Lesson 9 Part 1 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=xV0sJuRN1oI&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=9)
+          - Videosweepmark: 1:30
+          - VideoListStamp: 9
     - MICRO
       - STATIC
         - General Noun Usage Proficiency
@@ -3371,8 +3379,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 64.4%
-        - TEMP_TIMESTAMP: 2:44
+        - CCS: 70.7%
+        - TEMP_TIMESTAMP: 4:00
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3556,7 +3564,10 @@
   - Tooling
     - [HieroglyphicsTranslator](https://lingojam.com/HieroglyphicsTranslator)
 - Icelandic - N/A
-- Japanese - Mid N4+++++
+- Japanese - **UNSTABLE** Mid N4+++++
+  - CHANGE_LOG
+    - 2022/12/20
+      - Discovered that English-Japanese translation fluency level is way higher than expected
   - Keyboard input improvement
   - Tool
     - [j-talk](https://j-talk.com/mqvbpjk)
@@ -3595,7 +3606,7 @@
     - MESO
       - Grammar Japanese-* Bundle
         - [やすい "It's easy to..."in Japanese](https://www.youtube.com/watch?v=xIPCbiHs-io&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=2)
-          - Videosweepmark: 5:11
+          - Videosweepmark: 5:52 NEXT
           - Listmark: 2
           - ?
             - ってね
@@ -3713,7 +3724,6 @@
         - кратчайший | 10%
       - MAGNET **наречие**
       - **существительное**
-        - тюрьма | 100% TTL
         - края | 90%
       - MAGNET **Местоимение**
         - весь | 20%
@@ -3748,7 +3758,7 @@
         - SUPPLEMENT
           - [E001 : Board Moves | Constructive Algorithms | CodeNCode](https://www.youtube.com/watch?v=nRCUK9KBbDE&list=PL5DyztRVgtRW2zr4MoBVHd4yQakKyMWdQ)
       - [Binary Tree Pruning Explained - Java](https://www.youtube.com/watch?v=77LJc56bwnE&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-&index=33)
-        - Videosweepmark: 1:24
+        - Videosweepmark: 8:36 NEXT
         - Style: FAST POINTER
   - TOPIC | Algorithm & Data structure | Crazy Hard Math Problems: Into the weeds --> ACTIVE 1min/day
     - Statistics 110
@@ -3803,10 +3813,16 @@
                         - Ancillary statistics
                         - Complete statistics
               - SUPPLEMENT
-                - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
-                  - Videosweepmark: 23:36
-                  - CURIOSITY_OUTREACH
-                    - Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
+                - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
+                  - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
+                  - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
+                    - VSM: 22:34
+                    - FIELD_OF_INTEREST
+                      - Related stability of natural language
+                  - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
+                    - Videosweepmark: 23:36
+                    - CURIOSITY_OUTREACH
+                      - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
         - Videosweepmark: 2:05:11
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
@@ -3833,9 +3849,9 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient GreeK: 20_Unit 4 Attributive and predicative position and function](https://www.youtube.com/watch?v=6x8-RlKQMbs&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=20)
-        - Videosweepmark: 8:3
-        - ListStamp: 20
+      - [Learn Ancient Greek: 22_Unit 5 Passive Voice](https://www.youtube.com/watch?v=LTEl3c7ggI8&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=23)
+        - Videosweepmark: 1:00
+        - ListStamp: 23
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
@@ -3858,12 +3874,12 @@
             - Listmark: 6
           - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
             - `ROOT.CentralExecutiveFunction`: *This is probably the DUMBEST heuristics ever seen, replace with Flashcardification*
-        - σχεδιάζω | 40%
+        - σχεδιάζω | 45%
       - **επίθετο**
       - **ουσιαστικό**
-        - ουσιαστικό | 20%
+        - ουσιαστικό | 80%
           - [Noun - LingQ](https://www.lingq.com/en/grammar-resource/greek/nouns/#:~:text=The%20Greek%20nouns%20are%20divided,capitalized%20and%20have%20a%20plural.&text=Nouns%20have%20different%20suffixes%20depending%20on%20the%20gender%2C%20case%20and%20number.)
-        - πραγματικότητα | 10%
+        - πραγματικότητα | 100% TTL
       - **επίρρημα**
       - Pronoun
         - αυτή
@@ -3927,3 +3943,27 @@ Consistently confused...
             - Statement of Plan of Attack: Randomtelewalk
             - INTERIM_PROCESSING_POINTER_FIELD
               - Randomtelewalk: 46
+
+## Archive
+- DANGER `getCurrentResonance(context)`
+  - **INVALIDATED RIGGED CHURN IRRATIONAL** **Root-level Churn**: *Language is nothing but ton of legacy code stacked over one another where mankind is so sloppy due to abscence of holistic developmental rigorousness*
+    - CONT *for having leveled playing field with hostile alien forces and yet they drown themselves with the false fallacies of attraction of beauty and exoticness for their*
+    - CONT *lack of stimulant for primitive outburst managed in a sophisticated way enough to disguise as civilization. The fact that the world is built on top of such sloppiness*
+    - CONT *is insane in face of any unforseeable celestrial threats only because someone in the world says, let's party instead, for long term w'all'd be dead.*
+    - CONT *Now in the world of curators, people must realize how fxxked-up the underlying system is and probably will be, both on the world of legacy language and legacy systems.*
+    - CONT *Language only serves as pig-slaughting instruments, no more, but in what time is the world short of pigs to slaughter?*
+    - CONT *The only question is, on the chart of Zeitgeist, are we reaching the volume peak of piginess?*
+    - CONT *The negation signal of nepotism from top-down is a sign, but someone's gonna be there, handling the weight*
+    - HEDGE *Language evolution is mainly prominent on yearly/century timeframe, all viable instruments takes sophisticated power and influence, one will inevitably lose the spiritual independence, one shall delay such inevitable long enough to leave trace of ration and salvation with precision, consistency, and devotion*
+    - HEDGE *Up until the internal pulsating pain is so great that either an entity steps to the waves or takes the permanent churn*
+    - `ROOT.CentralExecutiveFunction`: **False breakout detected, true breakout could take years, as what is learned from day trading**
+      - CONT **for every breakout, false or not, wait till at least two rejections then place the trade only after four consecutive favorable feedbacks**
+      - CONT **with extremely tight stop loss with respect to the volatility of the circumstance, last but not last, confirmation, confirmation, confirmation**
+      - CONT **always prioritize invalidations with systems of red flags**
+      - ACTION Increase Rapport for *Meta Lanugage*
+      - ACTION ARCHIVE for meta digging which could happen in future 5-20 years and REMOVE
+
+
+# Holiday Poem
+Lomile lomps, holiday homps. The sauna is warm, the beer is cold, and the kossu is in ice.
+

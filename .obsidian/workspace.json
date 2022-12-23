@@ -145,6 +145,18 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd580c71b82219b5",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "89464bb878b43d31",
   "lastOpenFiles": []
 }

@@ -164,7 +164,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 70.4%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -210,7 +210,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 5%
                   - 36-51 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 70.4%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -287,11 +287,25 @@
     - [Graphic Design Masterclass - Learn GREAT Design](https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/learn/lecture/16503232#overview)
     - [Graphic Design Masterclass Intermediate: The NEXT Level](https://www.udemy.com/course/graphic-design-masterclass-the-next-level/learn/lecture/18045771#overview)
     - [After Effects CC Expressions: Design & Animate Infographics](https://www.udemy.com/course/adobe-after-effects-expressions-create-motion-infographics/learn/lecture/29129978#overview)
-  - USD: Universal Scene Descriptor
+  - IMPORTANT USD: Universal Scene Descriptor
+    - `ROOT.CentralExecutiveFunction`
+      - *未来的人类学习模式将会转化为高度个性化可定制的嵌入式形态 a.k.a 个性化并行嵌入式学习, 结合AR/XR应用发展, 商业化模式可提前开demo acc*
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
+    - MAGNET NEW Everything related to Metaverse
+      - The Ultimate Guide to Game Development with Unity (Official) - U
+        - TEMP_TIMESTAMP: 3:00
+        - Language pair: German
+      - Shader Development from Scratch for Unity with Cg - U
+        - Language pair: Spanish
+      - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games - U
+        - Language pair: Spanish
+      - The Complete ARKit Course - Build 11 Augmented Reality Apps - U
+        - Language pair: Spanish
+      - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
+        - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 5:00
-      - RANDOM Language Pair: German-Xhosa
+      - VSM: 8:00
+      - RANDOM Language Pair: German-?
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
     - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
       - VSM: 5:00
@@ -310,6 +324,7 @@
             - *should always be under constant challenge, M&C, point-in-time ranking based on ROOT-level context and ROOT-level strategy*
         - Mathematics as Language
           - PERSISTENT [Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+            - VSM: 2:30
           - ?
             - Rieman Geometry
               - [An Introduction to Riemannian Geometry with Applications to Mechanics and Relativity](https://www.math.tecnico.ulisboa.pt/~gcardoso/GeoRiem/nata_textb.pdf)
@@ -325,23 +340,31 @@
                   - [Einstein's General Theory of Relativity | Lecture 1](https://www.youtube.com/watch?v=hbmf0bB38h0)
                     - VSM: 2:45
                   - [Differentiable Manifolds - 1](https://www.youtube.com/watch?v=mcC8fvqKZG0&list=PLoWHl5YajIf7NqaCGCCEMvaKfhIHHrsQC)
-                    - VSM: 4:47
+                    - VSM: 12:30
                     - [Introduction to Smooth Manifolds](https://www.math.colostate.edu/~renzo/teaching/DiffGeo2011/Introduction%20to%20Smooth%20Manifolds%20-%20J.%20Lee.pdf)
                       - PPF
-                        - RT: 10
+                        - RT: 13
+                        - Saturation: 0.05%
+                      - CURIOSITY_OUTREACT LIMIT 5 DEPTH 3
+                        - Paraboloids
+                          - [Sketching a Paraboloid](https://www.youtube.com/watch?v=2urzh7AKBRM)
+                        - Ellipsoids
+                        - Hyperboloids
+                        - Sard's Theorem
                   - [Differentiable Manifolds - 1](https://www.youtube.com/watch?v=mcC8fvqKZG0&list=PLoWHl5YajIf7NqaCGCCEMvaKfhIHHrsQC)
                     - VSM: 4:47
                     - [Introduction to Smooth Manifolds](https://www.math.colostate.edu/~renzo/teaching/DiffGeo2011/Introduction%20to%20Smooth%20Manifolds%20-%20J.%20Lee.pdf)
                       - PPF
                         - RT: 10
               - [Lecture 1 | Introduction to Riemannian geometry, curvature and Ricci flow | John W. Morgan](https://www.youtube.com/watch?v=ImIQP9szMGs&list=RDCMUCxAGkrJYNlpC1jfnJvE_6Lw&index=1)
+                - VSM: 2:37
             - [Algebraic Topology (MTH-ALT) Lecture 1](https://www.youtube.com/watch?v=4LncEBdKpSE&list=PLp0hSY2uBeP_HDgkCSrG5pccHYfudTJYI)
               - Videosweepmark: 10:20
               - CURIOSITY_OUTREACH LIMIT 10 DEPTH 3
                 - Isomorphism
                 - Homeomorphism
                   - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
-                    - VSM: 10:04
+                    - VSM: 12:30
                     - Bookpair
                       - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
                         - PPF
@@ -625,9 +648,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 35.1%
+                  - CCS: 35.3%
                   - ETA: 7.4 months
-                  - TEMP_TIMESTAMP: 2:30
+                  - TEMP_TIMESTAMP
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -642,6 +665,7 @@
                   - ?
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
                     - Chebyshev Inequality
+                  - OnceStimulationUnit 
                   - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
                     - Acronym fluency: PV, N, I/Y, PMT, HPR
                     - Skewness, Kurtosis
@@ -1159,6 +1183,7 @@
             - Sideway
             - Wedge
               - [The Rising Wedge Chart Pattern | Price Action Trading](https://www.youtube.com/watch?v=eweJkXeU75Y)
+                - VSM: 1:31
             - Channel
               - [Bear Price Channel Chart Pattern](https://www.youtube.com/watch?v=NhnDM_Bb3ds)
               - [How to Trade Channels: Price Action Strategy](https://www.youtube.com/watch?v=mxfFbEAOfUg)
@@ -1188,7 +1213,7 @@
                 - MACD | 2%
                   - Source
                     - [MACD Trading Strategy](https://www.youtube.com/watch?v=rf_EQvubKlk)
-                      - VSM: 4:30
+                      - VSM: 7:05
                   - `M&C`
                     - Source Code
                     - Implementation
@@ -2382,7 +2407,7 @@
           - Data Science A-Z™: Real-Life Data Science Exercises Included
             - CCS: 44.0%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 8:20
+            - TEMP_TIMESTAMP: 12:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2675,9 +2700,9 @@
             - whatweb
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
-          - **PRIORITIZED** IMMUNE The Complete Networking Fundamentals Course. Your CCNA start - U
+          - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
             - CCS: 1.3%
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 4:30
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
           - CCIE
@@ -2766,7 +2791,7 @@
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
       - CCS: 86.0%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP
+      - TEMP_TIMESTAMP: 4:00
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2928,7 +2953,7 @@
           - Videosweepmark: 15:07
           - VideoListStamp: 9
         - [Arabic Grammar For All - Lesson 9 Part 1 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=xV0sJuRN1oI&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=9)
-          - Videosweepmark: 1:30
+          - Videosweepmark: 4:00
           - VideoListStamp: 9
     - MICRO
       - STATIC
@@ -2953,8 +2978,6 @@
       - VOLATILE STATE=ELIMINATE
         - `verb`
           - 80% | قلب
-            - [The Present Jussive: Arabic Grammar Unpacked](https://www.youtube.com/watch?v=7Xeomph6sIM)
-              - Videosweepmark: 10:00
           - 73% | قَدَّمَ
           - 75% | وفر
           - 30% | فَهِمَ
@@ -3379,8 +3402,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 70.7%
-        - TEMP_TIMESTAMP: 4:00
+        - CCS: 72.1%
+        - TEMP_TIMESTAMP: 4:30
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3531,6 +3554,10 @@
   - TOPIC Griftism: Tao of Contemporary Meta-war
     - Silent Plagiarism: Eventual Checkmate Strategy
   - TOPIC Content Creation
+    - Watchlist
+    - Post-mortems
+      - Lists
+        - [Prune List](https://docs.google.com/spreadsheets/d/1zIAjxo4mInwu2lChPasDL4OyizdnDh2h44L8yNhkMnU/edit?usp=sharing)
   - TOPIC Se7en
   - TOPIC Offensive Public Relations
   - TOPIC Defensive Public Relations
@@ -3605,9 +3632,9 @@
         - 連体形
     - MESO
       - Grammar Japanese-* Bundle
-        - [やすい "It's easy to..."in Japanese](https://www.youtube.com/watch?v=xIPCbiHs-io&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=2)
-          - Videosweepmark: 5:52 NEXT
-          - Listmark: 2
+        - [にいく/にいきます "I will go to do..."in Japanes](https://www.youtube.com/watch?v=TjmlAiqjpmk&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=4)
+          - Videosweepmark: 2:00
+          - Listmark: 4
           - ?
             - ってね
         - [【Ｎ３文法】～おかげ](https://www.youtube.com/watch?v=zNwGvXmd378&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=4)
@@ -3625,10 +3652,8 @@
             - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
-          - Videosweepmark: 14:00
+          - Videosweepmark: 15:00
           - Language pair SHUFFLE: Japanese - Italian
-        - [【JLPT N4 TEST 2021】(文法 Grammar・読解 Reading)](https://www.youtube.com/watch?v=-peRYDiBy-s)
-          - Language pair SHUFFLE: Japanese - Russian
         - [What is たら?? How to say " If " in Japanese](https://www.youtube.com/watch?v=OrnjEazL4dg)
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
@@ -3816,9 +3841,12 @@
                 - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
                   - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
                   - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
-                    - VSM: 22:34
+                    - VSM: 26:50
                     - FIELD_OF_INTEREST
                       - Related stability of natural language
+                    - NEW Modern Ontology Editing Software
+                      - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
+                      - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
                   - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
                     - Videosweepmark: 23:36
                     - CURIOSITY_OUTREACH
@@ -3850,7 +3878,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 22_Unit 5 Passive Voice](https://www.youtube.com/watch?v=LTEl3c7ggI8&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=23)
-        - Videosweepmark: 1:00
+        - Videosweepmark: 4:00
         - ListStamp: 23
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

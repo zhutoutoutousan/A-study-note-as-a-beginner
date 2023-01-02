@@ -3,6 +3,7 @@
 - [\_INBOUND\_CACHE](#_inbound_cache)
 - [Security Outsource solutions](#security-outsource-solutions)
 - [Next Gen](#next-gen)
+- [Mobile to PC](#mobile-to-pc)
 - [New Tech](#new-tech)
 - [AI](#ai)
 - [Preferences](#preferences)
@@ -92,6 +93,9 @@
 # Next Gen
 - Slides
   - [gamma.app](https://gamma.app/)
+
+# Mobile to PC
+- [mirroid](https://cn.mirroid.com/)
 
 # New Tech
 - dbforge

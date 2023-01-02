@@ -164,7 +164,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 70.4%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 80.3%
               - ReferenceHash: `lang_dev`
       - 低质量
     - Continuous`?`Development 单层形而上可持续发展单元
@@ -209,8 +209,8 @@
             - PROCESSING_POINTER_FIELD
               - Flashcardification
                 - FlashcardificationPruneRegistries: 5%
-                  - 36-51 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 70.4%: \[80%-100%\]
+                  - 36-52 | STATE: FROZEN if under 60%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 80.3%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER 极限底层可持续发展单元
@@ -289,11 +289,14 @@
     - [After Effects CC Expressions: Design & Animate Infographics](https://www.udemy.com/course/adobe-after-effects-expressions-create-motion-infographics/learn/lecture/29129978#overview)
   - IMPORTANT USD: Universal Scene Descriptor
     - `ROOT.CentralExecutiveFunction`
-      - *未来的人类学习模式将会转化为高度个性化可定制的嵌入式形态 a.k.a 个性化并行嵌入式学习, 结合AR/XR应用发展, 商业化模式可提前开demo acc*
+      - *Future self-education i.e. the only education mode in the future will be decentralized, hyper real-time-customizable, inheritable, purchasable via NFT, AR/XR integrated non-obtrusive embedded learning*
+      - *Web is dead, long live the Web*
+      - *School is dead, long live the school --- wines, biding their time*
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
-        - TEMP_TIMESTAMP: 3:00
+        - CCS: 3.0%
+        - TEMP_TIMESTAMP: 2:00
         - Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
         - Language pair: Spanish
@@ -324,7 +327,7 @@
             - *should always be under constant challenge, M&C, point-in-time ranking based on ROOT-level context and ROOT-level strategy*
         - Mathematics as Language
           - PERSISTENT [Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
-            - VSM: 2:30
+            - VSM: 7:00
           - ?
             - Rieman Geometry
               - [An Introduction to Riemannian Geometry with Applications to Mechanics and Relativity](https://www.math.tecnico.ulisboa.pt/~gcardoso/GeoRiem/nata_textb.pdf)
@@ -364,7 +367,7 @@
                 - Isomorphism
                 - Homeomorphism
                   - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
-                    - VSM: 12:30
+                    - VSM: 17:30
                     - Bookpair
                       - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
                         - PPF
@@ -390,7 +393,7 @@
                 - [HILBERT’S 13TH PROBLEM](https://core.ac.uk/download/pdf/12208123.pdf)
                   - SUPPLEMENT LIMIT 5 DEPTH 2
                     - [The Geometry of Hilbert's 13th problem - Jesse Wolfson](https://www.youtube.com/watch?v=txaU6NTwxOU)
-                      - VSM: 4:03 --> OVERFLOW: SATURATE_OVERFLOW
+                      - VSM: 8:05 --> OVERFLOW: SATURATE_OVERFLOW
                       - **OVERFLOW** SUPPLEMENT LIMIT 3 DEPTH 1
                         - LHS - Shutt-Shioda
                         - RHS - Plaumann-Sturmfels-Vinzant
@@ -400,6 +403,8 @@
                             - [Correspondence of Naturals and Rationals](https://www.youtube.com/watch?v=zwov9o_BgfQ)
                             - [Video 96 Infinite Sets and 1 to 1 Correspondence](https://www.youtube.com/watch?v=ESJxpOEXzjA)
                             - [Galois Correspondence for Finite Fields](https://www.youtube.com/watch?v=7Aw141v6VyE)
+                        - **OVERFLOW** Quintic function
+                        - **OVERFLOW** Babylonians theorem
                       - PERSISTENT MinimalZenableUnit Hilbert's 13th problem
                         - ROTE Question Stem
                           - *Find and understand roots of a polynomial*
@@ -648,7 +653,7 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 35.3%
+                  - CCS: 39.1%
                   - ETA: 7.4 months
                   - TEMP_TIMESTAMP
                   - _hook
@@ -1229,14 +1234,18 @@
               - StairMaster
               - RSI
                 - RSI divergence
+                  - [Simple Reversal Trading Strategy: RSI Divergence Trading Explained!](https://www.youtube.com/watch?v=TnEyxiuhpUU)
+                    - VSM: 4:01
               - Ichimoku Cloud
                 - [Ichimoku Cloud: What It Means and How to Use It](https://www.youtube.com/watch?v=H9eILCI5nJo)
+                  - VSM: 3:30
+                - [How To Master The Ichimoku Cloud | Trading Indicators](https://www.youtube.com/watch?v=7yW44mdHFIw)
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
-                - [Indicator Source Data - TradingView Pine Script Tutorial 4](https://www.youtube.com/watch?v=31AJX5hFu68&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=5)
-                  - Videosweepmark: 5:10
-                  - Listmark: 5
+                - [Forecast Values in Pine - TradingView Pine Script Tutorial 6](https://www.youtube.com/watch?v=J4dIIPqfRCE&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=7)
+                  - Videosweepmark: 10:24
+                  - Listmark: 6
               - Trade agent
             - Strategy Lists
               - Bollinger Brand Strategy
@@ -2405,9 +2414,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 44.0%
+            - CCS: 47.7%
             - ETC：6.8 months
-            - TEMP_TIMESTAMP: 12:00
+            - TEMP_TIMESTAMP: 13:20
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2549,16 +2558,12 @@
           - `coldTurkey(this)`
       - STATIC
         - `verb`
-          - lasciare | 100% TTL
-          - consentire | 100% TTL
           - cerchiare | 95%
           - spezzare | 90%
-          - battere | 100% TTL
       - MESO
         - `verb`
       - VOLATILE
         - `verb`
-          - congiungere | 100% TTL
           - ingiuriare | 50%
         - MAGNET `noun`
   - **UNSTABLE** Politics & Public Relations
@@ -2701,8 +2706,8 @@
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
           - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
-            - CCS: 1.3%
-            - TEMP_TIMESTAMP: 4:30
+            - CCS: 2%
+            - TEMP_TIMESTAMP: 2:30
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
           - CCIE
@@ -2789,9 +2794,9 @@
   - TOPIC: Freelance-ables
   - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 86.0%
+      - CCS: 89.7%
       - E.T.A: 2.06 months
-      - TEMP_TIMESTAMP: 4:00
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -2949,11 +2954,11 @@
           - Videosweepmark: ?
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic grammar to understand Quran. Arabic nominal sentence [#02-P2]](https://www.youtube.com/watch?v=yMQC3RtCKYI&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=9)
-          - Videosweepmark: 15:07
-          - VideoListStamp: 9
+        - [Learn Arabic grammar to understand Quran. Arabic descriptive phrase [Lesson 02 Part-3]](https://www.youtube.com/watch?v=LM5wMwgvH8U&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=10)
+          - Videosweepmark: 19:47 NEXT
+          - VideoListStamp: 10
         - [Arabic Grammar For All - Lesson 9 Part 1 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=xV0sJuRN1oI&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=9)
-          - Videosweepmark: 4:00
+          - Videosweepmark: 17:20
           - VideoListStamp: 9
     - MICRO
       - STATIC
@@ -3402,8 +3407,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 72.1%
-        - TEMP_TIMESTAMP: 4:30
+        - CCS: 81.2%
+        - TEMP_TIMESTAMP: 5:00
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3614,8 +3619,7 @@
         - [...](https://www.youtube.com/watch?v=Joubx2AQwYI&list=PLCZgnVa0R721eyXXiizQPtvoM4srlSTJ6)
       - 電気電子工学基礎
         - [電気電子工学基礎：Lec05-4（コンデンサ）](https://www.youtube.com/watch?v=OVTO7G930Mg&list=PLQPJtAInj5HnN8oyqT7LlBsxVCnscRza8&index=13)
-          - Videosweepmark: 2:30
-  - TOPIC | Hierarchy, concrete jungle, cyberpunk
+          - Videosweepmark: 5:23 NEXT
   - UNORDERED CHANGE_LOG
     - 2022/11/10: *Vague sensation of increased validity of german-japanese dual-subtitle stimulation channel detected, expected accelerated progress in semantic fluency*
   - MESO STORE
@@ -3637,12 +3641,13 @@
           - Listmark: 4
           - ?
             - ってね
-        - [【Ｎ３文法】～おかげ](https://www.youtube.com/watch?v=zNwGvXmd378&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=4)
-          - Videosweepmark: 1:20
-          - Listmark: 4
+        - [【Ｎ３文法】～かける・～かけ](https://www.youtube.com/watch?v=WmqsfDDLlW8&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=6)
+          - Videosweepmark: 4:51 NEXT
+          - Listmark: 6
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
         - [【ずに】without -ing in Japanese | N3 grammar](https://www.youtube.com/watch?v=DeG70pFtQno)
+          - VSM: 5:03
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
           - Videosweepmark: 16:10
@@ -3652,9 +3657,10 @@
             - Videosweepmark: 9:45
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
-          - Videosweepmark: 15:00
+          - Videosweepmark: 20:00
           - Language pair SHUFFLE: Japanese - Italian
         - [What is たら?? How to say " If " in Japanese](https://www.youtube.com/watch?v=OrnjEazL4dg)
+          - VSM: 5:01
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
           - Videosweepmark: 6:30
@@ -3840,19 +3846,26 @@
               - SUPPLEMENT
                 - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
                   - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
-                  - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
-                    - VSM: 26:50
-                    - FIELD_OF_INTEREST
-                      - Related stability of natural language
-                    - NEW Modern Ontology Editing Software
-                      - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
-                      - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
-                  - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
-                    - Videosweepmark: 23:36
-                    - CURIOSITY_OUTREACH
-                      - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
+                  - PHI598
+                    - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
+                      - VSM: 1:9:31
+                      - FIELD_OF_INTEREST
+                        - Related stability of natural language
+                      - Bookpair
+                        - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
+                      - References
+                        - IDEA Curator Ecosystem Design
+                          - Hub and spoke mode, plug-and-go modularity
+                        - Human Genome Project, The Gene Ontology, OBO,  BFO
+                      - NEW Modern Ontology Editing Software
+                        - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
+                        - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
+                    - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
+                      - Videosweepmark: 23:36
+                      - CURIOSITY_OUTREACH
+                        - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
       - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 2:05:11
+        - Videosweepmark: 2:07:21
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -3877,9 +3890,9 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 22_Unit 5 Passive Voice](https://www.youtube.com/watch?v=LTEl3c7ggI8&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=23)
-        - Videosweepmark: 4:00
-        - ListStamp: 23
+      - [Learn Ancient Greek: 25_Unit 5 Perfect and Pluperfect Passive](https://www.youtube.com/watch?v=9CinXRO-YTI&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=26)
+        - Videosweepmark: 6:42 NEXT
+        - ListStamp: 25
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods

@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2016ee770f0809e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,6 +168,6 @@
       "publish:Publish changes": false
     }
   },
-  "active": "89464bb878b43d31",
+  "active": "2016ee770f0809e1",
   "lastOpenFiles": []
 }

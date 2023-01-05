@@ -159,25 +159,25 @@
     - G
       - _sourcing
       - Input-output Model Training
-    - 稀缺语种对双/三/四字幕组合资源
-      - 高质量
+    - Parallel stimulation resource
+      - High Q
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 74.4%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%
               - ReferenceHash: `lang_dev`
-      - 低质量
-    - Continuous`?`Development 单层形而上可持续发展单元
+      - Low Q
+    - Continuous`?`Development Single Layer Meta Development Unit
       - _config
         - Energy Consumption Control
       - OVERCLOCK_POINTER `toChinese("Touchpoint & Full-cycle Ability Development", context)`: Delivery
-        - _alias: 接触面及全生命周期可持续发展
+        - _alias: Touchpoint full-cycle sustainable development
         - _meta
           - Description: *Manifestation layer requires maximum agility*
         - Quality Control
         - Go-to-market Analysis
         - **OUTREACH** *Propagates to all other langauge sectors*
-      - FAST_POINTER MAGNET 高层可持续发展单元
+      - FAST_POINTER MAGNET Macro Development Unit
         - REQUIREMENT Better architecturing intuition
           - STRATEGY_STATEMENT
         - REQUIREMENT Faster to have a good sense of a technology
@@ -186,18 +186,18 @@
           - TRICKLE_DOWN A good command of capability analysis
           - TRICKLE_DOWN Documentation reading(fast)
             - *Contrarian's question*: `pending`
-      - FAST_POINTER MAGNET 中层可持续发展单元
+      - FAST_POINTER MAGNET Meso Development Unit
         - _method
           - `pollForTrickledDowns`
-      - SLOW_POINTER 底层可持续发展单元
+      - SLOW_POINTER Micro Development Unit
         - _meta
           - Untranslated guidelines
             - GUIDELINE *Carry-over Use Case Outreach for low-level ability development*
             - GUIDELINE *Go-to-market oriented development*
-          - CHANNEL `this` --> 中层可持续发展单元
+          - CHANNEL `this` --> Meso Development Unit
             - _schema
             - PAYLOAD payload
-          - CHANNEL `this` --> 高层可持续发展单元
+          - CHANNEL `this` --> Macro Development Unit
             - _schema
             - PAYLOAD payload
         - Uncategorized
@@ -208,12 +208,12 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 5.6%
-                  - 36-53 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 74.4%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 6.6%
+                  - 36-56 | STATE: FROZEN if under 60%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 67.4%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
-      - VERY_SLOW_POINTER 极限底层可持续发展单元
+      - VERY_SLOW_POINTER Atomic Development Unit
         - Cross-mind-palace Orchestration Logic Set Design
         - Go-to-market Mind Palace Cluster Network Design
         - Accumulative acoustic information storage size expansion
@@ -295,9 +295,10 @@
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 3.6%
-        - TEMP_TIMESTAMP: 1:17
-        - Language pair: German
+        - CCS: 4.2%
+        - TEMP_TIMESTAMP
+        - CONFIG Forced Hands-on: True
+        - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
         - Language pair: Spanish
       - Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games - U
@@ -659,7 +660,6 @@
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
-                  - USE_CASE Portfolio optimization
                   - _source
                     - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
                     - Global Investment Performance Standards(GIPS)
@@ -672,7 +672,6 @@
                     - Z/T
                       - [Z-statistics vs. T-statistics | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=5ABpqVSx33I)
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
-                    - Roy's criterion, safety-first ratio, Lognornal distribution
                     - Chebyshev Inequality
                   - OnceStimulationUnit 
                   - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
@@ -752,7 +751,7 @@
                         - PCP, DRC
                       - VOLATILE
                         - [How To Read & Analyze The Balance Sheet Like a CFO | The Complete Guide To Balance Sheet Analysis](https://www.youtube.com/watch?v=DMv9JC_K37Y&t=27s)
-                          - Videosweepmark: 5:02
+                          - Videosweepmark: 10:00
                         - Understand Insurance - Underwriting
                           - [INSURANCE Underwriting [[What does an Underwriter Do]]](https://www.youtube.com/watch?v=XhhAk9CF5c4)
                           - [What's the day-to-day of being an underwriter? - Hey Insurance - Ep 87](https://www.youtube.com/watch?v=LeBNxrr3dRA)
@@ -1244,6 +1243,12 @@
                 - [Ichimoku Cloud: What It Means and How to Use It](https://www.youtube.com/watch?v=H9eILCI5nJo)
                   - VSM: 3:30
                 - [How To Master The Ichimoku Cloud | Trading Indicators](https://www.youtube.com/watch?v=7yW44mdHFIw)
+          - META
+            - Behavioural Finance
+              - [MIT 14.13 - 1](https://www.youtube.com/watch?v=j5XdY5wkVTA&list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q)
+            - Quant
+            - ?
+              - ETF Arbitrage
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
@@ -2407,8 +2412,10 @@
       - *No German Subtitle available*
       - Tool: JetBrains - Datalore
         - [Datalore](https://datalore.jetbrains.com/notebook/)
-    - Cloud Computing
+    - UNSTABLE Cloud Computing
+      - UNSTALBLE_STATEMENT: *Should be paired with Spanish*
       - [AWS EKS Tutorial | Kubernetes on AWS | Create EKS Step by Step for Beginners | K21Academy](https://www.youtube.com/watch?v=DcnviAwmzM4)
+        - VSM: 5:00
       - Learn AWS The Hard Way
   - Foundations for LIFETIME_PURSUIT
     - Complexity theory
@@ -2606,11 +2613,13 @@
           - NPTEL IIT - Consumer Psychology
             - [Lec 4: Problem Recognition - II](https://www.youtube.com/watch?v=khKmAWEy2yU&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=5)
               - PROCESSING POINTER FIELD
-                - Videosweepmark: 32:30
+                - Videosweepmark: 37:30
               - continuousStimulationUnit
                 - Full Sales Lifecycle Information Flow
                 - Practical Benefit, Unusual benefit
                 - Segment bounding
+              - ?
+                - Skill Capital, Information Capital
             - PsyOps Recap
               - MACRO
                 - \[REDACTED\]
@@ -2709,9 +2718,9 @@
             - whatweb
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
-          - **PRIORITIZED** The Complete Networking Fundamentals Course. Your CCNA start - U
+          - The Complete Networking Fundamentals Course. Your CCNA start - U
             - CCS: 2.2%
-            - TEMP_TIMESTAMP: 2:06
+            - TEMP_TIMESTAMP: 7:06
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
           - CCIE
@@ -2796,15 +2805,26 @@
     - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
   - TOPIC: Freelance-ables
-    - Prerequisite of Freelance-ables
-      - [数字游牧民的全球指南](https://www.globalization-partners.com/cn/resources/ebook-global-guide-to-hiring-digital-nomads/#gref)
-    - STREAM Real-time Automation Bot
-      - STREAM_SOURCE Feedly
-      - CONFIG Keyword Set
-    - RPA for serious Freelance-ables
+    - Logistics
+      - Prerequisite of Freelance-ables
+        - [数字游牧民的全球指南](https://www.globalization-partners.com/cn/resources/ebook-global-guide-to-hiring-digital-nomads/#gref)
+      - STREAM Real-time Automation Bot
+        - STREAM_SOURCE Feedly
+        - CONFIG Keyword Set
+      - RPA for serious Freelance-ables
+    - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
+      - ?
+        - Digital Marketing
+          - ?
+            - The Complete Digital Marketing Course - 12 Courses in 1
+            - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
+            - Ultimate Google Analytics (4) course + 50 practical examples
+          - Copywriting
+          - ?
+    - Single-component Freelance-ables
   - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 90.7%
+      - CCS: 91.0%
       - E.T.A: 2.06 months
       - TEMP_TIMESTAMP: 3:00
       - States
@@ -2830,7 +2850,6 @@
       - Videosweepmark: 5:30/47:48
     - AWS CloudFormation Master Class v2 [2022]
       - CCS
-  - TOPIC: Copywriting
 - Language Development M&C --> `_root_processing-language-meta`
   - Executing Strategy
     - SCOPE *Korean, Hindi will be the last two languages which will take systematic effort while any more language effort will not be treated systematically.*
@@ -2853,7 +2872,34 @@
         - HEURISTICS Equivalent effort descriptor based on Powerlifting
         - English: *2 SETS Dumbell Bicep Curl 5/8RM* --> Mild
         - French: *10 minute walk* --> Mild
-        - German: *10 minute walk* --> Mild
+      Self-sustaining Freelance-ables IMPLEMENTS `Italian.business_architecture`
+      - Sophistically Weird Content Curation
+        - Logistics --> `curation_arsenal`
+          - UNSTABLE TO_ARSENAL Stacked Arsenal
+            - [Template](https://www.template.net/)
+          - USE_CASE *Filming-free weird animation*
+            - ?
+              - TOOLING Visme
+            - TOOLING Text2Audio
+              - MATERIAL [Comparison Chart](#)
+                - _meta
+                  - [How to Use Compare Mode](https://www.youtube.com/watch?v=xV6WYKlkeTo)
+                  - [Creating Charts to Compare One or More Data Sets](https://www.youtube.com/watch?v=thFCGr1-z5k)
+                  - IMPORTANT PERSISTENT [How to make a Product Comparison Template in Excel (Benchmarking)](https://www.youtube.com/watch?v=zZZoKFJDff0)
+                    - CURIOSITY_OUTREACH Product Benchmarking LIMIT 2 DEPTH 1
+            - OUTREACH SYNC BLOCKER `Meta Language/Infographics`
+              - R&D Text to Video/AE project + AE
+              - LOCKED Master *Infographics* to unlock
+              - SUPPLEMENT [Free After Effects Course - Beginner Infographics & Data Visualisation](https://www.youtube.com/watch?v=m5GIbXbxn1o)
+    - Single-component Freelance-ables
+      - ?
+        - Digital Marketing
+          - ?
+            - The Complete Digital Marketing Course - 12 Courses in 1
+            - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
+            - Ultimate Google Analytics (4) course + 50 practical examples
+          - Copywriting
+          - ?  - German: *10 minute walk* --> Mild
         - Italian: *Pull-up \* 10* --> Mild
         - Portuguese: *1 minute walk* --> Negligible
     - Rigorous --> Canon on days when bulk of the energy should be directed to slow-moving significant-value generating activities
@@ -2959,10 +3005,10 @@
           - Videosweepmark: ?
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic grammar to understand Quran. Arabic descriptive phrase [Lesson 02 Part-3]](https://www.youtube.com/watch?v=LM5wMwgvH8U&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=10)
-          - Videosweepmark: 19:47 NEXT
-          - VideoListStamp: 10
-        - [Arabic Grammar For All - Lesson 9 Part 1 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=xV0sJuRN1oI&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=9)
+        - [Learn Arabic grammar to understand Quran. Gender of ISM اسم masculine, feminine](https://www.youtube.com/watch?v=uf3BnAaOj8Q&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=11)
+          - Videosweepmark: 5:00
+          - VideoListStamp: 11
+        - [Arabic Grammar For All - Lesson 9 Part 2 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=eHKma4ie6nM&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=10)
           - Videosweepmark: 27:10 NEXT
           - VideoListStamp: 9
     - MICRO
@@ -2976,18 +3022,18 @@
         - /General Noun forms | 3%
         - Difference of grammatical terms
         - ?
-          - على
-          - بعض
-          - الآن
+          - 100% TTL | على
+          - 20% | بعض
+          - 100% TTL | الآن
         - `pronoun`
-          - نَحْنُ
+          - 80% | نَحْنُ
           - `pronoun.reflexive`
             - نفسها
         - `number`
-          - 60% | ستون
+          - 63% | ستون
       - VOLATILE STATE=ELIMINATE
         - `verb`
-          - 80% | قلب
+          - 81% | قلب
           - 73% | قَدَّمَ
           - 75% | وفر
           - 30% | فَهِمَ
@@ -3412,8 +3458,8 @@
       - **IMPORTANT** **MANDATORY** **IMMUNE** Progressive Web Apps (PWA) - The Complete Guide - U --> **Additional 3 hours per day**
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 82.7%
-        - TEMP_TIMESTAMP
+        - CCS: 83.2%
+        - TEMP_TIMESTAMP: 1:30
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
@@ -3474,8 +3520,35 @@
           - PROCESSING_POINTER_STORE
       - Web Dev --> `this.concurrentTraffic = 1`
         - Backend & System Programming
-          - ContinuousStimulationUnit [Learning Spanish while accidentally being adept at nest.js](https://www.youtube.com/watch?v=xzu3QXwo1BU&list=PL_cUvD4qzbkw-phjGK2qq0nQiG6gw1cKK)
-            - Videosweepmark: 5:00
+          - **BLACKHOLE PRIORITIZED EMERGENCY** ContinuousStimulationUnit Nest.js System Implementation: Nest+Cosmos Gremlin+PWA
+            - _motivation: *Progressing Spanish while accidentally gaining pragmatic working knowledge on Nest.js System Implementation*
+            - ?
+              - MVC
+              - IOC
+              - AOP 
+            - [Nest.js | Middleware, Pipes & Interceptors Explained By Example](https://www.youtube.com/watch?v=x1W3FJ1RJlM&t=4s)
+              - VSM: 2:40
+            - [Traversing Graphs with Gremlin (Artem Chebotko, Solutions Architect at DataStax)](https://www.youtube.com/watch?v=mZmVnEzsDnY&t=800s)
+              - VSM: 13:22
+            - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+            - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=2ZzGMzitNgo)
+              - VSM：4:16
+            - [NestJS 10 - Guards, SetMetadata and Decorator](https://www.youtube.com/watch?v=0DdHxrk_QGY)
+            - [How to Manage User Access in NestJS | Authorization with CASL](https://www.youtube.com/watch?v=1pPjCX0FHco)
+            - [NestJS Role Based Authorization - RBAC | LinkedIn Clone [9]](https://www.youtube.com/watch?v=yZWcd77l9jk)
+            - [Nest.js Caching Tutorial in 15 Minutes (Redis + Unit Testing)](https://www.youtube.com/watch?v=KXnkhWRCj40)
+              - VSM: 0:28
+              - CONFIG `isForcedHandsOn=True`
+            - [Nest.js | Events & Task Scheduling Tutorial](https://www.youtube.com/watch?v=btLyiMUs_Cw)
+            - [Background Jobs com NestJS - Code/drops #75](https://www.youtube.com/watch?v=cpLBaVBMg2Y)
+            - [How to use Dynamic Modules in NestJS with Stripe](https://www.youtube.com/watch?v=JTGgYVIBZjI)
+              - VSM: 0:55
+            - [What you need to know about Decorators](https://www.youtube.com/watch?v=bRAcWk9S-6g)
+            - [API versioning - A SCALABLE REST API versioning prototype.](https://www.youtube.com/watch?v=LRPTYhqk0jw)
+              - VSM: 0:34
+            - [Versioning strategy for a complex internal API](https://www.youtube.com/watch?v=M2KCu0Oq3JE)
+            - [TypeScript Factory Patterns (No BS TS Series 2 Episode 1)](https://www.youtube.com/watch?v=-1YhP5IOBCI)
+              - VSM: 0:47
           - [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/10551206)
             - TEMP_TIMESTAMP: 2:46
           - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
@@ -3663,7 +3736,7 @@
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Videosweepmark: 20:00
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
-            - Videosweepmark: 9:45
+            - Videosweepmark: 
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
           - Videosweepmark: 20:00
@@ -3754,17 +3827,27 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **глагол**
+        - проверять
+        - использовать
       - **Предлог**
         - через
           - RUNNING `sourcing(*arg)` Consonant mutation/alternation
       - **местоимения**
       - **фраза**
-        - Таким образом
+        - Таким образом | 100% TTL
       - MAGNET **прилагательное**
         - кратчайший | 10%
+        - прикладной
+        - детской
       - MAGNET **наречие**
       - **существительное**
         - края | 90%
+        - алмазов
+        - аналитики
+        - эндокринологии
+        - исследование
+        - определения
+        - отношение
       - MAGNET **Местоимение**
         - весь | 20%
       - ?
@@ -3857,19 +3940,21 @@
                   - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
                   - PHI598
                     - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
-                      - VSM: 1:20:00
+                      - VSM: 1:25:05
                       - FIELD_OF_INTEREST
                         - Related stability of natural language
+                      - Paperpair
+                        - [Horizontal Integration of Warfighter Intelligence Data A Shared Semantic Resource for the Intelligence Community](http://ontology.buffalo.edu/smith/articles/Horizontal-integration.pdf)
                       - Bookpair
                         - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
                       - References
                         - IDEA Curator Ecosystem Design
                           - Hub and spoke mode, plug-and-go modularity
-                          - Reference ontology, application ontology
+                          - IMPORTANT Reference ontology, application ontology
                         - Human Genome Project, The Gene Ontology, OBO,  BFO
                       - NEW Modern Ontology Editing Software
                         - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
-                  Reference ontology, application ontology      - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
+                        - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
                     - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
                       - Videosweepmark: 23:36
                       - CURIOSITY_OUTREACH
@@ -3900,8 +3985,8 @@
           - Saturation: *Value too small to be obtained*
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 26_Unit 5 Agent Constructions](https://www.youtube.com/watch?v=r2ME_dMAybc&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=27)
-        - Videosweepmark: 3:44 NEXT
+      - [Learn Ancient Greek: 28_Unit 5 Three things you can do with articles](https://www.youtube.com/watch?v=Ww7tEwfdbxw&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=29)
+        - Videosweepmark: 5:00
         - ListStamp: 25
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

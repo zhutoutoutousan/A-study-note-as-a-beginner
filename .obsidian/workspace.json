@@ -1,19 +1,21 @@
 {
   "main": {
-    "id": "979175b14b721d52",
+    "id": "6cb08bf619fdebf2",
     "type": "split",
     "children": [
       {
-        "id": "9fac20c58f30db33",
+        "id": "135bc4535f8ac99d",
         "type": "tabs",
         "children": [
           {
-            "id": "2016ee770f0809e1",
+            "id": "3201a426a371c311",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "self/log_overall-313_840.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6147b0b475aafc23",
+    "id": "ee1bf8cda2b5453e",
     "type": "split",
     "children": [
       {
-        "id": "11234d9059b85258",
+        "id": "2f1f05db4dad2e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "71a3d15129e00931",
+            "id": "d7f8af4dfdd0cbce",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,12 +43,12 @@
             }
           },
           {
-            "id": "d9f24dbdad036139",
+            "id": "ce49328cdec56a63",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "313",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,33 +58,35 @@
             }
           },
           {
-            "id": "411c87500b65e44d",
+            "id": "8aa0c00e91957346",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "d75fd5825eacbc60",
+    "id": "fb64a243499c472f",
     "type": "split",
     "children": [
       {
-        "id": "a3853f24c517a736",
+        "id": "eb66668f4fc7f9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d218cf6f62985986",
+            "id": "02c9ee67a1b64993",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "self/log_overall-313_840.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +98,19 @@
             }
           },
           {
-            "id": "46bf914a9aa13a4a",
+            "id": "c2773a28aecaa4bb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "self/log_overall-313_840.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b991bb2a0dff4e96",
+            "id": "94ab500620d7b255",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,15 +121,17 @@
             }
           },
           {
-            "id": "8a1185337e4a7f45",
+            "id": "16480a1c3df93905",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "self/log_overall-313_840.md"
+              }
             }
           },
           {
-            "id": "37eabc3dc65ecf49",
+            "id": "2aa7f153e1c05576",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -132,7 +139,7 @@
             }
           },
           {
-            "id": "bd580c71b82219b5",
+            "id": "2d803f23a5fc23c7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -149,16 +156,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "publish:Publish changes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2016ee770f0809e1",
+  "active": "2d803f23a5fc23c7",
   "lastOpenFiles": []
 }

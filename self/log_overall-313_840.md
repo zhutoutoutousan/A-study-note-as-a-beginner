@@ -671,6 +671,7 @@
                   - ?
                     - Z/T
                       - [Z-statistics vs. T-statistics | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=5ABpqVSx33I)
+                        - VSM: 5:00
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
                     - Chebyshev Inequality
                   - OnceStimulationUnit 
@@ -1245,15 +1246,22 @@
                 - [How To Master The Ichimoku Cloud | Trading Indicators](https://www.youtube.com/watch?v=7yW44mdHFIw)
           - META
             - Behavioural Finance
+              - USE_CASE Sentiment Analysis
+              - USE_CASE Counterpart Segmentation
               - [MIT 14.13 - 1](https://www.youtube.com/watch?v=j5XdY5wkVTA&list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q)
+                - VSM: 5:03
             - Quant
+              - [MIT 18.S096 - 1](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+                - VSM: 1:10
             - ?
               - ETF Arbitrage
           - MICRO
             - Fundamentals: Automation
               - **PRIORITIZED** Coding
+                - [Fully working Moving Average MT5 Expert Advisor Programming Tutorial](https://www.youtube.com/watch?v=T78Q7K3c11s&list=PLeQQbTeiG3sD5QS8ExpmRoJGz1vvFz4nv)
+                  - VSM: 2:30
                 - [TradingView Resolutions/Timeframes/Periods - TradingView Pine Script Tutorial 7](https://www.youtube.com/watch?v=rjP329_0ihs&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=8)
-                  - Videosweepmark: 4:25
+                  - VSM: 7:03
                   - Listmark: 7
               - Trade agent
             - Strategy Lists
@@ -2425,9 +2433,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 49.1%
+            - CCS: 50.6%
             - ETC：1.68 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 1:00
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
@@ -2438,8 +2446,9 @@
               - Adjusted R-squared
               - Log-likelihood
               - Akaike criterion
-                - [Akaike, Schwarz's Bayesian, and Hannan-Quinn Information Criterion](https://www.youtube.com/watch?v=Jgg3fQ_9NDg)
-                  - Videosweepmark: 5:00
+                - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg&t=1s)
+                - DIFFICULT [Akaike, Schwarz's Bayesian, and Hannan-Quinn Information Criterion](https://www.youtube.com/watch?v=Jgg3fQ_9NDg)
+                  - Videosweepmark: 8:11 TTL
               - Schwarz criterion
                 - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg)
               - Hannan-Quinn
@@ -2648,13 +2657,24 @@
             - Ecosystem warfare
           - Micro warfare
         - Instruments
-          - Covert Entity Partnership
-          - DEPRECATED | TMT instruments
-            - *Only valid when the market is occupied by PIGs to slaughter*
+          - Business Network instruments
+          - TMT instruments
+            - Post-mortem for Financial Group Media Manipulation
+            - Post-mortem for KOL/TMT/TMT engagementss
           - Legal instruments
             - IP
               - Intellectual Property: Inventors, Entrepreneurs, Creators - U
                 - `WARNING: No italian subtitle`
+                - TEMP_TIMESTAMP: 2:02
+                - PERSISTENT *IP* Working Knowledge Structure
+                  - Patent
+                    - Legal Instrument
+                      - ?Entity: USPTO
+                  - Constitution
+                  - Justification
+                    - Bargain Theory
+                    - Natural Rights Theroy
+                  - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
                 - CCS: 6.3%
                 - TEMP_TIMESTAMP: 1:06
@@ -2664,10 +2684,9 @@
     - PR toolkit
       - Supply chain frisking & PR sabotage
       - Regulation & Compliance investigation
-      - Short Agency collab & *2022+:全民华尔街*
-        - FTX
+      - Social Media toolki
       - Case study
-        - ZXG --> MTG
+     ocial Media toolkit   - ZXG --> MTG
       - Psychological warfare(PsyOps)
         - PsyOps Bot
           - Social Media
@@ -2719,10 +2738,13 @@
             - [cvedetails](https://www.cvedetails.com/)
         - Advanced Network Programming
           - The Complete Networking Fundamentals Course. Your CCNA start - U
-            - CCS: 2.2%
-            - TEMP_TIMESTAMP: 7:06
+            - CCS: 2.5%
+            - TEMP_TIMESTAMP: 2:30
             - _motivation
               - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
+            - SUPPLEMENT Cisco Networking Academy Courses
+              - [Getting Started with Cisco Packet Tracer](https://skillsforall.com/launch?id=9762b32d-0a49-4d7a-b881-498eb3be42cc)
+                - Sitemark: *1.1.2 Video - Deploying Devices*
           - CCIE
           - Network Programming Hands-on
             - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
@@ -2804,8 +2826,9 @@
           - Videosweepmark: 3:10
     - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
+  - ADJUSTMENT `ROOT.CentralExecutiveFunction`: *Allocate 15 minutes instead of 5 minutes daily*
   - TOPIC: Freelance-ables
-    - Logistics
+    - Logistics & Automations
       - Prerequisite of Freelance-ables
         - [数字游牧民的全球指南](https://www.globalization-partners.com/cn/resources/ebook-global-guide-to-hiring-digital-nomads/#gref)
       - STREAM Real-time Automation Bot
@@ -2813,15 +2836,42 @@
         - CONFIG Keyword Set
       - RPA for serious Freelance-ables
     - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
+      - IT Consulting
+        - LOCKED Requires Level ? to unlock
+      - Language/Bymvrs Consulting
+        - LOCKED Throttled due to ROOT-level executing strategy
       - ?
         - Digital Marketing
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
+              - CCS: 2.8%
+              - TEMP_TIMESTAMP
             - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
             - Ultimate Google Analytics (4) course + 50 practical examples
           - Copywriting
           - ?
+            - Social Media for Business Frontend: Offensive & Defensive
+              - Meta
+                - Chaos Engineering for Grifters' collaboration
+                  - Animal Cunning
+                    - Team playing & Knowledge transfer with IP-risk control
+                    - Intersectionality: Creed and Exploitation
+                    - P.O.I Investigation
+                      - TOOLING Maltego
+                    - Multi Failover Action Graph
+                      - TOOLING Maltego
+                  - Subculture Fluency: Ecosystem, Tooling, and Automation
+                  - Distributed Multi-account Orchestration
+              - Basics
+                - Instagram Marketing 2023: Complete Guide To Instagram Growth - U
+                - Facebook Ads & Facebook Marketing MASTERY 2023 | Coursenvy ®
     - Single-component Freelance-ables
+      - Data Service
+        - [Netflix Data Analysis using Python | DataHour by Munmun Das](https://www.youtube.com/watch?v=Hx2v5s8j--g)
+          - VSM: 0:19
+      - Language Service
+        - Website Localization For Translators
+        - Trados Studio 2021 - Tutorial Basic Level
   - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
       - CCS: 91.0%
@@ -3008,9 +3058,9 @@
         - [Learn Arabic grammar to understand Quran. Gender of ISM اسم masculine, feminine](https://www.youtube.com/watch?v=uf3BnAaOj8Q&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=11)
           - Videosweepmark: 5:00
           - VideoListStamp: 11
-        - [Arabic Grammar For All - Lesson 9 Part 2 - The Idaafah - Abu Sulaymaan](https://www.youtube.com/watch?v=eHKma4ie6nM&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=10)
-          - Videosweepmark: 27:10 NEXT
-          - VideoListStamp: 9
+        - [Arabic Grammar For All - Lesson 10 - The Present Tense - Abu Sulaymaan](https://www.youtube.com/watch?v=V17c609OmiQ&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=11)
+          - Videosweepmark
+          - VideoListStamp: 11
     - MICRO
       - STATIC
         - General Noun Usage Proficiency
@@ -3022,9 +3072,7 @@
         - /General Noun forms | 3%
         - Difference of grammatical terms
         - ?
-          - 100% TTL | على
           - 20% | بعض
-          - 100% TTL | الآن
         - `pronoun`
           - 80% | نَحْنُ
           - `pronoun.reflexive`
@@ -4015,7 +4063,6 @@
       - **ουσιαστικό**
         - ουσιαστικό | 80%
           - [Noun - LingQ](https://www.lingq.com/en/grammar-resource/greek/nouns/#:~:text=The%20Greek%20nouns%20are%20divided,capitalized%20and%20have%20a%20plural.&text=Nouns%20have%20different%20suffixes%20depending%20on%20the%20gender%2C%20case%20and%20number.)
-        - πραγματικότητα | 100% TTL
       - **επίρρημα**
       - Pronoun
         - αυτή

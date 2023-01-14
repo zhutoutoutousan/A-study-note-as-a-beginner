@@ -129,8 +129,25 @@
                 "file": "self/log_overall-313_840.md"
               }
             }
+          },
+          {
+            "id": "31f84cb8cb0c2098",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "07bd6aa8aef26ceb",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -139,14 +156,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4d33dff1aea85961",
+  "active": "07bd6aa8aef26ceb",
   "lastOpenFiles": []
 }

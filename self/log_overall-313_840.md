@@ -164,7 +164,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 65.3%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 66%
               - ReferenceHash: `lang_dev`
       - Low Q
     - Continuous`?`Development Single Layer Meta Development Unit
@@ -210,7 +210,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 7.2%
                   - 36-58 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 65.3%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 66%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -308,7 +308,7 @@
       - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
         - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 18:30
+      - VSM: 23:00
       - RANDOM Language Pair: German-Spanish
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
     - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
@@ -656,9 +656,9 @@
             - Basics
               - CFA Level 1 --> `this.concurrentTraffic = 0.5`
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 44.5%
+                  - CCS: 44.7%
                   - ETA: 6.25 months
-                  - TEMP_TIMESTAMP: 1:00
+                  - TEMP_TIMESTAMP: 2:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -672,20 +672,19 @@
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
                     - Central limit theorem
-                      - [Central limit theorem | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=JNm3M9cqWyc)
-                        - VSM: 9:48 TTL
                       - [Proof: Central Limit Proof](https://www.youtube.com/watch?v=RqiqhrZE6Uk)
                         - VSM: 10:00
                         - ?
                           - iid -> independent and identically distributed
                           - CDF, MGF(Moment generating function)
                       - [Sampling in Excel | Random Sampling | Systematic sampling | Stratified sampling | Fundamentals](https://www.youtube.com/watch?v=LpUM0jQSba4)
-                        - VSM: 5:00
+                        - VSM: 9:00
                       - [8 strategies I used to learn & master Excel in a short time](https://www.youtube.com/watch?v=K0UF-nSc_Mw)
                         - VSM: 5:00
-                    - Z/T
-                      - [Z-statistics vs. T-statistics | Inferential statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=5ABpqVSx33I)
-                        - VSM: 5:00
+                    - TANDEM Probability & Statistics Recap
+                      - [Statistics: The average | Descriptive statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566)
+                        - VSM
+                        - LM
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
                     - Chebyshev Inequality
                     - Monte Carlo, Historical Simulation
@@ -1220,35 +1219,75 @@
               - Bookpair
                 - [Forensic and Investigative Accounting](https://drive.google.com/file/d/1vF2iB-TqC1Nly67XAYp5-GWeLuVx7F8M/view?usp=sharing)
                   - PPF
-        - CFA, CPA carryover-able basics
-        - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
-          - Videosweepmark: 10:43
-          - ?
-            - Scarcity, Ceteris Paribus, Consensus, Expectation Divergence, Opportunity Cost, Nominal divergence
-            - D&S
-        - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
-          - Videosweepmark: 10:35
-          - Pillars of FA | LIMIT RECURSIVE 5
-            - Time sense
-              - Economic Calendar
-                - Retail Sales MoM
-                  - [Retail Sales Explained](https://www.youtube.com/watch?v=2QQIXCJEdDs)
-                  - [Macroeconomics - Retail Sales](https://www.youtube.com/watch?v=RSoh99Eypic)
-                  - [What is the S&P 500 -- Should you Invest in the S&P 500](https://www.youtube.com/watch?v=beumv2JYdNM&t=2s)
-                  - [How to Trade the News in Forex: 5 Events You NEED To Know!](https://www.youtube.com/watch?v=AsJqAFRBsbQ)
-                  - [Forex Fundamental Analysis: How to Trade with the CPI / Inflation Reports!](https://www.youtube.com/watch?v=EXHpd6_ipkE)
-                    - Videosweepmark: 5:00
-            - Economic Data
-              - Interest rates
-              - Inflation
-                - [CPI, PPI & Inflation (Economics Crash Course)](https://www.youtube.com/watch?v=vMJvfrVw324)
-              - Unemployment rates
-                - Initial Jobless claims
-            - Central bank decisions
-              - Fed, ECB, RBA
-            - Geopolitical events
-            - Glossary
-              - Personal Consumption Expenditure Price Index 
+        - Economics
+          - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
+            - Videosweepmark: 10:43
+            - ?
+              - Scarcity, Ceteris Paribus, Consensus, Expectation Divergence, Opportunity Cost, Nominal divergence
+              - D&S
+          - ECON 252 --> `this.concurrentTraffic = 0.2`
+            - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
+              - Videosweepmark: 1:03:30
+              - LIST_NUM: 2
+              - CURIOSITY_OUTREACH
+                - CoVaR
+                - The Gospel of Wealth and Other Essays
+                - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
+                  - PROCESSING_POINTER_FIELD
+                    - Randomtelewalk
+                      - Instances
+                        - 26
+                        - 193
+                      - Saturation: 0.022%
+                    - Lazy Freeloader's Feynman Technique Entries
+                      - CH1_24
+                      - CH9_193
+                  - PROCESSING_POINTER_STORE
+                    - SUPPLEMENT
+                      - PERSISTENT
+                        - **Root Multi-dimensional Venn Graph Construction**
+                          - _meta
+                            - Tooling
+                              - Software Project: Multi-dimensional Venn Graph 时域多维文氏图(3D, 4D)
+                                - [多维venn图](https://www.jianshu.com/p/27c1a58e21aa)
+                                - [Higher-dimensional Venn diagrams](https://www.math.stonybrook.edu/~tony/whatsnew/column/venn-0605/venn.html)
+                                - [Multidimensional Venn Diagrams](https://stackoverflow.com/questions/14774190/multidimensional-venn-diagrams)
+                                - [plotVenn2d: Plot Venn diagram for 2-dimensional data](https://rdrr.io/cran/colorfulVennPlot/man/plotVenn2d.html)
+                                - [Generalizations and Extensions](https://www.combinatorics.org/files/Surveys/ds5/ds5v3-2005/VennOtherEJC.html)
+                                - [BEAUTIFUL GGPLOT VENN DIAGRAM WITH R](https://www.datanovia.com/en/blog/beautiful-ggplot-venn-diagram-with-r/)
+                          - Financial Instrument
+                            - Equity Instrument
+                              - [IFRS 9 Financial Instruments: Summary 2021](https://www.youtube.com/watch?v=qFOyyP_po3I)
+                                - Videosweepmark: 1:00
+                            - Debt Instrument
+                            - ?
+                          - ?
+                            - Financial Asset
+                            - Financial Risk
+                - ?
+                  - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
+                    - Videosweepmark: 10:35
+                    - Pillars of FA | LIMIT RECURSIVE 5
+                      - Time sense
+                        - Economic Calendar
+                          - Retail Sales MoM
+                            - [Retail Sales Explained](https://www.youtube.com/watch?v=2QQIXCJEdDs)
+                            - [Macroeconomics - Retail Sales](https://www.youtube.com/watch?v=RSoh99Eypic)
+                            - [What is the S&P 500 -- Should you Invest in the S&P 500](https://www.youtube.com/watch?v=beumv2JYdNM&t=2s)
+                            - [How to Trade the News in Forex: 5 Events You NEED To Know!](https://www.youtube.com/watch?v=AsJqAFRBsbQ)
+                            - [Forex Fundamental Analysis: How to Trade with the CPI / Inflation Reports!](https://www.youtube.com/watch?v=EXHpd6_ipkE)
+                              - Videosweepmark: 5:00
+                      - Economic Data
+                        - Interest rates
+                        - Inflation
+                          - [CPI, PPI & Inflation (Economics Crash Course)](https://www.youtube.com/watch?v=vMJvfrVw324)
+                        - Unemployment rates
+                          - Initial Jobless claims
+                      - Central bank decisions
+                        - Fed, ECB, RBA
+                      - Geopolitical events
+                      - Glossary
+                        - Personal Consumption Expenditure Price Index 
       - Sentiment analysis
         - [Ultimate Sentiment Analysis Course for Traders](https://www.youtube.com/watch?v=_3mgn-z76Io)
           - Videosweepmark: 24:45 SATURATE_CHILDREN
@@ -1308,13 +1347,13 @@
               - USE_CASE Sentiment Analysis
               - USE_CASE Counterpart Segmentation
               - [MIT 14.13 - 1](https://www.youtube.com/watch?v=j5XdY5wkVTA&list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q)
-                - VSM: 5:03
+                - VSM: 10:21
             - Quant
               - [Hands-On Machine Learning for Algorithmic Trading by Stefan Jansen](https://www.algotradinghome.ir/Library/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20by%20Stefan%20Jansen.pdf)
                 - PPF
                   - Hands-On Pointer: 19
                     - CONFIG `isForcedHandsOn=True`
-                  - RT
+                  - RT: 25
               - SOURCING From Data to Trade: A Machine Learning Approach to Quantitative Trading
                 - PREREQUISITE PyTorch for Deep Learning with Python Bootcamp
                   - SUPPLEMENT [Machine learning for trading](https://github.com/stefan-jansen/machine-learning-for-trading)
@@ -1328,7 +1367,7 @@
               - Instructor
                 - MT Mobile
                   - [Scalping US30 on Mobile MT4 settings](https://www.youtube.com/watch?v=X7SFnVyATQs)
-                    - VSM: 1:00
+                    - VSM: 6:00
                 - MT4
                   - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
                     - Videosweepmark: 7:50
@@ -1341,7 +1380,7 @@
               - Indicator IMPLEMENTS `general_language_development_strategy`
                 - Moving Average
                   - [The Only Moving Average Trading Video You Will Ever Need...](https://www.youtube.com/watch?v=hTDVTH8umR8)
-                    - VSM: 20:25
+                    - VSM: 25:25
                   - EMA
                   - SMA
                   - MACD | 2%
@@ -1365,7 +1404,7 @@
                 - RSI
                   - RSI divergence
                     - [Simple Reversal Trading Strategy: RSI Divergence Trading Explained!](https://www.youtube.com/watch?v=TnEyxiuhpUU)
-                      - VSM: 9:01
+                      - VSM: 11:33
                 - Ichimoku Cloud
                   - [Ichimoku Cloud: What It Means and How to Use It](https://www.youtube.com/watch?v=H9eILCI5nJo)
                     - VSM: 3:30
@@ -1376,7 +1415,7 @@
                     - VSM: 5:00
                     - CONFIG `isForcedHandsOn=True`
                   - [Ribbon Indicator - TradingView Pine Script Tutorial 8](https://www.youtube.com/watch?v=e3y9qYbCAgc&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=9)
-                    - VSM: 10:03
+                    - VSM: 12:33
                     - Listmark: 9
                     - SUPPLEMENT On-demand French Recap
                       - [Français B2 | Les pronoms démonstratifs CELUI, CELLE, CEUX, CELLES](https://www.youtube.com/watch?v=YUSjyIbPtNk)
@@ -1442,37 +1481,35 @@
             - ON_EXECUTION
             - AFTER_EXECUTION
               - Post-mortem
-    - Ecosystem: Pre-fundamental Analysis
-      - Genesis Market Analysis: 1984, 2022, and beyond
-        - Resonance: House of cards VS Factories of Shinies
-        - Zeitgeist: Hiss VS Hedron
-      - Industry/Primary market Analysis
-        - Schema/Pre-built mental facility Construction
-          - MAGNET RUNNING `inwardSourcing(ROOT, context)`
-          - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
-            - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
-          - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
-      - Secondary Market Analysis
-        - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
-          - Videosweepmark : 7:00
-    - MAGNET Quant
-      - `pollFromGlobal(ROOT)`
-    - Logistics
-      - RPA ^ Trading
-        - Quant
-          - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
-            - Videosweepmark: 3:30
-            - Language pair: French: French | Spanish
-        - Back testing
-      - Broker
-        - Verification
-          - _SECURITY_GROUP
-        - _SECURITY_GROUP
-          - Security pending
-            - [International Forex Brokers Search](https://www.forexbrokers.com/international-currency-trading)
-            - [Verify Trade](https://www.verifymytrade.com/)
-      - Pool
-    - Meta: The Era of Digital Natives & **Financial-Market Natives**
+      - Ecosystem: Pre-fundamental Analysis
+        - Genesis Market Analysis: 1984, 2022, and beyond
+          - Resonance: House of cards VS Factories of Shinies
+          - Zeitgeist: Hiss VS Hedron
+        - Industry/Primary market Analysis
+          - Schema/Pre-built mental facility Construction
+            - MAGNET RUNNING `inwardSourcing(ROOT, context)`
+            - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
+              - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
+            - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
+        - Secondary Market Analysis
+          - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
+            - Videosweepmark : 7:00
+        - Logistics
+          - RPA ^ Trading
+            - Quant
+              - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
+                - Videosweepmark: 3:30
+                - Language pair: French: French | Spanish
+            - Back testing
+          - Broker
+            - Verification
+              - _SECURITY_GROUP
+            - _SECURITY_GROUP
+              - Security pending
+                - [International Forex Brokers Search](https://www.forexbrokers.com/international-currency-trading)
+                - [Verify Trade](https://www.verifymytrade.com/)
+          - Pool
+        - Meta: The Era of Digital Natives & **Financial-Market Natives**
   - ATTACHABLE PASSIVE_ONLY Sports
     - _CONFIG `PROPAGATES` ROOT
       - PASSIVE *All sports, powerlifting, anatomy, fitness, nutrition related material will be directed to French only*
@@ -1750,9 +1787,9 @@
                             - Depreciation of factory unit, F
                         - ?
                           - Cash receipts book
-                            - [Sales Credit Note Daybook with Analysis](https://www.youtube.com/watch?v=hK-cP_ezeyI&list=PLq-LAdKr6o3cYsVfiUg1Cj9FlrfXymfqw&index=5)
-                              - VSM: 5:00
-                              - LM: 5
+                            - [Purchase Invoice Daybook with Analysis](https://www.youtube.com/watch?v=-5eVeO8tmxw&list=PLq-LAdKr6o3cYsVfiUg1Cj9FlrfXymfqw&index=6)
+                              - VSM: 2:30
+                              - LM: 6
                               - ?
                                 - Sales Invoice Daybook, Sales Credit Note Daybook
                                   - What's the difference between *Sales Invoice Daybook* and *Sales Credit Note Daybook?*
@@ -1814,45 +1851,6 @@
         - [ACCA F3/FA CBE Full Exam and MTQs Question](https://www.youtube.com/watch?v=fIcA3iF9O-0)
         - [Financial Accounting (FA) - CBE Specimen Paper Part 1](https://www.youtube.com/watch?v=XhZkvw_XlLI)
     - Following Actual Prep & Exam
-  - ECON 252 --> `this.concurrentTraffic = 0.2`
-    - [2. Risk and Financial Crises](https://www.youtube.com/watch?v=QbosMr2JVrc&list=PL8FB14A2200B87185&index=2)
-      - Videosweepmark: 1:03:30
-      - LIST_NUM: 2
-      - CURIOSITY_OUTREACH
-        - CoVaR
-        - The Gospel of Wealth and Other Essays
-        - [Shiller.Foundations of Financial Markets and Institutions](https://dl.rasabourse.com/Shiller.Foundations%20of%20Financial%20Markets%20and%20Institutions.pdf)
-          - PROCESSING_POINTER_FIELD
-            - Randomtelewalk
-              - Instances
-                - 26
-                - 193
-              - Saturation: 0.022%
-            - Lazy Freeloader's Feynman Technique Entries
-              - CH1_24
-              - CH9_193
-          - PROCESSING_POINTER_STORE
-            - SUPPLEMENT
-              - PERSISTENT
-                - **Root Multi-dimensional Venn Graph Construction**
-                  - _meta
-                    - Tooling
-                      - Software Project: Multi-dimensional Venn Graph 时域多维文氏图(3D, 4D)
-                        - [多维venn图](https://www.jianshu.com/p/27c1a58e21aa)
-                        - [Higher-dimensional Venn diagrams](https://www.math.stonybrook.edu/~tony/whatsnew/column/venn-0605/venn.html)
-                        - [Multidimensional Venn Diagrams](https://stackoverflow.com/questions/14774190/multidimensional-venn-diagrams)
-                        - [plotVenn2d: Plot Venn diagram for 2-dimensional data](https://rdrr.io/cran/colorfulVennPlot/man/plotVenn2d.html)
-                        - [Generalizations and Extensions](https://www.combinatorics.org/files/Surveys/ds5/ds5v3-2005/VennOtherEJC.html)
-                        - [BEAUTIFUL GGPLOT VENN DIAGRAM WITH R](https://www.datanovia.com/en/blog/beautiful-ggplot-venn-diagram-with-r/)
-                  - Financial Instrument
-                    - Equity Instrument
-                      - [IFRS 9 Financial Instruments: Summary 2021](https://www.youtube.com/watch?v=qFOyyP_po3I)
-                        - Videosweepmark: 1:00
-                    - Debt Instrument
-                    - ?
-                  - ?
-                    - Financial Asset
-                    - Financial Risk
   - TOPIC Law, regulation, justice, politics
 - Hungarian - N/A
 - German - Upper C1+++++ --> *Strive for perfection*
@@ -2582,10 +2580,11 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 57.9%
+            - CCS: 58.8%
             - ETC：1.68 months
-            - TEMP_TIMESTAMP
+            - TEMP_TIMESTAMP: 2:00
             - CONFIG `isForcedHandsOn=['Conditional True', 'ETL and others']`
+              - CONFIG ETL tool: Azure Data Factory
               - **BLOCKER RESOLVED** *Installation overhead* --> REMOVE
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - VOCABULARY Hervorheben | 20%
@@ -2602,11 +2601,13 @@
                   - VSM: 8:00
                   - ?
                     - Mallow, 2LL
-                      - [Introduction to REGRESSION! | SSE, SSR, SST | R-squared | Errors (ε vs. e)](https://www.youtube.com/watch?v=aq8VU5KLmkY)
-                        - VSM: 10:00
-                      - [SSG, SSE, and SST](https://www.youtube.com/watch?v=WFIDZAT2xP0)
-                        - VSM: 5:00
                       - [Math 10 Section 14.3: The Coefficient of Determination](https://www.youtube.com/watch?v=u51a_86h6Hs)
+                        - VSM: 5:00
+                        - RECURSIVE PROMISCUOUS [SST, SSE, SSR reasoning](https://stats.stackexchange.com/questions/207841/why-is-sst-sse-ssr-one-variable-linear-regression)
+                          - Saturation
+                          - PROMISCUOUS_STATEMENT
+                            - Any node tagged with `PROMISCUOUS` will have no `LIMIT` or `DEPTH` tag
+                            - Any such node will perform limitless node growth based on any `OUTREACHEABLES` in the node value
               - Schwarz criterion
                 - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg)
                   - VSM: 5:00
@@ -2620,7 +2621,7 @@
                     - Use `mathematica` to plot some Fourier transform
                   - Maybe you can create a gallary of studies before, sorted by directions
               - [Signal Processing A Mathematical Approach Second Edition](https://library.oapen.org/bitstream/id/3eb04f39-67d7-4b4d-8569-3185fbefd944/1005624.pdf)
-                - Progress: 42/436
+                - LEGACY Progress: 42/436
               - [The Mathematics of Signal Processing](http://www-personal.umich.edu/~damelin/proofdammiller.pdf)
           - **Web 5.0+**
             - Metaverse
@@ -2783,7 +2784,7 @@
         - **MUTATION** Sales, Pre-sale
           - [What Does It Take To Find Profitable Presale?](https://www.youtube.com/watch?v=D6GDDhaChU4)
               - PROCESSING POINTER FIELD
-                - Videosweepmark: 29:10
+                - Videosweepmark: 32:10
               - NEW Pre-sale Mindset: COPY * FROM day_trading | REMOVE
                 - KSP
                 - RRR Risk Risk-aversion
@@ -2859,8 +2860,10 @@
                     - Natural Rights Theroy
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-                - CCS: 11.5%
-                - TEMP_TIMESTAMP: 8:30
+                - CCS: 14.7%
+                - TEMP_TIMESTAMP: 3:00
+                - ?
+                  - CIA
     - Financial Toolkit
       - Forensic Accounting
       - Financial instrument attack
@@ -2889,8 +2892,8 @@
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 38.1%
-          - TEMP_TIMESTAMP: 3:30
+          - CCS: 39.7%
+          - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
       - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
@@ -3046,8 +3049,8 @@
             - SOURCING RPA for Mobile Device
             - Complete UiPath RPA Developer Course: Build 7 Robots
             - Power Automate - Complete Guide to Microsoft Power Automate
-              - CCS: 12.5%
-              - TEMP_TIMESTAMP: 1:00
+              - CCS: 14.2%
+              - TEMP_TIMESTAMP
     - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
       - IT Consulting
         - LOCKED Requires Level ? to unlock
@@ -3059,8 +3062,8 @@
           - SEO
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
-              - CCS: 3.6%
-              - TEMP_TIMESTAMP: 7:00
+              - CCS: 5.3%
+              - TEMP_TIMESTAMP
             - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
             - Ultimate Google Analytics (4) course + 50 practical examples
           - Copywriting
@@ -3093,9 +3096,9 @@
         - Trados Studio 2021 - Tutorial Basic Level
   - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 95.7%
+      - CCS: 96.3%
       - E.T.A: 8d
-      - TEMP_TIMESTAMP: 1:25
+      - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
       - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
@@ -3277,10 +3280,10 @@
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic grammar to understand Quran. Practical Arabic sentences [Lesson 03 Part-2]](https://www.youtube.com/watch?v=epNP9GESoOc&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=12)
-          - Videosweepmark: 10:10
+          - Videosweepmark: 20:10
           - VideoListStamp: 12
         - [Arabic Grammar For All - Lesson 12 - Demonstrative Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=_RxrLmPKjag&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=13)
-          - Videosweepmark
+          - Videosweepmark: 10:22
           - VideoListStamp: 13
     - MICRO
       - STATIC
@@ -3293,7 +3296,7 @@
         - /General Noun forms | 3%
         - Difference of grammatical terms
         - ?
-          - 40% | بعض
+          - 100% TTL | بعض
         - `pronoun`
           - 82% | نَحْنُ
           - `pronoun.reflexive`
@@ -3724,16 +3727,16 @@
               - RandomThoughts
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
-      - **IMPORTANT** **MANDATORY**Progressive Web Apps (PWA) - The Complete Guide - U
+      - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 92.8%
-        - TEMP_TIMESTAMP: 2:01
+        - CCS: 95.2%
+        - TEMP_TIMESTAMP
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-        - CCS: 27.7%
+        - CCS: 29.8%
         - TEMP_TIMESTAMP
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
@@ -3809,9 +3812,10 @@
                     - Potentials: 0%
               - TOOLING Linkturious
                 - [Linkurious Enterprise Tutorial - The Linkurious Enterprise Dashboard](https://www.youtube.com/watch?v=ADHKEKsWo7c&list=PLUjm-i6zjRqUryr6xYCsblXY6W9pgfUfM&index=8)
-                  - VSM
+                  - VSM: 1:10 NEXT
                   - LM: 8
                 - [Using Linkurious in your Enterprise Architecture projects](https://www.youtube.com/watch?v=YXZyRWgCY-o)
+                  - VSM: 9:00
                 - [How to visualize Oracle Big Data Spatial and Graph with Ogma](https://www.youtube.com/watch?v=yf5L_RNF8E0)
                 - [Graph-based product lifecycle management](https://www.youtube.com/watch?v=6iIqlFgauv8)
               - GraphQL Evolvable Schema Design
@@ -4040,14 +4044,14 @@
           - VSM: 10:01
           - Language pair SHUFFLE: Japanese - Russian
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
-          - Videosweepmark: 12:30
+          - Videosweepmark: 17:39
           - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
         - THROTTLE FREQUENT 頂く | 100% SATURATE_CHILDREN
           - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-            - Videosweepmark: 9:04
+            - Videosweepmark: 10:54 TTL
         - THROTTLE FREQUENT 使う | 34%
           - [PASSIVE form (れる/られる) Sound like a native speaker!](https://www.youtube.com/watch?v=PTRjEq5ExSM)
             - Videosweepmark: 1:22
@@ -4118,22 +4122,22 @@
         - SECURITY_GROUP: OPEN
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
-      - **глагол**
+      - **Глагол**
         - использовать | 100% TTL
       - **Предлог**
-      - **местоимения**
-      - **фраза**
-      - **прилагательное**
+      - **Местоимения**
+      - **Фраза**
+      - **Прилагательное**
         - кратчайший | 100% TTL
-        - краткий | 80%
-        - де́тский | 70%
-      - **наречие**
-      - **существительное**
+        - краткий | 100% TTL
+        - де́тский | 100% TTL
+      - **Наречие**
+      - **Существительное**
         - края | 100% TTL
-        - алмаз | 90%
-        - аналитика | 90%
-        - исследование | 90%
-        - определение | 90%
+        - алмаз | 92%
+        - аналитика | 100% TTL
+        - исследование | 95%
+        - определение | 100% TTL
         - отношение | 100% TTL
       - **Местоимение**
         - весь | 90%

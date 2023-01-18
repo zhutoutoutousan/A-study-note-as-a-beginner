@@ -164,7 +164,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 66%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 63.2%
               - ReferenceHash: `lang_dev`
       - Low Q
     - Continuous`?`Development Single Layer Meta Development Unit
@@ -208,9 +208,9 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 7.2%
-                  - 36-58 | STATE: FROZEN if under 60%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 66%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 7.5%
+                  - 36-59 | STATE: FROZEN if under 60%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 63.2%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -295,8 +295,8 @@
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 4.8%
-        - TEMP_TIMESTAMP: 3:00
+        - CCS: 5.8%
+        - TEMP_TIMESTAMP: 0:30
         - CONFIG Forced Hands-on: True
         - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
@@ -312,7 +312,7 @@
       - RANDOM Language Pair: German-Spanish
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
     - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ)
-      - VSM: 25:04
+      - VSM: 30:30
     - [NVIDIA Community Stream | Deep Dive: Universal Scene Description & Material Definition Language](https://www.youtube.com/watch?v=e9AUTHbgspI)
       - VSM: 10:34
   - Modern, Futuristic, Agile, Self-evolving Academia
@@ -653,12 +653,14 @@
             - Options & Derivatives
               - U The complete options course
                 - L:
-            - Basics
-              - CFA Level 1 --> `this.concurrentTraffic = 0.5`
+            - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
+              - Data Engineering Essentials using SQL, Python, and PySpark
+                - CCS: 0.2%
+              - CFA Level 1
                 - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 44.7%
+                  - CCS: 46.1%
                   - ETA: 6.25 months
-                  - TEMP_TIMESTAMP: 2:00
+                  - TEMP_TIMESTAMP: 3:00
                   - _hook
                     - POST_MORTEM
                       - Practice Questions
@@ -671,14 +673,18 @@
                           - *Only used as rote learning given a particular time window for exam prep*
                         - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
                   - ?
-                    - Central limit theorem
-                      - [Proof: Central Limit Proof](https://www.youtube.com/watch?v=RqiqhrZE6Uk)
-                        - VSM: 10:00
+                    - Test statistics, null hypothesis
+                    - PERSISTENT Central limit theorem
+                      - Goal: Have a solid grasp of CLT and its SURROUNDING ECOSYSTEM
+                      - PERSISTENT [Proof: Central Limit Proof](https://www.youtube.com/watch?v=RqiqhrZE6Uk)
+                        - CONFIG Inifite Loop with re-ocurring supplementation children
+                        - CONFIG `TTL=30d`
+                          - `currentTTL`: 30d
+                        - VSM: 15:00
                         - ?
+                          - expectation, DDF, and moment
                           - iid -> independent and identically distributed
                           - CDF, MGF(Moment generating function)
-                      - [Sampling in Excel | Random Sampling | Systematic sampling | Stratified sampling | Fundamentals](https://www.youtube.com/watch?v=LpUM0jQSba4)
-                        - VSM: 9:00
                       - [8 strategies I used to learn & master Excel in a short time](https://www.youtube.com/watch?v=K0UF-nSc_Mw)
                         - VSM: 5:00
                     - TANDEM Probability & Statistics Recap
@@ -1156,7 +1162,7 @@
               - TMT Instrument
               - Legal Instrument
                 - _meta
-                  - `ROOT.internalUpgrade('memory')`
+                  - SCOPED `ROOT.internalUpgrade('memory')`
                     - Customized Endeavour
                       - _meta:Key Ingredients
                         - Just-in-time(JIT) desensitized intellectual requirements gathering
@@ -1165,16 +1171,35 @@
                           - Software Project Make-or-buy
                           - ?
                         - ?
-                      - Memory Modeling
+                      - STRATEGY Executing Strategy
+                        - ? *Want to formulate a strategy how to lift CRAZY HEAVY WEIGHT, easy, conduct post-mortem and planning after each attempts*
+                          - *except the system created has no boundry concerning its level of sophistication*
+                      - MODEL Memory Modeling
                         - *Similar to Mathematics modeling, memory modeling abstracts from the real world and transfer*
                           - CONT *it to a form as well as toolset/functions/methods which it is easier to be stored in brain*
+                      - STORE Persistent, Instant Fetched Super Complex Structures at disposal a.k.a Go-to-market Mind Palace
+                        - Mental Complex Gantt Chart
+                      - USE_CASE_GROUP USE_CASE Brain-on during every element of war
+                        - HEDGE `ROOT.CentralExecutiveFunction`: *As long as a certain ecosystem has above-threshold gauge of war, or warness*
+                          - CONT *The level of willingness that people will make hyper-sophisticated effort to provide*
+                          - CONT *false signals or misinformation is OFF THE CHARTS, except participant composition are majorly idiots :3*
+                          - CONT *Under such conditions, powerlifting-level maximum-generic-market-fit-ratio memory can come in handy*
+                          - CONT *But always remember, sophisticated warness-packed ecosystems are very rare unless it's way higher up the echelon*
+                          - CONT *And plus pig-composition in which pigs are wasting energy waging wars over unworthy things is still crazy high and in huge up trend*
+                          - CONT *DO NOT attempt in General Market, DON'T DO IT*
                       - USE_CASE Instant Huge && Complex graph memory during investigation
                         - ADVANCED_THEN Run simulations based on probability & statistics on the certain graph
                         - ADVANCED_THEN Advanced mental morphism based on the original graph
                         - TASK Look at a resonably complex graph and formulate a plan of attack of memorization strategy design
                           - CONFIG *Combined with desensitized situational case study*
+                          - SOURCING High quality, go-to-market, super complex graph
                       - USE_CASE Dynamic mental gantt chart with HR and WBS in consideration
                         - TASK Look at a resonably complex gantt chart and formulate a plan of attack of memorization strategy design
+                        - SOURCING High quality, go-to-market, super complex gantt chart
+                      - USE_CASE Memorizing multi-timeframe price & indicator of multiple product pairs with mental deduction interpolation techniques
+                      - USE_CASE Maximum content retainment for tactical eavesdropping
+                        - LOCKED Requires enough CS skills
+                        - LOCKED Requires advanced listening and lips reading training
                     - Ron White Memory Expert - Memory Training & Brain Training
                       - CONFIG Ingress=*Generally Referrable Material*
                       - Verdict: Questionable, Irrelevant
@@ -1185,7 +1210,7 @@
                       - [Memory Trick to Memorize a List](https://www.youtube.com/watch?v=NMKIPyTSKOM)
                         - VSM: 5:00
                       - [Truth About If Caffeine Helps Memory and Focus (OR HURTS it!?)](https://www.youtube.com/watch?v=n_B9UhQcmno)
-                        - VSM: 8:00
+                        - VSM: 10:30
                     - Anthony Metivier's Goodies
                       - [Ron White on Achieving a Black Belt Memory, Memorizing 2300 Names & Mastering Your Mind](https://www.youtube.com/watch?v=Y1JcM1znKOc)
                         - VSM: 1:00
@@ -1342,12 +1367,12 @@
         - Strategy & Execution
           - _motivation
             - *Learning French while accidentally getting mature with trading strategies*
-          - META
+          - META --> *Integrated Analysis*
             - Behavioural Finance
               - USE_CASE Sentiment Analysis
               - USE_CASE Counterpart Segmentation
               - [MIT 14.13 - 1](https://www.youtube.com/watch?v=j5XdY5wkVTA&list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q)
-                - VSM: 10:21
+                - VSM: 20:04
             - Quant
               - [Hands-On Machine Learning for Algorithmic Trading by Stefan Jansen](https://www.algotradinghome.ir/Library/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20by%20Stefan%20Jansen.pdf)
                 - PPF
@@ -1380,7 +1405,7 @@
               - Indicator IMPLEMENTS `general_language_development_strategy`
                 - Moving Average
                   - [The Only Moving Average Trading Video You Will Ever Need...](https://www.youtube.com/watch?v=hTDVTH8umR8)
-                    - VSM: 25:25
+                    - VSM: 30:24
                   - EMA
                   - SMA
                   - MACD | 2%
@@ -1414,9 +1439,9 @@
                   - [Fully working Moving Average MT5 Expert Advisor Programming Tutorial](https://www.youtube.com/watch?v=T78Q7K3c11s&list=PLeQQbTeiG3sD5QS8ExpmRoJGz1vvFz4nv)
                     - VSM: 5:00
                     - CONFIG `isForcedHandsOn=True`
-                  - [Ribbon Indicator - TradingView Pine Script Tutorial 8](https://www.youtube.com/watch?v=e3y9qYbCAgc&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=9)
-                    - VSM: 12:33
-                    - Listmark: 9
+                  - [Creating a Strategy For TradingView - TradingView Pine Script Tutorial 9](https://www.youtube.com/watch?v=YxDSFdvAei4&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=10)
+                    - VSM: 5:02
+                    - Listmark: 10
                     - SUPPLEMENT On-demand French Recap
                       - [Français B2 | Les pronoms démonstratifs CELUI, CELLE, CEUX, CELLES](https://www.youtube.com/watch?v=YUSjyIbPtNk)
                         - VSM: 2:30
@@ -1786,10 +1811,11 @@
                             - Carriage Inward, Carriage Outward
                             - Depreciation of factory unit, F
                         - ?
+                          - FIFO method recap
                           - Cash receipts book
-                            - [Purchase Invoice Daybook with Analysis](https://www.youtube.com/watch?v=-5eVeO8tmxw&list=PLq-LAdKr6o3cYsVfiUg1Cj9FlrfXymfqw&index=6)
-                              - VSM: 2:30
-                              - LM: 6
+                            - [Purchase Credit Note Daybook with Analysis](https://www.youtube.com/watch?v=Gvcwt-YJNg4&list=PLq-LAdKr6o3cYsVfiUg1Cj9FlrfXymfqw&index=7)
+                              - VSM: 5:00
+                              - LM: 7
                               - ?
                                 - Sales Invoice Daybook, Sales Credit Note Daybook
                                   - What's the difference between *Sales Invoice Daybook* and *Sales Credit Note Daybook?*
@@ -2580,14 +2606,15 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 58.8%
+            - CCS: 60.6%
             - ETC：1.68 months
-            - TEMP_TIMESTAMP: 2:00
+            - TEMP_TIMESTAMP: 2:42
             - CONFIG `isForcedHandsOn=['Conditional True', 'ETL and others']`
-              - CONFIG ETL tool: Azure Data Factory
+              - CONFIG Current ETL tool: Talend Open Studio
+              - CONFIG ETL tool: Azure Data Factory, Source another IPA-based ETL tool
               - **BLOCKER RESOLVED** *Installation overhead* --> REMOVE
             - Key Words: Chi-square, A/B, Adjusted $R^2$
-            - VOCABULARY Hervorheben | 20%
+            - VOCABULARY Hervorheben | 100% TTL
             - CUSTOMIZED_VENTURE
               - *For coin toss, create a decision tree marked by possbilities, question is is the tree balanced? For different scenarios?*
             - CURIOSITY_OUTREACH
@@ -2598,11 +2625,11 @@
               - Log-likelihood
               - PERSISTENT Akaike criterion
                 - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg&t=1s)
-                  - VSM: 8:00
+                  - VSM: 17:25 SATURATE_CHILDREN
                   - ?
                     - Mallow, 2LL
                       - [Math 10 Section 14.3: The Coefficient of Determination](https://www.youtube.com/watch?v=u51a_86h6Hs)
-                        - VSM: 5:00
+                        - VSM: 10:00
                         - RECURSIVE PROMISCUOUS [SST, SSE, SSR reasoning](https://stats.stackexchange.com/questions/207841/why-is-sst-sse-ssr-one-variable-linear-regression)
                           - Saturation
                           - PROMISCUOUS_STATEMENT
@@ -2614,15 +2641,31 @@
               - Hannan-Quinn
               - CAP Curve
             - **MUTATION TANDEM** Digital Signal Processing ^ Data Science
-              - ASYNC MIRROR LEGACY Discrete Time Digital signal processing by Oppenheim
-                - [Link1](https://d1.amobbs.com/bbs_upload782111/files_24/ourdev_523225.pdf)
-                - LEGACY Process 1:(Serious learning)
-                  - Progress: 45/896
-                    - Use `mathematica` to plot some Fourier transform
-                  - Maybe you can create a gallary of studies before, sorted by directions
-              - [Signal Processing A Mathematical Approach Second Edition](https://library.oapen.org/bitstream/id/3eb04f39-67d7-4b4d-8569-3185fbefd944/1005624.pdf)
-                - LEGACY Progress: 42/436
-              - [The Mathematics of Signal Processing](http://www-personal.umich.edu/~damelin/proofdammiller.pdf)
+              - MIT RES.6-008
+                - [Lec 1 | MIT RES.6-008 Digital Signal Processing, 1975](https://www.youtube.com/watch?v=rkvEM5Y3N60&list=PL8157CA8884571BA2)
+                  - VSM: 2:37
+                - SUPPLEMENT Unscoped Supplements
+                  - [Discrete Time Digital signal processing by Oppenheim](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf)
+                    - PPF
+                      - RT
+                      - Linear: 6
+                    - DEPRECATED LEGACY Process 1:(Serious learning)
+                      - RUNNING `deleteOnNextCLK(self)`
+                      - Progress: 45/896
+                        - Use `mathematica` to plot some Fourier transform
+                      - Maybe you can create a gallary of studies before, sorted by directions
+                  - [Signal Processing A Mathematical Approach Second Edition](https://library.oapen.org/bitstream/id/3eb04f39-67d7-4b4d-8569-3185fbefd944/1005624.pdf)
+                    - LEGACY Progress: 42/436
+                  - [The Mathematics of Signal Processing](http://www-personal.umich.edu/~damelin/proofdammiller.pdf)
+                    - PPF
+                      - RT: 1
+                      - L: 1
+              - [Allen Downey - Introduction to Digital Signal Processing - PyCon 2017](https://www.youtube.com/watch?v=UOIllEyajGs&list=PLROS-L5Pj_CTfPoC60JKnFQZrC_m-9ZQb)
+                - VSM: 2:31
+                - Resources
+                  - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
+                  - [Slide](https://docs.google.com/presentation/d/1buvCIIRjRR7SQmPppYgzPHFEoASnBJudvMrygN1fp70/edit#slide=id.p)
+              - [Advanced Digital Signal Processing using Python - 01 Quantization](https://www.youtube.com/watch?v=2HudwLcYpPI&list=PL6QnpHKwdPYhIt-zvYMSYXzLpQ0MMRVTK)
           - **Web 5.0+**
             - Metaverse
               - [JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c)
@@ -2860,8 +2903,8 @@
                     - Natural Rights Theroy
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-                - CCS: 14.7%
-                - TEMP_TIMESTAMP: 3:00
+                - CCS: 18.0%
+                - TEMP_TIMESTAMP
                 - ?
                   - CIA
     - Financial Toolkit
@@ -2881,18 +2924,21 @@
       - Contract-based Legal Trap embedding
       - Intertwining checkmate with PR fallback restaints
     - HR toolkit
-      - Forensic Politics
+      - PsyOps
+        - Forensic Politics
+        - Information Circulation Control
       - Internal Mutiny: Automation & Orchestration
         - [Metrics](https://openpsychometrics.org/)
     - MK toolkit
       - Co-ordinated Collusion
+        - Social Media Orchestration
     - CS toolkit
       - *Learning Italian while accidentally mastering Powershell and Shell*
         - Complete Linux Bash Shell Scripting with Real Life Examples - U
         - Linux Shell Scripting: A Project-Based Approach to Learning - U
         - Complete Linux Training Course to Get Your Dream IT Job 2022 - U
         - Advanced Scripting & Tool Making using Windows PowerShell - U
-          - CCS: 39.7%
+          - CCS: 44.4%
           - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
@@ -2963,52 +3009,94 @@
       - TEMP TIMESTAMP: 2:00
       - Style: Italian, Rigorous, Recap
         - *You already have a lot of experience, time to be more PEDANTIC for a change!*
-    - Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
-      - CCS: 17.2%
-      - ETC: 5.8 months
-      - TEMP TIMESTAMP: 4:00
-      - `States`
-        - `isForcedHandsOn`: `true`
-          - RESOURCE_STORE
-            - `Training-Udemy`
-          - KEYBOARD_MEMOIZATION_STORE
-            - STATIC
-              - Rename Layer: Ctrl+R
-            - MESO
-            - VOLATILE
-      - Plugins
-        - Content Reels,
-      - Techniques
-        - Flex Wrap
-          - [Biscuit’s Figma Design Challenge S02](https://forum.figma.com/t/biscuits-figma-design-challenge-s02/227/3)
-      - BLOCKERS
-        - Extended muscle memory training
-          - CURRENT_RESOURCE
-            - Saturation: 3.4%
-      - **Continuous Stimulation Unit**
-        - Autolayout
-        - Component & Variance
-      - Design Root Construction
-        - STATIC
-          - Frequently used components
-            - Autolayout
-        - Roadmap
-          - Sitemap
-            - Plugin
-              - Auto Flow
-      - _logistics
-        - Design Resource
-          - [1](https://danielschifano.notion.site/Complete-Web-Mobile-Designer-Resources-d1d9b6868a7746ffb3b6f02703ac7724)
-        - User Flow Resource
-          - [1](https://www.figma.com/file/9r8g8aPvEa8wOl5bvBN73U/02.-User-Flows-Resource?node-id=110%3A0)
-      - SUPPLEMENT
-        - [Create 3D Site with Spline and React - Full Course](https://www.youtube.com/watch?v=EJxeMbDTkVI&t=220s)
-          - Videosweepmark: 4:30
-        - [Web / Desktop App UI Design in Figma - Full Course](https://www.youtube.com/watch?v=5IanQIwhA4E)
-        - [Creating a Figma Design System: Typography, Spacing, and Sizing](https://www.youtube.com/watch?v=FsdG6uwJ_vc)
-        - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
-          - Videosweepmark: 3:10
-    - 3D design with Spline 3D
+    - TOPIC Identity Design
+    - TOPIC Design Recap
+      - ContinuousStimulationUnit
+        - [What is a Full Stack Designer? 2023 Roadmap](https://www.youtube.com/watch?v=nbQpUhdVLlo)
+          - VSM: 6:03
+        - UI/UX
+          - Color
+            - LOW_LEVEL AIGC \w Coloring
+            - [How To Use Color — Color Basics](https://www.youtube.com/watch?v=QkCVrNoqcBU&list=PLroLjS4HDi0BLMx3d7mzROMfm7bC9ZQuc)
+          - Contrast
+          - Typography
+          - White Space
+          - Alignment
+          - Scale
+          - Proximity
+          - Visual Hierarchy
+      - ARCHIVED Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
+        - ARCHIVED_STATEMENT: *Unexpectedly Paywalled*
+        - CCS: 17.2%
+        - ETC: 5.8 months
+        - TEMP TIMESTAMP: 4:00
+        - `States`
+          - `isForcedHandsOn`: `true`
+            - RESOURCE_STORE
+              - `Training-Udemy`
+            - KEYBOARD_MEMOIZATION_STORE
+              - STATIC
+                - Rename Layer: Ctrl+R
+              - MESO
+              - VOLATILE
+      - Customized Project-based Designer Dojo: Ideas > Filter > Research > Design > Develop > BD/Ship > DevOps > Composite
+        - Space Design
+        - Loadout Design
+        - Gadget Design
+        - Web Design
+          - CONFIG `isForcedHandsOn=True`
+          - CONFIG `currentSupportProject="BI4All"`
+          - GENESIS ?
+            - Marketing Research
+              - [Marketing research for beginners, understanding marketing research fundamentals](https://www.youtube.com/watch?v=apm0wH9HU0Y&t=15s)
+              - [Lecture 1-Introduction to Marketing Research](https://www.youtube.com/watch?v=ABLHV5Ce6TI&list=PLPjSqITyvDeWBBaFUbkLDJ0egyEYuNeR1)
+          - SUPPLEMENT Idea-phase UI/UX Whiteboard Design
+            - [Redesign a Smart Lock: Product Design Whiteboard Interview](https://www.youtube.com/watch?v=KvzCExQD9fw)
+            - [My Uber Whiteboarding UX Challenge // How to approach design whiteboarding exercises](https://www.youtube.com/watch?v=8MQmYa_zq0g)
+            - [Remote whiteboard challenge for 2023 (UX or product design)](https://www.youtube.com/watch?v=3lT6l4egGkU)
+            - [Whiteboard challenge from my workshop (UX or product design)](https://www.youtube.com/watch?v=l6fAfiE6eVg)
+            - [Remote whiteboard challenge walkthrough (UX product design) - alarm clock 2023](https://www.youtube.com/watch?v=A7GS0Ft_SUk)
+          - SUPPLEMENT FigJam Brainstorming
+            - [Intro to FigJam: How to brainstorm with an online whiteboard](https://www.youtube.com/watch?v=FxdoM1B7Wo8)
+            - [Office Hours: Mastering components](https://www.youtube.com/watch?v=fNQRXierLhQ)
+              - VSM: 3:30
+          - SUPPLEMENT AIGC \w Design
+            - CRITICAL_QUESTION *How to create automation with AIGC ecosystem e.g. ChatGPT/Midjourney/Dalle in the most OPERATIONALLY EFFICIENT manner?*
+          - SUPPLEMENT Digital KOL(Design-focused/PsyOps-focused)
+          - LEGACY ?
+            - Plugins
+              - Content Reels
+            - Techniques
+              - Flex Wrap
+                - [Biscuit’s Figma Design Challenge S02](https://forum.figma.com/t/biscuits-figma-design-challenge-s02/227/3)
+            - BLOCKERS
+              - Extended muscle memory training
+                - CURRENT_RESOURCE
+                  - Saturation: 3.4%
+            - **Continuous Stimulation Unit**
+              - Autolayout
+              - Component & Variance
+            - Design Root Construction
+              - STATIC
+                - Frequently used components
+                  - Autolayout
+              - Roadmap
+                - Sitemap
+                  - Plugin
+                    - Auto Flow
+            - _logistics
+              - Design Resource
+                - [1](https://danielschifano.notion.site/Complete-Web-Mobile-Designer-Resources-d1d9b6868a7746ffb3b6f02703ac7724)
+              - User Flow Resource
+                - [1](https://www.figma.com/file/9r8g8aPvEa8wOl5bvBN73U/02.-User-Flows-Resource?node-id=110%3A0)
+            - SUPPLEMENT
+              - [Create 3D Site with Spline and React - Full Course](https://www.youtube.com/watch?v=EJxeMbDTkVI&t=220s)
+                - Videosweepmark: 4:30
+              - [Web / Desktop App UI Design in Figma - Full Course](https://www.youtube.com/watch?v=5IanQIwhA4E)
+              - [Creating a Figma Design System: Typography, Spacing, and Sizing](https://www.youtube.com/watch?v=FsdG6uwJ_vc)
+              - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+                - Videosweepmark: 3:10
+            - 3D design with Spline 3D
 - Portuguese - B1--> Lower B2
   - ADJUSTMENT `ROOT.CentralExecutiveFunction`: *Allocate 15 minutes instead of 5 minutes daily*
   - TOPIC: Freelance-ables
@@ -3049,8 +3137,8 @@
             - SOURCING RPA for Mobile Device
             - Complete UiPath RPA Developer Course: Build 7 Robots
             - Power Automate - Complete Guide to Microsoft Power Automate
-              - CCS: 14.2%
-              - TEMP_TIMESTAMP
+              - CCS: 17.6%
+              - TEMP_TIMESTAMP: 2:00
     - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
       - IT Consulting
         - LOCKED Requires Level ? to unlock
@@ -3062,8 +3150,8 @@
           - SEO
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
-              - CCS: 5.3%
-              - TEMP_TIMESTAMP
+              - CCS: 6.1%
+              - TEMP_TIMESTAMP: 5:00
             - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
             - Ultimate Google Analytics (4) course + 50 practical examples
           - Copywriting
@@ -3096,8 +3184,8 @@
         - Trados Studio 2021 - Tutorial Basic Level
   - TOPIC: ?
     - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 96.3%
-      - E.T.A: 8d
+      - CCS: 97.0%
+      - E.T.A: 10
       - TEMP_TIMESTAMP
       - States
         - `isStrictHandsOn`: `false`
@@ -3279,11 +3367,11 @@
           - Videosweepmark: ?
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic grammar to understand Quran. Practical Arabic sentences [Lesson 03 Part-2]](https://www.youtube.com/watch?v=epNP9GESoOc&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=12)
-          - Videosweepmark: 20:10
-          - VideoListStamp: 12
+        - [Learn Arabic grammar to understand Quran. Descriptive Phrase [L04, Part-1] [Lesson 03 Part-3]](https://www.youtube.com/watch?v=N3l8Jw8mxQk&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=13)
+          - Videosweepmark: 10:47
+          - VideoListStamp: 13
         - [Arabic Grammar For All - Lesson 12 - Demonstrative Pronouns - Abu Sulaymaan](https://www.youtube.com/watch?v=_RxrLmPKjag&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=13)
-          - Videosweepmark: 10:22
+          - Videosweepmark: 25:00
           - VideoListStamp: 13
     - MICRO
       - STATIC
@@ -3296,16 +3384,17 @@
         - /General Noun forms | 3%
         - Difference of grammatical terms
         - ?
-          - 100% TTL | بعض
         - `pronoun`
-          - 82% | نَحْنُ
+          - 85% | نَحْنُ
+            - Enclitic accusative and genitive pronouns
+              - [ARABIC GENITIVE CONSTRUCTION SIMPLIFIED! THE ULTIMATE "IDAFA" LESSON EVERY ARABIC LEARNER MUST KNOW!](https://www.youtube.com/watch?v=xFIBfFaGRR8)
+            - Isolated accusative pronouns
           - `pronoun.reflexive`
             - نفسها
         - `number`
           - 63% | ستون
       - VOLATILE STATE=ELIMINATE
         - `verb`
-          - 85% | قلب
           - 73% | قَدَّمَ
           - 75% | وفر
           - 30% | فَهِمَ
@@ -3656,7 +3745,7 @@
           - ?
             - NextGen Social Contract, Hyperglobalization, Digital globalization
         - Circuit/Network theory in political realm
-    - PQA
+    - PQA                  
       - Supplier
         - Sonar ^ Synk
         - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
@@ -3730,13 +3819,17 @@
       - **IMPORTANT** **MANDATORY** Progressive Web Apps (PWA) - The Complete Guide - U
         - _motivation
           - *Making INSANE progress on Spanish when accidentally mastering PWA*
-        - CCS: 95.2%
+        - CCS: 97.6%
         - TEMP_TIMESTAMP
           - [x] Mandatory Assignment
         - Reimagine the possible M&C
           - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
+        - Supplementing Pipeline Item
+          - Advanced Webpack Course
+            - THEN Webpack source code study
+            - OPTIONAL Rollup source code study
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-        - CCS: 29.8%
+        - CCS: 31.4%
         - TEMP_TIMESTAMP
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
@@ -3806,17 +3899,32 @@
               - System Testing: Synthetics, Selenium
             - Graph Database Ecosystem
               - Interface
-                - [Traversing Graphs with Gremlin (Artem Chebotko, Solutions Architect at DataStax)](https://www.youtube.com/watch?v=mZmVnEzsDnY&t=800s)
-                  - VSM: 33:02
-                  - POTENTIAL Flashcardification --> REMOVE
-                    - Potentials: 0%
+                - ROTE STRATEGIC Strategic Rote for Gremlin usage
+                  - `ROOT.CentralExecutiveFunction.handleSecurityGroupBreach(type="rote")`
+                    - GENESIS
+                      - GOAL *I want to get hyper familiar with Gremlin to scout for developement strategy*
+                        - CONT *It is IMPERATIVE that I have them in my L1-level working memory*
+                    - TOOLING Flashcardification
+                    - TOOLING Invoke-based Repetition
+                      - CONFIG target=[Tinkerpop](https://tinkerpop.apache.org/docs/current/reference/)
+                    - `ROOT.output`: *Approved*
+                    - RUNNING PIPELINE Pipeline for strategic rote for Gremlin
+                      - PIPELINE_SCHEMA
+                        - PIPELINE STEP Flashcardification
+                        - ?
+                  - SUPPLEMENT Context Supplementation
+                    - [Traversing Graphs with Gremlin (Artem Chebotko, Solutions Architect at DataStax)](https://www.youtube.com/watch?v=mZmVnEzsDnY&t=800s)
+                      - VSM: 33:02
+                      - POTENTIAL Flashcardification --> REMOVE
+                        - Potentials: 0%
               - TOOLING Linkturious
-                - [Linkurious Enterprise Tutorial - The Linkurious Enterprise Dashboard](https://www.youtube.com/watch?v=ADHKEKsWo7c&list=PLUjm-i6zjRqUryr6xYCsblXY6W9pgfUfM&index=8)
-                  - VSM: 1:10 NEXT
-                  - LM: 8
+                - [Linkurious Enterprise Tutorial - Sharing and Exporting Visualizations](https://www.youtube.com/watch?v=4ABLCq9oUYE&list=PLUjm-i6zjRqUryr6xYCsblXY6W9pgfUfM&index=11)
+                  - VSM
+                  - LM: 11
                 - [Using Linkurious in your Enterprise Architecture projects](https://www.youtube.com/watch?v=YXZyRWgCY-o)
                   - VSM: 9:00
                 - [How to visualize Oracle Big Data Spatial and Graph with Ogma](https://www.youtube.com/watch?v=yf5L_RNF8E0)
+                  - VSM: 7:30
                 - [Graph-based product lifecycle management](https://www.youtube.com/watch?v=6iIqlFgauv8)
               - GraphQL Evolvable Schema Design
                 - [GraphQL Schema Design: Building Evolvable Schemas](https://www.apollographql.com/blog/backend/schema-design/graphql-building-evolvable-schemas/)
@@ -3829,11 +3937,9 @@
                 - [Versioning strategy for a complex internal API](https://www.youtube.com/watch?v=M2KCu0Oq3JE)
             - Microservice
               - [Nest.js | Middleware, Pipes & Interceptors Explained By Example](https://www.youtube.com/watch?v=x1W3FJ1RJlM&t=4s)
-                - VSM: 12:30
+                - VSM: 15:00
               - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=2ZzGMzitNgo)
-                - VSM：4:16
-              - [NestJS 10 - Guards, SetMetadata and Decorator](https://www.youtube.com/watch?v=0DdHxrk_QGY)
-                - VSM: 6:55 TTL
+                - VSM：7:00
               - [How to Manage User Access in NestJS | Authorization with CASL](https://www.youtube.com/watch?v=1pPjCX0FHco)
               - [NestJS Role Based Authorization - RBAC | LinkedIn Clone [9]](https://www.youtube.com/watch?v=yZWcd77l9jk)
                 - VSM 053
@@ -4027,15 +4133,13 @@
           - Listmark: 6
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
-        - [【ずに】without -ing in Japanese | N3 grammar](https://www.youtube.com/watch?v=DeG70pFtQno)
-          - VSM: 14:16 TTL
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
           - Videosweepmark: 21:10
         - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
           - Videosweepmark: 25:01
           - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
-            - Videosweepmark: 
+            - Videosweepmark: 5:00
           - Language pair SHUFFLE: Japanese - French
         - [2020 JLPT N5 LISTENING PRACTICE TEST #1](https://www.youtube.com/watch?v=CL8hIWyaPXA)
           - Videosweepmark: 25:00
@@ -4049,14 +4153,10 @@
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
-        - THROTTLE FREQUENT 頂く | 100% SATURATE_CHILDREN
-          - [How to use "いただきます" & "ごちそうさま" naturally in Japanese | Learn Natural Japanese with Wasabi](https://www.youtube.com/watch?v=1ShOXiZc4QU)
-            - Videosweepmark: 10:54 TTL
         - THROTTLE FREQUENT 使う | 34%
           - [PASSIVE form (れる/られる) Sound like a native speaker!](https://www.youtube.com/watch?v=PTRjEq5ExSM)
-            - Videosweepmark: 1:22
-        - 直す | 100% TTL
-        - 来る | 90%
+            - Videosweepmark: 6:19
+        - 来る | 92%
         - 照る | 90%
         - THROTTLE FREQUENT なる | 70%
         - THROTTLE FREQUENT 持つ
@@ -4123,30 +4223,24 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **Глагол**
-        - использовать | 100% TTL
+        - *Call for words*
       - **Предлог**
+        - *Call for words*
       - **Местоимения**
-      - **Фраза**
+        - *Call for words*
       - **Прилагательное**
-        - кратчайший | 100% TTL
-        - краткий | 100% TTL
-        - де́тский | 100% TTL
+        - непредсказуемый | 60%
       - **Наречие**
       - **Существительное**
-        - края | 100% TTL
-        - алмаз | 92%
-        - аналитика | 100% TTL
-        - исследование | 95%
-        - определение | 100% TTL
-        - отношение | 100% TTL
+        - *Call for words*
       - **Местоимение**
-        - весь | 90%
+        - *Call for words*
       - ?
         - остальные
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [3. Households: Structures, Priorities, Strategies, Roles](https://www.youtube.com/watch?v=YxjKJ3JgXvc&list=PL18B9F132DFD967A3&index=3)
-        - Videosweepmark: 18:37
+        - Videosweepmark: 23:00
         - Listmark: 3
         - Stratified sampling
         - INTEREST Evolution of Information Circulation in Sixteenth Century
@@ -4231,11 +4325,14 @@
               - SUPPLEMENT
                 - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
                   - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
+                  - [ISO/IEC 21838](https://www.youtube.com/watch?v=aux_zcK7XSI)
+                    - VSM: 5:00
                   - PHI598
                     - OUT_REACH
                       - ?Epistemology
-                    - [Applied Ontology - Lecture 1 - Introduction to Ontology](https://www.youtube.com/watch?v=9AsRE437e7I&list=RDLV9AsRE437e7I&start_radio=1&rv=9AsRE437e7I&t=1)
-                      - VSM: 1:55:00
+                    - [Introduction to Basic Formal Ontology (September 2019)](https://www.youtube.com/watch?v=p0buEjR3t8A&list=RDLV9AsRE437e7I&index=2)
+                      - VSM: 10:00
+                      - LM: 2
                       - FIELD_OF_INTEREST
                         - Related stability of natural language
                       - Paperpair
@@ -4243,11 +4340,20 @@
                       - Bookpair
                         - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
                           - PPF
-                            - RT: 10
+                            - RT: 15
+                              - S: 1.3%
                       - References
                         - IDEA Curator Ecosystem Design
                           - Hub and spoke mode, plug-and-go modularity
                           - IMPORTANT Reference ontology, application ontology, relation ontology
+                        - Husserl Lesniewski
+                          - Realist mereology-based ontology
+                            - ?
+                              - Universals
+                              - Topology
+                              - Relations
+                              - Dependant entities
+                        - Roman Ingarden
                         - Human Genome Project, The Gene Ontology, OBO,  BFO
                           - BFO
                             - IMPORTANT ?Three most general universals
@@ -4270,8 +4376,6 @@
                       - Videosweepmark: 23:36
                       - CURIOSITY_OUTREACH
                         - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
-      - [Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=28s)
-        - Videosweepmark: 2:12:21 TTL
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -4294,10 +4398,29 @@
       - PROCESSING_POINTER_FIELD
         - Randomtelewalk: 7
           - Saturation: *Value too small to be obtained*
+  - MUTATION TOPIC Space Travel
+    - Transit
+      - Rocket Science
+    - Endpoint
+      - Terraform Engineering
+    - Travel Knowledge
+      - Astronomy
+      - Astrophysics
+        - ASTR 160
+          - [1. Introduction](https://www.youtube.com/watch?v=nzmFc2gjUo4&list=PLD79A28ED01799FE7)
+            - SUPPLEMENT [My Favourite Textbooks for Studying Physics and Astrophysics | 2022](https://www.youtube.com/watch?v=WUhiIv8LwJk)
+            - SOURCING SUPPLEMENT Mathematical Methods for Physics and Engineering
+        - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
+        - [Advanced Higher Physics | Astrophysics | Astronomical Units & Light Years | THEORY](https://www.youtube.com/watch?v=yYUZ_YAZ0Ik&list=PL4ViYiFUc7GS7ucqnjPBawUmNyNbC2cTR)
+    - Recon
+      - Astrophotography
+        - [Reflector Telescope Step By Step | Night Sky through Newtonian Telescope | Best Telescope 350x Zoom](https://www.youtube.com/watch?v=BMiTG9fgW9Y)
+          - VSM: 5:00
+        - [Telescope assembly /How to assemble Newtonian reflector telescope F70076/How to join telescope parts](https://www.youtube.com/watch?v=iUnvjxYy2XY)
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 30_Unit 6 Third Declension Nouns](https://www.youtube.com/watch?v=AQK_gHpjr0M&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=31)
-        - Videosweepmark: 35:00
+        - Videosweepmark: 40:24
         - ListStamp: 30
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
@@ -4305,7 +4428,6 @@
         - `language.meta.pronounciation.callibrate()`
       - **ερωτηματικός**
       - **αντωνυμία**
-        - ἐγώ
       - **σύνδεση**
         - THROTTLE FREQUENT επειδή | 12%
       - **χωρίς κατηγοριοποίηση**
@@ -4315,18 +4437,11 @@
       - **ρήμα**
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 3.9%
-        - ανακαλύπτω | 100% SATURATE_CHILDREN
-          - [Greek Verb Endings](https://www.youtube.com/watch?v=tO5f9_rYhUg&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=6)
-            - Videosweepmark: 4:
-            - Listmark: 6
-          - ContinuousHeuristicUnit [Greek Personal Endings NT Greek (song mnemonics)](https://www.youtube.com/watch?v=JprThUjl_0g&list=PLze_ZKuasmplb3X5gvRu2TdwHW60TRFGj&index=5)
-            - `ROOT.CentralExecutiveFunction`: *This is probably the DUMBEST heuristics ever seen, replace with Flashcardification*
         - σχεδιάζω | 45%
       - **επίθετο**
       - **ουσιαστικό**
         - ουσιαστικό | 80%
-          - [Noun - LingQ](https://www.lingq.com/en/grammar-resource/greek/nouns/#:~:text=The%20Greek%20nouns%20are%20divided,capitalized%20and%20have%20a%20plural.&text=Nouns%20have%20different%20suffixes%20depending%20on%20the%20gender%2C%20case%20and%20number.)
-        - πραγματικότητα | 100% TTL
+        - εγκατάσταση | 2%
       - **επίρρημα**
       - Pronoun
         - αυτή

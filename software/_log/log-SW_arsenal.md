@@ -134,6 +134,18 @@
     - Aspect Oriented Program
   - Course Transcript
     - NestJS Zero to Hero - Modern TypeScript Back-end Development
+    - Progressive Web Apps (PWA) - The Complete Guide - U
+      - _motivation
+        - *Making INSANE progress on Spanish when accidentally mastering PWA*
+      - CCS: 100% --> *Wrapping up*
+      - TEMP_TIMESTAMP
+        - [x] Mandatory Assignment
+      - Reimagine the possible M&C
+        - Value: 7% --> AXIOM *Normally confluence of different development system will cause 7% energy output surcharge*
+      - **RUNNING** Supplementing Pipeline Item
+        - Advanced Webpack Course
+          - THEN Webpack source code study
+          - OPTIONAL Rollup source code study
 ## Development Ecosystem
 - Framework
   - Svelte

@@ -23,6 +23,7 @@
   - [Use Cases Boundry](#use-cases-boundry)
   - [Technical](#technical)
     - [Web 3.0](#web-30)
+    - [Cloud](#cloud)
     - [Frontend](#frontend)
       - [Uncategorized](#uncategorized-1)
     - [DX](#dx)
@@ -393,6 +394,31 @@
     - Stuart Haber & W.Scott Stornetta
       - [*How to Time-Stamp a Digital Document*](https://www.anf.es/pdf/Haber_Stornetta.pdf)
   - [Superdatascience](https://www.superdatascience.com/blockchain/)
+
+### Cloud
+- AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
+  - CCS: 100% --> ARCHIVE
+  - E.T.A
+  - TEMP_TIMESTAMP
+  - States
+    - `isStrictHandsOn`: `false`
+  - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
+    - Videosweepmark: 10:25 TTL
+  - WTF-tree
+    - `serverless` problem
+      - [8565](https://github.com/serverless/serverless/issues/8565)
+    - Permission problem
+      - Symptom
+        - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
+          - 20%
+        - `AWS SQS not visible in AWS Lambda destination`
+      - Solution
+        - Add `AWSLambdaSQSPollerExecutionRole` to Lambda
+  - Hands-On ACTIVE
+    - [x] Image Processing
+  - Environment
+    - [x] Cloud9
+  - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
 
 ### Frontend
 - Tier-1

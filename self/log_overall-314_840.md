@@ -630,8 +630,8 @@
       - Resonnance
     - Complexity Theory & Meso Science
   - TOPIC | Key Ingredients of Human Nature in 2022: Cthulhu's Eye --> 5min/d
-    - Money
-      - Trader's path
+    - Money --> MERGE to `french/investment`
+      - Trader's path --> MERGE to `french/investment`
         - *Accounting is lackluster, colorless, and oderless, not fit for driving adrenaline or human consumption IMO of course, leave'em to machines*
         - *That IS the speed and challenge which is on par to drive adrenaline*
         - _source
@@ -648,7 +648,7 @@
             - Broker
             - View
               - Script
-        - Randomwalk
+        - Randomwalk 
           - Pedant's hut
             - _not-verified
               - Trust level tier 1 of 5
@@ -666,10 +666,10 @@
             - Crypto
               - *Too OG for professeures*
               - *Primitive social-economic manifestation for Bourgeoisie and above is out of scope for now*
-          - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A)
-          - [Complete TradingView Tutorial - 2022 Edition](https://www.youtube.com/watch?v=Vtrswz8TNks)
+          - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A) --> MERGE to `french/investment`
+          - [Complete TradingView Tutorial - 2022 Edition](https://www.youtube.com/watch?v=Vtrswz8TNks) --> MERGE to `french/investment`
             - Videosweemark: 10:00
-          - QT
+          - QT --> MERGE to `french/investment`
             - [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=99s)
               - Videosweepmark: 27:30/4:33:02
               - CONFIG
@@ -689,7 +689,7 @@
             - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
               - IMPORTANT PRIORITIZED Apache Airflow: The Hands-On Guide - U
                 - CCS: 9.7%
-                - TEMP_TIMESTAMP: 1:00
+                - TEMP_TIMESTAMP: 6:11
               - Data Engineering Essentials using SQL, Python, and PySpark
                 - CCS: 1.3%
                 - TEMP_TIMESTAMP: 2:30
@@ -742,9 +742,9 @@
                           - iid -> independent and identically distributed
                           - CDF, MGF(Moment generating function)
                     - TANDEM Probability & Statistics Recap
-                      - [Statistics: Sample vs. Population Mean](https://www.youtube.com/watch?v=hsPCte_PcVA&list=PL1328115D3D8A2566&index=2)
-                        - VSM: 2:30
-                        - LM: 2
+                      - [Statistics: Variance of a population | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=6JFzI1DDyyk&list=PL1328115D3D8A2566&index=3)
+                        - VSM: 1:40
+                        - LM: 3
                     - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
                     - Chebyshev Inequality
                     - Monte Carlo, Historical Simulation
@@ -1310,8 +1310,10 @@
                         - VSM: 2:30
                         - SOURCING *Ancient Australian Aboriginal Memory Tool Superior to 'Memory Palace' Learning*
                       - [How to Memorize A Speech with a Memory Palace](https://www.youtube.com/watch?v=g9LAzEVnSRY)
+                        - VSM: 5:00
                       - [Memory Strategies: 11 Easily Actionable TACTICS For Remembering More](https://www.youtube.com/watch?v=488Wgun5Qk4)
                 - [How To Learn The Law Without Law School: A Discussion With David Freiheit (a.k.a. Viva Frei)](https://www.youtube.com/watch?v=6wUdmx0sJUI)
+                  - VSM: 5:00
                 - [The Best Way To Study Law](https://www.youtube.com/watch?v=AnTpqAOIHi4)
                   - VSM: 2:30
                 - ["How to Read a Case" with UVA Law Professor Anne Coughlin](https://www.youtube.com/watch?v=u9FDzeoT7SU)
@@ -2018,8 +2020,10 @@
                                 - [What Is Gross Profit, How to Calculate It, Gross vs. Net Profit](https://www.investopedia.com/terms/g/grossprofit.asp)
                                   - Saturation: 10%
                                 - [Business Startup Costs: It’s in the Details](https://www.investopedia.com/articles/pf/09/business-startup-costs.asp)
+                                  - Saturation: 60%
                                 - [Cost of Labor (aka Labour Costs): What It Is, Why It Matters](https://www.investopedia.com/terms/c/cost-of-labor.asp)
                                 - [Income Statement: How to Read and Use It](https://www.investopedia.com/terms/i/incomestatement.asp)
+                                  - Saturation: 30%
                                 - [Income Statements for Merchandising vs. Service Companies](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp)
                                 - [Financial Health: Definition and How to Measure and Improve It](https://www.investopedia.com/terms/f/financial-health.asp)
                                 - [GAAP: Understanding It and the 10 Key Principles](https://www.investopedia.com/terms/g/gaap.asp)
@@ -2037,7 +2041,7 @@
                 - _supplement
                   - Conceptual Framework
                     - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
-                      - Videosweepmark : 19:02
+                      - Videosweepmark : 24:20
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
                       - Videosweepmark: 12:30
@@ -2271,11 +2275,14 @@
             - EXPLOSIVE [The Top 13 Resources for Understanding Graph Theory & Algorithms](https://neo4j.com/blog/top-13-resources-graph-theory-algorithms/)
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 6.2 - Basics of Deep Learning](https://www.youtube.com/watch?v=tutlI9YzJ2g&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=18)
             - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - VSM: 13:00
+            - VSM: 18:00
             - LM: 18
             - CONFIG Language pair: German
             - Bookpair
               - [An introduction to Graph Theory and Complex Networks](https://pages.di.unipi.it/ricci/book-watermarked.pdf)
+                - PPF
+                  - OP: 13
+                    - S: 1.2%
             - **NEW** `ROOT.CEF`: *That's great but how it is implemented/experimented/monitored by backend ecosystem and Neo4j-CYPHER/Cosmos-Gremlin?* 
               - TASK Perform Relational Classification on Cosmos with Gremlin
               - TASK Perform Iterative Classification on Cosmos with Gremlin
@@ -2891,9 +2898,13 @@
                       - RT: 13
                       - L: *Not Applicable*
               - [Allen Downey - Introduction to Digital Signal Processing - PyCon 2017](https://www.youtube.com/watch?v=UOIllEyajGs&list=PLROS-L5Pj_CTfPoC60JKnFQZrC_m-9ZQb)
-                - VSM: 2:31
+                - VSM: 11:21
                 - Resources
-                  - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
+                  - [ThinkDSP](https://greenteapress.com/thinkdsp/thinkdsp.pdf)
+                    - PPF
+                      - OP: 12
+                        - S: ?
+                  - [ThinkDSP - github](https://github.com/AllenDowney/ThinkDSP)
                   - [Slide](https://docs.google.com/presentation/d/1buvCIIRjRR7SQmPppYgzPHFEoASnBJudvMrygN1fp70/edit#slide=id.p)
               - [Advanced Digital Signal Processing using Python - 01 Quantization](https://www.youtube.com/watch?v=2HudwLcYpPI&list=PL6QnpHKwdPYhIt-zvYMSYXzLpQ0MMRVTK)
           - **Web 5.0+**
@@ -3152,8 +3163,10 @@
                     - Natural Rights Theroy
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-                - CCS: 27.8%
-                - TEMP_TIMESTAMP
+                - CCS: 29.5%
+                - TEMP_TIMESTAMP: 0:30
+                - PANIC_SATURATION: 22%
+                  - WARNING: Prompts needed
                 - ?
                   - Law
                     - _meta
@@ -3198,7 +3211,9 @@
                     - ITIL: Information Technology Infrastructure Library
                     - FRAP: Facilitated Risk Analysis Process
                     - ISO 27000 series
-                    - HIPPA, SBNL, ECPA, CFAA, GLBA, SOX, GDPR
+                    - HIPPA, SBNL, ECPA, CFAA, GLBA, SOX
+                    - GDPR, OECD, Wassenaar Arrangement
+                    - SLA, ISO, SOC, PCI-DSS
     - Financial Toolkit
       - Forensic Accounting
       - Financial instrument attack
@@ -3404,7 +3419,7 @@
               - [Create 3D Site with Spline and React - Full Course](https://www.youtube.com/watch?v=EJxeMbDTkVI&t=220s)
                 - Videosweepmark: 9:30
               - [Web / Desktop App UI Design in Figma - Full Course](https://www.youtube.com/watch?v=5IanQIwhA4E)
-                - VSM: 8:38
+                - VSM: 14:05
                 - Rive - interactive animation --> `design/arsenal`
               - [Creating a Figma Design System: Typography, Spacing, and Sizing](https://www.youtube.com/watch?v=FsdG6uwJ_vc)
               - [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
@@ -3413,7 +3428,7 @@
 - Portuguese - B1--> Lower B2
   - CHANGE_LOG
     - 2022/2/3
-      - CM10PLF
+      - CMPLF
         - Energy consumption overflow when dealing with advanced Portuguese grammar
         - Vocabulary size estimated to be 6.000~8.000, which is far from enough
   - ADJUSTMENT `ROOT.CentralExecutiveFunction`: *Allocate 15 minutes instead of 5 minutes daily*
@@ -3439,9 +3454,9 @@
             - [IPA provider watchlist](https://docs.google.com/spreadsheets/d/1l-LDSqsTkbyfOn4fZuyEwgwgCT3xAHlvIUGPflVzjzU/edit?usp=sharing)
               - _meta
                 - [Google Sheets Advanced Tutorial](https://www.youtube.com/watch?v=t0B0Tgz0b-0)
-                  - VSM: 5:00
+                  - VSM: 10:00
                 - [How to Create a Dashboard in Google Sheets (10 steps) - Query Formula](https://www.youtube.com/watch?v=1JkvHfzIL0Y)
-                  - VSM: 30:30
+                  - VSM: 35:30
                 - [How to Build a Professional Dashboard in Google Sheets (Query Formula Advanced Course) Step-by-Step](https://www.youtube.com/watch?v=ccTdDPDGEGM)
                 - [How to Build a Sales Funnel Dashboard for a Sales Team Google Forms & Google Sheets QUERY COURSE](https://www.youtube.com/watch?v=d9COw03XYX4)
                 - [Google Sheets - Keyboard Shortcuts for Speed](https://www.youtube.com/watch?v=pnGxShBGAyc)
@@ -3455,6 +3470,11 @@
                     - Context related row/column selection: Spacebar+Shift/Ctrl + Space
                     - Show all formulae: Ctrl+`tilde`
           - RPA \w AI
+            - Prompt Engineering for AIGC
+              - [Learn Prompt Engineering (Magic Commands) in ZimmWriter](https://www.youtube.com/watch?v=AFe1d3C8aXE)
+              - [Roadmap to ChatGPT and AI mastery](https://www.youtube.com/watch?v=evN89fdKOxU)
+              - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
+                - VSM: 5:00
             - SOURCING RPA for Content Creation: AIGC Ecosystem 101
               - REVERSE_ENGINEERING [stable-diffusion](https://github.com/CompVis/stable-diffusion)
                 - SUPPLEMENT [[Code] How to use Facebook's DETR object detection algorithm in Python (Full Tutorial)](https://www.youtube.com/watch?v=LfUsGv-ESbc&list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)
@@ -3475,8 +3495,8 @@
           - SEO
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
-              - CCS: 9.7%
-              - TEMP_TIMESTAMP: 9:00
+              - CCS: 10.2%
+              - TEMP_TIMESTAMP: 3:00
               - Basic skills
                 - Multi-Account orchestration
               - UNSTABLE Minimum Startup-table Arsenal for Fetus Phase Draft --> `business/arsenal`
@@ -3542,29 +3562,6 @@
         - Website Localization For Translators
         - Trados Studio 2021 - Tutorial Basic Level
   - TOPIC: Cloud Computing(Contractor & Freelanceable), Project Management(Contractor & Freelanceable)
-    - AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps) --> **5m per day | Hands-on if possible** --> MOVE TO Spanish on SPANISH_NEXT_STAGE
-      - CCS: 100% --> ARCHIVE
-      - E.T.A
-      - TEMP_TIMESTAMP
-      - States
-        - `isStrictHandsOn`: `false`
-      - THROTTLE [Brazilian vs European Portuguese | PRONUNCIATION](https://www.youtube.com/watch?v=KtUVFX33_98)
-        - Videosweepmark: 10:25 TTL
-      - WTF-tree
-        - `serverless` problem
-          - [8565](https://github.com/serverless/serverless/issues/8565)
-        - Permission problem
-          - Symptom
-            - `Error code: InvalidParameterValueException. Error message: The provided execution role does not have permissions to call ReceiveMessage on SQS`
-              - 20%
-            - `AWS SQS not visible in AWS Lambda destination`
-          - Solution
-            - Add `AWSLambdaSQSPollerExecutionRole` to Lambda
-      - Hands-On ACTIVE
-        - [x] Image Processing
-      - Environment
-        - [x] Cloud9
-      - *This course only has Portuguese as subtitle that you need, so make do with that, OG*
     - [Deep Dive on AWS CloudFormation](https://www.youtube.com/watch?v=KXUsyApAI3Y)
       - Videosweepmark: 5:30/47:48
     - AWS CloudFormation Master Class v2 [2022]
@@ -3730,10 +3727,10 @@
     - MESO
       - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic grammar to understand Quran, Broken Plurals [#04-P3]](https://www.youtube.com/watch?v=67i9uzhLilE&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=16)
-          - Videosweepmark: 5:00
+          - Videosweepmark: 10:20
           - VideoListStamp: 16
         - [Arabic Grammar For All - Lesson 14 - Adverbs of Place - Abu Sulaymaan](https://www.youtube.com/watch?v=O1Sb0uZmhU8&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=16)
-          - Videosweepmark: 5:00
+          - Videosweepmark: 10:00
           - VideoListStamp: 16
     - MICRO
       - STATIC
@@ -4122,11 +4119,11 @@
         - Circuit/Network theory in political realm
     - PQA
       - Basics
-        - **PRIORITIZED** Selenium Webdriver with PYTHON from Scratch + Frameworks - U
-          - CCS: 7.4%
-          - TEMP_TIMESTAMP
-          - TEMP_LISTSTAMP: 32
-        - The Complete 2023 Software Testing Bootcamp - U
+        - **BLACKHOLE EMERGENCY PRIORITIZED** Selenium Webdriver with PYTHON from Scratch + Frameworks - U
+          - CCS: 13.2%
+          - TEMP_LISTSTAMP
+        - **BLACKHOLE EMERGENCY PRIORITIZED** The Complete 2023 Software Testing Bootcamp - U
+          - CCS: 3.6%
       - Supplier
         - Sonar ^ Synk
         - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
@@ -4274,7 +4271,7 @@
           - PROCESSING_POINTER_STORE
       - Web Dev --> `this.concurrentTraffic = 1`
         - Backend & System Programming
-          - **BLACKHOLE PRIORITIZED EMERGENCY CONSCIENTIOUS** ContinuousStimulationUnit Nest.js System Implementation: Nest+Cosmos Gremlin+PWA
+          - ContinuousStimulationUnit Nest.js System Implementation: Nest+Cosmos Gremlin+PWA
             - Conscientiousness Statement IMPLEMENT `ROOT.adrenalineControl`: *Time to fight!*
             - _motivation: *Progressing Spanish while accidentally gaining pragmatic working knowledge on Nest.js System Implementation*
             - ?
@@ -4416,8 +4413,9 @@
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
         - CCS: 1.1%
         - TEMP_TIMESTAMP
-      - Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
-        - TEMP_TIMESTAMP: 5:00
+      - **BLACKHOLE EMERGENCY** Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
+        - CCS: 1.3%
+        - TEMP_TIMESTAMP: 2:00
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
   - TOPIC Consulting
     - _motivation
@@ -4544,11 +4542,7 @@
           - ～うえに
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 36:30
-        - [N3 Grammar Preparation Test　文法テスト](https://www.youtube.com/watch?v=8qJ6gx5khw8)
-          - Videosweepmark: 44:31 TTL
-          - [What is た Form (Ta form) and how to conjugate it](https://www.youtube.com/watch?v=5VA81shMt2U)
-            - Videosweepmark: 12:48 TTL
+          - Videosweepmark: 42:00
           - Language pair SHUFFLE: Japanese - French
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
           - Videosweepmark: 23:00
@@ -4560,7 +4554,7 @@
           - [PASSIVE form (れる/られる) Sound like a native speaker!](https://www.youtube.com/watch?v=PTRjEq5ExSM)
             - Videosweepmark: 10:19
         - 照る | 95%
-        - 当たる | 20%
+        - 当たる | 60%
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
         - 易い | 22%
@@ -4626,25 +4620,25 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **Глагол**
-        - договариваться | 90%
-        - продвигать | 92%
-        - переходить | 90%
+        - договариваться | 100% TTL
+        - продвигать | 95%
+        - переходить | 95%
       - **Предлог**
       - **Местоимения**
       - **Прилагательное**
-        - сельский | 90%
-        - жизнеспособный | 80%
+        - сельский | 100% TTL
+        - жизнеспособный | 98%
       - **Наречие**
-        - по-разному | 90%
+        - по-разному | 100% TTL
       - **Существительное**
-        - собственность | 70%
-        - юго-восток | 70%
-        - завершение | 80%
-        - душеприказчик | 70%
-        - урегулирование | 70%
-        - утверждение | 80%
-        - совершеннолетие | 70%
-        - хозяйство | 70%
+        - собственность | 90%
+        - юго-восток | 100% TTL
+        - завершение | 85%
+        - душеприказчик | 85%
+        - урегулирование | 80%
+        - утверждение | 90%
+        - совершеннолетие | 90%
+        - хозяйство | 90%
       - **Местоимение**
       - ?
         - остальные
@@ -4757,7 +4751,7 @@
                     - OUT_REACH
                       - ?Epistemology
                     - [Introduction to Basic Formal Ontology (September 2019)](https://www.youtube.com/watch?v=p0buEjR3t8A&list=RDLV9AsRE437e7I&index=2)
-                      - VSM: 1:03:09
+                      - VSM: 1:013:34 NEXT
                       - LM: 2
                       - FIELD_OF_INTEREST
                         - Related stability of natural language
@@ -4858,7 +4852,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 35_Unit 6 Vocabulary](https://www.youtube.com/watch?v=296ifHPPnKU&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=36)
-        - Videosweepmark: 5:00
+        - Videosweepmark: 10:00
         - ListStamp: 36
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

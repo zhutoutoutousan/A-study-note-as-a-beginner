@@ -1,2 +1,4 @@
 {
+    "git.enabled": true,
+    "git.path": "D:\\Program Files\\Git\\bin"
 }

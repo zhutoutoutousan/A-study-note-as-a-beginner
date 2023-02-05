@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "313",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,6 +166,6 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "07bd6aa8aef26ceb",
+  "active": "f4718b359005312a",
   "lastOpenFiles": []
 }

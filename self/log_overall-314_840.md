@@ -152,9 +152,9 @@
     - Innate linguistic neural-level attribute enhancement
   - TOPIC International Team Collaboration
     - Techno part
-      - [uni-app & uniCloud for Western World - 6](https://www.youtube.com/watch?v=yDWUV_G5TVg&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=6)
-        - VSM: 14:10
-        - LM: 6
+      - [uni-app & uniCloud for Western World - 7](https://www.youtube.com/watch?v=4e4Mrhu2sQo&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=7)
+        - VSM: 12:45
+        - LM: 8
     - Cultural part
     - Spatial Temperal part
   - Dialects | Ctrl+C Ctrl+V
@@ -177,7 +177,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 75.8%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 68.5%
               - ReferenceHash: `lang_dev`
       - Low Q
     - Continuous`?`Development Single Layer Meta Development Unit
@@ -221,9 +221,9 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 7.8%
-                  - 36-60 | STATE: FROZEN if under 60% or over 90%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 75.8%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 8.4%
+                  - 36-62 | STATE: FROZEN if under 60% or over 90%
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 68.5%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -317,9 +317,8 @@
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 8.4%
+        - CCS: 9.0%
         - TEMP_TIMESTAMP
-        - `WARNING The prefab ammo doesn't generate if there isn't any Laser object`
         - CONFIG Forced Hands-on: True
         - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
@@ -629,557 +628,506 @@
       - Field
       - Resonnance
     - Complexity Theory & Meso Science
-  - TOPIC | Key Ingredients of Human Nature in 2022: Cthulhu's Eye --> 5min/d
-    - Money --> MERGE to `french/investment`
-      - Trader's path --> MERGE to `french/investment`
-        - *Accounting is lackluster, colorless, and oderless, not fit for driving adrenaline or human consumption IMO of course, leave'em to machines*
-        - *That IS the speed and challenge which is on par to drive adrenaline*
-        - _source
-          - The Trading Channel
-        - Noob's jump: Trading 101
-          - Hands-on
-            - Demo ACC
-              - Strategy Demos
-                - [ ] [The Most Important Rule In Day Trading](https://www.youtube.com/watch?v=HEJBaC4TkvQ)
-        - Comprehensive Development Path
-          - Get with the terms
-            - [Dictionary - Investopedia](https://www.investopedia.com/financial-term-dictionary-4769738)
-          - Get with the tools
-            - Broker
-            - View
-              - Script
-        - Randomwalk 
-          - Pedant's hut
-            - _not-verified
-              - Trust level tier 1 of 5
-                - [BIG Problem with Bond Investing Today!!!](https://www.youtube.com/watch?v=1ScT15of0Vo)
-                - [Financial Statements Made Simple (For Investors)](https://www.youtube.com/watch?v=uEjKr_Z92mA)
-              - Trust level tier 3 of 5
-                - [Relationship between bond prices and interest rates | Finance & Capital Markets | Khan Academy](https://www.youtube.com/watch?v=I7FDx4DPapw)
-                - [16. Portfolio Management - MIT OpenCourseWare](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
-            - Bond
-            - Fund
-              - General
-              - ?
-                - Mutual Fund
-            - Forex
-            - Crypto
-              - *Too OG for professeures*
-              - *Primitive social-economic manifestation for Bourgeoisie and above is out of scope for now*
-          - [Financial Education Video - How to Raise Capital: The #1 Skill of an Entrepreneur](https://www.youtube.com/watch?v=yQLhWtgAT0A) --> MERGE to `french/investment`
-          - [Complete TradingView Tutorial - 2022 Edition](https://www.youtube.com/watch?v=Vtrswz8TNks) --> MERGE to `french/investment`
-            - Videosweemark: 10:00
-          - QT --> MERGE to `french/investment`
-            - [Algorithmic Trading Using Python - Full Course](https://www.youtube.com/watch?v=xfzGZB4HhEE&t=99s)
-              - Videosweepmark: 27:30/4:33:02
-              - CONFIG
-                - Language pair: German
-              - STATE
-                - `isSoftHandsOn`: `true`
-                  - TOOLING
-                    - deepnote
-                  - PROCESSING_POINTER_STORE
-                    - S&P 500 Index
-                      - [What is the S&P 500 -- Should you Invest in the S&P 500](https://www.youtube.com/watch?v=beumv2JYdNM)
-                        - CONFIG
-                          - Language pair: French
-            - JQ
-              - [JQ](https://www.joinquant.com/)
-          - ?
-            - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
-              - IMPORTANT PRIORITIZED Apache Airflow: The Hands-On Guide - U
-                - CCS: 9.7%
-                - TEMP_TIMESTAMP: 6:11
-              - Data Engineering Essentials using SQL, Python, and PySpark
-                - CCS: 1.3%
-                - TEMP_TIMESTAMP: 2:30
-              - CFA Level 1
-                - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-                  - CCS: 50.4% **HALT SATURATE_CHILDREN**
-                  - ETA: 3.54 months
-                  - TEMP_TIMESTAMP: 1:04
-                  - _source
-                    - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
-                    - Global Investment Performance Standards(GIPS)
-                    - [360financialanalyst](https://365financialanalyst.com/resources/)
-                      - Formulae
-                        - _strategy
-                          - *Only used as rote learning given a particular time window for exam prep*
-                        - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
-                  - **PANIC** ?
-                    - **PANIC_SATURATION**: 65%
-                    - **PANIC_STATEMENT** *Suggested SATURATE_CHILDREN state after touching 50%*
-                    - **PANIC_RESOLUTION**
-                      - *Initiate Flashcardification on Practice questions*
-                    - NEW ?
-                      - NEW Shareholder/stakeholder theory
-                        - BoD
-                        - Stakeholders
-                      - M&A patterns
-                        - M&A Lifecycle
-                          - Unknown stage
-                            - Poison pills: *Here's to my 'loyalty' i.e. Status quo/Bank account*
-                    - Test statistics, null hypothesis, parametric test
-                    - Spearman rank correlation
-                    - PERSISTENT Central limit theorem
-                      - Goal: Have a solid grasp of CLT and its SURROUNDING ECOSYSTEM
-                      - PERSISTENT [Proof: Central Limit Proof](https://www.youtube.com/watch?v=RqiqhrZE6Uk)
-                        - CONFIG Inifite Loop with re-ocurring supplementation children
-                        - CONFIG `TTL=30d`
-                          - `currentTTL`: 30d
-                        - VSM: 15:00
-                        - ?
-                          - DDF solved problems
-                            - [Continuous Probability Distributions Solved Problems - Part 1](https://www.youtube.com/watch?v=SFwYQM_-mvs)
-                              - VSM
-                              - LM:1
-                            - [Find the Probability Density Function for Continuous Distribution of Random Va](https://www.youtube.com/watch?v=sBy0w_j6mgE)
-                          - expectation, DDF, and moment
-                            - [How to self study pure math - a step-by-step guide](https://www.youtube.com/watch?v=byNaO_zn2fI)
-                              - VSM: 2:30
-                            - [Probability Distribution Functions (PMF, PDF, CDF)](https://www.youtube.com/watch?v=YXLVjCKVP7U)
-                              - VSM: 2:30
-                          - iid -> independent and identically distributed
-                          - CDF, MGF(Moment generating function)
-                    - TANDEM Probability & Statistics Recap
-                      - [Statistics: Variance of a population | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=6JFzI1DDyyk&list=PL1328115D3D8A2566&index=3)
-                        - VSM: 1:40
-                        - LM: 3
-                    - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
-                    - Chebyshev Inequality
-                    - Monte Carlo, Historical Simulation
-                  - OnceStimulationUnit 
-                  - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
-                    - Acronym fluency: PV, N, I/Y, PMT, HPR
-                    - Skewness, Kurtosis
-                  - SUPPLEMENTS
-                    - SKILL
-                      - ONCE
-                      - CONTINUOUS
-                        - **ContinuousSkillDevelopment** Consistent High-performing Business Writing
-                          - [3 Things To Do Before Writing Your First White Paper | Brian Boys - White Paper In One](https://www.youtube.com/watch?v=XZOWwNwJ2iY)
-                            - COMPOSITE_HOOK
-                              - Saturation: 5%
-                              - ASYNC MIRROR [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
-                                - SUPPLEMENT
-                                  - [Jordan Peterson and the Writing Process](https://www.youtube.com/watch?v=X3otsJZWKbk)
-                                    - Videosweepmark: 22:00
-                                    - Language pair: Portuguese | Russian
-                              - SOURCING The 22 immutable laws of branding
-                              - METHOD Pinnacle reverse engineering
-                            - Videosweepmark: 6:25 COMPOSITE_HOOK
-                            - Whitepapers in the wild
-                              - Arsenal construction
-                              - Reverse Engineering Pipeline
-                                - SUPPLEMEN
-                                  - [THORChain - Let's Read The Whitepaper](https://www.youtube.com/watch?v=jofxGwll6LM)
-                                  - [AWS White Paper Walkthrough - Security Overview of AWS Lambda March 2019](https://www.youtube.com/watch?v=xEq-0isx03c)
-                                    - Videosweepmark: 5:00
-                                  - [Bitcoin Whitepaper - Programmer explains](https://www.youtube.com/watch?v=MCxOwPlVVgA)
-                                - SOURCING [8 Excellent White Paper Examples + Key Takeaways](https://www.socialpilot.co/blog/white-paper-example)
-                                - Cisco – Networking and your competitive edge white paper
-                                  - Reverse Engineering
-                                    - Retainmark: ...*future is digital, and the race is on. Businesses*...
-                                    - _meta_root
-                                      - ROOT Create a `centralizedOutputUnit` dedicated to dealing with intellectual output a.k.a academic/zeitgeist-related writing
-                                        - Including conceptual framework, self-upgrade facility
-                                        - _motivation
-                                          - *This could be crutial to better writing skills*
-                                    - Genesis
-                                    - Anatomy analysis
-                                      - Hero Image
-                                      - Content Navigation
-                            - Language pair: French | Italian | Portuguese
-                        - **UNSTABLE** **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research --> MOVE TO *Italian Sector/Business Frontend/Marketing*
-                          - _motivation: *Learning English --> Italian while accidentally becoming more knowledgeable at business frontend/marketing*
-                          - CONFIG Language Pair: Italian/French
-                          - ?
-                            - Marketing Campaign
-                              - [Creating PROFITABLE Marketing Campaigns](https://www.youtube.com/watch?v=3ACaCJ8_S3g)
-                            - Marketing Research
-                              - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
-                                - Videosweepmark: 1:10
-                              - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
-                              - [Marketing Research 2023: How to Find Your Competitor's Secrets (Step-by-Step)](https://www.youtube.com/watch?v=_sTcYI23LJw)
-                              - [How To Do Market Research (Market Research 101)](https://www.youtube.com/watch?v=kFM72UJhW8s)
-                              - [marketing research for beginners, understanding marketing research fundamentals](https://www.youtube.com/watch?v=apm0wH9HU0Y)
-                              - [EXACTLY how I do market research for new products](https://www.youtube.com/watch?v=S4mLTKvvqdo)
-                              - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
-                                - McMaster Business Data and Statistics --> `TO business_arsenal`
-                                    - Videosweepmark : 10:02
-                              - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
+  - TOPIC | Key Ingredients of Human Nature in 2023 --> 5min/d
+    - Money --> Groundwork & 30,000 feet outlook
+      - Investment --> Managed by `french/investment`
+      - Groundwork
+        - Field Duty
+          - Startup --> Managed by `portuguese/freelanceable` and `spanish/early-startup`
+        - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
+          - **IMPORTANT PRIORITIZED** Apache Airflow: The Hands-On Guide - U
+            - CCS: 12.4%
+            - TEMP_TIMESTAMP: 0:30
+          - Data Engineering Essentials using SQL, Python, and PySpark
+            - CCS: 1.3%
+            - TEMP_TIMESTAMP: 2:30
+          - CFA Level 1
+            - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
+              - CCS: 50.4% **HALT SATURATE_CHILDREN**
+              - ETA: 3.54 months
+              - TEMP_TIMESTAMP: 1:04
+              - _source
+                - [Practice Questions with Answers: Code of Ethics and Standards of Professional Conduct](https://drive.google.com/file/d/14mNC1hhHEkhHciyLfTaPQjDUQJuTeV6Q/view?usp=sharing)
+                - Global Investment Performance Standards(GIPS)
+                - [360financialanalyst](https://365financialanalyst.com/resources/)
+                  - Formulae
+                    - _strategy
+                      - *Only used as rote learning given a particular time window for exam prep*
+                    - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
+              - **PANIC** ?
+                - **PANIC_SATURATION**: 59%
+                - **PANIC_STATEMENT** *Suggested SATURATE_CHILDREN state after touching 50%*
+                - **PANIC_RESOLUTION**
+                  - *Initiate Flashcardification on Practice questions*
+                - NEW ?
+                  - NEW Shareholder/stakeholder theory
+                    - BoD
+                    - Stakeholders
+                  - M&A patterns
+                    - M&A Lifecycle
+                      - Unknown stage
+                        - Poison pills: *Here's to my 'loyalty' i.e. Status quo/Bank account*
+                - Test statistics, null hypothesis, parametric test
+                - Spearman rank correlation
+                - PERSISTENT Central limit theorem
+                  - Goal: Have a solid grasp of CLT and its SURROUNDING ECOSYSTEM
+                  - PERSISTENT [Proof: Central Limit Proof](https://www.youtube.com/watch?v=RqiqhrZE6Uk)
+                    - CONFIG Inifite Loop with re-ocurring supplementation children
+                    - CONFIG `TTL=30d`
+                      - `currentTTL`: 30d
+                    - VSM: 15:00
+                    - ?
+                      - DDF solved problems
+                        - [Continuous Probability Distributions Solved Problems - Part 1](https://www.youtube.com/watch?v=SFwYQM_-mvs)
+                          - VSM
+                          - LM:1
+                        - [Find the Probability Density Function for Continuous Distribution of Random Va](https://www.youtube.com/watch?v=sBy0w_j6mgE)
+                      - expectation, DDF, and moment
+                        - [How to self study pure math - a step-by-step guide](https://www.youtube.com/watch?v=byNaO_zn2fI)
+                          - VSM: 2:30
+                        - [Probability Distribution Functions (PMF, PDF, CDF)](https://www.youtube.com/watch?v=YXLVjCKVP7U)
+                          - VSM: 2:30
+                      - iid -> independent and identically distributed
+                      - CDF, MGF(Moment generating function)
+                - TANDEM Probability & Statistics Recap
+                  - [Statistics: Variance of a population | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=6JFzI1DDyyk&list=PL1328115D3D8A2566&index=3)
+                    - VSM: 6:40
+                    - LM: 3
+                - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
+                - Chebyshev Inequality
+                - Monte Carlo, Historical Simulation
+              - OnceStimulationUnit 
+              - IRR, NPV, DPI --> Flashcardification/Ripping off from others\'
+                - Acronym fluency: PV, N, I/Y, PMT, HPR
+                - Skewness, Kurtosis
+              - SUPPLEMENTS
+                - SKILL
+                  - ONCE
+                  - CONTINUOUS
+                    - **ContinuousSkillDevelopment** Consistent High-performing Business Writing
+                      - [3 Things To Do Before Writing Your First White Paper | Brian Boys - White Paper In One](https://www.youtube.com/watch?v=XZOWwNwJ2iY)
+                        - COMPOSITE_HOOK
+                          - Saturation: 5%
+                          - ASYNC MIRROR [The Elements of Style](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
+                            - SUPPLEMENT
+                              - [Jordan Peterson and the Writing Process](https://www.youtube.com/watch?v=X3otsJZWKbk)
+                                - Videosweepmark: 22:00
+                                - Language pair: Portuguese | Russian
+                          - SOURCING The 22 immutable laws of branding
+                          - METHOD Pinnacle reverse engineering
+                        - Videosweepmark: 6:25 COMPOSITE_HOOK
+                        - Whitepapers in the wild
+                          - Arsenal construction
+                          - Reverse Engineering Pipeline
+                            - SUPPLEMEN
+                              - [THORChain - Let's Read The Whitepaper](https://www.youtube.com/watch?v=jofxGwll6LM)
+                              - [AWS White Paper Walkthrough - Security Overview of AWS Lambda March 2019](https://www.youtube.com/watch?v=xEq-0isx03c)
                                 - Videosweepmark: 5:00
-                                - Tooling --> `business_arsenal`
-                                  - Google Trend
-                                  - 百度指数
-                                  - Ubersuggest
-                          - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
-                    - KNOWLEDGE
-                      - STATIC
-                        - GIPS
-                        - CFA Ethical Decision-Making Framework
-                          - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
-                          - Consider: Situational Influences, Alternative Actions, Additional Guidance
-                          - Act: By Making a Decision, By Elevating the Issue to a Higher Authority
-                          - Reflect: On What You've Learned, On Strengths and Weaknesses
-                        - Standards of Professional Conduct - 7 standards, 22 sub-sections --> `useLink`
-                        - PCP, DRC
-                      - VOLATILE
-                        - ContinuousStimulationUnit [How To Read & Analyze The Balance Sheet Like a CFO | The Complete Guide To Balance Sheet Analysis](https://www.youtube.com/watch?v=DMv9JC_K37Y&t=27s)
-                          - CONFIG Explicit note required, move to French sector
-                            - Videosweepmark: 15:00
-                        - Understand Insurance - Underwriting
-                          - [INSURANCE Underwriting [[What does an Underwriter Do]]](https://www.youtube.com/watch?v=XhhAk9CF5c4)
-                          - [What's the day-to-day of being an underwriter? - Hey Insurance - Ep 87](https://www.youtube.com/watch?v=LeBNxrr3dRA)
-                        - Understand Conflict of Interest
-                          - Language pair: French
-                          - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
-                            - Videosweepmark
-                          - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
-                            - Videosweepmark: 30:13 REPLACE
-                            - REPLACE [Research Ethics](https://www.youtube.com/watch?v=v8njnkR875g)
-                            - Conflict
-                              - Conflict Ontology
-                                - \(Human\)Conflict Genesis?
-                                  - Money
-                                  - Growth in assets, equity
-                                  - Indirect benefits
-                                  - Ethics
-                                  - ?
-                                - Conflict Type?
-                                  - Conflict of Commitment
-                                  - Conflict of Interest
-                                  - ?
-                              - Conflict Dynamics
-                                - Conflict Lifecycle
-                          - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
-                            - Videosweepmark: 5:30
-                        - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM) | TTL
-                        - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
-              - **BLACKHOLE**
-                - **ACTIVE_RESEARCH_UNIT**
-                  - _meta
-                    - topic
-                      - ESG, EmTech, QT, Complexity Science(CMP) & Basic Academic Sophistication
-                    - entry
-                      - `{activeResearchUnits: ['ESG']}`
-                    - methods
-                      - _ref
-                        - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
-                  - _source
-                    - Civics Academy SA
-                    - Municipal Climate Change Action Centre
-                  - Items
-                    - `common`
-                    - Bottom-up Dencentralized Eliza, Community build-up & Curator responsiblity
-                      - `ROOT.CentralExecutiveFunction.EmergencyOutput.pop()`
-                        - *Too much must-be-redacted information, moving to confidential*
-                      - RUNNING `ROOT.TopLevelFunctions('moveToConfidentials(\'/advancedResearchUnit\', this)')`
-                        - TTL: 5d
-                      - INBOUND_CACHE
-                        - [Deep learning?](https://www.aminer.org/pub/5550453645ce0a409eb5493f/deep-learning)
-                        - [Information Trading in Internet of Things for Smart Cities: A Market-Oriented Analysis](https://www.aminer.org/pub/5e3586c5df1a9c0c41ea511a/information-trading-in-internet-of-things-for-smart-cities-a-market-oriented)
-                        - [Designing a GDPR compliant blockchain-based IoV distributed information tracking system](https://www.aminer.org/pub/603769ecd3485cfff1df4a92/designing-a-gdpr-compliant-blockchain-based-iov-distributed-information-tracking-system)
-                      - Tooling
-                        - [Aminer](https://www.aminer.org/)
-                      - Input Channel
-                        - [How to choose news](https://www.youtube.com/watch?v=q-Y-z6HmRgI)
-                    - RAI
-                      - _INBOUND_CACHE
-                        - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/pdf/2103.11251.pdf)
-                        - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://drive.google.com/file/d/1JTL8m2nZtHpJfPiq8ebMHfsfmnb9bizQ/view?usp=sharing)
-                          - PROCESSING_POINTER_FIELD
-                            - Randomtelewalk: 5
-                          - SUPPLEMENT
-                            - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by T.Hastie et. al.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
-                              - PROCESSING_POINTER_FIELD
-                                - Randomtelewalk: 8
-                            - [Keys to Developing A Responsible AI Strategy](https://www.youtube.com/watch?v=fzdny6lV_dE)
-                              - Videosweepmark: 5:00
-                              - Language pair: Spanish
-                    - Privacy-Preserving Computing/AI
-                      - STATIC
-                        - TECC
-                        - REPLACE_HOOK A Course In Differential Privacy
-                          - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
-                            - Videosweepmark: 21:30
-                          - **ROOT_STICKY_ENGLISH** **ROOT M&C**
-                          - Language pair: German
-                          - ?
-                            - Single-use Accountability System, Data Linkage attack
-                          - Bookpair: A Pragmatic Introduction to Secure Multi-party Configuration
-                            - [A Pragmatic Introduction to Secure Multi-party Configuration](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
-                            - PROCESSING_POINTER_FIELD
-                              - Randomtelewalk: 10
-                                - Saturation: 0.9%
-                          - CURIOSITY_OUTREACH | THROTTLE 15
-                            - Garbled Circuits Protocol, PSI
-                            - Vickrey auction
-                              - RESONANCE Second Price Auction --> Unknown Resonance <-- Secondary Market
-                                - \* --> Byzantine Problem/Threshold <-- ?
-                            - SMPC Shamir secret sharing --> Quantum secure?, FHE, PPC. DP
-                            - **AMPLIFIED** **Differential Privacy**
-                              - _category
-                                - Global Differential ~, Local ~
-                              - _relationship
-                                - __next
-                                  - Data Anonymization
-                              - REPLACE_HOOK A Course In Differential Privacy
-                                - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
-                                  - Videosweepmark: 11:30
-                              - [Deep Learning with Differential Privacy (DP-SGD explained)](https://www.youtube.com/watch?v=oNSelFJnPaM)
-                                - Videosweepmark: 0:20
-                                - ?: Privacy loss, Privacy budget, ε-differential privacy
-                                - SUPPLEMENT
-                                  - [Interpretation of the ε and δ s of Differential Privacy | Lê Nguyên Hoang](https://www.youtube.com/watch?v=REAo31p5wSo)
-                                  - Robust De-anonymization of Large Sparse Datasets - A. Narayanan et. al.
-                                    - _meta
-                                      - Critical Question: *Suppose that through an exhaustive screening process amongst a lot of academic papers, three papers list as the pinnacle of importance. What's your approach to get the most out of them? Describe them in a comprehensive manner.*
-                                        - SUPPLEMENT
-                                          - Language pair: German
-                                          - [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
-                                            - Videosweepmark: 5:00
-                                            - Bookpair
-                                              - [The Computer Scientists as Toolsmith](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
-                                          - [7 insanely useful academic apps you've not heard about!](https://www.youtube.com/watch?v=F_M19e8MI10)
-                                          - [Oddly effective ways to increase writing motivation | For Thesis, Research Papers and more](https://www.youtube.com/watch?v=BhtD7657OIU)
-                                          - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
-                                  - Retain confidence: 100%
-                                  - PROCESSING_PIPELINE
-                                    - Pipeline - Verdict & Shallow investment
-                                      - Activation: 100%
-                                    - Pipeline - Rigorous
-                                      - Activation: 0%
-                                    - Pipeline - Persistent
-                                      - Activation: 0%
-                              - [Differentially Private Algorithms: Some Primitives and Paradigms - Kunal Talwar](https://www.youtube.com/watch?v=HFMZYFrHqLo)
-                            - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
-                              - PROCESSING_POINTER_FIELD
-                                - Randomtelewalk: 37
-                                  - Saturation: 4.7%
-                              - Hands-On
-                                - TOOLING
-                                  - Deepnote
-                            - [Neural Networks and Learning Machines](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
-                              - PROCESSING_POINTER_FIELD
-                                - Randomtelewalk: 19
-                                  - Saturation: 0.06%
-                               - PROCESSING_POINTER_STORE
-                                - Vanishing-gradient problem
-                      - VOLATILE
-                        - [DLRL Summer School 2022 - Mi Jung Park - Privacy-Preserving Deep Learning](https://www.youtube.com/watch?v=bwhYLcm9Ykg)
-                        - [Secure Computation in Computing - 2022/9](https://www.youtube.com/watch?v=3GPD40lWVoI)
-                          - Videosweemark: 1:32
-                          - ARSENAL_INPUT --> `software.createHigherLevelArchitectureSection`
-                            - ACM learning
-                              - [ACM learning](https://learning.acm.org)
-                              - [Ethical Responsibility](https://ethics.acm.org)
-                          - Tool-Problem Net
-                            - Tool:
-                              - ImageNet, MNIST, CIFAR-10, Librispeech, WikiText-103
-                              - WMT
-                            - Problems
-                              - Cancer, Alzheimers, Dementia, Depression, Anxiety, Common Cold
-                    - Digital Transformation
-                      - _source
-                        - Eric Kimberling
-                    - ESG
-                      - _inbound_cache
-                        - [Investopedia - ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
-                          - Perceived Onset Saturation: 20%
-                          - CONTEXT_OUTREACH
-                            - ETF
-                            - SIF Foundation
-                        - [Alpha vs. Beta: What's the Difference?](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
-                          - _metrics
-                            - Self-Perceived Context-Determined Osmosis Saturation Percentage(SPCDOSP): 40%
-                        - [Biodiversity Offsets 101](https://www.youtube.com/watch?v=4DPOI-1ZHPg)
-                      - STATIC
-                        - _schema
-                          - Frequently used concepts
-                        - Frequently used concepts
-                        - P.O.I
-                          - Alastair Handley
-                        - NEW *证ESG
-                      - VOLATILE
+                              - [Bitcoin Whitepaper - Programmer explains](https://www.youtube.com/watch?v=MCxOwPlVVgA)
+                            - SOURCING [8 Excellent White Paper Examples + Key Takeaways](https://www.socialpilot.co/blog/white-paper-example)
+                            - Cisco – Networking and your competitive edge white paper
+                              - Reverse Engineering
+                                - Retainmark: ...*future is digital, and the race is on. Businesses*...
+                                - _meta_root
+                                  - ROOT Create a `centralizedOutputUnit` dedicated to dealing with intellectual output a.k.a academic/zeitgeist-related writing
+                                    - Including conceptual framework, self-upgrade facility
+                                    - _motivation
+                                      - *This could be crutial to better writing skills*
+                                - Genesis
+                                - Anatomy analysis
+                                  - Hero Image
+                                  - Content Navigation
+                        - Language pair: French | Italian | Portuguese
+                    - **UNSTABLE** **ContinuousSkillDevelopment** Concentrated Rapid Data Sourcing --> Marketing Research --> MOVE TO *Italian Sector/Business Frontend/Marketing*
+                      - _motivation: *Learning English --> Italian while accidentally becoming more knowledgeable at business frontend/marketing*
+                      - CONFIG Language Pair: Italian/French
                       - ?
-                        - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
-                          - !IMPORTANT
-                            - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
-                          - Videosweepmark: 43:00/1:13:36
-                          - Language pair: English
-                          - _source: INHERIT PARENT_ARU
-                            - [Demystifying Carbon Credits, Carbon Markets, and Carbon Farming](https://www.youtube.com/watch?v=UwcZi7z2AS8)
-                          - PRIORITIES
-                            - Aerobic composting
-                          - _method
-                            - `deprecateDataToLanguageSection({activeResearchUnits: ['ESG']}, ...this.deprecated, {thens: [{onComplete: ['destroy']}]}, INBOUND_CACHE=true)`
-                          - STATIC/MESO
-                            - `this`
-                              - [Carbon Credit - Investopedia](https://www.investopedia.com/terms/c/carbon_credit.asp)
-                                - [Cap and Trade](https://www.investopedia.com/terms/c/cap-and-trade.asp)
-                            - ?
-                              - Third party registry
-                                - Climate Action Reserve, Verra(VCS)
-                                - Gold Standard, ACR
+                        - Marketing Campaign
+                          - [Creating PROFITABLE Marketing Campaigns](https://www.youtube.com/watch?v=3ACaCJ8_S3g)
+                        - Marketing Research
+                          - [How to collect data for a Research paper | with 4 easy steps | meaning | methods | examples](https://www.youtube.com/watch?v=lqqJ5BmXzB0)
+                            - Videosweepmark: 1:10
+                          - [Doing simple secondary data research projects](https://www.youtube.com/watch?v=rgAq0I_si_k)
+                          - [Marketing Research 2023: How to Find Your Competitor's Secrets (Step-by-Step)](https://www.youtube.com/watch?v=_sTcYI23LJw)
+                          - [How To Do Market Research (Market Research 101)](https://www.youtube.com/watch?v=kFM72UJhW8s)
+                          - [marketing research for beginners, understanding marketing research fundamentals](https://www.youtube.com/watch?v=apm0wH9HU0Y)
+                          - [EXACTLY how I do market research for new products](https://www.youtube.com/watch?v=S4mLTKvvqdo)
+                          - [Rapid Requirements Gathering for Business Intelligence and Analytics](https://www.youtube.com/watch?v=VKXvewt-yiw)
+                            - McMaster Business Data and Statistics --> `TO business_arsenal`
+                                - Videosweepmark : 10:02
+                          - [How To Do Market Research! (5 FAST & EASY Strategies)](https://www.youtube.com/watch?v=7nBnUMtaooI)
+                            - Videosweepmark: 5:00
+                            - Tooling --> `business_arsenal`
+                              - Google Trend
+                              - 百度指数
+                              - Ubersuggest
+                      - [TECHNICAL STORIES DON'T WORK](https://www.youtube.com/watch?v=vSuJqMRG1WM)
+                - KNOWLEDGE
+                  - STATIC
+                    - GIPS
+                    - CFA Ethical Decision-Making Framework
+                      - Identify: Ethical Principles, Duties to Others, Important Facts, Conflicts of Interest
+                      - Consider: Situational Influences, Alternative Actions, Additional Guidance
+                      - Act: By Making a Decision, By Elevating the Issue to a Higher Authority
+                      - Reflect: On What You've Learned, On Strengths and Weaknesses
+                    - Standards of Professional Conduct - 7 standards, 22 sub-sections --> `useLink`
+                    - PCP, DRC
+                  - VOLATILE
+                    - ContinuousStimulationUnit [How To Read & Analyze The Balance Sheet Like a CFO | The Complete Guide To Balance Sheet Analysis](https://www.youtube.com/watch?v=DMv9JC_K37Y&t=27s)
+                      - CONFIG Explicit note required, move to French sector
+                        - Videosweepmark: 15:00
+                    - Understand Insurance - Underwriting
+                      - [INSURANCE Underwriting [[What does an Underwriter Do]]](https://www.youtube.com/watch?v=XhhAk9CF5c4)
+                      - [What's the day-to-day of being an underwriter? - Hey Insurance - Ep 87](https://www.youtube.com/watch?v=LeBNxrr3dRA)
+                    - Understand Conflict of Interest
+                      - Language pair: French
+                      - [Conflict of interest - Clean Energy Regulator](https://www.youtube.com/watch?v=CPlI0ZAcRLw)
+                        - Videosweepmark
+                      - [Conflict of Interest (COI): What is it and How do weI Manage it?](https://www.youtube.com/watch?v=OHMPcMnXG4Y)
+                        - Videosweepmark: 30:13 REPLACE
+                        - REPLACE [Research Ethics](https://www.youtube.com/watch?v=v8njnkR875g)
+                        - Conflict
+                          - Conflict Ontology
+                            - \(Human\)Conflict Genesis?
+                              - Money
+                              - Growth in assets, equity
+                              - Indirect benefits
+                              - Ethics
                               - ?
-                                - Gold Standard Value Change Programme
-                                - ICROA
-                                - Carbon Accounting Framework
-                          - VOLATILE
-                            - Inbound B.O.I
-                              - Alberta's carbon market
-                          - RUNNING `toRootStatic(children, context)`
-                            - STRUCT --> `this['MESO']`
-                              - CHUNK-1
-                                - LV1
-                                  - Carbon Credits and MCCAC funding projects
-                                  - Carbon Credits
-                                    - _prerequisite
-                                      - [Municipality](https://en.wikipedia.org/wiki/Municipality) !IMPORTANT
-                                        - **RUNNING**
-                                          - MOVE TO `language/translation/vocabulary/Municipality`
-                                          - `ROOT.CentralExecutiveFunction`
-                                            - *Declutter the translation section to be language-instance-irrelavent, since you already have overwhelming evidence that you will master 20+ languages in a controlled, managed, predictable, integratable, translatable manner*
-                                        - [What is Local Government?](https://www.youtube.com/watchC?v=ocuJXY-CNRg) !IMPORTANT
-                                          - Videosweepmark
-                                          - Loopmark: 1 
-                                        - [What can I expect from my Municipality?](https://www.youtube.com/watch?v=yAHIJMkmw2E)
-                                          - Videosweepmark
-                                          - Loopmark: 1
-                                        - [What are Municipalities and How are They Structured?](https://www.youtube.com/watch?v=w6duB23Zwkg)
-                                          - Videosweepmark
-                                          - Loopmark: 1
-                                          - Roles
-                                            - MDB, MEC
-                                        - [What are Municipal Services?](https://www.youtube.com/watch?v=Wbk-BHtvSbQ)
-                                          - Videosweepmark: 5:00
-                                          - Language pair: French
-                                - LV2
-                                  - _metrics
-                                    - Sense of deprecation: 90%
-                                  - Carbon market basics
-                                  - How credits are generated
-                                  - How you might take advantage of carbon markets
-                              - CHUNK-2
-                                - ?
-                                  - _meta
-                                    - col
-                                      - Stakeholders
-                                        - _graphview
-                                          - [graphview - link](#)
-                                        - ENV ?
-                                          - Project Operators
-                                            - _resp
-                                              - Reduce GHG emissions
-                                              - Sequester emissions in the ground, trees or plants
-                                              - Generate credits
-                                          - Project Developers
-                                          - Auditor General
-                                            - _resp
-                                              - Oversees every aspect of the market, reports on the market annually
-                                              - Carbon credit VS Tax
-                                            - Pivotal
-                                        - ENV Playing Field
-                                          - Manager
-                                            - ? Market Regulator
-                                              - _func
-                                                - Make rules
-                                                - Approve Protocols
-                                                - Create Market Framework
-                                          - Buyer
-                                            - Compliance Entity
-                                              - _resp
-                                                - Reduce emission
-                                              - _rts
-                                                - Buy carbon credits to lower compliance costs
-                                          - Sponsor
-                                        - ENV M&C
-                                          - Registry
-                                            - _alias: *the score keeper*
-                                            - _func
-                                              - Track: Emissions, VER's, Ownership, Compliance
-                                                - [verity](https://verityplatform.com/platform/verityesg/)
-                                                - [What is an MSCI ESG Rating?](https://www.msci.com/our-solutions/esg-investing/esg-ratings)
-                                            - _contact
-                                              - Government
-                                          - Referees
-                                            - Verifiers & Auditors
-                                              - _resp
-                                                - Comprehensive Compliance check-in
-                                                  - Verify
-                                                    - Reported emissions, VER's, program compliance
-                                      - Cost
-                                      - Risk
-                                      - Metrics
-                                        - Complexity
-                                        - Social Responsibility
-                                  - Compliance
-                                  - Voluntary
-                                  - Insetting
-                          - Tandem
-                            - [Explained | The Stock Market | FULL EPISODE](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
-                            - [Stop Loss Strategy Secrets: The Truth About Stop Loss Nobody Tells You](https://www.youtube.com/watch?v=1ohBdvp8CoU)
-                          - _motivation
-                            - *A startup needs (have good eyes to hire) a competent investo-guy*
-                          - _basics
-                            - TTL 3
-                              - pip
-                          - _state
-                            - Current Langauge Shuffle: Samoan language
-                              - _meta:escalate
-                                - **In here, the secret of learning and communicating with aliens may be revealed**
-                                - *Fundamentals to understand an alien language: What to do in desparate situations*
-                                  - _inspiration
-                                    - *Arrival - 2016*
-                                  - Language experiment
-                                  - Skills
-                                    - Be able to determine meaning
-                                    - Remember/Log and verify the reoccuring patterns
-                                    - Start with `static` first
-                            - Shuffle Frequency: 5 min
-                          - CONVOLUTION | ?
-                            - Conceptual framework?
-                              - Vocabulary Extension
-                                - STATIC
-                                  - Lot
-                                  - Spread
-                                  - Stop loss - Tradingviews
-                                  - Fibonacci Retracement
-                                    - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
-                                - VOLATILE
-                              - Risk Management
-                                - _mindset
-                                  - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
-                                - Risk Capital
-                                - Risk Per Trade
-                                - Overall Risk Exposure
-                            - Trading Tools
-                              - View
-                                - Candle
-                                  - 38.2% Candle
-                                  - Engulfing Candle
-                                  - Close above/below Candle
-                                - Chart Patterns
-                                  - Double top
-                                  - Double bottom
-                    - EmTech
-                    - QT
-                    - Complexity Science
-                      - Tooling
-                        - Hash.ai
-                        - NetLogo
-                          - [Agent-Based Modeling: Tools of Agent-Based Modeling](https://www.youtube.com/watch?v=QtZ3M5UNKhI&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=3)
-                            - Videosweepmark: 4:00
-                            - Listmark: 3
-                            - _state
-                              - Current language shuffle pair: French-German \w English Audio
-                              - **ENFORCED** Hands-on
-                    - Basic Academic Sophistication
-                      - Randomwalk
-                        - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
-          - Forex
-          - Future
+                            - Conflict Type?
+                              - Conflict of Commitment
+                              - Conflict of Interest
+                              - ?
+                          - Conflict Dynamics
+                            - Conflict Lifecycle
+                      - [Mastering Conflict | Jennifer Goldman-Wetzler | Talks at Google](https://www.youtube.com/watch?v=d2hhLU4lWLc)
+                        - Videosweepmark: 5:30
+                    - [Standardization vs Normalization Clearly Explained!](https://www.youtube.com/watch?v=sxEqtjLC0aM) | TTL
+                    - [Statistics Concepts - Explained and Visualized](https://www.youtube.com/watch?v=MRqtXL2WX2M&list=PLVf6vX-h44c2KX5ydZ5NCyy5ly_elT9QT)
+          - **BLACKHOLE**
+            - **ACTIVE_RESEARCH_UNIT**
+              - _meta
+                - topic
+                  - ESG, EmTech, QT, Complexity Science(CMP) & Basic Academic Sophistication
+                - entry
+                  - `{activeResearchUnits: ['ESG']}`
+                - methods
+                  - _ref
+                    - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
+              - _source
+                - Civics Academy SA
+                - Municipal Climate Change Action Centre
+              - Items
+                - `common`
+                - Bottom-up Dencentralized Eliza, Community build-up & Curator responsiblity
+                  - `ROOT.CentralExecutiveFunction.EmergencyOutput.pop()`
+                    - *Too much must-be-redacted information, moving to confidential*
+                  - RUNNING `ROOT.TopLevelFunctions('moveToConfidentials(\'/advancedResearchUnit\', this)')`
+                    - TTL: 5d
+                  - INBOUND_CACHE
+                    - [Deep learning?](https://www.aminer.org/pub/5550453645ce0a409eb5493f/deep-learning)
+                    - [Information Trading in Internet of Things for Smart Cities: A Market-Oriented Analysis](https://www.aminer.org/pub/5e3586c5df1a9c0c41ea511a/information-trading-in-internet-of-things-for-smart-cities-a-market-oriented)
+                    - [Designing a GDPR compliant blockchain-based IoV distributed information tracking system](https://www.aminer.org/pub/603769ecd3485cfff1df4a92/designing-a-gdpr-compliant-blockchain-based-iov-distributed-information-tracking-system)
+                  - Tooling
+                    - [Aminer](https://www.aminer.org/)
+                  - Input Channel
+                    - [How to choose news](https://www.youtube.com/watch?v=q-Y-z6HmRgI)
+                - RAI
+                  - _INBOUND_CACHE
+                    - [Interpretable Machine Learning: Fundamental Principles and 10 Grand Challenges](https://arxiv.org/pdf/2103.11251.pdf)
+                    - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://drive.google.com/file/d/1JTL8m2nZtHpJfPiq8ebMHfsfmnb9bizQ/view?usp=sharing)
+                      - PROCESSING_POINTER_FIELD
+                        - Randomtelewalk: 5
+                      - SUPPLEMENT
+                        - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction by T.Hastie et. al.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+                          - PROCESSING_POINTER_FIELD
+                            - Randomtelewalk: 8
+                        - [Keys to Developing A Responsible AI Strategy](https://www.youtube.com/watch?v=fzdny6lV_dE)
+                          - Videosweepmark: 5:00
+                          - Language pair: Spanish
+                - Privacy-Preserving Computing/AI
+                  - STATIC
+                    - TECC
+                    - REPLACE_HOOK A Course In Differential Privacy
+                      - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
+                        - Videosweepmark: 21:30
+                      - **ROOT_STICKY_ENGLISH** **ROOT M&C**
+                      - Language pair: German
+                      - ?
+                        - Single-use Accountability System, Data Linkage attack
+                      - Bookpair: A Pragmatic Introduction to Secure Multi-party Configuration
+                        - [A Pragmatic Introduction to Secure Multi-party Configuration](https://www.cs.virginia.edu/~evans/pragmaticmpc/pragmaticmpc.pdf)
+                        - PROCESSING_POINTER_FIELD
+                          - Randomtelewalk: 10
+                            - Saturation: 0.9%
+                      - CURIOSITY_OUTREACH | THROTTLE 15
+                        - Garbled Circuits Protocol, PSI
+                        - Vickrey auction
+                          - RESONANCE Second Price Auction --> Unknown Resonance <-- Secondary Market
+                            - \* --> Byzantine Problem/Threshold <-- ?
+                        - SMPC Shamir secret sharing --> Quantum secure?, FHE, PPC. DP
+                        - **AMPLIFIED** **Differential Privacy**
+                          - _category
+                            - Global Differential ~, Local ~
+                          - _relationship
+                            - __next
+                              - Data Anonymization
+                          - REPLACE_HOOK A Course In Differential Privacy
+                            - [Lecture 1A: Some Attempts at Data Privacy - NYC Taxis and Netflix](https://www.youtube.com/watch?v=FJMjNOcIqkc&list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp)
+                              - Videosweepmark: 11:30
+                          - [Deep Learning with Differential Privacy (DP-SGD explained)](https://www.youtube.com/watch?v=oNSelFJnPaM)
+                            - Videosweepmark: 0:20
+                            - ?: Privacy loss, Privacy budget, ε-differential privacy
+                            - SUPPLEMENT
+                              - [Interpretation of the ε and δ s of Differential Privacy | Lê Nguyên Hoang](https://www.youtube.com/watch?v=REAo31p5wSo)
+                              - Robust De-anonymization of Large Sparse Datasets - A. Narayanan et. al.
+                                - _meta
+                                  - Critical Question: *Suppose that through an exhaustive screening process amongst a lot of academic papers, three papers list as the pinnacle of importance. What's your approach to get the most out of them? Describe them in a comprehensive manner.*
+                                    - SUPPLEMENT
+                                      - Language pair: German
+                                      - [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
+                                        - Videosweepmark: 5:00
+                                        - Bookpair
+                                          - [The Computer Scientists as Toolsmith](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
+                                      - [7 insanely useful academic apps you've not heard about!](https://www.youtube.com/watch?v=F_M19e8MI10)
+                                      - [Oddly effective ways to increase writing motivation | For Thesis, Research Papers and more](https://www.youtube.com/watch?v=BhtD7657OIU)
+                                      - [How to Write a Great Research Paper](https://www.youtube.com/watch?v=VK51E3gHENc)
+                              - Retain confidence: 100%
+                              - PROCESSING_PIPELINE
+                                - Pipeline - Verdict & Shallow investment
+                                  - Activation: 100%
+                                - Pipeline - Rigorous
+                                  - Activation: 0%
+                                - Pipeline - Persistent
+                                  - Activation: 0%
+                          - [Differentially Private Algorithms: Some Primitives and Paradigms - Kunal Talwar](https://www.youtube.com/watch?v=HFMZYFrHqLo)
+                        - [Grokking Deep Learning](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
+                          - PROCESSING_POINTER_FIELD
+                            - Randomtelewalk: 37
+                              - Saturation: 4.7%
+                          - Hands-On
+                            - TOOLING
+                              - Deepnote
+                        - [Neural Networks and Learning Machines](https://cours.etsmtl.ca/sys843/REFS/Books/ebook_Haykin09.pdf)
+                          - PROCESSING_POINTER_FIELD
+                            - Randomtelewalk: 19
+                              - Saturation: 0.06%
+                            - PROCESSING_POINTER_STORE
+                            - Vanishing-gradient problem
+                  - VOLATILE
+                    - [DLRL Summer School 2022 - Mi Jung Park - Privacy-Preserving Deep Learning](https://www.youtube.com/watch?v=bwhYLcm9Ykg)
+                    - [Secure Computation in Computing - 2022/9](https://www.youtube.com/watch?v=3GPD40lWVoI)
+                      - Videosweemark: 1:32
+                      - ARSENAL_INPUT --> `software.createHigherLevelArchitectureSection`
+                        - ACM learning
+                          - [ACM learning](https://learning.acm.org)
+                          - [Ethical Responsibility](https://ethics.acm.org)
+                      - Tool-Problem Net
+                        - Tool:
+                          - ImageNet, MNIST, CIFAR-10, Librispeech, WikiText-103
+                          - WMT
+                        - Problems
+                          - Cancer, Alzheimers, Dementia, Depression, Anxiety, Common Cold
+                - Digital Transformation
+                  - _source
+                    - Eric Kimberling
+                - ESG
+                  - _inbound_cache
+                    - [Investopedia - ESG](https://www.investopedia.com/terms/e/environmental-social-and-governance-esg-criteria.asp)
+                      - Perceived Onset Saturation: 20%
+                      - CONTEXT_OUTREACH
+                        - ETF
+                        - SIF Foundation
+                    - [Alpha vs. Beta: What's the Difference?](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
+                      - _metrics
+                        - Self-Perceived Context-Determined Osmosis Saturation Percentage(SPCDOSP): 40%
+                    - [Biodiversity Offsets 101](https://www.youtube.com/watch?v=4DPOI-1ZHPg)
+                  - STATIC
+                    - _schema
+                      - Frequently used concepts
+                    - Frequently used concepts
+                    - P.O.I
+                      - Alastair Handley
+                    - NEW *证ESG
+                  - VOLATILE
+                  - ?
+                    - [Carbon Credits 101](https://www.youtube.com/watch?v=QaaAfKsYK9s) --> `this.concurrentTraffic = 0.5`
+                      - !IMPORTANT
+                        - `searchForARUandAppendOnComplete({activeResearchUnits: ['ESG']}, this, {thens: [{onComplete: ['destroy']}]})`
+                      - Videosweepmark: 43:00/1:13:36
+                      - Language pair: English
+                      - _source: INHERIT PARENT_ARU
+                        - [Demystifying Carbon Credits, Carbon Markets, and Carbon Farming](https://www.youtube.com/watch?v=UwcZi7z2AS8)
+                      - PRIORITIES
+                        - Aerobic composting
+                      - _method
+                        - `deprecateDataToLanguageSection({activeResearchUnits: ['ESG']}, ...this.deprecated, {thens: [{onComplete: ['destroy']}]}, INBOUND_CACHE=true)`
+                      - STATIC/MESO
+                        - `this`
+                          - [Carbon Credit - Investopedia](https://www.investopedia.com/terms/c/carbon_credit.asp)
+                            - [Cap and Trade](https://www.investopedia.com/terms/c/cap-and-trade.asp)
+                        - ?
+                          - Third party registry
+                            - Climate Action Reserve, Verra(VCS)
+                            - Gold Standard, ACR
+                          - ?
+                            - Gold Standard Value Change Programme
+                            - ICROA
+                            - Carbon Accounting Framework
+                      - VOLATILE
+                        - Inbound B.O.I
+                          - Alberta's carbon market
+                      - RUNNING `toRootStatic(children, context)`
+                        - STRUCT --> `this['MESO']`
+                          - CHUNK-1
+                            - LV1
+                              - Carbon Credits and MCCAC funding projects
+                              - Carbon Credits
+                                - _prerequisite
+                                  - [Municipality](https://en.wikipedia.org/wiki/Municipality) !IMPORTANT
+                                    - **RUNNING**
+                                      - MOVE TO `language/translation/vocabulary/Municipality`
+                                      - `ROOT.CentralExecutiveFunction`
+                                        - *Declutter the translation section to be language-instance-irrelavent, since you already have overwhelming evidence that you will master 20+ languages in a controlled, managed, predictable, integratable, translatable manner*
+                                    - [What is Local Government?](https://www.youtube.com/watchC?v=ocuJXY-CNRg) !IMPORTANT
+                                      - Videosweepmark
+                                      - Loopmark: 1 
+                                    - [What can I expect from my Municipality?](https://www.youtube.com/watch?v=yAHIJMkmw2E)
+                                      - Videosweepmark
+                                      - Loopmark: 1
+                                    - [What are Municipalities and How are They Structured?](https://www.youtube.com/watch?v=w6duB23Zwkg)
+                                      - Videosweepmark
+                                      - Loopmark: 1
+                                      - Roles
+                                        - MDB, MEC
+                                    - [What are Municipal Services?](https://www.youtube.com/watch?v=Wbk-BHtvSbQ)
+                                      - Videosweepmark: 5:00
+                                      - Language pair: French
+                            - LV2
+                              - _metrics
+                                - Sense of deprecation: 90%
+                              - Carbon market basics
+                              - How credits are generated
+                              - How you might take advantage of carbon markets
+                          - CHUNK-2
+                            - ?
+                              - _meta
+                                - col
+                                  - Stakeholders
+                                    - _graphview
+                                      - [graphview - link](#)
+                                    - ENV ?
+                                      - Project Operators
+                                        - _resp
+                                          - Reduce GHG emissions
+                                          - Sequester emissions in the ground, trees or plants
+                                          - Generate credits
+                                      - Project Developers
+                                      - Auditor General
+                                        - _resp
+                                          - Oversees every aspect of the market, reports on the market annually
+                                          - Carbon credit VS Tax
+                                        - Pivotal
+                                    - ENV Playing Field
+                                      - Manager
+                                        - ? Market Regulator
+                                          - _func
+                                            - Make rules
+                                            - Approve Protocols
+                                            - Create Market Framework
+                                      - Buyer
+                                        - Compliance Entity
+                                          - _resp
+                                            - Reduce emission
+                                          - _rts
+                                            - Buy carbon credits to lower compliance costs
+                                      - Sponsor
+                                    - ENV M&C
+                                      - Registry
+                                        - _alias: *the score keeper*
+                                        - _func
+                                          - Track: Emissions, VER's, Ownership, Compliance
+                                            - [verity](https://verityplatform.com/platform/verityesg/)
+                                            - [What is an MSCI ESG Rating?](https://www.msci.com/our-solutions/esg-investing/esg-ratings)
+                                        - _contact
+                                          - Government
+                                      - Referees
+                                        - Verifiers & Auditors
+                                          - _resp
+                                            - Comprehensive Compliance check-in
+                                              - Verify
+                                                - Reported emissions, VER's, program compliance
+                                  - Cost
+                                  - Risk
+                                  - Metrics
+                                    - Complexity
+                                    - Social Responsibility
+                              - Compliance
+                              - Voluntary
+                              - Insetting
+                      - Tandem
+                        - [Explained | The Stock Market | FULL EPISODE](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
+                        - [Stop Loss Strategy Secrets: The Truth About Stop Loss Nobody Tells You](https://www.youtube.com/watch?v=1ohBdvp8CoU)
+                      - _motivation
+                        - *A startup needs (have good eyes to hire) a competent investo-guy*
+                      - _basics
+                        - TTL 3
+                          - pip
+                      - _state
+                        - Current Langauge Shuffle: Samoan language
+                          - _meta:escalate
+                            - **In here, the secret of learning and communicating with aliens may be revealed**
+                            - *Fundamentals to understand an alien language: What to do in desparate situations*
+                              - _inspiration
+                                - *Arrival - 2016*
+                              - Language experiment
+                              - Skills
+                                - Be able to determine meaning
+                                - Remember/Log and verify the reoccuring patterns
+                                - Start with `static` first
+                        - Shuffle Frequency: 5 min
+                      - CONVOLUTION | ?
+                        - Conceptual framework?
+                          - Vocabulary Extension
+                            - STATIC
+                              - Lot
+                              - Spread
+                              - Stop loss - Tradingviews
+                              - Fibonacci Retracement
+                                - [Fibonacci Retracement Levels - Investopedia](https://www.investopedia.com/terms/f/fibonacciretracement.asp)
+                            - VOLATILE
+                          - Risk Management
+                            - _mindset
+                              - *Gamble only on top of solid foundations of consistency, resilience, proficiency, meta-growth and proved track of record of consistent profit*
+                            - Risk Capital
+                            - Risk Per Trade
+                            - Overall Risk Exposure
+                        - Trading Tools
+                          - View
+                            - Candle
+                              - 38.2% Candle
+                              - Engulfing Candle
+                              - Close above/below Candle
+                            - Chart Patterns
+                              - Double top
+                              - Double bottom
+                - EmTech
+                - QT
+                - Complexity Science
+                  - Tooling
+                    - Hash.ai
+                    - NetLogo
+                      - [Agent-Based Modeling: Tools of Agent-Based Modeling](https://www.youtube.com/watch?v=QtZ3M5UNKhI&list=PLF0b3ThojznQ15cjVXT7-TLVDbCQ0q109&index=3)
+                        - Videosweepmark: 4:00
+                        - Listmark: 3
+                        - _state
+                          - Current language shuffle pair: French-German \w English Audio
+                          - **ENFORCED** Hands-on
+                - Basic Academic Sophistication
+                  - Randomwalk
+                    - [Introduction to Projective Geometry via Tic-Tac-Toe Grids](https://www.youtube.com/watch?v=mTw3o8-xMIo)
+      - Forex
+      - Future
     - Power
     - Technology
     - Zeitgeist
@@ -1212,6 +1160,10 @@
           - SUPPLEMENT --> Compensation for loss of French thread
       - Carbon language and its financial software ecosystem spreadheading --> Crypto ecosystem
         - [Carbon Lang First Look & Crash Course | Google's C++ Successor](https://www.youtube.com/watch?v=MMxbP8ME2Ag&t=119s)
+          - VSM: 5:00
+          - QUEST Explore the usability for Carbon as Stock/NFT exchange infrastructure language
+          - QUEST Compare with popular quant längs like F# and clojure
+          - QUEST Source code reading
         - [Carbon Language - First Impressions from the Creator of the Odin Programming Language](https://www.youtube.com/watch?v=Z_8lV0nwsc4)
       - LEGACY --> REMOVE
         - PERSISTENT RECURSIVE Product Selection
@@ -1300,10 +1252,12 @@
                           - CONT each node or edge contains complex information, in addition, the upgraded framework should be able to handle stochastic calculation
                           - CONT in a MOST EFFICIENT POSSIBLE manner
                       - [Memory Trick to Memorize a List](https://www.youtube.com/watch?v=NMKIPyTSKOM)
-                        - VSM: 5:00
+                        - VSM: 8:14 TTL
                       - [Truth About If Caffeine Helps Memory and Focus (OR HURTS it!?)](https://www.youtube.com/watch?v=n_B9UhQcmno)
-                        - VSM: 10:30
+                        - VSM: 11:43 TTL
+                      - [8 Best Ways to Train Your Brain](https://www.youtube.com/watch?v=XAoyrWLCorI)
                     - Anthony Metivier's Goodies
+                      - [How to remember conversations using a Memory Palace](https://www.youtube.com/watch?v=_Iuqfmpo8CI)                    
                       - [Ron White on Achieving a Black Belt Memory, Memorizing 2300 Names & Mastering Your Mind](https://www.youtube.com/watch?v=Y1JcM1znKOc)
                         - VSM: 1:00
                       - [Better Than The Memory Palace? | Deep Dive Into A Scientific Study With Dr. David Reser](https://www.youtube.com/watch?v=UkDgT6_sNJQ))
@@ -1361,18 +1315,24 @@
               - [How to Investigate and Fraud-Check Email Addresses Using Maltego in 5 Minutes](https://www.youtube.com/watch?v=8-T32WWM1QA&list=PLfRX-xJAc2ywl7p-rx2muHooekkLi9w3j)
                 - VSM
                 - LM
-            - SUPPLEMENT
-              - [Practioner’s Insights: Forensic Accounting | Nitin Bhasin & Vinit Powle](https://www.youtube.com/watch?v=oH4DiDAvrSI)
-              - [How to Detect Fraud Using Benford's Law](https://www.youtube.com/watch?v=7uhAn19V1EY)
-                - VSM: 5:00
-              - [Fraud Analysis and Detection: Using Benfords Law and Other Effective Techniques](https://www.youtube.com/watch?v=9tpGVq5DcTw)
-              - [Fraud Detection & Prevention](https://www.youtube.com/watch?v=4rE_gsrq8Q8)
-            - KNOW_HOW [Forensic Accounting](https://www.youtube.com/watch?v=5IoHJfAqc5c)
-              - Bookpair
-                - [Forensic and Investigative Accounting](https://drive.google.com/file/d/1vF2iB-TqC1Nly67XAYp5-GWeLuVx7F8M/view?usp=sharing)
-                  - PPF
-                    - LS: 9
-                    - Osmosis Pointer:OP : 17 --> RUNNING *Randemtelewalk should be Osmosis*
+            - Fraud Auditing
+            - Forensic Accounting
+              - ?
+                - Benford's law
+                  - [Number 1 and Benford's Law - Numberphile](https://www.youtube.com/watch?v=XXjlR2OK1kM)
+                  - [The problem in Good Will Hunting - Numberphile](https://www.youtube.com/watch?v=iW_LkYiuTKE)
+              - SUPPLEMENT
+                - [How to Detect Fraud Using Benford's Law](https://www.youtube.com/watch?v=7uhAn19V1EY)
+                  - VSM: 9:36 TTL
+                - [Fraud Analysis and Detection: Using Benfords Law and Other Effective Techniques](https://www.youtube.com/watch?v=9tpGVq5DcTw)
+                - [Fraud Detection & Prevention](https://www.youtube.com/watch?v=4rE_gsrq8Q8)
+              - KNOW_HOW [Forensic Accounting](https://www.youtube.com/watch?v=5IoHJfAqc5c)
+                - Bookpair
+                  - [Forensic and Investigative Accounting](https://drive.google.com/file/d/1vF2iB-TqC1Nly67XAYp5-GWeLuVx7F8M/view?usp=sharing)
+                    - PPF
+                      - LS: 9
+                      - Osmosis Pointer:OP : 23 --> RUNNING *Randemtelewalk should be Osmosis*
+                        - S: 0.5%
         - Economics
           - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
             - Videosweepmark: 15:05
@@ -1421,7 +1381,7 @@
                             - Financial Risk
                 - ?
                   - [Ultimate Intermarket Analysis Course for Traders](https://www.youtube.com/watch?v=RivkTEu6PjY)
-                    - Videosweepmark: 10:35
+                    - Videosweepmark: 16:00
                     - Pillars of FA | LIMIT RECURSIVE 5
                       - Time sense
                         - Economic Calendar
@@ -1542,7 +1502,7 @@
                 - Price Action
                   - Moving Average
                     - [The Only Moving Average Trading Video You Will Ever Need...](https://www.youtube.com/watch?v=hTDVTH8umR8)
-                      - VSM: 35:00
+                      - VSM: 38:51 TTL
                     - EMA
                     - SMA
                     - MACD | 2%
@@ -2022,12 +1982,14 @@
                                 - [Business Startup Costs: It’s in the Details](https://www.investopedia.com/articles/pf/09/business-startup-costs.asp)
                                   - Saturation: 60%
                                 - [Cost of Labor (aka Labour Costs): What It Is, Why It Matters](https://www.investopedia.com/terms/c/cost-of-labor.asp)
+                                  - Saturation: 30%
                                 - [Income Statement: How to Read and Use It](https://www.investopedia.com/terms/i/incomestatement.asp)
                                   - Saturation: 30%
                                 - [Income Statements for Merchandising vs. Service Companies](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp)
                                 - [Financial Health: Definition and How to Measure and Improve It](https://www.investopedia.com/terms/f/financial-health.asp)
                                 - [GAAP: Understanding It and the 10 Key Principles](https://www.investopedia.com/terms/g/gaap.asp)
                                 - [Cost of Revenue: What It Is, How It's Calculated, Example](https://www.investopedia.com/terms/c/cost-of-revenue.asp)
+                                  - Saturation: 25%
                                 - [SG&A: Selling, General, and Administrative Expenses](https://www.investopedia.com/terms/s/sga.asp)
                                   - Saturation: 5%
                             - [Debit Definition: Meaning and Its Relationship to Credit](https://www.investopedia.com/terms/d/debit.asp)
@@ -2041,7 +2003,7 @@
                 - _supplement
                   - Conceptual Framework
                     - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
-                      - Videosweepmark : 24:20
+                      - Videosweepmark : 35:00
                   - Legal Entity
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
                       - Videosweepmark: 12:30
@@ -2274,19 +2236,25 @@
             - EXPLOSIVE [Neo4j: GraphDB Foundations with Cypher](https://www.udemy.com/course/neo4j-foundations/learn/lecture/18178652#overview)
             - EXPLOSIVE [The Top 13 Resources for Understanding Graph Theory & Algorithms](https://neo4j.com/blog/top-13-resources-graph-theory-algorithms/)
           - [CS224W: Machine Learning with Graphs | 2021 | Lecture 6.2 - Basics of Deep Learning](https://www.youtube.com/watch?v=tutlI9YzJ2g&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=18)
-            - **RESONANCE** *This can be very useful to apply homophily to the game of life thingy*
-            - VSM: 18:00
+            - VSM: 28:00
             - LM: 18
             - CONFIG Language pair: German
             - Bookpair
               - [An introduction to Graph Theory and Complex Networks](https://pages.di.unipi.it/ricci/book-watermarked.pdf)
                 - PPF
-                  - OP: 13
-                    - S: 1.2%
+                  - OP: 27
+                    - TASK Indexing: Create Low-level resonance network for Resonance & Retain pathway network
+                      - Indexing Store: 20
+                    - _meta
+                      - M&C
+                        - INDICATOR S: 1.3%
             - **NEW** `ROOT.CEF`: *That's great but how it is implemented/experimented/monitored by backend ecosystem and Neo4j-CYPHER/Cosmos-Gremlin?* 
               - TASK Perform Relational Classification on Cosmos with Gremlin
               - TASK Perform Iterative Classification on Cosmos with Gremlin
               - TASK Perform Loopy belief propagation on Cosmos with Gremlin
+              - ADVANCED TASK Perform Relational Classification across multiple nodes across the globe using AWS/Azure infrastructure
+              - ADVANCED TASK Perform Iterative Classification across multiple nodes across the globe using AWS/Azure infrastructure
+              - ADVANCED TASK Perform Loopy belief propagation across multiple nodes across the globe using AWS/Azure infrastructure
             - ?
               - ?
                 - [Existential physics: answering life's biggest questions - with Sabine Hossenfelder](https://www.youtube.com/watch?v=fl9oDJzfg58)
@@ -2310,10 +2278,20 @@
                       - PREREQUISITE [Basic Optimization Terminologies](https://www.youtube.com/watch?v=LIL3ILrcddA)
                   - [Joseph M. Renes: Belief propagation decoding of quantum channels by passing quantum messages](https://www.youtube.com/watch?v=TVkn524ALco)
                   - [Elchanan Mossel (MIT): Simplicity and Complexity of Belief Propagation](https://www.youtube.com/watch?v=mJGwqhbwqjA)
-               - Frobenius norm
-                  - _alias
-                     - L2 norm
-                  - Softmax
+                    - VSM: 5:16
+              - L0 Norm, L1 Norm, L2 Norm & L-Infinity Norm
+                - _meta
+                  - M&C
+                    - INDICATOR S: 1%
+                - Supplement
+                  - [What is Norm in Machine Learning?](https://www.youtube.com/watch?v=FiSy6zWDfiA)
+                  - [L0 Norm, L1 Norm, L2 Norm & L-Infinity Norm](https://montjoile.medium.com/l0-norm-l1-norm-l2-norm-l-infinity-norm-7a7d18a4f40c)
+                    - INDICATOR S: 20%
+                  - [Matrix norm - Matrix Norms: L-1, L-2, L- ∞, and Frobenius norm](https://www.youtube.com/watch?v=PuQ8EKqndio)
+                    - POINTER | VSM: 5:19
+                  - [Quantitative Inverse Theorem for Gowers Uniformity Norms 𝖴5 and 𝖴6 in 𝔽n2 - Luka Milicevic](https://www.youtube.com/watch?v=u1wEHV2SGxI)
+              - ?
+                - Softmax
               - Network connection
                 - Homophily
                   - Technique
@@ -3062,8 +3040,8 @@
     - Business Architecture
       - Generic
         - Standard 9.2 - Part 1 Foundation Enterprise Architect Course - U
-          - CCS: 9.1%
-          - TEMP_TIMESTAMP: 2:00
+          - CCS: 12%
+          - TEMP_TIMESTAMP: 1:00
           - CONFIG Language pair: Italian
           - RESONANCE `russian/ontology/relational_ontology`
           - ?
@@ -3137,7 +3115,22 @@
         - Warfares
           - Macro warfare
             - Zeitgeist warfare
+              - *Eliza Project*
+                - Prerequisite: Quantitative Public Relation *Trading* Network
+                - Goal: Nudge/Appeal/Enforce Zeitgeist into a desinated direction via a force people can't refuse to maximize physically obtainable profit
+                - COMPONENT Propagation Agent
+                - COMPONENT Monopoly propagation entity/Multiple entities controlled by one network while seemingly independant
             - PR warfare
+              - Quantitative Public Relation *Conjuring* Network --> Possible New Instrument
+                - _motivation: *Learning italian while accidentally getting the grip of PR*
+                - [Understanding Qualitative and Quantitative Analysis](https://www.shiftcomm.com/insights/understanding-qualitative-quantitative-analysis/)
+                - [Seven Tips For Quantitative PR Measurement](https://worldcomgroup.com/insights/seven-tips-for-quantitative-pr-measurement/)
+                - [Research-Public Relations](https://www.youtube.com/watch?v=mrqGmfa68zA)
+                - [Future Trends in Public Relations](https://www.youtube.com/watch?v=_-1efR2Y7tE)
+                - [It's Not Manipulation, It's Strategic Communication | Keisha Brewer | TEDxGeorgetown](https://www.youtube.com/watch?v=QGeHS4jO0X0)
+                - ["Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading" by Max Margenot](https://www.youtube.com/watch?v=g-qvFjvyqcs)
+                - [Using Qualitative Research in Public Relations: A conversation with Jessica Winn of AARP](https://www.youtube.com/watch?v=gjFIz-jvYG4)
+                - [Quantitative Data Analysis 101 Tutorial: Statistics Explained Simply + Examples](https://www.youtube.com/watch?v=EUeQRE5UJpg)
             - Business warfare
             - Financial warfare
           - Meso warfare
@@ -3164,8 +3157,8 @@
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
                 - CCS: 29.5%
-                - TEMP_TIMESTAMP: 0:30
-                - PANIC_SATURATION: 22%
+                - TEMP_TIMESTAMP: 5:00
+                - PANIC_SATURATION: 25%
                   - WARNING: Prompts needed
                 - ?
                   - Law
@@ -3326,6 +3319,7 @@
           - Color
             - LOW_LEVEL AIGC \w Coloring
             - [How To Use Color — Color Basics](https://www.youtube.com/watch?v=QkCVrNoqcBU&list=PLroLjS4HDi0BLMx3d7mzROMfm7bC9ZQuc)
+              - VSM: 5:49
           - Contrast
           - Typography
           - White Space
@@ -3381,11 +3375,15 @@
               - VSM: 5:00
             - [Whiteboard challenge from my workshop (UX or product design)](https://www.youtube.com/watch?v=l6fAfiE6eVg)
             - [Remote whiteboard challenge walkthrough (UX product design) - alarm clock 2023](https://www.youtube.com/watch?v=A7GS0Ft_SUk)
+          - SUPPLEMENT Figma Design Proficiency
+            - [Build it in Figma: Create a Design System — Foundations](https://www.youtube.com/watch?v=EK-pHkc5EL4)
+            - [Office hours: Prototyping like a Pro](https://www.youtube.com/watch?v=mceYeR-s97I)
+            - [Office Hours: Complex Component Architecture](https://www.youtube.com/watch?v=e1Q2dyZ3cRE)
+            - [Office Hours: Mastering components](https://www.youtube.com/watch?v=fNQRXierLhQ)
+              - VSM: 19:00
           - SUPPLEMENT FigJam Brainstorming
             - [Intro to FigJam: How to brainstorm with an online whiteboard](https://www.youtube.com/watch?v=FxdoM1B7Wo8)
               - VSM: 5:00
-            - [Office Hours: Mastering components](https://www.youtube.com/watch?v=fNQRXierLhQ)
-              - VSM: 14:00
           - SUPPLEMENT AIGC \w Design
             - CRITICAL_QUESTION *How to create automation with AIGC ecosystem e.g. ChatGPT/Midjourney/Dalle in the most OPERATIONALLY EFFICIENT manner?*
           - SUPPLEMENT Digital KOL(Design-focused/PsyOps-focused)
@@ -3456,7 +3454,7 @@
                 - [Google Sheets Advanced Tutorial](https://www.youtube.com/watch?v=t0B0Tgz0b-0)
                   - VSM: 10:00
                 - [How to Create a Dashboard in Google Sheets (10 steps) - Query Formula](https://www.youtube.com/watch?v=1JkvHfzIL0Y)
-                  - VSM: 35:30
+                  - VSM: 45:04
                 - [How to Build a Professional Dashboard in Google Sheets (Query Formula Advanced Course) Step-by-Step](https://www.youtube.com/watch?v=ccTdDPDGEGM)
                 - [How to Build a Sales Funnel Dashboard for a Sales Team Google Forms & Google Sheets QUERY COURSE](https://www.youtube.com/watch?v=d9COw03XYX4)
                 - [Google Sheets - Keyboard Shortcuts for Speed](https://www.youtube.com/watch?v=pnGxShBGAyc)
@@ -3472,7 +3470,9 @@
           - RPA \w AI
             - Prompt Engineering for AIGC
               - [Learn Prompt Engineering (Magic Commands) in ZimmWriter](https://www.youtube.com/watch?v=AFe1d3C8aXE)
+                - VSM: 5:00
               - [Roadmap to ChatGPT and AI mastery](https://www.youtube.com/watch?v=evN89fdKOxU)
+                - VSM: 5:00
               - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
                 - VSM: 5:00
             - SOURCING RPA for Content Creation: AIGC Ecosystem 101
@@ -3482,8 +3482,8 @@
             - SOURCING RPA for Mobile Device
             - Complete UiPath RPA Developer Course: Build 7 Robots
             - Power Automate - Complete Guide to Microsoft Power Automate
-              - CCS: 28.4%
-              - TEMP_TIMESTAMP: 1:00
+              - CCS: 29.0%
+              - TEMP_TIMESTAMP: 2:30
     - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
       - IT Consulting
         - LOCKED Requires Level ? to unlock
@@ -3491,11 +3491,20 @@
         - LOCKED Throttled due to ROOT-level executing strategy
       - ?
         - Digital Marketing
+          - Basics
+            - Cross Workspace Management
+            - **EMERGENCY** Email Management
+                - Email Ninja - Take Back Control of Your Email Inbox - U
+                - [15+ Email Management Apps For 2023](https://www.youtube.com/watch?v=AdXjBVzW12s)
+                - [Monthly Webinar Series: Managing Tasks with Outlook, To Do, Planner & Teams](https://www.youtube.com/watch?v=bbtxiLNASw8)
+                - [Outlook Tips & Tricks to Take Control of your Inbox](https://www.youtube.com/watch?v=_DTI-9DnV_g&t=21s)
+                - [TOO MANY EMAILS? Use THESE Proven Techniques | Outlook tips included](https://www.youtube.com/watch?v=5M2Kq_5V24A)
+            - GenZ tools
           - Marketing Reconaissance
           - SEO
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
-              - CCS: 10.2%
+              - CCS: 10.5%
               - TEMP_TIMESTAMP: 3:00
               - Basic skills
                 - Multi-Account orchestration
@@ -3524,11 +3533,17 @@
                     - Exposure space
                       - PR defensive
                       - Cyber defensive
+                        - [DEF CON 18 - Blake Self & bitemytaco - Hacking DOCSIS For Fun and Profit](https://www.youtube.com/watch?v=aaaJ86K-ovE)
+                        - [Is your Router Hackable ? (Gaining Access To Routers)](https://www.youtube.com/watch?v=46tWHb4JZo8)
+                        - [Exploit a Router Using RouterSploit [Tutorial]](https://www.youtube.com/watch?v=u0YrWfze9es)
+                        - [See what other People are Browsing on your Wi-Fi!](https://www.youtube.com/watch?v=Jc3zBaBwWok)
+                        - [WiFi Password Cracking in 6 Minutes and 4 Seconds](https://www.youtube.com/watch?v=tRKr1vKaZkk)
                       - Legal & Regulation defensive
                     - Outreach
                       - Core BD & PR
                     - Offensive Instrument orchestration
                       - PR offensive
+                        - Distributed Impersonation
                       - Cyber offensive
                       - Legal & Regulation offensive
             - Mega Digital Marketing Course A-Z: 12 Courses in 1 + Updates
@@ -3725,13 +3740,13 @@
         - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
           - Videosweepmark: ?
     - MESO
-      - INFINITE LOOP Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Learn Arabic grammar to understand Quran, Broken Plurals [#04-P3]](https://www.youtube.com/watch?v=67i9uzhLilE&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=16)
-          - Videosweepmark: 10:20
-          - VideoListStamp: 16
-        - [Arabic Grammar For All - Lesson 14 - Adverbs of Place - Abu Sulaymaan](https://www.youtube.com/watch?v=O1Sb0uZmhU8&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=16)
-          - Videosweepmark: 10:00
-          - VideoListStamp: 16
+      - Grammar Consolidation | `this.concurrentTraffic = 1`
+        - [Learn Arabic grammar to Understand Qur'an - Subject Pronouns 1400 times in Quran [#05-P1]](https://www.youtube.com/watch?v=ugOVPjsZtp0&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=17)
+          - VSM
+          - VideoListStamp: 17
+        - [Arabic Grammar For All - Lesson 15 - Adverbs of Time - Abu Sulaymaan](https://www.youtube.com/watch?v=3LNbcVEW_30&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=17)
+          - VSM
+          - VideoListStamp: 17
     - MICRO
       - STATIC
         - General Noun Usage Proficiency
@@ -3744,10 +3759,6 @@
         - Difference of grammatical terms
         - ?
         - `pronoun`
-          - 100% SATURATE_CHILDREN | نَحْنُ
-            - Enclitic accusative and genitive pronouns
-              - [ARABIC GENITIVE CONSTRUCTION SIMPLIFIED! THE ULTIMATE "IDAFA" LESSON EVERY ARABIC LEARNER MUST KNOW!](https://www.youtube.com/watch?v=xFIBfFaGRR8)
-                - VSM: 10:00
             - Isolated accusative pronouns
           - `pronoun.reflexive`
             - نفسها
@@ -3757,7 +3768,7 @@
           - بنى
           - 69% | فَهِمَ
           - 38% | تَسْبِقُ
-          - 10% تعرف
+          - 90% تعرف
           - 20% | فهم
           - TO_STATIC
             - هو
@@ -4120,8 +4131,10 @@
     - PQA
       - Basics
         - **BLACKHOLE EMERGENCY PRIORITIZED** Selenium Webdriver with PYTHON from Scratch + Frameworks - U
-          - CCS: 13.2%
+          - CCS: 13.2%?
           - TEMP_LISTSTAMP
+            - Python Recap: 9:00
+            - Selenium
         - **BLACKHOLE EMERGENCY PRIORITIZED** The Complete 2023 Software Testing Bootcamp - U
           - CCS: 3.6%
       - Supplier
@@ -4231,6 +4244,8 @@
             - Videosweepmark: 2:54
         - [Nx Conf - Day 1](https://www.youtube.com/watch?v=oG2QbFquraA)
       - Source Code Reading
+        - Source
+          - [Gitee - GVP](https://gitee.com/gvp)
         - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
         - [GraphGPT](https://github.com/varunshenoy/GraphGPT)
           - PPF
@@ -4414,8 +4429,8 @@
         - CCS: 1.1%
         - TEMP_TIMESTAMP
       - **BLACKHOLE EMERGENCY** Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
-        - CCS: 1.3%
-        - TEMP_TIMESTAMP: 2:00
+        - CCS: 4.4%
+        - TEMP_TIMESTAMP
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
   - TOPIC Consulting
     - _motivation
@@ -4435,17 +4450,19 @@
         - TASK Create hormonal manipulation strategy
 - Korean - TOPIK II+
   - `createLanguageImprovmentPlan('korean', requirements=$(children.input('HOOK-Requirements', context)))`
-  - Initialization of language/meta structrure: 75%
+  - Initialization of language/meta structrure: 80%
     - `ROOT.CentralExecutiveFunction`
       - `onComplete`
         - RESOUCE_ALLOCATION `time='10 seconds`
           - THEN `output("This is not a joke")`
-        - *Create 'I learn Korean for 10 seconds everyday for 10 years straight(Day X)' series*
+        - *Create 'I learn Korean for maximum 1 minute everyday for 10 years straight(Day X)' series*
           - Tooling: OBS Studio, Adobe PR/Jianying
         - *Create 'This video stops when I can't recognize the word' series*
   - BASICS
     - Typewriting
     - Tooling
+  - TOPIC Traffic, Fame, and Crowd control
+    - CRITICAL_QUESTION *What happens when you click the "Post" button to post something on social media? You can start with browser technos, SEO, visibility to lower-level physics or fame network and GenZ political field*
   - TOPIC Griftism: Tao of Contemporary Meta-war
     - Silent Plagiarism: Eventual Checkmate Strategy
   - TOPIC Content Creation
@@ -4453,9 +4470,7 @@
     - Post-mortems
       - Lists
         - [Prune List](https://docs.google.com/spreadsheets/d/1zIAjxo4mInwu2lChPasDL4OyizdnDh2h44L8yNhkMnU/edit?usp=sharing)
-  - TOPIC Se7en
-  - TOPIC Offensive Public Relations
-  - TOPIC Defensive Public Relations
+  - TOPIC Offensive Public Relations: Nuts and bolts
   - TOPIC *The 5 Basic Laws of Human Stupidity, and how to survive when such dominates the next era*
 - Hindi - N/A
   - _meta
@@ -4542,7 +4557,7 @@
           - ～うえに
         - [JLPT N2文法1時間授業！この動画1本ですべてのＮ２文法が終わる！All N2 grammar in 1 hour](https://www.youtube.com/watch?v=nhP_VZtAuro)
           - Language pair SHUFFLE: Japanese - German
-          - Videosweepmark: 42:00
+          - Videosweepmark: 47:00
           - Language pair SHUFFLE: Japanese - French
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
           - Videosweepmark: 23:00
@@ -4620,25 +4635,44 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **Глагол**
-        - договариваться | 100% TTL
-        - продвигать | 95%
-        - переходить | 95%
+        - конкретизироваться
+        - является
+        - заключается
+        - называться
+        - изменяться
+        - трансплантировать
       - **Предлог**
-      - **Местоимения**
+      - **Местоимение**
+        - подобными
+        - какой-то
       - **Прилагательное**
-        - сельский | 100% TTL
-        - жизнеспособный | 98%
+        - подобный
+        - временный
+        - зависимый
+        - постоянный
+        - распространенный
+        - постоянный
+        - проиллюстрированный
+          - [Intermediate Russian II: Passive Constructions with Reflexive Verbs](https://www.youtube.com/watch?v=faeyxsHM2Do)
+        - определенный
+        - какой-то
+        - материальный
       - **Наречие**
-        - по-разному | 100% TTL
+        - практически
       - **Существительное**
-        - собственность | 90%
-        - юго-восток | 100% TTL
-        - завершение | 85%
-        - душеприказчик | 85%
-        - урегулирование | 80%
-        - утверждение | 90%
-        - совершеннолетие | 90%
-        - хозяйство | 90%
+        - хозяйство | 95%
+        - отношение
+        - война
+        - мир
+        - мозг
+        - возможность
+        - логотип
+        - совокупность
+        - решение
+        - рисунок
+        - Улучшение
+        - часть
+        - случай
       - **Местоимение**
       - ?
         - остальные
@@ -4731,8 +4765,9 @@
                 - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
                   - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
                   - [ISO/IEC 21838](https://www.youtube.com/watch?v=aux_zcK7XSI)
-                    - VSM: 28:3
+                    - VSM: 38:00
                     - ?
+                      - Mutually exhaustive, pairwise disjoint partition
                       - LOD Cloud
                       - BFO2020
                       - ISO/IEC AWI 21838-3
@@ -4847,13 +4882,14 @@
             - [1. Resonance I](https://www.youtube.com/watch?v=iwQ49oG-DO8&list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32)
               - VSM: 2:30
           - [Physics - Optics: Reflections (1 of 2) Introduction](https://www.youtube.com/watch?v=yMO7Lsjhmi4&list=PLX2gX-ftPVXWA5TjEhVQSQQzZ-5_5Nui8)
+            - VSM: 2:30
         - [Astrophotography: 14 MUST KNOW Starting Tips!](https://www.youtube.com/watch?v=KXABDwAxT1s)
           - VSM: 2:30
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 35_Unit 6 Vocabulary](https://www.youtube.com/watch?v=296ifHPPnKU&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=36)
-        - Videosweepmark: 10:00
-        - ListStamp: 36
+      - [Learn Ancient Greek: 36_Unit 7 Meaning of Middle Voice](https://www.youtube.com/watch?v=27fScU_eIrY&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=37)
+        - Videosweepmark: 2:30
+        - ListStamp: 37
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
@@ -4870,12 +4906,17 @@
         - ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
           - Initial exposure saturation: 4.12%
         - σπουδάζω | 25%
+        - σχεδιάζω
       - **επίθετο**
+        - Επίθετο | 10%
+        - συγκεκριμένος | 2%
       - **ουσιαστικό**
         - κατάλογος | 60%
+        - γωνία
+        - αντανάκλαση
       - **επίρρημα**
-      - Pronoun
-        - αυτή
+      - **Αντωνυμία**
+        - αυτή | 20%
         - _meta
       - **χωρίς κατηγοριοποίηση**
         - βλέπω | 25%

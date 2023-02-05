@@ -28,6 +28,7 @@
       - [Uncategorized](#uncategorized-1)
     - [DX](#dx)
     - [Q \& A](#q--a)
+- [?](#)
 - [New Tech Ventures](#new-tech-ventures)
 - [Frontend DDD design practice and its applications](#frontend-ddd-design-practice-and-its-applications)
   - [Information gathering](#information-gathering)
@@ -464,6 +465,10 @@
 - Snyk Code
 - SonarQube
 - Codecov
+
+# ?
+- 1password
+  - Secure password management
 
 # New Tech Ventures
 - Svelte

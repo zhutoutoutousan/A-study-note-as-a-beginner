@@ -14,6 +14,7 @@
 - [Holiday Poem](#holiday-poem)
 - [Travelling: World Investigation \& On-site Business Intelligence gathering](#travelling-world-investigation--on-site-business-intelligence-gathering)
   - [Investigation Schema](#investigation-schema)
+  - [Toolkit](#toolkit)
   - [Random thoughts encapsulation](#random-thoughts-encapsulation)
 
 # _GLOBAL
@@ -152,9 +153,9 @@
     - Innate linguistic neural-level attribute enhancement
   - TOPIC International Team Collaboration
     - Techno part
-      - [uni-app & uniCloud for Western World - 7](https://www.youtube.com/watch?v=4e4Mrhu2sQo&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=7)
-        - VSM: 12:45
-        - LM: 8
+      - [uni-app & uniCloud for Western World - 8](https://www.youtube.com/watch?v=FY7vZ6uHTRU&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=8)
+        - VSM: 12:25 NEXT
+        - LM: 9
     - Cultural part
     - Spatial Temperal part
   - Dialects | Ctrl+C Ctrl+V
@@ -177,7 +178,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 68.5%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 69.5%
               - ReferenceHash: `lang_dev`
       - Low Q
     - Continuous`?`Development Single Layer Meta Development Unit
@@ -223,7 +224,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 8.4%
                   - 36-62 | STATE: FROZEN if under 60% or over 90%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 68.5%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 69.5%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -317,8 +318,8 @@
     - PREREQUISITE Skills in Unity/UE4 + Maya + WebGPU
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 9.0%
-        - TEMP_TIMESTAMP
+        - CCS: 9.2%
+        - TEMP_TIMESTAMP: 3:00
         - CONFIG Forced Hands-on: True
         - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
@@ -330,11 +331,11 @@
       - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
         - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 1:04:30
+      - VSM: 1:14:30
       - RANDOM Language Pair: German-Spanish
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
     - [NVIDIA Community Stream | Deep Dive: Universal Scene Description & Material Definition Language](https://www.youtube.com/watch?v=e9AUTHbgspI)
-      - VSM: 30:05
+      - VSM: 40:00
   - Modern, Futuristic, Agile, Self-evolving Academia
     - Modern, Futuristic, Agile, Self-evolving Physics
     - **ACTIVE** Modern, Futuristic, Agile, Self-evolving Mathematics - `ERROR: AssessmentMetric not available`
@@ -636,8 +637,8 @@
           - Startup --> Managed by `portuguese/freelanceable` and `spanish/early-startup`
         - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
           - **IMPORTANT PRIORITIZED** Apache Airflow: The Hands-On Guide - U
-            - CCS: 12.4%
-            - TEMP_TIMESTAMP: 0:30
+            - CCS: 16.8%
+            - TEMP_TIMESTAMP
           - Data Engineering Essentials using SQL, Python, and PySpark
             - CCS: 1.3%
             - TEMP_TIMESTAMP: 2:30
@@ -655,7 +656,7 @@
                       - *Only used as rote learning given a particular time window for exam prep*
                     - [Equity Investments • Formulas CFA® Level 1](https://365financialanalyst.com/templates-and-models/equity-investments-formulas-cfa-level-1/)
               - **PANIC** ?
-                - **PANIC_SATURATION**: 59%
+                - **PANIC_SATURATION**: 39%
                 - **PANIC_STATEMENT** *Suggested SATURATE_CHILDREN state after touching 50%*
                 - **PANIC_RESOLUTION**
                   - *Initiate Flashcardification on Practice questions*
@@ -690,9 +691,9 @@
                       - iid -> independent and identically distributed
                       - CDF, MGF(Moment generating function)
                 - TANDEM Probability & Statistics Recap
-                  - [Statistics: Variance of a population | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=6JFzI1DDyyk&list=PL1328115D3D8A2566&index=3)
-                    - VSM: 6:40
-                    - LM: 3
+                  - [Statistics: Standard deviation | Descriptive statistics | Probability and Statistics | Khan Academy](https://www.youtube.com/watch?v=HvDqbzu0i0E&list=PL1328115D3D8A2566&index=5)
+                    - VSM
+                    - LM: 5
                 - Interest Rate Premiums, Present Value Annuity Factor, Perpetuity
                 - Chebyshev Inequality
                 - Monte Carlo, Historical Simulation
@@ -1067,7 +1068,7 @@
                               - Insetting
                       - Tandem
                         - [Explained | The Stock Market | FULL EPISODE](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
-                        - [Stop Loss Strategy Secrets: The Truth About Stop Loss Nobody Tells You](https://www.youtube.com/watch?v=1ohBdvp8CoU)
+                        - [Stop Loss Strategy](https://www.youtube.com/watch?v=1ohBdvp8CoU)
                       - _motivation
                         - *A startup needs (have good eyes to hire) a competent investo-guy*
                       - _basics
@@ -1160,7 +1161,7 @@
           - SUPPLEMENT --> Compensation for loss of French thread
       - Carbon language and its financial software ecosystem spreadheading --> Crypto ecosystem
         - [Carbon Lang First Look & Crash Course | Google's C++ Successor](https://www.youtube.com/watch?v=MMxbP8ME2Ag&t=119s)
-          - VSM: 5:00
+          - VSM: 10:00
           - QUEST Explore the usability for Carbon as Stock/NFT exchange infrastructure language
           - QUEST Compare with popular quant längs like F# and clojure
           - QUEST Source code reading
@@ -1244,6 +1245,10 @@
                       - USE_CASE Maximum content retainment for tactical eavesdropping
                         - LOCKED Requires enough CS skills
                         - LOCKED Requires advanced listening and lips reading training
+                    - Paradigming and pipeline caching management during highly intensive intellectual activities
+                      - *Paradigm, on-the-fly constructive pipeline design & execution, which includes memory caching, retrieval strategy are the true limiting factors to scale up intelligence*
+                        - CONT *So, what's the plan of attack to address it?*
+                        - CONT *Any solution which is OVERFITTED to PARTICULAR situation/problem/performance will NOT be acceptable*
                     - Ron White Memory Expert - Memory Training & Brain Training
                       - CONFIG Ingress=*Generally Referrable Material*
                       - Verdict: Questionable, Irrelevant
@@ -1251,13 +1256,8 @@
                         - `ROOT`: Upgrade requires neural pathway suitable for GUNUINE DIFFICULT COGNITIVE WORKLOAD i.e. more than 10,000 nodes, 100,000 edges
                           - CONT each node or edge contains complex information, in addition, the upgraded framework should be able to handle stochastic calculation
                           - CONT in a MOST EFFICIENT POSSIBLE manner
-                      - [Memory Trick to Memorize a List](https://www.youtube.com/watch?v=NMKIPyTSKOM)
-                        - VSM: 8:14 TTL
-                      - [Truth About If Caffeine Helps Memory and Focus (OR HURTS it!?)](https://www.youtube.com/watch?v=n_B9UhQcmno)
-                        - VSM: 11:43 TTL
                       - [8 Best Ways to Train Your Brain](https://www.youtube.com/watch?v=XAoyrWLCorI)
                     - Anthony Metivier's Goodies
-                      - [How to remember conversations using a Memory Palace](https://www.youtube.com/watch?v=_Iuqfmpo8CI)                    
                       - [Ron White on Achieving a Black Belt Memory, Memorizing 2300 Names & Mastering Your Mind](https://www.youtube.com/watch?v=Y1JcM1znKOc)
                         - VSM: 1:00
                       - [Better Than The Memory Palace? | Deep Dive Into A Scientific Study With Dr. David Reser](https://www.youtube.com/watch?v=UkDgT6_sNJQ))
@@ -1267,7 +1267,7 @@
                         - VSM: 5:00
                       - [Memory Strategies: 11 Easily Actionable TACTICS For Remembering More](https://www.youtube.com/watch?v=488Wgun5Qk4)
                 - [How To Learn The Law Without Law School: A Discussion With David Freiheit (a.k.a. Viva Frei)](https://www.youtube.com/watch?v=6wUdmx0sJUI)
-                  - VSM: 5:00
+                  - VSM: 10:00
                 - [The Best Way To Study Law](https://www.youtube.com/watch?v=AnTpqAOIHi4)
                   - VSM: 2:30
                 - ["How to Read a Case" with UVA Law Professor Anne Coughlin](https://www.youtube.com/watch?v=u9FDzeoT7SU)
@@ -1478,7 +1478,7 @@
               - SOURCING From Data to Trade: A Machine Learning Approach to Quantitative Trading
                 - PREREQUISITE PyTorch for Deep Learning with Python Bootcamp
                   - SUPPLEMENT [Machine learning for trading](https://github.com/stefan-jansen/machine-learning-for-trading)
-              - [MIT 18.S096 - 1](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
+              - [MIT 18.S096 - 1 Mathematics with Applications in Finance](https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLCRPN3Z81LCIZ7543AvRjWfzSC15K7l-X)
                 - VSM: 1:10
             - ?Trigger
               - ETF Arbitrage
@@ -1552,7 +1552,7 @@
                     - VSM: 5:00
                     - CONFIG `isForcedHandsOn=True`
                   - [Strategy Commission and Fees - TradingView Pine Script Tutorial 11 (B)](https://www.youtube.com/watch?v=-CmrMArDs2s&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=12)
-                    - VSM: 3:30
+                    - VSM: 9:00
                     - Listmark: 12
                      ​ ContinuousSkillDevelopmentUnit Be able to translate complex, multi-staged intuition directly to backtestable strategy in matter of hours
                     - CRITICAL_QUESTION What is the best integration strategy for using pine script and ChatGPT/Copilot?
@@ -1593,23 +1593,36 @@
                 - [Stock Exchange System Design : Distributed Transactions, Financial System](https://www.youtube.com/watch?v=XuKs2kWH0mQ)
                 - [STOCK EXCHANGE SYSTEM DESIGN](https://www.youtube.com/watch?v=dUMWMZmMsVE)
             - Instrument Personality
-              - [XAUUSD Scalping Strategy](https://www.youtube.com/watch?v=oDOCBTYgCQM)
+              - Major Currency Pair
+                - XAUUSD
+                  - [XAUUSD Scalping Strategy](https://www.youtube.com/watch?v=oDOCBTYgCQM)
+                - USDJYP
+                - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
+                  - Videosweepmark : 7:00
           - MACRO
             - Small/Agile Capital - Typical yield: 200% in a week
               - Trading Style(Technical)
-                - Scalp Trade
-                  - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
-                    - Videosweepmark: 18:30
-                  - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
-                    - Videosweepmark: 6:00
-                  - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
-                    - Videosweepmark: 9:30
-                - Trend Trade
-                - Breakout Trade
-                - Sideway Trade
-                - Price Action
-                  - [Master Price Action From The Best! - Al Brooks | Trader Interview](https://www.youtube.com/watch?v=Zw2_bc69euU)
-                    - VSM: 4:30
+                - Sports
+                  - Scalp Trade
+                    - [Scalp Trading - A Beginners Day Trading Strategy](https://www.youtube.com/watch?v=-0slMH7N6eI)
+                      - Videosweepmark: 18:30
+                    - [Scalping: An effective and highly profitable trading strategy](https://www.youtube.com/watch?v=8F3mdBtygzQ)
+                      - Videosweepmark: 6:00
+                    - [1 Minute Scalping Strategy with Stair Master ***Live Trading w/ Analysis***](https://www.youtube.com/watch?v=uTMRzvlCpmg)
+                      - Videosweepmark: 9:30
+                  - Trend Trade
+                  - Breakout Trade
+                  - Sideway Trade
+                  - Price Action
+                    - [Master Price Action From The Best! - Al Brooks | Trader Interview](https://www.youtube.com/watch?v=Zw2_bc69euU)
+                      - VSM: 4:30
+                - Automatic
+                - Arbitrage
+                  - ETF Arbitrage
+                    - ["Basic Statistical Arbitrage: Understanding the Math Behind Pairs Trading" by Max Margenot](https://www.youtube.com/watch?v=g-qvFjvyqcs&t=39s)
+                    - [Advanced Investing: Making Money with ETF Arbitrage](https://www.youtube.com/watch?v=PqDere2VrOY)
+                      - VSM: 1:30
+                      - [Bid Ask Spread Explained](https://www.youtube.com/watch?v=Jxyuf-cDKeg&t=64s)         
             - Intermediate Capital: Transition period - Typical yield: -5%-10% within one month
               - LOCKED Get more than $5M to unlock
                 - Quant
@@ -1645,9 +1658,6 @@
             - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
               - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
             - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
-        - Secondary Market Analysis
-          - [Gold & Silver Ratio Trading Strategy | Powerful way to trade Gold and Silver | XAU/XAG](https://www.youtube.com/watch?v=kqZrkG3BW6o)
-            - Videosweepmark : 7:00
         - Logistics
           - RPA ^ Trading
             - Quant
@@ -1788,7 +1798,53 @@
       - CONFIG
         - *Be able to translate ALL of the skills, knowledge, network to French and vice versa*
       - [Jean Philippe Bouchaud - Overlaps in RMT: theory and applications](https://www.youtube.com/watch?v=-eHpXFQYf1E)
-        - Videosweepmark: 7:30
+        - Videosweepmark: 12:40
+        - NEW Random Matrix Theory
+          - PREREQUISITE Stochastic calculus
+            - PREREQUISITE Advanced Probability Theory --> *Introduced from Russian sector to aid with grasp of probability theory*
+              - [Probability Theory: The Logic of Science](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
+                - PPF
+                  - Executing Strategy: *Osmosis is optimal and makes most sense because it creates lower-level neural indexing system which will come in handy*
+                    - CONT *Use multi channel method - Highly-relavant Audio-visual Supplementation with French-any subtitle to induce Osmosis neural state*
+                  - OP: 46
+                  - S: 0.5%
+                  - PANIC_SATURATION: 20%
+                    - [An Introduction to Propositional Logic](https://www.youtube.com/watch?v=isoLnspA-1E&list=PLqEJ_rxb3Xf0dTy_-dSqINnAD5tbmpUx8)
+                      - VSM: 1:00
+                      - LM: 1
+                      - SUPPLEMENT
+                        - [How does NAND Flash Work? Reading from TLC : Triple Level Cells || Exploring Solid State Drives](https://www.youtube.com/watch?v=YtBysgPOKx4)
+                        - [NAND - NAND Implementation || Combinational Logic Circuit || Digital Electronics](https://www.youtube.com/watch?v=oN01ACkxEq0)
+                - PPS
+                  - CURIOSITY_OUTREACH
+                    - R¨ontgen’s discovery of X-rays: A deeper look
+                    - Bose-Einstein condensate
+                      - [Bose-Einstein Condensates | Prof B. Prasanna Venkatesh | Lecture 01](https://www.youtube.com/watch?v=EeTJyqBIVZI)
+                        - Videosweepmark: 10:00
+                        - [Symmetry in Pascal's Triangle: A Combinatorial Identity](https://www.youtube.com/watch?v=fHZ7FniqPr4&list=PLfe17BEjktq70B0S7HeOkbJmQzht5bTMi)
+                          - Videosweepmark
+                          - Listmark: 1
+                    - P´olya’s principles
+                    - Contraposition, Syllogism
+                    - Infinite-set paradoxing
+                      - P.O.I James Clerk Maxwell
+                    - Ancillary statistic
+                      - [Sufficient, Minimal, Ancillary, and Complete Statistics, with Theorems](https://www.youtube.com/watch?v=r1yXDzoIb2I)
+                        - Videosweepmark: 6:06 COMPOSITE
+                        - ?
+                          - Factorization Theorem
+                          - Exponential Family
+                          - Basu's Theorem
+                          - Sufficient Statistics
+                          - Minimal statistics
+                            - [Lecture 27 : Minimal Sufficiency, Completeness - I](https://www.youtube.com/watch?v=FIrcTkSbPyQ&list=RDCMUCgp23vdLNaUitOkCxxVnRrg&start_radio=1&rv=FIrcTkSbPyQ&t=19)
+                              - Videosweepmark: 8:30
+                          - Ancillary statistics
+                          - Complete statistics
+            - [Brownian Motion, Martingales, and Stochastic Calculus - Jean-François Le Gall](https://drive.google.com/file/d/1R0B8qGBviyHn66PbqgQrU4vPXdg6xmVd/view?usp=sharing)
+            - [Stochastic Calculus: An Introduction with Application](http://www.math.uchicago.edu/~lawler/finbook.pdf)
+          - [Random Matrix Theory: Dyson Brownion Motion](https://www.imaginary.org/sites/default/files/snapshots/snapshots-2020-002.pdf)
+          - [254A, Notes 3b: Brownian motion and Dyson Brownian motion - Terry Tao](https://terrytao.wordpress.com/2010/01/18/254a-notes-3b-brownian-motion-and-dyson-brownian-motion/)
         - NEW Interest point: Econophysics/Circuit theory in economy
           - NEW P.O.I *Jean-Philippe Bouchaud*
             - [Micromotives and Macrobehavior - T.C.Schelling](#)
@@ -1939,7 +1995,7 @@
                 - Saturation: 18%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 43-196/ &6.10
+                    - *Double mapping* | 44-197/ &6.12
                       - QualmStack LIMIT 5: 6.2, 6.5, 6.7, 6.9
                         - _meta
                           - Behaviour: Unknown behaviour
@@ -1969,7 +2025,7 @@
                                 - ANSWER *More complete the pyramid of proofs is, the more people will be willing to trust it and build stuffs on top of it*
                               - [Blockchain in Accounting | Triple Entry Accounting](https://www.youtube.com/watch?v=CXJlVxzKz9s)
                               - [Triple Entry Accounting on Blockchain (Kurt Wuckert, Ian Grigg, Torje Sunde, Juan Ignacio Ibanez)](https://www.youtube.com/watch?v=N0MVf_N8SXs)
-                                - VSM: 15:02
+                                - VSM: 20:00
                               - [Blockchain in Supply Chain | Soumya Choudhury | TEDxIIMBangalore](https://www.youtube.com/watch?v=H-Z5ZYq6zio)
                             - [FIFO: What the First In, First Out Method Is and How to Use It](https://www.investopedia.com/terms/f/fifo.asp)
                               - Saturation: 35%
@@ -1986,6 +2042,7 @@
                                 - [Income Statement: How to Read and Use It](https://www.investopedia.com/terms/i/incomestatement.asp)
                                   - Saturation: 30%
                                 - [Income Statements for Merchandising vs. Service Companies](https://www.investopedia.com/ask/answers/102714/what-are-differences-between-income-statements-merchandising-companies-vs-service-companies.asp)
+                                  - Saturation: 60%
                                 - [Financial Health: Definition and How to Measure and Improve It](https://www.investopedia.com/terms/f/financial-health.asp)
                                 - [GAAP: Understanding It and the 10 Key Principles](https://www.investopedia.com/terms/g/gaap.asp)
                                 - [Cost of Revenue: What It Is, How It's Calculated, Example](https://www.investopedia.com/terms/c/cost-of-revenue.asp)
@@ -1995,20 +2052,24 @@
                             - [Debit Definition: Meaning and Its Relationship to Credit](https://www.investopedia.com/terms/d/debit.asp)
                               - Saturation: 62%
                             - [Error of Principle](https://www.investopedia.com/terms/e/error-principle.asp)
+                              - Saturation: 30%
                             - [Balance Sheet: Explanation, Components, and Examples](https://www.investopedia.com/terms/b/balancesheet.asp)
                               - CONFIG *No outreach permitted*
                               - Saturation: 14%
                             - [How a General Ledger Works With Double-Entry Accounting Along With Examples](https://www.investopedia.com/terms/g/generalledger.asp)
+                              - Saturation: 30%
                             - [Liability: Definition, Types, Example, and Assets vs. Liabilities](https://www.investopedia.com/terms/l/liability.asp)
+                              - Saturation: 5%
                 - _supplement
                   - Conceptual Framework
-                    - [The Conceptual Framework for Financial Reporting](https://www.youtube.com/watch?v=F4A9UGI9Guk)
-                      - Videosweepmark : 35:00
-                  - Legal Entity
+                    - [Theoretical Framework/Conceptual Framework Organized by Albukhary International University Malaysia](https://www.youtube.com/watch?v=hqT7A9h3R9k)
+                      - VSM: 4:00
+                  - Legal Entity?
                     - [Legal Basics and Business Entity Formation: Crash Course Business Entrepreneurship #5](https://www.youtube.com/watch?v=1-xiSOvgNvw&t=47s)
                       - Videosweepmark: 12:30
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
                     - [7. Value At Risk (VAR) Models](https://www.youtube.com/watch?v=92WaNz9mPeY)
+                      - VSM: 5:00
                   - Sales Tax
                     - [ACCA F3 Sales Tax (part a)](https://www.youtube.com/watch?v=bFLUXJoVeRc) --> `this.concurrentTraffic = 0.2`
                       - Videosweepmark: 21:00
@@ -2222,7 +2283,8 @@
           - [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
         - Stanford CS224W
           - Hands-on Pairs
-            - [Graph Theory Algorithms for Competitive Programming (2022)](https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/learn/lecture/27229082#overview)
+            - [Graph Theory Algorithms for Competitive Programming (2022)](https://www.udemy.com/course/graph-theory-algorithms-for-competitive-programming/learn/lecture/27229082)
+              - TEMP_TIMESTAMP: 2:30
           - Coding-led Dualingual stimulation
             - [Create a Simple Neural Network in Python from Scratch](https://www.youtube.com/watch?v=kft1AJ9WVDk)
               - HANDSON VideoSweepmark: 5:45
@@ -2234,20 +2296,30 @@
               - TEMP_TIMESTAMP: 5:00
             - [Graph Theory - U](https://www.udemy.com/course/graph-theory/learn/lecture/21643044#overview)
             - EXPLOSIVE [Neo4j: GraphDB Foundations with Cypher](https://www.udemy.com/course/neo4j-foundations/learn/lecture/18178652#overview)
+              - CCS: 3.9%
             - EXPLOSIVE [The Top 13 Resources for Understanding Graph Theory & Algorithms](https://neo4j.com/blog/top-13-resources-graph-theory-algorithms/)
-          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 6.2 - Basics of Deep Learning](https://www.youtube.com/watch?v=tutlI9YzJ2g&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=18)
-            - VSM: 28:00
-            - LM: 18
+          - [CS224W: Machine Learning with Graphs | 2021 | Lecture 6.3 - Deep Learning for Graphs](https://www.youtube.com/watch?v=MH4yvtgAR-4&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=19)
+            - VSM: 10:30
+            - LM: 19
+            - PANIC_SATURATION: 8%
             - CONFIG Language pair: German
             - Bookpair
               - [An introduction to Graph Theory and Complex Networks](https://pages.di.unipi.it/ricci/book-watermarked.pdf)
                 - PPF
-                  - OP: 27
+                  - OP: 31
                     - TASK Indexing: Create Low-level resonance network for Resonance & Retain pathway network
                       - Indexing Store: 20
                     - _meta
                       - M&C
-                        - INDICATOR S: 1.3%
+                        - INDICATOR S: 2.6%
+                        - INDICATOR PANIC_SATURATION: 12%
+                - PPS
+                  - Degree sequence
+                    - [Isomorphic Graphs Have the Same Degree Sequence | Graph Theory](https://www.youtube.com/watch?v=b7HHyhBboKk)
+                      - VSM: 5:21
+                    - [Given a Degree Sequence, Determine if the Graph is a Tree](https://www.youtube.com/watch?v=Di6ifCW9sS0)
+                    - [Given the Graph of a Rooted Tree List the Children, Parents and Siblings of All Vertices](https://www.youtube.com/watch?v=taOjTCEcODw)
+                    - [Given a Tree, Does Changing the Root Change the Number of Children and Grandchildren?](https://www.youtube.com/watch?v=y6UdwevWOh8)
             - **NEW** `ROOT.CEF`: *That's great but how it is implemented/experimented/monitored by backend ecosystem and Neo4j-CYPHER/Cosmos-Gremlin?* 
               - TASK Perform Relational Classification on Cosmos with Gremlin
               - TASK Perform Iterative Classification on Cosmos with Gremlin
@@ -2258,7 +2330,7 @@
             - ?
               - ?
                 - [Existential physics: answering life's biggest questions - with Sabine Hossenfelder](https://www.youtube.com/watch?v=fl9oDJzfg58)
-                  - VSM: 5:00
+                  - VSM: 10:00
               - IMPORTANT Loopy BP Algorithm
                 - **CODING** Coding session
                   - [GitHub Topics](https://github.com/topics/loopy-belief-propagation)
@@ -3107,11 +3179,18 @@
                   - Medium
                     - `local.ATTACHABLE` Photochromic fiber
                 - Software
-  - **MUTATION** Business as war
-    - **NEW MUTATION** Generics
+  - Business as war
+    - Generics
       - The art of contemporary trench warfare
         - Generics
           - Tao of War
+        - Lifecycle
+          - Post-mortem
+            - Relavent Sentient Lifeform *post-retirement* disposal pipeline
+              - REDACTED
+            - Corporate Liquidation
+              - CASE *In a case of a short agency collaboration with startup B and privateer network C, corporate A is down, how can B maximize profit from the down state of A?*
+              - [Corporate Liquidation and Reorganization (Part 1)](https://www.youtube.com/watch?v=wAAou80PRZk)
         - Warfares
           - Macro warfare
             - Zeitgeist warfare
@@ -3141,6 +3220,9 @@
           - TMT instruments
             - Post-mortem for Financial Group Media Manipulation
             - Post-mortem for KOL/TMT engagements
+          - E&C, Regulation Instrument
+            - *Usually used as an instrument in large firms*
+            - Honey Pot Entrapment
           - Legal instruments
             - IP
               - Intellectual Property: Inventors, Entrepreneurs, Creators - U
@@ -3156,9 +3238,9 @@
                     - Natural Rights Theroy
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-                - CCS: 29.5%
-                - TEMP_TIMESTAMP: 5:00
-                - PANIC_SATURATION: 25%
+                - CCS: 31.1%
+                - TEMP_TIMESTAMP: 3:00
+                - PANIC_SATURATION: 22%
                   - WARNING: Prompts needed
                 - ?
                   - Law
@@ -3242,59 +3324,96 @@
           - TEMP_TIMESTAMP
         - Introduction to Windows PowerShell 5.1 - U0
         - Master Microsoft PowerShell - U
-      - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
-        - CCS: 22.8% | `this.concurrentTraffic = 0.5`
-        - E.T.A: ?
-        - TEMP_TIMESTAMP
-          - CONCURRENT: RTFM --> <span style="color: lime">BLOCKER Resolved</span>
-            - [Tenable - Doc](https://docs.tenable.com/nessus/Content/AmazonWebServices.htm)
-              - Saturation
-                - _meta
-                  - Criteria: `undefined`
-        - ?
-          - _source
-            - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
-        - Gold Mines
-          - `TEXT('/usr/share/nmap/scripts')`
-            - nse usage
-        - Tools
-          - _source
-            - [Python Socket](https://docs.python.org/3/library/socket.html)
-            - [Nmap Cheatsheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
-            - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
-            - `osint-tools`, `sherlock`, `nessus`
-          - Reconissance
-            - [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
+      - Defensive CS
+        - PIPELINE Untitled Pipeline
+          - Network traffic analysis with Wireshark
+          - Intrusion detection with Snort
+          - Threat detection with Wazuh
+          - Intrusion detection with Suricata
+          - Security Event monitoring with Splunk
+          - Host based intrusion detection with OSSEC
+          - Linux memory acquisition with LiME
+          - Memory forensics with Volatility
+          - Disk forensics with Autopsy
+          - Docker image analysis with Trivy
+          - Incident response with FireEye Redline
+        - [Blue Team Training Course - Introduction](https://www.youtube.com/watch?v=Bt5fh3wQUAQ&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx)
+          - VSM: 3:30
+          - CONFIG Language Pair: Spanish
+        - [How to secure your SSH & FTP servers - Port Knocking](https://www.youtube.com/watch?v=Gi2l4tPRP7o&list=PLqM63j87R5p7e43NNf-UAMD30v7orP3_m)
+        - [Defensive Security Training](https://www.youtube.com/watch?v=ic66oKtK7zY&list=PLDqMNdDvMsRlAmqeQH9nPAYxThLpojTim)
+      - Offensive CS
+        - PIPELINE Untitled Pipeline
+          - Adversary Emulation
+          - Reconnaisance, Exploitation
+          - Dumping Credentials
+          - Persistence Set up
+          - Defense Evasion
+          - Operating System Wide stealth
+          - System Rootkit
+          - Privilege Escalation
+          - Lateral Movement
+        - [Red Team Adversary Emulation With Caldera](https://www.youtube.com/watch?v=EIHLXWnK1Dw&t)
+          - VSM: 3:30
+          - CONFIG Language Pair: Italian
+        - [Ethical Hacking Course (2022): Red Teaming For Beginners](https://www.youtube.com/watch?v=OtcP8c4wZys)
+        - [How the Best Hackers Learn Their Craft](https://www.youtube.com/watch?v=6vj96QetfTg)
+        - [Tradecraft (1 of 9) - Introduction](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PLwvTvvpON7ss1_J_Ev23x8y2iTBHTa_re)
+        - [Red Team Ops with Cobalt Strike - Operations (1 of 9)](https://www.youtube.com/watch?v=i6tsLWrCiGE&list=PLcjpg2ik7YT6H5l9Jx-1ooRYpfvznAInJ)
+      - Basics
+        - Complete Ethical Hacking Bootcamp 2023: Zero to Mastery - U --> **ACTIVE, 5m/d**
+          - CCS: 22.8% | `this.concurrentTraffic = 0.5`
+          - E.T.A: ?
+          - TEMP_TIMESTAMP
+            - CONCURRENT: RTFM --> <span style="color: lime">BLOCKER Resolved</span>
+              - [Tenable - Doc](https://docs.tenable.com/nessus/Content/AmazonWebServices.htm)
+                - Saturation
+                  - _meta
+                    - Criteria: `undefined`
           - ?
-            - ipinfo.info
-            - whatweb
-            - [cvedetails](https://www.cvedetails.com/)
-        - Advanced Network Programming
-          - The Complete Networking Fundamentals Course. Your CCNA start - U
-            - CCS: 2.2%
-            - TEMP_TIMESTAMP: 7:06
-            - _motivation
-              - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
-          - CCIE
-          - Network Programming Hands-on
-            - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
-              - Videosweepmark: 2:00
-              - Listmark: 4
-              - `netstat`
-            - [Hacking networks with Python // Creating malicious packets and breaking TCP/IP rules](https://www.youtube.com/watch?v=CIWD9fYmDig)
-          - Advanced Network Brains-on
-            - Bookpair
-              - [TCP Illustrated Volume 2: The implementation](https://drive.google.com/file/d/1hiU8TLFesy4BHpV5iqPl2Kbi3XVO3gzV/view?usp=sharing)
-          - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
-            - Videosweepmark: 21:30
-            - ALSO Proficient use of `find`
-        - In-depth capability of `nmap`
-          - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
-            - Videosweepmark: 1:05:30/2:25:06
-            - `netdiscover`
-          - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
-        - Customized Machine Image
-          - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
+            - _source
+              - [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)
+          - Gold Mines
+            - `TEXT('/usr/share/nmap/scripts')`
+              - nse usage
+          - Tools
+            - _source
+              - [Python Socket](https://docs.python.org/3/library/socket.html)
+              - [Nmap Cheatsheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
+              - [information-gathering-tools - GitHub](https://github.com/topics/information-gathering-tools)
+              - `osint-tools`, `sherlock`, `nessus`
+            - Reconissance
+              - [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
+            - ?
+              - ipinfo.info
+              - whatweb
+              - [cvedetails](https://www.cvedetails.com/)
+          - Advanced Network Programming
+            - The Complete Networking Fundamentals Course. Your CCNA start - U
+              - CCS: 2.2%
+              - TEMP_TIMESTAMP: 7:06
+              - _motivation
+                - *Learning Italian while accidentally obtaining systematic proficiency in networking fundamentals, on this scenario, Italian will mostly take over*
+            - CCIE
+            - Network Programming Hands-on
+              - [Basics of Networking - 3 - Introduction to Sockets](https://www.youtube.com/watch?v=_FVvlJDQTxk&list=PLhTjy8cBISErYuLZUvVOYsR1giva2payF&index=4)
+                - Videosweepmark: 2:00
+                - Listmark: 4
+                - `netstat`
+              - [Hacking networks with Python // Creating malicious packets and breaking TCP/IP rules](https://www.youtube.com/watch?v=CIWD9fYmDig)
+            - Advanced Network Brains-on
+              - Bookpair
+                - [TCP Illustrated Volume 2: The implementation](https://drive.google.com/file/d/1hiU8TLFesy4BHpV5iqPl2Kbi3XVO3gzV/view?usp=sharing)
+            - [Linux Crash Course - Symbolic Links](https://www.youtube.com/watch?v=zfSa-PEU3h4)
+              - Videosweepmark: 21:30
+              - ALSO Proficient use of `find`
+          - In-depth capability of `nmap`
+            - [Hacking Fundamentals: The Complete Nmap No-Nonsense Course](https://www.youtube.com/watch?v=I2Gt6HzyWDw) | `this.concurrentTraffic = 0.5`
+              - Videosweepmark: 1:05:30/2:25:06
+              - `netdiscover`
+            - [How Nmap really works // And how to catch it // Stealth scan vs TCP scan // Wireshark analysis](https://www.youtube.com/watch?v=F2PXe_o7KqM)
+          - Customized Machine Image
+            - [Top Things to do After Installing Kali Linux in 2022!](https://www.ceos3c.com/security/top-things-after-installing-kali-linux/)
   - **BLACKHOLE** TOPIC | Fine Art, Architecture, Design
     - Arturia Music Production
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
@@ -3374,16 +3493,18 @@
             - [Remote whiteboard challenge for 2023 (UX or product design)](https://www.youtube.com/watch?v=3lT6l4egGkU)
               - VSM: 5:00
             - [Whiteboard challenge from my workshop (UX or product design)](https://www.youtube.com/watch?v=l6fAfiE6eVg)
+              - VSM: 5:00
             - [Remote whiteboard challenge walkthrough (UX product design) - alarm clock 2023](https://www.youtube.com/watch?v=A7GS0Ft_SUk)
           - SUPPLEMENT Figma Design Proficiency
             - [Build it in Figma: Create a Design System — Foundations](https://www.youtube.com/watch?v=EK-pHkc5EL4)
             - [Office hours: Prototyping like a Pro](https://www.youtube.com/watch?v=mceYeR-s97I)
+              - VSM: 3:30
             - [Office Hours: Complex Component Architecture](https://www.youtube.com/watch?v=e1Q2dyZ3cRE)
             - [Office Hours: Mastering components](https://www.youtube.com/watch?v=fNQRXierLhQ)
-              - VSM: 19:00
+              - VSM: 23:00
           - SUPPLEMENT FigJam Brainstorming
             - [Intro to FigJam: How to brainstorm with an online whiteboard](https://www.youtube.com/watch?v=FxdoM1B7Wo8)
-              - VSM: 5:00
+              - VSM: 6:29
           - SUPPLEMENT AIGC \w Design
             - CRITICAL_QUESTION *How to create automation with AIGC ecosystem e.g. ChatGPT/Midjourney/Dalle in the most OPERATIONALLY EFFICIENT manner?*
           - SUPPLEMENT Digital KOL(Design-focused/PsyOps-focused)
@@ -3398,7 +3519,7 @@
                 - CURRENT_RESOURCE
                   - Saturation: 3.4%
             - **Continuous Stimulation Unit**
-              - Autolayout
+              - 101010Autolayout
               - Component & Variance
             - Design Root Construction
               - STATIC
@@ -3467,14 +3588,22 @@
                     - Gap affiliated travel: Ctrl+`arrow`
                     - Context related row/column selection: Spacebar+Shift/Ctrl + Space
                     - Show all formulae: Ctrl+`tilde`
-          - RPA \w AI
-            - Prompt Engineering for AIGC
-              - [Learn Prompt Engineering (Magic Commands) in ZimmWriter](https://www.youtube.com/watch?v=AFe1d3C8aXE)
-                - VSM: 5:00
-              - [Roadmap to ChatGPT and AI mastery](https://www.youtube.com/watch?v=evN89fdKOxU)
-                - VSM: 5:00
-              - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
-                - VSM: 5:00
+          - RPA/IPA \w AI
+            - Human AI Interface - HAII
+              - Prompt Engineering for AIGC
+                - [Learn Prompt Engineering (Magic Commands) in ZimmWriter](https://www.youtube.com/watch?v=AFe1d3C8aXE)
+                  - VSM: 15:00
+                - [Roadmap to ChatGPT and AI mastery](https://www.youtube.com/watch?v=evN89fdKOxU)
+                  - VSM: 5:00
+                - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
+                  - VSM: 10:05 TTL
+                - [Advanced MidJourney Prompt Engineering](https://www.youtube.com/watch?v=RdSZBWiHrKM)
+            - (Sentient) AI Computer Interface - ACI
+              - PREREQUISITE Solid grasp of Neuroscience
+              - PREREQUISITE Cognitive Computing Basics
+              - PREREQUISITE Advanced Operating System Design/Implementation
+              - PREREQUISITE Distributed Computing System Design & Implementation
+              - PREREQUISITE Quantum Computing System Design & Implementation
             - SOURCING RPA for Content Creation: AIGC Ecosystem 101
               - REVERSE_ENGINEERING [stable-diffusion](https://github.com/CompVis/stable-diffusion)
                 - SUPPLEMENT [[Code] How to use Facebook's DETR object detection algorithm in Python (Full Tutorial)](https://www.youtube.com/watch?v=LfUsGv-ESbc&list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)
@@ -3482,8 +3611,8 @@
             - SOURCING RPA for Mobile Device
             - Complete UiPath RPA Developer Course: Build 7 Robots
             - Power Automate - Complete Guide to Microsoft Power Automate
-              - CCS: 29.0%
-              - TEMP_TIMESTAMP: 2:30
+              - CCS: 29.5%
+              - TEMP_TIMESTAMP
     - Closed-Loop Freelance-ables IMPLEMENTS `Italian.business_architecture`
       - IT Consulting
         - LOCKED Requires Level ? to unlock
@@ -3497,7 +3626,14 @@
                 - Email Ninja - Take Back Control of Your Email Inbox - U
                 - [15+ Email Management Apps For 2023](https://www.youtube.com/watch?v=AdXjBVzW12s)
                 - [Monthly Webinar Series: Managing Tasks with Outlook, To Do, Planner & Teams](https://www.youtube.com/watch?v=bbtxiLNASw8)
-                - [Outlook Tips & Tricks to Take Control of your Inbox](https://www.youtube.com/watch?v=_DTI-9DnV_g&t=21s)
+                - INFINITE_LOOP TRAPPED [Outlook Tips & Tricks to Take Control of your Inbox](https://www.youtube.com/watch?v=_DTI-9DnV_g&t=21s)
+                  - TRAPPED_STATEMENT: *This node will trap the main process up until the UNTRAP_CONDITIONS is met for each global cycle*
+                    - UNTRAP_CONDITIONS: *Apply all tips to applicable email acc*
+                    - INDICATOR PerceivedSaturation: 100%
+                      - [x] Use of Outlook rules
+                  - VSM: 15:44 TTL
+                  - ACTION Conditional Formatting
+                  - CONFIG Language Pair: Portuguese
                 - [TOO MANY EMAILS? Use THESE Proven Techniques | Outlook tips included](https://www.youtube.com/watch?v=5M2Kq_5V24A)
             - GenZ tools
           - Marketing Reconaissance
@@ -3735,39 +3871,53 @@
         - Jurisprudence Lectures
           - [Justice: What's The Right Thing To Do? Episode 01 "THE MORAL SIDE OF MURDER"](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL66DFF275B46BEF40)
             - Videosweepmark: 4:30
-            - Bookpair
+            - 10Bookpair
               - Jurisprudence and legal theory
         - [German Doctor Debates Shariah Law With Zakir Naik](https://www.youtube.com/watch?v=ee4u2EUlAts)
           - Videosweepmark: ?
     - MESO
       - Grammar Consolidation | `this.concurrentTraffic = 1`
         - [Learn Arabic grammar to Understand Qur'an - Subject Pronouns 1400 times in Quran [#05-P1]](https://www.youtube.com/watch?v=ugOVPjsZtp0&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=17)
-          - VSM
+          - VSM: 10:20
           - VideoListStamp: 17
         - [Arabic Grammar For All - Lesson 15 - Adverbs of Time - Abu Sulaymaan](https://www.youtube.com/watch?v=3LNbcVEW_30&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=17)
-          - VSM
+          - VSM: 5:00
           - VideoListStamp: 17
     - MICRO
+      - **CHANGE_LOG SCOPED**
+        - 2023/2/6: *Saturation evaluation method change, less on bread-first-rote saturation but more on meaning and sentence integration*
+          - CONT Use indicator to encapsulate general verb mastery
+          - INDICATOR `/General Verb forms` | 13%
+            - Dimension 1
+              - 1% | الْمَاضِي
+                - `self` | 3%
+              - الْمُضَارِع الْمَرْفُوع
+                - `self` | 3%
+              - الْمُضَارِع الْمَنْصُوب
+              - الْمُضَارِع الْمَجْزُوم
+              - الْأَمْر
+              - الْفِعْل الْمَجْهُول
+            - Dimension 2
+              - الْمُفْرَد
+                - الْمُتَكَلِّم
+                - الْمُخَاطَب
+                - الْغَائِب
+              - الْمُثَنَّى
+                - الْمُخَاطَب
+                - الْغَائِب
+              - الْجَمْع
+                - الْمُتَكَلِّم
+                - الْمُخَاطَب
+                - الْغَائِب
+            - Dimension 3
+              - الْمَصْدَر
+              - اِسْم الْفَاعِل
+              - اِسْم الْمَفْعُول
       - STATIC
-        - General Noun Usage Proficiency
-        - Verb Tense
-          - _col
-            - personal pronoun
-        - Roman Spell <--> Diacritic <--> Arabic Script
-        - /General Verb forms | 3%
-        - /General Noun forms | 3%
-        - Difference of grammatical terms
-        - ?
-        - `pronoun`
-            - Isolated accusative pronouns
-          - `pronoun.reflexive`
-            - نفسها
-        - `number`
       - VOLATILE STATE=ELIMINATE
         - `verb`
-          - بنى
-          - 69% | فَهِمَ
-          - 38% | تَسْبِقُ
+          - 50% | بنى
+          - 38% | سَبَقَ
           - 90% تعرف
           - 20% | فهم
           - TO_STATIC
@@ -4016,6 +4166,9 @@
         - GM
           - [ESRI](https://www.esri.com/en-us/home)
           - [Google Maps JavaScript API Tutorial](https://www.youtube.com/watch?v=Zxf1mnP5zcw)
+          - [Leaflet crash course | All you need to know about leaflet | Leaflet | Tekson](https://www.youtube.com/watch?v=ls_Eue1xUtY&list=PLyWyQBSWLw1NH1wsA0wkSMTlQ45P0AqCj)
+            - VSM: 5:00
+            - LM: 1
           - [Node.js GeoJSON API & App | Store Locator](https://www.youtube.com/watch?v=9FQrFah9rnc)
         - N
           - [Nest.js | Middleware, Pipes & Interceptors Explained By Example](https://www.youtube.com/watch?v=x1W3FJ1RJlM)
@@ -4114,7 +4267,7 @@
               - ContinuousInnovativeThinkingDevelopmentUnit
                 - *What innovative system design ideas can you come up with on top of existing design?*
               - PREREQUISITE_PROCESSING
-                - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8)
+                - [Flat rate pricing](https://www.youtube.com/watch?v=nmHPCGOynd8): 10:00
                   - Videosweepmark: 4:00
       - Sentient System Design
         - [A RELATIONAL MACROSTATE THEORY GUIDES ARTIFICIAL INTELLIGENCE TO LEARN MACRO AND DESIGN MICRO](https://arxiv.org/pdf/2210.07374.pdf)
@@ -4131,12 +4284,13 @@
     - PQA
       - Basics
         - **BLACKHOLE EMERGENCY PRIORITIZED** Selenium Webdriver with PYTHON from Scratch + Frameworks - U
-          - CCS: 13.2%?
+          - CCS: 21.4%
           - TEMP_LISTSTAMP
-            - Python Recap: 9:00
-            - Selenium
+            - Python Recap
+            - Selenium: 5:00
         - **BLACKHOLE EMERGENCY PRIORITIZED** The Complete 2023 Software Testing Bootcamp - U
-          - CCS: 3.6%
+          - CCS: 4.2%
+          - TEMP_TIMESTAMP: 5:00
       - Supplier
         - Sonar ^ Synk
         - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
@@ -4247,6 +4401,7 @@
         - Source
           - [Gitee - GVP](https://gitee.com/gvp)
         - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
+        - ShareX
         - [GraphGPT](https://github.com/varunshenoy/GraphGPT)
           - PPF
             - CodeOsmosisMark
@@ -4426,10 +4581,10 @@
         - CCS: 11.7%
         - TEMP_TIMESTAMP: 3:00
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
-        - CCS: 1.1%
+        - CCS: 7.0%
         - TEMP_TIMESTAMP
       - **BLACKHOLE EMERGENCY** Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
-        - CCS: 4.4%
+        - CCS: 7.0%
         - TEMP_TIMESTAMP
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
   - TOPIC Consulting
@@ -4560,16 +4715,17 @@
           - Videosweepmark: 47:00
           - Language pair SHUFFLE: Japanese - French
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
-          - Videosweepmark: 23:00
+          - Videosweepmark: 38:30
           - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
       - `verb`
+        - 違う
         - THROTTLE FREQUENT 使う | 34%
           - [PASSIVE form (れる/られる) Sound like a native speaker!](https://www.youtube.com/watch?v=PTRjEq5ExSM)
             - Videosweepmark: 10:19
         - 照る | 95%
-        - 当たる | 60%
+        - 当たる | 90%
       - `adjective`
         - THROTTLE FREQUENT 幾つ | 90%
         - 易い | 22%
@@ -4635,27 +4791,27 @@
       - _method
         - `unlockStaticColdTurkey(self, *args, **kwargs)`
       - **Глагол**
-        - конкретизироваться
-        - является
-        - заключается
-        - называться
-        - изменяться
-        - трансплантировать
+        - конкретизироваться | 100% TTL
+        - является | 100% TTL
+        - заключается | 100% TTL
+        - называться | 90%
+        - изменяться | 100% TTL
+        - трансплантировать | 100% TTL
+        - распространи́ть | 80%
       - **Предлог**
       - **Местоимение**
-        - подобными
-        - какой-то
+        - подобными | 100% TTL
       - **Прилагательное**
-        - подобный
-        - временный
-        - зависимый
-        - постоянный
-        - распространенный
-        - постоянный
+        - какой-то | 100% TTL
+        - подобный | 100% TTL
+        - временный |  100% TTL
+        - зависимый | 100% TTL
+        - постоянный | 100% TTL
+        - распространенный | 100% TTL
         - проиллюстрированный
           - [Intermediate Russian II: Passive Constructions with Reflexive Verbs](https://www.youtube.com/watch?v=faeyxsHM2Do)
-        - определенный
-        - какой-то
+            - VSM: 10:02
+        - определенный | 20%
         - материальный
       - **Наречие**
         - практически
@@ -4691,6 +4847,79 @@
     - Value
       - Topology
   - TOPIC | Mathematics Problem Solving Melting Pot
+  - TOPIC | Engineering System Ontology
+    - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
+      - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
+      - [ISO/IEC 21838](https://www.youtube.com/watch?v=aux_zcK7XSI)
+        - VSM: 43:00
+        - ?
+          - INCITS 573-3-202x
+          - Common Core Ontologies(CCO)
+        - ?
+          - Mutually exhaustive, pairwise disjoint partition
+          - LOD Cloud
+          - BFO2020
+          - ISO/IEC AWI 21838-3
+          - Top-level TUpper
+          - W3C PROV
+          - W3C SSN
+          - [OBO foundry](http://obofoundry.org)
+            - PAPER The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration
+          - [NPO](http://www.neon-project.org)
+          - [SWEET](https://sweet.jpl.nasa.goc)
+          - [VIVO-ISF](https://bioportal.bioontology.org/ontologies/VIVO-ISF)
+          - [SPAR](http://www.sparontologies.net)
+          - [Planteome Ontologies](http://www.plantontology.org)
+          - [IDO](http://infectiousdiseaseontology.org)
+      - PHI598
+        - OUT_REACH
+          - ?Epistemology
+        - [Introduction to Basic Formal Ontology (September 2019)](https://www.youtube.com/watch?v=p0buEjR3t8A&list=RDLV9AsRE437e7I&index=2)
+          - VSM: 1:013:34 NEXT
+          - LM: 2
+          - FIELD_OF_INTEREST
+            - Related stability of natural language
+          - Paperpair
+            - [Horizontal Integration of Warfighter Intelligence Data A Shared Semantic Resource for the Intelligence Community](http://ontology.buffalo.edu/smith/articles/Horizontal-integration.pdf)
+          - Bookpair
+            - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
+              - PPF
+                - RT: 15
+                  - S: 1.3%
+          - References
+            - IDEA Curator Ecosystem Design
+              - Hub and spoke mode, plug-and-go modularity
+              - IMPORTANT Reference ontology, application ontology, relation ontology
+            - Husserl Lesniewski
+              - Realist mereology-based ontology
+                - ?
+                  - Universals
+                  - Topology
+                  - Relations
+                  - Dependant entities
+            - Roman Ingarden
+            - Human Genome Project, The Gene Ontology, OBO,  BFO
+              - BFO
+                - IMPORTANT ?Three most general universals
+                  - RUNNING `ROOT.addPendingMutation(this)`
+                  - BFO:Continuant
+                    - BFO: Independent Continuant
+                      - INSTANCE System Component
+                      - META Objects, parts of objects
+                        - CONT collections of objects, systems...
+                    - BFO: Dependent Continuant
+                      - INSTANCE System Function
+                      - META Attributes, qualities, roles, functions...
+                  - BFO: Occurrence
+                    - INSTANCE System Process
+                    - META processes, beginnings, endings, missions, operations
+          - NEW Modern Ontology Editing Software
+            - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
+            - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
+        - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
+          - Videosweepmark: 23:36
+          - CURIOSITY_OUTREACH
+            - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - ? LIMIT 5
@@ -4726,111 +4955,6 @@
             - [The paradox at the heart of mathematics: Gödel's Incompleteness Theorem - Marcus du Sautoy](https://www.youtube.com/watch?v=I4pQbo5MQOs) 237
             - [Is Mathematics invented or discovered](https://www.youtube.com/watch?v=X_xR5Kes4Rs)
         - Mosteller-Wallace
-        - ASYNC MIRROR Bookpair --> `LEGACY erudition/mathematics`
-          - Probability Theory: The Logic of Science
-            - *This is an extremely difficult book, psyche up for it before digging in, at the moment this endeavour is best paired with Russian*
-            - [link1](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
-              - PROCESSING_POINTER_FIELD
-                - Randomtelewalk: 36
-                  - _methods
-                    - `createPipeline(self, *args, **kwargs)`
-                  - StackedIndex: 45
-                - Saturation: 0.00038%
-              - PROCESSING_POINTER_STORE
-                - CURIOSITY_OUTREACH
-                  - Bose-Einstein condensate
-                    - [Bose-Einstein Condensates | Prof B. Prasanna Venkatesh | Lecture 01](https://www.youtube.com/watch?v=EeTJyqBIVZI)
-                      - Videosweepmark: 5:11
-                      - [Symmetry in Pascal's Triangle: A Combinatorial Identity](https://www.youtube.com/watch?v=fHZ7FniqPr4&list=PLfe17BEjktq70B0S7HeOkbJmQzht5bTMi)
-                        - Videosweepmark
-                        - Listmark: 1
-                  - P´olya’s principles
-                  - Contraposition, Syllogism
-                  - Infinite-set paradoxing
-                     - P.O.I James Clerk Maxwell
-                  - Ancillary statistic
-                    - [Sufficient, Minimal, Ancillary, and Complete Statistics, with Theorems](https://www.youtube.com/watch?v=r1yXDzoIb2I)
-                      - Videosweepmark: 6:06 COMPOSITE
-                      - ?
-                        - Factorization Theorem
-                        - Exponential Family
-                        - Basu's Theorem
-                        - Sufficient Statistics
-                        - Minimal statistics
-                          - [Lecture 27 : Minimal Sufficiency, Completeness - I](https://www.youtube.com/watch?v=FIrcTkSbPyQ&list=RDCMUCgp23vdLNaUitOkCxxVnRrg&start_radio=1&rv=FIrcTkSbPyQ&t=19)
-                            - Videosweepmark: 8:30
-                        - Ancillary statistics
-                        - Complete statistics
-              - SUPPLEMENT
-                - **MUTATION** Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
-                  - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
-                  - [ISO/IEC 21838](https://www.youtube.com/watch?v=aux_zcK7XSI)
-                    - VSM: 38:00
-                    - ?
-                      - Mutually exhaustive, pairwise disjoint partition
-                      - LOD Cloud
-                      - BFO2020
-                      - ISO/IEC AWI 21838-3
-                      - Top-level TUpper
-                      - W3C PROV
-                      - W3C SSN
-                      - [OBO foundry](http://obofoundry.org)
-                        - PAPER The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration
-                      - [NPO](http://www.neon-project.org)
-                      - [SWEET](https://sweet.jpl.nasa.goc)
-                      - [VIVO-ISF](https://bioportal.bioontology.org/ontologies/VIVO-ISF)
-                      - [SPAR](http://www.sparontologies.net)
-                      - [Planteome Ontologies](http://www.plantontology.org)
-                      - [IDO](http://infectiousdiseaseontology.org)
-                  - PHI598
-                    - OUT_REACH
-                      - ?Epistemology
-                    - [Introduction to Basic Formal Ontology (September 2019)](https://www.youtube.com/watch?v=p0buEjR3t8A&list=RDLV9AsRE437e7I&index=2)
-                      - VSM: 1:013:34 NEXT
-                      - LM: 2
-                      - FIELD_OF_INTEREST
-                        - Related stability of natural language
-                      - Paperpair
-                        - [Horizontal Integration of Warfighter Intelligence Data A Shared Semantic Resource for the Intelligence Community](http://ontology.buffalo.edu/smith/articles/Horizontal-integration.pdf)
-                      - Bookpair
-                        - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
-                          - PPF
-                            - RT: 15
-                              - S: 1.3%
-                      - References
-                        - IDEA Curator Ecosystem Design
-                          - Hub and spoke mode, plug-and-go modularity
-                          - IMPORTANT Reference ontology, application ontology, relation ontology
-                        - Husserl Lesniewski
-                          - Realist mereology-based ontology
-                            - ?
-                              - Universals
-                              - Topology
-                              - Relations
-                              - Dependant entities
-                        - Roman Ingarden
-                        - Human Genome Project, The Gene Ontology, OBO,  BFO
-                          - BFO
-                            - IMPORTANT ?Three most general universals
-                              - RUNNING `ROOT.addPendingMutation(this)`
-                              - BFO:Continuant
-                                - BFO: Independent Continuant
-                                  - INSTANCE System Component
-                                  - META Objects, parts of objects
-                                    - CONT collections of objects, systems...
-                                - BFO: Dependent Continuant
-                                  - INSTANCE System Function
-                                  - META Attributes, qualities, roles, functions...
-                              - BFO: Occurrence
-                                - INSTANCE System Process
-                                - META processes, beginnings, endings, missions, operations
-                      - NEW Modern Ontology Editing Software
-                        - [Graphol: A Graphical Language for Ontology Modeling Equivalent to OWL 2](https://mdpi-res.com/d_attachment/futureinternet/futureinternet-14-00078/article_deploy/futureinternet-14-00078-v3.pdf?version=1646721806))
-                        - [A Semantic Ontology-Based Approach to Support Model-Based Systems Engineering Design for an Aircraft Prognostic Health Management System](https://www.frontiersin.org/articles/10.3389/fmtec.2022.886518/full)
-                    - [KR 2020 - Plausible reasoning about EL ontologies using concept interpolation](https://www.youtube.com/watch?v=-EmaWHUlDD8)
-                      - Videosweepmark: 23:36
-                      - CURIOSITY_OUTREACH
-                        - Concept Interpolation, Conceptual betweenness, Concept Interpolation, Plausible reasoning 
     - [the last question on a Harvard-MIT Math Tournament!](https://www.youtube.com/watch?v=xW76ZHtxmTo)
   - Tool
     - Stress finder
@@ -4862,7 +4986,24 @@
           - Saturation: *Value too small to be obtained*
   - MUTATION TOPIC Space Travel
     - Transit
+      - Basics
+        - [Fundamentals of Aerospace Engineering](https://drive.google.com/file/d/1J4aUy3Ewt-t4dCGFgs3kADRLaC4aVgDi/view?usp=sharing)
+        - [INTRODUCTION TO AEROSPACE ENGINEERING](https://www.iare.ac.in/sites/default/files/PPT/IAE%20PPT.pdf)
+        - [Interactive Aerospace Engineering and Design](https://research.iaun.ac.ir/pd/ekianpour/pdfs/UploadFile_9029.pdf)
       - Rocket Science
+      - Non-propellant solution
+        - Basics
+          - [Engineering Mechanics DYNAMICS - R.C. Hibbeler](http://xn--webducation-dbb.com/wp-content/uploads/2019/01/engineering_mechanics_-_dynamics_12th_edition_rc_hibbeler.pdf)
+          - MACHINES & MECHANISMS - Applied Kinematic Analysis by D.H. Myszka
+          - Design of machinery: an introduction to the synthesis and analysis of mechanisms and machines
+        - Tether
+      - Teleportation
+        - [Quantum Physics Full Course | Quantum Mechanics Course](https://www.youtube.com/watch?v=K4BF7MD69_U)
+          - VM: 11:00
+          - [Position and Momentum Operators in Quantum Mechanics](https://www.youtube.com/watch?v=cS6A7I-auf4)
+            - VM: 5:56
+        - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+        - [Quantum entanglement - R.Horodecki](https://arxiv.org/pdf/quant-ph/0702225.pdf)
     - Endpoint
       - Terraform Engineering
     - Travel Knowledge
@@ -4871,7 +5012,8 @@
         - ASTR 160
           - [1. Introduction](https://www.youtube.com/watch?v=nzmFc2gjUo4&list=PLD79A28ED01799FE7)
             - SUPPLEMENT [My Favourite Textbooks for Studying Physics and Astrophysics | 2022](https://www.youtube.com/watch?v=WUhiIv8LwJk)
-            - SOURCING SUPPLEMENT Mathematical Methods for Physics and Engineering
+            - SOURCING SUPPLEMENT 
+              - Methods for Physics and Engineering
         - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
           - VSM: 18:34
         - [Advanced Higher Physics | Astrophysics | Astronomical Units & Light Years | THEORY](https://www.youtube.com/watch?v=yYUZ_YAZ0Ik&list=PL4ViYiFUc7GS7ucqnjPBawUmNyNbC2cTR)
@@ -4884,12 +5026,12 @@
           - [Physics - Optics: Reflections (1 of 2) Introduction](https://www.youtube.com/watch?v=yMO7Lsjhmi4&list=PLX2gX-ftPVXWA5TjEhVQSQQzZ-5_5Nui8)
             - VSM: 2:30
         - [Astrophotography: 14 MUST KNOW Starting Tips!](https://www.youtube.com/watch?v=KXABDwAxT1s)
-          - VSM: 2:30
+          - VSM: 5:05
   - Vocabulary flow
     - SUPPLEMENT
-      - [Learn Ancient Greek: 36_Unit 7 Meaning of Middle Voice](https://www.youtube.com/watch?v=27fScU_eIrY&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=37)
-        - Videosweepmark: 2:30
-        - ListStamp: 37
+      - [Learn Ancient Greek: 37_Unit 7 Forms of Future and Aorist Middle new](https://www.youtube.com/watch?v=nClGZ8HSS0c&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=38)
+        - Videosweepmark
+        - ListStamp: 38
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods
@@ -4897,7 +5039,6 @@
       - **ερωτηματικός**
       - **αντωνυμία**
       - **σύνδεση**
-        - THROTTLE FREQUENT επειδή | 70%
       - **χωρίς κατηγοριοποίηση**
       - `pronoun`
         - ContinuousStimulationUnit [All About Greek Pronouns: Ultimate Greek Pronouns](https://www.greekpod101.com/blog/2020/08/24/greek-pronouns/) | 88.2%
@@ -5033,8 +5174,6 @@ Lomile lomps, holiday homps. The sauna is warm, the beer is cold, and the kossu 
     - Demography
     - Business
       - B.O.I cache
-        - Ti - AIGC
-        - 嘉友共享厨房
       - Business Entities Recon
         - Black box HR forensic analysis
         - Logistic network forensic analysis
@@ -5045,5 +5184,8 @@ Lomile lomps, holiday homps. The sauna is warm, the beer is cold, and the kossu 
     - Process
 - INSTANCE
   - CONFIFENTIAL [Instance](#)
+
+## Toolkit
+- Pic2Map
 ## Random thoughts encapsulation
 - ...It can be observed that an operationally functional unit that deals with huge sample points from environment fields the level of volatility in all dimensions of which is extremely high will exhibit highly normalized behavioural pattern. Maybe reverse engineering the observable manifestation will give hope to hypothesis formulation...

@@ -4984,7 +4984,7 @@
       - PROCESSING_POINTER_FIELD
         - Randomtelewalk: 7
           - Saturation: *Value too small to be obtained*
-  - MUTATION TOPIC Space Travel
+  - TOPIC Space Travel
     - Transit
       - Basics
         - [Fundamentals of Aerospace Engineering](https://drive.google.com/file/d/1J4aUy3Ewt-t4dCGFgs3kADRLaC4aVgDi/view?usp=sharing)
@@ -4997,6 +4997,8 @@
           - MACHINES & MECHANISMS - Applied Kinematic Analysis by D.H. Myszka
           - Design of machinery: an introduction to the synthesis and analysis of mechanisms and machines
         - Tether
+          - Material Engineering
+      - Cryo Chamber
       - Teleportation
         - [Quantum Physics Full Course | Quantum Mechanics Course](https://www.youtube.com/watch?v=K4BF7MD69_U)
           - VM: 11:00
@@ -5006,6 +5008,9 @@
         - [Quantum entanglement - R.Horodecki](https://arxiv.org/pdf/quant-ph/0702225.pdf)
     - Endpoint
       - Terraform Engineering
+        - [The Terraforming Webinar with Benjamin Bratton](https://www.youtube.com/watch?v=iahQudn88HE)
+          - VM
+          - VOCABULARY περιμένω
     - Travel Knowledge
       - Astronomy
       - Astrophysics
@@ -5015,7 +5020,10 @@
             - SOURCING SUPPLEMENT 
               - Methods for Physics and Engineering
         - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
-          - VSM: 18:34
+          - VSM: 21:34
+          - Logarithmic Chart Reading
+          - VOCABULARY συνηθισμένος | 20%, ίντσα | 10%, λογάριθμος | 30%, μεγεθύνεται, κάθε
+          - VOCABULARY διαγράμματα, πλανήτες, συγκρίνω
         - [Advanced Higher Physics | Astrophysics | Astronomical Units & Light Years | THEORY](https://www.youtube.com/watch?v=yYUZ_YAZ0Ik&list=PL4ViYiFUc7GS7ucqnjPBawUmNyNbC2cTR)
     - Recon
       - Astrophotography
@@ -5030,7 +5038,7 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 37_Unit 7 Forms of Future and Aorist Middle new](https://www.youtube.com/watch?v=nClGZ8HSS0c&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=38)
-        - Videosweepmark
+        - VM: 2:30
         - ListStamp: 38
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY

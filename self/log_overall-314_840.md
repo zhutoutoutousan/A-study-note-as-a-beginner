@@ -319,7 +319,7 @@
     - MAGNET NEW Everything related to Metaverse
       - The Ultimate Guide to Game Development with Unity (Official) - U
         - CCS: 9.2%
-        - TEMP_TIMESTAMP: 3:00
+        - TEMP_TIMESTAMP: 8:00
         - CONFIG Forced Hands-on: True
         - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
@@ -331,7 +331,7 @@
       - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
         - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 1:24:00
+      - VSM: 1:28:00
       - RANDOM Language Pair: German-Spanish
       - Phong Mode, Bling-Phong Model
       - [Code](https://github.com/jack1232/webgpu01/tree/b4bb220)
@@ -4360,13 +4360,14 @@
         - **BLACKHOLE EMERGENCY PRIORITIZED** The Complete 2023 Software Testing Bootcamp - U
           - CCS: 4.8%
           - TEMP_TIMESTAMP: 2:00
+          - Equivalence partitioning
       - Supplier
         - Sonar ^ Synk
         - [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340)
           - CCS: 3.4%
       - Generic
         - Jest /w nest.js
-          - [NestJS Testing Tutorial | Unit and Integration Testing](https://www.youtube.com/watch?v=dXOfOgFFKuY) 
+          - [NestJS Testing Tutorial | Unit and Integration Testing](https://www.youtube.com/watch?v=dXOfOgFFKuY)
             - Videosweepmark: 5:00
         - Jest /w next.js
           - [Testing & Error Handling (Jest, React Testing Library) – Learn Next.js](https://www.youtube.com/watch?v=yPBtVxDEC0w)
@@ -5075,9 +5076,9 @@
             - SOURCING SUPPLEMENT 
               - Methods for Physics and Engineering
         - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
-          - VSM: 21:34
+          - VSM: 25:00
           - Logarithmic Chart Reading
-          - VOCABULARY συνηθισμένος | 33%, ίντσα | 18%, λογάριθμος | 39%, μεγεθύνεται, κάθε | 15%
+          - VOCABULARY συνηθισμένος | 43%, ίντσα | 36%, λογάριθμος | 55%, μεγεθύνεται, κάθε | 34%
           - VOCABULARY διαγράμματα | 20%, πλανήτες | 15%, συγκρίνω
         - [Advanced Higher Physics | Astrophysics | Astronomical Units & Light Years | THEORY](https://www.youtube.com/watch?v=yYUZ_YAZ0Ik&list=PL4ViYiFUc7GS7ucqnjPBawUmNyNbC2cTR)
     - Recon

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66b85105f3ab3470",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,6 +177,6 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4d33dff1aea85961",
+  "active": "66b85105f3ab3470",
   "lastOpenFiles": []
 }

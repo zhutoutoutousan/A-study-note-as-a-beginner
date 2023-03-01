@@ -7,7 +7,6 @@
 - [Computer networking](#computer-networking)
 - [Compiler working principle and design](#compiler-working-principle-and-design)
 - [Operating system working principle](#operating-system-working-principle)
-- [Data structure and algorithms](#data-structure-and-algorithms)
 - [Computer graphics](#computer-graphics)
 - [Computer security](#computer-security)
 - [System design](#system-design)
@@ -30,10 +29,6 @@
 - [Development Project](#development-project)
 - [Rigorous Reading Playground](#rigorous-reading-playground)
   - [ITA001](#ita001)
-
-
-- MIGRATION ON GOING, DISINTEGRATE 2 ALL OTHER SECTIONS
-- Single depth is not enough, consider nesting after getting more experience
 
 
 CONSIDER FURTHUR DISPERSE IT INTO LOG
@@ -119,18 +114,6 @@ CONSIDER FURTHUR DISPERSE IT INTO LOG
     - Skimmed `Kernel` section for lack of dire needs
 
 
-
-# Data structure and algorithms
-- Introduction to Algorithms 3rd Edition: 0-55/1313
-  - Hash: ITA001
-  - [Link1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
-  - [Link2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
-  - [Link3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
-  - [Link1](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
-  - Process 1
-    - Style: Rigorous --> To exclusive space
-- LeetCode Cookbook Analysis in Go
-  - [link1](https://books.halfrost.com/leetcode/)
 
 
 # Computer graphics

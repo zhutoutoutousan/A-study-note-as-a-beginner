@@ -142,10 +142,10 @@
         - Writing system
         - Sequence ordering
   - Long-term training management update
-- Chinese --> `bymaverse`
+- Chinese
   - CHANGE_LOG
     - 2023/2/3
-      - Current Most Prominent Limiting Factor(CMPLF): 不同本土亚文化人设场域管理的稳定性及词汇不足
+      - Current Most Prominent Limiting Factor(CMPLF): Subculture-based group infiltration requires more vernacular fluency
   - Standardized framework --> `ERROR: Deprecated data`
     - Industry-based assessment standard
     - Role-based assessment standard
@@ -155,7 +155,7 @@
   - TOPIC International Team Collaboration
     - Techno part
       - [uni-app & uniCloud for Western World - 14](https://www.youtube.com/watch?v=xz9W2M3qE20&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=14)
-        - VSM: 5:00
+        - VSM: 9:51 NEXT
         - LM: 14
     - Cultural part
     - Spatial Temperal part
@@ -179,7 +179,7 @@
         - LIST [China from Above 2/2 The Future Is Now](https://www.youtube.com/watch?v=mocJkBWbnok&list=PLi926ELtjbx5-0edbl0dIOVAeGkynE_-_&index=2)
           - Flashcardification LIMIT 3
             - Prunemark: \$-1:02 | STATE: FROZEN if under 60%
-            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 62.4%
+            - REFERENCE SYNC MIRROR FlashcardificationNeuralStimulationSaturation: 59.9%
               - ReferenceHash: `lang_dev`
       - Low Q
     - Continuous`?`Development Single Layer Meta Development Unit
@@ -223,9 +223,9 @@
               - RUNNING Convert to `csv` for flashcard-ification
             - PROCESSING_POINTER_FIELD
               - Flashcardification
-                - FlashcardificationPruneRegistries: 9.6%
-                  - 36-66 | STATE: FROZEN if under 60% or over 90%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 62.4%: \[80%-100%\]
+                - FlashcardificationPruneRegistries: 9.9%
+                  - 36-67 | STATE: FROZEN if under 60% or over 90%
+                - REFERENCE **SYNC** MIRROR **FROZEN** FlashcardificationNeuralStimulationSaturation: 59.9%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -334,8 +334,9 @@
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
       - **EMERGENCY PRIORITIZED** The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 11.1%
-        - TEMP_TIMESTAMP
+        - CCS: 11.5% BLOCKER
+          - BLOCKER_STATEMENT: `Laser not visible after refactoring`
+        - TEMP_TIMESTAMP: 2:00
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
       - Shader Development from Scratch for Unity with Cg - U
@@ -347,7 +348,7 @@
       - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
         - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 2:04:00
+      - VSM: 2:06:29 PENDING
       - RANDOM Language Pair: German-Spanish
       - Bookpair Practical WebGPU Graphics
       - Phong Mode, Bling-Phong Model
@@ -408,7 +409,7 @@
                 - Isomorphism
                 - Homeomorphism
                   - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
-                    - VSM: 32:30 3411
+                    - VSM: 3
                     - Bookpair
                       - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
                         - PPF
@@ -655,8 +656,8 @@
           - Startup --> Managed by `portuguese/freelanceable` and `spanish/early-startup`
         - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
           - **IMPORTANT PRIORITIZED** Apache Airflow: The Hands-On Guide - U
-            - CCS: 27.4%
-            - TEMP_TIMESTAMP: 0:41
+            - CCS: 30.1%
+            - TEMP_TIMESTAMP
             - SUPPLEMENT | CS 361 - System Programming
               - CONFIG Language Pair: Spanish
               - [CS 361 Systems Programming: Administrivia](https://www.youtube.com/watch?v=TavEuAJ4z9A&list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP) 
@@ -673,13 +674,13 @@
             - TEMP_TIMESTAMP: 2:30
           - CFA Level 1
             - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464#overview)
-              - CCS: 56.8%
+              - CCS: 57.1%
               - ETA: 4.82 months
-              - TEMP_TIMESTAMP: 1:20
+              - TEMP_TIMESTAMP: 2:00
               - SUPPLEMENT Persistent Flashcardification
                 - *Initiate Flashcardification on Practice questions*
                   - FlashcardificationMark: 6/16 | 37.5%
-                    - Saturation: 12.4%
+                    - Saturation: 15.2%
               - VOCABULARY Market value
                 - [Market Capitalization: How Is It Calculated and What Does It Tell Investors?](https://www.investopedia.com/terms/m/marketcapitalization.asp)
                 - [Book Value vs. Market Value: What's the Difference?](https://www.investopedia.com/ask/answers/how-are-book-value-and-market-value-different/)
@@ -875,6 +876,7 @@
                     - [Designing a GDPR compliant blockchain-based IoV distributed information tracking system](https://www.aminer.org/pub/603769ecd3485cfff1df4a92/designing-a-gdpr-compliant-blockchain-based-iov-distributed-information-tracking-system)
                   - Tooling
                     - [Aminer](https://www.aminer.org/)
+                    - [Connected Paper](https://www.connectedpapers.com/)
                   - Input Channel
                     - [How to choose news](https://www.youtube.com/watch?v=q-Y-z6HmRgI)
                 - RAI
@@ -1667,7 +1669,7 @@
                     - VSM: 20:42
                     - CONFIG `isForcedHandsOn=True`
                   - [TradingView Pine Script Tutorial 15 - UNIX Time - Bitcoin Supply](https://www.youtube.com/watch?v=st5hIha7lyU&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=15)
-                    - VSM: 3:30
+                    - VSM: 8:30
                     - LM: 15
                      ​ ContinuousSkillDevelopmentUnit Be able to translate complex, multi-staged intuition directly to backtestable strategy in matter of minutes
                     - CRITICAL_QUESTION What is the best integration strategy for using pine script and ChatGPT/Copilot?
@@ -1678,14 +1680,15 @@
                     - CRITICAL_QUESTION Define *Optimal HMRM(Human-machine responsibility model), try to perform time-series boundry condition analysis*
                     - SUPPLEMENT On-demand French Recap
                       - [Français B2 | Les pronoms démonstratifs CELUI, CELLE, CEUX, CELLES](https://www.youtube.com/watch?v=YUSjyIbPtNk)
-                        - VSM: 2:30
+                        - VSM: 4:44 TTL
                       - [Demonstrative Pronouns in French](https://www.youtube.com/watch?v=mbgPe9CrQSo)
+                        - VSM: 2:00
                 - Trade agent
               - Strategy Lists
                 - Bollinger Brand Strategy
                 - Stair Master Strategy
                   - [Stair Master Strategy 1 min, 5 min, 15 min Forex Scalping](https://www.youtube.com/watch?v=Eog_3-dYrMA)
-                    - Videosweepmark: 13:30
+                    - Videosweepmark: 18:30
           - MESO
             - Manual Trade Execution
               - Portfolio orchestration
@@ -3078,9 +3081,9 @@
       - _manual-control-override
         - **BLACKHOLE**
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 63.9%
+            - CCS: 64.5%
             - ETC：2.46 months
-            - TEMP_TIMESTAMP: 5:00
+            - TEMP_TIMESTAMP: 1:00
             - CONFIG `isForcedHandsOn=['Conditional True', 'ETL and others']`
               - *Data cleaning procedure on **quotation, column misalignment problem**
                 - AI-based solution
@@ -3088,11 +3091,10 @@
                   - [ ] Alteryx
                     - NEW IDEA One-off use of certain pay-walled software, possibility to high granularity SaaS?
                       - *Solving problem: I want to use a certain functionality of a software only for once to do certain things, not paying for its entirety*
-                - Deeper look into CSV file
-                  - [Data Cleaning in Julia - How to check for Missing Values](https://www.youtube.com/watch?v=vaBIwAT6SCM&list=PLJ39kWiJXSiwksZX7M3f4uHM9_vQAzhL0&index=4)
-                    - VSM: 11:04 NEXT
+                - Deeper look into CSV file --> REMOVE
+                  - [Data Cleaning in Julia - How to check for Missing Values](https://www.youtube.com/watch?v=Vx0MxQWSNQ4&list=PLJ39kWiJXSiwksZX7M3f4uHM9_vQAzhL0&index=5)
+                    - VSM: 3:00 --> `ROOT.CEF`: *Useless, remove* 
                     - LM: 4
-                - Fxxkin\' ipynb Script
               - CONFIG ETL tool: Azure Data Factory, Source another IPA-based ETL tool
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CRITICAL_QUESTION What is the name of the data cleaning software that extract major characteristics of your data with human interventions, and automatically
@@ -3111,19 +3113,19 @@
                   - ?
                     - Mallow, 2LL
                       - RECURSIVE PROMISCUOUS [SST, SSE, SSR reasoning](https://stats.stackexchange.com/questions/207841/why-is-sst-sse-ssr-one-variable-linear-regression)
-                        - Saturation: 22%
+                        - Saturation: 31%
                         - PROMISCUOUS_STATEMENT
                           - Any node tagged with `PROMISCUOUS` will have no `LIMIT` or `DEPTH` tag
                           - Any such node will perform limitless node growth based on any `OUTREACHEABLES` in the node value
-              - Schwarz criterion
+              - Schwarz criterion --> REMOVE
                 - [Statistics 101: Multiple Regression, AIC, AICc, and BIC Basics](https://www.youtube.com/watch?v=-BR4WElPIXg)
-                  - VSM: 16:30
+                  - VSM: 17:25 TTL
               - Hannan-Quinn
               - CAP Curve
             - **MUTATION TANDEM** Digital Signal Processing ^ Data Science
               - MIT RES.6-008
                 - [Demonstration 1: Sampling](https://www.youtube.com/watch?v=zBJMh-m9b1E&list=PL8157CA8884571BA2&index=2)
-                  - VSM: 16:30
+                  - VSM: 18:00
                   - LM: 2
                 - SUPPLEMENT Unscoped Supplements
                   - [Discrete Time Digital signal processing by Oppenheim](https://research.iaun.ac.ir/pd/naghsh/pdfs/UploadFile_2230.pdf)
@@ -3443,7 +3445,7 @@
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
                 - CCS: 41.0%
-                - TEMP_TIMESTAMP: 6:00
+                - TEMP_TIMESTAMP: 11:00
                 - PANIC_SATURATION: 2%
                   - WARNING: Prompts needed
                 - ?
@@ -3847,7 +3849,7 @@
             - [IPA provider watchlist](https://docs.google.com/spreadsheets/d/1l-LDSqsTkbyfOn4fZuyEwgwgCT3xAHlvIUGPflVzjzU/edit?usp=sharing)
               - _meta
                 - [Google Sheets Advanced Tutorial](https://www.youtube.com/watch?v=t0B0Tgz0b-0)
-                   - VSM: 40:12
+                   - VSM: 45:00
                    - Pivot table
                 - [How to Build a Professional Dashboard in Google Sheets (Query Formula Advanced Course) Step-by-Step](https://www.youtube.com/watch?v=ccTdDPDGEGM)
                 - [How to Build a Sales Funnel Dashboard for a Sales Team Google Forms & Google Sheets QUERY COURSE](https://www.youtube.com/watch?v=d9COw03XYX4)
@@ -3874,7 +3876,7 @@
               - SOURCE [awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry)
               - PREREQUISITE Solid grasp of Neuroscience
                 - [MIT 9.13 - 1](https://www.youtube.com/watch?v=ba-HMvDn_vU)
-                  - VSM: 1:07:30
+                  - VSM: 1:12:30
                   - CONFIG Language pair: Portuguese
                   - **DETACHEABLE** Interest-based Paper Reading Agent
                     - _method
@@ -3938,7 +3940,7 @@
             - Email Management
                 - Email Ninja - Take Back Control of Your Email Inbox - U
                 - [Monthly Webinar Series: Managing Tasks with Outlook, To Do, Planner & Teams](https://www.youtube.com/watch?v=bbtxiLNASw8)
-                  - VSM: 28:00
+                  - VSM: 38:00
             - GenZ tools
           - Marketing Reconaissance
           - SEO
@@ -4181,9 +4183,9 @@
           - Videosweepmark: ?
     - MESO
       - Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Arabic grammar Murakkab Jaari مُرَكَّبْ جارِي propositional phrase [#07-P1]](https://www.youtube.com/watch?v=J0KRgri8hNE&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=21)
-          - VSM: 25:00
-          - VideoListStamp: 21
+        - [Arabic grammar Harf of Jarr حرف جر propositions used in Quran [#07-P2]](https://www.youtube.com/watch?v=Cq3sAqPdjRY&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=22)
+          - VSM: 8:00
+          - VideoListStamp: 22
           - Bookpair: Al-Qur'an
         - [Arabic Grammar For All - Lesson 16 - Part 1 - Indeclinable Nouns - Abu Sulaymaan](https://www.youtube.com/watch?v=0-bsBV1DY9c&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=18)
           - VSM: 32:40
@@ -4217,6 +4219,7 @@
                 - الْمُخَاطَب
                 - الْغَائِب
               - الْجَمْع
+                - `self` | 50%
                 - الْمُتَكَلِّم
                 - الْمُخَاطَب
                 - الْغَائِب
@@ -4232,30 +4235,24 @@
       - STATIC
       - VOLATILE STATE=ELIMINATE
         - الفعل
-          - 100% TTL | فهم
           - ?
             - 5% | لدي
             - 80% | كان
-          - 100% TTL | تنزيل
         - حرف جر
           - 55% | مع
         - ظرف
-          - 100% TTL | أدناه
           - رُبَّمَا
         - اِقتِران
-          - 100% TTL | دُونَ
           - 75% | كما
         - ضمير
           - شيء
         - صفة
-          - 100% TTL | طويل
           - 85% | خاصة
-          - 100% TTL | متأخر
           - 35% | موجزًا
         - اسم
-          - 60% | مبدأ
+          - 90% | مبدأ
           - 30% THROTTLE FREQUENT | ساعة
-          - 23% | التي
+          - 53% | التي
   - Tool
     - Rapid, Point-in-time, portable Entry
       - Reverso
@@ -4597,8 +4594,8 @@
     - PQA
       - Basics
         - **BLACKHOLE EMERGENCY PRIORITIZED** Selenium Webdriver with PYTHON from Scratch + Frameworks - U
-          - CCS: 74.3%
-          - TEMP_LISTSTAMP: 4:02
+          - CCS: 78.5%
+          - TEMP_LISTSTAMP 4:00
           - `WARNING: Errors like Element is not selectable for modern apps requires resolution`
             - CRITICAL_QUESTION How to deal with the chasm of de-HTMLSemantic-fication of modern apps with testing suites?
         - The Complete 2023 Software Testing Bootcamp - U
@@ -4683,12 +4680,12 @@
   - TOPIC Innovation, Tech, Ideas, Productivity
     - Coding
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-        - CCS: 47.5%
+        - CCS: 49.0%
         - TEMP_TIMESTAMP
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
-      - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview)
-        - CCS: 1%
+      - [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/14504488#overview) --> REMOVE
+        - CCS: 1% --> *Not necessary, remove on next encounter*
         - _state
           - **BLACKHOLE**: Detecting high integration overlap, **BLACKHOLE** applies
     - Tech
@@ -4905,8 +4902,8 @@
         - CCS: 9.2%
         - TEMP_TIMESTAMP
       - **BLACKHOLE EMERGENCY** Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
-        - CCS: 18.3%
-        - TEMP_TIMESTAMP: 6:13
+        - CCS: 20.5%
+        - TEMP_TIMESTAMP
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
   - TOPIC Consulting
     - _motivation
@@ -4925,7 +4922,7 @@
           - Metrics: Catalogability, Indexability, Trackability, Analytics Integration, Energy usage efficiency
         - TASK Create hormonal manipulation strategy
 - Korean - TOPIK II+
-  - Initialization of language/meta structrure: 89.8%
+  - Initialization of language/meta structrure: 90.5%
     - `ROOT.CentralExecutiveFunction`
       - `onComplete`
         - RESOUCE_ALLOCATION `time='10 seconds`
@@ -5060,7 +5057,7 @@
           - Videosweepmark: 1:03:00
           - Language pair SHUFFLE: Japanese - French
         - [JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video](https://www.youtube.com/watch?v=s6bZA2xVBkE)
-          - Videosweepmark: 1:03:01
+          - Videosweepmark: 1:13:01
           - Language pair SHUFFLE: Japanese - Portuguese
     - VOLATILE
       - _STATE: ELIMINATE
@@ -5126,15 +5123,22 @@
       - *Inline VOCABULARY tag more useful for pre-intermediate, concentrated cache for post-intermediate*
       - *Only coming from the topics that YOU THINK, it DOES YOU GOOD!*
     - **Глагол**
-      - поделиться
-      - превышать
-      - умножать
-      - оптимизировать
-      - объявить
-      - задать
-      - переполниться
-      - попытаться
-      - означать
+      - поделиться | 50%
+        - дели́ться
+      - превышать | 20%
+        - превы́сить
+      - умножать | 70%
+        - умно́жить
+      - оптимизировать | 90%
+      - объявить | 40%
+        - объявля́ть
+      - задать | 40%
+        - задава́ть
+      - переполниться | 100% TTL
+      - попытаться | 40%
+        - пыта́ться
+      - означать | 40%
+        - озна́чить
     - **Предлог**
       - вот
     - **Местоимение**
@@ -5142,8 +5146,8 @@
       - целый | 30%
       - отрицательный | 30%
       - пограничный | 40%
-      - абсолютный | 40%
-      - следующий | 50%
+      - абсолютный | 90%
+      - следующий | 95%
       - всякий | 30%
     - **Наречие**
       - по-видимому | 50%
@@ -5153,11 +5157,8 @@
       - часть | 90%
       - случай | 80%
       - кое-что | 20%
-      - отрицательный
-      - пограничный
-      - абсолютный
-      - следующий
-      - всякий
+      - отрицательный | 50%
+      - пограничный | 50%
     - **Наречие**
       - по-видимому | 50%
     - **Существительное**
@@ -5268,6 +5269,40 @@
   - TOPIC | Algorithm & Data structure | Foundations, Catalog & Point in time Neural stimulation with Russian --> ACTIVE 1min/day
     - _destination_on_complete: `Language/Russian/$(L2 Cache)`
     - ? LIMIT 5
+      - [Codeforces 1792A Solution | GamingForces](https://www.youtube.com/watch?v=Ip3l43TDI4Y)
+        - VSM: 5:00
+        - PERSISTENT Distributed Greedy Algorithm with Teleportation under set coverage cap
+          - [Distributed greedy algorithm for multi-agent task assignment problem with submodular utility functions](https://www.sciencedirect.com/science/article/abs/pii/S0005109819301281)
+            - [ALT](https://nali.seas.harvard.edu/files/nali/files/submodular_automatica2018.pdf)
+            - SUPPLEMENT Concentrated Supplementation
+              - VOCABULARY NP-hard
+              - Introduction to Algorithms 3rd Edition
+                - _net
+                  - Hash: ITA001
+                - _misc
+                  - [ALT1](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+                  - [ALT2](https://web.ist.utl.pt/~fabio.ferreira/material/asa/clrs.pdf)
+                  - [ALT3](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS/blob/master/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
+                  - [ALT4](http://www.r-5.org/files/books/computers/algo-list/common/Cormen_Lin_Lee-Introduction_to_Algorithms_(Solutions)-EN.pdf)
+                - PPF
+                  - OP: 41
+                    - INDICATOR | S: 0.5%
+                  - CUSTOMIZED_POITNER Graph Database Prioritized Pointer
+                    - CONFIG_STATEMENT *Prioritize graph algorithm and its use case in Gremlin query*
+                - PPS
+                  - **IMPORTANT EMERGENCY PRIORITIZED** [Apache Tinkerpop Recipe](https://tinkerpop.apache.org/docs/current/recipes/)
+                    - WARNING *This stupid fxxking site will cause Chrome browser to suffer from seizure from time to time, proceed with caution*
+                      - CONT *Don't use chrome for it*
+                    - PPF_OP: *Beginning*
+                    - IMPERATIVE Setup Gremlin console
+                    - CONFIG `isForcedHandsOn=true`
+                    - CONFIG `isForcedImperativeLinearTrajectory=true`
+                    - PIPELINE Imperative Linear Processing Pipeline
+                      - [apache-tinkerpop](https://github.com/apache/tinkerpop)
+                    - Supplement
+                      - [Practical Gremlin](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
+              - LeetCode Cookbook Analysis in Go
+                - [ALT1](https://books.halfrost.com/leetcode/)
       - [CF-1749-B](https://codeforces.com/problemset/problem/1749/B)
         - SUPPLEMENT
           - [Educational Codeforces Round #138 Editorial - Problems A,B,C,D](https://www.youtube.com/watch?v=8fGwF4Ylw-I)
@@ -5376,11 +5411,11 @@
             - SOURCING SUPPLEMENT 
               - Methods for Physics and Engineering
         - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
-          - VSM: 1:13:02
+          - VSM: 1:16:02
           - CONFIG Language Pair: Greek
           - Logarithmic Chart Reading
-          - VOCABULARY διαγράμματα | 20%
-          - VOCABULARY σπουδάζω | 25%, σχεδιάζω | 1%
+          - VOCABULARY διαγράμματα | 25%
+          - VOCABULARY σπουδάζω | 35%, σχεδιάζω | 1%
           - VOCABULARY ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
             - Initial exposure saturation: 4.12%
           - ?
@@ -5404,9 +5439,9 @@
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 39_Unit 7 Independent Uses of the Optative](https://www.youtube.com/watch?v=HEXUl3jFk0Q&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=40)
-        - VM: 1:00
+        - VM: 5:39
         - ListStamp: 40
-        - VOCABULARY προσδιορίζω, βλέπω, απαγωγή
+        - VOCABULARY προσδιορίζω | 10%, βλέπω | 5%, απαγωγή
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods

@@ -409,7 +409,7 @@
                 - Isomorphism
                 - Homeomorphism
                   - [Topology Lecture 01: Topological Spaces](https://www.youtube.com/watch?v=vv3JNSPKeEU)
-                    - VSM: 3
+                    - VSM: 36:00
                     - Bookpair
                       - [Introduction to Topological Manifolds (Second edition)](https://www.mymathscloud.com/api/download/modules/University/Textbooks/topology/4)Intro%20to%20Topological%20Manifolds,%20Lee.pdf?id=48928272)
                         - PPF

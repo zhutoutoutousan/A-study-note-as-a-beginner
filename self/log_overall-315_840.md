@@ -125,6 +125,19 @@
           - Cache
         - Colloquially, people call them *Long-term memory/Knowledge*
   - **Peripherals**
+- Human Language Study Axiom Arena
+  - STAGING_AREA
+    - _DAG IMPLEMENTS `ROOT.GlobalCLK`
+      - RUNNING `ROOT.cronCallBack(this.context, ROOT.LocalCLK(Unknown unknownLocalClockManagementSet) ?? ROOT.GlobalCLK)`
+      - UNKNOWN Unknown
+        - UNKNOWN *Should have some mechanisms to do distillation for generating manufacturables*
+      - `this.context`
+        - *Recycle useless and irrelevant axioms that poses subpar impact*
+    - _items
+      - *Italian, Arabic, Hindi Grammar are highly connected with respect to their form of conjugation of subjunctive*
+      - *Unsure of that when that post C2 huge reduction in energy consumption when consuming/outputing normally difficult information with respect to natural human language \{X\} will come*
+        - BEGIN `SCOPED` SCOPE=*all items at the same level*
+        - TASK *Quantifiable Canonical Language Learning Lifecycle with respect to a Learning Arena/Corona \{Y\}*
 - NEW STANDARD FOR C2+ in current avaialble standard system
   - _overall
     - Proficiency described using visualized knowledge graph
@@ -144,9 +157,6 @@
         - Sequence ordering
   - Long-term training management update
 - Chinese
-  - CHANGE_LOG
-    - 2023/2/3
-      - Current Most Prominent Limiting Factor(CMPLF): Subculture-based group infiltration requires more vernacular fluency
   - Standardized framework --> `ERROR: Deprecated data`
     - Industry-based assessment standard
     - Role-based assessment standard
@@ -155,9 +165,9 @@
     - Innate linguistic neural-level attribute enhancement
   - TOPIC International Team Collaboration
     - Techno part
-      - [uni-app & uniCloud for Western World - 19](https://www.youtube.com/watch?v=A3LfNUr4eXc&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=19)
-        - VSM: 6:00 NEXT
-        - LM: 19
+      - [uni-app & uniCloud for Western World - 36](https://www.youtube.com/watch?v=1qBGYQ9LGew&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=36)
+        - VSM
+        - LM: 36
         - CONFIG `speed=2`
         - SUPPLEMENT [Vscode x uni-app](https://juejin.cn/post/7090532271257714695)
     - Cultural part
@@ -228,7 +238,7 @@
               - Flashcardification
                 - FlashcardificationPruneRegistries: 9.9%
                   - 36-67 | STATE: FROZEN if under 60% or over 90%
-                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 67%: \[80%-100%\]
+                - REFERENCE **SYNC** MIRROR FlashcardificationNeuralStimulationSaturation: 70.5%: \[80%-100%\]
                   - ReferenceHash: `lang_dev`
           - [当代翻译理论](https://drive.google.com/file/d/1kfNYYY2kzSV6EUxBWPW37-fRQZOgMDxx/view?usp=sharing)
       - VERY_SLOW_POINTER Atomic Development Unit
@@ -337,13 +347,13 @@
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
       - **EMERGENCY PRIORITIZED** The Ultimate Guide to Game Development with Unity (Official) - U
-        - CCS: 14.0%
+        - CCS: 18.2
         - TEMP_TIMESTAMP
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
         - TANDEM Complete C# masterclass - U
-          - CCS: 16.3%
-          - TEMP_TIMESTAMP: 3:00
+          - CCS: 31.3%
+          - TEMP_TIMESTAMP
           - CONFIG `isForcesHandsOn=false`
           - CONFIG `playbackSpeed=2`
       - Shader Development from Scratch for Unity with Cg - U
@@ -355,7 +365,7 @@
       - Build 15 Augmented Reality (AR) apps with Unity & Vuforia - U
         - Language pair: Polish + Duolingo Polish
     - [WebGPU Tutorial - Advanced Graphics on the Web Course](https://www.youtube.com/watch?v=KTFFdZSDiTU)
-      - VSM: 2:04:00
+      - VSM: 2:06:29 PENDING
       - RANDOM Language Pair: German-Spanish
       - Bookpair Practical WebGPU Graphics
       - Phong Mode, Bling-Phong Model
@@ -655,6 +665,8 @@
       - Resonnance
     - Complexity Theory & Meso Science
   - TOPIC | Key Ingredients of Human Nature in 2023
+    - Radical Innovation
+      - OpenAI Python API Bootcamp: Learn to use AI, GPT3, and more!
     - Money --> Groundwork & 30,000 feet outlook
       - Investment --> Managed by `french/investment`
       - Groundwork
@@ -662,22 +674,23 @@
           - Startup --> Managed by `portuguese/freelanceable` and `spanish/early-startup`
         - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
           - **IMPORTANT PRIORITIZED** Apache Airflow: The Hands-On Guide - U
-            - CCS: 38.6%
-            - TEMP_TIMESTAMP: 1:02
+            - CCS: 47.4%
+            - TEMP_TIMESTAMP: 3:00
             - SUPPLEMENT | CS 361 - System Programming
               - CONFIG Language Pair: Spanish
-              - [CS 361 Systems Programming: Administrivia](https://www.youtube.com/watch?v=TavEuAJ4z9A&list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP) 
-                - VSM: 10:17
-                - LM: 1
+              - [Tricks of the trade: programming environments](https://www.youtube.com/watch?v=N6acwsgUl1w&list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&index=3) 
+                - VSM: 2:40
+                - LM: 3
                 - [Computer Systems: A Programmer's Perspective](http://guanzhou.pub/files/Computer%20System_EN.pdf)
-                  - PPF::OP: 17
-                    - INDICATOR | S: 0.0001%
+                  - PPF::OP: 37
+                    - INDICATOR | S: 0.0042%
                   - [Reserved source](https://github.com/smellslikekeenspirit/an-askreddit-list-of-compsci-books/blob/master/Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D%20(2016%2C%20Pearson).pdf)
             - SUPPLEMENT Linux Storage Concentrated Review
               - CONFIG Language Pair: Spanish
               - [Linux Crash Course - Formatting & Mounting Storage Volumes](https://www.youtube.com/watch?v=2Z6ouBYfZr8)
                 - VSM: 1:00
               - [CPU, Memory, Disk Utilization Report from Multiple Servers Shell Script](https://www.youtube.com/watch?v=JT2lEulFlrQ)
+                - VSM: 5:00
               - [Disk Management - Bash Basics (Linux CLI)](https://www.youtube.com/watch?v=HsRRX05f1L4)
               - [What's behind a file descriptor in Linux? Also, i/o redirection with dup2.](https://www.youtube.com/watch?v=rW_NV6rf0rM)
           - Data Engineering Essentials using SQL, Python, and PySpark
@@ -685,19 +698,23 @@
             - TEMP_TIMESTAMP: 2:30
           - CFA Level 1
             - [Level 1 CFA® Exam Prep Bootcamp (Part 1/2)](https://www.udemy.com/course/level-1-cfa-exam-prep-bootcamp/learn/lecture/16745464)
-              - CCS: 62.7%
-              - TEMP_TIMESTAMP: 5:30
-              - ?IOS: Agile In-brain IOS for trader, **WACC calculation**, CAPM
+              - CCS: 67.8%
+              - TEMP_TIMESTAMP
+              - SUPPLEMENT [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+                - VSM: 1:30
+              - ?IOS: Agile In-brain IOS for trader, **WACC calculation**, CAPM, DOL
                 - [CAPM Beta explained (for the @CFA Level 1 exam)](https://www.youtube.com/watch?v=QwVb_4hEYjc)
+                  - VSM: 5:00
               - PANIC Country Risk Premium?
               - SUPPLEMENT Persistent Flashcardification
                 - *Initiate Flashcardification on Practice questions*
-                  - FlashcardificationMark: 7/16 | 43.5%
-                    - Saturation: 11.6%
+                  - FlashcardificationMark: 9/16 | 56.25%
+                    - Saturation: 19.1%
               - VOCABULARY [IRR](https://www.investopedia.com/terms/i/irr.asp)
                 - INDICATOR | S: 10%
               - VOCABULARY Market value
                 - [Market Capitalization: How Is It Calculated and What Does It Tell Investors?](https://www.investopedia.com/terms/m/marketcapitalization.asp)
+                  - INDICATOR Saturation AS `S`: 3%
                 - [Book Value vs. Market Value: What's the Difference?](https://www.investopedia.com/ask/answers/how-are-book-value-and-market-value-different/)
               - TOPIC Spin Doctor 101: Political Lobbying
                 - [Demystifying the world of political lobbying](https://www.youtube.com/watch?v=ErZOZT2q7P4)
@@ -1383,22 +1400,27 @@
                     - ALL `italian` CS toolkit CS toolkit carry-overables
               - S.O.I
                 - whosarat
-            - [The Changing Nature of Crime and Criminal Investigations Webinar](https://www.youtube.com/watch?v=G0nAXbxApik)
-            - [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial](https://www.youtube.com/watch?v=D2rutsb-ft0)
-              - VSM: 9:40 PENDING
-              - PIPELINE
-                - PIPELINE Online Presense Mapping
-                  - TOOLING Neo4j, Maltego CaseFile
-                  - TOOLING Maltego Standard Transforms OSINT, Social Links CE, Pipl
-            - [Tracking A Bitcoin Scam with Maltego & Tatum](https://www.youtube.com/watch?v=0CnElCSQTF0)
-            - [How to: Single Image Analysis Using Reverse Image Search with TinEye in Maltego - Official Tutorial](https://www.youtube.com/watch?v=dxUaOgH7tcs)
-              - VSM: 5:00
-            - [Open Source Intelligence Gathering with Maltego](https://www.youtube.com/watch?v=-4ell2N3kj4)
-              - VSM: 2:30
-            - [How to Conduct Network Footprinting Using Maltego in 5 Minutes](https://www.youtube.com/watch?v=SdVqHkyOPk4)
-            - [Cell phone record analysis and geolocation with Maltego](https://www.youtube.com/watch?v=cjCQBYld_wM)
-            - [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://www.youtube.com/watch?v=46st98FUf8s)
-              - VSM: 2:30
+            - ?
+              - Information Gathering(Due diligence investigation)
+                - [Open Source Intelligence Gathering with Maltego](https://www.youtube.com/watch?v=-4ell2N3kj4)
+                  - VSM: 2:30
+                - [How to Conduct Network Footprinting Using Maltego in 5 Minutes](https://www.youtube.com/watch?v=SdVqHkyOPk4)
+                - [Cell phone record analysis and geolocation with Maltego](https://www.youtube.com/watch?v=cjCQBYld_wM)
+                - [Maltego - Automated Information Gathering](https://www.youtube.com/watch?v=zemNLx0-LRw)
+                - [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://www.youtube.com/watch?v=46st98FUf8s)
+                  - VSM: 7:30
+                - [AIDE 2018 Practical OSINT Tools of the trade Tom Moore](https://www.youtube.com/watch?v=nvdsQlT9_xY)
+              - ?
+                - [The Changing Nature of Crime and Criminal Investigations Webinar](https://www.youtube.com/watch?v=G0nAXbxApik)
+                - [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial](https://www.youtube.com/watch?v=D2rutsb-ft0)
+                  - VSM: 9:40 PENDING
+                  - PIPELINE
+                    - PIPELINE Online Presense Mapping
+                      - TOOLING Neo4j, Maltego CaseFile
+                      - TOOLING Maltego Standard Transforms OSINT, Social Links CE, Pipl
+                - [Tracking A Bitcoin Scam with Maltego & Tatum](https://www.youtube.com/watch?v=0CnElCSQTF0)
+                - [How to: Single Image Analysis Using Reverse Image Search with TinEye in Maltego - Official Tutorial](https://www.youtube.com/watch?v=dxUaOgH7tcs)
+                  - VSM: 5:00
           - Due diligence investigation
             - Rigorously offensive due diligence investigation
               - Supply Chain Investigation
@@ -1432,14 +1454,14 @@
                         - S: 0.5%
         - Economics
           - [Learn Economics- Full Course for Traders & Investors](https://www.youtube.com/watch?v=ukbvEHPdnSE)
-            - Videosweepmark: 20:00
+            - Videosweepmark: 25:00
             - ?
               - Scarcity, Consensus, Expectation Divergence, Opportunity Cost, Nominal divergence
                 - [Ceteris Paribus](https://www.youtube.com/watch?v=zVMG5VO8_WY)
               - D&S
           - ECON 252 --> `this.concurrentTraffic = 0.2`
             - [3. Technology and Invention in Finance](https://www.youtube.com/watch?v=Iij2mpilSJo&list=PL8FB14A2200B87185&index=3)
-              - VSM: 5:00
+              - VSM: 10:10
               - LM: 3
               - CURIOSITY_OUTREACH
                 - CoVaR
@@ -1563,7 +1585,7 @@
               - USE_CASE Sentiment Analysis
               - USE_CASE Counterpart Segmentation
               - [MIT 14.13 - 1](https://www.youtube.com/watch?v=j5XdY5wkVTA&list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q)
-                - VSM: 30:04
+                - VSM: 40:04
             - Quant
               - [Hands-On Machine Learning for Algorithmic Trading by Stefan Jansen](https://www.algotradinghome.ir/Library/Hands-On%20Machine%20Learning%20for%20Algorithmic%20Trading%20by%20Stefan%20Jansen.pdf)
                 - PPF
@@ -1582,7 +1604,7 @@
               - Denoobification
                 - *Using trading software by only using keyboard shortcut, League of Legend Style!*
                 - [A Deep Dive into Candlesticks - Intermediate Trading Series Class #1](https://www.youtube.com/watch?v=tACKvY1jHgs&list=PLJAEKq6_6huyEIUfe6QJCrLzSDEvchS1_)
-                  - VSM: 10:00
+                  - VSM: 20:00
                   - LM: 1
               - *TIMING!*
                 - [Revolutionize Your Entries with The S Curve!](https://www.youtube.com/watch?v=WaLg8MW2Y38)
@@ -1590,7 +1612,7 @@
                   - LM: 1
               - *TRACK EVERY TRADE!*
                 - [Spreadsheet Denoobification Program - 1](https://www.youtube.com/watch?v=cm5ZLtPFisc&list=PL2UYNY-mZ8NL0jZa_n16NOzCZ26dXmKV6)
-                  - POINTER | VSM: 3:06
+                  - POINTER | VSM: 7:40
                   - CONFIG isForcedHandsOn: `true`
                   - CONFIG *steal half of the canonical time allocation from trading/coding*
                 - [How to Create a Day Trading Tracker in Google Sheets (Step by Step)](https://www.youtube.com/watch?v=fv1h4p2lfvQ)
@@ -1611,7 +1633,7 @@
                     - VSM: 6:00
                 - MT4
                   - [MetaTrader 4 shortcuts you NEED to know!](https://www.youtube.com/watch?v=7sNjLbhN9kg)
-                    - Videosweepmark: 7:50
+                    - Videosweepmark: 12:12 TTL
                   - [MT4 Settings, Tools and Tricks](https://www.youtube.com/watch?v=N0PVVBj-Mp0)
                 - TradingView
                   - Backtesting
@@ -1622,6 +1644,7 @@
                 - Price Action
                   - General
                     - [The 1HR Price Action Trading Strategy](https://www.youtube.com/watch?v=A4DjMwtefvE)
+                      - VSM: 10:00
                   - IN_CONTEXT(INDICATOR) Moving Average
                     - EMA
                     - SMA
@@ -1629,12 +1652,13 @@
                       - Source Code
                       - Implementation
                         - [STOP using the MOVING AVERAGE crossover like this!](https://www.youtube.com/watch?v=1usviKue5UM)
-                          - VSM: 5:39
+                          - VSM: 15:57 TTL 
+                          - NEW Bar chart pattern
                       - Low-level intuition & proficiency
                       - Combo outreach proficiency
                   - IN_CONTEXT(INDICATOR) Ichimoku Cloud
                     - [Ichimoku Cloud: What It Means and How to Use It](https://www.youtube.com/watch?v=H9eILCI5nJo)
-                      - VSM: 3:30
+                      - VSM: 8:30 TTL
                     - [How To Master The Ichimoku Cloud | Trading Indicators](https://www.youtube.com/watch?v=7yW44mdHFIw)
                       - VSM: 5:00
                   - IN_CONTEXT(PATTERN) Wedge
@@ -1642,15 +1666,17 @@
                     - Rising Wedge
                   - IN_CONTEXT(PATTERN) Channel
                     - [How to Trade Channels: Price Action Strategy](https://www.youtube.com/watch?v=mxfFbEAOfUg)
+                      - VSM: 12:41
+                    - [Tutorial - Ascending Channel BREAKOUT Pattern](https://www.youtube.com/watch?v=uH3xFsN0WwA)
                   - IN_CONTEXT(PATTERN & INDICATOR) ABC Correction & EOV
                     - VOCABULARY EOV Pine Script & Mql source code | 5%
                       - `ta.sma`
                   - [TAKE PROFIT with PERFECT TIMING using the ATR Indicator](https://www.youtube.com/watch?v=f--nrBPlzO0)
-                    - VSM: 5:00
+                    - VSM: 20:00
                 - Psychological Field
                   - Support & Resistance
                     - [Master The Support and Resistance Trading Strategy](https://www.youtube.com/watch?v=MSzOocvljqc)
-                      - Videosweepmark: 19:00 2300
+                      - Videosweepmark: 28:50
                 - Breakout prediction
                 - Volume
                   - COT
@@ -1671,7 +1697,7 @@
                       - [Volume Indicators You Can't Afford To Miss](https://www.youtube.com/watch?v=frVmV29KQWc)
                         - VSM: 5:00
                       - [How to Use "VOLUME & CANDLESTICK" to Predict HOME RUN TRADES](https://www.youtube.com/watch?v=vGVIqScEWnI)
-                        - VSM: 10:00
+                        - VSM: 15:00
                       - [BEST Volume Strategy for Daytrading Stocks (Volume Trading Explained)](https://www.youtube.com/watch?v=fRfPJ_HbaYE)
                         - VSM: 5:00
                       - [How to Trade Volume (Forex)](https://www.youtube.com/watch?v=V7wjD7oaipI)
@@ -1679,11 +1705,21 @@
                         - VSM: 2:00
                         - NEW Electronic Communication Network
                           - [19. Brokerage, ECNs, etc.](https://www.youtube.com/watch?v=otQEdrjHaZU)
-                - Uncategorized
-                  - ADX & DI
-                  - TSV
-                  - SSL Channel
-                  - StairMaster
+                            - VSM: 5:00
+                - ADVANCED_VOCABULARY_SET ?Uncategorized Trading Vocabulary Set
+                  - CONFIG Generic Trading Indicator Training Configuration
+                    - Language Pair: French
+                    - *No Rote allowed*
+                    - *MUST be paired with Coding either with Python/Pine Script/MQL5 and whatnot*
+                  - ADVANCED_VOCABULARY ADX & DI
+                  - ADVANCED_VOCABULARY TSV
+                  - ADVANCED_VOCABULARY SSL Channel
+                  - ADVANCED_VOCABULARY StairMaster
+                  - ADVANCED_VOCABULARY Advanced Decline Line
+                    - INDICATOR Code Reading/Utilization Proficiency: 0%
+                    - [Advances Declines : How to use](https://www.youtube.com/watch?v=96T9Z47JzYU)
+                    - [How To Trade With Breadth Indicators (McClellan Oscillator, Advance Decline Line, Arms Index TRIN)](https://www.youtube.com/watch?v=o4UJexEVTls)
+                      - VSM: 10:01
               - Fundamentals: Automation
                 - PIPELINE Automation Lifecycle
                   - PIPELINE `WIP`
@@ -1693,24 +1729,30 @@
                 - **PRIORITIZED** Coding
                   - [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript)
                   - [Digital Signal Processing using Pine Script](https://www.pinecoders.com/techniques/dsp/)
+                  - [How to use Pine Script TradingView v5 *smartly*](https://www.youtube.com/watch?v=xJFQimVqp-I&list=PLxvRLWqiBMjrzSdZuk0fvDOnwzPEBVl2g)
                   - [Fully working Moving Average MT5 Expert Advisor Programming Tutorial](https://www.youtube.com/watch?v=T78Q7K3c11s&list=PLeQQbTeiG3sD5QS8ExpmRoJGz1vvFz4nv)
                     - VSM: 20:42
                     - CONFIG `isForcedHandsOn=True`
-                  - **IMPORTANT** [How to AUTO TRADE FOREX through TradingView 🤖 AutoView Guide (PART 1/8)](https://www.youtube.com/watch?v=MZvgqJaaSNs&list=PLSP_1DBafH-EYd8t-DUrPaAhsoOD-vZ1D)
+                  - **IMPORTANT** [How to AUTO TRADE FOREX through TradingView AutoView Guide (PART 1/8)](https://www.youtube.com/watch?v=MZvgqJaaSNs&list=PLSP_1DBafH-EYd8t-DUrPaAhsoOD-vZ1D)
                     - LM: 1
+                    - VSM: 3:00
                     - [How to Use a Trailing Stop Loss (Order Types Explained)](https://www.youtube.com/watch?v=l7EHWyOrfu4)
                     - [The Difference Between Stop Market, Stop Limit, and Trailing Stops](https://www.youtube.com/watch?v=_EEvTGA-K6Q)
-                  - **IMPORTANT** [TradingView Pine Script Tutorial 17 - Combining Indicators and Weighting](https://www.youtube.com/watch?v=V_0ACzp2lNc&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=17)
-                    - VSM: 18:57 NEXT
-                    - LM: 17
+                      - VSM: 10:19 TTL
+                  - **IMPORTANT** [TradingView Pine Script Tutorial 18 - For Loops & Adding Bonus Points](https://www.youtube.com/watch?v=yQhgNxVSGDU&list=PLM0BBafRCnRNhvMxyiqScZWV_h41raut6&index=18)
+                    - VSM: 16:42
+                    - LM: 18
                      ​ ContinuousSkillDevelopmentUnit Be able to translate complex, multi-staged intuition directly to backtestable strategy in matter of minutes
                     - CRITICAL_QUESTION What is the best integration strategy for using pine script and ChatGPT/Copilot?
                     - CRITICAL_QUESTION *How can I implement multi-strategy/ML-based intelligent composite trading strategy in code that*
                       - CONT *intelligently changes strategy based on current situation?*
-                      - [Combining Strategies in Pine Script with FOR Loops](https://www.youtube.com/watch?v=HXMUsh82GmQ)
-                        - VSM: 23:00
+                      - [Pine Script: A two-target MACD Strategy](https://www.youtube.com/watch?v=P1Lol05qb5s)
+                        - VSM: 5:00
+                        - HANDSON *Combine ATR and MACD, create a strategy for EURUSD using pinescript with decent win rate and maximum drawdown*
+                        - ?
+                          - Hindsight bias
                       - [Create Stop Loss and Take profit for your Backtest in Tradingview Pinescript](https://www.youtube.com/watch?v=yP7qWD0JElo)
-                        - VSM: 3:00
+                        - VSM: 8:00
                     - CRITICAL_QUESTION Define *Optimal HMRM(Human-machine responsibility model), try to perform time-series boundry condition analysis*
                 - Trade agent
               - Strategy Lists
@@ -1863,6 +1905,7 @@
     - _CONFIG `PROPAGATES` ROOT
       - PASSIVE *All sports, powerlifting, anatomy, fitness, nutrition related material will be directed to French only*
     - TOPIC Quantitative system for Hedonism
+      - Genesis *Billions are mere dust if not contributed to one's healthy fast, wisdom, and sunshine*
       - R&D
         - [Genesis of Quantitative Hedonism](https://iep.utm.edu/hedonism/#:~:text=Quantitative%20Hedonists%20argue%20that%20how,%2C%20simple%2C%20and%20debauched%20pleasures.)
       - Sustainability & Ethics for Hedonism
@@ -1872,6 +1915,7 @@
             - Sustainable Price-effort Arbitrage Strategy: *Don't forget, always with a smile :\)*
           - Psychological pain alleviation
             - TOOL Sound therapy
+            - [Diagnostic and Statistical Manual of Mental Disorders DSM-5](https://cdn.website-editor.net/30f11123991548a0af708722d458e476/files/uploaded/DSM%2520V.pdf)
           - Physiological pain alleviation
             - Muscle pain alleviation
             - Neural pain alleviation
@@ -1896,7 +1940,7 @@
     - [Using Theories of Decision-Making Under Uncertainty to Improve Data Visualization](https://www.youtube.com/watch?v=IhGydZwUKc8)
       - VSM: 10:51
     - [Michael Jensen: Beyond Agency Theory The Hidden and Heretofore Inaccessible Power of Integrity](https://www.youtube.com/watch?v=iOi9NN7ATZk)
-      - Videosweepmark: 55:02
+      - Videosweepmark: 1:05:02
       - ATTACHABLE Political Science Bundle
         - Ignorance Problem
           - *When non-financial problem*
@@ -1905,18 +1949,20 @@
         - Agency Theory/Agency Problem
           - Erudition
             - [Agency Theory, Information, and Incentives](https://drive.google.com/file/d/1Pgz9rCnpBEHCHd44TNjMzlNrGBVYkP4o/view?usp=sharing)
-              - PROCESSING POINTER FIELD
-                - Osmosis Pointer: 36
-                  - INDICATOR Saturation: 0.0004%
+              - PPF
+                - OP: 31
+                  - INDICATOR Saturation AS S: 0.0031%
                   - Statement
                     - *RT* and *LS* clearly doesn't work because this is an unforgivingly difficult book
                     - Use Osmosis to soften it up till a point where systematic approach becomes feasible at least
                   - Supplement LIMIT 5 DEPTH 2
                     - The LEN model
                       - [Generalized Linear Modeling Exponential Family of Distributions](https://www.youtube.com/watch?v=7jacFFYWVxA)
+                        - VSM: 5:00
                       - [How (and why) to raise e to the power of a matrix | DE6](https://www.youtube.com/watch?v=O85OWBJ2ayo)
                       - MIT 18.650
                         - [21. Generalized Linear Models](https://www.youtube.com/watch?v=X-ix97pw0xY)
+                          - VSM: 5:00
                     - The hidden-effort situation
                       - [Principal Agent Models Part 1: Moral Hazard with Observability](https://www.youtube.com/watch?v=kdXqwucFNeU)
                         - VSM: 2:34
@@ -2024,8 +2070,8 @@
                 - PPF
                   - Executing Strategy: *Osmosis is optimal and makes most sense because it creates lower-level neural indexing system which will come in handy*
                     - CONT *Use multi channel method - Highly-relavant Audio-visual Supplementation with French-any subtitle to induce Osmosis neural state*
-                  - OP: 48
-                  - S: 0.72%
+                  - OP: 49
+                  - S: 0.911%
                   - PANIC_SATURATION: 27% LIMIT `'80%'`
                     - [An Introduction to Propositional Logic](https://www.youtube.com/watch?v=isoLnspA-1E&list=PLqEJ_rxb3Xf0dTy_-dSqINnAD5tbmpUx8)
                       - VSM: 6:00
@@ -2043,11 +2089,20 @@
                     - Bose-Einstein condensate
                       - [Bose-Einstein Condensates | Prof B. Prasanna Venkatesh | Lecture 01](https://www.youtube.com/watch?v=EeTJyqBIVZI)
                         - Videosweepmark: 10:00
-                        - [Symmetry in Pascal's Triangle: A Combinatorial Identity](https://www.youtube.com/watch?v=fHZ7FniqPr4&list=PLfe17BEjktq70B0S7HeOkbJmQzht5bTMi)
-                          - Videosweepmark
-                          - Listmark: 1
+                        - [Pascal's Triangle and Pascal's Identity in Combinatorics](https://www.youtube.com/watch?v=Cwo2ua3H1pE&list=PLfe17BEjktq70B0S7HeOkbJmQzht5bTMi&index=2)
+                          - VSM: 5:00
+                          - LM: 2
                     - P´olya’s principles
-                    - Contraposition, Syllogism
+                    - ADVANCED_VOCABULARY Contraposition, Syllogism
+                      - [SYLLOGISM LESSON#1 _SOME/ALL](https://www.youtube.com/watch?v=ev2SkXJVAbA&list=PLOoogDtEDyvsBG38tzlj1Zkd0PLxgZwXV)
+                        - LM: 1
+                      - [How to Argue - Philosophical Reasoning: Crash Course Philosophy #2](https://www.youtube.com/watch?v=NKEhdsnKKHs)
+                      - [Logical Reasoning | SYLLOGISM](https://www.youtube.com/watch?v=awdnai6yojA)
+                        - VSM: 5:00
+                      - [Deductive and Inductive Reasoning (Bacon vs Aristotle - Scientific Revolution)](https://www.youtube.com/watch?v=WAdpPABoTzE)
+                      - [Basic Logic, Propositions and Syllogisms (Aristotle's Logic)](https://www.youtube.com/watch?v=1UmPbfuGfKk)
+                      - [8 Rules of Syllogism - Arguments and Validity](https://www.youtube.com/watch?v=U4ig5uHOy4w)
+                      - [Categorical Logic: Terms and Propositions](https://www.youtube.com/watch?v=4BMqWeq-5Rw)
                     - Infinite-set paradoxing
                       - P.O.I James Clerk Maxwell
                     - Ancillary statistic
@@ -2214,8 +2269,8 @@
                 - Saturation: 18%
                 - Goal: Form a strategy
                   - Direct Input-Ouput Training
-                    - *Double mapping* | 44-197/ &6.13
-                      - QualmStack LIMIT 5: 6.2, 6.5, 6.7, 6.9
+                    - *Double mapping* | 45-197/ &6.17
+                      - QualmStack LIMIT 5: 6.2, 6.5, 6.7
                         - _meta
                           - Behaviour: Unknown behaviour
                         - **IMPORTANT PRIORITIZED SCOPED** CONFIG *For ANY, apply *Caffeinated Flashcardification* technique*
@@ -2243,13 +2298,12 @@
                               - CRITICAL_QUESTION *How is disengagement of human factors via mechanisms of trust reflected in bookkeeping redundancy?*
                                 - ANSWER *More complete the pyramid of proofs is, the more people will be willing to trust it and build stuffs on top of it*
                               - [Blockchain in Accounting | Triple Entry Accounting](https://www.youtube.com/watch?v=CXJlVxzKz9s)
-                              - [Triple Entry Accounting on Blockchain (Kurt Wuckert, Ian Grigg, Torje Sunde, Juan Ignacio Ibanez)](https://www.youtube.com/watch?v=N0MVf_N8SXs)
-                                - VSM: 31:45 TTL
+                                - VSM: 4:25 TTL
                               - [Blockchain in Supply Chain | Soumya Choudhury | TEDxIIMBangalore](https://www.youtube.com/watch?v=H-Z5ZYq6zio)
                             - [FIFO: What the First In, First Out Method Is and How to Use It](https://www.investopedia.com/terms/f/fifo.asp)
                               - Saturation: 45%
                             - [FIFO vs. LIFO Inventory Valuation](https://www.investopedia.com/articles/02/060502.asp)
-                              - Saturation: 8%
+                              - Saturation: 48%
                               - [Cost of Goods Sold (COGS) Explained With Methods to Calculate It](https://www.investopedia.com/terms/c/cogs.asp)
                                 - Saturation: 45%
                                 - [What Is Gross Profit, How to Calculate It, Gross vs. Net Profit](https://www.investopedia.com/terms/g/grossprofit.asp)
@@ -2288,23 +2342,25 @@
                     - [What are Legal Entity Identifiers (LEI)?](https://www.youtube.com/watch?v=Mkl8lZP0-aE)
                       - VSM: 13:00
                     - [Government Regulation: Crash Course Government and Politics #47](https://www.youtube.com/watch?v=sDqGzMdhL1M)
+                      - VSM: 5:00
                     - [7. Value At Risk (VAR) Models](https://www.youtube.com/watch?v=92WaNz9mPeY)
-                      - VSM: 15:17
+                      - VSM: 25:04
                   - Sales Tax
-                    - [ACCA F3 Sales Tax (part a)](https://www.youtube.com/watch?v=bFLUXJoVeRc) --> `this.concurrentTraffic = 0.2`
-                      - Videosweepmark: 21:00
+                    - [ACCA F3 Sales Tax (part a)](https://www.youtube.com/watch?v=bFLUXJoVeRc)
+                      - Videosweepmark: 23:00 TTL
                   - [Est-ce que Microsoft Excel ?! Système de tableaux de tableaux de statistiques financières Tutoriel 1](https://www.youtube.com/watch?v=z26zbiGJnd4)
                     - Videosweepmark: 2:31
             - PROCESSING_POINTER_STORE
               - STATIC
                 - ?
                   - IFRS - FR & EN & DE
-                    - [Les normes internationales : IASB, IAS, IFRS](https://www.youtube.com/watch?v=CPQZ7IoowEQ) --> `this.concurrentTraffic = 0.2`
+                    - [Les normes internationales : IASB, IAS, IFRS](https://www.youtube.com/watch?v=CPQZ7IoowEQ)
                       - Videosweepmark: 10:24
                       - Saturation: 3%
                     - [IFRS: Pflichten & Standards der internationalen Rechnungslegung | Handelsbilanzen 10/10](https://www.youtube.com/watch?v=Pg_Je6mL3yY)
                       - Videosweepmark: 5:00
                     - [How to Understand All Standards (IAS & IFRS) Step-by-step](https://www.youtube.com/watch?v=2-h0mbO_Cl8)
+                      - VSM: 3:30
               - MESO
                 - Accounting concept
                   - Accurals concept
@@ -3139,18 +3195,32 @@
     - Competitive Programming
       - _manual-control-override
         - **BLACKHOLE**
+          - **MUTATION** Next Gen Data Science with Gen AI & Next-gen startup landscape & toolchain ecosystem
+            - On-prem
+            - Field work, Vendor Analysis and M&C
+              - [gathr](https://www.gathr.one)
+          - Deep Learning A-Z™ 2023: Neural Networks, AI & ChatGPT Bonus - U
+            - CCS: 1.9%
+            - TEMP_TIMESTAMP: 5:00
+            - **MUTATION** Optimization Theroy
           - Data Science A-Z™: Real-Life Data Science Exercises Included
-            - CCS: 75.1%
-            - ETC：26d
-            - TEMP_TIMESTAMP: 4:00
-            - CONFIG `isForcedHandsOn=['Conditional True', 'ETL and others']`
-              - *Data cleaning procedure on **quotation, column misalignment problem**
-                - AI-based  in
-                - Scoped vendor capability analysis
-                  - [ ] Alteryx
-                    - NEW IDEA One-off use of certain pay-walled software, possibility to high granularity SaaS?
-                      - *Solving problem: I want to use a certain functionality of a software only for once to do certain things, not paying for its entirety*
-              - CONFIG ETL tool: Azure Data Factory, Source another IPA-based ETL tool
+            - CCS: 89.3%
+            - ETC：28d?
+            - TEMP_TIMESTAMP
+            - VOCABULARY Ertragsaussagen
+            - CONFIG `isForcedHandsOn=false`
+              - JUSTIFICATION *Current perceived momentum of Startup landscape for non-ETL tooling ecosystem enough for pivoting to Vendor Analysis*
+                - Vendor Analysis 101
+                  - **CUSTOMIZED MUTATION** *Chronological Lifecycle Analysis Lateral Compatibility of current Technological Stacks*
+                    - `ROOT.CEF`: *Will become HIGHLY CONFIDENTIAL once the idea and research effort becomes mature*
+                  - [Vendor Analysis](https://www.youtube.com/watch?v=C5hATCWCHko)
+                    - VSM: 1:30
+                  - [Effective Use of Scorecards in Managing Supplier and Vendor Relationships](https://www.youtube.com/watch?v=2sZY9mjaUBw)
+                  - [Vendor Third Party Risk Management](https://www.youtube.com/watch?v=Pxt6iJbUskA)
+                  - [The art of negotiation: Six must-have strategies | London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c)
+                  - [Market Basket Analysis [Association Analysis]](https://www.youtube.com/watch?v=icGS26TS1fE)
+                  - [Pivot Table Excel Tutorial](https://www.youtube.com/watch?v=m0wI61ahfLc)
+                  - [Build Power Bi Dashboards - Build an Interactive Vendor/Supplier Quality Analysis Dashboard](https://www.youtube.com/watch?v=-xKvV8pmGM4)
             - Key Words: Chi-square, A/B, Adjusted $R^2$
             - CRITICAL_QUESTION What is the name of the data cleaning software that extract major characteristics of your data with human interventions, and automatically
               - CONT perform data cleaning there after?
@@ -3312,6 +3382,64 @@
   - TOPIC: Fashion, Design, Art, Furniture, La Boutique, Music, Ruse, Trickery, Scheme, Marketing & PR, Micro PsyOps, Macro PsyOps, Meso PsyOps
     - Functional Fashion Design: Clothes/Loadout that enables the maximum
       - [Best Programs To Design Clothing](https://www.youtube.com/watch?v=xyyNk6TnGcM)
+  - **MUTATION** TOPIC Culinary Art Practice
+    - CONFIG Language Pair: Italian
+    - _motivation: *Progressing Italian while accidentally getting self-trained in culinary art*
+    - Basic Culinary Art `Globals`
+    - Basic Culinary Art Denoobification
+      - Knife Work
+        - Chicken Breast
+    - Basic Hospitality Core Development
+      - Food quality, experience & hedonics
+    - Basic Hospitality Peripherals & Outreach Management
+      - Supply Chain Basics
+        - [Top 10 Supply Chain Management Trends, Predictions, and Strategies for 2022](https://www.youtube.com/watch?v=Y2KQWUJRycQ)
+          - VSM: 5:07
+        - [Master Class on Transforming Procurement from Tactical to Strategic](https://www.youtube.com/watch?v=fInZ_UBUato)
+          - VSM: 2:30
+        - [Supply Chain Management (Full Course) | SCM Lecture](https://www.youtube.com/watch?v=gg6jW_PzKgg)
+          - VSM: 15:30
+          - ADVANCED_VOCABULARY Motor Freight - Autotrasporto
+      - Inventory Management
+        - Instrument/Utensil Management
+          - Instrument Procurement Management
+            - Instrument Procurement Lifecycle Management
+          - Utensil Due Care
+            - [Simple rules for cast iron care](https://www.youtube.com/watch?v=3bZVk0LpilM)
+            - [Gordon Ramsay's Kitchen Kit | What You Need To Be A Better Chef](https://www.youtube.com/watch?v=-av6cz9upO0)
+            - [12 Must Have Kitchen Appliances Every Kitchen Should Hav](https://www.youtube.com/watch?v=6Qs2eCmg3Mc)
+          - Utensil Training
+            - [Use a Knife Like a Chef | Chef Jean-Pierre](https://www.youtube.com/watch?v=os8xnwxcHg0)
+        - Stock Management
+          - Stock Procurement Management
+            - Stock Procurement Lifecycle Management
+        - Use Case Context related Inventory
+          - Dinning Table
+            - Functionality: Embedded Coursed-based Feedback Touchscreen
+              - Functionality: Integrated with Excel via Power Automate
+      - Teaming
+        - *Not applicable at the moment*
+      - Infrastructure
+        - Simplistic IT system
+          - [Restaurant Management System in Excel](https://www.youtube.com/watch?v=xM_izKlWnew)
+          - [Inventory Management System - 2.0 with Print and Delete Button](https://www.youtube.com/watch?v=x8EMcmGltWA)
+          - [Create This Restaurant Touchscreen Point Of Sale POS Application In Excel Today](https://www.youtube.com/watch?v=1xyvioUP8Ls)
+          - [How To Create A Restaurant & Cafe Manager Application In Excel](https://www.youtube.com/watch?v=p_ATIFfsRjU)
+          - [Restaurant Financial Plan Template | Run a Successful Restaurant in Excel](https://www.youtube.com/watch?v=98GFGGAeu_w)
+    - Leading Hands-on
+      - PIPELINE Generic Hands-on Pipeline
+        - PIPELINE Surgical De-noobification
+        - PIPELINE Unknown pipeline items
+        - ?
+        - PIPELINE Procurement
+      - ADVANCED_VOCABULARY [Chicken Scallopini](https://www.youtube.com/watch?v=n1CSsWbeVuw)
+        - VSM: 7:30
+        - CONFIG Language Pair: Italian
+        - ADVANCED_VOCABULARY Garlic clove - Spicchio d'aglio
+        - ADVANCED_VOCABULARY Shallot - Scalogno
+        - ADVANCED_VOCABULARY Baby bella
+        - ADVANCED_VOCABULARY Parseley --> *Sub-strains, culinary context, supply chain thereof etc.*
+          - [All About Parsley](https://www.youtube.com/watch?v=k1MPPVUmTFo)
   - TOPIC: Advanced Web Design(CSS, Figma), Drawing, Branding, Branding Design, 3D product design, hospitality, cuisine
   - TOPIC: Innovative Ideas(Clothes, fashion, branding etc.)
     - Attachable socks-shoe Design
@@ -3319,7 +3447,6 @@
         - ?
           - Machinery
   - TOPIC: Romance, hope, anything irrational, extravagent about human beings
-  - Music Theory Comprehensive Complete! (Parts 1, 2, & 3)
   - Il Principe di Niccolo <-- ROBBED FROM `erudition_politics`
       - _source
       - [Link1](https://skypescuola.files.wordpress.com/2015/05/machiavelli-il-principe.pdf)
@@ -3410,7 +3537,7 @@
               - Quantitative method of Psychological System Analysis
             - [Lec 5: Alternate Evaluation - I](https://www.youtube.com/watch?v=kYEDX0KEpFY&list=PLwdnzlV3ogoXHhhdNAx8WNnb9wUhfvn4N&index=7)
               - PPF
-                - VSM: 3:30
+                - VSM: 7:30
                 - LM: 7
               - ContinuousStimulationUnit
                 - Full Sales Lifecycle Information Flow
@@ -3497,9 +3624,9 @@
                     - Natural Rights Theroy
                   - ?
               - CISSP Certification: CISSP Domain 1 & 2 Boot Camp UPDATED 23 - U
-                - CCS: 49.2%
-                - TEMP_TIMESTAMP: 5:00
-                - PANIC_SATURATION: -1%
+                - CCS: 52.3%
+                - TEMP_TIMESTAMP: 0:30
+                - PANIC_SATURATION: 12%
                   - WARNING: Prompts needed
                 - ?
                   - NIST 800:53
@@ -3541,6 +3668,8 @@
                   - *Brain Defroster/Fryer*
                     - PCI-DSS: Payment Card Industry Data Security Standard
                     - OCTAVE: Operationally Critical Threat, Asset, and Vulnerability Evaluation
+                      - [IoT Module 4 : Risk Analysis Framework- OCTAVE](https://www.youtube.com/watch?v=v_FyEGDWweo)
+                        - VSM: 4:00
                     - COBIT: Control Objectives for Information and related Technology
                     - COSO: Committee of Sponsoring Organizations
                     - ITIL: Information Technology Infrastructure Library
@@ -3605,6 +3734,7 @@
         - [Advanced Linux Programming](https://richard.esplins.org/static/downloads/linux_book.pdf)
         - SOURCE [Linux内核设计的艺术：图解Linux操作系统架构设计与实现原理](https://drive.google.com/file/d/1UCC09976DX0McDjHkEHR5Bv9MmVVUyqr/view?usp=sharing)
           - CONFIG isForcedHandson: `true`
+          - PPF::LS: 16
       - Chaotic CS
       - Defensive CS
         - Body of Knowledge: [D3FEND](https://d3fend.mitre.org/)
@@ -3616,7 +3746,7 @@
               - TIME_STAMP: 1:30
               - `WARNING: No italian subtitle available, yet accordingly induced Space-time Invariant Net Loss(SINL) does not surpass limitation value`
             - [Network Traffic Analysis with Wireshark](https://www.youtube.com/watch?v=nS8KweAV1g0)
-              - VSM: 16:00
+              - VSM: 21:00
           - Intrusion detection with Snort
           - Threat detection with Wazuh
           - Intrusion detection with Suricata
@@ -3626,6 +3756,8 @@
           - Memory forensics with Volatility
           - Disk forensics with Autopsy
           - Docker image analysis with Trivy
+            - [All-In-One Open Source Security Scanner | Docker Image Analysis with Trivy](https://www.youtube.com/watch?v=lVGAWdKDS9A)
+              - VSM: 10:00
           - Incident response with FireEye Redline
         - [Installing & Configuring Wireshark For Traffic Analysis](https://www.youtube.com/watch?v=NwY57Wv0yfA&list=PLBf0hzazHTGNcIS_dHjM2NgNUFMW1EZFx&index=4)
           - VSM: 7:30
@@ -3638,16 +3770,18 @@
         - PIPELINE Untitled Pipeline
           - Adversary Emulation
             - [Red Team Adversary Emulation With Caldera](https://www.youtube.com/watch?v=EIHLXWnK1Dw&t)
-              - VSM: 38:30 BLOCKER
-                - BLOCKER_STATEMENT: *Caldera admin credential doesn't work*
+              - VSM: 48:30 **NEW BLOCKER**
+              - BLOCKER_STATEMENT: *Trouble creating manx agent*
               - CONFIG Language Pair: Italian
               - SUPPLEMENT Caldera Source Code Reading
               - SUPPLEMENT Generic Supplement
                 - [Bashrc-File Configuration - A tutorial for Linux Beginners - Very useful! Terminal and Command line](https://www.youtube.com/watch?v=GUd853XQ5tc)
-                  - VSM: 4:07
+                  - VSM: 12:00
                 - [Customizing Your Terminal: .bash_profile and .bashrc files](https://www.youtube.com/watch?v=vDOVEDl2z84)
+                  - VSM: 2:00
                 - [Shell Scripting Tutorial-27: Do Cool Things With 'tput'](https://www.youtube.com/watch?v=9WisxGxVzgM)
                 - [Git Submodules Tutorial | For Beginners](https://www.youtube.com/watch?v=gSlXo2iLBro)
+                  - VSM: 5:00
                 - [Find and Replace Text in 1 or More Files Using Vim, fzf and ripgrep](https://www.youtube.com/watch?v=fP_ckZ30gbs)
           - Reconnaisance, Exploitation
           - Dumping Credentials
@@ -3723,13 +3857,17 @@
     - Arturia Music Production
       - [Arturia](https://www.arturia.com/products/software-instruments/v-collection/overview?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeMw6siRPBkkq4bndo_-XjUHT9u63tH6R-JU4WRa_ipbWIEUun7hdlwaAoINEALw_wcB)
     - Music/Composing Theory
-        - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
-          - Videosweepmark 11:30
-        - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
-          - Videosweepmark : 3:30
+      - Music Theory Comprehensive Complete! (Parts 1, 2, & 3) - U
+        - CCS: 1.3
+        - TEMP_TIMESTAMP: 0:30
+        - CONFIG Language pair: Italian
+      - [Advanced Music Theory - Melody Writing](https://www.youtube.com/watch?v=ei652x61Tbk)
+        - Videosweepmark 11:30
+      - [Grade 1 Music Theory - Rhythm](https://www.youtube.com/watch?v=6zyv0O7kfcc)
+        - Videosweepmark : 3:30
+    - ?
       - The Complete Presentation and Public Speaking/Speech Course
-    - TOPIC Identity Design
-    - TOPIC Design Recap
+    - TOPIC Design
       - ContinuousStimulationUnit
         - [What is a Full Stack Designer? 2023 Roadmap](https://www.youtube.com/watch?v=nbQpUhdVLlo)
           - VSM: 19:33   SATURATE_CHILDREN SATURATE_SIBLINGS
@@ -3743,7 +3881,7 @@
           - Color
             - LOW_LEVEL AIGC \w Coloring
             - [Make Hundreds of Color Palettes from 1 COLOR! - Design Tutorial](https://www.youtube.com/watch?v=u5AnzLg1HxY&list=PLroLjS4HDi0BLMx3d7mzROMfm7bC9ZQuc&index=2)
-              - VSM
+              - VSM: 5:00
               - LM: 2
           - Contrast
           - Typography
@@ -3753,6 +3891,9 @@
           - Proximity
           - Visual Hierarchy
         - 2D Web design
+          - Vendor & Agile Pro-Design & No-design
+            - [Dora Tutorial - Parallax Scroll Website with AI Midjourney, ChatGPT, D-ID, Figma, and PS](https://www.youtube.com/watch?v=LYKu083EYh8)
+              - VSM: 5:25
           - Design System
             - Sketch-level Design system
               - ERROR Complete Web & Mobile Designer in 2022: UI/UX, Figma, +more  | `this.concurrentTraffic = 0.33` 5m/d
@@ -3770,15 +3911,24 @@
                       - MESO
                       - VOLATILE
             - Code-level Design System
-              - [Create a Design System with CSS - Web Development Course](https://www.youtube.com/watch?v=lRaL-8qZ0mM)
-                - VSM: 1:18:30
-              - [SASS Tutorial (build your own CSS library) #2 - Compiling SASS](https://www.youtube.com/watch?v=Sk5jMurFHCo&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=2)
-                - VSM: 8:50
-                - LM: 2
-              - [The problems with viewport units](https://www.youtube.com/watch?v=veEqYQlfNx8)
-                - VSM: 2:30
-              - Advanced Sass animation with `@for` and `@mixin` 
-                - [Write less code with these Sass mixins](https://www.youtube.com/watch?v=7ruDsUN4-iA)
+              - Statics
+                - [Create a Design System with CSS - Web Development Course](https://www.youtube.com/watch?v=lRaL-8qZ0mM)
+                  - VSM: 1:43:30
+                - [SASS Tutorial (build your own CSS library) #2 - Compiling SASS](https://www.youtube.com/watch?v=Sk5jMurFHCo&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=2)
+                  - VSM: 13:30
+                  - LM: 2
+                - [The problems with viewport units](https://www.youtube.com/watch?v=veEqYQlfNx8)
+                  - VSM: 7:30
+              - Animations
+                - [Build React 3D Animation Website | ThreeJS (WebGi), GSAP](https://www.youtube.com/watch?v=ZFGX29ZI52U&list=PL8kd7mPFdvbhpThk9H09UkKbVMXd_zM4_)
+                  - VSM: 15:14
+                  - LM: 2
+                - Advanced Sass animation with `@for` and `@mixin` 
+                  - [Write less code with these Sass mixins](https://www.youtube.com/watch?v=7ruDsUN4-iA)
+                    - VSM: 10:00
+                    - ADVANCED_VOCABULARY Sass: League of Legend style 
+                      - VOCABULARY `@content`
+                      - VOCABULARY `@include`
         - 3D Web design --> Meta Language
           - 3D Design System
         - VR Web design --> Meta Language
@@ -3812,8 +3962,9 @@
           - SUPPLEMENT Figma Suite Proficiency
             - Denoobification
               - [Essential Figma Shortcuts to Speed Up Your Design Work](https://www.youtube.com/watch?v=GJ7PO3BzL00)
-                - VSM: 10:10
+                - VSM: 12:27 TTL
               - [10 tips to work 10x faster in Figma](https://www.youtube.com/watch?v=i-9mgOL3mHw)
+                - VSM: 3:30
               - [Auto layout shortcuts](https://www.youtube.com/watch?v=wMzh2_dbDWM)
               - [10 Tips To Work 10 Times Faster In Figma!! (Ultimate Shortcuts)](https://www.youtube.com/watch?v=d0FhMca_wv0)
               - [Office Hours: 30 time-saving tricks from Figma experts](https://www.youtube.com/watch?v=_bAiopgO5ek)
@@ -3908,10 +4059,12 @@
             - [IPA provider watchlist](https://docs.google.com/spreadsheets/d/1l-LDSqsTkbyfOn4fZuyEwgwgCT3xAHlvIUGPflVzjzU/edit?usp=sharing)
               - _meta
                 - [Google Sheets Advanced Tutorial](https://www.youtube.com/watch?v=t0B0Tgz0b-0)
-                   - VSM: 1:15:00
-                   - Pivot table
+                  - VSM: 1:35:00 TTL
+                  - EXPLOSIVE Pivot table, Macro, App Script
                 - [How to Build a Professional Dashboard in Google Sheets (Query Formula Advanced Course) Step-by-Step](https://www.youtube.com/watch?v=ccTdDPDGEGM)
+                  - VSM: 15:00
                 - [How to Build a Sales Funnel Dashboard for a Sales Team Google Forms & Google Sheets QUERY COURSE](https://www.youtube.com/watch?v=d9COw03XYX4)
+                  - VSM: 10:00
                 - [Google Sheets - Keyboard Shortcuts for Speed](https://www.youtube.com/watch?v=pnGxShBGAyc)
                   - VSM: 10:30 REPLACE
                   - _meta
@@ -3931,13 +4084,18 @@
                     - [API source](https://platform.openai.com/docs/quickstart)
                       - PPF:LS: *t is the core of our API and provides a simple interface that’s extremely flexible and powerful*
                 - Supplements
-                  - [Advanced MidJourney Prompt Engineering](https://www.youtube.com/watch?v=RdSZBWiHrKM)
-                    - VSM: 10:00 TTL
             - (Sentient) AI Computer Interface - ACI
               - SOURCE [awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry)
+                - [Abstract Algebra + Group Theory](https://github.com/neurreps/awesome-neural-geometry#grouptheory)
+                  - [Chapter 2: Orbit-Stabiliser Theorem | Essence of Group Theory](https://www.youtube.com/watch?v=BfgMdi0OkPU&list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO&index=2)
+                    - VSM: 12:27 NEXT
+                    - ?
+                      - Orbit-Stabiliser Theorem
+                  - [Geometric Machine Learning](https://github.com/neurreps/awesome-neural-geometry#gdl)
+                    - [Group Invariance Applications in Statistics](https://www.jstor.org/stable/4153172)
               - PREREQUISITE Solid grasp of Neuroscience
                 - [MIT 9.13 - 2](https://www.youtube.com/watch?v=bAkuNXtgrLA)
-                  - VSM: 5:00
+                  - VSM: 34:30
                   - LM: 2
                   - CONFIG Language pair: Portuguese
                   - **DETACHEABLE** Interest-based Paper Reading Agent
@@ -3945,7 +4103,7 @@
                       - `teleport()`
                     - PAPER [LLaMA: Open and Efficient Foundation Language Models](https://www.aminer.cn/pub/63f986e8b0fec2439f7a4b4f/llama-open-and-efficient-foundation-language-models)
                       - ControlNet
-                      - INDICATOR Saturation: 0.1%
+                      - INDICATOR Saturation: 0.5%
                       - Language Data Source: CCNet, C4, GitHub, Wikipaedia, Books, ArXiv, Stack Exchange
                         - [CCNet](https://paperswithcode.com/dataset/ccnet)
                       - SUPPLEMENT Context Vocabulary Supplement
@@ -3958,12 +4116,15 @@
                           - Project Structure: 2%
                           - Relavent dependencies: 1%
                             - [A Deep Dive Into Pathlib And The Magic Behind It](https://www.youtube.com/watch?v=UcKkmwaRbsQ)
-                              - VSM: 12:20
-                      - Bookpair: [Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems](https://drive.google.com/file/d/16SIUIRaRY80gHGGEbYOILPJ8SCjIP0uk/view?usp=sharing)
+                              - VSM: 16:55 TTL
+                      - **IMPORTANT PRIORITIZED** Bookpair: [Practical Natural Language Processing: A Comprehensive Guide to Building Real-World NLP Systems](https://drive.google.com/file/d/16SIUIRaRY80gHGGEbYOILPJ8SCjIP0uk/view?usp=sharing)
                         - PPF
-                          - OP: 28
-                            - S: 1%
-                        - [Code](https://github.com/practical-nlp/practical-nlp-code)
+                          - OP: 50
+                            - S: 1.2%
+                        - PPS
+                          - SUPPLEMENT [Special Noam Chomsky Interview: Most Dangerous Point in World History?](https://www.youtube.com/watch?v=L72vOPS016s)
+                            - VSM: 6:00
+                          - [Code](https://github.com/practical-nlp/practical-nlp-code)
                 - [Introduction to Biomedical Engineering - J.D. Enderle, J.D. Bronzino](https://drive.google.com/file/d/18QyD_8Y22sUkUGEg0CooZdbqxWMtprh8/view?usp=sharing)
                   - PPF
                     - OP: 27
@@ -4003,13 +4164,13 @@
             - Email Management
                 - Email Ninja - Take Back Control of Your Email Inbox - U
                 - [Monthly Webinar Series: Managing Tasks with Outlook, To Do, Planner & Teams](https://www.youtube.com/watch?v=bbtxiLNASw8)
-                  - VSM: 45:00
+                  - VSM: 56:41
             - GenZ tools
           - Marketing Reconaissance
           - SEO
           - ?
             - The Complete Digital Marketing Course - 12 Courses in 1
-              - CCS: 12.5%
+              - CCS: 17.8%
               - TEMP_TIMESTAMP: 3:00
               - Basic skills
                 - Multi-Account orchestration
@@ -4238,7 +4399,7 @@
       - TOPIC Quantitative Religion Forensics, Theological Forensics and **Business Potentials therein**
         - Religious Thinking Exploitation: Get rich from minds that are stuck
           - [Religion and the Rise of Capitalism - Havard Divinity School](https://www.youtube.com/watch?v=BpOy3ZIuNgA)
-            - VSM: 1:00
+            - VSM: 1:56 NEXT 
             - VOCABULARY 2% | تحدث, 
           - [The Best Arguments Against Religious Thinking](https://www.youtube.com/watch?v=L5RSaxTreuE)
       - TOPIC: Jurisprudence and Shariah Law
@@ -4251,17 +4412,19 @@
           - Videosweepmark: ?
     - MESO
       - Grammar Consolidation | `this.concurrentTraffic = 1`
-        - [Arabic grammar huruf-of-Jarr حُرُوْف الجر in the Quran PII [#08-P2]](https://www.youtube.com/watch?v=b2_gDnoGIUc&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=24)
-          - VSM: 21:00
-          - VideoListStamp: 24
+        - [Learn Arabic language to understand Quran - I'raab إِعراب of six magnified nouns Idhafa [#10-P1]](https://www.youtube.com/watch?v=SVnKXJVk-nE&list=PLC2ruw0EUW8BwpE-seNS6i-_zuNq-jFc4&index=27)
+          - VSM: 12:00
+          - VideoListStamp: 27
           - Bookpair: Al-Qur'an
             - [The Holy Quran - Arabic Text and English Translation](https://www.alislam.org/quran/Holy-Quran-English.pdf)
-              - VOCABULARY 100% TTL | رهب
               - PPF
                 - OP: 15
                   - INDICATOR | S: `N/AA
+              - PPS
+                - VOCABULARY 35% | تَذَكَّرَ
+                - VOCABULARY 100% TTL | تبادل
         - [Arabic Grammar For All - Lesson 16 - Part 2 - Indeclinable Nouns - Abu Sulaymaan](https://www.youtube.com/watch?v=a1_RRrqL9Ws&list=PLAEHTq3cVXZMlU6eHrLmf3PoGGn_zSOaZ&index=19)
-          - VSM
+          - VSM: 10:35
           - VideoListStamp: 19
     - MICRO
       - **CHANGE_LOG SCOPED**
@@ -4314,7 +4477,7 @@
         - حرف جر
           - *Call for words*
         - ظرف
-          - 70% | رُبَّمَا
+          - 90% | رُبَّمَا
         - اِقتِران
           - *Call for words*
         - ضمير
@@ -4323,7 +4486,7 @@
           - 35% | موجزًا
         - اسم
           - 60% THROTTLE FREQUENT | ساعة
-          - 90% | التي --> relation: Russian Который
+          - 92% | التي --> relation: Russian Который
   - Tool
     - Rapid, Point-in-time, portable Entry
       - Reverso
@@ -4745,10 +4908,18 @@
               - Saturation: 1%
               - RandomThoughts
   - TOPIC Innovation, Tech, Ideas, Productivity
+    - Technologies in a non-technical perspective
+      - ChatGPT Masterclass: A Complete ChatGPT Guide for Beginners!
     - Coding
+      - [Write a compiler - 1](https://www.youtube.com/watch?v=wgHIkdUQbp0&list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+        - VSM: 2:30
+        - CONFIG `isForcedHandsOn=true`
+      - Flutter & Dart - The Complete Guide [2023 Edition]
+        - CCS: 1.05%
+        - TEMP_TIMESTAMP: 3:09
       - [Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/learn/lecture/16949814)
-        - CCS: 61.6%
-        - TEMP_TIMESTAMP: 5:00
+        - CCS: 73.7%
+        - TEMP_TIMESTAMP: 10:00
         - HOOK BEFORE_DESTROY PERSISTENT *Total proficiency in using decorator, comprehension of compiler workings thereof preferable*
     - Tech
       - DevSecOps - AD-HOC
@@ -4764,36 +4935,58 @@
       - Monorepo
         - [Deployment of Machine Learning Models - U](https://www.udemy.com/course/deployment-of-machine-learning-models/learn/lecture/13321604#overview)
           - CCS: 0.7%
+          - TEMP_TIMESTAMP: 2:30
           - CONFIG
             - Extra Challenge, while the course uses Anaconda+Jupyter, use deepnote instead and figure out the rest
             - Use EKS+Docker instead of Heroku
+          - SUPPLEMENT VOCABULARY Official doc | 0.1%
         - [Let's chat! Monorepo & tools](https://www.youtube.com/watch?v=jUIxkryvWA0)
-          - VSM: 5:00
+          - VSM: 17:30
+          - TASK monorepo.tools --> `software-arsenal`
         - [Nx Explainer: Dev Tools for Monorepos, In-Depth with Victor Savkin](https://youtu.be/h5FIGDn5YM0)
-          - Videosweepmark: 9:00
+          - Videosweepmark: 18:40
           - Listmark: 2
           - STATE: <span style="color:red; font-size: 18px;">FORCED HANDS-ON</span>
             - [RTFM - 1](https://nx.dev/getting-started/intro)
-          - [NAME_PENDING](https://youtu.be/DIzJC8wRp-s)
-            - Videosweepmark: 2:54
+          - [Logging in JavaScript Best Practices](https://youtu.be/DIzJC8wRp-s)
+            - Videosweepmark: 10:00
         - [Nx Conf - Day 1](https://www.youtube.com/watch?v=oG2QbFquraA)
       - Source Code Reading
         - Source
           - [Gitee - GVP](https://gitee.com/gvp)
-        - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
-        - ShareX
-        - [GraphGPT](https://github.com/varunshenoy/GraphGPT)
+        - ADVANCED_VOCABULARY [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)
           - PPF
-            - CodeOsmosisMark
+            - OP::\[INDICATOR\]S: 1%
+            - VOCABULARY `execa`
+            - VOCABULAR `qrcode`
+            - TASK Deploy
+            - TASK Learn `Railway`
+        - nest
+          - INDICATOR | Saturation: 0%
+          - SUPPLEMENT
+            - Code of Conduct and their legal-as-warfare-instrument significance
+              - NEW IDEA Legal Litigation Bot
+        - anton
+          - INDICATOR | Saturation: 0%
+        - ShareX
+        - ADVANCED_VOCABULARY [GraphGPT](https://github.com/varunshenoy/GraphGPT)
+          - PPF
+            - OP::\[INDICATOR\]S: 40%
+            - TASK Extract API calls
+            - SUPPLEMENT [Signals For Solid, Qwik And React](https://www.youtube.com/watch?v=ZLMjJL70glE)
+              - VSM: 12:00
+            - ADVANCED_VOCABULARY `web-vital`
+              - [Core Web Vitals](https://www.youtube.com/watch?v=F0NYT7DIlD)
           - Supplementation
         - stegotorus
           - PPF
             - CodeOsmosisMark
               - Saturation
           - Supplementation
+            - [Ложников П. С. Обеспечение безопасности облачных вычислений](https://www.youtube.com/watch?v=7LwRXG0wqdQ)
             - [Щерба Е. В. Анонимная распределённая сеть TOR](https://www.youtube.com/watch?v=nQpoNEHRdpA)
               - *Thank god! I have reached enough Russian proficiency JUST IN TIME!*
-              - VSM: 1:03
+              - VSM: 5:30
               - VOCABULARY LIMIT 5
                 - VOCABULARY распределённая
               - CURIOSITY_OUTREACH LIMIT 5 DEPTH 1
@@ -4801,9 +4994,15 @@
                   - [Что такое DPI (Deep Packet Inspection)](https://www.youtube.com/watch?v=uNWB1VHmERg)
                   - [Deep Packet Inpection](https://www.youtube.com/watch?v=oZ2HC3nIVvY)
         - Vue 3.0
+          - `self.fork`
+            - Saturation
+            - Supplements
           - PAPERBACK Vue.js设计与实现
         - Nx Monorepo
           - [source code](https://github.com/nrwl/nx)
+        - Tw algo
+          - [the-algorithm](https://github.com/twitter/the-algorithm)
+          - [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml)
         - Apache Zookeeper
           - _motivation
             - *Learning Spanish while accidentally having read the source code of Zookeeper and learning Kafka*
@@ -4853,7 +5052,7 @@
                         - LinearSweep:LS: 
                   - SUPPLEMENT Context Supplementation
                     - [Traversing Graphs with Gremlin (Artem Chebotko, Solutions Architect at DataStax)](https://www.youtube.com/watch?v=mZmVnEzsDnY&t=800s)
-                      - VSM: 38:02
+                      - VSM: 44:58 TTL
                       - POTENTIAL Flashcardification --> REMOVE
                         - Potentials: 0%
               - TOOLING Linkturious
@@ -4861,7 +5060,7 @@
                   - VSM: 1:00
                   - LM: 14
                 - [Using Linkurious in your Enterprise Architecture projects](https://www.youtube.com/watch?v=YXZyRWgCY-o)
-                  - VSM: 9:00
+                  - VSM: 14:00
                 - [How to visualize Oracle Big Data Spatial and Graph with Ogma](https://www.youtube.com/watch?v=yf5L_RNF8E0)
                   - VSM: 7:30
                 - [Graph-based product lifecycle management](https://www.youtube.com/watch?v=6iIqlFgauv8)
@@ -4871,37 +5070,50 @@
                   - Saturation
                 - [Production Ready GraphQL](https://drive.google.com/file/d/15y29mcLM4QRqjYlqp5kkij-jHfRAQKOR/view?usp=sharing)
                   - PPF
-                    - RT: 22
+                    - RT: 28
+                    - Saturation: 2.1%
                   - QUESTION *What's the difference between GraphQL variable, alias and GraphQL arguments?*
+                  - ?
+                    - GraphQL Introspection
+                    - GraphQL directives
+                      - [14 GraphQL directives](https://www.youtube.com/watch?v=QtVkyJ6CZsg)
+                        - VSM: 5:00
+                      - [@include, @skip, and @deprecated GraphQL Directives](https://www.youtube.com/watch?v=hdrKqFStlkc)
                 - [API versioning - A SCALABLE REST API versioning prototype.](https://www.youtube.com/watch?v=LRPTYhqk0jw)
-                  - VSM: 0:34
+                  - VSM: 5:08
                 - [Versioning strategy for a complex internal API](https://www.youtube.com/watch?v=M2KCu0Oq3JE)
+                  - VSM: 5:00
                 - [Applying graph visualisation to cyber-security analysis](https://www.youtube.com/watch?v=Z2tuadJQMow)
             - Microservice
-              - [Nest.js | Middleware, Pipes & Interceptors Explained By Example](https://www.youtube.com/watch?v=x1W3FJ1RJlM&t=4s)
-                - VSM: 20:52
-              - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=2ZzGMzitNgo)
-                - VSM：19:00
-              - [How to Manage User Access in NestJS | Authorization with CASL](https://www.youtube.com/watch?v=1pPjCX0FHco)
-                - VSM: 5:00
-              - [NestJS Role Based Authorization - RBAC | LinkedIn Clone [9]](https://www.youtube.com/watch?v=yZWcd77l9jk)
-                - VSM
-              - [Nest.js Caching Tutorial in 15 Minutes (Redis + Unit Testing)](https://www.youtube.com/watch?v=KXnkhWRCj40)
-                - VSM: 15:00
-                - CONFIG `isForcedHandsOn=True`
-              - [Nest.js | Events & Task Scheduling Tutorial](https://www.youtube.com/watch?v=btLyiMUs_Cw)
-              - [Background Jobs com NestJS - Code/drops #75](https://www.youtube.com/watch?v=cpLBaVBMg2Y)
-              - [How to use Dynamic Modules in NestJS with Stripe](https://www.youtube.com/watch?v=JTGgYVIBZjI)
-                - VSM: 0:55
-              - [What you need to know about Decorators](https://www.youtube.com/watch?v=bRAcWk9S-6g)
-              - [TypeScript Factory Patterns (No BS TS Series 2 Episode 1)](https://www.youtube.com/watch?v=-1YhP5IOBCI)
-                - VSM: 0:47
+              - Basics
+                - [What you need to know about Decorators](https://www.youtube.com/watch?v=bRAcWk9S-6g)
+                - [TypeScript Factory Patterns (No BS TS Series 2 Episode 1)](https://www.youtube.com/watch?v=-1YhP5IOBCI)
+                  - VSM: 0:47
+              - General
+                - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=2ZzGMzitNgo)
+                  - VSM：19:00
+                - [Nest.js | Middleware, Pipes & Interceptors Explained By Example](https://www.youtube.com/watch?v=x1W3FJ1RJlM&t=4s)
+                  - VSM: 20:52
+              - User Managment/Authentication
+                - [Understanding Attribute Based Access Control (ABAC)](https://www.youtube.com/watch?v=IbghSht_tpA)
+                - [How to Manage User Access in NestJS | Authorization with CASL](https://www.youtube.com/watch?v=1pPjCX0FHco)
+                  - VSM: 5:00
+                - [NestJS Role Based Authorization - RBAC | LinkedIn Clone [9]](https://www.youtube.com/watch?v=yZWcd77l9jk)
+                  - VSM: 5:00
+                - [NestJS Authorization: RBAC, ABAC, claims-based, and more! | NestJS Guards Tutorial](https://www.youtube.com/watch?v=wdsp7BNmJRc)
+              - Message & Scheduling
+                - [Nest.js | Events & Task Scheduling Tutorial](https://www.youtube.com/watch?v=btLyiMUs_Cw)
+                - [Background Jobs com NestJS - Code/drops #75](https://www.youtube.com/watch?v=cpLBaVBMg2Y)
+              - Integration
+                - [How to use Dynamic Modules in NestJS with Stripe](https://www.youtube.com/watch?v=JTGgYVIBZjI)
+                  - VSM: 0:55
           - [Spring Framework 5: Beginner to Guru](https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/10551206)
             - TEMP_TIMESTAMP: 2:46
           - Backend Master Class [Golang + Postgres + Kubernetes + gRPC]
             - TEMP_TIMESTAMP: 5:02
           - ASYNC MIRROR EXTERN [The Rust Programming Language](https://www.udemy.com/course/rust-lang/learn/lecture/4288542)
             - CCS: 1.5%
+            - TEMP_TIMESTAMP: 2:30
             - Bookpair
               - TYPE=paperback Rust编程之道 - 张汉东
                 - PPF
@@ -4961,11 +5173,11 @@
         - CCS: 11.7%
         - TEMP_TIMESTAMP: 3:00
       - AZ-400 Designing and Implementing DevOps Certification 2022 - U
-        - CCS: 9.2%
+        - CCS: 7.0%
         - TEMP_TIMESTAMP
       - **BLACKHOLE EMERGENCY** Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps - U
-        - CCS: 24.9%
-        - TEMP_TIMESTAMP: 2:00
+        - CCS: 31.4%
+        - TEMP_TIMESTAMP: 1:00
   - TOPIC IT Outsource, Supply Chain, Procurement, Geography
   - TOPIC Consulting
     - _motivation
@@ -4976,6 +5188,7 @@
           - Randomtelewalk: 24
         - SUPPLEMENT
           - [Case Interview Workshop Introduction (Video 1 of 12)](https://www.youtube.com/watch?v=fBwUxnTpTBo&list=PL8b_fmdDHHyCznYmSeWJrdrJN4UJhUrsh)
+            - VSM: 2:30
   - TOPIC Travel
     - **ERROR: Physical travel not possible, not enough R.O.I, value chain assessment returns non-saturated values**
       - **LOCKED** `ROOT.CentralExecutiveFunction`: *Acquire non-intrusive VR spectacle which enables real-time infinite-dimensional information aggregation and seamless bi/infinite-directional interaction with infinite transit capacity to unlock, technically not possible in at least the next 5 years*
@@ -4984,7 +5197,7 @@
           - Metrics: Catalogability, Indexability, Trackability, Analytics Integration, Energy usage efficiency
         - TASK Create hormonal manipulation strategy
 - Korean - TOPIK II+
-  - Initialization of language/meta structrure: 96.5%
+  - Initialization of language/meta structrure: 100% PENDING
     - `ROOT.CentralExecutiveFunction`
       - `onComplete`
         - RESOUCE_ALLOCATION `time='10 seconds`
@@ -4999,20 +5212,71 @@
     - Application of Spatial-Temperal Vector Space Analysis in combat psychology
       - Mathematics: Psychological Spatial-Temperal Vector Space and it's interface to behavioural output
   - TOPIC Application of PsyOps
-    - Macro PsyOps
-      - Traffic, Fame, and Crowd control
-        - CRITICAL_QUESTION *What happens when you click the "Post" button to post Campaign materials on social media?*
-          - CONT *You can start with browser technos, SEO, visibility to lower-level physics or fame network and GenZ political field*
-        - PREREQUISITE Advanced quantitative forensic psychology && PsyOps infrastructure
-    - Meso PsyOps
-    - Micro PsyOps
+    - PsyOps Theory
+      - Macro PsyOps
+        - Traffic, Fame, and Crowd control
+          - CRITICAL_QUESTION *What happens when you click the "Post" button to post Campaign materials on social media?*
+            - CONT *You can start with browser technos, SEO, visibility to lower-level physics or fame network and GenZ political field*
+          - PREREQUISITE Advanced quantitative forensic psychology && PsyOps infrastructure
+      - Meso PsyOps
+      - Micro PsyOps
+        - Spearing Forensic Behavioural & Psychological Landscape Analysis
+    - Field Duty
+      - LEGACY Unknown legacy data
+        - Watchlist
+        - Post-mortems
+          - Lists
+            - [Prune List](https://docs.google.com/spreadsheets/d/1zIAjxo4mInwu2lChPasDL4OyizdnDh2h44L8yNhkMnU/edit?usp=sharing)
+      - De-noobification
+        - Basics of Propaganda
+          - [Propaganda: Power and Persuasion - Defining Propaganda](https://www.youtube.com/watch?v=_uVGLCgqptI)
+            - VSM: 5:34 SATURATE_CHILDREN
+            - VOCABULARY 나쁘다 | 40%, 잡지 | 100% TTL
+          - [Likes, selfies and self-promotion - The hidden dangers of social media | DW Documentary](https://www.youtube.com/watch?v=wHWc31B24Rw)
+            - VSM: 10:00
+            - VOCABULARY 있다 | 80%
+          - [Inside the bizarre world of internet trolls and propagandists | Andrew Marantz](https://www.youtube.com/watch?v=2ix8JEqCJ1s)
+            - VSM: 5:00
+          - [Fake news, propaganda, and conspiracy theories - The fight against disinformation | DW Documentary](https://www.youtube.com/watch?v=HDtFpGfORpE)
+          - [Language of Politics - Noam Chomsky](https://www.youtube.com/watch?v=6yueij8jo9Q)
+            - VSM: 5:00
+          - [Propaganda and Manipulation: How mass media engineers and distorts our perceptions](https://www.youtube.com/watch?v=Pfo5gPG72KM)
+            - VSM: 5:00
+        - Undercurrent Opinion M&C
+          - Monitoring
+            - REDACTED
+          - Control
+            - REDACTED
+        - Public Opinion M&C
+          - Monitoring
+            - [Differentiating between 'Significant' and 'Meaningful': A practical approach to Public Opinion data](https://www.youtube.com/watch?v=MWnA4BAN8-g)
+            - [Evaluating PUBLIC OPINION Data [AP Gov Review, Unit 4 Topic 6 (4.6)]](https://www.youtube.com/watch?v=iVAAgO4YPA0)
+            - [5. Quantitative Data Analysis for Research Students | SPSS for Beginners](https://www.youtube.com/watch?v=kKQ1WT9Grfk)
+            - [Analyzing public opinion data with narration](https://www.youtube.com/watch?v=tar1K63mFC0)
+              - VSM: 5:00
+          - Control
+            - INSTRUMENT Entertainment & Entertainer
+            - INSTRUMENT Writing
+              - Blogging Masterclass: How To Build A Successful Blog In 2023 - U 
+                - CCS: 3.5%
+                - TEMP_TIMESTAMP: 4:00
+                - CONFIG Language Pair: Korean
+              - Social Media Marketing - Content Marketing Masterclass 2023 - U
+                - POINTER | CCS: 1.6%
+                - CONFIG Language Pair: Korean
+                - VOCABULARY 초보자 | 100% TTL, 변화 | 40%, 변화하다 | 41%, 플랫폼 | 100% TTL
+            - INSTRUMENT_LOGISTICS Generic Content Creation
+              - TOOLING OBS Studio
+                - [OBS Studio: Ultimate Microphone Guide (OBS Studio Tutorial for Mics, Filters and Audio Settings)](https://www.youtube.com/watch?v=gNUwAwrNiV0&list=PLlM_xT8ActQHCEgNi7gyjFLMFjBBavqYi)
+                  - VSM: 7:30 NEXT
+                  - VOCABULARY 것
+        - Field Duty
+          - PR automation
+            - [Code a Discord Bot with Python - Host for Free in the Cloud](https://www.youtube.com/watch?v=SPTfmiYiuok)
+              - VSM: 5:00
   - TOPIC Griftism: Tao of Contemporary Meta-war
+    - CRITICAL The overlapping role of an Employer, Employee, and a Warfighter
     - Silent Plagiarism: Eventual Checkmate Strategy
-  - TOPIC Content Creation
-    - Watchlist
-    - Post-mortems
-      - Lists
-        - [Prune List](https://docs.google.com/spreadsheets/d/1zIAjxo4mInwu2lChPasDL4OyizdnDh2h44L8yNhkMnU/edit?usp=sharing)
   - TOPIC Offensive Public Relations: Nuts and bolts
   - TOPIC *The 5 Basic Laws of Human Stupidity, and how to survive when such hiss dominates the next era*
 - Hindi - Negligible
@@ -5064,20 +5328,36 @@
   - TOPIC | Electrical Engineering, Chemical Engineering, Chemistry basics
     - \* - JP
       - [Python for computational chemistry -beginners tutorials -Introduction](https://www.youtube.com/watch?v=Sno4szlS4lw&list=PLhYF9QNr23IZ_bnrCIPdWdxNI_Ggl4m3G)
-        - Videosweepmark: 2:30
+        - Videosweepmark: 7:30
       - [Keynote: Advancing EDA Through the Power of AI and High-Performance Computing](https://www.youtube.com/watch?v=Ba-0GkMEtCA)
         - Videosweepmark: 14:00
     - JP - \*
+      - TOPIC Radical Innovation
+        - ChatGPT Masterclass - Build Solutions and Apps with ChatGPT
       - TOPIC Manufacturing, Chip design, Factory
         - Crash Course Electronics and PCB Design - U
-          - TEMP_TIMESTAMP: 2:00
+          - CCS: 1.3%
+          - TEMP_TIMESTAMP
         - MUTATION *Japanese vocabulary expansion requires MOST INTERESTED FIELD within language pesonality*
           - [Mobile Chip Design - Computerphile](https://www.youtube.com/watch?v=37XoF0aMxhU)
-            - VSM: 3:00
-            - VOCABULARY 製品 | 20%, 得る
+            - VSM: 8:23 SATURATE_CHILDREN
+            - VOCABULARY ため | 80%
+            - VOCABULARY 捨てる | 90%, 悪化 | 100% TTL
+          - [IC Design & Manufacturing Process : Beginners Overview to VLSI](https://www.youtube.com/watch?v=cIlwGFcDLhI)
+            - VSM: 23:00
+            - CONFIG Language pair: Japanese
+            - VOCABULARY 製作工程 | 40%, ゲートレベル | 20%
+          - [The Promise of Open Source Semiconductor Design Tools](https://www.youtube.com/watch?v=OmEbzRp_NGg)
+            - VSM: 12:11 PENDING
+            - OpenPDK
+          - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
+            - VSM: 7:07
           - [Explained How Chips Are Designed](https://www.youtube.com/watch?v=69mdJv6fWXE)
+            - VSM: 5:00
           - [How to Make Custom Board - Arduino Shield in 2 Hours | Full Tutorial](https://www.youtube.com/watch?v=OgcWAOIHsDU)
+            - VSM: 1:30
           - [Why making chips is so hard](https://www.youtube.com/watch?v=CkNn98WE5_k)
+            - VSM: 3:00
       - TOPIC Chemistry x Programming
         - LOCKED Require at least Japanese N1 to unlock
       - TOPIC Mechatronics, Tangible product R&D
@@ -5116,15 +5396,16 @@
         - 連体形
       - Verb::Key constructions
         - [ば form /Conditional form (How to conjugate)](https://www.youtube.com/watch?v=mzftZEcJZ4g)
+          - VSM: 2:30
     - MESO
       - Grammar Japanese-* Bundle
-        - [たい/たくない I want to/ I don't want to in Japanese](https://www.youtube.com/watch?v=fNj0Vm8lFPE&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=7)
-          - VSM: 5:37 NEXT
-          - LM: 7
+        - [たことがある (I have been/ I have done) in Japanese](https://www.youtube.com/watch?v=4_XMsDpRgM8&list=PLP6jQzrtQ718EBgJyqIum7rXtyOL7ksDn&index=8)
+          - VSM: 6:52 NEXT
+          - LM: 8
           - ?
             - ってね
         - [【Ｎ３文法】～きる・～きれる](https://www.youtube.com/watch?v=o0s4Wy88bVg&list=PLynCeSdpMqxDS6EC0L7vXYUAVCstRHcQR&index=12)
-          - VSM: 5:00
+          - VSM: 6:00 NEXT
           - LM: 12
           - Language pair SHUFFLE: Japanese - Spanish
           - ～うえに
@@ -5183,46 +5464,32 @@
         - VOCABULARY, VOCABULARY, VOCABULARY!
   - Learning Cache for Intermediate learners
     - **Глагол**
-      - означать | 90%
-        - озна́чить | 100% TTL
-      - становиться | 40%
-        - стать
-      - решить | 20%
-        - реша́ть
-      - добавить | 10%
-        - добавля́ть
-      - получить | 10%
-        - получа́ть
-        - получе́ние
-      - потребоваться | 10%
-        - тре́боваться
-      - терять | 40%
-        - потеря́ть | 40%
+      - отображать | 90%
+        - отобрази́ть | 60%
+      - выполнять | 80%
+        - вы́полнить | 80%
+      - заменя́ться | 62%
     - **Предлог**
-      - вот
+      - вот | 74%
     - **Местоимение**
     - **Прилагательное**
-      - бесплатный | 70%
-      - изначальный | 60%
-      - общий | 40%
-      - пустой | 40%
-      - неоднократный | 50%
-      - какой-то | 20%
+      - *СЛОВО!*
     - **Наречие**
-      - изначально | 40%
     - **Существительное**
-      - затрата | 20%
-      - деньги | 10%
-      - поддержка | 99%
-      - случай | 90%
-      - кое-что | 99%
-      - шаг | 95%
-      - остальное | 80%
+      - затрата | 95%
+      - деньги | 80%
+      - распростране́ние | 80%
+      - остальное | 95%
+      - вещь | 50%
+      - эксперимент | 90%
+      - фабрика | 80%
+      - описание | 90%
   - TOPIC | Weird Course with a weird language
     - HIST 251
-      - [3. Households: Structures, Priorities, Strategies, Roles](https://www.youtube.com/watch?v=YxjKJ3JgXvc&list=PL18B9F132DFD967A3&index=3)
-        - Videosweepmark: 45:10
-        - Listmark: 3
+    фабрика | 80%
+      - описание | 90%  - [4. Communities: Key Institutions and Relationships](https://www.youtube.com/watch?v=f-qdApVXVS0&list=PL18B9F132DFD967A3&index=4)
+        - Videosweepmark: 5:11
+        - Listmark: 4
         - Stratified sampling
         - INTEREST Evolution of Information Circulation in Sixteenth Century
           - [Intro to Data Science: Historical Context](https://www.youtube.com/watch?v=aECk8s0FS7Q)
@@ -5236,8 +5503,8 @@
   - TOPIC | Engineering System Ontology
     - Contemporary Complex Ontology， Plausible reasoning, Ontology for Data Engineering
       - `ROOT.CentralExecutiveFunction`: *Ontology is extremely important for Forward/Backward Compatible System Design*
-      - [ISO/IEC 21838](https://www.youtube.com/watch?v=aux_zcK7XSI)
-        - VSM: 1:36:35 PENDING
+      - [Why AI Will Never Rule the World (Digital Trends Interview with Luke Dormehl)](https://www.youtube.com/watch?v=ZB03aUACCk8)
+        - VSM: 5:00
         - ?
           - Model Relational Ontology
           - INCITS 573-3-202x
@@ -5247,11 +5514,34 @@
           - LOD Cloud
             - [MetaLink: A Travel Guide to the LOD Cloud](https://www.youtube.com/watch?v=Ok4dSONyzCA)
             - [Sergey Goncharov: "Towards a Higher-Order Mathematical Operational Semantics"](https://www.youtube.com/watch?v=tUAwA0IE34M)
-              - VSM: 8:30
+              - VSM: 10:00
+              - ?
+                - $\rho$-bialgebra
               - GSOS, Endofunctor
                 - [Polynomial Functors Course, Day 1: Introduction](https://www.youtube.com/watch?v=7ZaL6aQVOZo&list=PLhgq-BqyZ7i6IjU82EDzCqgERKjjIPlmh)
+                  - VSM: 40:00
+                  - ADVANCED_VOCABULARY functor, representable
+                    - [Category Theory for Programmers: Chapter 2 - Types and Functions](https://www.youtube.com/watch?v=aIOMRqiwziM&list=PLVFrD1dmDdvcjCQDPhExqP56jqxp0Ssn_&index=2)
+                      - VSM: 5:00
+                      - LM: 2
+                  - ADVANCED_VOCABULARY arena, position, direction
+                  - [Category Theory For Programmers](https://unglueit-files.s3.amazonaws.com/ebf/e90890f0a6ea420c9825657d6f3a851d.pdf)
+                    - PPF
+                      - OP: 22
+                      - Saturation: 0.03%
+                      - PANIC Generic Panic
+                        - PANIC Panic Saturation: 55%
+                    - PPS
                   - [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf)
-                    - PPF::OP: 8
+                    - PPF!
+                      - PPF::OP: 23
+                      - PPF::\[INDICATOR S: 0.055%\]
+                      - PANIC Generic Panic
+                        - PANIC Panic Saturation: 25%
+                        - PANIC *I don't get the idea of how it works for* $(P(y))$*-tree to grow* 
+                    - PPS
+                      - PREREQUISITE Unknown prerequisite
+                      - ? Solution-Problem Flashcardification --> Only store pairs that *extends your mind*
           - BFO2020
           - ISO/IEC AWI 21838-3
           - Top-level TUpper
@@ -5269,8 +5559,8 @@
         - OUT_REACH
           - ?Epistemology
         - [Webinar : Machine Learning and ontology](https://www.youtube.com/watch?v=eVs0KjV9LhU&list=RDLV9AsRE437e7I&index=4)
-          - VSM: 55:00
-          - LM: 4
+          - VSM: 1:00:19
+          - LM: 5
           - FIELD_OF_INTEREST
             - Related stability of natural language
           - Paperpair
@@ -5281,8 +5571,8 @@
           - Bookpair
             - [Building Ontologies with Basic Formal Ontology](https://drive.google.com/file/d/1ChJRKevy4yrbhwJyHzYIdEHU4c8hLueD/view?usp=sharing)
               - PPF
-                - OP: 18
-                  - S: 1.31%
+                - OP: 16
+                  - S: 1.32%
           - References
             - IDEA Curator Ecosystem Design
               - Hub and spoke mode, plug-and-go modularity
@@ -5345,22 +5635,30 @@
                     - PPF_OP: 0.2%
                     - Supplement
                       - CONFIG *All VOCABULARY tag in the same level CANNOT be enriched by any rote methods*
-                      - VOCABULARY `.next()` | 1%
-                      - VOCABULARY `.fold()`
-                      - VOCABULARY `.property(**)` | 20%
-                      - VOCABULARY `.out()` | 80%
-                      - VOCABULARY `.values()` | 20%
-                      - VOCABULARY `.has` | 5%
-                      - VOCABULARY `.coalesce`
-                      - VOCABULARY `__where`
-                      - VOCABULARY `g` EMPHASIZES *outreach* | 10%
-                      - VOCABULARY `id` | 5%
-                      - VOCABULARY `T.id`
-                      - [Getting Started With Graph Databases, Apache TinkerPop, and Gremlin - Tutorial 1](https://www.youtube.com/watch?v=DiN_aeW0NdY)
-                        - VSM: 22:00 NEXT
-                        - LM: 1
+                      - ADVANCED_VOCABULARY `.next()` | 1%
+                      - ADVANCED_VOCABULARY `.fold()` | 2%
+                      - ADVANCED_VOCABULARY `.property(**)` | 20%
+                      - ADVANCED_VOCABULARY `.out()` | 80%
+                      - ADVANCED_VOCABULARY `.values()` | 20%
+                      - ADVANCED_VOCABULARY `.has` | 5%
+                      - ADVANCED_VOCABULARY `.fold()` | 20%
+                      - ADVANCED_VOCABULARY `.project` | 2%
+                      - ADVANCED_VOCABULARY `.cap`
+                      - ADVANCED_VOCABULARY `.subgraph`
+                      - ADVANCED_VOCABULARY `.coalesce` | 2%
+                      - ADVANCED_VOCABULARY `.as` | 15%
+                      - ADVANCED_VOCABULARY `where` | 2%
+                      - ADVANCED_VOCABULARY `g` EMPHASIZES *outreach* | 10%
+                      - ADVANCED_VOCABULARY `id` | 15%
+                      - ADVANCED_VOCABULARY `T.id`
+                      - [Getting Started With Graph Databases, Apache TinkerPop, and Gremlin - Tutorial 2](https://www.youtube.com/watch?v=LUSHQXVkDIc)
+                        - VSM: 5:00
+                        - LM: 2
+                      - [Graph Queries with Gremlin Language Variants](https://www.youtube.com/watch?v=ait4WppAri0)
+                      - [Categorical Query Language (CQL) and Applications](https://www.youtube.com/watch?v=_mu1JrA9tTM)
+                      - [Graphs vs. Categories](https://www.youtube.com/watch?v=0P2JC0rx3QM)
                       - [Practical Gremlin](https://kelvinlawrence.net/book/Gremlin-Graph-Guide.html)
-                        - PPF::LS: *mplies the direction of the relationship*
+                        - PPF::LS: *Implies the direction of the relationship*
                         - CONFIG `isForcedHandsOn=true`
                           - [Hands On Resource](https://github.com/krlawrence/graph)
               - LeetCode Cookbook Analysis in Go
@@ -5457,17 +5755,18 @@
       - Cryo Chamber
       - Teleportation
         - [Quantum Physics Full Course | Quantum Mechanics Course](https://www.youtube.com/watch?v=K4BF7MD69_U)
-          - VM: 11:00
+          - VM: 17:30
           - [Position and Momentum Operators in Quantum Mechanics](https://www.youtube.com/watch?v=cS6A7I-auf4)
-            - VM: 10:00
-            - VOCABULARY σωματίδιο | 20%, ενεργειακός, αναπαριστάνω
+            - VM: 19:00
+            - VOCABULARY σωματίδιο | 20%, ενεργειακός | 10%, αναπαριστάνω | 12%
+            - ？ De Brogile Principle
         - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
         - [Quantum entanglement - R.Horodecki](https://arxiv.org/pdf/quant-ph/0702225.pdf)
     - Endpoint
       - Terraform Engineering
         - [The Terraforming Webinar with Benjamin Bratton](https://www.youtube.com/watch?v=iahQudn88HE)
-          - VM: 2:30
-          - VOCABULARY περιμένω
+          - VM: 37:34
+          - VOCABULARY περιμένω | 100% TTL, Αφαίρεση | 60%, ανασύνθεση | 100% TTL 
           - SUPPLEMENT Urban planning & Urban Design
             - [Urban Design](https://www.routledge.com/rsc/downloads/Urban_Design_FB_final.pdf)
     - Travel Knowledge
@@ -5479,11 +5778,19 @@
             - SOURCING SUPPLEMENT 
               - Methods for Physics and Engineering
         - [Introduction to Astrophysics (1-12)](https://www.youtube.com/watch?v=-5tz3JbjAL4)
-          - VSM: 1:55:00
+          - VSM: 2:11:00
           - CONFIG Language Pair: Greek
           - Logarithmic Chart Reading
-          - VOCABULARY σχεδιάζω | 94%, χρησιμοποιώ | 2%, ανησυχώ
-          - VOCABULARY βαρύτητα
+          - PREREQUISITE Vector Space Rigor
+            - SUPPLEMENT Higher Mathematics For Engineers And Physicists
+              - PPF
+                - OS: 96
+                - INDICATOR | S: 0.0001%
+              - PPS
+                - [Resource 0](https://archive.org/details/highermathematic029159mbp/page/104/mode/2up)
+                - [Resource 1](https://drive.google.com/file/d/1yZEx40CtPvAR2LIv_B-xVc_JK1sDvS-X/view?usp=sharing)
+          - VOCABULARY χρησιμοποιώ | 5%, ανησυχώ | 5%
+          - VOCABULARY βαρύτητα, σημασία | 5%
           - VOCABULARY ContinuousStimulationUnit [A Comprehensive Guide to Greek Verbs](https://www.greekpod101.com/blog/2020/08/25/greek-verbs/)
             - Initial exposure saturation: 4.12%
           - ?
@@ -5497,23 +5804,23 @@
               - PPF
                 - OP: 11
         - [Advanced Higher Physics | Astrophysics | Astronomical Units & Light Years | WORKED EXAMPLES](https://www.youtube.com/watch?v=vnhfwmvU37A&list=PL4ViYiFUc7GS7ucqnjPBawUmNyNbC2cTR&index=2)
-          - VSM
+          - VSM: 3:30 NEXT
           - LM: 2
     - Recon
       - Astrophotography
         - SUPPLEMENT Basic Photography, Optics, and equipments
           - MIT 8.421
             - [1. Resonance I](https://www.youtube.com/watch?v=iwQ49oG-DO8&list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32)
-              - VSM: 14:00
-              - VOCABULARY προετοιμασία | 5%
+              - VSM: 16:00
+              - VOCABULARY προετοιμασία | 90%
         - [Astrophotography: 14 MUST KNOW Starting Tips!](https://www.youtube.com/watch?v=KXABDwAxT1s)
-          - VSM: 5:05
+          - VSM: 10:05
   - Vocabulary flow
     - SUPPLEMENT
       - [Learn Ancient Greek: 42_Unit 7 Adverbs and vocabulary](https://www.youtube.com/watch?v=NL0KcpKYr2g&list=PLq5ea-jR9u2puDaLoRL-nBkpwrkURbLjT&index=43)
-        - VM: 5:00
+        - VM: 12:48 NEXT
         - ListStamp: 42
-        - VOCABULARY ορίζω | 35%, βλέπω, 5% | απαγωγή
+        - VOCABULARY ορίζω | 35%, βλέπω | 5%, 100% TTL | απαγωγή
         - Language Pair: Russian | German
     - STATIC | PROCESSING\_CAPACITY
       - _methods

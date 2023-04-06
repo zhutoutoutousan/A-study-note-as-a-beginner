@@ -23,10 +23,8 @@
             "id": "e599ba99412eb413",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -178,5 +176,7 @@
     }
   },
   "active": "e599ba99412eb413",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Art-media-and-Hospitality/art_arsenal.md"
+  ]
 }

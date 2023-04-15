@@ -2,7 +2,6 @@
 - [Table of Contents](#table-of-contents)
 - [Guidance](#guidance)
 - [Basic tooling](#basic-tooling)
-- [?](#)
 - [Geometry \& Topology](#geometry--topology)
 - [Mathematical analysis](#mathematical-analysis)
   - [General](#general)
@@ -27,9 +26,6 @@
 # Basic tooling
 - GNU Octave
 - Jupyter Notebook
-
-# ?
-- [Group Theory - J.S.Milne](https://www.jmilne.org/math/CourseNotes/GT.pdf)
 
 # Geometry & Topology
 - Seifert and Threlfall: A Textbook of Topology and Seifert: Topology of 3-dimensional Fibered Spaces

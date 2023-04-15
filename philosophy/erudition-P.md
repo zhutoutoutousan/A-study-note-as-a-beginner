@@ -35,6 +35,4 @@
 
 # Neutro-sophy 中智学
 #possibleacademiadirection --> Requires Mathematics first
-
-- [Optimization Theory Based on Neutrosophic and Plithogenic Sets](https://books.google.com/books/about/Optimization_Theory_Based_on_Neutrosophi.html?id=qTzWywEACAAJ&source=kp_author_description)
 - [中道辩证法与唯道主义自然哲学 - Chinese Neutrosophy and Taoist Natural Philosophy](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1270&context=math_fsp)

@@ -209,6 +209,7 @@
           - Videomark: 13:09
         - cfn-lint
     - Software Design
+      - NN-SVG
       - [Diagramm as Code](https://github.com/mingrammer/diagrams)
       - PlantUML
         - [Using PlantUML in VSCode](https://www.youtube.com/watch?v=xkwJ9GwgZJU)

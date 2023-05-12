@@ -1,5 +1,6 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
+- [Fixtures](#fixtures)
 - [\_INBOUND](#_inbound)
 - [Linux Ecosystem](#linux-ecosystem)
 - [Security](#security)
@@ -39,6 +40,11 @@
     - [Visual LANSA](#visual-lansa)
     - [GeneXus](#genexus)
     - [Zoho Creator](#zoho-creator)
+
+# Fixtures
+https://stackoverflow.com/questions/2547554/multiple-python-versions-on-the-same-machine
+https://stackoverflow.com/questions/4583367/how-to-run-multiple-python-versions-on-windows/13953614#13953614
+
 
 # _INBOUND
 - dbforge

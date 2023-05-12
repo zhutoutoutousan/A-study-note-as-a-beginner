@@ -26,9 +26,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f2158db090851c5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -71,6 +81,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c88a232072c4288",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -164,7 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,7 +192,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e599ba99412eb413",
+  "active": "f2158db090851c5b",
   "lastOpenFiles": [
     "Art-media-and-Hospitality/art_arsenal.md"
   ]

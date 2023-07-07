@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "5d241d94b05753b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
+          },
+          {
+            "id": "dc67061c2432d7b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "e599ba99412eb413",
             "type": "leaf",
             "state": {
@@ -113,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self/log_overall-313_840.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self/log_overall-313_840.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "self/log_overall-313_840.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +208,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f2158db090851c5b",
+  "active": "dc67061c2432d7b8",
   "lastOpenFiles": [
+    "_intel-core/intel-dashboard/_tmp_4112_eead8803e45cdcb10967c2e575042f3a",
+    "_intel-core/intel-dashboard",
+    "_intel-core/orchestrator/poetry.lock",
+    "_intel-core/orchestrator/pyproject.toml",
+    "_intel-core/interface/nest/pnpm-lock.yaml",
+    "_intel-core/interface/nest/pnpm-lock.yaml.1257003160",
+    "_intel-core/interface/nest/node_modules/@nestjs",
+    "_intel-core/interface/nest/node_modules/@types",
+    "_intel-core/interface/nest/node_modules/@eslint",
+    "_intel-core/interface/nest/node_modules/@eslint-community",
+    "_intel-core/interface/nest/node_modules/@typescript-eslint",
+    "_intel-core/interface/nest/README.md",
+    "_intel-core/interface/rust/README.md",
+    "_intel-core/intel-agents/intel-asset-embedder/README.md",
+    "_intel-core/intel-agents/intel-asset-embedder/intel-asset-embedder/README.md",
+    "self/log_overall-318_840.md",
+    "self/log_overall-317_840 copy.md",
+    "self/log_overall-313_840.md",
+    "self/image.png",
+    "self/log_overall-316_840.md",
+    "self/log_overall-315_840 copy.md",
     "Art-media-and-Hospitality/art_arsenal.md"
   ]
 }

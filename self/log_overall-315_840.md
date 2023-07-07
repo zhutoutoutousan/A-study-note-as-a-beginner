@@ -166,7 +166,7 @@
   - TOPIC International Team Collaboration
     - Techno part
       - [uni-app & uniCloud for Western World - 40](https://www.youtube.com/watch?v=YyMOdE8rMM0&list=PL9nxfq1tlKKmvdNX2ec-a5xC6Ny9hFXgY&index=40)
-        - VSM: 16:00
+        - VSM: 18:00
         - LM: 40
         - CONFIG `speed=2`
         - SUPPLEMENT [Vscode x uni-app](https://juejin.cn/post/7090532271257714695)
@@ -352,21 +352,20 @@
         - TEMP_TIMESTAMP: 1:04
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
-      - **EMERGENCY PRIORITIZED** The Ultimate Guide to Game Development with Unity (Official) - U
-        - **BLOCKER** CCS: 18.2% BLOCKER=`UI layer not showing up` --> RESOLVED: *Uncheck Autosize for TextMeshPro*
-          - BLOCKER_RESOLUTION
-            - [How to correctly use font weights and font families in TextMesh Pro](https://www.youtube.com/watch?v=Xa7kcapGRDI&list=PLg0yr4zozmZX0dJZ-XNa4v0i_kAVx2sfY&index=2)
-            - [UI Toolkit for Runtime [Unity] 3/10 - Set up the Unity project](https://www.youtube.com/watch?v=vWvnY7ieH4E&list=PLmdJ8so4ffmvVKgECJF4FlnTfOq-2DcYa&index=4)
-              - VSM: 3:30
-              - LM: 4
-            - [Let's make an Editor Tool with Unity's UI Toolkit - Overview](https://www.youtube.com/watch?v=zWScqvG9QRc&list=PLg_ZciC4y1WilboQL_UgDv4IR-eoQ-KTs&index=2)
-              - VSM: 10:32
-              - LM: 2
-              - CONFIG Language Pair: German
-            - [Inventory System in Unity based on Scriptable Objects - P2](https://www.youtube.com/watch?v=_mSRTZwmyNQ&list=PLcRSafycjWFegXSGBBf4fqIKWkHDw_G8D&index=2)
-              - VSM: 2
-              - LM: 2
-        - TEMP_TIMESTAMP: 1:00
+      - The Ultimate Guide to Game Development with Unity (Official) - U
+        - CCS: 18.4%
+        - SUPPLEMENT
+          - [How to correctly use font weights and font families in TextMesh Pro](https://www.youtube.com/watch?v=Xa7kcapGRDI&list=PLg0yr4zozmZX0dJZ-XNa4v0i_kAVx2sfY&index=2)
+          - [UI Toolkit for Runtime [Unity] 3/10 - Set up the Unity project](https://www.youtube.com/watch?v=vWvnY7ieH4E&list=PLmdJ8so4ffmvVKgECJF4FlnTfOq-2DcYa&index=4)
+            - VSM: 3:30
+            - LM: 4
+          - [Let's make an Editor Tool with Unity's UI Toolkit - Overview](https://www.youtube.com/watch?v=zWScqvG9QRc&list=PLg_ZciC4y1WilboQL_UgDv4IR-eoQ-KTs&index=2)
+            - VSM: 10:32
+            - LM: 2
+            - CONFIG Language Pair: German
+          - [Inventory System in Unity based on Scriptable Objects - P2](https://www.youtube.com/watch?v=_mSRTZwmyNQ&list=PLcRSafycjWFegXSGBBf4fqIKWkHDw_G8D&index=2)
+            - VSM: 2
+            - LM: 2
         - CONFIG `isForcedHandson=True`
         - CONFIG Language pair: German
         - TANDEM Complete C# masterclass - U
@@ -1873,13 +1872,31 @@
           - Schema/Pre-built mental facility Construction
             - MAGNET RUNNING `inwardSourcing(ROOT, context)`
             - MAGNET RUNNING `outwardSourcing(EXTERN, context)`
-              - [Industry | What is Industry? | Definition of Industry | What do you mean by Industry?](https://www.youtube.com/watch?v=O6QlTZ3wIp4)
+              - [Industry Analysis](https://www.youtube.com/watch?v=UUKAX0E4ckM)
+                - VSM: 4:00
+                - ?Traditional Industry Analysis
+                  - Rivalry
+                    - Competitive Rivalry
+                      - Threat of New Entry
+                      - Buyer Power
+                      - Supplier Power
+                      - Threat of Substitution
+                      - Complements
+                - Contemporary Industry Analysis
+                - Nextgen Industry Analysis
+              - [2016 08 04 13 59 Financial Statement Analysis to Assess Credit Risk](https://www.youtube.com/watch?v=p0SHfTLUyns)
+              - [PENDING](https://www.youtube.com/watch?v=SI5lYaZaUlg)
+              - [Internal Analysis: Your Competitive Advantage](https://www.youtube.com/watch?v=g-6BiM45Xi0)
+              - [The Industry Analysis](https://www.youtube.com/watch?v=fEqG6b6qlD4)
+              - [Industry Analysis: Porter's Five Forces Model | Strategic Management](https://www.youtube.com/watch?v=2e23p5cJCBo)
+              - **MUTATION** Investment Banking
+                - [How to Build a Financial Model in Excel - Full Tutorial for Beginners](https://www.youtube.com/watch?v=-ivpFNCU4CY&list=PLa_s3hfVqSIyD1ejtJfZZXS3yPNW8MEHe)
             - MAGNET RUNNING `brainSingularityBasedSourcing(BrainSingularitySubscriberCallback: InternalSubscriber, context)`
         - Logistics
           - RPA ^ Trading
             - Quant
               - [Volume Trading Strategy Analysis In Python](https://www.youtube.com/watch?v=eCqqhu2TFdE)
-                - Videosweepmark: 3:30
+                - Videosweepmark: 9:40
                 - Language pair: French: French | Spanish
             - Back testing
           - Broker
@@ -3908,7 +3925,7 @@
               - VSM: 6:00
           - DAW: Bespoke Synth
             - [Sound Design COMPLETE course - EVERYTHING you need to know to craft any sound.](https://www.youtube.com/watch?v=jWorjBDcty4)
-              - VSM: 42:30
+              - VSM: 45:00
             - [Bespoke Synth - Chord and Melody](https://www.youtube.com/watch?v=_rUyOARW8C4)
               - VSM: 2:30
           - Arturia Music Production
@@ -4141,9 +4158,9 @@
             - Cross File Referencing
           - IPA
             - ?
-              - [Pinecone #2 - Managing Indexes](https://www.youtube.com/watch?v=DCQrrnFbLt8&list=PLRLVhGQeJDTLiw-ZJpgUtZW-bseS2gq9-&index=2)
-                - VSM: 4:29 NEXT
-                - LM: 2
+              - [Pinecone #3 - Inserting Data](https://www.youtube.com/watch?v=HjeW6ed2dmI&list=PLRLVhGQeJDTLiw-ZJpgUtZW-bseS2gq9-&index=3)
+                - VSM: 5:23
+                - LM: 3
                 - CONFIG `isForcedHandsOn=True`
               - [Using LlamaIndex for building Generative AI apps](https://www.youtube.com/watch?v=YN6n5hvmsx8)
                 - VSM: 25:00
@@ -5377,8 +5394,14 @@
   - MUTATION TOPIC Application of Game/Grift theory & Game/Grift engineering
     - [PENDING](https://youtu.be/Z9wrFTYTLDs)
       - VSM: 5:20
+    - Skills
+      - [How To Edit 21st Century Humour Memes (Premiere Pro)](https://www.youtube.com/watch?v=GnZFNE4pz5I)
+      - [Using Artificial Intelligence To Make Memes](https://www.youtube.com/watch?v=GVyoMXFStPw)
+      - [What App Can I Use To Make Memes?](https://www.youtube.com/watch?v=CXLuEz3XCdQ)
     - Infrastructure
       - [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://www.youtube.com/watch?v=9iU_IE6vnJ8)
+        - VSM: 3:00
+        - VOCABULARY 도구입니다, 중복, 정의하기
       - [Turborepo Demo and Walkthrough (High-Performance Monorepos)](https://www.youtube.com/watch?v=YX5yoApjI3M)
         - VOCABULARY 의하다
     - CONFIG *Pure Game theory redirected to Italian*
@@ -5532,7 +5555,7 @@
           - TEMP_TIMESTAMP
         - MUTATION *Japanese vocabulary expansion requires MOST INTERESTED FIELD within language pesonality*
           - [Power Electronics (Full Course)](https://www.youtube.com/watch?v=A78yP8oApqk)
-            - VOCABULARY 可変交流, 効率, 専門, 登録
+            - VOCABULARY 可変交流, 効率 | 40%, 専門 | 40%, 登録 | 40%
             - VOCABULARY 受講する | 20%
             - VSM: 6:31
             - SUPPLEMENT
@@ -5555,11 +5578,12 @@
               - DC Simulation
           - [How to Make Custom Board - Arduino Shield in 2 Hours | Full Tutorial](https://www.youtube.com/watch?v=OgcWAOIHsDU)
             - VSM: 5:00
-            - VOCABULARY 保存, 戻る
+            - VOCABULARY 保存, 戻る | 40%
           - [Why making chips is so hard](https://www.youtube.com/watch?v=CkNn98WE5_k)
             - VSM: 3:00
       - TOPIC Chemistry x Programming
         - LOCKED Require at least Japanese N1 to unlock
+        - LOCKED Bio-augmentation, Bio Computing & Human revolution
       - TOPIC Mechatronics, Tangible product R&D
         - LOCKED Require at least Japanese N2 to unlock
         - IDEA UNSTABLE MUTATION Idea Catalog --> MOVE TO `/spanish/early startup`
@@ -5666,15 +5690,22 @@
     - **Глагол**
       - казаться | 100% TTL
         - показа́ться
+      - повернуть
+      - пройтись
     - **Предлог**
     - **Местоимение**
+      - через
     - **Прилагательное**
       - старший
       - окончательный
+      - концептуальный
     - **Наречие**
+      - концептуально
     - **Существительное**
       - разработка | 3%
-      - единица
+      - единица | 2%
+      - процедура
+      - псевдокод
   - TOPIC | Weird Course with a weird language
     - HIST 251
       - [4. Communities: Key Institutions and Relationships](https://www.youtube.com/watch?v=f-qdApVXVS0&list=PL18B9F132DFD967A3&index=4)
@@ -5930,12 +5961,13 @@
     - Denoobification
       - Graph
         - AVL Tree
+          - ContinuousStimulationUnit AVL Tree Rotations and Carry-overables
           - [AVL Trees & Rotations (Self-Balancing Binary Search Trees)](https://www.youtube.com/watch?v=vRwi_UcZGjU)
             - VSM: 8:39
             - Red black tree
           - [Quaternions and 3d rotation, explained interactively](https://www.youtube.com/watch?v=zjMuIxRvygQ)
           - [Rotating a Binary Tree](https://www.youtube.com/watch?v=pMfoyc6zmZo)
-            - VSM: 2:13
+            - VSM: 3:00
         - [502.IPO](https://www.youtube.com/watch?v=1IUzNJ6TPEM)
           - VSM: 5:00
       - Random Supportive Thread
@@ -6035,7 +6067,7 @@
       - Terraform Engineering
         - [The Terraforming Webinar with Benjamin Bratton](https://www.youtube.com/watch?v=iahQudn88HE)
           - VM: 45:30
-          - VOCABULARY Αφαίρεση | 95%
+          - VOCABULARY Αφαίρεση | 100% TTL
           - SUPPLEMENT Urban planning & Urban Design
             - [Urban Design](https://www.routledge.com/rsc/downloads/Urban_Design_FB_final.pdf)
     - Travel Knowledge

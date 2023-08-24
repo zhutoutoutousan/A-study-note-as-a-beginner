@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "d77d7180d53b6b02",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "e599ba99412eb413",
             "type": "leaf",
             "state": {
@@ -56,9 +66,17 @@
                 "currentVersion": "1.2.8"
               }
             }
+          },
+          {
+            "id": "a86e2d68a7925288",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,8 +226,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "dc67061c2432d7b8",
+  "active": "a86e2d68a7925288",
   "lastOpenFiles": [
+    "self/log_overall-319_840.md",
+    "self/log_overall-318_840 copy.md",
+    "__semantic-scripts__/_TOOLING.md",
+    "__semantic-scripts__/_SCHEDULER.md",
+    "__semantic-scripts__/_PROCESSING.md",
+    "__semantic-scripts__/_OUTBOUND.md",
+    "__semantic-scripts__/_INBOUND.md",
+    "__semantic-scripts__/_IMPROVE.md",
+    "__semantic-scripts__/_ENTRY.md",
+    "__semantic-scripts__/_COMMITMENT-ON-HALT.md",
+    "__semantic-scripts__/_BELIEF.md",
+    "__semantic-scripts__",
     "_intel-core/intel-interface/rust/target/debug/build/tokio-5e4dd695a616fd25/out/probe0.ll",
     "_intel-core/intel-interface/rust/target/debug/build/slab-955b4671ba16ea47/out/probe0.ll",
     "_intel-core/intel-interface/rust/target/debug/build/uncased-df198d1a9111e731/out",
@@ -219,8 +249,6 @@
     "_intel-core/intel-interface/rust/target/debug/build/tokio-e3bab29ceb9fc2ca/build_script_build-e3bab29ceb9fc2ca.d",
     "_intel-core/intel-interface/rust/target/debug/build/tokio-e3bab29ceb9fc2ca/build-script-build",
     "_intel-core/intel-interface/rust/target/debug/build/tokio-5e4dd695a616fd25/stderr",
-    "_intel-core/intel-interface/rust/target/debug/build/tokio-5e4dd695a616fd25/root-output",
-    "_intel-core/intel-interface/rust/target/debug/build/tokio-5e4dd695a616fd25/out",
     "_intel-core/intel-interface/rust/README.md",
     "_intel-core/intel-interface/nest/README.md",
     "_intel-core/intel-view/apps/web/README.md",
@@ -236,9 +264,6 @@
     "self/log_overall-318_840.md",
     "self/log_overall-317_840 copy.md",
     "self/log_overall-313_840.md",
-    "self/image.png",
-    "self/log_overall-316_840.md",
-    "self/log_overall-315_840 copy.md",
-    "Art-media-and-Hospitality/art_arsenal.md"
+    "self/image.png"
   ]
 }

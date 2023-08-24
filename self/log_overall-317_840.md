@@ -645,15 +645,16 @@
           - Startup --> Managed by `portuguese/freelanceable` and `spanish/early-startup`
         - Basics --> WAIVE `ROOT.CentralExecutiveFunction.requestAdditionTimeAllocation(5)`
           - Fundamentals of Backend Engineering
-            - CCS: 11.7%
-            - TEMP_TIMESTAMP: 8:10
+            - CCS: 17.0%
+            - TEMP_TIMESTAMP
             - SUPPLEMENT Apache Zookeeper - Code Reading
               - _motivation
                 - *Learning Spanish while accidentally having read the source code of Zookeeper and learning Kafka*
               - [source code](https://github.com/apache/zookeeper)
               - PPF
-                - PROCESS_POOL Local Test Run
-                - PROCESS_POOL Random Code Reading
+                - OP: 0.002%
+                - TASK Local Test Run
+                - TASK Random Code Reading
                   - PROCESS Randomtelewalk Node LIMIT 5
                     - `/zookeeper-assembly/src/main/assembly/bin-package.xml` | 80%
                       - ADVANCED_VOCABULARY `jute`

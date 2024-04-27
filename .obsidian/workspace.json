@@ -4,79 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "84ef95b2faa0607a",
+        "id": "a0e833587216b8b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4d33dff1aea85961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "self/log_overall-313_840.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d241d94b05753b2",
+            "id": "9009d6f7b1a2291f",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.3.4"
+                "currentVersion": "1.5.11"
               }
             }
           },
           {
-            "id": "dc67061c2432d7b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "d77d7180d53b6b02",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "e599ba99412eb413",
+            "id": "d811713040a9cc81",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f2158db090851c5b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "a86e2d68a7925288",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,6 +156,18 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "0b525326ed695fc1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -226,8 +188,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a86e2d68a7925288",
+  "active": "d811713040a9cc81",
   "lastOpenFiles": [
+    "self/image.png",
+    "self/log_overall-324_840.md",
+    "self/log_overall-323_840 copy.md",
+    "Untitled.canvas",
+    "self/log_overall-320_840.md",
+    "self/log_overall-313_840.md",
+    "self/log_overall-319_840 copy.md",
     "self/log_overall-319_840.md",
     "self/log_overall-318_840 copy.md",
     "__semantic-scripts__/_TOOLING.md",
@@ -257,13 +226,6 @@
     "_intel-core/intel-dashboard/apps/web/README.md",
     "_intel-core/intel-dashboard/apps/docs/README.md",
     "_intel-core/intel-dashboard/README.md",
-    "_intel-core/interface/nest/README.md",
-    "_intel-core/interface/rust/README.md",
-    "_intel-core/intel-agents/intel-asset-embedder/README.md",
-    "_intel-core/intel-agents/intel-asset-embedder/intel-asset-embedder/README.md",
-    "self/log_overall-318_840.md",
-    "self/log_overall-317_840 copy.md",
-    "self/log_overall-313_840.md",
-    "self/image.png"
+    "_intel-core/interface/nest/README.md"
   ]
 }
